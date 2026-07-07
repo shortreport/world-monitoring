@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07 05:22:25",
+  "generated_at": "2026-07-07 13:32:26",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-07 05:21:56",
+      "last_checked": "2026-07-07 13:31:56",
       "items": [
+        {
+          "uid": "12b940f24d0b",
+          "date": "2026-07-06",
+          "title": "EU should open state aid to cleantech manufacturing to meet electrification goals - transportenvironment.org",
+          "summary": "EUがクリーンテク製造業への国家支援を拡大すべきというのは、欧州産業加速法案（IAA）の文脈において、電動化目標を達成するために必要な施策であることを示唆している。IAAは戦略的産業の競争力強化を目的とした法案であり、クリーンテク製造への支援拡大はこの目標達成の重要な要素である。",
+          "source": "EU産業政策",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXRQME5TMjZQYm5oaWhCXzRTOFZfbjBRYTItaFpGc3BVWlJfUDFDUlpCMzYxcVEzUlJWdnM1T0ozdUt3VFY5c2ZLbDVmVkNzbldGTkplazlURTNOV1FyQi1yekdrOWxwX2k5VjQtMk1UZ0R5MlFVbW44dk15RXdtb1VsaEEyRlhYaE90ajlFR0RtVi1ibGVwVG9YU0xCeXZoNnh5OHZHOEZROWo1ZHAwV0ZtRmRXR1ptRlpTbm55TkJzUFRteXc?oc=5",
+          "added_at": "2026-07-07 13:31:55"
+        },
         {
           "uid": "680437c0daea",
           "date": "2026-07-06",
@@ -1749,8 +1759,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-07 05:22:06",
+      "last_checked": "2026-07-07 13:32:09",
       "items": [
+        {
+          "uid": "ca5085e5c357",
+          "date": "2026-04-15",
+          "title": "Lithium feedstock concerns over Nigeria port, security challenges - Benchmark Mineral Intelligence",
+          "summary": "ナイジェリアの港湾インフラの不安定性とセキュリティ上の課題により、米国がリチウムなどの重要鉱物の安定供給源としてナイジェリアへの依存を深める際のサプライチェーンリスクが増大し、S.4429で求められるサプライチェーン強化と安全保障上の要件を満たすことが困難になる可能性がある。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDJtelpKU3owTnFCOFFleFhCMWVUZmxQd0VKQXVoOVFQVVlJaVBaNnFuX3ljVndULUt1N3JZcUxhT2NzRDFkSGhlVEo2bEh0XzVqbGc3VGt0eEIwVHNpOEUyQXlZN0lvaFhHM1RtMUFMVkFZMUVfTDZhTkJMU3lPZldhbExMZ2stMmNDRWhING10SjZYQ1pBb0ZDekIyd2RUV25ZSi02T0FJbzVLUUE?oc=5",
+          "added_at": "2026-07-07 13:32:05"
+        },
+        {
+          "uid": "ad598ac254be",
+          "date": "2026-07-06",
+          "title": "Insignary Closes SBOM Accuracy Gap With Binary-Level Clarity for Regulatory Risk - Hackread",
+          "summary": "Insignary社がSBOM（ソフトウェア部品表）の精度を向上させるバイナリレベルの検証技術を提供することで、S.4429で求められる車両サイバーセキュリティ規制への対応リスクを低減している。この技術により、自動車メーカーはソフトウェアコンポーネントの透明性確保と規制遵守を強化できる。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMlNvNW5QOC1HdU9pQzFsMnUwMjNFZ19qeGlUQmdjUEtYVGdjbGswZ2hCbUFZSmZhek9zMnpxZ3oxT1hoMTdSM1VhYjZ1UkpvcFJVQmhwWHN5VTE2WVhvS0NJbGRSN2hfY2NRNVQyQTJ5M3Axend5dVV4YkFSS3FRSkxsNFBsRGJ3anIwMXdrODZrQWNjVTF6WGZJb2hhR1YtUlJjVw?oc=5",
+          "added_at": "2026-07-07 13:32:05"
+        },
         {
           "uid": "076afc073bea",
           "date": "2026-06-29",
@@ -3680,8 +3710,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-07 05:22:25",
+      "last_checked": "2026-07-07 13:32:26",
       "items": [
+        {
+          "uid": "536ac66812cb",
+          "date": "2026-05-18",
+          "title": "Rare earth truce? China agrees to ease US supply concerns after Beijing summit - Firstpost",
+          "summary": "中国がバイデン大統領との北京サミット後、米国のレアアース供給懸念を緩和することに合意し、両国間の輸出管理に関する緊張が緩和される見通しが示されました。この合意により、中国が戦略的に重要なレアアース要素の輸出制限を調整する可能性が高まっています。",
+          "source": "欧米要人発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak8wOUwxUUtSN1E4WUJXUmw2V2ZhNy1JR1hTbTFZZVhIWWlNUHVvUWFwTlJHNVpqeDJRUWVpYlQySWN2QVNmSGVlc091a0NUUmhfTlN3dzVNUnNMeUZpUVFzbHMxQ18zbDAtWlJ1U1M4cDdPRWRHZ2NZY2dVR2t3VDd1Tjc1OUdQWUcwRnRZQ2JORVRwamR5R1ozSzRnOGR3NDE5Wi1pdlFCeUxLd3BiY3g4bzHSAboBQVVfeXFMUEwtanAwWnh4YV9YdmE5VnUxclBVMkZwUU0xYXlTMlFrT1FaMG9ra0FqT1J3WTYyWE5JRXRaUDJWMnhkMDVjaDJ5NUJkcG9VU2JIRC16V0hyT1pVTTQ3TnVCODdxdkg5YzdHZFZVT3hyZGlWTHRJamY5Zm1Bclk2eGd5Y1ZNYkx3NnUzZ1hURjlPVW15QUd1dWVCeGphSHhYZXJKV0k5eGVHNzJvV0h5SWJLNkVYZ2d4UHFR?oc=5",
+          "added_at": "2026-07-07 13:32:25"
+        },
         {
           "uid": "a4da361dd59e",
           "date": "2026-07-06",
@@ -5670,16 +5710,6 @@
           "source": "米国政府",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85R1Rxa096czZxUGpuWjB0T0RCeWtvNzUwM2kxcHRhVXp4MjBJUXVIbC1vU2EtRGZ6c2MxQnVNamVJUHhpZU4yMVBqRUZ3YUgxNGVRT0pRSWYteGpFeW1mRlBuazdselRXZDdpaVY1NW0xS2hzSlUtb1p1VWhwdw?oc=5",
-          "added_at": "2026-06-19 22:04:29"
-        },
-        {
-          "uid": "d3228db67f37",
-          "date": "2026-04-27",
-          "title": "Rare Earth Export Restrictions One Year Later - CSIS | Center for Strategic and International Studies",
-          "summary": "申し訳ございませんが、提供していただいたタイトルのみで、実際の記事内容が含まれていないため、要約を作成することができません。記事の本文をご提供いただければ、中国のレアアース輸出管理に関する要約を作成させていただきます。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjl4RTQ4VXFxaVRuT2FrYUNlVE11dEJKVzdSTm51U3l3dG1jNGdHdWVXaVVVM0RBeTU4cGRJaWM5Zkk2NUlEal9oNTFyWURldURHTTg4UEg3TnNyZVpJbEVQUm5aSEI1TU9sRk9KV0NERG5ONkV3NlR4cTl3bWJ0OA?oc=5",
           "added_at": "2026-06-19 22:04:29"
         }
       ]
