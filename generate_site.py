@@ -1374,6 +1374,8 @@ def generate_mail():
 MAIL_V2_CSS = """
     :root { --primary:#16163e; --surface:#ffffff; --surface-2:#edeef1; --border:#d8dae0; --text:#1a1a2e; --text-sub:#6b6f7a; --accent:#0096c8; }
     .v2-wrap { max-width:1280px; margin:28px auto; padding:0 20px; display:grid; grid-template-columns:1fr 300px; gap:28px; align-items:start; }
+    .v2-left { position:sticky; top:112px; max-height:calc(100vh - 140px); overflow-y:auto; padding-right:4px; }
+    .v2-left::-webkit-scrollbar { width:5px; } .v2-left::-webkit-scrollbar-thumb { background:rgba(0,0,0,.18); border-radius:3px; }
     .v2-grid { display:flex; gap:14px; align-items:flex-start; }
     .v2-col  { flex:1; display:flex; flex-direction:column; gap:14px; }
     .v2-card { border-radius:4px; padding:14px 16px 12px; cursor:pointer; display:flex; flex-direction:column; gap:7px; box-shadow:2px 3px 8px rgba(0,0,0,.10),0 1px 2px rgba(0,0,0,.06); transition:transform .15s,box-shadow .15s; position:relative; }
@@ -1391,7 +1393,8 @@ MAIL_V2_CSS = """
     .v2-excerpt { font-size:11.5px; color:#3a3a50; line-height:1.6; border-top:1px solid rgba(0,0,0,.08); padding-top:7px; }
     .v2-dot     { position:absolute; top:8px; right:10px; font-size:18px; opacity:.9; }
     .v2-meta    { font-size:10.5px; color:var(--text-sub); border-top:1px solid rgba(0,0,0,.07); padding-top:6px; }
-    .v2-sidebar { position:sticky; top:112px; background:var(--surface); border:1px solid var(--border); border-radius:6px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,.07); }
+    .v2-sidebar { position:sticky; top:112px; max-height:calc(100vh - 140px); overflow-y:auto; background:var(--surface); border:1px solid var(--border); border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,.07); }
+    .v2-sidebar::-webkit-scrollbar { width:5px; } .v2-sidebar::-webkit-scrollbar-thumb { background:rgba(0,0,0,.18); border-radius:3px; }
     .v2-sb-head { background:#f5f6f8; border-bottom:1px solid var(--border); padding:12px 18px; }
     .v2-sb-ttl  { font-size:13px; font-weight:700; color:var(--primary); }
     .v2-sb-sub  { font-size:11px; color:var(--text-sub); margin-top:2px; }
@@ -1414,7 +1417,7 @@ MAIL_V2_CSS = """
     .v2-mc { background:rgba(255,255,255,.15); border:1px solid rgba(255,255,255,.3); color:#fff; border-radius:6px; padding:4px 12px; cursor:pointer; font-size:12px; }
     .v2-mc:hover { background:rgba(255,255,255,.28); }
     .v2-mf { flex:1; border:none; width:100%; }
-    @media(max-width:960px){ .v2-wrap{grid-template-columns:1fr;} .v2-sidebar{position:static;} }
+    @media(max-width:960px){ .v2-wrap{grid-template-columns:1fr;} .v2-left{position:static;max-height:none;overflow-y:visible;} .v2-sidebar{position:static;max-height:none;overflow-y:visible;} }
     @media(max-width:640px){ .v2-grid{flex-direction:column;} }
 """
 
@@ -1541,7 +1544,7 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closeModal()
 <body>
 {build_header_nav("intelligence", data_updated_at=upd_at)}
 <div class="v2-wrap">
-  <div>
+  <div class="v2-left">
     <div class="v2-grid">
       <div class="v2-col">{col1_html}</div>
       <div class="v2-col">{col2_html}</div>
