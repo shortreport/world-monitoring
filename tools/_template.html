@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>スタンプ貼り付けツール</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Meiryo','Segoe UI',sans-serif; background:#d8d8d8; display:flex; height:100vh; overflow:hidden; }
+
+#sidebar {
+  width:190px; min-width:190px; background:#fff;
+  display:flex; flex-direction:column; gap:10px;
+  padding:12px; border-right:1px solid #bbb; overflow-y:auto;
+}
+#sidebar h2 { font-size:13px; color:#333; }
+.sec-title { font-size:11px; font-weight:bold; color:#666; border-bottom:1px solid #eee; padding-bottom:3px; }
+
+.stamp-opt { display:flex; align-items:center; gap:8px; padding:5px 6px; border:2px solid transparent; border-radius:6px; cursor:pointer; }
+.stamp-opt:hover { background:#f0f4ff; }
+.stamp-opt.active { border-color:#0078d4; background:#e6f2ff; }
+.stamp-opt img { width:60px; height:auto; max-height:36px; object-fit:contain; }
+.stamp-opt span { font-size:12px; }
+
+.btn { width:100%; padding:8px; border:none; border-radius:4px; cursor:pointer; font-size:12px; font-weight:bold; }
+.btn-blue   { background:#0078d4; color:#fff; } .btn-blue:hover   { background:#005fa3; }
+.btn-green  { background:#107c10; color:#fff; } .btn-green:hover  { background:#0b5a0b; }
+.btn-orange { background:#e07020; color:#fff; } .btn-orange:hover { background:#bf5e18; }
+.btn-gray   { background:#888;    color:#fff; } .btn-gray:hover   { background:#666; }
+.btn:disabled { background:#ccc; color:#999; cursor:not-allowed; }
+#stamp-el.confirmed { border:2px solid #107c10; cursor:default; }
+
+.coord-row { display:flex; justify-content:space-between; font-size:11px; padding:2px 0; }
+.coord-row span:first-child { color:#777; }
+.coord-row span:last-child { font-weight:bold; color:#222; }
+
+#status { font-size:11px; color:#777; line-height:1.5; min-height:36px; }
+
+#main { flex:1; overflow:auto; padding:20px; display:flex; justify-content:center; align-items:flex-start; }
+#placeholder { text-align:center; color:#aaa; padding:80px 40px; font-size:14px; line-height:2; }
+
+#doc-wrap { position:relative; display:inline-block; }
+#stamp-layer { position:absolute; top:0; left:0; width:100%; overflow:visible; pointer-events:none; }
+
+#stamp-el {
+  position:absolute; display:none; cursor:move;
+  border:2px dashed #0078d4; pointer-events:all; user-select:none;
+}
+#stamp-el img { width:100%; height:100%; display:block; pointer-events:none; }
+.rh { position:absolute; width:10px; height:10px; background:#0078d4; border:2px solid #fff; border-radius:2px; }
+.rh-nw { top:-5px; left:-5px;  cursor:nw-resize; }
+.rh-ne { top:-5px; right:-5px; cursor:ne-resize; }
+.rh-sw { bottom:-5px; left:-5px;  cursor:sw-resize; }
+.rh-se { bottom:-5px; right:-5px; cursor:se-resize; }
+</style>
+</head>
+<body>
+
+<div id="sidebar">
+  <h2>スタンプ貼り付け</h2>
+
+  <div>
+    <button class="btn btn-blue" id="btn-open">📂 Wordファイルを開く</button>
+    <input type="file" id="file-input" accept=".docx" style="display:none">
+  </div>
+
+  <div>
+    <div class="sec-title">スタンプ選択</div>
+    <div id="stamp-list"></div>
+  </div>
+
+  <div>
+    <div class="sec-title">位置・サイズ（cm）</div>
+    <div class="coord-row"><span>左から</span><span id="val-x">-</span></div>
+    <div class="coord-row"><span>上から</span><span id="val-y">-</span></div>
+    <div class="coord-row"><span>幅</span><span id="val-w">-</span></div>
+    <div class="coord-row"><span>高さ</span><span id="val-h">-</span></div>
+  </div>
+
+  <div style="display:flex; gap:4px;">
+    <button class="btn btn-orange" id="btn-confirm" disabled style="flex:1">✅ 確定</button>
+    <button class="btn btn-gray"   id="btn-edit"    disabled style="flex:1">✏️ 訂正</button>
+  </div>
+
+  <div>
+    <button class="btn btn-green" id="btn-save" disabled>💾 名前を付けて保存</button>
+  </div>
+
+  <div id="status">Wordファイルを開いてください</div>
+
+  <div style="margin-top:auto; padding-top:10px; border-top:2px solid #e07020; font-size:13px; color:#c04000; line-height:1.6; font-weight:bold;">
+    ⚠️ ハンコの位置が少しづれます。ワードでの最終調整をお願いします。
+  </div>
+</div>
+
+<div id="main">
+  <div id="placeholder">📄 Wordファイルを開くと<br>ここに文書が表示されます<br><br><small>スタンプをドラッグ＆リサイズで<br>位置・大きさを調整してください</small></div>
+  <div id="doc-wrap" style="display:none">
+    <div id="docx-render"></div>
+    <div id="stamp-layer">
+      <div id="stamp-el">
+        <img id="stamp-img" src="" alt="stamp">
+        <div class="rh rh-nw" data-dir="nw"></div>
+        <div class="rh rh-ne" data-dir="ne"></div>
+        <div class="rh rh-sw" data-dir="sw"></div>
+        <div class="rh rh-se" data-dir="se"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+%%JSZIP%%
+%%DOCXPREVIEW%%
+<script>
+// ============================================================
+// スタンプ定義（ビルド時に埋め込み）
+// ============================================================
+%%STAMPS%%
+
+// ============================================================
+// 状態
+// ============================================================
+let docxData    = null;
+let selectedIdx = 0;
+let scale       = 1;
+let pageWidthCm = 21.0;
+let confirmed   = false;
+
+const stampEl = document.getElementById('stamp-el');
+
+// ============================================================
+// ユーティリティ
+// ============================================================
+function imgToPngBase64(src) {
+  return new Promise(resolve => {
+    const img = new Image();
+    img.onload = () => {
+      const canvas = document.createElement('canvas');
+      canvas.width = img.naturalWidth;
+      canvas.height = img.naturalHeight;
+      canvas.getContext('2d').drawImage(img, 0, 0);
+      resolve(canvas.toDataURL('image/png'));
+    };
+    img.src = src;
+  });
+}
+
+function b64ToBytes(b64) {
+  const bin = atob(b64);
+  const arr = new Uint8Array(bin.length);
+  for (let i = 0; i < bin.length; i++) arr[i] = bin.charCodeAt(i);
+  return arr;
+}
+
+// ============================================================
+// スタンプセレクター
+// ============================================================
+STAMPS.forEach((s, i) => {
+  const d = document.createElement('div');
+  d.className = 'stamp-opt' + (i === 0 ? ' active' : '');
+  const img = document.createElement('img');
+  img.src = s.src;
+  const span = document.createElement('span');
+  span.textContent = s.name;
+  d.appendChild(img);
+  d.appendChild(span);
+  d.onclick = () => {
+    selectedIdx = i;
+    document.querySelectorAll('.stamp-opt').forEach((el, j) => el.classList.toggle('active', i === j));
+    if (docxData) showStamp();
+  };
+  document.getElementById('stamp-list').appendChild(d);
+});
+
+// ============================================================
+// ファイルを開く
+// ============================================================
+document.getElementById('btn-open').onclick = () => document.getElementById('file-input').click();
+
+document.getElementById('file-input').onchange = async (e) => {
+  const file = e.target.files[0];
+  if (!file) return;
+  setStatus('読み込み中...');
+  docxData = new Uint8Array(await file.arrayBuffer());
+  await renderDoc(docxData);
+};
+
+// ============================================================
+// ドキュメントレンダリング
+// ============================================================
+async function renderDoc(data) {
+  const container = document.getElementById('docx-render');
+  container.innerHTML = '';
+  try {
+    await docx.renderAsync(data, container, null, {
+      className: 'docx-render', inWrapper: true,
+      ignoreWidth: false, breakPages: true,
+    });
+    try {
+      const zip = await JSZip.loadAsync(data);
+      const xml = await zip.file('word/document.xml').async('string');
+      const m = xml.match(/w:w="(\d+)"/);
+      if (m) pageWidthCm = parseInt(m[1]) / 1440 * 2.54;
+    } catch(e) {}
+
+    document.getElementById('placeholder').style.display = 'none';
+    document.getElementById('doc-wrap').style.display = 'inline-block';
+
+    calcScaleWithRetry(() => {
+      setStatus('スタンプを選択してください。');
+    });
+  } catch(err) { setStatus('読み込みエラー: ' + err.message); }
+}
+
+function calcScale() {
+  const sec = document.querySelector('section.docx-render');
+  if (!sec) return false;
+  const w = sec.getBoundingClientRect().width;
+  if (w < 10) return false;
+  scale = w / pageWidthCm;
+  return true;
+}
+
+function calcScaleWithRetry(cb, n) {
+  n = n || 0;
+  if (calcScale()) { cb(); return; }
+  if (n > 50) { scale = 96 / 2.54; cb(); return; }
+  setTimeout(() => calcScaleWithRetry(cb, n + 1), 100);
+}
+
+// ============================================================
+// スタンプ表示（縦横比を保持）
+// ============================================================
+function showStamp() {
+  confirmed = false;
+  stampEl.classList.remove('confirmed');
+  document.getElementById('btn-confirm').disabled = false;
+  document.getElementById('btn-edit').disabled    = true;
+  document.getElementById('btn-save').disabled    = true;
+
+  const src = STAMPS[selectedIdx].src;
+  const tmpImg = new Image();
+  tmpImg.onload = () => {
+    const aspect = tmpImg.naturalHeight / tmpImg.naturalWidth;
+    const mainR = document.getElementById('main').getBoundingClientRect();
+    const wrapR = document.getElementById('doc-wrap').getBoundingClientRect();
+    const startX = Math.max(0, (mainR.left + 20) - wrapR.left) + scale * 0.8;
+    const startY = Math.max(0, (mainR.top  + 20) - wrapR.top)  + scale * 0.8;
+    const w = 4.0 * 0.6 * scale;
+    const h = w * aspect;
+    document.getElementById('stamp-img').src = src;
+    stampEl.style.left   = startX + 'px';
+    stampEl.style.top    = startY + 'px';
+    stampEl.style.width  = w + 'px';
+    stampEl.style.height = h + 'px';
+    stampEl.style.display = 'block';
+    updateCoords();
+  };
+  tmpImg.src = src;
+}
+
+function updateCoords() {
+  document.getElementById('val-x').textContent = (parseFloat(stampEl.style.left)   / scale).toFixed(2);
+  document.getElementById('val-y').textContent = (parseFloat(stampEl.style.top)    / scale).toFixed(2);
+  document.getElementById('val-w').textContent = (parseFloat(stampEl.style.width)  / scale).toFixed(2);
+  document.getElementById('val-h').textContent = (parseFloat(stampEl.style.height) / scale).toFixed(2);
+}
+
+// ============================================================
+// ドラッグ & リサイズ
+// ============================================================
+let drag = null;
+
+stampEl.addEventListener('mousedown', (e) => {
+  if (e.target.dataset.dir || confirmed) return;
+  e.preventDefault();
+  drag = { type:'move', sx:e.clientX, sy:e.clientY,
+           ox:parseFloat(stampEl.style.left), oy:parseFloat(stampEl.style.top) };
+});
+
+document.querySelectorAll('.rh').forEach(h => {
+  h.addEventListener('mousedown', (e) => {
+    if (confirmed) return;
+    e.preventDefault(); e.stopPropagation();
+    drag = { type:'resize', dir:e.target.dataset.dir,
+             sx:e.clientX, sy:e.clientY,
+             ox:parseFloat(stampEl.style.left),  oy:parseFloat(stampEl.style.top),
+             ow:parseFloat(stampEl.style.width), oh:parseFloat(stampEl.style.height) };
+  });
+});
+
+document.addEventListener('mousemove', (e) => {
+  if (!drag) return;
+  const dx = e.clientX - drag.sx, dy = e.clientY - drag.sy;
+  if (drag.type === 'move') {
+    stampEl.style.left = Math.max(0, drag.ox + dx) + 'px';
+    stampEl.style.top  = Math.max(0, drag.oy + dy) + 'px';
+  } else {
+    const d = drag.dir;
+    let l=drag.ox, t=drag.oy, w=drag.ow, h=drag.oh;
+    if (d.includes('e')) w = Math.max(20, drag.ow+dx);
+    if (d.includes('s')) h = Math.max(20, drag.oh+dy);
+    if (d.includes('w')) { w = Math.max(20, drag.ow-dx); l = drag.ox+(drag.ow-w); }
+    if (d.includes('n')) { h = Math.max(20, drag.oh-dy); t = drag.oy+(drag.oh-h); }
+    stampEl.style.left=l+'px'; stampEl.style.top=t+'px';
+    stampEl.style.width=w+'px'; stampEl.style.height=h+'px';
+  }
+  updateCoords();
+});
+
+document.addEventListener('mouseup', () => { drag = null; });
+
+// ============================================================
+// 確定・訂正
+// ============================================================
+document.getElementById('btn-confirm').onclick = () => {
+  confirmed = true;
+  stampEl.classList.add('confirmed');
+  document.getElementById('btn-confirm').disabled = true;
+  document.getElementById('btn-edit').disabled    = false;
+  document.getElementById('btn-save').disabled    = false;
+  setStatus('確定しました。「保存」で完成、「訂正」で再調整できます。');
+};
+
+document.getElementById('btn-edit').onclick = () => {
+  confirmed = false;
+  stampEl.classList.remove('confirmed');
+  document.getElementById('btn-confirm').disabled = false;
+  document.getElementById('btn-edit').disabled    = true;
+  document.getElementById('btn-save').disabled    = true;
+  setStatus('スタンプを再調整してください。');
+};
+
+// ============================================================
+// 保存
+// ============================================================
+document.getElementById('btn-save').onclick = async () => {
+  if (!docxData) return;
+  setStatus('保存中...');
+  try {
+    const x = parseFloat(stampEl.style.left)   / scale;
+    const y = parseFloat(stampEl.style.top)    / scale;
+    const w = parseFloat(stampEl.style.width)  / scale;
+    const h = parseFloat(stampEl.style.height) / scale;
+    const result = await insertStamp(docxData, selectedIdx, x, y, w, h);
+    const blob = new Blob([result], { type:'application/vnd.openxmlformats-officedocument.wordprocessingml.document' });
+    const url  = URL.createObjectURL(blob);
+    const a    = document.createElement('a');
+    a.href = url; a.download = 'stamped.docx'; a.click();
+    URL.revokeObjectURL(url);
+    setStatus('保存しました。');
+  } catch(err) { setStatus('保存エラー: ' + err.message); console.error(err); }
+};
+
+// ============================================================
+// docxにスタンプを埋め込む（1ページ目）
+// ============================================================
+async function insertStamp(data, stampIdx, xCm, yCm, wCm, hCm) {
+  const zip = await JSZip.loadAsync(data);
+
+  const pngUrl   = await imgToPngBase64(STAMPS[stampIdx].src);
+  const pngBytes = b64ToBytes(pngUrl.split(',')[1]);
+  zip.file('word/media/stamp_img.png', pngBytes);
+
+  let ct = await zip.file('[Content_Types].xml').async('string');
+  if (!ct.includes('Extension="png"'))
+    ct = ct.replace('</Types>', '<Default Extension="png" ContentType="image/png"/></Types>');
+  zip.file('[Content_Types].xml', ct);
+
+  const rId = 'rId_stamp';
+  let rels  = await zip.file('word/_rels/document.xml.rels').async('string');
+  rels = rels.replace(/<Relationship[^>]*Id="rId_stamp"[^>]*\/>/g, '');
+  rels = rels.replace('</Relationships>',
+    '<Relationship Id="' + rId + '" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image" Target="media/stamp_img.png"/></Relationships>');
+  zip.file('word/_rels/document.xml.rels', rels);
+
+  const E = 360000;
+  const l = Math.round(xCm * E);
+  const t = Math.round(yCm * E);
+  const w = Math.round(wCm * E);
+  const h = Math.round(hCm * E);
+
+  const drawing =
+    '<w:drawing>' +
+    '<wp:anchor distT="0" distB="0" distL="0" distR="0" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1"' +
+    ' xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing">' +
+    '<wp:simplePos x="0" y="0"/>' +
+    '<wp:positionH relativeFrom="page"><wp:posOffset>' + l + '</wp:posOffset></wp:positionH>' +
+    '<wp:positionV relativeFrom="page"><wp:posOffset>' + t + '</wp:posOffset></wp:positionV>' +
+    '<wp:extent cx="' + w + '" cy="' + h + '"/>' +
+    '<wp:effectExtent l="0" t="0" r="0" b="0"/><wp:wrapNone/>' +
+    '<wp:docPr id="9901" name="StampImg"/>' +
+    '<wp:cNvGraphicFramePr><a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="0"/></wp:cNvGraphicFramePr>' +
+    '<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">' +
+    '<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">' +
+    '<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">' +
+    '<pic:nvPicPr><pic:cNvPr id="9902" name="stamp"/><pic:cNvPicPr/></pic:nvPicPr>' +
+    '<pic:blipFill><a:blip r:embed="' + rId + '" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"/>' +
+    '<a:stretch><a:fillRect/></a:stretch></pic:blipFill>' +
+    '<pic:spPr><a:xfrm><a:off x="0" y="0"/><a:ext cx="' + w + '" cy="' + h + '"/></a:xfrm>' +
+    '<a:prstGeom prst="rect"><a:avLst/></a:prstGeom></pic:spPr>' +
+    '</pic:pic></a:graphicData></a:graphic></wp:anchor></w:drawing>';
+
+  let xml = await zip.file('word/document.xml').async('string');
+  xml = xml.replace(/<w:p><w:r><w:drawing>[\s\S]*?name="StampImg"[\s\S]*?<\/w:drawing><\/w:r><\/w:p>/g, '');
+  xml = xml.replace('<w:body>', '<w:body><w:p><w:r>' + drawing + '</w:r></w:p>');
+
+  zip.file('word/document.xml', xml);
+  return await zip.generateAsync({ type:'uint8array', compression:'DEFLATE' });
+}
+
+function setStatus(msg) { document.getElementById('status').textContent = msg; }
+
+// タブアイコンをスタンプ画像に設定
+(function() {
+  const link = document.createElement('link');
+  link.rel = 'icon';
+  link.type = 'image/jpeg';
+  link.href = STAMPS[2].src;
+  document.head.appendChild(link);
+})();
+</script>
+</body>
+</html>

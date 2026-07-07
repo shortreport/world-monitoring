@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ホーム | World News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --primary:    #16163e;
+      --eco-red:    #C8141E;
+      --surface:    #ffffff;
+      --surface-2:  #f3f4f6;
+      --border:     #e2e4e9;
+      --text:       #1a1a2e;
+      --text-sub:   #5f6368;
+      --radius:     12px;
+      --accent:     #0096c8;
+      --card-bg:    #f0f8ff;
+    }
+
+    body {
+      font-family: 'Noto Sans JP', -apple-system, 'Hiragino Sans',
+                   'Yu Gothic UI', 'Meiryo', sans-serif;
+      background: var(--surface-2);
+      color: var(--text);
+      line-height: 1.65;
+      font-size: 14px;
+    }
+
+    /* ── Site Header ── */
+    .site-header {
+      background: var(--primary); color: #fff;
+      padding: 0 24px; height: 58px;
+      display: flex; align-items: center; gap: 16px;
+      position: sticky; top: 0; z-index: 300;
+      box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    }
+    .logo { font-size: 20px; font-weight: 700; letter-spacing: .5px; white-space: nowrap; }
+    .logo em { color: #5bc8f5; font-style: normal; }
+    .header-date { font-size: 12px; color: rgba(255,255,255,.5); white-space: nowrap; }
+    .header-spacer { flex: 1; }
+    .live-badge { background: #e63946; color: #fff; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; letter-spacing: 1px; }
+    .update-time { font-size: 11px; color: rgba(255,255,255,.4); white-space: nowrap; }
+    .force-update-btn {
+      display: inline-flex; align-items: center; gap: 4px;
+      background: rgba(255,255,255,.1); color: rgba(255,255,255,.65);
+      border: 1px solid rgba(255,255,255,.25); border-radius: 14px;
+      padding: 4px 11px; font-size: 11px; font-weight: 600;
+      cursor: pointer; white-space: nowrap; font-family: inherit;
+      transition: background .15s, color .15s, border-color .15s;
+    }
+    .force-update-btn:hover { background: rgba(255,255,255,.22); color: #fff; border-color: rgba(255,255,255,.5); }
+    .force-update-btn:disabled { opacity: .55; cursor: not-allowed; }
+
+    /* ── Page Navigation Tabs ── */
+    .page-nav {
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: 0 24px; display: flex; align-items: stretch;
+      position: sticky; top: 58px; z-index: 200;
+      box-shadow: 0 1px 4px rgba(0,0,0,.06);
+    }
+    .page-nav a {
+      display: flex; align-items: center; gap: 6px;
+      padding: 0 18px; height: 44px;
+      font-size: 14px; font-weight: 500; color: var(--text-sub);
+      text-decoration: none; border-bottom: 3px solid transparent;
+      white-space: nowrap; transition: color .15s, border-color .15s;
+    }
+    .page-nav a:hover { color: var(--text); }
+    .page-nav a.active { color: var(--primary); border-bottom-color: var(--primary); font-weight: 700; }
+    .page-nav a .nav-icon { font-size: 15px; }
+    .page-nav a:last-child { margin-left: auto; border-left: 1px solid var(--border); }
+
+    /* ── Section label ── */
+    .section-label {
+      font-size: 11px; font-weight: 700; color: var(--text-sub);
+      text-transform: uppercase; letter-spacing: 1.2px;
+      margin: 0 0 12px; padding-bottom: 8px; border-bottom: 2px solid var(--border);
+    }
+
+    /* ── Clickable bullet styles ── */
+    li.has-link { cursor: pointer; }
+    .bullet-link {
+      display: block;
+      color: inherit;
+      text-decoration: none;
+      position: relative;
+      padding-right: 4px;
+      transition: color .15s;
+    }
+    .bullet-link:hover { color: var(--accent); }
+    .src-tag {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--text-sub);
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1px 5px;
+      margin-left: 7px;
+      vertical-align: middle;
+      white-space: nowrap;
+      opacity: 0.55;
+      transition: opacity .15s, color .15s, background .15s, border-color .15s;
+    }
+    .bullet-link:hover .src-tag {
+      opacity: 1;
+      color: var(--accent);
+      background: #e8f4ff;
+      border-color: var(--accent);
+    }
+    /* FT (Financial Times) source highlight */
+    .src-tag-ft {
+      color: #c45000;
+      background: #fff3ea;
+      border-color: #e8925a;
+      opacity: 0.85;
+    }
+    .bullet-link:hover .src-tag-ft {
+      color: #a03800;
+      background: #ffe8d6;
+      border-color: #c45000;
+    }
+
+    /* ── Clickable card title ── */
+    .card-title-link {
+      color: inherit;
+      text-decoration: none;
+      transition: color .15s;
+    }
+    .card-title-link:hover { color: var(--accent); }
+    .card-title-link:hover::after {
+      content: " ↗";
+      font-size: 14px;
+      color: var(--accent);
+      opacity: .7;
+    }
+
+    /* ── Footer ── */
+    .site-footer {
+      text-align: center; padding: 24px;
+      font-size: 12px; color: var(--text-sub);
+      margin-top: 32px; border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 640px) {
+      .site-header { padding: 0 14px; gap: 10px; }
+      .page-nav { padding: 0 8px; }
+      .page-nav a { padding: 0 12px; font-size: 13px; }
+      .update-time { display: none; }
+      .force-update-btn { display: none; }
+    }
+
+
+    .cat-bar {
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: 10px 24px; display: flex; align-items: center; gap: 8px;
+      overflow-x: auto; -webkit-overflow-scrolling: touch;
+    }
+    .cat-bar::-webkit-scrollbar { display: none; }
+    .cat-all {
+      font-size: 13px; font-weight: 700; background: var(--primary); color: #fff;
+      border: none; padding: 6px 16px; border-radius: 20px; cursor: pointer; white-space: nowrap;
+    }
+    .cat-tab {
+      font-size: 13px; font-weight: 500; background: transparent;
+      padding: 5px 14px; border-radius: 20px; border: 1.5px solid;
+      cursor: pointer; white-space: nowrap; transition: all .15s;
+    }
+    .page-layout {
+      max-width: 1140px; margin: 24px auto; padding: 0 20px;
+      display: grid; grid-template-columns: 1fr 310px; gap: 24px; align-items: start;
+    }
+    .eco-sidebar { position: sticky; top: 110px; }
+    .news-card {
+      background: var(--surface); border-radius: var(--radius); padding: 18px 20px;
+      border: 1px solid var(--border); border-left: 4px solid var(--accent);
+      box-shadow: 0 1px 4px rgba(0,0,0,.06); transition: box-shadow .2s, transform .15s;
+    }
+    .news-card:hover { box-shadow: 0 6px 20px rgba(0,0,0,.11); transform: translateY(-1px); }
+    .news-card.featured {
+      background: var(--card-bg); border-left-width: 6px; padding: 24px 28px; margin-bottom: 20px;
+    }
+    .news-card.featured .card-title { font-size: 22px; }
+    .card-meta { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+    .cat-badge { font-size: 11px; font-weight: 700; color: #fff; padding: 3px 10px; border-radius: 12px; white-space: nowrap; }
+    .badge-sub { font-size: 12px; color: var(--text-sub); }
+    .card-title { font-size: 17px; font-weight: 700; line-height: 1.4; margin-bottom: 6px; }
+    .card-subtitle { font-size: 13px; color: var(--text-sub); line-height: 1.5; margin-bottom: 14px; }
+    .card-bullets { list-style: none; padding: 0; margin-bottom: 14px; }
+    .card-bullets li {
+      position: relative; padding-left: 16px;
+      font-size: 13px; color: #2a2a3a; margin-bottom: 7px; line-height: 1.55;
+    }
+    .card-bullets li::before { content: "●"; position: absolute; left: 0; color: var(--accent); font-size: 7px; top: 6px; }
+    .card-details > summary {
+      font-size: 12px; color: var(--accent); cursor: pointer; user-select: none;
+      font-weight: 500; list-style: none; display: flex; align-items: center; gap: 5px; padding: 4px 0;
+    }
+    .card-details > summary::before { content: "▶"; font-size: 8px; }
+    .card-details[open] > summary::before { content: "▼"; }
+    .details-inner { margin-top: 12px; display: flex; flex-direction: column; gap: 10px; }
+    .risk-box { padding: 10px 14px; border-radius: 8px; background: #fff0f2; border-left: 3px solid #c81e32; font-size: 12.5px; line-height: 1.65; }
+    .risk-box p { color: #921020; }
+    .ctx-box  { padding: 10px 14px; border-radius: 8px; background: #f0f4ff; border-left: 3px solid #4060c8; font-size: 12.5px; line-height: 1.65; }
+    .ctx-box  p { color: #2a3880; }
+    .box-label { display: block; font-size: 11px; font-weight: 700; margin-bottom: 5px; }
+    .risk-label { color: #c81e32; }
+    .ctx-label  { color: #4060c8; }
+    .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+    /* Economist sidebar */
+    .eco-card { background: var(--surface); border-radius: var(--radius); border: 1px solid #f0c8c8; overflow: hidden; box-shadow: 0 2px 8px rgba(200,20,30,.08); }
+    .eco-header { background: #C8141E; padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; }
+    .eco-logo-text { font-size: 15px; font-weight: 700; color: #fff; font-family: Georgia, serif; }
+    .eco-date { font-size: 11px; color: rgba(255,255,255,.7); }
+    .eco-cover { background: linear-gradient(135deg, #1a1a3e 0%, #8b0000 100%); height: 120px; display: flex; align-items: center; justify-content: center; }
+    .eco-cover-label { display: block; font-size: 13px; color: rgba(255,255,255,.7); font-weight: 700; font-family: Georgia, serif; text-align: center; }
+    .eco-cover-sub { display: block; font-size: 10px; color: rgba(255,255,255,.4); text-align: center; margin-top: 4px; }
+    .eco-section { padding: 12px 16px 8px; }
+    .eco-section-title { font-size: 13px; font-weight: 700; color: #C8141E; font-family: Georgia, serif; margin-bottom: 8px; display: flex; align-items: center; gap: 6px; }
+    .eco-dot { display: inline-block; width: 6px; height: 6px; background: #C8141E; border-radius: 50%; }
+    .eco-bullets { list-style: none; padding: 0; }
+    .eco-bullets li { font-size: 12px; color: #2a2a2a; padding: 5px 0 5px 14px; border-bottom: 1px solid #f5e8e8; line-height: 1.55; position: relative; }
+    .eco-bullets li:last-child { border-bottom: none; }
+    .eco-bullets li::before { content: "▸"; position: absolute; left: 0; top: 5px; color: #C8141E; font-size: 10px; }
+    .eco-divider { border: none; border-top: 1px solid #f0c8c8; margin: 0 16px; }
+    .eco-source-note { font-size: 10px; color: #aaa; padding: 8px 16px 12px; text-align: center; }
+    @media (max-width: 820px) { .page-layout { grid-template-columns: 1fr; } .eco-sidebar { position: static; order: -1; } }
+    @media (max-width: 640px) { .page-layout { padding: 0 12px; margin: 16px auto; } .cat-bar { padding: 8px 12px; } .news-card.featured { padding: 18px; } .news-card.featured .card-title { font-size: 18px; } }
+
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="logo" onclick="location.href='index.html'" style="cursor:pointer;" title="ホームへ">World<em>News</em></div>
+  <div class="header-date">2026年07月07日</div>
+  <div class="header-spacer"></div>
+  <div class="update-time">最終更新: 2026年07月07日 09:53 JST &nbsp;|&nbsp; 6時間ごと自動更新</div>
+  <button id="force-update-btn" class="force-update-btn" onclick="triggerSiteUpdate()" title="GitHub Actions ワークフローを起動してサイトを更新">🔄 今すぐ更新</button>
+  <div class="live-badge">LIVE</div>
+</header>
+<script>
+(function(){
+  function triggerSiteUpdate(){
+    var btn=document.getElementById('force-update-btn');
+    btn.textContent='⏳ 更新中…';
+    btn.disabled=true;
+    location.href=location.pathname+'?r='+Date.now();
+  }
+  if(location.search.startsWith('?r=')){
+    history.replaceState(null,'',location.pathname);
+  }
+  window.triggerSiteUpdate=triggerSiteUpdate;
+})();
+</script>
+<nav class="page-nav">
+  <a href="index.html" class="active"><span class="nav-icon">🏠</span>ホーム</a>
+  <a href="mail.html"><span class="nav-icon">📧</span>メール要約</a>
+  <a href="trump.html"><span class="nav-icon">🇺🇸</span>USトランプ</a>
+  <a href="theme.html"><span class="nav-icon">🔎</span>個別テーマ</a>
+  <a href="midterm.html"><span class="nav-icon">🗳️</span>米国中間選挙</a>
+  <a href="summary.html"><span class="nav-icon">📋</span>エグゼクティブ・サマリー</a>
+</nav>
+<nav class="cat-bar">
+  <button class="cat-all" data-filter="ALL">すべて</button>
+  <button class="cat-tab" data-filter="RED" style="border-color:#C81E32;color:#C81E32;">紛争・危機</button>
+  <button class="cat-tab" data-filter="ORG" style="border-color:#D26400;color:#D26400;">台湾・安保</button>
+  <button class="cat-tab" data-filter="CYAN" style="border-color:#0096C8;color:#0096C8;">外交・日米</button>
+  <button class="cat-tab" data-filter="GRN" style="border-color:#00A046;color:#00A046;">産業・技術</button>
+</nav>
+<div class="page-layout">
+  <div class="news-main">
+    <p class="section-label" style="margin-top:8px;">トップストーリー</p>
+<article class="news-card featured" data-color="RED" style="--accent:#C81E32; --card-bg:#FFF0F2;">
+  <div class="card-meta">
+    <span class="cat-badge" style="background:#C81E32;">紛争・危機</span>
+    <span class="badge-sub">① 米イラン和平</span>
+  </div>
+  <h2 class="card-title"><a href="https://news.google.com/search?q=US%20Iran%20ceasefire%20memorandum%20Khamenei%20funeral%202026&amp;hl=en&amp;gl=US&amp;ceid=US:en" target="_blank" rel="noopener noreferrer" class="card-title-link">米イラン停戦覚書署名</a></h2>
+  <p class="card-subtitle">ハメネイ師葬儀開催、後継体制の動き注視</p>
+  <ul class="card-bullets">
+    <li class="has-link"><a href="http://www3.nhk.or.jp/news/html/20260706/k10015169901000.html" target="_blank" rel="noopener noreferrer" class="bullet-link">米国とイランが停戦覚書に署名、中東紛争が大きく転換<span class="src-tag">NHK ↗</span></a></li>
+    <li class="has-link"><a href="http://www3.nhk.or.jp/news/html/20260706/k10015169571000.html" target="_blank" rel="noopener noreferrer" class="bullet-link">イラン前最高指導者ハメネイ師の葬儀が5日から9日まで開催中<span class="src-tag">NHK ↗</span></a></li>
+    <li class="has-link"><a href="http://www3.nhk.or.jp/news/html/20260706/k10015169531000.html" target="_blank" rel="noopener noreferrer" class="bullet-link">後継者モジタバ・ハメネイ師の公開活動未確認、権力移行に不透明性<span class="src-tag">NHK ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxPM2xFb3FhVnN3R29EZFU2YUlyTzlfVTVhUVJ1ZkRQb2xGaHF1LWVfZ2REeFNJUWJXY2Jtcko2SnVyNzdrN0c2bnlPdDY4UXoyS2NGMlpPRWw1ZmhIdkVCTC03SUplY09ZemlZa3Z3SnAwYXlGbnZPUFdpQkxtbUhGbmkzdGlRdnRPcDdVMkM4RVdnUVN0SzIyLVgyOVFocmt2SllxQVN2RF9SYlp3RTgzQUpwZjY4eTN5TXI3dExMLUtBT1lsVngxMFFaQ2dqcUpTMmJkckxSMlREWUFzQl85cEVqOEltVjczc2pWbEoxN0dVTHc3U1lN?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">サウジアラビアなどOPECプラス7ヶ国が8月に日量18万バレル増産決定<span class="src-tag">MSN ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE00TldORFloYmdNYTVjTkc0UGxsN0d4elZUd3lVbXRsV2cyODBRRFBGMHF3bEUxUm1ha2ZSamNRWG5CZHRGU09ab1V3cldOWE1DamUyTy0tbW5UZUh5YXR1TXJBQnN3bWI4SXZnRQ?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">原油先物価格が値下がり傾向、エネルギー市場に大きな影響<span class="src-tag">日経 ↗</span></a></li>
+  </ul>
+  <details class="card-details" open>
+    <summary>リスク・背景を見る</summary>
+    <div class="details-inner"><div class="risk-box"><span class="box-label risk-label">▲ リスク</span><p>後継指導部の権力確立が不安定な場合、合意履行に支障が生じる可能性。今後数週間の権力移行過程が重要。イスラエルとの緊張再燃リスクも存在</p></div><div class="ctx-box"><span class="box-label ctx-label">◆ 背景</span><p>米国とイランの長年の対立が転機を迎え、中東地域の地政学的構造が大きく変わりつつある段階。ハメネイ師の急逝により後継体制の安定性が国際社会の焦点</p></div></div>
+  </details>
+</article>
+    <p class="section-label">主要ニュース</p>
+    <div class="news-grid" id="news-grid">
+<article class="news-card" data-color="ORG" style="--accent:#D26400; --card-bg:#FFF4EC;">
+  <div class="card-meta">
+    <span class="cat-badge" style="background:#D26400;">台湾・安保</span>
+    <span class="badge-sub">② 米中台湾関係</span>
+  </div>
+  <h2 class="card-title"><a href="https://news.google.com/search?q=Taiwan%20US%20China%20relations%20Trump%20truce%20breakdown&amp;hl=en&amp;gl=US&amp;ceid=US:en" target="_blank" rel="noopener noreferrer" class="card-title-link">台湾情勢の緊張化</a></h2>
+  <p class="card-subtitle">トランプ政権との取引、中国の多面的圧力</p>
+  <ul class="card-bullets">
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBXczdWX3NrYkhOcWlqc1hyMlo4MnZMRFc1bEswemh0Y2ZoQmtJMzE3SnZMWFg3RzR0c1lsVXh4cEo3WmpiLVY3anlyN0dQeFlzSW13bDNmMjJfRTA1WDlXWXFXWENZNDhLNEgyMm8wMTZqcXdkSnhHd0dtYTI1SXM?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">米国のトランプ政権と中国との取引において台湾問題が引き金になる可能性を指摘<span class="src-tag">dominotheory.com ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWRmZ3ZMVjVDZXQ3T3F6UWtEcWR0bzNHajZ4ZXgzZ0d4bUlIREhwbEZOQkliTTRQVVVISTl1NWJDYkEyLWgtNE1IdE9XTW9CY3o0MzZQaVpWNVRzRm9tYXNmcUVkMUVkR0pqOEstZEpseHlPVzNwOHhzaGVYVTAzOEpKRE01YXNBaGx5RUNUaGcwLTZ4X0dz?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">台湾総統ライが日本とフィリピンが中国の次の標的になると警告<span class="src-tag">ThinkChina ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWRmZ3ZMVjVDZXQ3T3F6UWtEcWR0bzNHajZ4ZXgzZ0d4bUlIREhwbEZOQkliTTRQVVVISTl1NWJDYkEyLWgtNE1IdE9XTW9CY3o0MzZQaVpWNVRzRm9tYXNmcUVkMUVkR0pqOEstZEpseHlPVzNwOHhzaGVYVTAzOEpKRE01YXNBaGx5RUNUaGcwLTZ4X0dz?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">中国の海上パトロールと法的手段による台湾への『全面的な圧力』を強化<span class="src-tag">ThinkChina ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBXczdWX3NrYkhOcWlqc1hyMlo4MnZMRFc1bEswemh0Y2ZoQmtJMzE3SnZMWFg3RzR0c1lsVXh4cEo3WmpiLVY3anlyN0dQeFlzSW13bDNmMjJfRTA1WDlXWXFXWENZNDhLNEgyMm8wMTZqcXdkSnhHd0dtYTI1SXM?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">米国民主党指導部が対中政策でのいかなる譲歩も拒否を表明<span class="src-tag">dominotheory.com ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVdJOGFaT0FNVGlZRDRlVHVicGxsRWt1b0dXdmRDeTI0WDNwRTYzZjNCV0tPaEswcVkzXzRuMzREV1VrUDRjQjdMOUdEN2g3dEo1TjVoUldrdWpwejJueEJpNlhLRS1rYUlELUp1dUxCLTFSNjBrTElpVm5BRWg2bkwtams5MjQ?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">米台間の租税協定締結が二国間関係の重要課題として急浮上<span class="src-tag">ThinkChina ↗</span></a></li>
+  </ul>
+  <details class="card-details">
+    <summary>リスク・背景を見る</summary>
+    <div class="details-inner"><div class="risk-box"><span class="box-label risk-label">▲ リスク</span><p>台湾問題が米中間の取引の対象になった場合、軍事紛争に発展する可能性。中国による『多方面の圧力作戦』が今後数ヶ月継続予定。日本やフィリピンへの拡大圧力も懸念</p></div><div class="ctx-box"><span class="box-label ctx-label">◆ 背景</span><p>米国の政権交代に伴い米中関係の再構築が進む中、台湾の地政学的重要性が二国間交渉の焦点に。中国は複数の政策手段を駆使して台湾への包囲を強化中</p></div></div>
+  </details>
+</article>
+<article class="news-card" data-color="CYAN" style="--accent:#0096C8; --card-bg:#F0F8FF;">
+  <div class="card-meta">
+    <span class="cat-badge" style="background:#0096C8;">外交・日米</span>
+    <span class="badge-sub">③ 日本防衛力強化</span>
+  </div>
+  <h2 class="card-title"><a href="https://news.google.com/search?q=Japan%20defense%20overhaul%20Indo-Pacific%20strategy%20fast-track&amp;hl=en&amp;gl=US&amp;ceid=US:en" target="_blank" rel="noopener noreferrer" class="card-title-link">日本防衛体制の急速転換</a></h2>
+  <p class="card-subtitle">防衛構想の全面改革、安倍氏の遺産継承</p>
+  <ul class="card-bullets">
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPNGd6eTVRSnYwenVoZVp2ODNvSlp3eVBxRUwzbDdGSUY2ODNhcW1mQ0VUeUJLaFNXY1BSdi02cjJ2VVZJRVZ5MjdoSUxoYzcxNWRXMDV6TldtLVluQ2xtMVA4bkFNTTVGYldNRzhZX24zQXNYUHlBTFJVZk9hNEFJRkJYQUZXeUctbnBuNEFxd25JdE13SG5OR0JTRXA?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">日本が防衛体制の抜本的改革を急速に進めている状況を報道<span class="src-tag">Hudson Institute ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxONm1DNlpMSjlyWjcyNEQ3bGNrQVl2UnJWMENEN1dmcWxYTjdVMkJzUFZPMGRFOHRYWW9RZEt2a2Utb19ySzRBZGg5aVF1TWxBV2VqQ2Z0R3RqQzZIZlIxVFh4Y24xejhyNDhhRlQ1RTRBcUtfT0RuekF5X1pMeE9EcDY1QmNVUQ?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">安倍晋三氏のインド太平洋戦略が米国との関係構築の基盤として重要性強化<span class="src-tag">ThinkChina ↗</span></a></li>
+    <li class="has-link"><a href="http://www3.nhk.or.jp/news/html/20260706/k10015170131000.html" target="_blank" rel="noopener noreferrer" class="bullet-link">茂木外相がNATOのルッテ事務総長と会合予定、対中牽制の外交展開<span class="src-tag">NHK ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPNGd6eTVRSnYwenVoZVp2ODNvSlp3eVBxRUwzbDdGSUY2ODNhcW1mQ0VUeUJLaFNXY1BSdi02cjJ2VVZJRVZ5MjdoSUxoYzcxNWRXMDV6TldtLVluQ2xtMVA4bkFNTTVGYldNRzhZX24zQXNYUHlBTFJVZk9hNEFJRkJYQUZXeUctbnBuNEFxd25JdE13SG5OR0JTRXA?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">日米韓3ヶ国の外相会談開催、多国間安全保障の連携強化<span class="src-tag">Hudson Institute ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPNGd6eTVRSnYwenVoZVp2ODNvSlp3eVBxRUwzbDdGSUY2ODNhcW1mQ0VUeUJLaFNXY1BSdi02cjJ2VVZJRVZ5MjdoSUxoYzcxNWRXMDV6TldtLVluQ2xtMVA4bkFNTTVGYldNRzhZX24zQXNYUHlBTFJVZk9hNEFJRkJYQUZXeUctbnBuNEFxd25JdE13SG5OR0JTRXA?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">中国の海上活動拡大に対応した軍事的な能力強化<span class="src-tag">Hudson Institute ↗</span></a></li>
+  </ul>
+  <details class="card-details">
+    <summary>リスク・背景を見る</summary>
+    <div class="details-inner"><div class="risk-box"><span class="box-label risk-label">▲ リスク</span><p>防衛力強化が中国による報復的な軍事挑発を招く可能性。今後3～6ヶ月の対中軍事的対抗措置の激化に注意。台湾周辺での紛争リスク上昇</p></div><div class="ctx-box"><span class="box-label ctx-label">◆ 背景</span><p>米国がインド太平洋での中国の影響力拡大に対抗するため、日本の防衛力強化を促進。安倍政権時代の戦略的遺産が現政権でも継続・加速されている</p></div></div>
+  </details>
+</article>
+<article class="news-card" data-color="ORG" style="--accent:#D26400; --card-bg:#FFF4EC;">
+  <div class="card-meta">
+    <span class="cat-badge" style="background:#D26400;">台湾・安保</span>
+    <span class="badge-sub">④ 産経記者暴力事件</span>
+  </div>
+  <h2 class="card-title"><a href="https://news.google.com/search?q=Y%E6%9D%BF%20Yaitai%20Sankei%20reporter%20Taiwan%20violence%20Chinese%20assault&amp;hl=en&amp;gl=US&amp;ceid=US:en" target="_blank" rel="noopener noreferrer" class="card-title-link">台湾での中国籍男による暴力</a></h2>
+  <p class="card-subtitle">外交官暴力、越境弾圧に該当と台湾外交部</p>
+  <ul class="card-bullets">
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFByd0NreTdWMFA5TnhZSm50dWpiSmNEVjA3Nms2OXF2VVlNZkU1T1V2cUFUbmQyMGV5V1J0cHhVb2dOVm5qNDVMUUVIYkl6QktDVVpSQ3phS1FaaWFVc2REcVF4WTFzTGhLdmlSMGdUZFRPaGFpckE?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">産経新聞元記者・矢板氏が台湾で中国籍の男に殴られ負傷する事件が発生<span class="src-tag">産経 ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFByd0NreTdWMFA5TnhZSm50dWpiSmNEVjA3Nms2OXF2VVlNZkU1T1V2cUFUbmQyMGV5V1J0cHhVb2dOVm5qNDVMUUVIYkl6QktDVVpSQ3phS1FaaWFVc2REcVF4WTFzTGhLdmlSMGdUZFRPaGFpckE?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">台湾外交部が『越境弾圧行為』として事件を非難<span class="src-tag">産経 ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFByd0NreTdWMFA5TnhZSm50dWpiSmNEVjA3Nms2OXF2VVlNZkU1T1V2cUFUbmQyMGV5V1J0cHhVb2dOVm5qNDVMUUVIYkl6QktDVVpSQ3phS1FaaWFVc2REcVF4WTFzTGhLdmlSMGdUZFRPaGFpckE?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">政治的な表現活動や報道活動への直接的な物理的弾圧を示唆<span class="src-tag">産経 ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFByd0NreTdWMFA5TnhZSm50dWpiSmNEVjA3Nms2OXF2VVlNZkU1T1V2cUFUbmQyMGV5V1J0cHhVb2dOVm5qNDVMUUVIYkl6QktDVVpSQ3phS1FaaWFVc2REcVF4WTFzTGhLdmlSMGdUZFRPaGFpckE?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">日台関係における安全保障面での懸念が新たに浮上<span class="src-tag">産経 ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFByd0NreTdWMFA5TnhZSm50dWpiSmNEVjA3Nms2OXF2VVlNZkU1T1V2cUFUbmQyMGV5V1J0cHhVb2dOVm5qNDVMUUVIYkl6QktDVVpSQ3phS1FaaWFVc2REcVF4WTFzTGhLdmlSMGdUZFRPaGFpckE?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">中国による台湾内での工作活動の可能性を示唆<span class="src-tag">産経 ↗</span></a></li>
+  </ul>
+  <details class="card-details">
+    <summary>リスク・背景を見る</summary>
+    <div class="details-inner"><div class="risk-box"><span class="box-label risk-label">▲ リスク</span><p>台湾内での政治的暴力事件が頻発する場合、台湾の民主主義体制への脅威となる。中国による工作員の派遣活動の証拠となり得る。今後の類似事件発生の可能性</p></div><div class="ctx-box"><span class="box-label ctx-label">◆ 背景</span><p>中国による台湾への多角的な圧力戦略の一環として、台湾内の親中勢力や工作員による直接行動が増加傾向。言論・報道の自由への脅威が顕在化</p></div></div>
+  </details>
+</article>
+<article class="news-card" data-color="GRN" style="--accent:#00A046; --card-bg:#F0FFF6;">
+  <div class="card-meta">
+    <span class="cat-badge" style="background:#00A046;">産業・技術</span>
+    <span class="badge-sub">⑤ 自動車産業EV転換</span>
+  </div>
+  <h2 class="card-title"><a href="https://news.google.com/search?q=Toyota%20Honda%20China%20EV%20sales%20decline%20Japanese%20manufacturers&amp;hl=en&amp;gl=US&amp;ceid=US:en" target="_blank" rel="noopener noreferrer" class="card-title-link">自動車業界EV化の急速進展</a></h2>
+  <p class="card-subtitle">日本メーカー中国市場での販売減、補助金活用</p>
+  <ul class="card-bullets">
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9TYmxUWEx1VXdFWkRXUDM3TjA1eDBWVkNuV1JGakJPZldEd0VoZEhGUU1sQmR1Y3JVbEtlQjJoZUFaVEc4LVg2bF9UTUN6Q2hENnNQOVB1aTRwbjlvTVJoenJXaWo2cTZsREg4UGtHUFBLb1ZWOU9MaXlDNGJEY1U?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">ホンダN-BOXが1～6月で5年連続首位、唯一10万台超え達成<span class="src-tag">日経 ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzdpYnZ5ejBBLVhpWWUzaE51RFJyLXAwb0VjNmtrLS1ZR2QwWkdlbm1PVGxpRnU3czlLVTdQakUyVU4zN2VpM0ZOYnBsUEFPRFpVcjlMSDFyTnZWLWJtczRpdmpoSkE0ZnBGTnJ2NG9aOXRlbWM2WlVsaFo4dzFpYkRxcUl1Q3gtTlVLZXVQUXkxeXBJWHJYSkJDRER6UXVUYXlPeWV6clllazJlT21mRGlyaE5HZ2dCQ3lzNGVLZkVjVk5CWlZZOA?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">トヨタとホンダが中国市場で1～6月の販売台数が前年比減少、消費者がEVへ急速シフト<span class="src-tag">Nikkei Asia ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQUFRHNVBycWc2V2pqNzB2YkEwUzR5SG5IdlAxQi0yQUotM1R0RmNQQnI0NS1JVmZYUEYza3JGaGUzTDl5Zlp0VFNVN3p5QTRCN0hVTXBlaUJNQ0hmTXpQOGVZWWFQcEdVb3ZEdl9FenRvR1dZTnkxeVNHbTlic1p4eHZoeE5EOXozNHZ6LWloWjdMelA1MEtvUkttWTVfSWdHdmY1UnBnN3F6TzF3RUxBeE5Wbw?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">日産のEVサクラが国と東京都の補助金で実質56万円で購入可能、中古車と価格が逆転<span class="src-tag">Nikkei Asia ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9ocFFFczViRkdtQ3ltd01MT3dJS1VFZ3pjSHl1UDhRUG5sNzJaQU1jTVV3MXlqai02NVZ4bHd1T25MekVOVERMbEFHcmx2RVp0Sm41RUZBTWVLSTVuNHk0VjZSMDk3WTdzMWc4cA?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">日産がシャンハイのFormula Eレースに参戦、中国でのEV推進を強化<span class="src-tag">日経 ↗</span></a></li>
+    <li class="has-link"><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9rMW56S0xYWWtPT1hQbERJelROTmZaM0VlOE5LeWQ5VFBybWwwSWhCdmZXVjJ4UEhveXJGWkJTbERmdHNmNEdIZF80SlpkbWRycVByalQ0TFRoSVk2aDl6ODFNWC1MdV9mcWlCeA?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">フィリピンではVinFastが市場トップ、BYDの販売データなし<span class="src-tag">日経 ↗</span></a></li>
+  </ul>
+  <details class="card-details">
+    <summary>リスク・背景を見る</summary>
+    <div class="details-inner"><div class="risk-box"><span class="box-label risk-label">▲ リスク</span><p>日本メーカーの中国市場での競争力低下が加速。EV補助金が市場扭曲を引き起こし、長期的な産業競争力に影響。中国BYDとの技術格差拡大の懸念</p></div><div class="ctx-box"><span class="box-label ctx-label">◆ 背景</span><p>世界的なEV転換潮流の中で、中国メーカーが急速に市場シェアを拡大。日本メーカーは従来型自動車の販売減少に直面しながらEVシフトへの対応を急速に進行中</p></div></div>
+  </details>
+</article>
+    </div>
+  </div>
+<aside class="eco-sidebar">
+  <div class="eco-card">
+    <div class="eco-header">
+      <span class="eco-logo-text">The Economist</span>
+      <span class="eco-date">2026年07月07日</span>
+    </div>
+    <div class="eco-cover" style="height:160px;overflow:hidden;padding:0;">
+      <img src="data/economist_cover.jpg" alt="The Economist cover" style="width:100%;height:100%;object-fit:cover;display:block;">
+    </div>
+    <div class="eco-section">
+      <h3 class="eco-section-title"><span class="eco-dot"></span>The World in Brief</h3>
+      <ul class="eco-bullets">
+    <li>トランプ大統領がFIFAに米国選手バログンの退場取り消しを「検討」するよう求めたことを認め、次ラウンド出場許可への影響を否定。UEFAは判定を「正当化できない」と非難。</li>
+    <li>マイクロソフトが世界従業員の約2%に相当する4,800人の削減を発表。ゲーム機部門が最大の打撃で2027年末までに約5分の1が減員。</li>
+    <li>中国海軍が太平洋へ弾道ミサイルを発射し、南太平洋非核地帯に落下。オーストラリアと日本を含む各国が批判。</li>
+    <li>キューバの全国電力網が崩壊。米国の制裁と燃料ブロケードにより停電が頻繁化。</li>
+    <li>英国がノビチョク開発に関わるロシア個人7名と研究機関2施設に制裁発動。同時に英ファイタージェットがロシア哨戒機を迎撃。</li>
+    <li>イージージェットがキャスルレークの55億ポンド買収提案を原則受け入れ。前回提案額の4億9億ポンドから上昇。</li>
+    <li>トランプ大統領がメローニ伊首相との写真に「接近禁止令が必要」とキャプション付けで投稿。両首脳間の外交摩擦が再燃の可能性。</li>
+      </ul>
+    </div>
+    <hr class="eco-divider">
+    <div class="eco-section">
+      <h3 class="eco-section-title"><span class="eco-dot"></span>The day ahead</h3>
+      <ul class="eco-bullets">
+    <li>NATOはアンカラでの首脳会談でトランプ氏との関係悪化を避けるため、防衛支出増加と武器生産強化の進展、ウクライナ支援の再確認を示す予定。</li>
+    <li>トランプ氏は欧州駐留軍削減、イラン戦争での同盟国の「忠誠不足」への怒り、グリーンランド領有野心、ロシア寄りの姿勢など複数の懸念要因を抱えており、同盟の結束維持が課題。</li>
+    <li>サムスン電子は子会社のAI向けメモリチップ需要の好調により営業利益55億ドルを見込み、同社とSK Hynixが韓国南西部のチップ製造ハブ化に500億ドル超の投資で合意。</li>
+    <li>マリーヌ・ルペン仏国民連合党首は控訴裁判所が公職出馬禁止判決の維持か短縮を決定し、禁止の場合は副官のバルデラ氏が大統領選出馬予定。</li>
+    <li>ハイチではモイーズ前大統領の暗殺から5年経つも状況の改善は限定的で、ギャング勢力の支配と暴力が続いており、8月予定の10年ぶりの選挙実現が課題。</li>
+      </ul>
+    </div>
+    <p class="eco-source-note">Outlook の Economist フォルダーから自動取得・Claude 要約 / 2026-07-07 09:32 JST</p>
+  </div>
+</aside>
+</div>
+
+<footer class="site-footer">
+  ソース: NHK・産経・日経・CNBC・FT・BBC・NYT・Reuters・Al Jazeera ほか &nbsp;|&nbsp; The Economist &nbsp;|&nbsp; White House RSS &nbsp;|&nbsp; Truth Social<br>
+  最終更新: 2026年07月07日 09:53 JST &nbsp;|&nbsp;
+  ☁️ ホーム・USトランプ: 6時間ごと自動更新 &nbsp;|&nbsp;
+  🖥️ メール・The Economist: 毎朝6:30更新（PC）<br>
+  <button onclick="triggerSiteUpdate()" style="background:none;border:none;color:var(--accent);font-size:11px;cursor:pointer;padding:0;font-family:inherit;">🔄 今すぐ更新（GitHub Actions）</button>
+  &nbsp;|&nbsp; World News
+</footer>
+<script>
+(function(){
+  const cards = document.querySelectorAll('.news-card');
+  const btns  = document.querySelectorAll('[data-filter]');
+  btns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const f = btn.dataset.filter;
+      btns.forEach(b => {
+        b.classList.remove('active');
+        if (b.dataset.filter !== 'ALL') { b.style.background = 'transparent'; b.style.color = b.dataset.oc; }
+      });
+      btn.classList.add('active');
+      if (f !== 'ALL') { btn.style.background = btn.dataset.oc; btn.style.color = '#fff'; }
+      cards.forEach(c => { c.style.display = (f === 'ALL' || c.dataset.color === f) ? '' : 'none'; });
+    });
+  });
+  btns.forEach(b => { if (b.dataset.filter !== 'ALL') b.dataset.oc = b.style.color; });
+})();
+</script>
+</body></html>

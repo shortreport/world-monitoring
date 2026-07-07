@@ -1,0 +1,61 @@
+[OK] home_latest.json から 5 件読み込み（2026-05-27 10:22 JST）
+[OK] economist_latest.json から Economist データ読み込み（2026-05-27 10:22 JST）
+[OK] Home             -> index.html
+[OK] mail_latest.json から 4 送信者読み込み（2026-05-26 14:43 JST）
+[OK] Mail Summary     -> mail.html
+[OK] Trump Monitor    -> trump.html
+[OK] 個別テーマ            -> theme.html
+
+    Open: file:///C:/Users/shondo/Desktop/agent_project/docs/index.html
+
+    Link behavior:
+    - Card title    -> Google News search (new tab)
+    - Bullet [SRC^] -> Original source URL (new tab)
+    - Trump titles  -> WH/TruthSocial/YouTube (new tab)
+[main 6979b1b] Home update: 2026-05-27 10:22 JST
+ 5 files changed, 38 insertions(+), 38 deletions(-)
+To https://github.com/shortreport/world-monitoring.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/shortreport/world-monitoring.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+============================================================
+update_home.py  2026-05-27 10:22 JST
+  モード: ニュース + Economist
+============================================================
+
+[サーバー起動]
+  :5001 はすでに起動中
+  :5002 はすでに起動中
+
+[ニュース収集] サーバーから記事を取得中...
+  5001: リフレッシュ中（30〜60秒かかります）...
+  5001: リフレッシュ完了
+  5001: 30 件取得
+  5002: リフレッシュ中（30〜60秒かかります）...
+  5002: リフレッシュ完了
+  5002: 84 件取得
+  Claude で5大事象を分析・選定中...
+  [OK] home_latest.json に 5 件保存 (C:\Users\shondo\Desktop\agent_project\docs\data\home_latest.json)
+
+[Economist] Outlook に接続中...
+  件名: The World in Brief: Iran condemns American strikes  受信: 2026-05-27 06:06  未読: True
+  HTML 解析中...
+  Today's top stories を要約中 (Claude)...
+  The day ahead を要約中 (Claude)...
+  カバー画像をダウンロード中...
+  [OK] 画像保存: economist_cover.jpg (194 KB)
+  未読メールを既読に変更
+  [OK] economist_latest.json に保存 (top: 7 件, day: 7 件)
+
+[サーバー] 起動したまま継続（make_news_video2.py でも使用可能）
+
+[サイト生成]
+
+[Git Push]
+  [WARN] push 失敗。git push を手動で実行してください。
+
+[完了]

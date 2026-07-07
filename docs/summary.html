@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>エグゼクティブ・サマリー | World News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --primary: #16163e; --surface: #ffffff; --surface-2: #f3f4f6;
+      --border: #e2e4e9; --text: #1a1a2e; --text-sub: #5f6368;
+      --radius: 12px; --accent: #0096c8;
+    }
+    body { font-family: 'Noto Sans JP', -apple-system, 'Hiragino Sans', 'Yu Gothic UI', sans-serif;
+            background: var(--surface-2); color: var(--text); line-height: 1.65; font-size: 14px; }
+    .site-header { background: var(--primary); color: #fff; padding: 0 24px; height: 58px;
+                    display: flex; align-items: center; gap: 16px;
+                    position: sticky; top: 0; z-index: 300; box-shadow: 0 2px 8px rgba(0,0,0,.25); }
+    .logo { font-size: 20px; font-weight: 700; letter-spacing: .5px; white-space: nowrap; }
+    .logo em { color: #5bc8f5; font-style: normal; }
+    .header-date { font-size: 12px; color: rgba(255,255,255,.5); white-space: nowrap; }
+    .header-spacer { flex: 1; }
+    .live-badge { background: #e63946; color: #fff; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; letter-spacing: 1px; }
+    .update-time { font-size: 11px; color: rgba(255,255,255,.4); white-space: nowrap; }
+    .force-update-btn { display: inline-flex; align-items: center; gap: 4px; background: rgba(255,255,255,.1);
+      color: rgba(255,255,255,.65); border: 1px solid rgba(255,255,255,.25); border-radius: 14px;
+      padding: 4px 11px; font-size: 11px; font-weight: 600; cursor: pointer; white-space: nowrap;
+      font-family: inherit; transition: background .15s, color .15s, border-color .15s; }
+    .force-update-btn:hover { background: rgba(255,255,255,.22); color: #fff; border-color: rgba(255,255,255,.5); }
+    .force-update-btn:disabled { opacity: .55; cursor: not-allowed; }
+    .page-nav { background: var(--surface); border-bottom: 1px solid var(--border);
+                 padding: 0 24px; display: flex; align-items: stretch;
+                 position: sticky; top: 58px; z-index: 200; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
+    .page-nav a { display: flex; align-items: center; gap: 6px; padding: 0 18px; height: 44px;
+                   font-size: 14px; font-weight: 500; color: var(--text-sub);
+                   text-decoration: none; border-bottom: 3px solid transparent;
+                   white-space: nowrap; transition: color .15s, border-color .15s; }
+    .page-nav a:hover { color: var(--text); }
+    .page-nav a.active { color: var(--primary); border-bottom-color: var(--primary); font-weight: 700; }
+    .page-nav a .nav-icon { font-size: 15px; }
+    .page-nav a:last-child { margin-left: auto; border-left: 1px solid var(--border); }
+    .site-footer { text-align: center; padding: 24px; font-size: 12px; color: var(--text-sub);
+                    margin-top: 32px; border-top: 1px solid var(--border); }
+    @media (max-width: 640px) {
+      .site-header { padding: 0 14px; gap: 10px; }
+      .page-nav { padding: 0 8px; }
+      .page-nav a { padding: 0 12px; font-size: 13px; }
+      .update-time { display: none; }
+      .force-update-btn { display: none; }
+    }
+    .summary-wrap { max-width: 900px; margin: 24px auto; padding: 0 20px; }
+    .pdf-toolbar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+    .pdf-label { font-size: 13px; font-weight: 700; color: var(--text-sub); letter-spacing: .5px; }
+    .pdf-download-btn { display: inline-flex; align-items: center; gap: 5px;
+      background: var(--primary); color: #fff; border-radius: 20px; padding: 6px 18px;
+      font-size: 12px; font-weight: 700; text-decoration: none; transition: opacity .15s; }
+    .pdf-download-btn:hover { opacity: .82; }
+    .pdf-frame { width: 100%; height: calc(100vh - 160px); min-height: 600px;
+                  border: 1px solid var(--border); border-radius: var(--radius); background: #fff; }
+    .archive-section { margin-top: 28px; background: var(--surface); border-radius: var(--radius);
+                         border: 1px solid var(--border); padding: 16px 22px; }
+    .arch-label { font-size: 11px; font-weight: 700; color: var(--text-sub);
+                   text-transform: uppercase; letter-spacing: 1.2px;
+                   margin-bottom: 12px; padding-bottom: 8px; border-bottom: 2px solid var(--border); }
+    .arch-list { list-style: none; padding: 0; }
+    .arch-list li { padding: 7px 0; border-bottom: 1px solid var(--border); }
+    .arch-list li:last-child { border-bottom: none; }
+    .arch-link { color: var(--text-sub); text-decoration: none; font-size: 13px;
+                  display: flex; align-items: center; gap: 8px; transition: color .15s; }
+    .arch-link:hover { color: var(--accent); }
+    @media (max-width: 640px) {
+      .summary-wrap { padding: 0 12px; margin: 16px auto; }
+      .pdf-frame { height: 70vh; min-height: 400px; }
+    }
+  </style>
+</head>
+<body>
+<header class="site-header">
+  <div class="logo" onclick="location.href='index.html'" style="cursor:pointer;" title="ホームへ">World<em>News</em></div>
+  <div class="header-date">2026年07月07日</div>
+  <div class="header-spacer"></div>
+  <div class="update-time">最終更新: 2026年07月07日 08:00 JST &nbsp;|&nbsp; 毎朝8:00自動更新</div>
+  <button id="force-update-btn" class="force-update-btn" onclick="triggerSiteUpdate()" title="GitHub Actions ワークフローを起動してサイトを更新">🔄 今すぐ更新</button>
+  <div class="live-badge">LIVE</div>
+</header>
+<script>
+(function(){
+  function triggerSiteUpdate(){
+    var btn=document.getElementById('force-update-btn');
+    btn.textContent='⏳ 更新中…'; btn.disabled=true;
+    location.href=location.pathname+'?r='+Date.now();
+  }
+  if(location.search.startsWith('?r=')) history.replaceState(null,'',location.pathname);
+  window.triggerSiteUpdate=triggerSiteUpdate;
+})();
+</script>
+<nav class="page-nav">
+  <a href="index.html"><span class="nav-icon">🏠</span>ホーム</a>
+  <a href="mail.html"><span class="nav-icon">📧</span>メール要約</a>
+  <a href="trump.html"><span class="nav-icon">🇺🇸</span>USトランプ</a>
+  <a href="theme.html"><span class="nav-icon">🔎</span>個別テーマ</a>
+  <a href="summary.html" class="active"><span class="nav-icon">📋</span>エグゼクティブ・サマリー</a>
+</nav>
+<div class="summary-wrap">
+  <div class="pdf-toolbar">
+    <span class="pdf-label">エグゼクティブ・ブリーフィング &nbsp;2026年07月07日</span>
+    <a href="briefing_latest.pdf" download class="pdf-download-btn">⬇ ダウンロード</a>
+  </div>
+  <iframe src="briefing_latest.pdf" class="pdf-frame" title="エグゼクティブ・ブリーフィング"></iframe>
+
+  <div class="archive-section">
+    <p class="arch-label">過去のレポート</p>
+    <ul class="arch-list">
+    <li><a href="data/briefings/briefing_20260707.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年7月7日</a></li>
+    <li><a href="data/briefings/briefing_20260706.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年7月6日</a></li>
+    <li><a href="data/briefings/briefing_20260702.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年7月2日</a></li>
+    <li><a href="data/briefings/briefing_20260701.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年7月1日</a></li>
+    <li><a href="data/briefings/briefing_20260630.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月30日</a></li>
+    <li><a href="data/briefings/briefing_20260629.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月29日</a></li>
+    <li><a href="data/briefings/briefing_20260628.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月28日</a></li>
+    <li><a href="data/briefings/briefing_20260626.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月26日</a></li>
+    <li><a href="data/briefings/briefing_20260625.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月25日</a></li>
+    <li><a href="data/briefings/briefing_20260624.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月24日</a></li>
+    <li><a href="data/briefings/briefing_20260623.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月23日</a></li>
+    <li><a href="data/briefings/briefing_20260622.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月22日</a></li>
+    <li><a href="data/briefings/briefing_20260620.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月20日</a></li>
+    <li><a href="data/briefings/briefing_20260619.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月19日</a></li>
+    <li><a href="data/briefings/briefing_20260618.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月18日</a></li>
+    <li><a href="data/briefings/briefing_20260617.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月17日</a></li>
+    <li><a href="data/briefings/briefing_20260616.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月16日</a></li>
+    <li><a href="data/briefings/briefing_20260615.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月15日</a></li>
+    <li><a href="data/briefings/briefing_20260614.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月14日</a></li>
+    <li><a href="data/briefings/briefing_20260613.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月13日</a></li>
+    <li><a href="data/briefings/briefing_20260612.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月12日</a></li>
+    <li><a href="data/briefings/briefing_20260611.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月11日</a></li>
+    <li><a href="data/briefings/briefing_20260610.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月10日</a></li>
+    <li><a href="data/briefings/briefing_20260609.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月9日</a></li>
+    <li><a href="data/briefings/briefing_20260608.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月8日</a></li>
+    <li><a href="data/briefings/briefing_20260607.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月7日</a></li>
+    <li><a href="data/briefings/briefing_20260606.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月6日</a></li>
+    <li><a href="data/briefings/briefing_20260605.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月5日</a></li>
+    <li><a href="data/briefings/briefing_20260604.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月4日</a></li>
+    <li><a href="data/briefings/briefing_20260603.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月3日</a></li>
+    <li><a href="data/briefings/briefing_20260602.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月2日</a></li>
+    <li><a href="data/briefings/briefing_20260601.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年6月1日</a></li>
+    <li><a href="data/briefings/briefing_20260531.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年5月31日</a></li>
+    <li><a href="data/briefings/briefing_20260530.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年5月30日</a></li>
+    <li><a href="data/briefings/briefing_20260529.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年5月29日</a></li>
+    <li><a href="data/briefings/briefing_20260528.pdf" download class="arch-link">📄 エグゼクティブ・ブリーフィング　2026年5月28日</a></li>
+    </ul>
+  </div>
+</div>
+<footer class="site-footer">
+  ソース: NHK・産経・日経・CNBC・FT・BBC・NYT・Reuters・Al Jazeera ほか &nbsp;|&nbsp; The Economist &nbsp;|&nbsp; White House RSS &nbsp;|&nbsp; Truth Social<br>
+  最終更新: 2026年07月07日 08:00 JST &nbsp;|&nbsp;
+  ☁️ ホーム・USトランプ: 6時間ごと自動更新 &nbsp;|&nbsp;
+  🖥️ エグゼクティブ・サマリー: 毎朝8:00更新（PC）<br>
+  <button onclick="triggerSiteUpdate()" style="background:none;border:none;color:var(--accent);font-size:11px;cursor:pointer;padding:0;font-family:inherit;">🔄 今すぐ更新（GitHub Actions）</button>
+  &nbsp;|&nbsp; World News
+</footer>
+</body></html>

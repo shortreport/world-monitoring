@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>メール要約 | World News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --primary:    #16163e;
+      --eco-red:    #C8141E;
+      --surface:    #ffffff;
+      --surface-2:  #f3f4f6;
+      --border:     #e2e4e9;
+      --text:       #1a1a2e;
+      --text-sub:   #5f6368;
+      --radius:     12px;
+      --accent:     #0096c8;
+      --card-bg:    #f0f8ff;
+    }
+
+    body {
+      font-family: 'Noto Sans JP', -apple-system, 'Hiragino Sans',
+                   'Yu Gothic UI', 'Meiryo', sans-serif;
+      background: var(--surface-2);
+      color: var(--text);
+      line-height: 1.65;
+      font-size: 14px;
+    }
+
+    /* ── Site Header ── */
+    .site-header {
+      background: var(--primary); color: #fff;
+      padding: 0 24px; height: 58px;
+      display: flex; align-items: center; gap: 16px;
+      position: sticky; top: 0; z-index: 300;
+      box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    }
+    .logo { font-size: 20px; font-weight: 700; letter-spacing: .5px; white-space: nowrap; }
+    .logo em { color: #5bc8f5; font-style: normal; }
+    .header-date { font-size: 12px; color: rgba(255,255,255,.5); white-space: nowrap; }
+    .header-spacer { flex: 1; }
+    .live-badge { background: #e63946; color: #fff; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; letter-spacing: 1px; }
+    .update-time { font-size: 11px; color: rgba(255,255,255,.4); white-space: nowrap; }
+    .force-update-btn {
+      display: inline-flex; align-items: center; gap: 4px;
+      background: rgba(255,255,255,.1); color: rgba(255,255,255,.65);
+      border: 1px solid rgba(255,255,255,.25); border-radius: 14px;
+      padding: 4px 11px; font-size: 11px; font-weight: 600;
+      cursor: pointer; white-space: nowrap; font-family: inherit;
+      transition: background .15s, color .15s, border-color .15s;
+    }
+    .force-update-btn:hover { background: rgba(255,255,255,.22); color: #fff; border-color: rgba(255,255,255,.5); }
+    .force-update-btn:disabled { opacity: .55; cursor: not-allowed; }
+
+    /* ── Page Navigation Tabs ── */
+    .page-nav {
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: 0 24px; display: flex; align-items: stretch;
+      position: sticky; top: 58px; z-index: 200;
+      box-shadow: 0 1px 4px rgba(0,0,0,.06);
+    }
+    .page-nav a {
+      display: flex; align-items: center; gap: 6px;
+      padding: 0 18px; height: 44px;
+      font-size: 14px; font-weight: 500; color: var(--text-sub);
+      text-decoration: none; border-bottom: 3px solid transparent;
+      white-space: nowrap; transition: color .15s, border-color .15s;
+    }
+    .page-nav a:hover { color: var(--text); }
+    .page-nav a.active { color: var(--primary); border-bottom-color: var(--primary); font-weight: 700; }
+    .page-nav a .nav-icon { font-size: 15px; }
+    .page-nav a:last-child { margin-left: auto; border-left: 1px solid var(--border); }
+
+    /* ── Section label ── */
+    .section-label {
+      font-size: 11px; font-weight: 700; color: var(--text-sub);
+      text-transform: uppercase; letter-spacing: 1.2px;
+      margin: 0 0 12px; padding-bottom: 8px; border-bottom: 2px solid var(--border);
+    }
+
+    /* ── Clickable bullet styles ── */
+    li.has-link { cursor: pointer; }
+    .bullet-link {
+      display: block;
+      color: inherit;
+      text-decoration: none;
+      position: relative;
+      padding-right: 4px;
+      transition: color .15s;
+    }
+    .bullet-link:hover { color: var(--accent); }
+    .src-tag {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--text-sub);
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1px 5px;
+      margin-left: 7px;
+      vertical-align: middle;
+      white-space: nowrap;
+      opacity: 0.55;
+      transition: opacity .15s, color .15s, background .15s, border-color .15s;
+    }
+    .bullet-link:hover .src-tag {
+      opacity: 1;
+      color: var(--accent);
+      background: #e8f4ff;
+      border-color: var(--accent);
+    }
+    /* FT (Financial Times) source highlight */
+    .src-tag-ft {
+      color: #c45000;
+      background: #fff3ea;
+      border-color: #e8925a;
+      opacity: 0.85;
+    }
+    .bullet-link:hover .src-tag-ft {
+      color: #a03800;
+      background: #ffe8d6;
+      border-color: #c45000;
+    }
+
+    /* ── Clickable card title ── */
+    .card-title-link {
+      color: inherit;
+      text-decoration: none;
+      transition: color .15s;
+    }
+    .card-title-link:hover { color: var(--accent); }
+    .card-title-link:hover::after {
+      content: " ↗";
+      font-size: 14px;
+      color: var(--accent);
+      opacity: .7;
+    }
+
+    /* ── Footer ── */
+    .site-footer {
+      text-align: center; padding: 24px;
+      font-size: 12px; color: var(--text-sub);
+      margin-top: 32px; border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 640px) {
+      .site-header { padding: 0 14px; gap: 10px; }
+      .page-nav { padding: 0 8px; }
+      .page-nav a { padding: 0 12px; font-size: 13px; }
+      .update-time { display: none; }
+      .force-update-btn { display: none; }
+    }
+
+
+    .mail-wrap { max-width: 980px; margin: 24px auto; padding: 0 20px; }
+    .mail-stats { display: flex; gap: 20px; flex-wrap: wrap; background: var(--surface); border-radius: var(--radius); border: 1px solid var(--border); padding: 14px 20px; margin-bottom: 20px; font-size: 13px; }
+    .stat-item { display: flex; align-items: center; gap: 6px; }
+    .stat-num  { font-size: 20px; font-weight: 700; color: var(--primary); }
+    .stat-lbl  { color: var(--text-sub); font-size: 12px; }
+    .mail-card { background: var(--surface); border-radius: var(--radius); border: 1px solid var(--border); border-left: 5px solid var(--accent); box-shadow: 0 1px 4px rgba(0,0,0,.06); margin-bottom: 16px; overflow: hidden; transition: box-shadow .2s; }
+    .mail-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,.1); }
+    .mail-card-header { padding: 14px 20px 10px; display: flex; align-items: center; gap: 14px; border-bottom: 1px solid var(--border); }
+    .sender-avatar { width: 44px; height: 44px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 700; color: #fff; flex-shrink: 0; }
+    .sender-name { font-size: 16px; font-weight: 700; }
+    .sender-meta { font-size: 12px; color: var(--text-sub); margin-top: 2px; }
+    .mail-count-badge { font-size: 12px; font-weight: 600; color: #fff; padding: 3px 10px; border-radius: 12px; }
+    .mail-card-body { display: grid; grid-template-columns: 1fr 280px; }
+    .mail-summary { padding: 14px 20px; border-right: 1px solid var(--border); }
+    .summary-title { font-size: 11px; font-weight: 700; color: var(--text-sub); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; }
+    .summary-bullets { list-style: none; padding: 0; }
+    .summary-bullets li { position: relative; padding-left: 18px; font-size: 13px; color: #2a2a3a; margin-bottom: 9px; line-height: 1.6; }
+    .summary-bullets li::before { content: "・"; position: absolute; left: 0; color: var(--accent); font-weight: 700; }
+    .mail-list { padding: 14px 16px; background: #fafafa; }
+    .mail-list-title { font-size: 11px; font-weight: 700; color: var(--text-sub); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; }
+    .mail-item { padding: 6px 0; border-bottom: 1px solid #eee; }
+    .mail-item:last-child { border-bottom: none; }
+    .mail-item-date { font-size: 11px; color: var(--text-sub); margin-bottom: 2px; }
+    .mail-item-subject { font-size: 12.5px; color: var(--text); line-height: 1.4; }
+    @media (max-width: 700px) { .mail-card-body { grid-template-columns: 1fr; } .mail-summary { border-right: none; border-bottom: 1px solid var(--border); } .mail-wrap { padding: 0 12px; } }
+    /* ── PDF モーダル ── */
+    .mail-pdf-modal { display: none; position: fixed; inset: 0; z-index: 999; background: rgba(0,0,0,.65); align-items: center; justify-content: center; }
+    .mail-pdf-modal-box { background: #fff; border-radius: 12px; overflow: hidden; width: 90vw; max-width: 920px; height: 88vh; display: flex; flex-direction: column; box-shadow: 0 12px 48px rgba(0,0,0,.4); animation: mailModalIn .18s ease; }
+    @keyframes mailModalIn { from { transform: scale(.93); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+    .mail-pdf-modal-header { display: flex; align-items: center; gap: 12px; padding: 10px 18px; background: var(--primary); color: #fff; flex-shrink: 0; }
+    .mail-pdf-modal-title { font-size: 13px; font-weight: 600; flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .mail-pdf-modal-close { background: rgba(255,255,255,.15); border: 1px solid rgba(255,255,255,.3); color: #fff; border-radius: 6px; padding: 4px 12px; cursor: pointer; font-size: 12px; flex-shrink: 0; }
+    .mail-pdf-modal-close:hover { background: rgba(255,255,255,.28); }
+    .mail-pdf-frame { flex: 1; border: none; width: 100%; }
+    .mail-pdf-list-modal { flex: 1; overflow-y: auto; padding: 20px; }
+    .mail-pdf-list-item { padding: 11px 16px; border-radius: 8px; border: 1px solid var(--border); margin-bottom: 10px; cursor: pointer; font-size: 13px; transition: background .15s, border-color .15s; display: flex; align-items: center; gap: 10px; }
+    .mail-pdf-list-item:hover { background: #e8f4ff; border-color: var(--accent); color: var(--accent); }
+    .pdf-list-icon { font-size: 18px; flex-shrink: 0; }
+    .pdf-badge { display: inline-block; font-size: 9px; font-weight: 700; background: var(--accent); color: #fff; border-radius: 3px; padding: 1px 4px; margin-left: 5px; vertical-align: middle; }
+    .mail-pdf-item { cursor: pointer; transition: background .12s; }
+    .mail-pdf-item:hover { background: #e8f4ff; }
+    .mail-pdf-list-trigger { cursor: pointer; }
+    .mail-pdf-list-trigger:hover { color: var(--accent); }
+
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="logo" onclick="location.href='index.html'" style="cursor:pointer;" title="ホームへ">World<em>News</em></div>
+  <div class="header-date">2026年07月07日</div>
+  <div class="header-spacer"></div>
+  <div class="update-time">データ更新: 2026-07-06 07:01 JST &nbsp;|&nbsp; 毎朝6:30更新（PC）</div>
+  <button id="force-update-btn" class="force-update-btn" onclick="triggerSiteUpdate()" title="GitHub Actions ワークフローを起動してサイトを更新">🔄 今すぐ更新</button>
+  <div class="live-badge">LIVE</div>
+</header>
+<script>
+(function(){
+  function triggerSiteUpdate(){
+    var btn=document.getElementById('force-update-btn');
+    btn.textContent='⏳ 更新中…';
+    btn.disabled=true;
+    location.href=location.pathname+'?r='+Date.now();
+  }
+  if(location.search.startsWith('?r=')){
+    history.replaceState(null,'',location.pathname);
+  }
+  window.triggerSiteUpdate=triggerSiteUpdate;
+})();
+</script>
+<nav class="page-nav">
+  <a href="index.html"><span class="nav-icon">🏠</span>ホーム</a>
+  <a href="mail.html" class="active"><span class="nav-icon">📧</span>メール要約</a>
+  <a href="trump.html"><span class="nav-icon">🇺🇸</span>USトランプ</a>
+  <a href="theme.html"><span class="nav-icon">🔎</span>個別テーマ</a>
+  <a href="midterm.html"><span class="nav-icon">🗳️</span>米国中間選挙</a>
+  <a href="summary.html"><span class="nav-icon">📋</span>エグゼクティブ・サマリー</a>
+</nav>
+<div class="mail-wrap">
+  <p class="section-label" style="margin-top:8px;">メール要約 &nbsp;—&nbsp; データ更新: 2026-07-06 07:01 JST</p>
+  <div class="mail-stats">
+    <div class="stat-item"><span class="stat-num">5</span><span class="stat-lbl">送信者</span></div>
+    <div class="stat-item"><span class="stat-num">16</span><span class="stat-lbl">受信メール</span></div>
+    <div class="stat-item" style="margin-left:auto;color:var(--text-sub);font-size:12px;">
+      📂 outlook_to_pdf.py + mail_slides.py から自動生成<br>
+      <span style="opacity:.6;">毎朝 7:00（PC）実行 — データ更新: 2026-07-06 07:01 JST</span>
+    </div>
+  </div>
+<div class="mail-card" style="--accent:#0096C8;">
+  <div class="mail-card-header">
+    <div class="sender-avatar" style="background:#0096C8;">EG</div>
+    <div style="flex:1;">
+      <div class="sender-name">EG</div>
+      <div class="sender-meta">外交・日米 &nbsp;|&nbsp; 最新: 2026-07-03</div>
+    </div>
+    <div class="mail-count-badge" style="background:#0096C8;">受信 2 件</div>
+  </div>
+  <div class="mail-card-body">
+    <div class="mail-summary">
+      <div class="summary-title mail-pdf-list-trigger" data-pdfs='["data/pdfs/20260703_1110_EG_Energy_and_Environment_Outlook__UK_power_market.pdf", "data/pdfs/20260703_1313_EG_Research_Summary_in_Japanese__2026%E5%B9%B47%E6%9C%883%E6%97%A5.pdf"]' data-sender="EG" title="クリックでPDF一覧表示">Claude 要約 <span class="pdf-badge">PDF</span></div>
+      <ul class="summary-bullets">
+        <li>英国の電力価格上昇は天然ガスの限界費用設定役と限定的なシステム柔軟性が主因で、BESS導入と送電網インフラ拡充が必要</li>
+        <li>労働党政府のクリーン電力アジェンダと送電網拡張により2030年までのガス限界費用設定頻度低下が見込まれるが、価格メカニズム変更は限定的に</li>
+        <li>英国のBESS容量は過去10年間で10メガワットから7ギガワットへ増加も、83ギガワットの接続待ちがあり2030年代のガス火力段階的廃止に向け不十分</li>
+        <li>再生可能エネルギーは経済競争力があるが、送電網接続に時間を要し、接続待ちキューが必要容量の約4倍</li>
+        <li>米国がカナダ、メキシコと個別2国間協定締結の動きで自動車セクターへの影響が懸念される</li>
+        <li>責任投資がESG適合からの争点シフトで、国家や市場の資金提供活動の優先順位を巡る再定義が進行</li>
+        <li>ウクライナ燃料不足深刻化の中、プーチン大統領は限定的エスカレーション選択の可能性が高い状況</li>
+        <li>欧州がAI技術で米国に依存し、技術主権と米欧同盟による保証を並行追求</li>
+        <li>インドネシアがフィリピンに先駆けてCTPP加盟確実にし、地域大型貿易協定加盟をリード</li>
+      </ul>
+    </div>
+    <div class="mail-list">
+      <div class="mail-list-title mail-pdf-list-trigger" data-pdfs='["data/pdfs/20260703_1110_EG_Energy_and_Environment_Outlook__UK_power_market.pdf", "data/pdfs/20260703_1313_EG_Research_Summary_in_Japanese__2026%E5%B9%B47%E6%9C%883%E6%97%A5.pdf"]' data-sender="EG" title="クリックでPDF一覧表示">受信メール一覧 <span class="pdf-badge">PDF</span></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260703_1110_EG_Energy_and_Environment_Outlook__UK_power_market.pdf" data-title="EG Energy and Environment Outlook: UK power market reform" title="クリックでPDF表示"><div class="mail-item-date">2026-07-03</div><div class="mail-item-subject">EG Energy and Environment Outlook: UK power market reform <span class="pdf-badge">PDF</span></div></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260703_1313_EG_Research_Summary_in_Japanese__2026%E5%B9%B47%E6%9C%883%E6%97%A5.pdf" data-title="EG Research Summary in Japanese: 2026年7月3日" title="クリックでPDF表示"><div class="mail-item-date">2026-07-03</div><div class="mail-item-subject">EG Research Summary in Japanese: 2026年7月3日 <span class="pdf-badge">PDF</span></div></div>
+    </div>
+  </div>
+</div>
+<div class="mail-card" style="--accent:#B48200;">
+  <div class="mail-card-header">
+    <div class="sender-avatar" style="background:#B48200;">EURAS</div>
+    <div style="flex:1;">
+      <div class="sender-name">Eurasia</div>
+      <div class="sender-meta">米中・貿易 &nbsp;|&nbsp; 最新: 2026-07-03</div>
+    </div>
+    <div class="mail-count-badge" style="background:#B48200;">受信 3 件</div>
+  </div>
+  <div class="mail-card-body">
+    <div class="mail-summary">
+      <div class="summary-title mail-pdf-list-trigger" data-pdfs='["data/pdfs/20260703_0735_Research_Summary_for_Jul_2%2C_2026.pdf", "data/pdfs/20260703_2111_EG_Top_10_Most_Read_For_Week_Ending_Jul_3%2C_2026.pdf", "data/pdfs/20260704_0736_Research_Summary_for_Jul_3%2C_2026.pdf"]' data-sender="Eurasia" title="クリックでPDF一覧表示">Claude 要約 <span class="pdf-badge">PDF</span></div>
+      <ul class="summary-bullets">
+        <li>EU競争力スコアカードによる進捗追跡と主要経済国間での方針一致に基づく重要分野での進展</li>
+        <li>中国の重要鉱物以外の支配力強化と報復手段の洗練、ブラジルでの政治動向の変化、米国の二国間取引推進に伴う自動車産業への影響</li>
+        <li>ホルムズ海峡再開とアメリカ・イラン協議継続による2026年石油市場の供給過剰化とブレント油価格の安定、ロシアによる過度なエスカレーション回避の可能性</li>
+        <li>英国の電力価格高騰の主因がガスの限界価格設定機能にあり産業競争力を損なっている状況と、蓄電池拡大・送電網投資・価格制度改革による対策</li>
+        <li>Labour政府の脱炭素電力政策による2030年までのガスの限界価格設定者役割の縮小目指し</li>
+      </ul>
+    </div>
+    <div class="mail-list">
+      <div class="mail-list-title mail-pdf-list-trigger" data-pdfs='["data/pdfs/20260703_0735_Research_Summary_for_Jul_2%2C_2026.pdf", "data/pdfs/20260703_2111_EG_Top_10_Most_Read_For_Week_Ending_Jul_3%2C_2026.pdf", "data/pdfs/20260704_0736_Research_Summary_for_Jul_3%2C_2026.pdf"]' data-sender="Eurasia" title="クリックでPDF一覧表示">受信メール一覧 <span class="pdf-badge">PDF</span></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260703_0735_Research_Summary_for_Jul_2%2C_2026.pdf" data-title="Research Summary for Jul 2, 2026" title="クリックでPDF表示"><div class="mail-item-date">2026-07-03</div><div class="mail-item-subject">Research Summary for Jul 2, 2026 <span class="pdf-badge">PDF</span></div></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260703_2111_EG_Top_10_Most_Read_For_Week_Ending_Jul_3%2C_2026.pdf" data-title="EG Top 10 Most Read For Week Ending Jul 3, 2026" title="クリックでPDF表示"><div class="mail-item-date">2026-07-03</div><div class="mail-item-subject">EG Top 10 Most Read For Week Ending Jul 3, 2026 <span class="pdf-badge">PDF</span></div></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260704_0736_Research_Summary_for_Jul_3%2C_2026.pdf" data-title="Research Summary for Jul 3, 2026" title="クリックでPDF表示"><div class="mail-item-date">2026-07-04</div><div class="mail-item-subject">Research Summary for Jul 3, 2026 <span class="pdf-badge">PDF</span></div></div>
+    </div>
+  </div>
+</div>
+<div class="mail-card" style="--accent:#C81E32;">
+  <div class="mail-card-header">
+    <div class="sender-avatar" style="background:#C81E32;">POLIT</div>
+    <div style="flex:1;">
+      <div class="sender-name">POLITICO</div>
+      <div class="sender-meta">紛争・危機 &nbsp;|&nbsp; 最新: 2026-07-03</div>
+    </div>
+    <div class="mail-count-badge" style="background:#C81E32;">受信 9 件</div>
+  </div>
+  <div class="mail-card-body">
+    <div class="mail-summary">
+      <div class="summary-title mail-pdf-list-trigger" data-pdfs='["data/pdfs/20260703_1353_Crunch_time_on_defense_spending.pdf", "data/pdfs/20260703_1403_Issues_to_watch_in_ETS_and_aviation.pdf", "data/pdfs/20260703_1636_The_Italian_princess_who_could_be_France%E2%80%99s_next_fi.pdf", "data/pdfs/20260703_1905_Brussels_comes_back_to_bite_Le_Pen.pdf", "data/pdfs/20260703_2105_Greece_must_stop_granting_blank_checks_to_Trump%2C_s.pdf", "data/pdfs/20260704_0006_First_military_mobility_talks_set_for_July_16.pdf", "data/pdfs/20260704_0031_Pro_Daily_Headlines.pdf", "data/pdfs/20260704_0133_Von_der_Leyen_admits_%E2%80%98technical_problems%E2%80%99_with_new.pdf", "data/pdfs/20260706_0034_EU_launches_push_to_beat_airport_queue_backlog_cau.pdf"]' data-sender="POLITICO" title="クリックでPDF一覧表示">Claude 要約 <span class="pdf-badge">PDF</span></div>
+      <ul class="summary-bullets">
+        <li>EU域内で防衛支出の増加が急務となっており、NATO首脳会談でGDP5％以上の防衛費投資コミットメントを強化する方針を表明</li>
+        <li>航空業界がETS見直しにおいて炭素価格設定拡大だけでなく、持続可能な航空燃料と零排出航空機技術の支援強化を要求</li>
+        <li>EU新出入国管理システム（EES）の導入に伴う空港での大幅な待機時間増加に対応するため、欧州委員会が加盟国との協議開始</li>
+        <li>EU軍事動員規制に関する初回交渉会合が7月16日に開催予定であり、戦略的インフラ強化と危機時の軍事輸送優先メカニズム導入を目指す</li>
+        <li>ギリシャ野党指導者がトランプ政権への過度な譲歩を批判し、ヨーロッパは経営判断の自立性強化を迫られている状況</li>
+      </ul>
+    </div>
+    <div class="mail-list">
+      <div class="mail-list-title mail-pdf-list-trigger" data-pdfs='["data/pdfs/20260703_1353_Crunch_time_on_defense_spending.pdf", "data/pdfs/20260703_1403_Issues_to_watch_in_ETS_and_aviation.pdf", "data/pdfs/20260703_1636_The_Italian_princess_who_could_be_France%E2%80%99s_next_fi.pdf", "data/pdfs/20260703_1905_Brussels_comes_back_to_bite_Le_Pen.pdf", "data/pdfs/20260703_2105_Greece_must_stop_granting_blank_checks_to_Trump%2C_s.pdf", "data/pdfs/20260704_0006_First_military_mobility_talks_set_for_July_16.pdf", "data/pdfs/20260704_0031_Pro_Daily_Headlines.pdf", "data/pdfs/20260704_0133_Von_der_Leyen_admits_%E2%80%98technical_problems%E2%80%99_with_new.pdf", "data/pdfs/20260706_0034_EU_launches_push_to_beat_airport_queue_backlog_cau.pdf"]' data-sender="POLITICO" title="クリックでPDF一覧表示">受信メール一覧 <span class="pdf-badge">PDF</span></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260703_1353_Crunch_time_on_defense_spending.pdf" data-title="Crunch time on defense spending" title="クリックでPDF表示"><div class="mail-item-date">2026-07-03</div><div class="mail-item-subject">Crunch time on defense spending <span class="pdf-badge">PDF</span></div></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260703_1403_Issues_to_watch_in_ETS_and_aviation.pdf" data-title="Issues to watch in ETS and aviation" title="クリックでPDF表示"><div class="mail-item-date">2026-07-03</div><div class="mail-item-subject">Issues to watch in ETS and aviation <span class="pdf-badge">PDF</span></div></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260703_1636_The_Italian_princess_who_could_be_France%E2%80%99s_next_fi.pdf" data-title="The Italian princess who could be France’s next first lady" title="クリックでPDF表示"><div class="mail-item-date">2026-07-03</div><div class="mail-item-subject">The Italian princess who could be France’s next first lady <span class="pdf-badge">PDF</span></div></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260703_1905_Brussels_comes_back_to_bite_Le_Pen.pdf" data-title="Brussels comes back to bite Le Pen" title="クリックでPDF表示"><div class="mail-item-date">2026-07-03</div><div class="mail-item-subject">Brussels comes back to bite Le Pen <span class="pdf-badge">PDF</span></div></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260703_2105_Greece_must_stop_granting_blank_checks_to_Trump%2C_s.pdf" data-title="Greece must stop granting blank checks to Trump, says opposi" title="クリックでPDF表示"><div class="mail-item-date">2026-07-03</div><div class="mail-item-subject">Greece must stop granting blank checks to Trump, says opposition <span class="pdf-badge">PDF</span></div></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260704_0006_First_military_mobility_talks_set_for_July_16.pdf" data-title="First military mobility talks set for July 16" title="クリックでPDF表示"><div class="mail-item-date">2026-07-04</div><div class="mail-item-subject">First military mobility talks set for July 16 <span class="pdf-badge">PDF</span></div></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260704_0031_Pro_Daily_Headlines.pdf" data-title="Pro Daily Headlines" title="クリックでPDF表示"><div class="mail-item-date">2026-07-04</div><div class="mail-item-subject">Pro Daily Headlines <span class="pdf-badge">PDF</span></div></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260704_0133_Von_der_Leyen_admits_%E2%80%98technical_problems%E2%80%99_with_new.pdf" data-title="Von der Leyen admits ‘technical problems’ with new EU airpor" title="クリックでPDF表示"><div class="mail-item-date">2026-07-04</div><div class="mail-item-subject">Von der Leyen admits ‘technical problems’ with new EU airport <span class="pdf-badge">PDF</span></div></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260706_0034_EU_launches_push_to_beat_airport_queue_backlog_cau.pdf" data-title="EU launches push to beat airport queue backlog caused by new" title="クリックでPDF表示"><div class="mail-item-date">2026-07-06</div><div class="mail-item-subject">EU launches push to beat airport queue backlog caused by new <span class="pdf-badge">PDF</span></div></div>
+    </div>
+  </div>
+</div>
+<div class="mail-card" style="--accent:#D26400;">
+  <div class="mail-card-header">
+    <div class="sender-avatar" style="background:#D26400;">ジェトロ調</div>
+    <div style="flex:1;">
+      <div class="sender-name">ジェトロ調査企画課・デジタルメディア班</div>
+      <div class="sender-meta">台湾・安保 &nbsp;|&nbsp; 最新: 2026-07-03</div>
+    </div>
+    <div class="mail-count-badge" style="background:#D26400;">受信 1 件</div>
+  </div>
+  <div class="mail-card-body">
+    <div class="mail-summary">
+      <div class="summary-title mail-pdf-list-trigger" data-pdfs='["data/pdfs/20260703_1509_%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD%E3%80%90%E3%82%A6%E3%82%A7%E3%83%93%E3%83%8A%E3%83%BC%E3%80%91%E9%80%9A%E5%95%86%E7%99%BD%E6%9B%B82026%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88_%E2%80%95%E6%BF%80%E5%8B%95%E3%81%AE%E4%B8%96%E7%95%8C%E7%B5%8C%E6%B8%88%E3%81%A8%E6%96%B0%E8%88%88%E5%9B%BD%E7%B5%8C%E6%B8%88_%E2%80%95%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf"]' data-sender="ジェトロ調査企画課・デジタルメディア班" title="クリックでPDF一覧表示">Claude 要約 <span class="pdf-badge">PDF</span></div>
+      <ul class="summary-bullets">
+        <li>経済産業省と共催で「令和8年版通商白書」の内容を解説するウェビナーを7月16日に開催、参加無料で世界経済や海外ビジネスの重要ポイントを説明</li>
+        <li>「2026年版世界貿易投資報告」をテーマとしたウェビナーを8月5日に開催、中堅中小企業向けで最新データと貿易・投資ルールの運用実態を解説、参加無料</li>
+        <li>中南米の自動車産業の最新動向に関するウェビナーを8月4日に開催、メキシコやメルコスール諸国での市場変化と通商政策の影響について解説、参加費は一般4000円、ジェトロメンバーズ2000円</li>
+      </ul>
+    </div>
+    <div class="mail-list">
+      <div class="mail-list-title mail-pdf-list-trigger" data-pdfs='["data/pdfs/20260703_1509_%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD%E3%80%90%E3%82%A6%E3%82%A7%E3%83%93%E3%83%8A%E3%83%BC%E3%80%91%E9%80%9A%E5%95%86%E7%99%BD%E6%9B%B82026%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88_%E2%80%95%E6%BF%80%E5%8B%95%E3%81%AE%E4%B8%96%E7%95%8C%E7%B5%8C%E6%B8%88%E3%81%A8%E6%96%B0%E8%88%88%E5%9B%BD%E7%B5%8C%E6%B8%88_%E2%80%95%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf"]' data-sender="ジェトロ調査企画課・デジタルメディア班" title="クリックでPDF一覧表示">受信メール一覧 <span class="pdf-badge">PDF</span></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260703_1509_%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD%E3%80%90%E3%82%A6%E3%82%A7%E3%83%93%E3%83%8A%E3%83%BC%E3%80%91%E9%80%9A%E5%95%86%E7%99%BD%E6%9B%B82026%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88_%E2%80%95%E6%BF%80%E5%8B%95%E3%81%AE%E4%B8%96%E7%95%8C%E7%B5%8C%E6%B8%88%E3%81%A8%E6%96%B0%E8%88%88%E5%9B%BD%E7%B5%8C%E6%B8%88_%E2%80%95%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85.pdf" data-title="ジェトロ【ウェビナー】通商白書2026のポイント" title="クリックでPDF表示"><div class="mail-item-date">2026-07-03</div><div class="mail-item-subject">ジェトロ【ウェビナー】通商白書2026のポイント <span class="pdf-badge">PDF</span></div></div>
+    </div>
+  </div>
+</div>
+<div class="mail-card" style="--accent:#00A046;">
+  <div class="mail-card-header">
+    <div class="sender-avatar" style="background:#00A046;">ビジネス短</div>
+    <div style="flex:1;">
+      <div class="sender-name">ビジネス短信</div>
+      <div class="sender-meta">産業・技術 &nbsp;|&nbsp; 最新: 2026-07-03</div>
+    </div>
+    <div class="mail-count-badge" style="background:#00A046;">受信 1 件</div>
+  </div>
+  <div class="mail-card-body">
+    <div class="mail-summary">
+      <div class="summary-title mail-pdf-list-trigger" data-pdfs='["data/pdfs/20260703_1828_%E3%80%8C%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD%E3%83%BB%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E7%9F%AD%E4%BF%A1%E3%80%8D2026_07_03.pdf"]' data-sender="ビジネス短信" title="クリックでPDF一覧表示">Claude 要約 <span class="pdf-badge">PDF</span></div>
+      <ul class="summary-bullets">
+        <li>中国が自動車アフターマーケット消費拡大に向けた17項目の措置を発表し、CATLがナトリウムイオン電池蓄電システムの商業化を開始するなど産業発展が進展</li>
+        <li>USMCAの見直し協議で米国の議会意見が分かれる中、業界から3カ国体制の維持を求める声が上昇</li>
+        <li>ASEANがロシアとのエネルギー協力を強化し、BMWの米国EV生産やJERAのアンモニア輸送船長期用船契約など、エネルギー分野での投資が活発化</li>
+        <li>欧州ではCBAM実施規則やデジタル化目標達成の課題が指摘される一方、企業の気候変動対策義務が厳格化される傾向</li>
+      </ul>
+    </div>
+    <div class="mail-list">
+      <div class="mail-list-title mail-pdf-list-trigger" data-pdfs='["data/pdfs/20260703_1828_%E3%80%8C%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD%E3%83%BB%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E7%9F%AD%E4%BF%A1%E3%80%8D2026_07_03.pdf"]' data-sender="ビジネス短信" title="クリックでPDF一覧表示">受信メール一覧 <span class="pdf-badge">PDF</span></div>
+      <div class="mail-item mail-pdf-item" data-pdf="data/pdfs/20260703_1828_%E3%80%8C%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD%E3%83%BB%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E7%9F%AD%E4%BF%A1%E3%80%8D2026_07_03.pdf" data-title="「ジェトロ・ビジネス短信」2026/07/03" title="クリックでPDF表示"><div class="mail-item-date">2026-07-03</div><div class="mail-item-subject">「ジェトロ・ビジネス短信」2026/07/03 <span class="pdf-badge">PDF</span></div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+<footer class="site-footer">
+  ソース: NHK・産経・日経・CNBC・FT・BBC・NYT・Reuters・Al Jazeera ほか &nbsp;|&nbsp; The Economist &nbsp;|&nbsp; White House RSS &nbsp;|&nbsp; Truth Social<br>
+  データ更新: 2026-07-06 07:01 JST &nbsp;|&nbsp;
+  ☁️ ホーム・USトランプ: 6時間ごと自動更新 &nbsp;|&nbsp;
+  🖥️ メール・The Economist: 毎朝6:30更新（PC）<br>
+  <button onclick="triggerSiteUpdate()" style="background:none;border:none;color:var(--accent);font-size:11px;cursor:pointer;padding:0;font-family:inherit;">🔄 今すぐ更新（GitHub Actions）</button>
+  &nbsp;|&nbsp; World News
+</footer>
+<div id="mail-pdf-modal" class="mail-pdf-modal">
+  <div class="mail-pdf-modal-box">
+    <div class="mail-pdf-modal-header">
+      <span id="mail-pdf-modal-title" class="mail-pdf-modal-title">PDF ビューア</span>
+      <button id="mail-pdf-close-btn" class="mail-pdf-modal-close">✕ 閉じる</button>
+    </div>
+    <div id="mail-pdf-list-area" class="mail-pdf-list-modal" style="display:none;"></div>
+    <iframe id="mail-pdf-frame" class="mail-pdf-frame" src="about:blank" style="display:none;"></iframe>
+  </div>
+</div>
+<script>
+(function(){
+  var modal    = document.getElementById('mail-pdf-modal');
+  var frame    = document.getElementById('mail-pdf-frame');
+  var listArea = document.getElementById('mail-pdf-list-area');
+  var titleEl  = document.getElementById('mail-pdf-modal-title');
+  var closeBtn = document.getElementById('mail-pdf-close-btn');
+  function esc(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+  function openPdf(url, label) {
+    titleEl.textContent    = label || 'PDF ビューア';
+    listArea.style.display = 'none';
+    frame.src              = url;
+    frame.style.display    = 'block';
+    modal.style.display    = 'flex';
+  }
+  function openPdfList(pdfsJson, senderName) {
+    var pdfs = JSON.parse(pdfsJson);
+    if (pdfs.length === 1) { openPdf(pdfs[0], senderName); return; }
+    titleEl.textContent = senderName + ' — PDF 一覧 (' + pdfs.length + '件)';
+    listArea.innerHTML = pdfs.map(function(url) {
+      var fname = decodeURIComponent(url.split('/').pop()).replace(/_/g, ' ');
+      return '<div class="mail-pdf-list-item" data-pdf="' + esc(url) + '" data-title="' + esc(fname) + '"><span class="pdf-list-icon">📄</span><span>' + esc(fname) + '</span></div>';
+    }).join('');
+    listArea.style.display = 'block';
+    frame.src              = 'about:blank';
+    frame.style.display    = 'none';
+    modal.style.display    = 'flex';
+  }
+  function closeModal() {
+    modal.style.display = 'none';
+    frame.src           = 'about:blank';
+  }
+  document.addEventListener('click', function(ev) {
+    var item = ev.target.closest('.mail-pdf-list-item');
+    if (item) { openPdf(item.dataset.pdf, item.dataset.title); return; }
+    var trigger = ev.target.closest('.mail-pdf-list-trigger');
+    if (trigger) { openPdfList(trigger.dataset.pdfs, trigger.dataset.sender); return; }
+    var pdfRow = ev.target.closest('.mail-pdf-item');
+    if (pdfRow) { openPdf(pdfRow.dataset.pdf, pdfRow.dataset.title); return; }
+    if (ev.target === modal) { closeModal(); }
+  });
+  closeBtn.addEventListener('click', closeModal);
+  document.addEventListener('keydown', function(ev){ if(ev.key==='Escape') closeModal(); });
+})();
+</script>
+</body></html>

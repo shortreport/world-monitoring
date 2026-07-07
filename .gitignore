@@ -1,0 +1,104 @@
+# ── Node.js ───────────────────────────────────────────────────
+node_modules/
+
+# ── ログ・一時ファイル ─────────────────────────────────────────
+logs/
+*.log
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+*.egg-info/
+
+# ── API キー・認証情報（絶対に公開しない）────────────────────
+api_config.py
+api_config.py.bak
+token.json
+client_secrets.json
+*.key
+sk-ant-api03-*.txt
+# API キーをハードコードしているスクリプト（ローカルのみ）
+mail_slides.py
+make_news_video2.py
+
+# ── web_app は追跡する（.venv と counter.json を除く）────────
+!web_app/
+web_app/.venv/
+web_app/counter.json
+
+# ── 生成ファイル・ローカルデータ──────────────────────────────
+db/
+mail_files/
+mail_summary/
+news_output/
+_news_tmp/
+search_results/
+country_reports/
+takaichi_chatbot/
+trump_chatbot/
+cv/
+files/
+photo/
+images/
+templates/
+test/
+static/
+china/
+europe/
+geopolitics/
+india_mena/
+japan/
+minerals/
+north america/
+others/
+south america/
+taiwan/
+trade_tariff_ai/
+asean_oceania/
+
+# ── 生成済みメディア・レポート──────────────────────────────────
+*.mp4
+*.pptx
+*.pdf
+*.docx
+trump_report_*.txt
+script_*.txt
+risk_report_*.md
+report_*.json
+report_*.md
+slides_*.pdf
+*.db
+
+# ── 設定・その他────────────────────────────────────────────────
+.claude/
+config.json
+config ex.json
+launch.json
+settings.local.json
+.api_counter.json
+pyvenv.cfg
+*.zip
+*.png
+*.jpg
+*.jpeg
+# docs/data/ 内の画像・PDFは例外（GitHub Pages で配信するため追跡する）
+!docs/data/*.jpg
+!docs/data/*.jpeg
+!docs/data/*.png
+!docs/data/pdfs/*.pdf
+!docs/briefing_latest.pdf
+!docs/data/briefings/*.pdf
+前回の入力データ.json
+世界*.json
+
+# ── 使用しないスクリプト（ルートに散在）────────────────────────
+*analyze_gemini.py
+*query.py
+...base*/
+...kai*/
+...kari*/
+翻訳*.py

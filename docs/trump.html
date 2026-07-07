@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>USトランプ | World News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --primary:    #16163e;
+      --eco-red:    #C8141E;
+      --surface:    #ffffff;
+      --surface-2:  #f3f4f6;
+      --border:     #e2e4e9;
+      --text:       #1a1a2e;
+      --text-sub:   #5f6368;
+      --radius:     12px;
+      --accent:     #0096c8;
+      --card-bg:    #f0f8ff;
+    }
+
+    body {
+      font-family: 'Noto Sans JP', -apple-system, 'Hiragino Sans',
+                   'Yu Gothic UI', 'Meiryo', sans-serif;
+      background: var(--surface-2);
+      color: var(--text);
+      line-height: 1.65;
+      font-size: 14px;
+    }
+
+    /* ── Site Header ── */
+    .site-header {
+      background: var(--primary); color: #fff;
+      padding: 0 24px; height: 58px;
+      display: flex; align-items: center; gap: 16px;
+      position: sticky; top: 0; z-index: 300;
+      box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    }
+    .logo { font-size: 20px; font-weight: 700; letter-spacing: .5px; white-space: nowrap; }
+    .logo em { color: #5bc8f5; font-style: normal; }
+    .header-date { font-size: 12px; color: rgba(255,255,255,.5); white-space: nowrap; }
+    .header-spacer { flex: 1; }
+    .live-badge { background: #e63946; color: #fff; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; letter-spacing: 1px; }
+    .update-time { font-size: 11px; color: rgba(255,255,255,.4); white-space: nowrap; }
+    .force-update-btn {
+      display: inline-flex; align-items: center; gap: 4px;
+      background: rgba(255,255,255,.1); color: rgba(255,255,255,.65);
+      border: 1px solid rgba(255,255,255,.25); border-radius: 14px;
+      padding: 4px 11px; font-size: 11px; font-weight: 600;
+      cursor: pointer; white-space: nowrap; font-family: inherit;
+      transition: background .15s, color .15s, border-color .15s;
+    }
+    .force-update-btn:hover { background: rgba(255,255,255,.22); color: #fff; border-color: rgba(255,255,255,.5); }
+    .force-update-btn:disabled { opacity: .55; cursor: not-allowed; }
+
+    /* ── Page Navigation Tabs ── */
+    .page-nav {
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: 0 24px; display: flex; align-items: stretch;
+      position: sticky; top: 58px; z-index: 200;
+      box-shadow: 0 1px 4px rgba(0,0,0,.06);
+    }
+    .page-nav a {
+      display: flex; align-items: center; gap: 6px;
+      padding: 0 18px; height: 44px;
+      font-size: 14px; font-weight: 500; color: var(--text-sub);
+      text-decoration: none; border-bottom: 3px solid transparent;
+      white-space: nowrap; transition: color .15s, border-color .15s;
+    }
+    .page-nav a:hover { color: var(--text); }
+    .page-nav a.active { color: var(--primary); border-bottom-color: var(--primary); font-weight: 700; }
+    .page-nav a .nav-icon { font-size: 15px; }
+    .page-nav a:last-child { margin-left: auto; border-left: 1px solid var(--border); }
+
+    /* ── Section label ── */
+    .section-label {
+      font-size: 11px; font-weight: 700; color: var(--text-sub);
+      text-transform: uppercase; letter-spacing: 1.2px;
+      margin: 0 0 12px; padding-bottom: 8px; border-bottom: 2px solid var(--border);
+    }
+
+    /* ── Clickable bullet styles ── */
+    li.has-link { cursor: pointer; }
+    .bullet-link {
+      display: block;
+      color: inherit;
+      text-decoration: none;
+      position: relative;
+      padding-right: 4px;
+      transition: color .15s;
+    }
+    .bullet-link:hover { color: var(--accent); }
+    .src-tag {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--text-sub);
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1px 5px;
+      margin-left: 7px;
+      vertical-align: middle;
+      white-space: nowrap;
+      opacity: 0.55;
+      transition: opacity .15s, color .15s, background .15s, border-color .15s;
+    }
+    .bullet-link:hover .src-tag {
+      opacity: 1;
+      color: var(--accent);
+      background: #e8f4ff;
+      border-color: var(--accent);
+    }
+    /* FT (Financial Times) source highlight */
+    .src-tag-ft {
+      color: #c45000;
+      background: #fff3ea;
+      border-color: #e8925a;
+      opacity: 0.85;
+    }
+    .bullet-link:hover .src-tag-ft {
+      color: #a03800;
+      background: #ffe8d6;
+      border-color: #c45000;
+    }
+
+    /* ── Clickable card title ── */
+    .card-title-link {
+      color: inherit;
+      text-decoration: none;
+      transition: color .15s;
+    }
+    .card-title-link:hover { color: var(--accent); }
+    .card-title-link:hover::after {
+      content: " ↗";
+      font-size: 14px;
+      color: var(--accent);
+      opacity: .7;
+    }
+
+    /* ── Footer ── */
+    .site-footer {
+      text-align: center; padding: 24px;
+      font-size: 12px; color: var(--text-sub);
+      margin-top: 32px; border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 640px) {
+      .site-header { padding: 0 14px; gap: 10px; }
+      .page-nav { padding: 0 8px; }
+      .page-nav a { padding: 0 12px; font-size: 13px; }
+      .update-time { display: none; }
+      .force-update-btn { display: none; }
+    }
+
+
+    .trump-wrap { max-width: 1040px; margin: 24px auto; padding: 0 20px; }
+    .trump-banner { background: linear-gradient(135deg, #16163e 0%, #3C3B6E 60%, #1a0a0a 100%); border-radius: var(--radius); padding: 18px 24px; margin-bottom: 16px; display: flex; align-items: center; gap: 20px; border: 1px solid #4a3a6e; flex-wrap: wrap; }
+    .trump-banner-title { font-size: 22px; font-weight: 700; color: #fff; letter-spacing: .5px; }
+    .trump-banner-title span { color: #C81E32; }
+    .trump-banner-sub { font-size: 12px; color: rgba(255,255,255,.55); margin-top: 3px; }
+    .trump-banner-spacer { flex: 1; }
+    .trump-stats { display: flex; gap: 12px; flex-wrap: wrap; }
+    .trump-stat { text-align: center; background: rgba(255,255,255,.08); border-radius: 8px; padding: 8px 14px; }
+    .trump-stat-num { font-size: 18px; font-weight: 700; color: #B48200; }
+    .trump-stat-lbl { font-size: 10px; color: rgba(255,255,255,.5); }
+    .source-bar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
+    .source-chip { display: flex; align-items: center; gap: 5px; background: var(--surface); border: 1px solid var(--border); border-radius: 20px; padding: 5px 12px; font-size: 12px; color: var(--text-sub); }
+    /* Trump cards */
+    .trump-card { background: var(--surface); border-radius: var(--radius); border: 1px solid var(--border); border-left: 5px solid var(--accent); box-shadow: 0 1px 4px rgba(0,0,0,.06); padding: 18px 22px; transition: box-shadow .2s; }
+    .trump-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,.1); }
+    .trump-card.featured { background: linear-gradient(135deg, #fffbe6, #fff8e1); border-left-color: #B48200; border-left-width: 6px; padding: 22px 28px; margin-bottom: 20px; }
+    .trump-card.japan-highlight { background: #fff0f2; border-left-color: #C81E32; }
+    .trump-card-header { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+    .trump-icon { font-size: 20px; }
+    .trump-badge { font-size: 11px; font-weight: 700; color: #fff; padding: 3px 10px; border-radius: 12px; white-space: nowrap; }
+    .trump-card-title { font-size: 17px; font-weight: 700; color: var(--text); margin-left: 4px; }
+    .trump-card.featured .trump-card-title { font-size: 20px; color: #5a3a00; }
+    /* Trump title link */
+    .trump-title-link { color: inherit; text-decoration: none; transition: color .15s; }
+    .trump-title-link:hover { color: var(--accent); }
+    .trump-title-link:hover::after { content: " ↗"; font-size: 13px; opacity: .7; }
+    /* Trump bullets */
+    .trump-bullets { list-style: none; padding: 0; }
+    .trump-bullets li { position: relative; padding-left: 20px; font-size: 13px; color: #2a2a3a; margin-bottom: 9px; line-height: 1.6; }
+    .trump-bullets li::before { content: "▸"; position: absolute; left: 0; color: var(--accent); font-weight: 700; }
+    .trump-card.featured .trump-bullets li { font-size: 14px; }
+    .trump-card.featured .trump-bullets li::before { color: #B48200; }
+    .trump-card.japan-highlight .trump-bullets li::before { color: #C81E32; }
+    /* trump page の src-tag は accent を赤系に */
+    .trump-card .src-tag { background: #fafafa; border-color: #ddd; }
+    .trump-card .bullet-link:hover .src-tag { color: #C81E32; background: #fff0f2; border-color: #C81E32; }
+    .trump-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+    @media (max-width: 640px) { .trump-wrap { padding: 0 12px; } .trump-banner { padding: 14px; } .trump-banner-title { font-size: 18px; } .trump-stats { display: none; } }
+
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="logo" onclick="location.href='index.html'" style="cursor:pointer;" title="ホームへ">World<em>News</em></div>
+  <div class="header-date">2026年07月07日</div>
+  <div class="header-spacer"></div>
+  <div class="update-time">最終更新: 2026年07月07日 09:53 JST &nbsp;|&nbsp; 6時間ごと自動更新</div>
+  <button id="force-update-btn" class="force-update-btn" onclick="triggerSiteUpdate()" title="GitHub Actions ワークフローを起動してサイトを更新">🔄 今すぐ更新</button>
+  <div class="live-badge">LIVE</div>
+</header>
+<script>
+(function(){
+  function triggerSiteUpdate(){
+    var btn=document.getElementById('force-update-btn');
+    btn.textContent='⏳ 更新中…';
+    btn.disabled=true;
+    location.href=location.pathname+'?r='+Date.now();
+  }
+  if(location.search.startsWith('?r=')){
+    history.replaceState(null,'',location.pathname);
+  }
+  window.triggerSiteUpdate=triggerSiteUpdate;
+})();
+</script>
+<nav class="page-nav">
+  <a href="index.html"><span class="nav-icon">🏠</span>ホーム</a>
+  <a href="mail.html"><span class="nav-icon">📧</span>メール要約</a>
+  <a href="trump.html" class="active"><span class="nav-icon">🇺🇸</span>USトランプ</a>
+  <a href="theme.html"><span class="nav-icon">🔎</span>個別テーマ</a>
+  <a href="midterm.html"><span class="nav-icon">🗳️</span>米国中間選挙</a>
+  <a href="summary.html"><span class="nav-icon">📋</span>エグゼクティブ・サマリー</a>
+</nav>
+<div class="trump-wrap">
+  <div class="trump-banner">
+    <div>
+      <div class="trump-banner-title">TRUMP <span>MONITOR</span></div>
+      <div class="trump-banner-sub">対象期間: 2026-07-06 ~ 2026-07-07 (UTC)
+        &nbsp;|&nbsp; <span style="opacity:.6;font-size:11px;">実データ（2026-07-07 09:52:48 生成）</span>
+      </div>
+    </div>
+    <div class="trump-banner-spacer"></div>
+    <div class="trump-stats">
+      <div class="trump-stat"><div class="trump-stat-num">30</div><div class="trump-stat-lbl">収集件数</div></div>
+      <div class="trump-stat"><div class="trump-stat-num">8</div><div class="trump-stat-lbl">セクション</div></div>
+    </div>
+  </div>
+  <div class="source-bar">
+  <div class="source-chip"><span>📱</span>Truth Social: 2件</div>
+  <div class="source-chip"><span>🎬</span>YouTube（字幕あり）: 5件</div>
+  <div class="source-chip"><span>📰</span>Google News: 23件</div>
+  </div>
+  <p class="section-label">主要ポイント</p>
+<div class="trump-card featured" style="--accent:#B48200;">
+  <div class="trump-card-header">
+    <span class="trump-icon">⭐</span>
+    <span class="trump-badge" style="background:#B48200;">主要ポイント</span>
+    <span class="trump-card-title"><a href="https://news.google.com/search?q=Trump%20statement%20White%20House%20today&amp;hl=en&amp;gl=US" target="_blank" rel="noopener noreferrer" class="trump-title-link">本日の主要ポイント</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li class="has-link"><a href="https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領は7月6日、ホワイトハウスから初めてNYSEとNASDAQのオープニングベルを鳴らし、Trump Accountsの正式ローンチを実現。全米の子どもたちに税制優遇された資産形成の機会を提供する歴史的な施策として評価される。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  <li class="has-link"><a href="https://www.latestly.com/agency-news/world-news-either-a-deal-else-us-will-finish-the-job-trump-on-iran-7506041.html" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領がイラン交渉について『取引するか、仕事を完了するかのどちらかだ』と述べ、イランのインフラ破壊能力を強調。ただし交渉による解決を優先する姿勢を示した。<span class="src-tag">www.latestly.com ↗</span></a></li>
+  <li class="has-link"><a href="https://www.thewrap.com/culture-lifestyle/culture/trump-admits-fifa-red-card-call" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領がFIFA会長に米サッカー選手Folarin Balogunの退場処分の再検討を直接要請。FIFAが処分を取り消し、ベルギー戦出場を可能にした。<span class="src-tag">www.thewrap.com ↗</span></a></li>
+  <li class="has-link"><a href="https://www.timesnownews.com/world/us/us-news/vance-pulling-ahead-of-rubio-as-trumps-likely-pick-for-2028-article-154952618.html" target="_blank" rel="noopener noreferrer" class="bullet-link">JD Vance副大統領が6月中に33件のメディア出演を実施し、イラン和平交渉への関与を通じて2028年大統領選の有力候補として浮上。トランプ大統領からの評価も上昇傾向。<span class="src-tag">www.timesnownews.com ↗</span></a></li>
+  <li class="has-link"><a href="https://www.zerohedge.com/political/white-house-report-accuses-smithsonian-leaders-extreme-political-activism" target="_blank" rel="noopener noreferrer" class="bullet-link">ホワイトハウスがスミソニアン博物館指導部を『極端な政治活動』で非難する162ページの報告書を7月4日に発表。米国の建国史の教育ミッションからの逸脱を批判。<span class="src-tag">www.zerohedge.com ↗</span></a></li>
+  </ul>
+</div>
+  <p class="section-label">詳細分析</p>
+  <div class="trump-grid">
+<div class="trump-card" style="--accent:#3C3B6E;">
+  <div class="trump-card-header">
+    <span class="trump-icon">📱</span>
+    <span class="trump-badge" style="background:#3C3B6E;">SNS 発言</span>
+    <span class="trump-card-title"><a href="https://truthsocial.com/@realDonaldTrump" target="_blank" rel="noopener noreferrer" class="trump-title-link">Truth Social 発言</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li class="has-link"><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxORXM5YTJ0Y0F3Y2hVTjc3OUhaQnF3TGh1SDN5NlBoeW44bld2WU54Sjd4MGx6OGFnUmlFTThpd1h3U2ZmbWQ1dnAxczBRdnpmaDltcFZMRThWbm9Ob2dSdFhLdXpqMU9sLXFaV1NmeW9lOWJCMC1HcGstVU5vLTVxYzl2MlV1YWdkOUtWYUo0UDJlcDJsZXJCcDY1NVRyNzFrN0JNazZjLVB2WkxK?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領がTruth Socialで7月4日のワシントンDCプロジェクトに関する投稿スパムを展開。ホワイトハウスのインフラ施策をSNSで直接発信。<span class="src-tag">Truth Social報道 (the-independent.com) ↗</span></a></li>
+  <li class="has-link"><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPZThnXzl4Vmk5bHBMb2hHMWE0VFpUa3ktLWFaN3hja1h1Ynl6SWdOWklNVjlSVVVodVRWMDg5QllQR2ZhQ2VYUmFRenQ5WmZrV3hqTVg3Q3NnQm5XRFNxWk5jRTdJR0dfd256cGxPOVdlRzFTVkt3MGxXQlBndklLTkh2azYyQ1RHYVpjT1BkOExUd2hRSWk5cw?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領がTruth Socialで驚くべき告白を投稿。メディアから『スタニング・コンフェッション』として報道される。<span class="src-tag">Truth Social報道 (The Daily Beast) ↗</span></a></li>
+  </ul>
+</div>
+<div class="trump-card" style="--accent:#C81E32;">
+  <div class="trump-card-header">
+    <span class="trump-icon">🎤</span>
+    <span class="trump-badge" style="background:#C81E32;">記者会見・インタビュー</span>
+    <span class="trump-card-title"><a href="https://www.whitehouse.gov/briefings-statements/" target="_blank" rel="noopener noreferrer" class="trump-title-link">記者会見・メディアインタビュー</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li class="has-link"><a href="https://www.thewrap.com/culture-lifestyle/culture/trump-admits-fifa-red-card-call" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領は月曜朝のホワイトハウス記者会見でFIFA会長への電話を認め、Balogun選手の退場処分再検討について『再検討を求めただけ』と説明。ワールドカップの高視聴率にも言及。<span class="src-tag">www.thewrap.com ↗</span></a></li>
+  </ul>
+</div>
+<div class="trump-card" style="--accent:#B48200;">
+  <div class="trump-card-header">
+    <span class="trump-icon">📜</span>
+    <span class="trump-badge" style="background:#B48200;">公式発表・大統領令</span>
+    <span class="trump-card-title"><a href="https://www.whitehouse.gov/presidential-actions/" target="_blank" rel="noopener noreferrer" class="trump-title-link">ホワイトハウス公式発表・大統領令</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li class="has-link"><a href="https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/" target="_blank" rel="noopener noreferrer" class="bullet-link">ホワイトハウス公式声明：Trump Accountsローンチにより8億ドルの新規資本が株式市場に投入される。全米児童に税制優遇の資産形成機会を提供し、所得格差解消を目指す。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  <li class="has-link"><a href="https://www.dailyexcelsior.com/hamas-dissolves-its-government-in-gaza-to-transfer-power-to-un-backed-committee" target="_blank" rel="noopener noreferrer" class="bullet-link">ホワイトハウス広報は『Board of Peace』がハマスの武装解除とガザ統治に関する停戦合意を監視していると声明。ハマスが政府機能を解散させた発表に対して『約束ではなく行動で判断する』と指摘。<span class="src-tag">Daily Excelsior ↗</span></a></li>
+  </ul>
+</div>
+<div class="trump-card" style="--accent:#3C3B6E;">
+  <div class="trump-card-header">
+    <span class="trump-icon">🎙</span>
+    <span class="trump-badge" style="background:#3C3B6E;">WH 記者会見</span>
+    <span class="trump-card-title"><a href="https://www.whitehouse.gov/briefings-statements/" target="_blank" rel="noopener noreferrer" class="trump-title-link">ホワイトハウス報道官ブリーフィング</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li>（該当情報なし）</li>
+  </ul>
+</div>
+<div class="trump-card" style="--accent:#C81E32;">
+  <div class="trump-card-header">
+    <span class="trump-icon">🎬</span>
+    <span class="trump-badge" style="background:#C81E32;">動画コンテンツ</span>
+    <span class="trump-card-title"><a href="https://www.youtube.com/@WhiteHouse" target="_blank" rel="noopener noreferrer" class="trump-title-link">YouTube 動画・字幕コンテンツ</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li class="has-link"><a href="https://www.youtube.com/shorts/V-DcthfF7rE" target="_blank" rel="noopener noreferrer" class="bullet-link">ホワイトハウス公式動画：トランプ大統領がオーバルオフィスからNYSEおよびNASDAQのオープニングベルを鳴らし、Trump Accounts公式ローンチを実施。初となる大統領本人による現地以外での式典。<span class="src-tag">YouTube (ホワイトハウス公式) ↗</span></a></li>
+  <li class="has-link"><a href="https://www.youtube.com/watch?v=LoLv8-Z6zS8" target="_blank" rel="noopener noreferrer" class="bullet-link">ホワイトハウス公式動画：トランプ大統領がTrump Accountsローンチイベントに参加。民間企業幹部との協力体制を強調。<span class="src-tag">YouTube (ホワイトハウス公式) ↗</span></a></li>
+  <li class="has-link"><a href="https://www.youtube.com/watch?v=453cGvgkOBg" target="_blank" rel="noopener noreferrer" class="bullet-link">ホワイトハウス公式動画：トランプ大統領がローズガーデンクラブランチに参加。7月6日開催。<span class="src-tag">YouTube (ホワイトハウス公式) ↗</span></a></li>
+  <li class="has-link"><a href="https://www.youtube.com/shorts/zylXgdqCAzI" target="_blank" rel="noopener noreferrer" class="bullet-link">ホワイトハウス公式動画：『Tips on Tips（チップス税廃止）』と『US Men&#x27;s Soccer Team（米男子サッカー選手団応援）』の制作動画。国民向けのカジュアルなコンテンツ展開。<span class="src-tag">YouTube (ホワイトハウス公式) ↗</span></a></li>
+  </ul>
+</div>
+<div class="trump-card" style="--accent:#B48200;">
+  <div class="trump-card-header">
+    <span class="trump-icon">👥</span>
+    <span class="trump-badge" style="background:#B48200;">閣僚動向</span>
+    <span class="trump-card-title"><a href="https://news.google.com/search?q=Trump%20cabinet%20Bessent%20Rubio%20Hegseth%20Vance%20statement&amp;hl=en&amp;gl=US" target="_blank" rel="noopener noreferrer" class="trump-title-link">主要閣僚の動向</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li class="has-link"><a href="https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/" target="_blank" rel="noopener noreferrer" class="bullet-link">【財務長官】スコット・ベッセント：Trump Accountsは『米国の夢を次世代に装備する』取り組みで、国民をすべて株主とする『所有経済』を創造すると述べた。現在、米国家庭の38%が株式市場へのアクセスがない状況を改善する方針を示した。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  <li class="has-link"><a href="https://pjmedia.com/sarah-anderson/2026/07/06/the-venezuelan-earthquakes-exposed-something-and-it-wasnt-just-shoddy-infrastructure-n4954737" target="_blank" rel="noopener noreferrer" class="bullet-link">【国務長官】マルコ・ルビオ：ベネズエラの地震対応時に『3段階計画』（安定化・経済復興・民主的選挙と政権移譲）を推進。ニコラス・マドゥロ逮捕後の実務的な権力委譲体制を構築。<span class="src-tag">pjmedia.com ↗</span></a></li>
+  <li class="has-link"><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5RWGlrbHBOS0JOS0RyTkt6OU9peEhmUGthNnFnQi10VVppaDBBSkVFN0NLWjcyZ2NydTdiR09oOEZJVVp0d2xfV1RqSHlfN1JtMjAwVmdJRUVTZ01peXNJTFlWbUxNLVMtVGw0QWlwb1k5dDNocGc?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">【ホワイトハウス広報】カロリン・リービット：『怠け者のZ世代』発言に関するバックラッシュに対して防戦。世代間の労働倫理に関する議論が波紋を呼ぶ。<span class="src-tag">Audacy ↗</span></a></li>
+  <li class="has-link"><a href="https://nypost.com/2026/07/06/world-news/iranian-loyalists-vow-to-assassinate-trump-during-ayatollah-khameneis-funeral" target="_blank" rel="noopener noreferrer" class="bullet-link">【国防長官】ピート・ヘグセス：イラン喪礼時に暗殺対象リストに名前が上がる。トランプ、ナイアンス副大統領とともに射撃目標マークが描かれた看板で標的化される。<span class="src-tag">nypost.com ↗</span></a></li>
+  </ul>
+</div>
+<div class="trump-card japan-highlight" style="--accent:#C81E32;">
+  <div class="trump-card-header">
+    <span class="trump-icon">🇯🇵</span>
+    <span class="trump-badge" style="background:#C81E32;">日本への影響</span>
+    <span class="trump-card-title"><a href="https://news.google.com/search?q=Japan%20security%20economy%20Trump%20policy%20impact&amp;hl=en&amp;gl=US" target="_blank" rel="noopener noreferrer" class="trump-title-link">日本への影響・注目点</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li class="has-link"><a href="https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/" target="_blank" rel="noopener noreferrer" class="bullet-link">【経済政策】Trump Accountsの世界展開可能性：米国の子ども向け資産形成制度が8億ドルの初期資本投下で成功。日本の子ども貯蓄制度との比較や国際金融市場への影響が今後の課題となる可能性。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  <li class="has-link"><a href="https://www.foxnews.com/politics/trump-bets-former-nato-troublemaker-as-turkey-strategic-value-surges" target="_blank" rel="noopener noreferrer" class="bullet-link">【外交】NATO集中戦略：トランプ大統領がトルコのエルドアン大統領との二国間関係を重視。NATOサミット参加でロシア対抗を強化する戦略は、日本を含むインド太平洋地域のセキュリティ環境に波及可能性。<span class="src-tag">www.foxnews.com ↗</span></a></li>
+  <li class="has-link"><a href="https://www.timesnownews.com/world/us/us-news/vance-pulling-ahead-of-rubio-as-trumps-likely-pick-for-2028-article-154952618.html" target="_blank" rel="noopener noreferrer" class="bullet-link">【安全保障】イラン対話戦略：JD Vance副大統領がイラン和平交渉で主導的役割を発揮。米国のイラン政策転換が中東情勢安定化を通じて日本のエネルギー安全保障や原油価格に影響。<span class="src-tag">www.timesnownews.com ↗</span></a></li>
+  </ul>
+</div>
+  </div>
+</div>
+
+<footer class="site-footer">
+  ソース: NHK・産経・日経・CNBC・FT・BBC・NYT・Reuters・Al Jazeera ほか &nbsp;|&nbsp; The Economist &nbsp;|&nbsp; White House RSS &nbsp;|&nbsp; Truth Social<br>
+  最終更新: 2026年07月07日 09:53 JST &nbsp;|&nbsp;
+  ☁️ ホーム・USトランプ: 6時間ごと自動更新 &nbsp;|&nbsp;
+  🖥️ メール・The Economist: 毎朝6:30更新（PC）<br>
+  <button onclick="triggerSiteUpdate()" style="background:none;border:none;color:var(--accent);font-size:11px;cursor:pointer;padding:0;font-family:inherit;">🔄 今すぐ更新（GitHub Actions）</button>
+  &nbsp;|&nbsp; World News
+</footer>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const grid = document.querySelector('.trump-grid');
+  const jp   = grid && grid.querySelector('.japan-highlight');
+  if (jp) grid.appendChild(jp);
+});
+</script>
+</body></html>
