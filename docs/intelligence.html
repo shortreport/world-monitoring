@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>インテリジェンス | World News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --primary:    #16163e;
+      --eco-red:    #C8141E;
+      --surface:    #ffffff;
+      --surface-2:  #f3f4f6;
+      --border:     #e2e4e9;
+      --text:       #1a1a2e;
+      --text-sub:   #5f6368;
+      --radius:     12px;
+      --accent:     #0096c8;
+      --card-bg:    #f0f8ff;
+    }
+
+    body {
+      font-family: 'Noto Sans JP', -apple-system, 'Hiragino Sans',
+                   'Yu Gothic UI', 'Meiryo', sans-serif;
+      background: var(--surface-2);
+      color: var(--text);
+      line-height: 1.65;
+      font-size: 14px;
+    }
+
+    /* ── Site Header ── */
+    .site-header {
+      background: var(--primary); color: #fff;
+      padding: 0 24px; height: 58px;
+      display: flex; align-items: center; gap: 16px;
+      position: sticky; top: 0; z-index: 300;
+      box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    }
+    .logo { font-size: 20px; font-weight: 700; letter-spacing: .5px; white-space: nowrap; }
+    .logo em { color: #5bc8f5; font-style: normal; }
+    .header-date { font-size: 12px; color: rgba(255,255,255,.5); white-space: nowrap; }
+    .header-spacer { flex: 1; }
+    .live-badge { background: #e63946; color: #fff; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; letter-spacing: 1px; }
+    .update-time { font-size: 11px; color: rgba(255,255,255,.4); white-space: nowrap; }
+    .force-update-btn {
+      display: inline-flex; align-items: center; gap: 4px;
+      background: rgba(255,255,255,.1); color: rgba(255,255,255,.65);
+      border: 1px solid rgba(255,255,255,.25); border-radius: 14px;
+      padding: 4px 11px; font-size: 11px; font-weight: 600;
+      cursor: pointer; white-space: nowrap; font-family: inherit;
+      transition: background .15s, color .15s, border-color .15s;
+    }
+    .force-update-btn:hover { background: rgba(255,255,255,.22); color: #fff; border-color: rgba(255,255,255,.5); }
+    .force-update-btn:disabled { opacity: .55; cursor: not-allowed; }
+
+    /* ── Page Navigation Tabs ── */
+    .page-nav {
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: 0 24px; display: flex; align-items: stretch;
+      position: sticky; top: 58px; z-index: 200;
+      box-shadow: 0 1px 4px rgba(0,0,0,.06);
+    }
+    .page-nav a {
+      display: flex; align-items: center; gap: 6px;
+      padding: 0 18px; height: 44px;
+      font-size: 14px; font-weight: 500; color: var(--text-sub);
+      text-decoration: none; border-bottom: 3px solid transparent;
+      white-space: nowrap; transition: color .15s, border-color .15s;
+    }
+    .page-nav a:hover { color: var(--text); }
+    .page-nav a.active { color: var(--primary); border-bottom-color: var(--primary); font-weight: 700; }
+    .page-nav a .nav-icon { font-size: 15px; }
+    .page-nav a:last-child { margin-left: auto; border-left: 1px solid var(--border); }
+
+    /* ── Section label ── */
+    .section-label {
+      font-size: 11px; font-weight: 700; color: var(--text-sub);
+      text-transform: uppercase; letter-spacing: 1.2px;
+      margin: 0 0 12px; padding-bottom: 8px; border-bottom: 2px solid var(--border);
+    }
+
+    /* ── Clickable bullet styles ── */
+    li.has-link { cursor: pointer; }
+    .bullet-link {
+      display: block;
+      color: inherit;
+      text-decoration: none;
+      position: relative;
+      padding-right: 4px;
+      transition: color .15s;
+    }
+    .bullet-link:hover { color: var(--accent); }
+    .src-tag {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--text-sub);
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1px 5px;
+      margin-left: 7px;
+      vertical-align: middle;
+      white-space: nowrap;
+      opacity: 0.55;
+      transition: opacity .15s, color .15s, background .15s, border-color .15s;
+    }
+    .bullet-link:hover .src-tag {
+      opacity: 1;
+      color: var(--accent);
+      background: #e8f4ff;
+      border-color: var(--accent);
+    }
+    /* FT (Financial Times) source highlight */
+    .src-tag-ft {
+      color: #c45000;
+      background: #fff3ea;
+      border-color: #e8925a;
+      opacity: 0.85;
+    }
+    .bullet-link:hover .src-tag-ft {
+      color: #a03800;
+      background: #ffe8d6;
+      border-color: #c45000;
+    }
+
+    /* ── Clickable card title ── */
+    .card-title-link {
+      color: inherit;
+      text-decoration: none;
+      transition: color .15s;
+    }
+    .card-title-link:hover { color: var(--accent); }
+    .card-title-link:hover::after {
+      content: " ↗";
+      font-size: 14px;
+      color: var(--accent);
+      opacity: .7;
+    }
+
+    /* ── Footer ── */
+    .site-footer {
+      text-align: center; padding: 24px;
+      font-size: 12px; color: var(--text-sub);
+      margin-top: 32px; border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 640px) {
+      .site-header { padding: 0 14px; gap: 10px; }
+      .page-nav { padding: 0 8px; }
+      .page-nav a { padding: 0 12px; font-size: 13px; }
+      .update-time { display: none; }
+      .force-update-btn { display: none; }
+    }
+
+
+    :root { --primary:#16163e; --surface:#ffffff; --surface-2:#edeef1; --border:#d8dae0; --text:#1a1a2e; --text-sub:#6b6f7a; --accent:#0096c8; }
+    .v2-wrap { max-width:1280px; margin:28px auto; padding:0 20px; display:grid; grid-template-columns:1fr 300px; gap:28px; align-items:start; }
+    .v2-grid { display:flex; gap:14px; align-items:flex-start; }
+    .v2-col  { flex:1; display:flex; flex-direction:column; gap:14px; }
+    .v2-card { border-radius:4px; padding:14px 16px 12px; cursor:pointer; display:flex; flex-direction:column; gap:7px; box-shadow:2px 3px 8px rgba(0,0,0,.10),0 1px 2px rgba(0,0,0,.06); transition:transform .15s,box-shadow .15s; position:relative; }
+    .v2-card:hover { transform:translateY(-3px); box-shadow:3px 6px 16px rgba(0,0,0,.15); }
+    .v2-card[data-s="EG"]  { background:#fffaed; }
+    .v2-card[data-s="POL"] { background:#fff0f1; }
+    .v2-card[data-s="JET"] { background:#edfff4; }
+    .v2-card[data-s="OTH"] { background:#f5f5ff; }
+    .v2-sender { font-size:10px; font-weight:700; letter-spacing:.8px; text-transform:uppercase; }
+    .v2-card[data-s="EG"]  .v2-sender { color:#8a6200; }
+    .v2-card[data-s="POL"] .v2-sender { color:#a8121e; }
+    .v2-card[data-s="JET"] .v2-sender { color:#007838; }
+    .v2-card[data-s="OTH"] .v2-sender { color:#444488; }
+    .v2-title   { font-size:13px; font-weight:700; line-height:1.45; color:#1a1a2e; flex:1; }
+    .v2-excerpt { font-size:11.5px; color:#3a3a50; line-height:1.6; border-top:1px solid rgba(0,0,0,.08); padding-top:7px; }
+    .v2-dot     { position:absolute; top:10px; right:11px; font-size:11px; opacity:.75; }
+    .v2-meta    { font-size:10.5px; color:var(--text-sub); border-top:1px solid rgba(0,0,0,.07); padding-top:6px; }
+    .v2-sidebar { position:sticky; top:112px; background:var(--surface); border:1px solid var(--border); border-radius:6px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,.07); }
+    .v2-sb-head { background:#f5f6f8; border-bottom:1px solid var(--border); padding:12px 18px; }
+    .v2-sb-ttl  { font-size:13px; font-weight:700; color:var(--primary); }
+    .v2-sb-sub  { font-size:11px; color:var(--text-sub); margin-top:2px; }
+    .v2-sb-body { padding:16px 18px; }
+    .v2-summary p { font-size:12.5px; line-height:1.75; color:#2a2a3e; margin-bottom:10px; }
+    .v2-summary p:last-child { margin-bottom:0; }
+    .v2-summary strong { color:#16163e; }
+    .v2-hr      { border:none; border-top:1px solid var(--border); margin:14px 0; }
+    .v2-src-lbl { font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1px; color:var(--text-sub); margin-bottom:8px; }
+    .v2-src     { display:flex; align-items:flex-start; gap:8px; padding:7px 0; border-bottom:1px solid var(--border); cursor:pointer; font-size:12px; line-height:1.4; color:var(--text); transition:color .15s; }
+    .v2-src:last-child { border-bottom:none; }
+    .v2-src:hover { color:var(--accent); }
+    .v2-badge   { font-size:9.5px; font-weight:700; color:#fff; padding:2px 5px; border-radius:3px; white-space:nowrap; flex-shrink:0; margin-top:1px; }
+    .v2-rt      { font-size:10.5px; color:var(--text-sub); margin-top:10px; }
+    .v2-modal   { display:none; position:fixed; inset:0; z-index:999; background:rgba(0,0,0,.65); align-items:center; justify-content:center; }
+    .v2-modal-box { background:#fff; border-radius:10px; overflow:hidden; width:90vw; max-width:940px; height:88vh; display:flex; flex-direction:column; box-shadow:0 12px 48px rgba(0,0,0,.4); animation:mIn .16s ease; }
+    @keyframes mIn { from{transform:scale(.94);opacity:0} to{transform:scale(1);opacity:1} }
+    .v2-mh { display:flex; align-items:center; gap:12px; padding:10px 18px; background:var(--primary); color:#fff; flex-shrink:0; }
+    .v2-mt { font-size:13px; font-weight:600; flex:1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .v2-mc { background:rgba(255,255,255,.15); border:1px solid rgba(255,255,255,.3); color:#fff; border-radius:6px; padding:4px 12px; cursor:pointer; font-size:12px; }
+    .v2-mc:hover { background:rgba(255,255,255,.28); }
+    .v2-mf { flex:1; border:none; width:100%; }
+    @media(max-width:960px){ .v2-wrap{grid-template-columns:1fr;} .v2-sidebar{position:static;} }
+    @media(max-width:640px){ .v2-grid{flex-direction:column;} }
+
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="logo" onclick="location.href='index.html'" style="cursor:pointer;" title="ホームへ">World<em>News</em></div>
+  <div class="header-date">2026年07月07日</div>
+  <div class="header-spacer"></div>
+  <div class="update-time">データ更新: 2026-07-07 18:41 JST &nbsp;|&nbsp; 毎朝6:30更新（PC）</div>
+  <button id="force-update-btn" class="force-update-btn" onclick="triggerSiteUpdate()" title="GitHub Actions ワークフローを起動してサイトを更新">🔄 今すぐ更新</button>
+  <div class="live-badge">LIVE</div>
+</header>
+<script>
+(function(){
+  function triggerSiteUpdate(){
+    var btn=document.getElementById('force-update-btn');
+    btn.textContent='⏳ 更新中…';
+    btn.disabled=true;
+    location.href=location.pathname+'?r='+Date.now();
+  }
+  if(location.search.startsWith('?r=')){
+    history.replaceState(null,'',location.pathname);
+  }
+  window.triggerSiteUpdate=triggerSiteUpdate;
+})();
+</script>
+<nav class="page-nav">
+  <a href="index.html"><span class="nav-icon">🏠</span>ホーム</a>
+  <a href="intelligence.html" class="active"><span class="nav-icon">🔍</span>インテリジェンス</a>
+  <a href="trump.html"><span class="nav-icon">🇺🇸</span>USトランプ</a>
+  <a href="theme.html"><span class="nav-icon">🔎</span>個別テーマ</a>
+  <a href="midterm.html"><span class="nav-icon">🗳️</span>米国中間選挙</a>
+  <a href="summary.html"><span class="nav-icon">📋</span>エグゼクティブ・サマリー</a>
+</nav>
+<div class="v2-wrap">
+  <div>
+    <div class="v2-grid">
+      <div class="v2-col"><div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260707_1736_‘Trump_management’__Everyone_else_has_a_plan_to_ke.pdf" data-title="‘Trump management’: Everyone else has a plan to keep NATO" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">‘Trump management’: Everyone else has a plan to keep NATO</div>
+  
+  <div class="v2-meta">JUL 7  17:36 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260707_1635_It’s_Judgment_Day_for_Marine_Le_Pen.pdf" data-title="It’s Judgment Day for Marine Le Pen" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">It’s Judgment Day for Marine Le Pen</div>
+  
+  <div class="v2-meta">JUL 7  16:35 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_1519_EG_United_Kingdom__Burnham_may_tweak_investment_ru.pdf" data-title="EG United Kingdom: Burnham may tweak investment rule to" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG United Kingdom: Burnham may tweak investment rule to</div>
+  
+  <div class="v2-meta">JUL 7  15:19 &nbsp;·&nbsp; 7 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260707_1401_EU_ports_brace_for_long_queues_with_new_border_che.pdf" data-title="EU ports brace for long queues with new border checks" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">EU ports brace for long queues with new border checks</div>
+  <div class="v2-excerpt">EU の新しい出入国管理システム(Entry/Exit System)の導入により、今夏、ドーバー海峡やスペ</div>
+  <div class="v2-meta">JUL 7  14:01 &nbsp;·&nbsp; 9 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260707_1349_Le_Pen_or_Bardella__What_it_means_for_Europe.pdf" data-title="Le Pen or Bardella? What it means for Europe" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Le Pen or Bardella? What it means for Europe</div>
+  
+  <div class="v2-meta">JUL 7  13:49 &nbsp;·&nbsp; 14 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_1004_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf" data-title="On the ground in China: Assessing the reset of China-US relations" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">On the ground in China: Assessing the reset of China-US relations</div>
+  
+  <div class="v2-meta">JUL 7  10:04 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_0735_Research_Summary_for_Jul_6,_2026.pdf" data-title="Research Summary for Jul 6, 2026" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">Research Summary for Jul 6, 2026</div>
+  <div class="v2-excerpt">中東の主要産油国が増産を加速しており、市場シェア争いが激化することで、中国の低い輸入需要</div>
+  <div class="v2-meta">JUL 7  07:35 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_0409_China__Recent_engagement_with_key_officials_-_EG_C.pdf" data-title="China: Recent engagement with key officials - EG Conference Call" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">China: Recent engagement with key officials - EG Conference Call</div>
+  
+  <div class="v2-meta">JUL 7  04:09 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_0220_EG_Oil_Markets_Weekly__UAE-Saudi_competition_will_.pdf" data-title="EG Oil Markets Weekly: UAE-Saudi competition will keep prices low" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Oil Markets Weekly: UAE-Saudi competition will keep prices low</div>
+  
+  <div class="v2-meta">JUL 7  02:20 &nbsp;·&nbsp; 5 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_0213_EG_Pakistan__Ceasefire_collapse_will_extend_cycle_.pdf" data-title="EG Pakistan: Ceasefire collapse will extend cycle of low-level" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Pakistan: Ceasefire collapse will extend cycle of low-level</div>
+  
+  <div class="v2-meta">JUL 7  02:13 &nbsp;·&nbsp; 6 MIN READ</div>
+</div></div>
+      <div class="v2-col"><div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_0123_EG_US_Daily__McMorrow&#x27;s_exit_is_not_enough_for_Dem.pdf" data-title="EG US Daily: McMorrow&#x27;s exit is not enough for Democratic" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG US Daily: McMorrow&#x27;s exit is not enough for Democratic</div>
+  
+  <div class="v2-meta">JUL 7  01:23 &nbsp;·&nbsp; 8 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260707_0031_Pro_Daily_Headlines.pdf" data-title="Pro Daily Headlines" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Pro Daily Headlines</div>
+  <div class="v2-excerpt">ポルシェが大規模なリストラの一環として4,000人の追加削減を計画している。</div>
+  <div class="v2-meta">JUL 7  00:31 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260706_2150_EG_Daily_Brief__Iran_oil_revenue_sustains_shaky_pe.pdf" data-title="EG Daily Brief: Iran oil revenue sustains shaky peace as Gulf pivots" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Daily Brief: Iran oil revenue sustains shaky peace as Gulf pivots</div>
+  <div class="v2-excerpt">イランは停戦期間中の石油輸出による70～80億ドルの収入を得られるため、交渉を引き延ばすと</div>
+  <div class="v2-meta">JUL 6  21:50 &nbsp;·&nbsp; 12 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260706_2109_EU_calls_for_‘fair_play’_after_Trump’s_red_card_in.pdf" data-title="EU calls for ‘fair play’ after Trump’s red card intervention rocks" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">EU calls for ‘fair play’ after Trump’s red card intervention rocks</div>
+  
+  <div class="v2-meta">JUL 6  21:09 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260706_2108_Britain_heads_to_NATO_summit_with_no_funding_plan.pdf" data-title="Britain heads to NATO summit with no funding plan" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Britain heads to NATO summit with no funding plan</div>
+  
+  <div class="v2-meta">JUL 6  21:08 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260706_2058_Porsche_plans_4,000_further_job_cuts_in_major_rest.pdf" data-title="Porsche plans 4,000 further job cuts in major restructuring" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Porsche plans 4,000 further job cuts in major restructuring</div>
+  <div class="v2-excerpt">ドイツの自動車メーカーポルシェが、経営再建のため管理・運営部門で4,000人の追加リストラを</div>
+  <div class="v2-meta">JUL 6  20:58 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="OTH" data-pdf="data/pdfs/20260706_2046_eg_update.pdf" data-title="eg update" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">Ian</div>
+  <div class="v2-title">eg update</div>
+  <div class="v2-excerpt">グローバル化は経済効率性と人間開発の進展をもたらしたが、地政学的な不安定性と政治的干渉に</div>
+  <div class="v2-meta">JUL 6  20:46 &nbsp;·&nbsp; 12 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260706_2044_Document__EU_capitals_seek_greater_say_over_‘Made_.pdf" data-title="Document: EU capitals seek greater say over ‘Made in Europe’" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Document: EU capitals seek greater say over ‘Made in Europe’</div>
+  <div class="v2-excerpt">EU加盟国は、産業加速化法の「信頼できるパートナー」国の選定権を、欧州委員会から制限する</div>
+  <div class="v2-meta">JUL 6  20:44 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260706_2042_On_the_Ground_in_China__Assessing_the_reset_of_Chi.pdf" data-title="On the Ground in China: Assessing the reset of China-US relations" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">On the Ground in China: Assessing the reset of China-US relations</div>
+  
+  <div class="v2-meta">JUL 6  20:42 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260706_2025_EU_countries_want_‘buy_European’_quotas_for_green_.pdf" data-title="EU countries want ‘buy European’ quotas for green steel" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">EU countries want ‘buy European’ quotas for green steel</div>
+  <div class="v2-excerpt">EU諸国は産業加速化法案を修正し、低炭素鋼の調達に「EU製」の義務付けを含めることを提案し</div>
+  <div class="v2-meta">JUL 6  20:25 &nbsp;·&nbsp; 2 MIN READ</div>
+</div></div>
+      <div class="v2-col"><div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260706_1906_Metsola_heads_for_clash_with_her_own_Parliament_ov.pdf" data-title="Metsola heads for clash with her own Parliament over child abuse" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Metsola heads for clash with her own Parliament over child abuse</div>
+  
+  <div class="v2-meta">JUL 6  19:06 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="OTH" data-pdf="data/pdfs/20260706_1806_「ジェトロ・ビジネス短信」2026_07_06.pdf" data-title="「ジェトロ・ビジネス短信」2026/07/06" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">ビジネス短信</div>
+  <div class="v2-title">「ジェトロ・ビジネス短信」2026/07/06</div>
+  <div class="v2-excerpt">中国とEUがブリュッセルで貿易投資協議メカニズムの初会合を開催し、4つの作業部会設置で合意</div>
+  <div class="v2-meta">JUL 6  18:06 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260706_1741_How_Pedro_Lourtie_became_the_EU’s_dealmaker_in_chi.pdf" data-title="How Pedro Lourtie became the EU’s dealmaker in chief" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">How Pedro Lourtie became the EU’s dealmaker in chief</div>
+  
+  <div class="v2-meta">JUL 6  17:41 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260706_1636_France’s_far-right_star_Bardella_is_about_to_find_.pdf" data-title="France’s far-right star Bardella is about to find out whether he’s" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">France’s far-right star Bardella is about to find out whether he’s</div>
+  
+  <div class="v2-meta">JUL 6  16:36 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260706_1505_On_the_Ground_in_China__Assessing_the_reset_of_Chi.pdf" data-title="On the Ground in China: Assessing the reset of China-US relations" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">On the Ground in China: Assessing the reset of China-US relations</div>
+  
+  <div class="v2-meta">JUL 6  15:05 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260706_1402_Overcrowding_at_Madrid,_Barcelona_airports_prevent.pdf" data-title="Overcrowding at Madrid, Barcelona airports prevents flight" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Overcrowding at Madrid, Barcelona airports prevents flight</div>
+  
+  <div class="v2-meta">JUL 6  14:02 &nbsp;·&nbsp; 9 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260706_1352_Rutte’s_Trump_whispering_faces_stress_test.pdf" data-title="Rutte’s Trump whispering faces stress test" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Rutte’s Trump whispering faces stress test</div>
+  <div class="v2-excerpt">NATO事務総長マーク・ルッテがアンカラサミットでトランプ米大統領がNATO同盟を脱線させな</div>
+  <div class="v2-meta">JUL 6  13:52 &nbsp;·&nbsp; 14 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260706_1249_EG_Research_Summary_in_Japanese__2026年7月6日.pdf" data-title="EG Research Summary in Japanese: 2026年7月6日" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Research Summary in Japanese: 2026年7月6日</div>
+  <div class="v2-excerpt">EUは技術主権を推進しているが、AI分野で米国に依存しており、ホワイトハウスの予測不可能性</div>
+  <div class="v2-meta">JUL 6  12:49 &nbsp;·&nbsp; 3 MIN READ</div>
+</div>
+<div class="v2-card" data-s="JET" data-pdf="data/pdfs/20260706_1239_ジェトロ・メンバーズニュース第470号.pdf" data-title="ジェトロ・メンバーズニュース第470号" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">Jetro</div>
+  <div class="v2-title">ジェトロ・メンバーズニュース第470号</div>
+  <div class="v2-excerpt">貿易実務講座やHSコード講座など複数のオンデマンド講座が配信中であり、インコタームズや手</div>
+  <div class="v2-meta">JUL 6  12:39 &nbsp;·&nbsp; 3 MIN READ</div>
+</div></div>
+    </div>
+  </div>
+  <div class="v2-sidebar">
+  <div class="v2-sb-head">
+    <div class="v2-sb-ttl">Today's Key Takeaways</div>
+    <div class="v2-sb-sub">2026-07-07 18:41 JST &nbsp;·&nbsp; ~1 min read</div>
+  </div>
+  <div class="v2-sb-body">
+    <div class="v2-summary"><p><strong>EU ports brace for long queues with new border che.</strong> EU の新しい出入国管理システム(Entry/Exit System)の導入により、今夏、ドーバー海峡やスペ</p>
+<p><strong>Research Summary for Jul 6, 2026.</strong> 中東の主要産油国が増産を加速しており、市場シェア争いが激化することで、中国の低い輸入需要</p>
+<p><strong>Pro Daily Headlines.</strong> ポルシェが大規模なリストラの一環として4,000人の追加削減を計画している。</p>
+<p><strong>EG Daily Brief: Iran oil revenue sustains shaky pe.</strong> イランは停戦期間中の石油輸出による70～80億ドルの収入を得られるため、交渉を引き延ばすと</p></div>
+    <hr class="v2-hr"><div class="v2-src-lbl">Source PDFs</div>
+<div class="v2-src" onclick="openPdfDirect('data/pdfs/20260707_1401_EU_ports_brace_for_long_queues_with_new_border_che.pdf','EU ports brace for long queues with new border checks')"><span class="v2-badge" style="background:#a8121e;">POLITICO</span><span>EU ports brace for long queues with new border checks</span></div>
+<div class="v2-src" onclick="openPdfDirect('data/pdfs/20260707_0735_Research_Summary_for_Jul_6,_2026.pdf','Research Summary for Jul 6, 2026')"><span class="v2-badge" style="background:#8a6200;">Eurasia Group</span><span>Research Summary for Jul 6, 2026</span></div>
+<div class="v2-src" onclick="openPdfDirect('data/pdfs/20260707_0031_Pro_Daily_Headlines.pdf','Pro Daily Headlines')"><span class="v2-badge" style="background:#a8121e;">POLITICO</span><span>Pro Daily Headlines</span></div>
+<div class="v2-src" onclick="openPdfDirect('data/pdfs/20260706_2150_EG_Daily_Brief__Iran_oil_revenue_sustains_shaky_pe.pdf','EG Daily Brief: Iran oil revenue sustains shaky peace as Gul')"><span class="v2-badge" style="background:#8a6200;">Eurasia Group</span><span>EG Daily Brief: Iran oil revenue sustains shaky peace as Gulf pivots</span></div>
+
+    <div class="v2-rt">⏱ Full sources: ~24 min total</div>
+  </div>
+</div>
+</div>
+
+<footer class="site-footer">
+  ソース: NHK・産経・日経・CNBC・FT・BBC・NYT・Reuters・Al Jazeera ほか &nbsp;|&nbsp; The Economist &nbsp;|&nbsp; White House RSS &nbsp;|&nbsp; Truth Social<br>
+  データ更新: 2026-07-07 18:41 JST &nbsp;|&nbsp;
+  ☁️ ホーム・USトランプ: 6時間ごと自動更新 &nbsp;|&nbsp;
+  🖥️ メール・The Economist: 毎朝6:30更新（PC）<br>
+  <button onclick="triggerSiteUpdate()" style="background:none;border:none;color:var(--accent);font-size:11px;cursor:pointer;padding:0;font-family:inherit;">🔄 今すぐ更新（GitHub Actions）</button>
+  &nbsp;|&nbsp; World News
+</footer>
+<div id="v2-modal" class="v2-modal">
+  <div class="v2-modal-box">
+    <div class="v2-mh">
+      <span id="v2-mt" class="v2-mt">PDF</span>
+      <button onclick="closeModal()" class="v2-mc">✕ 閉じる</button>
+    </div>
+    <iframe id="v2-mf" class="v2-mf" src="about:blank"></iframe>
+  </div>
+</div>
+<script>
+var modal=document.getElementById('v2-modal'),frame=document.getElementById('v2-mf'),ttl=document.getElementById('v2-mt');
+function openPdf(c){ttl.textContent=c.dataset.title||'PDF';frame.src=c.dataset.pdf;modal.style.display='flex';}
+function openPdfDirect(u,t){ttl.textContent=t||'PDF';frame.src=u;modal.style.display='flex';}
+function closeModal(){modal.style.display='none';frame.src='about:blank';}
+modal.addEventListener('click',function(e){if(e.target===modal)closeModal();});
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closeModal();});
+</script>
+</body></html>

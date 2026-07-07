@@ -1,0 +1,296 @@
+{
+  "updated_at": "2026-07-07 18:41 JST",
+  "total": 29,
+  "emails": [
+    {
+      "ts": "20260707_1736",
+      "sender_norm": "POLITICO",
+      "subject": "‘Trump management’: Everyone else has a plan to keep NATO",
+      "pdf": "data/pdfs/20260707_1736_‘Trump_management’__Everyone_else_has_a_plan_to_ke.pdf",
+      "date_label": "JUL 7  17:36",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_1635",
+      "sender_norm": "POLITICO",
+      "subject": "It’s Judgment Day for Marine Le Pen",
+      "pdf": "data/pdfs/20260707_1635_It’s_Judgment_Day_for_Marine_Le_Pen.pdf",
+      "date_label": "JUL 7  16:35",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_1519",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG United Kingdom: Burnham may tweak investment rule to",
+      "pdf": "data/pdfs/20260707_1519_EG_United_Kingdom__Burnham_may_tweak_investment_ru.pdf",
+      "date_label": "JUL 7  15:19",
+      "read_min": 7,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_1401",
+      "sender_norm": "POLITICO",
+      "subject": "EU ports brace for long queues with new border checks",
+      "pdf": "data/pdfs/20260707_1401_EU_ports_brace_for_long_queues_with_new_border_che.pdf",
+      "date_label": "JUL 7  14:01",
+      "read_min": 9,
+      "toyota": true,
+      "excerpt": "EU の新しい出入国管理システム(Entry/Exit System)の導入により、今夏、ドーバー海峡やスペ"
+    },
+    {
+      "ts": "20260707_1349",
+      "sender_norm": "POLITICO",
+      "subject": "Le Pen or Bardella? What it means for Europe",
+      "pdf": "data/pdfs/20260707_1349_Le_Pen_or_Bardella__What_it_means_for_Europe.pdf",
+      "date_label": "JUL 7  13:49",
+      "read_min": 14,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_1004",
+      "sender_norm": "Eurasia Group",
+      "subject": "On the ground in China: Assessing the reset of China-US relations",
+      "pdf": "data/pdfs/20260707_1004_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf",
+      "date_label": "JUL 7  10:04",
+      "read_min": 2,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_0735",
+      "sender_norm": "Eurasia Group",
+      "subject": "Research Summary for Jul 6, 2026",
+      "pdf": "data/pdfs/20260707_0735_Research_Summary_for_Jul_6,_2026.pdf",
+      "date_label": "JUL 7  07:35",
+      "read_min": 2,
+      "toyota": true,
+      "excerpt": "中東の主要産油国が増産を加速しており、市場シェア争いが激化することで、中国の低い輸入需要"
+    },
+    {
+      "ts": "20260707_0409",
+      "sender_norm": "Eurasia Group",
+      "subject": "China: Recent engagement with key officials - EG Conference Call",
+      "pdf": "data/pdfs/20260707_0409_China__Recent_engagement_with_key_officials_-_EG_C.pdf",
+      "date_label": "JUL 7  04:09",
+      "read_min": 2,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_0220",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG Oil Markets Weekly: UAE-Saudi competition will keep prices low",
+      "pdf": "data/pdfs/20260707_0220_EG_Oil_Markets_Weekly__UAE-Saudi_competition_will_.pdf",
+      "date_label": "JUL 7  02:20",
+      "read_min": 5,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_0213",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG Pakistan: Ceasefire collapse will extend cycle of low-level",
+      "pdf": "data/pdfs/20260707_0213_EG_Pakistan__Ceasefire_collapse_will_extend_cycle_.pdf",
+      "date_label": "JUL 7  02:13",
+      "read_min": 6,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_0123",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG US Daily: McMorrow's exit is not enough for Democratic",
+      "pdf": "data/pdfs/20260707_0123_EG_US_Daily__McMorrow's_exit_is_not_enough_for_Dem.pdf",
+      "date_label": "JUL 7  01:23",
+      "read_min": 8,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_0031",
+      "sender_norm": "POLITICO",
+      "subject": "Pro Daily Headlines",
+      "pdf": "data/pdfs/20260707_0031_Pro_Daily_Headlines.pdf",
+      "date_label": "JUL 7  00:31",
+      "read_min": 1,
+      "toyota": true,
+      "excerpt": "ポルシェが大規模なリストラの一環として4,000人の追加削減を計画している。"
+    },
+    {
+      "ts": "20260706_2150",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG Daily Brief: Iran oil revenue sustains shaky peace as Gulf pivots",
+      "pdf": "data/pdfs/20260706_2150_EG_Daily_Brief__Iran_oil_revenue_sustains_shaky_pe.pdf",
+      "date_label": "JUL 6  21:50",
+      "read_min": 12,
+      "toyota": true,
+      "excerpt": "イランは停戦期間中の石油輸出による70～80億ドルの収入を得られるため、交渉を引き延ばすと"
+    },
+    {
+      "ts": "20260706_2109",
+      "sender_norm": "POLITICO",
+      "subject": "EU calls for ‘fair play’ after Trump’s red card intervention rocks",
+      "pdf": "data/pdfs/20260706_2109_EU_calls_for_‘fair_play’_after_Trump’s_red_card_in.pdf",
+      "date_label": "JUL 6  21:09",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260706_2108",
+      "sender_norm": "POLITICO",
+      "subject": "Britain heads to NATO summit with no funding plan",
+      "pdf": "data/pdfs/20260706_2108_Britain_heads_to_NATO_summit_with_no_funding_plan.pdf",
+      "date_label": "JUL 6  21:08",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260706_2058",
+      "sender_norm": "POLITICO",
+      "subject": "Porsche plans 4,000 further job cuts in major restructuring",
+      "pdf": "data/pdfs/20260706_2058_Porsche_plans_4,000_further_job_cuts_in_major_rest.pdf",
+      "date_label": "JUL 6  20:58",
+      "read_min": 2,
+      "toyota": true,
+      "excerpt": "ドイツの自動車メーカーポルシェが、経営再建のため管理・運営部門で4,000人の追加リストラを"
+    },
+    {
+      "ts": "20260706_2046",
+      "sender_norm": "Ian",
+      "subject": "eg update",
+      "pdf": "data/pdfs/20260706_2046_eg_update.pdf",
+      "date_label": "JUL 6  20:46",
+      "read_min": 12,
+      "toyota": true,
+      "excerpt": "グローバル化は経済効率性と人間開発の進展をもたらしたが、地政学的な不安定性と政治的干渉に"
+    },
+    {
+      "ts": "20260706_2044",
+      "sender_norm": "POLITICO",
+      "subject": "Document: EU capitals seek greater say over ‘Made in Europe’",
+      "pdf": "data/pdfs/20260706_2044_Document__EU_capitals_seek_greater_say_over_‘Made_.pdf",
+      "date_label": "JUL 6  20:44",
+      "read_min": 2,
+      "toyota": true,
+      "excerpt": "EU加盟国は、産業加速化法の「信頼できるパートナー」国の選定権を、欧州委員会から制限する"
+    },
+    {
+      "ts": "20260706_2042",
+      "sender_norm": "Eurasia Group",
+      "subject": "On the Ground in China: Assessing the reset of China-US relations",
+      "pdf": "data/pdfs/20260706_2042_On_the_Ground_in_China__Assessing_the_reset_of_Chi.pdf",
+      "date_label": "JUL 6  20:42",
+      "read_min": 2,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260706_2025",
+      "sender_norm": "POLITICO",
+      "subject": "EU countries want ‘buy European’ quotas for green steel",
+      "pdf": "data/pdfs/20260706_2025_EU_countries_want_‘buy_European’_quotas_for_green_.pdf",
+      "date_label": "JUL 6  20:25",
+      "read_min": 2,
+      "toyota": true,
+      "excerpt": "EU諸国は産業加速化法案を修正し、低炭素鋼の調達に「EU製」の義務付けを含めることを提案し"
+    },
+    {
+      "ts": "20260706_1906",
+      "sender_norm": "POLITICO",
+      "subject": "Metsola heads for clash with her own Parliament over child abuse",
+      "pdf": "data/pdfs/20260706_1906_Metsola_heads_for_clash_with_her_own_Parliament_ov.pdf",
+      "date_label": "JUL 6  19:06",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260706_1806",
+      "sender_norm": "ビジネス短信",
+      "subject": "「ジェトロ・ビジネス短信」2026/07/06",
+      "pdf": "data/pdfs/20260706_1806_「ジェトロ・ビジネス短信」2026_07_06.pdf",
+      "date_label": "JUL 6  18:06",
+      "read_min": 1,
+      "toyota": true,
+      "excerpt": "中国とEUがブリュッセルで貿易投資協議メカニズムの初会合を開催し、4つの作業部会設置で合意"
+    },
+    {
+      "ts": "20260706_1741",
+      "sender_norm": "POLITICO",
+      "subject": "How Pedro Lourtie became the EU’s dealmaker in chief",
+      "pdf": "data/pdfs/20260706_1741_How_Pedro_Lourtie_became_the_EU’s_dealmaker_in_chi.pdf",
+      "date_label": "JUL 6  17:41",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260706_1636",
+      "sender_norm": "POLITICO",
+      "subject": "France’s far-right star Bardella is about to find out whether he’s",
+      "pdf": "data/pdfs/20260706_1636_France’s_far-right_star_Bardella_is_about_to_find_.pdf",
+      "date_label": "JUL 6  16:36",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260706_1505",
+      "sender_norm": "Eurasia Group",
+      "subject": "On the Ground in China: Assessing the reset of China-US relations",
+      "pdf": "data/pdfs/20260706_1505_On_the_Ground_in_China__Assessing_the_reset_of_Chi.pdf",
+      "date_label": "JUL 6  15:05",
+      "read_min": 2,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260706_1402",
+      "sender_norm": "POLITICO",
+      "subject": "Overcrowding at Madrid, Barcelona airports prevents flight",
+      "pdf": "data/pdfs/20260706_1402_Overcrowding_at_Madrid,_Barcelona_airports_prevent.pdf",
+      "date_label": "JUL 6  14:02",
+      "read_min": 9,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260706_1352",
+      "sender_norm": "POLITICO",
+      "subject": "Rutte’s Trump whispering faces stress test",
+      "pdf": "data/pdfs/20260706_1352_Rutte’s_Trump_whispering_faces_stress_test.pdf",
+      "date_label": "JUL 6  13:52",
+      "read_min": 14,
+      "toyota": true,
+      "excerpt": "NATO事務総長マーク・ルッテがアンカラサミットでトランプ米大統領がNATO同盟を脱線させな"
+    },
+    {
+      "ts": "20260706_1249",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG Research Summary in Japanese: 2026年7月6日",
+      "pdf": "data/pdfs/20260706_1249_EG_Research_Summary_in_Japanese__2026年7月6日.pdf",
+      "date_label": "JUL 6  12:49",
+      "read_min": 3,
+      "toyota": true,
+      "excerpt": "EUは技術主権を推進しているが、AI分野で米国に依存しており、ホワイトハウスの予測不可能性"
+    },
+    {
+      "ts": "20260706_1239",
+      "sender_norm": "Jetro",
+      "subject": "ジェトロ・メンバーズニュース第470号",
+      "pdf": "data/pdfs/20260706_1239_ジェトロ・メンバーズニュース第470号.pdf",
+      "date_label": "JUL 6  12:39",
+      "read_min": 3,
+      "toyota": true,
+      "excerpt": "貿易実務講座やHSコード講座など複数のオンデマンド講座が配信中であり、インコタームズや手"
+    }
+  ]
+}
