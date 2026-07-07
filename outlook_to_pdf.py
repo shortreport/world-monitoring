@@ -81,12 +81,14 @@ def strip_html(text: str) -> str:
 
 # ── 自動車関連キーワード判定 ──────────────────────────────────────────────────
 _TOYOTA_KW = [
-    "toyota", "トヨタ", "自動車", "automotive", "auto sector", "ev ",
-    "electric vehicle", "usmca", "supply chain", "サプライチェーン",
-    "catl", "battery", "automobile", "car tariff", "車", "mexico",
-    "iaa", "industrial accelerator act", "porsche", "volkswagen", "vw ",
-    "stellantis", "bmw", "nissan", "honda", "ford", "gm ", "general motors",
-    "自動車産業", "自動車メーカー", "mobility",
+    "toyota", "トヨタ", "自動車", "automotive", "auto sector",
+    "electric vehicle", "ev tariff", "ev policy", "ev market",
+    "automobile", "car tariff", "car industry", "car maker",
+    "iaa", "industrial accelerator act",
+    "porsche", "volkswagen", "vw ", "stellantis", "bmw",
+    "nissan", "honda motor", "ford motor", "general motors",
+    "自動車産業", "自動車メーカー", "自動車業界",
+    "catl", "usmca",
 ]
 
 def is_toyota_relevant(subject: str, body: str) -> bool:
