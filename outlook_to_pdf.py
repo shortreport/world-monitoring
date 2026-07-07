@@ -79,6 +79,21 @@ def strip_html(text: str) -> str:
     return text.strip()
 
 
+# ── 自動車関連キーワード判定 ──────────────────────────────────────────────────
+_TOYOTA_KW = [
+    "toyota", "トヨタ", "自動車", "automotive", "auto sector", "ev ",
+    "electric vehicle", "usmca", "supply chain", "サプライチェーン",
+    "catl", "battery", "automobile", "car tariff", "車", "mexico",
+    "iaa", "industrial accelerator act", "porsche", "volkswagen", "vw ",
+    "stellantis", "bmw", "nissan", "honda", "ford", "gm ", "general motors",
+    "自動車産業", "自動車メーカー", "mobility",
+]
+
+def is_toyota_relevant(subject: str, body: str) -> bool:
+    text = (subject + " " + body[:2000]).lower()
+    return any(kw in text for kw in _TOYOTA_KW)
+
+
 # ── Claude で要点要約 ─────────────────────────────────────────────────────────
 def summarize(subject: str, body: str) -> str:
     client = anthropic.Anthropic(api_key=CLAUDE_API_KEY)
@@ -141,19 +156,18 @@ def make_pdf(subject: str, sender: str, date_str: str,
     ))
     story.append(Spacer(1, 5 * mm))
 
-    # ── 要点セクション ────────────────────────────
-    story.append(Paragraph("【要点】", s_sec))
-    for line in summary.splitlines():
-        line = line.strip()
-        if line:
-            story.append(Paragraph(_esc(line), s_bullet))
-    story.append(Spacer(1, 5 * mm))
-
-    # 区切り線
-    story.append(HRFlowable(
-        width="100%", thickness=0.8,
-        color=HexColor("#aaaacc"), spaceAfter=4 * mm,
-    ))
+    # ── 要点セクション（自動車関連のみ）────────────
+    if summary:
+        story.append(Paragraph("【要点】", s_sec))
+        for line in summary.splitlines():
+            line = line.strip()
+            if line:
+                story.append(Paragraph(_esc(line), s_bullet))
+        story.append(Spacer(1, 5 * mm))
+        story.append(HRFlowable(
+            width="100%", thickness=0.8,
+            color=HexColor("#aaaacc"), spaceAfter=4 * mm,
+        ))
 
     # ── 原文セクション ────────────────────────────
     story.append(Paragraph("【メール原文】", s_sec))
@@ -237,12 +251,16 @@ def process_folder(ns, folder_name: str) -> int:
         print(f"\n[{i}/{len(unread_items)}] {subject}")
         print(f"  送信者: {sender}  /  受信: {date_str}")
 
-        print("  → Claude で要約中...")
-        try:
-            summary = summarize(subject, body)
-        except Exception as e:
-            print(f"  ⚠ 要約エラー: {e}")
-            summary = "・要点の取得に失敗しました。"
+        if is_toyota_relevant(subject, body):
+            print("  → 🚗 自動車関連 — Claude で要約中...")
+            try:
+                summary = summarize(subject, body)
+            except Exception as e:
+                print(f"  ⚠ 要約エラー: {e}")
+                summary = ""
+        else:
+            print("  → スキップ（自動車無関連）")
+            summary = ""
 
         date_tag = str(recv)[:16].replace(":", "").replace("-", "").replace(" ", "_") if recv else "00000000_0000"
         fname    = f"{date_tag}_{safe_fname(subject)}.pdf"
