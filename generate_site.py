@@ -49,6 +49,7 @@ def yt(video_id: str) -> str:
 HOME_JSON_PATH      = Path(__file__).parent / "docs" / "data" / "home_latest.json"
 ECONOMIST_JSON_PATH = Path(__file__).parent / "docs" / "data" / "economist_latest.json"
 MAIL_JSON_PATH      = Path(__file__).parent / "docs" / "data" / "mail_latest.json"
+ROLLING_JSON_PATH   = Path(__file__).parent / "docs" / "data" / "mail_rolling.json"
 
 def load_home_data() -> list | None:
     """
@@ -868,12 +869,12 @@ FORCE_UPDATE_SCRIPT = """<script>
 
 def build_header_nav(active_page, data_updated_at=None):
     pages = [
-        ("index.html",   "🏠",  "ホーム",                 "home"),
-        ("mail.html",    "📧",  "メール要約",             "mail"),
-        ("trump.html",   "🇺🇸", "USトランプ",             "trump"),
-        ("theme.html",   "🔎",  "個別テーマ",             "theme"),
-        ("midterm.html", "🗳️",  "米国中間選挙",           "midterm"),
-        ("summary.html", "📋",  "エグゼクティブ・サマリー", "summary"),
+        ("index.html",        "🏠",  "ホーム",                 "home"),
+        ("intelligence.html", "🔍",  "インテリジェンス",       "intelligence"),
+        ("trump.html",        "🇺🇸", "USトランプ",             "trump"),
+        ("theme.html",        "🔎",  "個別テーマ",             "theme"),
+        ("midterm.html",      "🗳️",  "米国中間選挙",           "midterm"),
+        ("summary.html",      "📋",  "エグゼクティブ・サマリー", "summary"),
     ]
     tabs = ""
     for href_val, icon, label, pid in pages:
@@ -1368,6 +1369,188 @@ def generate_mail():
 
 
 # ═════════════════════════════════════════════════════════════
+#  ②-b メール要約 v2（ローリング50件）
+# ═════════════════════════════════════════════════════════════
+MAIL_V2_CSS = """
+    :root { --primary:#16163e; --surface:#ffffff; --surface-2:#edeef1; --border:#d8dae0; --text:#1a1a2e; --text-sub:#6b6f7a; --accent:#0096c8; }
+    .v2-wrap { max-width:1280px; margin:28px auto; padding:0 20px; display:grid; grid-template-columns:1fr 300px; gap:28px; align-items:start; }
+    .v2-grid { display:flex; gap:14px; align-items:flex-start; }
+    .v2-col  { flex:1; display:flex; flex-direction:column; gap:14px; }
+    .v2-card { border-radius:4px; padding:14px 16px 12px; cursor:pointer; display:flex; flex-direction:column; gap:7px; box-shadow:2px 3px 8px rgba(0,0,0,.10),0 1px 2px rgba(0,0,0,.06); transition:transform .15s,box-shadow .15s; position:relative; }
+    .v2-card:hover { transform:translateY(-3px); box-shadow:3px 6px 16px rgba(0,0,0,.15); }
+    .v2-card[data-s="EG"]  { background:#fffaed; }
+    .v2-card[data-s="POL"] { background:#fff0f1; }
+    .v2-card[data-s="JET"] { background:#edfff4; }
+    .v2-card[data-s="OTH"] { background:#f5f5ff; }
+    .v2-sender { font-size:10px; font-weight:700; letter-spacing:.8px; text-transform:uppercase; }
+    .v2-card[data-s="EG"]  .v2-sender { color:#8a6200; }
+    .v2-card[data-s="POL"] .v2-sender { color:#a8121e; }
+    .v2-card[data-s="JET"] .v2-sender { color:#007838; }
+    .v2-card[data-s="OTH"] .v2-sender { color:#444488; }
+    .v2-title   { font-size:13px; font-weight:700; line-height:1.45; color:#1a1a2e; flex:1; }
+    .v2-excerpt { font-size:11.5px; color:#3a3a50; line-height:1.6; border-top:1px solid rgba(0,0,0,.08); padding-top:7px; }
+    .v2-dot     { position:absolute; top:10px; right:11px; font-size:11px; opacity:.75; }
+    .v2-meta    { font-size:10.5px; color:var(--text-sub); border-top:1px solid rgba(0,0,0,.07); padding-top:6px; }
+    .v2-sidebar { position:sticky; top:112px; background:var(--surface); border:1px solid var(--border); border-radius:6px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,.07); }
+    .v2-sb-head { background:#f5f6f8; border-bottom:1px solid var(--border); padding:12px 18px; }
+    .v2-sb-ttl  { font-size:13px; font-weight:700; color:var(--primary); }
+    .v2-sb-sub  { font-size:11px; color:var(--text-sub); margin-top:2px; }
+    .v2-sb-body { padding:16px 18px; }
+    .v2-summary p { font-size:12.5px; line-height:1.75; color:#2a2a3e; margin-bottom:10px; }
+    .v2-summary p:last-child { margin-bottom:0; }
+    .v2-summary strong { color:#16163e; }
+    .v2-hr      { border:none; border-top:1px solid var(--border); margin:14px 0; }
+    .v2-src-lbl { font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1px; color:var(--text-sub); margin-bottom:8px; }
+    .v2-src     { display:flex; align-items:flex-start; gap:8px; padding:7px 0; border-bottom:1px solid var(--border); cursor:pointer; font-size:12px; line-height:1.4; color:var(--text); transition:color .15s; }
+    .v2-src:last-child { border-bottom:none; }
+    .v2-src:hover { color:var(--accent); }
+    .v2-badge   { font-size:9.5px; font-weight:700; color:#fff; padding:2px 5px; border-radius:3px; white-space:nowrap; flex-shrink:0; margin-top:1px; }
+    .v2-rt      { font-size:10.5px; color:var(--text-sub); margin-top:10px; }
+    .v2-modal   { display:none; position:fixed; inset:0; z-index:999; background:rgba(0,0,0,.65); align-items:center; justify-content:center; }
+    .v2-modal-box { background:#fff; border-radius:10px; overflow:hidden; width:90vw; max-width:940px; height:88vh; display:flex; flex-direction:column; box-shadow:0 12px 48px rgba(0,0,0,.4); animation:mIn .16s ease; }
+    @keyframes mIn { from{transform:scale(.94);opacity:0} to{transform:scale(1);opacity:1} }
+    .v2-mh { display:flex; align-items:center; gap:12px; padding:10px 18px; background:var(--primary); color:#fff; flex-shrink:0; }
+    .v2-mt { font-size:13px; font-weight:600; flex:1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .v2-mc { background:rgba(255,255,255,.15); border:1px solid rgba(255,255,255,.3); color:#fff; border-radius:6px; padding:4px 12px; cursor:pointer; font-size:12px; }
+    .v2-mc:hover { background:rgba(255,255,255,.28); }
+    .v2-mf { flex:1; border:none; width:100%; }
+    @media(max-width:960px){ .v2-wrap{grid-template-columns:1fr;} .v2-sidebar{position:static;} }
+    @media(max-width:640px){ .v2-grid{flex-direction:column;} }
+"""
+
+_SENDER_CODE = {
+    "Eurasia Group": ("EG",  "#8a6200"),
+    "POLITICO":      ("POL", "#a8121e"),
+    "Jetro":         ("JET", "#007838"),
+}
+
+def _sender_code(sender: str):
+    return _SENDER_CODE.get(sender, ("OTH", "#444488"))
+
+
+def _render_v2_card(email: dict) -> str:
+    code, _ = _sender_code(email["sender_norm"])
+    dot   = '<span class="v2-dot">🚗</span>' if email.get("toyota") else ""
+    exc   = f'<div class="v2-excerpt">{e(email["excerpt"])}</div>' if email.get("excerpt") else ""
+    subj  = e(email["subject"])
+    pdf   = e(email.get("pdf", ""))
+    title_attr = e(email["subject"])
+    return (
+        f'<div class="v2-card" data-s="{code}" data-pdf="{pdf}" '
+        f'data-title="{title_attr}" onclick="openPdf(this)">\n'
+        f'  {dot}\n'
+        f'  <div class="v2-sender">{e(email["sender_norm"])}</div>\n'
+        f'  <div class="v2-title">{subj}</div>\n'
+        f'  {exc}\n'
+        f'  <div class="v2-meta">{e(email["date_label"])} &nbsp;·&nbsp; {email["read_min"]} MIN READ</div>\n'
+        f'</div>'
+    )
+
+
+def _render_v2_sidebar(toyota_emails: list, updated_at: str) -> str:
+    """トヨタ関連メールの excerpt をサイドバー要約として表示"""
+    if not toyota_emails:
+        body = "<p>本日はトヨタ・自動車関連のメールはありません。</p>"
+        sources = ""
+    else:
+        paras = "\n".join(
+            f'<p><strong>{e(em["subject"][:50])}.</strong> {e(em["excerpt"] or "—")}</p>'
+            for em in toyota_emails[:4]
+        )
+        body = paras
+        src_items = ""
+        for em in toyota_emails[:4]:
+            code, col = _sender_code(em["sender_norm"])
+            src_items += (
+                f'<div class="v2-src" onclick="openPdfDirect(\'{e(em["pdf"])}\',\'{e(em["subject"][:60])}\')">'
+                f'<span class="v2-badge" style="background:{col};">{e(em["sender_norm"])}</span>'
+                f'<span>{e(em["subject"])}</span></div>\n'
+            )
+        sources = f'<hr class="v2-hr"><div class="v2-src-lbl">Source PDFs</div>\n{src_items}'
+
+    total_min = sum(em.get("read_min", 0) for em in toyota_emails[:4])
+    return f"""<div class="v2-sidebar">
+  <div class="v2-sb-head">
+    <div class="v2-sb-ttl">Today's Key Takeaways</div>
+    <div class="v2-sb-sub">{e(updated_at)} &nbsp;·&nbsp; ~1 min read</div>
+  </div>
+  <div class="v2-sb-body">
+    <div class="v2-summary">{body}</div>
+    {sources}
+    <div class="v2-rt">⏱ Full sources: ~{total_min} min total</div>
+  </div>
+</div>"""
+
+
+def generate_mail_v2() -> str:
+    if not ROLLING_JSON_PATH.exists():
+        # フォールバック: 空ページ
+        return f"""{build_head("インテリジェンス", MAIL_V2_CSS)}
+<body>{build_header_nav("intelligence")}
+<div style="padding:60px 20px;text-align:center;color:#888;">
+  データ未生成。mail_slides.py を実行してください。
+</div>{build_footer()}</body></html>"""
+
+    try:
+        data     = json.loads(ROLLING_JSON_PATH.read_text(encoding="utf-8"))
+        emails   = data.get("emails", [])
+        upd_at   = data.get("updated_at", "")
+    except Exception:
+        emails, upd_at = [], ""
+
+    # 3列に均等分配（新しい順に左列→中列→右列）
+    n  = len(emails)
+    c1 = (n + 2) // 3      # 切り上げ
+    c2 = (n + 1) // 3
+    # c3 = n - c1 - c2
+    col1 = emails[:c1]
+    col2 = emails[c1:c1+c2]
+    col3 = emails[c1+c2:]
+
+    col1_html = "\n".join(_render_v2_card(em) for em in col1)
+    col2_html = "\n".join(_render_v2_card(em) for em in col2)
+    col3_html = "\n".join(_render_v2_card(em) for em in col3)
+
+    toyota_emails = [em for em in emails if em.get("toyota") and em.get("excerpt")]
+    sidebar_html  = _render_v2_sidebar(toyota_emails, upd_at)
+
+    modal_js = """<div id="v2-modal" class="v2-modal">
+  <div class="v2-modal-box">
+    <div class="v2-mh">
+      <span id="v2-mt" class="v2-mt">PDF</span>
+      <button onclick="closeModal()" class="v2-mc">✕ 閉じる</button>
+    </div>
+    <iframe id="v2-mf" class="v2-mf" src="about:blank"></iframe>
+  </div>
+</div>
+<script>
+var modal=document.getElementById('v2-modal'),frame=document.getElementById('v2-mf'),ttl=document.getElementById('v2-mt');
+function openPdf(c){ttl.textContent=c.dataset.title||'PDF';frame.src=c.dataset.pdf;modal.style.display='flex';}
+function openPdfDirect(u,t){ttl.textContent=t||'PDF';frame.src=u;modal.style.display='flex';}
+function closeModal(){modal.style.display='none';frame.src='about:blank';}
+modal.addEventListener('click',function(e){if(e.target===modal)closeModal();});
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closeModal();});
+</script>"""
+
+    return f"""{build_head("インテリジェンス", MAIL_V2_CSS)}
+<body>
+{build_header_nav("intelligence", data_updated_at=upd_at)}
+<div class="v2-wrap">
+  <div>
+    <div class="v2-grid">
+      <div class="v2-col">{col1_html}</div>
+      <div class="v2-col">{col2_html}</div>
+      <div class="v2-col">{col3_html}</div>
+    </div>
+  </div>
+  {sidebar_html}
+</div>
+{build_footer(data_updated_at=upd_at)}
+{modal_js}
+</body></html>"""
+
+
+# ═════════════════════════════════════════════════════════════
 #  ③ トランプページ生成
 # ═════════════════════════════════════════════════════════════
 TRUMP_CSS = """
@@ -1852,10 +2035,11 @@ if __name__ == "__main__":
     out_dir.mkdir(exist_ok=True)
 
     pages = [
-        ("index.html", generate_home,  "Home"),
-        ("mail.html",  generate_mail,  "Mail Summary"),
-        ("trump.html", generate_trump, "Trump Monitor"),
-        ("theme.html", generate_theme, "個別テーマ"),
+        ("index.html",        generate_home,     "Home"),
+        ("mail.html",         generate_mail,     "Mail Summary"),
+        ("intelligence.html", generate_mail_v2,  "Intelligence"),
+        ("trump.html",        generate_trump,    "Trump Monitor"),
+        ("theme.html",        generate_theme,    "個別テーマ"),
     ]
     for filename, gen_fn, label in pages:
         out_path = out_dir / filename

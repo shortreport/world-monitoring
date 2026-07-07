@@ -5,12 +5,19 @@ Outlook の特定フォルダーの未読メールを PDF 化するスクリプ�
   - 処理後に既読へ変更
 出力先: C:\\Users\\shondo\\Desktop\\agent_project\\files
 """
+import os
 import re
 import html
 import sys
 import argparse
 from pathlib import Path
 from datetime import datetime
+
+# Windows コンソールの文字化け防止
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
 import win32com.client
 import pythoncom
