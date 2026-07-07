@@ -1447,19 +1447,23 @@ def _render_v2_card(email: dict) -> str:
     )
 
 
-def _render_v2_sidebar(toyota_emails: list, updated_at: str) -> str:
-    """トヨタ関連メールの excerpt をサイドバー要約として表示"""
+def _render_v2_sidebar(toyota_emails: list, updated_at: str, toyota_summary: str = "") -> str:
+    """統合要約（上）＋ソースPDFリンク（下）のサイドバー"""
     if not toyota_emails:
-        body = "<p>本日はトヨタ・自動車関連のメールはありません。</p>"
+        body = "<p>No automotive-relevant emails today.</p>"
         sources = ""
     else:
-        paras = "\n".join(
-            f'<p><strong>{e(em["subject"][:50])}.</strong> {e(em["excerpt"] or "—")}</p>'
-            for em in toyota_emails[:4]
-        )
-        body = paras
+        if toyota_summary:
+            body = f'<p>{e(toyota_summary)}</p>'
+        else:
+            # フォールバック: excerpt を並べる
+            body = "\n".join(
+                f'<p><strong>{e(em["subject"][:55])}.</strong> {e(em["excerpt"] or "")}</p>'
+                for em in toyota_emails[:4] if em.get("excerpt")
+            ) or "<p>No summary available.</p>"
+
         src_items = ""
-        for em in toyota_emails[:4]:
+        for em in toyota_emails[:6]:
             code, col = _sender_code(em["sender_norm"])
             src_items += (
                 f'<div class="v2-src" onclick="openPdfDirect(\'{e(em["pdf"])}\',\'{e(em["subject"][:60])}\')">'
@@ -1468,7 +1472,7 @@ def _render_v2_sidebar(toyota_emails: list, updated_at: str) -> str:
             )
         sources = f'<hr class="v2-hr"><div class="v2-src-lbl">Source PDFs</div>\n{src_items}'
 
-    total_min = sum(em.get("read_min", 0) for em in toyota_emails[:4])
+    total_min = sum(em.get("read_min", 0) for em in toyota_emails[:6])
     return f"""<div class="v2-sidebar">
   <div class="v2-sb-head">
     <div class="v2-sb-ttl">Today's Key Takeaways</div>
@@ -1492,11 +1496,12 @@ def generate_mail_v2() -> str:
 </div>{build_footer()}</body></html>"""
 
     try:
-        data     = json.loads(ROLLING_JSON_PATH.read_text(encoding="utf-8"))
-        emails   = data.get("emails", [])
-        upd_at   = data.get("updated_at", "")
+        data           = json.loads(ROLLING_JSON_PATH.read_text(encoding="utf-8"))
+        emails         = data.get("emails", [])
+        upd_at         = data.get("updated_at", "")
+        toyota_summary = data.get("toyota_summary", "")
     except Exception:
-        emails, upd_at = [], ""
+        emails, upd_at, toyota_summary = [], "", ""
 
     # 3列に均等分配（新しい順に左列→中列→右列）
     n  = len(emails)
@@ -1512,7 +1517,7 @@ def generate_mail_v2() -> str:
     col3_html = "\n".join(_render_v2_card(em) for em in col3)
 
     toyota_emails = [em for em in emails if em.get("toyota") and em.get("excerpt")]
-    sidebar_html  = _render_v2_sidebar(toyota_emails, upd_at)
+    sidebar_html  = _render_v2_sidebar(toyota_emails, upd_at, toyota_summary)
 
     modal_js = """<div id="v2-modal" class="v2-modal">
   <div class="v2-modal-box">
