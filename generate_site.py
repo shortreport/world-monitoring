@@ -870,7 +870,7 @@ FORCE_UPDATE_SCRIPT = """<script>
 def build_header_nav(active_page, data_updated_at=None):
     pages = [
         ("index.html",        "🏠",  "ホーム",                 "home"),
-        ("intelligence.html", "🔍",  "インテリジェンス",       "intelligence"),
+        ("intelligence.html", "📋",  "インテリジェンス",       "intelligence"),
         ("trump.html",        "🇺🇸", "USトランプ",             "trump"),
         ("theme.html",        "🔎",  "個別テーマ",             "theme"),
         ("midterm.html",      "🗳️",  "米国中間選挙",           "midterm"),
