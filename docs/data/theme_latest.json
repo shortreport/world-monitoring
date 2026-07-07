@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07 19:10:17",
+  "generated_at": "2026-07-07 19:20:24",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-07 19:09:49",
+      "last_checked": "2026-07-07 19:19:56",
       "items": [
         {
           "uid": "830645abbe33",
@@ -1769,7 +1769,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-07 19:09:56",
+      "last_checked": "2026-07-07 19:20:03",
       "items": [
         {
           "uid": "ca5085e5c357",
@@ -3720,8 +3720,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-07 19:10:17",
+      "last_checked": "2026-07-07 19:20:24",
       "items": [
+        {
+          "uid": "6c85dffafc59",
+          "date": "2026-05-25",
+          "title": "Rare Earth Supply Chain: Greenland Mines Secures Sarfartoq Nd-Pr Project in $35M Deal - Tech Times",
+          "summary": "グリーンランドの鉱山企業が35百万ドルでSarfartoq Nd-Pr鉱床プロジェクトを確保し、中国に依存してきたレアアース供給チェーンの多角化が進展している。本取引は、中国のレアアース輸出管理強化に対抗する西側諸国の供給源確保戦略の一環である。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdDVnUnV3VG9EX2VVNkpkOHZHMXpkTE1QVktBbkpVemhfOW44Z0tzdkhoaFN6SUQ3VXBDRXlod0o1UVk0U3pVTk5saVNhaVVrQU5RdjR4UGhmeXBVYTdNYW1tQkNKWEsyR2JaLXhCRXZRRDA1YXdBYzl3b2U1SEMwd1RJcGgyTkJkTHkxNjVmcThWVWIxWXBrZUh6LXFfSGtxWFB0Z2RVUHF3MmhkZGttZk9seVczQ05BdHdWdzQ0RUVkX2NjYWRCWFZMUDFaWGNT?oc=5",
+          "added_at": "2026-07-07 19:20:17"
+        },
+        {
+          "uid": "e43cbdb4db97",
+          "date": "2026-05-15",
+          "title": "The U.S.-China Trade Relationship: What’s Behind the Competition? - Council on Foreign Relations",
+          "summary": "申し訳ありませんが、提供いただいたテキストには記事の具体的な内容が含まれていないため、要約することができません。記事本文をご提供いただければ、「中国レアアース輸出管理」に関する文脈での要約をお作りします。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85R1Rxa096czZxUGpuWjB0T0RCeWtvNzUwM2kxcHRhVXp4MjBJUXVIbC1vU2EtRGZ6c2MxQnVNamVJUHhpZU4yMVBqRUZ3YUgxNGVRT0pRSWYteGpFeW1mRlBuazdselRXZDdpaVY1NW0xS2hzSlUtb1p1VWhwdw?oc=5",
+          "added_at": "2026-07-07 19:20:17"
+        },
         {
           "uid": "6137196f3ceb",
           "date": "2026-05-22",
@@ -5700,26 +5720,6 @@
           "source": "中国商務省（MOFCOM）",
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZi1EVW9hR216UjRmZ1Rvblg3VlhmTFRBdmRaUDlmRmtZNFZGLWVreXQ0UW9GVHRIS2RUa3gyaktwUGdGb0FaUnBrUENWX3E1Q1ZBaDZuMW1VTUk4cU1VaXZPcC1va2FPVmRWZlMwRFFkdVZEZFdxYkQ2YlgwVEJSRzMxS0ZBdVN2cHc?oc=5",
-          "added_at": "2026-06-20 07:14:59"
-        },
-        {
-          "uid": "9debcde2c1cf",
-          "date": "2026-05-08",
-          "title": "Onshoring the Mineral Supply Chain: Structural Constraints, Policy Tools, and Research Gaps - Resources for the Future",
-          "summary": "# 要約\n\n中国が支配的なレアアース採掘・加工産業からの脱却を目指す先進国は、国内供給チェーンの構築に向けて多くの構造的制約（採掘許認可の困難さ、環境規制、投資コスト）に直面しており、政府支援やサプライチェーン多元化などの政策的対応が必要となっている。この取り組みには技術開発や地政学的リスク評価などの研究課題が残されている。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeExQTmo1cFFIM05qNHFqR202N1daa1p4WENrWnhCcDZVR2ExZnhaWlBIWFBSVW9UdEw5cFprbnFYRVB1cG9rVzdnTTUyS080ZzFieXZidTNnQVdnVHVBQktWOTE0amx6eFp5bERqbjNvbm1oaFN1YURmZWRlSjlSdm5mdUFENnkwVGFSUTZaZWoxaFg4ajBXMGNXc1dHbi1JMVpwXzNlN2xnWFBBbGRqUVNjSVdCQ3VfdGtfMDBSZ3hmcU92bFJONUJR?oc=5",
-          "added_at": "2026-06-20 07:14:59"
-        },
-        {
-          "uid": "035003b83b0a",
-          "date": "2026-05-08",
-          "title": "Lula won’t sideline China on rare earths, tells Trump refining stays in Brazil - South China Morning Post",
-          "summary": "ブラジルのルーラ大統領は、米国トランプ大統領の要求に対し、中国をレアアース産業から排除せず、レアアースの精製加工はブラジル国内に留めるとの立場を表明した。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON1NUX0tlTTcwS2xQN3dlbmNsT0VicGoyYTZjcjJ6Qmwyd2U1SnpXSFJXdmZMZnQ0SnhsNWIyamlrQ1lVTW91NXM5Z1B3MzVkdjUtRS14NUJXZTliUjN2UFVyUEtiU1lsMmRKTWRpMnlvTTdubVJLMlNNMTU4Y2dPakQ3UC1CT21TUGdiMGV5b2JJTm9lNDl2YzA1ckpFU2lERzllTzBoNmNCWlJjbXZoUUVPSl8zeWN6aVExRzlvMXdhNmlzaFZCTV92QURGSm5OMm9PQdIB1AFBVV95cUxNYzlRTTFSbk91TV91RlN5Q091LVJkSUVubmRIM3RxU3hYM2dLeC00NnEzaU82UFFSbmJVb0VuaHk3NW4tR3NuSjMzN1dNYkNURVhBR3N6N09pYVhWTHlISGY4T1FTdjlpMG1qTDdYOWs2WjZ3dnNjZFdCNkFiV3QtdUxIdjVvbkNkeHptMnd3c29YdENjS0JpNGNHRzNlVHlPYW95VUNmUkMydEU4TVZjakZQUE9KOTNKOThUZ2RuZEh5cm1Lc09Bckh1M3VkZmE3VFRHMQ?oc=5",
           "added_at": "2026-06-20 07:14:59"
         }
       ]
