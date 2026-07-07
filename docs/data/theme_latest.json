@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07 19:20:24",
+  "generated_at": "2026-07-07 19:44:56",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-07 19:19:56",
+      "last_checked": "2026-07-07 19:44:32",
       "items": [
         {
           "uid": "830645abbe33",
@@ -1769,7 +1769,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-07 19:20:03",
+      "last_checked": "2026-07-07 19:44:41",
       "items": [
         {
           "uid": "ca5085e5c357",
@@ -3720,8 +3720,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-07 19:20:24",
+      "last_checked": "2026-07-07 19:44:56",
       "items": [
+        {
+          "uid": "9debcde2c1cf",
+          "date": "2026-05-08",
+          "title": "Onshoring the Mineral Supply Chain: Structural Constraints, Policy Tools, and Research Gaps - Resources for the Future",
+          "summary": "中国は鉱物精製の優位性により、米国などが鉱物サプライチェーンの国内回帰(オンショアリング)を進める上で構造的な障壁となっており、政策支援や技術開発による課題解決が必要とされています。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeExQTmo1cFFIM05qNHFqR202N1daa1p4WENrWnhCcDZVR2ExZnhaWlBIWFBSVW9UdEw5cFprbnFYRVB1cG9rVzdnTTUyS080ZzFieXZidTNnQVdnVHVBQktWOTE0amx6eFp5bERqbjNvbm1oaFN1YURmZWRlSjlSdm5mdUFENnkwVGFSUTZaZWoxaFg4ajBXMGNXc1dHbi1JMVpwXzNlN2xnWFBBbGRqUVNjSVdCQ3VfdGtfMDBSZ3hmcU92bFJONUJR?oc=5",
+          "added_at": "2026-07-07 19:44:54"
+        },
         {
           "uid": "6c85dffafc59",
           "date": "2026-05-25",
@@ -5711,16 +5721,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNU1Yd2VkWWVEWjZ1dThDUFhDZEp1eUlGZzRhUzhLUW5PVV9hSmlpckctaVB4Rk5BeDl2N09fWld2ZWVNNS1IemR2eE5wbHIwODJxak94dkhXNjI4YkFBUFJzZ2FfQmM1WDkxUUtpWFE3QkQ0eTU1OUNDSzBRX1VtclNhVnluZVp1QXBQQXAzRVFRVlVTRThoMjZnN1RVams?oc=5",
           "added_at": "2026-06-20 19:24:13"
-        },
-        {
-          "uid": "5864e001def1",
-          "date": "2026-05-07",
-          "title": "Critical Minerals: Global Indium Supply & Demand - Geopolitical Monitor",
-          "summary": "申し訳ございませんが、提供いただいたテキストには具体的な記事内容が含まれておらず、タイトルのみとなっているため、「中国レアアース輸出管理」に関する文脈での要約ができません。記事の本文をご提供いただければ、対応させていただきます。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZi1EVW9hR216UjRmZ1Rvblg3VlhmTFRBdmRaUDlmRmtZNFZGLWVreXQ0UW9GVHRIS2RUa3gyaktwUGdGb0FaUnBrUENWX3E1Q1ZBaDZuMW1VTUk4cU1VaXZPcC1va2FPVmRWZlMwRFFkdVZEZFdxYkQ2YlgwVEJSRzMxS0ZBdVN2cHc?oc=5",
-          "added_at": "2026-06-20 07:14:59"
         }
       ]
     }
