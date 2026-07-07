@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 01:55:10",
+  "generated_at": "2026-07-08 05:23:41",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-08 01:54:37",
+      "last_checked": "2026-07-08 05:23:14",
       "items": [
+        {
+          "uid": "152a4128b4e5",
+          "date": "2026-04-21",
+          "title": "A new chapter for industrial Europe: the Industrial Accelerator Act - Ashurst",
+          "summary": "欧州産業加速法案（IAA）は、欧州の産業競争力強化を目的として、規制緩和や投資促進、グリーン産業への転換を加速させるための包括的な政策枠組みを提供するものです。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUW9sRU55VG4xWEx4R2VzaHpJcDZuUXZaVVhqNzFFNUVrdEotcHRjZ04zQk1WSUgtc1RHOWpQU3NOckc2MHlkNmFHOXBrbUdJY3d6aDM2MlRaVGQxeTV5dVpLaDRsOUZ3SHNneDJlc2FrQlhybDl3VEYyYS1JVmJUVm5fbW95MDE0V2wzaU9xR29RNkJtMEZMMVR4Uk5wbGRRLW05NWhB?oc=5",
+          "added_at": "2026-07-08 05:23:13"
+        },
         {
           "uid": "7470f44d9707",
           "date": "2026-07-01",
@@ -1799,8 +1809,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-08 01:54:53",
+      "last_checked": "2026-07-08 05:23:24",
       "items": [
+        {
+          "uid": "f6b2b9c200e9",
+          "date": "2026-05-11",
+          "title": "Dingell, Moolenaar Introduce Bipartisan Legislation to Ban Chinese Vehicles from U.S., Protect American Auto Industry and Workers - Representative Debbie Dingell (.gov)",
+          "summary": "S.4429は、中国製車両の米国市場への流入を禁止し、米国の自動車産業と労働者を保護することを目的とした超党派法案です。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTGdPRWI3c3Q0c3RBVFVqX2pKRDhqYXQ4U2VUT3VubmFuZFU0bUJSQjR6QUNITnNHTWQ4N0ZzemNzNFNzc1BKMFlDWllBbEp6M0ZONE80bFB3VF9oSFhiWFdjamdhUzJaNG1OYmhuSjIyQXVQWW5IUmJwVEQ?oc=5",
+          "added_at": "2026-07-08 05:23:22"
+        },
         {
           "uid": "12946318e09d",
           "date": "2026-07-07",
@@ -3760,8 +3780,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-08 01:55:10",
+      "last_checked": "2026-07-08 05:23:41",
       "items": [
+        {
+          "uid": "f26461731040",
+          "date": "2026-05-13",
+          "title": "How China Could Wield Its Control of Rare Earths Against Trump - The New York Times",
+          "summary": "中国がレアアースの輸出制限を武器として米国との貿易紛争で活用する可能性を指摘した記事で、世界的なレアアース供給の大部分を支配する中国が戦略物資として輸出管理を厳しくすることで、米国の防衛・技術産業に打撃を与える可能性があることが示唆されている。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0lzYTU1U1JSVDlSRW50aVU0TWRVTkkwMU52WWRiQXJJWXFDQzFnSlAwT1VMejU0eUpoQzZZQ1VDUmhnak92QU1qdmdrVUxJYnFneUZFaHN2MEY2cEFrMmdCWDNNa0NBbm5YM0MxVEVCejlEZDNmTm1sRjFnZmpJYQ?oc=5",
+          "added_at": "2026-07-08 05:23:39"
+        },
         {
           "uid": "0b2cde30ce0b",
           "date": "2026-05-12",
@@ -5750,16 +5780,6 @@
           "source": "中国商務省",
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcDlfVkVidm9VdTdIOUN1Yi1xVzlJNXdPRE5vZXprRVdob244eThtclNWV2VtcWtpSE9HWV9TMmp6Z3pkUjZkTmNFdkRmTVpxbld0d1lpMUFTLWtydEpMcFlSVFhMem5ybk02MTRnNnhDZUx0Sl8xbFVZZnNibUNOcks1dm9zU0Nhc3BFZ0ZHRzJ6TlczMndsVzJiTjNqbHpMN1F1ZzhlQ05mV2JLNndtWkV3bnB5dXkzWUY2NmRXSi1HUGhlODItblR6bw?oc=5",
-          "added_at": "2026-06-21 02:12:49"
-        },
-        {
-          "uid": "ea223ce579bc",
-          "date": "2026-05-20",
-          "title": "China says rare earth controls lawful, will cooperate with US on 'reasonable' concerns - Reuters",
-          "summary": "中国はレアアース輸出管理は国際法に適合していると主張し、米国の「合理的な」懸念には協力する姿勢を示している。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTjFLMkt4OXV3MlFDWkRNWTVLWmxubUZVV3BRQS1uSWdXVkQ5VWUtTFdKS0ZfSFRoVjNGdkpvUndmRnp4M3pPWE5ObU1GMHAycnZ0cGViMlhCNEpVd0JYTHVpNlZxQTVkRktBbG9uNEFES2M4UE9iNE1SQW1NemhFTmswQ1FMZ0RxdDNETVJtQXJXZDFaRkVTOGpaRG45TnI2dzJqNjN0NzVSal9ncEp4RW5RZFB1dWNWbVl5cTBnekJURzdvbFg4VDktTVRfc3k0RWVlUC1ScERFVlU?oc=5",
           "added_at": "2026-06-21 02:12:49"
         }
       ]
