@@ -1389,7 +1389,7 @@ MAIL_V2_CSS = """
     .v2-card[data-s="OTH"] .v2-sender { color:#444488; }
     .v2-title   { font-size:13px; font-weight:700; line-height:1.45; color:#1a1a2e; flex:1; }
     .v2-excerpt { font-size:11.5px; color:#3a3a50; line-height:1.6; border-top:1px solid rgba(0,0,0,.08); padding-top:7px; }
-    .v2-dot     { position:absolute; top:10px; right:11px; font-size:11px; opacity:.75; }
+    .v2-dot     { position:absolute; top:8px; right:10px; font-size:18px; opacity:.9; }
     .v2-meta    { font-size:10.5px; color:var(--text-sub); border-top:1px solid rgba(0,0,0,.07); padding-top:6px; }
     .v2-sidebar { position:sticky; top:112px; background:var(--surface); border:1px solid var(--border); border-radius:6px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,.07); }
     .v2-sb-head { background:#f5f6f8; border-bottom:1px solid var(--border); padding:12px 18px; }
