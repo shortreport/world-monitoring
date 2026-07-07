@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 00:25:25",
+  "generated_at": "2026-07-08 01:55:10",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-08 00:24:57",
+      "last_checked": "2026-07-08 01:54:37",
       "items": [
+        {
+          "uid": "7470f44d9707",
+          "date": "2026-07-01",
+          "title": "Séjourné’s ‘Made in EU’ plan reopens ideological rifts - Contexte",
+          "summary": "# 要約\n\n欧州産業加速法案（IAA）の推進者セジョルネ氏の「メイド・イン・EU」計画は、産業政策における国家介入と市場自由化のバランスについて、EU内の根本的なイデオロギー対立を再燃させている。具体的には、フランスなど産業保護を重視する加盟国と、規制緩和を優先するドイツなど北欧諸国の間で、欧州産業競争力強化の手段をめぐる政策的・思想的立場の相違が浮き彫りになっている。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEhqQ1ZqZmxkd293WUNsc0wxVnp5UldzdnBVNk53R3JLakRwVVU1dzdma1lKNFRkYXpqeWVLeHhtVzNFWVdIRzBFeDVaeGJ3NE9XVGJ6U1JEUnV2QkhTN3lMdno4Q3V2a21KVUJtQjlGMWRqWUluNG9pTWkta2o3S0lJamdPYk1Jd0ljUGVDYm16X3lPQ3lqYnZ3b2paNHpRUmc?oc=5",
+          "added_at": "2026-07-08 01:54:34"
+        },
         {
           "uid": "526cd53e26fa",
           "date": "2026-07-07",
@@ -1789,8 +1799,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-08 00:25:05",
+      "last_checked": "2026-07-08 01:54:53",
       "items": [
+        {
+          "uid": "12946318e09d",
+          "date": "2026-07-07",
+          "title": "BYD Seal 08 Earns 65,000 Orders in 30 Hours for $29,000 Flagship Sedan - Tech Times",
+          "summary": "BYD Seal 08が30時間で65,000台の受注を獲得し、米国がS.4429を通じて中国EVメーカーの市場進出を制限しようとする中、BYDの急速な成長と市場支配力が強化されている。本車は約29,000ドルのフラッグシップセダンとして位置付けられ、米国の自動車安全保障政策への対抗圧力となっている。",
+          "source": "半導体・Tier1サプライヤー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeExwSkZTV0doVXM0ZG9ISlJDWUNkb01xVTV6ZVgyY0xhTS1QdzYzRGx3MFBJWjBaM2c2TFNXRkNkVUIzblpIMGp2MG0yeWhQYXRvRE5rYVRQYkZObHpxckd4cDhYZ2toRVJFN3V0QlIyU054ZkJxX2pBX2YxYkdSeTJadllpUHNVcmJ3ZEI2dlNURDdmY2ZtazRMWTJRTzI0djcyQ0RLcjItZ1RnVUMwc2VZYW85Zw?oc=5",
+          "added_at": "2026-07-08 01:54:50"
+        },
         {
           "uid": "ca5085e5c357",
           "date": "2026-04-15",
@@ -3740,8 +3760,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-08 00:25:25",
+      "last_checked": "2026-07-08 01:55:10",
       "items": [
+        {
+          "uid": "0b2cde30ce0b",
+          "date": "2026-05-12",
+          "title": "U.S.–China Trade Truce Talks Hit Chip Export Controls at Beijing Summit - abhs.in",
+          "summary": "米中貿易休戦交渉は北京サミットで半導体輸出規制の問題に直面し、中国が米国の先端チップ規制に対抗してレアアース等の戦略物資の輸出制限を強化する可能性が高まっている。この相互報復的な措置は、中国がレアアース輸出管理を戦略的な交渉カードとして活用していることを示唆している。",
+          "source": "中国輸出規制",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbU9VQ3NuQVVHUm1oU2twUTcwNEdVbVI4dFd5cDhFWXFybWF2Z2JCWXlBWllJMjY1aHBaLVNOXzR3ZnRfVG9wYXc2NUtXSmdBQlZvOU5DeVY1dk53MkNMMkFkQ3dhMHNnbmpWTmJnTmoteThQR3Z3NUl1Vkk1MDJJMHFjUXZTNVhNeGNHemZhTk80em4wYkRIeU1uRHBfQ0xQSERvVTBHMA?oc=5",
+          "added_at": "2026-07-08 01:55:08"
+        },
         {
           "uid": "5864e001def1",
           "date": "2026-05-07",
@@ -5730,16 +5760,6 @@
           "source": "中国商務省",
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTjFLMkt4OXV3MlFDWkRNWTVLWmxubUZVV3BRQS1uSWdXVkQ5VWUtTFdKS0ZfSFRoVjNGdkpvUndmRnp4M3pPWE5ObU1GMHAycnZ0cGViMlhCNEpVd0JYTHVpNlZxQTVkRktBbG9uNEFES2M4UE9iNE1SQW1NemhFTmswQ1FMZ0RxdDNETVJtQXJXZDFaRkVTOGpaRG45TnI2dzJqNjN0NzVSal9ncEp4RW5RZFB1dWNWbVl5cTBnekJURzdvbFg4VDktTVRfc3k0RWVlUC1ScERFVlU?oc=5",
-          "added_at": "2026-06-21 02:12:49"
-        },
-        {
-          "uid": "02d6b619e45f",
-          "date": "2026-04-13",
-          "title": "China's Rare Earth Giants Slam Prices Up 45% for Q2 — Stocks Follow - Kalkine",
-          "summary": "中国のレアアース大手企業が第2四半期の価格を45%引き上げたことで、同業種の株価が上昇している。この価格上昇は、中国による戦略的なレアアース供給管理と輸出規制の影響を反映している。",
-          "source": "中国素材大手",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZl9NZDZlUVpCZThpa0UtYnNpZTZhcE43MDE0N2tVSUl3SXQxVklpbGd2VlZHd3lXOVhGZ2pxYU5lRUlVS0RyWXFrS3JpTGJDSTd3RmhPNTFQYmd2UFBieGV0QVVZZVA1REoxbTAybUN3RmplMDlDcXhqT2dfdnluY0FNNEt6UkdMaTZIQnVTVVBkaDE2NzdNUG0wQWd2VWM?oc=5",
           "added_at": "2026-06-21 02:12:49"
         }
       ]
