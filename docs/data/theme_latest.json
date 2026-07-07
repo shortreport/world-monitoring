@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07 13:32:26",
+  "generated_at": "2026-07-07 19:10:17",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-07 13:31:56",
+      "last_checked": "2026-07-07 19:09:49",
       "items": [
+        {
+          "uid": "830645abbe33",
+          "date": "2026-06-23",
+          "title": "The clean tech challenge: How to fuse R&I, energy and decarbonisation strategies? - Science|Business",
+          "summary": "欧州産業加速法案（IAA）の文脈では、本記事は研究・イノベーション、エネルギー政策、脱炭素化戦略を統合することが、クリーンテック産業の競争力強化に不可欠であることを指摘しており、IAA成功の鍵はこれら三つの戦略分野を効果的に融合させることにあると示唆している。",
+          "source": "EU産業政策",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTBXT014Rl9HQkhDekY1OTdJR1BsVjZfRVBYZWtPVlNFQUVHMEJsNFg4ck5WbkNvX0p0TUV1RGJFT3BOSW5kNHp5RWNXVlVsTExMQzc4LUZsblhxYkFrVlp1clQ3clEtNW5KOVQyb3ptM3A5QnpkMGh5RW5UcVVnR1lfNE9xS25telhZTVo3WXVkeWJYTDRIRmtRSEVlUjZaS2tJbElTNUk?oc=5",
+          "added_at": "2026-07-07 19:09:47"
+        },
         {
           "uid": "12b940f24d0b",
           "date": "2026-07-06",
@@ -1759,7 +1769,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-07 13:32:09",
+      "last_checked": "2026-07-07 19:09:56",
       "items": [
         {
           "uid": "ca5085e5c357",
@@ -3710,8 +3720,58 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-07 13:32:26",
+      "last_checked": "2026-07-07 19:10:17",
       "items": [
+        {
+          "uid": "6137196f3ceb",
+          "date": "2026-05-22",
+          "title": "Companies join a deep-sea mining rush after Trump executive order, as regulators fast-track permits - Yahoo! Finance Canada",
+          "summary": "トランプ大統領の行政命令により深海採鉱が加速し、レアアースを含む重要鉱物の海洋採鉱がレアアース供給の中国依存を低減する代替手段として注目されている。規制当局による許可の迅速化により、レアアース獲得競争における地政学的リスク回避の動きが加速している。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3V3d3Q2cm41dEJYUy0waWxCY1Vud2o4WW9mMnVYSjBKUm5xNTY4VzRXaG5ndGE5Z0QzdVk2ZjdpVW5RSWh1SXdrc0I2ZjlUMTNGUkt0TXhYa3M5NE9zbkdKWVFPdF9hb3JiTVpjRjhNc3MwV01qVW5DdHVVQVhQTg?oc=5",
+          "added_at": "2026-07-07 19:10:08"
+        },
+        {
+          "uid": "d3228db67f37",
+          "date": "2026-04-27",
+          "title": "Rare Earth Export Restrictions One Year Later - CSIS | Center for Strategic and International Studies",
+          "summary": "中国は2023年にレアアース輸出管理を強化し、ガリウムやゲルマニウムなどの戦略的に重要な鉱物の輸出許可制を導入することで、米国などへの技術流出を制限し、地政学的な影響力を拡大する戦略を推進している。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjl4RTQ4VXFxaVRuT2FrYUNlVE11dEJKVzdSTm51U3l3dG1jNGdHdWVXaVVVM0RBeTU4cGRJaWM5Zkk2NUlEal9oNTFyWURldURHTTg4UEg3TnNyZVpJbEVQUm5aSEI1TU9sRk9KV0NERG5ONkV3NlR4cTl3bWJ0OA?oc=5",
+          "added_at": "2026-07-07 19:10:08"
+        },
+        {
+          "uid": "11594f76ca38",
+          "date": "2026-05-16",
+          "title": "Pentagon faces 'crippling' rare earth shortage as China 'tightens controls' - AOL.com",
+          "summary": "中国がレアアース輸出管理を強化していることにより、米国防総省は防衛産業に必要なレアアースの深刻な不足に直面する可能性があります。中国による輸出制限は、米国の防衛技術やミサイルシステムなどの製造に支障をもたらす「壊滅的な」影響を及ぼす懸念があります。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM1BZWkZtTGFTNEx5Z2ltbnhiS2x5U193MkZXUy1nUXNrNmkydU1qTUxDQzVjazJ2aS1CRmtNbFlKeWs4ZUJxSWRZdlBfZ2lYNnVMT3djTHhPVThZcmEyWTJmMmFuclhxRTZWU0lINzJIYjZFRWRVY25BMk9QUG1ST1dJbTlJUQ?oc=5",
+          "added_at": "2026-07-07 19:10:08"
+        },
+        {
+          "uid": "36a4b664a755",
+          "date": "2026-04-16",
+          "title": "US Senate narrowly overturns Minnesota mining ban, sending bill to Trump - Reuters",
+          "summary": "米国上院がミネソタ州の鉱山採掘禁止令をわずかな差で覆し、法案をトランプ大統領に送付したもので、レアアース採掘の規制緩和を通じて中国への依存低減を目指す米国の戦略的対抗措置を反映している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONTN2MVEwcS1vV2NOcHlMSEVic2otbHVKeS15Y0pVa0MzaERtM3FLbklfSHNZMHRWZ0JHWV9wWExQemNZeDg3TlRTa1VqM3FmRXVqRVJyOWYyZFpXVEItbUZwQkV3M21HZUgtWnpQbENhSWEyUFlSME5pbVJUUlVqYzJ1eE5jS3NvamJyUk9KOFcxVnAzczZ3N3ZQMVJILTZ2eEw3TjF6NWkxczlXTHNvemt0SEdRQWlq?oc=5",
+          "added_at": "2026-07-07 19:10:08"
+        },
+        {
+          "uid": "ff1c42f9702a",
+          "date": "2026-07-06",
+          "title": "China's Rare Earth Prices Rise Again-But Investors Should Read Beyond the Numbers - Rare Earth Exchanges",
+          "summary": "中国がレアアースの輸出管理を強化する中で価格が再び上昇しているが、単なる価格変動だけでなく、供給制限政策の背景にある地政学的・産業政策的な戦略を理解する必要がある。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkF0d3pRUG1ScHlRYXlTZzl1SzNzWE5FM3ZwT0ZsT1Qxc3hvd1pTakdkUkdSQnd5OXA5TXU1WC1oZnAxVVhCN2lxRl8xLTJSTHhMd1FNUDdXdGdKQ0J0WHZRXzBKekNmS1JHblNoREpCNUxpc1ozWllxVURJMktBT2JZclBla2hpLXZ6NU9iNzBFSHVRU3NOSHJMRmJ2OXRJU3R2LWNLcjdMYUswOXBCY0I1ODdRSW9U?oc=5",
+          "added_at": "2026-07-07 19:10:08"
+        },
         {
           "uid": "536ac66812cb",
           "date": "2026-05-18",
@@ -5661,56 +5721,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON1NUX0tlTTcwS2xQN3dlbmNsT0VicGoyYTZjcjJ6Qmwyd2U1SnpXSFJXdmZMZnQ0SnhsNWIyamlrQ1lVTW91NXM5Z1B3MzVkdjUtRS14NUJXZTliUjN2UFVyUEtiU1lsMmRKTWRpMnlvTTdubVJLMlNNMTU4Y2dPakQ3UC1CT21TUGdiMGV5b2JJTm9lNDl2YzA1ckpFU2lERzllTzBoNmNCWlJjbXZoUUVPSl8zeWN6aVExRzlvMXdhNmlzaFZCTV92QURGSm5OMm9PQdIB1AFBVV95cUxNYzlRTTFSbk91TV91RlN5Q091LVJkSUVubmRIM3RxU3hYM2dLeC00NnEzaU82UFFSbmJVb0VuaHk3NW4tR3NuSjMzN1dNYkNURVhBR3N6N09pYVhWTHlISGY4T1FTdjlpMG1qTDdYOWs2WjZ3dnNjZFdCNkFiV3QtdUxIdjVvbkNkeHptMnd3c29YdENjS0JpNGNHRzNlVHlPYW95VUNmUkMydEU4TVZjakZQUE9KOTNKOThUZ2RuZEh5cm1Lc09Bckh1M3VkZmE3VFRHMQ?oc=5",
           "added_at": "2026-06-20 07:14:59"
-        },
-        {
-          "uid": "6c85dffafc59",
-          "date": "2026-05-25",
-          "title": "Rare Earth Supply Chain: Greenland Mines Secures Sarfartoq Nd-Pr Project in $35M Deal - Tech Times",
-          "summary": "グリーンランドのレアアース鉱山企業が35百万ドルでネオジム・プラセオジム採掘プロジェクトを確保し、中国が支配するレアアース供給チェーンの多元化が進む中で、西側諸国の代替供給源構築の動きが加速している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdDVnUnV3VG9EX2VVNkpkOHZHMXpkTE1QVktBbkpVemhfOW44Z0tzdkhoaFN6SUQ3VXBDRXlod0o1UVk0U3pVTk5saVNhaVVrQU5RdjR4UGhmeXBVYTdNYW1tQkNKWEsyR2JaLXhCRXZRRDA1YXdBYzl3b2U1SEMwd1RJcGgyTkJkTHkxNjVmcThWVWIxWXBrZUh6LXFfSGtxWFB0Z2RVUHF3MmhkZGttZk9seVczQ05BdHdWdzQ0RUVkX2NjYWRCWFZMUDFaWGNT?oc=5",
-          "added_at": "2026-06-20 07:14:59"
-        },
-        {
-          "uid": "55e5e617961d",
-          "date": "2026-06-19",
-          "title": "Lynas Rare Earths (ASX:LYC): Can Its Magnet Ambitions Power The Next Growth Phase? - Kalkine Media",
-          "summary": "申し訳ありませんが、提供いただいたのはタイトルのみで、記事の具体的な内容が含まれていないため、正確な要約ができません。記事本文を提供いただければ、「中国レアアース輸出管理」の文脈で日本語1〜2文に要約いたします。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN2c3dy1pSzh1SHRXSGJjZy1Ya0hWT0RwOXBqUEl3UUt5QU1pU2VZZmFiQ1dKTFJISnVadzZocU9PLTNEQk9VUzdQVTdWdVNGOTJlS0NiY3ZJT2dzVjZYOU9NbktpRFlsamxZWDFxX01udzROekRZWHZuYlBSdFoyV2Ywalhad0FMNHRWeE5hR1Z4djdoMEVRLVdhVUEzQ0o5NkE4d3U4blRsTFRRa08tRXFieE5RdjU1WGxYNVVLazI5a0RiZTFEY1prR2o?oc=5",
-          "added_at": "2026-06-20 07:14:59"
-        },
-        {
-          "uid": "e146a7ce58ed",
-          "date": "2026-06-18",
-          "title": "Energy Fuels lands $725M Pentagon loan for rare earths boost",
-          "summary": "エナジー・フューエルズが米国防総省から7億2500万ドルのローンを獲得し、米国内のレアアース処理能力の拡張を実現させることで、米国がレアアース産業の国内強化を推進している。これは中国に依存するレアアース供給チェーンの脱却を目指す米国の戦略的な取り組みを反映しており、日本を含む同盟国にも供給確保の機会をもたらす可能性がある。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/energy-fuels-lands-725m-pentagon-loan-for-rare-earths-boost/",
-          "added_at": "2026-06-20 07:14:59"
-        },
-        {
-          "uid": "9a4beb55adc4",
-          "date": "2026-04-03",
-          "title": "Securing the Critical Mineral Supply Chain | - U.S. Naval Institute",
-          "summary": "中国が世界的なレアアース供給の約80%を支配しており、米国や日本を含む西側諸国がこの依存性を低減するため、代替供給源の開発と国内採掘・精製技術の強化に取り組む必要があることが指摘されている。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZY2lTbnQzR0lFTWdvdEJhMU9EWG9UV0VCU2xQaGdQRjFVVEF1QkZYNDEwZk9QanBEWlZOTjZzMWVKU3c4eWN2aVRqekJmU3hfbHpxcXBqTkRDR1YxemdIUTNtcVJ2bkxmTkhR?oc=5",
-          "added_at": "2026-06-19 22:04:29"
-        },
-        {
-          "uid": "e43cbdb4db97",
-          "date": "2026-05-15",
-          "title": "The U.S.-China Trade Relationship: What’s Behind the Competition? - Council on Foreign Relations",
-          "summary": "申し訳ございませんが、提供いただいたタイトルのみで、具体的な記事内容が含まれていないため、「中国レアアース輸出管理」に関する正確な要約を作成することができません。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85R1Rxa096czZxUGpuWjB0T0RCeWtvNzUwM2kxcHRhVXp4MjBJUXVIbC1vU2EtRGZ6c2MxQnVNamVJUHhpZU4yMVBqRUZ3YUgxNGVRT0pRSWYteGpFeW1mRlBuazdselRXZDdpaVY1NW0xS2hzSlUtb1p1VWhwdw?oc=5",
-          "added_at": "2026-06-19 22:04:29"
         }
       ]
     }
