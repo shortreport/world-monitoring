@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 10:37:18",
+  "generated_at": "2026-07-08 11:13:16",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-08 10:36:53",
+      "last_checked": "2026-07-08 11:12:49",
       "items": [
         {
           "uid": "152a4128b4e5",
@@ -1809,7 +1809,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-08 10:37:01",
+      "last_checked": "2026-07-08 11:12:59",
       "items": [
         {
           "uid": "f6b2b9c200e9",
@@ -3780,8 +3780,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-08 10:37:18",
+      "last_checked": "2026-07-08 11:13:16",
       "items": [
+        {
+          "uid": "07a308076278",
+          "date": "2026-06-23",
+          "title": "US-China Relations in the Trump 2.0 Era: A Timeline - China Briefing",
+          "summary": "申し訳ございませんが、提供いただいたタイトルと「内容」のテキストは同一で、実際の記事内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、中国レアアース輸出管理に関連する部分を日本語で要約いたします。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9rOHkwQl9VYldidlJVajgtZzY4VE5TQmt6eEQ2czIxaTk5N3Ywd3diVXdCT3dKVmhUNmxMRjJ0UnJKdGE2TUtuNklrdWx4UTVGZG5kY1pvWnNEWUhkdmZ5WkV3R0plREV6aTlGc1JEUHVQeG02VzRsVE82OERteXhsMGNfTEVPMllnN0p3?oc=5",
+          "added_at": "2026-07-08 11:13:15"
+        },
         {
           "uid": "98c633df2d9f",
           "date": "2026-05-26",
@@ -5770,16 +5780,6 @@
           "source": "中国商務省（MOFCOM）",
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Lb2NPRHo5MXlXcmJwRENNdDZmYjhkZTJESzI1bXpaYUVTLUluZkp4bjRTdzVBQ3hTc0lqQUpIbEtFZ1JtbEFOQVF3dDJ6dmd6SnNrdUotcldBanVadVJ1MjVB?oc=5",
-          "added_at": "2026-06-21 20:36:55"
-        },
-        {
-          "uid": "70b54cf1102e",
-          "date": "2026-06-20",
-          "title": "China's Rare Earth Empire and the PLA: The Strategic Materials Architecture Behind Military Power - Rare Earth Exchanges",
-          "summary": "中国はレアアースの採掘・加工・輸出を支配することで、PLA（人民解放軍）の軍事力を支える戦略的な物質基盤を構築し、地政学的な影響力を強化している。この体制を通じて、中国はレアアース供給の寡占化により、先進国の防衛産業や技術産業に対する支配力を確保している。",
-          "source": "中国素材大手",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnVwdTN6RTFiZjEtaTVXbHJmSnpTeVJwZElWRWhmN0lBRmpkcXdZUFJsMTR5cEgxTC1IbmU5WkFmR1RpTjMyV1UwWWlKUTJoUnlRM0FYcEc3Z2VoNTFNRm1nSHpGMC15eEJ5bWxGblFHak5rY2dfUTRnNUZJdF9PLVhHUndRVVlsZ3ZjbURfRi1sa2RBeUk0LUZEWFdKeTNIZFlnY3kxQ2RCMjIwM3hSR2J6SGhORWstT2lxMk5mbXhzaE5UbVRNd1hxWUo?oc=5",
           "added_at": "2026-06-21 20:36:55"
         }
       ]
