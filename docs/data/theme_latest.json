@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 11:22:03",
+  "generated_at": "2026-07-08 12:02:35",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-08 11:21:30",
+      "last_checked": "2026-07-08 12:02:11",
       "items": [
         {
           "uid": "152a4128b4e5",
@@ -1809,7 +1809,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-08 11:21:40",
+      "last_checked": "2026-07-08 12:02:19",
       "items": [
         {
           "uid": "f6b2b9c200e9",
@@ -3780,8 +3780,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-08 11:22:03",
+      "last_checked": "2026-07-08 12:02:35",
       "items": [
+        {
+          "uid": "bf9fc6da1806",
+          "date": "2026-05-20",
+          "title": "Chinese, US trade teams hold extensive discussions on rare-earth export control issues, will jointly study solutions to each other's legitimate concerns: MOFCOM - Global Times",
+          "summary": "中国とアメリカの貿易チームがレアアース輸出管理問題について広範な協議を行い、互いの正当な懸念に対する解決策を共同で検討することで合意した。中国商務部(MOFCOM)がこの方針を発表した。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Lb2NPRHo5MXlXcmJwRENNdDZmYjhkZTJESzI1bXpaYUVTLUluZkp4bjRTdzVBQ3hTc0lqQUpIbEtFZ1JtbEFOQVF3dDJ6dmd6SnNrdUotcldBanVadVJ1MjVB?oc=5",
+          "added_at": "2026-07-08 12:02:32"
+        },
+        {
+          "uid": "be641f6ba375",
+          "date": "2026-04-23",
+          "title": "China’s Strategic Use of Trade Controls - Center for Security Studies | ETH Zürich",
+          "summary": "中国がレアアースを含む戦略的資源の輸出管理を地政学的な圧力手段として活用していることを分析した報告書であり、先進国がこうした依存リスクへの対抗策として国内供給源の確保やサプライチェーン多元化を進める動きを促している。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHM1bTU4Y1BuOHBDbVNSYnE4ZnFXUGRMLXU1cnNMRzh5UmxIdjZ1M1lYRFdjNGJzeXhkd3g2OHpfeEpTbFRiandsdzQ1TjB3WTU2NGdieUxQaHdIVEYtUzVqQVd5bzczVHBUSzc0WUhrOHlEOWtpcDMtcnZBUzFpbmlFS0xNVXlkSV9PcTFUTGV0a0VK?oc=5",
+          "added_at": "2026-07-08 12:02:32"
+        },
         {
           "uid": "70b54cf1102e",
           "date": "2026-06-20",
@@ -5761,26 +5781,6 @@
           "source_type": "media",
           "url": "https://thehill.com/policy/defense/5934082-china-export-control-dual-use-items-us-defense-firms/",
           "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "5b7bc19a39c7",
-          "date": "2026-06-22",
-          "title": "GOP embraces speculation about China’s role in data center backlash",
-          "summary": "共和党員らは、米国のデータセンター反対運動が中国などの外国勢力による影響キャンペーンで扇動されているという疑惑を支持しており、これは技術政策分野における激しい議論に対する外国からの干渉の深刻さを示唆している。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/technology/5931292-data-centers-influence-campaigns-china-republicans/",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "7132966d1284",
-          "date": "2026-04-28",
-          "title": "Global Rare Earth Supply Chains Still Concentrated as China Suspension Deadline Looms - IndexBox",
-          "summary": "中国がレアアース輸出の一時停止を予告する中、世界のレアアース供給チェーンは依然として中国への高い依存度を保ったままであり、供給の多角化が進んでいない状況にある。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGE3d2hwejd0TzFFYURfYWFyTU4xeXBNN19vM1pvaGpYVk5DTjNxbXoyTnBjUWpVT191RkNPeENHb3lHM2JUblMyS2hkX1pndFZSUmFnUGR4bS1LZEprN3lxcktIV3U1SXZfR2FvU005QU4zT1Z3alJFaGZpYmM3SjZTNV9LTE1vRVZDVUdYdVRRQU5ncVk4RVk1S0pESGxTLXRFS2FnbnlyWHFCOVd3aWRDV3ZOdw?oc=5",
-          "added_at": "2026-06-22 07:48:32"
         }
       ]
     }
