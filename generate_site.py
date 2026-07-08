@@ -1457,7 +1457,8 @@ def _render_v2_sidebar(toyota_emails: list, updated_at: str, toyota_summary: str
         sources = ""
     else:
         if toyota_summary:
-            body = f'<p>{e(toyota_summary)}</p>'
+            paras = [p.strip() for p in toyota_summary.split("\n\n") if p.strip()]
+            body = "\n".join(f'<p>{e(p)}</p>' for p in paras)
         else:
             # フォールバック: excerpt を並べる
             body = "\n".join(
