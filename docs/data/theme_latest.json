@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 18:06:10",
+  "generated_at": "2026-07-08 20:48:38",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,28 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-08 18:05:36",
+      "last_checked": "2026-07-08 20:48:12",
       "items": [
+        {
+          "uid": "3a64fa70beec",
+          "date": "2026-05-28",
+          "title": "IAA: Why Europe’s industrial strategy is so controversial in the Council - Table.Briefings",
+          "summary": "申し訳ありませんが、提供いただいたテキストはタイトルのみで、記事の具体的な内容が含まれていないため、要約することができません。記事の本文をご提供ください。",
+          "source": "欧州委員会要人",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUNMQlVOalBnSF9mYlA0RUdzTnI5NzFlX3Q5T2pnUmgwX3VUY1diN01WMFhzUHZKLUNiTl83Znl6WklOQUpQTXZuaXRwenlnZHFJbl9yaDNzZ0FFaXRzTDZTeUZXdXBWcHRoanBPcF96NlRNT01BUGtJVzFzWXFzcDV2aW5zbmFySkhmV3NZTTN2d1dKdTg4NjlQbDVUQjQwdktYTnVRNA?oc=5",
+          "added_at": "2026-07-08 20:48:07"
+        },
+        {
+          "uid": "6d2a127cb5ad",
+          "date": "2026-05-20",
+          "title": "Von der Leyen's 6 points to complete and strengthen the European single market - Il Sole 24 ORE",
+          "summary": "フォン・デア・ライエン欧州委員長は、欧州単一市場を完成・強化するための6つの施策を提示しており、これは産業競争力の強化と規制環境の統一を目指す欧州産業加速法案の枠組みを補完するものである。当該施策は、デジタル化やエネルギー転換などの重点分野での投資促進と市場統一による欧州産業の国際競争力強化を目的としている。",
+          "source": "欧州委員会要人",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYkNhSThsQnkyQ2NGamlwMFNYbzAyVTJCa01NckdPdU9PUlR5OFhULV9ubVBwcG5kVloxenVoYUh0VWhaR3dtYzg0OE15MGJEenlYYWgwMmZid2o0T3JMaGxicXoySzVCZHFFRjRqN0Z4eFB1dzNLNXNkRVlXa0YxNGpwUEttNDJFbWptUkpxanYwb1FhYVNzaUpleGswa25sUHUyM3lzMzBjR2txRU9yc0JR?oc=5",
+          "added_at": "2026-07-08 20:48:07"
+        },
         {
           "uid": "fa70c8b09dbd",
           "date": "2026-06-23",
@@ -1839,8 +1859,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-08 18:05:44",
+      "last_checked": "2026-07-08 20:48:21",
       "items": [
+        {
+          "uid": "6fb0717965b3",
+          "date": "2026-04-25",
+          "title": "‘Made in China’ EVs are taking over the streets, but just how safe is your data? - SMH.com.au",
+          "summary": "中国製電動車両の急速な普及に伴い、走行データやGPS情報などの個人情報が中国企業に収集される懸念から、米国はS.4429法案で外国製車載システムからのデータ収集を制限し、国家安全保障リスクを軽減しようとしています。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOEl1WkJuaHQzdDZCUHltRUh3RGt6LXlFN0lKUUJJWWVGQUZZRVNrQXEydWFwZ3NCZnItTVQzWkFkaTdHYkpiM3lvMXF5Y3FWTkRuRi1GVEdZSzZMTm5NTE9kTmpPQ1c1SzN0Wk9ZMHZyQmtXMlItQ0ZhNjNqNlE2QU9zS1laYVZLRG0yWk51djIxSnUtZnYyRFdhbTdBcFNzZDVOMU1ETXNhNG5oSlpBVTFXUW9rM1JHYkZrQXkya2V3SlRMWVRicWdibw?oc=5",
+          "added_at": "2026-07-08 20:48:20"
+        },
         {
           "uid": "e2d269207641",
           "date": "2026-06-15",
@@ -3830,8 +3860,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-08 18:06:10",
+      "last_checked": "2026-07-08 20:48:38",
       "items": [
+        {
+          "uid": "2b3453e2c70f",
+          "date": "2026-07-08",
+          "title": "Washington, Beijing should de-escalate from tit-for-tat actions, US senator says - The Star",
+          "summary": "中国のレアアース輸出管理に関する米中間の報復措置の応酬について、米国上院議員が両国に対して緊張緩和を求めている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTDMyMG9MLXh2ZlpKMzlZUVpIT2xuczFFb1NPUmoyTWRGeVZhQS1QQU8wYTUxckFDZWRhQlF4bEl1dEF5QUY5M3NDazlYVGZVb2hwS1dhU2xrVENrM0VkdVY0RThRbHh2OGdBb3dpOXZBWFFuWnQ0OFRjeW9YQWdBOF8tSENIV3V3MlJPT2lRZ0lCQURWeDRkSEdoQlJXdHd0OFJMM3lzM3BTTVBIX19rSVg2d3FjWVBPeEIwOGpxdXBCLXJDOEl3SERJb29lSlFYOE1wTnduUTQ?oc=5",
+          "added_at": "2026-07-08 20:48:34"
+        },
+        {
+          "uid": "ad7f60bc439d",
+          "date": "2026-04-16",
+          "title": "China Rare Earth Price Bulletin Signals Firmness—But Pricing Reality Remains Murky - Rare Earth Exchanges",
+          "summary": "中国のレアアース価格公示は市場の堅調さを示唆しているが、実際の取引価格は不透明なままであり、公示価格と実売価格の乖離が続いている。中国の輸出管理強化に伴い、レアアース市場の価格形成メカニズムが十分に機能していない状況が浮き彫りになっている。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFBObHlxUEkwYjBBdGU0R2JFTUZpVHh2S1c2R2N4YkR2cEt2Rk80ZWpSRHJpX19rUndFeUJDSlpTWHFRVV9qVE9xcno3eEFhY3N0V0d0cGNSMFctT1FJTEpxb0RtUTZ3WC1acmJJRWdfdzRTSVAwMW1DSmpwV1RETml4dGVWUzg1QVNUaGZ0RlctUjZjRkVtZWlKMXhDXzE4MDNSSmtsWm01SWc2MHEtUjN3QTNPcndxVFpB?oc=5",
+          "added_at": "2026-07-08 20:48:34"
+        },
+        {
+          "uid": "8d4bcea63dd4",
+          "date": "2026-06-22",
+          "title": "China hits US rare earth companies with export bans - Taipei Times",
+          "summary": "中国は米国のレアアース企業に対して輸出禁止措置を発動し、米国への供給を制限することで貿易紛争における報復手段として機能させている。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44REpYSTJIZEYwbFZsUEkxYnBjelRHTlVKTkRxc0g1YlMzOGczRGhwak1wckJLYlRReDd5aTJwRlpjcVpyNHFfanBZN3JvN3BLdWF1S0hSTEhyOHhDYS1mZmZCak5CLUlTZXcyUndFWEg3U05HSkE?oc=5",
+          "added_at": "2026-07-08 20:48:34"
+        },
         {
           "uid": "bf35e52b0992",
           "date": "2026-07-08",
@@ -5800,36 +5860,6 @@
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObXFsZzdadFFMZk9ZanEtV1RBZ3VLal9VV05DTngyVFhMM2FaNUZGVkotM082a0lOX0xnLUtHRm16Vkp6THd6eE9KWHFVWUgtV29iSDRVVllWd2dxQlVQSDZMTERRRTZESm5qU3ZER2ZRWEpvRHF6bmVyTUxqVUc1ZDN2WldCaVJnbUFSLS1OcTR0ekVON3dmZml1OVBrX0dJVU42OGZkdUMyLVJueDkweGVNWDB6WHNfYkZVMnJfLWF3cTlwMFZDMUNVUWpRT0RvVDZWTw?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "81d1ef23ab08",
-          "date": "2026-05-22",
-          "title": "EU Emergency Stockpile of Critical Minerals: Europe’s Strategic Response - Discovery Alert",
-          "summary": "EUは中国のレアアース輸出管理に対抗するため、戦略的に重要鉱物の緊急備蓄制度を構築し、サプライチェーンの多元化とエネルギー転換産業への安定供給を確保する戦略的対応を進めている。",
-          "source": "欧州委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWZRX1JQSjVPYk43MHF2NVhwSVlJTlc3dXZnTjBSYUh1TDczN20xbHMwdWNPeHdMNkxVSndQZ1V0ekM1ZHVWYnpNR2RqYWYyaEJqZTV2OEJyaE5TdC1DQ1ZYMDRKN0Ryc1R3NzgtQ1lLM2tfXzFGQk5lSjNjSEduSjUxT2ZwNXNIRHZxSy1NVllYa0xTbnBiQVR3?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "7a2716d34df4",
-          "date": "2026-05-24",
-          "title": "Critical Minerals Report (05.24.2026): National Security Moves Downstream - InvestorNews",
-          "summary": "中国のレアアース輸出管理に関する具体的な情報が記事に記載されていないため、要約を作成することができません。記事の詳細な内容をご提供ください。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenJYUkQ0Y2VtcWFMX2UyVWpzSU5fQWxTM2syQXVhY0FIenp6c2FwR0RUYmREemdkZ1hySVgxTmN4WWxsQ2w4MXBfbld6ZzNRclJ3dkFnTjN1NnBVcG1GS0xyd01ySlZtaDg5MjRseXhWakdyQ3J3WUlna0dUc1Mtb3UweDBCYXV3ZEFwTjJPaUY2YVNZOW1VT2tubHpGUVA4elFVVjZnUkNVa1FRYlVuVkI4NkMtdzlDXzhORFp6ZEx4N3I4?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "5f6e5fadb180",
-          "date": "2026-06-21",
-          "title": "Critical Minerals Report (06.21.2026): Allies, Competitors, and Critical Minerals - InvestorNews",
-          "summary": "申し訳ありませんが、提供いただいたテキストはタイトルのみで、記事の本文内容が含まれていません。記事本文がないため、「中国レアアース輸出管理」に関する具体的な要約を作成することができません。記事の本文をご提供いただければ、ご要望通りの要約を提供させていただきます。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMVJCQUpRUDVMVVhqbzB6amlWY25kakpUQjJGc09NZ1o3TW9qVDI2MjlxaUdGRGsydXI5azhWbl90R0tOUjNheFFzUVV1Vk82eW1lM19CWFdKZnhwX190WHh0N0NsOG9Fel95QmNMaDZwZmNrcEZKWkx1cHBDQVhTNkxaMlFOMFQ1NlU4ZGdXa3FISG9fUVBpRVRRZDY4X0x4Ykw0RTh1ckgwQ2RjNDQwTTZNSnV0TXllWjl1a2lIZ2tZSDFzU2YtT21zX1RaRGFhSE5mVFRR?oc=5",
           "added_at": "2026-06-23 03:08:20"
         }
       ]
