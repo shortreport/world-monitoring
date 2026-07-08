@@ -162,8 +162,8 @@
     .v2-wrap { max-width:1280px; margin:28px auto; padding:0 20px; display:grid; grid-template-columns:1fr 300px; gap:28px; align-items:start; }
     .v2-left { position:sticky; top:112px; max-height:calc(100vh - 140px); overflow-y:auto; padding-right:4px; }
     .v2-left::-webkit-scrollbar { width:5px; } .v2-left::-webkit-scrollbar-thumb { background:rgba(0,0,0,.18); border-radius:3px; }
-    .v2-grid { display:flex; gap:14px; align-items:flex-start; }
-    .v2-col  { flex:1; display:flex; flex-direction:column; gap:14px; }
+    .v2-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:14px; align-items:start; }
+    .v2-col  { display:contents; }
     .v2-card { border-radius:4px; padding:14px 16px 12px; cursor:pointer; display:flex; flex-direction:column; gap:7px; box-shadow:2px 3px 8px rgba(0,0,0,.10),0 1px 2px rgba(0,0,0,.06); transition:transform .15s,box-shadow .15s; position:relative; }
     .v2-card:hover { transform:translateY(-3px); box-shadow:3px 6px 16px rgba(0,0,0,.15); }
     .v2-card[data-s="EG"]  { background:#fffaed; }
@@ -204,7 +204,7 @@
     .v2-mc:hover { background:rgba(255,255,255,.28); }
     .v2-mf { flex:1; border:none; width:100%; }
     @media(max-width:960px){ .v2-wrap{grid-template-columns:1fr;} .v2-left{position:static;max-height:none;overflow-y:visible;} .v2-sidebar{position:static;max-height:none;overflow-y:visible;} }
-    @media(max-width:640px){ .v2-grid{flex-direction:column;} }
+    @media(max-width:640px){ .v2-grid{grid-template-columns:1fr;} }
 
   </style>
 </head>
@@ -243,7 +243,7 @@
 <div class="v2-wrap">
   <div class="v2-left">
     <div class="v2-grid">
-      <div class="v2-col"><div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260708_1003_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf" data-title="On the ground in China: Assessing the reset of China-US relations" onclick="openPdf(this)">
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260708_1003_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf" data-title="On the ground in China: Assessing the reset of China-US relations" onclick="openPdf(this)">
   
   <div class="v2-sender">Eurasia Group</div>
   <div class="v2-title">On the ground in China: Assessing the reset of China-US relations</div>
@@ -347,8 +347,8 @@
   <div class="v2-title">「ジェトロ・ビジネス短信」2026/07/07</div>
   <div class="v2-excerpt">XTCニューエナジーがマレーシアに正極材料工場を建設し、海外展開を加速させることで、EV電池サプライチェーンの地政学的リスク分散が進む。</div>
   <div class="v2-meta">JUL 7  18:49 &nbsp;·&nbsp; 1 MIN READ</div>
-</div></div>
-      <div class="v2-col"><div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260707_1736_‘Trump_management’__Everyone_else_has_a_plan_to_ke.pdf" data-title="‘Trump management’: Everyone else has a plan to keep NATO" onclick="openPdf(this)">
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260707_1736_‘Trump_management’__Everyone_else_has_a_plan_to_ke.pdf" data-title="‘Trump management’: Everyone else has a plan to keep NATO" onclick="openPdf(this)">
   
   <div class="v2-sender">POLITICO</div>
   <div class="v2-title">‘Trump management’: Everyone else has a plan to keep NATO</div>
@@ -452,8 +452,8 @@
   <div class="v2-title">Britain heads to NATO summit with no funding plan</div>
   
   <div class="v2-meta">JUL 6  21:08 &nbsp;·&nbsp; 1 MIN READ</div>
-</div></div>
-      <div class="v2-col"><div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260706_2058_Porsche_plans_4,000_further_job_cuts_in_major_rest.pdf" data-title="Porsche plans 4,000 further job cuts in major restructuring" onclick="openPdf(this)">
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260706_2058_Porsche_plans_4,000_further_job_cuts_in_major_rest.pdf" data-title="Porsche plans 4,000 further job cuts in major restructuring" onclick="openPdf(this)">
   <span class="v2-dot">🚗</span>
   <div class="v2-sender">POLITICO</div>
   <div class="v2-title">Porsche plans 4,000 further job cuts in major restructuring</div>
@@ -550,7 +550,7 @@
   <div class="v2-title">ジェトロ・メンバーズニュース第470号</div>
   <div class="v2-excerpt">貿易実務講座やHSコード講座など複数のオンデマンド講座が配信中であり、インコタームズや手</div>
   <div class="v2-meta">JUL 6  12:39 &nbsp;·&nbsp; 3 MIN READ</div>
-</div></div>
+</div>
     </div>
   </div>
   <div class="v2-sidebar">

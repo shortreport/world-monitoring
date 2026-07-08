@@ -1376,8 +1376,8 @@ MAIL_V2_CSS = """
     .v2-wrap { max-width:1280px; margin:28px auto; padding:0 20px; display:grid; grid-template-columns:1fr 300px; gap:28px; align-items:start; }
     .v2-left { position:sticky; top:112px; max-height:calc(100vh - 140px); overflow-y:auto; padding-right:4px; }
     .v2-left::-webkit-scrollbar { width:5px; } .v2-left::-webkit-scrollbar-thumb { background:rgba(0,0,0,.18); border-radius:3px; }
-    .v2-grid { display:flex; gap:14px; align-items:flex-start; }
-    .v2-col  { flex:1; display:flex; flex-direction:column; gap:14px; }
+    .v2-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:14px; align-items:start; }
+    .v2-col  { display:contents; }
     .v2-card { border-radius:4px; padding:14px 16px 12px; cursor:pointer; display:flex; flex-direction:column; gap:7px; box-shadow:2px 3px 8px rgba(0,0,0,.10),0 1px 2px rgba(0,0,0,.06); transition:transform .15s,box-shadow .15s; position:relative; }
     .v2-card:hover { transform:translateY(-3px); box-shadow:3px 6px 16px rgba(0,0,0,.15); }
     .v2-card[data-s="EG"]  { background:#fffaed; }
@@ -1418,7 +1418,7 @@ MAIL_V2_CSS = """
     .v2-mc:hover { background:rgba(255,255,255,.28); }
     .v2-mf { flex:1; border:none; width:100%; }
     @media(max-width:960px){ .v2-wrap{grid-template-columns:1fr;} .v2-left{position:static;max-height:none;overflow-y:visible;} .v2-sidebar{position:static;max-height:none;overflow-y:visible;} }
-    @media(max-width:640px){ .v2-grid{flex-direction:column;} }
+    @media(max-width:640px){ .v2-grid{grid-template-columns:1fr;} }
 """
 
 _SENDER_CODE = {
@@ -1507,18 +1507,7 @@ def generate_mail_v2() -> str:
     except Exception:
         emails, upd_at, toyota_summary = [], "", ""
 
-    # 3列に均等分配（新しい順に左列→中列→右列）
-    n  = len(emails)
-    c1 = (n + 2) // 3      # 切り上げ
-    c2 = (n + 1) // 3
-    # c3 = n - c1 - c2
-    col1 = emails[:c1]
-    col2 = emails[c1:c1+c2]
-    col3 = emails[c1+c2:]
-
-    col1_html = "\n".join(_render_v2_card(em) for em in col1)
-    col2_html = "\n".join(_render_v2_card(em) for em in col2)
-    col3_html = "\n".join(_render_v2_card(em) for em in col3)
+    all_cards_html = "\n".join(_render_v2_card(em) for em in emails)
 
     toyota_emails = [em for em in emails if em.get("toyota") and em.get("excerpt")]
     sidebar_html  = _render_v2_sidebar(toyota_emails, upd_at, toyota_summary)
@@ -1547,9 +1536,7 @@ document.addEventListener('keydown',function(e){if(e.key==='Escape')closeModal()
 <div class="v2-wrap">
   <div class="v2-left">
     <div class="v2-grid">
-      <div class="v2-col">{col1_html}</div>
-      <div class="v2-col">{col2_html}</div>
-      <div class="v2-col">{col3_html}</div>
+{all_cards_html}
     </div>
   </div>
   {sidebar_html}
