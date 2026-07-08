@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 13:02:47",
+  "generated_at": "2026-07-08 13:49:12",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-08 13:02:22",
+      "last_checked": "2026-07-08 13:48:49",
       "items": [
+        {
+          "uid": "34175cfea424",
+          "date": "2026-07-06",
+          "title": "ACEA statement on CBAM downstream extension proposal - ACEA - European Automobile Manufacturers' Association - ACEA - European Automobile Manufacturers' Association",
+          "summary": "欧州自動車工業会（ACEA）は、炭素国境調整メカニズム（CBAM）の下流産業への拡大提案に関する声明を発表し、自動車産業への影響と競争力への懸念を表明したものと考えられます。\n\n（注：提供いただいたテキストにはタイトルのみで具体的な内容がないため、一般的な文脈に基づいた要約となっています。詳細な内容が必要な場合は、記事の本文をご提供ください。）",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeFViWVhCY0ZwTlNpdTNqTDFPSC1STTl4MXRKeUJhNjMwbEFRZWk5R3JWUmJhLUFLY2RHbmhUMlJSdTAxV0JrLTVENWFHUTc1RXBTcFFoODVvOXVPc0JfTjUzd3dCRFR5YlN1WG5FVDhmVmVZNU92MS1FR3FsS1ltTUNWUnBIeDdEM0lmLVVkSFRLVzg?oc=5",
+          "added_at": "2026-07-08 13:48:47"
+        },
         {
           "uid": "152a4128b4e5",
           "date": "2026-04-21",
@@ -1809,7 +1819,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-08 13:02:33",
+      "last_checked": "2026-07-08 13:48:57",
       "items": [
         {
           "uid": "f25ac2aaa53d",
@@ -3790,7 +3800,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-08 13:02:47",
+      "last_checked": "2026-07-08 13:49:12",
       "items": [
         {
           "uid": "94468c5a044c",
