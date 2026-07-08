@@ -53,14 +53,18 @@ def translate_home(segments: list, client: anthropic.Anthropic) -> list:
         for s in segments
     ]
     prompt = (
-        "You are translating an executive intelligence briefing from Japanese to English.\n"
-        "Translate the following JSON naturally into English. Rules:\n"
-        "- 'badge': translate the label only (e.g. '① 米イラン関係' → '① US-Iran')\n"
-        "- 'title': crisp headline, 3-6 words\n"
-        "- 'subtitle': concise sub-headline\n"
-        "- 'bullets': each bullet as a clean declarative sentence (no leading bullet symbol)\n"
-        "- 'risk': translate the risk note; keep '▲Risk:' prefix in English\n"
-        "- 'context': translate the background note; keep 'Background:' prefix\n"
+        "You are writing an executive intelligence briefing in the style of a wire service editor.\n"
+        "Translate the following JSON from Japanese to English. Write tight, punchy, headline-style English — "
+        "the kind used by Reuters, Bloomberg terminals, or The Economist. No full sentences where a phrase works. "
+        "Cut every unnecessary word.\n\n"
+        "Rules:\n"
+        "- 'badge': short label only (e.g. '① 米イラン関係' → '① US-Iran')\n"
+        "- 'title': 3-5 word headline, verb-driven (e.g. 'Hormuz Attacks Escalate')\n"
+        "- 'subtitle': 5-8 words max (e.g. 'IRGC targets shipping; oil climbs')\n"
+        "- 'bullets': max 12 words each — headline style, active voice, no filler "
+        "(e.g. 'IRGC hits 3 vessels; shipping reroutes via Cape')\n"
+        "- 'risk': 1-2 tight sentences, start with '▲Risk:'\n"
+        "- 'context': 1-2 tight sentences, start with 'Background:'\n"
         "Return ONLY a valid JSON array with the same structure. No markdown fences.\n\n"
         f"{json.dumps(payload, ensure_ascii=False, indent=2)}"
     )
@@ -76,9 +80,9 @@ def translate_economist(bullets: list, section: str, client: anthropic.Anthropic
     payload = "\n".join(f"- {b}" for b in bullets)
     prompt = (
         f"The following are Japanese summaries of The Economist's '{section}' section.\n"
-        "The original source was English. Translate these back into crisp, natural English "
-        "in the style of The Economist — authoritative, precise, no bullet symbols.\n"
-        "Return ONLY a JSON array of strings, one per bullet. No markdown fences.\n\n"
+        "Rewrite these in tight Economist-style English — authoritative, no wasted words, "
+        "max 20 words per item. Use the active voice. No bullet symbols.\n"
+        "Return ONLY a JSON array of strings, one per item. No markdown fences.\n\n"
         f"{payload}"
     )
     msg = client.messages.create(
