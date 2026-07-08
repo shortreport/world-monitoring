@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 14:19:26",
+  "generated_at": "2026-07-08 14:41:47",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-08 14:18:59",
+      "last_checked": "2026-07-08 14:41:18",
       "items": [
         {
           "uid": "efaf0f147995",
@@ -1829,8 +1829,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-08 14:19:08",
+      "last_checked": "2026-07-08 14:41:31",
       "items": [
+        {
+          "uid": "e2d269207641",
+          "date": "2026-06-15",
+          "title": "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models - WTAQ",
+          "summary": "米国の接続車両安全保障規制に対応するため、フォードを含む自動車メーカーが中国製モデルの米国市場での認可取得を求めており、この規制がサプライチェーンの地政学的リスクに対応する重要な措置となっています。",
+          "source": "自動車部品業界",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbnYxbjVvNEpjdVZ1cmduWWpHTERnSG1KMFdjLVVjR2RybUdnWTlvVWZYZXBKaXpUUjVTaFV1ajY3Zy02QXdCQzdnZktfMjQtZ1lJV3ZtU2NNMjFKTEVwaEtxdjVMTnh3dGZvc2RjRjBQTFdIR3o1bTJ4Y080SkU5bFlWVmNVNkVvY3FRQzBxM0RvaUxyM1ZNTGdsdVJiMW5OVnZoTU55d0d4TGFBNmFrRTIzQm5wOHdWZF83Ng?oc=5",
+          "added_at": "2026-07-08 14:41:26"
+        },
         {
           "uid": "f25ac2aaa53d",
           "date": "2026-05-11",
@@ -3810,8 +3820,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-08 14:19:26",
+      "last_checked": "2026-07-08 14:41:47",
       "items": [
+        {
+          "uid": "b5ad9e2e5a91",
+          "date": "2026-06-22",
+          "title": "China Sanctions 56 U.S. Firms in Rare Earth, Defense Sectors - 조선일보",
+          "summary": "中国がレアアース・防衛産業関連の米国企業56社に対する制裁を発表し、米国のレアアース輸入制限政策への対抗措置として機能している。この制裁はレアアース供給の戦略的価値を背景に、米国との技術・経済競争における中国の影響力を示すものとなっている。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGVLSkVRMDBlV1Qta1JfeXp4ZmZ2Q1lJYktCeWY1QjhLTUpkOFRYbHRXZmdXWC1CLU90VGhVOEZKT0FBVU1WdlBIVFk2emxQaDVaTGlVaG5fbWZLUFVmaVc1VVltOHQ3UWdETnNVVFEzYXlfd2VPTnE0Z1ZKWFlfOEVHd3I?oc=5",
+          "added_at": "2026-07-08 14:41:43"
+        },
+        {
+          "uid": "9feb66c821c9",
+          "date": "2026-06-22",
+          "title": "China Joins United States, Taiwan, Iran, France and Global Trade Partners as Beijing Sanctions Ten American Defense and Rare Earth Companies, Raising Fresh Concerns for International Travel, Aviation Supply Chains and Business Mobility - Nomad Lawyer",
+          "summary": "中国は米国防衛企業およびレアアース企業10社に対する制裁を実施し、国際的な航空供給チェーンと事業活動に新たな懸念を生じさせている。この措置は米国や台湾、イランなど他の国々の制裁措置と連動する形で、レアアース産業を巡る国家間の経済的緊張が一層高まっていることを示している。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0FRYW9jUU5jS0VDX2REVzVCQy1YeGgyUlpYdlZrdVp5TE1RX2c5aXdDWEJtNU1xdHRyRDVxVVVqckRfQ1ptdWJCeHhlSm1TUTBpMks4UE04RG5ZTXhnUUZ5bFVvd251ZXFSR2JyY3JnbUlWX2piSmFsSTFKcHBneXk0RlhVX1JLWlF5b01qYVBIQjVfS1JNV3plTld1Vm5tdTB3VFhYNHJSYTFo?oc=5",
+          "added_at": "2026-07-08 14:41:43"
+        },
         {
           "uid": "a6fa7cdc6d2c",
           "date": "2026-07-06",
@@ -5790,26 +5820,6 @@
           "source": "欧米レアアース企業",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2VzYWd6cXdpODdVeHAyYTN4MlBESkZPVk92OThHajRUZTUyYUZFMTdDYnZvczNuUm5STlYtQUZGYUhjU1p4TENPX2hqRzFTWHhrRE83NlpsMDVSSUc4RmY1RTN6V0V5cnFueExYVGtzaFdsMWVLMzdTeENwR0hKQUI2bjlXZDdjUFNTX2dMeE5FYTRwcFhNMXBWOC1tZjkzWjVBbjBKZElDR0ZTZ0R4MDFScmVoTDh6ZVQyZnRUV2NIVlVWTUNiSWlXc3JtTzh2SGJFZERXWQ?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "8f72d8dd8880",
-          "date": "2026-06-22",
-          "title": "MP, USAR Stocks In Focus: China Targets U.S. Rare Earth Suppliers As Supply Chain Battle Intensifies - TradingView",
-          "summary": "中国がレアアース供給チェーン競争を強化する一環として、米国のレアアース供給業者を標的にしており、これが米国企業の株価に影響を与えている。中国はレアアース輸出管理を通じて供給チェーン支配を強化し、米国のレアアース関連企業（MP、USAR等）の経営環境に圧力をかけている。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSUFYQkZfYWtFWXhZc2JIb1gya050cUxFQ0Z2QWRBVkpiUHp5MWJMUHNkRnFqRE9adXhRZzVJMUxVSlhJYS1rbzhhNUZfUVd6TERFaTl2eTV0aGpyQVQzRV9icmhpOTRObEx1UDF2VTBRN090V3F0OXJTcUNkWGVLdWppbWVZSEJvSk5IREtmc3VjX1NtWG5pWlE3ZU5JcGVfN0NCT1lCNk9qWWVFM3lFTENsYzRwdFFtdWI4NXlpb000V2xMRXZvTDlKVVU3ak9qeG1jMHdaeUNuN241YWFZQXdkcWpQaWN2LWlmNTkwaw?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "1306d65d6350",
-          "date": "2026-06-22",
-          "title": "China places two US rare earths producers on export control list - The Business Times",
-          "summary": "中国は米国のレアアース生産企業2社を輸出管理リストに追加し、これらの企業への輸出を制限する措置を講じた。これは米国による中国製品への規制強化に対する報復措置と見られている。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ2t3V29WaTNNcnZaUGJZQ0RiaEVsd1ptNjRqSlhzaVFhX2VoYjhzUVh1WEJ5eTN0VHJ1clVZeURZQVJIZjloVFBXVVp3cnlBdDBoS05KNTFfU3U1YVB3YWlNYVFULVRHOWNFb3lHbHJ4YVhSZF9DRHZFS2lSbktxZkgyNFd4NzduU3lWWnFKenNQT1lxMXpOVGRueldQOXBHTENvZ1pUV1BQLU1aQkg5V3IxWDBtdFZhLVZCSnJZU2NSVGk2XzFvRF96NA?oc=5",
           "added_at": "2026-06-23 03:08:20"
         }
       ]
