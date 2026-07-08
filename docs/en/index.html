@@ -28,6 +28,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
 .page-nav a.active { color: #1a1a2e; border-bottom-color: #1a1a2e; font-weight: 700; }
 .page-nav a .nav-icon { font-size: 15px; }
 .page-nav a.dim { opacity: .45; pointer-events: none; }
+.page-nav a:last-child { margin-left: auto; border-left: 1px solid #e5e7eb; }
 
 /* ── Layout ── */
 .page-wrap { max-width: 1200px; margin: 24px auto; padding: 0 20px; display: grid; grid-template-columns: 1fr 300px; gap: 24px; align-items: start; }
@@ -89,7 +90,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
   <a href="trump.html" class="dim"><span class="nav-icon">🇺🇸</span>US / Trump</a>
   <a href="theme.html" class="dim"><span class="nav-icon">🔎</span>Themes</a>
   <a href="midterm.html" class="dim"><span class="nav-icon">🗳️</span>US Midterms</a>
-  <a href="summary.html" class="dim"><span class="nav-icon">📋</span>Exec Summary</a>
+  <a href="summary.html"><span class="nav-icon">📋</span>Exec Summary</a>
 </nav>
 <div class="page-wrap">
   <main class="news-grid">
