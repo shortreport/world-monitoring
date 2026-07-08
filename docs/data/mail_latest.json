@@ -1,278 +1,148 @@
 {
-  "generated_at": "2026-07-07 18:41 JST",
-  "sender_count": 6,
-  "total_mails": 29,
+  "generated_at": "2026-07-08 11:37 JST",
+  "sender_count": 4,
+  "total_mails": 15,
   "summaries": [
+    {
+      "sender": "Cliff",
+      "short": "CLIFF",
+      "color": "CYAN",
+      "count": 1,
+      "bullets": [
+        "要約取得に失敗しました。"
+      ],
+      "subjects": [
+        [
+          "2026-07-08",
+          "EG Letter from Cliff Kupchan: High expectations in Beijing",
+          "data/pdfs/20260708_0111_EG_Letter_from_Cliff_Kupchan__High_expectations_in.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260708_0111_EG_Letter_from_Cliff_Kupchan__High_expectations_in.pdf"
+      ]
+    },
     {
       "sender": "EG",
       "short": "EG",
-      "color": "CYAN",
-      "count": 10,
-      "bullets": [
-        "EUはAI分野で米国に依存を続け、中国との貿易対立激化やイランの不安定な停戦による地政学的リスク増加に直面",
-        "米中関係はトランプ・習近平首脳会談後の新段階へ移行し、イラン戦争と中国経済への影響、中国とEU・日本間の緊張がポイント",
-        "中東ではイランの停戦が続く可能性（確度65%）である一方、油価低下とUAE・サウジの競争によりブレント油価は70ドル以下に低迷",
-        "パキスタンではタリバン系民兵による低レベルの継続的紛争が確実で、大規模エスカレーションより都市部テロなどの限定的衝突が常態化する見通し",
-        "英国ではBurnham主導で税制改革と産業の公的管理を軸とした経済政策への転換を進行中"
-      ],
-      "subjects": [
-        [
-          "2026-07-06",
-          "EG Research Summary in Japanese: 2026年7月6日",
-          "data/pdfs/20260706_1249_EG_Research_Summary_in_Japanese__2026年7月6日.pdf"
-        ],
-        [
-          "2026-07-06",
-          "On the Ground in China: Assessing the reset of China-US relations",
-          "data/pdfs/20260706_1505_On_the_Ground_in_China__Assessing_the_reset_of_Chi.pdf"
-        ],
-        [
-          "2026-07-06",
-          "On the Ground in China: Assessing the reset of China-US relations",
-          "data/pdfs/20260706_2042_On_the_Ground_in_China__Assessing_the_reset_of_Chi.pdf"
-        ],
-        [
-          "2026-07-06",
-          "EG Daily Brief: Iran oil revenue sustains shaky peace as Gulf pivots",
-          "data/pdfs/20260706_2150_EG_Daily_Brief__Iran_oil_revenue_sustains_shaky_pe.pdf"
-        ],
-        [
-          "2026-07-07",
-          "EG US Daily: McMorrow's exit is not enough for Democratic",
-          "data/pdfs/20260707_0123_EG_US_Daily__McMorrow's_exit_is_not_enough_for_Dem.pdf"
-        ],
-        [
-          "2026-07-07",
-          "EG Pakistan: Ceasefire collapse will extend cycle of low-level",
-          "data/pdfs/20260707_0213_EG_Pakistan__Ceasefire_collapse_will_extend_cycle_.pdf"
-        ],
-        [
-          "2026-07-07",
-          "EG Oil Markets Weekly: UAE-Saudi competition will keep prices low",
-          "data/pdfs/20260707_0220_EG_Oil_Markets_Weekly__UAE-Saudi_competition_will_.pdf"
-        ],
-        [
-          "2026-07-07",
-          "China: Recent engagement with key officials - EG Conference Call",
-          "data/pdfs/20260707_0409_China__Recent_engagement_with_key_officials_-_EG_C.pdf"
-        ],
-        [
-          "2026-07-07",
-          "On the ground in China: Assessing the reset of China-US relations",
-          "data/pdfs/20260707_1004_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf"
-        ],
-        [
-          "2026-07-07",
-          "EG United Kingdom: Burnham may tweak investment rule to",
-          "data/pdfs/20260707_1519_EG_United_Kingdom__Burnham_may_tweak_investment_ru.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260706_1249_EG_Research_Summary_in_Japanese__2026年7月6日.pdf",
-        "data/pdfs/20260706_1505_On_the_Ground_in_China__Assessing_the_reset_of_Chi.pdf",
-        "data/pdfs/20260706_2042_On_the_Ground_in_China__Assessing_the_reset_of_Chi.pdf",
-        "data/pdfs/20260706_2150_EG_Daily_Brief__Iran_oil_revenue_sustains_shaky_pe.pdf",
-        "data/pdfs/20260707_0123_EG_US_Daily__McMorrow's_exit_is_not_enough_for_Dem.pdf",
-        "data/pdfs/20260707_0213_EG_Pakistan__Ceasefire_collapse_will_extend_cycle_.pdf",
-        "data/pdfs/20260707_0220_EG_Oil_Markets_Weekly__UAE-Saudi_competition_will_.pdf",
-        "data/pdfs/20260707_0409_China__Recent_engagement_with_key_officials_-_EG_C.pdf",
-        "data/pdfs/20260707_1004_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf",
-        "data/pdfs/20260707_1519_EG_United_Kingdom__Burnham_may_tweak_investment_ru.pdf"
-      ]
-    },
-    {
-      "sender": "Eurasia",
-      "short": "EURAS",
       "color": "YEL",
-      "count": 1,
+      "count": 7,
       "bullets": [
-        "中東主要産油国の増産加速と市場シェア争いにより、中国の低い輸入需要を背景に油価が低下する見通し",
-        "7月8日に中国への最近のエンゲージメントに関するカンファレンスコール開催",
-        "7月10日に米中関係の再構築と中国・EU間および日中間の緊張高まりに関するレポート発表"
+        "要約取得に失敗しました。"
       ],
       "subjects": [
         [
           "2026-07-07",
-          "Research Summary for Jul 6, 2026",
-          "data/pdfs/20260707_0735_Research_Summary_for_Jul_6,_2026.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260707_0735_Research_Summary_for_Jul_6,_2026.pdf"
-      ]
-    },
-    {
-      "sender": "Ian",
-      "short": "IAN",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "グローバル化による経済効率性と人間開発の進展一方で、地政学的不安定性により国際サプライチェーンと知識経済が分断化へシフト",
-        "地政学的後退の時代における国際ルール崩壊と多国間機関の指導力不足により、半導体やエネルギー、レアアース、石油など戦略的産業が地政学的リスクへ露呈",
-        "主権争いやエネルギー戦争といった政治的リスクが経営モデルに支障をきたし、企業は短期的なコスト増加を受け入れての耐性強化が必須",
-        "グローバル化による全体的な富の増加が労働者階級と中産階級の所得減少をもたらし、富の分配不均等が社会的課題"
-      ],
-      "subjects": [
+          "EG PRACTICE",
+          "data/pdfs/20260707_1852_EG_PRACTICE_LETTER：上級幹部がブリーフィングチームに本当に求めているもの.pdf"
+        ],
         [
-          "2026-07-06",
-          "eg update",
-          "data/pdfs/20260706_2046_eg_update.pdf"
+          "2026-07-07",
+          "EG Daily Brief: Oil likely to dip below $70 amid UAE-Saudi rivalry",
+          "data/pdfs/20260707_2045_EG_Daily_Brief__Oil_likely_to_dip_below_$70_amid_U.pdf"
+        ],
+        [
+          "2026-07-07",
+          "China: Recent engagement with key officials - EG Conference Call,",
+          "data/pdfs/20260707_2301_China__Recent_engagement_with_key_officials_-_EG_C.pdf"
+        ],
+        [
+          "2026-07-08",
+          "EG US Daily: Anyone but Platner leaves Democrats better off",
+          "data/pdfs/20260708_0102_EG_US_Daily__Anyone_but_Platner_leaves_Democrats_b.pdf"
+        ],
+        [
+          "2026-07-08",
+          "EG France: Le Pen’s return to the race makes a far right victory",
+          "data/pdfs/20260708_0702_EG_France__Le_Pen’s_return_to_the_race_makes_a_far.pdf"
+        ],
+        [
+          "2026-07-08",
+          "EG Research Summary in Japanese: 2026年7月8日",
+          "data/pdfs/20260708_0815_EG_Research_Summary_in_Japanese__2026年7月8日.pdf"
+        ],
+        [
+          "2026-07-08",
+          "On the ground in China: Assessing the reset of China-US relations",
+          "data/pdfs/20260708_1003_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260706_2046_eg_update.pdf"
+        "data/pdfs/20260707_1852_EG_PRACTICE_LETTER：上級幹部がブリーフィングチームに本当に求めているもの.pdf",
+        "data/pdfs/20260707_2045_EG_Daily_Brief__Oil_likely_to_dip_below_$70_amid_U.pdf",
+        "data/pdfs/20260707_2301_China__Recent_engagement_with_key_officials_-_EG_C.pdf",
+        "data/pdfs/20260708_0102_EG_US_Daily__Anyone_but_Platner_leaves_Democrats_b.pdf",
+        "data/pdfs/20260708_0702_EG_France__Le_Pen’s_return_to_the_race_makes_a_far.pdf",
+        "data/pdfs/20260708_0815_EG_Research_Summary_in_Japanese__2026年7月8日.pdf",
+        "data/pdfs/20260708_1003_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "ORG",
-      "count": 15,
+      "color": "RED",
+      "count": 6,
       "bullets": [
-        "NATO事務総長ルッテがトランプ大統領との関係構築を通じた同盟維持に取り組む中、欧州同盟国の防衛支出増加を説得する外交交渉が試される状況",
-        "マドリード・バルセロナなどEU主要空港のターミナル混雑により、新規便追加の制限と乗客数上限設定による運用管理の導入",
-        "EUがグリーン鋼など産業加速化法の「ヨーロッパ製」義務付けと「信頼できるパートナー国」選定権の強化を推進する中、中国から保護主義的と批判を受ける状況",
-        "ポルシェなど欧州自動車産業の急速な経営悪化に伴う大規模リストラと、フランス極右勢力の大統領選での台頭による欧州政治情勢の不安定化",
-        "新しい生体認証システムと出入国管理システムの導入により、EU港湾と空港で夏季ピーク時の混雑激化と処理遅延が懸念される状況"
+        "要約取得に失敗しました。"
       ],
       "subjects": [
         [
-          "2026-07-06",
-          "Rutte’s Trump whispering faces stress test",
-          "data/pdfs/20260706_1352_Rutte’s_Trump_whispering_faces_stress_test.pdf"
-        ],
-        [
-          "2026-07-06",
-          "Overcrowding at Madrid, Barcelona airports prevents flight",
-          "data/pdfs/20260706_1402_Overcrowding_at_Madrid,_Barcelona_airports_prevent.pdf"
-        ],
-        [
-          "2026-07-06",
-          "France’s far-right star Bardella is about to find out whether he’s",
-          "data/pdfs/20260706_1636_France’s_far-right_star_Bardella_is_about_to_find_.pdf"
-        ],
-        [
-          "2026-07-06",
-          "How Pedro Lourtie became the EU’s dealmaker in chief",
-          "data/pdfs/20260706_1741_How_Pedro_Lourtie_became_the_EU’s_dealmaker_in_chi.pdf"
-        ],
-        [
-          "2026-07-06",
-          "Metsola heads for clash with her own Parliament over child abuse",
-          "data/pdfs/20260706_1906_Metsola_heads_for_clash_with_her_own_Parliament_ov.pdf"
-        ],
-        [
-          "2026-07-06",
-          "EU countries want ‘buy European’ quotas for green steel",
-          "data/pdfs/20260706_2025_EU_countries_want_‘buy_European’_quotas_for_green_.pdf"
-        ],
-        [
-          "2026-07-06",
-          "Document: EU capitals seek greater say over ‘Made in Europe’",
-          "data/pdfs/20260706_2044_Document__EU_capitals_seek_greater_say_over_‘Made_.pdf"
-        ],
-        [
-          "2026-07-06",
-          "Porsche plans 4,000 further job cuts in major restructuring",
-          "data/pdfs/20260706_2058_Porsche_plans_4,000_further_job_cuts_in_major_rest.pdf"
-        ],
-        [
-          "2026-07-06",
-          "Britain heads to NATO summit with no funding plan",
-          "data/pdfs/20260706_2108_Britain_heads_to_NATO_summit_with_no_funding_plan.pdf"
-        ],
-        [
-          "2026-07-06",
-          "EU calls for ‘fair play’ after Trump’s red card intervention rocks",
-          "data/pdfs/20260706_2109_EU_calls_for_‘fair_play’_after_Trump’s_red_card_in.pdf"
+          "2026-07-07",
+          "Le Pen sentenced to house arrest: Live updates",
+          "data/pdfs/20260707_2107_Le_Pen_sentenced_to_house_arrest__Live_updates.pdf"
         ],
         [
           "2026-07-07",
-          "Pro Daily Headlines",
-          "data/pdfs/20260707_0031_Pro_Daily_Headlines.pdf"
+          "Nigel Farage triggers by-election amid donations probe",
+          "data/pdfs/20260707_2238_Nigel_Farage_triggers_by-election_amid_donations_p.pdf"
         ],
         [
-          "2026-07-07",
-          "Le Pen or Bardella? What it means for Europe",
-          "data/pdfs/20260707_1349_Le_Pen_or_Bardella__What_it_means_for_Europe.pdf"
+          "2026-07-08",
+          "Nigel Farage has triggered a by-election — but his rivals won’t play",
+          "data/pdfs/20260708_0241_Nigel_Farage_has_triggered_a_by-election_—_but_his.pdf"
         ],
         [
-          "2026-07-07",
-          "EU ports brace for long queues with new border checks",
-          "data/pdfs/20260707_1401_EU_ports_brace_for_long_queues_with_new_border_che.pdf"
+          "2026-07-08",
+          "She’s running: Marine Le Pen will stand for French presidency —",
+          "data/pdfs/20260708_0320_She’s_running__Marine_Le_Pen_will_stand_for_French.pdf"
         ],
         [
-          "2026-07-07",
-          "It’s Judgment Day for Marine Le Pen",
-          "data/pdfs/20260707_1635_It’s_Judgment_Day_for_Marine_Le_Pen.pdf"
+          "2026-07-08",
+          "Le Pen comeback revives French far right’s biggest question: Can",
+          "data/pdfs/20260708_0406_Le_Pen_comeback_revives_French_far_right’s_biggest.pdf"
         ],
         [
-          "2026-07-07",
-          "‘Trump management’: Everyone else has a plan to keep NATO",
-          "data/pdfs/20260707_1736_‘Trump_management’__Everyone_else_has_a_plan_to_ke.pdf"
+          "2026-07-08",
+          "Trump administration reimposes sanctions on Iran oil sales",
+          "data/pdfs/20260708_0647_Trump_administration_reimposes_sanctions_on_Iran_o.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260706_1352_Rutte’s_Trump_whispering_faces_stress_test.pdf",
-        "data/pdfs/20260706_1402_Overcrowding_at_Madrid,_Barcelona_airports_prevent.pdf",
-        "data/pdfs/20260706_1636_France’s_far-right_star_Bardella_is_about_to_find_.pdf",
-        "data/pdfs/20260706_1741_How_Pedro_Lourtie_became_the_EU’s_dealmaker_in_chi.pdf",
-        "data/pdfs/20260706_1906_Metsola_heads_for_clash_with_her_own_Parliament_ov.pdf",
-        "data/pdfs/20260706_2025_EU_countries_want_‘buy_European’_quotas_for_green_.pdf",
-        "data/pdfs/20260706_2044_Document__EU_capitals_seek_greater_say_over_‘Made_.pdf",
-        "data/pdfs/20260706_2058_Porsche_plans_4,000_further_job_cuts_in_major_rest.pdf",
-        "data/pdfs/20260706_2108_Britain_heads_to_NATO_summit_with_no_funding_plan.pdf",
-        "data/pdfs/20260706_2109_EU_calls_for_‘fair_play’_after_Trump’s_red_card_in.pdf",
-        "data/pdfs/20260707_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260707_1349_Le_Pen_or_Bardella__What_it_means_for_Europe.pdf",
-        "data/pdfs/20260707_1401_EU_ports_brace_for_long_queues_with_new_border_che.pdf",
-        "data/pdfs/20260707_1635_It’s_Judgment_Day_for_Marine_Le_Pen.pdf",
-        "data/pdfs/20260707_1736_‘Trump_management’__Everyone_else_has_a_plan_to_ke.pdf"
-      ]
-    },
-    {
-      "sender": "ジェトロ",
-      "short": "ジェトロ",
-      "color": "GRN",
-      "count": 1,
-      "bullets": [
-        "貿易実務やHSコード分類などを学べるオンデマンド講座が配信中",
-        "ラゴス国際見本市やBIOFACH等の展示会で割引や無料優先入場などの特典を提供",
-        "アフリカ市場動向や中南米自動車産業に関するメンバーズ向け割引セミナーを配信・開催予定",
-        "第2次トランプ政権や中東情勢など国際ビジネスに関連する最新情報を特集で提供"
-      ],
-      "subjects": [
-        [
-          "2026-07-06",
-          "ジェトロ・メンバーズニュース第470号",
-          "data/pdfs/20260706_1239_ジェトロ・メンバーズニュース第470号.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260706_1239_ジェトロ・メンバーズニュース第470号.pdf"
+        "data/pdfs/20260707_2107_Le_Pen_sentenced_to_house_arrest__Live_updates.pdf",
+        "data/pdfs/20260707_2238_Nigel_Farage_triggers_by-election_amid_donations_p.pdf",
+        "data/pdfs/20260708_0241_Nigel_Farage_has_triggered_a_by-election_—_but_his.pdf",
+        "data/pdfs/20260708_0320_She’s_running__Marine_Le_Pen_will_stand_for_French.pdf",
+        "data/pdfs/20260708_0406_Le_Pen_comeback_revives_French_far_right’s_biggest.pdf",
+        "data/pdfs/20260708_0647_Trump_administration_reimposes_sanctions_on_Iran_o.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "PRP",
+      "color": "ORG",
       "count": 1,
       "bullets": [
-        "中国とEUが貿易投資協議メカニズムの初会合をブリュッセルで開催し、4つの作業部会設置で合意",
-        "ジェトロがシンガポール企業庁とヘルスケアなど協力分野の拡大に向けた連携",
-        "カナダがアルバータ州と太平洋沿岸を結ぶ原油パイプラインの新設を発表",
-        "フランス上院がウルトラファストファッション規制法案を可決し、ファッション業界の規制強化",
-        "ウクライナ復興会議でエネルギーや防衛分野における外国企業との協力加速で合意"
+        "要約取得に失敗しました。"
       ],
       "subjects": [
         [
-          "2026-07-06",
-          "「ジェトロ・ビジネス短信」2026/07/06",
-          "data/pdfs/20260706_1806_「ジェトロ・ビジネス短信」2026_07_06.pdf"
+          "2026-07-07",
+          "「ジェトロ・ビジネス短信」2026/07/07",
+          "data/pdfs/20260707_1849_「ジェトロ・ビジネス短信」2026_07_07.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260706_1806_「ジェトロ・ビジネス短信」2026_07_06.pdf"
+        "data/pdfs/20260707_1849_「ジェトロ・ビジネス短信」2026_07_07.pdf"
       ]
     }
   ]

@@ -1,7 +1,158 @@
 {
-  "updated_at": "2026-07-07 18:41 JST",
-  "total": 29,
+  "updated_at": "2026-07-08 11:37 JST",
+  "total": 44,
+  "toyota_summary": "",
   "emails": [
+    {
+      "ts": "20260708_1003",
+      "sender_norm": "Eurasia Group",
+      "subject": "On the ground in China: Assessing the reset of China-US relations",
+      "pdf": "data/pdfs/20260708_1003_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf",
+      "date_label": "JUL 8  10:03",
+      "read_min": 2,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260708_0815",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG Research Summary in Japanese: 2026年7月8日",
+      "pdf": "data/pdfs/20260708_0815_EG_Research_Summary_in_Japanese__2026年7月8日.pdf",
+      "date_label": "JUL 8  08:15",
+      "read_min": 3,
+      "toyota": true,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260708_0702",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG France: Le Pen’s return to the race makes a far right victory",
+      "pdf": "data/pdfs/20260708_0702_EG_France__Le_Pen’s_return_to_the_race_makes_a_far.pdf",
+      "date_label": "JUL 8  07:02",
+      "read_min": 7,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260708_0647",
+      "sender_norm": "POLITICO",
+      "subject": "Trump administration reimposes sanctions on Iran oil sales",
+      "pdf": "data/pdfs/20260708_0647_Trump_administration_reimposes_sanctions_on_Iran_o.pdf",
+      "date_label": "JUL 8  06:47",
+      "read_min": 3,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260708_0406",
+      "sender_norm": "POLITICO",
+      "subject": "Le Pen comeback revives French far right’s biggest question: Can",
+      "pdf": "data/pdfs/20260708_0406_Le_Pen_comeback_revives_French_far_right’s_biggest.pdf",
+      "date_label": "JUL 8  04:06",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260708_0320",
+      "sender_norm": "POLITICO",
+      "subject": "She’s running: Marine Le Pen will stand for French presidency —",
+      "pdf": "data/pdfs/20260708_0320_She’s_running__Marine_Le_Pen_will_stand_for_French.pdf",
+      "date_label": "JUL 8  03:20",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260708_0241",
+      "sender_norm": "POLITICO",
+      "subject": "Nigel Farage has triggered a by-election — but his rivals won’t play",
+      "pdf": "data/pdfs/20260708_0241_Nigel_Farage_has_triggered_a_by-election_—_but_his.pdf",
+      "date_label": "JUL 8  02:41",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260708_0111",
+      "sender_norm": "Cliff",
+      "subject": "EG Letter from Cliff Kupchan: High expectations in Beijing",
+      "pdf": "data/pdfs/20260708_0111_EG_Letter_from_Cliff_Kupchan__High_expectations_in.pdf",
+      "date_label": "JUL 8  01:11",
+      "read_min": 8,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260708_0102",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG US Daily: Anyone but Platner leaves Democrats better off",
+      "pdf": "data/pdfs/20260708_0102_EG_US_Daily__Anyone_but_Platner_leaves_Democrats_b.pdf",
+      "date_label": "JUL 8  01:02",
+      "read_min": 7,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_2301",
+      "sender_norm": "Eurasia Group",
+      "subject": "China: Recent engagement with key officials - EG Conference Call,",
+      "pdf": "data/pdfs/20260707_2301_China__Recent_engagement_with_key_officials_-_EG_C.pdf",
+      "date_label": "JUL 7  23:01",
+      "read_min": 2,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_2238",
+      "sender_norm": "POLITICO",
+      "subject": "Nigel Farage triggers by-election amid donations probe",
+      "pdf": "data/pdfs/20260707_2238_Nigel_Farage_triggers_by-election_amid_donations_p.pdf",
+      "date_label": "JUL 7  22:38",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_2107",
+      "sender_norm": "POLITICO",
+      "subject": "Le Pen sentenced to house arrest: Live updates",
+      "pdf": "data/pdfs/20260707_2107_Le_Pen_sentenced_to_house_arrest__Live_updates.pdf",
+      "date_label": "JUL 7  21:07",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_2045",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG Daily Brief: Oil likely to dip below $70 amid UAE-Saudi rivalry",
+      "pdf": "data/pdfs/20260707_2045_EG_Daily_Brief__Oil_likely_to_dip_below_$70_amid_U.pdf",
+      "date_label": "JUL 7  20:45",
+      "read_min": 7,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_1852",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG PRACTICE",
+      "pdf": "data/pdfs/20260707_1852_EG_PRACTICE_LETTER：上級幹部がブリーフィングチームに本当に求めているもの.pdf",
+      "date_label": "JUL 7  18:52",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260707_1849",
+      "sender_norm": "ビジネス短信",
+      "subject": "「ジェトロ・ビジネス短信」2026/07/07",
+      "pdf": "data/pdfs/20260707_1849_「ジェトロ・ビジネス短信」2026_07_07.pdf",
+      "date_label": "JUL 7  18:49",
+      "read_min": 1,
+      "toyota": true,
+      "excerpt": ""
+    },
     {
       "ts": "20260707_1736",
       "sender_norm": "POLITICO",
@@ -292,6 +443,5 @@
       "toyota": true,
       "excerpt": "貿易実務講座やHSコード講座など複数のオンデマンド講座が配信中であり、インコタームズや手"
     }
-  ],
-  "toyota_summary": "European logistics are about to seize up this summer when the EU's new Entry/Exit System goes live—we're talking sustained port congestion at Dover and across the continent—and that's happening precisely when your supply chain can least afford friction, because German competitors are already in crisis mode, cutting thousands of jobs to stay afloat in a market where Chinese demand is cratering and oil volatility is reshaping everything downstream. The underlying dynamic is simple: deglobalization and geopolitical fragmentation are colliding with cyclical automotive weakness, which means tariff walls, border delays, and energy uncertainty are no longer tail risks—they're your operating environment for the next eighteen months. Your strategic move has to be dual: ruthlessly right-size your European footprint now before logistics costs spike further, and simultaneously lock in long-term energy hedges and supplier contracts while your competitors are still in reactive mode, not proactive mode."
+  ]
 }
