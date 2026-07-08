@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 12:14:43",
+  "generated_at": "2026-07-08 12:40:39",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-08 12:14:18",
+      "last_checked": "2026-07-08 12:40:13",
       "items": [
         {
           "uid": "152a4128b4e5",
@@ -1809,8 +1809,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-08 12:14:27",
+      "last_checked": "2026-07-08 12:40:23",
       "items": [
+        {
+          "uid": "f25ac2aaa53d",
+          "date": "2026-05-11",
+          "title": "Trump's 'Welcome Chinese Factories in the US' Remarks Alarm Detroit; Industry and Congress Push Back - finance.biggo.com",
+          "summary": "# 要約\n\nトランプ大統領の中国工場の米国招致発言はデトロイト自動車産業を懸念させ、業界と議会が反発していることから、S.4429は米国自動車産業の中国資本からの保護を目的とした安全保障立法として位置付けられています。本法案は、中国による米国自動車産業への投資浸透を抑制し、雇用と技術の流出を防ぐための規制枠組みを提供します。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jSUZKcEhMSTdlVThMck00QTltRkItSlU3SEY1cVFjWV9haWdYbEZpcGhwWFlTN2dORWY4aTBtN3gtNHFZR0dHSG01cWgxWWNoVFJJc2NCX3dCdkVoVWRDNQ?oc=5",
+          "added_at": "2026-07-08 12:40:20"
+        },
         {
           "uid": "f6b2b9c200e9",
           "date": "2026-05-11",
@@ -3780,8 +3790,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-08 12:14:43",
+      "last_checked": "2026-07-08 12:40:39",
       "items": [
+        {
+          "uid": "94468c5a044c",
+          "date": "2026-05-18",
+          "title": "Brussels Weighs China Supply-Chain Rules as Trade Deficit Becomes Security Issue - EU Today",
+          "summary": "EUは中国のレアアース供給に対する依存度の高さが安全保障上の脅威となっているため、サプライチェーン規制の導入を検討している。この措置は、戦略的に重要な鉱物資源における中国の支配力を牽制し、EU内での供給源の多様化を目指すものである。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QT1UwNXQwdFNsWEpNWGFhV085RENyYks0VFhGOVVscXFZaDM0LTZsWFFnSGVIZmcxOUtVeGJ4QkZteWFLWHc5X3FSZnNZYkkzdHBNY0FmV2RVYjBSUE5HTjNuUWlLU2RwZ2dOeThn?oc=5",
+          "added_at": "2026-07-08 12:40:37"
+        },
         {
           "uid": "bf9fc6da1806",
           "date": "2026-05-20",
@@ -5770,16 +5790,6 @@
           "source": "防衛産業",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0FRYW9jUU5jS0VDX2REVzVCQy1YeGgyUlpYdlZrdVp5TE1RX2c5aXdDWEJtNU1xdHRyRDVxVVVqckRfQ1ptdWJCeHhlSm1TUTBpMks4UE04RG5ZTXhnUUZ5bFVvd251ZXFSR2JyY3JnbUlWX2piSmFsSTFKcHBneXk0RlhVX1JLWlF5b01qYVBIQjVfS1JNV3plTld1Vm5tdTB3VFhYNHJSYTFo?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "bd403dd68245",
-          "date": "2026-06-22",
-          "title": "China restricts exports to US defense firms",
-          "summary": "中国は米国防衛企業10社を輸出管理リストに追加し、ドローン、ロボットハードウェア、スウォームソフトウェアなどの軍民両用品の輸出を禁止した。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/defense/5934082-china-export-control-dual-use-items-us-defense-firms/",
           "added_at": "2026-06-23 03:08:20"
         }
       ]
