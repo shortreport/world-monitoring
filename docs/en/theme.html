@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Themes | World Intelligence Monitor</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif; background: #f4f5f7; color: #1a1a2e; font-size: 16px; line-height: 1.7; }
+.site-header { background: #1a1a2e; color: #fff; padding: 0 24px; height: 58px; display: flex; align-items: center; gap: 16px; position: sticky; top: 0; z-index: 300; box-shadow: 0 2px 8px rgba(0,0,0,.25); }
+.logo { font-size: 20px; font-weight: 700; letter-spacing: .5px; white-space: nowrap; cursor: pointer; }
+.logo em { color: #5bc8f5; font-style: normal; }
+.header-date { font-size: 12px; color: rgba(255,255,255,.5); white-space: nowrap; }
+.header-spacer { flex: 1; }
+.live-badge { background: #e63946; color: #fff; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; letter-spacing: 1px; }
+.update-time { font-size: 11px; color: rgba(255,255,255,.4); white-space: nowrap; }
+.lang-toggle { display: flex; gap: 6px; font-size: 12px; }
+.lang-toggle a { color: rgba(255,255,255,.6); text-decoration: none; padding: 3px 10px; border-radius: 4px; border: 1px solid rgba(255,255,255,.3); transition: all .15s; font-weight: 600; }
+.lang-toggle a.active { color: #fff; background: rgba(255,255,255,.2); border-color: rgba(255,255,255,.7); }
+.lang-toggle a:hover { color: #fff; background: rgba(255,255,255,.12); }
+.page-nav { background: #fff; border-bottom: 1px solid #e5e7eb; padding: 0 24px; display: flex; align-items: stretch; position: sticky; top: 58px; z-index: 200; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
+.page-nav a { display: flex; align-items: center; gap: 6px; padding: 0 18px; height: 44px; font-size: 14px; font-weight: 500; color: #6b7280; text-decoration: none; border-bottom: 3px solid transparent; white-space: nowrap; transition: color .15s, border-color .15s; }
+.page-nav a:hover { color: #1a1a2e; }
+.page-nav a.active { color: #1a1a2e; border-bottom-color: #1a1a2e; font-weight: 700; }
+.page-nav a .nav-icon { font-size: 15px; }
+.page-nav a.dim { opacity: .45; pointer-events: none; }
+.section-label { font-size: 11px; font-weight: 700; color: #6b7280; text-transform: uppercase; letter-spacing: 1.2px; margin: 0 0 12px; padding-bottom: 8px; border-bottom: 2px solid #e5e7eb; }
+.site-footer { text-align: center; padding: 28px 20px; font-size: 11px; color: #9ca3af; margin-top: 32px; border-top: 1px solid #e5e7eb; }
+@media (max-width: 640px) { .site-header { padding: 0 14px; } .update-time { display: none; } .page-nav { padding: 0 8px; } .page-nav a { padding: 0 12px; font-size: 13px; } }
+.theme-wrap { max-width: 1040px; margin: 24px auto; padding: 0 20px; }
+.theme-tabs-nav { display: flex; gap: 6px; flex-wrap: wrap; background: #fff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 8px 12px; margin-bottom: 14px; }
+.theme-tab { padding: 6px 18px; border-radius: 20px; font-size: 13px; font-weight: 600; cursor: pointer; border: 1.5px solid #ccc; background: #fff; color: #555; transition: all .15s; white-space: nowrap; }
+.theme-tab.active { color: #fff; border-color: transparent; }
+.theme-tab:not(.active):hover { background: #f0f4ff; border-color: #aac; }
+.theme-panel { --tc: #003F8A; }
+.theme-banner { border-radius: 12px; padding: 18px 24px; margin-bottom: 16px; display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
+.theme-banner-title { font-size: 20px; font-weight: 700; color: #fff; letter-spacing: .4px; }
+.theme-banner-desc { font-size: 11px; color: rgba(255,255,255,.6); margin-top: 3px; }
+.theme-banner-spacer { flex: 1; }
+.theme-stats { display: flex; gap: 12px; flex-wrap: wrap; }
+.theme-stat { text-align: center; background: rgba(255,255,255,.12); border-radius: 8px; padding: 8px 14px; }
+.theme-stat-num { font-size: 18px; font-weight: 700; color: #FFCC00; }
+.theme-stat-lbl { font-size: 10px; color: rgba(255,255,255,.5); }
+.theme-item { background: #fff; border-radius: 12px; border: 1px solid #e5e7eb; border-left: 4px solid var(--tc); padding: 14px 18px; margin-bottom: 10px; transition: box-shadow .2s; }
+.theme-item:hover { box-shadow: 0 4px 14px rgba(0,0,0,.08); }
+.theme-item.is-new { border-left-color: #F59E0B; background: #fffef0; }
+.theme-item-header { display: flex; align-items: flex-start; gap: 8px; margin-bottom: 6px; flex-wrap: wrap; }
+.theme-new-badge { background: #F59E0B; color: #fff; font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 10px; white-space: nowrap; flex-shrink: 0; margin-top: 2px; }
+.theme-src-badge { font-size: 10px; font-weight: 600; padding: 2px 8px; border-radius: 10px; white-space: nowrap; flex-shrink: 0; margin-top: 2px; }
+.theme-src-official   { background: #dbeafe; color: #1d4ed8; }
+.theme-src-politician { background: #fff3cd; color: #92400e; }
+.theme-src-industry   { background: #fce7f3; color: #9d174d; }
+.theme-src-china      { background: #fee2e2; color: #991b1b; }
+.theme-src-media      { background: #d1fae5; color: #065f46; }
+.theme-date { font-size: 11px; color: #6b7280; flex-shrink: 0; margin-top: 3px; white-space: nowrap; }
+.theme-item-title { font-size: 14px; font-weight: 600; color: #1a1a2e; line-height: 1.5; flex: 1; min-width: 0; }
+.theme-item-title a { color: inherit; text-decoration: none; }
+.theme-item-title a:hover { color: var(--tc); text-decoration: underline; }
+.theme-summary { font-size: 13px; color: #374151; line-height: 1.75; margin-top: 5px; }
+.theme-source-name { font-size: 11px; color: #aaa; margin-top: 4px; }
+.theme-filter-bar { display: flex; gap: 7px; flex-wrap: wrap; margin-bottom: 14px; }
+.theme-filter-btn { padding: 4px 13px; border-radius: 20px; font-size: 12px; font-weight: 600; cursor: pointer; border: 1.5px solid #ccc; background: #fff; color: #555; transition: all .15s; }
+.theme-filter-btn.active { background: var(--tc); color: #fff; border-color: var(--tc); }
+.theme-filter-btn:not(.active):hover { border-color: var(--tc); color: var(--tc); }
+.theme-empty { text-align: center; color: #6b7280; font-size: 14px; padding: 40px 20px; }
+@media (max-width: 640px) { .theme-wrap { padding: 0 12px; } .theme-banner { padding: 14px; } .theme-banner-title { font-size: 16px; } .theme-stats { display: none; } .theme-tab { font-size: 12px; padding: 5px 12px; } }
+</style>
+</head>
+<body>
+<header class="site-header">
+  <div class="logo" onclick="location.href='index.html'">World<em>News</em></div>
+  <div class="header-date">July 08, 2026</div>
+  <div class="header-spacer"></div>
+  <div class="update-time">Updated: 2026-07-08 15:45 JST &nbsp;|&nbsp; auto-update every 6h</div>
+  <div class="lang-toggle">
+    <a href="../theme.html">JP</a>
+    <a href="theme.html" class="active">EN</a>
+  </div>
+  <div class="live-badge">LIVE</div>
+</header>
+<nav class="page-nav">
+  <a href="index.html"><span class="nav-icon">🏠</span>Home</a>
+  <a href="intelligence.html"><span class="nav-icon">📋</span>Intelligence</a>
+  <a href="trump.html"><span class="nav-icon">🇺🇸</span>US / Trump</a>
+  <a href="theme.html" class="active"><span class="nav-icon">🔎</span>Themes</a>
+  <a href="midterm.html" class="dim"><span class="nav-icon">🗳️</span>US Midterms</a>
+  <a href="summary.html" class="dim"><span class="nav-icon">📋</span>Exec Summary</a>
+</nav>
+<div class="theme-wrap">
+  <p class="section-label" style="margin-top:8px;">Monitoring Themes</p>
+  <div class="theme-tabs-nav">
+  <button class="theme-tab active" data-theme="iaa" style="background:#003F8A; border-color:#003F8A;">🇪🇺 European Industrial Accelerator Act</button>
+  <button class="theme-tab" data-theme="cvsa">🚗 Connected Vehicle Security Act of 2026</button>
+  <button class="theme-tab" data-theme="rare_earth">⛏️ China Rare Earth Export Controls</button>
+  </div>
+<div id="panel-iaa" class="theme-panel" style="--tc:#003F8A;">
+  <div class="theme-banner" style="background:linear-gradient(135deg,#003F8A 0%,#003F8Acc 70%,#003F8A88 100%);">
+    <div>
+      <div class="theme-banner-title">🇪🇺 European Industrial Accelerator Act</div>
+      <div class="theme-banner-desc">Track European Commission and Parliament deliberations, statements by EU officials, and European media coverage. &nbsp;|&nbsp; <span style="opacity:.7;font-size:10px;">Last collected: 2026-07-08 14:18:59</span></div>
+    </div>
+    <div class="theme-banner-spacer"></div>
+    <div class="theme-stats"><div class="theme-stat"><div class="theme-stat-num">17</div><div class="theme-stat-lbl">Last 7 days</div></div><div class="theme-stat"><div class="theme-stat-num">6</div><div class="theme-stat-lbl">New (3d)</div></div></div>
+  </div>
+  <div class="theme-filter-bar">
+  <button class="theme-filter-btn active" data-filter="all">All</button>
+  <button class="theme-filter-btn" data-filter="official">🏛️ Official</button>
+  <button class="theme-filter-btn" data-filter="media">📰 Media</button>
+  </div>
+  <div class="theme-list">
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ Official</span><span class="theme-date">📅 2026-07-08</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQUFIdkg2eFZ5WWxOdVkzd2NMMmpseWZ2VFhHVXEzQlNHSV9XOFk5a1lKb3RjelJXS0FMWWNLdlZCZDd0YXRqdjg1MDJXMDVWdTUyVGh6Q3JsSmd4ODNmSjJBWUVDemo0bkh0RnJNS3RFaGZnTUxYcEVabGtSWVVsTDNpR21vakgzUGhnM0V0TE8tcEVLaUtyNHRpLUFYdlJpQ0phY2pGT2hhOEotdks0VGE1UUtnekpvb0xyNUxkQzRoVFVpaWtRUWtpV09LQU9lVVE?oc=5" target="_blank" rel="noopener noreferrer">Industry coalition urges European Commission to unlock state aid for cleantech manufacturing - Review Energy</a></span>
+  </div>
+  <div class="theme-summary">European industry coalitions urge the European Commission to release state subsidies for cleantech manufacturing, a key measure to achieve the Industrial Alliance Act&#x27;s goals of strengthening European industrial competitiveness and accelerating decarbonization investments.</div>
+  <div class="theme-source-name">Source: EU産業政策</div>
+</div>
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRkhpNXctQ2NlN2FQTFdjRFVaWU5aajZLVlR0NW9KYjFMV0ZiQzVXdWVsUkoyNzc3TWJGUmFaSEhybjZIOHlkMXduelY3bXZpZ3hNeThyTzBWUzFsNDc1OGdaLS1YbkQtYnJtcndBb3VMNDhfVmJkZTUwc1ZMUEw4bEtfS3EwWjV0ckVKMkc1allrcmVrZ0xiU2hDcDNZWlVleEZHU1R5N0c0MHJvVHRJTHE1OUpMbmk30gFaQVVfeXFMTUk4LUxzY3FpZS1ZS2JTV1dIODNGZ0lONmNnTlRHLS1oay1RTHVhbnR2bE5CZUQ0bXYtZlM5dWJjZmZ1VU1zUC1XSEZxcndlUUc4SVdBRGhFUGR3?oc=5" target="_blank" rel="noopener noreferrer">Šefčovič urges advancement of Industrial Accelerator Act, trade agenda - MLex</a></span>
+  </div>
+  <div class="theme-summary">European Commission Vice President Maroš Šefčovič advances the Industrial Alliance Act and trade agenda, with industrial competitiveness and economic growth acceleration as primary objectives.</div>
+  <div class="theme-source-name">Source: Google News</div>
+</div>
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ Official</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0FMWEpsSGYtWDJCcnI0VldzbFVFM3Fua2tuZE8wenZkRS1TWGVKVzlMX3JiLW45UFBlQzlIQUJxcTVRUzdYbjYyT1cyWTNKMXhfcGNNQy0ySUhRNXE2b0drTmVyS2lxX05TMkFMejhHUXpjbEgwZktHMWhlUThiZklvVnc1S1pnNFJZTXZsNXVRVkFuTHU2eHBiMkhFWWRUU2x5NVRFQzB2WlZjdGdRbUJNRUd1aGhrWTlJ?oc=5" target="_blank" rel="noopener noreferrer">EU Should Open State Aid To Cleantech Manufacturing To Meet Electrification Goals - CleanTechnica</a></span>
+  </div>
+  <div class="theme-summary">Expanding EU treasury subsidies for cleantech manufacturing should accelerate electrification targets. The Industrial Alliance Act strengthens support systems to maintain European competitiveness through enhanced assistance mechanisms.</div>
+  <div class="theme-source-name">Source: EU産業政策</div>
+</div>
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ Official</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQeFViWVhCY0ZwTlNpdTNqTDFPSC1STTl4MXRKeUJhNjMwbEFRZWk5R3JWUmJhLUFLY2RHbmhUMlJSdTAxV0JrLTVENWFHUTc1RXBTcFFoODVvOXVPc0JfTjUzd3dCRFR5YlN1WG5FVDhmVmVZNU92MS1FR3FsS1ltTUNWUnBIeDdEM0lmLVVkSFRLVzg?oc=5" target="_blank" rel="noopener noreferrer">ACEA statement on CBAM downstream extension proposal - ACEA - European Automobile Manufacturers&#x27; Association - ACEA - European Automobile Manufacturers&#x27; Association</a></span>
+  </div>
+  <div class="theme-summary">The European Automobile Manufacturers&#x27; Association (ACEA) released a statement on proposals to expand the Carbon Border Adjustment Mechanism (CBAM) downstream, expressing concerns about impacts on the automotive industry and competitiveness.</div>
+  <div class="theme-source-name">Source: 欧州議会</div>
+</div>
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ Official</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXRQME5TMjZQYm5oaWhCXzRTOFZfbjBRYTItaFpGc3BVWlJfUDFDUlpCMzYxcVEzUlJWdnM1T0ozdUt3VFY5c2ZLbDVmVkNzbldGTkplazlURTNOV1FyQi1yekdrOWxwX2k5VjQtMk1UZ0R5MlFVbW44dk15RXdtb1VsaEEyRlhYaE90ajlFR0RtVi1ibGVwVG9YU0xCeXZoNnh5OHZHOEZROWo1ZHAwV0ZtRmRXR1ptRlpTbm55TkJzUFRteXc?oc=5" target="_blank" rel="noopener noreferrer">EU should open state aid to cleantech manufacturing to meet electrification goals - transportenvironment.org</a></span>
+  </div>
+  <div class="theme-summary">Expanding EU state support for cleantech manufacturing within the Industrial Alliance Act context is necessary to achieve electrification goals. The IAA strengthens strategic industry competitiveness, making cleantech support expansion a critical element.</div>
+  <div class="theme-source-name">Source: EU産業政策</div>
+</div>
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ Official</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNSHpHcnF3Y2puUTAxbzBwNU5ndmJXZlB1VldxbzBfWnhyVHZnWFBIOEh4NWpKMHliekJpY3BRODFrQW1pblVIdkhDZ3l0TkVHYVhIU2wzZjAwSWNFYmFGNzBxRFNDZHNNOVNnUHM3bVBpWXZzS1JFTFR5ZWxmb1dieWlINlJMWU5iSk5IQ0MyNm5wU0NKZk1rT21uRlM?oc=5" target="_blank" rel="noopener noreferrer">Europe’s raw materials ambitions need industrial investment - The European Sting</a></span>
+  </div>
+  <div class="theme-summary">The Industrial Alliance Act requires aggressive investment in EU critical mineral mining and processing, particularly rare earths and battery materials, reducing China dependency and securing strategic autonomy.</div>
+  <div class="theme-source-name">Source: 欧州議会</div>
+</div>
+<div class="theme-item" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-03</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNYjRTbTNBREt3QmlDT3U1a0Q3NFViUGlma004SjV3UERZNVlobThTNmdjTVVDMzcxS3E3ZS1XTE5JcUhNQzRYbUZ1N2ZBTkRqbV9icjFyWFQzNjgtcDUwbnA1bjlNYnNxbjFHa3FaUU5NMHdjaE9sdlNINzliNE5fOW5IcHBJV0lXX2xlZHhiZko3eW1QbVppUENfekJkWnFXNVhDTnZ2UVladWZDV0pN?oc=5" target="_blank" rel="noopener noreferrer">ACEA issues position on the Industrial Accelerator Act - European Rubber Journal</a></span>
+  </div>
+  <div class="theme-summary">The European Automobile Manufacturers&#x27; Association&#x27;s specific positions on the IAA require detailed article content covering regulatory requirements, industrial competitiveness, and technology standards for accurate summarization.</div>
+  <div class="theme-source-name">Source: Google News</div>
+</div>
+<div class="theme-item" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-02</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxON2lYVE8wRDNJTTlPVnJuT0NUZ1ZRcEE2SGlMbDVHNXFYTkZlNHFfNVA2aWt3N3diOGhSVHNxcEloVkFac0NMaXRFUkF2ZWp4ODBsX3NyRUtYS1l4UFpUY3JPejRIYVVpNXpRcTdWdDI4RV95cHpLaXMwNVV0X1FBYnpjOEM1UVBSNWVSLVpIX2VJVVBHZ01XUTB1b3VVWjJablE0WG9uWQ?oc=5" target="_blank" rel="noopener noreferrer">European carmakers urge EU to protect investments in Türkiye and Morocco - AnewZ</a></span>
+  </div>
+  <div class="theme-summary">European automakers request EU investment protection in Turkey and Morocco, indicating existing non-EU production sites remain important within Industrial Alliance Act restructuring. Balancing domestic strengthening with external investments poses challenges.</div>
+  <div class="theme-source-name">Source: Google News</div>
+</div>
+<div class="theme-item" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-official">🏛️ Official</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEhqQ1ZqZmxkd293WUNsc0wxVnp5UldzdnBVNk53R3JLakRwVVU1dzdma1lKNFRkYXpqeWVLeHhtVzNFWVdIRzBFeDVaeGJ3NE9XVGJ6U1JEUnV2QkhTN3lMdno4Q3V2a21KVUJtQjlGMWRqWUluNG9pTWkta2o3S0lJamdPYk1Jd0ljUGVDYm16X3lPQ3lqYnZ3b2paNHpRUmc?oc=5" target="_blank" rel="noopener noreferrer">Séjourné’s ‘Made in EU’ plan reopens ideological rifts - Contexte</a></span>
+  </div>
+  <div class="theme-summary">The European Industrial Alliance Act promoter Séjourné&#x27;s &#x27;Made in EU&#x27; plan reignites fundamental ideological conflicts over balancing state intervention and market liberalization. France prioritizes industrial protection while Germany and Nordic countries favor deregulation, revealing policy divides.</div>
+  <div class="theme-source-name">Source: 欧州公式機関</div>
+</div>
+<div class="theme-item" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVl2VjYtMV9VY1BZbHFsbklDVVpuMjBTbi1OVTljZ1VCMlZyOHNTVmpBdFBwb3h0aDkzM0tVU3RPMXAwb1V2Rmx4X0dSakt6T2lBVXlGWXFlNlhRMzZmRTdsS3NaTVFwX09RNHV4cXI0MlF3RGFQSGNNYXloUk1zREZIaEdtS1IxNXBOb1BXbG5vSkpZTjNqbnRWM3dKd0Zl?oc=5" target="_blank" rel="noopener noreferrer">The falling cost gap between EU and Chinese batteries - transportenvironment.org</a></span>
+  </div>
+  <div class="theme-summary">The EU-China battery cost gap narrows within the Industrial Alliance Act context. EU competitiveness depends on IAA investment promotion and deregulation as Chinese makers lose cost advantages. Rapid domestic battery industry restructuring becomes critical.</div>
+  <div class="theme-source-name">Source: Google News</div>
+</div>
+<div class="theme-item" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-official">🏛️ Official</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHZqbkREWVQ2Q2lWT0Y5azZDZFFYN3J2c3RHSTByeTU0OGhzdkNVb09jTmd1RzZXMVdERDdEOEJqZTZxTlBYV0FOMkdBY09PVVJ1TFlVS0ttdGZPMUUwQUtqQ01kbzdKMWNIZ1dxVW50YllUSlBDTUNSd195Sm92NnMxQVFTd25xWDloX1I4bm1JdHpRR2duSmI2Rm9ia2F3RGVUZmlpZFQ5UHpLWDJoMVBLX255VVpW?oc=5" target="_blank" rel="noopener noreferrer">EPP pushes to soften EU carbon market reforms in bid to shield industry - Euronews</a></span>
+  </div>
+  <div class="theme-summary">The European People&#x27;s Party seeks to relax EU carbon market reforms protecting industry, reflecting efforts to balance IAA industrial competitiveness with decarbonization. Carbon price relief mitigates impacts on European industry.</div>
+  <div class="theme-source-name">Source: 欧州議会</div>
+</div>
+<div class="theme-item" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTkxUTUzT1E3c09rajUwMVRQZjRoMGxXSUh3d0s4ajVPV3B2SUFWT0xGczNkWGJxd1pLak00TTVLbE9sLWY2TEJfVHFMWmZmZ1hFNlJXSHliN1MwVVlxSVdJWFdoMlVaOEd0alg4aDBQT2hKYmxORTgwdzNJd3RkMHAtTFA?oc=5" target="_blank" rel="noopener noreferrer">BYD nears decision on 2nd European plant as Chinese make moves ahead of tough EU investment rules - Automotive News</a></span>
+  </div>
+  <div class="theme-summary">BYD faces pressure establishing a second European manufacturing base under strict IAA investment regulations. Chinese manufacturers advance regulatory compliance to maintain European market competitiveness.</div>
+  <div class="theme-source-name">Source: Google News</div>
+</div>
+<div class="theme-item" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNU2tEUndTQU0wczE5MXFvUzAxeTlsczBnMWV1c2N6UWphSXNjVnFJZC1YQlJrSVY1WnhGOElnQU1FWXFNb2k3THZSeGUxN0p3S3BKYlR4ck9jaVpaR3NVWk91N1lnNktUdEllZFBIdElqM051SGJ0OGFwMmtSVHQyVk1LVzlHRHFCUDBDYXB0MHM3UmpRQ2FKaFgzWFBFOHJlUTU1OVdETjBQUEVmcnRkVGN3N19jNkNXWTgzTEpR?oc=5" target="_blank" rel="noopener noreferrer">European automakers urge EU to protect Türkiye investments under ‘Made in EU’ rules - Anadolu Ajansı</a></span>
+  </div>
+  <div class="theme-summary">European automakers demand EU investment protection for Turkey under &#x27;EU Made&#x27; rules, making peripheral country production facilities critical in the Industrial Alliance Act competition strengthening framework.</div>
+  <div class="theme-source-name">Source: Google News</div>
+</div>
+<div class="theme-item" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUpEOWZyTEM3REEwRXRNUERadnhRMXhmZ2hqQ3VoSmJNOUZ2THFXYWEwUXNoRjJRYTZSZkVfWFVLRkJCX0NveVJETUZnWXUtbjVTeHIzZ096UjlMV2dCYS1oRWl5ckNYd1Y5M0NjcG9ScU5ITDlCdk40MEJuWFk3bkZuQmtmODJfVUpac3JWWFBoVDk3cmozbHYxck11Q2h3M0xqdjlqSFR4cDhJZnlYT2o2R3BpZG9YSGNHVg?oc=5" target="_blank" rel="noopener noreferrer">European automakers call for limited Türkiye role to prevent non-EU access - Türkiye Today</a></span>
+  </div>
+  <div class="theme-summary">European automakers call for restricting Turkey&#x27;s role within Industrial Alliance Act frameworks, preventing non-EU enterprises from accessing EU markets. This reflects concerns about Chinese automotive competition.</div>
+  <div class="theme-source-name">Source: Google News</div>
+</div>
+<div class="theme-item" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFB4cDlPZkRObHFfLS1TRXNQMXU3a3VnMEJtVjRldjNfNjV6ODg0ZEUxbnpZd3JwZlozVnJlZXFnNkNrb001aWxFTWNVTGh2LUtXSXBXZ1VRSU5OY2l4OUVPZWZRNjBidGtrcjR4M1NNUQ?oc=5" target="_blank" rel="noopener noreferrer">How EU is strengthening protection of its market and what Ukraine should do - Європейська правда</a></span>
+  </div>
+  <div class="theme-summary">The Industrial Alliance Act introduces market defense mechanisms protecting strategic industries and strengthening EU competitiveness, affecting economic relations with third countries including Ukraine. The IAA combines investment promotion with restricting excessive foreign capital flows.</div>
+  <div class="theme-source-name">Source: Google News</div>
+</div>
+<div class="theme-item" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXNkaUlSODRZLUVTU2UydVgyR3d3NjZJZHU2WjBCdW1tZVdsR2ZVVG85N21vNWg2OVh1YnJoLWxLUHFmZ3NvOHVfZmhMeVZMRldxVWQwWE5lQ08zRTVxUHlxSms1aTBlZXp0RVdfZjEtZHNRTW5mZnB2eExBa0drV2RjOGVZT3plTXZEMV9OQlQ2dlIzUFY1cTRR?oc=5" target="_blank" rel="noopener noreferrer">ACEA publishes position on the Industrial Accelerator Act - ACEA - European Automobile Manufacturers&#x27; Association - ACEA - European Automobile Manufacturers&#x27; Association</a></span>
+  </div>
+  <div class="theme-summary">Unable to summarize without specific article content. Please provide the full article text for European Industrial Alliance Act analysis.</div>
+  <div class="theme-source-name">Source: Google News</div>
+</div>
+<div class="theme-item" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0RMM1lYTDI1MlVEaS16bnpXSnhvbGZiTk8yU0hfNGY1RW43NGRuc3dtX0libHNHbUw3NnRYM2pQTXRIUGF6X1lJcExmTXRPYXhwZHJpOS13dEhjUUJ0eTY2WFNqNUJDcHQ2V0ZmdDVRckVKYlFtaGJITE9VdGpGUS1QcEhIUUEzSGFabTJBaUVaVVV0ZHBEQzRDLTNjZmxfYkdFVG1JRWZqVlRf?oc=5" target="_blank" rel="noopener noreferrer">T&amp;E, EIES and RECHARGE Joint Statement on the Industrial Accelerator Act - CleanTechnica</a></span>
+  </div>
+  <div class="theme-summary">Joint statements on the Industrial Alliance Act from T&amp;E, EIES, and RECHARGE organizations outline positions on policy frameworks strengthening European industrial competitiveness and decarbonization. The Act accelerates cleantech and renewable energy investment while simplifying regulations, enhancing economic competitiveness.</div>
+  <div class="theme-source-name">Source: Google News</div>
+</div>
+  </div>
+</div>
+<div id="panel-cvsa" class="theme-panel" style="display:none;--tc:#B22234;">
+  <div class="theme-banner" style="background:linear-gradient(135deg,#B22234 0%,#B22234cc 70%,#B2223488 100%);">
+    <div>
+      <div class="theme-banner-title">🚗 Connected Vehicle Security Act of 2026</div>
+      <div class="theme-banner-desc">Tracking U.S. congressional deliberations, Trump administration developments, industry group opinions, Chinese government reactions, and media commentary. &nbsp;|&nbsp; <span style="opacity:.7;font-size:10px;">Last collected: 2026-07-08 14:19:08</span></div>
+    </div>
+    <div class="theme-banner-spacer"></div>
+    <div class="theme-stats"><div class="theme-stat"><div class="theme-stat-num">6</div><div class="theme-stat-lbl">Last 7 days</div></div><div class="theme-stat"><div class="theme-stat-num">3</div><div class="theme-stat-lbl">New (3d)</div></div></div>
+  </div>
+  <div class="theme-filter-bar">
+  <button class="theme-filter-btn active" data-filter="all">All</button>
+  <button class="theme-filter-btn" data-filter="official">🏛️ Official</button>
+  <button class="theme-filter-btn" data-filter="industry">🏭 Industry</button>
+  <button class="theme-filter-btn" data-filter="media">📰 Media</button>
+  </div>
+  <div class="theme-list">
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 Industry</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNeExwSkZTV0doVXM0ZG9ISlJDWUNkb01xVTV6ZVgyY0xhTS1QdzYzRGx3MFBJWjBaM2c2TFNXRkNkVUIzblpIMGp2MG0yeWhQYXRvRE5rYVRQYkZObHpxckd4cDhYZ2toRVJFN3V0QlIyU054ZkJxX2pBX2YxYkdSeTJadllpUHNVcmJ3ZEI2dlNURDdmY2ZtazRMWTJRTzI0djcyQ0RLcjItZ1RnVUMwc2VZYW85Zw?oc=5" target="_blank" rel="noopener noreferrer">BYD Seal 08 Earns 65,000 Orders in 30 Hours for $29,000 Flagship Sedan - Tech Times</a></span>
+  </div>
+  <div class="theme-summary">BYD&#x27;s Seal 08 secured 65,000 orders in 30 hours, strengthening the Chinese EV maker&#x27;s market dominance as the U.S. pursues S.4429 to restrict Chinese automakers&#x27; market entry. The flagship sedan, priced around $29,000, challenges American auto security policy.</div>
+  <div class="theme-source-name">Source: 半導体・Tier1サプライヤー</div>
+</div>
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPMlNvNW5QOC1HdU9pQzFsMnUwMjNFZ19qeGlUQmdjUEtYVGdjbGswZ2hCbUFZSmZhek9zMnpxZ3oxT1hoMTdSM1VhYjZ1UkpvcFJVQmhwWHN5VTE2WVhvS0NJbGRSN2hfY2NRNVQyQTJ5M3Axend5dVV4YkFSS3FRSkxsNFBsRGJ3anIwMXdrODZrQWNjVTF6WGZJb2hhR1YtUlJjVw?oc=5" target="_blank" rel="noopener noreferrer">Insignary Closes SBOM Accuracy Gap With Binary-Level Clarity for Regulatory Risk - Hackread</a></span>
+  </div>
+  <div class="theme-summary">Insignary&#x27;s binary-level verification technology improves software bill-of-materials accuracy, reducing compliance risks under S.4429&#x27;s vehicle cybersecurity regulations. The technology enables automakers to enhance transparency and regulatory adherence for software components.</div>
+  <div class="theme-source-name">Source: メディア分析</div>
+</div>
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-05</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNUFVtckZOVVFWS0pXcFFwbmtrNEwxNU1nQ1ZzUEVQOGIzNkJhSUJHNVpyeTZUbFVVOTF1TFlZdXNjS3pwSVpvYTU2ZFFBOVFxQVdvcDV2bzhWRnhwM2NBNjdEUmFKZzZDOS1idkxHNlZYdGhITzhvaVVXeXAzWUxOVlVxd3M1YkdMVkhPVmVCV2hLN3lDdUJVX0hlYU5FTnFxY2s3S01wZzlNaWtOcnFLd0ZYRXhDbDk2SzEwRUlDalREUlhyVDRDWWVMQ1F1Zw?oc=5" target="_blank" rel="noopener noreferrer">World Automotive Tire Tread Sensors - Market Analysis, Forecast, Size, Trends and Insights - IndexBox</a></span>
+  </div>
+  <div class="theme-summary">Unable to provide summary. The provided text contains only titles and no substantive content. Please submit the article body to assess relevance to S.4429.</div>
+  <div class="theme-source-name">Source: メディア分析</div>
+</div>
+<div class="theme-item" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-industry">🏭 Industry</span><span class="theme-date">📅 2026-07-03</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5QZGhpcEM2SVRaUDM3el9yU21vbTZVZkpWMDZvVVJjLWNzcTIzTmxHT1RMenB0eVVjVmotU3NkT3RYRGJLTWxyM3pQdXMtdTl3YmtNTUo4dWNsN3lRSFM1MkFLT2Y5V3p4WDR0ZU9nRVJBU1la?oc=5" target="_blank" rel="noopener noreferrer">Automotive Cybersecurity Market Size to Hit USD 21.11 Billion By 2035 - Precedence Research</a></span>
+  </div>
+  <div class="theme-summary">The automotive cybersecurity market is projected to reach $21.1 billion by 2035, reflecting surging demand for connected vehicle security standards mandated by S.4429. Market growth is driven by stricter regulations and heightened consumer security awareness.</div>
+  <div class="theme-source-name">Source: 半導体・Tier1サプライヤー</div>
+</div>
+<div class="theme-item" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-official">🏛️ Official</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPNkdZeFhWTDRiZzh6QkZHYnpheUhCVEVMc1RRR1VjV3kxTlpuMEZmZnhUYk1jaGxuSlFnQ19IaVJLUk1fVlg1TDlCWS1wcXB0M0JSOW9WMFF5b3FWTzdHWEFaX0JoenNHcEM5N29RTUVPaS1IMmVRZjA2OHZ4SlVSci15X0xOUjk0NFFNVXJZd0s0Y25zaUZNc0ZsSGFpUQ?oc=5" target="_blank" rel="noopener noreferrer">Tightening of the “BIS Rules” for Connected Vehicle Technologies in the U.S. – Challenge for global Automotive Companies with China-Nexus - Taylor Wessing</a></span>
+  </div>
+  <div class="theme-summary">The Commerce Department&#x27;s Bureau of Industrial Security strengthens export controls on connected vehicle technology, imposing design, manufacturing, and supply-chain restrictions on Chinese automakers, creating operational challenges for global automotive enterprises.</div>
+  <div class="theme-source-name">Source: 米商務省・BIS</div>
+</div>
+<div class="theme-item" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-official">🏛️ Official</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOekxzVmQ1WVpYdUhpUHhGdU9xbFRudlExT0c4ampjczVjX3dIU2lOeHRhRGJpdkt0WXJNTUY3b2E1SWtJaGZ5dG51eDl2azZoM1RBbXFOYVprSlFkanN4QXVhRV9sbWxQemJtRXZrS0RuUGUtamZvVmZ6MTBTbS1fSGlwcWljYXU1aUlHd2x6NTAxZXNnNWx0UURXTGxsUQ?oc=5" target="_blank" rel="noopener noreferrer">Tightening of the “BIS Rules” for Connected Vehicle Technologies in the U.S. – Challenge for global Automotive Companies with China-Nexus - Taylor Wessing</a></span>
+  </div>
+  <div class="theme-summary">BIS tightens export controls on connected car technology, requiring global automakers with China ties to prevent sensitive data—location information and sensor data—from flowing to China. Regulations force automakers to overhaul supply chain management and compliance frameworks.</div>
+  <div class="theme-source-name">Source: 米商務省・BIS</div>
+</div>
+  </div>
+</div>
+<div id="panel-rare_earth" class="theme-panel" style="display:none;--tc:#1a6b3a;">
+  <div class="theme-banner" style="background:linear-gradient(135deg,#1a6b3a 0%,#1a6b3acc 70%,#1a6b3a88 100%);">
+    <div>
+      <div class="theme-banner-title">⛏️ China Rare Earth Export Controls</div>
+      <div class="theme-banner-desc">China&#x27;s Commerce Ministry export restrictions are being tracked alongside Western government and industry responses, with focus on alternative procurement and stockpiling strategies. &nbsp;|&nbsp; <span style="opacity:.7;font-size:10px;">Last collected: 2026-07-08 14:19:26</span></div>
+    </div>
+    <div class="theme-banner-spacer"></div>
+    <div class="theme-stats"><div class="theme-stat"><div class="theme-stat-num">13</div><div class="theme-stat-lbl">Last 7 days</div></div><div class="theme-stat"><div class="theme-stat-num">9</div><div class="theme-stat-lbl">New (3d)</div></div></div>
+  </div>
+  <div class="theme-filter-bar">
+  <button class="theme-filter-btn active" data-filter="all">All</button>
+  <button class="theme-filter-btn" data-filter="industry">🏭 Industry</button>
+  <button class="theme-filter-btn" data-filter="media">📰 Media</button>
+  </div>
+  <div class="theme-list">
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPYksxaGFfMUlBeV9reUJ2clg2aTR0aXhVUENXdnhnNXNLR3hFajVsVlJoN2M4Tzd0dklTNngxUk9CenFzbEFKaUlzRTQxcmNTYjR1U2RpcGNxdU9UVThOemZaNkVoOVpwcmtOM1JEcTQ3M3VzeGJyMUhQQmxlbklHWlZkS1NhbkdZcnhnZGotVmFaSk5KY2kybzUwWjBSd0dVM01LOQ?oc=5" target="_blank" rel="noopener noreferrer">World Thulium Acetate - Market Analysis, Forecast, Size, Trends and Insights - IndexBox</a></span>
+  </div>
+  <div class="theme-summary">China dominates production of rare earths like thulium, and its export policies significantly affect global rare-earth supply and pricing. Rare-earth compound markets, including thulium acetate, increasingly depend on China&#x27;s export restrictions.</div>
+  <div class="theme-source-name">Source: メディア分析</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 Industry</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://www.mining.com/op-ed-the-paradigm-shift-in-critical-mineral-investment-tungsten-is-just-the-beginning/" target="_blank" rel="noopener noreferrer">Op-ed: The paradigm shift in critical mineral investment –Tungsten is just the beginning.</a></span>
+  </div>
+  <div class="theme-summary">Advanced nations must shift critical mineral strategies from competing with China to building competitive markets with real leverage. Tungsten signals the start of this transition against Beijing&#x27;s rare-earth export controls.</div>
+  <div class="theme-source-name">Source: Mining.com</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 Industry</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://www.mining.com/canada-set-to-back-tecks-bc-smelter-to-boost-germanium-output-report/" target="_blank" rel="noopener noreferrer">Canada set to back Teck’s BC smelter to boost germanium output: report</a></span>
+  </div>
+  <div class="theme-summary">Canada plans major funding for Tech Resources&#x27; Trail smelter to boost germanium production and secure North American critical mineral supply chains. This counters China&#x27;s rare-earth controls, showing Western nations rapidly diversifying supply sources.</div>
+  <div class="theme-source-name">Source: Mining.com</div>
+</div>
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://thehill.com/policy/defense/5957727-china-icbm-missile-test/" target="_blank" rel="noopener noreferrer">US condemns China’s ICBM test launch</a></span>
+  </div>
+  <div class="theme-summary">This article addresses U.S. criticism of ICBM tests unrelated to rare-earth export controls and is unsuitable for summary.</div>
+  <div class="theme-source-name">Source: The Hill</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 Industry</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNb2R5Rm5BclhxM2Exa3ViZERyUFAtMXQ2R1pZQTN5bExQU1F4NndaNldyc0YtbGtsZUZGc0VGS1I4Mlk4aUs0SFlNdm9sZVQyeXJZVWowR0phdnlMWGFlU3ZsQVdMRE9XeEtrY3ZBVFBpaEhMR1dNa1paXzZIaXJaOTU0Z1RTWlZkM2lGdllVLWJnMHdrX2Q5WkxFNVlpYWNUaU1UZXZZeWtDSkh6dFBUTDc3dy1YdENtR2J5Q0Rudw?oc=5" target="_blank" rel="noopener noreferrer">Lynas and JS Link Build Malaysia’s First Major Rare Earth Magnet Hub - ChemAnalyst</a></span>
+  </div>
+  <div class="theme-summary">Australia&#x27;s Lynas and Malaysia&#x27;s JS Link are building a major rare-earth magnet manufacturing hub in Malaysia to replace China-dependent supply chains. This strategic investment reduces Western dependence on Chinese rare-earth processing.</div>
+  <div class="theme-source-name">Source: 欧米レアアース企業</div>
+</div>
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPdWtycjFJeDZMcnlnTEpjMjUzT01Wd21XT1RKVExTdHgwN2Y3NzNMS0w3OFBlT3NLLWRmUVYyYVNCWUJHWTlSbDlReHNlcHMzYndCUS1VOHRSRlktaVdMd25xLUVKckpoVjFkZVRGVHg2c0Y1MkRGMmYtaTRGVHJzaV9yNzQzRVBoNWU1cVVULVk?oc=5" target="_blank" rel="noopener noreferrer">China’s Rare Earth Export Controls to Japan: 2026 Analysis - Discovery Alert</a></span>
+  </div>
+  <div class="theme-summary">China strengthens rare-earth export controls through 2026, affecting Japan&#x27;s supply. This creates strategic resource challenges for Japanese manufacturing and high-tech industries.</div>
+  <div class="theme-source-name">Source: メディア分析</div>
+</div>
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE45ZDMzamU4YVFIQ1Q4OWpjTlZWczlSQU5pOUtVTTNhQW9mWDR1SDE2aGYzNFJZMDN2RkVGdmxtTkRfYVpkSkpVWTBpWFh3VVRRbVRFbWNxMGFtNlg0WkhpMlpYUFRidFpuc3JOdVpza05FNV9STFE?oc=5" target="_blank" rel="noopener noreferrer">Rare earth company MP Materials dropped 13.4% last month following China&#x27;s decision to add it to an export control list - eciks.org</a></span>
+  </div>
+  <div class="theme-summary">China added rare-earth firm MP Materials to its export control list, causing the company&#x27;s stock to plunge 13.4% last month. Beijing&#x27;s tightened rare-earth export restrictions are directly impacting U.S. rare-earth companies.</div>
+  <div class="theme-source-name">Source: メディア分析</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 Industry</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkF0d3pRUG1ScHlRYXlTZzl1SzNzWE5FM3ZwT0ZsT1Qxc3hvd1pTakdkUkdSQnd5OXA5TXU1WC1oZnAxVVhCN2lxRl8xLTJSTHhMd1FNUDdXdGdKQ0J0WHZRXzBKekNmS1JHblNoREpCNUxpc1ozWllxVURJMktBT2JZclBla2hpLXZ6NU9iNzBFSHVRU3NOSHJMRmJ2OXRJU3R2LWNLcjdMYUswOXBCY0I1ODdRSW9U?oc=5" target="_blank" rel="noopener noreferrer">China&#x27;s Rare Earth Prices Rise Again-But Investors Should Read Beyond the Numbers - Rare Earth Exchanges</a></span>
+  </div>
+  <div class="theme-summary">China&#x27;s rare-earth export controls drive prices higher again. Understanding the geopolitical and industrial strategy behind supply restrictions matters more than price fluctuations alone.</div>
+  <div class="theme-source-name">Source: 業界団体</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 Industry</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://www.mining.com/chinas-top-etf-is-now-gold-not-stocks/" target="_blank" rel="noopener noreferrer">China’s top ETF is now gold, not stocks</a></span>
+  </div>
+  <div class="theme-summary">China&#x27;s largest ETF shifts from stocks to gold as central banks increase gold purchases. This reflects nations prioritizing rare-resource security alongside China&#x27;s strengthened strategic resource export controls.</div>
+  <div class="theme-source-name">Source: Mining.com</div>
+</div>
+<div class="theme-item" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-industry">🏭 Industry</span><span class="theme-date">📅 2026-07-03</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmp3QllBdDVlMVBKc25LbzFCV2RKMzBHYVUtQ01UUFQ2bHVwYTlqM0M0QmNHcXBrMGV1SFBjTktlcXFtRS0xaWNrYk9iTDd2N2hUclJOWllOSVpvWGRpc1BuOWF6YjJnQ1U5N293N1d0Z25JU0tNQUdBb2RtRWM2Mk1Ma2M2UUptYTZZTGtmelJYbU1vUDhSTnotdzBjMzBaNWtFeC05WUZiNEZhdHB5NnFhbGoyTDhYbE1ycC1IV1lVQQ?oc=5" target="_blank" rel="noopener noreferrer">Lynas Rare Earths (ASX:LYC): Why Is ASX 200 Watching the NdPr Price Rally? - Kalkine Media</a></span>
+  </div>
+  <div class="theme-summary">Lynas Rare Earths sees rising neodymium-praseodymium prices as China tightens rare-earth export controls, boosting the Australian firm&#x27;s importance as alternative supply. Market value surges for Australian rare-earth producers countering Beijing&#x27;s restrictions.</div>
+  <div class="theme-source-name">Source: 欧米レアアース企業</div>
+</div>
+<div class="theme-item" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-industry">🏭 Industry</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://www.mining.com/greenmet-plans-150m-rare-earth-processing-hub-in-west-virginia/" target="_blank" rel="noopener noreferrer">GreenMet plans $150M rare earth processing hub in West Virginia</a></span>
+  </div>
+  <div class="theme-summary">GreenMet plans a $150 million rare-earth processing facility in West Virginia, expanding critical mineral processing networks centered on Greenbrier County.</div>
+  <div class="theme-source-name">Source: Mining.com</div>
+</div>
+<div class="theme-item" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-industry">🏭 Industry</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOTGF3VHd2YzEwdzRDOE1vazRsT0d5MG5YazBBZ0FWMTlmcmxGeGRnRXRqYW15WFA5dGpSMFl5bUhCdHRUdVloV00zSWtXR2NzLUxqTWd6N3d6UVZWaGZMOFZzUzdOb3JHQWFxU3hndEtQcDVkTjZ1ZDhYcjhIdGN3Vm9lMGVBT2JPcXp3aFpSNkpjd1VEVmM5SFlPcEhncVdGQWZDYVRWZktxa2kzTFNGOVRmbGxfX0xrLV9xS3o2TWFSMVN1Wkhv?oc=5" target="_blank" rel="noopener noreferrer">Lynas (ASX:LYC) and Iluka Rare Earth Surge: Is a New ASX Supply Race Starting? - Kalkine Media</a></span>
+  </div>
+  <div class="theme-summary">As China restricts rare-earth exports, Australian firms Lynas and Iluka compete for supply, advancing global rare-earth supply chain diversification.</div>
+  <div class="theme-source-name">Source: 欧米レアアース企業</div>
+</div>
+<div class="theme-item" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-media">📰 Media</span><span class="theme-date">📅 2026-07-01</span>
+    <span class="theme-item-title"><a href="https://thehill.com/homenews/5948719-anthropic-fable-mythos-models-restored/" target="_blank" rel="noopener noreferrer">Trump administration lifts limits on Anthropic’s new AI models</a></span>
+  </div>
+  <div class="theme-summary">This article is unrelated to China&#x27;s rare-earth export controls. It covers the Trump administration lifting export restrictions on Anthropic&#x27;s AI model, containing no rare-earth content.</div>
+  <div class="theme-source-name">Source: The Hill</div>
+</div>
+  </div>
+</div>
+</div>
+<footer class="site-footer">
+  Sources: Reuters &middot; Bloomberg &middot; FT &middot; EURACTIV &middot; EUobserver &middot; EU Parliament &middot; European Commission &middot; Automotive News &middot; POLITICO &middot; The Hill &middot; Google News<br>
+  Updated: 2026-07-08 15:45 JST &nbsp;|&nbsp; Auto-update every 6h &nbsp;|&nbsp; World Intelligence Monitor
+</footer>
+<script>
+(function(){
+  var colorMap = {"iaa":"#003F8A","cvsa":"#B22234","rare_earth":"#1a6b3a"};
+
+  var tabs   = document.querySelectorAll('.theme-tab');
+  var panels = document.querySelectorAll('.theme-panel');
+  tabs.forEach(function(tab){
+    tab.addEventListener('click', function(){
+      var tid = tab.dataset.theme;
+      tabs.forEach(function(t){
+        var c = colorMap[t.dataset.theme] || '#333';
+        if(t.dataset.theme === tid){
+          t.classList.add('active');
+          t.style.background = c; t.style.borderColor = c;
+        } else {
+          t.classList.remove('active');
+          t.style.background = ''; t.style.borderColor = '';
+        }
+      });
+      panels.forEach(function(p){
+        p.style.display = (p.id === 'panel-' + tid) ? '' : 'none';
+      });
+    });
+  });
+
+  panels.forEach(function(panel){
+    var tc   = panel.style.getPropertyValue('--tc') || '#003F8A';
+    var btns = panel.querySelectorAll('.theme-filter-btn');
+    var cards = panel.querySelectorAll('.theme-list .theme-item');
+    btns.forEach(function(btn){
+      btn.addEventListener('click', function(){
+        btns.forEach(function(b){
+          b.classList.remove('active');
+          b.style.background=''; b.style.borderColor=''; b.style.color='';
+        });
+        btn.classList.add('active');
+        btn.style.background = tc; btn.style.borderColor = tc; btn.style.color = '#fff';
+        var f = btn.dataset.filter;
+        cards.forEach(function(c){
+          c.style.display = (f === 'all' || c.dataset.src === f) ? '' : 'none';
+        });
+      });
+    });
+  });
+})();
+</script>
+</body>
+</html>
