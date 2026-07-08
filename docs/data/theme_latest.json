@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 11:13:16",
+  "generated_at": "2026-07-08 11:22:03",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-08 11:12:49",
+      "last_checked": "2026-07-08 11:21:30",
       "items": [
         {
           "uid": "152a4128b4e5",
@@ -1809,7 +1809,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-08 11:12:59",
+      "last_checked": "2026-07-08 11:21:40",
       "items": [
         {
           "uid": "f6b2b9c200e9",
@@ -3780,8 +3780,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-08 11:13:16",
+      "last_checked": "2026-07-08 11:22:03",
       "items": [
+        {
+          "uid": "70b54cf1102e",
+          "date": "2026-06-20",
+          "title": "China's Rare Earth Empire and the PLA: The Strategic Materials Architecture Behind Military Power - Rare Earth Exchanges",
+          "summary": "中国はレアアースの採掘・精製・加工において世界的優位性を保有し、これを人民解放軍（PLA）を含む戦略的産業に優先供給することで、軍事力強化と地政学的影響力の確保を図っている。中国はレアアース輸出管理を通じて、依存国への供給制限を武器化し、国家安全保障と経済的支配力を統合した戦略的資源支配体制を構築している。",
+          "source": "中国素材大手",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnVwdTN6RTFiZjEtaTVXbHJmSnpTeVJwZElWRWhmN0lBRmpkcXdZUFJsMTR5cEgxTC1IbmU5WkFmR1RpTjMyV1UwWWlKUTJoUnlRM0FYcEc3Z2VoNTFNRm1nSHpGMC15eEJ5bWxGblFHak5rY2dfUTRnNUZJdF9PLVhHUndRVVlsZ3ZjbURfRi1sa2RBeUk0LUZEWFdKeTNIZFlnY3kxQ2RCMjIwM3hSR2J6SGhORWstT2lxMk5mbXhzaE5UbVRNd1hxWUo?oc=5",
+          "added_at": "2026-07-08 11:21:56"
+        },
+        {
+          "uid": "80e8235683a8",
+          "date": "2026-07-07",
+          "title": "World Thulium Acetate - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "summary": "中国はツリウムなどのレアアース資源の生産を支配しており、その輸出管理政策は世界的なレアアース市場の供給と価格に大きな影響を与えている。ツリウムアセテートを含むレアアース化合物の市場動向は、中国の輸出規制の強化に左右される傾向にある。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYksxaGFfMUlBeV9reUJ2clg2aTR0aXhVUENXdnhnNXNLR3hFajVsVlJoN2M4Tzd0dklTNngxUk9CenFzbEFKaUlzRTQxcmNTYjR1U2RpcGNxdU9UVThOemZaNkVoOVpwcmtOM1JEcTQ3M3VzeGJyMUhQQmxlbklHWlZkS1NhbkdZcnhnZGotVmFaSk5KY2kybzUwWjBSd0dVM01LOQ?oc=5",
+          "added_at": "2026-07-08 11:21:56"
+        },
+        {
+          "uid": "2cf1b6405f74",
+          "date": "2026-04-28",
+          "title": "Critical raw materials face rising export restrictions, increasing risks to global supply chains - OECD",
+          "summary": "中国を含む主要国がレアアースなどの重要な鉱物資源の輸出制限を強化しており、OECDは世界的なサプライチェーンへのリスクが増大していると警告している。この傾向は先進国から発展途上国への供給不安定化をもたらし、産業競争力に深刻な影響を及ぼす可能性がある。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVndZYk9YOHh6NzVaN2ExaklwNGp1MXNjUUhGV09OSDlBbVZ4My0wZDRwUWw1d3lTZG5oLWJnU0RUbnp0YmpnclhYenQtQUlEai02aDR2ZHljd3UwS2hmaGZPUmNWcjZVeGtLU1NRZDZveHVwamtBM05FS29xNHM3aUV6N2w3VjQwRlFQa3A1c1ZxRXV2LWVkNEpUV3d0blBIR0ZjLVRmdWI3U2dOUVJUNWpheTcxbGY2emtFdDNET2R3bjVnR1FmbzFEWWs0TmJueDdhSC0zRXFnUDFheG90dWMxSjBOQ3NDWkhLc19SZw?oc=5",
+          "added_at": "2026-07-08 11:21:56"
+        },
+        {
+          "uid": "36be1b481c06",
+          "date": "2026-05-12",
+          "title": "Trump, Xi to weigh rare earth truce extension, but China's curbs still bite - Reuters",
+          "summary": "トランプ前大統領と習近平主席がレアアース取引の休戦延長を協議する見通しですが、中国が実施している輸出規制措置は依然として米国や同盟国に大きな影響を与えています。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ1ByNk1LdURQWVE5ZXZ1VVVaWkxuaVBsQ0RnZ3NJaXJPNW5ySC1kTVU4V2twN2FFY1cxTXp2WGtweVFVSXlrRUVUY0NrT3BBS08wX2M5OW5KWHRDWFAxQWxSVXRTZGpyTEVYRi1UcUg0WkYtbnA5anhNZExVYUtxaEVZem9MT2t6ZVpwYjBGZ1p4b1U3Q1ZKejZuV3BRWWlOUFY0SWw0eHRNZnhrR2VPbG93WDd6QWlxaGxBNFBYVkgwUkFpT3o4?oc=5",
+          "added_at": "2026-07-08 11:21:56"
+        },
         {
           "uid": "07a308076278",
           "date": "2026-06-23",
@@ -5741,46 +5781,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGE3d2hwejd0TzFFYURfYWFyTU4xeXBNN19vM1pvaGpYVk5DTjNxbXoyTnBjUWpVT191RkNPeENHb3lHM2JUblMyS2hkX1pndFZSUmFnUGR4bS1LZEprN3lxcktIV3U1SXZfR2FvU005QU4zT1Z3alJFaGZpYmM3SjZTNV9LTE1vRVZDVUdYdVRRQU5ncVk4RVk1S0pESGxTLXRFS2FnbnlyWHFCOVd3aWRDV3ZOdw?oc=5",
           "added_at": "2026-06-22 07:48:32"
-        },
-        {
-          "uid": "4f4380091802",
-          "date": "2026-06-21",
-          "title": "Kazatomprom CEO Meirzhan Yussupov on uranium markets, China and nuclear growth",
-          "summary": "カザフスタンの国営ウラン企業Kazatompromの最高経営責任者が、ウラン市場におけるAI駆動型の原子力需要増加とカザフスタンの燃料サイクルにおける役割について述べており、中国を含む主要市場での供給戦略と貿易ルートの重要性が指摘されている。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/kazatomprom-ceo-meirzhan-yussupov-on-uranium-markets-china-and-nuclear-growth/",
-          "added_at": "2026-06-22 07:48:32"
-        },
-        {
-          "uid": "be641f6ba375",
-          "date": "2026-04-23",
-          "title": "China’s Strategic Use of Trade Controls - Center for Security Studies | ETH Zürich",
-          "summary": "中国はレアアース等の重要資源の輸出管理を戦略的に活用し、地政学的利益の獲得と他国への影響力行使の手段としている。このアプローチは経済的依存を通じて政治的な譲歩を引き出す狙いがある。",
-          "source": "欧米メディア",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHM1bTU4Y1BuOHBDbVNSYnE4ZnFXUGRMLXU1cnNMRzh5UmxIdjZ1M1lYRFdjNGJzeXhkd3g2OHpfeEpTbFRiandsdzQ1TjB3WTU2NGdieUxQaHdIVEYtUzVqQVd5bzczVHBUSzc0WUhrOHlEOWtpcDMtcnZBUzFpbmlFS0xNVXlkSV9PcTFUTGV0a0VK?oc=5",
-          "added_at": "2026-06-22 03:10:50"
-        },
-        {
-          "uid": "c4ab93e204e3",
-          "date": "2026-06-21",
-          "title": "Xi meets Kim: China reaffirms support for North Korea’s nukes",
-          "summary": "中国は北朝鮮の核開発プログラムを支持することで、米国に対する交渉力を確保しており、これは中国がレアアース等の戦略的資源を外交カードとして活用する姿勢と一貫している。つまり、中国は技術・資源・同盟国を総合的に活用して地政学的影響力を構築しようとしている。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/international/5932633-beijing-supports-north-korean-nukes/",
-          "added_at": "2026-06-22 03:10:50"
-        },
-        {
-          "uid": "bf9fc6da1806",
-          "date": "2026-05-20",
-          "title": "Chinese, US trade teams hold extensive discussions on rare-earth export control issues, will jointly study solutions to each other's legitimate concerns: MOFCOM - Global Times",
-          "summary": "中国とアメリカの貿易チームがレアアース輸出管理問題について広範な協議を行い、互いの正当な懸念に対する解決策を共同で研究することで合意した。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Lb2NPRHo5MXlXcmJwRENNdDZmYjhkZTJESzI1bXpaYUVTLUluZkp4bjRTdzVBQ3hTc0lqQUpIbEtFZ1JtbEFOQVF3dDJ6dmd6SnNrdUotcldBanVadVJ1MjVB?oc=5",
-          "added_at": "2026-06-21 20:36:55"
         }
       ]
     }
