@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-07-08 13:54 JST",
+  "updated_at": "2026-07-08 13:58 JST",
   "total": 44,
-  "toyota_summary": "イランの石油収入は、湾岸諸国が米国の安全保障保証への依存を減らし、独立した外交チャネルを追求するにつれて、大きく変動している。この転換は中東のより深い地政学的再編成を反映しており、地域大国は冷戦型の同盟関係に縛られるのではなく、複数の選択肢に賭けている。主要な石油生産国は関係を多様化し、経済的依存を見直している。\n\n自動車メーカーにとって、イランの石油収入の不安定性は、中東とアジア全域での燃料価格の変動と予測不可能なサプライチェーンを意味する。湾岸諸国が米国との関係を緩和すると、制裁体制がより予測しにくくなり、それはロジスティクスネットワークと部品調達に波及する。中東市場やアジアのサプライラインへの露出が大きい企業は、地政学的な優位性の変化に伴う通貨変動と潜在的な混乱に直面している。\n\nこの緩和傾向が実際に継続するのか、それとも地域内の対立するブロックに分裂するのかに注視する必要がある。なぜなら、持続的な平和はエネルギー市場を安定させる一方で、緊張の再燃はサプライチェーンを分断させる可能性があるからだ。",
+  "toyota_summary": "イランの石油収入の変動性は、中東地域大国が米国の安全保障保証への依存を減らし、直接交渉を進める中で、中東の地政学を再構成している。一方、大手バッテリー材料サプライヤーはマレーシアでの陰極生産を拡大しており、英国は重要インフラプロジェクトの承認手続きを簡素化している。また、中国とEUは正式な対話チャネルを確立し、カナダは原油パイプラインの拡張を進めている。\n\nサプライチェーンの強靭性が差し迫った懸念である。バッテリー材料の調達はこれまで少数の地域に集中していたが、マレーシアの工場建設は、数年かけて成熟する地理的多角化の広がりを示唆している。イラン情勢が重要であるのは、直接的な原油への露出よりも、ホルムズ海峡を通じた海運路の安定性のためであり、エスカレーションがあればアジアとヨーロッパ全体の部品および完成車物流を混乱させるであろう。EU・中国間の通信が緊密化することで、貿易摩擦が緩和される可能性もあれば、対話の進展方法によっては新たな規制上の不確実性が生じる可能性もある。\n\nカナダの原油パイプラインのスケジュールと、それが車両生産に使用されるプラスチックおよび複合材料の原料費に変化をもたらすかどうかに注視すること。",
   "emails": [
+    {
+      "ts": "20260708_1357",
+      "sender_norm": "POLITICO",
+      "subject": "Commission musical chairs — Season 2",
+      "subject_en": "Commission musical chairs — Season 2",
+      "pdf": "data/pdfs/20260708_1357_Commission_musical_chairs_—_Season_2.pdf",
+      "pdf_en": "data/pdfs/20260708_1357_Commission_musical_chairs_—_Season_2.pdf",
+      "date_label": "JUL 8  13:57",
+      "read_min": 15,
+      "toyota": false,
+      "excerpt": "",
+      "excerpt_en": ""
+    },
     {
       "ts": "20260708_1003",
       "sender_norm": "Eurasia Group",
@@ -180,9 +193,10 @@
       "date_label": "JUL 7  18:49",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "XTCニューエナジーがマレーシアに正極材料工場を建設し、海外展開を加速させることで、EV電池サプライチェーンの地政学的リスク分散が進む。",
-      "subject_en": "「ジェトロ・ビジネス短信」2026/07/07",
-      "pdf_en": "data/pdfs/20260707_1849_「ジェトロ・ビジネス短信」2026_07_07_en.pdf"
+      "excerpt": "XTCニューエナジーがマレーシアに正極材料工場を建設、英国が重要インフラプロジェクト承認を迅速化",
+      "subject_en": "\"JETRO Business Brief\" 2026/07/07",
+      "pdf_en": "data/pdfs/20260707_1849_「ジェトロ・ビジネス短信」2026_07_07_en.pdf",
+      "excerpt_en": "XTC New Energy builds cathode material factory in Malaysia; UK accelerates critical infrastructure approval process"
     },
     {
       "ts": "20260707_1736",
@@ -408,7 +422,10 @@
       "date_label": "JUL 6  18:06",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中国とEUがブリュッセルで貿易投資協議メカニズムの初会合を開催し、4つの作業部会設置で合意"
+      "excerpt": "中国EU対話メカニズム設立、カナダが原油パイプライン発表、フランスがファッション規制強化",
+      "subject_en": "JETRO Business Brief - 2026/07/06",
+      "pdf_en": "data/pdfs/20260706_1806_「ジェトロ・ビジネス短信」2026_07_06_en.pdf",
+      "excerpt_en": "China-EU dialogue mechanism established; Canada announces crude pipeline project; France strengthens fast-fashion regulations"
     },
     {
       "ts": "20260706_1741",
@@ -481,5 +498,5 @@
       "excerpt": "貿易実務講座やHSコード講座など複数のオンデマンド講座が配信中であり、インコタームズや手"
     }
   ],
-  "toyota_summary_en": "Iran's oil revenue swings sharply as Gulf states reduce their reliance on U.S. security guarantees and pursue independent diplomatic channels. The shift reflects deeper geopolitical realignment in the Middle East, with regional powers hedging their bets rather than locking into Cold War-style alignments. Major oil producers are diversifying their relationships and rethinking their economic dependencies.\n\nFor automakers, unstable Iranian oil revenue means volatile fuel prices and unpredictable supply chains across the Middle East and Asia. When Gulf states loosen ties to the U.S., sanctions regimes become less predictable, which ripples through logistics networks and component sourcing. Companies with heavy exposure to Middle Eastern markets or Asian supply lines face currency swings and potential disruptions tied to shifting geopolitical favor.\n\nWatch whether this de-escalation trend actually holds or splinters into competing blocs within the region, since sustained peace would stabilize energy markets while renewed tension could fragment supply chains."
+  "toyota_summary_en": "Iran's oil revenue volatility is reshaping Middle Eastern geopolitics as regional powers reduce reliance on U.S. security guarantees and pursue direct negotiations. Separately, a major battery material supplier is expanding cathode production into Malaysia while the UK has streamlined approvals for critical infrastructure projects. China and the EU have also established a formal dialogue channel, and Canada is moving ahead with crude pipeline expansion.\n\nSupply chain resilience is the immediate concern. Battery material sourcing has been concentrated in a handful of jurisdictions, and the Malaysia factory signals a broader geographic diversification that will take years to mature. The Iran situation matters less for direct crude exposure than for shipping route stability through the Strait of Hormuz, where any escalation would disrupt component and finished-vehicle logistics across Asia and Europe. Tighter EU-China communication could ease trade friction or introduce new regulatory uncertainty depending on how talks evolve.\n\nWatch Canada's crude pipeline timeline and whether it alters feedstock costs for plastic and composite materials used in vehicle production."
 }
