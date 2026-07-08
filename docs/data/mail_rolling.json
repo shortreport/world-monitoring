@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-08 13:46 JST",
+  "updated_at": "2026-07-08 13:54 JST",
   "total": 44,
-  "toyota_summary": "",
+  "toyota_summary": "イランの石油収入は、湾岸諸国が米国の安全保障保証への依存を減らし、独立した外交チャネルを追求するにつれて、大きく変動している。この転換は中東のより深い地政学的再編成を反映しており、地域大国は冷戦型の同盟関係に縛られるのではなく、複数の選択肢に賭けている。主要な石油生産国は関係を多様化し、経済的依存を見直している。\n\n自動車メーカーにとって、イランの石油収入の不安定性は、中東とアジア全域での燃料価格の変動と予測不可能なサプライチェーンを意味する。湾岸諸国が米国との関係を緩和すると、制裁体制がより予測しにくくなり、それはロジスティクスネットワークと部品調達に波及する。中東市場やアジアのサプライラインへの露出が大きい企業は、地政学的な優位性の変化に伴う通貨変動と潜在的な混乱に直面している。\n\nこの緩和傾向が実際に継続するのか、それとも地域内の対立するブロックに分裂するのかに注視する必要がある。なぜなら、持続的な平和はエネルギー市場を安定させる一方で、緊張の再燃はサプライチェーンを分断させる可能性があるからだ。",
   "emails": [
     {
       "ts": "20260708_1003",
@@ -23,9 +23,10 @@
       "date_label": "JUL 8  08:15",
       "read_min": 3,
       "toyota": true,
-      "excerpt": "ホルムズ海峡の原油流通量は戦前の30％～50％の水準まで回復したものの、今後は機雷除去の進捗状況やイランが要求する通航料問題の解決にかかっている。",
+      "excerpt": "イランの石油収入不安定性が湾岸諸国の米国離脱と緊張緩和志向を支える中東平和を脅かしている。",
       "subject_en": "EG Research Summary in Japanese: 2026年7月8日",
-      "pdf_en": "data/pdfs/20260708_0815_EG_Research_Summary_in_Japanese__2026年7月8日.pdf"
+      "pdf_en": "data/pdfs/20260708_0815_EG_Research_Summary_in_Japanese__2026年7月8日.pdf",
+      "excerpt_en": "Iran's oil revenue instability undermines Gulf peace as regional states pivot away from US dependence toward de-escalation."
     },
     {
       "ts": "20260708_0702",
@@ -191,7 +192,9 @@
       "date_label": "JUL 7  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "‘Trump management’: Everyone else has a plan to keep NATO summit on the rails",
+      "pdf_en": "data/pdfs/20260707_1736_‘Trump_management’__Everyone_else_has_a_plan_to_ke.pdf"
     },
     {
       "ts": "20260707_1635",
@@ -201,7 +204,9 @@
       "date_label": "JUL 7  16:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "It’s Judgment Day for Marine Le Pen",
+      "pdf_en": "data/pdfs/20260707_1635_It’s_Judgment_Day_for_Marine_Le_Pen.pdf"
     },
     {
       "ts": "20260707_1519",
@@ -476,5 +481,5 @@
       "excerpt": "貿易実務講座やHSコード講座など複数のオンデマンド講座が配信中であり、インコタームズや手"
     }
   ],
-  "toyota_summary_en": ""
+  "toyota_summary_en": "Iran's oil revenue swings sharply as Gulf states reduce their reliance on U.S. security guarantees and pursue independent diplomatic channels. The shift reflects deeper geopolitical realignment in the Middle East, with regional powers hedging their bets rather than locking into Cold War-style alignments. Major oil producers are diversifying their relationships and rethinking their economic dependencies.\n\nFor automakers, unstable Iranian oil revenue means volatile fuel prices and unpredictable supply chains across the Middle East and Asia. When Gulf states loosen ties to the U.S., sanctions regimes become less predictable, which ripples through logistics networks and component sourcing. Companies with heavy exposure to Middle Eastern markets or Asian supply lines face currency swings and potential disruptions tied to shifting geopolitical favor.\n\nWatch whether this de-escalation trend actually holds or splinters into competing blocs within the region, since sustained peace would stabilize energy markets while renewed tension could fragment supply chains."
 }
