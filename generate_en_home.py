@@ -172,22 +172,32 @@ def render_economist(eco: dict, top_en: list, day_en: list) -> str:
 
 CSS = """
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f4f5f7; color: #1a1a2e; font-size: 14px; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif; background: #f4f5f7; color: #1a1a2e; font-size: 14px; line-height: 1.65; }
 
-/* ── Header ── */
-.site-header { background: #1a1a2e; color: #fff; padding: 0 24px; display: flex; align-items: center; gap: 16px; height: 56px; position: sticky; top: 0; z-index: 100; }
-.site-title  { font-size: 15px; font-weight: 700; letter-spacing: .5px; flex: 1; }
+/* ── Site Header ── */
+.site-header { background: #1a1a2e; color: #fff; padding: 0 24px; height: 58px; display: flex; align-items: center; gap: 16px; position: sticky; top: 0; z-index: 300; box-shadow: 0 2px 8px rgba(0,0,0,.25); }
+.logo { font-size: 20px; font-weight: 700; letter-spacing: .5px; white-space: nowrap; cursor: pointer; }
+.logo em { color: #5bc8f5; font-style: normal; }
+.header-date { font-size: 12px; color: rgba(255,255,255,.5); white-space: nowrap; }
+.header-spacer { flex: 1; }
+.live-badge { background: #e63946; color: #fff; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; letter-spacing: 1px; }
+.update-time { font-size: 11px; color: rgba(255,255,255,.4); white-space: nowrap; }
 .lang-toggle { display: flex; gap: 6px; font-size: 12px; }
-.lang-toggle a { color: rgba(255,255,255,.6); text-decoration: none; padding: 3px 8px; border-radius: 4px; border: 1px solid rgba(255,255,255,.3); transition: all .15s; }
-.lang-toggle a.active, .lang-toggle a:hover { color: #fff; background: rgba(255,255,255,.15); border-color: rgba(255,255,255,.6); }
-.nav-links { display: flex; gap: 4px; }
-.nav-links a { color: rgba(255,255,255,.75); text-decoration: none; padding: 4px 10px; border-radius: 4px; font-size: 12px; transition: background .15s; }
-.nav-links a:hover { background: rgba(255,255,255,.12); color: #fff; }
-.updated-at { font-size: 11px; color: rgba(255,255,255,.5); }
+.lang-toggle a { color: rgba(255,255,255,.6); text-decoration: none; padding: 3px 10px; border-radius: 4px; border: 1px solid rgba(255,255,255,.3); transition: all .15s; font-weight: 600; }
+.lang-toggle a.active { color: #fff; background: rgba(255,255,255,.2); border-color: rgba(255,255,255,.7); }
+.lang-toggle a:hover { color: #fff; background: rgba(255,255,255,.12); }
+
+/* ── Page Navigation Tabs ── */
+.page-nav { background: #fff; border-bottom: 1px solid #e5e7eb; padding: 0 24px; display: flex; align-items: stretch; position: sticky; top: 58px; z-index: 200; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
+.page-nav a { display: flex; align-items: center; gap: 6px; padding: 0 18px; height: 44px; font-size: 14px; font-weight: 500; color: #6b7280; text-decoration: none; border-bottom: 3px solid transparent; white-space: nowrap; transition: color .15s, border-color .15s; }
+.page-nav a:hover { color: #1a1a2e; }
+.page-nav a.active { color: #1a1a2e; border-bottom-color: #1a1a2e; font-weight: 700; }
+.page-nav a .nav-icon { font-size: 15px; }
+.page-nav a.dim { opacity: .45; pointer-events: none; }
 
 /* ── Layout ── */
 .page-wrap { max-width: 1200px; margin: 24px auto; padding: 0 20px; display: grid; grid-template-columns: 1fr 300px; gap: 24px; align-items: start; }
-@media (max-width: 860px) { .page-wrap { grid-template-columns: 1fr; } .eco-sidebar { order: -1; } }
+@media (max-width: 860px) { .page-wrap { grid-template-columns: 1fr; } .eco-sidebar { order: -1; position: static; max-height: none; overflow-y: visible; } }
 
 /* ── News cards ── */
 .news-grid { display: flex; flex-direction: column; gap: 16px; }
@@ -195,42 +205,69 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; b
 .card-header { display: flex; align-items: flex-start; gap: 10px; margin-bottom: 6px; }
 .badge { font-size: 10px; font-weight: 700; padding: 3px 7px; border-radius: 4px; white-space: nowrap; flex-shrink: 0; margin-top: 2px; }
 .card-title { font-size: 15px; font-weight: 700; color: #1a1a2e; text-decoration: none; line-height: 1.4; }
-.card-title:hover { text-decoration: underline; color: #2563eb; }
-.card-sub { font-size: 12px; color: #555; margin-bottom: 10px; padding-left: 2px; }
+.card-title:hover { text-decoration: underline; color: #0096c8; }
+.card-sub { font-size: 12px; color: #6b7280; margin-bottom: 10px; }
 .bullet-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 6px; }
-.bullet-list li { font-size: 13px; line-height: 1.5; padding-left: 12px; border-left: 2px solid #e5e7eb; color: #2a2a3e; }
+.bullet-list li { font-size: 13px; line-height: 1.55; padding-left: 12px; border-left: 2px solid #e5e7eb; color: #2a2a3e; }
 .bullet-list li a { color: inherit; text-decoration: none; }
-.bullet-list li a:hover { color: #2563eb; text-decoration: underline; }
-.src-tag { font-size: 10px; color: #888; margin-left: 6px; white-space: nowrap; }
-.card-details { margin-top: 10px; }
-.card-details summary { font-size: 11px; color: #888; cursor: pointer; user-select: none; }
-.risk-text, .ctx-text { font-size: 11.5px; color: #555; line-height: 1.6; margin-top: 6px; }
+.bullet-list li a:hover { color: #0096c8; text-decoration: underline; }
+.src-tag { display: inline-block; font-size: 10px; font-weight: 600; color: #9ca3af; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 4px; padding: 1px 5px; margin-left: 6px; vertical-align: middle; white-space: nowrap; }
+.card-details { margin-top: 12px; border-top: 1px solid #f3f4f6; padding-top: 8px; }
+.card-details summary { font-size: 11px; color: #9ca3af; cursor: pointer; user-select: none; }
+.card-details[open] summary { color: #6b7280; }
+.risk-text, .ctx-text { font-size: 11.5px; color: #4b5563; line-height: 1.65; margin-top: 8px; }
 
 /* ── Economist sidebar ── */
-.eco-sidebar { position: sticky; top: 68px; background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 6px rgba(0,0,0,.07); max-height: calc(100vh - 90px); overflow-y: auto; }
+.eco-sidebar { position: sticky; top: 112px; max-height: calc(100vh - 130px); overflow-y: auto; background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; box-shadow: 0 1px 6px rgba(0,0,0,.07); }
+.eco-sidebar::-webkit-scrollbar { width: 4px; } .eco-sidebar::-webkit-scrollbar-thumb { background: rgba(0,0,0,.15); border-radius: 2px; }
 .eco-head { display: flex; gap: 12px; padding: 14px 16px; background: #f9fafb; border-bottom: 1px solid #e5e7eb; align-items: flex-start; }
 .eco-cover { width: 60px; height: 80px; object-fit: cover; border-radius: 3px; flex-shrink: 0; }
 .eco-label { font-size: 10px; font-weight: 700; letter-spacing: 1.5px; color: #e63c2f; margin-bottom: 4px; }
 .eco-sub   { font-size: 11px; font-weight: 600; color: #1a1a2e; line-height: 1.4; }
-.eco-date  { font-size: 10px; color: #999; margin-top: 4px; }
-.eco-section { padding: 12px 16px; border-bottom: 1px solid #f0f0f0; }
+.eco-date  { font-size: 10px; color: #9ca3af; margin-top: 4px; }
+.eco-section { padding: 12px 16px; border-bottom: 1px solid #f3f4f6; }
 .eco-section:last-child { border-bottom: none; }
-.eco-sec-title { font-size: 10px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #888; margin-bottom: 8px; }
+.eco-sec-title { font-size: 10px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #9ca3af; margin-bottom: 8px; }
 .eco-list { list-style: none; display: flex; flex-direction: column; gap: 8px; }
-.eco-list li { font-size: 11.5px; line-height: 1.6; color: #2a2a3e; padding-left: 10px; border-left: 2px solid #e63c2f; }
+.eco-list li { font-size: 11.5px; line-height: 1.65; color: #2a2a3e; padding-left: 10px; border-left: 2px solid #e63c2f; }
 
 /* ── Footer ── */
-.site-footer { text-align: center; padding: 28px 20px; font-size: 11px; color: #aaa; margin-top: 32px; }
+.site-footer { text-align: center; padding: 28px 20px; font-size: 11px; color: #9ca3af; margin-top: 32px; border-top: 1px solid #e5e7eb; }
+
+@media (max-width: 640px) { .site-header { padding: 0 14px; } .update-time { display: none; } .page-nav { padding: 0 8px; } .page-nav a { padding: 0 12px; font-size: 13px; } }
 """
+
+
+NAV_PAGES = [
+    ("index.html",        "🏠", "Home",          "home",          False),
+    ("intelligence.html", "📋", "Intelligence",  "intelligence",  True),
+    ("trump.html",        "🇺🇸", "US / Trump",   "trump",         True),
+    ("theme.html",        "🔎", "Themes",         "theme",         True),
+    ("midterm.html",      "🗳️", "US Midterms",   "midterm",       True),
+    ("summary.html",      "📋", "Exec Summary",  "summary",       True),
+]
 
 
 def build_html(segments_en: list, segments_orig: list, eco: dict,
                top_en: list, day_en: list, generated_at: str) -> str:
+    from datetime import datetime, timezone
+    today = datetime.now(timezone.utc).strftime("%B %d, %Y")
+
     cards = "\n".join(
         render_segment(seg_en, seg_orig, i)
         for i, (seg_en, seg_orig) in enumerate(zip(segments_en, segments_orig))
     )
     eco_html = render_economist(eco, top_en, day_en)
+
+    nav_tabs = ""
+    for href, icon, label, pid, coming in NAV_PAGES:
+        cls_parts = []
+        if pid == "home":
+            cls_parts.append("active")
+        if coming:
+            cls_parts.append("dim")
+        cls = f' class="{" ".join(cls_parts)}"' if cls_parts else ""
+        nav_tabs += f'  <a href="{href}"{cls}><span class="nav-icon">{icon}</span>{label}</a>\n'
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -242,20 +279,27 @@ def build_html(segments_en: list, segments_orig: list, eco: dict,
 </head>
 <body>
 <header class="site-header">
-  <span class="site-title">🌐 World Intelligence Monitor</span>
+  <div class="logo" onclick="location.href='index.html'">World<em>News</em></div>
+  <div class="header-date">{today}</div>
+  <div class="header-spacer"></div>
+  <div class="update-time">Updated: {e(generated_at)}</div>
   <div class="lang-toggle">
     <a href="../index.html">JP</a>
     <a href="index.html" class="active">EN</a>
   </div>
-  <span class="updated-at">Updated: {e(generated_at)}</span>
+  <div class="live-badge">LIVE</div>
 </header>
+<nav class="page-nav">
+{nav_tabs}</nav>
 <div class="page-wrap">
   <main class="news-grid">
     {cards}
   </main>
   {eco_html}
 </div>
-<footer class="site-footer">World Intelligence Monitor &mdash; For internal use only</footer>
+<footer class="site-footer">
+  World Intelligence Monitor &mdash; For internal use only &mdash; Updated: {e(generated_at)}
+</footer>
 </body>
 </html>"""
 
