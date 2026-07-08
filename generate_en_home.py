@@ -172,7 +172,7 @@ def render_economist(eco: dict, top_en: list, day_en: list) -> str:
 
 CSS = """
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif; background: #f4f5f7; color: #1a1a2e; font-size: 14px; line-height: 1.65; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif; background: #f4f5f7; color: #1a1a2e; font-size: 16px; line-height: 1.7; }
 
 /* ── Site Header ── */
 .site-header { background: #1a1a2e; color: #fff; padding: 0 24px; height: 58px; display: flex; align-items: center; gap: 16px; position: sticky; top: 0; z-index: 300; box-shadow: 0 2px 8px rgba(0,0,0,.25); }
@@ -204,32 +204,32 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
 .news-card  { background: #fff; border-radius: 8px; padding: 16px 18px; box-shadow: 0 1px 4px rgba(0,0,0,.07); }
 .card-header { display: flex; align-items: flex-start; gap: 10px; margin-bottom: 6px; }
 .badge { font-size: 10px; font-weight: 700; padding: 3px 7px; border-radius: 4px; white-space: nowrap; flex-shrink: 0; margin-top: 2px; }
-.card-title { font-size: 15px; font-weight: 700; color: #1a1a2e; text-decoration: none; line-height: 1.4; }
+.card-title { font-size: 18px; font-weight: 700; color: #1a1a2e; text-decoration: none; line-height: 1.4; }
 .card-title:hover { text-decoration: underline; color: #0096c8; }
-.card-sub { font-size: 12px; color: #6b7280; margin-bottom: 10px; }
-.bullet-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 6px; }
-.bullet-list li { font-size: 13px; line-height: 1.55; padding-left: 12px; border-left: 2px solid #e5e7eb; color: #2a2a3e; }
+.card-sub { font-size: 14px; color: #6b7280; margin-bottom: 10px; }
+.bullet-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.bullet-list li { font-size: 15px; line-height: 1.6; padding-left: 12px; border-left: 2px solid #e5e7eb; color: #2a2a3e; }
 .bullet-list li a { color: inherit; text-decoration: none; }
 .bullet-list li a:hover { color: #0096c8; text-decoration: underline; }
-.src-tag { display: inline-block; font-size: 10px; font-weight: 600; color: #9ca3af; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 4px; padding: 1px 5px; margin-left: 6px; vertical-align: middle; white-space: nowrap; }
+.src-tag { display: inline-block; font-size: 11px; font-weight: 600; color: #9ca3af; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 4px; padding: 1px 6px; margin-left: 6px; vertical-align: middle; white-space: nowrap; }
 .card-details { margin-top: 12px; border-top: 1px solid #f3f4f6; padding-top: 8px; }
-.card-details summary { font-size: 11px; color: #9ca3af; cursor: pointer; user-select: none; }
+.card-details summary { font-size: 13px; color: #9ca3af; cursor: pointer; user-select: none; }
 .card-details[open] summary { color: #6b7280; }
-.risk-text, .ctx-text { font-size: 11.5px; color: #4b5563; line-height: 1.65; margin-top: 8px; }
+.risk-text, .ctx-text { font-size: 13px; color: #4b5563; line-height: 1.7; margin-top: 8px; }
 
 /* ── Economist sidebar ── */
 .eco-sidebar { position: sticky; top: 112px; max-height: calc(100vh - 130px); overflow-y: auto; background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; box-shadow: 0 1px 6px rgba(0,0,0,.07); }
 .eco-sidebar::-webkit-scrollbar { width: 4px; } .eco-sidebar::-webkit-scrollbar-thumb { background: rgba(0,0,0,.15); border-radius: 2px; }
 .eco-head { display: flex; gap: 12px; padding: 14px 16px; background: #f9fafb; border-bottom: 1px solid #e5e7eb; align-items: flex-start; }
 .eco-cover { width: 60px; height: 80px; object-fit: cover; border-radius: 3px; flex-shrink: 0; }
-.eco-label { font-size: 10px; font-weight: 700; letter-spacing: 1.5px; color: #e63c2f; margin-bottom: 4px; }
-.eco-sub   { font-size: 11px; font-weight: 600; color: #1a1a2e; line-height: 1.4; }
-.eco-date  { font-size: 10px; color: #9ca3af; margin-top: 4px; }
-.eco-section { padding: 12px 16px; border-bottom: 1px solid #f3f4f6; }
+.eco-label { font-size: 11px; font-weight: 700; letter-spacing: 1.5px; color: #e63c2f; margin-bottom: 4px; }
+.eco-sub   { font-size: 13px; font-weight: 600; color: #1a1a2e; line-height: 1.4; }
+.eco-date  { font-size: 11px; color: #9ca3af; margin-top: 4px; }
+.eco-section { padding: 14px 16px; border-bottom: 1px solid #f3f4f6; }
 .eco-section:last-child { border-bottom: none; }
-.eco-sec-title { font-size: 10px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #9ca3af; margin-bottom: 8px; }
-.eco-list { list-style: none; display: flex; flex-direction: column; gap: 8px; }
-.eco-list li { font-size: 11.5px; line-height: 1.65; color: #2a2a3e; padding-left: 10px; border-left: 2px solid #e63c2f; }
+.eco-sec-title { font-size: 11px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #9ca3af; margin-bottom: 10px; }
+.eco-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+.eco-list li { font-size: 13px; line-height: 1.65; color: #2a2a3e; padding-left: 10px; border-left: 2px solid #e63c2f; }
 
 /* ── Footer ── */
 .site-footer { text-align: center; padding: 28px 20px; font-size: 11px; color: #9ca3af; margin-top: 32px; border-top: 1px solid #e5e7eb; }

@@ -6,7 +6,7 @@
 <title>World Intelligence Monitor</title>
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif; background: #f4f5f7; color: #1a1a2e; font-size: 14px; line-height: 1.65; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif; background: #f4f5f7; color: #1a1a2e; font-size: 16px; line-height: 1.7; }
 
 /* ── Site Header ── */
 .site-header { background: #1a1a2e; color: #fff; padding: 0 24px; height: 58px; display: flex; align-items: center; gap: 16px; position: sticky; top: 0; z-index: 300; box-shadow: 0 2px 8px rgba(0,0,0,.25); }
@@ -38,32 +38,32 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
 .news-card  { background: #fff; border-radius: 8px; padding: 16px 18px; box-shadow: 0 1px 4px rgba(0,0,0,.07); }
 .card-header { display: flex; align-items: flex-start; gap: 10px; margin-bottom: 6px; }
 .badge { font-size: 10px; font-weight: 700; padding: 3px 7px; border-radius: 4px; white-space: nowrap; flex-shrink: 0; margin-top: 2px; }
-.card-title { font-size: 15px; font-weight: 700; color: #1a1a2e; text-decoration: none; line-height: 1.4; }
+.card-title { font-size: 18px; font-weight: 700; color: #1a1a2e; text-decoration: none; line-height: 1.4; }
 .card-title:hover { text-decoration: underline; color: #0096c8; }
-.card-sub { font-size: 12px; color: #6b7280; margin-bottom: 10px; }
-.bullet-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 6px; }
-.bullet-list li { font-size: 13px; line-height: 1.55; padding-left: 12px; border-left: 2px solid #e5e7eb; color: #2a2a3e; }
+.card-sub { font-size: 14px; color: #6b7280; margin-bottom: 10px; }
+.bullet-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.bullet-list li { font-size: 15px; line-height: 1.6; padding-left: 12px; border-left: 2px solid #e5e7eb; color: #2a2a3e; }
 .bullet-list li a { color: inherit; text-decoration: none; }
 .bullet-list li a:hover { color: #0096c8; text-decoration: underline; }
-.src-tag { display: inline-block; font-size: 10px; font-weight: 600; color: #9ca3af; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 4px; padding: 1px 5px; margin-left: 6px; vertical-align: middle; white-space: nowrap; }
+.src-tag { display: inline-block; font-size: 11px; font-weight: 600; color: #9ca3af; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 4px; padding: 1px 6px; margin-left: 6px; vertical-align: middle; white-space: nowrap; }
 .card-details { margin-top: 12px; border-top: 1px solid #f3f4f6; padding-top: 8px; }
-.card-details summary { font-size: 11px; color: #9ca3af; cursor: pointer; user-select: none; }
+.card-details summary { font-size: 13px; color: #9ca3af; cursor: pointer; user-select: none; }
 .card-details[open] summary { color: #6b7280; }
-.risk-text, .ctx-text { font-size: 11.5px; color: #4b5563; line-height: 1.65; margin-top: 8px; }
+.risk-text, .ctx-text { font-size: 13px; color: #4b5563; line-height: 1.7; margin-top: 8px; }
 
 /* ── Economist sidebar ── */
 .eco-sidebar { position: sticky; top: 112px; max-height: calc(100vh - 130px); overflow-y: auto; background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; box-shadow: 0 1px 6px rgba(0,0,0,.07); }
 .eco-sidebar::-webkit-scrollbar { width: 4px; } .eco-sidebar::-webkit-scrollbar-thumb { background: rgba(0,0,0,.15); border-radius: 2px; }
 .eco-head { display: flex; gap: 12px; padding: 14px 16px; background: #f9fafb; border-bottom: 1px solid #e5e7eb; align-items: flex-start; }
 .eco-cover { width: 60px; height: 80px; object-fit: cover; border-radius: 3px; flex-shrink: 0; }
-.eco-label { font-size: 10px; font-weight: 700; letter-spacing: 1.5px; color: #e63c2f; margin-bottom: 4px; }
-.eco-sub   { font-size: 11px; font-weight: 600; color: #1a1a2e; line-height: 1.4; }
-.eco-date  { font-size: 10px; color: #9ca3af; margin-top: 4px; }
-.eco-section { padding: 12px 16px; border-bottom: 1px solid #f3f4f6; }
+.eco-label { font-size: 11px; font-weight: 700; letter-spacing: 1.5px; color: #e63c2f; margin-bottom: 4px; }
+.eco-sub   { font-size: 13px; font-weight: 600; color: #1a1a2e; line-height: 1.4; }
+.eco-date  { font-size: 11px; color: #9ca3af; margin-top: 4px; }
+.eco-section { padding: 14px 16px; border-bottom: 1px solid #f3f4f6; }
 .eco-section:last-child { border-bottom: none; }
-.eco-sec-title { font-size: 10px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #9ca3af; margin-bottom: 8px; }
-.eco-list { list-style: none; display: flex; flex-direction: column; gap: 8px; }
-.eco-list li { font-size: 11.5px; line-height: 1.65; color: #2a2a3e; padding-left: 10px; border-left: 2px solid #e63c2f; }
+.eco-sec-title { font-size: 11px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #9ca3af; margin-bottom: 10px; }
+.eco-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+.eco-list li { font-size: 13px; line-height: 1.65; color: #2a2a3e; padding-left: 10px; border-left: 2px solid #e63c2f; }
 
 /* ── Footer ── */
 .site-footer { text-align: center; padding: 28px 20px; font-size: 11px; color: #9ca3af; margin-top: 32px; border-top: 1px solid #e5e7eb; }
@@ -96,91 +96,91 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
     <article class="news-card" style="border-left:4px solid #ef4444; background:#fee2e2;">
   <div class="card-header">
     <span class="badge" style="background:#ef4444;color:#fff;">① US-Iran Relations</span>
-    <a href="https://news.google.com/search?q=Iran+US+tensions+Hormuz+strait+ship+attacks+July+2026&hl=en" target="_blank" rel="noopener" class="card-title">US-Iran Tensions Escalate</a>
+    <a href="https://news.google.com/search?q=Iran+US+tensions+Hormuz+strait+ship+attacks+July+2026&hl=en" target="_blank" rel="noopener" class="card-title">US-Iran Tensions Reignite</a>
   </div>
-  <p class="card-sub">Attacks surge in Strait of Hormuz</p>
-  <ul class="bullet-list"><li><a href="http://www3.nhk.or.jp/news/html/20260708/k10015171371000.html" target="_blank" rel="noopener">Iran's Revolutionary Guards attack commercial vessels in Strait of Hormuz; multiple ships sustain damage</a><span class="src-tag">NHK</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pDN3kxUzlCc0NhME5tcHBzWWpXMEdGUnllOG9tN3U1TFNBcEJKQUVRRkh4WlYxcWdvZHNqZ1E1cmtoMWVnTXc5NGp6S1lSOWNiNGtETHpkQ2FlX0VESDBVUGhUdG5EVUgzWk0xR0Q0dmVPQ08tb2RMUGtHX3BqOGZ3bk1JX3pqUnhhclcwVHlwS0NXdGpfcW1sb0hsNm51WFg0Q1FLSUpwNzRQZkplUdIBsAFBVV95cUxOa0pDN3kxUzlCc0NhME5tcHBzWWpXMEdGUnllOG9tN3U1TFNBcEJKQUVRRkh4WlYxcWdvZHNqZ1E1cmtoMWVnTXc5NGp6S1lSOWNiNGtETHpkQ2FlX0VESDBVUGhUdG5EVUgzWk0xR0Q0dmVPQ08tb2RMUGtHX3BqOGZ3bk1JX3pqUnhhclcwVHlwS0NXdGpfcW1sb0hsNm51WFg0Q1FLSUpwNzRQZkplUQ?oc=5" target="_blank" rel="noopener">Iranian hardliners grow anxious over diminished influence following US-Iran agreement negotiations</a><span class="src-tag">Devdiscourse</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1wbXZEZ0pfaXVSdkNiRWZweGpGOGxKRzRrTDlxeXpNZU5iZTVoWUVxTUprd3hnSmVXeDdIRExwQllLTXQyZzA5UmVGNFhOSDNORFBSei1kOVRvMzJoYnpvWFNxSnhwRmJLUWh2Ug?oc=5" target="_blank" rel="noopener">Thirteen Japan-related vessels transit Persian Gulf; normalization of Hormuz passage remains uncertain</a><span class="src-tag">日経</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFBqamVfZC13SzkzSm9NRTNfVnhfeVFEUGRkTC02cTJGNTBDdzVpQmlTNV9TZXJhMHJHa2d5WU1SZ3FxMnp4WFdRX1FhZ3RxZE92Rnp6Ny1oRGVRR2dXWVZ1cG1vaVE2YU8yeFVXR3hncmRnenB4U09z?oc=5" target="_blank" rel="noopener">Poll shows majority of US voters view war with Iran as 'not worth the cost'</a><span class="src-tag">日経</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE41THgyenl4SVlXUXJNZkVaMFZaN2pPbnlIbW9rSHhFMk9uRkFteDZYbFc5b3VJUEI3UFRpUFBtN0pHbDViWkJJLV85dldRdUF2cEVEMHJZR0lRUDYyUzNhUDMxZG9PR1JiREdSSzNsSkpJNS1hemZN?oc=5" target="_blank" rel="noopener">Major shipping lines including Maersk prepare to resume Suez Canal transit, first move since Iranian attacks</a><span class="src-tag">日経</span></li>
+  <p class="card-sub">Attacks escalate in Strait of Hormuz</p>
+  <ul class="bullet-list"><li><a href="http://www3.nhk.or.jp/news/html/20260708/k10015171371000.html" target="_blank" rel="noopener">Iran's Revolutionary Guards attack commercial vessels in Strait of Hormuz, multiple ships sustain damage.</a><span class="src-tag">NHK</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0pDN3kxUzlCc0NhME5tcHBzWWpXMEdGUnllOG9tN3U1TFNBcEJKQUVRRkh4WlYxcWdvZHNqZ1E1cmtoMWVnTXc5NGp6S1lSOWNiNGtETHpkQ2FlX0VESDBVUGhUdG5EVUgzWk0xR0Q0dmVPQ08tb2RMUGtHX3BqOGZ3bk1JX3pqUnhhclcwVHlwS0NXdGpfcW1sb0hsNm51WFg0Q1FLSUpwNzRQZkplUdIBsAFBVV95cUxOa0pDN3kxUzlCc0NhME5tcHBzWWpXMEdGUnllOG9tN3U1TFNBcEJKQUVRRkh4WlYxcWdvZHNqZ1E1cmtoMWVnTXc5NGp6S1lSOWNiNGtETHpkQ2FlX0VESDBVUGhUdG5EVUgzWk0xR0Q0dmVPQ08tb2RMUGtHX3BqOGZ3bk1JX3pqUnhhclcwVHlwS0NXdGpfcW1sb0hsNm51WFg0Q1FLSUpwNzRQZkplUQ?oc=5" target="_blank" rel="noopener">Iranian hardliners grow anxious over diminished influence following US-Iran agreement negotiations.</a><span class="src-tag">Devdiscourse</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1wbXZEZ0pfaXVSdkNiRWZweGpGOGxKRzRrTDlxeXpNZU5iZTVoWUVxTUprd3hnSmVXeDdIRExwQllLTXQyZzA5UmVGNFhOSDNORFBSei1kOVRvMzJoYnpvWFNxSnhwRmJLUWh2Ug?oc=5" target="_blank" rel="noopener">Thirteen Japan-related vessels transit Persian Gulf; normalization of Hormuz passage remains uncertain.</a><span class="src-tag">日経</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFBqamVfZC13SzkzSm9NRTNfVnhfeVFEUGRkTC02cTJGNTBDdzVpQmlTNV9TZXJhMHJHa2d5WU1SZ3FxMnp4WFdRX1FhZ3RxZE92Rnp6Ny1oRGVRR2dXWVZ1cG1vaVE2YU8yeFVXR3hncmRnenB4U09z?oc=5" target="_blank" rel="noopener">Poll shows majority of US voters view war with Iran as not worth the cost.</a><span class="src-tag">日経</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE41THgyenl4SVlXUXJNZkVaMFZaN2pPbnlIbW9rSHhFMk9uRkFteDZYbFc5b3VJUEI3UFRpUFBtN0pHbDViWkJJLV85dldRdUF2cEVEMHJZR0lRUDYyUzNhUDMxZG9PR1JiREdSSzNsSkpJNS1hemZN?oc=5" target="_blank" rel="noopener">Maersk and major shipping lines move to resume Suez Canal transit, first action after Iranian attacks.</a><span class="src-tag">日経</span></li>
 </ul>
   <details class="card-details">
     <summary>▲ Risk / Background</summary>
-    <p class="risk-text"><strong>Risk:</strong> Escalating retaliatory attacks by Iranian hardliners could worsen disruptions to Strait of Hormuz transit, potentially disrupting Japan's crude oil imports via sea lanes in September</p>
-    <p class="ctx-text"><strong>Background:</strong> As US-Iran reconciliation talks progress, Iranian hardliners feel threatened by loss of straits dominance and demonstrate power through ship attacks; anti-war sentiment also rises among American voters</p>
+    <p class="risk-text"><strong>Risk:</strong> Escalation of Iranian hardliner retaliatory attacks could expand disruptions in Strait of Hormuz transit. Japan's crude oil imports via sea lanes in September face potential disruption.</p>
+    <p class="ctx-text"><strong>Background:</strong> As US-Iran relations negotiations progress, Iranian hardliners feel threatened by declining influence and demonstrate power through merchant vessel attacks. War fatigue sentiment rises among US public.</p>
   </details>
 </article>
 <article class="news-card" style="border-left:4px solid #f97316; background:#fff7ed;">
   <div class="card-header">
     <span class="badge" style="background:#f97316;color:#fff;">② US-China-Taiwan</span>
-    <a href="https://news.google.com/search?q=China+Taiwan+military+pressure+US+Trump+Xi+summit+July+2026&hl=en" target="_blank" rel="noopener" class="card-title">China Intensifies Taiwan Pressure</a>
+    <a href="https://news.google.com/search?q=China+Taiwan+military+pressure+US+Trump+Xi+summit+July+2026&hl=en" target="_blank" rel="noopener" class="card-title">China escalates Taiwan pressure</a>
   </div>
-  <p class="card-sub">Gray-zone operations expand</p>
-  <ul class="bullet-list"><li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkhUVzBaSmpkSHVKeGxGN1JRVjJIZzY0M1pSNENDSGhzeEl0dVhITzlVU2pnamVFbFJ2S1NKOEllUVNKd3JKUjNzZEFza1RlQ2F3eVloX1NhSzNsVnpWbTAtNWRZdGg4SlduSGliRUFRbU11MVpwWXIwNG4tczBBcDQzbERKWTBQUUdNVVFUMldJMjVfQnk4NGtsd0E?oc=5" target="_blank" rel="noopener">China advances status-quo change operations in Taiwan's eastern waters following US-China summit 'ceasefire'</a><span class="src-tag">The Strategist | ASPI's analysis and commentary site</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBobnZza2FTZzYwTEpSanFIUWk4M2JaWUpVQUlvWWVBTm1KY0tlOVNxUHF3eFBfQk1ydVoxYk1nR1F4d3l6MWlLRW02dFR0SkZyMHdqZW95a2RjOVphZFFmTjlKZ2NzdWtpVllOMUx4akNvWklPUmc?oc=5" target="_blank" rel="noopener">Chinese submarine conducts SLBM test; traces route between South China Sea and Nauru-Tonga as military signaling</a><span class="src-tag">産経</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9yclhSTl85Wm9qUTVQTi1lRVZ1eVRJMnJGZndPTG9yWDFtbGtFbkF6a3N6T3N0bnMteFBMa3o5WWhQcDUyUU1fUWM4SGxSMWhuLUtzNHVBRW1HcTM5ZXZ6M1BQdi01SEgyN0FSenQ5eDJMWmZzVFE?oc=5" target="_blank" rel="noopener">Taiwan officials denounce China as 'regional bully' and demand continued US support</a><span class="src-tag">産経</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFByd0NreTdWMFA5TnhZSm50dWpiSmNEVjA3Nms2OXF2VVlNZkU1T1V2cUFUbmQyMGV5V1J0cHhVb2dOVm5qNDVMUUVIYkl6QktDVVpSQ3phS1FaaWFVc2REcVF4WTFzTGhLdmlSMGdUZFRPaGFpckE?oc=5" target="_blank" rel="noopener">Former Sankei reporter Yaitsu assaulted by Chinese national in Taiwan; labeled as 'cross-border suppression'</a><span class="src-tag">産経</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HZlZYQ2hILWxPY202bHJIczJITDFCNkh5YWEzR3RsVUFnZURFNWgxWWlURWVWQ2l3a2s2UFVrWUtKNktOMWtkQW5pM1VhZkZjckdWZFd2aw?oc=5" target="_blank" rel="noopener">Democratic lawmakers declare 'no concessions whatsoever' to Xi Jinping, adopting hardline stance</a><span class="src-tag">Focus Taiwan</span></li>
+  <p class="card-sub">Gray-zone operations expand across region</p>
+  <ul class="bullet-list"><li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkhUVzBaSmpkSHVKeGxGN1JRVjJIZzY0M1pSNENDSGhzeEl0dVhITzlVU2pnamVFbFJ2S1NKOEllUVNKd3JKUjNzZEFza1RlQ2F3eVloX1NhSzNsVnpWbTAtNWRZdGg4SlduSGliRUFRbU11MVpwWXIwNG4tczBBcDQzbERKWTBQUUdNVVFUMldJMjVfQnk4NGtsd0E?oc=5" target="_blank" rel="noopener">China expands status-quo change operations in Taiwan's eastern waters, exploiting ceasefire from US-China summit.</a><span class="src-tag">The Strategist | ASPI's analysis and commentary site</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBobnZza2FTZzYwTEpSanFIUWk4M2JaWUpVQUlvWWVBTm1KY0tlOVNxUHF3eFBfQk1ydVoxYk1nR1F4d3l6MWlLRW02dFR0SkZyMHdqZW95a2RjOVphZFFmTjlKZ2NzdWtpVllOMUx4akNvWklPUmc?oc=5" target="_blank" rel="noopener">Chinese submarine conducts SLBM launch, posting trajectory between South China Sea and Nauru-Tonga.</a><span class="src-tag">産経</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9yclhSTl85Wm9qUTVQTi1lRVZ1eVRJMnJGZndPTG9yWDFtbGtFbkF6a3N6T3N0bnMteFBMa3o5WWhQcDUyUU1fUWM4SGxSMWhuLUtzNHVBRW1HcTM5ZXZ6M1BQdi01SEgyN0FSenQ5eDJMWmZzVFE?oc=5" target="_blank" rel="noopener">Taiwan officials condemn China as 'regional bully,' demand continued US support.</a><span class="src-tag">産経</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFByd0NreTdWMFA5TnhZSm50dWpiSmNEVjA3Nms2OXF2VVlNZkU1T1V2cUFUbmQyMGV5V1J0cHhVb2dOVm5qNDVMUUVIYkl6QktDVVpSQ3phS1FaaWFVc2REcVF4WTFzTGhLdmlSMGdUZFRPaGFpckE?oc=5" target="_blank" rel="noopener">Sankei journalist Yoita beaten by Chinese national in Taiwan, flagged as transnational repression.</a><span class="src-tag">産経</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HZlZYQ2hILWxPY202bHJIczJITDFCNkh5YWEzR3RsVUFnZURFNWgxWWlURWVWQ2l3a2s2UFVrWUtKNktOMWtkQW5pM1VhZkZjckdWZFd2aw?oc=5" target="_blank" rel="noopener">Democratic Party lawmakers assert no concessions possible to Xi Jinping, expressing hardline stance.</a><span class="src-tag">Focus Taiwan</span></li>
 </ul>
   <details class="card-details">
     <summary>▲ Risk / Background</summary>
-    <p class="risk-text"><strong>Risk:</strong> Intensified Chinese military activities around Taiwan could trigger US domestic divisions during Xi's planned September 2026 US visit; strengthening Japan-US-Taiwan coordination becomes critical by mid-September</p>
-    <p class="ctx-text"><strong>Background:</strong> Following US-China 'ceasefire' agreement at summit between Trump and Xi, China escalates pressure on Taiwan; generational rift between China hawks and moderates deepens within US political establishment</p>
+    <p class="risk-text"><strong>Risk:</strong> Escalated Chinese military activities around Taiwan could trigger internal US divisions during Xi's September 2026 visit. Strengthening Japan-US-Taiwan coordination becomes critical through mid-September.</p>
+    <p class="ctx-text"><strong>Background:</strong> Following US-China ceasefire agreement between former President Trump and Xi, China intensifies pressure on Taiwan. Generational divide between hardline and moderate factions on China policy deepens within US.</p>
   </details>
 </article>
 <article class="news-card" style="border-left:4px solid #06b6d4; background:#ecfeff;">
   <div class="card-header">
     <span class="badge" style="background:#06b6d4;color:#fff;">③ Japan-US-Korea Cooperation</span>
-    <a href="https://news.google.com/search?q=Japan+US+South+Korea+foreign+ministers+China+missile+NATO+July+2026&hl=en" target="_blank" rel="noopener" class="card-title">Three Nations Align on China</a>
+    <a href="https://news.google.com/search?q=Japan+US+South+Korea+foreign+ministers+China+missile+NATO+July+2026&hl=en" target="_blank" rel="noopener" class="card-title">Three nations align on China deterrence</a>
   </div>
-  <p class="card-sub">NATO meeting reveals shared missile concerns</p>
-  <ul class="bullet-list"><li><a href="http://www3.nhk.or.jp/news/html/20260708/k10015171401000.html" target="_blank" rel="noopener">Foreign Minister Shigeru Motegi holds Japan-US-Korea trilateral meeting at NATO summit in Turkey; shares concerns over Chinese missiles</a><span class="src-tag">NHK</span></li>
-<li><a href="http://www3.nhk.or.jp/news/html/20260706/k10015170131000.html" target="_blank" rel="noopener">Three nations express shared concern over Chinese strategic submarine SLBM tests and commit to strengthening unity</a><span class="src-tag">NHK</span></li>
-<li><a href="https://mainichi.jp/articles/20260708/k00/00m/010/017000c" target="_blank" rel="noopener">President Trump attends NATO summit; expresses disagreement with Europe over Iran situation</a><span class="src-tag">毎日</span></li>
-<li><a href="http://www3.nhk.or.jp/news/html/20260708/k10015171261000.html" target="_blank" rel="noopener">Foreign Minister Motegi agrees with Kuwait's foreign minister to oppose Hormuz transit fee collection</a><span class="src-tag">NHK</span></li>
-<li><a href="http://www3.nhk.or.jp/news/html/20260707/k10015170641000.html" target="_blank" rel="noopener">Three nations commit to strengthening trilateral coordination and maintaining pressure on China</a><span class="src-tag">NHK</span></li>
+  <p class="card-sub">NATO meeting highlights strategic submarine concerns</p>
+  <ul class="bullet-list"><li><a href="http://www3.nhk.or.jp/news/html/20260708/k10015171401000.html" target="_blank" rel="noopener">Foreign Minister Mogi holds Japan-US-Korea trilateral meeting at NATO summit in Turkey, shares China missile concerns.</a><span class="src-tag">NHK</span></li>
+<li><a href="http://www3.nhk.or.jp/news/html/20260706/k10015170131000.html" target="_blank" rel="noopener">Three nations express shared concern over Chinese strategic submarine SLBM launch, reaffirm unity.</a><span class="src-tag">NHK</span></li>
+<li><a href="https://mainichi.jp/articles/20260708/k00/00m/010/017000c" target="_blank" rel="noopener">President Trump attends NATO summit; divergence with Europe emerges over Iran situation.</a><span class="src-tag">毎日</span></li>
+<li><a href="http://www3.nhk.or.jp/news/html/20260708/k10015171261000.html" target="_blank" rel="noopener">Foreign Minister Mogi agrees with Kuwait's Foreign Minister to oppose Hormuz Strait transit toll collection.</a><span class="src-tag">NHK</span></li>
+<li><a href="http://www3.nhk.or.jp/news/html/20260707/k10015170641000.html" target="_blank" rel="noopener">All three nations affirm importance of strengthening trilateral unity and continuing China deterrence.</a><span class="src-tag">NHK</span></li>
 </ul>
   <details class="card-details">
     <summary>▲ Risk / Background</summary>
-    <p class="risk-text"><strong>Risk:</strong> Japan-US-Korea cooperation could fracture amid US-Europe divisions over Iran; breakdown of NATO summit agreements in mid-July could destabilize regional security</p>
-    <p class="ctx-text"><strong>Background:</strong> Japan, US, and Korea strengthen coordination framework against escalating Chinese military activities; NATO summit highlights critical importance of region-specific security cooperation</p>
+    <p class="risk-text"><strong>Risk:</strong> US-Europe disagreement on Iran situation could divide Japan-US-Korea cooperation. NATO summit agreement collapse by mid-July could destabilize regional security architecture.</p>
+    <p class="ctx-text"><strong>Background:</strong> Japan, US, and Korea strengthen coordination framework against escalating Chinese military activities. NATO summit underscores growing importance of region-specific security cooperation.</p>
   </details>
 </article>
 <article class="news-card" style="border-left:4px solid #eab308; background:#fefce8;">
   <div class="card-header">
     <span class="badge" style="background:#eab308;color:#fff;">④ US-China Relations</span>
-    <a href="https://news.google.com/search?q=Xi+Jinping+September+US+visit+Trump+invitation+2026&hl=en" target="_blank" rel="noopener" class="card-title">Xi Invited to US in September</a>
+    <a href="https://news.google.com/search?q=Xi+Jinping+September+US+visit+Trump+invitation+2026&hl=en" target="_blank" rel="noopener" class="card-title">Xi invited for September US visit</a>
   </div>
   <p class="card-sub">Potential turning point in bilateral ties</p>
-  <ul class="bullet-list"><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPejN2Sm55d0VyQ1hKbHBGNnlWbFlnNFZMZjNxd3hKR1ZnbHdGbzdIREJ3b09CbVhESUd6TlBnczFyYWRnN2lRR043SGVUalhvMWZDRnZLcVhYS3hVZUdtYUdjRWVXbXRSOFdOWUQwd3d0cmwxdmtidURyMm5zRkF1WUc1dmdGX2JzeFhDU2FfUThsN0w0ZXZTRlVicThVTlI0UkRR?oc=5" target="_blank" rel="noopener">President Trump invites Xi Jinping to visit the United States in September to advance relationship improvement</a><span class="src-tag">KFBK News Radio</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHUwajhZdEduUFdIM3dNc0MzTEtZdktIZk1aeUlHNFRWTjBHWlBhU0JDeENQNzE0cXRZejk4QW1vUHdNem9LRU8xUHBJR05ROENYVnRITDdSeVUxUk04RmNaY3E2Y3E4R29sUWFKbDllY3czdTlJSldPRWRmYlMtY1dOaEdLYXc?oc=5" target="_blank" rel="noopener">Chinese pastor's release reported; suggests progress in US-China negotiations</a><span class="src-tag">spia.princeton.edu</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEdyNTR0eEd2Q19zaFE3TlFmUkY4Y3lwY25QN1BaNHp1c0o3TE83dHhwVHZxWnlPVEo3VFFpdnlCd0VQTzJBbTFYWlp0Q3pTMlQwQXpRNkVCQjV2aHlIVzdtdWZJQ2NhUElFR1UyMS1CMWNFaWJvcVdnY1VHcUZUbjZHUXlCdTNJRDVJV1NuT3Z4ZHhTLXppR2lldWE1U0ZQSVpV?oc=5" target="_blank" rel="noopener">Generational policy divide emerges in US regarding China strategy; perception gap widens between older and younger cohorts</a><span class="src-tag">International Business Times, Singapore Edition</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxQYW81Rjg0QV9ZdTl0cU9Jakt5M25HeE1JME1mTVF2RUlicWgyWFdfTVRVcy1lVFgwVFdkTnFMa1J5cC1McF9RaXc2YUYxWVlBMEY4cGhicGRUeE1aeHJSRmY5cjV1Q252SDZRblNmWVJMdjVoYWM0b3JVSW9RajFjMjZzQlhJNFBTSm1PaFRxUHFONy0tYXVOZHF0ODI5TEpjemNMZE9WNkZVcGpUdENxM3hWRno1cGE2ekgyQVQ1TTB6T09ZZ2VrMUNRMDBPUEEyYXdZUkg5Q0YtU1QwSGF0VmxxeGF6aDItYWwwbVVJSENydkZrZF9TbTV0VHItaEVCcUsyMjVQQWFpV1JPWjg2YlJGeXZ3MkxqTEw00gGjAkFVX3lxTFBvY2VCN2E3cjRZWWlscW53VFdEMUhRQV9MS0ZIdTdYYzFsVEhQU20xZlhjRzhJRENRVk9GV0NHYklvQ1I2Y0JRNmJkR3U0eXdQMGNXamlDRFAtRG9TdVBJVWxodWlOUmV0VW9BNGpLaXBPTXhuZVBndThKRU40NC1zN0NzOUFDS0licGNzT2tWR2JQRG5LeldZTDd1dXdVSmpUTU1uMVJUcDZwcW9tV2h1a2wxTjBZYkcySnA3dkZWbzVsNUx1VThibVhOckRjd096c0RHcWZuN0YwaXhWV3g1RENlSzNXbDRUSnY1N1BFRW9fbVR4aWkxSXNUZWhPQ05CSDVCcmFRWVl0OXFRNVVxczY5eERYWDk0OUZOeFc4emJFZw?oc=5" target="_blank" rel="noopener">Ahead of Xi's visit, China expresses commitment to 'forming new international order'</a><span class="src-tag">NDTV</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQTzNDZ3phMFBBUWNzeDR0S0J5S0JFX2VEazJCM0tMRndhbWI4cUpYMmFhNnZsNzNPUWZpRHkwNkxwOXpwUDc0Tk03bUcwb1pBakJFY3c3eERGWWVrRHhyZ3hzUENrc0dwODY3bnNfXzZWMkpZSnZuenFjYTFCVk8yY0RyZFp3a0dvdWFYX9IBkgFBVV95cUxPVzRIcUNaSWlnX0lwYmhXQUNQNGpXTHpJc0ZpQTlkeEJpUmR3TmQxQjMtWmhqMVZac19DNThUYzdNZVJ4TVZldmg4aTM1NFZVYTF3bWdtVkt1Zl9lZkl2cFoxU1NmNzdUZU9majVjVEhlbS1MMnE4eVprelZhZnVPWkpkMkc0Ri1UY1ZwU2JEY0dnUQ?oc=5" target="_blank" rel="noopener">Expectations for US-China normalization exist, though Taiwan issue remains a deep point of contention</a><span class="src-tag">The Korea Times</span></li>
+  <ul class="bullet-list"><li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPejN2Sm55d0VyQ1hKbHBGNnlWbFlnNFZMZjNxd3hKR1ZnbHdGbzdIREJ3b09CbVhESUd6TlBnczFyYWRnN2lRR043SGVUalhvMWZDRnZLcVhYS3hVZUdtYUdjRWVXbXRSOFdOWUQwd3d0cmwxdmtidURyMm5zRkF1WUc1dmdGX2JzeFhDU2FfUThsN0w0ZXZTRlVicThVTlI0UkRR?oc=5" target="_blank" rel="noopener">President Trump invites Xi Jinping to visit United States in September, advancing relations normalization.</a><span class="src-tag">KFBK News Radio</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHUwajhZdEduUFdIM3dNc0MzTEtZdktIZk1aeUlHNFRWTjBHWlBhU0JDeENQNzE0cXRZejk4QW1vUHdNem9LRU8xUHBJR05ROENYVnRITDdSeVUxUk04RmNaY3E2Y3E4R29sUWFKbDllY3czdTlJSldPRWRmYlMtY1dOaEdLYXc?oc=5" target="_blank" rel="noopener">Release of Chinese pastor reported, suggesting progress in US-China negotiations.</a><span class="src-tag">spia.princeton.edu</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEdyNTR0eEd2Q19zaFE3TlFmUkY4Y3lwY25QN1BaNHp1c0o3TE83dHhwVHZxWnlPVEo3VFFpdnlCd0VQTzJBbTFYWlp0Q3pTMlQwQXpRNkVCQjV2aHlIVzdtdWZJQ2NhUElFR1UyMS1CMWNFaWJvcVdnY1VHcUZUbjZHUXlCdTNJRDVJV1NuT3Z4ZHhTLXppR2lldWE1U0ZQSVpV?oc=5" target="_blank" rel="noopener">Generational policy split on China emerges within US; perception gap widens between older and younger cohorts.</a><span class="src-tag">International Business Times, Singapore Edition</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMimwJBVV95cUxQYW81Rjg0QV9ZdTl0cU9Jakt5M25HeE1JME1mTVF2RUlicWgyWFdfTVRVcy1lVFgwVFdkTnFMa1J5cC1McF9RaXc2YUYxWVlBMEY4cGhicGRUeE1aeHJSRmY5cjV1Q252SDZRblNmWVJMdjVoYWM0b3JVSW9RajFjMjZzQlhJNFBTSm1PaFRxUHFONy0tYXVOZHF0ODI5TEpjemNMZE9WNkZVcGpUdENxM3hWRno1cGE2ekgyQVQ1TTB6T09ZZ2VrMUNRMDBPUEEyYXdZUkg5Q0YtU1QwSGF0VmxxeGF6aDItYWwwbVVJSENydkZrZF9TbTV0VHItaEVCcUsyMjVQQWFpV1JPWjg2YlJGeXZ3MkxqTEw00gGjAkFVX3lxTFBvY2VCN2E3cjRZWWlscW53VFdEMUhRQV9MS0ZIdTdYYzFsVEhQU20xZlhjRzhJRENRVk9GV0NHYklvQ1I2Y0JRNmJkR3U0eXdQMGNXamlDRFAtRG9TdVBJVWxodWlOUmV0VW9BNGpLaXBPTXhuZVBndThKRU40NC1zN0NzOUFDS0licGNzT2tWR2JQRG5LeldZTDd1dXdVSmpUTU1uMVJUcDZwcW9tV2h1a2wxTjBZYkcySnA3dkZWbzVsNUx1VThibVhOckRjd096c0RHcWZuN0YwaXhWV3g1RENlSzNXbDRUSnY1N1BFRW9fbVR4aWkxSXNUZWhPQ05CSDVCcmFRWVl0OXFRNVVxczY5eERYWDk0OUZOeFc4emJFZw?oc=5" target="_blank" rel="noopener">China signals commitment to 'forming new international order' ahead of Xi's US visit.</a><span class="src-tag">NDTV</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQTzNDZ3phMFBBUWNzeDR0S0J5S0JFX2VEazJCM0tMRndhbWI4cUpYMmFhNnZsNzNPUWZpRHkwNkxwOXpwUDc0Tk03bUcwb1pBakJFY3c3eERGWWVrRHhyZ3hzUENrc0dwODY3bnNfXzZWMkpZSnZuenFjYTFCVk8yY0RyZFp3a0dvdWFYX9IBkgFBVV95cUxPVzRIcUNaSWlnX0lwYmhXQUNQNGpXTHpJc0ZpQTlkeEJpUmR3TmQxQjMtWmhqMVZac19DNThUYzdNZVJ4TVZldmg4aTM1NFZVYTF3bWdtVkt1Zl9lZkl2cFoxU1NmNzdUZU9majVjVEhlbS1MMnE4eVprelZhZnVPWkpkMkc0Ri1UY1ZwU2JEY0dnUQ?oc=5" target="_blank" rel="noopener">While normalization hopes exist, Taiwan issue remains deeply contentious between both sides.</a><span class="src-tag">The Korea Times</span></li>
 </ul>
   <details class="card-details">
     <summary>▲ Risk / Background</summary>
-    <p class="risk-text"><strong>Risk:</strong> If Xi's US visit fails to materialize, US-China relations could deteriorate again; postponement or cancellation of September visit would impact subsequent US domestic politics; US policy coordination through late August is critical</p>
-    <p class="ctx-text"><strong>Background:</strong> Following 'ceasefire' agreement at early 2026 US-China summit, Xi's US visit plan emerges; structural challenge of divided American views on China complicates policy formulation</p>
+    <p class="risk-text"><strong>Risk:</strong> If Xi's US visit fails to materialize, US-China relations deteriorate sharply. Postponement or cancellation of September visit would impact subsequent US domestic politics. US internal coordination through late August is critical.</p>
+    <p class="ctx-text"><strong>Background:</strong> Following early 2026 US-China summit ceasefire agreement, Xi's US visit plan emerges. Structural problem of divided US public opinion on China complicates policy formulation.</p>
   </details>
 </article>
 <article class="news-card" style="border-left:4px solid #22c55e; background:#f0fdf4;">
   <div class="card-header">
     <span class="badge" style="background:#22c55e;color:#fff;">⑤ Automotive Industry</span>
-    <a href="https://news.google.com/search?q=Toyota+Texas+investment+pickup+truck+production+Mexico+relocation+2026&hl=en" target="_blank" rel="noopener" class="card-title">Toyota Accelerates US Investment</a>
+    <a href="https://news.google.com/search?q=Toyota+Texas+investment+pickup+truck+production+Mexico+relocation+2026&hl=en" target="_blank" rel="noopener" class="card-title">Toyota accelerates US investment</a>
   </div>
   <p class="card-sub">Production shifts from Mexico to Texas</p>
-  <ul class="bullet-list"><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBxRGJaVU93aU9ER2JJMkRHRDlSTUJzTGZLVHVpRm0yQmZLNzNES0RwSUtTa3Q2NHpOZVdQR0JQOEliX1NMaWZNMWNHWldId3RNSExobHhvUUlSNzI2Ym90X3lYTFFmTFZXQ2hzNlBveGtMNUZJX09aRHEtMHhzMUk?oc=5" target="_blank" rel="noopener">Toyota adds approximately 580 billion yen in investment to Texas plant for new pickup truck production</a><span class="src-tag">日経</span></li>
-<li><a href="http://www3.nhk.or.jp/news/html/20260707/k10015170581000.html" target="_blank" rel="noopener">Partial production transfer from Mexico factory responds to Trump administration's domestic investment demands</a><span class="src-tag">NHK</span></li>
-<li><a href="http://www3.nhk.or.jp/news/html/20260707/k10015170601000.html" target="_blank" rel="noopener">Government accelerates legal framework for autonomous vehicles; Chief Cabinet Secretary Kihara directs ministers on implementation</a><span class="src-tag">NHK</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1vOEplMXVmSGljdE1WWmc2ZTFoN1dEMDFQLTZ0VWNpb21RbUN0NVp3NUdnR1FUcVg1dlQwZWNnZTJYNGhCRHpiVU9XV3NOZ1ZIenY5anlkQk1DN2JWT2lpSnpJY2g3TTlIZVhDZw?oc=5" target="_blank" rel="noopener">Bridgestone commercializes 'puncture-proof tire' after 18 years of development; deployment planned for autonomous vehicles</a><span class="src-tag">日経</span></li>
-<li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1QUzNHSVRBWWJvTExtSGhhMGZqWUNTTVp4aDFtZG5RLVJyVE1UWEJhVzJ5eXZXS0E4Tk5nVGYtblFNWXlQNW8zOU9DWTBadWpyVDZZeTBNODU5RFkwWkxzbjJOX3otakhKMDBsWg?oc=5" target="_blank" rel="noopener">Toyota-affiliated company enters ride-hailing service for license-return seniors; demonstration begins in Osaka this autumn</a><span class="src-tag">日経</span></li>
+  <ul class="bullet-list"><li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBxRGJaVU93aU9ER2JJMkRHRDlSTUJzTGZLVHVpRm0yQmZLNzNES0RwSUtTa3Q2NHpOZVdQR0JQOEliX1NMaWZNMWNHWldId3RNSExobHhvUUlSNzI2Ym90X3lYTFFmTFZXQ2hzNlBveGtMNUZJX09aRHEtMHhzMUk?oc=5" target="_blank" rel="noopener">Toyota commits approximately 580 billion yen in additional Texas facility investment, establishes new pickup truck production.</a><span class="src-tag">日経</span></li>
+<li><a href="http://www3.nhk.or.jp/news/html/20260707/k10015170581000.html" target="_blank" rel="noopener">Partial Mexico factory production transfer responds to Trump administration demands for domestic investment.</a><span class="src-tag">NHK</span></li>
+<li><a href="http://www3.nhk.or.jp/news/html/20260707/k10015170601000.html" target="_blank" rel="noopener">Government accelerates legal framework for autonomous vehicles; Chief Cabinet Secretary Kihara directs cabinet ministers.</a><span class="src-tag">NHK</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1vOEplMXVmSGljdE1WWmc2ZTFoN1dEMDFQLTZ0VWNpb21RbUN0NVp3NUdnR1FUcVg1dlQwZWNnZTJYNGhCRHpiVU9XV3NOZ1ZIenY5anlkQk1DN2JWT2lpSnpJY2g3TTlIZVhDZw?oc=5" target="_blank" rel="noopener">Bridgestone commercializes puncture-resistant tires after 18-year development, deploys in autonomous vehicle sector.</a><span class="src-tag">日経</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1QUzNHSVRBWWJvTExtSGhhMGZqWUNTTVp4aDFtZG5RLVJyVE1UWEJhVzJ5eXZXS0E4Tk5nVGYtblFNWXlQNW8zOU9DWTBadWpyVDZZeTBNODU5RFkwWkxzbjJOX3otakhKMDBsWg?oc=5" target="_blank" rel="noopener">Toyota subsidiary enters ride-sharing service for senior license returnees, begins demonstration in Osaka this fall.</a><span class="src-tag">日経</span></li>
 </ul>
   <details class="card-details">
     <summary>▲ Risk / Background</summary>
-    <p class="risk-text"><strong>Risk:</strong> Escalating Mexico tariff policies under Trump administration increase further production relocation pressure; rising US manufacturing costs could translate to higher consumer prices, materializing in late 2026</p>
-    <p class="ctx-text"><strong>Background:</strong> Under Trump administration pressure for domestic investment, Japanese automakers announce successive US expansion plans; simultaneous adaptation to autonomous driving and EV transition faces added political pressure</p>
+    <p class="risk-text"><strong>Risk:</strong> Intensified Mexico tariff policy under Trump administration increases further production shift pressure. Rising US domestic production costs could translate to increased consumer burden, materializing in late 2026.</p>
+    <p class="ctx-text"><strong>Background:</strong> Under Trump administration pressure for domestic investment, Japanese automakers announce successive US investment expansion. Simultaneously face pressure to respond to autonomous driving and EV transition.</p>
   </details>
 </article>
   </main>
@@ -195,22 +195,22 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
   </div>
   <section class="eco-section">
     <h3 class="eco-sec-title">Today's Top Stories</h3>
-    <ul class="eco-list"><li>Marine Le Pen, France's far-right populist leader, has announced her candidacy for next year's presidential election following a court's decision to reduce her prison sentence and shorten her electoral ban. Though her conviction on embezzlement charges was upheld, she has vowed to appeal again.</li>
-<li>Nigel Farage, leader of Britain's Reform Party, has announced his resignation from Parliament and plans to stand for re-election in his local Clacton constituency. He has cast the move as part of a broader battle between the people and entrenched interests, amid intensifying scrutiny of financial matters.</li>
-<li>The US Treasury has revoked its temporary authorization for Iranian oil sales following reports of attacks on shipping by Iranian forces in the Strait of Hormuz. The measure had been introduced under a ceasefire agreement reached last month. Brent crude has risen to around $75 per barrel.</li>
-<li>Donald Trump, at a NATO summit, has criticised European allies and renewed his proposal for American annexation of Greenland. He has also suggested that both Russia and Ukraine are seeking an end to the war.</li>
-<li>A bomb attack near where French President Emmanuel Macron was visiting in Damascus has left at least 18 people wounded. Though the explosion occurred close to his location, French authorities confirmed his safety and his scheduled meeting with Syrian President Bashar al-Assad proceeded as planned.</li>
-<li>Hungary's state television MTVA has ceased broadcasting, displaying a black screen and an apology message. Prime Minister Péter Magyar, who took office in April, has ordered sweeping reforms to eliminate propaganda from the Orbán era and transition the channel toward independent media.</li>
-<li>The International Olympic Committee has provisionally lifted its ban on Russia's Olympic Committee, which had been in place since Russia's 2022 invasion of Ukraine. The move could expand opportunities for Russian athletes to compete at the 2028 Los Angeles Games.</li></ul>
+    <ul class="eco-list"><li>Marine Le Pen, France's far-right populist leader, has announced her candidacy for next year's presidential election following an appeals court's reduction of her prison sentence and political ban. Though her embezzlement conviction was upheld, she vowed to appeal again.</li>
+<li>Nigel Farage, leader of Britain's Reform Party, has announced his resignation from Parliament and will stand as a candidate in a by-election in his local Clacton constituency. He framed the move against a backdrop of increased scrutiny over financial matters as a battle between the people and entrenched interests.</li>
+<li>The US Treasury has revoked its temporary authorisation for Iranian oil sales following reports of attacks on vessels by Iranian forces in the Strait of Hormuz. The measure had been introduced under a ceasefire agreement reached last month. Brent crude rose to around $75 per barrel.</li>
+<li>Donald Trump, at a NATO summit, criticised European allies and reiterated his proposal for American annexation of Greenland. He claimed both Russia and Ukraine wish to reach an agreement to end the war.</li>
+<li>An explosion in Damascus during French President Emmanuel Macron's visit has injured at least 18 people. Though the blast occurred near Macron's accommodation, French authorities confirmed his safety and his scheduled meeting with Syrian President Assad proceeded as planned.</li>
+<li>Hungary's state broadcaster MTVA went off air, displaying a black screen and an apology message. Prime Minister Péter Magyar, who took office in April, ordered sweeping reforms to counter propaganda broadcasting under the previous Orbán administration, with plans to transition the outlet to independent media.</li>
+<li>The International Olympic Committee has provisionally lifted its ban on the Russian Olympic Committee, which had been imposed following the 2023 invasion of Ukraine. The move could expand opportunities for Russian athletes to compete at the 2028 Los Angeles Games.</li></ul>
   </section>
   <section class="eco-section">
     <h3 class="eco-sec-title">The Day Ahead</h3>
-    <ul class="eco-list"><li>The IMF releases its World Economic Outlook on Wednesday. Global economic growth is expected to remain above 3%, supported by the continuation of the Iran ceasefire and Brent crude falling below $80 a barrel.</li>
-<li>Strong investment in AI infrastructure and semiconductors is underpinning demand, helping the world economy offset the effects of rising energy prices and trade friction. The global economy is proving more resilient than expected.</li>
-<li>Copenhagen tops The Economist Intelligence Unit's liveability index for the second consecutive year, with Vienna in second place. Tokyo is the only megacity to crack the top ten, ranking tenth.</li>
-<li>The Iran conflict has depressed city scores across the Middle East. Dubai has fallen four places and Muscat has dropped fourteen. Chinese cities have risen thanks to improved healthcare scores.</li>
-<li>UniCredit announces the results of its bid for Commerzbank on Wednesday. The bank, which already holds over 40%, is seeking to make additional purchases on the open market to avoid triggering antitrust rules.</li>
-<li>Trinidad and Tobago's anti-homosexuality law faces a challenge in the British Privy Council on Wednesday. Activists hope the law, which was struck down as unconstitutional in 2018 but was revived in March 2025, will be struck down again.</li></ul>
+    <ul class="eco-list"><li>The IMF releases its World Economic Outlook on Wednesday. Global economic growth is expected to remain above 3%, supported by the continuation of the Iran ceasefire and Brent crude oil staying below $80 a barrel.</li>
+<li>Robust investment in AI infrastructure and semiconductors is underpinning demand, allowing the world economy to offset some of the impact from rising energy prices and trade friction. The global economy is proving more resilient than expected.</li>
+<li>Copenhagen tops the Economist Intelligence Unit's liveability index for the second consecutive year, with Vienna in second place. Tokyo is the only megacity to crack the top ten, ranking tenth.</li>
+<li>The conflict in Iran has depressed city scores across the Middle East. Dubai has fallen four places and Muscat has slipped fourteen. Chinese cities have climbed the rankings thanks to improvements in healthcare scores.</li>
+<li>UniCredit announces the results of its takeover bid for Commerzbank on Wednesday. The Italian bank, which already holds over 40%, is seeking to acquire more shares on the open market to avoid antitrust concerns.</li>
+<li>Trinidad and Tobago's anti-gay law faces scrutiny at the British Privy Council on Wednesday. Activists hope the court will overturn the legislation once more, after it was ruled unconstitutional in 2018 before being revived in March 2025.</li></ul>
   </section>
 </aside>
 </div>
