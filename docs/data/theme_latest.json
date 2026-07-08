@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 14:41:47",
+  "generated_at": "2026-07-08 18:06:10",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-08 14:41:18",
+      "last_checked": "2026-07-08 18:05:36",
       "items": [
+        {
+          "uid": "fa70c8b09dbd",
+          "date": "2026-06-23",
+          "title": "Strengthening Lead Markets in the Industrial Accelerator Act - Clean Air Task Force",
+          "summary": "# 欧州産業加速法案（IAA）に関する要約\n\n欧州産業加速法案は、クリーンテクノロジーの市場形成を加速するために、政府調達やリード市場の強化を通じて産業競争力を高めることを目指しています。Clean Air Task Forceは、大気汚染対策と脱炭素化を同時に実現するリード市場の構築強化が、欧州の産業競争力維持に不可欠であると主張しています。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlBRdWR4MXlUREdJeE5fcGpVeEJTYjYySzYzQ3ZzZlItbG1vdDBTQWdvbl9qSWpmanJyMDlud3ZGMnVwemhGaXJQQXBEbmhZY2xSdEY3d0QxT1pPOUtYVGtrQTk5NFhOWERuenU1YXQ2cDc4UU5tX0ZRYVV2UGg5UUhmOUVZcHg5ZzVCWGkxQk92SEFP?oc=5",
+          "added_at": "2026-07-08 18:05:31"
+        },
         {
           "uid": "efaf0f147995",
           "date": "2026-07-08",
@@ -1829,7 +1839,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-08 14:41:31",
+      "last_checked": "2026-07-08 18:05:44",
       "items": [
         {
           "uid": "e2d269207641",
@@ -3820,8 +3830,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-08 14:41:47",
+      "last_checked": "2026-07-08 18:06:10",
       "items": [
+        {
+          "uid": "bf35e52b0992",
+          "date": "2026-07-08",
+          "title": "CRML, UUUU, USAR, ALOY, GLND: Greenland’s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - TradingView",
+          "summary": "グリーンランドのレアアース貿易がトランプ大統領の北極圏戦略復活に伴い投資家を集める中、中国のレアアース輸出管理に対抗する形で北米でのレアアース資源開発が加速している。グリーンランドなどの北米地域でのレアアース生産拡大は、中国への依存を低減させるための戦略的な供給源の多様化を意図している。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRDktVFpvdUJ5dTU3WExJOXpJZEhWZHg0b3dfcHhXc1lVcmNNM1FHdktYOWJScUwwcUhJOV8zbFItTGpLa0xFSGtza1NGVFZaZnQ4TWtOSVZ5R013N0JnOWQ1TFpKZ29vN1JGSWNSOGdXZklnS0F0eGVySnFVZFZQblFKMUxmZ3o5emFtSFE3ZXFCYmVzQVVLOVZIVC11Q1dMcEE0RUY5TEtnWV94TjlCWUllMGlZUFVld1FGYnVlT2xhSEZGV3RpN2NnR045QnJmenFUMnBMZ2IzcXNsNjhOcFlzTnRrMmdJQmpfU3BrakE4azllSnFB?oc=5",
+          "added_at": "2026-07-08 18:06:06"
+        },
+        {
+          "uid": "7f486cb71858",
+          "date": "2026-06-22",
+          "title": "Rare Earth Supply Chain: Pentagon Loans $725M to Close Metallization Gap as China Hits Rivals - Tech Times",
+          "summary": "米国防総省が中国のレアアース支配に対抗するため、冶金化プロセスの技術ギャップを埋めるために7億2,500万ドルのローンを提供し、国内サプライチェーン構築を進めている。中国がレアアース輸出を管理・制限する中で、米国は戦略的に重要なレアアース産業の国産化を急いでいる。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2VzYWd6cXdpODdVeHAyYTN4MlBESkZPVk92OThHajRUZTUyYUZFMTdDYnZvczNuUm5STlYtQUZGYUhjU1p4TENPX2hqRzFTWHhrRE83NlpsMDVSSUc4RmY1RTN6V0V5cnFueExYVGtzaFdsMWVLMzdTeENwR0hKQUI2bjlXZDdjUFNTX2dMeE5FYTRwcFhNMXBWOC1tZjkzWjVBbjBKZElDR0ZTZ0R4MDFScmVoTDh6ZVQyZnRUV2NIVlVWTUNiSWlXc3JtTzh2SGJFZERXWQ?oc=5",
+          "added_at": "2026-07-08 18:06:06"
+        },
+        {
+          "uid": "27d80689745a",
+          "date": "2026-07-07",
+          "title": "Daily on Energy: The window of opportunity is closing - Washington Examiner",
+          "summary": "申し訳ございませんが、提供いただいたテキストが不完全で、実際の記事内容が含まれていません。タイトルのみで具体的な内容が記載されていないため、「中国レアアース輸出管理」に関する要約を作成することができません。記事の本文をご提供いただければ、要約させていただきます。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWo5TFZXSVl6Vm1TS0VNOHQzcGd0M1pWQnZrLUxadG82QnRkbmFnR01XNjlmSjNzT05jTlZOVFVubUR4SFR6QkVNVy1tclRUaEFBOVlPUm05WTBqNDRxLVFoX1BVaFk2YXpoVng1STA1dkhxdTVhUlh4WnEzbzdpZWVOUGxnUjk5RS1BTVE1cDBnaXF1Tl9fNmticUlvcmR6c0xCQ2ZkVzY?oc=5",
+          "added_at": "2026-07-08 15:52:09"
+        },
+        {
+          "uid": "8eb75fc737d9",
+          "date": "2026-07-08",
+          "title": "Why Is Lynas Rare Earths (ASX:LYC) Expanding Its Global Magnet Supply Chain? - Kalkine Media",
+          "summary": "オーストラリアのレアアース企業ライナスが世界的な磁石サプライチェーン拡大を進めているのは、中国によるレアアース輸出管理への依存度を低減し、安定供給を確保するためである。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ21uQUhKNlQ1dFZUNmE5dGxaQno2RElFdjlzRUFNMWJLSGlNUjdOTGdnR2xlclVKRFdmSHVaSVl3LXUxU1Z0eGZiQzNfVGZrV0tsRTdjUGFXTHprS2laMERFZ2EyS282cUdoMkYyNHNqYktBRVpMZ2tVWVV0SGNUeDhxOS1TOTJ1NjJGekptSHFqVFlTSGNGYnBmb0JvcFdWay1scUJMQVZiZTA1LWRZQ3hQdjI2ai1uOXpWWDZ6MWswZw?oc=5",
+          "added_at": "2026-07-08 15:52:09"
+        },
         {
           "uid": "b5ad9e2e5a91",
           "date": "2026-06-22",
@@ -5780,46 +5830,6 @@
           "source": "業界団体",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMVJCQUpRUDVMVVhqbzB6amlWY25kakpUQjJGc09NZ1o3TW9qVDI2MjlxaUdGRGsydXI5azhWbl90R0tOUjNheFFzUVV1Vk82eW1lM19CWFdKZnhwX190WHh0N0NsOG9Fel95QmNMaDZwZmNrcEZKWkx1cHBDQVhTNkxaMlFOMFQ1NlU4ZGdXa3FISG9fUVBpRVRRZDY4X0x4Ykw0RTh1ckgwQ2RjNDQwTTZNSnV0TXllWjl1a2lIZ2tZSDFzU2YtT21zX1RaRGFhSE5mVFRR?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "8d4bcea63dd4",
-          "date": "2026-06-22",
-          "title": "China hits US rare earth companies with export bans - Taipei Times",
-          "summary": "中国がレアアース関連企業に対して米国企業を標的とした輸出禁止措置を発動し、米中の技術競争における資源戦争が激化している。この措置は中国がレアアース輸出を戦略的に制限し、米国企業への供給を遮断することで産業競争力を制約する狙いがある。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44REpYSTJIZEYwbFZsUEkxYnBjelRHTlVKTkRxc0g1YlMzOGczRGhwak1wckJLYlRReDd5aTJwRlpjcVpyNHFfanBZN3JvN3BLdWF1S0hSTEhyOHhDYS1mZmZCak5CLUlTZXcyUndFWEg3U05HSkE?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "e96bddca3fa6",
-          "date": "2026-06-22",
-          "title": "China blacklists MP Materials, USA Rare Earth in critical minerals war - Mining.com",
-          "summary": "中国がレアアース供給競争における米国の企業戦略に対抗し、MP MaterialsとUSA Rare Earthを事実上のブラックリストに指定することで、レアアース資源の輸出管理を通じた経済的圧力を強化している。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeENWR3MwVGd0MkJtcDIyMWhCTWR0Skp3VUtfdEkzcHBtblNtXzlkVzQ5UHdFSVEtMzQ3TElJOXlESXlDUHhmaGFPU2Q1a2ZYbEQxSUtRc3V3SXZZdWkwQ2tsSEw4NS1hbnlZYmN0S2Z6WHZGMWhFNk9SU3JQZVhKeHpqdXFWMmh0SXl0T3FzYjB5Y3BPQ09JNw?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "9406f8361b5c",
-          "date": "2026-06-22",
-          "title": "China Imposes Export Controls on US Rare Earth Companies MP Materials and USA Rare Earth - IndexBox",
-          "summary": "中国がレアアース加工技術の流出を防ぐため、米国のMP MaterialsとUSA Rare Earthに対して輸出管理を実施し、これらの企業によるレアアース製品の輸入を制限している。この措置は米中貿易摩擦の中で、中国が戦略的に重要なレアアース産業を保護する姿勢を示したものである。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSHZvcGUzdDdGNW10d1BSc1lpNU1TbU82TC14TW1HTHNnUU5BcGpZSndmVlJ4WHNOVk9DaEdrZ2dtT1k4YnBmblJzSm1OVFIwLU93YmRSN3F6TEtJRzBVSkNrbDBMaDRXcmFkU3lCWHY0OE1LbXJ6eFZBR2FyUEJQWHpxWjU2MkQ4WXNFemFPTk00X0U2M2hQMG53Z054bldaLWF3d05UQ0ZHWWpTQUZGMWdzcVAzVlQ0ZGc?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "7f486cb71858",
-          "date": "2026-06-22",
-          "title": "Rare Earth Supply Chain: Pentagon Loans $725M to Close Metallization Gap as China Hits Rivals - Tech Times",
-          "summary": "米国防総省がレアアース冶金化工程の国内確保のため7億2500万ドルの融資を決定し、中国の輸出管理に対抗する動きを加速させている。これは中国がレアアース供給チェーンの支配を強化する中で、米国が戦略的自立性を確保しようとする取り組みを示している。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2VzYWd6cXdpODdVeHAyYTN4MlBESkZPVk92OThHajRUZTUyYUZFMTdDYnZvczNuUm5STlYtQUZGYUhjU1p4TENPX2hqRzFTWHhrRE83NlpsMDVSSUc4RmY1RTN6V0V5cnFueExYVGtzaFdsMWVLMzdTeENwR0hKQUI2bjlXZDdjUFNTX2dMeE5FYTRwcFhNMXBWOC1tZjkzWjVBbjBKZElDR0ZTZ0R4MDFScmVoTDh6ZVQyZnRUV2NIVlVWTUNiSWlXc3JtTzh2SGJFZERXWQ?oc=5",
           "added_at": "2026-06-23 03:08:20"
         }
       ]
