@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 14:01:18",
+  "generated_at": "2026-07-08 14:19:26",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-08 14:00:56",
+      "last_checked": "2026-07-08 14:18:59",
       "items": [
+        {
+          "uid": "efaf0f147995",
+          "date": "2026-07-08",
+          "title": "Industry coalition urges European Commission to unlock state aid for cleantech manufacturing - Review Energy",
+          "summary": "欧州の産業連合は、欧州委員会に対してクリーンテック製造業への国家補助金の解放を促促しており、これは産業加速法案（IAA）の目標である欧州の産業競争力強化と脱炭素化投資の加速を実現するための重要な施策となっている。",
+          "source": "EU産業政策",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQUFIdkg2eFZ5WWxOdVkzd2NMMmpseWZ2VFhHVXEzQlNHSV9XOFk5a1lKb3RjelJXS0FMWWNLdlZCZDd0YXRqdjg1MDJXMDVWdTUyVGh6Q3JsSmd4ODNmSjJBWUVDemo0bkh0RnJNS3RFaGZnTUxYcEVabGtSWVVsTDNpR21vakgzUGhnM0V0TE8tcEVLaUtyNHRpLUFYdlJpQ0phY2pGT2hhOEotdks0VGE1UUtnekpvb0xyNUxkQzRoVFVpaWtRUWtpV09LQU9lVVE?oc=5",
+          "added_at": "2026-07-08 14:18:58"
+        },
         {
           "uid": "34175cfea424",
           "date": "2026-07-06",
@@ -1819,7 +1829,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-08 14:01:04",
+      "last_checked": "2026-07-08 14:19:08",
       "items": [
         {
           "uid": "f25ac2aaa53d",
@@ -3800,8 +3810,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-08 14:01:18",
+      "last_checked": "2026-07-08 14:19:26",
       "items": [
+        {
+          "uid": "a6fa7cdc6d2c",
+          "date": "2026-07-06",
+          "title": "Rare earth company MP Materials dropped 13.4% last month following China's decision to add it to an export control list - eciks.org",
+          "summary": "中国がレアアース企業MP Materialsを輸出管理リストに追加したことを受け、同社の株価は先月13.4%下落した。中国によるレアアース輸出規制の強化が、米国のレアアース企業に直接的な市場インパクトをもたらしている。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45ZDMzamU4YVFIQ1Q4OWpjTlZWczlSQU5pOUtVTTNhQW9mWDR1SDE2aGYzNFJZMDN2RkVGdmxtTkRfYVpkSkpVWTBpWFh3VVRRbVRFbWNxMGFtNlg0WkhpMlpYUFRidFpuc3JOdVpza05FNV9STFE?oc=5",
+          "added_at": "2026-07-08 14:19:21"
+        },
+        {
+          "uid": "40c639c189e4",
+          "date": "2026-05-18",
+          "title": "US China Rare Earth Deal Offers Limited Relief as Beijing Maintains Tight Export Controls - Modern Diplomacy",
+          "summary": "米国と中国が希土類に関する取引に合意したものの、中国は依然として輸出管理を厳格に維持しており、米国の供給不足問題への根本的な解決には至っていない。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQndwY3Vval9EVzFpRzA0cGVGTjRGMkNpeU1VMDV5UWlFeTZaaS1oQnE3TFdzNm1Yc20zSUxYT05wWU5FRFNFMVhodWpnQXVsT1loMkJHNkZ4MWV4b3hvQURLdGdFYWhGeUwyZ2RYdlRKckJXVENTVndFX3U1ZU5hOHhiNGl4b2lxUktlZTFleUE5ZVJhRk02WVI4UVU4WGR2VjhycEIxVjgtYXJHdFBJSHFvR3FNRkFRVlM4Ukd1MjV1a0RsMExN?oc=5",
+          "added_at": "2026-07-08 14:19:21"
+        },
+        {
+          "uid": "f5837f4d187d",
+          "date": "2026-04-14",
+          "title": "China Imposes New Rules to Block Foreign Companies From ‘Decoupling’ - The New York Times",
+          "summary": "中国は外国企業による「デカップリング（経済的分離）」を阻止するため新規則を導入し、レアアース等の戦略的資源の輸出管理を強化して、中国からの経済的依存を減らそうとする外国企業の動きに対抗している。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlNWMzIta1R0WF9EeFVEZTFuXzNnUnRfdEtieloyTFNiQ2QySDZQM1BScm0wYUwtcDU5RDBzeWxKWTBzeDBaamNKNkRPR2tjSGt6ZXRnY3JYRG1tNnJ5ZTgyeGdvb1NFYlU1ZUxURTJjZkZDQm41djFXb2NoRXlRZFVmeGk5Xzl5bXpkYkVR?oc=5",
+          "added_at": "2026-07-08 14:19:21"
+        },
         {
           "uid": "94468c5a044c",
           "date": "2026-05-18",
@@ -5770,36 +5810,6 @@
           "source": "欧米レアアース企業",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ2t3V29WaTNNcnZaUGJZQ0RiaEVsd1ptNjRqSlhzaVFhX2VoYjhzUVh1WEJ5eTN0VHJ1clVZeURZQVJIZjloVFBXVVp3cnlBdDBoS05KNTFfU3U1YVB3YWlNYVFULVRHOWNFb3lHbHJ4YVhSZF9DRHZFS2lSbktxZkgyNFd4NzduU3lWWnFKenNQT1lxMXpOVGRueldQOXBHTENvZ1pUV1BQLU1aQkg5V3IxWDBtdFZhLVZCSnJZU2NSVGk2XzFvRF96NA?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "b5ad9e2e5a91",
-          "date": "2026-06-22",
-          "title": "China Sanctions 56 U.S. Firms in Rare Earth, Defense Sectors - 조선일보",
-          "summary": "中国が米国の56社（レアアース・防衛セクター関連企業）に制裁を科し、米国によるレアアース等の規制に対抗する報復措置を講じた。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGVLSkVRMDBlV1Qta1JfeXp4ZmZ2Q1lJYktCeWY1QjhLTUpkOFRYbHRXZmdXWC1CLU90VGhVOEZKT0FBVU1WdlBIVFk2emxQaDVaTGlVaG5fbWZLUFVmaVc1VVltOHQ3UWdETnNVVFEzYXlfd2VPTnE0Z1ZKWFlfOEVHd3I?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "b64fde22ec28",
-          "date": "2026-06-22",
-          "title": "China Adds MP Materials, USA Rare Earth and 8 Other US Firms to Export Control List - bloomingbit",
-          "summary": "中国がMP Materials、USA Rare Earthを含む米国のレアアース関連企業10社を輸出管理規制リストに追加し、これらの企業への重要鉱物や技術の輸出を制限する措置を講じた。この行動は、米国による中国への対レアアース輸出規制への報復措置と見られている。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fcUtNZXM5ZWxUM2JMQTdwSFVaa183LVRRaDVBUFZqQmFPLW15b08zWGZURUJ5d0xNZ0h2Vy1ncUFyMFRtQUNybFhmRUZEN2d1OS1oYg?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "9feb66c821c9",
-          "date": "2026-06-22",
-          "title": "China Joins United States, Taiwan, Iran, France and Global Trade Partners as Beijing Sanctions Ten American Defense and Rare Earth Companies, Raising Fresh Concerns for International Travel, Aviation Supply Chains and Business Mobility - Nomad Lawyer",
-          "summary": "中国は米国の防衛関連企業およびレアアース企業10社に対して制裁を実施し、国際的な航空サプライチェーンやビジネスの移動性に対する懸念を高めた。この措置は、米国や台湾、イラン、フランスなど他の国々の制裁動向と並行して行われている。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0FRYW9jUU5jS0VDX2REVzVCQy1YeGgyUlpYdlZrdVp5TE1RX2c5aXdDWEJtNU1xdHRyRDVxVVVqckRfQ1ptdWJCeHhlSm1TUTBpMks4UE04RG5ZTXhnUUZ5bFVvd251ZXFSR2JyY3JnbUlWX2piSmFsSTFKcHBneXk0RlhVX1JLWlF5b01qYVBIQjVfS1JNV3plTld1Vm5tdTB3VFhYNHJSYTFo?oc=5",
           "added_at": "2026-06-23 03:08:20"
         }
       ]
