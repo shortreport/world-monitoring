@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>インテリジェンス | World News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --primary:    #16163e;
+      --eco-red:    #C8141E;
+      --surface:    #ffffff;
+      --surface-2:  #f3f4f6;
+      --border:     #e2e4e9;
+      --text:       #1a1a2e;
+      --text-sub:   #5f6368;
+      --radius:     12px;
+      --accent:     #0096c8;
+      --card-bg:    #f0f8ff;
+    }
+
+    body {
+      font-family: 'Noto Sans JP', -apple-system, 'Hiragino Sans',
+                   'Yu Gothic UI', 'Meiryo', sans-serif;
+      background: var(--surface-2);
+      color: var(--text);
+      line-height: 1.65;
+      font-size: 14px;
+    }
+
+    /* ── Site Header ── */
+    .site-header {
+      background: var(--primary); color: #fff;
+      padding: 0 24px; height: 58px;
+      display: flex; align-items: center; gap: 16px;
+      position: sticky; top: 0; z-index: 300;
+      box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    }
+    .logo { font-size: 20px; font-weight: 700; letter-spacing: .5px; white-space: nowrap; }
+    .logo em { color: #5bc8f5; font-style: normal; }
+    .header-date { font-size: 12px; color: rgba(255,255,255,.5); white-space: nowrap; }
+    .header-spacer { flex: 1; }
+    .live-badge { background: #e63946; color: #fff; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; letter-spacing: 1px; }
+    .update-time { font-size: 11px; color: rgba(255,255,255,.4); white-space: nowrap; }
+    .force-update-btn {
+      display: inline-flex; align-items: center; gap: 4px;
+      background: rgba(255,255,255,.1); color: rgba(255,255,255,.65);
+      border: 1px solid rgba(255,255,255,.25); border-radius: 14px;
+      padding: 4px 11px; font-size: 11px; font-weight: 600;
+      cursor: pointer; white-space: nowrap; font-family: inherit;
+      transition: background .15s, color .15s, border-color .15s;
+    }
+    .force-update-btn:hover { background: rgba(255,255,255,.22); color: #fff; border-color: rgba(255,255,255,.5); }
+    .force-update-btn:disabled { opacity: .55; cursor: not-allowed; }
+
+    /* ── Page Navigation Tabs ── */
+    .page-nav {
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: 0 24px; display: flex; align-items: stretch;
+      position: sticky; top: 58px; z-index: 200;
+      box-shadow: 0 1px 4px rgba(0,0,0,.06);
+    }
+    .page-nav a {
+      display: flex; align-items: center; gap: 6px;
+      padding: 0 18px; height: 44px;
+      font-size: 14px; font-weight: 500; color: var(--text-sub);
+      text-decoration: none; border-bottom: 3px solid transparent;
+      white-space: nowrap; transition: color .15s, border-color .15s;
+    }
+    .page-nav a:hover { color: var(--text); }
+    .page-nav a.active { color: var(--primary); border-bottom-color: var(--primary); font-weight: 700; }
+    .page-nav a .nav-icon { font-size: 15px; }
+    .page-nav a:last-child { margin-left: auto; border-left: 1px solid var(--border); }
+
+    /* ── Section label ── */
+    .section-label {
+      font-size: 11px; font-weight: 700; color: var(--text-sub);
+      text-transform: uppercase; letter-spacing: 1.2px;
+      margin: 0 0 12px; padding-bottom: 8px; border-bottom: 2px solid var(--border);
+    }
+
+    /* ── Clickable bullet styles ── */
+    li.has-link { cursor: pointer; }
+    .bullet-link {
+      display: block;
+      color: inherit;
+      text-decoration: none;
+      position: relative;
+      padding-right: 4px;
+      transition: color .15s;
+    }
+    .bullet-link:hover { color: var(--accent); }
+    .src-tag {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--text-sub);
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1px 5px;
+      margin-left: 7px;
+      vertical-align: middle;
+      white-space: nowrap;
+      opacity: 0.55;
+      transition: opacity .15s, color .15s, background .15s, border-color .15s;
+    }
+    .bullet-link:hover .src-tag {
+      opacity: 1;
+      color: var(--accent);
+      background: #e8f4ff;
+      border-color: var(--accent);
+    }
+    /* FT (Financial Times) source highlight */
+    .src-tag-ft {
+      color: #c45000;
+      background: #fff3ea;
+      border-color: #e8925a;
+      opacity: 0.85;
+    }
+    .bullet-link:hover .src-tag-ft {
+      color: #a03800;
+      background: #ffe8d6;
+      border-color: #c45000;
+    }
+
+    /* ── Clickable card title ── */
+    .card-title-link {
+      color: inherit;
+      text-decoration: none;
+      transition: color .15s;
+    }
+    .card-title-link:hover { color: var(--accent); }
+    .card-title-link:hover::after {
+      content: " ↗";
+      font-size: 14px;
+      color: var(--accent);
+      opacity: .7;
+    }
+
+    /* ── Footer ── */
+    .site-footer {
+      text-align: center; padding: 24px;
+      font-size: 12px; color: var(--text-sub);
+      margin-top: 32px; border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 640px) {
+      .site-header { padding: 0 14px; gap: 10px; }
+      .page-nav { padding: 0 8px; }
+      .page-nav a { padding: 0 12px; font-size: 13px; }
+      .update-time { display: none; }
+      .force-update-btn { display: none; }
+    }
+
+
+    :root { --primary:#16163e; --surface:#ffffff; --surface-2:#edeef1; --border:#d8dae0; --text:#1a1a2e; --text-sub:#6b6f7a; --accent:#0096c8; }
+    .v2-wrap { max-width:1280px; margin:28px auto; padding:0 20px; display:grid; grid-template-columns:1fr 300px; gap:28px; align-items:start; }
+    .v2-left { position:sticky; top:112px; max-height:calc(100vh - 140px); overflow-y:auto; padding-right:4px; }
+    .v2-left::-webkit-scrollbar { width:5px; } .v2-left::-webkit-scrollbar-thumb { background:rgba(0,0,0,.18); border-radius:3px; }
+    .v2-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:14px; align-items:start; }
+    .v2-col  { display:contents; }
+    .v2-card { border-radius:4px; padding:14px 16px 12px; cursor:pointer; display:flex; flex-direction:column; gap:7px; box-shadow:2px 3px 8px rgba(0,0,0,.10),0 1px 2px rgba(0,0,0,.06); transition:transform .15s,box-shadow .15s; position:relative; }
+    .v2-card:hover { transform:translateY(-3px); box-shadow:3px 6px 16px rgba(0,0,0,.15); }
+    .v2-card[data-s="EG"]  { background:#fffaed; }
+    .v2-card[data-s="POL"] { background:#fff0f1; }
+    .v2-card[data-s="JET"] { background:#edfff4; }
+    .v2-card[data-s="OTH"] { background:#f5f5ff; }
+    .v2-sender { font-size:10px; font-weight:700; letter-spacing:.8px; text-transform:uppercase; }
+    .v2-card[data-s="EG"]  .v2-sender { color:#8a6200; }
+    .v2-card[data-s="POL"] .v2-sender { color:#a8121e; }
+    .v2-card[data-s="JET"] .v2-sender { color:#007838; }
+    .v2-card[data-s="OTH"] .v2-sender { color:#444488; }
+    .v2-title   { font-size:13px; font-weight:700; line-height:1.45; color:#1a1a2e; flex:1; }
+    .v2-excerpt { font-size:11.5px; color:#3a3a50; line-height:1.6; border-top:1px solid rgba(0,0,0,.08); padding-top:7px; }
+    .v2-dot     { position:absolute; top:8px; right:10px; font-size:18px; opacity:.9; }
+    .v2-meta    { font-size:10.5px; color:var(--text-sub); border-top:1px solid rgba(0,0,0,.07); padding-top:6px; }
+    .v2-sidebar { position:sticky; top:112px; max-height:calc(100vh - 140px); overflow-y:auto; background:var(--surface); border:1px solid var(--border); border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,.07); }
+    .v2-sidebar::-webkit-scrollbar { width:5px; } .v2-sidebar::-webkit-scrollbar-thumb { background:rgba(0,0,0,.18); border-radius:3px; }
+    .v2-sb-head { background:#f5f6f8; border-bottom:1px solid var(--border); padding:12px 18px; }
+    .v2-sb-ttl  { font-size:13px; font-weight:700; color:var(--primary); }
+    .v2-sb-sub  { font-size:11px; color:var(--text-sub); margin-top:2px; }
+    .v2-sb-body { padding:16px 18px; }
+    .v2-summary p { font-size:12.5px; line-height:1.75; color:#2a2a3e; margin-bottom:10px; }
+    .v2-summary p:last-child { margin-bottom:0; }
+    .v2-summary strong { color:#16163e; }
+    .v2-hr      { border:none; border-top:1px solid var(--border); margin:14px 0; }
+    .v2-src-lbl { font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:1px; color:var(--text-sub); margin-bottom:8px; }
+    .v2-src     { display:flex; align-items:flex-start; gap:8px; padding:7px 0; border-bottom:1px solid var(--border); cursor:pointer; font-size:12px; line-height:1.4; color:var(--text); transition:color .15s; }
+    .v2-src:last-child { border-bottom:none; }
+    .v2-src:hover { color:var(--accent); }
+    .v2-badge   { font-size:9.5px; font-weight:700; color:#fff; padding:2px 5px; border-radius:3px; white-space:nowrap; flex-shrink:0; margin-top:1px; }
+    .v2-rt      { font-size:10.5px; color:var(--text-sub); margin-top:10px; }
+    .v2-modal   { display:none; position:fixed; inset:0; z-index:999; background:rgba(0,0,0,.65); align-items:center; justify-content:center; }
+    .v2-modal-box { background:#fff; border-radius:10px; overflow:hidden; width:90vw; max-width:940px; height:88vh; display:flex; flex-direction:column; box-shadow:0 12px 48px rgba(0,0,0,.4); animation:mIn .16s ease; }
+    @keyframes mIn { from{transform:scale(.94);opacity:0} to{transform:scale(1);opacity:1} }
+    .v2-mh { display:flex; align-items:center; gap:12px; padding:10px 18px; background:var(--primary); color:#fff; flex-shrink:0; }
+    .v2-mt { font-size:13px; font-weight:600; flex:1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .v2-mc { background:rgba(255,255,255,.15); border:1px solid rgba(255,255,255,.3); color:#fff; border-radius:6px; padding:4px 12px; cursor:pointer; font-size:12px; }
+    .v2-mc:hover { background:rgba(255,255,255,.28); }
+    .v2-mf { flex:1; border:none; width:100%; }
+    @media(max-width:960px){ .v2-wrap{grid-template-columns:1fr;} .v2-left{position:static;max-height:none;overflow-y:visible;} .v2-sidebar{position:static;max-height:none;overflow-y:visible;} }
+    @media(max-width:640px){ .v2-grid{grid-template-columns:1fr;} }
+
+  .lang-toggle { display: flex; gap: 6px; font-size: 12px; }
+.lang-toggle a { color: rgba(255,255,255,.6); text-decoration: none; padding: 3px 10px; border-radius: 4px; border: 1px solid rgba(255,255,255,.3); transition: all .15s; font-weight: 600; }
+.lang-toggle a.active { color: #fff; background: rgba(255,255,255,.2); border-color: rgba(255,255,255,.7); }
+.lang-toggle a:hover { color: #fff; background: rgba(255,255,255,.12); }
+.page-nav a.push-right { margin-left: auto; }</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="logo" onclick="location.href='index.html'" style="cursor:pointer;" title="ホームへ">World<em>News</em></div>
+  <div class="header-date">2026年07月09日</div>
+  <div class="header-spacer"></div>
+  <div class="update-time">データ更新: 2026-07-09 16:00 JST &nbsp;|&nbsp; 毎朝6:30更新（PC）</div>
+  <button id="force-update-btn" class="force-update-btn" onclick="triggerSiteUpdate()" title="GitHub Actions ワークフローを起動してサイトを更新">🔄 今すぐ更新</button>
+  <div class="live-badge">LIVE</div>
+
+  <div class="lang-toggle">
+    <a href="intelligence.html" class="active">JP</a>
+    <a href="../en/intelligence.html">EN</a>
+  </div></header>
+<script>
+(function(){
+  function triggerSiteUpdate(){
+    var btn=document.getElementById('force-update-btn');
+    btn.textContent='⏳ 更新中…';
+    btn.disabled=true;
+    location.href=location.pathname+'?r='+Date.now();
+  }
+  if(location.search.startsWith('?r=')){
+    history.replaceState(null,'',location.pathname);
+  }
+  window.triggerSiteUpdate=triggerSiteUpdate;
+})();
+</script>
+<nav class="page-nav">
+  <a href="index.html"><span class="nav-icon">🏠</span>ホーム</a>
+  <a href="intelligence.html" class="active"><span class="nav-icon">📋</span>インテリジェンス</a>
+  <a href="trump.html"><span class="nav-icon">🇺🇸</span>US・トランプ</a>
+  <a href="theme.html"><span class="nav-icon">🔎</span>テーマ</a>
+  <a href="midterm.html"><span class="nav-icon">🗳️</span>中間選挙</a>
+  <a href="summary.html" class="push-right"><span class="nav-icon">📋</span>エグゼクティブ・サマリー</a>
+</nav>
+<div class="v2-wrap">
+  <div class="v2-left">
+    <div class="v2-grid">
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260709_1402_Hydrogen_review_reveals_EU_transport_battle.html" data-title="Hydrogen review reveals EU transport battle" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Hydrogen review reveals EU transport battle</div>
+  
+  <div class="v2-meta">JUL 9  14:02 &nbsp;·&nbsp; 9 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260709_1355_Waiting_on_Washington.html" data-title="Waiting on Washington" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Waiting on Washington</div>
+  
+  <div class="v2-meta">JUL 9  13:55 &nbsp;·&nbsp; 15 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260709_1004_On_the_ground_in_China__Assessing_the_reset_of_Chi.html" data-title="On the ground in China: Assessing the reset of China-US relations and rising China-EU and China-Japan tensions - EG Conference Call, REMINDER" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">On the ground in China: Assessing the reset of China-US relations and rising China-EU and China-Japan tensions - EG Conference Call, REMINDER</div>
+  
+  <div class="v2-meta">JUL 9  10:04 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260709_0747_EG_Research_Summary_in_Japanese__2026年7月9日.html" data-title="EG Research Summary in Japanese: 2026年7月9日" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Research Summary in Japanese: 2026年7月9日</div>
+  
+  <div class="v2-meta">JUL 9  07:47 &nbsp;·&nbsp; 3 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260709_0637_Von_der_Leyen_and_Costa_gifted_guns_by_Erdoğan_at_.html" data-title="Von der Leyen and Costa gifted guns by Erdoğan at NATO summit" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Von der Leyen and Costa gifted guns by Erdoğan at NATO summit</div>
+  
+  <div class="v2-meta">JUL 9  06:37 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260709_0505_‘The_boy_who_cried_wolf’__NATO_allies_take_Trump’s.html" data-title="‘The boy who cried wolf’: NATO allies take Trump’s bluster in stride at crunch summit" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">‘The boy who cried wolf’: NATO allies take Trump’s bluster in stride at crunch summit</div>
+  
+  <div class="v2-meta">JUL 9  05:05 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260709_0444_EG_CONFERENCE_CALL_NOTES__Iran_war_and_ceasefire_o.html" data-title="EG CONFERENCE CALL NOTES: Iran war and ceasefire outlook" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG CONFERENCE CALL NOTES: Iran war and ceasefire outlook</div>
+  
+  <div class="v2-meta">JUL 9  04:44 &nbsp;·&nbsp; 11 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260709_0328_Russia_halts_diesel_exports_after_Ukraine_strikes_.html" data-title="Russia halts diesel exports after Ukraine strikes refineries" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Russia halts diesel exports after Ukraine strikes refineries</div>
+  
+  <div class="v2-meta">JUL 9  03:28 &nbsp;·&nbsp; 3 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260709_0233_Farage_and_Le_Pen_try_Trump’s_trick_of_turning_sca.html" data-title="Farage and Le Pen try Trump’s trick of turning scandal to their advantage" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Farage and Le Pen try Trump’s trick of turning scandal to their advantage</div>
+  
+  <div class="v2-meta">JUL 9  02:33 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260709_0202_9_countries_ask_Brussels_to_ease_new_border_checks.html" data-title="9 countries ask Brussels to ease new border checks rollout" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">9 countries ask Brussels to ease new border checks rollout</div>
+  
+  <div class="v2-meta">JUL 9  02:02 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260709_0103_EG_US_Daily__Continued_skirmishing_pushes_up_odds_.html" data-title="EG US Daily: Continued skirmishing pushes up odds of Hormuz closure" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG US Daily: Continued skirmishing pushes up odds of Hormuz closure</div>
+  
+  <div class="v2-meta">JUL 9  01:03 &nbsp;·&nbsp; 7 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260709_0031_Pro_Daily_Headlines.html" data-title="Pro Daily Headlines" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Pro Daily Headlines</div>
+  <div class="v2-excerpt">アイルランドのEU議長国は、EU産業加速法と規制簡素化政策の間で高まる緊張の中、「ヨーロッパ製造」ルールについてのコンセンサスを求めている。一方、トランプ政権はイラン石油販売への制裁を再び発動し、世界的なエネルギー市場と自動車サプライチェーンに影響を与える可能</div>
+  <div class="v2-meta">JUL 9  00:31 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260708_2322_Iran_war_&amp;_ceasefire_outlook_-_EG_Conference_Call,.html" data-title="Iran war &amp; ceasefire outlook - EG Conference Call, REMINDER" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">Iran war &amp; ceasefire outlook - EG Conference Call, REMINDER</div>
+  
+  <div class="v2-meta">JUL 8  23:22 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260708_2316_EG_Iran,_MENA_Crisis__Skirmishing_will_continue_as.html" data-title="EG Iran, MENA Crisis: Skirmishing will continue as Iran pushes its luck in Hormuz" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Iran, MENA Crisis: Skirmishing will continue as Iran pushes its luck in Hormuz</div>
+  
+  <div class="v2-meta">JUL 8  23:16 &nbsp;·&nbsp; 8 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260708_2221_Iran_war_&amp;_ceasefire_outlook_-_EG_Conference_Call.html" data-title="Iran war &amp; ceasefire outlook - EG Conference Call" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">Iran war &amp; ceasefire outlook - EG Conference Call</div>
+  
+  <div class="v2-meta">JUL 8  22:21 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260708_2138_EG_Daily_Brief__Le_Pen_return_lifts_far-right_pres.html" data-title="EG Daily Brief: Le Pen return lifts far-right presidential odds" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Daily Brief: Le Pen return lifts far-right presidential odds</div>
+  
+  <div class="v2-meta">JUL 8  21:38 &nbsp;·&nbsp; 9 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260708_2043_Document__Irish_presidency_seeks_‘agreed_understan.html" data-title="Document: Irish presidency seeks ‘agreed understanding’ on Made in Europe rules" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Document: Irish presidency seeks ‘agreed understanding’ on Made in Europe rules</div>
+  <div class="v2-excerpt">アイルランドのEU議長国は、公共調達での地域産業優遇を目指す産業加速法案の論争的な条項について、加盟国のコンセンサスを求めている。ドイツを含む各国は規制の複雑さと官僚負担を懸念しており、行政負担、外国投資ルール、認可手続きの迅速化をめぐって対立が生じている。</div>
+  <div class="v2-meta">JUL 8  20:43 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260708_2001_China__Recent_engagement_with_key_officials_-_EG_C.html" data-title="China: Recent engagement with key officials - EG Conference Call, REMINDER" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">China: Recent engagement with key officials - EG Conference Call, REMINDER</div>
+  
+  <div class="v2-meta">JUL 8  20:01 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260708_1922_Trump_reignites_Greenland_feud_at_NATO.html" data-title="Trump reignites Greenland feud at NATO" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Trump reignites Greenland feud at NATO</div>
+  
+  <div class="v2-meta">JUL 8  19:22 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260708_1908_The_EU’s_paradigm_shift_on_cows.html" data-title="The EU’s paradigm shift on cows" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">The EU’s paradigm shift on cows</div>
+  
+  <div class="v2-meta">JUL 8  19:08 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="JET" data-pdf="data/pdfs/20260708_1806_「ジェトロ・ビジネス短信」2026_07_08.html" data-title="「ジェトロ・ビジネス短信」2026/07/08" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Jetro</div>
+  <div class="v2-title">「ジェトロ・ビジネス短信」2026/07/08</div>
+  
+  <div class="v2-meta">JUL 8  18:06 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260708_1735_Rutte’s_‘Made_in_NATO’_weapons_push_collides_with_.html" data-title="Rutte’s ‘Made in NATO’ weapons push collides with EU’s ‘Buy European’ drive " onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Rutte’s ‘Made in NATO’ weapons push collides with EU’s ‘Buy European’ drive </div>
+  
+  <div class="v2-meta">JUL 8  17:35 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260708_1653_eg_update_in_Japanese_(July_06,_2026).html" data-title="eg update in Japanese  (July 06, 2026)" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">eg update in Japanese  (July 06, 2026)</div>
+  
+  <div class="v2-meta">JUL 8  16:53 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260708_1635_Le_Pen’s_French_presidential_bid_dashes_EU_hopes_f.html" data-title="Le Pen’s French presidential bid dashes EU hopes for a Meloni-like successor" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Le Pen’s French presidential bid dashes EU hopes for a Meloni-like successor</div>
+  
+  <div class="v2-meta">JUL 8  16:35 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260708_1602_EG_India,_Japan__Modi-Takaichi_summit_will_drive_s.html" data-title="EG India, Japan: Modi-Takaichi summit will drive spurt of government-backed joint ventures" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG India, Japan: Modi-Takaichi summit will drive spurt of government-backed joint ventures</div>
+  
+  <div class="v2-meta">JUL 8  16:02 &nbsp;·&nbsp; 6 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260708_0000_Commission_musical_chairs_Season2.html" data-title="Commission musical chairs — Season 2" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Commission musical chairs — Season 2</div>
+  
+  <div class="v2-meta">JUL 8  13:57 &nbsp;·&nbsp; 15 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260708_1003_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf" data-title="On the ground in China: Assessing the reset of China-US relations" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">On the ground in China: Assessing the reset of China-US relations</div>
+  
+  <div class="v2-meta">JUL 8  10:03 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260708_0815_EG_Research_Summary_in_Japanese__2026年7月8日.pdf" data-title="EG Research Summary in Japanese: 2026年7月8日" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Research Summary in Japanese: 2026年7月8日</div>
+  <div class="v2-excerpt">イランの石油収入不安定性が湾岸諸国の米国離脱と緊張緩和志向を支える中東平和を脅かしている。</div>
+  <div class="v2-meta">JUL 8  08:15 &nbsp;·&nbsp; 3 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260708_0702_EG_France__Le_Pen’s_return_to_the_race_makes_a_far.pdf" data-title="EG France: Le Pen’s return to the race makes a far right victory" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG France: Le Pen’s return to the race makes a far right victory</div>
+  
+  <div class="v2-meta">JUL 8  07:02 &nbsp;·&nbsp; 7 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260708_0647_Trump_administration_reimposes_sanctions_on_Iran_o.pdf" data-title="Trump administration reimposes sanctions on Iran oil sales" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Trump administration reimposes sanctions on Iran oil sales</div>
+  
+  <div class="v2-meta">JUL 8  06:47 &nbsp;·&nbsp; 3 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260708_0406_Le_Pen_comeback_revives_French_far_right’s_biggest.pdf" data-title="Le Pen comeback revives French far right’s biggest question: Can" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Le Pen comeback revives French far right’s biggest question: Can</div>
+  
+  <div class="v2-meta">JUL 8  04:06 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260708_0320_She’s_running__Marine_Le_Pen_will_stand_for_French.pdf" data-title="She’s running: Marine Le Pen will stand for French presidency —" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">She’s running: Marine Le Pen will stand for French presidency —</div>
+  
+  <div class="v2-meta">JUL 8  03:20 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260708_0241_Nigel_Farage_has_triggered_a_by-election_—_but_his.pdf" data-title="Nigel Farage has triggered a by-election — but his rivals won’t play" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Nigel Farage has triggered a by-election — but his rivals won’t play</div>
+  
+  <div class="v2-meta">JUL 8  02:41 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="OTH" data-pdf="data/pdfs/20260708_0111_EG_Letter_from_Cliff_Kupchan__High_expectations_in.pdf" data-title="EG Letter from Cliff Kupchan: High expectations in Beijing" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Cliff</div>
+  <div class="v2-title">EG Letter from Cliff Kupchan: High expectations in Beijing</div>
+  
+  <div class="v2-meta">JUL 8  01:11 &nbsp;·&nbsp; 8 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260708_0102_EG_US_Daily__Anyone_but_Platner_leaves_Democrats_b.pdf" data-title="EG US Daily: Anyone but Platner leaves Democrats better off" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG US Daily: Anyone but Platner leaves Democrats better off</div>
+  
+  <div class="v2-meta">JUL 8  01:02 &nbsp;·&nbsp; 7 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_2301_China__Recent_engagement_with_key_officials_-_EG_C.pdf" data-title="China: Recent engagement with key officials - EG Conference Call," onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">China: Recent engagement with key officials - EG Conference Call,</div>
+  
+  <div class="v2-meta">JUL 7  23:01 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260707_2238_Nigel_Farage_triggers_by-election_amid_donations_p.pdf" data-title="Nigel Farage triggers by-election amid donations probe" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Nigel Farage triggers by-election amid donations probe</div>
+  
+  <div class="v2-meta">JUL 7  22:38 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260707_2107_Le_Pen_sentenced_to_house_arrest__Live_updates.pdf" data-title="Le Pen sentenced to house arrest: Live updates" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Le Pen sentenced to house arrest: Live updates</div>
+  
+  <div class="v2-meta">JUL 7  21:07 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_2045_EG_Daily_Brief__Oil_likely_to_dip_below_$70_amid_U.pdf" data-title="EG Daily Brief: Oil likely to dip below $70 amid UAE-Saudi rivalry" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Daily Brief: Oil likely to dip below $70 amid UAE-Saudi rivalry</div>
+  
+  <div class="v2-meta">JUL 7  20:45 &nbsp;·&nbsp; 7 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_1852_EG_PRACTICE_LETTER：上級幹部がブリーフィングチームに本当に求めているもの.pdf" data-title="EG PRACTICE" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG PRACTICE</div>
+  
+  <div class="v2-meta">JUL 7  18:52 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="OTH" data-pdf="data/pdfs/20260707_1849_「ジェトロ・ビジネス短信」2026_07_07.pdf" data-title="「ジェトロ・ビジネス短信」2026/07/07" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">ビジネス短信</div>
+  <div class="v2-title">「ジェトロ・ビジネス短信」2026/07/07</div>
+  <div class="v2-excerpt">XTCニューエナジーがマレーシアに正極材料工場を建設、英国が重要インフラプロジェクト承認を迅速化</div>
+  <div class="v2-meta">JUL 7  18:49 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260707_1736_‘Trump_management’__Everyone_else_has_a_plan_to_ke.pdf" data-title="‘Trump management’: Everyone else has a plan to keep NATO" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">‘Trump management’: Everyone else has a plan to keep NATO</div>
+  
+  <div class="v2-meta">JUL 7  17:36 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260707_1635_It’s_Judgment_Day_for_Marine_Le_Pen.pdf" data-title="It’s Judgment Day for Marine Le Pen" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">It’s Judgment Day for Marine Le Pen</div>
+  
+  <div class="v2-meta">JUL 7  16:35 &nbsp;·&nbsp; 1 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_1519_EG_United_Kingdom__Burnham_may_tweak_investment_ru.pdf" data-title="EG United Kingdom: Burnham may tweak investment rule to" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG United Kingdom: Burnham may tweak investment rule to</div>
+  
+  <div class="v2-meta">JUL 7  15:19 &nbsp;·&nbsp; 7 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260707_1401_EU_ports_brace_for_long_queues_with_new_border_che.pdf" data-title="EU ports brace for long queues with new border checks" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">EU ports brace for long queues with new border checks</div>
+  <div class="v2-excerpt">EU の新しい出入国管理システム(Entry/Exit System)の導入により、今夏、ドーバー海峡やスペ</div>
+  <div class="v2-meta">JUL 7  14:01 &nbsp;·&nbsp; 9 MIN READ</div>
+</div>
+<div class="v2-card" data-s="POL" data-pdf="data/pdfs/20260707_1349_Le_Pen_or_Bardella__What_it_means_for_Europe.pdf" data-title="Le Pen or Bardella? What it means for Europe" onclick="openPdf(this)">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Le Pen or Bardella? What it means for Europe</div>
+  
+  <div class="v2-meta">JUL 7  13:49 &nbsp;·&nbsp; 14 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_1004_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf" data-title="On the ground in China: Assessing the reset of China-US relations" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">On the ground in China: Assessing the reset of China-US relations</div>
+  
+  <div class="v2-meta">JUL 7  10:04 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_0735_Research_Summary_for_Jul_6,_2026.pdf" data-title="Research Summary for Jul 6, 2026" onclick="openPdf(this)">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">Research Summary for Jul 6, 2026</div>
+  <div class="v2-excerpt">中東の主要産油国が増産を加速しており、市場シェア争いが激化することで、中国の低い輸入需要</div>
+  <div class="v2-meta">JUL 7  07:35 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_0409_China__Recent_engagement_with_key_officials_-_EG_C.pdf" data-title="China: Recent engagement with key officials - EG Conference Call" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">China: Recent engagement with key officials - EG Conference Call</div>
+  
+  <div class="v2-meta">JUL 7  04:09 &nbsp;·&nbsp; 2 MIN READ</div>
+</div>
+<div class="v2-card" data-s="EG" data-pdf="data/pdfs/20260707_0220_EG_Oil_Markets_Weekly__UAE-Saudi_competition_will_.pdf" data-title="EG Oil Markets Weekly: UAE-Saudi competition will keep prices low" onclick="openPdf(this)">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Oil Markets Weekly: UAE-Saudi competition will keep prices low</div>
+  
+  <div class="v2-meta">JUL 7  02:20 &nbsp;·&nbsp; 5 MIN READ</div>
+</div>
+    </div>
+  </div>
+  <div class="v2-sidebar">
+  <div class="v2-sb-head">
+    <div class="v2-sb-ttl">Today's Key Takeaways</div>
+    <div class="v2-sb-sub">2026-07-09 16:00 JST &nbsp;·&nbsp; ~1 min read</div>
+  </div>
+  <div class="v2-sb-body">
+    <div class="v2-summary"><p>アイルランドのEU議長国は、政府調達で地元サプライヤーを優遇し、重要産業への外国投資の監視を強化する新しい「メイド・イン・ヨーロッパ」製造ルールに加盟国が合意するよう推し進めている。この取り組みはヨーロッパ内の深刻な意見の相違を反映している。国内製造業の拡大を目指して積極的な保護措置を求める国がある一方で、こうしたルールが規制負担を生み出し、貿易相手国からの報復を招くことを懸念する国もある。</p>
+<p>自動車メーカーにとって、これらのルールは欧州全域でコンポーネントの調達先と工場の操業方法を大きく変える可能性がある。地元産業の含有率要件を厳しくすれば、近期的にはコスト上昇につながるが、供給チェーンの安定性が高まる可能性もある。一方で、米国や他の市場からの報復関税を招き、利幅を圧迫するおそれもある。トランプ政権のイラン石油販売への新たな制裁は、世界的なエネルギー価格にさらなる不確実性をもたらし、これが直接生産コストに跳ね返る。</p>
+<p>注視すべき点は、EUがアイルランドの議長国任期が終わる12月までに合意を取りまとめられるかどうか、それとも意見の相違により来年へのずれ込みを余儀なくされるかである。</p></div>
+    <hr class="v2-hr"><div class="v2-src-lbl">Source PDFs</div>
+<div class="v2-src" onclick="openPdfDirect('data/pdfs/20260709_0031_Pro_Daily_Headlines.html','Pro Daily Headlines')"><span class="v2-badge" style="background:#a8121e;">POLITICO</span><span>Pro Daily Headlines</span></div>
+<div class="v2-src" onclick="openPdfDirect('data/pdfs/20260708_2043_Document__Irish_presidency_seeks_‘agreed_understan.html','Document: Irish presidency seeks ‘agreed understanding’ on M')"><span class="v2-badge" style="background:#a8121e;">POLITICO</span><span>Document: Irish presidency seeks ‘agreed understanding’ on Made in Europe rules</span></div>
+<div class="v2-src" onclick="openPdfDirect('data/pdfs/20260708_0815_EG_Research_Summary_in_Japanese__2026年7月8日.pdf','EG Research Summary in Japanese: 2026年7月8日')"><span class="v2-badge" style="background:#8a6200;">Eurasia Group</span><span>EG Research Summary in Japanese: 2026年7月8日</span></div>
+<div class="v2-src" onclick="openPdfDirect('data/pdfs/20260707_1849_「ジェトロ・ビジネス短信」2026_07_07.pdf','「ジェトロ・ビジネス短信」2026/07/07')"><span class="v2-badge" style="background:#444488;">ビジネス短信</span><span>「ジェトロ・ビジネス短信」2026/07/07</span></div>
+<div class="v2-src" onclick="openPdfDirect('data/pdfs/20260707_1401_EU_ports_brace_for_long_queues_with_new_border_che.pdf','EU ports brace for long queues with new border checks')"><span class="v2-badge" style="background:#a8121e;">POLITICO</span><span>EU ports brace for long queues with new border checks</span></div>
+<div class="v2-src" onclick="openPdfDirect('data/pdfs/20260707_0735_Research_Summary_for_Jul_6,_2026.pdf','Research Summary for Jul 6, 2026')"><span class="v2-badge" style="background:#8a6200;">Eurasia Group</span><span>Research Summary for Jul 6, 2026</span></div>
+
+    <div class="v2-rt">⏱ Full sources: ~18 min total</div>
+  </div>
+</div>
+</div>
+
+<footer class="site-footer">
+  ソース: NHK・産経・日経・CNBC・FT・BBC・NYT・Reuters・Al Jazeera ほか &nbsp;|&nbsp; The Economist &nbsp;|&nbsp; White House RSS &nbsp;|&nbsp; Truth Social<br>
+  データ更新: 2026-07-09 16:00 JST &nbsp;|&nbsp;
+  ☁️ ホーム・USトランプ: 6時間ごと自動更新 &nbsp;|&nbsp;
+  🖥️ メール・The Economist: 毎朝6:30更新（PC）<br>
+  <button onclick="triggerSiteUpdate()" style="background:none;border:none;color:var(--accent);font-size:11px;cursor:pointer;padding:0;font-family:inherit;">🔄 今すぐ更新（GitHub Actions）</button>
+  &nbsp;|&nbsp; World News
+</footer>
+<div id="v2-modal" class="v2-modal">
+  <div class="v2-modal-box">
+    <div class="v2-mh">
+      <span id="v2-mt" class="v2-mt">PDF</span>
+      <button onclick="closeModal()" class="v2-mc">✕ 閉じる</button>
+    </div>
+    <iframe id="v2-mf" class="v2-mf" src="about:blank"></iframe>
+  </div>
+</div>
+<script>
+var modal=document.getElementById('v2-modal'),frame=document.getElementById('v2-mf'),ttl=document.getElementById('v2-mt');
+function openPdf(c){ttl.textContent=c.dataset.title||'PDF';frame.src=c.dataset.pdf;modal.style.display='flex';}
+function openPdfDirect(u,t){ttl.textContent=t||'PDF';frame.src=u;modal.style.display='flex';}
+function closeModal(){modal.style.display='none';frame.src='about:blank';}
+modal.addEventListener('click',function(e){if(e.target===modal)closeModal();});
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closeModal();});
+</script>
+</body></html>

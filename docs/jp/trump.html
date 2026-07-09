@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>USトランプ | World News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --primary:    #16163e;
+      --eco-red:    #C8141E;
+      --surface:    #ffffff;
+      --surface-2:  #f3f4f6;
+      --border:     #e2e4e9;
+      --text:       #1a1a2e;
+      --text-sub:   #5f6368;
+      --radius:     12px;
+      --accent:     #0096c8;
+      --card-bg:    #f0f8ff;
+    }
+
+    body {
+      font-family: 'Noto Sans JP', -apple-system, 'Hiragino Sans',
+                   'Yu Gothic UI', 'Meiryo', sans-serif;
+      background: var(--surface-2);
+      color: var(--text);
+      line-height: 1.65;
+      font-size: 14px;
+    }
+
+    /* ── Site Header ── */
+    .site-header {
+      background: var(--primary); color: #fff;
+      padding: 0 24px; height: 58px;
+      display: flex; align-items: center; gap: 16px;
+      position: sticky; top: 0; z-index: 300;
+      box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    }
+    .logo { font-size: 20px; font-weight: 700; letter-spacing: .5px; white-space: nowrap; }
+    .logo em { color: #5bc8f5; font-style: normal; }
+    .header-date { font-size: 12px; color: rgba(255,255,255,.5); white-space: nowrap; }
+    .header-spacer { flex: 1; }
+    .live-badge { background: #e63946; color: #fff; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; letter-spacing: 1px; }
+    .update-time { font-size: 11px; color: rgba(255,255,255,.4); white-space: nowrap; }
+    .force-update-btn {
+      display: inline-flex; align-items: center; gap: 4px;
+      background: rgba(255,255,255,.1); color: rgba(255,255,255,.65);
+      border: 1px solid rgba(255,255,255,.25); border-radius: 14px;
+      padding: 4px 11px; font-size: 11px; font-weight: 600;
+      cursor: pointer; white-space: nowrap; font-family: inherit;
+      transition: background .15s, color .15s, border-color .15s;
+    }
+    .force-update-btn:hover { background: rgba(255,255,255,.22); color: #fff; border-color: rgba(255,255,255,.5); }
+    .force-update-btn:disabled { opacity: .55; cursor: not-allowed; }
+
+    /* ── Page Navigation Tabs ── */
+    .page-nav {
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: 0 24px; display: flex; align-items: stretch;
+      position: sticky; top: 58px; z-index: 200;
+      box-shadow: 0 1px 4px rgba(0,0,0,.06);
+    }
+    .page-nav a {
+      display: flex; align-items: center; gap: 6px;
+      padding: 0 18px; height: 44px;
+      font-size: 14px; font-weight: 500; color: var(--text-sub);
+      text-decoration: none; border-bottom: 3px solid transparent;
+      white-space: nowrap; transition: color .15s, border-color .15s;
+    }
+    .page-nav a:hover { color: var(--text); }
+    .page-nav a.active { color: var(--primary); border-bottom-color: var(--primary); font-weight: 700; }
+    .page-nav a .nav-icon { font-size: 15px; }
+    .page-nav a:last-child { margin-left: auto; border-left: 1px solid var(--border); }
+
+    /* ── Section label ── */
+    .section-label {
+      font-size: 11px; font-weight: 700; color: var(--text-sub);
+      text-transform: uppercase; letter-spacing: 1.2px;
+      margin: 0 0 12px; padding-bottom: 8px; border-bottom: 2px solid var(--border);
+    }
+
+    /* ── Clickable bullet styles ── */
+    li.has-link { cursor: pointer; }
+    .bullet-link {
+      display: block;
+      color: inherit;
+      text-decoration: none;
+      position: relative;
+      padding-right: 4px;
+      transition: color .15s;
+    }
+    .bullet-link:hover { color: var(--accent); }
+    .src-tag {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--text-sub);
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1px 5px;
+      margin-left: 7px;
+      vertical-align: middle;
+      white-space: nowrap;
+      opacity: 0.55;
+      transition: opacity .15s, color .15s, background .15s, border-color .15s;
+    }
+    .bullet-link:hover .src-tag {
+      opacity: 1;
+      color: var(--accent);
+      background: #e8f4ff;
+      border-color: var(--accent);
+    }
+    /* FT (Financial Times) source highlight */
+    .src-tag-ft {
+      color: #c45000;
+      background: #fff3ea;
+      border-color: #e8925a;
+      opacity: 0.85;
+    }
+    .bullet-link:hover .src-tag-ft {
+      color: #a03800;
+      background: #ffe8d6;
+      border-color: #c45000;
+    }
+
+    /* ── Clickable card title ── */
+    .card-title-link {
+      color: inherit;
+      text-decoration: none;
+      transition: color .15s;
+    }
+    .card-title-link:hover { color: var(--accent); }
+    .card-title-link:hover::after {
+      content: " ↗";
+      font-size: 14px;
+      color: var(--accent);
+      opacity: .7;
+    }
+
+    /* ── Footer ── */
+    .site-footer {
+      text-align: center; padding: 24px;
+      font-size: 12px; color: var(--text-sub);
+      margin-top: 32px; border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 640px) {
+      .site-header { padding: 0 14px; gap: 10px; }
+      .page-nav { padding: 0 8px; }
+      .page-nav a { padding: 0 12px; font-size: 13px; }
+      .update-time { display: none; }
+      .force-update-btn { display: none; }
+    }
+
+
+    .trump-wrap { max-width: 1040px; margin: 24px auto; padding: 0 20px; }
+    .trump-banner { background: linear-gradient(135deg, #16163e 0%, #3C3B6E 60%, #1a0a0a 100%); border-radius: var(--radius); padding: 18px 24px; margin-bottom: 16px; display: flex; align-items: center; gap: 20px; border: 1px solid #4a3a6e; flex-wrap: wrap; }
+    .trump-banner-title { font-size: 22px; font-weight: 700; color: #fff; letter-spacing: .5px; }
+    .trump-banner-title span { color: #C81E32; }
+    .trump-banner-sub { font-size: 12px; color: rgba(255,255,255,.55); margin-top: 3px; }
+    .trump-banner-spacer { flex: 1; }
+    .trump-stats { display: flex; gap: 12px; flex-wrap: wrap; }
+    .trump-stat { text-align: center; background: rgba(255,255,255,.08); border-radius: 8px; padding: 8px 14px; }
+    .trump-stat-num { font-size: 18px; font-weight: 700; color: #B48200; }
+    .trump-stat-lbl { font-size: 10px; color: rgba(255,255,255,.5); }
+    .source-bar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
+    .source-chip { display: flex; align-items: center; gap: 5px; background: var(--surface); border: 1px solid var(--border); border-radius: 20px; padding: 5px 12px; font-size: 12px; color: var(--text-sub); }
+    /* Trump cards */
+    .trump-card { background: var(--surface); border-radius: var(--radius); border: 1px solid var(--border); border-left: 5px solid var(--accent); box-shadow: 0 1px 4px rgba(0,0,0,.06); padding: 18px 22px; transition: box-shadow .2s; }
+    .trump-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,.1); }
+    .trump-card.featured { background: linear-gradient(135deg, #fffbe6, #fff8e1); border-left-color: #B48200; border-left-width: 6px; padding: 22px 28px; margin-bottom: 20px; }
+    .trump-card.japan-highlight { background: #fff0f2; border-left-color: #C81E32; }
+    .trump-card-header { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+    .trump-icon { font-size: 20px; }
+    .trump-badge { font-size: 11px; font-weight: 700; color: #fff; padding: 3px 10px; border-radius: 12px; white-space: nowrap; }
+    .trump-card-title { font-size: 17px; font-weight: 700; color: var(--text); margin-left: 4px; }
+    .trump-card.featured .trump-card-title { font-size: 20px; color: #5a3a00; }
+    /* Trump title link */
+    .trump-title-link { color: inherit; text-decoration: none; transition: color .15s; }
+    .trump-title-link:hover { color: var(--accent); }
+    .trump-title-link:hover::after { content: " ↗"; font-size: 13px; opacity: .7; }
+    /* Trump bullets */
+    .trump-bullets { list-style: none; padding: 0; }
+    .trump-bullets li { position: relative; padding-left: 20px; font-size: 13px; color: #2a2a3a; margin-bottom: 9px; line-height: 1.6; }
+    .trump-bullets li::before { content: "▸"; position: absolute; left: 0; color: var(--accent); font-weight: 700; }
+    .trump-card.featured .trump-bullets li { font-size: 14px; }
+    .trump-card.featured .trump-bullets li::before { color: #B48200; }
+    .trump-card.japan-highlight .trump-bullets li::before { color: #C81E32; }
+    /* trump page の src-tag は accent を赤系に */
+    .trump-card .src-tag { background: #fafafa; border-color: #ddd; }
+    .trump-card .bullet-link:hover .src-tag { color: #C81E32; background: #fff0f2; border-color: #C81E32; }
+    .trump-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+    @media (max-width: 640px) { .trump-wrap { padding: 0 12px; } .trump-banner { padding: 14px; } .trump-banner-title { font-size: 18px; } .trump-stats { display: none; } }
+
+  .lang-toggle { display: flex; gap: 6px; font-size: 12px; }
+.lang-toggle a { color: rgba(255,255,255,.6); text-decoration: none; padding: 3px 10px; border-radius: 4px; border: 1px solid rgba(255,255,255,.3); transition: all .15s; font-weight: 600; }
+.lang-toggle a.active { color: #fff; background: rgba(255,255,255,.2); border-color: rgba(255,255,255,.7); }
+.lang-toggle a:hover { color: #fff; background: rgba(255,255,255,.12); }
+.page-nav a.push-right { margin-left: auto; }</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="logo" onclick="location.href='index.html'" style="cursor:pointer;" title="ホームへ">World<em>News</em></div>
+  <div class="header-date">2026年07月09日</div>
+  <div class="header-spacer"></div>
+  <div class="update-time">最終更新: 2026年07月09日 19:03 JST &nbsp;|&nbsp; 6時間ごと自動更新</div>
+  <button id="force-update-btn" class="force-update-btn" onclick="triggerSiteUpdate()" title="GitHub Actions ワークフローを起動してサイトを更新">🔄 今すぐ更新</button>
+  <div class="live-badge">LIVE</div>
+
+  <div class="lang-toggle">
+    <a href="trump.html" class="active">JP</a>
+    <a href="../en/trump.html">EN</a>
+  </div></header>
+<script>
+(function(){
+  function triggerSiteUpdate(){
+    var btn=document.getElementById('force-update-btn');
+    btn.textContent='⏳ 更新中…';
+    btn.disabled=true;
+    location.href=location.pathname+'?r='+Date.now();
+  }
+  if(location.search.startsWith('?r=')){
+    history.replaceState(null,'',location.pathname);
+  }
+  window.triggerSiteUpdate=triggerSiteUpdate;
+})();
+</script>
+<nav class="page-nav">
+  <a href="index.html"><span class="nav-icon">🏠</span>ホーム</a>
+  <a href="intelligence.html"><span class="nav-icon">📋</span>インテリジェンス</a>
+  <a href="trump.html" class="active"><span class="nav-icon">🇺🇸</span>US・トランプ</a>
+  <a href="theme.html"><span class="nav-icon">🔎</span>テーマ</a>
+  <a href="midterm.html"><span class="nav-icon">🗳️</span>中間選挙</a>
+  <a href="summary.html" class="push-right"><span class="nav-icon">📋</span>エグゼクティブ・サマリー</a>
+</nav>
+<div class="trump-wrap">
+  <div class="trump-banner">
+    <div>
+      <div class="trump-banner-title">TRUMP <span>MONITOR</span></div>
+      <div class="trump-banner-sub">対象期間: 2026-07-08 ~ 2026-07-09 (UTC)
+        &nbsp;|&nbsp; <span style="opacity:.6;font-size:11px;">実データ（2026-07-09 10:03:28 生成）</span>
+      </div>
+    </div>
+    <div class="trump-banner-spacer"></div>
+    <div class="trump-stats">
+      <div class="trump-stat"><div class="trump-stat-num">16</div><div class="trump-stat-lbl">収集件数</div></div>
+      <div class="trump-stat"><div class="trump-stat-num">8</div><div class="trump-stat-lbl">セクション</div></div>
+    </div>
+  </div>
+  <div class="source-bar">
+  <div class="source-chip"><span>📱</span>Truth Social: 4件</div>
+  <div class="source-chip"><span>🎬</span>YouTube（字幕あり）: 10件</div>
+  <div class="source-chip"><span>📰</span>Google News: 2件</div>
+  </div>
+  <p class="section-label">主要ポイント</p>
+<div class="trump-card featured" style="--accent:#B48200;">
+  <div class="trump-card-header">
+    <span class="trump-icon">⭐</span>
+    <span class="trump-badge" style="background:#B48200;">主要ポイント</span>
+    <span class="trump-card-title"><a href="https://news.google.com/search?q=Trump%20statement%20White%20House%20today&amp;hl=en&amp;gl=US" target="_blank" rel="noopener noreferrer" class="trump-title-link">本日の主要ポイント</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li class="has-link"><a href="https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領は2026年NATO Ankara Summit で、NATO同盟国からの防衛投資の急増を発表。$3億ドルの主要契約と共同事業がアメリカ防衛産業基盤を強化し、数千の高給製造業職を支援する見通し。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  <li class="has-link"><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQd2JISkQzUWNER2stdWVCdi1rdEkySEh6OGNPZDU2YUl3bl9ud25YRDQ4T3dSWFNqYklqaFFkZkU0UUxGaS1yNTVxTzdFYXFLVGZfRVpHc1MzbXNtc3JnS0Z6LUZNeVNTVTduLXNTVVpTNGt1T0ZGc2Fockc5cHM5VUtXZ1ZLc0JxQTU5RjEzVEs2UXJiUWxqeg?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領は、U.S.のイラン報復空爆作戦の更新を提供。U.S.とイランが危険な報復サイクルに突入する中、同大統領は停戦が『終わった』と発言。<span class="src-tag">ホワイトハウス公式 / The Washington Post ↗</span></a></li>
+  <li class="has-link"><a href="https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領は『NATO 3.0』アプローチで、同盟国に産業拡張と自立性の強化を促進。より均衡の取れた同盟がアメリカの重要なリソースを国防に集中させることを可能にする。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  <li class="has-link"><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxObVp5NlBjLTljbktEZVE3LW9CMEIzSnFsRXlJakM4TEM1MElGalJiTUVOZUpIWktoM0hpSGlTTml1TUM0N0JqaWZUT3J0TUtQUGxpdUtRMklRWldqMmhQTlpMZlJ5SFNUOGtyNWhHQ2hFeDhmc0NfSUdTUDk0V3Njb0hNVk96Q3NLMktLcVMyT2lKV0lRUVE?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">ミネソタ州の指導者たちが、セントポール幼稚園児を標的にしたトランプ投稿を非難。同大統領のTruth Social投稿が安全保障上の懸念と批判を引き起こす。<span class="src-tag">Sahan Journal ↗</span></a></li>
+  <li class="has-link"><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNQnBpOWNkVjJQbVVsdkRsVHV6Z09PTlhoa3EtSGFaYkdhYU84endvcC1tSE56WmFDZnVsSUhCSzI1OWxtcExrWXE4VFlTTV9hQlBWQ3UtLVo0ZlhOUk1abmJoSmkyVVl0aU1wR3RZNGhLNW5nRW9aMkstaDlNeW1pSQ?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領は自身の記者会見でホワイトハウス報道官Karoline Leavittを批判。『悪いPR担当者がいるのかもしれない』と発言。<span class="src-tag">AOL.com ↗</span></a></li>
+  </ul>
+</div>
+  <p class="section-label">詳細分析</p>
+  <div class="trump-grid">
+<div class="trump-card" style="--accent:#3C3B6E;">
+  <div class="trump-card-header">
+    <span class="trump-icon">📱</span>
+    <span class="trump-badge" style="background:#3C3B6E;">SNS 発言</span>
+    <span class="trump-card-title"><a href="https://truthsocial.com/@realDonaldTrump" target="_blank" rel="noopener noreferrer" class="trump-title-link">Truth Social 発言</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li class="has-link"><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWEI3XzQ1SGxtNkRnS0Y0TjIyTHJrV2lJenZHc1gzYlZDdHJQQ2lRZHY1R1dVZ3F1dFRJS1R4X0RYYmZ0SnF2QlNNSlUwMTd6R3o2WUFFcGplMEZnYVhpSjFvQ2ZvazV3MXlPNEsyS090QzZqdmNlSjJfUkk2Y0JzVzM3dzlTc0hxcDZyMGlMcmlzQnN6Ym1zMmJIV1BEMElKYU1YamdtRE1jaWt6UmptTl9XMFFkbUxpbHFxeUU0R3Y?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領がTruth Socialでセントポール幼稚園児に関する投稿を発表。この投稿は安全保障上の懸念と批判を引き起こし、ミネソタ州指導者の非難を招く。<span class="src-tag">Truth Social報道 (MPR News) ↗</span></a></li>
+  </ul>
+</div>
+<div class="trump-card" style="--accent:#C81E32;">
+  <div class="trump-card-header">
+    <span class="trump-icon">🎤</span>
+    <span class="trump-badge" style="background:#C81E32;">記者会見・インタビュー</span>
+    <span class="trump-card-title"><a href="https://www.whitehouse.gov/briefings-statements/" target="_blank" rel="noopener noreferrer" class="trump-title-link">記者会見・メディアインタビュー</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li class="has-link"><a href="https://www.youtube.com/watch?v=9JYvcEVlu3s" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領がAnkaraでトルコ開催の記者会見に参加。NATO Summitの二国間会談と記者対応を実施。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  <li class="has-link"><a href="https://www.youtube.com/watch?v=xHhlrvRwGt8" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領がAir Force One上で報道関係者とGaggleを実施。英国Mildenhall Air Force Baseから出発時に記者と対話。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  </ul>
+</div>
+<div class="trump-card" style="--accent:#B48200;">
+  <div class="trump-card-header">
+    <span class="trump-icon">📜</span>
+    <span class="trump-badge" style="background:#B48200;">公式発表・大統領令</span>
+    <span class="trump-card-title"><a href="https://www.whitehouse.gov/presidential-actions/" target="_blank" rel="noopener noreferrer" class="trump-title-link">ホワイトハウス公式発表・大統領令</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li class="has-link"><a href="https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/" target="_blank" rel="noopener noreferrer" class="bullet-link">【NATO防衛投資】トランプ大統領がNATO Ankara Summitで、同盟国からの防衛投資の歴史的な増加を発表。ロッキード・マーティン、ノースロップ・グラマン、RTX、ボーイング等の契約で$3億ドル規模。アメリカ防衛産業基盤強化と数千の高給雇用創出を見通し。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  <li class="has-link"><a href="https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/" target="_blank" rel="noopener noreferrer" class="bullet-link">【NATO 3.0戦略】トランプ大統領の新戦略により、NATO同盟国の産業拡張と自立性強化を促進。より均衡の取れた同盟がアメリカ資源の国防集中化と国家利益の確保を可能にする。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  </ul>
+</div>
+<div class="trump-card" style="--accent:#3C3B6E;">
+  <div class="trump-card-header">
+    <span class="trump-icon">🎙</span>
+    <span class="trump-badge" style="background:#3C3B6E;">WH 記者会見</span>
+    <span class="trump-card-title"><a href="https://www.whitehouse.gov/briefings-statements/" target="_blank" rel="noopener noreferrer" class="trump-title-link">ホワイトハウス報道官ブリーフィング</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li>（該当情報なし）</li>
+  </ul>
+</div>
+<div class="trump-card" style="--accent:#C81E32;">
+  <div class="trump-card-header">
+    <span class="trump-icon">🎬</span>
+    <span class="trump-badge" style="background:#C81E32;">動画コンテンツ</span>
+    <span class="trump-card-title"><a href="https://www.youtube.com/@WhiteHouse" target="_blank" rel="noopener noreferrer" class="trump-title-link">YouTube 動画・字幕コンテンツ</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li class="has-link"><a href="https://www.youtube.com/shorts/kiFDuhtRL80" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領がイランに対する米軍報復空爆作戦の更新を提供。2026年7月8日に発表。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  <li class="has-link"><a href="https://www.youtube.com/shorts/zTEXrvAMALo" target="_blank" rel="noopener noreferrer" class="bullet-link">NATO 2026 Ankara Summit開幕。トランプ大統領の登場でアメリカが世界舞台で『かつてないほど尊重されている』ことが明白に。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  <li class="has-link"><a href="https://www.youtube.com/watch?v=HCkVj3gGZPc" target="_blank" rel="noopener noreferrer" class="bullet-link">トランプ大統領がNATO事務総長と正式な歓迎式典およびNATO Family Photoに参加。Ankara開催。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  <li class="has-link"><a href="https://www.youtube.com/watch?v=g-L3UdEASB0" target="_blank" rel="noopener noreferrer" class="bullet-link">副大統領JD VanceがミルウォーキーWIで演説。2026年7月8日。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  </ul>
+</div>
+<div class="trump-card" style="--accent:#B48200;">
+  <div class="trump-card-header">
+    <span class="trump-icon">👥</span>
+    <span class="trump-badge" style="background:#B48200;">閣僚動向</span>
+    <span class="trump-card-title"><a href="https://news.google.com/search?q=Trump%20cabinet%20Bessent%20Rubio%20Hegseth%20Vance%20statement&amp;hl=en&amp;gl=US" target="_blank" rel="noopener noreferrer" class="trump-title-link">主要閣僚の動向</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li class="has-link"><a href="https://www.youtube.com/watch?v=g-L3UdEASB0" target="_blank" rel="noopener noreferrer" class="bullet-link">【副大統領JD Vance】ミルウォーキーWIで重要演説を実施。トランプ政権の政策方針を国内で展開。<span class="src-tag">ホワイトハウス公式 ↗</span></a></li>
+  <li class="has-link"><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNQnBpOWNkVjJQbVVsdkRsVHV6Z09PTlhoa3EtSGFaYkdhYU84endvcC1tSE56WmFDZnVsSUhCSzI1OWxtcExrWXE4VFlTTV9hQlBWQ3UtLVo0ZlhOUk1abmJoSmkyVVl0aU1wR3RZNGhLNW5nRW9aMkstaDlNeW1pSQ?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">【報道官Karoline Leavitt】トランプ大統領が自身のNATO Summit記者会見で報道官を批判。『悪いPR担当者がいるのかもしれない』と発言し、報道戦略に対する不満を表明。<span class="src-tag">AOL.com ↗</span></a></li>
+  </ul>
+</div>
+<div class="trump-card japan-highlight" style="--accent:#C81E32;">
+  <div class="trump-card-header">
+    <span class="trump-icon">🇯🇵</span>
+    <span class="trump-badge" style="background:#C81E32;">日本への影響</span>
+    <span class="trump-card-title"><a href="https://news.google.com/search?q=Japan%20security%20economy%20Trump%20policy%20impact&amp;hl=en&amp;gl=US" target="_blank" rel="noopener noreferrer" class="trump-title-link">日本への影響・注目点</a></span>
+  </div>
+  <ul class="trump-bullets">
+  <li>（該当情報なし）</li>
+  </ul>
+</div>
+  </div>
+</div>
+
+<footer class="site-footer">
+  ソース: NHK・産経・日経・CNBC・FT・BBC・NYT・Reuters・Al Jazeera ほか &nbsp;|&nbsp; The Economist &nbsp;|&nbsp; White House RSS &nbsp;|&nbsp; Truth Social<br>
+  最終更新: 2026年07月09日 19:03 JST &nbsp;|&nbsp;
+  ☁️ ホーム・USトランプ: 6時間ごと自動更新 &nbsp;|&nbsp;
+  🖥️ メール・The Economist: 毎朝6:30更新（PC）<br>
+  <button onclick="triggerSiteUpdate()" style="background:none;border:none;color:var(--accent);font-size:11px;cursor:pointer;padding:0;font-family:inherit;">🔄 今すぐ更新（GitHub Actions）</button>
+  &nbsp;|&nbsp; World News
+</footer>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const grid = document.querySelector('.trump-grid');
+  const jp   = grid && grid.querySelector('.japan-highlight');
+  if (jp) grid.appendChild(jp);
+});
+</script>
+</body></html>

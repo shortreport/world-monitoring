@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>個別テーマ | World News</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --primary:    #16163e;
+      --eco-red:    #C8141E;
+      --surface:    #ffffff;
+      --surface-2:  #f3f4f6;
+      --border:     #e2e4e9;
+      --text:       #1a1a2e;
+      --text-sub:   #5f6368;
+      --radius:     12px;
+      --accent:     #0096c8;
+      --card-bg:    #f0f8ff;
+    }
+
+    body {
+      font-family: 'Noto Sans JP', -apple-system, 'Hiragino Sans',
+                   'Yu Gothic UI', 'Meiryo', sans-serif;
+      background: var(--surface-2);
+      color: var(--text);
+      line-height: 1.65;
+      font-size: 14px;
+    }
+
+    /* ── Site Header ── */
+    .site-header {
+      background: var(--primary); color: #fff;
+      padding: 0 24px; height: 58px;
+      display: flex; align-items: center; gap: 16px;
+      position: sticky; top: 0; z-index: 300;
+      box-shadow: 0 2px 8px rgba(0,0,0,.25);
+    }
+    .logo { font-size: 20px; font-weight: 700; letter-spacing: .5px; white-space: nowrap; }
+    .logo em { color: #5bc8f5; font-style: normal; }
+    .header-date { font-size: 12px; color: rgba(255,255,255,.5); white-space: nowrap; }
+    .header-spacer { flex: 1; }
+    .live-badge { background: #e63946; color: #fff; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; letter-spacing: 1px; }
+    .update-time { font-size: 11px; color: rgba(255,255,255,.4); white-space: nowrap; }
+    .force-update-btn {
+      display: inline-flex; align-items: center; gap: 4px;
+      background: rgba(255,255,255,.1); color: rgba(255,255,255,.65);
+      border: 1px solid rgba(255,255,255,.25); border-radius: 14px;
+      padding: 4px 11px; font-size: 11px; font-weight: 600;
+      cursor: pointer; white-space: nowrap; font-family: inherit;
+      transition: background .15s, color .15s, border-color .15s;
+    }
+    .force-update-btn:hover { background: rgba(255,255,255,.22); color: #fff; border-color: rgba(255,255,255,.5); }
+    .force-update-btn:disabled { opacity: .55; cursor: not-allowed; }
+
+    /* ── Page Navigation Tabs ── */
+    .page-nav {
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: 0 24px; display: flex; align-items: stretch;
+      position: sticky; top: 58px; z-index: 200;
+      box-shadow: 0 1px 4px rgba(0,0,0,.06);
+    }
+    .page-nav a {
+      display: flex; align-items: center; gap: 6px;
+      padding: 0 18px; height: 44px;
+      font-size: 14px; font-weight: 500; color: var(--text-sub);
+      text-decoration: none; border-bottom: 3px solid transparent;
+      white-space: nowrap; transition: color .15s, border-color .15s;
+    }
+    .page-nav a:hover { color: var(--text); }
+    .page-nav a.active { color: var(--primary); border-bottom-color: var(--primary); font-weight: 700; }
+    .page-nav a .nav-icon { font-size: 15px; }
+    .page-nav a:last-child { margin-left: auto; border-left: 1px solid var(--border); }
+
+    /* ── Section label ── */
+    .section-label {
+      font-size: 11px; font-weight: 700; color: var(--text-sub);
+      text-transform: uppercase; letter-spacing: 1.2px;
+      margin: 0 0 12px; padding-bottom: 8px; border-bottom: 2px solid var(--border);
+    }
+
+    /* ── Clickable bullet styles ── */
+    li.has-link { cursor: pointer; }
+    .bullet-link {
+      display: block;
+      color: inherit;
+      text-decoration: none;
+      position: relative;
+      padding-right: 4px;
+      transition: color .15s;
+    }
+    .bullet-link:hover { color: var(--accent); }
+    .src-tag {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--text-sub);
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 1px 5px;
+      margin-left: 7px;
+      vertical-align: middle;
+      white-space: nowrap;
+      opacity: 0.55;
+      transition: opacity .15s, color .15s, background .15s, border-color .15s;
+    }
+    .bullet-link:hover .src-tag {
+      opacity: 1;
+      color: var(--accent);
+      background: #e8f4ff;
+      border-color: var(--accent);
+    }
+    /* FT (Financial Times) source highlight */
+    .src-tag-ft {
+      color: #c45000;
+      background: #fff3ea;
+      border-color: #e8925a;
+      opacity: 0.85;
+    }
+    .bullet-link:hover .src-tag-ft {
+      color: #a03800;
+      background: #ffe8d6;
+      border-color: #c45000;
+    }
+
+    /* ── Clickable card title ── */
+    .card-title-link {
+      color: inherit;
+      text-decoration: none;
+      transition: color .15s;
+    }
+    .card-title-link:hover { color: var(--accent); }
+    .card-title-link:hover::after {
+      content: " ↗";
+      font-size: 14px;
+      color: var(--accent);
+      opacity: .7;
+    }
+
+    /* ── Footer ── */
+    .site-footer {
+      text-align: center; padding: 24px;
+      font-size: 12px; color: var(--text-sub);
+      margin-top: 32px; border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 640px) {
+      .site-header { padding: 0 14px; gap: 10px; }
+      .page-nav { padding: 0 8px; }
+      .page-nav a { padding: 0 12px; font-size: 13px; }
+      .update-time { display: none; }
+      .force-update-btn { display: none; }
+    }
+
+
+    .theme-wrap { max-width: 1040px; margin: 24px auto; padding: 0 20px; }
+
+    /* ── テーマ切り替えタブ ── */
+    .theme-tabs-nav {
+      display: flex; gap: 6px; flex-wrap: wrap;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 8px 12px;
+      margin-bottom: 14px;
+    }
+    .theme-tab {
+      padding: 6px 18px; border-radius: 20px; font-size: 13px; font-weight: 600;
+      cursor: pointer; border: 1.5px solid #ccc; background: #fff; color: #555;
+      transition: all .15s; white-space: nowrap;
+    }
+    .theme-tab.active { color: #fff; border-color: transparent; }
+    .theme-tab:not(.active):hover { background: #f0f4ff; border-color: #aac; }
+
+    /* ── テーマパネル（--tc = テーマカラー）── */
+    .theme-panel { --tc: #003F8A; }
+
+    /* ── バナー ── */
+    .theme-banner {
+      border-radius: var(--radius); padding: 18px 24px; margin-bottom: 16px;
+      display: flex; align-items: center; gap: 20px; flex-wrap: wrap;
+    }
+    .theme-banner-title { font-size: 20px; font-weight: 700; color: #fff; letter-spacing: .4px; }
+    .theme-banner-title span { color: #FFCC00; font-size: 14px; font-weight: 500; }
+    .theme-banner-desc { font-size: 11px; color: rgba(255,255,255,.6); margin-top: 3px; }
+    .theme-banner-spacer { flex: 1; }
+    .theme-stats { display: flex; gap: 12px; flex-wrap: wrap; }
+    .theme-stat { text-align: center; background: rgba(255,255,255,.12); border-radius: 8px; padding: 8px 14px; }
+    .theme-stat-num { font-size: 18px; font-weight: 700; color: #FFCC00; }
+    .theme-stat-lbl { font-size: 10px; color: rgba(255,255,255,.5); }
+
+    /* ── アイテム ── */
+    .theme-item {
+      background: var(--surface); border-radius: var(--radius);
+      border: 1px solid var(--border); border-left: 4px solid var(--tc);
+      padding: 14px 18px; margin-bottom: 10px; transition: box-shadow .2s;
+    }
+    .theme-item:hover { box-shadow: 0 4px 14px rgba(0,0,0,.08); }
+    .theme-item.is-new { border-left-color: #F59E0B; background: #fffef0; }
+
+    .theme-item-header { display: flex; align-items: flex-start; gap: 8px; margin-bottom: 6px; flex-wrap: wrap; }
+    .theme-new-badge {
+      background: #F59E0B; color: #fff; font-size: 10px; font-weight: 700;
+      padding: 2px 7px; border-radius: 10px; white-space: nowrap; flex-shrink: 0; margin-top: 2px;
+    }
+    .theme-src-badge {
+      font-size: 10px; font-weight: 600; padding: 2px 8px; border-radius: 10px;
+      white-space: nowrap; flex-shrink: 0; margin-top: 2px;
+    }
+    .theme-src-official   { background: #dbeafe; color: #1d4ed8; }
+    .theme-src-politician { background: #fff3cd; color: #92400e; }
+    .theme-src-industry   { background: #fce7f3; color: #9d174d; }
+    .theme-src-china      { background: #fee2e2; color: #991b1b; }
+    .theme-src-media      { background: #d1fae5; color: #065f46; }
+    .theme-date { font-size: 11px; color: var(--text-sub); flex-shrink: 0; margin-top: 3px; white-space: nowrap; }
+    .theme-item-title { font-size: 13px; font-weight: 600; color: var(--text); line-height: 1.5; flex: 1; min-width: 0; }
+    .theme-item-title a { color: inherit; text-decoration: none; }
+    .theme-item-title a:hover { color: var(--tc); text-decoration: underline; }
+    .theme-summary { font-size: 12px; color: var(--text-sub); line-height: 1.75; margin-top: 5px; }
+    .theme-source-name { font-size: 11px; color: #aaa; margin-top: 4px; }
+
+    /* ── フィルタバー ── */
+    .theme-filter-bar { display: flex; gap: 7px; flex-wrap: wrap; margin-bottom: 14px; }
+    .theme-filter-btn {
+      padding: 4px 13px; border-radius: 20px; font-size: 12px; font-weight: 600;
+      cursor: pointer; border: 1.5px solid #ccc; background: #fff; color: #555;
+      transition: all .15s;
+    }
+    .theme-filter-btn.active { background: var(--tc); color: #fff; border-color: var(--tc); }
+    .theme-filter-btn:not(.active):hover { border-color: var(--tc); color: var(--tc); }
+
+    .theme-empty { text-align: center; color: var(--text-sub); font-size: 13px; padding: 40px 20px; }
+
+    @media (max-width: 640px) {
+      .theme-wrap { padding: 0 12px; }
+      .theme-banner { padding: 14px; }
+      .theme-banner-title { font-size: 16px; }
+      .theme-stats { display: none; }
+      .theme-tab { font-size: 12px; padding: 5px 12px; }
+    }
+
+  .lang-toggle { display: flex; gap: 6px; font-size: 12px; }
+.lang-toggle a { color: rgba(255,255,255,.6); text-decoration: none; padding: 3px 10px; border-radius: 4px; border: 1px solid rgba(255,255,255,.3); transition: all .15s; font-weight: 600; }
+.lang-toggle a.active { color: #fff; background: rgba(255,255,255,.2); border-color: rgba(255,255,255,.7); }
+.lang-toggle a:hover { color: #fff; background: rgba(255,255,255,.12); }
+.page-nav a.push-right { margin-left: auto; }</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="logo" onclick="location.href='index.html'" style="cursor:pointer;" title="ホームへ">World<em>News</em></div>
+  <div class="header-date">2026年07月09日</div>
+  <div class="header-spacer"></div>
+  <div class="update-time">最終更新: 2026年07月09日 19:03 JST &nbsp;|&nbsp; 6時間ごと自動更新</div>
+  <button id="force-update-btn" class="force-update-btn" onclick="triggerSiteUpdate()" title="GitHub Actions ワークフローを起動してサイトを更新">🔄 今すぐ更新</button>
+  <div class="live-badge">LIVE</div>
+
+  <div class="lang-toggle">
+    <a href="theme.html" class="active">JP</a>
+    <a href="../en/theme.html">EN</a>
+  </div></header>
+<script>
+(function(){
+  function triggerSiteUpdate(){
+    var btn=document.getElementById('force-update-btn');
+    btn.textContent='⏳ 更新中…';
+    btn.disabled=true;
+    location.href=location.pathname+'?r='+Date.now();
+  }
+  if(location.search.startsWith('?r=')){
+    history.replaceState(null,'',location.pathname);
+  }
+  window.triggerSiteUpdate=triggerSiteUpdate;
+})();
+</script>
+<nav class="page-nav">
+  <a href="index.html"><span class="nav-icon">🏠</span>ホーム</a>
+  <a href="intelligence.html"><span class="nav-icon">📋</span>インテリジェンス</a>
+  <a href="trump.html"><span class="nav-icon">🇺🇸</span>US・トランプ</a>
+  <a href="theme.html" class="active"><span class="nav-icon">🔎</span>テーマ</a>
+  <a href="midterm.html"><span class="nav-icon">🗳️</span>中間選挙</a>
+  <a href="summary.html" class="push-right"><span class="nav-icon">📋</span>エグゼクティブ・サマリー</a>
+</nav>
+<div class="theme-wrap">
+  <p class="section-label" style="margin-top:8px;">モニタリングテーマ</p>
+  <div class="theme-tabs-nav">
+  <button class="theme-tab active" data-theme="iaa" style="background:#003F8A; border-color:#003F8A;">🇪🇺 欧州産業加速法案（IAA）</button>
+  <button class="theme-tab" data-theme="cvsa">🚗 米国接続車両安全保障法（S.4429）</button>
+  <button class="theme-tab" data-theme="rare_earth">⛏️ 中国レアアース輸出管理</button>
+  </div>
+<div id="panel-iaa" class="theme-panel" style="--tc:#003F8A;">
+  <div class="theme-banner" style="background:linear-gradient(135deg,#003F8A 0%,#003F8Acc 70%,#003F8A88 100%);">
+    <div>
+      <div class="theme-banner-title">🇪🇺 欧州産業加速法案（IAA） <span>European Industrial Accelerator Act</span></div>
+      <div class="theme-banner-desc">欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡 &nbsp;|&nbsp; <span style="opacity:.7;font-size:10px;">最終収集: 2026-07-09 19:03:35</span></div>
+    </div>
+    <div class="theme-banner-spacer"></div>
+    <div class="theme-stats"><div class="theme-stat"><div class="theme-stat-num">10</div><div class="theme-stat-lbl">直近7日</div></div><div class="theme-stat"><div class="theme-stat-num">8</div><div class="theme-stat-lbl">新着（3日）</div></div></div>
+  </div>
+  <div class="theme-filter-bar">
+  <button class="theme-filter-btn active" data-filter="all">すべて</button>
+  <button class="theme-filter-btn" data-filter="official">🏛️ 公式機関</button>
+  <button class="theme-filter-btn" data-filter="media">📰 メディア</button>
+  </div>
+  <div class="theme-list">
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 メディア</span><span class="theme-date">📅 2026-07-08</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5PbG80UzRDRUU2NDFRSmQyd1B2TjR4N0hLTjRLb29qQmJjZmo0cXJtXzJxRC1xZDNMMlBJak9DRzVfSWVsOEJhUFdNRVRZcDBVRm1vMXJfNFg5Qm5fRzNMOVRVTEtYWUQ0Q0NXZkY2WGJlQlBzT3c?oc=5" target="_blank" rel="noopener noreferrer">Renault turned down BYD investment offers, report says, as Chinese automakers pursue EU production - Automotive News</a></span>
+  </div>
+  <div class="theme-summary">ルノーが中国の電動車大手BYDからの投資提案を拒否したとされており、これは欧州産業加速法案（IAA）の規制強化に対応するため中国系自動車メーカーが欧州での現地生産進出を急速に進める動きの一環である。</div>
+  <div class="theme-source-name">出典: Google News</div>
+</div>
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ 公式機関</span><span class="theme-date">📅 2026-07-08</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQUFIdkg2eFZ5WWxOdVkzd2NMMmpseWZ2VFhHVXEzQlNHSV9XOFk5a1lKb3RjelJXS0FMWWNLdlZCZDd0YXRqdjg1MDJXMDVWdTUyVGh6Q3JsSmd4ODNmSjJBWUVDemo0bkh0RnJNS3RFaGZnTUxYcEVabGtSWVVsTDNpR21vakgzUGhnM0V0TE8tcEVLaUtyNHRpLUFYdlJpQ0phY2pGT2hhOEotdks0VGE1UUtnekpvb0xyNUxkQzRoVFVpaWtRUWtpV09LQU9lVVE?oc=5" target="_blank" rel="noopener noreferrer">Industry coalition urges European Commission to unlock state aid for cleantech manufacturing - Review Energy</a></span>
+  </div>
+  <div class="theme-summary">欧州の産業連合は、欧州委員会に対してクリーンテック製造業への国家補助金の解放を促促しており、これは産業加速法案（IAA）の目標である欧州の産業競争力強化と脱炭素化投資の加速を実現するための重要な施策となっている。</div>
+  <div class="theme-source-name">出典: EU産業政策</div>
+</div>
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 メディア</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlRMWXgyVGdWYk5NUTcwcDFoUDFUSHVxNWxHbVJnS3haWVA4TmJiYzZGMDZySmFramdvUWMzNkFrT0tIZ0Z6aEdGODIxS1hxcnk1eF9ReVlsd1pJNkFhZzg0bEJNSG5uMnNPUU1iRnVhcXVPSlNtTW9LY0gzTHc3Rk9wX3RudW9CaWRXdk1VSFRVMlVjenplc0pCN09JeEVrLUNCZ2xDZGlwem1LaEZTdXI2WGl2bHVPSWfSAVpBVV95cUxNSTgtTHNjcWllLVlLYlNXV0g4M0ZnSU42Y2dOVEctLWhrLVFMdWFudHZsTkJlRDRtdi1mUzl1YmNmZnVVTXNQLVdIRnFyd2VRRzhJV0FEaEVQZHc?oc=5" target="_blank" rel="noopener noreferrer">Šefčovič urges advancement of Industrial Accelerator Act, trade agenda - MLex</a></span>
+  </div>
+  <div class="theme-summary">欧州委員会副委員長シェフチョヴィッチは、欧州産業加速法案（IAA）の進展と通商課題の推進を促促しており、欧州の産業競争力強化と経済成長を実現するための施策の加速を求めています。</div>
+  <div class="theme-source-name">出典: Google News</div>
+</div>
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 メディア</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRkhpNXctQ2NlN2FQTFdjRFVaWU5aajZLVlR0NW9KYjFMV0ZiQzVXdWVsUkoyNzc3TWJGUmFaSEhybjZIOHlkMXduelY3bXZpZ3hNeThyTzBWUzFsNDc1OGdaLS1YbkQtYnJtcndBb3VMNDhfVmJkZTUwc1ZMUEw4bEtfS3EwWjV0ckVKMkc1allrcmVrZ0xiU2hDcDNZWlVleEZHU1R5N0c0MHJvVHRJTHE1OUpMbmk30gFaQVVfeXFMTUk4LUxzY3FpZS1ZS2JTV1dIODNGZ0lONmNnTlRHLS1oay1RTHVhbnR2bE5CZUQ0bXYtZlM5dWJjZmZ1VU1zUC1XSEZxcndlUUc4SVdBRGhFUGR3?oc=5" target="_blank" rel="noopener noreferrer">Šefčovič urges advancement of Industrial Accelerator Act, trade agenda - MLex</a></span>
+  </div>
+  <div class="theme-summary">マロシュ・シェフチョヴィッチ欧州委員会副委員長は、欧州産業加速法案（IAA）の進展と貿易アジェンダの推進を促しており、産業競争力強化と経済成長加速が主要な目標である。</div>
+  <div class="theme-source-name">出典: Google News</div>
+</div>
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ 公式機関</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0FMWEpsSGYtWDJCcnI0VldzbFVFM3Fua2tuZE8wenZkRS1TWGVKVzlMX3JiLW45UFBlQzlIQUJxcTVRUzdYbjYyT1cyWTNKMXhfcGNNQy0ySUhRNXE2b0drTmVyS2lxX05TMkFMejhHUXpjbEgwZktHMWhlUThiZklvVnc1S1pnNFJZTXZsNXVRVkFuTHU2eHBiMkhFWWRUU2x5NVRFQzB2WlZjdGdRbUJNRUd1aGhrWTlJ?oc=5" target="_blank" rel="noopener noreferrer">EU Should Open State Aid To Cleantech Manufacturing To Meet Electrification Goals - CleanTechnica</a></span>
+  </div>
+  <div class="theme-summary">EUのクリーンテック製造業に対する国庫補助を拡大することで、電動化目標達成を加速させるべきであり、産業加速法案（IAA）はこうした支援体制の強化を通じて欧州の競争力を維持する必要があるという主張である。</div>
+  <div class="theme-source-name">出典: EU産業政策</div>
+</div>
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ 公式機関</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQeFViWVhCY0ZwTlNpdTNqTDFPSC1STTl4MXRKeUJhNjMwbEFRZWk5R3JWUmJhLUFLY2RHbmhUMlJSdTAxV0JrLTVENWFHUTc1RXBTcFFoODVvOXVPc0JfTjUzd3dCRFR5YlN1WG5FVDhmVmVZNU92MS1FR3FsS1ltTUNWUnBIeDdEM0lmLVVkSFRLVzg?oc=5" target="_blank" rel="noopener noreferrer">ACEA statement on CBAM downstream extension proposal - ACEA - European Automobile Manufacturers&#x27; Association - ACEA - European Automobile Manufacturers&#x27; Association</a></span>
+  </div>
+  <div class="theme-summary">欧州自動車工業会（ACEA）は、炭素国境調整メカニズム（CBAM）の下流産業への拡大提案に関する声明を発表し、自動車産業への影響と競争力への懸念を表明したものと考えられます。
+
+（注：提供いただいたテキストにはタイトルのみで具体的な内容がないため、一般的な文脈に基づいた要約となっています。詳細な内容が必要な場合は、記事の本文をご提供ください。）</div>
+  <div class="theme-source-name">出典: 欧州議会</div>
+</div>
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ 公式機関</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXRQME5TMjZQYm5oaWhCXzRTOFZfbjBRYTItaFpGc3BVWlJfUDFDUlpCMzYxcVEzUlJWdnM1T0ozdUt3VFY5c2ZLbDVmVkNzbldGTkplazlURTNOV1FyQi1yekdrOWxwX2k5VjQtMk1UZ0R5MlFVbW44dk15RXdtb1VsaEEyRlhYaE90ajlFR0RtVi1ibGVwVG9YU0xCeXZoNnh5OHZHOEZROWo1ZHAwV0ZtRmRXR1ptRlpTbm55TkJzUFRteXc?oc=5" target="_blank" rel="noopener noreferrer">EU should open state aid to cleantech manufacturing to meet electrification goals - transportenvironment.org</a></span>
+  </div>
+  <div class="theme-summary">EUがクリーンテク製造業への国家支援を拡大すべきというのは、欧州産業加速法案（IAA）の文脈において、電動化目標を達成するために必要な施策であることを示唆している。IAAは戦略的産業の競争力強化を目的とした法案であり、クリーンテク製造への支援拡大はこの目標達成の重要な要素である。</div>
+  <div class="theme-source-name">出典: EU産業政策</div>
+</div>
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ 公式機関</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNSHpHcnF3Y2puUTAxbzBwNU5ndmJXZlB1VldxbzBfWnhyVHZnWFBIOEh4NWpKMHliekJpY3BRODFrQW1pblVIdkhDZ3l0TkVHYVhIU2wzZjAwSWNFYmFGNzBxRFNDZHNNOVNnUHM3bVBpWXZzS1JFTFR5ZWxmb1dieWlINlJMWU5iSk5IQ0MyNm5wU0NKZk1rT21uRlM?oc=5" target="_blank" rel="noopener noreferrer">Europe’s raw materials ambitions need industrial investment - The European Sting</a></span>
+  </div>
+  <div class="theme-summary">欧州産業加速法案（IAA）の目的達成には、欧州内のレアアースやバッテリー材料などの重要鉱物の採掘・加工産業への積極的な産業投資が不可欠であり、これにより中国への依存を低減して戦略的自立性を確保する必要があります。</div>
+  <div class="theme-source-name">出典: 欧州議会</div>
+</div>
+<div class="theme-item" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-media">📰 メディア</span><span class="theme-date">📅 2026-07-03</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNYjRTbTNBREt3QmlDT3U1a0Q3NFViUGlma004SjV3UERZNVlobThTNmdjTVVDMzcxS3E3ZS1XTE5JcUhNQzRYbUZ1N2ZBTkRqbV9icjFyWFQzNjgtcDUwbnA1bjlNYnNxbjFHa3FaUU5NMHdjaE9sdlNINzliNE5fOW5IcHBJV0lXX2xlZHhiZko3eW1QbVppUENfekJkWnFXNVhDTnZ2UVladWZDV0pN?oc=5" target="_blank" rel="noopener noreferrer">ACEA issues position on the Industrial Accelerator Act - European Rubber Journal</a></span>
+  </div>
+  <div class="theme-summary"># 要約が表示されるため、記事の具体的な内容が必要です
+
+申し訳ございませんが、提供いただいた情報は「タイトル」と「内容」がほぼ同じで、ACEA（欧州自動車工業会）の立場の具体的な詳細が記載されていません。IAA に対する ACEA の具体的な見解（規制要件、産業競争力、技術標準など）が明記された記事本文をご提供いただければ、正確に要約させていただけます。</div>
+  <div class="theme-source-name">出典: Google News</div>
+</div>
+<div class="theme-item" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-media">📰 メディア</span><span class="theme-date">📅 2026-07-02</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxON2lYVE8wRDNJTTlPVnJuT0NUZ1ZRcEE2SGlMbDVHNXFYTkZlNHFfNVA2aWt3N3diOGhSVHNxcEloVkFac0NMaXRFUkF2ZWp4ODBsX3NyRUtYS1l4UFpUY3JPejRIYVVpNXpRcTdWdDI4RV95cHpLaXMwNVV0X1FBYnpjOEM1UVBSNWVSLVpIX2VJVVBHZ01XUTB1b3VVWjJablE0WG9uWQ?oc=5" target="_blank" rel="noopener noreferrer">European carmakers urge EU to protect investments in Türkiye and Morocco - AnewZ</a></span>
+  </div>
+  <div class="theme-summary">欧州の自動車メーカーはEUに対し、トルコとモロッコへの投資保護を求めており、これは欧州産業加速法案（IAA）による産業再構成の中で、域外への製造拠点維持の重要性を示唆している。IAAは域内産業強化を目指す一方で、既存の域外投資との関係調整が課題となっている。</div>
+  <div class="theme-source-name">出典: Google News</div>
+</div>
+  </div>
+</div>
+<div id="panel-cvsa" class="theme-panel" style="display:none; --tc:#B22234;">
+  <div class="theme-banner" style="background:linear-gradient(135deg,#B22234 0%,#B22234cc 70%,#B2223488 100%);">
+    <div>
+      <div class="theme-banner-title">🚗 米国接続車両安全保障法（S.4429） <span>Connected Vehicle Security Act of 2026</span></div>
+      <div class="theme-banner-desc">米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡 &nbsp;|&nbsp; <span style="opacity:.7;font-size:10px;">最終収集: 2026-07-09 19:03:42</span></div>
+    </div>
+    <div class="theme-banner-spacer"></div>
+    <div class="theme-stats"><div class="theme-stat"><div class="theme-stat-num">6</div><div class="theme-stat-lbl">直近7日</div></div><div class="theme-stat"><div class="theme-stat-num">4</div><div class="theme-stat-lbl">新着（3日）</div></div></div>
+  </div>
+  <div class="theme-filter-bar">
+  <button class="theme-filter-btn active" data-filter="all">すべて</button>
+  <button class="theme-filter-btn" data-filter="official">🏛️ 公式機関</button>
+  <button class="theme-filter-btn" data-filter="industry">🏭 業界・企業</button>
+  <button class="theme-filter-btn" data-filter="media">📰 メディア</button>
+  </div>
+  <div class="theme-list">
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ 公式機関</span><span class="theme-date">📅 2026-07-09</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdldmYmpQS2dYaVFlVmJKQXZHWlFiVWY0NnNjMVpJdTdRblJEcnhyeFBidTBTcUswMVQ2RU9Cb0lucEdYSmlCcVduTDBPbmJ6b21mczl4aWRjOG50V2VKVm1tWG5IeDRIckI0MEI0OVhUMDRRZllvVVpmSV9MZ1hrY3o2R3hmVGs4TVR2WjlCQldPSEwxdkVOaWt1NGplVWdBeVYxVFhkWE9yVUpTbTBPUEd0cU9tZXFhOGI5UWUtLVBVcGV4cUo5YVRSLVl5elBUSEFJVGxpWdIB1wFBVV95cUxNdldmYmpQS2dYaVFlVmJKQXZHWlFiVWY0NnNjMVpJdTdRblJEcnhyeFBidTBTcUswMVQ2RU9Cb0lucEdYSmlCcVduTDBPbmJ6b21mczl4aWRjOG50V2VKVm1tWG5IeDRIckI0MEI0OVhUMDRRZllvVVpmSV9MZ1hrY3o2R3hmVGs4TVR2WjlCQldPSEwxdkVOaWt1NGplVWdBeVYxVFhkWE9yVUpTbTBPUEd0cU9tZXFhOGI5UWUtLVBVcGV4cUo5YVRSLVl5elBUSEFJVGxpWQ?oc=5" target="_blank" rel="noopener noreferrer">US Senate committee to vote on bill to tighten ban on Chinese vehicles - ET Auto</a></span>
+  </div>
+  <div class="theme-summary">米国上院委員会は、中国製車両の規制をさらに強化する法案（S.4429）について投票を行い、自動運転機能やソフトウェアに関連した中国の技術的影響力を制限することで、米国の接続車両のサイバーセキュリティと国家安全保障を保護することを目指しています。</div>
+  <div class="theme-source-name">出典: 上院商業委員会</div>
+</div>
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ 公式機関</span><span class="theme-date">📅 2026-07-09</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcmJDUG1UbWtEZUx2d0N6SkZXeGtRamJ3WmRXXzB2d1ozbzh6YTZvTXNobkpPRTJXckozUTBPZ3QxS1RRNV9Gd3BMZTFGckR4bE9VSlozZElxTUljUG13NkVjWl9DcGRqTEx6TGhFNTVtRFRwSGFLcXpoWkZEN2tXeEVubjRBdC13WHhzQWtOQTN0UXpDNDFCbXRvRVNIb2tvamYzS1BWSHVUazY3WUNUcWh3Tm9oNFB0c1psbXFGMDRLVFRXSU1NRVJwS1FWQ1U5NlHSAdcBQVVfeXFMTXZXZmJqUEtnWGlRZVZiSkF2R1pRYlVmNDZzYzFaSXU3UW5SRHJ4cnhQYnUwU3FLMDFUNkVPQm9JbnBHWEppQnFXbkwwT25iem9tZnM5eGlkYzhudFdlSlZtbVhuSHg0SHJCNDBCNDlYVDA0UWZZb1VaZklfTGdYa2N6Nkd4ZlRrOE1Udlo5QkJXT0hMMXZFTmlrdTRqZVVnQXlWMVRYZFhPclVKU20wT1BHdHFPbWVxYThiOVFlLS1QVXBleHFKOWFUUi1ZeXpQVEhBSVRsaVk?oc=5" target="_blank" rel="noopener noreferrer">US Senate committee to vote on bill to tighten ban on Chinese vehicles - ET Auto</a></span>
+  </div>
+  <div class="theme-summary">米国上院委員会が中国製車両の輸入禁止をさらに厳格化する法案（S.4429）の採決を行う予定であり、この法案は中国メーカーの米国市場への参入をより強く制限することを目的としている。</div>
+  <div class="theme-source-name">出典: 上院商業委員会</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNeExwSkZTV0doVXM0ZG9ISlJDWUNkb01xVTV6ZVgyY0xhTS1QdzYzRGx3MFBJWjBaM2c2TFNXRkNkVUIzblpIMGp2MG0yeWhQYXRvRE5rYVRQYkZObHpxckd4cDhYZ2toRVJFN3V0QlIyU054ZkJxX2pBX2YxYkdSeTJadllpUHNVcmJ3ZEI2dlNURDdmY2ZtazRMWTJRTzI0djcyQ0RLcjItZ1RnVUMwc2VZYW85Zw?oc=5" target="_blank" rel="noopener noreferrer">BYD Seal 08 Earns 65,000 Orders in 30 Hours for $29,000 Flagship Sedan - Tech Times</a></span>
+  </div>
+  <div class="theme-summary">BYD Seal 08が30時間で65,000台の受注を獲得し、米国がS.4429を通じて中国EVメーカーの市場進出を制限しようとする中、BYDの急速な成長と市場支配力が強化されている。本車は約29,000ドルのフラッグシップセダンとして位置付けられ、米国の自動車安全保障政策への対抗圧力となっている。</div>
+  <div class="theme-source-name">出典: 半導体・Tier1サプライヤー</div>
+</div>
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 メディア</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPMlNvNW5QOC1HdU9pQzFsMnUwMjNFZ19qeGlUQmdjUEtYVGdjbGswZ2hCbUFZSmZhek9zMnpxZ3oxT1hoMTdSM1VhYjZ1UkpvcFJVQmhwWHN5VTE2WVhvS0NJbGRSN2hfY2NRNVQyQTJ5M3Axend5dVV4YkFSS3FRSkxsNFBsRGJ3anIwMXdrODZrQWNjVTF6WGZJb2hhR1YtUlJjVw?oc=5" target="_blank" rel="noopener noreferrer">Insignary Closes SBOM Accuracy Gap With Binary-Level Clarity for Regulatory Risk - Hackread</a></span>
+  </div>
+  <div class="theme-summary">Insignary社がSBOM（ソフトウェア部品表）の精度を向上させるバイナリレベルの検証技術を提供することで、S.4429で求められる車両サイバーセキュリティ規制への対応リスクを低減している。この技術により、自動車メーカーはソフトウェアコンポーネントの透明性確保と規制遵守を強化できる。</div>
+  <div class="theme-source-name">出典: メディア分析</div>
+</div>
+<div class="theme-item" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-media">📰 メディア</span><span class="theme-date">📅 2026-07-05</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNUFVtckZOVVFWS0pXcFFwbmtrNEwxNU1nQ1ZzUEVQOGIzNkJhSUJHNVpyeTZUbFVVOTF1TFlZdXNjS3pwSVpvYTU2ZFFBOVFxQVdvcDV2bzhWRnhwM2NBNjdEUmFKZzZDOS1idkxHNlZYdGhITzhvaVVXeXAzWUxOVlVxd3M1YkdMVkhPVmVCV2hLN3lDdUJVX0hlYU5FTnFxY2s3S01wZzlNaWtOcnFLd0ZYRXhDbDk2SzEwRUlDalREUlhyVDRDWWVMQ1F1Zw?oc=5" target="_blank" rel="noopener noreferrer">World Automotive Tire Tread Sensors - Market Analysis, Forecast, Size, Trends and Insights - IndexBox</a></span>
+  </div>
+  <div class="theme-summary">申し訳ございませんが、提供いただいたタイトルと内容は市場分析レポートの表題のみで、具体的な本文内容がないため、「米国接続車両安全保障法（S.4429）」との関連性を判断して要約することができません。記事の本文をご提供ください。</div>
+  <div class="theme-source-name">出典: メディア分析</div>
+</div>
+<div class="theme-item" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-03</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5QZGhpcEM2SVRaUDM3el9yU21vbTZVZkpWMDZvVVJjLWNzcTIzTmxHT1RMenB0eVVjVmotU3NkT3RYRGJLTWxyM3pQdXMtdTl3YmtNTUo4dWNsN3lRSFM1MkFLT2Y5V3p4WDR0ZU9nRVJBU1la?oc=5" target="_blank" rel="noopener noreferrer">Automotive Cybersecurity Market Size to Hit USD 21.11 Billion By 2035 - Precedence Research</a></span>
+  </div>
+  <div class="theme-summary">自動車サイバーセキュリティ市場は2035年までに211億ドルに達すると予測されており、S.4429が求める接続車両のセキュリティ基準強化に対応する需要が急速に拡大していることを示唆している。本市場の成長は、規制要件の厳格化と消費者のセキュリティ意識の高まりに牽引されると考えられる。</div>
+  <div class="theme-source-name">出典: 半導体・Tier1サプライヤー</div>
+</div>
+  </div>
+</div>
+<div id="panel-rare_earth" class="theme-panel" style="display:none; --tc:#1a6b3a;">
+  <div class="theme-banner" style="background:linear-gradient(135deg,#1a6b3a 0%,#1a6b3acc 70%,#1a6b3a88 100%);">
+    <div>
+      <div class="theme-banner-title">⛏️ 中国レアアース輸出管理 <span>China Rare Earth Export Controls</span></div>
+      <div class="theme-banner-desc">中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡 &nbsp;|&nbsp; <span style="opacity:.7;font-size:10px;">最終収集: 2026-07-09 19:03:54</span></div>
+    </div>
+    <div class="theme-banner-spacer"></div>
+    <div class="theme-stats"><div class="theme-stat"><div class="theme-stat-num">20</div><div class="theme-stat-lbl">直近7日</div></div><div class="theme-stat"><div class="theme-stat-num">17</div><div class="theme-stat-lbl">新着（3日）</div></div></div>
+  </div>
+  <div class="theme-filter-bar">
+  <button class="theme-filter-btn active" data-filter="all">すべて</button>
+  <button class="theme-filter-btn" data-filter="official">🏛️ 公式機関</button>
+  <button class="theme-filter-btn" data-filter="industry">🏭 業界・企業</button>
+  <button class="theme-filter-btn" data-filter="media">📰 メディア</button>
+  </div>
+  <div class="theme-list">
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-08</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamluSWtoNzRXVThxWWNjbkNQMEVkdG5sWVdYdjdENTVVUnl4UWJoaHktZDdGWEdzWmREVUFNelhBc2RxN1ZzYkJGM09JcUJmd2tQc1lyMFVhYmlCNC1MbFdhMWRBc1l5WGJ6OVlBelFVRGNfWjltYUNaZDBQNldlR1pmTXk3cXBTRTFibnBWWFk2S2JBSWp5T05rYkNyaGpVdTFsZzdfYjlvcEhGU2pYODVTVjRDM2wxY3oxWlMyQ3FfLTNjOE1uZ3dKUkU2RGlNbUZtaWdUS0c1N3dCdUlsRU93a0paWXc4S3dFdHhPbjJVNkUyRVE?oc=5" target="_blank" rel="noopener noreferrer">CRML, UUUU, USAR, ALOY, GLND: Greenland’s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - TradingView</a></span>
+  </div>
+  <div class="theme-summary">グリーンランドのレアアース資源が注目を集める中、米国がアークティック戦略を強化することで、中国に依存するレアアース供給チェーンの多角化を目指す動きが加速している。これはグリーンランドの鉱物資源開発企業への投資機会を創出し、中国のレアアース輸出管理による供給制限に対する代替資源の確保戦略として機能している。</div>
+  <div class="theme-source-name">出典: 欧米レアアース企業</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-08</span>
+    <span class="theme-item-title"><a href="https://www.mining.com/critical-metals-weighs-asset-sales-to-speed-up-greenland-project/" target="_blank" rel="noopener noreferrer">Critical Metals weighs asset sales to speed up Greenland project</a></span>
+  </div>
+  <div class="theme-summary">Critical Metalsはグリーンランドのタンブリーズレアアース鉱山プロジェクトを加速させるため、スピンオフやパートナーシップなどのポートフォリオオプションを検討しており、中国以外のレアアース供給源の多角化を進めている。</div>
+  <div class="theme-source-name">出典: Mining.com</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-08</span>
+    <span class="theme-item-title"><a href="https://www.mining.com/rio-tinto-hands-sovereign-full-control-of-malawi-graphite-project/" target="_blank" rel="noopener noreferrer">Rio Tinto hands Sovereign full control of Malawi graphite project</a></span>
+  </div>
+  <div class="theme-summary">Rio Tintoがマラウイのグラファイト事業をSovereignに譲渡し、中国への依存を低減させるための非中国系サプライヤーの供給力が強化されることになった。</div>
+  <div class="theme-source-name">出典: Mining.com</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-08</span>
+    <span class="theme-item-title"><a href="https://www.mining.com/trump-puts-greenlands-rare-earths-back-on-the-table-for-nato/" target="_blank" rel="noopener noreferrer">Trump puts Greenland’s rare earths back on the table for NATO</a></span>
+  </div>
+  <div class="theme-summary">トランプ前大統領がグリーンランドの戦略的重要性を主張し、同地域のレアアースを含む資源確保の関心を示唆しているが、デンマークはグリーンランドの領土売却を拒否している。この対立は、米国がレアアース供給源の多角化を急速に進める中で、中国への依存を減らす狙いと関連している。</div>
+  <div class="theme-source-name">出典: Mining.com</div>
+</div>
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ 公式機関</span><span class="theme-date">📅 2026-07-08</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTDMyMG9MLXh2ZlpKMzlZUVpIT2xuczFFb1NPUmoyTWRGeVZhQS1QQU8wYTUxckFDZWRhQlF4bEl1dEF5QUY5M3NDazlYVGZVb2hwS1dhU2xrVENrM0VkdVY0RThRbHh2OGdBb3dpOXZBWFFuWnQ0OFRjeW9YQWdBOF8tSENIV3V3MlJPT2lRZ0lCQURWeDRkSEdoQlJXdHd0OFJMM3lzM3BTTVBIX19rSVg2d3FjWVBPeEIwOGpxdXBCLXJDOEl3SERJb29lSlFYOE1wTnduUTQ?oc=5" target="_blank" rel="noopener noreferrer">Washington, Beijing should de-escalate from tit-for-tat actions, US senator says - The Star</a></span>
+  </div>
+  <div class="theme-summary">中国のレアアース輸出管理に関する米中間の報復措置の応酬について、米国上院議員が両国に対して緊張緩和を求めている。</div>
+  <div class="theme-source-name">出典: 米議会</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-08</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRDktVFpvdUJ5dTU3WExJOXpJZEhWZHg0b3dfcHhXc1lVcmNNM1FHdktYOWJScUwwcUhJOV8zbFItTGpLa0xFSGtza1NGVFZaZnQ4TWtOSVZ5R013N0JnOWQ1TFpKZ29vN1JGSWNSOGdXZklnS0F0eGVySnFVZFZQblFKMUxmZ3o5emFtSFE3ZXFCYmVzQVVLOVZIVC11Q1dMcEE0RUY5TEtnWV94TjlCWUllMGlZUFVld1FGYnVlT2xhSEZGV3RpN2NnR045QnJmenFUMnBMZ2IzcXNsNjhOcFlzTnRrMmdJQmpfU3BrakE4azllSnFB?oc=5" target="_blank" rel="noopener noreferrer">CRML, UUUU, USAR, ALOY, GLND: Greenland’s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - TradingView</a></span>
+  </div>
+  <div class="theme-summary">グリーンランドのレアアース貿易がトランプ大統領の北極圏戦略復活に伴い投資家を集める中、中国のレアアース輸出管理に対抗する形で北米でのレアアース資源開発が加速している。グリーンランドなどの北米地域でのレアアース生産拡大は、中国への依存を低減させるための戦略的な供給源の多様化を意図している。</div>
+  <div class="theme-source-name">出典: 欧米レアアース企業</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-08</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ21uQUhKNlQ1dFZUNmE5dGxaQno2RElFdjlzRUFNMWJLSGlNUjdOTGdnR2xlclVKRFdmSHVaSVl3LXUxU1Z0eGZiQzNfVGZrV0tsRTdjUGFXTHprS2laMERFZ2EyS282cUdoMkYyNHNqYktBRVpMZ2tVWVV0SGNUeDhxOS1TOTJ1NjJGekptSHFqVFlTSGNGYnBmb0JvcFdWay1scUJMQVZiZTA1LWRZQ3hQdjI2ai1uOXpWWDZ6MWswZw?oc=5" target="_blank" rel="noopener noreferrer">Why Is Lynas Rare Earths (ASX:LYC) Expanding Its Global Magnet Supply Chain? - Kalkine Media</a></span>
+  </div>
+  <div class="theme-summary">オーストラリアのレアアース企業ライナスが世界的な磁石サプライチェーン拡大を進めているのは、中国によるレアアース輸出管理への依存度を低減し、安定供給を確保するためである。</div>
+  <div class="theme-source-name">出典: 欧米レアアース企業</div>
+</div>
+<div class="theme-item is-new" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-official">🏛️ 公式機関</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWo5TFZXSVl6Vm1TS0VNOHQzcGd0M1pWQnZrLUxadG82QnRkbmFnR01XNjlmSjNzT05jTlZOVFVubUR4SFR6QkVNVy1tclRUaEFBOVlPUm05WTBqNDRxLVFoX1BVaFk2YXpoVng1STA1dkhxdTVhUlh4WnEzbzdpZWVOUGxnUjk5RS1BTVE1cDBnaXF1Tl9fNmticUlvcmR6c0xCQ2ZkVzY?oc=5" target="_blank" rel="noopener noreferrer">Daily on Energy: The window of opportunity is closing - Washington Examiner</a></span>
+  </div>
+  <div class="theme-summary">申し訳ございませんが、提供いただいたテキストが不完全で、実際の記事内容が含まれていません。タイトルのみで具体的な内容が記載されていないため、「中国レアアース輸出管理」に関する要約を作成することができません。記事の本文をご提供いただければ、要約させていただきます。</div>
+  <div class="theme-source-name">出典: 米議会</div>
+</div>
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 メディア</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPYksxaGFfMUlBeV9reUJ2clg2aTR0aXhVUENXdnhnNXNLR3hFajVsVlJoN2M4Tzd0dklTNngxUk9CenFzbEFKaUlzRTQxcmNTYjR1U2RpcGNxdU9UVThOemZaNkVoOVpwcmtOM1JEcTQ3M3VzeGJyMUhQQmxlbklHWlZkS1NhbkdZcnhnZGotVmFaSk5KY2kybzUwWjBSd0dVM01LOQ?oc=5" target="_blank" rel="noopener noreferrer">World Thulium Acetate - Market Analysis, Forecast, Size, Trends and Insights - IndexBox</a></span>
+  </div>
+  <div class="theme-summary">中国はツリウムなどのレアアース資源の生産を支配しており、その輸出管理政策は世界的なレアアース市場の供給と価格に大きな影響を与えている。ツリウムアセテートを含むレアアース化合物の市場動向は、中国の輸出規制の強化に左右される傾向にある。</div>
+  <div class="theme-source-name">出典: メディア分析</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://www.mining.com/op-ed-the-paradigm-shift-in-critical-mineral-investment-tungsten-is-just-the-beginning/" target="_blank" rel="noopener noreferrer">Op-ed: The paradigm shift in critical mineral investment –Tungsten is just the beginning.</a></span>
+  </div>
+  <div class="theme-summary">中国のレアアース輸出管理に対抗するため、先進国の重要鉱物戦略は中国との競争追従から、実際の影響力が残る競争可能な市場への転換が必要であり、タングステンはその転換の始まりに過ぎないということを示唆している。</div>
+  <div class="theme-source-name">出典: Mining.com</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://www.mining.com/canada-set-to-back-tecks-bc-smelter-to-boost-germanium-output-report/" target="_blank" rel="noopener noreferrer">Canada set to back Teck’s BC smelter to boost germanium output: report</a></span>
+  </div>
+  <div class="theme-summary">カナダは、テック・リソーシズのトレイル製錬所への大型資金提供を計画し、ゲルマニウム生産を増強して北米の重要鉱物サプライチェーンを確保しようとしている。これは中国のレアアース輸出管理に対抗し、西側諸国が重要鉱物の供給源の多様化と国内産業の強化を急速に進めていることを示している。</div>
+  <div class="theme-source-name">出典: Mining.com</div>
+</div>
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 メディア</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://thehill.com/policy/defense/5957727-china-icbm-missile-test/" target="_blank" rel="noopener noreferrer">US condemns China’s ICBM test launch</a></span>
+  </div>
+  <div class="theme-summary">本記事はICBM試射に関する米国の非難を扱っており、レアアース輸出管理とは直接の関連がないため、要約対象として適切ではありません。</div>
+  <div class="theme-source-name">出典: The Hill</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNb2R5Rm5BclhxM2Exa3ViZERyUFAtMXQ2R1pZQTN5bExQU1F4NndaNldyc0YtbGtsZUZGc0VGS1I4Mlk4aUs0SFlNdm9sZVQyeXJZVWowR0phdnlMWGFlU3ZsQVdMRE9XeEtrY3ZBVFBpaEhMR1dNa1paXzZIaXJaOTU0Z1RTWlZkM2lGdllVLWJnMHdrX2Q5WkxFNVlpYWNUaU1UZXZZeWtDSkh6dFBUTDc3dy1YdENtR2J5Q0Rudw?oc=5" target="_blank" rel="noopener noreferrer">Lynas and JS Link Build Malaysia’s First Major Rare Earth Magnet Hub - ChemAnalyst</a></span>
+  </div>
+  <div class="theme-summary">オーストラリアのレアアース企業Lynasとマレーシアの企業JS Linkが、マレーシアに大規模なレアアース磁石製造ハブを構築し、中国依存の供給チェーンを代替する動きを進めています。この施設はレアアース加工・製造における西側諸国の中国への依存を低減させる戦略的な投資です。</div>
+  <div class="theme-source-name">出典: 欧米レアアース企業</div>
+</div>
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 メディア</span><span class="theme-date">📅 2026-07-07</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPdWtycjFJeDZMcnlnTEpjMjUzT01Wd21XT1RKVExTdHgwN2Y3NzNMS0w3OFBlT3NLLWRmUVYyYVNCWUJHWTlSbDlReHNlcHMzYndCUS1VOHRSRlktaVdMd25xLUVKckpoVjFkZVRGVHg2c0Y1MkRGMmYtaTRGVHJzaV9yNzQzRVBoNWU1cVVULVk?oc=5" target="_blank" rel="noopener noreferrer">China’s Rare Earth Export Controls to Japan: 2026 Analysis - Discovery Alert</a></span>
+  </div>
+  <div class="theme-summary">中国は2026年に向けてレアアース輸出管理を強化し、日本への供給制限による影響が分析されている。この措置は日本の製造業やハイテク産業における重要な資源調達に直結する戦略的課題となっている。</div>
+  <div class="theme-source-name">出典: メディア分析</div>
+</div>
+<div class="theme-item is-new" data-src="media">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-media">📰 メディア</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE45ZDMzamU4YVFIQ1Q4OWpjTlZWczlSQU5pOUtVTTNhQW9mWDR1SDE2aGYzNFJZMDN2RkVGdmxtTkRfYVpkSkpVWTBpWFh3VVRRbVRFbWNxMGFtNlg0WkhpMlpYUFRidFpuc3JOdVpza05FNV9STFE?oc=5" target="_blank" rel="noopener noreferrer">Rare earth company MP Materials dropped 13.4% last month following China&#x27;s decision to add it to an export control list - eciks.org</a></span>
+  </div>
+  <div class="theme-summary">中国がレアアース企業MP Materialsを輸出管理リストに追加したことを受け、同社の株価は先月13.4%下落した。中国によるレアアース輸出規制の強化が、米国のレアアース企業に直接的な市場インパクトをもたらしている。</div>
+  <div class="theme-source-name">出典: メディア分析</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkF0d3pRUG1ScHlRYXlTZzl1SzNzWE5FM3ZwT0ZsT1Qxc3hvd1pTakdkUkdSQnd5OXA5TXU1WC1oZnAxVVhCN2lxRl8xLTJSTHhMd1FNUDdXdGdKQ0J0WHZRXzBKekNmS1JHblNoREpCNUxpc1ozWllxVURJMktBT2JZclBla2hpLXZ6NU9iNzBFSHVRU3NOSHJMRmJ2OXRJU3R2LWNLcjdMYUswOXBCY0I1ODdRSW9U?oc=5" target="_blank" rel="noopener noreferrer">China&#x27;s Rare Earth Prices Rise Again-But Investors Should Read Beyond the Numbers - Rare Earth Exchanges</a></span>
+  </div>
+  <div class="theme-summary">中国がレアアースの輸出管理を強化する中で価格が再び上昇しているが、単なる価格変動だけでなく、供給制限政策の背景にある地政学的・産業政策的な戦略を理解する必要がある。</div>
+  <div class="theme-source-name">出典: 業界団体</div>
+</div>
+<div class="theme-item is-new" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-new-badge">🆕 NEW</span><span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-06</span>
+    <span class="theme-item-title"><a href="https://www.mining.com/chinas-top-etf-is-now-gold-not-stocks/" target="_blank" rel="noopener noreferrer">China’s top ETF is now gold, not stocks</a></span>
+  </div>
+  <div class="theme-summary">中国の最大級ETFが株式から金にシフトしており、各国中央銀行による金購入の増加とともに、金市場への関心が高まっているが、これはレアアース等の戦略的資源に対する中国の輸出管理強化と並行して、金などの希少資源の確保が各国の資源戦略の優先事項となっていることを反映している。</div>
+  <div class="theme-source-name">出典: Mining.com</div>
+</div>
+<div class="theme-item" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-official">🏛️ 公式機関</span><span class="theme-date">📅 2026-07-05</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkhpZllZUHRkTTRQS3kxR0VWMXJUY204QlJfaUpTbWVXOEJiY21icm8xbENLOFRuaEEzZjEzNTlSc0ZHOVdEam5NV0NtUDBFaHd0V1cwYkR6WURjZUZCbVd5aTJkdU9VbG1WOU9XUEJNeVhWQ3hETTZ4akZBQS1rellTVl9XY2NiS1lDTkNNUHl0M2FkdnpHekJ5Q3JtSklDcmRMVlhLRlRpS0pybTgyeDJEZkJndw?oc=5" target="_blank" rel="noopener noreferrer">China dominates the rare earth elements industry, but this American company hopes to challenge China&#x27;s grip - CBS News</a></span>
+  </div>
+  <div class="theme-summary">中国がレアアース産業を支配する中、米国企業がこの支配に対抗することを目指しており、中国の輸出管理体制に対する競争圧力が高まっている。米国を含む各国がレアアース産業の中国依存からの脱却を進めることで、今後のレアアース供給チェーンの多極化が進む可能性がある。</div>
+  <div class="theme-source-name">出典: 米国防・エネルギー省</div>
+</div>
+<div class="theme-item" data-src="official">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-official">🏛️ 公式機関</span><span class="theme-date">📅 2026-07-05</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlpiVkNXREV5TzdueERpTjZZM0JBTmQ4emJrdGdDUXBPRG9WOWlrMlhOcUtFSEV2MGVZbVpoZFp1VXJzcDVjWklKdk1FZVNqaV9zckVoZWlmMDdtREQwbkdUQ3hOWFhPZmdKODZNbmhVRWJNSXRfSEttRWhnU2dUNlF0UVRlV2h5ajludEk2S2psWG1VenptWXNDUF9NVDU5QndhMjZlSHJuMFJqMUNLVlNOOEc?oc=5" target="_blank" rel="noopener noreferrer">Between the superpowers: Southeast Asia’s strategic supply chain dilemma - Lowy Institute</a></span>
+  </div>
+  <div class="theme-summary">申し訳ありませんが、提供いただいたのはタイトルのみで、記事の具体的な内容が含まれていません。記事本文を提供していただければ、中国レアアース輸出管理に関する文脈で要約させていただきます。</div>
+  <div class="theme-source-name">出典: 米国政府</div>
+</div>
+<div class="theme-item" data-src="industry">
+  <div class="theme-item-header">
+    <span class="theme-src-badge theme-src-industry">🏭 業界・企業</span><span class="theme-date">📅 2026-07-03</span>
+    <span class="theme-item-title"><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmp3QllBdDVlMVBKc25LbzFCV2RKMzBHYVUtQ01UUFQ2bHVwYTlqM0M0QmNHcXBrMGV1SFBjTktlcXFtRS0xaWNrYk9iTDd2N2hUclJOWllOSVpvWGRpc1BuOWF6YjJnQ1U5N293N1d0Z25JU0tNQUdBb2RtRWM2Mk1Ma2M2UUptYTZZTGtmelJYbU1vUDhSTnotdzBjMzBaNWtFeC05WUZiNEZhdHB5NnFhbGoyTDhYbE1ycC1IV1lVQQ?oc=5" target="_blank" rel="noopener noreferrer">Lynas Rare Earths (ASX:LYC): Why Is ASX 200 Watching the NdPr Price Rally? - Kalkine Media</a></span>
+  </div>
+  <div class="theme-summary">Lynas Rare Earthsはネオジム・プラセオジム（NdPr）価格の上昇に注目が集まっており、これは中国によるレアアース輸出管理強化によってレアアース供給が逼迫し、代替供給源としてのLynasの重要性が高まっていることを反映している。中国の輸出規制に対抗する形で、オーストラリアのレアアース生産企業の市場価値が上昇している。</div>
+  <div class="theme-source-name">出典: 欧米レアアース企業</div>
+</div>
+  </div>
+</div>
+</div>
+
+<footer class="site-footer">
+  ソース: NHK・産経・日経・CNBC・FT・BBC・NYT・Reuters・Al Jazeera ほか &nbsp;|&nbsp; The Economist &nbsp;|&nbsp; White House RSS &nbsp;|&nbsp; Truth Social<br>
+  最終更新: 2026年07月09日 19:03 JST &nbsp;|&nbsp;
+  ☁️ ホーム・USトランプ: 6時間ごと自動更新 &nbsp;|&nbsp;
+  🖥️ メール・The Economist: 毎朝6:30更新（PC）<br>
+  <button onclick="triggerSiteUpdate()" style="background:none;border:none;color:var(--accent);font-size:11px;cursor:pointer;padding:0;font-family:inherit;">🔄 今すぐ更新（GitHub Actions）</button>
+  &nbsp;|&nbsp; World News
+</footer>
+<script>
+(function(){
+  var colorMap = {"iaa":"#003F8A","cvsa":"#B22234","rare_earth":"#1a6b3a"};
+
+  // ── テーマタブ切り替え ──
+  var tabs   = document.querySelectorAll('.theme-tab');
+  var panels = document.querySelectorAll('.theme-panel');
+  tabs.forEach(function(tab){
+    tab.addEventListener('click', function(){
+      var tid = tab.dataset.theme;
+      tabs.forEach(function(t){
+        var c = colorMap[t.dataset.theme] || '#333';
+        if(t.dataset.theme === tid){
+          t.classList.add('active');
+          t.style.background = c; t.style.borderColor = c;
+        } else {
+          t.classList.remove('active');
+          t.style.background = ''; t.style.borderColor = '';
+        }
+      });
+      panels.forEach(function(p){
+        p.style.display = (p.id === 'panel-' + tid) ? '' : 'none';
+      });
+    });
+  });
+
+  // ── フィルタボタン（パネルごとに独立）──
+  panels.forEach(function(panel){
+    var tc    = panel.style.getPropertyValue('--tc') || '#003F8A';
+    var btns  = panel.querySelectorAll('.theme-filter-btn');
+    var cards = panel.querySelectorAll('.theme-list .theme-item');
+    btns.forEach(function(btn){
+      btn.addEventListener('click', function(){
+        btns.forEach(function(b){
+          b.classList.remove('active');
+          b.style.background=''; b.style.borderColor=''; b.style.color='';
+        });
+        btn.classList.add('active');
+        btn.style.background = tc; btn.style.borderColor = tc; btn.style.color = '#fff';
+        var f = btn.dataset.filter;
+        cards.forEach(function(c){
+          c.style.display = (f === 'all' || c.dataset.src === f) ? '' : 'none';
+        });
+      });
+    });
+  });
+})();
+</script>
+</body></html>
