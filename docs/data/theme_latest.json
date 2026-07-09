@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09 05:01:48",
+  "generated_at": "2026-07-09 12:29:40",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-09 05:01:24",
+      "last_checked": "2026-07-09 12:29:10",
       "items": [
+        {
+          "uid": "13669e083916",
+          "date": "2026-07-07",
+          "title": "Šefčovič urges advancement of Industrial Accelerator Act, trade agenda - MLex",
+          "summary": "欧州委員会副委員長シェフチョヴィッチは、欧州産業加速法案（IAA）の進展と通商課題の推進を促促しており、欧州の産業競争力強化と経済成長を実現するための施策の加速を求めています。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlRMWXgyVGdWYk5NUTcwcDFoUDFUSHVxNWxHbVJnS3haWVA4TmJiYzZGMDZySmFramdvUWMzNkFrT0tIZ0Z6aEdGODIxS1hxcnk1eF9ReVlsd1pJNkFhZzg0bEJNSG5uMnNPUU1iRnVhcXVPSlNtTW9LY0gzTHc3Rk9wX3RudW9CaWRXdk1VSFRVMlVjenplc0pCN09JeEVrLUNCZ2xDZGlwem1LaEZTdXI2WGl2bHVPSWfSAVpBVV95cUxNSTgtTHNjcWllLVlLYlNXV0g4M0ZnSU42Y2dOVEctLWhrLVFMdWFudHZsTkJlRDRtdi1mUzl1YmNmZnVVTXNQLVdIRnFyd2VRRzhJV0FEaEVQZHc?oc=5",
+          "added_at": "2026-07-09 12:29:09"
+        },
         {
           "uid": "92004b68b506",
           "date": "2026-07-08",
@@ -1869,7 +1879,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-09 05:01:32",
+      "last_checked": "2026-07-09 12:29:18",
       "items": [
         {
           "uid": "6fb0717965b3",
@@ -3870,8 +3880,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-09 05:01:48",
+      "last_checked": "2026-07-09 12:29:40",
       "items": [
+        {
+          "uid": "6e3152907eb4",
+          "date": "2026-06-21",
+          "title": "China imposes export controls on two US rare earth producers - Crypto Briefing",
+          "summary": "中国は米国のレアアース生産企業2社に対して輸出管理を実施し、米国への報復措置として規制を強化した。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEVDVuQjRMeVBWNlBlTHM4Q0FxMG42ZzE3QmVDVjVacU1yanlyMmFQeXJ2MDhZS3FMWHVyU3NsOEpPbENDVXpvc3FiS0pnSlg4Zy1MNGFqMU5hSE1MZXRGeU9wVXVNam9RaHhBQlljNFA?oc=5",
+          "added_at": "2026-07-09 12:29:34"
+        },
+        {
+          "uid": "f57231671955",
+          "date": "2026-06-22",
+          "title": "China has expanded its export restrictions against U.S. companies - UA.NEWS",
+          "summary": "中国はレアアース等の戦略的資源の輸出制限を拡大し、米国企業に対する経済的圧力を強化している。この措置は米国による対中制裁に対する報復として機能している。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdE02VG1OQl9sRXNjckU2ZXMzZ08zTHNDN0NGNHgyektjREJ6VXJCRDIxVTFkaGtWdlJ6M2stcXVtaEJVejhWYkd2dHU1UEhqelY4TEdpSnprd0JIQ0FfeTRRYkFqYnVEX0pjUHYtQkh4bDVuQmhDLTZfNlRZTjUxVEhwWV82aDBUSFR1ZmtzWnpGWFVFQ2c?oc=5",
+          "added_at": "2026-07-09 12:29:34"
+        },
+        {
+          "uid": "243e96af73f5",
+          "date": "2026-07-05",
+          "title": "China dominates the rare earth elements industry, but this American company hopes to challenge China's grip - CBS News",
+          "summary": "中国がレアアース産業を支配する中、米国企業がこの支配に対抗することを目指しており、中国の輸出管理体制に対する競争圧力が高まっている。米国を含む各国がレアアース産業の中国依存からの脱却を進めることで、今後のレアアース供給チェーンの多極化が進む可能性がある。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkhpZllZUHRkTTRQS3kxR0VWMXJUY204QlJfaUpTbWVXOEJiY21icm8xbENLOFRuaEEzZjEzNTlSc0ZHOVdEam5NV0NtUDBFaHd0V1cwYkR6WURjZUZCbVd5aTJkdU9VbG1WOU9XUEJNeVhWQ3hETTZ4akZBQS1rellTVl9XY2NiS1lDTkNNUHl0M2FkdnpHekJ5Q3JtSklDcmRMVlhLRlRpS0pybTgyeDJEZkJndw?oc=5",
+          "added_at": "2026-07-09 12:29:34"
+        },
+        {
+          "uid": "436fe2d58802",
+          "date": "2026-07-08",
+          "title": "CRML, UUUU, USAR, ALOY, GLND: Greenland’s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - TradingView",
+          "summary": "グリーンランドのレアアース資源が注目を集める中、米国がアークティック戦略を強化することで、中国に依存するレアアース供給チェーンの多角化を目指す動きが加速している。これはグリーンランドの鉱物資源開発企業への投資機会を創出し、中国のレアアース輸出管理による供給制限に対する代替資源の確保戦略として機能している。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamluSWtoNzRXVThxWWNjbkNQMEVkdG5sWVdYdjdENTVVUnl4UWJoaHktZDdGWEdzWmREVUFNelhBc2RxN1ZzYkJGM09JcUJmd2tQc1lyMFVhYmlCNC1MbFdhMWRBc1l5WGJ6OVlBelFVRGNfWjltYUNaZDBQNldlR1pmTXk3cXBTRTFibnBWWFk2S2JBSWp5T05rYkNyaGpVdTFsZzdfYjlvcEhGU2pYODVTVjRDM2wxY3oxWlMyQ3FfLTNjOE1uZ3dKUkU2RGlNbUZtaWdUS0c1N3dCdUlsRU93a0paWXc4S3dFdHhPbjJVNkUyRVE?oc=5",
+          "added_at": "2026-07-09 12:29:34"
+        },
         {
           "uid": "2b79c3d8f736",
           "date": "2026-04-13",
@@ -5831,46 +5881,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOei1IMkY5QXBINHdOemlEVXZWWURncDlfWGJKQnFVVHpWQ3ozOFhMeGFLRnphWHIweTJVc3dhbURVbUdCWkxZX1VqZHQ5MXdMLXpQaHhKZDdYZGNINmhqcGRzVjQwbkZrVGIxRDV3OExTV0ttSzBEOTY2SzkteURHNHhtTGdZR0tFMjdqaEx6aw?oc=5",
           "added_at": "2026-06-23 08:10:47"
-        },
-        {
-          "uid": "fd2e04be7c1b",
-          "date": "2026-06-22",
-          "title": "China lithium price slides on speculation over CATL mine restart",
-          "summary": "CATLが所有するリチウム鉱山Jianxiawoが2025年8月に閉鎖されましたが、その再開予定に関する思惑からリチウム価格が下落しています。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/china-lithium-price-slides-on-speculation-over-catl-mine-restart/",
-          "added_at": "2026-06-23 08:10:47"
-        },
-        {
-          "uid": "c59e5ccd8303",
-          "date": "2026-06-22",
-          "title": "China blacklists MP Materials, USA Rare Earth in critical minerals war",
-          "summary": "中国がMP Materials社とUSA Rare Earth社をブラックリストに登録し、防衛・先端製造に不可欠なレアアース供給チェーンをめぐる米中対立を一層深刻化させている。これは中国の戦略的な貿易制限措置として、重要鉱物資源の支配権を巡る競争の激化を示している。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/china-blacklists-mp-materials-usa-rare-earth-in-critical-minerals-war/",
-          "added_at": "2026-06-23 08:10:47"
-        },
-        {
-          "uid": "b27c8ccb0fe3",
-          "date": "2026-06-22",
-          "title": "Health officials launch clinical trial reforms to counter China threat",
-          "summary": "米国FDAが臨床試験の早期段階を迅速化する新規制度を立ち上げ、医薬品開発期間の短縮と中国への企業流出防止を目指している。この取組は、米国の生命科学産業の競争力維持と中国への経済的依存度低減を狙うものである。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/healthcare/5934886-us-china-clinical-trial-competition/",
-          "added_at": "2026-06-23 08:10:47"
-        },
-        {
-          "uid": "eb3dc9e1e8aa",
-          "date": "2026-06-22",
-          "title": "China Adds MP Materials and USA Rare Earth to Its Export Control List (June 2026) - Stock Titan",
-          "summary": "中国は2026年6月、MP MaterialsおよびUSA Rare Earthを輸出規制リストに追加し、これら米国企業に対するレアアース関連製品の輸出を制限する措置を講じた。この動きは米国のレアアース産業に対する報復的措置として機能し、両国間のサプライチェーン競争を一層激化させている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEx2ODlYd2hpM1RhSzNvZGJpTDdpbTJ0NFBYc2dNLXRFVjdsWDF4czBjeHNxeXVBTW9SMGpGVXltcEp2Wm1Ham9ER0lyWDFsWFotYVJtMzVUVTRlT0JDMFlCbV96NHFQY0JJQWFORFlscF8yMWpObjJPaDlGeEJKMmxYOVhZVXRHSllIVWxhc2dCUnFUek9nTWRFRjQ?oc=5",
-          "added_at": "2026-06-23 03:08:20"
         }
       ]
     }
