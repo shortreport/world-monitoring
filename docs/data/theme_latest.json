@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09 21:58:04",
+  "generated_at": "2026-07-09 22:16:36",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-09 21:57:37",
+      "last_checked": "2026-07-09 22:16:11",
       "items": [
         {
           "uid": "4977f5395b5d",
@@ -1899,7 +1899,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-09 21:57:47",
+      "last_checked": "2026-07-09 22:16:19",
       "items": [
         {
           "uid": "7baec7eba8b8",
@@ -3910,8 +3910,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-09 21:58:04",
+      "last_checked": "2026-07-09 22:16:36",
       "items": [
+        {
+          "uid": "091b94d4ade4",
+          "date": "2026-07-09",
+          "title": "Billions in US-funded rare earths flowing to Asian markets: report",
+          "summary": "米国が資金提供するレアアース生産が増加しているものの、その大部分はアジア市場に流れており、米国は磁石需要の増加に対応するため中国への依存軽減を目指している。",
+          "source": "Mining.com",
+          "source_type": "industry",
+          "url": "https://www.mining.com/billions-in-us-funded-rare-earths-flowing-to-asian-markets-report/",
+          "added_at": "2026-07-09 22:16:35"
+        },
         {
           "uid": "060acd5cd80a",
           "date": "2026-04-10",
@@ -5900,16 +5910,6 @@
           "source": "米国政府",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHJwdlZ4MUdGR0ZWRzFndEhRbzRWYUxjcVllaURQcGt4bkpHWHE0OXNwaGZOVkRkNFFyWGVOOGdqSkUtelBQU19qWlNITlRwNXZoTnAzR3VFSE0ydnhvdnl1d1hjVkdKYUNPWmZkTC1pVEpVNV9PSU9FMFlNc01OODUwSE1ScjBMZ2ZtdEVnelQ5Z2diYzk2bVpSOElidmFsLTh5VDVwR2FySWt2dngzV1hjLWhfZw?oc=5",
-          "added_at": "2026-06-23 08:10:47"
-        },
-        {
-          "uid": "a7f9c5ec095d",
-          "date": "2026-06-22",
-          "title": "China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist - CNBC",
-          "summary": "中国はペンタゴンのブラックリスト指定に対する報復として、数十社の米国企業に対して取引制限を課しており、この報復措置にはレアアース等の戦略的に重要な資源の輸出管理強化が含まれている可能性があります。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXo1RzZsUk1PSnJ4V2hJWEZmZG51bmZrRW5Na183b0I5TUlWbGpFR3lVTFVoQ0pBUkNoQlcyUm9QQW1oSTdWLTdvaHRoZUdVVnJFalNQOWRjSC1fVHFIOVJnZjliSTdxTXhWYkNqQVU2dlRmYlRJMW9vLWpwY3hiLVBFNk10alBTLW1ud1FtOF9iaDRtRURMNEQ2ZHpIcmtkN2M1VEl0b1doX3dBckptVEppZXlzVi1xMUx5ZtIBwgFBVV95cUxPNUNPb1BmUzVUdm1pZVFfcC1jUGVwaUVyV1NvSjZVM1lEdnF1MnpsSzNRTnBXbFY2cHIxb1EwQ29peXZmNHFxUE9tUTg3ZlVuenZYeVVNZ1JwLVhkVktMdVlNWGtYVjNsWWR1Zk5fa2hKZHRZeDJadElPXzQwY1g0MUJhUTdzOFU0THNJSVhJSUR0NXFVUjdyNlZtUXdGRjNlbDRMWXJVbzdNVDFWSEZ5Q0RkT0ZvekJLMVI2aFAxZ3FRZw?oc=5",
           "added_at": "2026-06-23 08:10:47"
         }
       ]
