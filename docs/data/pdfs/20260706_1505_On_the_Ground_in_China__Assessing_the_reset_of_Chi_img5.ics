@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:On the Ground in China: Assessing the reset of China-US relations 
+ and rising China-EU and China-Japan tensions「中国現地レポート：
+ 米中関係の再構築と、高まる中国・EU間および中日間の
+ 緊張を読み解く」（同時通訳あり） - EG Conference Call
+DTSTART;VALUE=DATE-TIME:20260710T140000Z
+DTEND;VALUE=DATE-TIME:20260710T150000Z
+DESCRIPTION:Please join Eurasia Group's Senior Analyst for China\, Mingda 
+ Qiu\, Senior\nAnalyst for China and Northeast Asia\, Jeremy Chan\, and Dir
+ ector for China\, Dan\nWang\, for an update from the ground on China's for
+ eign relations and the\nimplications of the Iran war.  \n  \nこの度の
+ ユーラシアグループAPAC &\nJapanカンファレンス・コール
+ では、中国・北東アジア担当のシニア・アナリスト、
+ ジェレミー・チャン、中国担当シニア・アナリストの
+ ミンダー・チウ、および中国担当ディレクター、ダン
+ ・ワングを迎え、現地より中国の外交関係およびイラ
+ ン戦争の影響について解説いたします。\n  * US-China senti
+ ment and outlook following the Trump-Xi summit\n  * Implications of the Ir
+ an war on China's economy and industrial policy\n  * Rising China-EU tensi
+ ons\, China-Japan tensions and key implications\n  * Fresh insights and no
+ table observations from the field\n\n  * トランプ・習近平首脳会
+ 談後の米中関係に対する世論と見通し\n  * イラン戦争
+ が中国の経済および産業政策に与える影響\n  * 中国とEU
+ の間、および中国と日本の間で高まる緊張とその主な
+ 影響\n  * 現場からの新たな知見と注目すべきポイント\n
+ \n\nRegister Here: https://us02web.zoom.us/webinar/register/WN_Nx6KEu8-R-6
+ _h0WI_HWxAA\n\nCall-in:\n[Registration for this event is\nrequired](https:
+ //us02web.zoom.us/webinar/register/WN_Nx6KEu8-R-6_h0WI_HWxAA).  \n  \nAfte
+ r registering\, you will receive an email with instructions to join the\nm
+ eeting\, including local dial-in information and a meeting invitation you 
+ can\nadd to your calendar. Please note you must be logged in from a comput
+ er or\nmobile app in order to ask a question.  \n  \nPlease allow a few mi
+ nutes before the call to join the meeting\, and connect\naudio by followin
+ g the prompts from the conference call platform.\n\nReplay:\nA recording o
+ f this call will be available on the [Eurasia Group\nportal](https://libra
+ ry.eurasiagroup.net/events/) and mobile app approximately\nthree hours aft
+ er the event concludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260710T134500Z
+UID:887deab7-7900-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:887deab6-7900-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR

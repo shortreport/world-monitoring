@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:China: Recent engagement with key officials - EG Conference Call
+DTSTART;VALUE=DATE-TIME:20260708T140000Z
+DTEND;VALUE=DATE-TIME:20260708T150000Z
+DESCRIPTION:Please join David Meale\, practice head for China\, for an int
+ erview with Cliff\nKupchan\, chairman emeritus & senior advisor\, about Cl
+ iff's recent trip to\nChina\, where he had insightful encounters with seni
+ or officials and thought\nleaders.\n  * Why there is strong buy-in on Beij
+ ing's part for "constructive strategic stability."\n  * How overconfidence
+  on China's part will challenge the relationship.\n  * Why China won't rea
+ ct strongly to the Donroe doctrine. \n\n\nRegister Here: https://us02web.z
+ oom.us/webinar/register/WN_5d_on3koQmeh31WvSAfL0g\n\nCall-in:\nRegistratio
+ n for this event is required.  \n  \nAfter registering\, you will receive 
+ an email with instructions to join the\nmeeting\, including local dial-in 
+ information and a meeting invitation you can\nadd to your calendar. Please
+  note you must be logged in from a computer or\nmobile app in order to ask
+  a question.  \n  \nPlease allow a few minutes before the call to join the
+  meeting\, and connect\naudio by following the prompts from the conference
+  call platform.\n\nReplay:\nA recording of this call will be available on 
+ the [Eurasia Group\nportal](https://library.eurasiagroup.net/events/) and 
+ mobile app approximately\nthree hours after the event concludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260708T134500Z
+UID:e4638347-796d-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:e4638346-796d-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR

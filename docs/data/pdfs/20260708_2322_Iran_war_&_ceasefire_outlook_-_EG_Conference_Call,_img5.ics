@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:Iran war & ceasefire outlook - EG Conference Call
+DTSTART;VALUE=DATE-TIME:20260708T143000Z
+DTEND;VALUE=DATE-TIME:20260708T153000Z
+DESCRIPTION:Please join Eurasia Group analysts for an update on the US-Ira
+ n conflict\nfollowing the latest developments.\n  * Outlook for the ceasef
+ ire \n  * Implications of escalation for the Strait of Hormuz\n  * Regiona
+ l update\n\n\nRegister Here: https://us02web.zoom.us/webinar/register/WN_A
+ VyLPr-BT4KZCmEIG2y2DQ\n\nCall-in:\n[Registration for this event is\nrequir
+ ed](https://us02web.zoom.us/webinar/register/WN_AVyLPr-BT4KZCmEIG2y2DQ).  
+ \n  \nAfter registering\, you will receive an email with instructions to j
+ oin the\nmeeting\, including local dial-in information and a meeting invit
+ ation you can\nadd to your calendar. Please note you must be logged in fro
+ m a computer or\nmobile app in order to ask a question.  \n  \nPlease allo
+ w a few minutes before the call to join the meeting\, and connect\naudio b
+ y following the prompts from the conference call platform.\n\nReplay:\nA r
+ ecording of this call will be available on the [Eurasia Group\nportal](htt
+ ps://library.eurasiagroup.net/events/) and mobile app approximately\nthree
+  hours after the event concludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260708T141500Z
+UID:9363b265-7acf-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:9363b264-7acf-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR
