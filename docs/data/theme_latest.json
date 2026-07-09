@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09 21:36:05",
+  "generated_at": "2026-07-09 21:58:04",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-09 21:35:44",
+      "last_checked": "2026-07-09 21:57:37",
       "items": [
         {
           "uid": "4977f5395b5d",
@@ -1899,8 +1899,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-09 21:35:52",
+      "last_checked": "2026-07-09 21:57:47",
       "items": [
+        {
+          "uid": "7baec7eba8b8",
+          "date": "2026-07-09",
+          "title": "Senate panel to vote on Chinese vehicle ban bill July 15 - qz.com",
+          "summary": "米国上院委員会が7月15日に中国製車両の禁止法案（S.4429）について投票を実施する予定である。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4bzdmb01uQ0N6V19HVmtQVEdBRUEwcXFieFYwdWV2T29FREdUeGU0TzBaWWU0aWpJVGtZdkhrOWhiYWljVTRjWWttNXFtcGJwQ2FjUmtSQzB3MHFKcEY5QnNmU29HcXZVTlY5T3Z5TDhhQzc0Y2x2c3VJVlg?oc=5",
+          "added_at": "2026-07-09 21:57:46"
+        },
         {
           "uid": "aac0a891d4a3",
           "date": "2026-07-06",
@@ -3890,16 +3900,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XUGZNMHRaelI4czN3aXh2RThoX2VELXhyMmV5OXdKbWtTc1VGZnFWeU9WT09xcjdROTA3bjVFdURVY0gtc1VHTUJ0TWhYeFY2X2xYdF82UQ?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "7441fb24c818",
-          "date": "2026-04-30",
-          "title": "Bipartisan Bill Targets Chinese-Made Vehicles And Connected Auto Technology In U.S. Market - International Business Times",
-          "summary": "S.4429は、中国製車両と接続自動車技術が米国市場もたらす潜在的な安全保障リスクに対処するため、中国製または中国資本の自動車メーカーの米国での運営を制限し、接続車両データと技術の安全性基準を強化する超党派的な法案です。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOFpJNzhULXlGcHUzREdjWVdMazR0d0hLbGZlWWNKeFhiTmpjOGFaNjhtNzc1aXFwNU00U3FEZWJMWkp4WU84b0NKQ19zZTJKNjhVWVZGWlc1aEljYkFOM2dOOVhwMGVBeXU3ZFhwMFU1bGlOdlZ2TnlWVm14NzE2MUR2aTl1T2l2aVp0V2JVNHVBTG5RQ0dncHpTMzQ3QzRIbmV0VGFlbTRjcGQwYUJFWWpKMA?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3910,7 +3910,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-09 21:36:05",
+      "last_checked": "2026-07-09 21:58:04",
       "items": [
         {
           "uid": "060acd5cd80a",
