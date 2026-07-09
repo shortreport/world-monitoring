@@ -90,6 +90,11 @@ pyvenv.cfg
 !docs/data/*.jpeg
 !docs/data/*.png
 !docs/data/pdfs/*.pdf
+!docs/data/pdfs/*.png
+!docs/data/pdfs/*.jpg
+!docs/data/pdfs/*.jpeg
+!docs/data/pdfs/*.webp
+!docs/data/pdfs/*.gif
 !docs/briefing_latest.pdf
 !docs/data/briefings/*.pdf
 前回の入力データ.json
