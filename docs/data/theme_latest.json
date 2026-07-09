@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 00:41:02",
+  "generated_at": "2026-07-10 05:17:01",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-10 00:40:41",
+      "last_checked": "2026-07-10 05:16:33",
       "items": [
         {
           "uid": "4977f5395b5d",
@@ -1899,8 +1899,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-10 00:40:50",
+      "last_checked": "2026-07-10 05:16:45",
       "items": [
+        {
+          "uid": "9744d12c6ed2",
+          "date": "2026-07-09",
+          "title": "Senate panel to vote on Chinese vehicle ban bill July 15 - Yahoo",
+          "summary": "米国上院委員会は7月15日に中国製車両の禁止法案（S.4429）について投票を行う予定である。本法案は、中国企業による米国市場への車両参入を制限し、国家安全保障上の懸念に対処することを目的としている。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzd6MlkySFp2M0UtN1ZnOVRocm9GemxveVliX3dBakppWEZNX25VUVVCV0ltX2hLSkw3anFZRGtoWjh4OVpFY2h3cHlDdkFzMHpic3RTNWE4bWVPQ0V0bUNpWjNYY1c4dVp3Y2RQOE9PYjRCMFZ6V1RzZjVtaldtN1puRHpsZnI5WXltU3IyNFQxc0JmZjBXaA?oc=5",
+          "added_at": "2026-07-10 05:16:43"
+        },
         {
           "uid": "1616cf4badde",
           "date": "2026-07-09",
@@ -3890,16 +3900,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWGZsUllIZmY0amZ4NEoxUC0zUDJkcUVqNk5ERHJka0ZfdFVoT0kxaHFCUmVEZ3I0UEZSQ21BQU82N3pPQTd4bDVyODlGaHNKN1JJdlNXeUw5NkRmemtCank2YkdBU0lMYndWSklXbVJOdTZRUVRjSFdSMXhEaUUzTG9nZ0RtZHcyQklhN1ozWWU2dXlGcThVX0tmQWRaNlQwcmpUQWZlcU9KMjFjOXFNd0UtYkpqT092dmhXaG5sOFhGX1FFY2Z3RTBkbzBPdjY3ekppZjc0NA?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "f4c97d298b98",
-          "date": "2026-05-11",
-          "title": "US industry, lawmakers plead with Trump: Don't open door to Chinese cars at Xi summit - Reuters",
-          "summary": "米国の自動車業界と議員らは、トランプ前大統領に対してシー・ジンピン中国主席との首脳会談で中国自動車企業への市場開放を避けるよう強く求めており、これは米国接続車両安全保障法（S.4429）で規制されている国家安全保障上の懸念と一致している。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd0lzekgtZmlRVTRxdFNfekdwbXpIcmpxUmJva0pYUDZjRWlrME54TlpyTDdBRjZ2LVMwa29nMEt5bUE5V1FpZUFERWZGMGI5TFBydEZYZmJvS205bjNrS0tMRnBfOFNPeGlteVMtYTlOQkI0YTNWRmR6WkRtdGNVeEhZZmVpRnJqVjZnaVNoSGJtVVdmN2dSdHZpMkRDZDlrd3E2WGJGbmFCT2hNNnE3OUJHdUJWQlFvaHFzLVZnMEtTVndnQTduWGJ3TlNzS2pUWV9VdFNSc3pTQQ?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3910,8 +3910,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-10 00:41:02",
+      "last_checked": "2026-07-10 05:17:01",
       "items": [
+        {
+          "uid": "4b8619341ae6",
+          "date": "2026-06-02",
+          "title": "The China-US tech truce is fragile - Financial Times",
+          "summary": "中国とアメリカの技術分野における緊張緩和は脆弱であり、中国によるレアアース輸出管理などの報復措置が引き続き経済的な対立を深める可能性がある。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRERpaUJNYzNsQTV6a3Nkdnlfeml0MXR5cmU1QVVEVkRuX2hqN2xEYjNURkdLVS1wVWxTVUxCb1Iwa2l2akh2TWNhcWxOVkc4UVRpWXJOVHpSTU9TSW5tNDRRUndxcjF5LWFKZDlvQzY?oc=5",
+          "added_at": "2026-07-10 05:16:58"
+        },
+        {
+          "uid": "cd92a74e9fc7",
+          "date": "2026-07-09",
+          "title": "Flynn: US billions for rare earths ‘missing the mark’",
+          "summary": "米国の退役将軍フリン氏は、レアアースを含む重要鉱物の安定供給を実現するには、ジュニア企業や供給業者、労働者への支援が不可欠であり、現在の米国の投資では目標を達成していないと指摘している。",
+          "source": "Mining.com",
+          "source_type": "industry",
+          "url": "https://www.mining.com/flynn-us-billions-for-rare-earths-missing-the-mark/",
+          "added_at": "2026-07-10 05:16:58"
+        },
         {
           "uid": "9982f282d58e",
           "date": "2026-06-03",
@@ -5891,26 +5911,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODg0VUlzc2ZwR3VMOHkzSnFGRWtOOF8wUXMyTGRPTXNOSEZpZXN5cm1ra2xuRF94V2JTMmtzVmJrR1kxVS12N1hPZHRYb0Uxb25JbmlUXzhiMzRvNFE0SHV1Y2hJVWx1dk5ZMGNNVWV2THBLZFU2VkNTS1dUUTcyeHBYTnNNZVpKWmt3R2hPMnBKbW1GM1NjOU5aM3FZeXhKVTdiTlNuSTR6bXVCZmUxdkxidw?oc=5",
           "added_at": "2026-06-23 20:51:47"
-        },
-        {
-          "uid": "4862969b1dda",
-          "date": "2026-06-23",
-          "title": "European Central Bank sets 2026-2028 banking priorities around geopolitical resilience and digital transformation - Crypto Briefing",
-          "summary": "申し訳ございませんが、提供いただいたタイトルと内容では、「中国レアアース輸出管理」に関する具体的な情報が含まれていません。ECBの銀行優先事項に関する記事のため、要点を抽出できません。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFFTNnVPZGlGWEF3RGZFTkkzX0ZwVEtVYVZZSzBJZXJEUE1SOE1zM2dtd0cwQWl4bk1TaGpJeWphYUNnYXRnYXg0UWdFbGFYSk1CZEVtYUdBLW5sNjF5ZmdMblBZakhOR0pLbm80NXduQ2xQc1pEb3BLZHlRcUxwdmNybmRKT0Z6WWRyMG1mRHUxNjVCRllxUE9PQkhHUQ?oc=5",
-          "added_at": "2026-06-23 20:51:47"
-        },
-        {
-          "uid": "5041a68d4a58",
-          "date": "2026-05-20",
-          "title": "Commerce ministry: Rare earth export controls in line with laws - news.cgtn.com",
-          "summary": "中国商務省は、レアアース輸出管理が国際法および中国国内法に適合していると主張している。同省による輸出規制は、国家安全保障と環境保全を理由とした正当な政策であると位置付けられている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPXzZOYWstZW5RT0N4NHQ5TzdXcXJfdUpSQU1JWm8zanpzdUdrV3hnemdLN2p4UHp2TDc2NzNFbG43NVFKUEdpNlUzVzFpYXR5bEloTGUxUjRyUWt2RDR6bThGRUFpandxUFUwUDZZX1d0RURic3JPeGNCQW9tYnJlSDYxb0t0eDRNS0xBdExFMWcweWJrUXc2ZFhvTTEzeGVBUnlONERMMmt4MzBXNXBfTFVnQXZUS01NVUhZ?oc=5",
-          "added_at": "2026-06-23 08:10:47"
         }
       ]
     }
