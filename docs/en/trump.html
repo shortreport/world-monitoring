@@ -7,8 +7,6 @@
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif; background: #f4f5f7; color: #1a1a2e; font-size: 16px; line-height: 1.7; }
-
-/* ── Site Header ── */
 .site-header { background: #1a1a2e; color: #fff; padding: 0 24px; height: 58px; display: flex; align-items: center; gap: 16px; position: sticky; top: 0; z-index: 300; box-shadow: 0 2px 8px rgba(0,0,0,.25); }
 .logo { font-size: 20px; font-weight: 700; letter-spacing: .5px; white-space: nowrap; cursor: pointer; }
 .logo em { color: #5bc8f5; font-style: normal; }
@@ -20,45 +18,25 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
 .lang-toggle a { color: rgba(255,255,255,.6); text-decoration: none; padding: 3px 10px; border-radius: 4px; border: 1px solid rgba(255,255,255,.3); transition: all .15s; font-weight: 600; }
 .lang-toggle a.active { color: #fff; background: rgba(255,255,255,.2); border-color: rgba(255,255,255,.7); }
 .lang-toggle a:hover { color: #fff; background: rgba(255,255,255,.12); }
-
-/* ── Page Navigation Tabs ── */
 .page-nav { background: #fff; border-bottom: 1px solid #e5e7eb; padding: 0 24px; display: flex; align-items: stretch; position: sticky; top: 58px; z-index: 200; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
 .page-nav a { display: flex; align-items: center; gap: 6px; padding: 0 18px; height: 44px; font-size: 14px; font-weight: 500; color: #6b7280; text-decoration: none; border-bottom: 3px solid transparent; white-space: nowrap; transition: color .15s, border-color .15s; }
 .page-nav a:hover { color: #1a1a2e; }
 .page-nav a.active { color: #1a1a2e; border-bottom-color: #1a1a2e; font-weight: 700; }
 .page-nav a .nav-icon { font-size: 15px; }
 .page-nav a.dim { opacity: .45; pointer-events: none; }
-.page-nav a:last-child { margin-left: auto; border-left: 1px solid #e5e7eb; }
-
-/* ── Section label ── */
 .section-label { font-size: 11px; font-weight: 700; color: #6b7280; text-transform: uppercase; letter-spacing: 1.2px; margin: 0 0 12px; padding-bottom: 8px; border-bottom: 2px solid #e5e7eb; }
-
-/* ── Clickable bullet styles ── */
 li.has-link { cursor: pointer; }
-.bullet-link { display: block; color: inherit; text-decoration: none; position: relative; padding-right: 4px; transition: color .15s; }
+.bullet-link { display: block; color: inherit; text-decoration: none; transition: color .15s; }
 .bullet-link:hover { color: #0096c8; }
 .src-tag { display: inline-block; font-size: 11px; font-weight: 600; color: #9ca3af; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 4px; padding: 1px 6px; margin-left: 6px; vertical-align: middle; white-space: nowrap; opacity: 0.75; transition: opacity .15s, color .15s, background .15s, border-color .15s; }
 .bullet-link:hover .src-tag { opacity: 1; color: #0096c8; background: #e8f4ff; border-color: #0096c8; }
-
-/* ── Card title link ── */
 .trump-title-link { color: inherit; text-decoration: none; transition: color .15s; }
 .trump-title-link:hover { color: #0096c8; }
 .trump-title-link:hover::after { content: " ↗"; font-size: 13px; opacity: .7; }
-
-/* ── Footer ── */
 .site-footer { text-align: center; padding: 28px 20px; font-size: 11px; color: #9ca3af; margin-top: 32px; border-top: 1px solid #e5e7eb; }
-
 @media (max-width: 640px) { .site-header { padding: 0 14px; } .update-time { display: none; } .page-nav { padding: 0 8px; } .page-nav a { padding: 0 12px; font-size: 13px; } }
-
-/* ── Trump-specific styles ── */
 .trump-wrap { max-width: 1040px; margin: 24px auto; padding: 0 20px; }
-
-.trump-banner {
-  background: linear-gradient(135deg, #16163e 0%, #3C3B6E 60%, #1a0a0a 100%);
-  border-radius: 8px; padding: 18px 24px; margin-bottom: 16px;
-  display: flex; align-items: center; gap: 20px;
-  border: 1px solid #4a3a6e; flex-wrap: wrap;
-}
+.trump-banner { background: linear-gradient(135deg, #16163e 0%, #3C3B6E 60%, #1a0a0a 100%); border-radius: 8px; padding: 18px 24px; margin-bottom: 16px; display: flex; align-items: center; gap: 20px; border: 1px solid #4a3a6e; flex-wrap: wrap; }
 .trump-banner-title { font-size: 22px; font-weight: 700; color: #fff; letter-spacing: .5px; }
 .trump-banner-title span { color: #C81E32; }
 .trump-banner-sub { font-size: 12px; color: rgba(255,255,255,.55); margin-top: 3px; }
@@ -67,145 +45,121 @@ li.has-link { cursor: pointer; }
 .trump-stat { text-align: center; background: rgba(255,255,255,.08); border-radius: 8px; padding: 8px 14px; }
 .trump-stat-num { font-size: 18px; font-weight: 700; color: #B48200; }
 .trump-stat-lbl { font-size: 10px; color: rgba(255,255,255,.5); }
-
 .source-bar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
 .source-chip { display: flex; align-items: center; gap: 5px; background: #fff; border: 1px solid #e5e7eb; border-radius: 20px; padding: 5px 12px; font-size: 12px; color: #6b7280; }
-
-/* ── Trump cards ── */
-.trump-card {
-  background: #fff; border-radius: 8px; border: 1px solid #e5e7eb;
-  border-left: 5px solid #0096c8; box-shadow: 0 1px 4px rgba(0,0,0,.06);
-  padding: 18px 22px; transition: box-shadow .2s;
-}
+.trump-card { background: #fff; border-radius: 8px; border: 1px solid #e5e7eb; border-left: 5px solid #0096c8; box-shadow: 0 1px 4px rgba(0,0,0,.06); padding: 18px 22px; transition: box-shadow .2s; }
 .trump-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,.1); }
-
-.trump-card.featured {
-  background: linear-gradient(135deg, #fffbe6, #fff8e1);
-  border-left-color: #B48200; border-left-width: 6px;
-  padding: 22px 28px; margin-bottom: 20px;
-}
+.trump-card.featured { background: linear-gradient(135deg, #fffbe6, #fff8e1); border-left-color: #B48200; border-left-width: 6px; padding: 22px 28px; margin-bottom: 20px; }
 .trump-card.japan-highlight { background: #fff0f2; border-left-color: #C81E32; }
-
 .trump-card-header { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
 .trump-icon { font-size: 20px; }
 .trump-badge { font-size: 11px; font-weight: 700; color: #fff; padding: 3px 10px; border-radius: 12px; white-space: nowrap; }
 .trump-card-title { font-size: 18px; font-weight: 700; color: #1a1a2e; margin-left: 4px; }
 .trump-card.featured .trump-card-title { font-size: 20px; color: #5a3a00; }
-
-/* ── Trump bullets ── */
 .trump-bullets { list-style: none; padding: 0; }
 .trump-bullets li { position: relative; padding-left: 20px; font-size: 15px; color: #2a2a3e; margin-bottom: 9px; line-height: 1.6; }
 .trump-bullets li::before { content: "▸"; position: absolute; left: 0; color: #0096c8; font-weight: 700; }
-.trump-card.featured .trump-bullets li { font-size: 15px; }
 .trump-card.featured .trump-bullets li::before { color: #B48200; }
 .trump-card.japan-highlight .trump-bullets li::before { color: #C81E32; }
 .trump-card .bullet-link:hover .src-tag { color: #C81E32; background: #fff0f2; border-color: #C81E32; }
-
-.trump-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
 .no-data { font-size: 14px; color: #9ca3af; font-style: italic; }
-
+.trump-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
 @media (max-width: 640px) { .trump-wrap { padding: 0 12px; } .trump-banner { padding: 14px; } .trump-banner-title { font-size: 18px; } .trump-stats { display: none; } }
 </style>
 </head>
 <body>
-
 <header class="site-header">
   <div class="logo" onclick="location.href='index.html'">World<em>News</em></div>
-  <div class="header-date">July 08, 2026</div>
+  <div class="header-date">July 09, 2026</div>
   <div class="header-spacer"></div>
-  <div class="update-time">Updated: 2026-07-08 14:19 JST &nbsp;|&nbsp; auto-update every 6h</div>
+  <div class="update-time">Updated: 2026-07-09 16:40 JST &nbsp;|&nbsp; auto-update every 6h</div>
   <div class="lang-toggle">
     <a href="../trump.html">JP</a>
     <a href="trump.html" class="active">EN</a>
   </div>
   <div class="live-badge">LIVE</div>
 </header>
-
 <nav class="page-nav">
   <a href="index.html"><span class="nav-icon">🏠</span>Home</a>
   <a href="intelligence.html"><span class="nav-icon">📋</span>Intelligence</a>
   <a href="trump.html" class="active"><span class="nav-icon">🇺🇸</span>US / Trump</a>
   <a href="theme.html" class="dim"><span class="nav-icon">🔎</span>Themes</a>
   <a href="midterm.html" class="dim"><span class="nav-icon">🗳️</span>US Midterms</a>
-  <a href="summary.html"><span class="nav-icon">📋</span>Exec Summary</a>
+  <a href="summary.html" class="dim"><span class="nav-icon">📋</span>Exec Summary</a>
 </nav>
-
 <div class="trump-wrap">
   <div class="trump-banner">
     <div>
       <div class="trump-banner-title">TRUMP <span>MONITOR</span></div>
-      <div class="trump-banner-sub">Coverage: 2026-07-07 ~ 2026-07-08 (UTC)
-        &nbsp;|&nbsp; <span style="opacity:.6;font-size:11px;">Generated: 2026-07-08 05:18 JST</span>
+      <div class="trump-banner-sub">Coverage: 2026-07-08 ~ 2026-07-09 (UTC)
+        &nbsp;|&nbsp; <span style="opacity:.6;font-size:11px;">Generated: 2026-07-09 16:40:26</span>
       </div>
     </div>
     <div class="trump-banner-spacer"></div>
     <div class="trump-stats">
-      <div class="trump-stat"><div class="trump-stat-num">12</div><div class="trump-stat-lbl">Items</div></div>
+      <div class="trump-stat"><div class="trump-stat-num">16</div><div class="trump-stat-lbl">Items</div></div>
       <div class="trump-stat"><div class="trump-stat-num">8</div><div class="trump-stat-lbl">Sections</div></div>
     </div>
   </div>
-
   <div class="source-bar">
-    <div class="source-chip"><span>📱</span>Truth Social: 4 items</div>
-    <div class="source-chip"><span>🎬</span>YouTube (captioned): 6 items</div>
-    <div class="source-chip"><span>📰</span>Google News: 2 items</div>
+    
   </div>
-
   <p class="section-label">Key Points</p>
-  <div class="trump-card featured" style="--accent:#B48200;">
-    <div class="trump-card-header">
-      <span class="trump-icon">⭐</span>
-      <span class="trump-badge" style="background:#B48200;">Key Points</span>
-      <span class="trump-card-title"><a href="https://news.google.com/search?q=Trump+statement+White+House+today&hl=en&gl=US" target="_blank" rel="noopener noreferrer" class="trump-title-link">Today's Highlights</a></span>
+  
+    <div class="trump-card featured" style="border-left-color:#B48200;">
+      <div class="trump-card-header">
+        <span class="trump-icon">⭐</span>
+        <span class="trump-badge" style="background:#B48200;">Key Points</span>
+        <span class="trump-card-title"><a href="https://news.google.com/search?q=Trump%20statement%20White%20House%20today&amp;hl=en&amp;gl=US" target="_blank" rel="noopener noreferrer" class="trump-title-link">Today&#x27;s Highlights</a></span>
+      </div>
+      <ul class="trump-bullets">
+        <li class="has-link"><a href="https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump secures $3B defense deals at NATO Ankara Summit; Lockheed Martin, Northrop Grumman expand European production.<span class="src-tag">White House ↗</span></a></li>
+<li class="has-link"><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQd2JISkQzUWNER2stdWVCdi1rdEkySEh6OGNPZDU2YUl3bl9ud25YRDQ4T3dSWFNqYklqaFFkZkU0UUxGaS1yNTVxTzdFYXFLVGZfRVpHc1MzbXNtc3JnS0Z6LUZNeVNTVTduLXNTVVpTNGt1T0ZGc2Fockc5cHM5VUtXZ1ZLc0JxQTU5RjEzVEs2UXJiUWxqeg?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump orders new Iran strikes after calling Iranian leaders &#x27;scum&#x27;; U.S. reports blasts in southern regions.<span class="src-tag">The Washington Post / BBC ↗</span></a></li>
+<li class="has-link"><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxObVp5NlBjLTljbktEZVE3LW9CMEIzSnFsRXlJakM4TEM1MElGalJiTUVOZUpIWktoM0hpSGlTTml1TUM0N0JqaWZUT3J0TUtQUGxpdUtRMklRWldqMmhQTlpMZlJ5SFNUOGtyNWhHQ2hFeDhmc0NfSUdTUDk0V3Njb0hNVk96Q3NLMktLcVMyT2lKV0lRUVE?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">Minnesota, Somalia leaders condemn Trump Truth Social posts targeting children as inflammatory rhetoric.<span class="src-tag">Sahan Journal / CBS News ↗</span></a></li>
+      </ul>
     </div>
-    <ul class="trump-bullets">
-      <li class="has-link"><a href="https://www.youtube.com/watch?v=2I2NSFzqFCk" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump arrives Ankara for NATO summit; bilateral with Erdogan opens diplomatic round<span class="src-tag">White House ↗</span></a></li>
-      <li class="has-link"><a href="https://www.whitehouse.gov/releases/2026/07/democrats-fought-against-historic-tax-cuts-now-theyre-fighting-against-opportunity-for-americas-kids/" target="_blank" rel="noopener noreferrer" class="bullet-link">WH pushes 'Trump Accounts': $1,000 capital-building grants for eligible US children; Dems push back<span class="src-tag">White House ↗</span></a></li>
-      <li class="has-link"><a href="https://www.youtube.com/watch?v=CtvvI285yyo" target="_blank" rel="noopener noreferrer" class="bullet-link">Freedom Fuel Network opens Philadelphia station at $3.47/gal; price-suppression policy in effect<span class="src-tag">White House ↗</span></a></li>
-      <li class="has-link"><a href="https://www.youtube.com/watch?v=Rw2XTsbn6AE" target="_blank" rel="noopener noreferrer" class="bullet-link">'Salute to America 250' held; Trump frames semiquincentennial around unity, prosperity themes<span class="src-tag">White House ↗</span></a></li>
-      <li class="has-link"><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQUjRkM3Z4Y2FrcThIVk5TaDhka2JRVDg0dE9hN29WYTl2eVJGWTQtT3Q1LVdDS3ExUkw3MnBEMVJVaU1XWWRNNGZyaUxSclpVZUhIeDJQQXhvUThaMHVscEJFa0ZpbkVqM0lJeUpjaGtiSXR0eHJDV09Hakl4WjVCYlAyQlRKdURKY054ZWtSbWNpSnJPMTVaYjhYNVU2UzY4VTlIUWtlSGhHNjI4ZERKc0ZMNEF6d09mRmlpTWRDMA?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">WaPo wins $380M defamation suit vs. Trump Media; legal war with press continues<span class="src-tag">Washington Post ↗</span></a></li>
-    </ul>
-  </div>
-
   <p class="section-label">Detailed Analysis</p>
   <div class="trump-grid">
-
-    <div class="trump-card" style="border-left-color:#3C3B6E;">
+    
+    <div class="trump-card " style="border-left-color:#3C3B6E;">
       <div class="trump-card-header">
         <span class="trump-icon">📱</span>
         <span class="trump-badge" style="background:#3C3B6E;">Social Media</span>
         <span class="trump-card-title"><a href="https://truthsocial.com/@realDonaldTrump" target="_blank" rel="noopener noreferrer" class="trump-title-link">Truth Social Posts</a></span>
       </div>
       <ul class="trump-bullets">
-        <li class="has-link"><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNTDNHR0tlMXdDcFgtbXZvY0sxMXBUcDZkOENVQXBHclBzdDRTbUd5N0I2M1BJY281WTdZMXpwUjRhUTJoYXN6cEk5MzBZUXNGS3dtRWVfZ0R2MlNZR2lSdFhDUkdMWkJaZmRjci1FYWdOejhkV19UTnVBXzZwU3Vma2hSSXpGbmtqVWVKeW9QbDltOF9p?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">Iran nuclear threat posture fails; US Iran strategy under review<span class="src-tag">Truth Social via Bulletin of Atomic Scientists ↗</span></a></li>
-        <li class="has-link"><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQaTVCSGI0UjVKempmZXpVYlJhN3IwMzdRSlhiY3hEMFpvNUxtRHlCWWJVbS1BQ2s0el9SMjVjbENPMl9QWFBXM25WdnQ1WUdCZGxycGd3dUE5TlJiTmF3RnpudlpSUUtOUGdtamxabEkwX0ZzN3NsT0d6MUhLRDZaTDdBbUdtV21pbXNIa25SZE1BVUJHdWlyQUE5eEpNMUFYWGVwSklyMUhzTktB0gHAAUFVX3lxTE1wMDlnY2hJVkNwOEV1RnhGZTNrSW8xR1NDV0tuM2FjSXRCeUxlLWxhbktpUGo0UElCWWNvZ2c3a1drMDNlT0NHM1pReXRIbDhfS19TOUtVUG5ubW81V3FLbmlLd0s0dm1vamU0cmo1VS0ycFZ2MXVNdU4zLUtMOXItVTdoWkhzbXJaVXNQQWl2Y2FFZmdpWnNEd1dhSFdzbUtUczZoMVp0U2p0aXpyNTdGMXNkZjE1eUlfVjNXR1FfaQ?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">Walz fires back at Trump's Minnesota hijab post; Islamophobia row expands<span class="src-tag">Truth Social via KTTC ↗</span></a></li>
-        <li class="has-link"><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQOUNXMU9wOUdmS1U3R0ZwUjZkQVNsaEQtZHRidTRvdXQwQU9Nb1Y3U29rcVc0NGdUTWRROC1GcE0zNFBsYmVrMTM0MWQ0UThUQ1U1blRoSmwxVUZ0ckY0d3V5d0dsaEx0bVB4WVo1b3lxRkViVVpqQ3ZLck5aMWhTLXpMQQ?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump calls FIFA; analyst warns political meddling in sport opens 'slippery slope'<span class="src-tag">Truth Social via NPR ↗</span></a></li>
+        <li class="has-link"><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxObVp5NlBjLTljbktEZVE3LW9CMEIzSnFsRXlJakM4TEM1MElGalJiTUVOZUpIWktoM0hpSGlTTml1TUM0N0JqaWZUT3J0TUtQUGxpdUtRMklRWldqMmhQTlpMZlJ5SFNUOGtyNWhHQ2hFeDhmc0NfSUdTUDk0V3Njb0hNVk96Q3NLMktLcVMyT2lKV0lRUVE?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump posts condemning St. Paul children draw Minnesota political backlash over inflammatory rhetoric.<span class="src-tag">Truth Social / Sahan Journal ↗</span></a></li>
+<li class="has-link"><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQd2JISkQzUWNER2stdWVCdi1rdEkySEh6OGNPZDU2YUl3bl9ud25YRDQ4T3dSWFNqYklqaFFkZkU0UUxGaS1yNTVxTzdFYXFLVGZfRVpHc1MzbXNtc3JnS0Z6LUZNeVNTVTduLXNTVVpTNGt1T0ZGc2Fockc5cHM5VUtXZ1ZLc0JxQTU5RjEzVEs2UXJiUWxqeg?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump denounces Iranian leadership as &#x27;scum&#x27; on Truth Social amid retaliatory military operations.<span class="src-tag">Truth Social / The Washington Post ↗</span></a></li>
+<li class="has-link"><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0VIOWQ3bXBKbFNzcm9iOFZPTk03NU1jdkhUN2docTNzNExfV01EY3hlcmttMzNiZDBBODVqcmZQYzZPX01KNmcxZUxYWl8wQ2duZ29laVJVa3Eyd0NfN0NDS2ZNNnhGWS1QMVpYSk9rUDdKbkU0N1kwR1dRS3ptaDdpRXhEOWRWbmxnREJRUEh2WWNRNmJpZ2IzN28tRGNiSThsRXU1TkxITGp6dXlwZHpxMW5Xdw?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump assails Somali children in Truth Social post; CBS, national outlets report intense criticism.<span class="src-tag">Truth Social / CBS News ↗</span></a></li>
       </ul>
     </div>
 
-    <div class="trump-card" style="border-left-color:#C81E32;">
+    <div class="trump-card " style="border-left-color:#C81E32;">
       <div class="trump-card-header">
         <span class="trump-icon">🎤</span>
         <span class="trump-badge" style="background:#C81E32;">Press / Interviews</span>
-        <span class="trump-card-title"><a href="https://www.whitehouse.gov/briefings-statements/" target="_blank" rel="noopener noreferrer" class="trump-title-link">Press Conferences & Media</a></span>
+        <span class="trump-card-title"><a href="https://www.whitehouse.gov/briefings-statements/" target="_blank" rel="noopener noreferrer" class="trump-title-link">Press Conferences &amp; Media</a></span>
       </div>
       <ul class="trump-bullets">
-        <li class="no-data">No data for this period.</li>
+        <li class="has-link"><a href="https://www.youtube.com/watch?v=9JYvcEVlu3s" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump holds press conference Ankara; discusses NATO Summit outcomes and bilateral meetings.<span class="src-tag">White House ↗</span></a></li>
+<li class="has-link"><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNQnBpOWNkVjJQbVVsdkRsVHV6Z09PTlhoa3EtSGFaYkdhYU84endvcC1tSE56WmFDZnVsSUhCSzI1OWxtcExrWXE4VFlTTV9hQlBWQ3UtLVo0ZlhOUk1abmJoSmkyVVl0aU1wR3RZNGhLNW5nRW9aMkstaDlNeW1pSQ?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump criticizes White House PR team, Press Secretary Leavitt during Ankara presser.<span class="src-tag">AOL.com ↗</span></a></li>
       </ul>
     </div>
 
-    <div class="trump-card" style="border-left-color:#B48200;">
+    <div class="trump-card " style="border-left-color:#B48200;">
       <div class="trump-card-header">
         <span class="trump-icon">📜</span>
         <span class="trump-badge" style="background:#B48200;">Executive Actions</span>
-        <span class="trump-card-title"><a href="https://www.whitehouse.gov/presidential-actions/" target="_blank" rel="noopener noreferrer" class="trump-title-link">White House Orders & Releases</a></span>
+        <span class="trump-card-title"><a href="https://www.whitehouse.gov/presidential-actions/" target="_blank" rel="noopener noreferrer" class="trump-title-link">White House Orders &amp; Releases</a></span>
       </div>
       <ul class="trump-bullets">
-        <li class="has-link"><a href="https://www.whitehouse.gov/releases/2026/07/democrats-fought-against-historic-tax-cuts-now-theyre-fighting-against-opportunity-for-americas-kids/" target="_blank" rel="noopener noreferrer" class="bullet-link">WH counters Dem opposition to Trump Accounts; historic tax cuts and Working Families Tax Cut cited<span class="src-tag">White House ↗</span></a></li>
+        <li class="has-link"><a href="https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/" target="_blank" rel="noopener noreferrer" class="bullet-link">NATO defense pact yields $3B investment surge; Lockheed, Northrop expand European manufacturing footprint.<span class="src-tag">White House Fact Sheet ↗</span></a></li>
+<li class="has-link"><a href="https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump announces &#x27;NATO 3.0&#x27; strategy prioritizing burden-sharing, U.S. homeland defense resource reallocation.<span class="src-tag">White House Fact Sheet ↗</span></a></li>
+<li class="has-link"><a href="https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/" target="_blank" rel="noopener noreferrer" class="bullet-link">European defense spending supports nearly 200,000 American jobs per 2025 White House analysis.<span class="src-tag">White House Fact Sheet ↗</span></a></li>
       </ul>
     </div>
 
-    <div class="trump-card" style="border-left-color:#3C3B6E;">
+    <div class="trump-card " style="border-left-color:#3C3B6E;">
       <div class="trump-card-header">
         <span class="trump-icon">🎙</span>
         <span class="trump-badge" style="background:#3C3B6E;">WH Briefing</span>
@@ -216,28 +170,29 @@ li.has-link { cursor: pointer; }
       </ul>
     </div>
 
-    <div class="trump-card" style="border-left-color:#C81E32;">
+    <div class="trump-card " style="border-left-color:#C81E32;">
       <div class="trump-card-header">
         <span class="trump-icon">🎬</span>
         <span class="trump-badge" style="background:#C81E32;">Video Content</span>
         <span class="trump-card-title"><a href="https://www.youtube.com/@WhiteHouse" target="_blank" rel="noopener noreferrer" class="trump-title-link">YouTube / White House Video</a></span>
       </div>
       <ul class="trump-bullets">
-        <li class="has-link"><a href="https://www.youtube.com/watch?v=CtvvI285yyo" target="_blank" rel="noopener noreferrer" class="bullet-link">Freedom Fuel Network opens in Philadelphia; $3.47/gal puts policy on display<span class="src-tag">White House ↗</span></a></li>
-        <li class="has-link"><a href="https://www.youtube.com/watch?v=7WhdyCmritw" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump arrival ceremony in Turkey; state welcome ahead of NATO talks<span class="src-tag">White House ↗</span></a></li>
-        <li class="has-link"><a href="https://www.youtube.com/watch?v=2I2NSFzqFCk" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump-Erdogan bilateral held; precedes NATO summit plenary session<span class="src-tag">White House ↗</span></a></li>
-        <li class="has-link"><a href="https://www.youtube.com/watch?v=Rw2XTsbn6AE" target="_blank" rel="noopener noreferrer" class="bullet-link">'Salute to America 250' ceremony broadcast; freedom and prosperity messaging leads<span class="src-tag">White House ↗</span></a></li>
+        <li class="has-link"><a href="https://www.youtube.com/watch?v=kiFDuhtRL80" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump provides update on U.S. retaliatory strikes against Iran during NATO Summit.<span class="src-tag">White House YouTube ↗</span></a></li>
+<li class="has-link"><a href="https://www.youtube.com/watch?v=VUfmxcxY0x4" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump participates NATO Leaders&#x27; Working Session; bilateral meetings with Ukraine, Syria presidents.<span class="src-tag">White House YouTube ↗</span></a></li>
+<li class="has-link"><a href="https://www.youtube.com/watch?v=q9PZAl86Vig" target="_blank" rel="noopener noreferrer" class="bullet-link">Trump greets NATO Secretary General; official welcome ceremony at Ankara Summit.<span class="src-tag">White House YouTube ↗</span></a></li>
+<li class="has-link"><a href="https://www.youtube.com/watch?v=g-L3UdEASB0" target="_blank" rel="noopener noreferrer" class="bullet-link">VP Vance delivers remarks Milwaukee, Wisconsin event amid Trump NATO diplomacy.<span class="src-tag">White House YouTube ↗</span></a></li>
       </ul>
     </div>
 
-    <div class="trump-card" style="border-left-color:#B48200;">
+    <div class="trump-card " style="border-left-color:#B48200;">
       <div class="trump-card-header">
         <span class="trump-icon">👥</span>
         <span class="trump-badge" style="background:#B48200;">Cabinet Moves</span>
-        <span class="trump-card-title"><a href="https://news.google.com/search?q=Trump+cabinet+Bessent+Rubio+Hegseth+Vance+statement&hl=en&gl=US" target="_blank" rel="noopener noreferrer" class="trump-title-link">Key Cabinet Activity</a></span>
+        <span class="trump-card-title"><a href="https://news.google.com/search?q=Trump%20cabinet%20Bessent%20Rubio%20Hegseth%20Vance%20statement&amp;hl=en&amp;gl=US" target="_blank" rel="noopener noreferrer" class="trump-title-link">Key Cabinet Activity</a></span>
       </div>
       <ul class="trump-bullets">
-        <li class="has-link"><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1PQWhfWmxScDN3aERLQUlVQm9aeHNlQjFxUXlBRXN1V1hocGVRYXlDUFhEUU1YYkYxVmxTczNjWGxnM2stM2FpRlZSM3hVeUJzN08wWGxoR0hxR1liMHh5Q3k0RTlNcmk3SFRQeA?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">Vance sued by ACLU; free-speech row with progressive activists widens<span class="src-tag">them.us ↗</span></a></li>
+        <li class="has-link"><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNQnBpOWNkVjJQbVVsdkRsVHV6Z09PTlhoa3EtSGFaYkdhYU84endvcC1tSE56WmFDZnVsSUhCSzI1OWxtcExrWXE4VFlTTV9hQlBWQ3UtLVo0ZlhOUk1abmJoSmkyVVl0aU1wR3RZNGhLNW5nRW9aMkstaDlNeW1pSQ?oc=5" target="_blank" rel="noopener noreferrer" class="bullet-link">Press Secretary Leavitt criticized by Trump for PR execution at Ankara presser.<span class="src-tag">AOL.com ↗</span></a></li>
+<li class="has-link"><a href="https://www.youtube.com/watch?v=g-L3UdEASB0" target="_blank" rel="noopener noreferrer" class="bullet-link">VP Vance rallies supporters Milwaukee; Trump diplomatic focus NATO consolidation.<span class="src-tag">White House YouTube ↗</span></a></li>
       </ul>
     </div>
 
@@ -245,21 +200,18 @@ li.has-link { cursor: pointer; }
       <div class="trump-card-header">
         <span class="trump-icon">🇯🇵</span>
         <span class="trump-badge" style="background:#C81E32;">Japan Impact</span>
-        <span class="trump-card-title"><a href="https://news.google.com/search?q=Japan+security+economy+Trump+policy+impact&hl=en&gl=US" target="_blank" rel="noopener noreferrer" class="trump-title-link">Impact on Japan</a></span>
+        <span class="trump-card-title"><a href="https://news.google.com/search?q=Japan%20security%20economy%20Trump%20policy%20impact&amp;hl=en&amp;gl=US" target="_blank" rel="noopener noreferrer" class="trump-title-link">Impact on Japan</a></span>
       </div>
       <ul class="trump-bullets">
         <li class="no-data">No data for this period.</li>
       </ul>
     </div>
-
   </div>
 </div>
-
 <footer class="site-footer">
-  Sources: NHK · Nikkei · Reuters · Bloomberg · FT · BBC · NYT · Al Jazeera · White House RSS · Truth Social · The Economist<br>
-  Updated: 2026-07-08 14:19 JST &nbsp;|&nbsp; Auto-update every 6h &nbsp;|&nbsp; World Intelligence Monitor
+  Sources: NHK &middot; Nikkei &middot; Reuters &middot; Bloomberg &middot; FT &middot; BBC &middot; NYT &middot; Al Jazeera &middot; White House RSS &middot; Truth Social &middot; The Economist<br>
+  Updated: 2026-07-09 16:40 JST &nbsp;|&nbsp; Auto-update every 6h &nbsp;|&nbsp; World Intelligence Monitor
 </footer>
-
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   const grid = document.querySelector('.trump-grid');
