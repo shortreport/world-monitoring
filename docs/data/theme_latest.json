@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09 15:09:47",
+  "generated_at": "2026-07-09 15:51:58",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-09 15:09:22",
+      "last_checked": "2026-07-09 15:51:29",
       "items": [
         {
           "uid": "13669e083916",
@@ -1879,7 +1879,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-09 15:09:32",
+      "last_checked": "2026-07-09 15:51:39",
       "items": [
         {
           "uid": "6fb0717965b3",
@@ -3880,8 +3880,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-09 15:09:47",
+      "last_checked": "2026-07-09 15:51:58",
       "items": [
+        {
+          "uid": "035003b83b0a",
+          "date": "2026-05-08",
+          "title": "Lula won’t sideline China on rare earths, tells Trump refining stays in Brazil - South China Morning Post",
+          "summary": "ブラジルのルーラ大統領は、米国のトランプ大統領に対し、レアアース精製はブラジルに留まると述べており、レアアース採掘・精製事業から中国を排除しない方針を示している。これは中国によるレアアース輸出管理に対抗する米国の圧力に対して、ブラジルが中立的な立場を維持することを示唆している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON1NUX0tlTTcwS2xQN3dlbmNsT0VicGoyYTZjcjJ6Qmwyd2U1SnpXSFJXdmZMZnQ0SnhsNWIyamlrQ1lVTW91NXM5Z1B3MzVkdjUtRS14NUJXZTliUjN2UFVyUEtiU1lsMmRKTWRpMnlvTTdubVJLMlNNMTU4Y2dPakQ3UC1CT21TUGdiMGV5b2JJTm9lNDl2YzA1ckpFU2lERzllTzBoNmNCWlJjbXZoUUVPSl8zeWN6aVExRzlvMXdhNmlzaFZCTV92QURGSm5OMm9PQdIB1AFBVV95cUxNYzlRTTFSbk91TV91RlN5Q091LVJkSUVubmRIM3RxU3hYM2dLeC00NnEzaU82UFFSbmJVb0VuaHk3NW4tR3NuSjMzN1dNYkNURVhBR3N6N09pYVhWTHlISGY4T1FTdjlpMG1qTDdYOWs2WjZ3dnNjZFdCNkFiV3QtdUxIdjVvbkNkeHptMnd3c29YdENjS0JpNGNHRzNlVHlPYW95VUNmUkMydEU4TVZjakZQUE9KOTNKOThUZ2RuZEh5cm1Lc09Bckh1M3VkZmE3VFRHMQ?oc=5",
+          "added_at": "2026-07-09 15:51:56"
+        },
         {
           "uid": "81d1ef23ab08",
           "date": "2026-05-22",
@@ -5870,16 +5880,6 @@
           "source": "米国政府",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd21ORHVnZE5mRUdNb3NlMW12RFNtdzRmQmZRci16R1pFVVdCU2lYRHJtUGJwQkdSSzdMSC1SanQ2U3Z5Ql95bG1ZMXBFbGFxbU1ldnk0X095TTR0ay1VRm91ZFJCUXBBQWs2ejBteDVULVZlT2xUaEo4N3hTNmNXQzdMOFBZa1NEd0hkd0lUYXBvamFjTTgyMzhOdC1tQmU1TlpBV2xERC1fZkljdVNnWmt1ZzFZYkZWQ21Uc2paWjBCTGRsMTk40gHHAUFVX3lxTFB3bU5EdWdkTmZFR01vc2UxbXZEU213NGZCZlFyLXpHWkVVV0JTaVhEcm1QYnBCR1JLN0xILVJqdDZTdnlCX3lsbVkxcEVsYXFtTWV2eTRfT3lNNHRrLVVGb3VkUkJRcEFBazZ6MG14NVQtVmVPbFRoSjg3eFM2Y1dDN0w4UFlrU0R3SGR3SVRhcG9qYWNNODIzOE50LW1CZTVOWkFXbERELV9mSWN1U2daa3VnMVliRlZDbVRzalpaMEJMZGwxOTg?oc=5",
-          "added_at": "2026-06-23 08:10:47"
-        },
-        {
-          "uid": "060acd5cd80a",
-          "date": "2026-04-10",
-          "title": "Project Vault and the New Era of US Strategic Mineral Stockpiling - Geopolitical Monitor",
-          "summary": "米国が「Project Vault」を通じて戦略的鉱物の備蓄を拡大していることは、中国によるレアアース輸出管理への対抗措置として、米国がサプライチェーンの多様化と自給能力の強化を進めていることを示唆している。この動きは、レアアース産業における中国への依存度低減を目指す米国の地政学的戦略を反映している。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnBUbW5STVpJQ3psNUEtbTRkd0NISnRYWFFvR2c4Z01XOXlISXJCNGZQVWVKRURxTFdaSm04VWhXYjN6LTNYUnFPWngzRU9rZ0VOOHBJZUFWMmhHMV9kMnJCQ1RXNjZWcnYxOEtUZ3FzQmc1NTc4UWxLYlR6NDZuc05LeGZHLWlGdkdCNmdiY0dWNDFtYmxBaU83MjVHUTNQSGtvRg?oc=5",
           "added_at": "2026-06-23 08:10:47"
         }
       ]
