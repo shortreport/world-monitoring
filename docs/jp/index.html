@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ワールド・インテリジェンス・モニター</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif; background: #f4f5f7; color: #1a1a2e; font-size: 16px; line-height: 1.7; }
+
+/* ── Site Header ── */
+.site-header { background: #1a1a2e; color: #fff; padding: 0 24px; height: 58px; display: flex; align-items: center; gap: 16px; position: sticky; top: 0; z-index: 300; box-shadow: 0 2px 8px rgba(0,0,0,.25); }
+.logo { font-size: 20px; font-weight: 700; letter-spacing: .5px; white-space: nowrap; cursor: pointer; }
+.logo em { color: #5bc8f5; font-style: normal; }
+.header-date { font-size: 12px; color: rgba(255,255,255,.5); white-space: nowrap; }
+.header-spacer { flex: 1; }
+.live-badge { background: #e63946; color: #fff; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; letter-spacing: 1px; }
+.update-time { font-size: 11px; color: rgba(255,255,255,.4); white-space: nowrap; }
+.lang-toggle { display: flex; gap: 6px; font-size: 12px; }
+.lang-toggle a { color: rgba(255,255,255,.6); text-decoration: none; padding: 3px 10px; border-radius: 4px; border: 1px solid rgba(255,255,255,.3); transition: all .15s; font-weight: 600; }
+.lang-toggle a.active { color: #fff; background: rgba(255,255,255,.2); border-color: rgba(255,255,255,.7); }
+.lang-toggle a:hover { color: #fff; background: rgba(255,255,255,.12); }
+
+/* ── Page Navigation Tabs ── */
+.page-nav { background: #fff; border-bottom: 1px solid #e5e7eb; padding: 0 24px; display: flex; align-items: stretch; position: sticky; top: 58px; z-index: 200; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
+.page-nav a { display: flex; align-items: center; gap: 6px; padding: 0 18px; height: 44px; font-size: 14px; font-weight: 500; color: #6b7280; text-decoration: none; border-bottom: 3px solid transparent; white-space: nowrap; transition: color .15s, border-color .15s; }
+.page-nav a:hover { color: #1a1a2e; }
+.page-nav a.active { color: #1a1a2e; border-bottom-color: #1a1a2e; font-weight: 700; }
+.page-nav a .nav-icon { font-size: 15px; }
+.page-nav a.dim { opacity: .45; pointer-events: none; }
+
+/* ── Layout ── */
+.page-wrap { max-width: 1200px; margin: 24px auto; padding: 0 20px; display: grid; grid-template-columns: 1fr 300px; gap: 24px; align-items: start; }
+@media (max-width: 860px) { .page-wrap { grid-template-columns: 1fr; } .eco-sidebar { order: -1; position: static; max-height: none; overflow-y: visible; } }
+
+/* ── News cards ── */
+.news-grid { display: flex; flex-direction: column; gap: 16px; }
+.news-card  { background: #fff; border-radius: 8px; padding: 16px 18px; box-shadow: 0 1px 4px rgba(0,0,0,.07); }
+.card-header { display: flex; align-items: flex-start; gap: 10px; margin-bottom: 6px; }
+.badge { font-size: 10px; font-weight: 700; padding: 3px 7px; border-radius: 4px; white-space: nowrap; flex-shrink: 0; margin-top: 2px; }
+.card-title { font-size: 18px; font-weight: 700; color: #1a1a2e; text-decoration: none; line-height: 1.4; }
+.card-title:hover { text-decoration: underline; color: #0096c8; }
+.card-sub { font-size: 14px; color: #6b7280; margin-bottom: 10px; }
+.bullet-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.bullet-list li { font-size: 15px; line-height: 1.6; padding-left: 12px; border-left: 2px solid #e5e7eb; color: #2a2a3e; }
+.bullet-list li a { color: inherit; text-decoration: none; }
+.bullet-list li a:hover { color: #0096c8; text-decoration: underline; }
+.src-tag { display: inline-block; font-size: 11px; font-weight: 600; color: #9ca3af; background: #f3f4f6; border: 1px solid #e5e7eb; border-radius: 4px; padding: 1px 6px; margin-left: 6px; vertical-align: middle; white-space: nowrap; }
+.card-details { margin-top: 12px; border-top: 1px solid #f3f4f6; padding-top: 8px; }
+.card-details summary { font-size: 13px; color: #9ca3af; cursor: pointer; user-select: none; }
+.card-details[open] summary { color: #6b7280; }
+.risk-text, .ctx-text { font-size: 13px; color: #4b5563; line-height: 1.7; margin-top: 8px; }
+
+/* ── Economist sidebar ── */
+.eco-sidebar { position: sticky; top: 112px; max-height: calc(100vh - 130px); overflow-y: auto; background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; box-shadow: 0 1px 6px rgba(0,0,0,.07); }
+.eco-sidebar::-webkit-scrollbar { width: 4px; } .eco-sidebar::-webkit-scrollbar-thumb { background: rgba(0,0,0,.15); border-radius: 2px; }
+.eco-head { display: flex; gap: 12px; padding: 14px 16px; background: #f9fafb; border-bottom: 1px solid #e5e7eb; align-items: flex-start; }
+.eco-cover { width: 60px; height: 80px; object-fit: cover; border-radius: 3px; flex-shrink: 0; }
+.eco-label { font-size: 11px; font-weight: 700; letter-spacing: 1.5px; color: #e63c2f; margin-bottom: 4px; }
+.eco-sub   { font-size: 13px; font-weight: 600; color: #1a1a2e; line-height: 1.4; }
+.eco-date  { font-size: 11px; color: #9ca3af; margin-top: 4px; }
+.eco-section { padding: 14px 16px; border-bottom: 1px solid #f3f4f6; }
+.eco-section:last-child { border-bottom: none; }
+.eco-sec-title { font-size: 11px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #9ca3af; margin-bottom: 10px; }
+.eco-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+.eco-list li { font-size: 13px; line-height: 1.65; color: #2a2a3e; padding-left: 10px; border-left: 2px solid #e63c2f; }
+
+/* ── Footer ── */
+.site-footer { text-align: center; padding: 28px 20px; font-size: 11px; color: #9ca3af; margin-top: 32px; border-top: 1px solid #e5e7eb; }
+
+@media (max-width: 640px) { .site-header { padding: 0 14px; } .update-time { display: none; } .page-nav { padding: 0 8px; } .page-nav a { padding: 0 12px; font-size: 13px; } }
+</style>
+</head>
+<body>
+<header class="site-header">
+  <div class="logo" onclick="location.href='index.html'">World<em>News</em></div>
+  <div class="header-date">July 09, 2026</div>
+  <div class="header-spacer"></div>
+  <div class="update-time">更新: 2026-07-09 12:16 JST</div>
+  <div class="lang-toggle">
+    <a href="index.html" class="active">JP</a>
+    <a href="../en/index.html">EN</a>
+  </div>
+  <div class="live-badge">LIVE</div>
+</header>
+<nav class="page-nav">
+  <a href="index.html" class="active"><span class="nav-icon">🏠</span>ホーム</a>
+  <a href="../en/intelligence.html" class="dim"><span class="nav-icon">📋</span>インテリジェンス</a>
+  <a href="../en/trump.html" class="dim"><span class="nav-icon">🇺🇸</span>US・トランプ</a>
+  <a href="../en/theme.html" class="dim"><span class="nav-icon">🔎</span>テーマ</a>
+  <a href="../en/midterm.html" class="dim"><span class="nav-icon">🗳️</span>中間選挙</a>
+  <a href="../en/summary.html" class="dim"><span class="nav-icon">📋</span>エグゼクティブ要約</a>
+</nav>
+<div class="page-wrap">
+  <main class="news-grid">
+    <article class="news-card" style="border-left:4px solid #ef4444; background:#fee2e2;">
+  <div class="card-header">
+    <span class="badge" style="background:#ef4444;color:#fff;">① 米イラン軍事衝突</span>
+    <a href="https://news.google.com/search?q=US+Iran+military+escalation+Hormuz+ceasefire+breakdown+2026&hl=en" target="_blank" rel="noopener" class="card-title">米イラン激化、停戦破棄</a>
+  </div>
+  <p class="card-sub">ホルムズ海峡での相互攻撃、原油価格上昇</p>
+  <ul class="bullet-list"><li><a href="http://www3.nhk.or.jp/news/html/20260709/k10015172441000.html" target="_blank" rel="noopener">7月8日、イラン革命防衛隊が湾岸米軍基地を攻撃、米中央軍が継続報復</a><span class="src-tag">NHK</span></li>
+<li><a href="http://www3.nhk.or.jp/news/html/20260708/k10015171371000.html" target="_blank" rel="noopener">トランプ大統領、イラン核合意（MOU）の終了を宣言、認可取り消し</a><span class="src-tag">NHK</span></li>
+<li><a href="http://www3.nhk.or.jp/news/html/20260708/k10015172181000.html" target="_blank" rel="noopener">ホルムズ海峡でイランが商船2隻をミサイル攻撃、米国が再度報復</a><span class="src-tag">NHK</span></li>
+<li><a href="http://www3.nhk.or.jp/news/html/20260708/k10015171411000.html" target="_blank" rel="noopener">WTI原油先物が75ドル台に上昇、約2週間ぶり高水準を記録</a><span class="src-tag">NHK</span></li>
+<li><a href="http://www3.nhk.or.jp/news/html/20260707/k10015170771000.html" target="_blank" rel="noopener">ニューヨーク株式市場でダウ平均が570ドル以上値下がり</a><span class="src-tag">NHK</span></li>
+</ul>
+  <details class="card-details">
+    <summary>▲ Risk / Background</summary>
+    <p class="risk-text"><strong>Risk:</strong> ▲リスク：海峡通航の安全脅威と原油供給断絶懸念により、グローバルインフレ加速の可能性。今後数日の継続的な軍事衝突が市場変動を拡大</p>
+    <p class="ctx-text"><strong>Background:</strong> 背景：6月下旬のホルムズ海峡での商船攻撃後、米国がイランへの軍事作戦を開始。イラン側も報復攻撃で応酬し、2026年下半期で中東情勢が最も緊張した局面に</p>
+  </details>
+</article>
+<article class="news-card" style="border-left:4px solid #f97316; background:#fff7ed;">
+  <div class="card-header">
+    <span class="badge" style="background:#f97316;color:#fff;">② 米中潜水艦ミサイル</span>
+    <a href="https://news.google.com/search?q=China+submarine+missile+launch+Pacific+warning+US+2026&hl=en" target="_blank" rel="noopener" class="card-title">中国潜水艦ミサイル試射</a>
+  </div>
+  <p class="card-sub">台湾周辺で戦略核兵器検証、米国が警告</p>
+  <ul class="bullet-list"><li><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTldpSVlGSHZMcmZHUGg5VDNsbnN5T0lWbmtTWDZWSmJ3X2gwMmdDZlA4T1dHcFpKR3JrV0EweUpqOE1vSTllU2hsS2tfakNGTkd6ZU1QemM1TzkzWkhJeW9ZOE1rQUdKa0QwV2tKUUpFNmNGMG9DS2RhQjctRkM3d0dvSEQzYzVaVUdYZGRXQndBMjVMSEk5dkg4czMxUEw3b0RFTWkwTnpRMzBxMEVpcTJDUmNnTEt4V1JEendIWmFvUWfSAcMBQVVfeXFMTk5XaUlZRkh2THJmR1BoOVQzbG5zeU9JVm5rU1g2Vkpid19oMDJnQ2ZQOE9XR3BaSkdya1dBMHlKajhNb0k5ZVNobEtrX2pDRk5HemVNUHpjNU85M1pISXlvWThNa0FHSmtEMFdrSlFKRTZjRjBvQ0tkYUI3LUZDN3dHb0hEM2M1WlVHWGRkV0J3QTI1TEhJOXZIOHMzMVBMN29ERU1pME56UTMwcTBFaXEyQ1JjZ0xLeFdSRHp3SFphb1Fn?oc=5" target="_blank" rel="noopener">中国の戦略原子力潜水艦が模擬弾頭ミサイルを太平洋で発射</a><span class="src-tag">South China Morning Post</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ0FhNXJtV0VYajlxRGxqc3VzU0ppVmRzOFVCakcwX1I1TzFPU1c0d0xhbXJzUWhlVGhNbWhfN21jWno0bnFsM0dwaDNkbXM0RUdRZU5HcWR5cVJObDRPLXdZRVVtUmhGeHVXLUZBVmduM3dLcUwwcExDdExVdE5FNWlGdVQ2aDNOa1hHT0RVZTMyX29PSGNDako5ZlhGMWVZUl84M3o4dlNwanpLbVZFQ1RXNE9tbHhjcWhnaXE1cHJaeF9aZGh3UGwxTXh3WmNH?oc=5" target="_blank" rel="noopener">米国は数時間前の警告のみで、透明性不足を批判</a><span class="src-tag">Reuters</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9OOEZYTGY5c1dIWHJ0cG1fekRZYzBEbnRmV1pROG9VejF0SHV5MjExdW16UWo5Y3NaSFQ1UzBWNXVPZ2RLaVpDVTh0eGpKSU1ZdzE4cWx4ZWUyQV9QMTlUa1I1Qk9FWlNsVEwzSFVJaDk1dzBJcWc?oc=5" target="_blank" rel="noopener">台湾は発射ミサイルを巨浪2と認定、中国メディアは巨浪3の可能性指摘</a><span class="src-tag">産経</span></li>
+<li><a href="http://www3.nhk.or.jp/news/html/20260708/k10015171401000.html" target="_blank" rel="noopener">日米韓外相会談でトルコ開催、3国が懸念共有し結束強化を確認</a><span class="src-tag">NHK</span></li>
+<li><a href="http://www3.nhk.or.jp/news/html/20260708/k10015171841000.html" target="_blank" rel="noopener">台湾が国際社会に、第1列島線での中国現状変更への対応を要請</a><span class="src-tag">NHK</span></li>
+</ul>
+  <details class="card-details">
+    <summary>▲ Risk / Background</summary>
+    <p class="risk-text"><strong>Risk:</strong> ▲リスク：核武装潜水艦の運用範囲拡大により、台湾海峡や第1列島線での軍事衝突リスク急増。数ヶ月以内の追加試射予期</p>
+    <p class="ctx-text"><strong>Background:</strong> 背景：中国が核戦力の近代化を進める中、2026年は台湾周辺での軍事活動が顕著に増加。米国の対中抑止力と日米韓連携の重要性が急速に高まっている局面</p>
+  </details>
+</article>
+<article class="news-card" style="border-left:4px solid #22c55e; background:#f0fdf4;">
+  <div class="card-header">
+    <span class="badge" style="background:#22c55e;color:#fff;">③ 中国EV車進出</span>
+    <a href="https://news.google.com/search?q=BYD+Chinese+EV+Europe+production+investment+2026&hl=en" target="_blank" rel="noopener" class="card-title">BYD欧州進出加速</a>
+  </div>
+  <p class="card-sub">EV市場で中国勢の存在感、欧州産業危機</p>
+  <ul class="bullet-list"><li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXZJMHhiUWVsdi02VEI4T0F0V25RbGpuT1d6Qy1BRlRyT0tONE0zbUd0Sko0N1VnSjZPaFZoMWc1Yjg4dTA1RDhYbTFnaVpUWm5UVDRmR2d6bld1cUpfUUlBcU1DTnp4UWZlQ3ctNG1WYkxXNV9wZjdDUnZWQzFoS0RreDBGeXUwSUE?oc=5" target="_blank" rel="noopener">BYDが北米進出を模索、米加関税対立の隙間狙う動き</a><span class="src-tag">KrASIA</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5PbG80UzRDRUU2NDFRSmQyd1B2TjR4N0hLTjRLb29qQmJjZmo0cXJtXzJxRC1xZDNMMlBJak9DRzVfSWVsOEJhUFdNRVRZcDBVRm1vMXJfNFg5Qm5fRzNMOVRVTEtYWUQ0Q0NXZkY2WGJlQlBzT3c?oc=5" target="_blank" rel="noopener">欧州自動車メーカーへの投資提案（ルノー）が拒否される中、独立進出戦略</a><span class="src-tag">Automotive News</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmR1WXpIZkdSU3B2eW02cnFVdTlOVGQ1ZTVvSlk5d0JvNjZRcjZVRVlhZDUyS2dyZ0N6aHNDVnhITGE1NGp4ZVR2emdYbjV3NnJLQ1Z1MVZaNVUyanFoWkRTUGxuOEpwd0stX1RfS3hBdjJDUFFyWVNINk9BRzhMem1WbU56MFVOLXZBellkQ0cxRU1YLU5ONHRTa0FGVEdlWm1fZHZaTkU3d3VrTGtXV2Y1ZWI2Z0ZvaER1ZdIBvAFBVV95cUxPRmR1WXpIZkdSU3B2eW02cnFVdTlOVGQ1ZTVvSlk5d0JvNjZRcjZVRVlhZDUyS2dyZ0N6aHNDVnhITGE1NGp4ZVR2emdYbjV3NnJLQ1Z1MVZaNVUyanFoWkRTUGxuOEpwd0stX1RfS3hBdjJDUFFyWVNINk9BRzhMem1WbU56MFVOLXZBellkQ0cxRU1YLU5ONHRTa0FGVEdlWm1fZHZaTkU3d3VrTGtXV2Y1ZWI2Z0ZvaER1ZQ?oc=5" target="_blank" rel="noopener">BYDのEV技術がポルシェ911に対抗する性能水準に到達</a><span class="src-tag">South China Morning Post</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pc3BVN25QcDdlbDNUdVZHcmxmRHJPY1VwMk1FZTg2RnBLWFFqcGE0LTBtTjAtTUNkcWpZNW9zaTNCdW1ZamI5ZDJKT0xhcjI4Q1JNZTJ1MHkzYVhMX3VuUDR3?oc=5" target="_blank" rel="noopener">フォルクスワーゲンが独工場閉鎖を含む大規模リストラを検討中</a><span class="src-tag">Global Times</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDdVdXVNZEZtNVBSdjJwSDVSRzZmUTQ4V3B2TFBKR2ZSQ1NNTkdiMkZQWmNvbTg0UU05M1hBUHplRkZRdjdtTUU0RkJZQW5ma0JaYmxReWhWOUFUX3czVjdsQ2xyYXBVZlV4R1ItN3pEeXlCME4zLUkwNHpwV3FWOA?oc=5" target="_blank" rel="noopener">欧州メディア、中国自動車産業の脅威を警告、市場需要とのギャップ指摘</a><span class="src-tag">Automotive News</span></li>
+</ul>
+  <details class="card-details">
+    <summary>▲ Risk / Background</summary>
+    <p class="risk-text"><strong>Risk:</strong> ▲リスク：中国EV勢による市場侵食が2026年後半から2027年に加速。欧州自動車産業の失業・工場閉鎖が連鎖的に発生する懸念は3～6ヶ月内に顕在化</p>
+    <p class="ctx-text"><strong>Background:</strong> 背景：米国の自動車産業保護政策とEU域内の技術ギャップにより、BYDなど中国勢が北米・欧州市場での存在感を急速に拡大中。伝統自動車メーカーの経営危機が深刻化</p>
+  </details>
+</article>
+<article class="news-card" style="border-left:4px solid #06b6d4; background:#ecfeff;">
+  <div class="card-header">
+    <span class="badge" style="background:#06b6d4;color:#fff;">④ 日中海洋権益</span>
+    <a href="https://news.google.com/search?q=Japan+China+coast+guard+East+China+Sea+islands+dispute+2026&hl=en" target="_blank" rel="noopener" class="card-title">東シナ海で海保対立</a>
+  </div>
+  <p class="card-sub">日中尖閣沖、警察権の相互主張</p>
+  <ul class="bullet-list"><li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZGh3NU9PcXZTalhMaGJSR0JUbG5DckxhSmhiZjZRNmw2eUFvV2ZyMXFCS1FHejNZLXVlY1BBaUdNWHc4MWhXV21NSGQ0bFFpdFBfTnl0TTd1TEUySU5tbXA0bFFMb2hKaTJJdDR6NzRfLWpDTEdNNXB5ZkpQSWR5ZkxBcUpwRkVETUdVNlNIVU1EdzZHTUpJZ3k2bHY2SFR2SE1IQUFJald4UkFKUFNkVTlwMWUxTHBwcDJyM3ZvWmtKXzUtSnV3M1owM2ZNTXVpNTJr?oc=5" target="_blank" rel="noopener">尖閣周辺海域で日中両国の巡視船による対峙が発生</a><span class="src-tag">Kurdistan24</span></li>
+<li><a href="http://www3.nhk.or.jp/news/html/20260708/k10015171401000.html" target="_blank" rel="noopener">日中双方が相互に警察権の不当行使を非難、応酬</a><span class="src-tag">NHK</span></li>
+<li><a href="http://www3.nhk.or.jp/news/html/20260708/k10015171841000.html" target="_blank" rel="noopener">日米韓の連携強化で、日本の同盟国による支援体制が構築中</a><span class="src-tag">NHK</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tNlpSVDRDU3VCbGtFajY1Y0RDMXVtX2gwWG1ROUxQY19OYjVmQUtqaHIyVldibTJ5Ml9DTHg2V0h6N2dJT0gxNlUxbGEtcTY4RlMyWFNwWEdxdm5icXo1OW12QjdfQlU?oc=5" target="_blank" rel="noopener">台湾の第1列島線現状変更懸念と連動、地域安保の統合的課題化</a><span class="src-tag">mofa.go.jp</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tNlpSVDRDU3VCbGtFajY1Y0RDMXVtX2gwWG1ROUxQY19OYjVmQUtqaHIyVldibTJ5Ml9DTHg2V0h6N2dJT0gxNlUxbGEtcTY4RlMyWFNwWEdxdm5icXo1OW12QjdfQlU?oc=5" target="_blank" rel="noopener">外務省が日米韓外相会談で結束を重視、3国防衛体制の強化方針</a><span class="src-tag">mofa.go.jp</span></li>
+</ul>
+  <details class="card-details">
+    <summary>▲ Risk / Background</summary>
+    <p class="risk-text"><strong>Risk:</strong> ▲リスク：局地的な海上衝突が意図せず武装衝突に拡大する可能性。夏季の天候悪化と軍事活動の増加が重なる8月以降、リスク上昇</p>
+    <p class="ctx-text"><strong>Background:</strong> 背景：中国による東シナ海での領海侵犯が常態化する中、日本がインド太平洋戦略の重要拠点として位置付け。日米同盟と韓国連携によるインド太平洋秩序維持の模索</p>
+  </details>
+</article>
+<article class="news-card" style="border-left:4px solid #f97316; background:#fff7ed;">
+  <div class="card-header">
+    <span class="badge" style="background:#f97316;color:#fff;">⑤ 米中台湾政策</span>
+    <a href="https://news.google.com/search?q=Taiwan+US+policy+Trump+remarks+AIT+unchanged+2026&hl=en" target="_blank" rel="noopener" class="card-title">台湾対米関係、修正中</a>
+  </div>
+  <p class="card-sub">トランプ発言に中国抗議、AITが政策継続表明</p>
+  <ul class="bullet-list"><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzAxdEdIdFN2NGNYRTlNOWphZXlEdEpaT09keXZtd04wMUh0OUE1U01CcGFvTmJSY2pRWUY4RVRBbl80Z2xkOXhybXhtUXFXQzZCQThxV0s1b05qSlZtQnNmcG5CMzZJSjZ5MnVvdXpFUHpaSHM5c3htRFpPT1hUbkhQU0NpTFhrR2szSUdMWTZwSVltWWx5S1plUEtiZXhBZERuYjFsdjVaVUtmUV9lcGdR?oc=5" target="_blank" rel="noopener">トランプ大統領の台湾関連発言に中国が異例の公式批判、米台湾弁務処（AIT）に対象</a><span class="src-tag">Bloomberg.com</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE5MY3ViWDBYMk5kci11TmpmdkttZ1Y3WTc2Vjk5QkY2X2c0dnFLZEFaY3lJNXFzT1d6azlvaVlZT3VoM3NSLVItQUVqbkN6Tk5OWDMtTWtrMy1GQm5wWnlPTy1GWVpfNmdhM1dfOEIzb3VHNUU0d2RIT3Vn?oc=5" target="_blank" rel="noopener">AITが米国の台湾政策と約束は変更なしと正式表明</a><span class="src-tag">Taipei Times</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXBIUmtMXzRuVFVBaDdXNDZHNkI2OHdrdjF3ZjdXbUFFSW5BdVlQVWN6M25pYnJTMDVNTkYxclZKZFpwdTFORWtDSk1pdmt3cmhvMTF2M1g5WFR5MXZyVGx0N1dXLTZqSEJGUEpNdUREdHNSS0oycGFzUzYtWUJ2TVBnNm1EakdrSVNJ?oc=5" target="_blank" rel="noopener">台湾の頼清徳総統、トランプ大統領との対話意欲を表示</a><span class="src-tag">DD News</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPc19Ia3BVMjh6c2wtRkFJZlcwS1NDalN5ZHhIREZGOGR1a0Qycll5UTBCXzhXY1hmSGlZRmhZeEJDYWJsTmFPT3VvQ0d0bktGbWRsckJoczBlVkxhMDNWSmdsTVg1b0pnUnNaaHBJYkx5VDFhbVo2a3Rmb0xYVTYzcE5zQ1gtWlB1OGxkbnIwdFgxS2RmR1JuVw?oc=5" target="_blank" rel="noopener">中国が台湾問題を米中関係の最重要課題と位置付け、警告強化</a><span class="src-tag">International Bar Association | IBA</span></li>
+<li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3ZiMUlpQmx6aTN5ZTZsOXctd25oSW45UHlnUkloZkpSUUEyZ1VYVFpWcndVbC1hd1l3NnQ2ZlU2QUQ5di1sX0N0VVZfYUFQQ0czREJzd2pnQ3B0Qmk4NnlmaUhET2lucFZiU04tejdpSWYyT2VUMVI2dFlXWTRKMV9PbHFaMVM3VTk4VVFPY05LeE9Hc0NfUWlWa2VtbVE?oc=5" target="_blank" rel="noopener">Xi・トランプ首脳会談で両国の「大国的対等性」が議論される中、台湾問題が焦点</a><span class="src-tag">Geopolitical Monitor</span></li>
+</ul>
+  <details class="card-details">
+    <summary>▲ Risk / Background</summary>
+    <p class="risk-text"><strong>Risk:</strong> ▲リスク：トランプ政権の台湾政策の不確実性が高まり、中国による現状変更の圧力が強化される可能性。8月以降のXi・トランプ交渉での合意内容によっては台湾の国際的孤立が加速</p>
+    <p class="ctx-text"><strong>Background:</strong> 背景：トランプ2期目政権が従来の台湾支持政策の再調整を模索する中、中国は外交的な「一つの中国」原則の強化を要求。台湾の国際的地位が2026年で最大の転換点を迎える局面</p>
+  </details>
+</article>
+  </main>
+  <aside class="eco-sidebar">
+  <div class="eco-head">
+    <img src="../data/economist_cover.jpg" alt="Economist cover" class="eco-cover">
+    <div>
+      <div class="eco-label">THE ECONOMIST</div>
+      <div class="eco-sub">The World in Brief: America hits Iran again</div>
+      <div class="eco-date">2026-07-09 12:16 JST</div>
+    </div>
+  </div>
+  <section class="eco-section">
+    <h3 class="eco-sec-title">Today's Top Stories</h3>
+    <ul class="eco-list"><li>America retaliates against Iranian attacks on ships, reigniting tit-for-tat strikes and lifting oil prices and Treasury yields.</li>
+<li>Trump threatens trade war with Spain at NATO summit, revives Greenland acquisition bid; Europe plans $50bn missile project without America.</li>
+<li>Apple signs $30bn chip contract with Broadcom, strengthening US semiconductor capacity; EU designates it for competition regulation.</li>
+<li>Blue Origin seeks $10bn external funding at $130bn valuation, narrowing SpaceX gap.</li>
+<li>Russia's diesel export ban risks supply shortages as Ukrainian drones damage refineries; Trump approves Patriot licence for Ukraine.</li>
+<li>Airbus cuts 2025 aircraft sales forecast by 1% citing US-Iran conflict and transatlantic tariffs as risks.</li>
+<li>Federal judge orders Trump to pay $5m plus interest to E. Jean Carroll; president appeals separate $83m defamation verdict.</li></ul>
+  </section>
+  <section class="eco-section">
+    <h3 class="eco-sec-title">The Day Ahead</h3>
+    <ul class="eco-list"><li>America ends Iran ceasefire, strikes southern military targets; Iran orders retaliatory attacks on US bases in Bahrain and Kuwait.</li>
+<li>America revokes sanctions exemption for Iranian oil exports; hardliners believe military pressure strengthens negotiating position, complicating peace talks.</li>
+<li>Tata Consulting Services reports first-quarter earnings as stock slides one-third; watch for AI's employment impact to materialise.</li>
+<li>AI automation tools theoretically threaten junior programmers and similar roles, yet significant job destruction remains unconfirmed so far.</li>
+<li>Labour leadership race formally opens with Andy Burnham as sole candidate seeking backing from over half of party MPs.</li>
+<li>Burnham could become Britain's next prime minister this weekend if securing required nominations; new government's policies remain unclear.</li>
+<li>Volkswagen plans sweeping restructuring, proposing up to 100,000 job cuts and four German plant closures; unions and state governments likely to block approval.</li></ul>
+  </section>
+</aside>
+</div>
+<footer class="site-footer">
+  World Intelligence Monitor &mdash; 内部使用限定 &mdash; 更新: 2026-07-09 12:16 JST
+</footer>
+</body>
+</html>
