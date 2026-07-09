@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08 23:47:20",
+  "generated_at": "2026-07-09 05:01:48",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-08 23:46:46",
+      "last_checked": "2026-07-09 05:01:24",
       "items": [
         {
           "uid": "92004b68b506",
@@ -1869,7 +1869,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-08 23:46:53",
+      "last_checked": "2026-07-09 05:01:32",
       "items": [
         {
           "uid": "6fb0717965b3",
@@ -3870,8 +3870,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-08 23:47:20",
+      "last_checked": "2026-07-09 05:01:48",
       "items": [
+        {
+          "uid": "2b79c3d8f736",
+          "date": "2026-04-13",
+          "title": "Sharp Q2 price hike by China Northern Rare Earth reshapes cost outlook for miners - AL Circle",
+          "summary": "中国の北方稀土集団が第2四半期に稀土類価格を大幅に引き上げたことで、鉱山採掘企業のコスト見通しが大きく変わり、中国の稀土類輸出管理が鉱物市場に直接的な影響を与えていることが明らかになった。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVl92RFMwQmhBX3NnVVFUVXZRdzFIWjBubmlMNlNXcHVDRHM1R084Sm92LVNxME5xNWN3N2JFRi1zcFYtRUJ0MUo4SHM5bklvQjZsRGRlWC1fS1V1eHhqZzhtcTc3Y1N4ZVgzWF9jaV8wcTdOa0tYTUlOWndMeUlwRWN6MDVlUzJta0pnQ2ZZT2lxTkdVbnhRMmhEaDNFejlNaWtWcTJoclNuY0VSWEpKRlozX2pKY1hjZ1E?oc=5",
+          "added_at": "2026-07-09 05:01:45"
+        },
+        {
+          "uid": "4aceab51977b",
+          "date": "2026-07-05",
+          "title": "Between the superpowers: Southeast Asia’s strategic supply chain dilemma - Lowy Institute",
+          "summary": "申し訳ありませんが、提供いただいたのはタイトルのみで、記事の具体的な内容が含まれていません。記事本文を提供していただければ、中国レアアース輸出管理に関する文脈で要約させていただきます。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlpiVkNXREV5TzdueERpTjZZM0JBTmQ4emJrdGdDUXBPRG9WOWlrMlhOcUtFSEV2MGVZbVpoZFp1VXJzcDVjWklKdk1FZVNqaV9zckVoZWlmMDdtREQwbkdUQ3hOWFhPZmdKODZNbmhVRWJNSXRfSEttRWhnU2dUNlF0UVRlV2h5ajludEk2S2psWG1VenptWXNDUF9NVDU5QndhMjZlSHJuMFJqMUNLVlNOOEc?oc=5",
+          "added_at": "2026-07-09 05:01:45"
+        },
         {
           "uid": "7a2716d34df4",
           "date": "2026-05-24",
@@ -5850,26 +5870,6 @@
           "source": "中国商務省",
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEx2ODlYd2hpM1RhSzNvZGJpTDdpbTJ0NFBYc2dNLXRFVjdsWDF4czBjeHNxeXVBTW9SMGpGVXltcEp2Wm1Ham9ER0lyWDFsWFotYVJtMzVUVTRlT0JDMFlCbV96NHFQY0JJQWFORFlscF8yMWpObjJPaDlGeEJKMmxYOVhZVXRHSllIVWxhc2dCUnFUek9nTWRFRjQ?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "6e3152907eb4",
-          "date": "2026-06-22",
-          "title": "China imposes export controls on two US rare earth producers - Crypto Briefing",
-          "summary": "中国が米国のレアアース生産企業2社に対して輸出管理を強化し、供給チェーンの制限を通じて米国のレアアース産業に圧力をかけている。この措置は、米中間の技術・産業競争の激化を背景とした戦略的な経済制裁である。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEVDVuQjRMeVBWNlBlTHM4Q0FxMG42ZzE3QmVDVjVacU1yanlyMmFQeXJ2MDhZS3FMWHVyU3NsOEpPbENDVXpvc3FiS0pnSlg4Zy1MNGFqMU5hSE1MZXRGeU9wVXVNam9RaHhBQlljNFA?oc=5",
-          "added_at": "2026-06-23 03:08:20"
-        },
-        {
-          "uid": "f57231671955",
-          "date": "2026-06-22",
-          "title": "China has expanded its export restrictions against U.S. companies - UA.NEWS",
-          "summary": "中国がレアアース等の戦略的鉱物資源の輸出規制を強化し、米国企業に対する制裁措置として機能させている。これは米国による対中技術規制への対抗手段として位置付けられている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdE02VG1OQl9sRXNjckU2ZXMzZ08zTHNDN0NGNHgyektjREJ6VXJCRDIxVTFkaGtWdlJ6M2stcXVtaEJVejhWYkd2dHU1UEhqelY4TEdpSnprd0JIQ0FfeTRRYkFqYnVEX0pjUHYtQkh4bDVuQmhDLTZfNlRZTjUxVEhwWV82aDBUSFR1ZmtzWnpGWFVFQ2c?oc=5",
           "added_at": "2026-06-23 03:08:20"
         }
       ]
