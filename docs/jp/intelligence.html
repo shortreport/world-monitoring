@@ -195,6 +195,8 @@
     .v2-src:hover { color:var(--accent); }
     .v2-badge   { font-size:9.5px; font-weight:700; color:#fff; padding:2px 5px; border-radius:3px; white-space:nowrap; flex-shrink:0; margin-top:1px; }
     .v2-rt      { font-size:10.5px; color:var(--text-sub); margin-top:10px; }
+    .v2-pdf-btn { font-size:10px; font-weight:600; color:#fff; background:#555599; border:none; border-radius:3px; padding:2px 8px; cursor:pointer; white-space:nowrap; }
+    .v2-pdf-btn:hover { background:#333377; }
     .v2-modal   { display:none; position:fixed; inset:0; z-index:999; background:rgba(0,0,0,.65); align-items:center; justify-content:center; }
     .v2-modal-box { background:#fff; border-radius:10px; overflow:hidden; width:90vw; max-width:940px; height:88vh; display:flex; flex-direction:column; box-shadow:0 12px 48px rgba(0,0,0,.4); animation:mIn .16s ease; }
     @keyframes mIn { from{transform:scale(.94);opacity:0} to{transform:scale(1);opacity:1} }
@@ -332,7 +334,7 @@
   <div class="v2-sender">POLITICO</div>
   <div class="v2-title">Pro Daily Headlines</div>
   <div class="v2-excerpt">アイルランドのEU議長国は、EU産業加速法と規制簡素化政策の間で高まる緊張の中、「ヨーロッパ製造」ルールについてのコンセンサスを求めている。一方、トランプ政権はイラン石油販売への制裁を再び発動し、世界的なエネルギー市場と自動車サプライチェーンに影響を与える可能</div>
-  <div class="v2-meta">JUL 9  00:31 &nbsp;·&nbsp; 1 MIN READ</div>
+  <div class="v2-meta">JUL 9  00:31 &nbsp;·&nbsp; 1 MIN &nbsp;<button class="v2-pdf-btn" onclick="event.stopPropagation();openPdfDirect('../data/pdfs/20260709_0031_Pro_Daily_Headlines_summary.pdf','Pro Daily Headlines — 要約')">📄 要約</button></div>
 </div>
 <div class="v2-card" data-s="EG" data-pdf="../data/pdfs/20260708_2322_Iran_war_&amp;_ceasefire_outlook_-_EG_Conference_Call,.html" data-title="Iran war &amp; ceasefire outlook - EG Conference Call, REMINDER" onclick="openPdf(this)">
   
@@ -367,7 +369,7 @@
   <div class="v2-sender">POLITICO</div>
   <div class="v2-title">Document: Irish presidency seeks ‘agreed understanding’ on Made in Europe rules</div>
   <div class="v2-excerpt">アイルランドのEU議長国は、公共調達での地域産業優遇を目指す産業加速法案の論争的な条項について、加盟国のコンセンサスを求めている。ドイツを含む各国は規制の複雑さと官僚負担を懸念しており、行政負担、外国投資ルール、認可手続きの迅速化をめぐって対立が生じている。</div>
-  <div class="v2-meta">JUL 8  20:43 &nbsp;·&nbsp; 2 MIN READ</div>
+  <div class="v2-meta">JUL 8  20:43 &nbsp;·&nbsp; 2 MIN &nbsp;<button class="v2-pdf-btn" onclick="event.stopPropagation();openPdfDirect('../data/pdfs/20260708_2043_Document__Irish_presidency_seeks_\x27agreed_understan_summary.pdf','アイルランド議長国 — 要約')">📄 要約</button></div>
 </div>
 <div class="v2-card" data-s="EG" data-pdf="../data/pdfs/20260708_2001_China__Recent_engagement_with_key_officials_-_EG_C.html" data-title="China: Recent engagement with key officials - EG Conference Call, REMINDER" onclick="openPdf(this)">
   
