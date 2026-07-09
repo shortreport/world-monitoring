@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09 23:36:21",
+  "generated_at": "2026-07-10 00:41:02",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-09 23:36:01",
+      "last_checked": "2026-07-10 00:40:41",
       "items": [
         {
           "uid": "4977f5395b5d",
@@ -1899,8 +1899,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-09 23:36:09",
+      "last_checked": "2026-07-10 00:40:50",
       "items": [
+        {
+          "uid": "1616cf4badde",
+          "date": "2026-07-09",
+          "title": "U.S. Senate Committee Poised To Codify Ford Supported Chinese Vehicle Ban - Ford Authority",
+          "summary": "米国上院委員会は、フォード・モーターが支持する中国車両の禁止を法律として成文化する準備を整えており、これは米国接続車両安全保障法（S.4429）を通じて、中国メーカーの車両が米国市場に参入することを制限する措置を講じようとしています。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEdjcHJGQ0VkRjZIWTU0MkFfd1ltSTNjcnNMeDJsTHloNk1MS011ZDA3ZXExMW12dG5KRFdWYzJVckU3S0Fsa3ZzYjBhazNxUHB4U1lGWldYb0JQUk5Ybllia2MtbHVnX2I1b3U2VkVEVzFOUEIyZXlENkJxREdfMEdJZGItU2hpRnp5Nk5HTzlUUW5TTDlxWGk5U0ZsZUFvQ1BmUmFCMnh2NjQ?oc=5",
+          "added_at": "2026-07-10 00:40:48"
+        },
         {
           "uid": "7baec7eba8b8",
           "date": "2026-07-09",
@@ -3890,16 +3900,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd0lzekgtZmlRVTRxdFNfekdwbXpIcmpxUmJva0pYUDZjRWlrME54TlpyTDdBRjZ2LVMwa29nMEt5bUE5V1FpZUFERWZGMGI5TFBydEZYZmJvS205bjNrS0tMRnBfOFNPeGlteVMtYTlOQkI0YTNWRmR6WkRtdGNVeEhZZmVpRnJqVjZnaVNoSGJtVVdmN2dSdHZpMkRDZDlrd3E2WGJGbmFCT2hNNnE3OUJHdUJWQlFvaHFzLVZnMEtTVndnQTduWGJ3TlNzS2pUWV9VdFNSc3pTQQ?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "e49bff489f40",
-          "date": "2026-05-14",
-          "title": "U.S. Alarm Grows Over Chinese Component Dependence as Congress, Industry Maintain Pressure Ahead of Summit - economy.ac",
-          "summary": "米国のハイテク産業と議会は、中国製部品への依存を削減し自動運転車やコネクテッドカーのサプライチェーン強化を求める圧力を強化しており、S.4429はこうした安全保障上の懸念に対応する法案として位置付けられている。本法案は、米国が外国（特に中国）からの悪意ある技術的アクセスや干渉から接続車両を保護する規制枠組みの構築を目指している。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XUGZNMHRaelI4czN3aXh2RThoX2VELXhyMmV5OXdKbWtTc1VGZnFWeU9WT09xcjdROTA3bjVFdURVY0gtc1VHTUJ0TWhYeFY2X2xYdF82UQ?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3910,7 +3910,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-09 23:36:21",
+      "last_checked": "2026-07-10 00:41:02",
       "items": [
         {
           "uid": "9982f282d58e",
