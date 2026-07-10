@@ -319,7 +319,7 @@ body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica N
   <div class="header-spacer"></div>
   <div class="update-time">Updated: {_e(updated_at)}</div>
   <div class="lang-toggle">
-    <a href="../summary.html">JP</a>
+    <a href="../jp/summary.html">JP</a>
     <a href="summary.html" class="active">EN</a>
   </div>
   <div class="live-badge">LIVE</div>

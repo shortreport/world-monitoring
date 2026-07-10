@@ -288,7 +288,7 @@ def build_html(segments_en: list, segments_orig: list, eco: dict,
   <div class="header-spacer"></div>
   <div class="update-time">Updated: {e(generated_at)}</div>
   <div class="lang-toggle">
-    <a href="../index.html">JP</a>
+    <a href="../jp/index.html">JP</a>
     <a href="index.html" class="active">EN</a>
   </div>
   <div class="live-badge">LIVE</div>
