@@ -352,8 +352,7 @@ def update_theme():
 </script>"""
 
     content = (f'<div class="theme-wrap">\n'
-               f'  <p class="section-label" style="margin-top:8px;">監視テーマ</p>\n'
-               f'  <div class="theme-tabs-nav">\n'
+f'  <div class="theme-tabs-nav">\n'
                f'  {tabs_html}</div>\n'
                f'{panels_html}</div>\n'
                f'{js_html}\n')
