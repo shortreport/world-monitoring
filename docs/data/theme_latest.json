@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 18:58:15",
+  "generated_at": "2026-07-10 19:02:43",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-10 18:57:53",
+      "last_checked": "2026-07-10 19:02:23",
       "items": [
         {
           "uid": "c43670bcef22",
@@ -1909,7 +1909,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-10 18:58:01",
+      "last_checked": "2026-07-10 19:02:30",
       "items": [
         {
           "uid": "bb330cca84a2",
@@ -3920,8 +3920,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-10 18:58:15",
+      "last_checked": "2026-07-10 19:02:43",
       "items": [
+        {
+          "uid": "24f9956ca87e",
+          "date": "2026-05-20",
+          "title": "China Rare Earth Price Index Pulls Back-But the Real Story Is Market Structure, Not Daily Volatility - Rare Earth Exchanges",
+          "summary": "中国のレアアース価格は日々の変動で注目されることが多いが、真の重要性は市場構造にあり、中国による輸出管理と市場の支配力の影響を理解することが重要である。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQVE5aUQ1aGdHOWw5bXl1aUcwVG5BN2hpVkpObFM1TmgxX1RFY2kwX2pBMVc3bVczRS01R200dFF6Y0o0MzVPMXZNVU5XYi1PZnEzOFdBaWQ0di1UbVhyeXRhVlJYWV9nSUppM3I0Qzd2N3M3aFRpSmhYejNUZ1U5U3MtWVVZS1h4YWx3RFV3SlY4ZE5mOTVoTkZrb2lHX3lYcXJ5bzR4a1lXSTR3X1NTT0xHUlBCWTBZYzl1MlhFRUJzeDBoNjFhNnVmYWMtQTUxV3c?oc=5",
+          "added_at": "2026-07-10 19:02:42"
+        },
         {
           "uid": "98e74252c965",
           "date": "2026-07-09",
@@ -5910,16 +5920,6 @@
           "source": "業界団体",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrQUU1dG5HTDVWTm1zeTBYX1hmUEphbW5ITHIwc3NmVEY1NGFIZ1A1X1Y3VXEzdWl5VEUta01qWTBySnRObVZGNjdfSnU5THoyMFEyWWJBWDRVaGdiRHZqZDhZdjVfM2lVUXIybUFoMnM4UVpPQ0xLQ2o4b1lodw?oc=5",
-          "added_at": "2026-06-23 20:51:47"
-        },
-        {
-          "uid": "e397a20dddb0",
-          "date": "2026-05-11",
-          "title": "China's Rare Earth Price Machine Reaccelerates-But Question What the Numbers Really Mean - Rare Earth Exchanges",
-          "summary": "中国はレアアースの価格上昇を通じて事実上の輸出管理を強化しており、取引量の減少にもかかわらず価格統計が市場の実態を反映していない可能性が指摘されている。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT1o0MFE0X3FQTng3bFN1Vlk3clRpNkpGLUJnYVc4MGNyTXM5ckxsbU5HS2RydWVXWF9hT3hzXzFhQno3cjIwTXpiXzdra2JkOFVoUUVvNDA1NE1mblR6RXYzdzdBdnVzUWJFYnBHQnJPTWRWZWxSbkRFZXAzalhER1ZYbmJNQmdndUZfSVJZQ2ZhUHlpLUcwdXFFbDJ6Q25PanlBTHEyMEFRUEVKMG9OdHRqeHUwSEtkdlN5Z2VfVk40QQ?oc=5",
           "added_at": "2026-06-23 20:51:47"
         }
       ]
