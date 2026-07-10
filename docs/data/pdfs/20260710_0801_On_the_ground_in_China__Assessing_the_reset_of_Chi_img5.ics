@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:On the ground in China: Assessing the reset of China-US relations 
+ and rising China-EU and China-Japan tensions - EG Conference Call
+DTSTART;VALUE=DATE-TIME:20260710T130000Z
+DTEND;VALUE=DATE-TIME:20260710T140000Z
+DESCRIPTION:Please join Eurasia Group's Senior Analyst for China\, Mingda 
+ Qiu\, Senior\nAnalyst for China and Northeast Asia\, Jeremy Chan\, and Dir
+ ector for China\, Dan\nWang\, for an update from the ground on China's for
+ eign relations and the\nimplications of the Iran war.\n  * US-China sentim
+ ent and outlook following the Trump-Xi summit\n  * Implications of the Ira
+ n war on China's economy and industrial policy\n  * Rising China-EU tensio
+ ns\, China-Japan tensions and key implications\n  * Fresh insights and not
+ able observations from the field\n\n\nRegister Here: https://us02web.zoom.
+ us/webinar/register/WN_Nx6KEu8-R-6_h0WI_HWxAA\n\nCall-in:\nRegistration fo
+ r this event is required.  \n  \nAfter registering\, you will receive an e
+ mail with instructions to join the\nmeeting\, including local dial-in info
+ rmation and a meeting invitation you can\nadd to your calendar. Please not
+ e you must be logged in from a computer or\nmobile app in order to ask a q
+ uestion.  \n  \nPlease allow a few minutes before the call to join the mee
+ ting\, and connect\naudio by following the prompts from the conference cal
+ l platform.\n\nReplay:\nA recording of this call will be available on the 
+ [Eurasia Group\nportal](https://library.eurasiagroup.net/events/) and mobi
+ le app approximately\nthree hours after the event concludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260710T124500Z
+UID:9682a80d-7943-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:9682a80c-7943-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR

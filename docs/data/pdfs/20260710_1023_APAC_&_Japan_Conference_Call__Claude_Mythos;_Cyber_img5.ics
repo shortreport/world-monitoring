@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:APAC & Japan Conference Call: Claude Mythos\; Cyber Power\, Compet
+ ition & Global Risk「クロード・ミュトス；サイバー覇権、
+ 競争、そしてグローバルリスク」（同時通訳あり） - EG
+  Conference Call
+DTSTART;VALUE=DATE-TIME:20260722T140000Z
+DTEND;VALUE=DATE-TIME:20260722T150000Z
+DESCRIPTION:Please join us for the Eurasia Group APAC & Japan Conference C
+ all\, where we\nwill be joined by Xiaomeng Lu\, Director\, Geo-technology\
+ , and Heather West\,\nPractice Head\, Geo-technology\, for a discussion on
+  "Claude Mythos\, Cyber\nPower\, Competition & Global Risk."  \n  \nこの
+ 度のユーラシアグループ APAC & Japan\nカンファレンス・
+ コールでは、ジオテクノロジー担当ディレクター、シ
+ ャオメン・ルーと、ジオテクノロジー担当プラクティ
+ ス・ヘッド、ヘザー・ウェストを迎え、「クロード・
+ ミュトス、サイバー覇権、競争、そしてグローバルリ
+ スク」について解説いたします。\n  * U.S. Tech Landscape: Co
+ mpetition & Cooperation\n  * Partnerships with tech companies and implicat
+ ions for cyber defense\n  * China's Cyber AI Ambitions & Global Risk\n  * 
+ Outlooks for Defense Norms & International Coordination\n\n  * 米国テ
+ ック業界の現況と先行き：競争と協調\n  * テック企業
+ とのパートナーシップとサイバー防衛への示唆\n  * 中
+ 国のサイバーAI戦略とグローバルリスク\n  * 防衛規範と
+ 国際的な連携における今後の展望\n\n\nRegister Here: https://
+ us02web.zoom.us/webinar/register/WN_-t39fLjqQ5im1Dp30aAJzw\n\nCall-in:\nRe
+ gistration for this event is required.  \n  \nAfter registering\, you will
+  receive an email with instructions to join the\nmeeting\, including local
+  dial-in information and a meeting invitation you can\nadd to your calenda
+ r. Please note you must be logged in from a computer or\nmobile app in ord
+ er to ask a question.  \n  \nPlease allow a few minutes before the call to
+  join the meeting\, and connect\naudio by following the prompts from the c
+ onference call platform.\n\nReplay:\nA recording of this call will be avai
+ lable on the [Eurasia Group\nportal](https://library.eurasiagroup.net/even
+ ts/) and mobile app approximately\nthree hours after the event concludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260722T134500Z
+UID:aaedf83f-7bfd-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:aaedf83e-7bfd-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR

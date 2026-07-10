@@ -33,7 +33,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
     :root { --primary:#16163e; --surface:#ffffff; --surface-2:#edeef1; --border:#d8dae0; --text:#1a1a2e; --text-sub:#6b6f7a; --accent:#0096c8; }
     .v2-wrap { max-width:1280px; margin:28px auto; padding:0 20px; display:grid; grid-template-columns:1fr 300px; gap:28px; align-items:start; }
     .v2-left { position:sticky; top:112px; max-height:calc(100vh - 140px); overflow-y:auto; padding-right:4px; }
-    .v2-left::-webkit-scrollbar { width:8px; } .v2-left::-webkit-scrollbar-thumb { background:rgba(0,0,0,.35); border-radius:4px; }
+    .v2-left::-webkit-scrollbar { width:5px; } .v2-left::-webkit-scrollbar-thumb { background:rgba(0,0,0,.18); border-radius:3px; }
     .v2-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:14px; align-items:start; }
     .v2-card { border-radius:4px; padding:14px 16px 12px; display:flex; flex-direction:column; gap:7px; box-shadow:2px 3px 8px rgba(0,0,0,.10),0 1px 2px rgba(0,0,0,.06); transition:transform .15s,box-shadow .15s; position:relative; }
     .v2-card:hover { transform:translateY(-3px); box-shadow:3px 6px 16px rgba(0,0,0,.15); }
@@ -54,7 +54,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
     .v2-pdf-btn { font-size:10px; font-weight:600; color:#fff; background:#555599; border:none; border-radius:3px; padding:2px 8px; cursor:pointer; white-space:nowrap; }
     .v2-pdf-btn:hover { background:#333377; }
     .v2-sidebar { position:sticky; top:112px; max-height:calc(100vh - 140px); overflow-y:auto; background:var(--surface); border:1px solid var(--border); border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,.07); }
-    .v2-sidebar::-webkit-scrollbar { width:8px; } .v2-sidebar::-webkit-scrollbar-thumb { background:rgba(0,0,0,.35); border-radius:4px; }
+    .v2-sidebar::-webkit-scrollbar { width:5px; } .v2-sidebar::-webkit-scrollbar-thumb { background:rgba(0,0,0,.18); border-radius:3px; }
     .v2-sb-head { background:#f5f6f8; border-bottom:1px solid var(--border); padding:12px 18px; }
     .v2-sb-ttl  { font-size:13px; font-weight:700; color:var(--primary); }
     .v2-sb-sub  { font-size:11px; color:var(--text-sub); margin-top:2px; }
@@ -84,11 +84,11 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
 <body>
 <header class="site-header">
   <div class="logo" onclick="location.href='index.html'">World<em>News</em></div>
-  <div class="header-date">July 09, 2026</div>
+  <div class="header-date">July 10, 2026</div>
   <div class="header-spacer"></div>
-  <div class="update-time">Updated: 2026-07-09 16:00 JST</div>
+  <div class="update-time">Updated: 2026-07-10 12:59 JST</div>
   <div class="lang-toggle">
-    <a href="../jp/intelligence.html">JP</a>
+    <a href="../intelligence.html">JP</a>
     <a href="intelligence.html" class="active">EN</a>
   </div>
   <div class="live-badge">LIVE</div>
@@ -96,14 +96,141 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
 <nav class="page-nav">
   <a href="index.html"><span class="nav-icon">🏠</span>Home</a>
   <a href="intelligence.html" class="active"><span class="nav-icon">📋</span>Intelligence</a>
-  <a href="trump.html"><span class="nav-icon">🇺🇸</span>US / Trump</a>
-  <a href="theme.html"><span class="nav-icon">🔎</span>Themes</a>
-  <a href="midterm.html"><span class="nav-icon">🗳️</span>US Midterms</a>
-  <a href="summary.html"><span class="nav-icon">📋</span>Exec Summary</a>
+  <a href="trump.html" class="dim"><span class="nav-icon">🇺🇸</span>US / Trump</a>
+  <a href="theme.html" class="dim"><span class="nav-icon">🔎</span>Themes</a>
+  <a href="midterm.html" class="dim"><span class="nav-icon">🗳️</span>US Midterms</a>
+  <a href="summary.html" class="dim"><span class="nav-icon">📋</span>Exec Summary</a>
 </nav>
 <div class="v2-wrap">
   <div class="v2-left">
     <div class="v2-grid">
+<div class="v2-card" data-s="EG" onclick="openFile('../data/pdfs/20260710_1023_APAC_&amp;_Japan_Conference_Call__Claude_Mythos;_Cyber.html','APAC &amp; Japan Conference Call: Claude Mythos; Cyber Power, Co')">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">APAC &amp; Japan Conference Call: Claude Mythos; Cyber Power, Competition &amp; Global Risk「クロード・ミュトス；サイバー覇権、競争、そしてグローバルリスク」（同時通訳あり） - EG Conference Call</div>
+  <div class="v2-meta">JUL 10  10:23 &nbsp;·&nbsp; 2 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="EG" onclick="openFile('../data/pdfs/20260710_0901_On_the_ground_in_China__Assessing_the_reset_of_Chi.html','On the ground in China: Assessing the reset of China-US rela')">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">On the ground in China: Assessing the reset of China-US relations and rising China-EU and China-Japan tensions「中国現地レポート：米中関係の再構築と、高まる中国・EU間および中日間の緊張を読み解く」（同時通訳あり） - EG Conference Call, REMINDER</div>
+  <div class="v2-meta">JUL 10  09:01 &nbsp;·&nbsp; 2 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="EG" onclick="openFile('../data/pdfs/20260710_0801_On_the_ground_in_China__Assessing_the_reset_of_Chi.html','On the ground in China: Assessing the reset of China-US rela')">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">On the ground in China: Assessing the reset of China-US relations and rising China-EU and China-Japan tensions - EG Conference Call, REMINDER</div>
+  <div class="v2-meta">JUL 10  08:01 &nbsp;·&nbsp; 2 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="EG" onclick="openFile('../data/pdfs/20260710_0736_Research_Summary_for_Jul_9,_2026.html','Research Summary for Jul 9, 2026')">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">Research Summary for Jul 9, 2026</div>
+  <div class="v2-meta">JUL 10  07:36 &nbsp;·&nbsp; 2 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="EG" onclick="openFile('../data/pdfs/20260710_0555_EG_China_Weekly__Submarine_ballistic_missile_test_.html','EG China Weekly: Submarine ballistic missile test likely a l')">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG China Weekly: Submarine ballistic missile test likely a long-planned deterrent signal</div>
+  <div class="v2-meta">JUL 10  05:55 &nbsp;·&nbsp; 10 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="EG" onclick="openFile('../data/pdfs/20260710_0531_EG_Canada__Washington_will_constrain_Ottawa’s_rese.html','EG Canada: Washington will constrain Ottawa’s reset with Bei')">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Canada: Washington will constrain Ottawa’s reset with Beijing </div>
+  <div class="v2-summary">Canada's Prime Minister Mark Carney is pursuing deeper commercial ties with China, including potential Chinese electric vehicle manufacturing, to diversify trad…</div>
+  <div class="v2-meta">JUL 10  05:31 &nbsp;·&nbsp; 7 MIN &nbsp;<button class="v2-pdf-btn" onclick="event.stopPropagation();openFile('../data/pdfs/20260710_0531_EG_Canada__Washington_will_constrain_Ottawa’s_rese_summary.pdf','EG Canada: Washington will constrain Ottawa’s reset with Bei — Summary')">📄 Summary</button></div>
+</div>
+<div class="v2-card" data-s="EG" onclick="openFile('../data/pdfs/20260710_0315_EG_South_Asia_Biweekly__Modi’s_Indonesia_trip_boos.html','EG South Asia Biweekly: Modi’s Indonesia trip boosts defense')">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG South Asia Biweekly: Modi’s Indonesia trip boosts defense exports</div>
+  <div class="v2-meta">JUL 10  03:15 &nbsp;·&nbsp; 10 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="EG" onclick="openFile('../data/pdfs/20260710_0236_EG_Global_Macro,_Aerospace_&amp;_Defense__NATO's_summi.html','EG Global Macro, Aerospace &amp; Defense: NATO's summit mixes re')">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Global Macro, Aerospace &amp; Defense: NATO's summit mixes repackaged deals with real new commitments</div>
+  <div class="v2-meta">JUL 10  02:36 &nbsp;·&nbsp; 7 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="EG" onclick="openFile('../data/pdfs/20260710_0138_China's_growing_economic_coercion_toolkit_-_EG_Con.html','China's growing economic coercion toolkit - EG Conference Ca')">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">China's growing economic coercion toolkit - EG Conference Call</div>
+  <div class="v2-meta">JUL 10  01:38 &nbsp;·&nbsp; 2 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="EG" onclick="openFile('../data/pdfs/20260710_0111_EG_Aerospace_&amp;_Defense,_China__China_poised_for_gr.html','EG Aerospace &amp; Defense, China: China poised for gradual defe')">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Aerospace &amp; Defense, China: China poised for gradual defense export gains as Western reliability erodes</div>
+  <div class="v2-meta">JUL 10  01:11 &nbsp;·&nbsp; 7 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="EG" onclick="openFile('../data/pdfs/20260710_0105_EU_Energy_Outlook__Electricity_costs_will_fall_sha.html','EU Energy Outlook: Electricity costs will fall sharply by 20')">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EU Energy Outlook: Electricity costs will fall sharply by 2030 - EG Conference Call</div>
+  <div class="v2-meta">JUL 10  01:05 &nbsp;·&nbsp; 2 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="EG" onclick="openFile('../data/pdfs/20260710_0051_EG_US_Daily__Shaky_peace_holds_after_stepped-up_st.html','EG US Daily: Shaky peace holds after stepped-up strikes')">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG US Daily: Shaky peace holds after stepped-up strikes</div>
+  <div class="v2-meta">JUL 10  00:51 &nbsp;·&nbsp; 7 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="POL" onclick="openFile('../data/pdfs/20260710_0031_Pro_Daily_Headlines.html','Pro Daily Headlines')">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Pro Daily Headlines</div>
+  <div class="v2-meta">JUL 10  00:31 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="EG" onclick="openFile('','EG Daily Brief: Hormuz closure risk hits 35% as shaky peace ')">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG Daily Brief: Hormuz closure risk hits 35% as shaky peace holds</div>
+  <div class="v2-meta">JUL 9  21:26 &nbsp;·&nbsp; 9 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="POL" onclick="openFile('../data/pdfs/20260709_1926_Document__EU_plans_electrification_target,_but_no_.html','Document: EU plans electrification target, but no sign of co')">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Document: EU plans electrification target, but no sign of cooling strategy</div>
+  <div class="v2-meta">JUL 9  19:26 &nbsp;·&nbsp; 3 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="POL" onclick="openFile('../data/pdfs/20260709_1906_The_UK’s_PM-in-waiting_eyes_a_casual_version_of_th.html','The UK’s PM-in-waiting eyes a casual version of the special ')">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">The UK’s PM-in-waiting eyes a casual version of the special relationship</div>
+  <div class="v2-meta">JUL 9  19:06 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="OTH" onclick="openFile('','「ジェトロ・ビジネス短信」2026/07/09')">
+  <span class="v2-dot">🚗</span>
+  <div class="v2-sender">ビジネス短信</div>
+  <div class="v2-title">「ジェトロ・ビジネス短信」2026/07/09</div>
+  <div class="v2-meta">JUL 9  18:11 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="POL" onclick="openFile('../data/pdfs/20260709_1759_Document__Brussels_wants_public_contracts_to_prior.html','Document: Brussels wants public contracts to prioritize qual')">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Document: Brussels wants public contracts to prioritize quality over price</div>
+  <div class="v2-meta">JUL 9  17:59 &nbsp;·&nbsp; 2 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="POL" onclick="openFile('../data/pdfs/20260709_1736_Le_Pen’s_strategy_to_win_French_presidency__Bring_.html','Le Pen’s strategy to win French presidency: Bring Bardella e')">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Le Pen’s strategy to win French presidency: Bring Bardella everywhere</div>
+  <div class="v2-meta">JUL 9  17:36 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="EG" onclick="openFile('','EG EUROPE, POWER: Wholesale electricity costs will fall shar')">
+  
+  <div class="v2-sender">Eurasia Group</div>
+  <div class="v2-title">EG EUROPE, POWER: Wholesale electricity costs will fall sharply</div>
+  <div class="v2-meta">JUL 9  17:29 &nbsp;·&nbsp; 6 MIN &nbsp;</div>
+</div>
+<div class="v2-card" data-s="POL" onclick="openFile('../data/pdfs/20260709_1635_Italy_leads_push_to_weaken_green_rules_in_€2T_EU_b.html','Italy leads push to weaken green rules in €2T EU budget')">
+  
+  <div class="v2-sender">POLITICO</div>
+  <div class="v2-title">Italy leads push to weaken green rules in €2T EU budget</div>
+  <div class="v2-meta">JUL 9  16:35 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
+</div>
 <div class="v2-card" data-s="POL" onclick="openFile('../data/pdfs/20260709_1402_Hydrogen_review_reveals_EU_transport_battle.html','Hydrogen review reveals EU transport battle')">
   
   <div class="v2-sender">POLITICO</div>
@@ -280,154 +407,29 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
   <div class="v2-title">EG France: Le Pen’s return to the race makes a far right victory more likely next year</div>
   <div class="v2-meta">JUL 8  07:02 &nbsp;·&nbsp; 7 MIN &nbsp;</div>
 </div>
-<div class="v2-card" data-s="POL" onclick="openFile('','Trump administration reimposes sanctions on Iran oil sales')">
-  
-  <div class="v2-sender">POLITICO</div>
-  <div class="v2-title">Trump administration reimposes sanctions on Iran oil sales</div>
-  <div class="v2-meta">JUL 8  06:47 &nbsp;·&nbsp; 3 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="POL" onclick="openFile('','Le Pen comeback revives French far right’s biggest question:')">
-  
-  <div class="v2-sender">POLITICO</div>
-  <div class="v2-title">Le Pen comeback revives French far right’s biggest question: Can she win?</div>
-  <div class="v2-meta">JUL 8  04:06 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="POL" onclick="openFile('','She’s running: Marine Le Pen will stand for French presidenc')">
-  
-  <div class="v2-sender">POLITICO</div>
-  <div class="v2-title">She’s running: Marine Le Pen will stand for French presidency — live updates </div>
-  <div class="v2-meta">JUL 8  03:20 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="POL" onclick="openFile('','Nigel Farage has triggered a by-election — but his rivals wo')">
-  
-  <div class="v2-sender">POLITICO</div>
-  <div class="v2-title">Nigel Farage has triggered a by-election — but his rivals won’t play ball</div>
-  <div class="v2-meta">JUL 8  02:41 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="OTH" onclick="openFile('','EG Letter from Cliff Kupchan: High expectations in Beijing c')">
-  
-  <div class="v2-sender">Cliff</div>
-  <div class="v2-title">EG Letter from Cliff Kupchan: High expectations in Beijing challenge stable US-China relations</div>
-  <div class="v2-meta">JUL 8  01:11 &nbsp;·&nbsp; 8 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="EG" onclick="openFile('','EG US Daily: Anyone but Platner leaves Democrats better off')">
-  
-  <div class="v2-sender">Eurasia Group</div>
-  <div class="v2-title">EG US Daily: Anyone but Platner leaves Democrats better off</div>
-  <div class="v2-meta">JUL 8  01:02 &nbsp;·&nbsp; 7 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="EG" onclick="openFile('','China: Recent engagement with key officials - EG Conference ')">
-  
-  <div class="v2-sender">Eurasia Group</div>
-  <div class="v2-title">China: Recent engagement with key officials - EG Conference Call, REMINDER</div>
-  <div class="v2-meta">JUL 7  23:01 &nbsp;·&nbsp; 2 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="POL" onclick="openFile('','Nigel Farage triggers by-election amid donations probe')">
-  
-  <div class="v2-sender">POLITICO</div>
-  <div class="v2-title">Nigel Farage triggers by-election amid donations probe</div>
-  <div class="v2-meta">JUL 7  22:38 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="POL" onclick="openFile('','Le Pen sentenced to house arrest: Live updates')">
-  
-  <div class="v2-sender">POLITICO</div>
-  <div class="v2-title">Le Pen sentenced to house arrest: Live updates</div>
-  <div class="v2-meta">JUL 7  21:07 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="EG" onclick="openFile('','EG Daily Brief: Oil likely to dip below $70 amid UAE-Saudi r')">
-  
-  <div class="v2-sender">Eurasia Group</div>
-  <div class="v2-title">EG Daily Brief: Oil likely to dip below $70 amid UAE-Saudi rivalry</div>
-  <div class="v2-meta">JUL 7  20:45 &nbsp;·&nbsp; 7 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="EG" onclick="openFile('','EG PRACTICE LETTER：上級幹部がブリーフィングチームに本当に求めているもの')">
-  
-  <div class="v2-sender">Eurasia Group</div>
-  <div class="v2-title">EG PRACTICE LETTER：上級幹部がブリーフィングチームに本当に求めているもの</div>
-  <div class="v2-meta">JUL 7  18:52 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="OTH" onclick="openFile('','&quot;JETRO Business Brief&quot; 2026/07/07')">
-  <span class="v2-dot">🚗</span>
-  <div class="v2-sender">ビジネス短信</div>
-  <div class="v2-title">&quot;JETRO Business Brief&quot; 2026/07/07</div>
-  <div class="v2-meta">JUL 7  18:49 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="POL" onclick="openFile('','‘Trump management’: Everyone else has a plan to keep NATO su')">
-  
-  <div class="v2-sender">POLITICO</div>
-  <div class="v2-title">‘Trump management’: Everyone else has a plan to keep NATO summit on the rails</div>
-  <div class="v2-meta">JUL 7  17:36 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="POL" onclick="openFile('','It’s Judgment Day for Marine Le Pen')">
-  
-  <div class="v2-sender">POLITICO</div>
-  <div class="v2-title">It’s Judgment Day for Marine Le Pen</div>
-  <div class="v2-meta">JUL 7  16:35 &nbsp;·&nbsp; 1 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="EG" onclick="openFile('','EG United Kingdom: Burnham may tweak investment rule to enab')">
-  
-  <div class="v2-sender">Eurasia Group</div>
-  <div class="v2-title">EG United Kingdom: Burnham may tweak investment rule to enable more borrowing</div>
-  <div class="v2-meta">JUL 7  15:19 &nbsp;·&nbsp; 7 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="POL" onclick="openFile('','EU ports brace for long queues with new border checks')">
-  <span class="v2-dot">🚗</span>
-  <div class="v2-sender">POLITICO</div>
-  <div class="v2-title">EU ports brace for long queues with new border checks</div>
-  <div class="v2-meta">JUL 7  14:01 &nbsp;·&nbsp; 9 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="POL" onclick="openFile('','Le Pen or Bardella? What it means for Europe')">
-  
-  <div class="v2-sender">POLITICO</div>
-  <div class="v2-title">Le Pen or Bardella? What it means for Europe</div>
-  <div class="v2-meta">JUL 7  13:49 &nbsp;·&nbsp; 14 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="EG" onclick="openFile('','On the ground in China: Assessing the reset of China-US rela')">
-  
-  <div class="v2-sender">Eurasia Group</div>
-  <div class="v2-title">On the ground in China: Assessing the reset of China-US relations</div>
-  <div class="v2-meta">JUL 7  10:04 &nbsp;·&nbsp; 2 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="EG" onclick="openFile('','Research Summary for Jul 6, 2026')">
-  <span class="v2-dot">🚗</span>
-  <div class="v2-sender">Eurasia Group</div>
-  <div class="v2-title">Research Summary for Jul 6, 2026</div>
-  <div class="v2-meta">JUL 7  07:35 &nbsp;·&nbsp; 2 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="EG" onclick="openFile('','China: Recent engagement with key officials - EG Conference ')">
-  
-  <div class="v2-sender">Eurasia Group</div>
-  <div class="v2-title">China: Recent engagement with key officials - EG Conference Call</div>
-  <div class="v2-meta">JUL 7  04:09 &nbsp;·&nbsp; 2 MIN &nbsp;</div>
-</div>
-<div class="v2-card" data-s="EG" onclick="openFile('','EG Oil Markets Weekly: UAE-Saudi competition will keep price')">
-  
-  <div class="v2-sender">Eurasia Group</div>
-  <div class="v2-title">EG Oil Markets Weekly: UAE-Saudi competition will keep prices low</div>
-  <div class="v2-meta">JUL 7  02:20 &nbsp;·&nbsp; 5 MIN &nbsp;</div>
-</div>
     </div>
   </div>
   <div class="v2-sidebar">
   <div class="v2-sb-head">
     <div class="v2-sb-ttl">Today's Key Takeaways</div>
-    <div class="v2-sb-sub">2026-07-09 16:00 JST &nbsp;·&nbsp; ~1 min read</div>
+    <div class="v2-sb-sub">2026-07-10 12:59 JST &nbsp;·&nbsp; ~1 min read</div>
   </div>
   <div class="v2-sb-body">
-    <div class="v2-summary-block"><p>The Irish EU presidency is pushing member states to agree on new &quot;Made in Europe&quot; manufacturing rules that would favor local suppliers in government procurement and tighten oversight of foreign investment in critical industries. The effort reflects deep disagreement within Europe—some countries want aggressive protections to boost homegrown manufacturing, while others fear the rules will create red tape and invite retaliation from trading partners.</p>
-<p>For automakers, these rules could reshape where components come from and how factories operate across the continent. Stricter local-content requirements mean higher costs in the near term but potentially more stable supply chains. They could also trigger response tariffs from the U.S. or other markets, squeezing margins. The Trump administration's fresh sanctions on Iranian oil sales add another layer of uncertainty to global energy prices, which directly feed into production costs.</p>
-<p>Watch whether the EU can lock in a deal by the end of Ireland's presidency in December, or if divisions force a delay into next year.</p></div>
+    <div class="v2-summary-block"><p>Canada's new prime minister signaled today he wants to deepen commercial ties with China, including potential Chinese electric vehicle manufacturing on Canadian soil. Simultaneously, the EU is wrestling with how to write &quot;Made in Europe&quot; rules that would preference local content and scrutinize foreign investment—a direct response to the same competitive pressures Ottawa faces. Both moves reflect a global auto industry caught between efficiency and self-protection.</p>
+<p>These aren't separate debates. If Canada opens its door to Chinese EV makers while the US tightens its stance, manufacturers face a fragmented North American market. Meanwhile, the EU's proposed local-content rules could force automakers—especially those with global supply chains—to restructure operations or face procurement penalties. Add Iran sanctions back into the mix and raw material costs could shift unpredictably. The industry's assumption of a stable, integrated continental supply chain is unraveling.</p>
+<p>Watch whether the US signals explicit objections to Canadian Chinese investment within the next two weeks, which would force Carney's hand faster than current pressure.</p></div>
     <hr class="v2-hr"><div class="v2-src-lbl">Source Emails</div>
+<div class="v2-src" onclick="openFile('../data/pdfs/20260710_0531_EG_Canada__Washington_will_constrain_Ottawa’s_rese.html','EG Canada: Washington will constrain Ottawa’s reset with Bei')"><span class="v2-badge" style="background:#8a6200;">Eurasia Group</span><span>EG Canada: Washington will constrain Ottawa’s reset with Beijing </span></div>
 <div class="v2-src" onclick="openFile('../data/pdfs/20260709_0031_Pro_Daily_Headlines.html','Pro Daily Headlines')"><span class="v2-badge" style="background:#a8121e;">POLITICO</span><span>Pro Daily Headlines</span></div>
 <div class="v2-src" onclick="openFile('../data/pdfs/20260708_2043_Document__Irish_presidency_seeks_‘agreed_understan.html','Document: Irish presidency seeks ‘agreed understanding’ on M')"><span class="v2-badge" style="background:#a8121e;">POLITICO</span><span>Document: Irish presidency seeks ‘agreed understanding’ on Made in Europe rules</span></div>
 
-    <div class="v2-rt">⏱ Full sources: ~3 min total</div>
+    <div class="v2-rt">⏱ Full sources: ~10 min total</div>
   </div>
 </div>
 </div>
 <footer class="site-footer">
   Sources: EG (Eurasia Group) &nbsp;|&nbsp; POLITICO &nbsp;|&nbsp; JETRO &nbsp;|&nbsp;
-  Updated: 2026-07-09 16:00 JST
+  Updated: 2026-07-10 12:59 JST
 </footer>
 <div id="v2-modal" class="v2-modal">
   <div class="v2-modal-box">
