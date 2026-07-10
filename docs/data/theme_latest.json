@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 14:19:19",
+  "generated_at": "2026-07-10 14:32:16",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-10 14:18:59",
+      "last_checked": "2026-07-10 14:31:50",
       "items": [
         {
           "uid": "c43670bcef22",
@@ -1909,7 +1909,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-10 14:19:06",
+      "last_checked": "2026-07-10 14:31:57",
       "items": [
         {
           "uid": "cf542e4d16ec",
@@ -3920,8 +3920,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-10 14:19:19",
+      "last_checked": "2026-07-10 14:32:16",
       "items": [
+        {
+          "uid": "01cad41a2195",
+          "date": "2026-07-09",
+          "title": "Policy Backgrounder: Critical Minerals: Impact of Export Regulations - The Conference Board",
+          "summary": "中国はレアアース等の戦略的に重要な鉱物の輸出規制を強化しており、これがグローバルなサプライチェーンと先進国の産業競争力に影響を与えています。輸出管理政策は資源ナショナリズムの一環として、中国の経済的・政治的影響力を拡大する手段となっています。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjk0cXdtWTk5Z0J4VDFuUHczTkhyUk1OSlhVSGVObi1jRGhkSzk0cVdHMGw1VmFNWFNsRkJuZGtyQk9ESzg4aTYxOWk4ME4wNGJiRElvbXo3Q0p1eXBRXzRVeFJwcFVaX3JQeXFTUHIzVkVyNzBwcERkODUwRHJOWXRDWE04UHNnUkllTnZxcUtuZFIxa2xXVFJVajFVeTF0S1FDNXBCVVBkcTJYb1E?oc=5",
+          "added_at": "2026-07-10 14:32:08"
+        },
+        {
+          "uid": "29faf66ea2f7",
+          "date": "2026-06-23",
+          "title": "China tightens export controls on 10 U.S. defence and rare earth firms - 디지털투데이",
+          "summary": "中国は米国防衛企業10社に対するレアアース関連製品の輸出規制を強化し、米国への報復措置として機微技術の流出制限を図っている。これにより、米国防衛産業のレアアース調達が一層困難になる見通しだ。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODg0VUlzc2ZwR3VMOHkzSnFGRWtOOF8wUXMyTGRPTXNOSEZpZXN5cm1ra2xuRF94V2JTMmtzVmJrR1kxVS12N1hPZHRYb0Uxb25JbmlUXzhiMzRvNFE0SHV1Y2hJVWx1dk5ZMGNNVWV2THBLZFU2VkNTS1dUUTcyeHBYTnNNZVpKWmt3R2hPMnBKbW1GM1NjOU5aM3FZeXhKVTdiTlNuSTR6bXVCZmUxdkxidw?oc=5",
+          "added_at": "2026-07-10 14:32:08"
+        },
         {
           "uid": "93289e0ba26e",
           "date": "2026-06-09",
@@ -5900,26 +5920,6 @@
           "source": "防衛産業",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FeTJYWkJTZ0RneU9lNGxOTmQ1cEhwZG81WmJld1BXUGo0NjlrNUtfRkdXVFByUlRwWEJnU3BxakJpUWl3cUVRUnBIa2tpQnR3N1ZObTlmZWRKUGo4d2lEZkhrZHRmVzhsWnVsLV9vaWFsUXdpR0NSVkk3RQ?oc=5",
-          "added_at": "2026-06-23 20:51:47"
-        },
-        {
-          "uid": "07f8d4e6ee00",
-          "date": "2026-06-23",
-          "title": "China Imposes New Export Curbs on 10 US Rare Earth, Defense Companies - mb.ntd.com",
-          "summary": "中国は米国のレアアース・防衛関連企業10社に対する輸出制限を新たに課した。これは米国による対中規制への報復措置と見られている。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3o1X3dFa3piWTR3QUw4OEZRS2g1cGJlcmNPTXl2U00tdXVGSEVXRGRMSk5tbHFObUlQRjlZSV8yQ2x1d3I1aUpLT0VhX1NhdzhLYU5XUDAzOENQLVFtNGZXZGRHY2tuTFlfa0I1Q3N2Nng3Zl9YUEtJTzA4ZTBsd2Q1ZlNfRXU1b2d1b0tDVXVHNXlWVzZOQWtIeDJlNlBsT1E?oc=5",
-          "added_at": "2026-06-23 20:51:47"
-        },
-        {
-          "uid": "abd41dfac348",
-          "date": "2026-06-22",
-          "title": "“From Trade Dispute to Wartime Posture” China Retaliates Against U.S. Blacklisting With Precision Strikes on Rare Earths and Defense Sector - economy.ac",
-          "summary": "中国が米国のブラックリスト指定に対抗して、レアアース産業と防衛セクターへの輸出管理を戦略的に強化する報復措置を実施している。この措置は単なる通商紛争の枠を超え、経済的・技術的優位性を確保するための包括的な対抗戦略を示唆している。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qWUI4bzJtcWpBREZ5ck1hSnpCU2VORUlodXozamNQZ0hhTC1fSGhXcndpczduVzBOLXB1VTJScmRZalpKUDlVS1VvY28tVUxFQU1pdDBvbw?oc=5",
           "added_at": "2026-06-23 20:51:47"
         }
       ]
