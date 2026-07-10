@@ -197,6 +197,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
 .page-nav a:hover { color: #1a1a2e; }
 .page-nav a.active { color: #1a1a2e; border-bottom-color: #1a1a2e; font-weight: 700; }
 .page-nav a .nav-icon { font-size: 15px; }
+.page-nav a:last-child { margin-left: auto; border-left: 1px solid #e5e7eb; }
 .page-nav a.dim { opacity: .45; pointer-events: none; }
 
 /* ── Layout ── */

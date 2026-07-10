@@ -330,6 +330,7 @@ body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica N
 .page-nav a:hover {{ color: #1a1a2e; }}
 .page-nav a.active {{ color: #1a1a2e; border-bottom-color: #1a1a2e; font-weight: 700; }}
 .page-nav a .nav-icon {{ font-size: 15px; }}
+.page-nav a:last-child {{ margin-left: auto; border-left: 1px solid #e5e7eb; }}
 .page-nav a.dim {{ opacity: .45; pointer-events: none; }}
 .section-label {{ font-size: 11px; font-weight: 700; color: #6b7280; text-transform: uppercase; letter-spacing: 1.2px; margin: 0 0 12px; padding-bottom: 8px; border-bottom: 2px solid #e5e7eb; }}
 .site-footer {{ text-align: center; padding: 28px 20px; font-size: 11px; color: #9ca3af; margin-top: 32px; border-top: 1px solid #e5e7eb; }}
