@@ -202,14 +202,21 @@ def update_home():
     eco  = json.loads((DATA_DIR / "economist_latest.json").read_text(encoding="utf-8"))
 
     COLORS = {
-        "RED":  "#e63946", "ORG": "#f77f00", "YEL": "#f4c430",
-        "GRN":  "#2a9d8f", "CYN": "#0096c8", "BLU": "#3a86ff",
-        "PRP":  "#7b2d8b", "GRY": "#6b7280",
+        "RED":  {"border": "#e63946", "bg": "#fee2e2"},
+        "ORG":  {"border": "#f77f00", "bg": "#fff7ed"},
+        "YEL":  {"border": "#f4c430", "bg": "#fefce8"},
+        "GRN":  {"border": "#2a9d8f", "bg": "#f0fdf4"},
+        "CYN":  {"border": "#0096c8", "bg": "#ecfeff"},
+        "BLU":  {"border": "#3a86ff", "bg": "#eff6ff"},
+        "PRP":  {"border": "#7b2d8b", "bg": "#faf5ff"},
+        "GRY":  {"border": "#6b7280", "bg": "#f9fafb"},
     }
 
     cards_html = ""
     for seg in home.get("segments", []):
-        color = COLORS.get(seg.get("color","GRY"), "#6b7280")
+        c = COLORS.get(seg.get("color","GRY"), COLORS["GRY"])
+        color = c["border"]
+        bg_color = c["bg"]
         badge = seg.get("badge","")
         title = seg.get("title","")
         subtitle = seg.get("subtitle","")
@@ -230,19 +237,22 @@ def update_home():
             else:
                 li_html += f'<li>{e(str(b))}</li>'
 
-        risk_html = f'<div class="card-risk">リスク: {e(risk)}</div>' if risk else ""
-        ctx_html  = f'<div class="card-context">{e(ctx)}</div>' if ctx else ""
+        details_html = ""
+        if risk or ctx:
+            risk_p = f'<p class="risk-text"><strong>リスク:</strong> {e(risk)}</p>' if risk else ""
+            ctx_p  = f'<p class="ctx-text"><strong>背景:</strong> {e(ctx)}</p>' if ctx else ""
+            details_html = f'<details class="card-details"><summary>▲ リスク・背景</summary>{risk_p}{ctx_p}</details>'
 
         cards_html += f"""
-  <div class="news-card">
+  <article class="news-card" style="border-left:4px solid {color}; background:{bg_color};">
     <div class="card-header">
       <span class="badge" style="background:{color};color:#fff">{e(badge)}</span>
       <span class="card-title">{e(title)}</span>
     </div>
-    <div class="card-sub">{e(subtitle)}</div>
+    <p class="card-sub">{e(subtitle)}</p>
     <ul class="bullet-list">{li_html}</ul>
-    {risk_html}{ctx_html}
-  </div>"""
+    {details_html}
+  </article>"""
 
     # Economist サイドバー
     top_b = "".join(f"<li>{e(b)}</li>" for b in eco.get("top_bullets",[]))
