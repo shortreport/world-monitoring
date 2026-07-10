@@ -335,6 +335,7 @@ def save_mail_html(mail, out_path: Path, base_name: str = "") -> bool:
             )
         html_body = extract_and_replace_cid(mail, html_body, out_path.parent, prefix=base_name)
         html_body = _localize_analyst_photos(html_body, out_path.parent)
+        html_body = re.sub(r'\s*<base href="[^"]*"[^>]*>', '', html_body)
         out_path.write_text(html_body, encoding="utf-8")
         return True
     except Exception as ex:
