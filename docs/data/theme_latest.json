@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 21:00:52",
+  "generated_at": "2026-07-10 23:39:48",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-10 21:00:24",
+      "last_checked": "2026-07-10 23:39:25",
       "items": [
         {
           "uid": "c43670bcef22",
@@ -1909,8 +1909,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-10 21:00:36",
+      "last_checked": "2026-07-10 23:39:35",
       "items": [
+        {
+          "uid": "ef1fcedb623d",
+          "date": "2026-07-10",
+          "title": "U.S. Government Remains Terrified of Chinese Cars - thetruthaboutcars.com",
+          "summary": "米国政府は中国製自動車の市場浸透を安全保障上の脅威と見なし、S.4429法案などを通じて中国車の輸入規制や国内展開を制限しようとしている。これは技術流出や車両のコネクテッド機能を通じたデータ収集の懸念に基づいている。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORU8zbGhFZ0p3QXIwN3hsWWZfY3BUNDl1X3NNb2xrUGZiMjdFRk01T3VodkVlRWZCY2dXZm5MLWRvbkt5MjI3TTRjdnpoMV9TV20wSGNsWVN4eEMwb2lONXBMVHBlNFN5dXhvdzgyQTBHbE1DTGlIdHB0NFVtSjJfSDhWb2lVcFNUSFY4YWxXZUFZeWxOS0JFbzhMRENhdEtkT1RCOS0wa1VnZw?oc=5",
+          "added_at": "2026-07-10 23:39:33"
+        },
         {
           "uid": "bb330cca84a2",
           "date": "2026-06-29",
@@ -3900,16 +3910,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa1pTRmRLazRfWS1uWTBnSC1jOWhiX3JxcGxsbnVwdGhIRzZSdVN4clJRWlkwVHBsWjdrWU5yMzNxSUxSWllSeUNYcXFhN0xwcF9HU0o3UW4wZFNNY1k3ajhsT2Nxb2d2NERrUDhfOHdySWo2SHhMa0N6RlFDMklKaDRQd3FJSWMzNmZHby1DMTdLRjV1TXdlc0RfSnRWekI3N2h6SA?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "27aa68138d38",
-          "date": "2026-03-18",
-          "title": "US Automakers Formally Ask Trump to Bar Chinese Cars - Autoweek",
-          "summary": "米国の自動車メーカーがトランプ氏に対して中国製車の市場参入を禁止するよう正式に要請しており、これはS.4429法案による中国車排除の動きを支持する業界の強い姿勢を示しています。この要請は、中国メーカーのEV技術やコスト競争力に対する米国産業界の懸念を背景としています。",
-          "source": "自動車部品業界",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzdNZmdnenBQQ2ZkemtGRjNrdWpaTzJKSThlSkYzdDlrRnlzR0VwdXFiZ3d2OXYxTmNxcWo4WEZrYkhTenpKNVhnQVZXVklHOW84SktkNllvQkQwZDh5ZFNxbk9EaF9JSGZ3RDhuTUtDVnZpdFkwOFI5MlhIQnE1MUF6bVgtLUpHdlM3Sg?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3920,7 +3920,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-10 21:00:52",
+      "last_checked": "2026-07-10 23:39:48",
       "items": [
         {
           "uid": "69dc14d3f6c5",
