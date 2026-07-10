@@ -90,6 +90,14 @@ _SENDER_CODE = {
 def _e(s: str) -> str:
     return str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;").replace('"',"&quot;")
 
+def _url_path(p: str) -> str:
+    """onclick内パス用: & ' ; をURLエンコード（ブラウザのHTML→JSデコードで壊れない）"""
+    return str(p).replace('&', '%26').replace("'", '%27').replace(';', '%3B')
+
+def _js_str(s: str) -> str:
+    """onclick内タイトル用: シングルクォートをJSエスケープ"""
+    return str(s).replace('\\', '\\\\').replace("'", "\\'")
+
 def strip_html_tags(text: str) -> str:
     text = re.sub(r"<br\s*/?>", "\n", text, flags=re.IGNORECASE)
     text = re.sub(r"<p[^>]*>",  "\n", text, flags=re.IGNORECASE)
@@ -541,11 +549,11 @@ def render_card(em: dict) -> str:
         if summary_en else ""
     )
     pdf_btn = (
-        f'<button class="v2-pdf-btn" onclick="event.stopPropagation();openFile(\'{_e(pdf_rel)}\',\'{_e(title[:60])} — Summary\')">📄 Summary</button>'
+        f'<button class="v2-pdf-btn" onclick="event.stopPropagation();openFile(\'{_url_path(pdf_rel)}\',\'{_js_str(title[:60])} — Summary\')">📄 Summary</button>'
         if summary_pdf else ""
     )
     return (
-        f'<div class="v2-card" data-s="{code}" onclick="openFile(\'{_e(html_rel)}\',\'{_e(title[:60])}\')">\n'
+        f'<div class="v2-card" data-s="{code}" onclick="openFile(\'{_url_path(html_rel)}\',\'{_js_str(title[:60])}\')">\n'
         f'  {dot}\n'
         f'  <div class="v2-sender">{_e(em.get("sender_norm",""))}</div>\n'
         f'  <div class="v2-title">{_e(title)}</div>'
@@ -575,7 +583,7 @@ def render_sidebar(toyota_entries: list, updated_at: str, summary_en: str) -> st
         rel      = ("../" + html_path) if html_path.startswith("data/") else html_path
         subj     = em.get("subject_en") or em.get("subject","")
         src_items += (
-            f'<div class="v2-src" onclick="openFile(\'{_e(rel)}\',\'{_e(subj[:60])}\')">'
+            f'<div class="v2-src" onclick="openFile(\'{_url_path(rel)}\',\'{_js_str(subj[:60])}\')">'
             f'<span class="v2-badge" style="background:{col};">{_e(em.get("sender_norm",""))}</span>'
             f'<span>{_e(subj)}</span></div>\n'
         )
