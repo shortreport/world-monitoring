@@ -347,10 +347,33 @@ def update_home():
 #  4. INTELLIGENCE
 # ─────────────────────────────────────────────────────────────
 
+def _load_en_intel_title_map() -> dict:
+    """Bタイプのintelligence HTMLからタイムスタンプ→フルタイトルのマッピングを取得"""
+    import html as html_lib
+    en_path = BASE / "docs" / "en" / "intelligence.html"
+    if not en_path.exists():
+        return {}
+    content = en_path.read_text(encoding="utf-8")
+    title_map = {}
+    pattern = re.compile(
+        r"openFile\('[^']*/(\d{8}_\d{4}_[^']+)\.[a-z]+'[^>]*>.*?<div class=\"v2-title\">(.*?)</div>",
+        re.DOTALL
+    )
+    for m in pattern.finditer(content):
+        ts = m.group(1)[:13]  # "20260710_1023"
+        title = html_lib.unescape(m.group(2))
+        title_map[ts] = title
+    return title_map
+
+
 def update_intelligence():
     print("\n=== [4/5] Intelligence ===")
     rolling = json.loads((DATA_DIR / "mail_rolling.json").read_text(encoding="utf-8"))
     emails  = rolling.get("emails", [])
+
+    # Bタイプのフルタイトルマップ（YYYYMMDD_HHMM → full title）
+    en_title_map = _load_en_intel_title_map()
+    print(f"  Bタイプタイトル取得: {len(en_title_map)}件")
 
     # サイドバー要約（summary_ja が空でないもの）
     toyota_emails = [em for em in emails if em.get("toyota") and em.get("summary_ja")]
@@ -396,28 +419,30 @@ def update_intelligence():
         code, _ = SENDER_CODE.get(sender, ("OTH", "#444488"))
         subject = em.get("subject","")
         subject_en = em.get("subject_en","")
-        # JETROは subject_en（英訳件名）、それ以外はオリジナル件名
-        display_title = subject_en if (code == "JET" and subject_en) else subject
+        pdf        = em.get("pdf","")
         date_label = em.get("date_label","")
         read_min   = em.get("read_min","?")
-        pdf        = em.get("pdf","")
         toyota     = em.get("toyota", False)
-        summary_ja = em.get("summary_ja","")
         summary_pdf = em.get("summary_pdf","")
 
+        # JETROは subject_en（英訳件名）、それ以外はBタイプのフルタイトル優先
+        if code == "JET" and subject_en:
+            display_title = subject_en
+        else:
+            ts = pdf.split("/")[-1][:13]  # "20260710_1023"
+            display_title = en_title_map.get(ts, subject)
+
         dot = '<span class="v2-dot">🚗</span>' if toyota else ""
-        excerpt_html = f'<div class="v2-excerpt">{e(summary_ja)}</div>' if summary_ja else ""
 
         pdf_btn = ""
         if summary_pdf:
-            pdf_btn = f' &nbsp;<button class="v2-pdf-btn" onclick="event.stopPropagation();openPdfDirect(\'../{e(summary_pdf)}\',\'{e(display_title[:40])} — 要約\')">📄 要約</button>'
+            pdf_btn = f' &nbsp;<button class="v2-pdf-btn" onclick="event.stopPropagation();openPdfDirect(\'../{e(summary_pdf)}\',\'{e(subject[:40])} — 要約\')">📄 要約</button>'
 
         cards_html += f"""
   <div class="v2-card" data-s="{code}" data-pdf="../{e(pdf)}" data-title="{e(display_title)}" onclick="openPdf(this)">
     {dot}
     <div class="v2-sender">{e(sender)}</div>
     <div class="v2-title">{e(display_title)}</div>
-    {excerpt_html}
     <div class="v2-meta">{e(date_label)} &nbsp;·&nbsp; {e(str(read_min))} MIN{pdf_btn}</div>
   </div>"""
 
