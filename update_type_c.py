@@ -200,40 +200,163 @@ def update_trump():
 
 def update_theme():
     print("\n=== [2/5] Theme ===")
+    from datetime import datetime, timedelta
     data = json.loads((DATA_DIR / "theme_latest.json").read_text(encoding="utf-8"))
     themes = data.get("themes", [])
+    today = datetime.now()
+    threshold_new = (today - timedelta(days=3)).strftime("%Y-%m-%d")
+    threshold_7d  = (today - timedelta(days=7)).strftime("%Y-%m-%d")
 
-    cards_html = ""
-    for th in themes:
-        name = th.get("name", "")
-        desc = th.get("description", "")
-        color = th.get("color", "#555")
+    SRC_BADGE = {
+        "official":   ("theme-src-official",   "🏛️ 公式"),
+        "media":      ("theme-src-media",       "📰 メディア"),
+        "industry":   ("theme-src-industry",    "🏭 業界"),
+        "politician": ("theme-src-politician",  "👤 政治家"),
+        "china":      ("theme-src-china",       "🇨🇳 中国"),
+    }
+    SRC_FILTER_LABEL = {
+        "official":   "🏛️ 公式",
+        "media":      "📰 メディア",
+        "industry":   "🏭 業界",
+        "politician": "👤 政治家",
+        "china":      "🇨🇳 中国",
+    }
+
+    # Tab nav
+    tabs_html = ""
+    for i, th in enumerate(themes):
+        tid   = th.get("id", "")
+        tname = th.get("name", "")
         icon  = th.get("icon", "")
-        items = th.get("items", [])
-        items_html = ""
-        for it in items[:5]:
-            title = it.get("title","")
-            summary = it.get("summary","")
-            date = it.get("date","")
-            url = it.get("url","")
-            link = f'href="{e(url)}" target="_blank"' if url else ""
-            items_html += f"""
-      <div class="theme-item">
-        <a class="theme-item-title" {link}>{e(title)}</a>
-        <div class="theme-summary">{e(summary)}</div>
-        <div class="theme-item-date">{e(date)}</div>
-      </div>"""
-        cards_html += f"""
-  <div class="theme-card" style="border-top:3px solid {color}">
-    <div class="theme-header">
-      <span class="theme-icon">{icon}</span>
-      <h2 class="theme-name">{e(name)}</h2>
-    </div>
-    <div class="theme-desc">{e(desc)}</div>
-    <div class="theme-items">{items_html}</div>
-  </div>"""
+        color = th.get("color", "#555")
+        if i == 0:
+            tabs_html += f'<button class="theme-tab active" data-theme="{e(tid)}" style="background:{color}; border-color:{color};">{icon} {e(tname)}</button>\n  '
+        else:
+            tabs_html += f'<button class="theme-tab" data-theme="{e(tid)}">{icon} {e(tname)}</button>\n  '
 
-    content = f'<div class="theme-wrap"><div class="theme-grid">{cards_html}</div></div>\n'
+    # Panels
+    color_map_js = {}
+    panels_html = ""
+    for i, th in enumerate(themes):
+        tid      = th.get("id", "")
+        name     = th.get("name", "")
+        desc     = th.get("description", "")
+        color    = th.get("color", "#555")
+        icon     = th.get("icon", "")
+        last_chk = th.get("last_checked", "")
+        items    = th.get("items", [])
+        color_map_js[tid] = color
+
+        cnt_7d  = sum(1 for it in items if it.get("date","") >= threshold_7d)
+        cnt_new = sum(1 for it in items if it.get("date","") >= threshold_new)
+        stats_html = (f'<div class="theme-stat"><div class="theme-stat-num">{cnt_7d}</div>'
+                      f'<div class="theme-stat-lbl">直近7日</div></div>'
+                      f'<div class="theme-stat"><div class="theme-stat-num">{cnt_new}</div>'
+                      f'<div class="theme-stat-lbl">新着（3日）</div></div>')
+
+        seen_srcs: list = []
+        for it in items:
+            st = it.get("source_type", "media")
+            if st not in seen_srcs:
+                seen_srcs.append(st)
+
+        filter_html = '<button class="theme-filter-btn active" data-filter="all">すべて</button>\n  '
+        for st in seen_srcs:
+            lbl = SRC_FILTER_LABEL.get(st, st)
+            filter_html += f'<button class="theme-filter-btn" data-filter="{e(st)}">{lbl}</button>\n  '
+
+        items_html = ""
+        for it in items:
+            itdate   = it.get("date", "")
+            title    = it.get("title", "")
+            summary  = it.get("summary", "")
+            source   = it.get("source", "")
+            src_type = it.get("source_type", "media")
+            url      = it.get("url", "")
+            is_new   = itdate >= threshold_new
+            new_cls  = " is-new" if is_new else ""
+            new_badge = '<span class="theme-new-badge">🆕 NEW</span>' if is_new else ""
+            badge_cls, badge_lbl = SRC_BADGE.get(src_type, ("theme-src-media", "📰 メディア"))
+            href = f'href="{e(url)}" target="_blank" rel="noopener noreferrer"' if url else ""
+            items_html += (f'<div class="theme-item{new_cls}" data-src="{e(src_type)}">\n'
+                           f'  <div class="theme-item-header">\n'
+                           f'    {new_badge}<span class="theme-src-badge {badge_cls}">{badge_lbl}</span>'
+                           f'<span class="theme-date">📅 {e(itdate)}</span>\n'
+                           f'    <span class="theme-item-title"><a {href}>{e(title)}</a></span>\n'
+                           f'  </div>\n'
+                           f'  <div class="theme-summary">{e(summary)}</div>\n'
+                           f'  <div class="theme-source-name">Source: {e(source)}</div>\n'
+                           f'</div>\n')
+
+        panel_style = f"--tc:{color};" if i == 0 else f"display:none;--tc:{color};"
+        panels_html += (f'<div id="panel-{e(tid)}" class="theme-panel" style="{panel_style}">\n'
+                        f'  <div class="theme-banner" style="background:linear-gradient(135deg,{color} 0%,{color}cc 70%,{color}88 100%);">\n'
+                        f'    <div>\n'
+                        f'      <div class="theme-banner-title">{icon} {e(name)}</div>\n'
+                        f'      <div class="theme-banner-desc">{e(desc)} &nbsp;|&nbsp; '
+                        f'<span style="opacity:.7;font-size:10px;">最終収集: {e(last_chk)}</span></div>\n'
+                        f'    </div>\n'
+                        f'    <div class="theme-banner-spacer"></div>\n'
+                        f'    <div class="theme-stats">{stats_html}</div>\n'
+                        f'  </div>\n'
+                        f'  <div class="theme-filter-bar">\n'
+                        f'  {filter_html}</div>\n'
+                        f'  <div class="theme-list">\n'
+                        f'{items_html}  </div>\n'
+                        f'</div>\n')
+
+    color_map_str = "{" + ",".join(f'"{k}":"{v}"' for k, v in color_map_js.items()) + "}"
+    js_html = f"""<script>
+(function(){{
+  var colorMap = {color_map_str};
+  var tabs   = document.querySelectorAll('.theme-tab');
+  var panels = document.querySelectorAll('.theme-panel');
+  tabs.forEach(function(tab){{
+    tab.addEventListener('click', function(){{
+      var tid = tab.dataset.theme;
+      tabs.forEach(function(t){{
+        var c = colorMap[t.dataset.theme] || '#333';
+        if(t.dataset.theme === tid){{
+          t.classList.add('active');
+          t.style.background = c; t.style.borderColor = c;
+        }} else {{
+          t.classList.remove('active');
+          t.style.background = ''; t.style.borderColor = '';
+        }}
+      }});
+      panels.forEach(function(p){{
+        p.style.display = (p.id === 'panel-' + tid) ? '' : 'none';
+      }});
+    }});
+  }});
+  panels.forEach(function(panel){{
+    var tc    = panel.style.getPropertyValue('--tc') || '#003F8A';
+    var btns  = panel.querySelectorAll('.theme-filter-btn');
+    var cards = panel.querySelectorAll('.theme-list .theme-item');
+    btns.forEach(function(btn){{
+      btn.addEventListener('click', function(){{
+        btns.forEach(function(b){{
+          b.classList.remove('active');
+          b.style.background=''; b.style.borderColor=''; b.style.color='';
+        }});
+        btn.classList.add('active');
+        btn.style.background = tc; btn.style.borderColor = tc; btn.style.color = '#fff';
+        var f = btn.dataset.filter;
+        cards.forEach(function(c){{
+          c.style.display = (f === 'all' || c.dataset.src === f) ? '' : 'none';
+        }});
+      }});
+    }});
+  }});
+}})();
+</script>"""
+
+    content = (f'<div class="theme-wrap">\n'
+               f'  <p class="section-label" style="margin-top:8px;">監視テーマ</p>\n'
+               f'  <div class="theme-tabs-nav">\n'
+               f'  {tabs_html}</div>\n'
+               f'{panels_html}</div>\n'
+               f'{js_html}\n')
 
     path = JP_DIR / "theme.html"
     shell_top, shell_bot = get_shell(path)
