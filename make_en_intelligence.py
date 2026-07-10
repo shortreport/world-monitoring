@@ -277,6 +277,44 @@ def get_unread(ns, folder_name: str) -> list:
 
 
 # ── HTML 抽出・保存 ───────────────────────────────────────────────────────────
+_EG_ANALYST_RE = re.compile(
+    r'https://library\.eurasiagroup\.net//tag/analystimage/([^/\s"\']+)/([^/\s"\']+)'
+)
+
+def _download_analyst_photo(url: str, img_dir: Path) -> str:
+    """外部アナリスト写真URLをローカルJPEGにDLしてファイル名を返す。失敗時は元URLを返す。"""
+    try:
+        analyst_id = url.rstrip("/").split("/")[-1]
+        safe_id = re.sub(r'[^a-zA-Z0-9._@-]', '_', analyst_id)
+        local_name = f"eg_analyst_{safe_id}.jpg"
+        local_path = img_dir / local_name
+        if not local_path.exists():
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                data = resp.read()
+            # PIL で正規 JPEG に変換・圧縮
+            try:
+                from PIL import Image
+                import io as _io
+                img = Image.open(_io.BytesIO(data)).convert("RGB")
+                img.thumbnail((320, 320))
+                buf = _io.BytesIO()
+                img.save(buf, "JPEG", quality=85)
+                local_path.write_bytes(buf.getvalue())
+            except Exception:
+                local_path.write_bytes(data)
+            print(f"  [DL] analyst photo: {local_name}")
+        return local_name
+    except Exception as ex:
+        print(f"  [WARN] analyst photo DL失敗 {url}: {ex}")
+        return url
+
+def _localize_analyst_photos(html_body: str, img_dir: Path) -> str:
+    """HTMLのアナリスト写真URLをローカルファイル参照に置換"""
+    def _replace(m):
+        return _download_analyst_photo(m.group(0), img_dir)
+    return _EG_ANALYST_RE.sub(_replace, html_body)
+
 def save_mail_html(mail, out_path: Path, base_name: str = "") -> bool:
     try:
         html_body = getattr(mail, "HTMLBody", "") or ""
@@ -288,6 +326,7 @@ def save_mail_html(mail, out_path: Path, base_name: str = "") -> bool:
                 + "</body></html>"
             )
         html_body = extract_and_replace_cid(mail, html_body, out_path.parent, prefix=base_name)
+        html_body = _localize_analyst_photos(html_body, out_path.parent)
         out_path.write_text(html_body, encoding="utf-8")
         return True
     except Exception as ex:
