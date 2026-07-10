@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 15:02:58",
+  "generated_at": "2026-07-10 15:33:00",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-10 15:02:37",
+      "last_checked": "2026-07-10 15:32:38",
       "items": [
         {
           "uid": "c43670bcef22",
@@ -1909,7 +1909,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-10 15:02:46",
+      "last_checked": "2026-07-10 15:32:46",
       "items": [
         {
           "uid": "bb330cca84a2",
@@ -3920,8 +3920,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-10 15:02:58",
+      "last_checked": "2026-07-10 15:33:00",
       "items": [
+        {
+          "uid": "6d94431105c1",
+          "date": "2026-07-08",
+          "title": "Trump strikes critical mineral deals with Asian nations - Washington Examiner",
+          "summary": "トランプ前大統領はアジア諸国との重要鉱物取引を推進することで、中国のレアアース支配に対抗し、米国のサプライチェーン独立性を強化する戦略を展開している。この取組により、中国による重要鉱物輸出管理への依存を軽減し、米国と同盟国の産業競争力を確保する狙いがある。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByNWVJVzg3dElZUDNYRHFGcnNwNFFtZ3VMOTdSTXJvMVBaUXh1WEdpT0kxQnBTejI0djJMSXVjeUhzVUxVRGRpaVZETnltZ3VJbnJfYnpITEs0UFh1?oc=5",
+          "added_at": "2026-07-10 15:32:58"
+        },
         {
           "uid": "01cad41a2195",
           "date": "2026-07-09",
@@ -5910,16 +5920,6 @@
           "source": "欧米レアアース企業",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGFwNDF2OURPekJMOUI5dU9Xc2JjalVVMjF3U0NxazNvMDIxS25HelpkVHhuZ1d6elI5bndqS1JaQjRpcS1uTU01bDNxLWxKd2pzX01SeEUzclFwNXAwNXp2WFpuMEFodGlYVEJsU29ob1VWQlU3b2t1bXRVOFZsTjhndk8wNkdnRC04YjB0VDVMb0ozeXF6dGJwRExkbW81MnVwOUpfTDVqdUVxUjZZWTdXR3F1M1hw?oc=5",
-          "added_at": "2026-06-23 20:51:47"
-        },
-        {
-          "uid": "eb49260cf8db",
-          "date": "2026-06-23",
-          "title": "Beijing imposes export controls on 10 US rare earth firms in retaliation for military blacklist - Crypto Briefing",
-          "summary": "中国政府は米国による軍事関連企業へのブラックリスト指定に対抗して、米国のレアアース関連企業10社に対する輸出規制を発動した。この報復措置は、米中間の技術・防衛分野における競争激化の一環として位置づけられている。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FeTJYWkJTZ0RneU9lNGxOTmQ1cEhwZG81WmJld1BXUGo0NjlrNUtfRkdXVFByUlRwWEJnU3BxakJpUWl3cUVRUnBIa2tpQnR3N1ZObTlmZWRKUGo4d2lEZkhrZHRmVzhsWnVsLV9vaWFsUXdpR0NSVkk3RQ?oc=5",
           "added_at": "2026-06-23 20:51:47"
         }
       ]
