@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 13:25:27",
+  "generated_at": "2026-07-10 13:30:13",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-10 13:20:37",
+      "last_checked": "2026-07-10 13:29:50",
       "items": [
         {
           "uid": "4977f5395b5d",
@@ -1899,8 +1899,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-10 13:22:40",
+      "last_checked": "2026-07-10 13:30:00",
       "items": [
+        {
+          "uid": "072e06c465d0",
+          "date": "2026-05-18",
+          "title": "Bipartisan bill aims to completely ban Chinese cars from U.S. market - Global Fleet",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国製の自動車および関連部品の米国市場への参入を完全に禁止することを目的とした超党派法案であり、国家安全保障上の懸念から中国車の販売を厳しく制限する内容となっています。",
+          "source": "中国政府",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdFNMd2ZGZWVDZ0lTZkFjbWdCZ1FYTzBSclN6cDBBaVFIT0JUa3R1NjIzTXgtUTFLekJUNFlyalFQMXNvQmFTazlrQ0xqNTdaMFVwMFBhMms5X2xBY1lIWWtXS09lc1E4R3FJdVhuNzVjUjRPVkU1TjMzRHJlTFVFWkJnS0M2Qm9VTUpQclZOV1hsSk8zLTRXVmFFdU02STVCUW51dzhVY2YwWDV6Qk80ZURkNlZDU1p0Y1ZacVhDb1NSQzNpLW0xc0M1bTlMNUZBMW00?oc=5",
+          "added_at": "2026-07-10 13:29:59"
+        },
         {
           "uid": "80baf8162f76",
           "date": "2026-04-22",
@@ -3890,16 +3900,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWmhoUEJFcTVSdWJvMVFpLVRYbU9lNnotNVNZY28weHFnZmozUmpqcUJNeWRsWVlSblJoOGFMcjM0dlN1UUFzWmFHRkNRTldlZWR6ZU13anowdUc5THF3cC02NUR5ZC14X1BWZkVjLUdDZnYtSXdPVTZmV1Bqd0xybmY5V0Q1SWpLbzUyZGZ3b1VBXzVSRGlsblVn?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "cf542e4d16ec",
-          "date": "2026-04-20",
-          "title": "Modern GPS-Equipped Cars Track Your Every Move, And The Data Can't Be Erased - CarBuzz",
-          "summary": "現代のGPS搭載車は運転者の移動データを常時追跡しており、そのデータが消去不可能な状態で保存されることが、米国接続車両安全保障法（S.4429）で懸念される車両のプライバシーとデータセキュリティの問題を浮き彫りにしている。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZOVZVaHIyajFDbnhBc3VtQmxRV1c2V1BmZ1F3a016WXBBdDNIZlJJOUp5TGJPRTVKWnFnaHc1SkxZNG5jVFlwS09ucDdWRXFIb0xxVzlHSlBIX2NoR19tR0J3dWhiNFlpZmdJ?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3910,7 +3910,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-10 13:25:27",
+      "last_checked": "2026-07-10 13:30:13",
       "items": [
         {
           "uid": "4b8619341ae6",
