@@ -381,7 +381,7 @@ body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica N
   <div class="header-spacer"></div>
   <div class="update-time">Updated: {updated} &nbsp;|&nbsp; auto-update every 6h</div>
   <div class="lang-toggle">
-    <a href="../theme.html">JP</a>
+    <a href="../jp/theme.html">JP</a>
     <a href="theme.html" class="active">EN</a>
   </div>
   <div class="live-badge">LIVE</div>
@@ -391,8 +391,8 @@ body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica N
   <a href="intelligence.html"><span class="nav-icon">📋</span>Intelligence</a>
   <a href="trump.html"><span class="nav-icon">🇺🇸</span>US / Trump</a>
   <a href="theme.html" class="active"><span class="nav-icon">🔎</span>Themes</a>
-  <a href="midterm.html" class="dim"><span class="nav-icon">🗳️</span>US Midterms</a>
-  <a href="summary.html" class="dim"><span class="nav-icon">📋</span>Exec Summary</a>
+  <a href="midterm.html"><span class="nav-icon">🗳️</span>US Midterms</a>
+  <a href="summary.html"><span class="nav-icon">📋</span>Exec Summary</a>
 </nav>
 <div class="theme-wrap">
   <p class="section-label" style="margin-top:8px;">Monitoring Themes</p>
