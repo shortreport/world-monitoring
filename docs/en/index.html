@@ -55,16 +55,20 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
 /* ── Economist sidebar ── */
 .eco-sidebar { position: sticky; top: 112px; max-height: calc(100vh - 130px); overflow-y: auto; background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; box-shadow: 0 1px 6px rgba(0,0,0,.07); }
 .eco-sidebar::-webkit-scrollbar { width: 4px; } .eco-sidebar::-webkit-scrollbar-thumb { background: rgba(0,0,0,.15); border-radius: 2px; }
-.eco-head { display: flex; gap: 12px; padding: 14px 16px; background: #f9fafb; border-bottom: 1px solid #e5e7eb; align-items: flex-start; }
-.eco-cover { width: 60px; height: 80px; object-fit: cover; border-radius: 3px; flex-shrink: 0; }
-.eco-label { font-size: 13px; font-weight: 700; letter-spacing: 1.5px; color: #e63c2f; margin-bottom: 4px; }
-.eco-sub   { font-size: 15px; font-weight: 600; color: #1a1a2e; line-height: 1.4; }
-.eco-date  { font-size: 11px; color: #9ca3af; margin-top: 4px; }
-.eco-section { padding: 14px 16px; border-bottom: 1px solid #f3f4f6; }
-.eco-section:last-child { border-bottom: none; }
-.eco-sec-title { font-size: 13px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #9ca3af; margin-bottom: 10px; }
-.eco-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
-.eco-list li { font-size: 13px; line-height: 1.65; color: #2a2a3e; padding-left: 10px; border-left: 2px solid #e63c2f; }
+.eco-header { background: #C8141E; padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; }
+.eco-logo-text { font-size: 15px; font-weight: 700; color: #fff; font-family: Georgia, serif; }
+.eco-hdate { font-size: 11px; color: rgba(255,255,255,.75); }
+.eco-cover-wrap { height: 160px; overflow: hidden; flex-shrink: 0; }
+.eco-cover-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.eco-sub { font-size: 13px; font-weight: 600; color: #1a1a2e; padding: 10px 16px; border-bottom: 1px solid #f0e0e0; background: #fdf5f5; line-height: 1.4; }
+.eco-section { padding: 12px 16px 8px; border-bottom: 1px solid #f3f4f6; }
+.eco-section:last-child { border-bottom: none; padding-bottom: 14px; }
+.eco-sec-title { font-size: 13px; font-weight: 700; color: #C8141E; font-family: Georgia, serif; margin-bottom: 8px; display: flex; align-items: center; gap: 6px; }
+.eco-sec-title::before { content: ""; display: inline-block; width: 6px; height: 6px; background: #C8141E; border-radius: 50%; flex-shrink: 0; }
+.eco-list { list-style: none; display: flex; flex-direction: column; }
+.eco-list li { font-size: 13px; color: #2a2a3e; padding: 5px 0 5px 14px; border-bottom: 1px solid #f5e8e8; line-height: 1.55; position: relative; }
+.eco-list li:last-child { border-bottom: none; }
+.eco-list li::before { content: "▸"; position: absolute; left: 0; top: 5px; color: #C8141E; font-size: 10px; }
 
 /* ── Footer ── */
 .site-footer { text-align: center; padding: 28px 20px; font-size: 11px; color: #9ca3af; margin-top: 32px; border-top: 1px solid #e5e7eb; }
@@ -186,14 +190,14 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
 </article>
   </main>
   <aside class="eco-sidebar">
-  <div class="eco-head">
-    <img src="../data/economist_cover.jpg" alt="Economist cover" class="eco-cover">
-    <div>
-      <div class="eco-label">THE ECONOMIST</div>
-      <div class="eco-sub">The World in Brief: Iran strikes back</div>
-      <div class="eco-date">2026-07-10 11:07 JST</div>
-    </div>
+  <div class="eco-header">
+    <span class="eco-logo-text">The Economist</span>
+    <span class="eco-hdate">July 10, 2026</span>
   </div>
+  <div class="eco-cover-wrap">
+    <img src="../data/economist_cover.jpg" alt="The Economist cover">
+  </div>
+  <div class="eco-sub">The World in Brief: Iran strikes back</div>
   <section class="eco-section">
     <h3 class="eco-sec-title">Today's Top Stories</h3>
     <ul class="eco-list"><li>Israel's defence minister vows to resume attacks on Iran after Tehran strikes American bases.</li>
