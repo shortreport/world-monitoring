@@ -620,7 +620,50 @@ function openPdfDirect(url,title){{
 
 
 # ─────────────────────────────────────────────────────────────
-#  5. SUMMARY
+#  5. MIDTERM
+# ─────────────────────────────────────────────────────────────
+
+def update_midterm():
+    print("\n=== [5/6] Midterm ===")
+    en_path = BASE / "docs" / "en" / "midterm.html"
+    jp_path = JP_DIR / "midterm.html"
+
+    if not en_path.exists():
+        print("  [SKIP] docs/en/midterm.html が見つかりません")
+        return
+    if not jp_path.exists():
+        print("  [SKIP] docs/jp/midterm.html が見つかりません")
+        return
+
+    en_html = en_path.read_text(encoding="utf-8")
+    jp_html = jp_path.read_text(encoding="utf-8")
+
+    # EN から JS データブロックをコピー（stateData / upcomingSchedules / projData 等）
+    for var_name in ("upcomingSchedules", "projData", "keyRaces"):
+        m = re.search(
+            rf'const {var_name}\s*=\s*\{{.*?\}};',
+            en_html, re.DOTALL
+        )
+        if m:
+            old = re.search(
+                rf'const {var_name}\s*=\s*\{{.*?\}};',
+                jp_html, re.DOTALL
+            )
+            if old:
+                jp_html = jp_html[:old.start()] + m.group() + jp_html[old.end():]
+
+    # 日付・更新時刻を更新
+    jp_html = re.sub(r'(<div class="header-date">)[^<]*(</div>)',
+                     rf'\g<1>{DATE_JP}\2', jp_html)
+    jp_html = re.sub(r'(最終更新:)[^<]*(</div>)',
+                     rf'\g<1> {DATETIME_JP}\2', jp_html)
+
+    jp_path.write_text(jp_html, encoding="utf-8")
+    print(f"  保存: {jp_path}")
+
+
+# ─────────────────────────────────────────────────────────────
+#  6. SUMMARY
 # ─────────────────────────────────────────────────────────────
 
 def update_summary():
@@ -663,7 +706,7 @@ def main():
     parser = argparse.ArgumentParser(description="Type C updater")
     parser.add_argument(
         "--only",
-        choices=["trump", "theme", "home", "intelligence", "summary"],
+        choices=["trump", "theme", "home", "intelligence", "midterm", "summary"],
         default=None,
         help="指定したページのみ更新（省略時は全ページ）",
     )
@@ -681,6 +724,7 @@ def main():
         "theme":        update_theme,
         "home":         update_home,
         "intelligence": update_intelligence,
+        "midterm":      update_midterm,
         "summary":      update_summary,
     }
     pages = [args.only] if args.only else list(page_map.keys())

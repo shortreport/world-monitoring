@@ -1,0 +1,72 @@
+name: Update Midterm Pages (B+C)
+
+on:
+  schedule:
+    # 〜9月: 毎月1日・15日 JST 08:00 = UTC 23:00 (前日)
+    # 10月以降: 火・金 JST 08:00 = UTC 23:00 (月・木) に cron を変更すること
+    # 現在のスケジュール: 月の1日・15日 UTC 23:00
+    - cron: '0 23 1,15 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-midterm:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect Midterm Monitor data
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          WORLDNEWS_API_KEY: ${{ secrets.WORLDNEWS_API_KEY }}
+        run: python midterm_monitor.py
+        continue-on-error: true
+
+      - name: Update Type B midterm.html (EN)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python make_en_midterm.py --no-push
+        continue-on-error: true
+
+      - name: Update Type C midterm.html (JP)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python update_type_c.py --only midterm --no-push
+        continue-on-error: true
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/en/midterm.html docs/jp/midterm.html docs/data/midterm_latest.json
+          if git diff --staged --quiet; then
+            echo "変更なし。スキップします。"
+          else
+            git commit -m "Auto update Midterm: $(TZ='Asia/Tokyo' date +'%Y-%m-%d %H:%M JST')"
+            git push
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

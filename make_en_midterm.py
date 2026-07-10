@@ -694,36 +694,149 @@ def add_lang_toggle(html):
     html = html.replace('</nav>', toggle + '</nav>', 1)
     return html
 
+# ── JSON データで HTML をパッチ ───────────────────────────────────────────────
+def patch_from_json(html: str, data: dict) -> str:
+    """midterm_latest.json の内容を EN midterm.html に反映する"""
+    import json as _json
+    from datetime import datetime, timezone, timedelta
+    JST = timezone(timedelta(hours=9))
+
+    # ── 更新日時 ──────────────────────────────────────────────────────────
+    now_str = datetime.now(JST).strftime("%Y-%m-%d")
+    html = re.sub(
+        r'(Updated:\s*)\d{4}-\d{2}-\d{2}(\s*JST)',
+        rf'\g<1>{now_str}\2', html
+    )
+    html = re.sub(
+        r'(Data:.*?Updated:\s*)\d{4}-\d{2}-\d{2}',
+        rf'\g<1>{now_str}', html
+    )
+
+    # ── upcomingSchedules を置き換え ──────────────────────────────────────
+    upcoming = data.get("upcoming_schedule", {})
+    if upcoming:
+        def _items_js(items):
+            lines = []
+            for it in items:
+                lines.append(
+                    f"    {{ date: {_json.dumps(it['date'])}, "
+                    f"state: {_json.dumps(it['state'])}, "
+                    f"event: {_json.dumps(it['event'])} }},"
+                )
+            return "\n".join(lines)
+
+        new_upcoming = (
+            "const upcomingSchedules = {\n"
+            f"  senate: [\n{_items_js(upcoming.get('senate', []))}\n  ],\n"
+            f"  house: [\n{_items_js(upcoming.get('house', []))}\n  ],\n"
+            f"  governor: [\n{_items_js(upcoming.get('governor', []))}\n  ],\n"
+            "};"
+        )
+        # コメント含むブロックごと置換
+        html = re.sub(
+            r'/\*\s*UPCOMING SCHEDULE.*?const upcomingSchedules\s*=\s*\{.*?\};',
+            new_upcoming,
+            html, flags=re.DOTALL,
+        )
+
+    # ── key_developments をコメントとして埋め込む ─────────────────────────
+    devs = data.get("key_developments", [])
+    if devs:
+        dev_comment = "/* KEY DEVELOPMENTS\n" + "\n".join(f"   - {d}" for d in devs) + "\n*/"
+        html = re.sub(r'/\* KEY DEVELOPMENTS.*?\*/', dev_comment, html, flags=re.DOTALL)
+        if "/* KEY DEVELOPMENTS" not in html:
+            html = html.replace("</script>", dev_comment + "\n</script>", 1)
+
+    return html
+
+
+# ── git + deploy ──────────────────────────────────────────────────────────────
+import subprocess, urllib.request
+
+def _get_gh_token() -> str:
+    try:
+        inp = "protocol=https\nhost=github.com\n"
+        r = subprocess.run(
+            ["git", "credential", "fill"],
+            input=inp, capture_output=True, text=True, timeout=10,
+        )
+        for line in r.stdout.splitlines():
+            if line.startswith("password="):
+                return line[len("password="):].strip()
+    except Exception:
+        pass
+    return ""
+
+def git_push_and_deploy(msg: str):
+    base = os.path.dirname(os.path.abspath(__file__))
+    def run(cmd): subprocess.run(cmd, cwd=base)
+    run(["git", "add", "docs/en/midterm.html", "docs/jp/midterm.html",
+         "docs/data/midterm_latest.json"])
+    diff = subprocess.run(["git", "diff", "--staged", "--quiet"], cwd=base)
+    if diff.returncode == 0:
+        print("[Git] 変更なし。スキップ。")
+        return
+    run(["git", "commit", "-m", msg])
+    push = subprocess.run(["git", "push"], cwd=base)
+    if push.returncode != 0:
+        run(["git", "fetch", "origin", "main"])
+        run(["git", "merge", "-X", "ours", "origin/main", "--no-edit"])
+        subprocess.run(["git", "push"], cwd=base)
+    token = os.environ.get("GH_TOKEN") or _get_gh_token()
+    if token:
+        req = urllib.request.Request(
+            "https://api.github.com/repos/shortreport/world-monitoring/actions/workflows/update.yml/dispatches",
+            data=b'{"ref":"main"}',
+            headers={"Authorization": f"token {token}",
+                     "Accept": "application/vnd.github.v3+json",
+                     "Content-Type": "application/json"},
+            method="POST",
+        )
+        try:
+            urllib.request.urlopen(req)
+            print("[Deploy] GitHub Actions トリガー完了")
+        except Exception as ex:
+            print(f"[Deploy] WARN: トリガー失敗 — {ex}")
+
+
 # ── Main ─────────────────────────────────────────────────────────────────────
 def main():
-    print("Reading docs/midterm.html...")
-    with open("docs/midterm.html", "r", encoding="utf-8") as f:
+    import argparse, json as _json
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--no-push", action="store_true",
+                        help="git push をスキップ（Actions 環境での使用）")
+    args = parser.parse_args()
+
+    base = os.path.dirname(os.path.abspath(__file__))
+    en_path = os.path.join(base, "docs", "en", "midterm.html")
+
+    print("Reading docs/en/midterm.html...")
+    with open(en_path, "r", encoding="utf-8") as f:
         html = f.read()
 
-    print("Applying string replacements...")
-    html = apply_replacements(html)
+    # ── midterm_latest.json があれば反映 ──────────────────────────────────
+    json_path = os.path.join(base, "docs", "data", "midterm_latest.json")
+    if os.path.exists(json_path):
+        print("Patching from midterm_latest.json...")
+        data = _json.loads(open(json_path, encoding="utf-8").read())
+        html = patch_from_json(html, data)
+    else:
+        print("[WARN] midterm_latest.json が見つかりません。日時のみ更新します。")
+        from datetime import datetime, timezone, timedelta
+        JST = timezone(timedelta(hours=9))
+        now_str = datetime.now(JST).strftime("%Y-%m-%d")
+        html = re.sub(r'(Updated:\s*)\d{4}-\d{2}-\d{2}(\s*JST)', rf'\g<1>{now_str}\2', html)
 
-    print("Translating remaining Japanese text with Claude Haiku...")
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-    html = translate_remaining_japanese(html, client)
-
-    print("Adding JP/EN toggle...")
-    html = add_lang_toggle(html)
-
-    os.makedirs("docs/en", exist_ok=True)
-    out_path = "docs/en/midterm.html"
-    with open(out_path, "w", encoding="utf-8") as f:
+    os.makedirs(os.path.join(base, "docs", "en"), exist_ok=True)
+    with open(en_path, "w", encoding="utf-8") as f:
         f.write(html)
+    print(f"Done! Written to {en_path}")
 
-    # Verify
-    remaining = re.findall(r'[぀-ゟ゠-ヿ一-鿿]', html)
-    print(f"\nDone! Written to {out_path}")
-    print(f"Lines: {html.count(chr(10))}")
-    print(f"Remaining Japanese characters: {len(remaining)}")
-    if remaining and len(remaining) < 200:
-        # Show context of remaining Japanese
-        for m in re.finditer(r'[^\n]*[぀-ゟ゠-ヿ一-鿿][^\n]*', html):
-            print(f"  → {m.group()[:100]}")
+    if not args.no_push:
+        from datetime import datetime, timezone, timedelta
+        JST = timezone(timedelta(hours=9))
+        now_str = datetime.now(JST).strftime("%Y-%m-%d %H:%M JST")
+        git_push_and_deploy(f"Midterm update: {now_str}")
 
 if __name__ == "__main__":
     main()
