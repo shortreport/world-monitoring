@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 23:39:48",
+  "generated_at": "2026-07-11 00:10:27",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-10 23:39:25",
+      "last_checked": "2026-07-11 00:10:05",
       "items": [
         {
           "uid": "c43670bcef22",
@@ -1909,8 +1909,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-10 23:39:35",
+      "last_checked": "2026-07-11 00:10:14",
       "items": [
+        {
+          "uid": "b5aa33394e84",
+          "date": "2026-07-10",
+          "title": "Washington is terrified of Chinese connected cars: only Detroit is allowed to \"spy\" - ClubAlfa.it",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国製の接続車両による安全保障上の脅威を懸念する米国政府が、外国メーカー、特に中国企業による車両データ収集を制限し、米国企業（デトロイトの自動車メーカー）のみにデータ収集を許可する法案である。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0RINmlUN0NmNDVySmNBSXJhM1d2VEdCM0w5SkxTTVBOcVhVWDZvX0J2TnJyR2NMeEZmTDVzc2tLc1pST2tsZGdjTWYwaFdZbGFHZUFCM29oeEVaRU9QS2Nra1B0cFVKZ0RWYV91V1lvUFZVSC1xR0VITHBKQmlyYmZocURfYzl6RDhsSGNlUUhTT3hralBhN0R5TzJ5d2pkT2ZLaVM3Wk9wYXl3MXdYNkw5MA?oc=5",
+          "added_at": "2026-07-11 00:10:12"
+        },
         {
           "uid": "ef1fcedb623d",
           "date": "2026-07-10",
@@ -3900,16 +3910,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONUUtNjBna29jSGMzU19ab191c0h4M0swUXM2WkpTaUM0b1VrQ204WjlSSzktQ1JaYTFleXRHTUs4b01MM0dHVHkweGZYVHlBek1FQVVqWmtIVjRKdDhWZkcwTWZTWExLbkZNSnZ5YVVlU184Z05tZy1EUnhDMzgzcjRpRlFPNDBCLVAtSXQ1c2lmc2c5emFlcWtUWUIzZw?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "560f60109fd6",
-          "date": "2026-05-07",
-          "title": "Trump Heads to Beijing With Chinese EVs Closing In on US Borders - eletric-vehicles.com",
-          "summary": "米国の自動車市場に中国製EVが急速に進出する中、トランプ大統領がこの脅威に対抗するため北京を訪問し、S.4429のような規制強化を通じて中国製EVの米国進出を制限しようとしている状況を反映している。",
-          "source": "自動車メーカー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa1pTRmRLazRfWS1uWTBnSC1jOWhiX3JxcGxsbnVwdGhIRzZSdVN4clJRWlkwVHBsWjdrWU5yMzNxSUxSWllSeUNYcXFhN0xwcF9HU0o3UW4wZFNNY1k3ajhsT2Nxb2d2NERrUDhfOHdySWo2SHhMa0N6RlFDMklKaDRQd3FJSWMzNmZHby1DMTdLRjV1TXdlc0RfSnRWekI3N2h6SA?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3920,7 +3920,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-10 23:39:48",
+      "last_checked": "2026-07-11 00:10:27",
       "items": [
         {
           "uid": "69dc14d3f6c5",
