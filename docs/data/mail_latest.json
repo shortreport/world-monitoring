@@ -1,80 +1,116 @@
 {
-  "generated_at": "2026-07-08 11:37 JST",
+  "generated_at": "2026-07-10 11:29 JST",
   "sender_count": 4,
-  "total_mails": 15,
+  "total_mails": 21,
   "summaries": [
     {
-      "sender": "Cliff",
-      "short": "CLIFF",
+      "sender": "EG",
+      "short": "EG",
       "color": "CYAN",
+      "count": 13,
+      "bullets": [
+        "要約取得に失敗しました。"
+      ],
+      "subjects": [
+        [
+          "2026-07-09",
+          "EG EUROPE, POWER: Wholesale electricity costs will fall sharply",
+          "data/pdfs/20260709_1729_EG_EUROPE,_POWER__Wholesale_electricity_costs_will.pdf"
+        ],
+        [
+          "2026-07-09",
+          "EG Daily Brief: Hormuz closure risk hits 35% as shaky peace holds",
+          "data/pdfs/20260709_2126_EG_Daily_Brief__Hormuz_closure_risk_hits_35%_as_sh.pdf"
+        ],
+        [
+          "2026-07-10",
+          "EG US Daily: Shaky peace holds after stepped-up strikes",
+          "data/pdfs/20260710_0051_EG_US_Daily__Shaky_peace_holds_after_stepped-up_st.pdf"
+        ],
+        [
+          "2026-07-10",
+          "EU Energy Outlook: Electricity costs will fall sharply by 2030 - EG",
+          "data/pdfs/20260710_0105_EU_Energy_Outlook__Electricity_costs_will_fall_sha.pdf"
+        ],
+        [
+          "2026-07-10",
+          "EG Aerospace & Defense, China: China poised for gradual defense",
+          "data/pdfs/20260710_0111_EG_Aerospace_&_Defense,_China__China_poised_for_gr.pdf"
+        ],
+        [
+          "2026-07-10",
+          "China's growing economic coercion toolkit - EG Conference Call",
+          "data/pdfs/20260710_0138_China's_growing_economic_coercion_toolkit_-_EG_Con.pdf"
+        ],
+        [
+          "2026-07-10",
+          "EG Global Macro, Aerospace & Defense: NATO's summit mixes",
+          "data/pdfs/20260710_0236_EG_Global_Macro,_Aerospace_&_Defense__NATO's_summi.pdf"
+        ],
+        [
+          "2026-07-10",
+          "EG South Asia Biweekly: Modi’s Indonesia trip boosts defense",
+          "data/pdfs/20260710_0315_EG_South_Asia_Biweekly__Modi’s_Indonesia_trip_boos.pdf"
+        ],
+        [
+          "2026-07-10",
+          "EG Canada: Washington will constrain Ottawa’s reset with Beijing",
+          "data/pdfs/20260710_0531_EG_Canada__Washington_will_constrain_Ottawa’s_rese.pdf"
+        ],
+        [
+          "2026-07-10",
+          "EG China Weekly: Submarine ballistic missile test likely a",
+          "data/pdfs/20260710_0555_EG_China_Weekly__Submarine_ballistic_missile_test_.pdf"
+        ],
+        [
+          "2026-07-10",
+          "On the ground in China: Assessing the reset of China-US relations",
+          "data/pdfs/20260710_0801_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf"
+        ],
+        [
+          "2026-07-10",
+          "On the ground in China: Assessing the reset of China-US relations",
+          "data/pdfs/20260710_0901_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf"
+        ],
+        [
+          "2026-07-10",
+          "APAC & Japan Conference Call: Claude Mythos; Cyber Power,",
+          "data/pdfs/20260710_1023_APAC_&_Japan_Conference_Call__Claude_Mythos;_Cyber.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260709_1729_EG_EUROPE,_POWER__Wholesale_electricity_costs_will.pdf",
+        "data/pdfs/20260709_2126_EG_Daily_Brief__Hormuz_closure_risk_hits_35%_as_sh.pdf",
+        "data/pdfs/20260710_0051_EG_US_Daily__Shaky_peace_holds_after_stepped-up_st.pdf",
+        "data/pdfs/20260710_0105_EU_Energy_Outlook__Electricity_costs_will_fall_sha.pdf",
+        "data/pdfs/20260710_0111_EG_Aerospace_&_Defense,_China__China_poised_for_gr.pdf",
+        "data/pdfs/20260710_0138_China's_growing_economic_coercion_toolkit_-_EG_Con.pdf",
+        "data/pdfs/20260710_0236_EG_Global_Macro,_Aerospace_&_Defense__NATO's_summi.pdf",
+        "data/pdfs/20260710_0315_EG_South_Asia_Biweekly__Modi’s_Indonesia_trip_boos.pdf",
+        "data/pdfs/20260710_0531_EG_Canada__Washington_will_constrain_Ottawa’s_rese.pdf",
+        "data/pdfs/20260710_0555_EG_China_Weekly__Submarine_ballistic_missile_test_.pdf",
+        "data/pdfs/20260710_0801_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf",
+        "data/pdfs/20260710_0901_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf",
+        "data/pdfs/20260710_1023_APAC_&_Japan_Conference_Call__Claude_Mythos;_Cyber.pdf"
+      ]
+    },
+    {
+      "sender": "Eurasia",
+      "short": "EURAS",
+      "color": "YEL",
       "count": 1,
       "bullets": [
         "要約取得に失敗しました。"
       ],
       "subjects": [
         [
-          "2026-07-08",
-          "EG Letter from Cliff Kupchan: High expectations in Beijing",
-          "data/pdfs/20260708_0111_EG_Letter_from_Cliff_Kupchan__High_expectations_in.pdf"
+          "2026-07-10",
+          "Research Summary for Jul 9, 2026",
+          "data/pdfs/20260710_0736_Research_Summary_for_Jul_9,_2026.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260708_0111_EG_Letter_from_Cliff_Kupchan__High_expectations_in.pdf"
-      ]
-    },
-    {
-      "sender": "EG",
-      "short": "EG",
-      "color": "YEL",
-      "count": 7,
-      "bullets": [
-        "要約取得に失敗しました。"
-      ],
-      "subjects": [
-        [
-          "2026-07-07",
-          "EG PRACTICE",
-          "data/pdfs/20260707_1852_EG_PRACTICE_LETTER：上級幹部がブリーフィングチームに本当に求めているもの.pdf"
-        ],
-        [
-          "2026-07-07",
-          "EG Daily Brief: Oil likely to dip below $70 amid UAE-Saudi rivalry",
-          "data/pdfs/20260707_2045_EG_Daily_Brief__Oil_likely_to_dip_below_$70_amid_U.pdf"
-        ],
-        [
-          "2026-07-07",
-          "China: Recent engagement with key officials - EG Conference Call,",
-          "data/pdfs/20260707_2301_China__Recent_engagement_with_key_officials_-_EG_C.pdf"
-        ],
-        [
-          "2026-07-08",
-          "EG US Daily: Anyone but Platner leaves Democrats better off",
-          "data/pdfs/20260708_0102_EG_US_Daily__Anyone_but_Platner_leaves_Democrats_b.pdf"
-        ],
-        [
-          "2026-07-08",
-          "EG France: Le Pen’s return to the race makes a far right victory",
-          "data/pdfs/20260708_0702_EG_France__Le_Pen’s_return_to_the_race_makes_a_far.pdf"
-        ],
-        [
-          "2026-07-08",
-          "EG Research Summary in Japanese: 2026年7月8日",
-          "data/pdfs/20260708_0815_EG_Research_Summary_in_Japanese__2026年7月8日.pdf"
-        ],
-        [
-          "2026-07-08",
-          "On the ground in China: Assessing the reset of China-US relations",
-          "data/pdfs/20260708_1003_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260707_1852_EG_PRACTICE_LETTER：上級幹部がブリーフィングチームに本当に求めているもの.pdf",
-        "data/pdfs/20260707_2045_EG_Daily_Brief__Oil_likely_to_dip_below_$70_amid_U.pdf",
-        "data/pdfs/20260707_2301_China__Recent_engagement_with_key_officials_-_EG_C.pdf",
-        "data/pdfs/20260708_0102_EG_US_Daily__Anyone_but_Platner_leaves_Democrats_b.pdf",
-        "data/pdfs/20260708_0702_EG_France__Le_Pen’s_return_to_the_race_makes_a_far.pdf",
-        "data/pdfs/20260708_0815_EG_Research_Summary_in_Japanese__2026年7月8日.pdf",
-        "data/pdfs/20260708_1003_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf"
+        "data/pdfs/20260710_0736_Research_Summary_for_Jul_9,_2026.pdf"
       ]
     },
     {
@@ -87,43 +123,43 @@
       ],
       "subjects": [
         [
-          "2026-07-07",
-          "Le Pen sentenced to house arrest: Live updates",
-          "data/pdfs/20260707_2107_Le_Pen_sentenced_to_house_arrest__Live_updates.pdf"
+          "2026-07-09",
+          "Italy leads push to weaken green rules in €2T EU budget",
+          "data/pdfs/20260709_1635_Italy_leads_push_to_weaken_green_rules_in_€2T_EU_b.pdf"
         ],
         [
-          "2026-07-07",
-          "Nigel Farage triggers by-election amid donations probe",
-          "data/pdfs/20260707_2238_Nigel_Farage_triggers_by-election_amid_donations_p.pdf"
+          "2026-07-09",
+          "Le Pen’s strategy to win French presidency: Bring Bardella",
+          "data/pdfs/20260709_1736_Le_Pen’s_strategy_to_win_French_presidency__Bring_.pdf"
         ],
         [
-          "2026-07-08",
-          "Nigel Farage has triggered a by-election — but his rivals won’t play",
-          "data/pdfs/20260708_0241_Nigel_Farage_has_triggered_a_by-election_—_but_his.pdf"
+          "2026-07-09",
+          "Document: Brussels wants public contracts to prioritize quality",
+          "data/pdfs/20260709_1759_Document__Brussels_wants_public_contracts_to_prior.pdf"
         ],
         [
-          "2026-07-08",
-          "She’s running: Marine Le Pen will stand for French presidency —",
-          "data/pdfs/20260708_0320_She’s_running__Marine_Le_Pen_will_stand_for_French.pdf"
+          "2026-07-09",
+          "The UK’s PM-in-waiting eyes a casual version of the special",
+          "data/pdfs/20260709_1906_The_UK’s_PM-in-waiting_eyes_a_casual_version_of_th.pdf"
         ],
         [
-          "2026-07-08",
-          "Le Pen comeback revives French far right’s biggest question: Can",
-          "data/pdfs/20260708_0406_Le_Pen_comeback_revives_French_far_right’s_biggest.pdf"
+          "2026-07-09",
+          "Document: EU plans electrification target, but no sign of cooling",
+          "data/pdfs/20260709_1926_Document__EU_plans_electrification_target,_but_no_.pdf"
         ],
         [
-          "2026-07-08",
-          "Trump administration reimposes sanctions on Iran oil sales",
-          "data/pdfs/20260708_0647_Trump_administration_reimposes_sanctions_on_Iran_o.pdf"
+          "2026-07-10",
+          "Pro Daily Headlines",
+          "data/pdfs/20260710_0031_Pro_Daily_Headlines.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260707_2107_Le_Pen_sentenced_to_house_arrest__Live_updates.pdf",
-        "data/pdfs/20260707_2238_Nigel_Farage_triggers_by-election_amid_donations_p.pdf",
-        "data/pdfs/20260708_0241_Nigel_Farage_has_triggered_a_by-election_—_but_his.pdf",
-        "data/pdfs/20260708_0320_She’s_running__Marine_Le_Pen_will_stand_for_French.pdf",
-        "data/pdfs/20260708_0406_Le_Pen_comeback_revives_French_far_right’s_biggest.pdf",
-        "data/pdfs/20260708_0647_Trump_administration_reimposes_sanctions_on_Iran_o.pdf"
+        "data/pdfs/20260709_1635_Italy_leads_push_to_weaken_green_rules_in_€2T_EU_b.pdf",
+        "data/pdfs/20260709_1736_Le_Pen’s_strategy_to_win_French_presidency__Bring_.pdf",
+        "data/pdfs/20260709_1759_Document__Brussels_wants_public_contracts_to_prior.pdf",
+        "data/pdfs/20260709_1906_The_UK’s_PM-in-waiting_eyes_a_casual_version_of_th.pdf",
+        "data/pdfs/20260709_1926_Document__EU_plans_electrification_target,_but_no_.pdf",
+        "data/pdfs/20260710_0031_Pro_Daily_Headlines.pdf"
       ]
     },
     {
@@ -136,13 +172,13 @@
       ],
       "subjects": [
         [
-          "2026-07-07",
-          "「ジェトロ・ビジネス短信」2026/07/07",
-          "data/pdfs/20260707_1849_「ジェトロ・ビジネス短信」2026_07_07.pdf"
+          "2026-07-09",
+          "「ジェトロ・ビジネス短信」2026/07/09",
+          "data/pdfs/20260709_1811_「ジェトロ・ビジネス短信」2026_07_09.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260707_1849_「ジェトロ・ビジネス短信」2026_07_07.pdf"
+        "data/pdfs/20260709_1811_「ジェトロ・ビジネス短信」2026_07_09.pdf"
       ]
     }
   ]
