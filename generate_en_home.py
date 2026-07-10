@@ -81,7 +81,7 @@ def translate_economist(bullets: list, section: str, client: anthropic.Anthropic
     prompt = (
         f"The following are Japanese summaries of The Economist's '{section}' section.\n"
         "Rewrite these in tight Economist-style English — authoritative, no wasted words, "
-        "max 15 words per item. Use the active voice. No bullet symbols.\n"
+        "max 20 words per item. Use the active voice. No bullet symbols.\n"
         "Return ONLY a JSON array of strings, one per item. No markdown fences.\n\n"
         f"{payload}"
     )
@@ -234,7 +234,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
 .eco-section:last-child { border-bottom: none; }
 .eco-sec-title { font-size: 13px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #9ca3af; margin-bottom: 10px; }
 .eco-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
-.eco-list li { font-size: 15px; line-height: 1.65; color: #2a2a3e; padding-left: 10px; border-left: 2px solid #e63c2f; }
+.eco-list li { font-size: 13px; line-height: 1.65; color: #2a2a3e; padding-left: 10px; border-left: 2px solid #e63c2f; }
 
 /* ── Footer ── */
 .site-footer { text-align: center; padding: 28px 20px; font-size: 11px; color: #9ca3af; margin-top: 32px; border-top: 1px solid #e5e7eb; }
