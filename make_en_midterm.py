@@ -63,6 +63,7 @@ REPLACEMENTS = [
         "font-family: 'Noto Sans JP', -apple-system, 'Hiragino Sans', 'Yu Gothic UI', sans-serif;",
         "font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;"
     ),
+    ("line-height: 1.65; font-size: 14px;", "line-height: 1.65; font-size: 16px;"),
     ("font-family=\"'Noto Sans JP', sans-serif\"", 'font-family="sans-serif"'),
 
     # ── Header ──
