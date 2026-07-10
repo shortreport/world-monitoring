@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 14:32:16",
+  "generated_at": "2026-07-10 15:02:58",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-10 14:31:50",
+      "last_checked": "2026-07-10 15:02:37",
       "items": [
         {
           "uid": "c43670bcef22",
@@ -1909,8 +1909,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-10 14:31:57",
+      "last_checked": "2026-07-10 15:02:46",
       "items": [
+        {
+          "uid": "bb330cca84a2",
+          "date": "2026-06-29",
+          "title": "Banned: Geely’s Polestar is no longer allowed to sell cars in the US - Top Gear Philippines",
+          "summary": "申し訳ありませんが、提供いただいたテキストにはタイトルのみで具体的な記事の内容が含まれていないため、要約できません。記事本文の詳細な内容をご提供ください。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHdib2t4Um1YdVRzeHl6a0tNaWh3OGdvS051blB0RklkUEViR2FMWmFybk5PMlVGbVdlclktVWVYejNYRWZyekZUSF8wX2hhVklycUV4SVZKZlpsejZSZ0dHX0NFamRObmJQU1A4ZWo4LS1nTlBFRG9ocUgyeFh0eFRLTjNpZVVCOUFuQWJxNWFadw?oc=5",
+          "added_at": "2026-07-10 15:02:44"
+        },
         {
           "uid": "cf542e4d16ec",
           "date": "2026-04-20",
@@ -3900,16 +3910,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZzdNZmdnenBQQ2ZkemtGRjNrdWpaTzJKSThlSkYzdDlrRnlzR0VwdXFiZ3d2OXYxTmNxcWo4WEZrYkhTenpKNVhnQVZXVklHOW84SktkNllvQkQwZDh5ZFNxbk9EaF9JSGZ3RDhuTUtDVnZpdFkwOFI5MlhIQnE1MUF6bVgtLUpHdlM3Sg?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "dd30d991d3ba",
-          "date": "2026-03-19",
-          "title": "Chinese Cars Get Cheaper And Better, So U.S. Automakers Want Them Banned Even If They're Made Here - Carscoops",
-          "summary": "米国自動車メーカーは、中国製の安価で高性能な自動車が市場で競争力を持つようになったため、米国内で製造された中国車であってもS.4429により規制・排除しようとしている。この法案は、中国企業による直接投資や生産活動を制限することで、米国自動車産業を保護することを目的としている。",
-          "source": "自動車部品業界",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GWHJhekwtM2phYVFGb1dSWnhzVWNGTVJBYTRvZUw4ak56aGN0RmtVUHpGTFpVQnQtdWp3TmRTeXJhcEdkc19XenNKSS0zbXlGZEhNX3BuTDZZamJ2MmRXSDI4U21iR2E5eW9OS2t3?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3920,7 +3920,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-10 14:32:16",
+      "last_checked": "2026-07-10 15:02:58",
       "items": [
         {
           "uid": "01cad41a2195",
