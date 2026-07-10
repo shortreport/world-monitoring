@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11 00:15:46",
+  "generated_at": "2026-07-11 00:35:54",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-11 00:15:23",
+      "last_checked": "2026-07-11 00:35:31",
       "items": [
         {
           "uid": "c43670bcef22",
@@ -1909,7 +1909,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-11 00:15:33",
+      "last_checked": "2026-07-11 00:35:38",
       "items": [
         {
           "uid": "560f60109fd6",
@@ -3920,8 +3920,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-11 00:15:46",
+      "last_checked": "2026-07-11 00:35:54",
       "items": [
+        {
+          "uid": "b5d104a09c13",
+          "date": "2026-05-28",
+          "title": "The Sixty-Ton Problem: Scandium Supply Chain Risk the US Defense Industrial Base - Modern War Institute -",
+          "summary": "スカンジウムは米国防産業基盤にとって重要な希土類元素であるにもかかわらず、年間供給量が約60トンに限定されており、中国がこの供給チェーンを支配することで米国の防衛産業に対する深刻なリスク要因となっている。米国はこの脆弱性に対処するため、スカンジウムを含む希土類元素の国内生産能力の確保と供給チェーンの多角化が急務である。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkZvNU9xSFN3X0FXUWdkTXZZcFJUUjJabkt5bDVKczNXRzlSUEtwRDFheFNncGVacllPbW9UbWtZVUZxamFCRlg0c2pLOFhOWWhjbUVOQ3g1UTU3bVhBNEdkNVJrVmx2Z3NQeFdESzllUlhCYmRMbG9BWHlod2EwZHRIRFZoQnpGN29fVE0wUzg2cnRuZk1ILXJaWjVCVnJybHZFNHk3RTFvQQ?oc=5",
+          "added_at": "2026-07-11 00:35:52"
+        },
         {
           "uid": "69dc14d3f6c5",
           "date": "2026-05-12",
@@ -5910,16 +5920,6 @@
           "source": "米国政府",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTU2c2g5SmJxcWxuMnMwcHgxdzUwaG0xZVJUQ3VaQ2N0cjQtRE1QUXU2TkdjdThpbXpta0lFUk94V1VzMWxCMUFLZWVzNlFUNk9HRmVUQmU3M0pieXVGNnRpTlpPRHFvd1k4WDYya0tNQ085MFl4dkVvOERRUDRzSzJKaVpjRmNnUndJcnJUNC0?oc=5",
-          "added_at": "2026-06-23 20:51:47"
-        },
-        {
-          "uid": "4acfafe98e9a",
-          "date": "2026-04-16",
-          "title": "US Senate narrowly overturns Minnesota mining ban, sending bill to Trump - Mining.com",
-          "summary": "米国上院がミネソタ州の鉱業禁止令をわずかな差で覆す法案を可決し、トランプ大統領に送付したもので、北米でのレアアース等鉱物資源採掘の推進が中国のレアアース供給依存からの脱却を目指す動きとして位置づけられます。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVNDb1RJT2o4OFBfRE11Mnpwajg1OE5NZW9BNFVrdzRDN01uWXFLNDlUUkUya1JnbndDcmpXM2VQOUpvbUdqUGk3aVJ5TXlIN3VKbkpOTmsyLUVCNzZ5YURrN25oSGtUWnZyaUttSDJtcHVqSWJWa3RRa3RfSktHaVNyRDBTTlNmcTFaRnVQN09FRU40bkJFaFU2dEZGMDg?oc=5",
           "added_at": "2026-06-23 20:51:47"
         }
       ]
