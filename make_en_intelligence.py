@@ -486,7 +486,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
 def render_card(em: dict) -> str:
     code, _     = sender_code(em.get("sender_norm", ""))
     title       = em.get("subject_en") or em.get("subject", "")
-    html_path   = em.get("html", "")
+    html_path   = em.get("html", "") or em.get("pdf", "")
     summary_pdf = em.get("summary_pdf", "")
     # docs/data/... → ../data/... (intelligence.html は en/ 下にある)
     def to_rel(p):
