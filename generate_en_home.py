@@ -245,11 +245,11 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Ne
 
 NAV_PAGES = [
     ("index.html",        "🏠", "Home",          "home",          False),
-    ("intelligence.html", "📋", "Intelligence",  "intelligence",  True),
-    ("trump.html",        "🇺🇸", "US / Trump",   "trump",         True),
-    ("theme.html",        "🔎", "Themes",         "theme",         True),
-    ("midterm.html",      "🗳️", "US Midterms",   "midterm",       True),
-    ("summary.html",      "📋", "Exec Summary",  "summary",       True),
+    ("intelligence.html", "📋", "Intelligence",  "intelligence",  False),
+    ("trump.html",        "🇺🇸", "US / Trump",   "trump",         False),
+    ("theme.html",        "🔎", "Themes",         "theme",         False),
+    ("midterm.html",      "🗳️", "US Midterms",   "midterm",       False),
+    ("summary.html",      "📋", "Exec Summary",  "summary",       False),
 ]
 
 
