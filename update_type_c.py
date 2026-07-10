@@ -355,14 +355,23 @@ def _load_en_intel_title_map() -> dict:
         return {}
     content = en_path.read_text(encoding="utf-8")
     title_map = {}
-    pattern = re.compile(
-        r"openFile\('[^']*/(\d{8}_\d{4}_[^']+)\.[a-z]+'[^>]*>.*?<div class=\"v2-title\">(.*?)</div>",
-        re.DOTALL
-    )
-    for m in pattern.finditer(content):
-        ts = m.group(1)[:13]  # "20260710_1023"
-        title = html_lib.unescape(m.group(2))
-        title_map[ts] = title
+    # <div class="v2-card" ... onclick="openFile('...TIMESTAMP_...','...')">
+    #   ... <div class="v2-title">FULL TITLE</div> ...
+    # </div>
+    # カードブロック全体を切り出してから、その中だけでタイトルを抽出する
+    card_pattern = re.compile(r'<div class="v2-card"(.*?)</div>\s*(?=\n<div class="v2-card"|</div>)',
+                              re.DOTALL)
+    ts_pattern   = re.compile(r"openFile\(['\"][^'\"]*?/(\d{8}_\d{4}_)")
+    title_pattern = re.compile(r'<div class="v2-title">(.*?)</div>', re.DOTALL)
+
+    for m in card_pattern.finditer(content):
+        block = m.group(0)
+        ts_m  = ts_pattern.search(block)
+        t_m   = title_pattern.search(block)
+        if ts_m and t_m:
+            ts    = ts_m.group(1)[:13]   # "20260710_1023"
+            title = html_lib.unescape(t_m.group(1))
+            title_map[ts] = title
     return title_map
 
 
