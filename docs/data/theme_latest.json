@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 13:54:44",
+  "generated_at": "2026-07-10 14:19:19",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-10 13:54:19",
+      "last_checked": "2026-07-10 14:18:59",
       "items": [
+        {
+          "uid": "c43670bcef22",
+          "date": "2026-07-10",
+          "title": "Tina's Talk | Morocco Insights II, Part 3: Europe's Reshoring Push Turns North Africa into a New Industrial Hinterland - Gasgoo",
+          "summary": "欧州産業加速法案により、ヨーロッパが製造業の国内回帰（リショアリング）を推進する中で、北アフリカ、特にモロッコが新たな産業後背地として台頭しており、地理的近接性とコスト優位性を活かした産業再配置が進行している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPU1EtRDg3b2JwZFROcWxOd0xaYWlQNzZfQ2ZRY1VOYVhyaTJYbm1FeGd2TW5YaUxKbTJfWG5UNEhFZzZnUHMtak9SV0tNVGlndEdUY05ocm9aT3FfRWszWmNlbFczS2c1d2ExLVJDdHMzQVkyMlFmdDMtbnJNMUFJXzRNTzhBODd4XzJGZnlZRGZEd2N4aUpMX2ZrbGhIQmthdHlKZXZaVm1ycVAyMDliV2RkNkxQWEtPcmVHa0lDNU5rNnVNQV9oYzA3VWxia1VkT3ROcjdaUlY0S0dqMFhiSUxUbnNPTHVpX3A1b28yX0EtQzgzNHZoekhBOUt1d3dqakpQRg?oc=5",
+          "added_at": "2026-07-10 14:18:57"
+        },
         {
           "uid": "4977f5395b5d",
           "date": "2026-07-09",
@@ -1899,7 +1909,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-10 13:54:29",
+      "last_checked": "2026-07-10 14:19:06",
       "items": [
         {
           "uid": "cf542e4d16ec",
@@ -3910,8 +3920,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-10 13:54:44",
+      "last_checked": "2026-07-10 14:19:19",
       "items": [
+        {
+          "uid": "93289e0ba26e",
+          "date": "2026-06-09",
+          "title": "US Launches $12bn Minerals Reserve to Counter China’s Africa Grip - NewsGhana",
+          "summary": "米国がアフリカにおける中国のレアアース・鉱物資源支配に対抗するため、120億ドル規模の鉱物備蓄プログラムを立ち上げた。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDhpLXExN3E1WEQzRVNydG5hWGFCT2FPb1hRbWVjbXhIcmJsVmhuZXR3R0pCZklCTXRRXzc1V2kybWYtQ3FYck1Nb1NqdzVfc0NDQkt4cDhlUUJsNWN3QzBpdWFjNDM4Z2Y3ZzFHXzdTN2xSWjhIMkI4SGlDZ2hZTGpjdDBXUjBmU1htN3hDZFdOdVJaRHljaA?oc=5",
+          "added_at": "2026-07-10 14:19:18"
+        },
         {
           "uid": "4b8619341ae6",
           "date": "2026-06-02",
@@ -5900,16 +5920,6 @@
           "source": "防衛産業",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qWUI4bzJtcWpBREZ5ck1hSnpCU2VORUlodXozamNQZ0hhTC1fSGhXcndpczduVzBOLXB1VTJScmRZalpKUDlVS1VvY28tVUxFQU1pdDBvbw?oc=5",
-          "added_at": "2026-06-23 20:51:47"
-        },
-        {
-          "uid": "29faf66ea2f7",
-          "date": "2026-06-23",
-          "title": "China tightens export controls on 10 U.S. defence and rare earth firms - 디지털투데이",
-          "summary": "中国が米国の防衛関連企業10社とレアアース企業を対象に輸出管理を厳格化し、これらの企業へのレアアースを含む戦略的物資の輸出を制限する措置を講じた。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODg0VUlzc2ZwR3VMOHkzSnFGRWtOOF8wUXMyTGRPTXNOSEZpZXN5cm1ra2xuRF94V2JTMmtzVmJrR1kxVS12N1hPZHRYb0Uxb25JbmlUXzhiMzRvNFE0SHV1Y2hJVWx1dk5ZMGNNVWV2THBLZFU2VkNTS1dUUTcyeHBYTnNNZVpKWmt3R2hPMnBKbW1GM1NjOU5aM3FZeXhKVTdiTlNuSTR6bXVCZmUxdkxidw?oc=5",
           "added_at": "2026-06-23 20:51:47"
         }
       ]
