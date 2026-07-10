@@ -79,48 +79,83 @@ def update_trump():
     print("\n=== [1/5] Trump ===")
     json_path = DB_DIR / "north america" / "trump_en_latest.json"
     data = json.loads(json_path.read_text(encoding="utf-8"))
-    date_range = data.get("date_range", "")
+    date_range  = data.get("date_range", "")
+    item_count  = data.get("item_count", 0)
 
-    # EN → JP 翻訳（key_points + セクション bullets）
-    def translate_bullets(bullets: list) -> list:
-        if not bullets: return []
-        texts = [b["text"] if isinstance(b, dict) else str(b) for b in bullets]
-        prompt = "以下の英文を自然な日本語に翻訳してください。箇条書き形式を維持し、JSONリストで返してください。\n" + json.dumps(texts, ensure_ascii=False)
+    SECTIONS = [
+        ("sns",                "📱", "SNS",          "Truth Social ポスト",          "#3C3B6E", ""),
+        ("press_conference",   "🎤", "記者会見",      "記者会見・メディア",             "#C81E32", ""),
+        ("whitehouse_official","📜", "大統領令",      "大統領令・ホワイトハウス発表",    "#B48200", ""),
+        ("wh_briefing",        "🎙", "WH会見",        "報道官ブリーフィング",            "#3C3B6E", ""),
+        ("video",              "🎬", "動画",          "YouTube・ホワイトハウス動画",     "#C81E32", ""),
+        ("cabinet",            "👥", "閣僚の動き",    "閣僚の主な動き",                 "#B48200", ""),
+        ("japan_impact",       "🇯🇵","日本への影響",  "日本への影響",                   "#C81E32", "japan-highlight"),
+    ]
+
+    def translate_list(texts: list) -> list:
+        if not texts: return []
+        prompt = ("以下の英文リストを自然な日本語に翻訳してください。"
+                  "箇条書き形式を維持し、JSONリスト（文字列のリスト）で返してください。\n"
+                  + json.dumps(texts, ensure_ascii=False))
         resp = client.messages.create(model=MODEL, max_tokens=2048,
-            messages=[{"role":"user","content":prompt}])
+            messages=[{"role": "user", "content": prompt}])
         raw = resp.content[0].text.strip()
         m = re.search(r'\[.*?\]', raw, re.DOTALL)
         if m:
-            try: return json.loads(m.group())
-            except: pass
+            try:
+                result = json.loads(m.group())
+                if len(result) == len(texts):
+                    return result
+            except Exception:
+                pass
         return texts
 
+    def build_li(bullets: list, texts_jp: list) -> str:
+        li = ""
+        for b, txt in zip(bullets, texts_jp):
+            url = b.get("url", "") if isinstance(b, dict) else ""
+            src = b.get("source", "") if isinstance(b, dict) else ""
+            src_tag = f'<span class="src-tag">{e(src)} ↗</span>' if src else ""
+            if url:
+                li += (f'<li class="has-link"><a href="{e(url)}" target="_blank"'
+                       f' rel="noopener noreferrer" class="bullet-link">'
+                       f'{e(txt)}{src_tag}</a></li>\n')
+            else:
+                li += f'<li>{e(txt)}</li>\n'
+        return li
+
+    # key_points
     print("  key_points 翻訳中...")
-    kp_en = [b["text"] if isinstance(b,dict) else str(b) for b in data.get("key_points",[])]
-    kp_jp = translate_bullets(data.get("key_points",[]))
+    kp_items = data.get("key_points", [])
+    kp_texts = [b["text"] if isinstance(b, dict) else str(b) for b in kp_items]
+    kp_jp    = translate_list(kp_texts)
+    kp_li    = build_li(kp_items, kp_jp)
 
-    def render_section(sec: dict) -> str:
-        title_en = sec.get("title","")
-        bullets_en = sec.get("bullets",[])
-        if not bullets_en: return ""
-        # タイトル翻訳
-        resp = client.messages.create(model=MODEL, max_tokens=200,
-            messages=[{"role":"user","content":f"次の英語タイトルを自然な日本語に翻訳（短く）: {title_en}"}])
-        title_jp = resp.content[0].text.strip()
-        bullets_jp = translate_bullets(bullets_en)
-        li_html = "".join(f'<li class="trump-bullet">{e(b)}</li>' for b in bullets_jp)
-        return f"""
-    <div class="trump-section">
-      <h3 class="trump-section-title">{e(title_jp)}</h3>
-      <ul class="trump-bullets">{li_html}</ul>
-    </div>"""
-
-    sections_html = ""
-    for sec in data.get("sections", []):
-        print(f"  セクション翻訳中: {sec.get('title','')[:40]}")
-        sections_html += render_section(sec)
-
-    kp_html = "".join(f'<li class="trump-bullet featured">{e(b)}</li>' for b in kp_jp)
+    # グリッドカード
+    active_count = sum(1 for key, *_ in SECTIONS if data.get(key))
+    grid_html = ""
+    for key, icon, badge, title_jp, color, extra_class in SECTIONS:
+        bullets = data.get(key, [])
+        print(f"  セクション: {badge} ({len(bullets)} items)")
+        if not bullets:
+            li_html = '<li class="no-data">この期間のデータはありません。</li>'
+        else:
+            texts   = [b["text"] if isinstance(b, dict) else str(b) for b in bullets]
+            jp      = translate_list(texts)
+            li_html = build_li(bullets, jp)
+        card_class = f"trump-card {extra_class}".strip()
+        grid_html += f"""
+    <div class="{card_class}" style="border-left-color:{color};">
+      <div class="trump-card-header">
+        <span class="trump-icon">{icon}</span>
+        <span class="trump-badge" style="background:{color};">{e(badge)}</span>
+        <span class="trump-card-title">{e(title_jp)}</span>
+      </div>
+      <ul class="trump-bullets">
+        {li_html}
+      </ul>
+    </div>
+"""
 
     content = f"""
 <div class="trump-wrap">
@@ -129,12 +164,27 @@ def update_trump():
       <div class="trump-banner-title">TRUMP <span>MONITOR</span></div>
       <div class="trump-banner-sub">対象期間: {e(date_range)}</div>
     </div>
+    <div class="trump-banner-spacer"></div>
+    <div class="trump-stats">
+      <div class="trump-stat"><div class="trump-stat-num">{item_count}</div><div class="trump-stat-lbl">Items</div></div>
+      <div class="trump-stat"><div class="trump-stat-num">{active_count}</div><div class="trump-stat-lbl">Sections</div></div>
+    </div>
   </div>
-  <div class="trump-section">
-    <h3 class="trump-section-title">🔑 今日のポイント</h3>
-    <ul class="trump-bullets featured-list">{kp_html}</ul>
+  <p class="section-label">Key Points</p>
+  <div class="trump-card featured" style="border-left-color:#B48200;">
+    <div class="trump-card-header">
+      <span class="trump-icon">⭐</span>
+      <span class="trump-badge" style="background:#B48200;">今日のポイント</span>
+      <span class="trump-card-title">本日のハイライト</span>
+    </div>
+    <ul class="trump-bullets">
+      {kp_li}
+    </ul>
   </div>
-  {sections_html}
+  <p class="section-label">詳細分析</p>
+  <div class="trump-grid">
+    {grid_html}
+  </div>
 </div>
 """
     path = JP_DIR / "trump.html"
