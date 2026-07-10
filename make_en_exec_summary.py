@@ -470,7 +470,7 @@ def git_push_and_deploy(msg: str):
     def run(cmd): subprocess.run(cmd, cwd=str(BASE))
     run(["git", "add",
          "docs/en/summary.html",
-         "docs/summary.html",
+         "docs/jp/summary.html",
          "docs/briefing_latest.pdf",
          "docs/data/briefings"])
     diff = subprocess.run(["git", "diff", "--staged", "--quiet"], cwd=str(BASE))
