@@ -604,6 +604,10 @@ def main():
         "--with-economist", action="store_true",
         help="Economist メールも処理する（毎朝 6:30 専用）",
     )
+    parser.add_argument(
+        "--no-generate", action="store_true",
+        help="generate_site.py の呼び出しと git push をスキップ（B/C 生成用）",
+    )
     args = parser.parse_args()
 
     print("=" * 60)
@@ -653,42 +657,43 @@ def main():
             cwd=str(BASE), capture_output=True,
         )
 
-    # ── サイト HTML 再生成 ───────────────────────────────────────────────
-    print("\n[サイト生成]")
-    result = subprocess.run(
-        [sys.executable, str(BASE / "generate_site.py")],
-        cwd=str(BASE),
-    )
-    if result.returncode != 0:
-        print("  [WARN] generate_site.py が失敗しました")
-
-    # ── git add / commit / push ─────────────────────────────────────────
-    print("\n[Git Push]")
-    subprocess.run(["git", "add", "docs/"], cwd=str(BASE))
-    diff = subprocess.run(
-        ["git", "diff", "--staged", "--quiet"],
-        cwd=str(BASE),
-    )
-    if diff.returncode != 0:
-        commit_msg = f"Home update: {NOW_STR}"
-        subprocess.run(["git", "commit", "-m", commit_msg], cwd=str(BASE))
-        push = subprocess.run(["git", "push"], cwd=str(BASE))
-        if push.returncode != 0:
-            # GitHub Actions が push の直前に割り込んだ場合のリトライ
-            # rebase は HTML 衝突が起きるため merge -X ours で自分優先マージ
-            print("  [WARN] push 失敗（リモート更新あり）、merge でリトライ...")
-            subprocess.run(["git", "fetch", "origin", "main"], cwd=str(BASE))
-            subprocess.run(
-                ["git", "merge", "-X", "ours", "origin/main", "--no-edit"],
-                cwd=str(BASE),
-            )
-            push = subprocess.run(["git", "push"], cwd=str(BASE))
-        if push.returncode == 0:
-            print("  [OK] push 完了。約1〜2分でサイトに反映されます。")
-        else:
-            print("  [WARN] push 失敗。git push を手動で実行してください。")
+    if args.no_generate:
+        print("\n[サイト生成 / Git Push] --no-generate のためスキップ（bat ファイル側で処理）")
     else:
-        print("  変更なし。スキップ。")
+        # ── サイト HTML 再生成 ────────────────────────────────────────────
+        print("\n[サイト生成]")
+        result = subprocess.run(
+            [sys.executable, str(BASE / "generate_site.py")],
+            cwd=str(BASE),
+        )
+        if result.returncode != 0:
+            print("  [WARN] generate_site.py が失敗しました")
+
+        # ── git add / commit / push ───────────────────────────────────────
+        print("\n[Git Push]")
+        subprocess.run(["git", "add", "docs/"], cwd=str(BASE))
+        diff = subprocess.run(
+            ["git", "diff", "--staged", "--quiet"],
+            cwd=str(BASE),
+        )
+        if diff.returncode != 0:
+            commit_msg = f"Home update: {NOW_STR}"
+            subprocess.run(["git", "commit", "-m", commit_msg], cwd=str(BASE))
+            push = subprocess.run(["git", "push"], cwd=str(BASE))
+            if push.returncode != 0:
+                print("  [WARN] push 失敗（リモート更新あり）、merge でリトライ...")
+                subprocess.run(["git", "fetch", "origin", "main"], cwd=str(BASE))
+                subprocess.run(
+                    ["git", "merge", "-X", "ours", "origin/main", "--no-edit"],
+                    cwd=str(BASE),
+                )
+                push = subprocess.run(["git", "push"], cwd=str(BASE))
+            if push.returncode == 0:
+                print("  [OK] push 完了。約1〜2分でサイトに反映されます。")
+            else:
+                print("  [WARN] push 失敗。git push を手動で実行してください。")
+        else:
+            print("  変更なし。スキップ。")
 
     print("\n[完了]")
 

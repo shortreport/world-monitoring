@@ -659,25 +659,47 @@ def update_summary():
 # ─────────────────────────────────────────────────────────────
 
 def main():
-    print(f"Type C 更新開始: {DATETIME_JP}")
-    update_trump()
-    update_theme()
-    update_home()
-    update_intelligence()
-    update_summary()
+    import argparse
+    parser = argparse.ArgumentParser(description="Type C updater")
+    parser.add_argument(
+        "--only",
+        choices=["trump", "theme", "home", "intelligence", "summary"],
+        default=None,
+        help="指定したページのみ更新（省略時は全ページ）",
+    )
+    parser.add_argument(
+        "--no-push",
+        action="store_true",
+        help="git commit/push をスキップ（Actions ワークフローから呼ぶ場合）",
+    )
+    args = parser.parse_args()
 
-    print("\n=== git commit & push ===")
-    cmds = [
-        ["git", "add", "docs/jp/"],
-        ["git", "commit", "-m", f"Update Type C: {now_jst.strftime('%Y-%m-%d %H:%M JST')}"],
-        ["git", "push", "origin", "main"],
-    ]
-    for cmd in cmds:
-        r = subprocess.run(cmd, cwd=str(BASE), capture_output=True, text=True)
-        if r.returncode == 0:
-            print(f"  [OK] {' '.join(cmd[:2])}")
-        else:
-            print(f"  [ERR] {' '.join(cmd[:2])}: {r.stderr.strip()[:100]}")
+    print(f"Type C 更新開始: {DATETIME_JP}")
+
+    page_map = {
+        "trump":        update_trump,
+        "theme":        update_theme,
+        "home":         update_home,
+        "intelligence": update_intelligence,
+        "summary":      update_summary,
+    }
+    pages = [args.only] if args.only else list(page_map.keys())
+    for p in pages:
+        page_map[p]()
+
+    if not args.no_push:
+        print("\n=== git commit & push ===")
+        cmds = [
+            ["git", "add", "docs/jp/"],
+            ["git", "commit", "-m", f"Update Type C: {now_jst.strftime('%Y-%m-%d %H:%M JST')}"],
+            ["git", "push", "origin", "main"],
+        ]
+        for cmd in cmds:
+            r = subprocess.run(cmd, cwd=str(BASE), capture_output=True, text=True)
+            if r.returncode == 0:
+                print(f"  [OK] {' '.join(cmd[:2])}")
+            else:
+                print(f"  [ERR] {' '.join(cmd[:2])}: {r.stderr.strip()[:100]}")
 
     print(f"\n完了: {datetime.now(JST).strftime('%H:%M JST')}")
 
