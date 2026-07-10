@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11 00:10:27",
+  "generated_at": "2026-07-11 00:15:46",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-11 00:10:05",
+      "last_checked": "2026-07-11 00:15:23",
       "items": [
         {
           "uid": "c43670bcef22",
@@ -1909,8 +1909,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-11 00:10:14",
+      "last_checked": "2026-07-11 00:15:33",
       "items": [
+        {
+          "uid": "560f60109fd6",
+          "date": "2026-05-07",
+          "title": "Trump Heads to Beijing With Chinese EVs Closing In on US Borders - eletric-vehicles.com",
+          "summary": "中国製EVが米国市場に急速に浸透する中、トランプ前大統領が北京訪問を予定しており、S.4429法案は中国製コンポーネントを搭載した外国製EVの米国への流入を規制する必要性を強調している。同法案は国家安全保障上の懸念から、中国製バッテリーや半導体などの重要部品を含む車両の市場参入を制限する措置を想定している。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa1pTRmRLazRfWS1uWTBnSC1jOWhiX3JxcGxsbnVwdGhIRzZSdVN4clJRWlkwVHBsWjdrWU5yMzNxSUxSWllSeUNYcXFhN0xwcF9HU0o3UW4wZFNNY1k3ajhsT2Nxb2d2NERrUDhfOHdySWo2SHhMa0N6RlFDMklKaDRQd3FJSWMzNmZHby1DMTdLRjV1TXdlc0RfSnRWekI3N2h6SA?oc=5",
+          "added_at": "2026-07-11 00:15:31"
+        },
         {
           "uid": "b5aa33394e84",
           "date": "2026-07-10",
@@ -3900,16 +3910,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUEhlZnFHQ296MzZiR1NlZnJZc0hpOUR6aUpzeFpMOEVrNnFHX1pSeUxTVzJ5QlZfbWtHXy00b0RSRTRONHFpWGt1Smp1NUN4cEhMdU9pUmFral9LSW1feVFNMzM2WURVLTI4RE9wVnJ6NmFmbjFqNUZxcEg5UHNKX21yQ3BuQ1B2MXBJalFhZTJBYTEtek9ZZ0Y0ek1xVjZ5dVZJTkYyYnE1RFVkeExLZWtR?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "58ae8623bcc9",
-          "date": "2026-04-06",
-          "title": "Senators Call On Trump To Bar Chinese EV Factories, Cars In U.S. - Ford Authority",
-          "summary": "米国の上院議員がトランプ大統領に対し、中国系EV工場の建設と中国製EVの米国への流入を禁止するよう求めており、この立場はS.4429に基づく自動車産業セキュリティの強化施策と一致しています。同法案は外国資本による戦略的な自動車産業への支配を防ぎ、米国の自動車産業と国家安全保障を守ることを目的としています。",
-          "source": "自動車メーカー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONUUtNjBna29jSGMzU19ab191c0h4M0swUXM2WkpTaUM0b1VrQ204WjlSSzktQ1JaYTFleXRHTUs4b01MM0dHVHkweGZYVHlBek1FQVVqWmtIVjRKdDhWZkcwTWZTWExLbkZNSnZ5YVVlU184Z05tZy1EUnhDMzgzcjRpRlFPNDBCLVAtSXQ1c2lmc2c5emFlcWtUWUIzZw?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3920,7 +3920,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-11 00:10:27",
+      "last_checked": "2026-07-11 00:15:46",
       "items": [
         {
           "uid": "69dc14d3f6c5",
