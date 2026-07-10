@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 19:24:14",
+  "generated_at": "2026-07-10 20:35:26",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-10 19:23:54",
+      "last_checked": "2026-07-10 20:35:05",
       "items": [
         {
           "uid": "c43670bcef22",
@@ -1909,7 +1909,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-10 19:24:01",
+      "last_checked": "2026-07-10 20:35:12",
       "items": [
         {
           "uid": "bb330cca84a2",
@@ -3920,8 +3920,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-10 19:24:14",
+      "last_checked": "2026-07-10 20:35:26",
       "items": [
+        {
+          "uid": "69dc14d3f6c5",
+          "date": "2026-05-12",
+          "title": "Chinese rare-earth miners bullish ahead of Trump-Xi summit - Nikkei Asia",
+          "summary": "中国のレアアース鉱山採掘企業は、トランプ前大統領と習近平国家主席の会談を控え、中国政府による輸出管理強化や戦略物資としての位置づけの強まりにより、経営環境の好転を見込んでいる。米中関係の緊張が深まる中で、レアアースの供給制限を通じた中国の交渉カードとしての価値が高まることへの期待が反映されている。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkdNbUNhUXJENXFYdU81WXVCX2pKTzlxU2VVWWdBbk8yUW9JSGZ0Sy1wQm4ybkxfYnRwZ2lFMHZoV0FhOXFNVUs1OUxhWXFlX1pwbU9GYzBHWDNHNHJYOTVKWWdHMzdjVmM0UEgyT1kycHA3ZXVMN0VHT3hmRkhrQzk5SDViUGh1d083X0Q4T0NCazVhcTFfNGFjZEVYbzNRYkZn?oc=5",
+          "added_at": "2026-07-10 20:35:24"
+        },
         {
           "uid": "24f9956ca87e",
           "date": "2026-05-20",
@@ -5910,16 +5920,6 @@
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVNDb1RJT2o4OFBfRE11Mnpwajg1OE5NZW9BNFVrdzRDN01uWXFLNDlUUkUya1JnbndDcmpXM2VQOUpvbUdqUGk3aVJ5TXlIN3VKbkpOTmsyLUVCNzZ5YURrN25oSGtUWnZyaUttSDJtcHVqSWJWa3RRa3RfSktHaVNyRDBTTlNmcTFaRnVQN09FRU40bkJFaFU2dEZGMDg?oc=5",
-          "added_at": "2026-06-23 20:51:47"
-        },
-        {
-          "uid": "43f44e63affe",
-          "date": "2026-04-09",
-          "title": "Germanium Mining joins Critical Minerals Institute - Mining.com.au",
-          "summary": "ゲルマニウムの採鉱企業が重要鉱物研究所に参加したというニュースで、中国がレアアース・レアメタルの輸出を管理・制限する中、代替供給源やサプライチェーン多様化の構築を求める国際的な動きが加速していることを示唆しています。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrQUU1dG5HTDVWTm1zeTBYX1hmUEphbW5ITHIwc3NmVEY1NGFIZ1A1X1Y3VXEzdWl5VEUta01qWTBySnRObVZGNjdfSnU5THoyMFEyWWJBWDRVaGdiRHZqZDhZdjVfM2lVUXIybUFoMnM4UVpPQ0xLQ2o4b1lodw?oc=5",
           "added_at": "2026-06-23 20:51:47"
         }
       ]
