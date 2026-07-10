@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 16:54:05",
+  "generated_at": "2026-07-10 18:07:00",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-10 16:53:47",
+      "last_checked": "2026-07-10 18:06:35",
       "items": [
         {
           "uid": "c43670bcef22",
@@ -1909,7 +1909,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-10 16:53:54",
+      "last_checked": "2026-07-10 18:06:42",
       "items": [
         {
           "uid": "bb330cca84a2",
@@ -3920,8 +3920,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-10 16:54:05",
+      "last_checked": "2026-07-10 18:07:00",
       "items": [
+        {
+          "uid": "98e74252c965",
+          "date": "2026-07-09",
+          "title": "Competing for inputs: how the European Union can improve critical raw materials supply security - Bruegel",
+          "summary": "EUは中国によるレアアース等の重要鉱物の輸出管理リスクに対抗するため、国内採掘・リサイクル強化、サプライチェーン多角化、戦略的備蓄を組み合わせた包括的な供給安全保障戦略が必要とされている。中国のレアアース輸出規制への依存を減らすために、EUは採掘・精錬・加工の各段階における独立性確保と国際的な供給パートナーシップの構築が重要である。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGdPWVNpNDBQVHNlSi05WDlwUzJ3aUpBeVhKRlhPZnRydzZoTzZweTVmQ2JrZmFYazNlelVQaHdPX2ZjRjhqQ0FLRDlvNWNDOExBU3U5SjBQVXdkdjFodERxb0pUZmI3dHRfSGRqemZDQnFWMGtDaEVsNDVRMVpENl9VWDhJSGtqVjRvS2JJSG9RZDN0TEV1OXJZcDhiMFRsbUxLS2tPMUJOTDVYT0owZW5sZ1hqcHI4Sks1RUc0ekw?oc=5",
+          "added_at": "2026-07-10 18:06:55"
+        },
         {
           "uid": "6d94431105c1",
           "date": "2026-07-08",
@@ -5910,16 +5920,6 @@
           "source": "業界団体",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT1o0MFE0X3FQTng3bFN1Vlk3clRpNkpGLUJnYVc4MGNyTXM5ckxsbU5HS2RydWVXWF9hT3hzXzFhQno3cjIwTXpiXzdra2JkOFVoUUVvNDA1NE1mblR6RXYzdzdBdnVzUWJFYnBHQnJPTWRWZWxSbkRFZXAzalhER1ZYbmJNQmdndUZfSVJZQ2ZhUHlpLUcwdXFFbDJ6Q25PanlBTHEyMEFRUEVKMG9OdHRqeHUwSEtkdlN5Z2VfVk40QQ?oc=5",
-          "added_at": "2026-06-23 20:51:47"
-        },
-        {
-          "uid": "e95d8dec109c",
-          "date": "2026-06-22",
-          "title": "China puts Rinehart-backed rare earths producer on export control list - AFR",
-          "summary": "中国がオーストラリアの鉱業王リネハートが支援するレアアース生産企業を輸出管理リストに登録し、戦略的資源の流通統制を強化している。これは中国がレアアースの供給支配を通じて国際的な影響力を拡大する動きと位置付けられる。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGFwNDF2OURPekJMOUI5dU9Xc2JjalVVMjF3U0NxazNvMDIxS25HelpkVHhuZ1d6elI5bndqS1JaQjRpcS1uTU01bDNxLWxKd2pzX01SeEUzclFwNXAwNXp2WFpuMEFodGlYVEJsU29ob1VWQlU3b2t1bXRVOFZsTjhndk8wNkdnRC04YjB0VDVMb0ozeXF6dGJwRExkbW81MnVwOUpfTDVqdUVxUjZZWTdXR3F1M1hw?oc=5",
           "added_at": "2026-06-23 20:51:47"
         }
       ]
