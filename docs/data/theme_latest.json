@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 11:33:17",
+  "generated_at": "2026-07-10 13:03:14",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-10 11:32:55",
+      "last_checked": "2026-07-10 13:02:45",
       "items": [
         {
           "uid": "4977f5395b5d",
@@ -1899,8 +1899,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-10 11:33:04",
+      "last_checked": "2026-07-10 13:02:58",
       "items": [
+        {
+          "uid": "80baf8162f76",
+          "date": "2026-04-22",
+          "title": "UK assessing risks from Chinese electric vehicles - UK Defence Journal",
+          "summary": "英国は中国製電動車両がもたらすセキュリティリスクを評価しており、これは米国の S.4429 法案と同様に、外国製車両のサイバーセキュリティと国家安全保障上の脅威を懸念する動きの一環として位置づけられています。両国とも、接続機能を備えた車両が個人データや重要インフラへのアクセスポイントになることを警戒しており、供給チェーン管理と技術的な検証の強化を求めています。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVWhpc1prb0dFbThPaEEyMTIwNHFXR1dSTzZZYkJrTVFycE50NFpLZ0o5ZmRGNHdaVnRuV1Fpc05MZUNmT01rTDRfVUs1cGtwMmtTc1FfY1d2ZGNyYzF1blVWUmRGbi11dFZoTXcxNWppbnB1SU5xWllLR1hCMllJUnRGNEV2d2x6c3c?oc=5",
+          "added_at": "2026-07-10 13:02:54"
+        },
+        {
+          "uid": "7441fb24c818",
+          "date": "2026-04-30",
+          "title": "Bipartisan Bill Targets Chinese-Made Vehicles And Connected Auto Technology In U.S. Market - International Business Times",
+          "summary": "本法案は、中国製自動車と接続自動車技術による国家安全保障上の脅威に対処するため、中国の自動車メーカーの米国市場参入を制限し、接続車両技術に関する安全基準を強化することを目的としています。共和党と民主党の超党派による提案で、米国の自動車産業と国防関連のサプライチェーン保護を重視しています。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOFpJNzhULXlGcHUzREdjWVdMazR0d0hLbGZlWWNKeFhiTmpjOGFaNjhtNzc1aXFwNU00U3FEZWJMWkp4WU84b0NKQ19zZTJKNjhVWVZGWlc1aEljYkFOM2dOOVhwMGVBeXU3ZFhwMFU1bGlOdlZ2TnlWVm14NzE2MUR2aTl1T2l2aVp0V2JVNHVBTG5RQ0dncHpTMzQ3QzRIbmV0VGFlbTRjcGQwYUJFWWpKMA?oc=5",
+          "added_at": "2026-07-10 13:02:54"
+        },
         {
           "uid": "ae66c4414276",
           "date": "2026-05-15",
@@ -3880,26 +3900,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZOVZVaHIyajFDbnhBc3VtQmxRV1c2V1BmZ1F3a016WXBBdDNIZlJJOUp5TGJPRTVKWnFnaHc1SkxZNG5jVFlwS09ucDdWRXFIb0xxVzlHSlBIX2NoR19tR0J3dWhiNFlpZmdJ?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "b001eeaa0c75",
-          "date": "2026-04-27",
-          "title": "Vehicle Security Systems Market Size, Share | Industry [2034] - Fortune Business Insights",
-          "summary": "記事はタイトルのみで本文内容が提供されていないため、具体的な要約ができません。「米国接続車両安全保障法（S.4429）」に関連する本文の提供をお願いします。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSmZzQ2pUbkt2aE9KcWFKa2dsVzUycGJnTUQyOVlIWmlYWVNiT0psYXFMTmNCNkllaHVuaWctbkY5SXZlNUQ2aExndG5QT1lOWjdyT0hEc0d0NWphOUdycjFUaHhLZW0wNnFkUnp3VmpJMnNNeVNwcjdiX3NFZG9YWHloaw?oc=5",
-          "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "072e06c465d0",
-          "date": "2026-05-18",
-          "title": "Bipartisan bill aims to completely ban Chinese cars from U.S. market - Global Fleet",
-          "summary": "米国の超党派法案S.4429は、中国製自動車の米国市場への参入を完全に禁止することを目的としており、国家安全保障上の懸念に基づいて中国自動車メーカーの米国での販売・製造を厳しく制限する内容となっています。",
-          "source": "中国政府",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdFNMd2ZGZWVDZ0lTZkFjbWdCZ1FYTzBSclN6cDBBaVFIT0JUa3R1NjIzTXgtUTFLekJUNFlyalFQMXNvQmFTazlrQ0xqNTdaMFVwMFBhMms5X2xBY1lIWWtXS09lc1E4R3FJdVhuNzVjUjRPVkU1TjMzRHJlTFVFWkJnS0M2Qm9VTUpQclZOV1hsSk8zLTRXVmFFdU02STVCUW51dzhVY2YwWDV6Qk80ZURkNlZDU1p0Y1ZacVhDb1NSQzNpLW0xc0M1bTlMNUZBMW00?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3910,7 +3910,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-10 11:33:17",
+      "last_checked": "2026-07-10 13:03:14",
       "items": [
         {
           "uid": "4b8619341ae6",
