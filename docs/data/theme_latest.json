@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11 08:59:52",
+  "generated_at": "2026-07-11 16:13:26",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-11 08:59:07",
+      "last_checked": "2026-07-11 16:12:56",
       "items": [
+        {
+          "uid": "fe4856b1c93e",
+          "date": "2026-07-02",
+          "title": "What’s next in Europe? – Agenda of European climate and energy policy - Clean Energy Wire",
+          "summary": "欧州産業加速法案（IAA）は、欧州のグリーン産業競争力を強化するために、クリーンエネルギー技術と産業の急速な展開を加速させることを目的としています。この法案は、EU域内での再生可能エネルギーおよびクリーンテック産業の拡大を支援し、気候目標達成と経済成長を両立させるための重要な政策枠組みとなります。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWFRlVnBwbTV2TVZUM0hPaTZ0S09SMFp3TXJNM3hIenp6M1lDN2RkTmVuQmNWLWhqUEJwbWRqRmVyNVVkVURhYzFEalU5SFY2WTRLdmRiS183WGtITk5WQnpEc1Y4akRDTzluMnRyZWlOZUFTd1FmejMyNDZoVWxpSGZMQktRcDZrdjdkSTJzOU9VZGN3N0pTNjJtTlZUUFlkelh0LTdsQQ?oc=5",
+          "added_at": "2026-07-11 16:12:55"
+        },
         {
           "uid": "c43670bcef22",
           "date": "2026-07-10",
@@ -1909,7 +1919,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-11 08:59:26",
+      "last_checked": "2026-07-11 16:13:05",
       "items": [
         {
           "uid": "300b280f99cf",
@@ -3920,8 +3930,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-11 08:59:52",
+      "last_checked": "2026-07-11 16:13:26",
       "items": [
+        {
+          "uid": "ce2f346b4b47",
+          "date": "2026-06-23",
+          "title": "China moves against US rare earth, defence firms in ‘calibrated’ response to Pentagon blacklist - Asia News Network",
+          "summary": "中国は米国防総省のブラックリスト指定に対抗して、米国のレアアース企業や防衛関連企業に対する輸出管理を強化する「段階的な報復措置」を実施している。この措置は、米国による中国企業への制裁に対する中国側の対抗手段として機能している。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1dFU3EzSklyQ21MdGNHdC03YjM3Z2FBbzUwcUJhMkpqUjBCYmVvWjhMSThRT05GdkNLSGRXRnNsbldXaFFsblBZWndIeW9BZ1hKM0tRR1NXSDJIU25feVQwVEkxTU41X05TV29tYkRGeUtSNEVzdEVwUlAyWmhrTVlZYlRzSHhEQ3dqTVBOSEVyWlB3ZGpLX3RUSWxEYUItY3JmUndzeXZYbVNOWjIwZXhGS3Z3UW5ZWVE?oc=5",
+          "added_at": "2026-07-11 16:13:21"
+        },
+        {
+          "uid": "9722c0239e97",
+          "date": "2026-06-22",
+          "title": "China Rare Earth Index Hits 259.5-But This Is Not Free-Market Price Discovery - Rare Earth Exchanges",
+          "summary": "中国レアアース指数は259.5に達したが、この価格は自由市場による価格発見ではなく、中国政府の輸出管理政策による統制的な価格形成を反映している。中国が戦略的にレアアース輸出を管理・制限することで、国際市場の価格メカニズムが機能していない状況を示唆している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamRsc1hFclk5VlFYeXFyWjd1X2FFSE5qMmFkbmVxRHVWQ0pVTkVPZ2FsdUpDM1ZFTXJpb0hqNGs2R3JRRllYRksyaXZDNDVxOHhkRWpqMGFmTXZWWmRtbWFOaEExRWJHVnNQYzR6cTk2WW9FS0hKX2JtLXVtWHB0SWwwdlgzTnRIQmRtam4xNEkyMDZITnVNc25MWmI2TnNfanVDSzdMY3czYzdfSzVaVkh2UW0?oc=5",
+          "added_at": "2026-07-11 16:13:21"
+        },
+        {
+          "uid": "7132966d1284",
+          "date": "2026-04-28",
+          "title": "Global Rare Earth Supply Chains Still Concentrated as China Suspension Deadline Looms - IndexBox",
+          "summary": "中国はレアアース輸出の大部分を占める支配的地位にあり、2024年の輸出停止期限が迫る中でも、世界的なサプライチェーンは依然として中国に極度に依存した集中状態が続いている。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGE3d2hwejd0TzFFYURfYWFyTU4xeXBNN19vM1pvaGpYVk5DTjNxbXoyTnBjUWpVT191RkNPeENHb3lHM2JUblMyS2hkX1pndFZSUmFnUGR4bS1LZEprN3lxcktIV3U1SXZfR2FvU005QU4zT1Z3alJFaGZpYmM3SjZTNV9LTE1vRVZDVUdYdVRRQU5ncVk4RVk1S0pESGxTLXRFS2FnbnlyWHFCOVd3aWRDV3ZOdw?oc=5",
+          "added_at": "2026-07-11 16:13:21"
+        },
         {
           "uid": "7bb92f20455a",
           "date": "2026-06-28",
@@ -5891,36 +5931,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHB6azN0N1VFeEZ5cUdIc0l4T3JURjhfdGNHY2E1aW9yWWZnTFhTNEE4SUZVSHdjZ2p0Q3hlak1QM2M5WE41SkVyTkRZcHNoUWN3Z001QzlQS0VKdEpEc0NxUUdvcjVBcUExSXFyTGd3c19PWE5CZ25NLUd6YVJBcGp1N3pHLXMxb1gyLUd5Z0NNdjVrY2tyRExVUlE5Wl91YWp4cjVWWWpDQ08xeG9ycFZjTXFvajRx?oc=5",
           "added_at": "2026-06-24 04:33:24"
-        },
-        {
-          "uid": "9ef3e83a0ca7",
-          "date": "2026-06-22",
-          "title": "China Hits Back: MOFCOM Restricts Rare Earth Exports to 10 US Firms【SMM Analysis】 - Shanghai Metals Market",
-          "summary": "中国商務部（MOFCOM）は米国の10社に対するレアアース輸出を制限する報復措置を実施し、米国によるハイテク産業への規制に対抗している。この措置は、米国の対中制裁に対する中国の戦略的な応酬として機能している。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmdMRWZ2YTJaRnRqaS1yNXllYU1nWk44QTVkNDFWSG9ycmZUTkwwOFFoT2ljNUJXTU5BdXJyRElwd2s0NUFLbWVjV1N6eUp6cXNVWHViSFhoODcyUnRMbG96NDZHdmhKbUtGY3VVdXpVc0ViYmNYSWVyZFZvdXV0ZFpSNDZwaTFSUUVCdThlRFdjeEotMWFBNGVIUE5scXNCNERPRHdsMzVmYmxwVWFYV3BndTB6dl9PVHdrWGR2azQ?oc=5",
-          "added_at": "2026-06-24 04:33:24"
-        },
-        {
-          "uid": "3bb8d297a180",
-          "date": "2026-06-22",
-          "title": "China hits US rare earths, defense firms with export and procurement bans - CHOSUNBIZ - Chosunbiz",
-          "summary": "中国は米国へのレアアース輸出禁止と防衛関連企業の調達制限を実施し、米国による対中制裁への報復措置を強化した。この措置は米国のハイテク産業と防衛産業に対する中国の規制的対抗手段である。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdXgyZXBLX2ROeHNxMnlDMDlzaXNVV1MxS0JfN195bjN3ek1wUUdEX1BuVktTTDU5R3h1MjFCR2lleEZEN1BUbnNDNU04SkNLdTVWSjZDNmpCTlNIQ3VsMmJjaUhmdTYySHdSVTR3ZU00aHdUckVvZnRCN2lKT2hDQlQ4T1JOdE9n0gGcAUFVX3lxTFBYMk1odmRzLXNJbE5rMWNoSS1pTUQ2NFNKT3cyc1d3ODZZQUlMOV9kbXZLa0xDb08tQnFGMS13S1lJNVpqY1QtTUdnZlJvdFRjdGk0R083b0k0MTNIM00xVExjeGd3VGdkZ3gxM1ZoVzhwdUF1SUk4YmN6a0YyZDJZNmpIVUtfMlBOcnA4aURqQ0dNWUpiWE9haS1CeA?oc=5",
-          "added_at": "2026-06-23 20:51:47"
-        },
-        {
-          "uid": "cf58bfbb2fa4",
-          "date": "2026-04-15",
-          "title": "Rare Earth Monopoly: China's Strategy & New Western Processing Plant - News and Statistics - IndexBox",
-          "summary": "中国はレアアース採掘および加工において圧倒的な市場支配力を持つ独占的地位を維持しており、西側諸国はこの依存を減らすため新たな加工施設の構築を進めている。",
-          "source": "中国素材大手",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdjBNcm9JNUN4UUZuX09QZVZGUEo4Unh5OWpESUNocnBEU3ZVakZ3WmlERUhXalgxaUhpY0lRWFpOdzZYOEkybGE1Qmo4SFhsS1NnNG1JSUVid0RSWnNveGdpYzlHZkJsMElEUjBxRmJaQU5vYWRpMVZSZEVIVVhqdmtYQnpwWjRkV0toajQ1bmJhbzRaLTlhaF9MSlhwaFdmWmdRclZRaTZXeURGVjJRUnZnSjZOZw?oc=5",
-          "added_at": "2026-06-23 20:51:47"
         }
       ]
     }
