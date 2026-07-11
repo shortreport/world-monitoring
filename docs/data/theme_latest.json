@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11 01:10:53",
+  "generated_at": "2026-07-11 08:59:52",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-11 01:10:23",
+      "last_checked": "2026-07-11 08:59:07",
       "items": [
         {
           "uid": "c43670bcef22",
@@ -1909,8 +1909,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-11 01:10:36",
+      "last_checked": "2026-07-11 08:59:26",
       "items": [
+        {
+          "uid": "300b280f99cf",
+          "date": "2026-07-10",
+          "title": "US Senate Proposes Permanent Ban on Chinese Connected Vehicles - Mexico Business News",
+          "summary": "米国上院は、中国製コネクテッドカーを永久に禁止する法案を提案しており、これは国家安全保障上の懸念からデータ漏洩やサイバー攻撃のリスクを軽減することを目的としています。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaTM0MDVOVFF6X2c0X2ctU0FKN3JWTGVybE10bjZlMllXeklmdFU0bTNUVjgxT25qQVlaTjlrU1dvZk1TY29BYllhVzBFVVlnXzMwU25BZjU3RFpRQWZMNlM3RGNoNHlJaFVvcHJ6RThoMjFTNGFueWJ5ZEF6VXlGcF9WeW1jQnp2aGdYMDhzTGpKSnFjdVVad3l5ZEsyc185Y1dndW9n?oc=5",
+          "added_at": "2026-07-11 08:59:20"
+        },
+        {
+          "uid": "c5068439d3e5",
+          "date": "2026-06-03",
+          "title": "Tesla reinstates graphite supply agreement with Syrah Resources - Benchmark Mineral Intelligence",
+          "summary": "テスラがSyrah Resourcesとの黒鉛供給契約を再開したことは、S.4429法で求められる米国内のサプライチェーン強化に対応し、EV電池生産に必須の重要鉱物の国内調達確保に向けた動きである。この契約再開により、テスラは中国依存を低減し、法案で推奨される友好国との協力による鉱物調達体制の構築を進めている。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVZFQk5WSEpOX0JFUml4Y2RvYTZpeHdoSXFoZkxVaFVfSWhFNndaWF9CdzdRRTBCX0NHZENrUnUtZTVrYUtxSE10OHpZejBkN2pXYVJxcTFWRzVxNGY2OXZUTFV6Ym5LR2Q0bnV6SVoxbUJmeUx1TWxfNTMwWEotNW9DaDFidlJNM2xzWmNLbnlSQllIVkhKZ1VneHRtN0dubmgwdUNUZDhHNml5?oc=5",
+          "added_at": "2026-07-11 08:59:20"
+        },
         {
           "uid": "560f60109fd6",
           "date": "2026-05-07",
@@ -3890,26 +3910,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWG5lX0xNZjFfbzJZRzgwVHZCMkwxaEZmUk84WXpmT25maFF0WEs0aC04S3hoNXg3cXh3Nk1mRjdocFFWZVByQ1RkQWVUT0lNdzM4LU9MOUxKMnEtdlJkSk9BdHZPdFg5U0E1OTZJU2pCbjNLMDRWcHAyVWdseDVCM2MxaHE1UmVCb0Z6bl9RaXI1cEtINS1yZWpjZUhhWjJENlliUldxdnRfRTFhSk1qUEdqcWh3NXNXOWtQdXp5NElSYnM?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "56044db0e4a0",
-          "date": "2026-03-30",
-          "title": "US Automakers Outing Chinese Code from Connected Cars Per Federal Anti-Chinese Code Rule - AUTO Connected Car News",
-          "summary": "米国の自動車メーカーは、S.4429法による規制要件に従い、接続車両から中国製コードを排除する措置を進めており、国家安全保障上の懸念に対応している。この法律は、接続車両に搭載される中国関連のソフトウェアやコードの使用を制限し、米国の自動車産業における外国の影響力排除を目的としている。",
-          "source": "業界団体（自動車）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTWFucFIxd3kxdTh5bV8weWw0V0VnWkJJak5lcjhSTDhoT2NtMGtPYlpQRmVnU0ZhUHZSS05nRXhtZ3R6cXRNVHVfVU1IelA3b05iWFJDRU9qdGxFVXFTRUZXQ2JPbktQT2xPeTJ2bWxGQlRZbF82Z29yQXp4R2Jta09RaWxsY3ZrS2w5Mk9DSUdBUWczR1R4Y3JRZlB5QkFRY3hPY2Q2NTJQYmg1bG45UkZoWnJSbEZHazhHXzlfRVZYa0pIOGRzc2JB?oc=5",
-          "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "033b16e4e8e7",
-          "date": "2026-03-21",
-          "title": "Toyota, GM, others press Trump to keep China auto import restrictions - Nikkei Asia",
-          "summary": "トヨタやGMなどの自動車大手は、中国製自動車に対する輸入規制を維持するようトランプ大統領に働きかけており、これは米国接続車両安全保障法（S.4429）で規定される中国関連企業からの調達制限と整合した動きと言える。米自動車産業は中国の技術的優位性への対抗と国内産業保護の観点から、既存の規制強化を求めている。",
-          "source": "業界団体（自動車）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUEhlZnFHQ296MzZiR1NlZnJZc0hpOUR6aUpzeFpMOEVrNnFHX1pSeUxTVzJ5QlZfbWtHXy00b0RSRTRONHFpWGt1Smp1NUN4cEhMdU9pUmFral9LSW1feVFNMzM2WURVLTI4RE9wVnJ6NmFmbjFqNUZxcEg5UHNKX21yQ3BuQ1B2MXBJalFhZTJBYTEtek9ZZ0Y0ek1xVjZ5dVZJTkYyYnE1RFVkeExLZWtR?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3920,8 +3920,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-11 01:10:53",
+      "last_checked": "2026-07-11 08:59:52",
       "items": [
+        {
+          "uid": "7bb92f20455a",
+          "date": "2026-06-28",
+          "title": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit. - The New York Times",
+          "summary": "トランプ前大統領が息子らが利益を得る可能性のある採鉱取引に関わっていることが報道されており、これはレアアースなどの戦略的資源の採掘事業に関連していると考えられます。米国がレアアース供給源の確保を急ぐ中、政治指導者の利益相反が資源確保戦略に影響を与える可能性が問題となっています。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzN3SGRBU2VJYVpQY0NBS01fQmNvTE5uNGVQSGNyODluTE1iYTRENnFWZ1hIdE00RC1WSjg4US1qdzZqU3J0enBtZXhhdjg1bUtqSXJmV3E2Z3c5UmlQNzg0TzJnZ2xHV1hnN0k3MERZWUNKODlvU0xqSmZMaXNfdmxJeG93Wk1nZmc?oc=5",
+          "added_at": "2026-07-11 08:59:47"
+        },
+        {
+          "uid": "ffc147ff1891",
+          "date": "2026-06-29",
+          "title": "Trump, Lutnick’s sons stand to gain big profits from billion-dollar mining deal: report - New York Post",
+          "summary": "申し訳ございませんが、提供いただいたテキストは記事のタイトルのみで、具体的な内容が含まれていません。記事本文の内容を教えていただければ、「中国レアアース輸出管理」に関する文脈での要約を提供できます。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMUcyenB2b1c4Slp5TlVPQ00yVlU3WnNGLUlWang3X2ctWnlseEUwNHotOTR1ZktTdXRtTGlETXlMU2p6WHNuUGJ2RkRyNTJYR0FURVc0QmdoSlpaYzFrWFRUZXlTRHI5UDE0d05ROEZPaF9UdjZLUjloNnJvNzhsNjMtYkV1TnhoTUpjSlozSHdHNEFvUHRZbDZ1WC1SU0JzbURzWHpoOWthSGdTTkNRelY0Y2d4Z0g2VU5LcU1YNjY?oc=5",
+          "added_at": "2026-07-11 08:59:47"
+        },
         {
           "uid": "b5d104a09c13",
           "date": "2026-05-28",
@@ -5900,26 +5920,6 @@
           "source": "中国素材大手",
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdjBNcm9JNUN4UUZuX09QZVZGUEo4Unh5OWpESUNocnBEU3ZVakZ3WmlERUhXalgxaUhpY0lRWFpOdzZYOEkybGE1Qmo4SFhsS1NnNG1JSUVid0RSWnNveGdpYzlHZkJsMElEUjBxRmJaQU5vYWRpMVZSZEVIVVhqdmtYQnpwWjRkV0toajQ1bmJhbzRaLTlhaF9MSlhwaFdmWmdRclZRaTZXeURGVjJRUnZnSjZOZw?oc=5",
-          "added_at": "2026-06-23 20:51:47"
-        },
-        {
-          "uid": "ce2f346b4b47",
-          "date": "2026-06-23",
-          "title": "China moves against US rare earth, defence firms in ‘calibrated’ response to Pentagon blacklist - Asia News Network",
-          "summary": "中国は米国防総省のブラックリスト指定に対する報復として、レアアース企業を含む米国防衛関連企業に対する輸出管理を強化する「調整された対抗措置」を実施しています。この措置は、中国がレアアース供給の統制を通じて米国の防衛産業に圧力をかける戦略的な対抗手段となっています。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1dFU3EzSklyQ21MdGNHdC03YjM3Z2FBbzUwcUJhMkpqUjBCYmVvWjhMSThRT05GdkNLSGRXRnNsbldXaFFsblBZWndIeW9BZ1hKM0tRR1NXSDJIU25feVQwVEkxTU41X05TV29tYkRGeUtSNEVzdEVwUlAyWmhrTVlZYlRzSHhEQ3dqTVBOSEVyWlB3ZGpLX3RUSWxEYUItY3JmUndzeXZYbVNOWjIwZXhGS3Z3UW5ZWVE?oc=5",
-          "added_at": "2026-06-23 20:51:47"
-        },
-        {
-          "uid": "7fa3a2fb0980",
-          "date": "2026-06-23",
-          "title": "US rare earth firms hit as China targets companies in export ban - Mining.com.au",
-          "summary": "中国がレアアース輸出管理を強化する中で、米国のレアアース企業が中国の輸出禁止措置の対象となり、打撃を受けている状況を報じている。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTU2c2g5SmJxcWxuMnMwcHgxdzUwaG0xZVJUQ3VaQ2N0cjQtRE1QUXU2TkdjdThpbXpta0lFUk94V1VzMWxCMUFLZWVzNlFUNk9HRmVUQmU3M0pieXVGNnRpTlpPRHFvd1k4WDYya0tNQ085MFl4dkVvOERRUDRzSzJKaVpjRmNnUndJcnJUNC0?oc=5",
           "added_at": "2026-06-23 20:51:47"
         }
       ]
