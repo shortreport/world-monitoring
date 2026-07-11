@@ -1,6 +1,8 @@
 @echo off
+REM このタスクは run_theme_bc (ps1) に置き換え済み。何もしない。
+exit /b 0
 REM ============================================================
-REM update_theme_bc.bat
+REM update_theme_bc.bat (stub)
 REM 実行タイミング: 毎朝 8:00（Windowsタスクスケジューラ）
 REM 処理内容:
 REM   1. 監視テーマデータ収集（theme_monitor.py）
