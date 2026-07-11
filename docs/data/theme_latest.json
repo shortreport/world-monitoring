@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11 16:13:26",
+  "generated_at": "2026-07-11 23:57:40",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-11 16:12:56",
+      "last_checked": "2026-07-11 23:57:09",
       "items": [
         {
           "uid": "fe4856b1c93e",
@@ -1919,8 +1919,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-11 16:13:05",
+      "last_checked": "2026-07-11 23:57:21",
       "items": [
+        {
+          "uid": "90f690167c9b",
+          "date": "2026-06-22",
+          "title": "FERC large load order US grid policy boosts battery flexibility - Benchmark Mineral Intelligence",
+          "summary": "# 要約\n\n米国連邦エネルギー規制委員会（FERC）の大規模負荷命令は、バッテリーの柔軟性を向上させるという米国電力網政策の強化であり、これは接続車両のサイバーセキュリティ対策と同様に、重要インフラの安全保障と機能性を両立させる必要性を示唆している。このような政策の推進は、S.4429が掲げる接続車両システムのセキュリティ強化と並行して、エネルギーインフラ全体の回復力向上につながる。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2s0T1hscUJDbS1PdUJKS3FhQ2lOYTA2dUViRFp3Z2hPTXhZMG10cEQzQmJjRWxoNXFTVTNqNnZoZzNxdk1XOFF2ZUNURFpwa0NPOFF6WkoyYjRlQjFoOEJFNUp5N3BpOU00ZVl3WExOR0NqY3NkZE4xVEZBMnhMVmtXM243YWZQOG5oUk95WHp0V2JXZ01McXNRNDVfQnlNRzVjZ1MxSmVIYlR6TkNSVkZLQXpxY3JVREwzakVVNm9pRE0?oc=5",
+          "added_at": "2026-07-11 23:57:18"
+        },
+        {
+          "uid": "d5648298da1f",
+          "date": "2026-06-10",
+          "title": "China’s EV Dominance Came From City Hall, Not Beijing, And Washington Is Repeating Its Drone Mistake - evxl.co",
+          "summary": "中国のEV産業の成功は中央政府よりも地方政府の支援が重要な役割を果たしたが、米国はドローン産業での過ちを繰り返し、S.4429のような過度な規制を通じて自国の電動車産業発展を阻害する可能性がある。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DOWlONjhIMXhWNkZIejk4Mm84aHhHbjN1dUk4aURCclA5RWUyTGhrd09BYWdXQWI3aHVFTklfM1NyejRKRHVlVDBwWGFkMGZ3RF9Uek05NXRhOWZBMVlOYmEyVzJsTUkyeVp4VDFaWTdWVnFKaWI1clp4NA?oc=5",
+          "added_at": "2026-07-11 23:57:18"
+        },
         {
           "uid": "300b280f99cf",
           "date": "2026-07-10",
@@ -3900,26 +3920,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ1ZNVVpkRjU3aHVBa3Nrc014WmVyRVhGYm1NSzVOUG5LQWFBaGxac1dfMDJIRlVFd2ViVE8xQ2xsMWhDNW9HVU1Uano2VHg5TEZRUUN6elJNTkRiZVlkSkIyZjhsX1lCNXoySFhFajcxTU9sNEVvX196LXFYOVptQjhLVUFIQjBkeHR6M2ptMmU0X256Z3JJRUloRkprZGVkaWRoYzNTRGxoUmdSa3F0N3RyWS1UOWtvTjgzZUZPYkw1aWI4Qllyc1VZNVVBcTdqWVpN?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "d9ea8d2a7e00",
-          "date": "2026-05-08",
-          "title": "Slotkin: Allowing Chinese cars in U.S. poses economic, security risks - Detroit Free Press",
-          "summary": "米国の民主党下院議員エルッサ・スロットキンは、S.4429法案を支持し、中国製自動車の米国市場への流入を阻止することで、国内の自動車産業保護と国家安全保障上の脅威を防ぐ必要があると主張しています。彼女は、中国車の参入が米国の経済的競争力と消費者のデータセキュリティに対するリスクをもたらすと懸念しています。",
-          "source": "議員発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbWJoR19ySzBTWm11OHE3S0RqRE5abXZ1aDh1aDhORVp3OGw2T3JqWi1ycG5TalRrUjlZTDQyMkpRWHVZandMT2p6dUlLeGx3WjA0eEJpTmd6NUJtU0dqcW95S3YyOGFkTUNObFFiRUZ1N3ZoTnEyeFRjWTRuLUY3STNWbmMtUEExWDIydnJZWkFjYXdIV0o3dGNIRjN1QU1DMU1BSA?oc=5",
-          "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "fa7e3ead7249",
-          "date": "2026-05-13",
-          "title": "'TikTok on Wheels': With China Threat Escalating Senators Slotkin and Moreno are Reaching Across the Aisle - MichAuto",
-          "summary": "米国接続車両安全保障法（S.4429）は、中国の脅威の高まりを背景に、スロットキン上院議員とモレノ上院議員が超党派的に協力して、接続車両を通じた中国による米国への安全保障上の脅威に対抗することを目的としている。同法は「TikTok on Wheels」と呼ばれるように、自動車がデータ収集の新たな手段となることへの懸念に対応するものである。",
-          "source": "議員発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWG5lX0xNZjFfbzJZRzgwVHZCMkwxaEZmUk84WXpmT25maFF0WEs0aC04S3hoNXg3cXh3Nk1mRjdocFFWZVByQ1RkQWVUT0lNdzM4LU9MOUxKMnEtdlJkSk9BdHZPdFg5U0E1OTZJU2pCbjNLMDRWcHAyVWdseDVCM2MxaHE1UmVCb0Z6bl9RaXI1cEtINS1yZWpjZUhhWjJENlliUldxdnRfRTFhSk1qUEdqcWh3NXNXOWtQdXp5NElSYnM?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3930,8 +3930,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-11 16:13:26",
+      "last_checked": "2026-07-11 23:57:40",
       "items": [
+        {
+          "uid": "cf58bfbb2fa4",
+          "date": "2026-04-15",
+          "title": "Rare Earth Monopoly: China's Strategy & New Western Processing Plant - News and Statistics - IndexBox",
+          "summary": "中国はレアアース産業の支配を維持するため戦略的に輸出を管理しており、西側諸国はこれに対抗するため新たな加工施設の建設を進めている。",
+          "source": "中国素材大手",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdjBNcm9JNUN4UUZuX09QZVZGUEo4Unh5OWpESUNocnBEU3ZVakZ3WmlERUhXalgxaUhpY0lRWFpOdzZYOEkybGE1Qmo4SFhsS1NnNG1JSUVid0RSWnNveGdpYzlHZkJsMElEUjBxRmJaQU5vYWRpMVZSZEVIVVhqdmtYQnpwWjRkV0toajQ1bmJhbzRaLTlhaF9MSlhwaFdmWmdRclZRaTZXeURGVjJRUnZnSjZOZw?oc=5",
+          "added_at": "2026-07-11 23:57:35"
+        },
+        {
+          "uid": "eb49260cf8db",
+          "date": "2026-06-23",
+          "title": "Beijing imposes export controls on 10 US rare earth firms in retaliation for military blacklist - Crypto Briefing",
+          "summary": "中国がアメリカの軍事関連企業10社をブラックリストに指定したことへの報復として、北京は同10社に対するレアアース輸出を制限する措置を講じた。この報復措置は米中間の技術・防衛分野での緊張をさらに高めるものとなっている。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FeTJYWkJTZ0RneU9lNGxOTmQ1cEhwZG81WmJld1BXUGo0NjlrNUtfRkdXVFByUlRwWEJnU3BxakJpUWl3cUVRUnBIa2tpQnR3N1ZObTlmZWRKUGo4d2lEZkhrZHRmVzhsWnVsLV9vaWFsUXdpR0NSVkk3RQ?oc=5",
+          "added_at": "2026-07-11 23:57:35"
+        },
+        {
+          "uid": "4c0396a1ba44",
+          "date": "2026-06-22",
+          "title": "China Places Two US Rare Earths Producers on Export Control List - Bloomberg.com",
+          "summary": "中国は米国のレアアース生産企業2社を輸出管理リストに追加し、これらの企業への重要鉱物や化学物質の供給を制限することで、米国のレアアース産業に対する報復措置を講じた。この措置は、米国による中国へのレアアース関連製品の輸出規制に対する対抗措置である。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHJwdlZ4MUdGR0ZWRzFndEhRbzRWYUxjcVllaURQcGt4bkpHWHE0OXNwaGZOVkRkNFFyWGVOOGdqSkUtelBQU19qWlNITlRwNXZoTnAzR3VFSE0ydnhvdnl1d1hjVkdKYUNPWmZkTC1pVEpVNV9PSU9FMFlNc01OODUwSE1ScjBMZ2ZtdEVnelQ5Z2diYzk2bVpSOElidmFsLTh5VDVwR2FySWt2dngzV1hjLWhfZw?oc=5",
+          "added_at": "2026-07-11 23:57:35"
+        },
         {
           "uid": "ce2f346b4b47",
           "date": "2026-06-23",
@@ -5901,36 +5931,6 @@
           "source_type": "industry",
           "url": "https://www.mining.com/op-ed-brazils-rare-earth-dilemma-strategic-autonomy-or-another-raw-material-export-cycle/",
           "added_at": "2026-06-24 20:27:46"
-        },
-        {
-          "uid": "222c8fafb6a4",
-          "date": "2026-06-24",
-          "title": "The US needs Canada to win the critical minerals race",
-          "summary": "米国のレアアース・クリティカルミネラル戦略はカナダとの関係が重要であり、中国への依存を減らすために北米での鉱物調達の多角化が急務となっている。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/energy-environment/5936207-critical-minerals-us-canada-strategy/",
-          "added_at": "2026-06-24 20:27:46"
-        },
-        {
-          "uid": "b6ff6ccc9955",
-          "date": "2026-06-22",
-          "title": "Beijing's Calibrated Response to the 1260H Designations - Geopolitechs",
-          "summary": "申し訳ございませんが、提供いただいたタイトル「Beijing's Calibrated Response to the 1260H Designations - Geopolitechs」に対応する記事の具体的な内容が示されていないため、要約することができません。記事本文をご提供いただければ、中国レアアース輸出管理に関する文脈で日本語に要約いたします。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yX3B5MG5oMldOejNEekNSTGo5eFY4SFdaT19CdFh3R1FUTUFraG1vM2pYSG54Sk9wbEtvdXZ2WVJ4RjEzZHRKaTlhdWVmcmFQY0NGN2l0UEswU09vRHBWZmphTlVUbUkzT054MGFjLTJOWklP?oc=5",
-          "added_at": "2026-06-24 04:33:24"
-        },
-        {
-          "uid": "317aa527f896",
-          "date": "2026-06-23",
-          "title": "LYC (ASX:LYC) Back in Focus as China Tightens Rare Earth Controls - Kalkine Media",
-          "summary": "中国がレアアース輸出管理を強化する中、オーストラリアのレアアース企業LYCが再び注目を集めており、中国への依存度低減を求める国際社会のニーズが高まっている。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHB6azN0N1VFeEZ5cUdIc0l4T3JURjhfdGNHY2E1aW9yWWZnTFhTNEE4SUZVSHdjZ2p0Q3hlak1QM2M5WE41SkVyTkRZcHNoUWN3Z001QzlQS0VKdEpEc0NxUUdvcjVBcUExSXFyTGd3c19PWE5CZ25NLUd6YVJBcGp1N3pHLXMxb1gyLUd5Z0NNdjVrY2tyRExVUlE5Wl91YWp4cjVWWWpDQ08xeG9ycFZjTXFvajRx?oc=5",
-          "added_at": "2026-06-24 04:33:24"
         }
       ]
     }
