@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11 23:57:40",
+  "generated_at": "2026-07-12 16:30:25",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-11 23:57:09",
+      "last_checked": "2026-07-12 16:29:59",
       "items": [
         {
           "uid": "fe4856b1c93e",
@@ -1919,7 +1919,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-11 23:57:21",
+      "last_checked": "2026-07-12 16:30:07",
       "items": [
         {
           "uid": "90f690167c9b",
@@ -3930,8 +3930,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-11 23:57:40",
+      "last_checked": "2026-07-12 16:30:25",
       "items": [
+        {
+          "uid": "1a667c55d244",
+          "date": "2026-04-23",
+          "title": "US working to break China's rare earth 'chokehold', says Commerce Secretary Lutnick - ANI News",
+          "summary": "米国通商長官ルトニックは、中国がレアアース市場を支配している状況から脱却するため、米国がレアアース産業の構築に取り組んでいると述べた。米国は中国のレアアース輸出管理による支配力を打破することを目指している。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdlMzd0R4TjAybWV3S0lHelBFNGdMYVhPSnpWOXhSdDd5VlpCZ2VZVVh3SDc2R24yLWFvNTl0QWExZTdibmVXSGJhaEJmYXhDdU5MZXlyX0J4MWczXzFXZHVvQmh4cE93dDBoSmhUcWlqMFlvWFo5bERjM0o0WFFTQ2RuRlVlZ0F0WWJrSkxYMEQ4LXVnZ3RGUXZTbmVHVkJqendZZm5sV1doWnlIeHJlaWtzX3YtLVdnbTdQUnUyOWt0dURmU0pQMzFn?oc=5",
+          "added_at": "2026-07-12 16:30:20"
+        },
+        {
+          "uid": "5f6e5fadb180",
+          "date": "2026-06-22",
+          "title": "Critical Minerals Report (06.21.2026): Allies, Competitors, and Critical Minerals - InvestorNews",
+          "summary": "申し訳ございませんが、提供いただいたタイトル以外の具体的な記事の内容が記載されていないため、正確な要約ができません。記事本文をご提供いただければ、「中国レアアース輸出管理」に関する文脈での要約を作成いたします。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMVJCQUpRUDVMVVhqbzB6amlWY25kakpUQjJGc09NZ1o3TW9qVDI2MjlxaUdGRGsydXI5azhWbl90R0tOUjNheFFzUVV1Vk82eW1lM19CWFdKZnhwX190WHh0N0NsOG9Fel95QmNMaDZwZmNrcEZKWkx1cHBDQVhTNkxaMlFOMFQ1NlU4ZGdXa3FISG9fUVBpRVRRZDY4X0x4Ykw0RTh1ckgwQ2RjNDQwTTZNSnV0TXllWjl1a2lIZ2tZSDFzU2YtT21zX1RaRGFhSE5mVFRR?oc=5",
+          "added_at": "2026-07-12 16:30:20"
+        },
+        {
+          "uid": "55521f0b79e7",
+          "date": "2026-07-09",
+          "title": "Billions in US-funded rare earths flowing to Asian markets: report - Mining.com",
+          "summary": "米国が資金を提供するレアアース事業から採掘されたレアアースが、中国を含むアジア市場へ流出している実態が報告されており、米国のレアアース供給チェーン構築戦略が、実質的に中国への依存を減らせていない可能性が指摘されている。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNHJRMXdibG1TZ0h6OWtTY1Y5TUtfa3FjSDdrTXg1Q2YwUzVMRmlzM01oRmYxUUxpanUzMXAwZU5NdU9kWHN3NlBINnd1ZnVBTDJvNGRGQUxqbF9tei11WVMtTEdJbzl0Rm9yZ21SbmRfS0FkZE5hRU1DWmRMWUJyYjBtOGhwdVVlRWVTMGpSUndXa2c?oc=5",
+          "added_at": "2026-07-12 16:30:20"
+        },
         {
           "uid": "cf58bfbb2fa4",
           "date": "2026-04-15",
@@ -5900,36 +5930,6 @@
           "source": "欧米レアアース企業",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0tVT25EQWRpek9jRWhXeXIwbnhuaGtTVVJhcU1xYUlGYmhlalJXSmtEZFQtRWwwOFRyRzFFS1h2bjE4SS00b3piTnZ0T0pMbnFSRldCTVdLZUdCUWpJQS1IaG1INmpkU29hWTJUNWxacE1ScDR4Q0lRMVJNcXdVT0tsV3VVZw?oc=5",
-          "added_at": "2026-06-24 20:27:46"
-        },
-        {
-          "uid": "5b413324481e",
-          "date": "2026-06-24",
-          "title": "China’s Mineral Export Curbs to Japan: 2026 Analysis - Discovery Alert",
-          "summary": "中国は2026年にレアアース等の鉱物資源の対日輸出を制限する可能性があり、これは日本の製造業やテクノロジー産業に重大な影響を与える見通しである。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3Z1LXJveXhfWFB5ZnlkNTN5UXNqX2FMdmRZdVI3OFRTOGVPSnRvR3p4ZTRfcmVkWjNiMjZ1VVRxNFJRNkYzSUtLSW91VGpXa1VEeXVTZ2NxRm1hck5qUWxkMXpjQmNuZlQtS1pOU2xsUlc3LTdsYnpKVGpNNnNaNHNkUl93cGZoU1pmUVFiZXlnQQ?oc=5",
-          "added_at": "2026-06-24 20:27:46"
-        },
-        {
-          "uid": "97f1f82973ec",
-          "date": "2026-06-23",
-          "title": "Aclara Resources gets environmental OK for Chile rare earths project",
-          "summary": "チリのレアアース鉱山プロジェクトが環境認可を取得したことで、中国がレアアース供給を制限・規制する中で、代替供給源確保の動きが加速している。西側諸国がレアアース産業の多角化を進めることで、中国の輸出管理に対する依存度低下につながる可能性がある。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/aclara-resources-gets-environmental-ok-for-chile-rare-earths-project/",
-          "added_at": "2026-06-24 20:27:46"
-        },
-        {
-          "uid": "97bcccfd1538",
-          "date": "2026-06-23",
-          "title": "Op-Ed: Brazil’s rare earth dilemma — strategic autonomy or another raw-material export cycle?",
-          "summary": "ブラジルの希土類プロジェクト「セラ・ベルデ」は、中国以外の鉱石から磁石までの供給チェーン構築において戦略的に重要であり、ブラジルが単なる原料輸出国に留まるか戦略的自立を達成するかの分岐点となっている。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/op-ed-brazils-rare-earth-dilemma-strategic-autonomy-or-another-raw-material-export-cycle/",
           "added_at": "2026-06-24 20:27:46"
         }
       ]
