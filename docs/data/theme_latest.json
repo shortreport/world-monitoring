@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12 16:30:25",
+  "generated_at": "2026-07-13 00:00:07",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-12 16:29:59",
+      "last_checked": "2026-07-12 23:59:41",
       "items": [
         {
           "uid": "fe4856b1c93e",
@@ -1919,8 +1919,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-12 16:30:07",
+      "last_checked": "2026-07-12 23:59:53",
       "items": [
+        {
+          "uid": "29105a5df352",
+          "date": "2026-06-12",
+          "title": "Slotkin Statement on Voting No in the Armed Services Committee on 2027 Pentagon Budget - U.S. Senate (.gov)",
+          "summary": "申し訳ありませんが、提供いただいたタイトルと「内容」欄に実際のテキスト本文が含まれていないため、記事の具体的な内容を確認することができません。S.4429（米国接続車両安全保障法）に関する要約を作成するには、記事の本文をご提供いただく必要があります。",
+          "source": "議員発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMlFNSF8zalZXRXNQMGltNnBXNHdLeHBzM3hvTzZLSjFQaFM3dGFlb0xyc09zSXoxSkNQelB3ZUJlQ2VoTGJEeWU4VUhDSjZCOVpTTWpWejFHZmI3X184MWY2Y1dWeThkRTRxLUpGRjdrNG9KVG1KQU95NXFnZEpyamQwU2wzMmw2TUFZdG02a1pFeFVVcFA5dkRuT0c1Y3VWaG9LXzF6MzNiVEVWNmVNWUo2Y1g2ZlBnejVHVFBzaE5fZmE4UzZBcw?oc=5",
+          "added_at": "2026-07-12 23:59:49"
+        },
+        {
+          "uid": "0c93e77b41db",
+          "date": "2026-05-08",
+          "title": "Tom Metzger Joins ESS as CEO - Work Truck Online",
+          "summary": "申し訳ございませんが、提供いただいたタイトル「Tom Metzger Joins ESS as CEO - Work Truck Online」と内容の記事本文がないため、米国接続車両安全保障法（S.4429）に関する要約を作成することはできません。記事の詳細な内容をご提供いただければ、要約させていただきます。",
+          "source": "半導体・Tier1サプライヤー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vVGdsbmxNRURnalVNZEFSMXRxbXZkRmFuZGRBR3Rrai1YN0k4cWw1ckFIOUlvOS1yQXF5bENtdTYyZVFQQkFtemNqNlhDclJRdmxvVGZTU0dRam9MTXptZVE0ei1UMGFUSkdDRHg4UWJydmc?oc=5",
+          "added_at": "2026-07-12 23:59:49"
+        },
         {
           "uid": "90f690167c9b",
           "date": "2026-06-22",
@@ -3900,26 +3920,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbHQwR1o5Sk9DRmptTGpxdmlnSEU4UDZoaWtldlBWaFBUMTduUlNPYjY3X2plbnUtVDVBejJwTFVpUEtSMS1EM09qcWJEWkFFUnVlYTBDMHdYQU1nR1BETTA2ejdaSExhZVBsNTBueXl6UW5KZVQ4cXo0TmRQc2ZjTjVSUVlXSWROb3dTZnQ3amd6QWhCQlhsQ1NTcklRQVllU2RaSVJRaXFFUk4tVk1uYTVIU0U0Rkh2QjRUbW16emZsOTlwYTViOTdVS1RYSXMtdEVTOE83WVBKWlZFaWRCTDNVVEhyRjA1NEM2dV9oZTBYeklj?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "ca273c3d3805",
-          "date": "2026-05-14",
-          "title": "House bill seeks $1.5M fines in Chinese car ban push - MSN",
-          "summary": "# 要約\n\n米国下院は中国製自動車の販売禁止を強制するため、違反企業に対して150万ドルの罰金を科す法案を提出しており、これはS.4429などの関連立法と連動して、米国市場からの中国車排除を厳格に実行する方針を示しています。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWFNQbG0tQTBxNnVJT25VbURLTmVORy1IVmJ4bHFVeXhWWmxRZm50Z2Q4MVNHNks3Sk93UmRjQWJKOExocXdjVk9NYTctTXVrRTd5QTVHMGdBM0k2RUE1OEtzVXVMT2dUMmU1VVRabjdMNkJKMzJnMmY4OGVjSXBfSDVtM25iZ1lSOHdFRkF3R1BnakJwTVRWZERWbDBHLVBDQ2pYdG81Z3V3WlluVGgyOS1scDFobVNZa29PekJDbTI0aFZ1WUozOGRhMTFFbS0xMkU4bENkaGMwcWNacEt1VFdWMnZXQmlw?oc=5",
-          "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "ae31610e101c",
-          "date": "2026-05-07",
-          "title": "Slotkin calls Chinese-made vehicles ‘TikTok on wheels’ as she rolls out new legislation to ban them - Michigan Advance",
-          "summary": "米国の議員Slotkinは、中国製車両をデータ収集リスク（「TikTokの車輪版」）として危険視し、S.4429法案によってこれらの車両を米国市場から排除する新規立法を提出しました。この法案は、国家安全保障上の懸念に基づき、中国製接続車両の販売を禁止することを目的としています。",
-          "source": "議員発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ1ZNVVpkRjU3aHVBa3Nrc014WmVyRVhGYm1NSzVOUG5LQWFBaGxac1dfMDJIRlVFd2ViVE8xQ2xsMWhDNW9HVU1Uano2VHg5TEZRUUN6elJNTkRiZVlkSkIyZjhsX1lCNXoySFhFajcxTU9sNEVvX196LXFYOVptQjhLVUFIQjBkeHR6M2ptMmU0X256Z3JJRUloRkprZGVkaWRoYzNTRGxoUmdSa3F0N3RyWS1UOWtvTjgzZUZPYkw1aWI4Qllyc1VZNVVBcTdqWVpN?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3930,8 +3930,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-12 16:30:25",
+      "last_checked": "2026-07-13 00:00:07",
       "items": [
+        {
+          "uid": "da031c249518",
+          "date": "2026-05-20",
+          "title": "MOFCOM elaborates on eight preliminary outcomes of China-US economic, trade consultations covering issues of tariffs, agricultural trade, rare earth export controls, aircraft trade - Global Times",
+          "summary": "中国商務省（MOFCOM）が米国との経済・貿易協議における予備的成果として、関税、農業貿易、レアアース輸出管理、航空機貿易を含む8項目の合意内容を明らかにした。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FODBuN1RNaUliRi1NcFhmUV93Y0JaZzhlMURMRm5oOWF3WGFSQ0FCc2RqUUpOSGlzaUZJQlVhd2F0OEQ4YU8wVGxkZFJZdXQ3NnVLdVZIaHJ5X2dfNGxPVkVn?oc=5",
+          "added_at": "2026-07-13 00:00:05"
+        },
         {
           "uid": "1a667c55d244",
           "date": "2026-04-23",
@@ -5920,16 +5930,6 @@
           "source": "業界団体",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZEFUTVkyLWZsOFVwM0tBcmZndHNmX2dVT1YtTjZUNmRWNF9SUVRDY3B1dUhJZFlDT3dOMUtSQjdYeW1NbGY4d3ROOVgwMXpfc2NQV3NtRW9sVGo2a1ZyYlhtS2xDdXpxZE1fWHptWlBGNUt0aXFmdlZjR2VuaUJfS3BrS3ZkLVRQY0p1bjVVMUc4OW5ZTDdXQmdMVGJuYXFqZGZWdjE3dVhQUnVpdUNiX3MwTHI1SlBrSlZkZGRHbDI?oc=5",
-          "added_at": "2026-06-24 20:27:46"
-        },
-        {
-          "uid": "2751236719a5",
-          "date": "2026-06-22",
-          "title": "China targets U.S. rare earths firms in response to Pentagon list - The Japan Times",
-          "summary": "中国はペンタゴンのリスト掲載に対抗して米国レアアース企業を標的にしており、これは米中間のレアアース供給をめぐる競争激化を示唆している。中国はレアアース輸出管理を戦略的に活用し、米国防衛関連産業への圧力手段として機能させている。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0tVT25EQWRpek9jRWhXeXIwbnhuaGtTVVJhcU1xYUlGYmhlalJXSmtEZFQtRWwwOFRyRzFFS1h2bjE4SS00b3piTnZ0T0pMbnFSRldCTVdLZUdCUWpJQS1IaG1INmpkU29hWTJUNWxacE1ScDR4Q0lRMVJNcXdVT0tsV3VVZw?oc=5",
           "added_at": "2026-06-24 20:27:46"
         }
       ]
