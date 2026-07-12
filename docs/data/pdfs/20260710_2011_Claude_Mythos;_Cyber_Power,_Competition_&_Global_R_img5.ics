@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:Claude Mythos\; Cyber Power\, Competition & Global Risk - EG Confe
+ rence Call
+DTSTART;VALUE=DATE-TIME:20260722T130000Z
+DTEND;VALUE=DATE-TIME:20260722T140000Z
+DESCRIPTION:Please join us for the Eurasia Group conference call\, where w
+ e will be joined\nby Xiaomeng Lu\, Director\, Geo-technology\, and Heather
+  West\, Practice Head\,\nGeo-technology\, for a discussion on "Claude Myth
+ os\, Cyber Power\, Competition &\nGlobal Risk."\n  * U.S. Tech Landscape: 
+ Competition & Cooperation\n  * Partnerships with tech companies and implic
+ ations for cyber defense\n  * China's Cyber AI Ambitions & Global Risk\n  
+ * Outlooks for Defense Norms & International Coordination\n\n\nRegister He
+ re: https://us02web.zoom.us/webinar/register/WN_-t39fLjqQ5im1Dp30aAJzw\n\n
+ Call-in:\nRegistration for this event is required.  \n  \nAfter registerin
+ g\, you will receive an email with instructions to join the\nmeeting\, inc
+ luding local dial-in information and a meeting invitation you can\nadd to 
+ your calendar. Please note you must be logged in from a computer or\nmobil
+ e app in order to ask a question.  \n  \nPlease allow a few minutes before
+  the call to join the meeting\, and connect\naudio by following the prompt
+ s from the conference call platform.\n\nReplay:\nA recording of this call 
+ will be available on the [Eurasia Group\nportal](https://library.eurasiagr
+ oup.net/events/) and mobile app approximately\nthree hours after the event
+  concludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260722T124500Z
+UID:e4934057-7c4f-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:e4934056-7c4f-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR

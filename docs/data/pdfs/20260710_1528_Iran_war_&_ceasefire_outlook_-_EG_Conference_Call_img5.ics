@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:Iran war & ceasefire outlook - EG Conference Call
+DTSTART;VALUE=DATE-TIME:20260714T130000Z
+DTEND;VALUE=DATE-TIME:20260714T140000Z
+DESCRIPTION:Please join Eurasia Group's Practice Head for United States\, 
+ Clayton Allen\,\nSenior Analyst for Iran and Energy\, Gregory Brew\, and a
+ nalysts for an update\non the US-Iran conflict following the latest develo
+ pments.\n  * Outlook for the ceasefire \n  * Implications of escalation fo
+ r the Strait of Hormuz\n  * Regional update\n\n\nRegister Here: https://us
+ 02web.zoom.us/webinar/register/WN_nQGRYz8dRKG6h8s0rNr-dw\n\nCall-in:\n[Reg
+ istration for this event is\nrequired](https://us02web.zoom.us/webinar/reg
+ ister/WN_nQGRYz8dRKG6h8s0rNr-dw).  \n  \nAfter registering\, you will rece
+ ive an email with instructions to join the\nmeeting\, including local dial
+ -in information and a meeting invitation you can\nadd to your calendar. Pl
+ ease note you must be logged in from a computer or\nmobile app in order to
+  ask a question.  \n  \nPlease allow a few minutes before the call to join
+  the meeting\, and connect\naudio by following the prompts from the confer
+ ence call platform.\n\nReplay:\nA recording of this call will be available
+  on the [Eurasia Group\nportal](https://library.eurasiagroup.net/events/) 
+ and mobile app approximately\nthree hours after the event concludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260714T124500Z
+UID:2e468263-7c28-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:2e468262-7c28-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR
