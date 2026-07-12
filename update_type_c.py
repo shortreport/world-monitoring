@@ -203,7 +203,8 @@ def update_theme():
     from datetime import datetime, timedelta
     data = json.loads((DATA_DIR / "theme_latest.json").read_text(encoding="utf-8"))
     themes = data.get("themes", [])
-    today = datetime.now()
+    from datetime import timezone as _tz
+    today = datetime.now(_tz.utc)          # Type B と同じ UTC 基準
     threshold_new = (today - timedelta(days=3)).strftime("%Y-%m-%d")
     threshold_7d  = (today - timedelta(days=7)).strftime("%Y-%m-%d")
 
@@ -247,7 +248,13 @@ def update_theme():
         items    = th.get("items", [])
         color_map_js[tid] = color
 
-        cnt_7d  = sum(1 for it in items if it.get("date","") >= threshold_7d)
+        # Type B と同じく直近7日のみ・日付降順
+        items = sorted(
+            [it for it in items if it.get("date","") >= threshold_7d],
+            key=lambda it: it.get("date",""),
+            reverse=True,
+        )
+        cnt_7d  = len(items)
         cnt_new = sum(1 for it in items if it.get("date","") >= threshold_new)
         stats_html = (f'<div class="theme-stat"><div class="theme-stat-num">{cnt_7d}</div>'
                       f'<div class="theme-stat-lbl">直近7日</div></div>'
@@ -497,6 +504,41 @@ def _load_en_intel_title_map() -> dict:
     return title_map
 
 
+def _extract_en_sidebar() -> str:
+    """Type B の <div class="v2-sidebar">…</div> を抜き出し、英語 UI ラベルだけ日本語化して返す"""
+    en_path = BASE / "docs" / "en" / "intelligence.html"
+    if not en_path.exists():
+        return ""
+    html = en_path.read_text(encoding="utf-8")
+    start = html.find('<div class="v2-sidebar">')
+    if start == -1:
+        return ""
+    # 対応する </div> を深さカウントで探す
+    depth, i = 0, start
+    while i < len(html):
+        if html[i:i+4] == "<div":
+            depth += 1
+        elif html[i:i+6] == "</div>":
+            depth -= 1
+            if depth == 0:
+                sidebar = html[start:i+6]
+                break
+        i += 1
+    else:
+        return ""
+    # 英語 UI ラベルを日本語に置換（メール件名はそのまま）
+    sidebar = sidebar.replace("Key Takeaways",              "今日のポイント")
+    sidebar = sidebar.replace("Source Emails",              "関連メール")
+    sidebar = sidebar.replace("No automotive-relevant emails today.",
+                              "本日の自動車関連メールはありません。")
+    sidebar = re.sub(r"~1 min read",     "~1 分",   sidebar)
+    sidebar = re.sub(r"~(\d+) min total", r"合計 ~\1 分", sidebar)
+    # Type B の href が data/pdfs/... なので docs/jp/ からは ../data/pdfs/... に変換済み
+    # openFile の第1引数を ../ 付きに修正（Type B は docs/en/ 基準で書かれている）
+    # Type B は既に "../data/..." 形式で書いているので変更不要
+    return sidebar
+
+
 def update_intelligence():
     print("\n=== [4/5] Intelligence ===")
     rolling = json.loads((DATA_DIR / "mail_rolling.json").read_text(encoding="utf-8"))
@@ -506,34 +548,16 @@ def update_intelligence():
     en_title_map = _load_en_intel_title_map()
     print(f"  Bタイプタイトル取得: {len(en_title_map)}件")
 
-    # サイドバー要約（summary_ja が空でないもの）
-    toyota_emails = [em for em in emails if em.get("toyota") and em.get("summary_ja")]
-
-    # サイドバー生成
-    if toyota_emails:
-        sidebar_summary = "".join(
-            f'<p>{e(em.get("summary_ja",""))}</p>' for em in toyota_emails[:3]
-        )
-        src_links = "".join(f"""
-    <div class="v2-src" onclick="openPdfDirect('../{e(em.get('pdf',''))}','{e(em.get('subject',''))}')">
-      <span class="v2-badge" style="background:#007838">JET</span>
-      {e(em.get('subject','')[:60])}
-    </div>""" for em in toyota_emails)
-    else:
-        sidebar_summary = "<p>本日の自動車関連メールはありません。</p>"
-        src_links = ""
-
-    sidebar_html = f"""
-<div class="v2-sidebar">
+    # Type B からサイドバーをコピー（コンテンツを完全一致させる）
+    sidebar_html = _extract_en_sidebar()
+    if not sidebar_html:
+        sidebar_html = f"""<div class="v2-sidebar">
   <div class="v2-sb-head">
-    <div class="v2-sb-ttl">🚗 自動車産業サマリー</div>
-    <div class="v2-sb-sub">最終更新: {DATETIME_JP}</div>
+    <div class="v2-sb-ttl">今日のポイント</div>
+    <div class="v2-sb-sub">{DATETIME_JP}</div>
   </div>
   <div class="v2-sb-body">
-    <div class="v2-summary-block">{sidebar_summary}</div>
-    <hr class="v2-hr">
-    <div class="v2-src-lbl">ソース</div>
-    {src_links}
+    <div class="v2-summary-block"><p>本日の自動車関連メールはありません。</p></div>
   </div>
 </div>"""
 
@@ -550,11 +574,11 @@ def update_intelligence():
         code, _ = SENDER_CODE.get(sender, ("OTH", "#444488"))
         subject = em.get("subject","")
         subject_en = em.get("subject_en","")
+        html_file  = em.get("html","") or em.get("pdf","")
         pdf        = em.get("pdf","")
         date_label = em.get("date_label","")
         read_min   = em.get("read_min","?")
         toyota     = em.get("toyota", False)
-        summary_pdf = em.get("summary_pdf","")
 
         # JETROは subject_en（英訳件名）、それ以外はBタイプのフルタイトル優先
         if code == "JET" and subject_en:
@@ -564,20 +588,15 @@ def update_intelligence():
             display_title = en_title_map.get(ts, subject)
 
         dot = '<span class="v2-dot">🚗</span>' if toyota else ""
-
-        pdf_btn = ""
-        if summary_pdf:
-            pdf_btn = f' &nbsp;<button class="v2-pdf-btn" onclick="event.stopPropagation();openPdfDirect(\'../{e(summary_pdf)}\',\'{e(subject[:40])} — 要約\')">📄 要約</button>'
+        open_path = f"../{html_file}"
 
         cards_html += f"""
-  <div class="v2-card" data-s="{code}" data-pdf="../{e(pdf)}" data-title="{e(display_title)}" onclick="openPdf(this)">
+  <div class="v2-card" data-s="{code}" data-url="{e(open_path)}" data-title="{e(display_title)}" onclick="openFile(this.dataset.url,this.dataset.title)">
     {dot}
     <div class="v2-sender">{e(sender)}</div>
     <div class="v2-title">{e(display_title)}</div>
-    <div class="v2-meta">{e(date_label)} &nbsp;·&nbsp; {e(str(read_min))} MIN{pdf_btn}</div>
+    <div class="v2-meta">{e(date_label)} &nbsp;·&nbsp; {e(str(read_min))} MIN</div>
   </div>"""
-
-    upd_time = rolling.get("generated_at", DATETIME_JP)
 
     content = f"""
 <div class="v2-wrap">
@@ -589,26 +608,20 @@ def update_intelligence():
   {sidebar_html}
 </div>
 
-<div class="v2-modal" id="pdfModal" onclick="if(event.target===this)this.style.display='none'">
+<div class="v2-modal" id="fileModal" onclick="if(event.target===this)this.style.display='none'">
   <div class="v2-modal-box">
     <div class="v2-mh">
       <span class="v2-mt" id="modalTitle">-</span>
-      <button class="v2-mc" onclick="document.getElementById('pdfModal').style.display='none'">✕ 閉じる</button>
+      <button class="v2-mc" onclick="document.getElementById('fileModal').style.display='none'">✕ 閉じる</button>
     </div>
     <iframe class="v2-mf" id="modalFrame" src=""></iframe>
   </div>
 </div>
 <script>
-function openPdf(card){{
-  var pdf=card.dataset.pdf, title=card.dataset.title;
-  document.getElementById('modalTitle').textContent=title;
-  document.getElementById('modalFrame').src=pdf;
-  document.getElementById('pdfModal').style.display='flex';
-}}
-function openPdfDirect(url,title){{
-  document.getElementById('modalTitle').textContent=title;
+function openFile(url,title){{
+  document.getElementById('modalTitle').textContent=title||'';
   document.getElementById('modalFrame').src=url;
-  document.getElementById('pdfModal').style.display='flex';
+  document.getElementById('fileModal').style.display='flex';
 }}
 </script>
 """
