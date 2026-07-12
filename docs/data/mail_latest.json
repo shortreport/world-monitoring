@@ -1,97 +1,67 @@
 {
-  "generated_at": "2026-07-10 11:29 JST",
+  "generated_at": "2026-07-13 00:43 JST",
   "sender_count": 4,
-  "total_mails": 21,
+  "total_mails": 17,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 13,
+      "count": 8,
       "bullets": [
         "要約取得に失敗しました。"
       ],
       "subjects": [
         [
-          "2026-07-09",
-          "EG EUROPE, POWER: Wholesale electricity costs will fall sharply",
-          "data/pdfs/20260709_1729_EG_EUROPE,_POWER__Wholesale_electricity_costs_will.pdf"
-        ],
-        [
-          "2026-07-09",
-          "EG Daily Brief: Hormuz closure risk hits 35% as shaky peace holds",
-          "data/pdfs/20260709_2126_EG_Daily_Brief__Hormuz_closure_risk_hits_35%_as_sh.pdf"
+          "2026-07-10",
+          "EG Research Summary in Japanese: 2026年7月10日",
+          "data/pdfs/20260710_1323_EG_Research_Summary_in_Japanese__2026年7月10日.pdf"
         ],
         [
           "2026-07-10",
-          "EG US Daily: Shaky peace holds after stepped-up strikes",
-          "data/pdfs/20260710_0051_EG_US_Daily__Shaky_peace_holds_after_stepped-up_st.pdf"
+          "APAC & Japan Conference Call: Iran war & ceasefire",
+          "data/pdfs/20260710_1526_APAC_&_Japan_Conference_Call__Iran_war_&_ceasefire.pdf"
         ],
         [
           "2026-07-10",
-          "EU Energy Outlook: Electricity costs will fall sharply by 2030 - EG",
-          "data/pdfs/20260710_0105_EU_Energy_Outlook__Electricity_costs_will_fall_sha.pdf"
+          "Iran war & ceasefire outlook - EG Conference Call",
+          "data/pdfs/20260710_1528_Iran_war_&_ceasefire_outlook_-_EG_Conference_Call.pdf"
         ],
         [
           "2026-07-10",
-          "EG Aerospace & Defense, China: China poised for gradual defense",
-          "data/pdfs/20260710_0111_EG_Aerospace_&_Defense,_China__China_poised_for_gr.pdf"
+          "Claude Mythos; Cyber Power, Competition & Global Risk - EG",
+          "data/pdfs/20260710_2011_Claude_Mythos;_Cyber_Power,_Competition_&_Global_R.pdf"
         ],
         [
           "2026-07-10",
-          "China's growing economic coercion toolkit - EG Conference Call",
-          "data/pdfs/20260710_0138_China's_growing_economic_coercion_toolkit_-_EG_Con.pdf"
+          "EG Daily Brief: US will limit Canada's China reset",
+          "data/pdfs/20260710_2146_EG_Daily_Brief__US_will_limit_Canada's_China_reset.pdf"
         ],
         [
           "2026-07-10",
-          "EG Global Macro, Aerospace & Defense: NATO's summit mixes",
-          "data/pdfs/20260710_0236_EG_Global_Macro,_Aerospace_&_Defense__NATO's_summi.pdf"
+          "China's growing economic coercion toolkit - EG Conference Call,",
+          "data/pdfs/20260710_2304_China's_growing_economic_coercion_toolkit_-_EG_Con.pdf"
         ],
         [
-          "2026-07-10",
-          "EG South Asia Biweekly: Modi’s Indonesia trip boosts defense",
-          "data/pdfs/20260710_0315_EG_South_Asia_Biweekly__Modi’s_Indonesia_trip_boos.pdf"
+          "2026-07-11",
+          "EG US Daily: Watch for moves against Federal Election",
+          "data/pdfs/20260711_0107_EG_US_Daily__Watch_for_moves_against_Federal_Elect.pdf"
         ],
         [
-          "2026-07-10",
-          "EG Canada: Washington will constrain Ottawa’s reset with Beijing",
-          "data/pdfs/20260710_0531_EG_Canada__Washington_will_constrain_Ottawa’s_rese.pdf"
-        ],
-        [
-          "2026-07-10",
-          "EG China Weekly: Submarine ballistic missile test likely a",
-          "data/pdfs/20260710_0555_EG_China_Weekly__Submarine_ballistic_missile_test_.pdf"
-        ],
-        [
-          "2026-07-10",
-          "On the ground in China: Assessing the reset of China-US relations",
-          "data/pdfs/20260710_0801_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf"
-        ],
-        [
-          "2026-07-10",
-          "On the ground in China: Assessing the reset of China-US relations",
-          "data/pdfs/20260710_0901_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf"
-        ],
-        [
-          "2026-07-10",
-          "APAC & Japan Conference Call: Claude Mythos; Cyber Power,",
-          "data/pdfs/20260710_1023_APAC_&_Japan_Conference_Call__Claude_Mythos;_Cyber.pdf"
+          "2026-07-11",
+          "Brazil Update - The fight against organized crime - EG Conference",
+          "data/pdfs/20260711_0149_Brazil_Update_-_The_fight_against_organized_crime_.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260709_1729_EG_EUROPE,_POWER__Wholesale_electricity_costs_will.pdf",
-        "data/pdfs/20260709_2126_EG_Daily_Brief__Hormuz_closure_risk_hits_35%_as_sh.pdf",
-        "data/pdfs/20260710_0051_EG_US_Daily__Shaky_peace_holds_after_stepped-up_st.pdf",
-        "data/pdfs/20260710_0105_EU_Energy_Outlook__Electricity_costs_will_fall_sha.pdf",
-        "data/pdfs/20260710_0111_EG_Aerospace_&_Defense,_China__China_poised_for_gr.pdf",
-        "data/pdfs/20260710_0138_China's_growing_economic_coercion_toolkit_-_EG_Con.pdf",
-        "data/pdfs/20260710_0236_EG_Global_Macro,_Aerospace_&_Defense__NATO's_summi.pdf",
-        "data/pdfs/20260710_0315_EG_South_Asia_Biweekly__Modi’s_Indonesia_trip_boos.pdf",
-        "data/pdfs/20260710_0531_EG_Canada__Washington_will_constrain_Ottawa’s_rese.pdf",
-        "data/pdfs/20260710_0555_EG_China_Weekly__Submarine_ballistic_missile_test_.pdf",
-        "data/pdfs/20260710_0801_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf",
-        "data/pdfs/20260710_0901_On_the_ground_in_China__Assessing_the_reset_of_Chi.pdf",
-        "data/pdfs/20260710_1023_APAC_&_Japan_Conference_Call__Claude_Mythos;_Cyber.pdf"
+        "data/pdfs/20260710_1323_EG_Research_Summary_in_Japanese__2026年7月10日.pdf",
+        "data/pdfs/20260710_1526_APAC_&_Japan_Conference_Call__Iran_war_&_ceasefire.pdf",
+        "data/pdfs/20260710_1528_Iran_war_&_ceasefire_outlook_-_EG_Conference_Call.pdf",
+        "data/pdfs/20260710_2011_Claude_Mythos;_Cyber_Power,_Competition_&_Global_R.pdf",
+        "data/pdfs/20260710_2146_EG_Daily_Brief__US_will_limit_Canada's_China_reset.pdf",
+        "data/pdfs/20260710_2304_China's_growing_economic_coercion_toolkit_-_EG_Con.pdf",
+        "data/pdfs/20260711_0107_EG_US_Daily__Watch_for_moves_against_Federal_Elect.pdf",
+        "data/pdfs/20260711_0149_Brazil_Update_-_The_fight_against_organized_crime_.pdf"
       ]
     },
     {
@@ -105,61 +75,67 @@
       "subjects": [
         [
           "2026-07-10",
-          "Research Summary for Jul 9, 2026",
-          "data/pdfs/20260710_0736_Research_Summary_for_Jul_9,_2026.pdf"
+          "EG Top 10 Most Read For Week Ending Jul 10, 2026",
+          "data/pdfs/20260710_2111_EG_Top_10_Most_Read_For_Week_Ending_Jul_10,_2026.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260710_0736_Research_Summary_for_Jul_9,_2026.pdf"
+        "data/pdfs/20260710_2111_EG_Top_10_Most_Read_For_Week_Ending_Jul_10,_2026.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
       "color": "RED",
-      "count": 6,
+      "count": 7,
       "bullets": [
         "要約取得に失敗しました。"
       ],
       "subjects": [
         [
-          "2026-07-09",
-          "Italy leads push to weaken green rules in €2T EU budget",
-          "data/pdfs/20260709_1635_Italy_leads_push_to_weaken_green_rules_in_€2T_EU_b.pdf"
-        ],
-        [
-          "2026-07-09",
-          "Le Pen’s strategy to win French presidency: Bring Bardella",
-          "data/pdfs/20260709_1736_Le_Pen’s_strategy_to_win_French_presidency__Bring_.pdf"
-        ],
-        [
-          "2026-07-09",
-          "Document: Brussels wants public contracts to prioritize quality",
-          "data/pdfs/20260709_1759_Document__Brussels_wants_public_contracts_to_prior.pdf"
-        ],
-        [
-          "2026-07-09",
-          "The UK’s PM-in-waiting eyes a casual version of the special",
-          "data/pdfs/20260709_1906_The_UK’s_PM-in-waiting_eyes_a_casual_version_of_th.pdf"
-        ],
-        [
-          "2026-07-09",
-          "Document: EU plans electrification target, but no sign of cooling",
-          "data/pdfs/20260709_1926_Document__EU_plans_electrification_target,_but_no_.pdf"
+          "2026-07-10",
+          "Trump decides against tariffs on aircraft and parts",
+          "data/pdfs/20260710_1304_Trump_decides_against_tariffs_on_aircraft_and_part.pdf"
         ],
         [
           "2026-07-10",
+          "The drive to get kids off social media",
+          "data/pdfs/20260710_1351_The_drive_to_get_kids_off_social_media.pdf"
+        ],
+        [
+          "2026-07-10",
+          "Brace for ETS on long-haul flights",
+          "data/pdfs/20260710_1402_Brace_for_ETS_on_long-haul_flights.pdf"
+        ],
+        [
+          "2026-07-10",
+          "Inside von der Leyen’s push for an EU social media ban",
+          "data/pdfs/20260710_1735_Inside_von_der_Leyen’s_push_for_an_EU_social_media.pdf"
+        ],
+        [
+          "2026-07-10",
+          "Britain risks new rift with Washington over deforestation",
+          "data/pdfs/20260710_1905_Britain_risks_new_rift_with_Washington_over_defore.pdf"
+        ],
+        [
+          "2026-07-11",
           "Pro Daily Headlines",
-          "data/pdfs/20260710_0031_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20260711_0031_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-07-12",
+          "Zelenskyy to replace Ukraine’s prime minister",
+          "data/pdfs/20260712_2215_Zelenskyy_to_replace_Ukraine’s_prime_minister.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260709_1635_Italy_leads_push_to_weaken_green_rules_in_€2T_EU_b.pdf",
-        "data/pdfs/20260709_1736_Le_Pen’s_strategy_to_win_French_presidency__Bring_.pdf",
-        "data/pdfs/20260709_1759_Document__Brussels_wants_public_contracts_to_prior.pdf",
-        "data/pdfs/20260709_1906_The_UK’s_PM-in-waiting_eyes_a_casual_version_of_th.pdf",
-        "data/pdfs/20260709_1926_Document__EU_plans_electrification_target,_but_no_.pdf",
-        "data/pdfs/20260710_0031_Pro_Daily_Headlines.pdf"
+        "data/pdfs/20260710_1304_Trump_decides_against_tariffs_on_aircraft_and_part.pdf",
+        "data/pdfs/20260710_1351_The_drive_to_get_kids_off_social_media.pdf",
+        "data/pdfs/20260710_1402_Brace_for_ETS_on_long-haul_flights.pdf",
+        "data/pdfs/20260710_1735_Inside_von_der_Leyen’s_push_for_an_EU_social_media.pdf",
+        "data/pdfs/20260710_1905_Britain_risks_new_rift_with_Washington_over_defore.pdf",
+        "data/pdfs/20260711_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260712_2215_Zelenskyy_to_replace_Ukraine’s_prime_minister.pdf"
       ]
     },
     {
@@ -172,13 +148,13 @@
       ],
       "subjects": [
         [
-          "2026-07-09",
-          "「ジェトロ・ビジネス短信」2026/07/09",
-          "data/pdfs/20260709_1811_「ジェトロ・ビジネス短信」2026_07_09.pdf"
+          "2026-07-10",
+          "「ジェトロ・ビジネス短信」2026/07/10",
+          "data/pdfs/20260710_1806_「ジェトロ・ビジネス短信」2026_07_10.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260709_1811_「ジェトロ・ビジネス短信」2026_07_09.pdf"
+        "data/pdfs/20260710_1806_「ジェトロ・ビジネス短信」2026_07_10.pdf"
       ]
     }
   ]
