@@ -437,8 +437,6 @@ def update_home():
     top_b = "".join(f"<li>{e(b)}</li>" for b in eco.get("top_bullets",[]))
     day_b = "".join(f"<li>{e(b)}</li>" for b in eco.get("day_bullets",[]))
     eco_subject = eco.get("subject","")
-    cover_img = eco.get("cover_local","economist_cover.jpg")
-
     eco_html = f"""
   <aside class="eco-sidebar">
     <div class="eco-header">
@@ -446,7 +444,7 @@ def update_home():
       <span class="eco-hdate">{DATE_JP}</span>
     </div>
     <div class="eco-cover-wrap">
-      <img src="../data/{cover_img}" alt="The Economist cover">
+      <img src="../data/economist_cover.jpg" alt="The Economist cover">
     </div>
     <div class="eco-sub">{e(eco_subject)}</div>
     <div class="eco-section">
