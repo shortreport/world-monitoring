@@ -50,7 +50,7 @@ BASE          = Path(__file__).parent
 DATA_DIR      = BASE / "docs" / "data"
 BRIEFINGS_DIR = DATA_DIR / "briefings"
 EN_SUMMARY    = BASE / "docs" / "en" / "summary.html"
-JP_SUMMARY    = BASE / "docs" / "summary.html"
+JP_C_SUMMARY  = BASE / "docs" / "jp" / "summary.html"
 PDF_LATEST    = BASE / "docs" / "briefing_latest.pdf"
 MODEL         = "claude-haiku-4-5-20251001"
 GH_TOKEN      = os.environ.get("GH_TOKEN", "")
@@ -438,31 +438,30 @@ def build_jp_pdf(sections_ja: list, sections_en: list, date_jp: str):
     print(f"[PDF] 生成完了: {PDF_LATEST}")
 
 
-# ── JP summary.html アーカイブリスト更新 ─────────────────────────────────────
-def update_jp_summary_archive(date_jp_full: str, archive_filename: str):
-    if not JP_SUMMARY.exists(): return
-    txt = JP_SUMMARY.read_text(encoding="utf-8")
+# ── Type C JP summary.html 更新 ───────────────────────────────────────────────
+def update_type_c_summary(archive_filename: str):
+    if not JP_C_SUMMARY.exists(): return
+    txt = JP_C_SUMMARY.read_text(encoding="utf-8")
+    now_jst = datetime.now(JST)
+    today = now_jst.strftime("%Y-%m-%d")
+    pdf_path = f"../data/briefings/{archive_filename}"
+    date_jp  = now_jst.strftime("%Y年%m月%d日")
+    datetime_jp = now_jst.strftime("%Y年%m月%d日 %H:%M")
 
-    # メイン PDF ラベルの日付を更新
-    txt = re.sub(r'エグゼクティブ・ブリーフィング &nbsp;\d{4}年\d{2}月\d{2}日',
-                 f'エグゼクティブ・ブリーフィング &nbsp;{date_jp_full}', txt)
+    # アーカイブに先頭追��（重複チェック）
+    if today not in txt:
+        new_entry = f'<li class="arch-item"><a class="arch-link" href="{pdf_path}" target="_blank">📄 {today} ブリーフィング</a></li>'
+        txt = re.sub(r'(<ul[^>]*class="[^"]*arch[^"]*"[^>]*>)', r'\1\n    ' + new_entry, txt, count=1)
 
-    # ヘッダー日付を更新
-    txt = re.sub(r'(<div class="header-date">)\d{4}年\d{2}月\d{2}日(</div>)',
-                 rf'\g<1>{date_jp_full}\g<2>', txt)
+    # iframe src を今日の PDF に更新
+    txt = re.sub(r'(<iframe[^>]*src=")[^"]*(")', rf'\g<1>{pdf_path}\g<2>', txt, count=1)
 
-    # 最終更新時刻を更新
-    now_jst = datetime.now(JST).strftime("%Y年%m月%d日 %H:%M")
-    txt = re.sub(r'最終更新: \d{4}年\d{2}月\d{2}日 \d{2}:\d{2} JST',
-                 f'最終更新: {now_jst} JST', txt)
+    # ヘッダー日付・最終更新時刻を更新
+    txt = re.sub(r'(<div class="header-date">)[^<]*(</div>)', rf'\g<1>{date_jp}\g<2>', txt)
+    txt = re.sub(r'(最終更新:)[^<]*(</div>)', rf'\g<1> {datetime_jp}\g<2>', txt)
 
-    # アーカイブに先頭追加（既存エントリが既にある場合は追加しない）
-    new_entry = f'    <li><a href="data/briefings/{archive_filename}" download class="arch-link">📄 エグゼクティブ・ブリーフィング　{date_jp_full}</a></li>'
-    if archive_filename not in txt:
-        txt = txt.replace('<ul class="arch-list">', f'<ul class="arch-list">\n{new_entry}')
-
-    JP_SUMMARY.write_text(txt, encoding="utf-8")
-    print(f"[JP Summary] アーカイブリスト更新完了")
+    JP_C_SUMMARY.write_text(txt, encoding="utf-8")
+    print(f"[JP Summary] Type C アーカイブリスト更新完了")
 
 
 # ── git + deploy ──────────────────────────────────────────────────────────────
@@ -553,8 +552,8 @@ def main():
     shutil.copy2(PDF_LATEST, archive_path)
     print(f"[PDF] アーカイブ: {archive_path}")
 
-    # ── 6. JP summary.html アーカイブリスト更新 ─────────────────────────────
-    update_jp_summary_archive(date_jp_full, archive_name)
+    # ── 6. Type C JP summary.html 更新 ──────────────────────────────────────
+    update_type_c_summary(archive_name)
 
     # ── 7. git + deploy ─────────────────────────────────────────────────────
     print("\n[Git] コミット＆プッシュ中...")
