@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:Brazil Update - The fight against organized crime - EG Conference 
+ Call
+DTSTART;VALUE=DATE-TIME:20260715T150000Z
+DTEND;VALUE=DATE-TIME:20260715T160000Z
+DESCRIPTION:Eurasia Group in partnership with The Brazil Program at the In
+ ter-American\nDialogue will have a conversation with Fabio Ramazzini Becha
+ ra\, who is\ncurrently at the Department of Transnational Organized Crime 
+ at the\nOrganization of American States. The conversation will focus on th
+ e fight\nagainst organized crime in Brazil and the region. Clients on the 
+ call will get\nan opportunity to ask questions during the conversation in 
+ a moderated Q&A.\n  * Progress on how Brazil and countries in Latin Americ
+ a have increased their tools to fight organized crime\n  * The extent of c
+ ooperation in the region with the US in light of FTO designations\n  * Ris
+ k of state capture by the growing sophistication of organized crime\n\n\n\
+ n\nRegister Here: https://us02web.zoom.us/webinar/register/WN_2OnYyXutTfqZ
+ Amb3F-aKSw\n\nSpeaker(s):\n\nFabio Ramazzini Bechara\nOrganization of Amer
+ ican States\, Public Prosecutor for the state of Sao Paulo\n\nBruna Santos
+ \nDirector of the Brazil Program at the Inter-American Dialogue\n\nCall-in
+ :\n_Please note this invitation is non-transferrable and space is limited.
+   \n  \nRegistration for this event is required.  \n  \nAfter registering\
+ , you will receive an email with instructions to join the\nmeeting\, inclu
+ ding local dial-in information and a meeting invitation you can\nadd to yo
+ ur calendar. Please note you must be logged in from a computer or\nmobile 
+ app in order to ask a question.  \n  \nPlease allow a few minutes before t
+ he call to join the meeting\, and connect\naudio by following the prompts 
+ from the conference call platform._
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260715T144500Z
+UID:2c1f3645-7c7f-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:2c1f3644-7c7f-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR

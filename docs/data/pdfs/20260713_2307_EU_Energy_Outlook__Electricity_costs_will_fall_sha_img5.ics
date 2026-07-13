@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:EU Energy Outlook: Electricity costs will fall sharply by 2030 - E
+ G Conference Call
+DTSTART;VALUE=DATE-TIME:20260714T123000Z
+DTEND;VALUE=DATE-TIME:20260714T133000Z
+DESCRIPTION:Please join Eurasia Group's analyst team for an update on Euro
+ pe's short-term\nand long-term energy outlook based on geopolitical develo
+ pments and EU policy\nand investment trends.\n  * Winter 2026/2027 power a
+ nd gas outlook \n  * Longer-term power cost outlook to 2030 based on polic
+ y and investment developments\n  * Regional update (incl. France\, Germany
+ \, Italy\, Netherlands\, Poland\, Spain)\n\n\nRegister Here: https://us02w
+ eb.zoom.us/webinar/register/WN_M_wi0k3kRuKVXrrRidJeAg\n\nCall-in:\nRegistr
+ ation for this event is required.  \n  \nAfter registering\, you will rece
+ ive an email with instructions to join the\nmeeting\, including local dial
+ -in information and a meeting invitation you can\nadd to your calendar. Pl
+ ease note you must be logged in from a computer or\nmobile app in order to
+  ask a question.  \n  \nPlease allow a few minutes before the call to join
+  the meeting\, and connect\naudio by following the prompts from the confer
+ ence call platform.\n\nReplay:\nA recording of this call will be available
+  on the [Eurasia Group\nportal](https://library.eurasiagroup.net/events/) 
+ and mobile app approximately\nthree hours after the event concludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260714T121500Z
+UID:bbe80b29-7baf-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:bbe80b28-7baf-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR
