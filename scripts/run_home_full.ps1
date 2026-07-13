@@ -39,7 +39,7 @@ $diff = & git diff --staged --quiet 2>&1; $changed = ($LASTEXITCODE -ne 0)
 if (-not $changed) {
     "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] B/C 変更なし。スキップします。" | Out-File $LOGFILE -Append -Encoding UTF8
 } else {
-    $ts = Get-Date -Format "yyyy-MM-dd HH:mm JST"
+    $ts = Get-Date -Format 'yyyy-MM-dd HH:mm JST'
     & git commit -m "Home update (B/C): $ts" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
     & git push 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
     if ($LASTEXITCODE -ne 0) {
