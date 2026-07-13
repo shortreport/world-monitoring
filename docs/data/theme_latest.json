@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13 00:00:07",
+  "generated_at": "2026-07-13 17:19:25",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-12 23:59:41",
+      "last_checked": "2026-07-13 17:18:55",
       "items": [
         {
           "uid": "fe4856b1c93e",
@@ -1919,8 +1919,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-12 23:59:53",
+      "last_checked": "2026-07-13 17:19:04",
       "items": [
+        {
+          "uid": "ae31610e101c",
+          "date": "2026-05-07",
+          "title": "Slotkin calls Chinese-made vehicles ‘TikTok on wheels’ as she rolls out new legislation to ban them - Michigan Advance",
+          "summary": "ミシガン州の下院議員スロットキンが、中国製車両をデータ収集リスク「車輪の上のTikTok」と呼んで、米国での販売を禁止する新法案S.4429を提出した。同法案は、中国製自動車による個人情報収集と国家安全保障上の脅威を懸念して規制することを目的としている。",
+          "source": "議員発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ1ZNVVpkRjU3aHVBa3Nrc014WmVyRVhGYm1NSzVOUG5LQWFBaGxac1dfMDJIRlVFd2ViVE8xQ2xsMWhDNW9HVU1Uano2VHg5TEZRUUN6elJNTkRiZVlkSkIyZjhsX1lCNXoySFhFajcxTU9sNEVvX196LXFYOVptQjhLVUFIQjBkeHR6M2ptMmU0X256Z3JJRUloRkprZGVkaWRoYzNTRGxoUmdSa3F0N3RyWS1UOWtvTjgzZUZPYkw1aWI4Qllyc1VZNVVBcTdqWVpN?oc=5",
+          "added_at": "2026-07-13 17:19:02"
+        },
         {
           "uid": "29105a5df352",
           "date": "2026-06-12",
@@ -3910,16 +3920,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVDU3dExwWUZaZUprR2g2Y3Vid3pDbUdyLUp6TnFDQUhLNTFDa054VUJXNHBnaVVDTG5OelZRVUtGdG9VbHdKRHNJdXc3UkpZcmVXcFdHVUYyN2lKa3JPM2EtS2pCeDFmWFh1OW9nY1hTb192bmNMXzRUSTdLYmpkbTZkdTJlR29XWVgybzhtNHVRbVpFcXVQRmdybTRmNGhNTEV1MUxxLTBhd3o3V2xTblBCd0M2aExQOTVkV2YyN0pYVU1vNlJHXzJaNGRDM3N5dWRZWUY2aGVlYmF0OFVzOHc0SHp4X0NSV1hkN2hOSS01RHJPUlE?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "732654969efa",
-          "date": "2026-05-14",
-          "title": "Bipartisan bill seeks permanent ban on Chinese connected vehicles in US - MSN",
-          "summary": "米国の超党派議員が提出したS.4429法案は、中国製の接続車両（インターネット接続機能を備えた自動車）の米国市場への進入を恒久的に禁止することを目的としており、国家安全保障上の懸念から中国企業による米国の走行データ収集やシステムへのアクセスを防止しようとしています。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbHQwR1o5Sk9DRmptTGpxdmlnSEU4UDZoaWtldlBWaFBUMTduUlNPYjY3X2plbnUtVDVBejJwTFVpUEtSMS1EM09qcWJEWkFFUnVlYTBDMHdYQU1nR1BETTA2ejdaSExhZVBsNTBueXl6UW5KZVQ4cXo0TmRQc2ZjTjVSUVlXSWROb3dTZnQ3amd6QWhCQlhsQ1NTcklRQVllU2RaSVJRaXFFUk4tVk1uYTVIU0U0Rkh2QjRUbW16emZsOTlwYTViOTdVS1RYSXMtdEVTOE83WVBKWlZFaWRCTDNVVEhyRjA1NEM2dV9oZTBYeklj?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3930,8 +3930,68 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-13 00:00:07",
+      "last_checked": "2026-07-13 17:19:25",
       "items": [
+        {
+          "uid": "bb2cb52a0fe2",
+          "date": "2026-06-24",
+          "title": "China’s new front in rare earth export violations: rewarding tip-offs - South China Morning Post",
+          "summary": "中国がレアアース違法輸出の告発者に報奨金を支給する制度を導入し、輸出規制の厳格化を進めています。この措置により、密輸や過度な輸出に関する情報提供を奨励し、戦略的資源であるレアアースの統制を強化しようとしています。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPXzdTU0RubE5aX2xLNF9rUnVLd1loaUZvRjJYUEo4MFpkMTFJYlR1ZnVZTjlTVERQOHBNUDFIRU1KWkhQMnZTbl93UDV6enlmRUk4ZjRJUk1WYnExUnhsRUdGNDFpVW1FalFfT2xZSGhrSTBZcm9KbFdqSlFYTUFLRUtockFpV0pLeXhkUHptQXJMMU1SMUpMTy1FZDFwM1dadVYybHFULXV0aFhsaHJHNmYxN0QxTEV1NktvX3R6Qmpqblhj?oc=5",
+          "added_at": "2026-07-13 17:19:16"
+        },
+        {
+          "uid": "f1fce3100d22",
+          "date": "2026-07-07",
+          "title": "One Year After Rare Earth Restrictions, the Winner Was Not Alternative Materials, but \"Conservation\"｜ZERO - note",
+          "summary": "中国がレアアース輸出を制限してから1年経った結果、代替材料の開発よりも、既存製品の省資源化・効率化による「保全」が実質的な解決策となったことが示されている。この事例は、技術革新よりも現有資源の最適利用が、レアアース供給不安への対応として有効であったことを示唆している。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nRUNRR3k5Rkp0Q0lweG9GS3ZqbUQ5QzdGYURzc1lfQWNhdm1tTmhsUDJsVFZxVURmUVhDRkpqTm55djItZkpLVUVzcmdZelBuelN5bjZmZm9QMXc?oc=5",
+          "added_at": "2026-07-13 17:19:16"
+        },
+        {
+          "uid": "4acfafe98e9a",
+          "date": "2026-04-16",
+          "title": "US Senate narrowly overturns Minnesota mining ban, sending bill to Trump - Mining.com",
+          "summary": "米国上院がミネソタ州の鉱山採掘禁止令をわずかな差で覆し、トランプ大統領に法案を送付したことで、米国内でのレアアース採掘可能性が広がり、中国へのレアアース供給依存を減らす重要なステップが進展した。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVNDb1RJT2o4OFBfRE11Mnpwajg1OE5NZW9BNFVrdzRDN01uWXFLNDlUUkUya1JnbndDcmpXM2VQOUpvbUdqUGk3aVJ5TXlIN3VKbkpOTmsyLUVCNzZ5YURrN25oSGtUWnZyaUttSDJtcHVqSWJWa3RRa3RfSktHaVNyRDBTTlNmcTFaRnVQN09FRU40bkJFaFU2dEZGMDg?oc=5",
+          "added_at": "2026-07-13 17:19:16"
+        },
+        {
+          "uid": "2751236719a5",
+          "date": "2026-06-22",
+          "title": "China targets U.S. rare earths firms in response to Pentagon list - The Japan Times",
+          "summary": "中国は、米国防総省がレアアース企業リストを公表したことに対抗して、米国のレアアース企業を標的にする措置を講じている。これは中国がレアアース供給を武器化し、地政学的な対抗手段として活用する戦略を示唆している。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0tVT25EQWRpek9jRWhXeXIwbnhuaGtTVVJhcU1xYUlGYmhlalJXSmtEZFQtRWwwOFRyRzFFS1h2bjE4SS00b3piTnZ0T0pMbnFSRldCTVdLZUdCUWpJQS1IaG1INmpkU29hWTJUNWxacE1ScDR4Q0lRMVJNcXdVT0tsV3VVZw?oc=5",
+          "added_at": "2026-07-13 17:19:16"
+        },
+        {
+          "uid": "aaf03b591d05",
+          "date": "2026-07-12",
+          "title": "UN Ambassador Waltz: Cuba’s regime ‘is a national security threat’",
+          "summary": "この記事は中国レアアース輸出管理との関連性が認められないため、要約対象として適切ではありません。同記事はキューバの国家安全保障上の脅威とアメリカの対キューバ政策に関する内容であり、レアアース輸出管理とは無関係です。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/5964821-cuba-national-security-threat/",
+          "added_at": "2026-07-13 17:19:16"
+        },
+        {
+          "uid": "7fe354eef4aa",
+          "date": "2026-07-12",
+          "title": "Congress should share, not shield, US artificial intelligence tech",
+          "summary": "中国が米国の輸出規制を回避するため、GPU の代わりに CPU 標準マイクロプロセッサのネットワークを使用して世界最速のスーパーコンピュータ「LineShine」を開発したことは、レアアースを含む先端技術の輸出管理における規制の実効性が限定的であることを示している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/technology/5963691-china-tech-race-supercomputer/",
+          "added_at": "2026-07-13 17:19:16"
+        },
         {
           "uid": "da031c249518",
           "date": "2026-05-20",
@@ -5871,66 +5931,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSWhLR1ZzMDRRcWpBbE44X2VxSGs1bDhRVm40U1NoZEhwUkFvTWFDcGhrRUQ2N1U0WDBfa0NVbi05RDNyb3QxVTFVeXVRZFFQVlFDOTVtb255WThPOGdpX3V6Q1E3ZGdqeDFQLXllLTk1aFR1MmxIdjJpYkJHaVNsVnEtNkdiSEhlUVowZnlUMERTejF1R1JVaWpKYkkxVWNKM19xTjhUMWxJX0dwN3g4bmtHN2cwRkQ0ZW5wa1gybVh5WTRDWGs0b3NtakZDeXZkQ25QQzJIeWdNMHYzMVE?oc=5",
           "added_at": "2026-06-25 03:26:46"
-        },
-        {
-          "uid": "d425d135a57b",
-          "date": "2026-05-06",
-          "title": "Critical raw materials: Rough trade - Emerging Europe",
-          "summary": "中国がレアアースを含む重要鉱物資源の輸出規制を強化する中、新興ヨーロッパ諸国はサプライチェーン依存の低減とリサイクル産業の強化により、中国への供給依存脱却を図っている。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nMjFKYXNPclUwUC1yYjI3dzNGUHlLS2Nqc2NLRzdBbEJrdnFub09BVzQ2UHRDdnlTVnNjSm10bWVLTGlld0I3MjVjczgxVS1sX3c?oc=5",
-          "added_at": "2026-06-24 20:27:46"
-        },
-        {
-          "uid": "28655cfe6ca6",
-          "date": "2026-06-22",
-          "title": "China targets US rare earth and other firms with export controls - Reuters",
-          "summary": "中国は米国企業を標的にレアアース関連企業を含む輸出管理を強化し、米国による対中制裁への報復措置として機能させている。具体的には、レアアース加工技術や製品の輸出許可を制限することで、米国企業のサプライチェーンに圧力をかけている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTFRNGkzaENWU2dUd0hseGlKUjVhT0NlVVAwRUVlcFRPQW5BdEZhWVdwSFQ0ZGJaaTlYcXFScEdkUGFRcWdyUFpyZHhVU1dCdzE0bUk3RHQwdU5TVnZGa25IUGN1X01qRXo4SU9Nd2hKT0pEYVJNM1VLdXdaaHdrSHh6R2MySFp1RTdwc3YxUC1mN2ZrbVBLYkg2LUg1N3BOZk84TGRDX2NQcWM3M1BOSlc0eFZZZw?oc=5",
-          "added_at": "2026-06-24 20:27:46"
-        },
-        {
-          "uid": "70215c85a241",
-          "date": "2026-06-19",
-          "title": "Japan seeks G7 price floors to break China’s rare earth grip - Asia Times",
-          "summary": "日本はG7に対して中国のレアアース独占を打破するための価格下限設定を提案しており、これにより中国による供給制限や過度な価格操作に対抗しようとしています。この戦略は、西側諸国がレアアース市場における中国の支配力を削減し、サプライチェーンの多角化を促進することを目的としています。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa3FuV2JoWWpJcGJQbDZ2N19LcnFHSHZtdUMwSGRycmhjTTMtWk5XdlZ5VlQxQWZuSDNaYlFQRlRwQ3JZUlJrSFhrS21nS2x2NzlFaGxwc0VlRmRISnM1THN2SjRBVWF1V0hCSDdXaC1FVGZrbHE1dmlSNFpENlh2SjlwSWdYNVdBb1pJY3VuY0h4VFEt?oc=5",
-          "added_at": "2026-06-24 20:27:46"
-        },
-        {
-          "uid": "784cc62782e5",
-          "date": "2026-05-28",
-          "title": "Pentagon Drone Rare Earth Magnets and China’s Supply Chain Crisis - Discovery Alert",
-          "summary": "中国がレアアース鉱物の輸出管理を強化する中、米国防総省はドローン製造に不可欠なレアアース磁石の中国依存を軽減するための対策が急務となっており、サプライチェーンの脆弱性が国防上の課題として浮き彫りになっている。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbXhfTlFnR0tvVTVvR1k1Q3R2SkhuWGNRNWpJR3RXamxCS0NBZ1BkMmtLZWhoRGU4TDdDSklIbTBkRzhrclZpQlpOWk9lb2JvTkZIdV8xcjFDbEctZUJaNHJ2NVNmNW5pVDZxZ0lpQVk4RHdhd2FlaUlVWUh1anhHaFI5am5QMzdPSnNyYXpjZGxaZw?oc=5",
-          "added_at": "2026-06-24 20:27:46"
-        },
-        {
-          "uid": "81eb53dcdc1e",
-          "date": "2026-04-10",
-          "title": "Neo's Estonia Plant Boosts Europe's Rare Earth Independence - BriefGlance",
-          "summary": "# 要約\n\nネオジムの子会社がエストニアに稀土類処理施設を建設することで、欧州が中国のレアアース輸出管理に対する依存度を低減し、サプライチェーンの自給率向上を目指している。",
-          "source": "EU戦略的原材料法",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMUlxWnVSal84enNqRldRNW9qMGgyaFJISHk4M3NLZTNaZVo3YVdmal9XZm9RS1BMcDJfSTRkNU5raFRRbDdDZnJ3SFU3RTJRZTlEMV8zUEdGZ0JPUW1YV2t4eUkwVlBjWDZJZHM5ZDlGNEhfMUVHT3hBRklaNGQwcjFPVUJVRXNCWENfdHNUZG1yOFBu?oc=5",
-          "added_at": "2026-06-24 20:27:46"
-        },
-        {
-          "uid": "f4aa90684086",
-          "date": "2026-06-23",
-          "title": "China's Rare Earth Prices Climb Again: Heavy Rare Earths Lead as Supply Concerns Persist - Rare Earth Exchanges",
-          "summary": "中国のレアアース価格が再び上昇し、特に重希土類が主導する形で値上がりが続いており、これは供給懸念が解消されていない状況を反映している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZEFUTVkyLWZsOFVwM0tBcmZndHNmX2dVT1YtTjZUNmRWNF9SUVRDY3B1dUhJZFlDT3dOMUtSQjdYeW1NbGY4d3ROOVgwMXpfc2NQV3NtRW9sVGo2a1ZyYlhtS2xDdXpxZE1fWHptWlBGNUt0aXFmdlZjR2VuaUJfS3BrS3ZkLVRQY0p1bjVVMUc4OW5ZTDdXQmdMVGJuYXFqZGZWdjE3dVhQUnVpdUNiX3MwTHI1SlBrSlZkZGRHbDI?oc=5",
-          "added_at": "2026-06-24 20:27:46"
         }
       ]
     }
