@@ -52,7 +52,7 @@ BRIEFINGS_DIR = DATA_DIR / "briefings"
 EN_SUMMARY    = BASE / "docs" / "en" / "summary.html"
 JP_C_SUMMARY  = BASE / "docs" / "jp" / "summary.html"
 PDF_LATEST    = BASE / "docs" / "briefing_latest.pdf"
-MODEL         = "claude-haiku-4-5-20251001"
+MODEL         = "claude-sonnet-5"
 GH_TOKEN      = os.environ.get("GH_TOKEN", "")
 JST           = timezone(timedelta(hours=9))
 
@@ -192,14 +192,27 @@ def generate_en_summary(source_text: str, client, date_en: str) -> dict:
 
 
 # ── Claude: 日本語翻訳 ─────────────────────────────────────────────────────────
+TRANSLATE_MODEL   = "claude-sonnet-5"
+TRANSLATE_SYSTEM  = """\
+あなたはエグゼクティブ向けインテリジェンス・ブリーフィングを専門とするプロの翻訳者です。
+英語の原文を、経営幹部が読む格調ある自然な日本語に翻訳します。
+文体は「〜である」調（体言止め可）。硬すぎず、平易すぎず、ビジネス誌（週刊東洋経済・日経ビジネス）レベルを目安にしてください。
+"""
+
 def translate_sections_to_ja(sections: list, client) -> list:
     items = "\n".join(
         f'[{i}] headline: {s["headline"]}\nbody: {s["body"]}'
         for i, s in enumerate(sections)
     )
     prompt = (
-        "以下の英語テキストを自然な日本語に翻訳してください。\n"
-        "JSONのみ返してください（他のテキスト不要）:\n"
+        "以下の英語ブリーフィングを日本語に翻訳してください。\n"
+        "【翻訳ルール】\n"
+        "- 原文にない情報・背景・推測を一切追加しないこと\n"
+        "- 「今週」「先日」「昨日」等の時間表現は原文に明示がある場合のみ使用\n"
+        "- Thucydides Trap →「トゥキディデスの罠」\n"
+        "- 数字・固有名詞・組織名は正確に保持すること\n"
+        "- ぎこちない直訳を避け、意味を保ちながら自然な日本語の語順・表現に整えること\n"
+        "JSONのみ返してください（前後の説明文不要）:\n"
         "[\n"
         '  {"headline_ja": "...", "body_ja": "..."},\n'
         "  ... (同じ順序で4件)\n"
@@ -207,10 +220,12 @@ def translate_sections_to_ja(sections: list, client) -> list:
         f"{items}"
     )
     resp = client.messages.create(
-        model=MODEL, max_tokens=1200,
+        model=TRANSLATE_MODEL, max_tokens=2000,
+        system=TRANSLATE_SYSTEM,
         messages=[{"role": "user", "content": prompt}]
     )
-    return parse_json_safe(resp.content[0].text)
+    text = next((b.text for b in resp.content if hasattr(b, "text")), "[]")
+    return parse_json_safe(text)
 
 
 # ── EN HTML 生成 ──────────────────────────────────────────────────────────────
@@ -428,11 +443,48 @@ def build_jp_pdf(sections_ja: list, sections_en: list, date_jp: str):
 
     story += [Spacer(1, 4*mm), HRFlowable(width="100%", thickness=1.5, color=BLK)]
 
+    # 1パス目: 総ページ数を取得
+    buf = io.BytesIO()
+    doc_count = SimpleDocTemplate(
+        buf, pagesize=A4,
+        topMargin=11*mm, bottomMargin=13*mm,
+        leftMargin=22*mm, rightMargin=22*mm,
+    )
+    doc_count.build(story)
+    total_pages = doc_count.page
+
+    # ストーリーを再構築（build後はフローアブルが消費されるため）
+    story = [
+        Paragraph("エグゼクティブ・ブリーフィング", S_TITLE),
+        Spacer(1, 2*mm),
+        Paragraph(date_jp, S_META),
+        Spacer(1, 11*mm),
+        HRFlowable(width="100%", thickness=3, color=BLK),
+        Spacer(1, 6*mm),
+    ]
+    for i, (sec_ja, sec_en) in enumerate(zip(sections_ja, sections_en)):
+        tag_en  = sec_en.get("tag","")
+        tag_jp  = TAG_MAP.get(tag_en, f"【{tag_en}】")
+        hl_ja   = sec_ja.get("headline_ja","")
+        body_ja = sec_ja.get("body_ja","")
+        body_ja = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", body_ja)
+        story.append(KeepTogether([
+            HRFlowable(width="100%", thickness=1.5, color=BLK, spaceAfter=3*mm),
+            Paragraph(f'<b>{tag_jp}</b>　{hl_ja}', S_LABEL),
+            Spacer(1, 4*mm),
+            Paragraph(body_ja, S_BODY),
+        ]))
+        if i < len(sections_ja) - 1:
+            story.append(Spacer(1, GAP))
+    story += [Spacer(1, 4*mm), HRFlowable(width="100%", thickness=1.5, color=BLK)]
+
+    # 2パス目: 最終ページのみ「以上」を描画
     def draw_footer(canvas, doc):
-        canvas.saveState()
-        canvas.setFont('JPN', 11)
-        canvas.drawRightString(A4[0] - 22*mm, 8*mm, "以　　上")
-        canvas.restoreState()
+        if canvas.getPageNumber() == total_pages:
+            canvas.saveState()
+            canvas.setFont('JPN', 11)
+            canvas.drawRightString(A4[0] - 22*mm, 8*mm, "以　　上")
+            canvas.restoreState()
 
     doc.build(story, onFirstPage=draw_footer, onLaterPages=draw_footer)
     print(f"[PDF] 生成完了: {PDF_LATEST}")
