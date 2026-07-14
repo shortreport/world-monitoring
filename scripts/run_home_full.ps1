@@ -1,4 +1,4 @@
-$BASE   = "C:\Users\shondo\Desktop\agent_project"
+﻿$BASE   = "C:\Users\shondo\Desktop\agent_project"
 $PYTHON = "$BASE\venv\Scripts\python.exe"
 $env:PYTHONUTF8 = "1"
 
@@ -40,7 +40,8 @@ if (-not $changed) {
     "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] B/C 変更なし。スキップします。" | Out-File $LOGFILE -Append -Encoding UTF8
 } else {
     $ts = Get-Date -Format 'yyyy-MM-dd HH:mm JST'
-    & git commit -m "Home update (B/C): $ts" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
+    $commitMsg = 'Home update (B/C): ' + $ts
+    & git commit -m $commitMsg 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
     & git push 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
     if ($LASTEXITCODE -ne 0) {
         "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] push 失敗。merge でリトライ..." | Out-File $LOGFILE -Append -Encoding UTF8

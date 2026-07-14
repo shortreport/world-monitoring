@@ -1,4 +1,4 @@
-$BASE   = "C:\Users\shondo\Desktop\agent_project"
+﻿$BASE   = "C:\Users\shondo\Desktop\agent_project"
 $PYTHON = "$BASE\venv\Scripts\python.exe"
 $env:PYTHONUTF8 = "1"
 
