@@ -65,6 +65,7 @@ ROLLING_JSON = BASE / "docs" / "data" / "mail_rolling.json"
 HTML_DIR     = BASE / "docs" / "data" / "pdfs"   # html/pdf 両方ここに置く
 EN_HTML      = BASE / "docs" / "en" / "intelligence.html"
 MODEL        = "claude-haiku-4-5-20251001"
+QUALITY_MODEL = "claude-sonnet-5"   # sidebar summary / JP translation
 JST          = timezone(timedelta(hours=9))
 GH_TOKEN     = os.environ.get("GH_TOKEN") or _get_gh_token()
 
@@ -286,15 +287,16 @@ def get_unread(ns, folder_name: str) -> list:
 
 # ── HTML 抽出・保存 ───────────────────────────────────────────────────────────
 _EG_ANALYST_RE = re.compile(
-    r'https://library\.eurasiagroup\.net//tag/analystimage/([^/\s"\']+)/([^/\s"\']+)'
+    r'https://library\.eurasiagroup\.net//tag/(?:analystimage|guestimage)/([^/\s"\']+)/([^/\s"\']+)'
 )
 
 def _download_analyst_photo(url: str, img_dir: Path) -> str:
-    """外部アナリスト写真URLをローカルJPEGにDLしてファイル名を返す。失敗時は元URLを返す。"""
+    """外部アナリスト/ゲスト写真URLをローカルJPEGにDLしてファイル名を返す。失敗時は元URLを返す。"""
     try:
-        analyst_id = url.rstrip("/").split("/")[-1]
-        safe_id = re.sub(r'[^a-zA-Z0-9._@-]', '_', analyst_id)
-        local_name = f"eg_analyst_{safe_id}.jpg"
+        # URL パス全体をファイル名に使う（/tag/guestimage/2700/0 → eg_img_tag_guestimage_2700_0）
+        path_part = re.sub(r'[^a-zA-Z0-9._@-]', '_', url.split("library.eurasiagroup.net")[-1].strip("/"))
+        safe_id = path_part[:60]
+        local_name = f"eg_img_{safe_id}.jpg"
         local_path = img_dir / local_name
         if not local_path.exists():
             req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
@@ -358,12 +360,49 @@ def translate_subject(subject: str, client) -> str:
         return subject
 
 
+def translate_jetro_body(subject_en: str, body_text: str, client) -> str:
+    """JETRO本文を英語に翻訳する"""
+    try:
+        resp = client.messages.create(
+            model=MODEL, max_tokens=1500,
+            messages=[{"role": "user", "content":
+                "Translate the following Japanese business news email to English. "
+                "Keep each news item as a separate paragraph. Be concise and accurate. "
+                "Return only the translated text, no commentary.\n\n"
+                f"Subject: {subject_en}\n\n{body_text[:3000]}"}]
+        )
+        return resp.content[0].text.strip()
+    except Exception as ex:
+        print(f"  [WARN] JETRO本文翻訳失敗: {ex}")
+        return ""
+
+
+def make_jetro_en_pdf(subject_en: str, date_label: str, body_en: str, out_path: Path):
+    """JETRO英語版PDFを生成"""
+    def esc(s): return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    doc = SimpleDocTemplate(str(out_path), pagesize=A4,
+                            leftMargin=24*mm, rightMargin=24*mm,
+                            topMargin=22*mm, bottomMargin=22*mm)
+    st = ParagraphStyle("t", fontName="JPB", fontSize=13, leading=20, textColor=HexColor("#1a1a2e"))
+    sm = ParagraphStyle("m", fontName="JP",  fontSize=9,  leading=14, textColor=HexColor("#666688"))
+    sb = ParagraphStyle("b", fontName="JP",  fontSize=10, leading=17, leftIndent=4)
+    story = [
+        Paragraph(esc(subject_en), st),
+        Paragraph(f"JETRO &nbsp; {esc(date_label)}", sm),
+        Spacer(1, 6*mm),
+        HRFlowable(width="100%", thickness=0.8, color=HexColor("#aaaacc"), spaceAfter=4*mm),
+    ]
+    for line in body_en.splitlines():
+        story.append(Paragraph(esc(line), sb) if line.strip() else Spacer(1, 2*mm))
+    doc.build(story)
+
+
 def generate_bilingual_summary(subject: str, body_text: str, is_ja: bool, client) -> dict:
     """自動車関連メールの EN+JA 要約を 1 call で生成"""
     lang_note = "The source is in Japanese." if is_ja else "The source is in English."
     try:
         resp = client.messages.create(
-            model=MODEL, max_tokens=500,
+            model=QUALITY_MODEL, max_tokens=500,
             messages=[{"role": "user", "content":
                 f"{lang_note} Write a concise automotive-industry summary.\n"
                 "Return JSON only:\n"
@@ -371,7 +410,7 @@ def generate_bilingual_summary(subject: str, body_text: str, is_ja: bool, client
                 ' "summary_ja": "same in natural Japanese, 2-3 sentences, no heading"}\n\n'
                 f"Subject: {subject}\n{body_text[:2500]}"}]
         )
-        d = parse_json_safe(resp.content[0].text)
+        d = parse_json_safe(next((b.text for b in resp.content if hasattr(b, "text")), "{}"))
         return {
             "summary_en": d.get("summary_en", ""),
             "summary_ja": d.get("summary_ja", ""),
@@ -391,18 +430,21 @@ def generate_sidebar_summary(toyota_entries: list, client) -> str:
         return ""
     try:
         resp = client.messages.create(
-            model=MODEL, max_tokens=400,
+            model=QUALITY_MODEL, max_tokens=350,
+            system=(
+                "You are a senior analyst writing the Key Takeaways sidebar for a C-suite automotive intelligence dashboard. "
+                "Your job is to synthesize — not summarize each source. "
+                "Identify the 1-2 developments that genuinely matter for the global auto industry and explain why, concisely. "
+                "Ignore items that are only tangentially related to automotive. "
+                "Write in plain, direct English. No headings, no bullets, no markdown. "
+                "2 short paragraphs maximum. Be specific. No filler."
+            ),
             messages=[{"role": "user", "content":
-                "You are writing the sidebar of an intelligence dashboard for a global automaker.\n\n"
-                "Write 2-3 short paragraphs in plain, direct English — WSJ reporter style, not consultant. "
-                "No heading, no bullets, no markdown.\n\n"
-                "Structure: (1) What happened today — specific and concrete. "
-                "(2) Why it matters for the auto industry. "
-                "(3) What to watch next — one sentence.\n\n"
-                "No jargon. No filler phrases. Do NOT name specific automakers. No title.\n\n"
-                f"Source material:\n{items}"}]
+                "From the intelligence items below, write the Key Takeaways.\n\n"
+                f"{items}"}]
         )
-        raw = re.sub(r"^#+[^\n]*\n+", "", resp.content[0].text.strip())
+        text = next((b.text for b in resp.content if hasattr(b, "text")), "")
+        raw = re.sub(r"^#+[^\n]*\n+", "", text.strip())
         return raw.strip()
     except Exception as ex:
         print(f"  [WARN] サイドバー生成失敗: {ex}")
@@ -414,12 +456,17 @@ def translate_to_ja(en_text: str, client) -> str:
         return ""
     try:
         resp = client.messages.create(
-            model=MODEL, max_tokens=500,
+            model=QUALITY_MODEL, max_tokens=600,
+            system=(
+                "あなたはエグゼクティブ向けビジネスインテリジェンスを専門とするプロの翻訳者です。"
+                "英語の原文を、経営幹部が読む格調ある自然な日本語に翻訳します。"
+                "文体は「〜である」調（体言止め可）。ビジネス誌（週刊東洋経済・日経ビジネス）レベルを目安に。"
+                "段落の区切りはそのまま保持し、原文にない情報を追加しないこと。"
+            ),
             messages=[{"role": "user", "content":
-                "以下の英語を自然な日本語に翻訳してください。段落の区切りはそのまま保持し、前置き不要。\n\n"
-                + en_text}]
+                "以下の英語を自然な日本語に翻訳してください。前置き不要。\n\n" + en_text}]
         )
-        return resp.content[0].text.strip()
+        return next((b.text for b in resp.content if hasattr(b, "text")), "").strip()
     except Exception as ex:
         print(f"  [WARN] translate_to_ja 失敗: {ex}")
         return ""
@@ -435,7 +482,7 @@ def update_rolling(emails_all: list, toyota_summary_en: str, toyota_summary_ja: 
         if ts in existing:
             data["emails"][existing[ts]].update({
                 k: ne[k] for k in
-                ("subject_en","html","summary_en","summary_ja","summary_pdf","toyota")
+                ("sender_norm","subject_en","html","summary_en","summary_ja","summary_pdf","toyota")
                 if k in ne
             })
         else:
@@ -536,30 +583,23 @@ def render_card(em: dict) -> str:
     title       = em.get("subject_en") or em.get("subject", "")
     html_path   = em.get("html", "") or em.get("pdf", "")
     summary_pdf = em.get("summary_pdf", "")
-    # docs/data/... → ../data/... (intelligence.html は en/ 下にある)
     def to_rel(p):
         return ("../" + p) if p.startswith("data/") else p
     html_rel    = to_rel(html_path)
     pdf_rel     = to_rel(summary_pdf)
-    summary_en  = em.get("summary_en", "")
+    # JETROは英語PDFがあればそちら、なければJP HTMLをフォールバック
+    is_jetro = em.get("sender_norm") == "Jetro" or "ジ��トロ" in em.get("sender_norm","") or "ビジネス短信" in em.get("sender_norm","")
+    open_url = pdf_rel if (is_jetro and summary_pdf) else html_rel
     date_lbl    = em.get("date_label", "")
     read_min    = em.get("read_min", 1)
-    dot         = '<span class="v2-dot">🚗</span>' if em.get("toyota") else ""
-    summary_html = (
-        f'\n  <div class="v2-summary">{_e(summary_en[:160])}…</div>'
-        if summary_en else ""
-    )
-    pdf_btn = (
-        f'<button class="v2-pdf-btn" onclick="event.stopPropagation();openFile(\'{_url_path(pdf_rel)}\',\'{_js_str(title[:60])} — Summary\')">📄 Summary</button>'
-        if summary_pdf else ""
-    )
+    dot = '<span class="v2-dot">🚗</span>' if em.get("toyota") else ""
+    # data-url / data-title 方式でダブルクォート等の特殊文字を安全にエスケープ
     return (
-        f'<div class="v2-card" data-s="{code}" onclick="openFile(\'{_url_path(html_rel)}\',\'{_js_str(title[:60])}\')">\n'
+        f'<div class="v2-card" data-s="{code}" data-url="{_e(open_url)}" data-title="{_e(title[:60])}" onclick="openFile(this.dataset.url,this.dataset.title)">\n'
         f'  {dot}\n'
         f'  <div class="v2-sender">{_e(em.get("sender_norm",""))}</div>\n'
-        f'  <div class="v2-title">{_e(title)}</div>'
-        f'{summary_html}\n'
-        f'  <div class="v2-meta">{_e(date_lbl)} &nbsp;·&nbsp; {read_min} MIN &nbsp;{pdf_btn}</div>\n'
+        f'  <div class="v2-title">{_e(title)}</div>\n'
+        f'  <div class="v2-meta">{_e(date_lbl)} &nbsp;·&nbsp; {read_min} MIN</div>\n'
         f'</div>'
     )
 
@@ -567,15 +607,16 @@ def render_card(em: dict) -> str:
 def render_sidebar(toyota_entries: list, updated_at: str, summary_en: str) -> str:
     if summary_en:
         paras = [p.strip() for p in summary_en.split("\n\n") if p.strip()]
-        body  = "\n".join(f"<p>{_e(p)}</p>" for p in paras)
+        if not paras:
+            paras = [summary_en.strip()]
+        body = "\n".join(f"<p>{_e(p)}</p>" for p in paras)
     elif toyota_entries:
-        body  = "\n".join(
-            f'<p><strong>{_e((em.get("subject_en") or em["subject"])[:55])}.</strong> '
-            f'{_e(em.get("summary_en","")[:120])}</p>'
-            for em in toyota_entries[:4] if em.get("summary_en")
-        ) or "<p>No automotive-relevant emails today.</p>"
+        body = "\n".join(
+            f'<p><strong>{_e((em.get("subject_en") or em["subject"])[:70])}</strong></p>'
+            for em in toyota_entries[:6]
+        )
     else:
-        body = "<p>No automotive-relevant emails today.</p>"
+        body = "<p>No automotive-relevant intelligence today.</p>"
 
     src_items = ""
     for em in toyota_entries[:6]:
@@ -723,28 +764,37 @@ def main():
     ns      = outlook.GetNamespace("MAPI")
 
     new_entries  = []
-    mark_as_read = []
+
+    # 既存の要約キャッシュ（不要な API 呼び出し回避）
+    _rolling_cache: dict = {}
+    if ROLLING_JSON.exists():
+        try:
+            _rc = json.loads(ROLLING_JSON.read_text(encoding="utf-8"))
+            _rolling_cache = {em["ts"]: em for em in _rc.get("emails", [])}
+        except Exception:
+            pass
 
     for folder_name in MAIL_FOLDERS:
         print(f"\n{'='*50}\nフォルダー: {folder_name}")
-        if args.reprocess:
-            mails = get_all_recent(ns, folder_name, days=3)
-            print(f"再処理対象: {len(mails)} 件")
-        else:
-            mails = get_unread(ns, folder_name)
-            print(f"未読: {len(mails)} 件")
+        mails = get_all_recent(ns, folder_name, days=3)
+        print(f"直近3日: {len(mails)} 件")
 
         for i, mail in enumerate(mails, 1):
             subject  = getattr(mail, "Subject",    "") or "(no subject)"
             sender   = getattr(mail, "SenderName", "") or ""
             recv     = getattr(mail, "ReceivedTime", None)
-            date_str = str(recv)[:16] if recv else ""
             body_raw = getattr(mail, "Body", "") or ""
             body_txt = strip_html_tags(body_raw)[:3000]
 
             print(f"  [{i}] {subject[:65]}")
 
             sender_norm = normalize_sender(sender)
+
+            # POLITICO Pro Daily Headlines は除外
+            if sender_norm == "POLITICO" and "Pro Daily" in subject:
+                print(f"  [{i}] SKIP (POLITICO Pro Daily): {subject[:60]}")
+                continue
+
             is_ja       = sender_norm in JA_SENDERS
             auto        = is_toyota(subject, body_txt)
 
@@ -763,33 +813,44 @@ def main():
             html_path  = f"data/pdfs/{html_fname}"
             html_out   = HTML_DIR / html_fname
 
-            # ── HTML 保存（再処理時は強制上書き）───────────────────────────
+            # HTML 保存（未存在時 or 強制再処理時）
             if not html_out.exists() or args.reprocess:
                 save_mail_html(mail, html_out, base_name=base_name)
                 print(f"    → HTML: {html_fname}")
 
-            # ── Jetro: 件名だけ翻訳 ─────────────────────────────────────────
+            # Jetro のみ件名を英訳 + 英語PDF生成
             subject_en = subject
+            summary_pdf = ""
             if is_ja:
                 print(f"    → 件名翻訳中...")
                 subject_en = translate_subject(subject, client)
                 print(f"    → EN subject: {subject_en[:60]}")
 
-            # ── 自動車関連: EN+JA 要約 → Summary PDF ────────────────────────
-            summary_en = summary_ja = ""
-            summary_pdf_path = ""
+                en_pdf_fname = f"{base_name}_en.pdf"
+                en_pdf_path  = f"data/pdfs/{en_pdf_fname}"
+                en_pdf_out   = HTML_DIR / en_pdf_fname
+                if not en_pdf_out.exists() or args.reprocess:
+                    print(f"    → JETRO英語PDF生成中...")
+                    body_en = translate_jetro_body(subject_en, body_txt, client)
+                    if body_en:
+                        make_jetro_en_pdf(subject_en, date_label, body_en, en_pdf_out)
+                        print(f"    → EN PDF: {en_pdf_fname}")
+                if en_pdf_out.exists():
+                    summary_pdf = en_pdf_path
+
+            summary_en_val = ""
+            summary_ja_val = ""
             if auto:
-                print(f"    → 自動車関連: EN+JA 要約生成中...")
-                sums       = generate_bilingual_summary(subject, body_txt, is_ja, client)
-                summary_en = sums["summary_en"]
-                summary_ja = sums["summary_ja"]
-                if summary_en:
-                    pdf_fname        = f"{base_name}_summary.pdf"
-                    pdf_out          = HTML_DIR / pdf_fname
-                    summary_pdf_path = f"data/pdfs/{pdf_fname}"
-                    make_summary_pdf(subject_en, sender, date_str,
-                                     summary_en, summary_ja, pdf_out)
-                    print(f"    → Summary PDF: {pdf_fname}")
+                _cached = _rolling_cache.get(ts, {})
+                if _cached.get("summary_en") and not args.reprocess:
+                    summary_en_val = _cached["summary_en"]
+                    summary_ja_val = _cached.get("summary_ja", "")
+                    print(f"    → 要約キャッシュ使用")
+                else:
+                    print(f"    → 自動車要約生成中...")
+                    summ = generate_bilingual_summary(subject, body_txt, is_ja, client)
+                    summary_en_val = summ.get("summary_en", "")
+                    summary_ja_val = summ.get("summary_ja", "")
 
             new_entries.append({
                 "ts":          ts,
@@ -797,47 +858,35 @@ def main():
                 "subject":     subject,
                 "subject_en":  subject_en,
                 "html":        html_path,
-                "pdf":         html_path,        # 後方互換：JPページの pdf フィールドにも使う
-                "summary_en":  summary_en,
-                "summary_ja":  summary_ja,
-                "summary_pdf": summary_pdf_path,
+                "pdf":         html_path,
+                "summary_en":  summary_en_val,
+                "summary_ja":  summary_ja_val,
+                "summary_pdf": summary_pdf,
                 "date_label":  date_label,
                 "read_min":    estimate_read_min(body_raw),
                 "toyota":      auto,
-                "excerpt":     summary_ja[:130] if summary_ja else "",
+                "excerpt":     "",
             })
-            if not args.reprocess:
-                mark_as_read.append(mail)
-
-    if args.reprocess:
-        # 再処理モード: HTMLファイルを画像付きで再生成してpushするだけ
-        print(f"\n[再処理] HTML再生成完了。rolling JSON更新・既読変更はスキップ。")
-        print("\n[Git] コミット＆プッシュ中...")
-        git_push_and_deploy(f"Reprocess HTML with images: {datetime.now(JST).strftime('%Y-%m-%d %H:%M JST')}")
-        return
-
-    print(f"\n{len(mark_as_read)} 件を既読に変更...")
-    for mail in mark_as_read:
-        try: mail.UnRead = False
-        except: pass
 
     # ── rolling JSON に統合 ───────────────────────────────────────────────────
     data = update_rolling(new_entries,
                           toyota_summary_en="", toyota_summary_ja="")
-    emails_all    = data["emails"]
+    emails_all     = data["emails"]
     toyota_entries = [em for em in emails_all if em.get("toyota") and em.get("summary_en")]
 
-    # ── サイドバー要約 ────────────────────────────────────────────────────────
+    # ── サイドバー集約要約 ────────────────────────────────────────────────────
+    sidebar_en = ""
+    sidebar_ja = ""
     if toyota_entries:
-        print("\n英語サイドバー要約を生成中...")
+        print("  → サイドバー集約要約生成中...")
         sidebar_en = generate_sidebar_summary(toyota_entries, client)
-        print("日本語に翻訳中...")
-        sidebar_ja = translate_to_ja(sidebar_en, client)
-        update_rolling([], sidebar_en, sidebar_ja)
-        data["toyota_summary_en"] = sidebar_en
-        data["toyota_summary"]    = sidebar_ja
-    else:
-        sidebar_en = data.get("toyota_summary_en", "")
+        if sidebar_en:
+            sidebar_ja = translate_to_ja(sidebar_en, client)
+        rolling_data = json.loads(ROLLING_JSON.read_text(encoding="utf-8"))
+        rolling_data["toyota_summary_en"] = sidebar_en
+        rolling_data["toyota_summary"]    = sidebar_ja
+        ROLLING_JSON.write_text(json.dumps(rolling_data, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"  → サイドバー要約保存完了 (EN:{len(sidebar_en)}文字 JP:{len(sidebar_ja)}文字)")
 
     # ── HTML 生成 ─────────────────────────────────────────────────────────────
     now_str      = datetime.now(JST).strftime("%Y-%m-%d %H:%M JST")
