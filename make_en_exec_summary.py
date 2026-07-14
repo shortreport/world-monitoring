@@ -456,9 +456,13 @@ def update_type_c_summary(archive_filename: str):
     # iframe src を今日の PDF に更新
     txt = re.sub(r'(<iframe[^>]*src=")[^"]*(")', rf'\g<1>{pdf_path}\g<2>', txt, count=1)
 
-    # ヘッダー日付・最終更新時刻を更新
+    # pdf-label の日付を更新
+    txt = re.sub(r'(エグゼクティブ・ブリーフィング &nbsp;)\d{4}年\d{2}月\d{2}日',
+                 rf'\g<1>{date_jp}', txt)
+
+    # ヘッダー日付・フッター更新時刻を更新
     txt = re.sub(r'(<div class="header-date">)[^<]*(</div>)', rf'\g<1>{date_jp}\g<2>', txt)
-    txt = re.sub(r'(最終更新:)[^<]*(</div>)', rf'\g<1> {datetime_jp}\g<2>', txt)
+    txt = re.sub(r'最終更新: [^<\n&]+', f'最終更新: {datetime_jp} JST', txt)
 
     JP_C_SUMMARY.write_text(txt, encoding="utf-8")
     print(f"[JP Summary] Type C アーカイブリスト更新完了")

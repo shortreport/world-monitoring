@@ -698,11 +698,14 @@ def update_summary():
     html = re.sub(r'(<iframe[^>]*src=")[^"]*(")',
                   rf'\g<1>{pdf_path}\2', html, count=1)
 
-    # 最終更新時刻更新
-    html = re.sub(r'(最終更新:)[^<]*(</div>)',
-                  rf'\g<1> {DATETIME_JP}\2', html)
+    # pdf-label の日付を更新
+    html = re.sub(r'(エグゼクティブ・ブリーフィング &nbsp;)\d{4}年\d{2}月\d{2}日',
+                  rf'\g<1>{DATE_JP}', html)
+
+    # ヘッダー・フッターの日付・更新時刻を更新
     html = re.sub(r'(<div class="header-date">)[^<]*(</div>)',
                   rf'\g<1>{DATE_JP}\2', html)
+    html = re.sub(r'最終更新: [^<\n&]+', f'最終更新: {DATETIME_JP}', html)
 
     path.write_text(html, encoding="utf-8")
     print(f"  保存: {path}")
