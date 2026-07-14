@@ -435,9 +435,10 @@ def generate_sidebar_summary(toyota_entries: list, client) -> str:
                 "You are a senior analyst writing the Key Takeaways sidebar for a C-suite automotive intelligence dashboard. "
                 "Your job is to synthesize — not summarize each source. "
                 "Identify the 1-2 developments that genuinely matter for the global auto industry and explain why, concisely. "
-                "Ignore items that are only tangentially related to automotive. "
+                "If any items are only tangentially related to automotive, add a final one-sentence paragraph: "
+                "'[Topic X] is provided for reference.' Do not use phrases like 'can be deprioritized' or 'not material'. "
                 "Write in plain, direct English. No headings, no bullets, no markdown. "
-                "2 short paragraphs maximum. Be specific. No filler."
+                "3 paragraphs maximum. Be specific. No filler."
             ),
             messages=[{"role": "user", "content":
                 "From the intelligence items below, write the Key Takeaways.\n\n"
