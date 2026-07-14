@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14 16:12:20",
+  "generated_at": "2026-07-15 00:25:59",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-14 16:11:48",
+      "last_checked": "2026-07-15 00:25:14",
       "items": [
         {
           "uid": "e5ad13df7d6a",
@@ -1939,8 +1939,48 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-14 16:11:59",
+      "last_checked": "2026-07-15 00:25:32",
       "items": [
+        {
+          "uid": "fa7e3ead7249",
+          "date": "2026-05-13",
+          "title": "'TikTok on Wheels': With China Threat Escalating Senators Slotkin and Moreno are Reaching Across the Aisle - MichAuto",
+          "summary": "米国の超党派議員スロットキンとモレノ上院議員は、中国の脅威拡大に対応するため、接続車両のデータ安全保障を強化する法案を推進しており、これは「車輪の上のTikTok」と呼ばれる懸念に対処することを目指しています。同法案S.4429は、自動車メーカーが収集する個人データや運転情報が中国当局に悪用されるリスクを防ぐための規制枠組みを構築しようとしています。",
+          "source": "議員発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWG5lX0xNZjFfbzJZRzgwVHZCMkwxaEZmUk84WXpmT25maFF0WEs0aC04S3hoNXg3cXh3Nk1mRjdocFFWZVByQ1RkQWVUT0lNdzM4LU9MOUxKMnEtdlJkSk9BdHZPdFg5U0E1OTZJU2pCbjNLMDRWcHAyVWdseDVCM2MxaHE1UmVCb0Z6bl9RaXI1cEtINS1yZWpjZUhhWjJENlliUldxdnRfRTFhSk1qUEdqcWh3NXNXOWtQdXp5NElSYnM?oc=5",
+          "added_at": "2026-07-15 00:25:22"
+        },
+        {
+          "uid": "26c9429b6524",
+          "date": "2026-06-26",
+          "title": "Integrated Vehicle Health Management Market Growth Report 2035 - Market Research Future",
+          "summary": "申し訳ございませんが、提供いただいたテキストは記事のタイトルのみで、具体的な内容が記載されていないため、「米国接続車両安全保障法（S.4429）」に関連した要約を作成することができません。記事の本文をご提供ください。",
+          "source": "半導体・Tier1サプライヤー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaFowX2FWSkNYMzdzTUJ3S3NVdkRSMk94TG95R0kzOERheFdaNXFpb0JQS01GOGdDZnRBODRua2sxNlV4dWR6MGhUNXRZdFp3RUJCMlRhem9nWDE0eDQwdWVuVElQZzVZa2VHOXZwaGVzeGhZQTZXcGhDdmc3VmJnTVl1MDQtcU1FS2RlTDg5cnp6RU5HQWlzUHRR?oc=5",
+          "added_at": "2026-07-15 00:25:22"
+        },
+        {
+          "uid": "adb262c20a51",
+          "date": "2026-05-12",
+          "title": "GM OnStar $12.75M CCPA Settlement Signals Compliance Shift - Clark Hill",
+          "summary": "# 要約\n\nGM OnStarが個人情報保護法（CCPA）違反で1,275万ドルの和解金を支払ったことは、米国接続車両安全保障法（S.4429）で規制対象となるコネクテッドカー企業がデータプライバシーコンプライアンスの強化を迫られていることを示唆しており、今後の自動車メーカーはデータ収集・利用に関する透明性と個人情報保護をより厳格に実施する必要が生じている。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNDhwSzA2NmdLMHgzOGpXT2tWdktfdTd6QjFDc2FWXzdIZG1IVVVIRUg1Z2VFWWhLMmJDdnlkVHV1dmJVdzVHd3JGRGxEa2NyeEoweUlpNnpCcDJrRXlpa01QYlY0Z1FpYktMUE8yaDBQdjhydVF2ZUxRYTBMa2hhX19qajJ3OWcxRjRFUkFpc1B4T1Nubi1IU0RqLTdnZw?oc=5",
+          "added_at": "2026-07-15 00:25:22"
+        },
+        {
+          "uid": "5bb6ca989015",
+          "date": "2026-07-14",
+          "title": "Enhanced Favorable Treatment for the United Arab Emirates Under the Export Administration Regulations",
+          "summary": "米国商務省産業安全保障局がアラブ首長国連邦（UAE）の輸出規制上の扱いを優遇し、戦略的貿易認可（STA）を含む複数の輸出許可例外を適用可能にしたもので、これはS.4429で求められる供給チェーン多様化戦略の一環として同盟国との防衛協力を強化するものである。",
+          "source": "連邦官報（商務省）",
+          "source_type": "official",
+          "url": "https://www.federalregister.gov/documents/2026/07/14/2026-14132/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration",
+          "added_at": "2026-07-15 00:25:22"
+        },
         {
           "uid": "57beb1cd0b83",
           "date": "2026-07-13",
@@ -3900,46 +3940,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUkprc3V5cmJKaHZnQ3ZBSjNaSmxfaHk5ZXdqQ3IxaEdqZmpMVHdldU9yZnoteHN0NmlOZURyWFVJUGRJOUk4TGU1RWt5TTlUV2dNRVViUFRiQ21RT3hVM1lyV1VKOXRkUlVHcUd4UFo1ZGk2WmRlYjdaZ0k0ZlZhbHBCcXpCN2NPbkdyem1MeGtZaHhtTjJXMEpiblhMdUZ2RU1WMVRLbTdNZDVVS1BSNEJLakhtaDBQQVc5UDlkM0ZScXU3RVM5eXNRTFlsMEZpQmpzXzU1azRJVkXSAeABQVVfeXFMUERFdy12Qks2WlNUdDRvVmxEOFVVRFNMcTBiaElxWG5ocTNmWmI2OGFWQkQtY0xRdXM2cXhiQ3gxUDlIMm85TVVFMXdXcHU2NXFZdFlrQThLdGh3Q0lXXzBNRWVUejAtS3FCSE5KeW9QUElfem9EOVVVaXVYd2VPYzNXZlF2X29KT1p3VFJpbjJfQzdjV0FoRnBpczZhbHJ1TXA0YlROeWxBeW12MFhrSWFNcUFob1NYdk94aE1ZN1lmR0h2SHc4MjUwb1BQc1hGM01vQkpoZDdBNi1sSnRLcko?oc=5",
           "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "8c178e670477",
-          "date": "2026-05-10",
-          "title": "\"Surveillance packages on wheels\": US lawmakers push to ban Chinese vehicles over espionage fears - ANI News",
-          "summary": "米国の議員らは、中国製車両がスパイ活動に使用される可能性があるとして、米国への流入を禁止することを目指す「米国接続車両安全保障法（S.4429）」を推進しており、これは中国製自動車を「車輪の上の監視パッケージ」と見なしています。本法案は、中国からの車両輸入規制と国家安全保障上の脅威への対処を目的としています。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOENpRU9QUTdhZXB5bDN1aV9tbHN4MnhidlFWWHpzSE1NRk9hTnZSRHhNUXhJUDh6dGdoZHFpQ2FXSkt1MVpqOXNGZTRwWk9LTW0yZERyMzRWUzRNRE9ERmtKbUI0cnYzb2poWFkzTUtPdnlrVWZlZVVhN1NrZVZ2dUpvdlpfTnBaWmZYMW52bHhrd01aZHllOVFkY1ZlZUNnd0VWazZTZWpSb3VqVENfbXJnR21RaXJMcGtGdWE2RnVnY19HLU5RUERidEFYaHlHX0NPRElHTHFjQ3EtSlE?oc=5",
-          "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "5c851ec7b122",
-          "date": "2026-05-18",
-          "title": "Chinese parts already power American cars - SecNews.gr",
-          "summary": "米国接続車両安全保障法（S.4429）は、すでに中国製部品が米国車に搭載されている現状に対応するために、自動運転機能やコネクテッド機能を持つ車両における外国製（特に中国製）部品の使用を制限し、国家安全保障上のリスクを軽減することを目的としています。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOdmxxaTB5NmdscjY0U2QxOFJtQWp6U1FZNnBSdndfUGMzQ0UzTWstMHhLeWRoOHBubHlhd2F5SVF4eS00NUJsU2lTblQzZlFEblN4V2tuTThubENzSG53WFpUc3lQZm5RYmJuRXVKdE9POWtUNHlpVk9HTUxWdw?oc=5",
-          "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "ff08e657b730",
-          "date": "2026-04-21",
-          "title": "Automakers raise concerns about Chinese vehicles entering the U.S. - repairerdrivennews.com",
-          "summary": "米国の自動車メーカーが、中国製車両の米国市場への流入に対する懸念を表明しており、これはS.4429法案で規制対象とされているセキュリティリスクと関連している。同法案は、外国勢力による車両制御の悪用を防ぐため、接続車両技術の安全保障基準を強化することを目的としている。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaDBVamd6MUhDaDB2NFNoWU9Ybm9iZW1FV2NGTTg1UW9xNnVLaS02V1ZQOTVQQXJTeUFnYUJlQ0NiRjQ3TG1SNHdMNHdGNmZ0Z3NtcW9RXzNZMXpUZmJ4MGFKc0s5UkMwNElMd29zWHV1NHFReS1GYl85eWlnb3pES3pyeVU5YjJrMnUtb1IzS2ZfazVoR1lQdXpUTVVKaHlwWkRKbkNCWVloZmtacVMtQ0N3?oc=5",
-          "added_at": "2026-05-27 02:52:41"
-        },
-        {
-          "uid": "9759f3cca788",
-          "date": "2026-05-13",
-          "title": "Congress fast-tracks Chinese car ban before Trump-Xi summit - MSN",
-          "summary": "米国議会が中国製自動車の禁止を加速化させており、これはトランプ大統領と習主席の首脳会談を前に、中国の自動車産業に対する安全保障上の懸念を表明するものです。S.4429法案はこうした議会の強硬姿勢を反映した政策として推進されています。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbXVseE9SWEpSRUhOXzdEakFyeTZVZnowdEJ0ZU9wRFQ2OXZnMnVuTDRiSzIwT2dJV1BHVFB4VW5rcFBqNmtVYlhTcjZvME5CQ3U4T2pfT2N3T05YX25FRkZkc0pfcUJhUmlmRTZybHcwSjlIeU5fWGI2SjVXTExveDM0aWh3WkJOSFY1dzRYNzRxSS1IYjQyMlVuUlY4ODB2ZDFMQkt6NWlhdFQyYWx1X1hIZnBydU1YRkJKR1dKako0R0FjY2ZHV19jNTFfWEU4ZFNLNklxZ0M3LWg0M19MV2xZRQ?oc=5",
-          "added_at": "2026-05-27 02:52:41"
         }
       ]
     },
@@ -3950,8 +3950,68 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-14 16:12:20",
+      "last_checked": "2026-07-15 00:25:59",
       "items": [
+        {
+          "uid": "ef89f8855d65",
+          "date": "2026-07-14",
+          "title": "China Northern Rare Earth: H1 net profit expected to increase 112.74%-121.33%, rare earth prices strengthened overall and consolidated - Shanghai Metals Market",
+          "summary": "中国北方稀土は2024年上期の純利益が112.74～121.33%増加する見通しを発表し、これはレアアース価格全体の強化と市場統合による結果である。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT1JKZzlzMGltcVM4akx2VFRpRmpnU0dMS01kYU9RS2g0LWZvbGNlX3ZNRElGQkhpd0ZEa1pKM25PRURzaHJFSVZnZ0x6dEJub05UTFFBUzZmMHNyYm9mN296ZkZmbzlwMEg2M3dzR1pycG9OVzBRNmZNcUVRclhIeTB3bnYzNzVzQVZ1VmQtaGp4OERiUjJKTHdtMnRZQWcyalQyNVRfdTlYaE1LYkpvQ3F5dWVrR2tZbk1SRW1qU0dSbjVfQUtQMEV6cUVTY2liZDNxZG02dkU2NWx5VFg1MHE5SXdMV05IMDBNbHFrUWxFY3pPMEhxYVFtb1U?oc=5",
+          "added_at": "2026-07-15 00:25:45"
+        },
+        {
+          "uid": "b6ff6ccc9955",
+          "date": "2026-06-22",
+          "title": "Beijing's Calibrated Response to the 1260H Designations - Geopolitechs",
+          "summary": "中国は米国による「1260H指定」(ウイグル強制労働防止法に基づく輸入禁止)に対抗して、レアアース等の戦略的資源の輸出管理をより厳格化し、米国との対立を深刻化させています。このように中国は経済制裁に対して計算された報復措置を講じることで、地政学的な影響力を行使している。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yX3B5MG5oMldOejNEekNSTGo5eFY4SFdaT19CdFh3R1FUTUFraG1vM2pYSG54Sk9wbEtvdXZ2WVJ4RjEzZHRKaTlhdWVmcmFQY0NGN2l0UEswU09vRHBWZmphTlVUbUkzT054MGFjLTJOWklP?oc=5",
+          "added_at": "2026-07-15 00:25:45"
+        },
+        {
+          "uid": "94b96f9ce0e2",
+          "date": "2026-04-26",
+          "title": "The Pentagon Needed Rare Earths—and Found a Supplier in Malaysia - WSJ",
+          "summary": "米国防総省はマレーシアの供給業者を通じてレアアースの調達を進めており、中国への依存を減らすための戦略的な供給源多様化を図っている。これは中国のレアアース輸出管理に対抗し、防衛産業のサプライチェーンを強化する取り組みである。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uWDdFT2dfTTN1WThCNl9nZWdOQTNCZ3JTbGRxNDNxQzRvQi1RSmw1bzFrWm5JWmVDeUp0RnZhQy1nZ2ZORWZVM1JqSnQ5d0c3M0VOMmh6d3ItTGUyMkVpTDVnTEJmYkxzSzc5Q3I1eXhzQXRQ?oc=5",
+          "added_at": "2026-07-15 00:25:45"
+        },
+        {
+          "uid": "905420c030e9",
+          "date": "2026-04-16",
+          "title": "Senate Votes to Allow Mining Near Minnesota Wilderness - The New York Times",
+          "summary": "米国上院がミネソタ州の野生地域近くでの鉱業を認可する投票を行ったことは、中国が支配するレアアース供給への依存を減らすため、米国が国内鉱物採掘を拡大しようとしている戦略を示しています。この動きは、中国のレアアース輸出管理に対抗し、供給チェーンの多様化を図る米国の取り組みの一環として位置付けられます。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQjMzT1I2WTVkZ1U5azlJSEE4RDM5UUV5LUo0WWVNdml1cmtKcVptNlF2YmpEdFZ1Z3FIZG4ycFRLUkpyS0FQeWh2REhXdnhfN1FfT0FMQkJnaE5RVHVWU21GdHQwZzdXZ3lnVXNQN2VYNzVpSElUSWVfRlNrMEVlXw?oc=5",
+          "added_at": "2026-07-15 00:25:45"
+        },
+        {
+          "uid": "7c3590498e39",
+          "date": "2026-06-22",
+          "title": "China places two US rare earths producers on export control list - Mining Weekly",
+          "summary": "中国が米国のレアアース生産企業2社を輸出管理リストに追加し、これらの企業への技術移転や協力を制限する措置を講じた。この行動は、米国による中国ハイテク産業への制裁に対する報復として位置づけられている。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5FMzBxamc5ZlByM0VrbF9VVFdvd09FTFNfRlYyYzlTWFVjaHl3VEc3WVdzaWlTLUpFN0laQjdqZmJCbWFNdDNUMDRBekQwM3k5SkZ3V1Q0LU9EWUxETlU5M045QmpQLUZjeF9qWDExUjRBN2QyTXp4cGs2SWRIQkY3MHBQUXdGcXdhT1Z3YmJqNlcxY1NydGF3R05SQXlnWTB4STV0S19LVHRiM0ZPNVR3?oc=5",
+          "added_at": "2026-07-15 00:25:45"
+        },
+        {
+          "uid": "87b84df8dc64",
+          "date": "2026-04-20",
+          "title": "Escape route from Iran energy shock leads to China, US allies find - Politico",
+          "summary": "中国がイランからの石油輸入を増やす一方で、米国の同盟国はイランへの経済制裁を回避するため中国経由のエネルギー調達に依存せざるを得ず、その結果中国がエネルギー供給チェーンにおける影響力を強化している。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU0RNVVd1eGhmR2hmUzE4M0llZlAyX05WVTd1eDNqNGRQSzRSazViM21HUHVDclFaemlXRzNJaXhNaDJwX2U0QWdZalhFdjI3c2dTazFtU2RNYjl3aTI5dFRvaXFRTjJoQU94S1h6OWp0TjVnODd6NXA0eTZBaktfRndiWG5HNWF5RXhOQkhvaHJYa25IZEQ4TnV2aUQtQ2k2cXFXMA?oc=5",
+          "added_at": "2026-07-15 00:25:45"
+        },
         {
           "uid": "73fab53549ec",
           "date": "2026-07-14",
@@ -5890,66 +5950,6 @@
           "source": "中国輸出規制",
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGTkdzdno4M0JGampiMHo2bXdrTzRXWTFNZllBWDg0NHhKaWltOWdVYkxJRFpOaG0wcngzX1hCeGp5U0k3QzdWbWppNFZvYTM3aHgyQUFMRjNpMGZSelBqczR4M2Y0WTNMS21CTGxNb1N4QS11?oc=5",
-          "added_at": "2026-06-25 13:42:15"
-        },
-        {
-          "uid": "66d6cb035062",
-          "date": "2026-06-23",
-          "title": "China's Antimony Ban Sent Prices Up 2,600%. Rare Earths Are Next - Crude Oil Prices Today | OilPrice.com",
-          "summary": "中国がアンチモンの輸出を制限して価格が2,600%上昇した事例から、レアアースについても同様の輸出管理強化が予想されており、中国による戦略的な資源統制が国際市場に大きな影響を与える可能性がある。",
-          "source": "中国輸出規制",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHRTeW15SzJtNk5kb1lLejlPbVBFM01sd0NMWWR5azJIVDk0TEdQNkVPU0N6X1R4dXUxb1FiM2JsS0tqdzk1VXFDaHJRNXpVZkVmQUdHdXRGWFl3S3JBV28wOF9BcnVSdk04MXRUOXRSMy01NmRWVHJOSUZiRmNYVWNGaEExTmdVS01WaXM5R1JCNUVnWHpLQ1JXUHk3MnlaWHpHeHFaSHdSaDNH0gGyAUFVX3lxTE05OFlGMERTRVJqSkVGTEJyM0llU2NkeVlSbS1ubnUtSnlrWmFwZEY3ZWxiemY5cFJVYm9JdkVaMDdrSHlzbldfYnBYNnlMLWNWRVQ1Nk1FOThCOVFXQjcwNzBYUFJlMDJyOC04dVJRdDV0S0tiay1yOVZrMEc0eGdIZkRuUVE0alFqNHd3NjYxVC1YdVA5ODBwOENVRFI0R05FRlZReW1fWnZJRXpzZWdmZVE?oc=5",
-          "added_at": "2026-06-25 13:42:15"
-        },
-        {
-          "uid": "e4c39bc05b3f",
-          "date": "2026-06-25",
-          "title": "China Targets US Rare Earth Firms: Export Controls Escalate Trade War June 2026 - Intellectia AI",
-          "summary": "中国は2026年6月、米国のレアアース企業を標的とした輸出管理を強化し、米中貿易紛争をさらに激化させた。この措置は、米国による対中制裁に対する報復として、レアアース関連産業の供給チェーン分断を狙ったものである。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yeGxUUXZybjBVWjJHbjVmVksxb1ppcHdNOGstZ2NjcHUtcTFfU0YteFVZdXFnYzE5NEdfRlpOQTdiV3B2MWg1RlF3QTJOZU56SDB6TG5FR3FDUTlla2IxVzBRcTZKa2NyS1VBdWVLTXFHRFVUeVVXMUhB?oc=5",
-          "added_at": "2026-06-25 13:42:15"
-        },
-        {
-          "uid": "a2a1c97e9307",
-          "date": "2026-04-17",
-          "title": "US Senate repeals Biden-era ban on mining near Minnesota wilderness area - The Guardian",
-          "summary": "米国上院がバイデン政権下で制定されたミネソタ州の荒野近くでの採鉱禁止令を廃止し、これに伴いレアアース採掘の制限が解除されることで、米国が中国のレアアース輸出管理への依存度低減を目指す動きが進むと考えられる。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcTZxRzdOVlFIaGdzYUVqc1BEUTJORFNENUhBVjdJX1VVTnNld2d1NFRHU3hMcDBjUlF3Rk9rMmF6MVZRY0MwZkVNTWtMbjczR0pQTHdqZy1oeFlVOUVrZXk5T2Y1VFVOdjkzS2J6ZzhFZGR5bnJ1MWtmLUE0aEhXOGZub1JEWERSRDZXYk9tRGZiWEI2aFk4Ukp3?oc=5",
-          "added_at": "2026-06-25 13:42:15"
-        },
-        {
-          "uid": "2d17a8949376",
-          "date": "2026-06-22",
-          "title": "Why Europe Is Racing to Secure Critical Raw Materials - مركز المستقبل",
-          "summary": "申し訳ありませんが、提供いただいたテキストが不完全で、実際の記事内容が含まれていません。タイトルのみで、本文が「مركز المستقبل」（アラビア語）の繰り返しになっています。記事の実際の内容を提供していただければ、「中国レアアース輸出管理」の文脈での要約が可能です。",
-          "source": "EU戦略的原材料法",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0ZvQWJTNEJINGlpSTJqZFZMU2FlMlVaWG1yVWRCUTNRTkRZQklLZHp6WHJwZGIxbW1KdFFpV1JfTHVoUDFtd3hZTkRBRjJIbl84dFNIUjd4cjZ5V09DaTQyekZfaUowWms3cS1PWTBkWTllWFJLbTBmeEJvQVZIUFNtTU45cXpSaTVtREpVWnBoZFlmbGNLN3ZGV2RDZ2dUdWZLd3dneGFJTXFOVE1HQlZEbExHd0dDWXpwUEozSTZaY1Z1?oc=5",
-          "added_at": "2026-06-25 13:42:15"
-        },
-        {
-          "uid": "806c06bdd212",
-          "date": "2026-04-29",
-          "title": "The Price of Power: China's Rare Earth Index Climbs-But Is It a Market? - Rare Earth Exchanges",
-          "summary": "中国のレアアース指数が上昇しているものの、真の市場メカニズムが機能しているかどうかが疑問視されており、中国の輸出管理政策がレアアース価格形成に大きな影響を与えていることが示唆されている。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNnZZaS1seEd0eV9IRUJzT05sMmROendUbV83NVhWUTJaYWpCZjFnNWh0cHVLQkVhM3RLREhzZktwRU1WNVhuVmM0Um9IeFJPTlNXbHNKQWNqdkxlZ1NsXzFvUG5DcmlrSUJ4Mmh4M2hCUDJXMHJ6bVdua0RHcjR3UndQWTd6SGhGeHFUV2IzZ1pLQ0VQS2k5RHFkcUtjR1B4U1JwSGlnVDY?oc=5",
-          "added_at": "2026-06-25 13:42:15"
-        },
-        {
-          "uid": "2bb29e63fa74",
-          "date": "2026-06-24",
-          "title": "MP Materials, USA Rare Earth Hit by China Export Controls - Mexico Business News",
-          "summary": "中国がレアアース輸出を管理強化する中で、米国のMP Materials社などの企業が影響を受けており、これは米国のレアアース産業の自給体制構築の課題を浮き彫りにしている。中国の輸出規制により、米国はメキシコを含む代替供給源の確保やレアアース加工技術の国内開発を急速に進める必要に迫られている。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVR1T1p3NFhNMDUwV2NkWHN4dDhIYUJnajRzbXItX25raW02dmpZS2VwWlJJMkdJeHcwS2ZWOENlT25MNlEteGtkaXpTV2ZyaDQtbmFocFhqNHBDZE5IWVFRcVJRc2IzNUQ2akwzdW5fTDNBT290aGpEaDhLd1FheUNFdm9McE1yakt4aE13WExSM040N3NvZw?oc=5",
           "added_at": "2026-06-25 13:42:15"
         }
       ]
