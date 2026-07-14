@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-15 07:01 JST",
+  "updated_at": "2026-07-15 07:02 JST",
   "total": 50,
-  "toyota_summary": "The EU moved to restrict steel imports today to counter Chinese and American competition, a measure that will raise costs for automakers sourcing materials across the bloc. Steel represents a significant input cost for vehicle production, and tariff walls around European suppliers will force manufacturers to either pay more or shift sourcing—both options squeeze margins in an industry already fighting through a transition to electric vehicles. Watch whether the auto industry lobbies successfully to carve out an exemption or preferential rate on steel used in EV production.\n\nThe USMCA trade agreement between the United States, Canada, and Mexico completed its first major review on July 1st, exposing tensions over labor standards and content rules that directly affect where automakers can build vehicles. Higher domestic-content requirements or stricter labor enforcement could push manufacturers to consolidate North American production, raising capital costs and reshaping regional supply chains. The bloc will complete negotiations by next year—any tightening of rules now is a signal to watch.\n\nFour EU member states pressed Brussels this week to accelerate approval of self-driving cars on European roads. The push reflects a geopolitical calculation: whoever moves fastest on autonomous vehicles controls both the technology market and data advantage, and delay amounts to ceding ground to Chinese competitors already deploying fleets at scale. Look for the Commission to issue guidance on autonomous vehicle testing by autumn.",
+  "toyota_summary": "最も重要な展開は、政治的な分断線に沿ってグローバルEVサプライチェーンの断片化が進みつつあることである。ブラジルが輸入EV部品への関税割当を復活させたこと、そして2026年の期限を控えUSMCA（米国・メキシコ・カナダ協定）の共同見直しがより厳格な原産地規則を巡って停滞していることは、中国の自動車メーカーおよびサプライヤーがまさにこれらの市場で存在感を拡大している最中に、北米・中南米の双方がEV部品を巡る貿易障壁を強化しつつあることを示している。日系サプライヤーが広州の電子機器サミットに大挙して参加する一方で、USMCAやメルコスールの規則をいかに乗り切るかについての説明会を必要としている事実は、サプライチェーン戦略がもはや単一のグローバル調達計画ではなく、国別の政治的計算を要する段階に入ったことを裏付けている。メキシコ、ブラジル、あるいは米国での組立に事業展開する経営幹部は、8月に予定されるウェビナーを、2026年の期限到来に先立ちコンプライアンスコストや現地調達要件がどこへ向かうかを示す早期警戒情報として捉えるべきである。\n\nもう一つ注目すべきシグナルは、欧州中核市場におけるEV需要の地味ながら着実な継続である――ドイツの新規登録台数は依然としてBEV（バッテリー電気自動車）とPHEV（プラグインハイブリッド車）が牽引しており",
   "emails": [
     {
       "ts": "20260715_0100",
@@ -11,7 +11,12 @@
       "date_label": "JUL 15  01:00",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump backtracks on plan to charge 20 percent fee for ships traveling through Strait of Hormuz",
+      "html": "data/pdfs/20260715_0100_Trump_backtracks_on_plan_to_charge_20_percent_fee_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_0046",
@@ -21,7 +26,12 @@
       "date_label": "JUL 15  00:46",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Document: Parliament seeks bigger transport budget, ‘Buy European’ rules",
+      "html": "data/pdfs/20260715_0046_Document__Parliament_seeks_bigger_transport_budget.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_0033",
@@ -31,7 +41,12 @@
       "date_label": "JUL 15  00:33",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG US Daily: Traffic through Hormuz will fall as shaky peace collapses",
+      "html": "data/pdfs/20260715_0033_EG_US_Daily__Traffic_through_Hormuz_will_fall_as_s.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_0031",
@@ -51,7 +66,12 @@
       "date_label": "JUL 14  23:01",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "China's growing economic coercion toolkit - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260714_2301_China's_growing_economic_coercion_toolkit_-_EG_Con.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260714_2222",
@@ -61,7 +81,12 @@
       "date_label": "JUL 14  22:22",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Saving Europe’s steel strains critical friendships abroad",
+      "html": "data/pdfs/20260714_2222_Saving_Europe’s_steel_strains_critical_friendships.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260714_2136",
@@ -71,7 +96,12 @@
       "date_label": "JUL 14  21:36",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Daily Brief: Shaky peace collapses as US resumes blockade",
+      "html": "data/pdfs/20260714_2136_EG_Daily_Brief__Shaky_peace_collapses_as_US_resume.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260714_2107",
@@ -81,7 +111,12 @@
       "date_label": "JUL 14  21:07",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Luftwaffe chief warns Europe has ‘no time’ to counter Putin without US weapons",
+      "html": "data/pdfs/20260714_2107_Luftwaffe_chief_warns_Europe_has_‘no_time’_to_coun.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260714_2101",
@@ -91,7 +126,12 @@
       "date_label": "JUL 14  21:01",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "MENA Crisis Update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260714_2101_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260714_2001",
@@ -101,7 +141,12 @@
       "date_label": "JUL 14  20:01",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Brazil Update - The fight against organized crime - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260714_2001_Brazil_Update_-_The_fight_against_organized_crime_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260714_1931",
@@ -111,7 +156,12 @@
       "date_label": "JUL 14  19:31",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU Commission mulls tweaks to Foreign Subsidies Regulation ",
+      "html": "data/pdfs/20260714_1931_EU_Commission_mulls_tweaks_to_Foreign_Subsidies_Re.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260714_1906",
@@ -121,7 +171,12 @@
       "date_label": "JUL 14  19:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Why the EU’s new social media roadmap is tougher than it looks",
+      "html": "data/pdfs/20260714_1906_Why_the_EU’s_new_social_media_roadmap_is_tougher_t.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260714_1901",
@@ -131,17 +186,27 @@
       "date_label": "JUL 14  19:01",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU Energy Outlook: Electricity costs will fall sharply by 2030 - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260714_1901_EU_Energy_Outlook__Electricity_costs_will_fall_sha.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260714_1833",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/07/14",
       "pdf": "data/pdfs/20260714_1833_「ジェトロ・ビジネス短信」2026_07_14.pdf",
       "date_label": "JUL 14  18:33",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中国で国際自動車電子産業サミットが開催され、日系企業10社が出展した。"
+      "excerpt": "中国で国際自動車電子産業サミットが開催され、日系企業10社が出展した。",
+      "subject_en": "\"JETRO Business Brief\" 2026/07/14",
+      "html": "data/pdfs/20260714_1833_「ジェトロ・ビジネス短信」2026_07_14.html",
+      "summary_en": "Japanese automotive suppliers featured prominently at Guangzhou's International Automotive Electronics Summit, underscoring deepening ties with China's EV supply chain. Meanwhile, Germany's new car registrations continued to be led by battery-electric and plug-in hybrid models, while Brazil reinstated tariff quotas on imported EV components, signaling renewed protectionist pressure on the electric vehicle parts trade.",
+      "summary_ja": "広州で開催された国際自動車電子産業サミットには日系企業10社が出展し、中国のEVサプライチェーンとの関係強化が浮き彫りとなった。一方、ドイツの新車登録ではBEVとPHEVが引き続き好調を維持し、ブラジルは電動車向け輸入部品に関税割当制度を再導入するなど、EV部品貿易を巡る保護主義的な動きも見られる。",
+      "summary_pdf": "data/pdfs/20260714_1833_「ジェトロ・ビジネス短信」2026_07_14_en.pdf"
     },
     {
       "ts": "20260714_1736",
@@ -151,7 +216,12 @@
       "date_label": "JUL 14  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Crimea was Russia’s stronghold. Now it’s a vulnerability.",
+      "html": "data/pdfs/20260714_1736_Crimea_was_Russia’s_stronghold._Now_it’s_a_vulnera.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260714_1645",
@@ -161,7 +231,12 @@
       "date_label": "JUL 14  16:45",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Brutal June heat wave killed as many as 14,000 Europeans",
+      "html": "data/pdfs/20260714_1645_Brutal_June_heat_wave_killed_as_many_as_14,000_Eur.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260714_1636",
@@ -171,17 +246,27 @@
       "date_label": "JUL 14  16:36",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "USMCA（米国・カナダ・メキシコの貿易協定）が2026年7月1日に初の共同見直しを実施したが"
+      "excerpt": "USMCA（米国・カナダ・メキシコの貿易協定）が2026年7月1日に初の共同見直しを実施したが",
+      "subject_en": "[Recruitment Begins] JETRO [Local Webinar] Key Points of USMCA Joint Review and Future Outlook - How Should Japanese Companies Prepare? -",
+      "html": "data/pdfs/20260714_1636_《募集開始》ジェトロ【現地発ウェビナー】USMCA共同見直しのポイントと今後の展望_―日本企業はどう.html",
+      "summary_en": "JETRO is hosting a webinar on August 7 examining the USMCA's first joint review, which stalled after the U.S. pushed for stricter rules ahead of the 2026 deadline. Staff based in the U.S., Canada, and Mexico will break down each country's negotiating stance and implications for Japanese firms' North American supply chains. A related webinar on August 4 will cover shifting auto industry dynamics across Mexico, Mercosur, and Pacific Alliance countries, including rising Chinese automaker presence.",
+      "summary_ja": "ジェトロは8月7日、USMCAの初の共同見直しを取り上げるウェビナーを開催する。既存ルールの厳格化を求める米国の反対により延長合意に至っておらず、米国・カナダ・メキシコ駐在員がそれぞれの立場から論点と見通し、日本企業のサプライチェーンへの影響を解説する。あわせて8月4日には、中南米の自動車産業の変化を扱うウェビナーも実施され、メキシコやメルコスール、太平洋同盟諸国における中国系メーカーの台頭などが紹介される。",
+      "summary_pdf": "data/pdfs/20260714_1636_《募集開始》ジェトロ【現地発ウェビナー】USMCA共同見直しのポイントと今後の展望_―日本企業はどう_en.pdf"
     },
     {
       "ts": "20260714_1531",
-      "sender_norm": "Mujtaba",
+      "sender_norm": "Mujtaba Rahman",
       "subject": "EG PRACTICE LETTER: Dispatch from Paris—EU gearing up for a",
       "pdf": "data/pdfs/20260714_1531_EG_PRACTICE_LETTER__Dispatch_from_Paris—EU_gearing.pdf",
       "date_label": "JUL 14  15:31",
       "read_min": 8,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EG PRACTICE LETTER: Dispatch from Paris—EU gearing up for a tougher China stance",
+      "html": "data/pdfs/20260714_1531_EG_PRACTICE_LETTER__Dispatch_from_Paris—EU_gearing.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260714_1401",
@@ -552,7 +637,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/07/13",
+      "subject_en": "JETRO Business Brief 2026/07/13",
       "html": "data/pdfs/20260713_1806_「ジェトロ・ビジネス短信」2026_07_13.html",
       "summary_en": "",
       "summary_ja": "",
@@ -663,5 +748,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "The most consequential development is the emerging fragmentation of global EV supply chains along political lines. Brazil's reinstated tariff quotas on imported EV components, combined with the USMCA joint review stalling over stricter rules-of-origin ahead of the 2026 deadline, show that North America and Latin America are both hardening trade barriers around EV parts just as China's automakers and suppliers expand their footprint in these same markets. Japanese suppliers showing up in force at Guangzhou's electronics summit while simultaneously needing briefings on how to navigate USMCA and Mercosur rules confirms that supply chain strategy now requires country-by-country political calculation, not a single global sourcing plan. Executives with exposure to Mexico, Brazil, or U.S. assembly should treat the August webinars as early warning intelligence on where compliance costs and content requirements are headed before the 2026 deadline hits.\n\nThe second signal worth flagging is the steady, unglamorous continuation of EV demand in core European markets — Germany's registrations still led by BEVs and PHEVs"
 }
