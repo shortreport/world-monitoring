@@ -430,7 +430,7 @@ def generate_sidebar_summary(toyota_entries: list, client) -> str:
         return ""
     try:
         resp = client.messages.create(
-            model=QUALITY_MODEL, max_tokens=350,
+            model=QUALITY_MODEL, max_tokens=600,
             system=(
                 "You are a senior analyst writing the Key Takeaways sidebar for a C-suite automotive intelligence dashboard. "
                 "Your job is to synthesize — not summarize each source. "
@@ -457,7 +457,7 @@ def translate_to_ja(en_text: str, client) -> str:
         return ""
     try:
         resp = client.messages.create(
-            model=QUALITY_MODEL, max_tokens=600,
+            model=QUALITY_MODEL, max_tokens=1200,
             system=(
                 "あなたはエグゼクティブ向けビジネスインテリジェンスを専門とするプロの翻訳者です。"
                 "英語の原文を、経営幹部が読む格調ある自然な日本語に翻訳します。"
