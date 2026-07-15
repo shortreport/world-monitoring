@@ -1,4 +1,4 @@
-$BASE   = "C:\Users\shondo\Desktop\agent_project"
+﻿$BASE   = "C:\Users\shondo\Desktop\agent_project"
 $PYTHON = "$BASE\venv\Scripts\python.exe"
 $env:PYTHONUTF8 = "1"
 
@@ -8,14 +8,14 @@ if (-not (Test-Path "$BASE\logs")) { New-Item -ItemType Directory "$BASE\logs" |
 
 "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] START mail_full" | Out-File $LOGFILE -Encoding UTF8
 
-# 1. Outlook 未読メール → PDF 変換
+# 1. Outlook 未読メール -> PDF 変換
 "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] outlook_to_pdf.py 実行中..." | Out-File $LOGFILE -Append -Encoding UTF8
 & $PYTHON "$BASE\outlook_to_pdf.py" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
 if ($LASTEXITCODE -ne 0) {
     "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] outlook_to_pdf.py FAILED ($LASTEXITCODE)" | Out-File $LOGFILE -Append -Encoding UTF8
 }
 
-# 2. PDF → スライド生成・Web反映
+# 2. PDF -> スライド生成・Web反映
 "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] mail_slides.py 実行中..." | Out-File $LOGFILE -Append -Encoding UTF8
 & $PYTHON "$BASE\mail_slides.py" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
 if ($LASTEXITCODE -ne 0) {
@@ -41,8 +41,9 @@ $diff = & git diff --staged --quiet 2>&1; $changed = ($LASTEXITCODE -ne 0)
 if (-not $changed) {
     "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] JP intelligence 変更なし。スキップします。" | Out-File $LOGFILE -Append -Encoding UTF8
 } else {
-    $ts = Get-Date -Format "yyyy-MM-dd HH:mm JST"
-    & git commit -m "Intelligence update (JP): $ts" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
+    $ts = Get-Date -Format 'yyyy-MM-dd HH:mm JST'
+    $msg = "Intelligence update (JP): $ts"
+    & git commit -m $msg 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
     & git push 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
     if ($LASTEXITCODE -ne 0) {
         "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] push 失敗。merge でリトライ..." | Out-File $LOGFILE -Append -Encoding UTF8
@@ -51,7 +52,7 @@ if (-not $changed) {
         & git push 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
     }
     "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] Push 完了" | Out-File $LOGFILE -Append -Encoding UTF8
-    & powershell -NonInteractive -ExecutionPolicy Bypass -File "$BASE\scripts\trigger_deploy.ps1" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
+    & pwsh -NonInteractive -ExecutionPolicy Bypass -File "$BASE\scripts\trigger_deploy.ps1" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
 }
 
 "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] DONE" | Out-File $LOGFILE -Append -Encoding UTF8
