@@ -184,11 +184,12 @@ def generate_en_summary(source_text: str, client, date_en: str) -> dict:
         + SECTION_SCHEMA
     )
     resp = client.messages.create(
-        model=MODEL, max_tokens=1000,
+        model=MODEL, max_tokens=2000,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": prompt}]
     )
-    return parse_json_safe(resp.content[0].text)
+    text = next((b.text for b in resp.content if hasattr(b, "text")), "{}")
+    return parse_json_safe(text)
 
 
 # ── Claude: 日本語翻訳 ─────────────────────────────────────────────────────────
