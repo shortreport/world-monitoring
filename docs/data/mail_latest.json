@@ -1,247 +1,217 @@
 {
-  "generated_at": "2026-07-15 07:01 JST",
-  "sender_count": 6,
+  "generated_at": "2026-07-16 07:01 JST",
+  "sender_count": 4,
   "total_mails": 24,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 7,
+      "count": 12,
       "bullets": [
-        "US-Iran紛争の最新展開に関する情報提供と、ホルムズ海峡・石油市場への影響、地域情勢とフーシ派リスクについての分析",
-        "欧州のエネルギー見通しに関する更新で、2030年までの電力コスト大幅低下と2026/2027年冬季のエネルギー需給見通し",
-        "ブラジルにおける組織犯罪対策の現状と地域戦略に関する専門家との対話",
-        "米国によるイラン制裁再開に伴う石油価格上昇の見込みと地政学的な影響展開"
+        "NATO首脳会議が西側同盟の結束を示し、マクロン大統領主催のG7サミットに続く1カ月での2度目の成功を達成",
+        "米国とイランの対立激化が継続する可能性が55%に高まり、ホルムズ海峡の交通量が戦前の5～15%まで低下し、油価は75～95ドル/バレルの範囲内で推移",
+        "トランプ政権がファーウェイへの通信技術規制を拡大しつつも、各国への使用禁止強要ではなくより柔軟なアプローチを採用する見通し",
+        "米国大統領による選挙支援委員会委員の解任が2028年選挙の権力図をゆがめる前兆の可能性と、メキシコによる米移民当局への法的攻勢が米国との関係を悪化",
+        "マレーシアのアンワル首相が州議会選での敗北にもかかわらず権力を維持し、ポピュリスト政策を強化する見通し"
       ],
       "subjects": [
         [
-          "2026-07-14",
-          "MENA Crisis Update - EG Conference Call, REMINDER",
-          "data/pdfs/20260714_0702_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf"
-        ],
-        [
-          "2026-07-14",
-          "EU Energy Outlook: Electricity costs will fall sharply by 2030 - EG",
-          "data/pdfs/20260714_1901_EU_Energy_Outlook__Electricity_costs_will_fall_sha.pdf"
-        ],
-        [
-          "2026-07-14",
-          "Brazil Update - The fight against organized crime - EG Conference",
-          "data/pdfs/20260714_2001_Brazil_Update_-_The_fight_against_organized_crime_.pdf"
-        ],
-        [
-          "2026-07-14",
-          "MENA Crisis Update - EG Conference Call, REMINDER",
-          "data/pdfs/20260714_2101_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf"
-        ],
-        [
-          "2026-07-14",
-          "EG Daily Brief: Shaky peace collapses as US resumes blockade",
-          "data/pdfs/20260714_2136_EG_Daily_Brief__Shaky_peace_collapses_as_US_resume.pdf"
-        ],
-        [
-          "2026-07-14",
-          "China's growing economic coercion toolkit - EG Conference Call,",
-          "data/pdfs/20260714_2301_China's_growing_economic_coercion_toolkit_-_EG_Con.pdf"
+          "2026-07-15",
+          "eg update in Japanese (July 13, 2026)",
+          "data/pdfs/20260715_0733_eg_update_in_Japanese_(July_13,_2026).pdf"
         ],
         [
           "2026-07-15",
-          "EG US Daily: Traffic through Hormuz will fall as shaky peace",
-          "data/pdfs/20260715_0033_EG_US_Daily__Traffic_through_Hormuz_will_fall_as_s.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260714_0702_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf",
-        "data/pdfs/20260714_1901_EU_Energy_Outlook__Electricity_costs_will_fall_sha.pdf",
-        "data/pdfs/20260714_2001_Brazil_Update_-_The_fight_against_organized_crime_.pdf",
-        "data/pdfs/20260714_2101_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf",
-        "data/pdfs/20260714_2136_EG_Daily_Brief__Shaky_peace_collapses_as_US_resume.pdf",
-        "data/pdfs/20260714_2301_China's_growing_economic_coercion_toolkit_-_EG_Con.pdf",
-        "data/pdfs/20260715_0033_EG_US_Daily__Traffic_through_Hormuz_will_fall_as_s.pdf"
-      ]
-    },
-    {
-      "sender": "Eurasia",
-      "short": "EURAS",
-      "color": "YEL",
-      "count": 1,
-      "bullets": [
-        "米国とイランの海峡での対立激化に伴い、原油価格が1バレル75～95ドルの高めのバンドで推移する可能性",
-        "ホルムズ海峡の交通が再度途絶することによる原油供給の混乱",
-        "トランプ政権2.0におけるファーウェイ対策が、完全排除から軟化したアプローチへの転換"
-      ],
-      "subjects": [
+          "EG CONFERENCE CALL NOTES: MENA Crisis Update",
+          "data/pdfs/20260715_0850_EG_CONFERENCE_CALL_NOTES__MENA_Crisis_Update.pdf"
+        ],
         [
-          "2026-07-14",
-          "Research Summary for Jul 13, 2026",
-          "data/pdfs/20260714_0735_Research_Summary_for_Jul_13,_2026.pdf"
+          "2026-07-15",
+          "Claude Mythos: Cyber Power, Competition & Global Risk - EG",
+          "data/pdfs/20260715_1001_Claude_Mythos__Cyber_Power,_Competition_&_Global_R.pdf"
+        ],
+        [
+          "2026-07-15",
+          "EG Research Summary in Japanese: 2026年7月15日",
+          "data/pdfs/20260715_1240_EG_Research_Summary_in_Japanese__2026年7月15日.pdf"
+        ],
+        [
+          "2026-07-15",
+          "EG Southeast Asia Biweekly: Anwar likely to retain power despite",
+          "data/pdfs/20260715_1826_EG_Southeast_Asia_Biweekly__Anwar_likely_to_retain.pdf"
+        ],
+        [
+          "2026-07-15",
+          "Brazil Update - The fight against organized crime - EG Conference",
+          "data/pdfs/20260715_2101_Brazil_Update_-_The_fight_against_organized_crime_.pdf"
+        ],
+        [
+          "2026-07-15",
+          "China's growing economic coercion toolkit - EG Conference Call,",
+          "data/pdfs/20260715_2127_China's_growing_economic_coercion_toolkit_-_EG_Con.pdf"
+        ],
+        [
+          "2026-07-15",
+          "EG Daily Brief: EU likely to harden China stance",
+          "data/pdfs/20260715_2140_EG_Daily_Brief__EU_likely_to_harden_China_stance.pdf"
+        ],
+        [
+          "2026-07-15",
+          "EG CONFERENCE CALL NOTES: EU Energy Outlook: Electricity",
+          "data/pdfs/20260715_2340_EG_CONFERENCE_CALL_NOTES__EU_Energy_Outlook__Elect.pdf"
+        ],
+        [
+          "2026-07-16",
+          "EG Iran, MENA Crisis: Escalation likely as Iran sees path to Hormuz",
+          "data/pdfs/20260716_0051_EG_Iran,_MENA_Crisis__Escalation_likely_as_Iran_se.pdf"
+        ],
+        [
+          "2026-07-16",
+          "EG US Daily: Defense and agriculture funding on track via",
+          "data/pdfs/20260716_0137_EG_US_Daily__Defense_and_agriculture_funding_on_tr.pdf"
+        ],
+        [
+          "2026-07-16",
+          "EG China QUICKTAKE: China's GDP slump deepens divide between",
+          "data/pdfs/20260716_0336_EG_China_QUICKTAKE__China's_GDP_slump_deepens_divi.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260714_0735_Research_Summary_for_Jul_13,_2026.pdf"
+        "data/pdfs/20260715_0733_eg_update_in_Japanese_(July_13,_2026).pdf",
+        "data/pdfs/20260715_0850_EG_CONFERENCE_CALL_NOTES__MENA_Crisis_Update.pdf",
+        "data/pdfs/20260715_1001_Claude_Mythos__Cyber_Power,_Competition_&_Global_R.pdf",
+        "data/pdfs/20260715_1240_EG_Research_Summary_in_Japanese__2026年7月15日.pdf",
+        "data/pdfs/20260715_1826_EG_Southeast_Asia_Biweekly__Anwar_likely_to_retain.pdf",
+        "data/pdfs/20260715_2101_Brazil_Update_-_The_fight_against_organized_crime_.pdf",
+        "data/pdfs/20260715_2127_China's_growing_economic_coercion_toolkit_-_EG_Con.pdf",
+        "data/pdfs/20260715_2140_EG_Daily_Brief__EU_likely_to_harden_China_stance.pdf",
+        "data/pdfs/20260715_2340_EG_CONFERENCE_CALL_NOTES__EU_Energy_Outlook__Elect.pdf",
+        "data/pdfs/20260716_0051_EG_Iran,_MENA_Crisis__Escalation_likely_as_Iran_se.pdf",
+        "data/pdfs/20260716_0137_EG_US_Daily__Defense_and_agriculture_funding_on_tr.pdf",
+        "data/pdfs/20260716_0336_EG_China_QUICKTAKE__China's_GDP_slump_deepens_divi.pdf"
       ]
     },
     {
       "sender": "Mujtaba",
       "short": "MUJTA",
-      "color": "RED",
+      "color": "YEL",
       "count": 1,
       "bullets": [
-        "6月中旬のG7とEU首脳会議後、EU内の対中国姿勢が急速に厳しくなる傾向が顕著",
-        "ドイツのフリードリヒ・メルツ首相が中国の過度に低い為替レートと通貨操作を公に指摘し、EU議論の転換点を推進",
-        "ベルリンでの政策転換がEU全体の対中国政策硬化を主導"
+        "フランスの極右勢力が2027年5月の選挙で勝利する可能性が高まっている状況",
+        "マリーヌ・ル・ペン党首の政治的復活がフランスと欧州全体に大きな影響を与える見込み",
+        "ル・ペンが「奇跡の生き残り者」と支持者に評価され、従来以上に選挙で打ち負かすことが難しくなっている局面",
+        "フランスの政治指導部が極右勢力の台頭がもたらす広範な影響への対応に苦慮している状況"
       ],
       "subjects": [
         [
-          "2026-07-14",
-          "EG PRACTICE LETTER: Dispatch from Paris—EU gearing up for a",
-          "data/pdfs/20260714_1531_EG_PRACTICE_LETTER__Dispatch_from_Paris—EU_gearing.pdf"
+          "2026-07-16",
+          "EG Europe: Dispatch from Paris— French far-right odds grow",
+          "data/pdfs/20260716_0115_EG_Europe__Dispatch_from_Paris—_French_far-right_o.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260714_1531_EG_PRACTICE_LETTER__Dispatch_from_Paris—EU_gearing.pdf"
+        "data/pdfs/20260716_0115_EG_Europe__Dispatch_from_Paris—_French_far-right_o.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "ORG",
-      "count": 13,
+      "color": "RED",
+      "count": 10,
       "bullets": [
-        "フランスのダンケルク市がクリーンテック産業への転換により産業復興に成功し、欧州全域での複製が検討されているが、原子力発電や深海港といった法律では実現不可能な構造的優位性が必須。",
-        "トランプ大統領がホルムズ海峡通行船舶への20%手数料徴収を計画しており、実現すれば原油価格が大幅上昇の見通し。",
-        "EU排出権取引制度の国際線拡大による炭素漏出は約3%に抑制可能であり、出発便のみの適用で年約90億ユーロの収入と環境効果の両立が可能。",
-        "6月の熱波がヨーロッパで最大1万4000人の死亡をもたらし、気候変動による人命喪失が深刻化。",
-        "クリミアがロシアの軍事的優位性から脆弱性へ転換し、プーチン指導部の課題に。"
+        "米国とイランの戦争再開で外交による停止の見通しが立たず、中東の仲介努力も進展の兆しがない状況。",
+        "EU次期コネクティングヨーロッパ・ファシリティの予算案で、EU優先条項導入と「使用しなければ失う」原則を含む妥協案を承認。",
+        "欧州各地で文化的・政治的な課題が浮上。イタリアの狩猟改革法案とEU規制の衝突、英国労働党指導部のブランドイメージ戦略、スペインの中絶制限問題など。",
+        "ロシア制裁を巡るEU内協議が難航し、対露ロケット兵器制限に向けた最後の交渉が展開。"
       ],
       "subjects": [
         [
-          "2026-07-14",
-          "This once-depressed region pulled off an industrial revival. Can",
-          "data/pdfs/20260714_1327_This_once-depressed_region_pulled_off_an_industria.pdf"
-        ],
-        [
-          "2026-07-14",
-          "‘Ridiculously high’: Trump’s Hormuz toll would send energy prices",
-          "data/pdfs/20260714_1347_‘Ridiculously_high’__Trump’s_Hormuz_toll_would_sen.pdf"
-        ],
-        [
-          "2026-07-14",
-          "Happy ‘Super Tuesday’",
-          "data/pdfs/20260714_1353_Happy_‘Super_Tuesday’.pdf"
-        ],
-        [
-          "2026-07-14",
-          "ETS aviation’s carbon leakage risk downgraded",
-          "data/pdfs/20260714_1401_ETS_aviation’s_carbon_leakage_risk_downgraded.pdf"
-        ],
-        [
-          "2026-07-14",
-          "Brutal June heat wave killed as many as 14,000 Europeans",
-          "data/pdfs/20260714_1645_Brutal_June_heat_wave_killed_as_many_as_14,000_Eur.pdf"
-        ],
-        [
-          "2026-07-14",
-          "Crimea was Russia’s stronghold. Now it’s a vulnerability.",
-          "data/pdfs/20260714_1736_Crimea_was_Russia’s_stronghold._Now_it’s_a_vulnera.pdf"
-        ],
-        [
-          "2026-07-14",
-          "Why the EU’s new social media roadmap is tougher than it looks",
-          "data/pdfs/20260714_1906_Why_the_EU’s_new_social_media_roadmap_is_tougher_t.pdf"
-        ],
-        [
-          "2026-07-14",
-          "EU Commission mulls tweaks to Foreign Subsidies Regulation",
-          "data/pdfs/20260714_1931_EU_Commission_mulls_tweaks_to_Foreign_Subsidies_Re.pdf"
-        ],
-        [
-          "2026-07-14",
-          "Luftwaffe chief warns Europe has ‘no time’ to counter Putin",
-          "data/pdfs/20260714_2107_Luftwaffe_chief_warns_Europe_has_‘no_time’_to_coun.pdf"
-        ],
-        [
-          "2026-07-14",
-          "Saving Europe’s steel strains critical friendships abroad",
-          "data/pdfs/20260714_2222_Saving_Europe’s_steel_strains_critical_friendships.pdf"
+          "2026-07-15",
+          "No end in sight for new Iran war",
+          "data/pdfs/20260715_0716_No_end_in_sight_for_new_Iran_war.pdf"
         ],
         [
           "2026-07-15",
+          "11th-hour bid to curb Russian rockets",
+          "data/pdfs/20260715_1357_11th-hour_bid_to_curb_Russian_rockets.pdf"
+        ],
+        [
+          "2026-07-15",
+          "Parliament negotiators meet on transport budget",
+          "data/pdfs/20260715_1400_Parliament_negotiators_meet_on_transport_budget.pdf"
+        ],
+        [
+          "2026-07-15",
+          "Meloni’s hunting reform spells pressure at home and a clash with",
+          "data/pdfs/20260715_1636_Meloni’s_hunting_reform_spells_pressure_at_home_an.pdf"
+        ],
+        [
+          "2026-07-15",
+          "Andy Burnham’s T-shirt-wearing brand is about to be tested",
+          "data/pdfs/20260715_1735_Andy_Burnham’s_T-shirt-wearing_brand_is_about_to_b.pdf"
+        ],
+        [
+          "2026-07-15",
+          "‘Trumpian politics’: Abortion battle flares over law pushed by",
+          "data/pdfs/20260715_1906_‘Trumpian_politics’__Abortion_battle_flares_over_l.pdf"
+        ],
+        [
+          "2026-07-15",
+          "Cap, trade, repeat: Your cheat sheet to the EU’s carbon market",
+          "data/pdfs/20260715_2129_Cap,_trade,_repeat__Your_cheat_sheet_to_the_EU’s_c.pdf"
+        ],
+        [
+          "2026-07-15",
+          "Top Orbán ally joins Chinese car giant BYD",
+          "data/pdfs/20260715_2240_Top_Orbán_ally_joins_Chinese_car_giant_BYD.pdf"
+        ],
+        [
+          "2026-07-16",
           "Pro Daily Headlines",
-          "data/pdfs/20260715_0031_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20260716_0031_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-07-15",
-          "Document: Parliament seeks bigger transport budget, ‘Buy",
-          "data/pdfs/20260715_0046_Document__Parliament_seeks_bigger_transport_budget.pdf"
-        ],
-        [
-          "2026-07-15",
-          "Trump backtracks on plan to charge 20 percent fee for ships",
-          "data/pdfs/20260715_0100_Trump_backtracks_on_plan_to_charge_20_percent_fee_.pdf"
+          "2026-07-16",
+          "The EU’s new border system gets confused by identical twins",
+          "data/pdfs/20260716_0043_The_EU’s_new_border_system_gets_confused_by_identi.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260714_1327_This_once-depressed_region_pulled_off_an_industria.pdf",
-        "data/pdfs/20260714_1347_‘Ridiculously_high’__Trump’s_Hormuz_toll_would_sen.pdf",
-        "data/pdfs/20260714_1353_Happy_‘Super_Tuesday’.pdf",
-        "data/pdfs/20260714_1401_ETS_aviation’s_carbon_leakage_risk_downgraded.pdf",
-        "data/pdfs/20260714_1645_Brutal_June_heat_wave_killed_as_many_as_14,000_Eur.pdf",
-        "data/pdfs/20260714_1736_Crimea_was_Russia’s_stronghold._Now_it’s_a_vulnera.pdf",
-        "data/pdfs/20260714_1906_Why_the_EU’s_new_social_media_roadmap_is_tougher_t.pdf",
-        "data/pdfs/20260714_1931_EU_Commission_mulls_tweaks_to_Foreign_Subsidies_Re.pdf",
-        "data/pdfs/20260714_2107_Luftwaffe_chief_warns_Europe_has_‘no_time’_to_coun.pdf",
-        "data/pdfs/20260714_2222_Saving_Europe’s_steel_strains_critical_friendships.pdf",
-        "data/pdfs/20260715_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260715_0046_Document__Parliament_seeks_bigger_transport_budget.pdf",
-        "data/pdfs/20260715_0100_Trump_backtracks_on_plan_to_charge_20_percent_fee_.pdf"
-      ]
-    },
-    {
-      "sender": "ジェトロ調査企画課・デジタルメディア班",
-      "short": "ジェトロ調",
-      "color": "GRN",
-      "count": 1,
-      "bullets": [
-        "USMCA（米国・カナダ・メキシコ貿易協定）が2026年7月1日に初の共同見直しを実施、米国の反対により延長合意に至らず",
-        "ジェトロが8月7日にUSMCA共同見直しについて3カ国現地駐在員による視点から論点と今後の見通しを解説するウェビナーを開催",
-        "北米向け輸出企業や米国・メキシコ・カナダ拠点企業、北米進出検討企業の経営企画・調達・貿易実務担当者を対象",
-        "USMCA協議内容のルール厳格化の動きと日本企業への影響、サプライチェーン再構築における留意点を説明",
-        "受講料は一般4,000円、ジェトロメンバーズ2,000円、オンデマンド配信は8月14日～10月14日に視聴可能"
-      ],
-      "subjects": [
-        [
-          "2026-07-14",
-          "《募集開始》ジェトロ【現地発ウェビナー】USMCA共同見直しのポイン",
-          "data/pdfs/20260714_1636_《募集開始》ジェトロ【現地発ウェビナー】USMCA共同見直しのポイントと今後の展望_―日本企業はどう.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260714_1636_《募集開始》ジェトロ【現地発ウェビナー】USMCA共同見直しのポイントと今後の展望_―日本企業はどう.pdf"
+        "data/pdfs/20260715_0716_No_end_in_sight_for_new_Iran_war.pdf",
+        "data/pdfs/20260715_1357_11th-hour_bid_to_curb_Russian_rockets.pdf",
+        "data/pdfs/20260715_1400_Parliament_negotiators_meet_on_transport_budget.pdf",
+        "data/pdfs/20260715_1636_Meloni’s_hunting_reform_spells_pressure_at_home_an.pdf",
+        "data/pdfs/20260715_1735_Andy_Burnham’s_T-shirt-wearing_brand_is_about_to_b.pdf",
+        "data/pdfs/20260715_1906_‘Trumpian_politics’__Abortion_battle_flares_over_l.pdf",
+        "data/pdfs/20260715_2129_Cap,_trade,_repeat__Your_cheat_sheet_to_the_EU’s_c.pdf",
+        "data/pdfs/20260715_2240_Top_Orbán_ally_joins_Chinese_car_giant_BYD.pdf",
+        "data/pdfs/20260716_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260716_0043_The_EU’s_new_border_system_gets_confused_by_identi.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "PRP",
+      "color": "ORG",
       "count": 1,
       "bullets": [
-        "中国の国際自動車電子産業サミットに日系企業10社が出展",
-        "日印首脳会談で次世代燃料分野などでの協力が合意",
-        "インドの高成長がADBとIMFの7月版見通しで確認",
-        "米国主要港の5月小売業者向け輸入コンテナ量が前月比10.1％増加し輸入の早期化が明らかに",
-        "ドイツのディープテック分野5つの産業が重点支援対象に決定され電動車販売も好調"
+        "中国国務院が脱炭素に向けた5カ年規画期間のアクションプラン発表",
+        "中国が小売業のイノベーション発展加速に向けた意見を公表",
+        "京東と広東省がロボット産業プロジェクト「RoboBase」の戦略的協力協定を締結し広州市で着工",
+        "中国が複合運転支援システムの安全要求に関する強制国家標準を公布",
+        "マレーシア道路交通局が居住外国人の国際免許証運転可能期間を明確化",
+        "イオンモールがベトナム8号店をダナン市に開業"
       ],
       "subjects": [
         [
-          "2026-07-14",
-          "「ジェトロ・ビジネス短信」2026/07/14",
-          "data/pdfs/20260714_1833_「ジェトロ・ビジネス短信」2026_07_14.pdf"
+          "2026-07-15",
+          "「ジェトロ・ビジネス短信」2026/07/15",
+          "data/pdfs/20260715_1818_「ジェトロ・ビジネス短信」2026_07_15.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260714_1833_「ジェトロ・ビジネス短信」2026_07_14.pdf"
+        "data/pdfs/20260715_1818_「ジェトロ・ビジネス短信」2026_07_15.pdf"
       ]
     }
   ]
