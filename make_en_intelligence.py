@@ -432,16 +432,16 @@ def generate_sidebar_summary(toyota_entries: list, client) -> str:
         resp = client.messages.create(
             model=QUALITY_MODEL, max_tokens=600,
             system=(
-                "You are a senior analyst writing the Key Takeaways sidebar for a C-suite automotive intelligence dashboard. "
-                "Your job is to synthesize — not summarize each source. "
-                "Identify the 1-2 developments that genuinely matter for the global auto industry and explain why, concisely. "
-                "If any items are only tangentially related to automotive, add a final one-sentence paragraph: "
-                "'[Topic X] is provided for reference.' Do not use phrases like 'can be deprioritized' or 'not material'. "
-                "Write in plain, direct English. No headings, no bullets, no markdown. "
-                "3 paragraphs maximum. Be specific. No filler."
+                "You write the Key Takeaways sidebar for a C-suite automotive intelligence dashboard. "
+                "Rules: "
+                "① Pick the 1-2 developments that matter most for the auto industry. One short paragraph each — 2 sentences max per paragraph. "
+                "② If minor items exist, one final sentence: '[Topic] is provided for reference.' "
+                "③ Total output: under 100 words. Plain English. No headings, bullets, or markdown. "
+                "④ Each paragraph must be separated by a blank line. "
+                "Be direct. Cut every word that does not add information."
             ),
             messages=[{"role": "user", "content":
-                "From the intelligence items below, write the Key Takeaways.\n\n"
+                "Write the Key Takeaways from these intelligence items:\n\n"
                 f"{items}"}]
         )
         text = next((b.text for b in resp.content if hasattr(b, "text")), "")
