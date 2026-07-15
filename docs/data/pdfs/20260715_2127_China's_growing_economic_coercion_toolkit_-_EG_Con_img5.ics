@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:China's growing economic coercion toolkit - EG Conference Call
+DTSTART;VALUE=DATE-TIME:20260715T140000Z
+DTEND;VALUE=DATE-TIME:20260715T150000Z
+DESCRIPTION:Please join Amanda Hsiao\, director for China\, and Gerard DiP
+ ippo\, director for\nglobal macro\, for a discussion on China's growing ec
+ onomic\, legal\, and\nregulatory toolkit for matching and countering forei
+ gn coercive measures.\n  * How China's chokepoint leverage extends well be
+ yond critical minerals\n  * Beijing's expanding legal and regulatory toolk
+ it for retaliation\n  * How China calibrates costs on foreign governments 
+ and companies -- and what could change that\n  * Implications for China's 
+ key relations and Western governments' derisking efforts \n\n\nRegister He
+ re: https://us02web.zoom.us/webinar/register/WN_hFuUnuRxTP6cQezZiXrygg\n\n
+ Call-in:\nRegistration for this event is required.  \n  \nAfter registerin
+ g\, you will receive an email with instructions to join the\nmeeting\, inc
+ luding local dial-in information and a meeting invitation you can\nadd to 
+ your calendar. Please note you must be logged in from a computer or\nmobil
+ e app in order to ask a question.  \n  \nPlease allow a few minutes before
+  the call to join the meeting\, and connect\naudio by following the prompt
+ s from the conference call platform.\n\nReplay:\nA recording of this call 
+ will be available on the [Eurasia Group\nportal](https://library.eurasiagr
+ oup.net/events/) and mobile app approximately\nthree hours after the event
+  concludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260715T134500Z
+UID:5828339d-7bb4-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:5828339c-7bb4-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-16 07:01 JST",
+  "updated_at": "2026-07-16 07:02 JST",
   "total": 50,
-  "toyota_summary": "Hungary's former foreign minister has joined Chinese EV maker BYD in an executive role, marking the latest move by a European politician into the Chinese automotive sector. The hire signals Beijing's strategy to embed political connections in Europe as it pushes deeper into the continent's car market. For Western automakers, this represents both a competitive threat and a warning: Chinese rivals are not just competing on price and technology, but are actively cultivating political relationships that could reshape regulatory conditions and market access across the EU.\n\nThe move arrives as Europe tightens trade defenses. EU negotiators are working on new limits on steel imports and pushing through transport infrastructure deals, ostensibly to counter Chinese and American competition. Yet individual EU member states continue opening doors to Chinese investment and talent. This disconnect between Brussels-level protectionism and member-state-level accommodation creates unpredictable conditions for automakers trying to navigate European regulations and supply chains.\n\nWatch whether other senior European officials follow suit into Chinese automaker positions, which would suggest an organized recruitment effort rather than an isolated hire.",
+  "toyota_summary": "BYDによる元ハンガリー外相ペーテル・シーヤールトー氏の招聘は、中国が欧州において政治・産業両面での足場を一段と固めつつある実態を浮き彫りにする。同氏の入社は、同社ハンガリー工場が量産開始間近という時期と重なり、外国自動車メーカーが享受する国家補助金や政治的コネクションに対する新たな監視の目を招くこととなろう。\n\n米国が2026年を見据えてより厳格なルールを求めていることを背景に、USMCA（米国・メキシコ・カナダ協定）の共同レビューが停滞しており、北米自動車サプライチェーンには先行き不透明感が漂う。メキシコおよびラテンアメリカにおける中国系自動車メーカーの存在感の高まりが、競争圧力に一層拍車をかけている。\n\nなお、広州における日系サプライヤーの動向、ドイツのEV登録台数、ブラジルの関税割当、EUの航空炭素リーケージ規制、および欧州地域産業の復興については、参考情報として付記する。",
   "emails": [
     {
       "ts": "20260716_0336",
@@ -11,7 +11,12 @@
       "date_label": "JUL 16  03:36",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG China QUICKTAKE: China's GDP slump deepens divide between exports and domestic demand",
+      "html": "data/pdfs/20260716_0336_EG_China_QUICKTAKE__China's_GDP_slump_deepens_divi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_0137",
@@ -21,17 +26,27 @@
       "date_label": "JUL 16  01:37",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG US Daily: Defense and agriculture funding on track via reconciliation or otherwise",
+      "html": "data/pdfs/20260716_0137_EG_US_Daily__Defense_and_agriculture_funding_on_tr.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_0115",
-      "sender_norm": "Mujtaba",
+      "sender_norm": "Mujtaba Rahman",
       "subject": "EG Europe: Dispatch from Paris— French far-right odds grow",
       "pdf": "data/pdfs/20260716_0115_EG_Europe__Dispatch_from_Paris—_French_far-right_o.pdf",
       "date_label": "JUL 16  01:15",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Europe: Dispatch from Paris— French far-right odds grow despite legal tangle",
+      "html": "data/pdfs/20260716_0115_EG_Europe__Dispatch_from_Paris—_French_far-right_o.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_0051",
@@ -41,7 +56,12 @@
       "date_label": "JUL 16  00:51",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Iran, MENA Crisis: Escalation likely as Iran sees path to Hormuz control",
+      "html": "data/pdfs/20260716_0051_EG_Iran,_MENA_Crisis__Escalation_likely_as_Iran_se.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_0043",
@@ -51,7 +71,12 @@
       "date_label": "JUL 16  00:43",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The EU’s new border system gets confused by identical twins",
+      "html": "data/pdfs/20260716_0043_The_EU’s_new_border_system_gets_confused_by_identi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_0031",
@@ -71,7 +96,12 @@
       "date_label": "JUL 15  23:40",
       "read_min": 10,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG CONFERENCE CALL NOTES: EU Energy Outlook: Electricity costs will fall sharply by 2030",
+      "html": "data/pdfs/20260715_2340_EG_CONFERENCE_CALL_NOTES__EU_Energy_Outlook__Elect.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_2240",
@@ -81,7 +111,12 @@
       "date_label": "JUL 15  22:40",
       "read_min": 2,
       "toyota": true,
-      "excerpt": "ハンガリーの前外相ペーター・シジャルトが中国の電気自動車大手BYDの幹部職に就くため議会を"
+      "excerpt": "ハンガリーの前外相ペーター・シジャルトが中国の電気自動車大手BYDの幹部職に就くため議会を",
+      "subject_en": "Top Orbán ally joins Chinese car giant BYD",
+      "html": "data/pdfs/20260715_2240_Top_Orbán_ally_joins_Chinese_car_giant_BYD.html",
+      "summary_en": "Former Hungarian Foreign Minister Péter Szijjártó has resigned from parliament to take a senior executive role at BYD, overseeing external relations and new business development for the Chinese EV maker. The move drew criticism from Prime Minister Péter Magyar, who accused Szijjártó of previously lobbying for state subsidies to BYD while in government. The appointment comes as BYD prepares to begin production at its major new Hungarian plant later this year.",
+      "summary_ja": "ハンガリーのシーヤールトー前外相が議員を辞職し、中国のEV大手BYDで対外関係・新事業開発を担当する幹部職に就くことを発表した。マジャル首相はこれを批判し、同氏が政府在任中にBYDへの国家補助金を働きかけていたと非難した。BYDは今年中にハンガリーの新工場で生産を開始する予定で、同国を欧州における主要生産拠点としている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_2140",
@@ -91,7 +126,12 @@
       "date_label": "JUL 15  21:40",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Daily Brief:  EU likely to harden China stance",
+      "html": "data/pdfs/20260715_2140_EG_Daily_Brief__EU_likely_to_harden_China_stance.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_2129",
@@ -101,7 +141,12 @@
       "date_label": "JUL 15  21:29",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Cap, trade, repeat: Your cheat sheet to the EU’s carbon market reform",
+      "html": "data/pdfs/20260715_2129_Cap,_trade,_repeat__Your_cheat_sheet_to_the_EU’s_c.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_2127",
@@ -111,7 +156,12 @@
       "date_label": "JUL 15  21:27",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "China's growing economic coercion toolkit - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260715_2127_China's_growing_economic_coercion_toolkit_-_EG_Con.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_2101",
@@ -121,7 +171,12 @@
       "date_label": "JUL 15  21:01",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Brazil Update - The fight against organized crime - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260715_2101_Brazil_Update_-_The_fight_against_organized_crime_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_1906",
@@ -131,7 +186,12 @@
       "date_label": "JUL 15  19:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "‘Trumpian politics’: Abortion battle flares over law pushed by Madrid conservatives",
+      "html": "data/pdfs/20260715_1906_‘Trumpian_politics’__Abortion_battle_flares_over_l.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_1826",
@@ -140,18 +200,28 @@
       "pdf": "data/pdfs/20260715_1826_EG_Southeast_Asia_Biweekly__Anwar_likely_to_retain.pdf",
       "date_label": "JUL 15  18:26",
       "read_min": 12,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EG Southeast Asia Biweekly: Anwar likely to retain power despite state election losses",
+      "html": "data/pdfs/20260715_1826_EG_Southeast_Asia_Biweekly__Anwar_likely_to_retain.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_1818",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/07/15",
       "pdf": "data/pdfs/20260715_1818_「ジェトロ・ビジネス短信」2026_07_15.pdf",
       "date_label": "JUL 15  18:18",
       "read_min": 1,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" 2026/07/15",
+      "html": "data/pdfs/20260715_1818_「ジェトロ・ビジネス短信」2026_07_15.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260715_1818_「ジェトロ・ビジネス短信」2026_07_15_en.pdf"
     },
     {
       "ts": "20260715_1735",
@@ -161,7 +231,12 @@
       "date_label": "JUL 15  17:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Andy Burnham’s T-shirt-wearing brand is about to be tested ",
+      "html": "data/pdfs/20260715_1735_Andy_Burnham’s_T-shirt-wearing_brand_is_about_to_b.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_1636",
@@ -171,7 +246,12 @@
       "date_label": "JUL 15  16:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Meloni’s hunting reform spells pressure at home and a clash with Brussels",
+      "html": "data/pdfs/20260715_1636_Meloni’s_hunting_reform_spells_pressure_at_home_an.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_1400",
@@ -181,7 +261,12 @@
       "date_label": "JUL 15  14:00",
       "read_min": 9,
       "toyota": true,
-      "excerpt": "欧州議会交渉担当者が本日、EU次期コネクティングヨーロッパ・ファシリティの妥協案テキスト"
+      "excerpt": "欧州議会交渉担当者が本日、EU次期コネクティングヨーロッパ・ファシリティの妥協案テキスト",
+      "subject_en": "Parliament negotiators meet on transport budget",
+      "html": "data/pdfs/20260715_1400_Parliament_negotiators_meet_on_transport_budget.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_1357",
@@ -190,8 +275,13 @@
       "pdf": "data/pdfs/20260715_1357_11th-hour_bid_to_curb_Russian_rockets.pdf",
       "date_label": "JUL 15  13:57",
       "read_min": 15,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "11th-hour bid to curb Russian rockets",
+      "html": "data/pdfs/20260715_1357_11th-hour_bid_to_curb_Russian_rockets.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_1240",
@@ -201,7 +291,12 @@
       "date_label": "JUL 15  12:40",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese: 2026年7月15日",
+      "html": "data/pdfs/20260715_1240_EG_Research_Summary_in_Japanese__2026年7月15日.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_1001",
@@ -211,7 +306,12 @@
       "date_label": "JUL 15  10:01",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Claude Mythos: Cyber Power, Competition & Global Risk - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260715_1001_Claude_Mythos__Cyber_Power,_Competition_&_Global_R.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_0850",
@@ -221,7 +321,12 @@
       "date_label": "JUL 15  08:50",
       "read_min": 11,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG CONFERENCE CALL NOTES: MENA Crisis Update",
+      "html": "data/pdfs/20260715_0850_EG_CONFERENCE_CALL_NOTES__MENA_Crisis_Update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_0733",
@@ -231,7 +336,12 @@
       "date_label": "JUL 15  07:33",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update in Japanese  (July 13, 2026)",
+      "html": "data/pdfs/20260715_0733_eg_update_in_Japanese_(July_13,_2026).html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_0716",
@@ -241,7 +351,12 @@
       "date_label": "JUL 15  07:16",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "No end in sight for new Iran war",
+      "html": "data/pdfs/20260715_0716_No_end_in_sight_for_new_Iran_war.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260715_0100",
@@ -487,7 +602,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "USMCA（米国・カナダ・メキシコの貿易協定）が2026年7月1日に初の共同見直しを実施したが",
-      "subject_en": "[Recruitment Begins] JETRO [Local Webinar] Key Points of USMCA Joint Review and Future Outlook - How Should Japanese Companies Prepare? -",
+      "subject_en": "[Recruitment Begins] JETRO [On-Site Webinar] Key Points of USMCA Joint Review and Future Outlook ― How Should Japanese Companies Prepare? ―",
       "html": "data/pdfs/20260714_1636_《募集開始》ジェトロ【現地発ウェビナー】USMCA共同見直しのポイントと今後の展望_―日本企業はどう.html",
       "summary_en": "JETRO is hosting a webinar on August 7 examining the USMCA's first joint review, which stalled after the U.S. pushed for stricter rules ahead of the 2026 deadline. Staff based in the U.S., Canada, and Mexico will break down each country's negotiating stance and implications for Japanese firms' North American supply chains. A related webinar on August 4 will cover shifting auto industry dynamics across Mexico, Mercosur, and Pacific Alliance countries, including rising Chinese automaker presence.",
       "summary_ja": "ジェトロは8月7日、USMCAの初の共同見直しを取り上げるウェビナーを開催する。既存ルールの厳格化を求める米国の反対により延長合意に至っておらず、米国・カナダ・メキシコ駐在員がそれぞれの立場から論点と見通し、日本企業のサプライチェーンへの影響を解説する。あわせて8月4日には、中南米の自動車産業の変化を扱うウェビナーも実施され、メキシコやメルコスール、太平洋同盟諸国における中国系メーカーの台頭などが紹介される。",
@@ -628,5 +743,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "BYD's hiring of former Hungarian FM Péter Szijjártó underscores China's deepening political and industrial foothold in Europe, arriving just as its Hungarian plant nears production—raising fresh scrutiny over state subsidies and political ties benefiting a foreign automaker.\n\nThe stalled USMCA joint review, driven by U.S. demands for stricter rules ahead of 2026, threatens uncertainty for North American auto supply chains, with rising Chinese automaker presence in Mexico and Latin America adding competitive pressure.\n\nJapanese supplier activity in Guangzhou, German EV registrations, Brazil's tariff quotas, EU aviation carbon leakage rules, and Europe's regional industrial revival are provided for reference."
 }
