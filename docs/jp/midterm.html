@@ -131,9 +131,9 @@
 
 <header class="site-header">
   <div class="logo" onclick="location.href='index.html'" title="ホームへ">World<em>News</em></div>
-  <div class="header-date">火曜日</div>
+  <div class="header-date">2026年07月16日</div>
   <div class="header-spacer"></div>
-  <div class="update-time">最終更新: 2026-07-14 JST</div>
+  <div class="update-time">最終更新: 2026年07月16日 08:45 JST</div>
   <div class="lang-toggle">
     <a href="midterm.html" class="active">JP</a>
     <a href="../en/midterm.html">EN</a>
@@ -338,33 +338,33 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
-    { state:'OH', incumbent:'(R空席)', party:'R', rating:'toss',    label:'接戦' },
-    { state:'MI', incumbent:'Gary Peters (D)', party:'D', rating:'toss',    label:'接戦' },
+    { state:'OH', incumbent:'(R, Open)', party:'R', rating:'toss',    label:'Toss-up' },
+    { state:'MI', incumbent:'Gary Peters (D)', party:'D', rating:'toss',    label:'Toss-up' },
     { state:'PA', incumbent:'Bob Casey (D)', party:'D', rating:'lean-d',  label:'Lean D' },
     { state:'WI', incumbent:'Tammy Baldwin (D)', party:'D', rating:'lean-d',  label:'Lean D' },
     { state:'MT', incumbent:'Jon Tester (D→)', party:'R', rating:'safe-r',  label:'Safe R' },
-    { state:'GA', incumbent:'Jon Ossoff (D)', party:'D', rating:'toss',    label:'接戦' },
+    { state:'GA', incumbent:'Jon Ossoff (D)', party:'D', rating:'toss',    label:'Toss-up' },
     { state:'NV', incumbent:'Jacky Rosen (D)', party:'D', rating:'lean-d',  label:'Lean D' },
     { state:'NH', incumbent:'Jeanne Shaheen (D)', party:'D', rating:'likely-d', label:'Likely D' },
     { state:'VA', incumbent:'Mark Warner (D)', party:'D', rating:'likely-d', label:'Likely D' },
     { state:'TX', incumbent:'John Cornyn (R)', party:'R', rating:'safe-r',  label:'Safe R' },
   ],
   house: [
-    { state:'NY-3', incumbent:'(空席)', party:'D', rating:'toss', label:'接戦' },
-    { state:'CA-13', incumbent:'John Duarte (R)', party:'R', rating:'toss', label:'接戦' },
+    { state:'NY-3', incumbent:'(Open)', party:'D', rating:'toss', label:'Toss-up' },
+    { state:'CA-13', incumbent:'John Duarte (R)', party:'R', rating:'toss', label:'Toss-up' },
     { state:'AZ-6', incumbent:'Juan Ciscomani (R)', party:'R', rating:'lean-r', label:'Lean R' },
     { state:'PA-8', incumbent:'Matt Cartwright (D→)', party:'R', rating:'lean-r', label:'Lean R' },
-    { state:'MI-7', incumbent:'(D空席)', party:'D', rating:'toss', label:'接戦' },
-    { state:'VA-2', incumbent:'(R/D)', party:'R', rating:'toss', label:'接戦' },
+    { state:'MI-7', incumbent:'(D, Open)', party:'D', rating:'toss', label:'Toss-up' },
+    { state:'VA-2', incumbent:'(R/D)', party:'R', rating:'toss', label:'Toss-up' },
     { state:'TX-28', incumbent:'(D)', party:'D', rating:'lean-d', label:'Lean D' },
   ],
   governor: [
-    { state:'FL', incumbent:'Ron DeSantis (R, 任期終)', party:'R', rating:'safe-r', label:'Safe R' },
+    { state:'FL', incumbent:'Ron DeSantis (R, Term Ends)', party:'R', rating:'safe-r', label:'Safe R' },
     { state:'TX', incumbent:'Greg Abbott (R)', party:'R', rating:'safe-r', label:'Safe R' },
     { state:'IL', incumbent:'JB Pritzker (D)', party:'D', rating:'safe-d', label:'Safe D' },
     { state:'NY', incumbent:'Kathy Hochul (D)', party:'D', rating:'likely-d', label:'Likely D' },
-    { state:'GA', incumbent:'Brian Kemp (R, 任期終)', party:'R', rating:'lean-r', label:'Lean R' },
-    { state:'WI', incumbent:'Tony Evers (D)', party:'D', rating:'toss', label:'接戦' },
+    { state:'GA', incumbent:'Brian Kemp (R, Term Ends)', party:'R', rating:'lean-r', label:'Lean R' },
+    { state:'WI', incumbent:'Tony Evers (D)', party:'D', rating:'toss', label:'Toss-up' },
     { state:'PA', incumbent:'Josh Shapiro (D)', party:'D', rating:'safe-d', label:'Safe D' },
   ]
 };
@@ -4434,45 +4434,45 @@ function drawRaces() {
    ===================================================== */
 const upcomingSchedules = {
   senate: [
-    { date: '7月21日頃（必要時）', state: 'ジョージア（GA）', event: '上院予備選ランオフ（過半数未達の場合）' },
-    { date: '8月4日', state: 'ミシガン（MI）', event: '上院予備選（両党）— G・ピータース D 改選' },
-    { date: '8月4日', state: 'カンザス（KS）', event: '上院予備選（共和党）— J・モラン R 改選' },
-    { date: '8月6日', state: 'テネシー（TN）', event: '上院予備選（両党）— B・ヘイガティ R 改選' },
-    { date: '8月11日', state: 'ミネソタ（MN）', event: '上院予備選（両党）— T・スミス D 改選' },
-    { date: '8月18日', state: 'アラスカ（AK）', event: '上院予備選（RCV・全候補一括）— D・サリバン R 改選' },
-    { date: '8月18日', state: 'ワイオミング（WY）', event: '上院予備選（共和党）— 2026年改選' },
+    { date: '~July 21 (if needed)', state: 'Georgia (GA)', event: 'Senate Primary Runoff (if no majority)' },
+    { date: 'Aug 4', state: 'Michigan (MI)', event: 'Senate Primary (both parties)— G. Peters D up for election' },
+    { date: 'Aug 4', state: 'Kansas (KS)', event: 'Senate Primary (Republican)— J. Moran R up for election' },
+    { date: 'Aug 6', state: 'Tennessee (TN)', event: 'Senate Primary (both parties)— B. Hagerty R up for election' },
+    { date: 'Aug 11', state: 'Minnesota (MN)', event: 'Senate Primary (both parties)— T. Smith D up for election' },
+    { date: 'Aug 18', state: 'Alaska (AK)', event: 'Senate Primary (RCV, all candidates)— D. Sullivan R up for election' },
+    { date: 'Aug 18', state: 'Wyoming (WY)', event: 'Senate Primary (Republican)— 2026 up for election' },
   ],
   house: [
-    { date: '7月21日頃（必要時）', state: 'ジョージア（GA）', event: '下院予備選ランオフ（複数選挙区・過半数未達の場合）' },
-    { date: '8月4日', state: 'ミシガン（MI）', event: '下院予備選（両党・全13議席）' },
-    { date: '8月4日', state: 'ミズーリ（MO）', event: '下院予備選（両党・全8議席）' },
-    { date: '8月4日', state: 'アリゾナ（AZ）', event: '下院予備選（両党・全9議席）' },
-    { date: '8月4日', state: 'ワシントン（WA）', event: '下院予備選（無党派一括・上位2名進出・全10議席）' },
-    { date: '8月4日', state: 'カンザス（KS）', event: '下院予備選（両党・全4議席）' },
-    { date: '8月6日', state: 'テネシー（TN）', event: '下院予備選（両党・全9議席）' },
-    { date: '8月8日', state: 'ハワイ（HI）', event: '下院予備選（両党・全2議席）' },
-    { date: '8月11日', state: 'ミネソタ（MN）', event: '下院予備選（両党・全8議席）' },
-    { date: '8月11日', state: 'コネチカット（CT）', event: '下院予備選（両党・全5議席）' },
-    { date: '8月11日', state: 'ウィスコンシン（WI）', event: '下院予備選（両党・全8議席）' },
-    { date: '8月11日', state: 'バーモント（VT）', event: '下院予備選（両党・全1議席）' },
-    { date: '8月18日', state: 'フロリダ（FL）', event: '下院予備選（両党・全28議席）' },
-    { date: '8月18日', state: 'アラスカ（AK）', event: '下院予備選（RCV・上位4名進出・全1議席）' },
-    { date: '8月18日', state: 'ワイオミング（WY）', event: '下院予備選（共和党・全1議席）' },
+    { date: '~July 21 (if needed)', state: 'Georgia (GA)', event: 'House Primary Runoff (multiple districts, if no majority)' },
+    { date: 'Aug 4', state: 'Michigan (MI)', event: 'House Primary (all 13 seats)' },
+    { date: 'Aug 4', state: 'Missouri (MO)', event: 'House Primary (all 8 seats)' },
+    { date: 'Aug 4', state: 'Arizona (AZ)', event: 'House Primary (all 9 seats)' },
+    { date: 'Aug 4', state: 'Washington (WA)', event: 'House Open Primary (top-2, all 10 seats)' },
+    { date: 'Aug 4', state: 'Kansas (KS)', event: 'House Primary (all 4 seats)' },
+    { date: 'Aug 6', state: 'Tennessee (TN)', event: 'House Primary (all 9 seats)' },
+    { date: 'Aug 8', state: 'Hawaii (HI)', event: 'House Primary (all 2 seats)' },
+    { date: 'Aug 11', state: 'Minnesota (MN)', event: 'House Primary (all 8 seats)' },
+    { date: 'Aug 11', state: 'Connecticut (CT)', event: 'House Primary (all 5 seats)' },
+    { date: 'Aug 11', state: 'Wisconsin (WI)', event: 'House Primary (all 8 seats)' },
+    { date: 'Aug 11', state: 'Vermont (VT)', event: 'House Primary (at-large)' },
+    { date: 'Aug 18', state: 'Florida (FL)', event: 'House Primary (all 28 seats)' },
+    { date: 'Aug 18', state: 'Alaska (AK)', event: 'House Primary (RCV top-4, at-large)' },
+    { date: 'Aug 18', state: 'Wyoming (WY)', event: 'House Primary (R, at-large)' },
   ],
   governor: [
-    { date: '7月21日頃（必要時）', state: 'ジョージア（GA）', event: '知事選予備選ランオフ（オープン席・過半数未達の場合）' },
-    { date: '8月4日', state: 'ミシガン（MI）', event: '知事選予備選（両党）— ホイットマー D 再選挑戦' },
-    { date: '8月4日', state: 'アリゾナ（AZ）', event: '知事選予備選（両党）— ホッブス D 再選挑戦' },
-    { date: '8月4日', state: 'カンザス（KS）', event: '知事選予備選（両党）— オープン席（ケリー D 任期満了）' },
-    { date: '8月6日', state: 'テネシー（TN）', event: '知事選予備選（両党）— オープン席（リー R 任期満了）' },
-    { date: '8月8日', state: 'ハワイ（HI）', event: '知事選予備選（両党）— グリーン D 再選挑戦' },
-    { date: '8月11日', state: 'ウィスコンシン（WI）', event: '知事選予備選（両党）— エバース D 再選挑戦' },
-    { date: '8月11日', state: 'ミネソタ（MN）', event: '知事選予備選（両党）— ウォルズ D 再選挑戦' },
-    { date: '8月11日', state: 'コネチカット（CT）', event: '知事選予備選（両党）— ラモント D 再選挑戦' },
-    { date: '8月11日', state: 'バーモント（VT）', event: '知事選予備選（両党・2年任期）— スコット R 再選挑戦' },
-    { date: '8月18日', state: 'フロリダ（FL）', event: '知事選予備選（両党）— オープン席（デサンティス R 任期満了）' },
-    { date: '8月18日', state: 'アラスカ（AK）', event: '知事選予備選（RCV・上位4名進出）— ダニリービー R 再選挑戦' },
-    { date: '8月18日', state: 'ワイオミング（WY）', event: '知事選予備選（共和党）— オープン席（ゴードン R 任期満了）' },
+    { date: '~July 21 (if needed)', state: 'Georgia (GA)', event: 'Governor Primary Runoff (open seat, if no majority)' },
+    { date: 'Aug 4', state: 'Michigan (MI)', event: 'Governor Primary (both parties)— Whitmer D seeking re-election' },
+    { date: 'Aug 4', state: 'Arizona (AZ)', event: 'Governor Primary (both parties)— Hobbs D seeking re-election' },
+    { date: 'Aug 4', state: 'Kansas (KS)', event: 'Governor Primary (both parties)— Open seat (Kelly D term-limited)' },
+    { date: 'Aug 6', state: 'Tennessee (TN)', event: 'Governor Primary (both parties)— Open seat (Lee R term-limited)' },
+    { date: 'Aug 8', state: 'Hawaii (HI)', event: 'Governor Primary (both parties)— Green D seeking re-election' },
+    { date: 'Aug 11', state: 'Wisconsin (WI)', event: 'Governor Primary (both parties)— Evers D seeking re-election' },
+    { date: 'Aug 11', state: 'Minnesota (MN)', event: 'Governor Primary (both parties)— Walz D seeking re-election' },
+    { date: 'Aug 11', state: 'Connecticut (CT)', event: 'Governor Primary (both parties)— Lamont D seeking re-election' },
+    { date: 'Aug 11', state: 'Vermont (VT)', event: 'Governor Primary (2-yr term) — Scott (R) seeking re-election' },
+    { date: 'Aug 18', state: 'Florida (FL)', event: 'Governor Primary (both parties)— Open seat (DeSantis R term-limited)' },
+    { date: 'Aug 18', state: 'Alaska (AK)', event: 'Governor Primary (RCV, top-4)— Dunleavy R seeking re-election' },
+    { date: 'Aug 18', state: 'Wyoming (WY)', event: 'Governor Primary (Republican)— Open seat (Gordon R term-limited)' },
   ],
 };
 
