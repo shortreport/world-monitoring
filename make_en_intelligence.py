@@ -873,7 +873,15 @@ def main():
     data = update_rolling(new_entries,
                           toyota_summary_en="", toyota_summary_ja="")
     emails_all     = data["emails"]
-    toyota_entries = [em for em in emails_all if em.get("toyota") and em.get("summary_en")]
+
+    # サイドバーは24時間以内のエントリのみ対象
+    now_jst = datetime.now(JST)
+    cutoff_ts = (now_jst - timedelta(hours=24)).strftime("%Y%m%d_%H%M")
+    toyota_entries = [
+        em for em in emails_all
+        if em.get("toyota") and em.get("summary_en") and em.get("ts", "") >= cutoff_ts
+    ]
+    print(f"  → 24h以内の自動車エントリ: {len(toyota_entries)}件 (cutoff={cutoff_ts})")
 
     # ── サイドバー集約要約 ────────────────────────────────────────────────────
     sidebar_en = ""
@@ -891,7 +899,6 @@ def main():
 
     # ── HTML 生成 ─────────────────────────────────────────────────────────────
     now_str      = datetime.now(JST).strftime("%Y-%m-%d %H:%M JST")
-    toyota_entries = [em for em in emails_all if em.get("toyota") and em.get("summary_en")]
     sidebar_html  = render_sidebar(toyota_entries, now_str, sidebar_en)
     html_content  = build_html(emails_all, sidebar_html, now_str)
     EN_HTML.write_text(html_content, encoding="utf-8")
