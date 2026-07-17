@@ -72,7 +72,14 @@ def strip_html(text):
 def parse_json_safe(text):
     text = re.sub(r"^```(?:json)?\s*", "", text.strip())
     text = re.sub(r"\s*```$", "", text)
-    return json.loads(text.strip())
+    try:
+        return json.loads(text.strip())
+    except json.JSONDecodeError:
+        # 文字列内の制御文字（改行等）をエスケープして再試行
+        cleaned = re.sub(r'(?<!\\)\n', r'\\n', text.strip())
+        cleaned = re.sub(r'(?<!\\)\r', r'\\r', cleaned)
+        cleaned = re.sub(r'(?<!\\)\t', r'\\t', cleaned)
+        return json.loads(cleaned)
 
 
 # ── Data loaders ──────────────────────────────────────────────────────────────
