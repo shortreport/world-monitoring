@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-17 08:57 JST",
+  "updated_at": "2026-07-17 09:00 JST",
   "total": 50,
-  "toyota_summary": "China's economy grew just 4.3 percent in the first half of 2026, a record low, yet Beijing is refusing to expand stimulus spending. The government's reluctance to inject cash into demand suggests automakers will face continued weakness in the world's largest vehicle market, with consumers postponing purchases and price competition intensifying. Watch whether Beijing shifts course by the end of the third quarter.\n\nEurope's auto regulatory package is stuck in early-stage negotiations with the parliament, buried under hundreds of proposed amendments that won't be resolved until year-end at the earliest. The delay means manufacturers can't yet finalize compliance strategies for emissions, battery standards, or tariffs, forcing investment decisions into limbo. Any major revisions to EV mandates or tariff provisions could upend production planning across the continent.\n\nHungary's former foreign minister has joined Chinese EV maker BYD in a senior role, signaling Beijing's push to embed political relationships into its European expansion. This move suggests Chinese automakers will use government connections and local influence to navigate regulatory obstacles and secure favorable conditions in ways Western competitors cannot easily replicate.",
+  "toyota_summary": "中国の国内自動車販売が減速する一方、輸出は6月に100万台を超え過去最高を更新した。GDP成長率が過去最低水準にあるにもかかわらず、中国政府は新たな景気刺激策を見送る公算が大きく、既存の施策で経済を下支えできるとの読みがあるようだ。\n\nEUの「自動車パッケージ」は年内成立に向けて難航が予想され、委員会段階では数千件に及ぶ修正案が依然として未解決のままである。同時に米国はBYDなど中国自動車メーカーへの対応強化をブリュッセルに働きかけており、交渉に一段と圧力が加わっている。\n\nなお、EUのタイヤ関税およびボッシュの半導体受注については参考情報として付記する。",
   "emails": [
     {
       "ts": "20260717_0735",
@@ -11,7 +11,12 @@
       "date_label": "JUL 17  07:35",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Research Summary for Jul 16, 2026",
+      "html": "data/pdfs/20260717_0735_Research_Summary_for_Jul_16,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_0654",
@@ -21,7 +26,12 @@
       "date_label": "JUL 17  06:54",
       "read_min": 11,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Energy and Environment Outlook: “Super” El Niño poses growing risks to global commodity market",
+      "html": "data/pdfs/20260717_0654_EG_Energy_and_Environment_Outlook__“Super”_El_Niño.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_0506",
@@ -31,7 +41,42 @@
       "date_label": "JUL 17  05:06",
       "read_min": 9,
       "toyota": true,
-      "excerpt": "中国のGDP成長率が記録的な低水準（4.3%）となっているが、政府は景気刺激策の拡大を見送り"
+      "excerpt": "中国のGDP成長率が記録的な低水準（4.3%）となっているが、政府は景気刺激策の拡大を見送り",
+      "subject_en": "EG China Weekly: Beijing will hold back on stimulus despite low GDP growth",
+      "html": "data/pdfs/20260717_0506_EG_China_Weekly__Beijing_will_hold_back_on_stimulu.html",
+      "summary_en": "China's auto sector is a key drag on the economy, with retail sales slumping as electric-vehicle subsidies fade and high fuel prices sap demand for traditional cars. This weakness comes even as overall industrial output rose, powered by high-tech exports rather than domestic consumption. Despite a record-low 4.3% GDP growth reading, Beijing is expected to hold off on fresh stimulus, betting existing fiscal measures will suffice unless conditions worsen further.",
+      "summary_ja": "中国の自動車業界は経済の重しとなっており、EV補助金の縮小と燃料高による従来型車需要の低迷で小売販売が落ち込んでいる。ハイテク製品の輸出に支えられ工業生産全体は増加したものの、国内消費は振るわない状況が続く。GDP成長率が4.3%と過去最低水準に落ち込む中でも、北京は新たな景気刺激策を控え、状況がさらに悪化しない限り既存の財政措置で対応する方針とみられる。",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20260717_0401",
+      "sender_norm": "POLITICO",
+      "subject": "EU sets up biggest climate fight of 2026 by slamming brakes on carbon market",
+      "subject_en": "EU sets up biggest climate fight of 2026 by slamming brakes on carbon market",
+      "html": "data/pdfs/20260717_0401_EU_sets_up_biggest_climate_fight_of_2026_by_slammi.html",
+      "pdf": "data/pdfs/20260717_0401_EU_sets_up_biggest_climate_fight_of_2026_by_slammi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "JUL 17  04:01",
+      "read_min": 9,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260717_0247",
+      "sender_norm": "POLITICO",
+      "subject": "The European Commission’s moment of climate truth ",
+      "subject_en": "The European Commission’s moment of climate truth ",
+      "html": "data/pdfs/20260717_0247_The_European_Commission’s_moment_of_climate_truth.html",
+      "pdf": "data/pdfs/20260717_0247_The_European_Commission’s_moment_of_climate_truth.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "JUL 17  02:47",
+      "read_min": 6,
+      "toyota": false,
+      "excerpt": ""
     },
     {
       "ts": "20260717_0219",
@@ -39,6 +84,26 @@
       "subject": "EG Ukraine: Fedorov's ouster will cost Zelensky more than it solves",
       "pdf": "data/pdfs/20260717_0219_EG_Ukraine__Fedorov's_ouster_will_cost_Zelensky_mo.pdf",
       "date_label": "JUL 17  02:19",
+      "read_min": 7,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EG Ukraine:  Fedorov's ouster will cost Zelensky more than it solves",
+      "html": "data/pdfs/20260717_0219_EG_Ukraine__Fedorov's_ouster_will_cost_Zelensky_mo.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20260717_0110",
+      "sender_norm": "POLITICO",
+      "subject": "‘Storm’ looms for aviation as EU plans to price emissions from international flights",
+      "subject_en": "‘Storm’ looms for aviation as EU plans to price emissions from international flights",
+      "html": "data/pdfs/20260717_0110_‘Storm’_looms_for_aviation_as_EU_plans_to_price_em.html",
+      "pdf": "data/pdfs/20260717_0110_‘Storm’_looms_for_aviation_as_EU_plans_to_price_em.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "JUL 17  01:10",
       "read_min": 7,
       "toyota": false,
       "excerpt": ""
@@ -51,6 +116,26 @@
       "date_label": "JUL 17  00:31",
       "read_min": 7,
       "toyota": false,
+      "excerpt": "",
+      "subject_en": "EG US Daily: Escalation likely as Iran sees a path to controlling Hormuz",
+      "html": "data/pdfs/20260717_0031_EG_US_Daily__Escalation_likely_as_Iran_sees_a_path.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20260716_2353",
+      "sender_norm": "POLITICO",
+      "subject": "EU Commission calls for anti-corruption reforms in Spain, Hungary",
+      "subject_en": "EU Commission calls for anti-corruption reforms in Spain, Hungary",
+      "html": "data/pdfs/20260716_2353_EU_Commission_calls_for_anti-corruption_reforms_in.html",
+      "pdf": "data/pdfs/20260716_2353_EU_Commission_calls_for_anti-corruption_reforms_in.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "JUL 16  23:53",
+      "read_min": 1,
+      "toyota": false,
       "excerpt": ""
     },
     {
@@ -61,7 +146,12 @@
       "date_label": "JUL 16  23:37",
       "read_min": 10,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG CONFERENCE CALL NOTES:  China's growing economic coercion toolkit",
+      "html": "data/pdfs/20260716_2337_EG_CONFERENCE_CALL_NOTES__China's_growing_economic.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_2224",
@@ -71,7 +161,12 @@
       "date_label": "JUL 16  22:24",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU bets fossil fuel lobby is crying wolf over supply shock warnings",
+      "html": "data/pdfs/20260716_2224_EU_bets_fossil_fuel_lobby_is_crying_wolf_over_supp.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_2058",
@@ -81,7 +176,12 @@
       "date_label": "JUL 16  20:58",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Daily Brief: US-Iran escalation likely by mid-August",
+      "html": "data/pdfs/20260716_2058_EG_Daily_Brief__US-Iran_escalation_likely_by_mid-A.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_2022",
@@ -91,7 +191,12 @@
       "date_label": "JUL 16  20:22",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EPP confirms position on weakening ETS",
+      "html": "data/pdfs/20260716_2022_EPP_confirms_position_on_weakening_ETS.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_1951",
@@ -101,17 +206,27 @@
       "date_label": "JUL 16  19:51",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Commission yet to agree on key details of ETS review",
+      "html": "data/pdfs/20260716_1951_Commission_yet_to_agree_on_key_details_of_ETS_revi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_1833",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/07/16",
       "pdf": "data/pdfs/20260716_1833_「ジェトロ・ビジネス短信」2026_07_16.pdf",
       "date_label": "JUL 16  18:33",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中国の2026年上半期の貿易総額が過去最高を更新し、AI関連製品の輸出が牽引している。また自"
+      "excerpt": "中国の2026年上半期の貿易総額が過去最高を更新し、AI関連製品の輸出が牽引している。また自",
+      "subject_en": "\"JETRO Business Brief\" 2026/07/16",
+      "html": "data/pdfs/20260716_1833_「ジェトロ・ビジネス短信」2026_07_16.html",
+      "summary_en": "China's June auto sales fell 3.2% year-on-year domestically but exports surged 75.1%, pushing monthly exports past one million units for the first time, while U.S. new vehicle sales held steady with 0.8% growth in Q2. Separately, the EU imposed anti-dumping duties on Chinese tire imports, prompting calls from European tire makers to boost regional production, and the U.S. Commerce Department awarded Bosch $225 million to support domestic silicon carbide semiconductor manufacturing.",
+      "summary_ja": "中国の6月の自動車販売は前年同月比3.2％減となったものの、輸出は75.1％増加し単月で初めて100万台を突破した。一方、米国の新車販売は第2四半期に前年同期比0.8％増と底堅さを維持した。また、EUは中国製タイヤに対しアンチダンピング関税を発動し欧州タイヤ業界は域内生産強化を求めているほか、米商務省はボッシュのSiC半導体製造に2億2,500万ドルの助成を発表した。",
+      "summary_pdf": "data/pdfs/20260716_1833_「ジェトロ・ビジネス短信」2026_07_16_en.pdf"
     },
     {
       "ts": "20260716_1750",
@@ -121,7 +236,12 @@
       "date_label": "JUL 16  17:50",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Big win for Sánchez and Puigdemont as top EU court backs Catalan amnesty law",
+      "html": "data/pdfs/20260716_1750_Big_win_for_Sánchez_and_Puigdemont_as_top_EU_court.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_1747",
@@ -131,7 +251,12 @@
       "date_label": "JUL 16  17:47",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG United Kingdom: Farage’s by-election gamble could trash Reform’s momentum",
+      "html": "data/pdfs/20260716_1747_EG_United_Kingdom__Farage’s_by-election_gamble_cou.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_1734",
@@ -141,7 +266,12 @@
       "date_label": "JUL 16  17:34",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Big win for Sánchez and Puigdemont as top EU court backs Catalan amnesty law",
+      "html": "data/pdfs/20260716_1734_Big_win_for_Sánchez_and_Puigdemont_as_top_EU_court.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_1636",
@@ -151,7 +281,12 @@
       "date_label": "JUL 16  16:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "5 midterm reshuffle headaches MEPs can’t escape this summer",
+      "html": "data/pdfs/20260716_1636_5_midterm_reshuffle_headaches_MEPs_can’t_escape_th.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_1416",
@@ -161,7 +296,12 @@
       "date_label": "JUL 16  14:16",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "欧州市場において、中堅・中小企業が高付加価値製品の価値を認める消費者層に対して、質と機動"
+      "excerpt": "欧州市場において、中堅・中小企業が高付加価値製品の価値を認める消費者層に対して、質と機動",
+      "subject_en": "JETRO Regional and Analysis Report New Arrivals Notice (July 16, 2026 Issue)",
+      "html": "data/pdfs/20260716_1416_ジェトロ地域・分析レポートの新着のご案内（2026年7月16日号）.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260716_1416_ジェトロ地域・分析レポートの新着のご案内（2026年7月16日号）_en.pdf"
     },
     {
       "ts": "20260716_1402",
@@ -171,7 +311,12 @@
       "date_label": "JUL 16  14:02",
       "read_min": 9,
       "toyota": true,
-      "excerpt": "自動車パッケージは欧州議会との交渉の初期段階にあり、数百件の修正案が提出されており、年末"
+      "excerpt": "自動車パッケージは欧州議会との交渉の初期段階にあり、数百件の修正案が提出されており、年末",
+      "subject_en": "Auto package put on hold",
+      "html": "data/pdfs/20260716_1402_Auto_package_put_on_hold.html",
+      "summary_en": "EU lawmakers are pushing to finalize the sprawling Automotive Package—covering CO2 standards, powertrain flexibility, and 'Made in Europe' rules—before year-end, though thousands of amendments in committee signal a tough negotiation ahead. Parliament's ENVI and TRAN committees remain the key battlegrounds, with rapporteur Jens Gieseke stressing lessons from past regulatory missteps. Separately, Washington is pressing Brussels to crack down harder on BYD and other Chinese automakers as EU-US trade tensions in the sector persist.",
+      "summary_ja": "EU議員団は、CO2基準やパワートレインの柔軟性、「メイド・イン・ヨーロッパ」規定を含む大規模な自動車パッケージを年内に成立させたい考えだが、委員会での修正案が数千件に及び、交渉は難航が予想される。欧州議会のENVI委員会とTRAN委員会が主戦場となっており、報告者のイェンス・ギーゼケ氏は過去の規制上の失敗を繰り返さないよう強調している。一方、米政権はEUに対し、BYDなど中国メーカーへのより強い対応を求めており、自動車分野での米欧間の貿易摩擦も続いている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_1356",
@@ -181,7 +326,12 @@
       "date_label": "JUL 16  13:56",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Center-left strains over Metsola III support",
+      "html": "data/pdfs/20260716_1356_Center-left_strains_over_Metsola_III_support.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_1312",
@@ -191,7 +341,12 @@
       "date_label": "JUL 16  13:12",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese: 2026年7月16日",
+      "html": "data/pdfs/20260716_1312_EG_Research_Summary_in_Japanese__2026年7月16日.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_1301",
@@ -201,7 +356,12 @@
       "date_label": "JUL 16  13:01",
       "read_min": 13,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "All the trade promises the EU and the US never meant to keep",
+      "html": "data/pdfs/20260716_1301_All_the_trade_promises_the_EU_and_the_US_never_mea.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_1003",
@@ -211,7 +371,12 @@
       "date_label": "JUL 16  10:03",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: Claude Mythos: Cyber Power, Competition & Global Risk「クロード・ミュトス；サイバー覇権、競争、そしてグローバルリスク」（同時通訳あり） - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260716_1003_APAC_&_Japan_Conference_Call__Claude_Mythos__Cyber.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260716_0336",
@@ -427,7 +592,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/07/15",
+      "subject_en": "\"JETRO Business Bulletin\" 2026/07/15",
       "html": "data/pdfs/20260715_1818_「ジェトロ・ビジネス短信」2026_07_15.html",
       "summary_en": "",
       "summary_ja": "",
@@ -582,61 +747,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20260715_0046",
-      "sender_norm": "POLITICO",
-      "subject": "Document: Parliament seeks bigger transport budget, ‘Buy",
-      "pdf": "data/pdfs/20260715_0046_Document__Parliament_seeks_bigger_transport_budget.pdf",
-      "date_label": "JUL 15  00:46",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Document: Parliament seeks bigger transport budget, ‘Buy European’ rules",
-      "html": "data/pdfs/20260715_0046_Document__Parliament_seeks_bigger_transport_budget.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20260715_0033",
-      "sender_norm": "Eurasia Group",
-      "subject": "EG US Daily: Traffic through Hormuz will fall as shaky peace",
-      "pdf": "data/pdfs/20260715_0033_EG_US_Daily__Traffic_through_Hormuz_will_fall_as_s.pdf",
-      "date_label": "JUL 15  00:33",
-      "read_min": 8,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EG US Daily: Traffic through Hormuz will fall as shaky peace collapses",
-      "html": "data/pdfs/20260715_0033_EG_US_Daily__Traffic_through_Hormuz_will_fall_as_s.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20260715_0031",
-      "sender_norm": "POLITICO",
-      "subject": "Pro Daily Headlines",
-      "pdf": "data/pdfs/20260715_0031_Pro_Daily_Headlines.pdf",
-      "date_label": "JUL 15  00:31",
-      "read_min": 1,
-      "toyota": true,
-      "excerpt": "EUが鋼鉄輸入を制限する措置により、中国・米国に対抗するために必要な貿易相手国との関係が"
-    },
-    {
-      "ts": "20260714_2301",
-      "sender_norm": "Eurasia Group",
-      "subject": "China's growing economic coercion toolkit - EG Conference Call,",
-      "pdf": "data/pdfs/20260714_2301_China's_growing_economic_coercion_toolkit_-_EG_Con.pdf",
-      "date_label": "JUL 14  23:01",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "China's growing economic coercion toolkit - EG Conference Call, REMINDER",
-      "html": "data/pdfs/20260714_2301_China's_growing_economic_coercion_toolkit_-_EG_Con.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "China's domestic auto sales are weakening even as exports hit record highs, exceeding one million units in June. Beijing is likely to withhold fresh stimulus despite record-low GDP growth, betting existing measures hold the economy steady.\n\nThe EU's Automotive Package faces a tough fight before year-end, with thousands of committee amendments still unresolved. Washington is simultaneously pushing Brussels to toughen its stance on Chinese automakers like BYD, adding pressure to the negotiations.\n\nEU tire tariffs and the Bosch semiconductor award are provided for reference."
 }

@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:APAC & Japan Conference Call: Claude Mythos: Cyber Power\, Competi
+ tion & Global Risk「クロード・ミュトス；サイバー覇権、
+ 競争、そしてグローバルリスク」（同時通訳あり） - EG
+  Conference Call
+DTSTART;VALUE=DATE-TIME:20260722T140000Z
+DTEND;VALUE=DATE-TIME:20260722T150000Z
+DESCRIPTION:Please join us for the Eurasia Group APAC & Japan Conference C
+ all\, where we\nwill be joined by Xiaomeng Lu\, Director\, Geo-technology\
+ , and Heather West\,\nPractice Head\, Geo-technology\, for a discussion on
+  "Claude Mythos\, Cyber\nPower\, Competition & Global Risk."  \n  \nこの
+ 度のユーラシアグループ APAC & Japan\nカンファレンス・
+ コールでは、ジオテクノロジー担当ディレクター、シ
+ ャオメン・ルーと、ジオテクノロジー担当プラクティ
+ ス・ヘッド、ヘザー・ウェストを迎え、「クロード・
+ ミュトス、サイバー覇権、競争、そしてグローバルリ
+ スク」について解説いたします。\n  * U.S. Tech Landscape: Co
+ mpetition & Cooperation\n  * Partnerships with tech companies and implicat
+ ions for cyber defense\n  * China's model capabilities and implications fo
+ r AI competition\n  * Outlooks for Defense Norms & International Coordinat
+ ion\n\n  * 米国テック業界の現況と先行き：競争と協調\n 
+  * テック企業とのパートナーシップとサイバー防衛へ
+ の示唆\n  * 中国のモデル能力とAI競争への示唆\n  * 防衛
+ 規範と国際的な連携における今後の展望\n\n\nRegister Here:
+  https://us02web.zoom.us/webinar/register/WN_-t39fLjqQ5im1Dp30aAJzw\n\nCal
+ l-in:\nRegistration for this event is required.  \n  \nAfter registering\,
+  you will receive an email with instructions to join the\nmeeting\, includ
+ ing local dial-in information and a meeting invitation you can\nadd to you
+ r calendar. Please note you must be logged in from a computer or\nmobile a
+ pp in order to ask a question.  \n  \nPlease allow a few minutes before th
+ e call to join the meeting\, and connect\naudio by following the prompts f
+ rom the conference call platform.\n\nReplay:\nA recording of this call wil
+ l be available on the [Eurasia Group\nportal](https://library.eurasiagroup
+ .net/events/) and mobile app approximately\nthree hours after the event co
+ ncludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260722T134500Z
+UID:8d78685b-7e89-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:8d78685a-7e89-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR
