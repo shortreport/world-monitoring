@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18 16:01:45",
+  "generated_at": "2026-07-18 23:57:06",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-18 16:01:15",
+      "last_checked": "2026-07-18 23:56:43",
       "items": [
+        {
+          "uid": "5bf93921da11",
+          "date": "2026-04-21",
+          "title": "H2 Talk: Is the Industrial Accelerator Act enough for Europe’s clean industry? - Hydrogen Europe",
+          "summary": "欧州産業加速法案は欧州のクリーン産業育成の重要な施策だが、水素産業の発展を支えるための投資や規制緩和が十分かについて業界関係者の間で議論が続いている。",
+          "source": "EU産業政策",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Z2RsNHVJcG80NlFqX3hLa3dyeHhGT3QySlVCVG94bGpaWUtTR2VTeDZHamN2cTlnOHlxS3FUc2x1UHVEVTBxZGN6cUVnYzMxTkZkRVVGSzZvSUczem4zUXZuSVlBemxnRXc?oc=5",
+          "added_at": "2026-07-18 23:56:41"
+        },
         {
           "uid": "6801a182116b",
           "date": "2026-07-16",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakFrcXJkVGNIQnpiRXZLTWFHOWE4ZG1tWXk4TXAwM0RmdTItdEJzRUZFaU5qZHVOVUtxUjhyRFAwNy1XcHhwNnV1T1prbTFhbkRMbDI0WEdOSlRKaFpqV2hWN2t5QmFmenZKbmsxSWJqX0xPTlZkQnpsaHlrU0R6ZnNwblpYRFZEcTNvb2FIa0xfR3ZLNFdXeUFVb0ZjdmsxZi03dWZ3dGFYQXBxZXQ1SlJ1WnhfNm8ySDdRVnZRZWpHb1U4VlE?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "0659d72e0f29",
-          "date": "2026-05-08",
-          "title": "CLEW Guide – How the European Union is trying to legislate a path to net-zero - Clean Energy Wire",
-          "summary": "申し訳ございませんが、提供していただいたテキストには記事の具体的な内容が含まれておらず、タイトルのみとなっているため、要約を作成することができません。欧州産業加速法案（IAA）に関する記事の本文内容をご提供いただければ、要約いたします。",
-          "source": "EU産業政策",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU2Rac3gzVkJzNzZYZmhWQ1BQQUNiSEo2dFU3Rllhd1pQZHdpMnY0WTVZRFlfOU1pQW9GSC1FTjFoNy1zaVBhbjgzb3dsRUFxREFudVhTeGpDYjJqQkNtZHRDa0J3T2s5RV9ZS2h3NUQ5T0E4SWQxUHBheWlMS2Z6UFRaRnRjLVRYdUxVbkpmN3padTRGQm1GTUlyYnROZ3BGZFZ5bW1R?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-18 16:01:24",
+      "last_checked": "2026-07-18 23:56:51",
       "items": [
         {
           "uid": "27b09fdee8fa",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-18 16:01:45",
+      "last_checked": "2026-07-18 23:57:06",
       "items": [
+        {
+          "uid": "42fde885c83d",
+          "date": "2026-05-07",
+          "title": "Brazil house backs critical minerals bill as Lula meets Trump - Mining.com",
+          "summary": "ブラジルの下院が重要鉱物法案を承認し、ルーラ大統領がトランプ氏と会談する中、中国のレアアース輸出管理への対抗策として、ブラジルが鉱物資源の戦略的地位を強化しようとしている動きが示されている。これは米国との連携を通じて、中国に依存しない重要鉱物サプライチェーンの構築を目指す取り組みである。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGZXdnJWdVI5aUstWGRLOU56RTlXQXRUX3FNTjBydTJyRUN3RWp3bzZvbGs1VTFaLWhDRU1rZkhZb3pYbDRYR2dJdkpOQWQ0VUhQUWRkSWpYVVZDczFqZVZWTWk3cGI2ZzdXc2NScGYzUm55NjFxdWpkSC13ckdfRWZXcHFSdmNyaTduN003TDNkZjQ?oc=5",
+          "added_at": "2026-07-18 23:57:03"
+        },
+        {
+          "uid": "2b514190a466",
+          "date": "2026-07-18",
+          "title": "Trump amplifies China interference claim: ‘Unprecedented election security nightmare’",
+          "summary": "この記事は中国レアアース輸出管理に関連していないため、要約できません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/5975954-donald-trump-china-interference-election-claims/",
+          "added_at": "2026-07-18 23:57:03"
+        },
         {
           "uid": "52b1b92dff33",
           "date": "2026-06-22",
@@ -6011,26 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOS1WT3Q4OHVfTXdyWUEyMlgtYVBrSWt3MVduNE1MQW5WcXFlTkpUMFRJZExESVU5TnRYOS1nQnhaMTJRamdiVXpWXzF2aDViVHdraG1jOU1Zc2x5STZ6cU9PTTQyYlc2enJrcDFzQXRDaFU4WXh6ak9xT1EzcTloMU9ZSmZGcGYtMDJIamh3TV9NLXF5ZzF0OWlEZm81MUdMQTJGaUtkWkNBQWc2WGdjcFBESTN1LXd5SUE?oc=5",
           "added_at": "2026-06-30 01:16:25"
-        },
-        {
-          "uid": "d890300ce928",
-          "date": "2026-06-29",
-          "title": "Fox News apologizes for airing O’Leary claims about data centers",
-          "summary": "本記事は中国レアアース輸出管理とは直接的な関連がなく、Fox Newsがデータセンタープロジェクトに関するO'Learyの未検証な中国関連主張の放映について謝罪した内容であるため、要約の対象外です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/media/5945270-fox-news-apologizes-kevin-oleary-china-data-center-claims/",
-          "added_at": "2026-06-30 01:16:25"
-        },
-        {
-          "uid": "22f4271da1f6",
-          "date": "2026-06-29",
-          "title": "Why Is Lynas Rare Earths (ASX:LYC) Leading the Rare Earth Rally? - Kalkine Media",
-          "summary": "申し訳ありませんが、提供いただいたタイトルのみで、具体的な記事の内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、中国のレアアース輸出管理に関する文脈での要約を作成いたします。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnRjYjQ2em10UFc2NnI4S0Rsa29nOVhrcVRrSVdzc2U5T3RIeHlFeWQ4b3lOdldfLXdDejB2LVJvN1hCMUNUU0QzQlJicTJlOGc4bHVXQmZvRUpPSlRDSWtsQmYyZWowYzNCcll5cXNDNjJobHd0b3ZRUzZRMFNuN01yUUhpY2ZYMVlOUU9TbkZnMzJfcGlxeFlhdi1Vb0Z3OV92WDQ2Y2g2eXpMZ0xsemFEc19QUQ?oc=5",
-          "added_at": "2026-06-29 20:31:01"
         }
       ]
     }
