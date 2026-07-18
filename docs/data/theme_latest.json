@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18 00:17:46",
+  "generated_at": "2026-07-18 16:01:45",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-18 00:16:51",
+      "last_checked": "2026-07-18 16:01:15",
       "items": [
         {
           "uid": "6801a182116b",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-18 00:17:09",
+      "last_checked": "2026-07-18 16:01:24",
       "items": [
+        {
+          "uid": "27b09fdee8fa",
+          "date": "2026-07-10",
+          "title": "Connected Vehicle Security Act: What the Chinese Car Ban Bill Does - Backfire News",
+          "summary": "申し訳ありませんが、記事の具体的な内容が提供されていないため、要約することができません。タイトルのみでは正確な要約が困難です。記事の本文をご提供いただければ、「米国接続車両安全保障法（S.4429）」に関する文脈での日本語要約を提供させていただきます。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSkpFc3diMTBEbXc5UGRGY1RYcGRCSjFXZHdXUDlueUZtRHVOMzJrblpDR09YMFdoRHRQQ3IwYm1pZ0c2LWduZTVnWEdpNzhKbVc0ZzlSSl95UHFZMUtSODY4WU9aeDVmMXlidDVyaXF3UGJUM3ZSbGZ2ZHYzMklHX3NGNHJHSERIQ0ZOUkNLRDVpMl9BeWl1SXRRcmdHeTRTNWVrZ09oOUJmZngzLWNiSjdpUldZcWQwODJ6MzRzZjFHYUhmLUkwQQ?oc=5",
+          "added_at": "2026-07-18 16:01:23"
+        },
         {
           "uid": "ad9c50cdfcfd",
           "date": "2026-05-13",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS1Biam1vU2JEamVQejBRTmJrcEtXSk9JUW94SDIyVndscEstQzFkQ1lSTTFKQlA5Wm9XbmJlR3Z1TmJWel9mWlpoNW42R3NPT3ZQTGFYTDNkal9DMGx6YzhpWENJQzQzWXNfanBfeVJmU2xWa1NjbUZZbk9LQ0trU0Z1RFdoTGxoSHdyYmctbnl6VWFwZFl6aHN4NGVfVUdFb0wzSXF3MUc5ZjhlcEp3MTVjYTh6anQ0WGQwS0xNQVpCYm1tT0gtcXl0cXFfVkdSbGRhNm1fbnVTOTF4S0JlSjdLQ29BU2JzSUhORlA5eXZjMTJtOG1r?oc=5",
           "added_at": "2026-05-27 21:44:39"
-        },
-        {
-          "uid": "f283c8966fa6",
-          "date": "2026-03-31",
-          "title": "Robotaxi companies refuse to say how often their AVs need remote help - TechCrunch",
-          "summary": "ロボタクシー企業が自動運転車の遠隔操作支援の必要頻度を公開しないことは、S.4429が求める自動運転車の安全性と透明性の基準が不十分であることを示唆しており、規制当局による強制的な情報開示要件の強化の必要性を浮き彫りにしている。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHRMVUJKNHZGQ3ZCTklfZm1zcmc0R2N6RTkteVNPeVFMQUpuWFoyVGJtYXk5bVZ3emJIVl9UUFBmWDlxQU1ocEJxQ3ZadUJFSE50aUpYMDRBNzVtRmFtVzlxSU94MXFUZ1doVWlBSmNqYWh5eFpuVjdRNkFUaTlxZzg3aGgxWlZfLXJwdFVJYUFISWQ4bnZBc3o2LWR0TzJ4enJyeFpOcw?oc=5",
-          "added_at": "2026-05-27 21:44:39"
         }
       ]
     },
@@ -4030,8 +4030,58 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-18 00:17:46",
+      "last_checked": "2026-07-18 16:01:45",
       "items": [
+        {
+          "uid": "52b1b92dff33",
+          "date": "2026-06-22",
+          "title": "China takes aim at U.S. rare earth companies with new export controls - The Washington Post",
+          "summary": "中国がレアアース加工技術の輸出管理を強化し、米国企業によるレアアース製品の製造・輸出を制限することで、米国への対抗措置としている。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnVjbnBoV2F5Tk4tNzhtT0pQN0haOGdPOXN6d29MWGxDTGhNMm1mMmtaaFc4LUNpVUxyTmxNc1Y2OVZnbEJ2dE9HRDljdUREdU1EeldfTXRBRTBWNUN3YTVSbFlUdjdXRzdWdXMzeVN3aGIwcWg4d0JaVFJLOTZMYTlyX0tUYUJpbzgxS1k5cy1EcDJWNW1jV0dJUTVCSGFJeENxa3IzVjN1cHB6aEM5czI3NjZYSnFfZ1lrTGlSZlNrMlU?oc=5",
+          "added_at": "2026-07-18 16:01:36"
+        },
+        {
+          "uid": "3bc8ff3ca03a",
+          "date": "2026-07-08",
+          "title": "Operationalising the Quad Critical Minerals Initiative - United States Studies Centre",
+          "summary": "# 中国レアアース輸出管理に関する要約\n\nクワッド(日米豪印)が重要鉱物イニシアティブを運用化することで、中国が支配するレアアース市場への依存を低減し、民主主義国家間での供給チェーン構築を目指している。このイニシアティブは、半導体やエネルギー転換に不可欠な重要鉱物の調達・精製・リサイクルを多角化することで、中国の輸出管理に対するカウンターバランスとなる。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2dpLTE1TFlBV3E4RG9TbExkcmt0MHNtT0FpR04wMVIzZkVvdDE3dFQyTVpYWnBMNGFMZE5mQVFIbzFvOV9WUEdOYWlRR1JqZzdBSjV1cXotcVlHem1QTDFFNTEzLUdLZWhpbzIzWkxMX09ZT1JXZGxna2ZZei1mZzJXdk4?oc=5",
+          "added_at": "2026-07-18 16:01:36"
+        },
+        {
+          "uid": "789a6902392a",
+          "date": "2026-06-22",
+          "title": "China targets US defense, rare earth firms in new trade curbs - Türkiye Today",
+          "summary": "中国は米国の防衛関連企業とレアアース企業を対象とした新たな貿易制限を発表し、米国への報復措置として機関銃部品やレアアース関連製品の輸出管理を強化している。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWZrTXZYel9KNDlYOEdQbEpLVHY4SHFIU2E4UG5WSHZjRXZWZkRmbFhHLVJ3YTBJSXhRaDR0Y29YZnN0VTFGeFJsbXpoZUZNRFBfWnA4cWo2MEtzS3lUbmxMbkp2aksxNHZWbFhwZ0xLWmk3alUxdDVLa2s0ekNYeHZ4aFdsdkxiY0NVSWdjQ29YRDJDMUtHeDl2UjgwSGdOSjFQaVZn?oc=5",
+          "added_at": "2026-07-18 16:01:36"
+        },
+        {
+          "uid": "b9f1224e56d7",
+          "date": "2026-07-17",
+          "title": "5 things to know about Trump’s election claims",
+          "summary": "この記事は「中国レアアース輸出管理」に関する文脈では要約できません。この記事はトランプ大統領の選挙不正疑惑に関するものであり、中国レアアース輸出管理とは直接的な関連性がないためです。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/5975599-trump-election-interference-claims-declassified-documents/",
+          "added_at": "2026-07-18 16:01:36"
+        },
+        {
+          "uid": "c9e6eaf8ebee",
+          "date": "2026-07-17",
+          "title": "US dramatically shortening visas for foreign journalists",
+          "summary": "この記事は「中国レアアース輸出管理」とは関連がなく、米国のトランプ政権が外国人記者のビザを短縮する措置に関する内容です。そのため、要求された文脈での要約はできません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/5974924-trump-mullin-foreign-journalist-visa-updates/",
+          "added_at": "2026-07-18 16:01:36"
+        },
         {
           "uid": "e62f594d3649",
           "date": "2026-06-25",
@@ -5981,56 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnRjYjQ2em10UFc2NnI4S0Rsa29nOVhrcVRrSVdzc2U5T3RIeHlFeWQ4b3lOdldfLXdDejB2LVJvN1hCMUNUU0QzQlJicTJlOGc4bHVXQmZvRUpPSlRDSWtsQmYyZWowYzNCcll5cXNDNjJobHd0b3ZRUzZRMFNuN01yUUhpY2ZYMVlOUU9TbkZnMzJfcGlxeFlhdi1Vb0Z3OV92WDQ2Y2g2eXpMZ0xsemFEc19QUQ?oc=5",
           "added_at": "2026-06-29 20:31:01"
-        },
-        {
-          "uid": "a64826b0a8fe",
-          "date": "2026-04-28",
-          "title": "Rare Earths Are Becoming the EV Supply Chain’s Greatest Chokepoint - Z2Data",
-          "summary": "中国がレアアース輸出を管理・制限する中、電気自動車産業のサプライチェーンにおいてレアアースの調達が最大のボトルネックとなっており、供給不安が深刻化している。レアアース依存度の高いEV産業は、中国の輸出管理政策による影響を強く受ける脆弱な構造に置かれている。",
-          "source": "需要産業（防衛・EV・航空）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSHF1U2dUM1Jibmt2Y1NKMDdtcUFBSVFBN1ZJSHhhcExENjZsRVVITFF1SWJfb24zTi1sRFlhR2ZXcWNxYmtOeDlNRnNBSVl3eXpWX0NPSEVUOWh1b0lZUVRmTW5kUTJsMUQzV1hFdXNZZ2FfdVByOVpQMEwtWnV4NlhZd2NvVXV2Q3BXVUZYaEhEZjV2X1AyOXhOVktpQQ?oc=5",
-          "added_at": "2026-06-29 20:31:01"
-        },
-        {
-          "uid": "e8f678ce6ea2",
-          "date": "2026-05-17",
-          "title": "Rare Earth Investment 2026: Best Western Supply Chain Stocks Analysis - Intellectia AI",
-          "summary": "中国によるレアアース輸出管理の強化を受けて、西側諸国ではレアアース供給チェーンの多様化と国内産業育成が急務となっており、2026年は西側レアアース関連企業への投資機会が注目されている。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfMGNnRF94eHBkYm5jZjlxV21QNjBsTjltSzVTZ3Vsa3puYml0WHhNNVQ3a1pub1k0TGwzWmFMQXBMVGRJNDJtTTJYTUFERVd4RlN0VXprTEhLODkzRGJZU3BCcEs?oc=5",
-          "added_at": "2026-06-29 20:31:01"
-        },
-        {
-          "uid": "b5819f17524e",
-          "date": "2026-04-13",
-          "title": "China Northern Rare Earth Group Dominates Global Supply Chains - Discovery Alert",
-          "summary": "中国北方稀土集団は世界的なレアアース供給チェーンを支配しており、中国のレアアース輸出管理戦略において重要な役割を果たしている。この支配力は、他国のハイテク産業やエレクトロニクス製造業への中国の影響力強化につながっている。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWF9XTlhKLUxtbTFFQ0EtdFQtUXEtcExfazc3Y2JhS3Bac0pyMG1CdlFhNkxGeko5QzdRd1ZZa3FySHRSUFNRa25oWFg4cGNxOG9WeG1uU204QlNwM0lEQVk2QmRSU1BNa0oxaHJydE4xc1ZnOWJRVTFzYW1fbVRGaWpENEF2aWRDcDdhSw?oc=5",
-          "added_at": "2026-06-29 14:10:07"
-        },
-        {
-          "uid": "b065d2f4a8d3",
-          "date": "2026-06-22",
-          "title": "MP, USAR Stocks In Focus: China Targets US Rare Earth Suppliers As Supply Chain Battle Intensifies - TradingView",
-          "summary": "中国がレアアース供給チェーン戦争で米国のレアアース供給企業を標的にしており、米中間の供給チェーン競争が激化している。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONzZYSDd6Q1R1MEh6ZkREWHEyX3RqNEpBZVVONmhWOVhNeG5JQVRqak04OTBKUmdlQjNSYmN0cF9xQ1JiYTVkQVZtT3V5enVMVHRhczdJLTFROGhsUlBnX1RsV1cwbTdlMC1rNldfMWw0bUp0MExQSWxKdElaVDB0Z0s3aDNhRm1KT3Q2ZlktM1luVENfNThiWE1KdmtOUGRVUUNua2NRVXdORmlURG1KV3hjNzk1MWExN0YwS1BPM3YtT2N4Z0NDeWNCZHNZa09EaXFnd2hlRDNxbHpxRGNJLXdIR2c5eGVPcHo5eQ?oc=5",
-          "added_at": "2026-06-29 14:10:07"
-        },
-        {
-          "uid": "544748b7002e",
-          "date": "2026-06-09",
-          "title": "China’s Rare Earth Export Restrictions and Their 2026 Global Impact - Discovery Alert",
-          "summary": "中国は2024年10月にレアアース輸出許可証の発行を停止し、2026年にはこの制限が世界的な供給危機をもたらす可能性がある。この措置は先端技術産業やエネルギー転換に必要なレアアース資源への世界的なアクセスを大きく制約することになる。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb1NqUlhLSUpMM0lFcWJyS0hCYzJVdjNISjZoSFlyZTFlbXR0RDRlalBacGpVQlBDWXpQSF9DQ1N1VklXeVFzOGVtWEM4LWlQTVljUjlibDBOUjlpWUZ0bWpjb01wYlFydm5Db1lSOGp2OHp2UjFVX29iQ0R6Um14eFpEZGoxZjJDZThYTlNFcXFKLTR4WTZB?oc=5",
-          "added_at": "2026-06-29 14:10:07"
         }
       ]
     }
