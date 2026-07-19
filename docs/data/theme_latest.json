@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19 16:29:15",
+  "generated_at": "2026-07-19 23:59:25",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-19 16:28:47",
+      "last_checked": "2026-07-19 23:58:59",
       "items": [
         {
           "uid": "77f54fbd99c5",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-19 16:28:56",
+      "last_checked": "2026-07-19 23:59:10",
       "items": [
+        {
+          "uid": "b8c398bd1bde",
+          "date": "2026-07-17",
+          "title": "Cybersecurity threat ahead? OOIDA supports bill to protect truckers - Land Line Media",
+          "summary": "申し訳ございませんが、記事の具体的な内容が「Cybersecurity threat ahead? OOIDA supports bill to protect truckers」というタイトルのみで、本文が提供されていません。S.4429（米国接続車両安全保障法）に関連した詳細な内容がないため、正確な要約ができません。記事の本文をご提供いただければ、日本語1〜2文での要約が可能です。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMF9qWEhaTTJLa1dXVXBtTFFzQ1BPVm9CRnhWUnBSU20tcXNwSVNxbmFqbUJKODhTeTdYWVhzODQ0SXVNWEFmOHpLU05LUTF4ZEhDeGZqcjJYRGYzS1VDOUtYS1oyRVpQZkhPSHNqeHR0T2hORHFsMXlXYTVJNl9hWUxLM0lwQlVkM09tNzFHdkZjemgx?oc=5",
+          "added_at": "2026-07-19 23:59:06"
+        },
         {
           "uid": "10b8abfe4c3b",
           "date": "2026-07-13",
@@ -4010,16 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbV9pbnlTb3FLbi12S09KQUczTl95c1FQR0lXZVpLaVFkNkNGeWhsRnkxZ3BCaVNwVHhMTUpISHc2eThISl9NazVsYWx1eWVYdXBJMVphcldjVTFremVTMndVN3AyTzYwQWNqYXhqb1NhMWVYNzI1TmR4OGtDOGt1SWZuWmlBM1pteTJzMHR4c0gyd9IBlwFBVV95cUxQYkdjM1NHRVlZU3BmTlFYUU1RUFhmSnAwY1ZZWkk1MXh3dGJkSUY0VVo0cDBLUnlHa2hNSkJvbzB3NGhDWTh0NXpQanRxLXVNdGVydnhvbTdiSmFYUjItczBiRlMzVGFGMEpIRFRiM2ppS0swajN6MFBQZ3JpVXpTc1RTaFNpcnVXWUpIN21PRHVlS3hhM1lz?oc=5",
           "added_at": "2026-05-28 08:07:36"
-        },
-        {
-          "uid": "5d7023f5a1be",
-          "date": "2026-05-05",
-          "title": "Senators Introduce Bill to Ban Chinese Vehicles, Connected Components from U.S. Market - Body Shop Business",
-          "summary": "米国の上院議員が、中国製車両および接続部品の米国市場への参入を禁止することを目的とした「米国接続車両安全保障法（S.4429）」を提出しました。この法案は、国家安全保障上の脅威とされるサイバーセキュリティリスクから米国市場を保護することを意図しています。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUDdpZlY0LUZURldaRC1RRnRXTUFSckh1VWhPbVY4dXp1a0RST3RjWXVtdkZ3TzNPY2ttSlRTcndza2J3b0R3eXdPV1JyUXVQVFRVWmcwWWVYb0UyVGRQM1M1eUpuY0JvRTJlX2tVQnE4dklTUlNMYlhoQlZtNWNqYlBYQ1ZYbUEwUEFPMkJ2X2k1Q0ZHZDdOa1ZObmZsWFRHcHIwNnNocTM3Z1BwbUdib1c3QUg?oc=5",
-          "added_at": "2026-05-27 21:44:39"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-19 16:29:15",
+      "last_checked": "2026-07-19 23:59:25",
       "items": [
+        {
+          "uid": "5405f0f6e412",
+          "date": "2026-04-27",
+          "title": "Q1 2026 U.S.-Korea Trade, Investment, and Diplomacy Ledger - Korea Economic Institute of America -",
+          "summary": "申し訳ありませんが、提供いただいたタイトルと「内容」のテキストには、具体的な記事本文が含まれていないため、「中国レアアース輸出管理」に関する要約を作成できません。記事の本文をご提供いただければ、要約させていただきます。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcG1Vd3JuNldxWHJJQnZqY3doa2RPQjlqN1lmS1hleGFuREJXRk8tcWFYbmkxS0d1aEdRdFJLdElubnVrTm8ycVpaT0QzOExpa29CV2tRZndyUVBnUmJHcXo2c0tPZ0hJbFVwazRxb3hjR0dPRFJLV1B6LV9iREpoSDZUVHRSRW84R2c?oc=5",
+          "added_at": "2026-07-19 23:59:21"
+        },
+        {
+          "uid": "3b052bf8ac13",
+          "date": "2026-07-19",
+          "title": "The best human landing system is the one that can beat China to the moon",
+          "summary": "米国がレアアースを含む月面資源の獲得を目指す中で、中国との競争が激化しており、これは中国のレアアース輸出管理戦略に対抗するための重要な背景となっている。NASAが月面着陸システムの開発を急ぐのは、レアアースなどの戦略的資源確保と宇宙での覇権競争の両面でも中国に先制されることを避けるためと考えられる。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/technology/5975210-spacex-blue-origin-moon-landers/",
+          "added_at": "2026-07-19 23:59:21"
+        },
         {
           "uid": "1671bbc116af",
           "date": "2026-06-23",
@@ -6011,26 +6031,6 @@
           "source_type": "industry",
           "url": "https://www.mining.com/tactical-resources-eyes-nasdaq-debut-as-texas-rare-earths-project-advances/",
           "added_at": "2026-06-30 13:42:49"
-        },
-        {
-          "uid": "862c41102e52",
-          "date": "2026-06-14",
-          "title": "Critical Minerals Report (06.14.2026): Control is the New Commodity - InvestorNews",
-          "summary": "中国はレアアースを含む戦略的鉱物資源の輸出管理を強化し、供給チェーン支配を通じた地政学的影響力の拡大を推し進めており、世界各国はこうした「商品としての支配」に対する依存性を低減するため、国内産業振興やサプライチェーン多様化の必要性に直面している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNejJnZkZDZU1pZGJZdkpoLTdUbmFLMTFiVXMwV0U0YXdRbWtqR3FzMENQbzVLbEV2d2xqZGQxNjQzVDBxQTdCSHU5RjR1Ujd3ZlJDdGExd21pbHFKckFiTkhscy1pVHJFRXdwLWxVMHI4d2NINlZuYS0wSXZsYzZKNGtZSXlEbG9kdDVxSTdQbGR5ZEw4S3RxcV9qVjF4QXFrZ19BRVdnWHJ1elIxZjlFczRRNk94dmRtME9NcQ?oc=5",
-          "added_at": "2026-06-30 05:21:49"
-        },
-        {
-          "uid": "5445a44499ba",
-          "date": "2026-06-04",
-          "title": "South Korea’s Critical Minerals Balancing Act - The National Bureau of Asian Research (NBR)",
-          "summary": "申し訳ありませんが、提供していただいたタイトルのみで、記事の実際の内容が記載されていないため、正確な要約ができません。記事の本文をご提供いただければ、「中国レアアース輸出管理」の文脈で日本語1〜2文で要約させていただきます。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSHp4VF9fNUZuNmRxcDd4bHluaUNVMmNKRG9mZ3NPWl9tWEF2VnM0YU5XMnpLVnpsZ18xZ0E4OHh3YUcxZDEzZnEzVzI0RDRNX2F5TW9WeWplakxoQ3JNY3lQcmQwMDFzdFhsdVN5bFdmTjhURmpHVkVVdkVMazNUaVZ0Zw?oc=5",
-          "added_at": "2026-06-30 01:16:25"
         }
       ]
     }
