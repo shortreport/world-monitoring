@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20 17:08:17",
+  "generated_at": "2026-07-21 00:53:53",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-20 17:07:53",
+      "last_checked": "2026-07-21 00:53:28",
       "items": [
         {
           "uid": "77f54fbd99c5",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-20 17:08:03",
+      "last_checked": "2026-07-21 00:53:37",
       "items": [
         {
           "uid": "5d7023f5a1be",
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-20 17:08:17",
+      "last_checked": "2026-07-21 00:53:53",
       "items": [
+        {
+          "uid": "8367d7fcb64f",
+          "date": "2026-07-20",
+          "title": "China Isn't Just Guarding Rare Earths-It's Actively Managing the Magnet Economy - Rare Earth Exchanges",
+          "summary": "中国はレアアース輸出の制限にとどまらず、磁石産業全体を戦略的に管理することで、グローバル・サプライチェーンにおける支配力を強化している。このアプローチにより、中国はレアアース採掘から最終製品までの付加価値の高い産業チェーン全体をコントロールしている。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVdwbmVYZHo5NmJ4OHczZlVrcndQU25sejh6Qkg5R1k0RW9jMXdQY0xQWXRRWjhWUUhsdDZDQld6cWRBVmZvWC1WUW4yQldBZXRxMnBpeEJDNkhwVThIbVR2NzRWS1dzQTRKcDg4V1pBSm9lcDFfWUhhWjVzS19BYjVXZ2dWWWlEeWQ2d2VEVFJ0YVZUWGdqNEVWa0F2TDlpVkZFekZTN3AyY3JNR0IzZVIwdW8?oc=5",
+          "added_at": "2026-07-21 00:53:51"
+        },
         {
           "uid": "7ccb6a6b4907",
           "date": "2026-05-17",
@@ -6021,16 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjFfNVJxSUdSaWVYMWY5YlhHVVkwbGd0RnFRNURuSDI2VW1JQ3ZhVlM4ZW9rZFY4Vk5fc0FZTUlOT0FCdHA3c2xKTTg2NmpXaXljVzZYcnRITENfa2FQcHhPcVYtUzM2b2pLd1BuM1Nyd1hFb1lGeEpKMXhUc3Z0S1c2RjYycmxWc1Q2YkNSdjlqQmtaMU5UNWgxSUhiWFFsN1kyUk5TdTlJRmZ3d25lbkZTSFM4Zw?oc=5",
           "added_at": "2026-06-30 19:08:02"
-        },
-        {
-          "uid": "98806e7e3375",
-          "date": "2026-05-11",
-          "title": "China’s Next-Generation Industrial Policy - Rhodium Group",
-          "summary": "申し訳ございませんが、提供いただいたのはタイトルのみで、記事の本文内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、「中国レアアース輸出管理」に関する文脈で要約させていただきます。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FQ2pFaV9RWnI4VHVMNFVpLURTaGtuTUZJWWo1UmY3RGhjQ0lMTjFHRXNweTl3TXpwUFp1ZlhRdVpmNS03emUxNzdPQ0F0THd3dnRRVWMzeUh5bDhGb05maG5Ta1VIZjRiMGdpd2Zudml6cWp2?oc=5",
-          "added_at": "2026-06-30 13:42:49"
         }
       ]
     }
