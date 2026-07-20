@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-21 07:00 JST",
+  "updated_at": "2026-07-21 07:01 JST",
   "total": 50,
-  "toyota_summary": "The EU announced plans to double electricity use by 2040 and set a binding target for 46 percent of total power to come from electric sources, though it stopped short of legally binding electrification requirements for specific sectors. China simultaneously imposed temporary restrictions on helium exports and signaled it would hold back on broad economic stimulus despite growth slipping to 4.3 percent—the lowest in years—choosing instead to focus stimulus on consumption patterns through a five-year plan.\n\nFor automakers, the EU move creates regulatory certainty for EV infrastructure but leaves ambiguity on whether governments will mandate the grid investments needed to support mass electrification. The Chinese moves cut in opposite directions: helium controls risk supply costs for semiconductor manufacturing tied to EV production, but the government's restraint on stimulus suggests weakening demand for new vehicles in the world's largest car market.\n\nWatch whether the EU's electricity targets trigger binding investment mandates in member states or remain aspirational.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20260721_0615",
@@ -11,7 +11,12 @@
       "date_label": "JUL 21  06:15",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG China, Japan: Beijing will maintain calibrated pressure campaign against Tokyo",
+      "html": "data/pdfs/20260721_0615_EG_China,_Japan__Beijing_will_maintain_calibrated_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_0547",
@@ -21,7 +26,12 @@
       "date_label": "JUL 21  05:47",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "China, the middle powers, and the global minerals race - EG Conference Call",
+      "html": "data/pdfs/20260721_0547_China,_the_middle_powers,_and_the_global_minerals_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_0412",
@@ -31,7 +41,12 @@
       "date_label": "JUL 21  04:12",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG China, Taiwan: Beijing leveraging US truce to expand maritime control around Taiwan",
+      "html": "data/pdfs/20260721_0412_EG_China,_Taiwan__Beijing_leveraging_US_truce_to_e.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_0354",
@@ -41,7 +56,12 @@
       "date_label": "JUL 21  03:54",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG United Kingdom: Tax increases now likely in Burnham’s first budget",
+      "html": "data/pdfs/20260721_0354_EG_United_Kingdom__Tax_increases_now_likely_in_Bur.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_0124",
@@ -51,7 +71,12 @@
       "date_label": "JUL 21  01:24",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Oil Markets Weekly: Prices will rise further as multiple geopolitical conflicts tighten the market",
+      "html": "data/pdfs/20260721_0124_EG_Oil_Markets_Weekly__Prices_will_rise_further_as.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_0031",
@@ -61,7 +86,12 @@
       "date_label": "JUL 21  00:31",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG US Daily: Troop deaths make de-escalation with Iran more difficult",
+      "html": "data/pdfs/20260721_0031_EG_US_Daily__Troop_deaths_make_de-escalation_with_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_2254",
@@ -517,11 +547,11 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "中国がヘリウムの臨時輸出禁止管理を発表し、同国が国務院で「消費拡大」5カ年規画を発表する",
-      "subject_en": "「ジェトロ・ビジネス短信」2026/07/17",
+      "subject_en": "JETRO Business Brief 2026/07/17",
       "html": "data/pdfs/20260717_1817_「ジェトロ・ビジネス短信」2026_07_17.html",
       "summary_en": "China's auto exports topped 5 million units in the first half of 2026, already surpassing Japan's total for all of 2025, underscoring China's growing dominance in global vehicle trade. Meanwhile, Thailand's auto production fell 17.9% year-on-year in May, even as domestic sales rose 12.8%, highlighting a widening gap between export weakness and resilient local demand in Southeast Asia's key manufacturing hub.",
       "summary_ja": "中国の2026年上半期の自動車輸出台数は500万台を超え、すでに日本の2025年通年の輸出台数を上回り、世界の自動車貿易における中国の存在感の拡大を裏付けた。一方、タイの5月の自動車生産台数は前年同月比17.9％減少したものの、国内販売は12.8％増加しており、東南アジアの主要生産拠点で輸出不振と内需堅調のギャップが広がっている。",
-      "summary_pdf": ""
+      "summary_pdf": "data/pdfs/20260717_1817_「ジェトロ・ビジネス短信」2026_07_17_en.pdf"
     },
     {
       "ts": "20260717_1806",
@@ -718,5 +748,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
