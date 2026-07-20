@@ -1,331 +1,58 @@
 {
-  "generated_at": "2026-07-20 23:37 JST",
-  "sender_count": 5,
-  "total_mails": 42,
+  "generated_at": "2026-07-21 07:00 JST",
+  "sender_count": 1,
+  "total_mails": 6,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 11,
+      "count": 6,
       "bullets": [
-        "要約取得に失敗しました。"
+        "米国とイランの緊張緩和が困難化。ヨルダンの基地へのイラン攻撃で米兵2名が死亡、1名が行方不明",
+        "複数の地政学的紛争がエネルギー市場を逼迫。イラン、フーシ派、ウクライナの活動により石油価格のさらなる上昇",
+        "英国のバーナム首相による防衛支出増加と増税。10月または11月の予算編成で税引き上げが見込まれる見通し",
+        "中国が米国との休戦を機に台湾周辺の海上支配を拡大。軟式封鎖のリスク上昇も深刻な危機には至らない見通し"
       ],
       "subjects": [
         [
-          "2026-07-17",
-          "EG Research Summary in Japanese: 2026年7月17日",
-          "data/pdfs/20260717_1505_EG_Research_Summary_in_Japanese__2026年7月17日.pdf"
+          "2026-07-21",
+          "EG US Daily: Troop deaths make de-escalation with Iran more",
+          "data/pdfs/20260721_0031_EG_US_Daily__Troop_deaths_make_de-escalation_with_.pdf"
         ],
         [
-          "2026-07-17",
-          "EG APAC & Japan Conference Call Notes : On the ground in China:",
-          "data/pdfs/20260717_1806_EG_APAC_&_Japan_Conference_Call_Notes___On_the_gro.pdf"
+          "2026-07-21",
+          "EG Oil Markets Weekly: Prices will rise further as multiple",
+          "data/pdfs/20260721_0124_EG_Oil_Markets_Weekly__Prices_will_rise_further_as.pdf"
         ],
         [
-          "2026-07-17",
-          "EG Daily Brief: China's coercion reach extends beyond critical",
-          "data/pdfs/20260717_2048_EG_Daily_Brief__China's_coercion_reach_extends_bey.pdf"
+          "2026-07-21",
+          "EG United Kingdom: Tax increases now likely in Burnham’s first",
+          "data/pdfs/20260721_0354_EG_United_Kingdom__Tax_increases_now_likely_in_Bur.pdf"
         ],
         [
-          "2026-07-18",
-          "EG US Daily: Washington will keep moving up the escalation ladder",
-          "data/pdfs/20260718_0058_EG_US_Daily__Washington_will_keep_moving_up_the_es.pdf"
+          "2026-07-21",
+          "EG China, Taiwan: Beijing leveraging US truce to expand maritime",
+          "data/pdfs/20260721_0412_EG_China,_Taiwan__Beijing_leveraging_US_truce_to_e.pdf"
         ],
         [
-          "2026-07-18",
-          "EG Hong Kong, United States QUICKTAKE: Core US restrictions will",
-          "data/pdfs/20260718_0540_EG_Hong_Kong,_United_States_QUICKTAKE__Core_US_res.pdf"
+          "2026-07-21",
+          "China, the middle powers, and the global minerals race - EG",
+          "data/pdfs/20260721_0547_China,_the_middle_powers,_and_the_global_minerals_.pdf"
         ],
         [
-          "2026-07-20",
-          "APAC & Japan Conference Call: Claude Mythos: Cyber Power,",
-          "data/pdfs/20260720_0900_APAC_&_Japan_Conference_Call__Claude_Mythos__Cyber.pdf"
-        ],
-        [
-          "2026-07-20",
-          "Claude Mythos: Cyber Power, Competition & Global Risk - EG",
-          "data/pdfs/20260720_1000_Claude_Mythos__Cyber_Power,_Competition_&_Global_R.pdf"
-        ],
-        [
-          "2026-07-20",
-          "EG Research Summary in Japanese: 2026年7月21日",
-          "data/pdfs/20260720_1600_EG_Research_Summary_in_Japanese__2026年7月21日.pdf"
-        ],
-        [
-          "2026-07-20",
-          "EG United States: Democrats' Tea Party moment will drag the",
-          "data/pdfs/20260720_1902_EG_United_States__Democrats'_Tea_Party_moment_will.pdf"
-        ],
-        [
-          "2026-07-20",
-          "EG Daily Brief: Iran is unlikely to back down, says Ian Bremmer",
-          "data/pdfs/20260720_2144_EG_Daily_Brief__Iran_is_unlikely_to_back_down,_say.pdf"
-        ],
-        [
-          "2026-07-20",
-          "EG Geoeconomics: US-Iran escalation reignites energy shock's",
-          "data/pdfs/20260720_2254_EG_Geoeconomics__US-Iran_escalation_reignites_ener.pdf"
+          "2026-07-21",
+          "EG China, Japan: Beijing will maintain calibrated pressure",
+          "data/pdfs/20260721_0615_EG_China,_Japan__Beijing_will_maintain_calibrated_.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260717_1505_EG_Research_Summary_in_Japanese__2026年7月17日.pdf",
-        "data/pdfs/20260717_1806_EG_APAC_&_Japan_Conference_Call_Notes___On_the_gro.pdf",
-        "data/pdfs/20260717_2048_EG_Daily_Brief__China's_coercion_reach_extends_bey.pdf",
-        "data/pdfs/20260718_0058_EG_US_Daily__Washington_will_keep_moving_up_the_es.pdf",
-        "data/pdfs/20260718_0540_EG_Hong_Kong,_United_States_QUICKTAKE__Core_US_res.pdf",
-        "data/pdfs/20260720_0900_APAC_&_Japan_Conference_Call__Claude_Mythos__Cyber.pdf",
-        "data/pdfs/20260720_1000_Claude_Mythos__Cyber_Power,_Competition_&_Global_R.pdf",
-        "data/pdfs/20260720_1600_EG_Research_Summary_in_Japanese__2026年7月21日.pdf",
-        "data/pdfs/20260720_1902_EG_United_States__Democrats'_Tea_Party_moment_will.pdf",
-        "data/pdfs/20260720_2144_EG_Daily_Brief__Iran_is_unlikely_to_back_down,_say.pdf",
-        "data/pdfs/20260720_2254_EG_Geoeconomics__US-Iran_escalation_reignites_ener.pdf"
-      ]
-    },
-    {
-      "sender": "Eurasia",
-      "short": "EURAS",
-      "color": "YEL",
-      "count": 2,
-      "bullets": [
-        "要約取得に失敗しました。"
-      ],
-      "subjects": [
-        [
-          "2026-07-17",
-          "EG Top 10 Most Read For Week Ending Jul 17, 2026",
-          "data/pdfs/20260717_2111_EG_Top_10_Most_Read_For_Week_Ending_Jul_17,_2026.pdf"
-        ],
-        [
-          "2026-07-20",
-          "Our Global Summits and Events",
-          "data/pdfs/20260720_2251_Our_Global_Summits_and_Events.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260717_2111_EG_Top_10_Most_Read_For_Week_Ending_Jul_17,_2026.pdf",
-        "data/pdfs/20260720_2251_Our_Global_Summits_and_Events.pdf"
-      ]
-    },
-    {
-      "sender": "Ian",
-      "short": "IAN",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "要約取得に失敗しました。"
-      ],
-      "subjects": [
-        [
-          "2026-07-20",
-          "eg update",
-          "data/pdfs/20260720_2047_eg_update.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260720_2047_eg_update.pdf"
-      ]
-    },
-    {
-      "sender": "POLITICO",
-      "short": "POLIT",
-      "color": "ORG",
-      "count": 27,
-      "bullets": [
-        "中道右派のEU議員が欧州委員会に対し、「Made in",
-        "Europe」調達クラブの対象となる非EU加盟国を明確にするよう要求している。",
-        "産業加速法案は公共調達の一部をEUまたは「信頼できるパートナー」国の製品に限定するが、対",
-        "象国の具体的な指定は欧州委員会に委ねられており、その不透明さが問題となっている。",
-        "欧州委員会は「信頼できるパートナー」の数を約20カ国と見積もっているが、議員らはこれでは"
-      ],
-      "subjects": [
-        [
-          "2026-07-16",
-          "EU Commission calls for anti-corruption reforms in Spain, Hungary",
-          "data/pdfs/20260716_2353_EU_Commission_calls_for_anti-corruption_reforms_in.pdf"
-        ],
-        [
-          "2026-07-17",
-          "Pro Daily Headlines",
-          "data/pdfs/20260717_0031_Pro_Daily_Headlines.pdf"
-        ],
-        [
-          "2026-07-17",
-          "‘Storm’ looms for aviation as EU plans to price emissions from",
-          "data/pdfs/20260717_0110_‘Storm’_looms_for_aviation_as_EU_plans_to_price_em.pdf"
-        ],
-        [
-          "2026-07-17",
-          "The European Commission’s moment of climate truth",
-          "data/pdfs/20260717_0247_The_European_Commission’s_moment_of_climate_truth.pdf"
-        ],
-        [
-          "2026-07-17",
-          "EU sets up biggest climate fight of 2026 by slamming brakes on",
-          "data/pdfs/20260717_0401_EU_sets_up_biggest_climate_fight_of_2026_by_slammi.pdf"
-        ],
-        [
-          "2026-07-17",
-          "Green vs. growth in ETS showdown",
-          "data/pdfs/20260717_1351_Green_vs._growth_in_ETS_showdown.pdf"
-        ],
-        [
-          "2026-07-17",
-          "ETS showdown stresses out aviation",
-          "data/pdfs/20260717_1403_ETS_showdown_stresses_out_aviation.pdf"
-        ],
-        [
-          "2026-07-17",
-          "Google mega fine to slash taxpayers’ contributions to Brussels",
-          "data/pdfs/20260717_1635_Google_mega_fine_to_slash_taxpayers’_contributions.pdf"
-        ],
-        [
-          "2026-07-17",
-          "Center-right MEPs seek clarity on ‘Made in Europe’ club",
-          "data/pdfs/20260717_1909_Center-right_MEPs_seek_clarity_on_‘Made_in_Europe’.pdf"
-        ],
-        [
-          "2026-07-17",
-          "Commission proposes EU carbon pricing for flights to Middle East",
-          "data/pdfs/20260717_1909_Commission_proposes_EU_carbon_pricing_for_flights_.pdf"
-        ],
-        [
-          "2026-07-17",
-          "EU loosens carbon market rules to allow industry to pollute for",
-          "data/pdfs/20260717_1917_EU_loosens_carbon_market_rules_to_allow_industry_t.pdf"
-        ],
-        [
-          "2026-07-17",
-          "EU sets 46 percent electrification target in push to slash fossil fuel",
-          "data/pdfs/20260717_1922_EU_sets_46_percent_electrification_target_in_push_.pdf"
-        ],
-        [
-          "2026-07-17",
-          "Andy Burnham to be crowned UK Labour leader — live updates",
-          "data/pdfs/20260717_1955_Andy_Burnham_to_be_crowned_UK_Labour_leader_—_live.pdf"
-        ],
-        [
-          "2026-07-17",
-          "Andy Burnham’s long general election campaign starts now",
-          "data/pdfs/20260717_2224_Andy_Burnham’s_long_general_election_campaign_star.pdf"
-        ],
-        [
-          "2026-07-18",
-          "Pro Daily Headlines",
-          "data/pdfs/20260718_0031_Pro_Daily_Headlines.pdf"
-        ],
-        [
-          "2026-07-18",
-          "UN rejects EU carbon pricing for flights to Middle East",
-          "data/pdfs/20260718_0203_UN_rejects_EU_carbon_pricing_for_flights_to_Middle.pdf"
-        ],
-        [
-          "2026-07-18",
-          "Ursula von der Leyen declines invite to FIFA World Cup final",
-          "data/pdfs/20260718_0247_Ursula_von_der_Leyen_declines_invite_to_FIFA_World.pdf"
-        ],
-        [
-          "2026-07-18",
-          "How food delivery works in Ukraine’s ‘killing zone’",
-          "data/pdfs/20260718_1737_How_food_delivery_works_in_Ukraine’s_‘killing_zone.pdf"
-        ],
-        [
-          "2026-07-20",
-          "How soccer eclipsed separatist politics in Spain",
-          "data/pdfs/20260720_0133_How_soccer_eclipsed_separatist_politics_in_Spain.pdf"
-        ],
-        [
-          "2026-07-20",
-          "The soccer conquistadors: Why Spain’s World Cup has had an",
-          "data/pdfs/20260720_0234_The_soccer_conquistadors__Why_Spain’s_World_Cup_ha.pdf"
-        ],
-        [
-          "2026-07-20",
-          "The ‘hopeless, bad people’ just won Donald Trump’s World Cup",
-          "data/pdfs/20260720_0751_The_‘hopeless,_bad_people’_just_won_Donald_Trump’s.pdf"
-        ],
-        [
-          "2026-07-20",
-          "Athens holds out on LNG sanctions",
-          "data/pdfs/20260720_1354_Athens_holds_out_on_LNG_sanctions.pdf"
-        ],
-        [
-          "2026-07-20",
-          "ETS aviation extension compromise fails to impress",
-          "data/pdfs/20260720_1402_ETS_aviation_extension_compromise_fails_to_impress.pdf"
-        ],
-        [
-          "2026-07-20",
-          "The European Parliament’s answer to its AI worries: More AI",
-          "data/pdfs/20260720_1635_The_European_Parliament’s_answer_to_its_AI_worries.pdf"
-        ],
-        [
-          "2026-07-20",
-          "Greeks ready to pick a fight about ‘The Odyssey’",
-          "data/pdfs/20260720_1739_Greeks_ready_to_pick_a_fight_about_‘The_Odyssey’.pdf"
-        ],
-        [
-          "2026-07-20",
-          "Andy Burnham to become UK prime minister — live updates",
-          "data/pdfs/20260720_1901_Andy_Burnham_to_become_UK_prime_minister_—_live_up.pdf"
-        ],
-        [
-          "2026-07-20",
-          "Burnham sets out stall as Britain’s new PM — live updates",
-          "data/pdfs/20260720_2050_Burnham_sets_out_stall_as_Britain’s_new_PM_—_live_.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260716_2353_EU_Commission_calls_for_anti-corruption_reforms_in.pdf",
-        "data/pdfs/20260717_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260717_0110_‘Storm’_looms_for_aviation_as_EU_plans_to_price_em.pdf",
-        "data/pdfs/20260717_0247_The_European_Commission’s_moment_of_climate_truth.pdf",
-        "data/pdfs/20260717_0401_EU_sets_up_biggest_climate_fight_of_2026_by_slammi.pdf",
-        "data/pdfs/20260717_1351_Green_vs._growth_in_ETS_showdown.pdf",
-        "data/pdfs/20260717_1403_ETS_showdown_stresses_out_aviation.pdf",
-        "data/pdfs/20260717_1635_Google_mega_fine_to_slash_taxpayers’_contributions.pdf",
-        "data/pdfs/20260717_1909_Center-right_MEPs_seek_clarity_on_‘Made_in_Europe’.pdf",
-        "data/pdfs/20260717_1909_Commission_proposes_EU_carbon_pricing_for_flights_.pdf",
-        "data/pdfs/20260717_1917_EU_loosens_carbon_market_rules_to_allow_industry_t.pdf",
-        "data/pdfs/20260717_1922_EU_sets_46_percent_electrification_target_in_push_.pdf",
-        "data/pdfs/20260717_1955_Andy_Burnham_to_be_crowned_UK_Labour_leader_—_live.pdf",
-        "data/pdfs/20260717_2224_Andy_Burnham’s_long_general_election_campaign_star.pdf",
-        "data/pdfs/20260718_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260718_0203_UN_rejects_EU_carbon_pricing_for_flights_to_Middle.pdf",
-        "data/pdfs/20260718_0247_Ursula_von_der_Leyen_declines_invite_to_FIFA_World.pdf",
-        "data/pdfs/20260718_1737_How_food_delivery_works_in_Ukraine’s_‘killing_zone.pdf",
-        "data/pdfs/20260720_0133_How_soccer_eclipsed_separatist_politics_in_Spain.pdf",
-        "data/pdfs/20260720_0234_The_soccer_conquistadors__Why_Spain’s_World_Cup_ha.pdf",
-        "data/pdfs/20260720_0751_The_‘hopeless,_bad_people’_just_won_Donald_Trump’s.pdf",
-        "data/pdfs/20260720_1354_Athens_holds_out_on_LNG_sanctions.pdf",
-        "data/pdfs/20260720_1402_ETS_aviation_extension_compromise_fails_to_impress.pdf",
-        "data/pdfs/20260720_1635_The_European_Parliament’s_answer_to_its_AI_worries.pdf",
-        "data/pdfs/20260720_1739_Greeks_ready_to_pick_a_fight_about_‘The_Odyssey’.pdf",
-        "data/pdfs/20260720_1901_Andy_Burnham_to_become_UK_prime_minister_—_live_up.pdf",
-        "data/pdfs/20260720_2050_Burnham_sets_out_stall_as_Britain’s_new_PM_—_live_.pdf"
-      ]
-    },
-    {
-      "sender": "ビジネス短信",
-      "short": "ビジネス短",
-      "color": "GRN",
-      "count": 1,
-      "bullets": [
-        "中国がヘリウムの臨時輸出禁止管理を発表し、同国が国務院で「消費拡大」5カ年規画を発表する",
-        "など、資源管理と消費拡大施策に力を入れている。",
-        "中国の2026年上半期自動車輸出台数が500万台を超え、日本の2025年年間輸出台数を上回る実績",
-        "を達成した。",
-        "アジア各地でAI産業政策やデータセンター投資が活発化しており、シンガポール、マレーシア、"
-      ],
-      "subjects": [
-        [
-          "2026-07-17",
-          "「ジェトロ・ビジネス短信」2026/07/17",
-          "data/pdfs/20260717_1817_「ジェトロ・ビジネス短信」2026_07_17.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260717_1817_「ジェトロ・ビジネス短信」2026_07_17.pdf"
+        "data/pdfs/20260721_0031_EG_US_Daily__Troop_deaths_make_de-escalation_with_.pdf",
+        "data/pdfs/20260721_0124_EG_Oil_Markets_Weekly__Prices_will_rise_further_as.pdf",
+        "data/pdfs/20260721_0354_EG_United_Kingdom__Tax_increases_now_likely_in_Bur.pdf",
+        "data/pdfs/20260721_0412_EG_China,_Taiwan__Beijing_leveraging_US_truce_to_e.pdf",
+        "data/pdfs/20260721_0547_China,_the_middle_powers,_and_the_global_minerals_.pdf",
+        "data/pdfs/20260721_0615_EG_China,_Japan__Beijing_will_maintain_calibrated_.pdf"
       ]
     }
   ]
