@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20 23:37 JST",
+  "updated_at": "2026-07-20 23:48 JST",
   "total": 50,
   "toyota_summary": "",
   "emails": [
@@ -11,7 +11,12 @@
       "date_label": "JUL 20  22:54",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Geoeconomics: US-Iran escalation reignites energy shock's economic toll",
+      "html": "data/pdfs/20260720_2254_EG_Geoeconomics__US-Iran_escalation_reignites_ener.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_2251",
@@ -21,7 +26,12 @@
       "date_label": "JUL 20  22:51",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Our Global Summits and Events",
+      "html": "data/pdfs/20260720_2251_Our_Global_Summits_and_Events.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_2144",
@@ -31,7 +41,12 @@
       "date_label": "JUL 20  21:44",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Daily Brief: Iran is unlikely to back down, says Ian Bremmer",
+      "html": "data/pdfs/20260720_2144_EG_Daily_Brief__Iran_is_unlikely_to_back_down,_say.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_2050",
@@ -41,17 +56,27 @@
       "date_label": "JUL 20  20:50",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Burnham sets out stall as Britain’s new PM — live updates",
+      "html": "data/pdfs/20260720_2050_Burnham_sets_out_stall_as_Britain’s_new_PM_—_live_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_2047",
-      "sender_norm": "Ian",
+      "sender_norm": "Ian Bremmer",
       "subject": "eg update",
       "pdf": "data/pdfs/20260720_2047_eg_update.pdf",
       "date_label": "JUL 20  20:47",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update",
+      "html": "data/pdfs/20260720_2047_eg_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_1902",
@@ -61,7 +86,12 @@
       "date_label": "JUL 20  19:02",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG United States: Democrats' Tea Party moment will drag the party left",
+      "html": "data/pdfs/20260720_1902_EG_United_States__Democrats'_Tea_Party_moment_will.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_1901",
@@ -71,7 +101,12 @@
       "date_label": "JUL 20  19:01",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Andy Burnham to become UK prime minister — live updates",
+      "html": "data/pdfs/20260720_1901_Andy_Burnham_to_become_UK_prime_minister_—_live_up.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_1739",
@@ -81,7 +116,12 @@
       "date_label": "JUL 20  17:39",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Greeks ready to pick a fight about ‘The Odyssey’",
+      "html": "data/pdfs/20260720_1739_Greeks_ready_to_pick_a_fight_about_‘The_Odyssey’.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_1635",
@@ -91,7 +131,12 @@
       "date_label": "JUL 20  16:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The European Parliament’s answer to its AI worries: More AI",
+      "html": "data/pdfs/20260720_1635_The_European_Parliament’s_answer_to_its_AI_worries.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_1600",
@@ -100,8 +145,13 @@
       "pdf": "data/pdfs/20260720_1600_EG_Research_Summary_in_Japanese__2026年7月21日.pdf",
       "date_label": "JUL 20  16:00",
       "read_min": 3,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese: 2026年7月21日",
+      "html": "data/pdfs/20260720_1600_EG_Research_Summary_in_Japanese__2026年7月21日.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_1402",
@@ -111,7 +161,12 @@
       "date_label": "JUL 20  14:02",
       "read_min": 9,
       "toyota": true,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "ETS aviation extension compromise fails to impress",
+      "html": "data/pdfs/20260720_1402_ETS_aviation_extension_compromise_fails_to_impress.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_1354",
@@ -121,7 +176,12 @@
       "date_label": "JUL 20  13:54",
       "read_min": 12,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Athens holds out on LNG sanctions",
+      "html": "data/pdfs/20260720_1354_Athens_holds_out_on_LNG_sanctions.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_1000",
@@ -131,7 +191,12 @@
       "date_label": "JUL 20  10:00",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Claude Mythos: Cyber Power, Competition & Global Risk - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260720_1000_Claude_Mythos__Cyber_Power,_Competition_&_Global_R.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_0900",
@@ -141,7 +206,12 @@
       "date_label": "JUL 20  09:00",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: Claude Mythos: Cyber Power, Competition & Global Risk「クロード・ミュトス；サイバー覇権、競争、そしてグローバルリスク」（同時通訳あり） - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260720_0900_APAC_&_Japan_Conference_Call__Claude_Mythos__Cyber.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_0751",
@@ -151,7 +221,12 @@
       "date_label": "JUL 20  07:51",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The ‘hopeless, bad people’ just won Donald Trump’s World Cup",
+      "html": "data/pdfs/20260720_0751_The_‘hopeless,_bad_people’_just_won_Donald_Trump’s.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_0234",
@@ -161,7 +236,12 @@
       "date_label": "JUL 20  02:34",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The soccer conquistadors: Why Spain’s World Cup has had an imperial flavor",
+      "html": "data/pdfs/20260720_0234_The_soccer_conquistadors__Why_Spain’s_World_Cup_ha.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260720_0133",
@@ -171,7 +251,12 @@
       "date_label": "JUL 20  01:33",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How soccer eclipsed separatist politics in Spain",
+      "html": "data/pdfs/20260720_0133_How_soccer_eclipsed_separatist_politics_in_Spain.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260718_1737",
@@ -181,7 +266,12 @@
       "date_label": "JUL 18  17:37",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How food delivery works in Ukraine’s ‘killing zone’",
+      "html": "data/pdfs/20260718_1737_How_food_delivery_works_in_Ukraine’s_‘killing_zone.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260718_0540",
@@ -191,7 +281,12 @@
       "date_label": "JUL 18  05:40",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Hong Kong, United States QUICKTAKE: Core US restrictions will largely remain despite Hong Kong status reversal",
+      "html": "data/pdfs/20260718_0540_EG_Hong_Kong,_United_States_QUICKTAKE__Core_US_res.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260718_0247",
@@ -201,7 +296,12 @@
       "date_label": "JUL 18  02:47",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Ursula von der Leyen declines invite to FIFA World Cup final",
+      "html": "data/pdfs/20260718_0247_Ursula_von_der_Leyen_declines_invite_to_FIFA_World.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260718_0203",
@@ -211,7 +311,12 @@
       "date_label": "JUL 18  02:03",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "UN rejects EU carbon pricing for flights to Middle East",
+      "html": "data/pdfs/20260718_0203_UN_rejects_EU_carbon_pricing_for_flights_to_Middle.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260718_0058",
@@ -221,7 +326,12 @@
       "date_label": "JUL 18  00:58",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG US Daily: Washington will keep moving up the escalation ladder on Iran",
+      "html": "data/pdfs/20260718_0058_EG_US_Daily__Washington_will_keep_moving_up_the_es.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260718_0031",
@@ -241,7 +351,12 @@
       "date_label": "JUL 17  22:24",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Andy Burnham’s long general election campaign starts now",
+      "html": "data/pdfs/20260717_2224_Andy_Burnham’s_long_general_election_campaign_star.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_2111",
@@ -251,7 +366,12 @@
       "date_label": "JUL 17  21:11",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Top 10 Most Read For Week Ending Jul 17, 2026",
+      "html": "data/pdfs/20260717_2111_EG_Top_10_Most_Read_For_Week_Ending_Jul_17,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_2048",
@@ -261,7 +381,12 @@
       "date_label": "JUL 17  20:48",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Daily Brief: China's coercion reach extends beyond critical minerals",
+      "html": "data/pdfs/20260717_2048_EG_Daily_Brief__China's_coercion_reach_extends_bey.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_1955",
@@ -271,7 +396,12 @@
       "date_label": "JUL 17  19:55",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Andy Burnham to be crowned UK Labour leader — live updates",
+      "html": "data/pdfs/20260717_1955_Andy_Burnham_to_be_crowned_UK_Labour_leader_—_live.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_1922",
@@ -281,7 +411,12 @@
       "date_label": "JUL 17  19:22",
       "read_min": 3,
       "toyota": true,
-      "excerpt": "EU委員会は2040年までにEUの総電力の46%を電力から供給する目標を設定し、化石燃料依存か"
+      "excerpt": "EU委員会は2040年までにEUの総電力の46%を電力から供給する目標を設定し、化石燃料依存か",
+      "subject_en": "EU sets 46 percent electrification target in push to slash fossil fuel dependence",
+      "html": "data/pdfs/20260717_1922_EU_sets_46_percent_electrification_target_in_push_.html",
+      "summary_en": "The European Commission unveiled a non-binding Electrification Action Plan targeting 46% of the EU's total power from electricity by 2040, aiming to cut oil demand by 40% and gas demand by 70%. The plan focuses on accelerating heat pump adoption, EV charging infrastructure, and industrial electrification, though the Commission dropped an earlier proposal to make the target legally binding. Despite over 70% of EU electricity now coming from clean sources, the bloc's overall electrification rate has stagnated around 23% for a decade, leaving it exposed to costly fossil fuel imports.",
+      "summary_ja": "欧州委員会は、2040年までにEUの総エネルギー消費の46%を電力でまかなうという非拘束的な目標を掲げた「電化行動計画」を発表した。この計画により石油需要を40%、天然ガス需要を70%削減できるとしており、ヒートポンプ導入やEV充電インフラ整備、産業部門の電化を促進する内容だが、当初検討されていた目標の法的拘束力化は見送られた。EUの発電の70%以上は既にクリーンエネルギー由来である一方、電化率はここ10年で約23%と停滞しており、化石燃料輸入への依存というリスクが残っている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_1917",
@@ -291,7 +426,12 @@
       "date_label": "JUL 17  19:17",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU loosens carbon market rules to allow industry to pollute for longer",
+      "html": "data/pdfs/20260717_1917_EU_loosens_carbon_market_rules_to_allow_industry_t.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_1909",
@@ -300,18 +440,28 @@
       "pdf": "data/pdfs/20260717_1909_Center-right_MEPs_seek_clarity_on_‘Made_in_Europe’.pdf",
       "date_label": "JUL 17  19:09",
       "read_min": 3,
-      "toyota": true,
-      "excerpt": "中道右派のEU議員が欧州委員会に対し、「Made in"
+      "toyota": false,
+      "excerpt": "中道右派のEU議員が欧州委員会に対し、「Made in",
+      "subject_en": "Commission proposes EU carbon pricing for flights to Middle East but not US or China",
+      "html": "data/pdfs/20260717_1909_Commission_proposes_EU_carbon_pricing_for_flights_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_1817",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/07/17",
       "pdf": "data/pdfs/20260717_1817_「ジェトロ・ビジネス短信」2026_07_17.pdf",
       "date_label": "JUL 17  18:17",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中国がヘリウムの臨時輸出禁止管理を発表し、同国が国務院で「消費拡大」5カ年規画を発表する"
+      "excerpt": "中国がヘリウムの臨時輸出禁止管理を発表し、同国が国務院で「消費拡大」5カ年規画を発表する",
+      "subject_en": "「ジェトロ・ビジネス短信」2026/07/17",
+      "html": "data/pdfs/20260717_1817_「ジェトロ・ビジネス短信」2026_07_17.html",
+      "summary_en": "China's auto exports topped 5 million units in the first half of 2026, already surpassing Japan's total for all of 2025, underscoring China's growing dominance in global vehicle trade. Meanwhile, Thailand's auto production fell 17.9% year-on-year in May, even as domestic sales rose 12.8%, highlighting a widening gap between export weakness and resilient local demand in Southeast Asia's key manufacturing hub.",
+      "summary_ja": "中国の2026年上半期の自動車輸出台数は500万台を超え、すでに日本の2025年通年の輸出台数を上回り、世界の自動車貿易における中国の存在感の拡大を裏付けた。一方、タイの5月の自動車生産台数は前年同月比17.9％減少したものの、国内販売は12.8％増加しており、東南アジアの主要生産拠点で輸出不振と内需堅調のギャップが広がっている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_1806",
@@ -321,7 +471,12 @@
       "date_label": "JUL 17  18:06",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG APAC & Japan Conference Call Notes : On the ground in China: Assessing the reset of China-US relations and rising China-EU and China-Japan tensions　 中国現地リポート――米国と中国の関係の「リセット」と、欧州・日本との間で高まる緊張（13 July, 2026）",
+      "html": "data/pdfs/20260717_1806_EG_APAC_&_Japan_Conference_Call_Notes___On_the_gro.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_1635",
@@ -331,7 +486,12 @@
       "date_label": "JUL 17  16:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Google mega fine to slash taxpayers’ contributions to Brussels",
+      "html": "data/pdfs/20260717_1635_Google_mega_fine_to_slash_taxpayers’_contributions.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_1505",
@@ -341,7 +501,12 @@
       "date_label": "JUL 17  15:05",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese: 2026年7月17日",
+      "html": "data/pdfs/20260717_1505_EG_Research_Summary_in_Japanese__2026年7月17日.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_1403",
@@ -350,8 +515,13 @@
       "pdf": "data/pdfs/20260717_1403_ETS_showdown_stresses_out_aviation.pdf",
       "date_label": "JUL 17  14:03",
       "read_min": 10,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "ETS showdown stresses out aviation",
+      "html": "data/pdfs/20260717_1403_ETS_showdown_stresses_out_aviation.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_1351",
@@ -361,7 +531,12 @@
       "date_label": "JUL 17  13:51",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Green vs. growth in ETS showdown",
+      "html": "data/pdfs/20260717_1351_Green_vs._growth_in_ETS_showdown.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260717_0735",
@@ -573,5 +748,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
