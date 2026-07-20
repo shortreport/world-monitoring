@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19 23:59:25",
+  "generated_at": "2026-07-20 17:08:17",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-19 23:58:59",
+      "last_checked": "2026-07-20 17:07:53",
       "items": [
         {
           "uid": "77f54fbd99c5",
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-19 23:59:10",
+      "last_checked": "2026-07-20 17:08:03",
       "items": [
+        {
+          "uid": "5d7023f5a1be",
+          "date": "2026-05-05",
+          "title": "Senators Introduce Bill to Ban Chinese Vehicles, Connected Components from U.S. Market - Body Shop Business",
+          "summary": "本法案は、中国製の車両および接続機能を持つ自動車部品の米国市場への参入を禁止することを目的としており、国家安全保障上の懸念から、中国製電動車やソフトウェア・センサー等の接続コンポーネントの使用を規制するものです。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUDdpZlY0LUZURldaRC1RRnRXTUFSckh1VWhPbVY4dXp1a0RST3RjWXVtdkZ3TzNPY2ttSlRTcndza2J3b0R3eXdPV1JyUXVQVFRVWmcwWWVYb0UyVGRQM1M1eUpuY0JvRTJlX2tVQnE4dklTUlNMYlhoQlZtNWNqYlBYQ1ZYbUEwUEFPMkJ2X2k1Q0ZHZDdOa1ZObmZsWFRHcHIwNnNocTM3Z1BwbUdib1c3QUg?oc=5",
+          "added_at": "2026-07-20 17:08:00"
+        },
+        {
+          "uid": "5184bbe70121",
+          "date": "2026-05-21",
+          "title": "'Revenge Porn' Law Goes Into Effect. Here's How to Request Image Removals - PCMag",
+          "summary": "この記事は「リベンジポルノ」法に関するもので、米国接続車両安全保障法（S.4429）とは関連性がありません。S.4429は車両のサイバーセキュリティに関する法案であるため、本記事の要約提供はできません。",
+          "source": "中国政府",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQnU3eFdzMXpSTzRxWE9FNHJ5d01KVzhlODdnazFSR1ZfOXlpVHpneE1pamJfbDAydFpUSW52dnNYRTVGblZ1dDZEcE5xY3MxTlBWRnhPd01wZEJMS2N0Si16VU5CQnpfRmlpSUdOZzB4aTQweHdUc05UV3AxZ09pS1FDUjFFM2otXzRNOVFOOXprZDI2ajZsd1Q4Yw?oc=5",
+          "added_at": "2026-07-20 17:08:00"
+        },
         {
           "uid": "b8c398bd1bde",
           "date": "2026-07-17",
@@ -4000,26 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNLUhaSTBTTC14ZVlwZE5PSkxIb09PVzQzalg3WDF2d2o0dVRiSDkwUlJfUndIZzFVSlFfQVVsNlV5cjZ4NkMtRzRyc0oxY0ZEWkMxWDBFd2R4Y1BNVl9teEpTU0ZoT2w0YXNYai03NTJrRkprR2xVY2FhQ2QtOHdKV3dCM25GWXBLUGhLRVBkTlFycFhCSFUtaW94Z0tQN2NWZ1QwSFlPVmFCdEFXSGx2SEEwbmp2VmlLc1BBVVN4ZWtVbUlhaW1fQzRSMEl4dHZhSVlvWktzSHRud0d3X3BFekxHcllkQmE3emhqX3p0ZUFZd0wxTXc?oc=5",
           "added_at": "2026-05-28 08:07:36"
-        },
-        {
-          "uid": "40cad51dec3b",
-          "date": "2026-05-27",
-          "title": "Haig Partners Releases Q1 2026 Haig Report®: Dealership Buy-Sell Activity Surged 39% in Q1 2026 as Private Buyers Chase Strong Franchises - Business Wire",
-          "summary": "この記事は自動車ディーラーシップの買収売却活動に関する市場データを報告しており、S.4429で規制される自動車サイバーセキュリティおよび接続車両安全保障に直接関連する内容は含まれていません。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOWDZ6ckpBbjZoc2ExZUFTbDI2RjZycXlCZlN2dTd1ZUpMSUI0SlphV3ZNTm16Qjh5MEhsVEh4SHBQemY2U19kaFhxdWFfYWZRZ09UcTl4WWVnei1TRk9tNGRYVElJbnBoWC12YWpxOGcwOFFjWDBMSTZldlZLZEJmQmN6M3Y0TkQwWnd3TDk5ZEhEdS1HaGxiSmtCRlFTR2M3TjdVMm1fOVhndXdpSUUxOU5ManlaQVEtcmZSSC04c0hrTnVUYzgzWDFYSVhBNGFHc0VSdV9oQzRUMU5CakJOSUk1TUxkeENaOXNnYkRNR1lNVG5LYzg1Mkw1THFtV2hLMDM5QXBWTmppSi1XdDdZVVRhWXlPNVFwZUhr?oc=5",
-          "added_at": "2026-05-28 08:07:36"
-        },
-        {
-          "uid": "29c32a4c098f",
-          "date": "2026-02-26",
-          "title": "Privacy Regulation of Auto Industry to Accelerate in 2026 – Part 2 - The National Law Review",
-          "summary": "S.4429は、自動車がセンシティブな個人データを収集・共有する際の規制強化と、運転者プライバシー保護の法的枠組み確立を目指す法案であり、2026年以降、米国自動車産業におけるプライバシー規制の急速な加速が予想されている。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbV9pbnlTb3FLbi12S09KQUczTl95c1FQR0lXZVpLaVFkNkNGeWhsRnkxZ3BCaVNwVHhMTUpISHc2eThISl9NazVsYWx1eWVYdXBJMVphcldjVTFremVTMndVN3AyTzYwQWNqYXhqb1NhMWVYNzI1TmR4OGtDOGt1SWZuWmlBM1pteTJzMHR4c0gyd9IBlwFBVV95cUxQYkdjM1NHRVlZU3BmTlFYUU1RUFhmSnAwY1ZZWkk1MXh3dGJkSUY0VVo0cDBLUnlHa2hNSkJvbzB3NGhDWTh0NXpQanRxLXVNdGVydnhvbTdiSmFYUjItczBiRlMzVGFGMEpIRFRiM2ppS0swajN6MFBQZ3JpVXpTc1RTaFNpcnVXWUpIN21PRHVlS3hhM1lz?oc=5",
-          "added_at": "2026-05-28 08:07:36"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-19 23:59:25",
+      "last_checked": "2026-07-20 17:08:17",
       "items": [
+        {
+          "uid": "7ccb6a6b4907",
+          "date": "2026-05-17",
+          "title": "China to Address US Rare Earth Shortages After Export Controls | May 2026 - News and Statistics - IndexBox",
+          "summary": "申し訳ありませんが、提供いただいたテキストには実質的なコンテンツが含まれておらず、タイトルのみの記載となっているため、正確な要約を作成することができません。記事の本文をご提供いただければ、「中国レアアース輸出管理」に関する文脈での要約を提供させていただきます。",
+          "source": "中国素材大手",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNU1Yd2VkWWVEWjZ1dThDUFhDZEp1eUlGZzRhUzhLUW5PVV9hSmlpckctaVB4Rk5BeDl2N09fWld2ZWVNNS1IemR2eE5wbHIwODJxak94dkhXNjI4YkFBUFJzZ2FfQmM1WDkxUUtpWFE3QkQ0eTU1OUNDSzBRX1VtclNhVnluZVp1QXBQQXAzRVFRVlVTRThoMjZnN1RVams?oc=5",
+          "added_at": "2026-07-20 17:08:14"
+        },
+        {
+          "uid": "862c41102e52",
+          "date": "2026-06-14",
+          "title": "Critical Minerals Report (06.14.2026): Control is the New Commodity - InvestorNews",
+          "summary": "申し訳ありませんが、提供いただいたテキストにはタイトルのみで記事の具体的な内容が含まれていないため、「中国レアアース輸出管理」に関する要約を作成することができません。記事の本文をご提供いただければ、要約可能です。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNejJnZkZDZU1pZGJZdkpoLTdUbmFLMTFiVXMwV0U0YXdRbWtqR3FzMENQbzVLbEV2d2xqZGQxNjQzVDBxQTdCSHU5RjR1Ujd3ZlJDdGExd21pbHFKckFiTkhscy1pVHJFRXdwLWxVMHI4d2NINlZuYS0wSXZsYzZKNGtZSXlEbG9kdDVxSTdQbGR5ZEw4S3RxcV9qVjF4QXFrZ19BRVdnWHJ1elIxZjlFczRRNk94dmRtME9NcQ?oc=5",
+          "added_at": "2026-07-20 17:08:14"
+        },
         {
           "uid": "5405f0f6e412",
           "date": "2026-04-27",
@@ -6010,26 +6030,6 @@
           "source": "メディア分析",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FQ2pFaV9RWnI4VHVMNFVpLURTaGtuTUZJWWo1UmY3RGhjQ0lMTjFHRXNweTl3TXpwUFp1ZlhRdVpmNS03emUxNzdPQ0F0THd3dnRRVWMzeUh5bDhGb05maG5Ta1VIZjRiMGdpd2Zudml6cWp2?oc=5",
-          "added_at": "2026-06-30 13:42:49"
-        },
-        {
-          "uid": "3060e8aa84e8",
-          "date": "2026-06-29",
-          "title": "Sweden grants 25-year concession to heavy rare earth deposit",
-          "summary": "スウェーデンが重希土類鉱床の採掘権を25年間付与し、同プロジェクトはヨーロッパ全体の年間ジスプロシウム需要をまかなう能力を有することで、中国が支配するレアアース市場における供給源の多角化が進む。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/sweden-grants-25-year-concession-to-heavy-rare-earth-deposit/",
-          "added_at": "2026-06-30 13:42:49"
-        },
-        {
-          "uid": "54254cc56b87",
-          "date": "2026-06-29",
-          "title": "Tactical Resources eyes Nasdaq debut as Texas rare earths project advances",
-          "summary": "米国テキサス州の希土類プロジェクト「Peak」は世界でも数少ない硬岩直接浸出抽出が可能なプロジェクトであり、採掘許可が既に取得されているため、中国のレアアース輸出管理強化に対抗する米国の供給源として重要性が高まっている。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/tactical-resources-eyes-nasdaq-debut-as-texas-rare-earths-project-advances/",
           "added_at": "2026-06-30 13:42:49"
         }
       ]
