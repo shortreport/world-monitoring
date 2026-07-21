@@ -1,58 +1,224 @@
 {
-  "generated_at": "2026-07-21 07:00 JST",
-  "sender_count": 1,
-  "total_mails": 6,
+  "generated_at": "2026-07-22 07:01 JST",
+  "sender_count": 6,
+  "total_mails": 20,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 6,
+      "count": 11,
       "bullets": [
-        "米国とイランの緊張緩和が困難化。ヨルダンの基地へのイラン攻撃で米兵2名が死亡、1名が行方不明",
-        "複数の地政学的紛争がエネルギー市場を逼迫。イラン、フーシ派、ウクライナの活動により石油価格のさらなる上昇",
-        "英国のバーナム首相による防衛支出増加と増税。10月または11月の予算編成で税引き上げが見込まれる見通し",
-        "中国が米国との休戦を機に台湾周辺の海上支配を拡大。軟式封鎖のリスク上昇も深刻な危機には至らない見通し"
+        "米国トランプ政権がセクション338を初めて近代的に活用し、カナダ製品約200億ドル分に対して50%の追加関税を発動、USMC交渉停滞への圧力強化",
+        "中東情勢の緊迫化に伴いイランのホルムズ海峡混乱、フーシ派の紅海封鎖脅威、ウクライナ攻撃により石油市場が逼迫し、油価は90ドル台への上昇見通し",
+        "イランとの紛争激化によるエネルギー価格からの経済成長率低下とインフレーション影響が6月下旬以降約30%拡大",
+        "ロシアは2026年度予算維持に必要な政治的・財政的余力を保持するも、2027年以降の財政課題に明確な解決策を欠き、ウクライナ戦争での軍事的エスカレーション傾向が高まる可能性",
+        "中国が国際的鉱物支出を拡大し、鉱物資源をめぐる世界的競争が加速"
       ],
       "subjects": [
         [
           "2026-07-21",
-          "EG US Daily: Troop deaths make de-escalation with Iran more",
-          "data/pdfs/20260721_0031_EG_US_Daily__Troop_deaths_make_de-escalation_with_.pdf"
+          "APAC & Japan Conference Call: MENA Crisis Update",
+          "data/pdfs/20260721_1440_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_「.pdf"
         ],
         [
           "2026-07-21",
-          "EG Oil Markets Weekly: Prices will rise further as multiple",
-          "data/pdfs/20260721_0124_EG_Oil_Markets_Weekly__Prices_will_rise_further_as.pdf"
-        ],
-        [
-          "2026-07-21",
-          "EG United Kingdom: Tax increases now likely in Burnham’s first",
-          "data/pdfs/20260721_0354_EG_United_Kingdom__Tax_increases_now_likely_in_Bur.pdf"
-        ],
-        [
-          "2026-07-21",
-          "EG China, Taiwan: Beijing leveraging US truce to expand maritime",
-          "data/pdfs/20260721_0412_EG_China,_Taiwan__Beijing_leveraging_US_truce_to_e.pdf"
+          "EG United States, Canada QUICKTAKE: Washington revives",
+          "data/pdfs/20260721_1902_EG_United_States,_Canada_QUICKTAKE__Washington_rev.pdf"
         ],
         [
           "2026-07-21",
           "China, the middle powers, and the global minerals race - EG",
-          "data/pdfs/20260721_0547_China,_the_middle_powers,_and_the_global_minerals_.pdf"
+          "data/pdfs/20260721_2001_China,_the_middle_powers,_and_the_global_minerals_.pdf"
         ],
         [
           "2026-07-21",
-          "EG China, Japan: Beijing will maintain calibrated pressure",
-          "data/pdfs/20260721_0615_EG_China,_Japan__Beijing_will_maintain_calibrated_.pdf"
+          "EG Daily Brief: Oil prices to rise as conflicts tighten market",
+          "data/pdfs/20260721_2131_EG_Daily_Brief__Oil_prices_to_rise_as_conflicts_ti.pdf"
+        ],
+        [
+          "2026-07-21",
+          "EG Russia: Fiscal challenges boost escalation odds despite Putin’s",
+          "data/pdfs/20260721_2254_EG_Russia__Fiscal_challenges_boost_escalation_odds.pdf"
+        ],
+        [
+          "2026-07-22",
+          "EG US Daily: Use of Section 338 is significant expansion of the",
+          "data/pdfs/20260722_0104_EG_US_Daily__Use_of_Section_338_is_significant_exp.pdf"
+        ],
+        [
+          "2026-07-22",
+          "Europe update - EG Conference Call",
+          "data/pdfs/20260722_0248_Europe_update_-_EG_Conference_Call.pdf"
+        ],
+        [
+          "2026-07-22",
+          "EG India, Brazil: Higher ethanol flex fuel mandate will be delayed",
+          "data/pdfs/20260722_0319_EG_India,_Brazil__Higher_ethanol_flex_fuel_mandate.pdf"
+        ],
+        [
+          "2026-07-22",
+          "EG India, Brazil: CORRECTION: India's Higher ethanol flex fuel",
+          "data/pdfs/20260722_0348_EG_India,_Brazil__CORRECTION__India's_Higher_ethan.pdf"
+        ],
+        [
+          "2026-07-22",
+          "EG Agriculture: Agriculture prices set to rise as second Hormuz",
+          "data/pdfs/20260722_0454_EG_Agriculture__Agriculture_prices_set_to_rise_as_.pdf"
+        ],
+        [
+          "2026-07-22",
+          "MENA Crisis Update - EG Conference Call",
+          "data/pdfs/20260722_0601_MENA_Crisis_Update_-_EG_Conference_Call.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260721_0031_EG_US_Daily__Troop_deaths_make_de-escalation_with_.pdf",
-        "data/pdfs/20260721_0124_EG_Oil_Markets_Weekly__Prices_will_rise_further_as.pdf",
-        "data/pdfs/20260721_0354_EG_United_Kingdom__Tax_increases_now_likely_in_Bur.pdf",
-        "data/pdfs/20260721_0412_EG_China,_Taiwan__Beijing_leveraging_US_truce_to_e.pdf",
-        "data/pdfs/20260721_0547_China,_the_middle_powers,_and_the_global_minerals_.pdf",
-        "data/pdfs/20260721_0615_EG_China,_Japan__Beijing_will_maintain_calibrated_.pdf"
+        "data/pdfs/20260721_1440_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_「.pdf",
+        "data/pdfs/20260721_1902_EG_United_States,_Canada_QUICKTAKE__Washington_rev.pdf",
+        "data/pdfs/20260721_2001_China,_the_middle_powers,_and_the_global_minerals_.pdf",
+        "data/pdfs/20260721_2131_EG_Daily_Brief__Oil_prices_to_rise_as_conflicts_ti.pdf",
+        "data/pdfs/20260721_2254_EG_Russia__Fiscal_challenges_boost_escalation_odds.pdf",
+        "data/pdfs/20260722_0104_EG_US_Daily__Use_of_Section_338_is_significant_exp.pdf",
+        "data/pdfs/20260722_0248_Europe_update_-_EG_Conference_Call.pdf",
+        "data/pdfs/20260722_0319_EG_India,_Brazil__Higher_ethanol_flex_fuel_mandate.pdf",
+        "data/pdfs/20260722_0348_EG_India,_Brazil__CORRECTION__India's_Higher_ethan.pdf",
+        "data/pdfs/20260722_0454_EG_Agriculture__Agriculture_prices_set_to_rise_as_.pdf",
+        "data/pdfs/20260722_0601_MENA_Crisis_Update_-_EG_Conference_Call.pdf"
+      ]
+    },
+    {
+      "sender": "Eurasia",
+      "short": "EURAS",
+      "color": "YEL",
+      "count": 1,
+      "bullets": [
+        "複数の地政学的紛争による市場の逼迫でブレント油価が90ドル/バレル台への上昇",
+        "7月22日にAPAC・日本向けサイバー覇権と地政学的リスクに関するカンファレンスコール開催予定"
+      ],
+      "subjects": [
+        [
+          "2026-07-21",
+          "Research Summary for Jul 20, 2026",
+          "data/pdfs/20260721_0735_Research_Summary_for_Jul_20,_2026.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260721_0735_Research_Summary_for_Jul_20,_2026.pdf"
+      ]
+    },
+    {
+      "sender": "Firas",
+      "short": "FIRAS",
+      "color": "RED",
+      "count": 1,
+      "bullets": [
+        "フーシ派がサウジアラビアへの海上封鎖の実施を発表",
+        "限定的な攻撃を通じてサウジアラビアからの資金獲得を狙う見通し",
+        "エネルギー供給の大規模な混乱は回避される可能性",
+        "フーシ派指導者がアブドゥル・マレク・アル・フーシが木曜日の演説で軍事的エスカレーション、またはデエスカレーションの姿勢を示唆の見込み",
+        "サウジ船舶への脅威を通じてリヤドからの財政支援を引き出す戦略"
+      ],
+      "subjects": [
+        [
+          "2026-07-21",
+          "EG MENA Crisis, Saudi Arabia, Yemen, Iran QUICKTAKE: Houthis",
+          "data/pdfs/20260721_0713_EG_MENA_Crisis,_Saudi_Arabia,_Yemen,_Iran_QUICKTAK.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260721_0713_EG_MENA_Crisis,_Saudi_Arabia,_Yemen,_Iran_QUICKTAK.pdf"
+      ]
+    },
+    {
+      "sender": "POLITICO",
+      "short": "POLIT",
+      "color": "ORG",
+      "count": 5,
+      "bullets": [
+        "マリオ・ドラギの来欧によるEU競争力論争の再燃とイギリス政府の人事異動",
+        "アンディ・バーナムの新内閣編成による英国の方向性の変化と政治的波紋",
+        "EU資金調達のための新たな政策提案とテレコム政策改革の推進",
+        "EU メタン規制をめぐる化石燃料業界との対立と規制強化の姿勢",
+        "トランプ大統領のイラン政策継続と中東情勢の緊迫化"
+      ],
+      "subjects": [
+        [
+          "2026-07-21",
+          "Parliament’s China conundrum",
+          "data/pdfs/20260721_1348_Parliament’s_China_conundrum.pdf"
+        ],
+        [
+          "2026-07-21",
+          "What Andy Burnham’s new-look Cabinet says about UK’s direction",
+          "data/pdfs/20260721_1937_What_Andy_Burnham’s_new-look_Cabinet_says_about_UK.pdf"
+        ],
+        [
+          "2026-07-21",
+          "How to fill EU coffers? Eurogroup chief has inventive idea",
+          "data/pdfs/20260721_2223_How_to_fill_EU_coffers__Eurogroup_chief_has_invent.pdf"
+        ],
+        [
+          "2026-07-22",
+          "Pro Daily Headlines",
+          "data/pdfs/20260722_0031_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-07-22",
+          "Trump says midterms won’t impact his Iran war plan",
+          "data/pdfs/20260722_0502_Trump_says_midterms_won’t_impact_his_Iran_war_plan.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260721_1348_Parliament’s_China_conundrum.pdf",
+        "data/pdfs/20260721_1937_What_Andy_Burnham’s_new-look_Cabinet_says_about_UK.pdf",
+        "data/pdfs/20260721_2223_How_to_fill_EU_coffers__Eurogroup_chief_has_invent.pdf",
+        "data/pdfs/20260722_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260722_0502_Trump_says_midterms_won’t_impact_his_Iran_war_plan.pdf"
+      ]
+    },
+    {
+      "sender": "ジェトロ",
+      "short": "ジェトロ",
+      "color": "GRN",
+      "count": 1,
+      "bullets": [
+        "ジェトロ・メンバーズ向けにアジア大洋州13か国の貿易投資動向を動画で解説するWEB講座を配信開始",
+        "中国、香港、台湾、韓国、シンガポール、タイ、マレーシア、インドネシア、フィリピン、ベトナム、ラオス、インド、オーストラリアの最新産業とビジネス動向をカバー",
+        "ジェトロ海外事務所の駐在員および調査部員が2025年6月～2026年3月の公表資料を基に解説",
+        "配信期間は7月21日から10月21日まで、申込締切は10月15日"
+      ],
+      "subjects": [
+        [
+          "2026-07-21",
+          "ジェトロ・メンバーズニュース第471号",
+          "data/pdfs/20260721_1129_ジェトロ・メンバーズニュース第471号.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260721_1129_ジェトロ・メンバーズニュース第471号.pdf"
+      ]
+    },
+    {
+      "sender": "ビジネス短信",
+      "short": "ビジネス短",
+      "color": "PRP",
+      "count": 1,
+      "bullets": [
+        "中国の飲料大手「蜜雪氷城」がビール工場を建設するなど、アジア地域での日本企業の事業展開が活発化",
+        "韓国銀行が基準金利を3年半ぶりに引き上げるなど、アジア主要国での金融引き締めの動き",
+        "米国のトランプ大統領がカナダの乳製品に50%の追加関税を発動し、北米地域での通商摩擦が深刻化",
+        "欧州委が外国補助金規則の簡素化と輸入監視システムの見直しで、過剰生産対策を強化",
+        "ジェトロが日独オープンイノベーションフォーラムを開催するなど、国際的な企業連携とイノベーション促進の取組"
+      ],
+      "subjects": [
+        [
+          "2026-07-21",
+          "「ジェトロ・ビジネス短信」2026/07/21",
+          "data/pdfs/20260721_1827_「ジェトロ・ビジネス短信」2026_07_21.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260721_1827_「ジェトロ・ビジネス短信」2026_07_21.pdf"
       ]
     }
   ]
