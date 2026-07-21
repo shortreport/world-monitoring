@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21 16:34:49",
+  "generated_at": "2026-07-22 00:46:38",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-21 16:34:18",
+      "last_checked": "2026-07-22 00:46:16",
       "items": [
+        {
+          "uid": "4abe3bcc1df0",
+          "date": "2026-07-21",
+          "title": "EU glassmakers call for stronger Industrial Accelerator Act amid plant closures - Packaging Insights",
+          "summary": "欧州のガラス製造業者は、工場閉鎖の加速に直面する中で、欧州産業加速法案（IAA）のさらなる強化を求めており、これは産業競争力維持のための規制措置の緊急性を浮き彫りにしている。IAAは欧州産業の急速な衰退を食い止めるため、より包括的な支援と規制環境の改善が必要とされている。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ySUdXR2piUXJPMm9aVkRYRVZQd0VJMEJtaHZnOUI3ZGx4cEZ3VzhENGhYMHdRclh3a0lOMnBBOWpvU1FDNi1YM2RYcTJRaEExNllQZTJSTHk0d3Vhd0J0WWdBM1FWYXk2RmRvcy10a0IzNG5VSFNUNDlYM2ZEQQ?oc=5",
+          "added_at": "2026-07-22 00:46:14"
+        },
         {
           "uid": "afe0f5bc9b44",
           "date": "2026-07-20",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1RjaDl4SGJ0UEhmZGZkMExXcE55eWlWMk9QMTdNM1J1dW1QVHdrLTdQcHJQaGZwV0MzWVYxczFyTGl5aWgydDVTUzVUci1oV0FGRW9fMlRPc1drQjRKZ2hEOHBPNlJjSTYyeFNLRzFua3QzTWdHRTNaRENXTEJYSnYxZmdFbktFUE5KekVISGlxVTFMbFd6M0hkV0U1UVl1Z2h1SUVMTm5sZw?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "76ca7472ae3c",
-          "date": "2026-03-12",
-          "title": "‘Stop bureaucracy, or it will stop Europe,’ warns Christoph Leitl - Euractiv",
-          "summary": "欧州経済同盟のクリストフ・ライトル会長は、過度な官僚主義が欧州産業加速法案（IAA）の実施を妨げており、規制の簡素化を急進的に進めなければ欧州の産業競争力が失われる危険性があると警告しています。",
-          "source": "EURACTIV",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeGFkZFo2OHhFakR3aUNTWjg0a2V3Zmg2dFhnUlNONldwT1ZWdUNfV2lvc3I0bkFla3pEMDBDTHNQbTBKTVlKcnM4VTd5bVc3aWc3WThGN0I5VF96WU9ILURMLVVPamtPZUh1dWtYOXM5NG53VW0xbEVGOUlyaUFsUUpkNXZBRTluYjhJeEhta2V1LUlzVWZjREN6UENHdw?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-21 16:34:36",
+      "last_checked": "2026-07-22 00:46:26",
       "items": [
+        {
+          "uid": "e28f8f49cbf3",
+          "date": "2026-07-21",
+          "title": "Mercedes-Benz pushes to raise Chinese ownership threshold in Senate bill - CBT News",
+          "summary": "メルセデス・ベンツは、米国接続車両安全保障法（S.4429）における中国資本の所有比率の上限引き上げをロビイ活動で主張しており、これは同法案の外国資本規制の厳格化に対する業界からの圧力を示しています。",
+          "source": "議員発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3a2N2ZUVsSldRZlVJbUF1VXhhcGVvMXh1bC12NXpoM3d3cmtaX28xbi1VdTc0dDRKbU5OMWxobXJsRlp6cS1NMnBtSllwRER4eURVdDhHTXdoYTNEV0RBR2VCbXBjeDA?oc=5",
+          "added_at": "2026-07-22 00:46:23"
+        },
+        {
+          "uid": "f4a333fac60c",
+          "date": "2026-07-21",
+          "title": "U.S. auto industry races to purge Chinese connected-car hardware amid federal push - WKZO",
+          "summary": "米国自動車業界は、S.4429法案による連邦政府の圧力を受けて、コネクテッドカー（接続車両）に搭載された中国製ハードウェアを排除するための急速な取り組みを進めている。この法案は、国家安全保障上の懸念から、米国車両に使用される通信・センサー技術の中国依存を減らすことを目的としている。",
+          "source": "業界団体（自動車）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMUhELXI5aTB1eXJaMGp4QW1RNFN2ZEcwQ2tRX1lDMGtRQXVoeVVJQk5yc1Q0TFBPdmlfYkdJb2FBa2lRbEI4NG9ZT0JMdk1ZbDZUTElkeHVZX1VRVHZQQjRQa2Q5TmRiVXpmdG1TSU40VWctZ1daNU9yRG95aDUxS2g3THZrQkxTU0FWbkJiYW52c0FhSm1FUXpqaHd2UVhZMjlEbmgzUWFyc19GWHFj?oc=5",
+          "added_at": "2026-07-22 00:46:23"
+        },
         {
           "uid": "09c91ded9c6c",
           "date": "2026-07-20",
@@ -4000,26 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR3VxY0dtc3FuLUh1dmd5c3d4RS02SVQxUHFmQzNiMTlvRlhHZVlWQTRjN2JwWVNzMVdla3RQQkVzT05yN01wUlBZcTFSU2loUlBXcnZwSTZEeEVMbTNYR05lZk1EWkcta0xFZ3JSbzY5WDlZX1RDNFlINklmWHEzUzVyT05sTGx0ZlNndy1vY3JsV1NMSDBKbjY2REpHbnlZNkFQcDVsOXM0cUViaGJ2Z2N3Vzcwd2VlQi1ZeERLbmNuUGFTcHN4M3RwMF9LaWZ4elk1T0x0Qi1yZVM0ckRfZXhYZUo1TVB5R3hqcg?oc=5",
           "added_at": "2026-05-28 21:56:38"
-        },
-        {
-          "uid": "6bf74561ac0e",
-          "date": "2026-05-13",
-          "title": "Bipartisan bill seeks to bar Chinese EVs ahead of Trump–Xi talks - MSN",
-          "summary": "米国接続車両安全保障法（S.4429）は、中国製電動車両の米国市場への参入を禁止することを目指す超党派的な法案であり、トランプ前大統領と習近平国家主席の会談を前に提出されています。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY0hhb1hxNjRwODdYT1IwUmFlVGtTRTBtakhKeGxkdmpIellNbXNwUHp6RC1sTWRfV01HLTI2Qm54TG1jWWVBREczMVJhUjQ2b09BeVdZWWM1M0J0UTE5Q1dKR2JKd3RtVFY1RmVza3ZVTER4TThuMnlmSXowSzE5c1VLY3VlRHpfR3VlNE5ueGFBbFJxTXlBSEtienRSb3BUN1VqVENtZE5hSHBSeFE4azRBb19ja3gyVWZ0cWZBa3VrQjRvSmRtWGNEZWlrX3lScmNmSHZHNmVoUGxmandjcTBxdWVKUFhhOHhN?oc=5",
-          "added_at": "2026-05-28 21:56:38"
-        },
-        {
-          "uid": "c34c92c23d6a",
-          "date": "2026-05-26",
-          "title": "Trump administration permits Volvo to keep selling connected cars in the US - TechCrunch",
-          "summary": "Trump政権がVolvoの接続車両の米国販売を許可したもので、S.4429法が想定する中国企業への規制とは異なり、同盟国の企業に対しては柔軟な対応がなされていることを示しています。この判断は、接続車両のセキュリティ規制において、国家安全保障の懸念よりも産業競争力のバランスを重視する政策転換を反映しています。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmx4OE1qRURCZ2lfNFdsbTNYRzJnUXk2My1Xbm05b2RuVExTMkJDTGZpRzBmRzFzdGxpeGlUODdPSHJHZXFLS19GNHZrRk1QNENlamstTmw5Y2kxNlYxc3dfcWJhWk85bkhER0VWdkdFN090NnU4X2NwZTFzalk5TjREZFZLMWhPWU9vZ0pJSUVJd01SdGxZQ1dUV2xoZ0FNMy02MGk0emc1anZvckhB?oc=5",
-          "added_at": "2026-05-28 21:56:38"
         }
       ]
     },
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-21 16:34:49",
+      "last_checked": "2026-07-22 00:46:38",
       "items": [
         {
           "uid": "aa278d73112a",
