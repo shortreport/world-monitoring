@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-22 07:01 JST",
+  "updated_at": "2026-07-22 07:02 JST",
   "total": 50,
-  "toyota_summary": "India has delayed its mandatory shift to E25 ethanol-blended fuel by at least a year, pushing back a major regulatory change that would have required automakers to redesign engines across their Indian lineup. The government will instead pursue a gradual phase-in approach. For the industry, this removes near-term pressure to retool production in one of the world's fastest-growing car markets, but signals that fuel infrastructure constraints remain a real barrier to rapid biofuel adoption.\n\nThe Trump administration revived Section 338 tariffs and imposed a 50 percent levy on roughly $20 billion in Canadian goods, marking a significant escalation in trade friction between the two countries. For automakers with integrated North American supply chains, this creates immediate cost pressure and forces recalculation of where to source parts and assemble vehicles across the region. Watch whether the tariff is applied to finished vehicles or remains limited to components and materials.",
+  "toyota_summary": "インドの義務的なE25エタノール混合政策は、改修コストと腐食への懸念を巡る業界の反発を受けて、少なくとも1年延期される見通しである。代わりに自主的な基準が適用される見込みで、将来の義務化も新車のみに限定される可能性が高い。これに伴い、エタノール輸入交渉およびインド・ブラジル間の「世界バイオ燃料同盟」枠組みも延期となる。\n\nワシントンは通商法338条を発動し、自動車、乳製品、酒類を含むカナダ製品200億ドル分に50%の関税を課した。これはオタワに対し、停滞していたUSMCA（米国・メキシコ・カナダ協定）交渉を30日以内に再開するよう圧力をかけるものである。カナダは、期限内に乳製品、酒類、自動車分野の紛争を解決すれば、関税を回避できる。\n\n通商法232条によるアルミニウム関税の緩和措置と、6月の米国小売売上高については参考情報として付記する。",
   "emails": [
     {
       "ts": "20260722_0601",
@@ -11,7 +11,12 @@
       "date_label": "JUL 22  06:01",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "MENA Crisis Update - EG Conference Call",
+      "html": "data/pdfs/20260722_0601_MENA_Crisis_Update_-_EG_Conference_Call.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_0502",
@@ -21,7 +26,12 @@
       "date_label": "JUL 22  05:02",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump says midterms won’t impact his Iran war plan",
+      "html": "data/pdfs/20260722_0502_Trump_says_midterms_won’t_impact_his_Iran_war_plan.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_0454",
@@ -31,7 +41,12 @@
       "date_label": "JUL 22  04:54",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Agriculture: Agriculture prices set to rise as second Hormuz shock hits buffers",
+      "html": "data/pdfs/20260722_0454_EG_Agriculture__Agriculture_prices_set_to_rise_as_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_0348",
@@ -41,7 +56,12 @@
       "date_label": "JUL 22  03:48",
       "read_min": 6,
       "toyota": true,
-      "excerpt": "インド政府はE25（エタノール25%混合）の義務化を少なくとも1年先送りし、その前に段階的な"
+      "excerpt": "インド政府はE25（エタノール25%混合）の義務化を少なくとも1年先送りし、その前に段階的な",
+      "subject_en": "EG India, Brazil: CORRECTION: India's Higher ethanol flex fuel mandate will be delayed for at least a year",
+      "html": "data/pdfs/20260722_0348_EG_India,_Brazil__CORRECTION__India's_Higher_ethan.html",
+      "summary_en": "India's government has shelved plans to fast-track a mandatory E25 ethanol blend for automobiles, delaying any higher-blend mandate by at least a year amid industry pushback over retrofitting costs and consumer concerns about corrosion and performance. The reversal, following political controversy around Road Transport Minister Nitin Gadkari's family business ties to ethanol, will also postpone debate over ethanol imports and the India-Brazil-led Global Biofuel Alliance trading framework.",
+      "summary_ja": "インドのモディ政権は、自動車向けにE25エタノール混合燃料を義務化する計画の前倒しを断念し、より高濃度の混合燃料基準の導入を少なくとも1年延期する。自動車業界が改造コストへの反対を強め、消費者も腐食や燃費・性能への懸念を示したことに加え、ガドカリ道路交通相の家族とエタノール事業との関係を巡る政治的批判も影響した。この結果、エタノール輸入の解禁や、インドとブラジルが主導するグローバル・バイオ燃料同盟における国際取引基準の議論も先送りされる見通し。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_0319",
@@ -51,7 +71,12 @@
       "date_label": "JUL 22  03:19",
       "read_min": 6,
       "toyota": true,
-      "excerpt": "インド政府はガソリンへのエタノール混合率を25%に引き上げるE25燃料の義務化を少なくとも1"
+      "excerpt": "インド政府はガソリンへのエタノール混合率を25%に引き上げるE25燃料の義務化を少なくとも1",
+      "subject_en": "EG India, Brazil: Higher ethanol flex fuel mandate will be delayed for at least a year",
+      "html": "data/pdfs/20260722_0319_EG_India,_Brazil__Higher_ethanol_flex_fuel_mandate.html",
+      "summary_en": "India's government has shelved plans to fast-track a mandatory E25 ethanol blend for cars after industry pushback over retrofitting costs, corrosion and performance concerns, plus scrutiny of ties between officials and ethanol firms. Instead, authorities will set voluntary standards for E25-E85 blends and revisit a mandate in at least a year, likely applying it only to new vehicles. The delay also pushes back broader talks on ethanol imports and trading standards under the India-Brazil-led Global Biofuel Alliance.",
+      "summary_ja": "インド政府は、自動車業界からの改造コストや腐食・性能への懸念、さらに関係者とエタノール業界とのつながりへの批判を受け、E25エタノール混合の義務化を早期に導入する計画を撤回した。今後はE25からE85までの任意規格を整備し、義務化の再検討は少なくとも1年後、新車のみを対象とする見込みである。この遅延により、インドとブラジル主導の「グローバル・バイオ燃料同盟」の下でのエタノール輸入や国際取引基準に関する議論も先送りされる。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_0248",
@@ -61,7 +86,12 @@
       "date_label": "JUL 22  02:48",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe update - EG Conference Call",
+      "html": "data/pdfs/20260722_0248_Europe_update_-_EG_Conference_Call.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_0104",
@@ -71,7 +101,12 @@
       "date_label": "JUL 22  01:04",
       "read_min": 7,
       "toyota": true,
-      "excerpt": "トランプ政権がセクション338を復活させ、カナダ製品に50%の関税を課した。これは大統領に"
+      "excerpt": "トランプ政権がセクション338を復活させ、カナダ製品に50%の関税を課した。これは大統領に",
+      "subject_en": "EG US Daily: Use of Section 338 is significant expansion of the trade toolkit",
+      "html": "data/pdfs/20260722_0104_EG_US_Daily__Use_of_Section_338_is_significant_exp.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_0031",
@@ -91,7 +126,12 @@
       "date_label": "JUL 21  22:54",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Russia: Fiscal challenges boost escalation odds despite Putin’s limited options",
+      "html": "data/pdfs/20260721_2254_EG_Russia__Fiscal_challenges_boost_escalation_odds.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_2223",
@@ -101,7 +141,12 @@
       "date_label": "JUL 21  22:23",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How to fill EU coffers? Eurogroup chief has inventive idea",
+      "html": "data/pdfs/20260721_2223_How_to_fill_EU_coffers__Eurogroup_chief_has_invent.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_2131",
@@ -110,8 +155,13 @@
       "pdf": "data/pdfs/20260721_2131_EG_Daily_Brief__Oil_prices_to_rise_as_conflicts_ti.pdf",
       "date_label": "JUL 21  21:31",
       "read_min": 9,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EG Daily Brief: Oil prices to rise as conflicts tighten market",
+      "html": "data/pdfs/20260721_2131_EG_Daily_Brief__Oil_prices_to_rise_as_conflicts_ti.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_2001",
@@ -121,7 +171,12 @@
       "date_label": "JUL 21  20:01",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "China, the middle powers, and the global minerals race - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260721_2001_China,_the_middle_powers,_and_the_global_minerals_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_1937",
@@ -131,7 +186,12 @@
       "date_label": "JUL 21  19:37",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "What Andy Burnham’s new-look Cabinet says about UK’s direction",
+      "html": "data/pdfs/20260721_1937_What_Andy_Burnham’s_new-look_Cabinet_says_about_UK.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_1902",
@@ -141,17 +201,27 @@
       "date_label": "JUL 21  19:02",
       "read_min": 5,
       "toyota": true,
-      "excerpt": "米国トランプ政権は7月20日、カナダ製品約200億ドル分に対して50%の追加関税（セクション3"
+      "excerpt": "米国トランプ政権は7月20日、カナダ製品約200億ドル分に対して50%の追加関税（セクション3",
+      "subject_en": "EG United States, Canada QUICKTAKE: Washington revives Section 338 to drive stalled USMCA talks with Canada",
+      "html": "data/pdfs/20260721_1902_EG_United_States,_Canada_QUICKTAKE__Washington_rev.html",
+      "summary_en": "The Trump administration has invoked the long-dormant Section 338 statute to impose 50% tariffs on about $20 billion of Canadian goods—including autos, alcohol, and dairy-linked products—citing discrimination against U.S. commerce. With a 30-day implementation window, the move appears designed to pressure Ottawa into concessions and restart stalled USMCA negotiations rather than trigger a lasting trade war. Canada could avoid the tariffs by easing alcohol and dairy barriers and addressing auto-sector friction before the deadline.",
+      "summary_ja": "トランプ政権は、長らく使われてこなかった通商法338条を発動し、自動車・酒類・乳製品関連など米国への差別的措置を理由に、カナダ製品約200億ドル相当に50%の関税を課すと発表した。実施までに30日の猶予があることから、これは全面的な貿易摩擦の激化というより、停滞するUSMCA交渉再開に向けてカナダに譲歩を促す交渉手段とみられる。カナダが酒類・乳製品分野での障壁緩和や自動車分野の摩擦是正で応じれば、関税発動が回避または縮小される可能性がある。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_1827",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/07/21",
       "pdf": "data/pdfs/20260721_1827_「ジェトロ・ビジネス短信」2026_07_21.pdf",
       "date_label": "JUL 21  18:27",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中国の飲料大手「蜜雪氷城」がビール工場を建設するなど、アジア地域での日本企業の事業展開が"
+      "excerpt": "中国の飲料大手「蜜雪氷城」がビール工場を建設するなど、アジア地域での日本企業の事業展開が",
+      "subject_en": "JETRO Business Brief 2026/07/21",
+      "html": "data/pdfs/20260721_1827_「ジェトロ・ビジネス短信」2026_07_21.html",
+      "summary_en": "President Trump imposed a 50% tariff on Canadian dairy, alcohol, and auto parts under Section 338, the first use of this trade law, prompting Canadian PM Carney to push for strengthened CUSMA negotiations. Separately, Washington also announced relief from Section 232 aluminum tariffs for companies investing in the US, while June US retail sales rose 0.2% helped partly by auto sales.",
+      "summary_ja": "トランプ米大統領は通商法338条に基づき、カナダ産乳製品・酒類・自動車部品に50％の追加関税を初めて発動し、これを受けてカナダのカーニー首相はUSMCA（CUSMA）協議の強化を求める姿勢を示した。同時に米国はアルミニウムに対する232条関税について対米投資企業向けの軽減措置も発表し、6月の米小売売上高は自動車販売にも支えられ前月比0.2％増となった。",
+      "summary_pdf": "data/pdfs/20260721_1827_「ジェトロ・ビジネス短信」2026_07_21_en.pdf"
     },
     {
       "ts": "20260721_1440",
@@ -161,7 +231,12 @@
       "date_label": "JUL 21  14:40",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: MENA Crisis Update 「中東危機最新アップデート」(同時通訳なし） - EG Conference Call",
+      "html": "data/pdfs/20260721_1440_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_「.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_1348",
@@ -171,7 +246,12 @@
       "date_label": "JUL 21  13:48",
       "read_min": 12,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Parliament’s China conundrum",
+      "html": "data/pdfs/20260721_1348_Parliament’s_China_conundrum.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_1129",
@@ -180,8 +260,13 @@
       "pdf": "data/pdfs/20260721_1129_ジェトロ・メンバーズニュース第471号.pdf",
       "date_label": "JUL 21  11:29",
       "read_min": 3,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "JETRO Members News No. 471",
+      "html": "data/pdfs/20260721_1129_ジェトロ・メンバーズニュース第471号.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260721_1129_ジェトロ・メンバーズニュース第471号_en.pdf"
     },
     {
       "ts": "20260721_0735",
@@ -191,17 +276,27 @@
       "date_label": "JUL 21  07:35",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Research Summary for Jul 20, 2026",
+      "html": "data/pdfs/20260721_0735_Research_Summary_for_Jul_20,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_0713",
-      "sender_norm": "Firas",
+      "sender_norm": "Firas Maksad",
       "subject": "EG MENA Crisis, Saudi Arabia, Yemen, Iran QUICKTAKE: Houthis",
       "pdf": "data/pdfs/20260721_0713_EG_MENA_Crisis,_Saudi_Arabia,_Yemen,_Iran_QUICKTAK.pdf",
       "date_label": "JUL 21  07:13",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG MENA Crisis, Saudi Arabia, Yemen, Iran QUICKTAKE: Houthis likely to launch limited attacks to extract Saudi payoffs",
+      "html": "data/pdfs/20260721_0713_EG_MENA_Crisis,_Saudi_Arabia,_Yemen,_Iran_QUICKTAK.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260721_0615",
@@ -648,5 +743,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "India's mandatory E25 ethanol blend has been delayed at least a year after industry pushback over retrofitting costs and corrosion concerns; voluntary standards will apply instead, likely limiting any future mandate to new vehicles. This also postpones ethanol import talks and the India-Brazil Global Biofuel Alliance framework.\n\nWashington has invoked Section 338 to impose 50% tariffs on $20B of Canadian goods, including autos, dairy, and alcohol, pressuring Ottawa to restart stalled USMCA talks within a 30-day window. Canada can avoid the tariffs by resolving dairy, alcohol, and auto-sector disputes before the deadline.\n\nSection 232 aluminum relief and June US retail sales are provided for reference."
 }

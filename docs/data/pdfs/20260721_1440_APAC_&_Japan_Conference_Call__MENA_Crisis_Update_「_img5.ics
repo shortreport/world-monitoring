@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:APAC & Japan Conference Call: MENA Crisis Update 「中東危機
+ 最新アップデート」(同時通訳なし） - EG Conference Call
+DTSTART;VALUE=DATE-TIME:20260723T140000Z
+DTEND;VALUE=DATE-TIME:20260723T150000Z
+DESCRIPTION:Please join Eurasia Group's Senior Analyst for United States\,
+  Noah Daponte-\nSmith\, and Senior Analyst for Iran and Energy\, Gregory B
+ rew\, for an update on\nthe US-Iran conflict following the latest developm
+ ents.  \n\nこの度のユーラシアグループ APAC & Japan\nカンフ
+ ァレンス・コールでは、米国担当シニア・アナリスト
+ のノア・ダポンテ・スミス、イラン・エネルギー担当
+ シニア・アナリストのグレゴリー・ブルーを迎え「中
+ 東危機最新アップデート」について解説いたします。\n
+   * Collapse of the US-Iran deal\n  * What comes next for Hormuz and oil m
+ arkets\n  * Regional angle and Houthi risk\n\n  * 米・イラン核合意
+ の破綻\n  * ホルムズ海峡と原油市場の今後\n  * 中東地
+ 域への波及とフーシ派リスク \n\n\nRegister Here: https://us02w
+ eb.zoom.us/webinar/register/WN_vsnl-_rgSumdnxfLe-PkWA\n\nCall-in:\nRegistr
+ ation for this event is required.  \n  \nAfter registering\, you will rece
+ ive an email with instructions to join the\nmeeting\, including local dial
+ -in information and a meeting invitation you can\nadd to your calendar. Pl
+ ease note you must be logged in from a computer or\nmobile app in order to
+  ask a question.  \n  \nPlease allow a few minutes before the call to join
+  the meeting\, and connect\naudio by following the prompts from the confer
+ ence call platform.\n\nReplay:\nA recording of this call will be available
+  on the [Eurasia Group\nportal](https://library.eurasiagroup.net/events/) 
+ and mobile app approximately\nthree hours after the event concludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260723T134500Z
+UID:7a6db1f1-84c6-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:7a6db1f0-84c6-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR
