@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-23 07:00 JST",
+  "updated_at": "2026-07-23 07:02 JST",
   "total": 50,
-  "toyota_summary": "China's economy expanded 4.7 percent in the first half of 2026, with high-tech investment accelerating. That's slower than pre-pandemic trends but still solid enough to support consumer spending on vehicles in the world's largest auto market. The risk is that growth could slow further if Beijing's stimulus falters, directly hitting demand for both domestic and foreign-branded cars.\n\nThe Trump administration revived Section 338 authority and slapped a 50 percent tariff on Canadian products, using the trade tool as leverage in renegotiating the USMCA. For automakers, this threatens the integrated North American supply chain—engines and parts flow constantly across the U.S.-Canada border. A prolonged trade war could force expensive production reshuffling. India also delayed its E25 ethanol fuel mandate by at least a year, removing near-term regulatory pressure on fuel systems but leaving the industry uncertain about when the requirement will actually take effect.\n\nWatch whether the U.S. and Canada reach a new trade deal within the next 30 days before tariffs crimp cross-border sourcing.",
+  "toyota_summary": "米国はUSMCA交渉においてカナダに圧力をかけるべく、通商法第338条を復活させ、現時点で協定を遵守している品目に対してさえも関税を課すと威嚇している。北米域内で統合されたサプライチェーンを持つ自動車メーカーは、既存のUSMCA認証の有無にかかわらず新たな調達リスクに直面することとなり、この手法は他の貿易相手国にも波及しかねない。",
   "emails": [
     {
       "ts": "20260723_0658",
@@ -11,7 +11,12 @@
       "date_label": "JUL 23  06:58",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "‘Falling apart’: Trump’s Boeing deal hits turbulence with Beijing",
+      "html": "data/pdfs/20260723_0658_‘Falling_apart’__Trump’s_Boeing_deal_hits_turbulen.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260723_0316",
@@ -21,7 +26,12 @@
       "date_label": "JUL 23  03:16",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Greece derails EU’s Russia sanctions plan",
+      "html": "data/pdfs/20260723_0316_Greece_derails_EU’s_Russia_sanctions_plan.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260723_0120",
@@ -31,7 +41,12 @@
       "date_label": "JUL 23  01:20",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG US Daily: Closure of critical minerals procurement loophole will pressure defense primes",
+      "html": "data/pdfs/20260723_0120_EG_US_Daily__Closure_of_critical_minerals_procurem.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260723_0055",
@@ -41,7 +56,12 @@
       "date_label": "JUL 23  00:55",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Oil: Strait of Hormuz significance for oil trade could be cut in half by 2030",
+      "html": "data/pdfs/20260723_0055_EG_Oil__Strait_of_Hormuz_significance_for_oil_trad.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260723_0031",
@@ -61,7 +81,12 @@
       "date_label": "JUL 22  23:45",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump threatens retaliatory strikes on key Iranian infrastructure as conflict escalates",
+      "html": "data/pdfs/20260722_2345_Trump_threatens_retaliatory_strikes_on_key_Iranian.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_2311",
@@ -71,7 +96,12 @@
       "date_label": "JUL 22  23:11",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Geo-technology: US AI governance will stay fragmented and executive-driven through 2027",
+      "html": "data/pdfs/20260722_2311_EG_Geo-technology__US_AI_governance_will_stay_frag.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_2108",
@@ -80,8 +110,13 @@
       "pdf": "data/pdfs/20260722_2108_EG_Daily_Brief__Iran_escalation_set_to_push_agricu.pdf",
       "date_label": "JUL 22  21:08",
       "read_min": 10,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EG Daily Brief: Iran escalation set to push agriculture prices",
+      "html": "data/pdfs/20260722_2108_EG_Daily_Brief__Iran_escalation_set_to_push_agricu.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_2001",
@@ -91,7 +126,12 @@
       "date_label": "JUL 22  20:01",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "China, the middle powers, and the global minerals race - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260722_2001_China,_the_middle_powers,_and_the_global_minerals_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_1907",
@@ -101,17 +141,27 @@
       "date_label": "JUL 22  19:07",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe’s 27 leaders to take on AI — finally",
+      "html": "data/pdfs/20260722_1907_Europe’s_27_leaders_to_take_on_AI_—_finally.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_1900",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/07/22",
       "pdf": "data/pdfs/20260722_1900_「ジェトロ・ビジネス短信」2026_07_22.pdf",
       "date_label": "JUL 22  19:00",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中国のGDP成長率が上半期4.7％を達成し、ハイテク産業への投資が好調である。"
+      "excerpt": "中国のGDP成長率が上半期4.7％を達成し、ハイテク産業への投資が好調である。",
+      "subject_en": "\"JETRO Business Brief\" 2026/07/22",
+      "html": "data/pdfs/20260722_1900_「ジェトロ・ビジネス短信」2026_07_22.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260722_1900_「ジェトロ・ビジネス短信」2026_07_22_en.pdf"
     },
     {
       "ts": "20260722_1800",
@@ -121,7 +171,12 @@
       "date_label": "JUL 22  18:00",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Ukraine: Zelensky's concession restores calm but lasting political costs persist",
+      "html": "data/pdfs/20260722_1800_EG_Ukraine__Zelensky's_concession_restores_calm_bu.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_1702",
@@ -131,7 +186,12 @@
       "date_label": "JUL 22  17:02",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "MENA Crisis Update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260722_1702_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_1635",
@@ -141,17 +201,27 @@
       "date_label": "JUL 22  16:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Post-Orbán sanctions showdown exposes EU capitals’ red lines",
+      "html": "data/pdfs/20260722_1635_Post-Orbán_sanctions_showdown_exposes_EU_capitals’.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_1500",
-      "sender_norm": "AJC",
+      "sender_norm": "AJC Newsletter (ASEAN-Japan Centre)",
       "subject": "AJC Newsletter (ASEAN-Japan Centre)",
       "pdf": "data/pdfs/20260722_1500_AJC_Newsletter_(ASEAN-Japan_Centre).pdf",
       "date_label": "JUL 22  15:00",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "AJC Newsletter (ASEAN-Japan Centre)",
+      "html": "data/pdfs/20260722_1500_AJC_Newsletter_(ASEAN-Japan_Centre).html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_1406",
@@ -161,7 +231,12 @@
       "date_label": "JUL 22  14:06",
       "read_min": 9,
       "toyota": true,
-      "excerpt": "ファーンボロー国際航空ショーで€42.4億以上の航空・防衛・宇宙関連取引が発表され、エアバス"
+      "excerpt": "ファーンボロー国際航空ショーで€42.4億以上の航空・防衛・宇宙関連取引が発表され、エアバス",
+      "subject_en": "Planemakers flex their muscles at Farnborough",
+      "html": "data/pdfs/20260722_1406_Planemakers_flex_their_muscles_at_Farnborough.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_1402",
@@ -171,7 +246,12 @@
       "date_label": "JUL 22  14:02",
       "read_min": 14,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Russian sanctions season finale",
+      "html": "data/pdfs/20260722_1402_Russian_sanctions_season_finale.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_1131",
@@ -181,7 +261,12 @@
       "date_label": "JUL 22  11:31",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese: 2026年7月22日",
+      "html": "data/pdfs/20260722_1131_EG_Research_Summary_in_Japanese__2026年7月22日.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_1058",
@@ -189,6 +274,26 @@
       "subject": "eg update in Japanese (July 20, 2026)",
       "pdf": "data/pdfs/20260722_1058_eg_update_in_Japanese_(July_20,_2026).pdf",
       "date_label": "JUL 22  10:58",
+      "read_min": 2,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "eg update in Japanese  (July 20, 2026)",
+      "html": "data/pdfs/20260722_1058_eg_update_in_Japanese_(July_20,_2026).html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20260722_0902",
+      "sender_norm": "Eurasia Group",
+      "subject": "APAC & Japan Conference Call: MENA Crisis Update 「中東危機最新アップデート」(同時通訳なし） - EG Conference Call, REMINDER",
+      "subject_en": "APAC & Japan Conference Call: MENA Crisis Update 「中東危機最新アップデート」(同時通訳なし） - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260722_0902_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_「.html",
+      "pdf": "data/pdfs/20260722_0902_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_「.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "JUL 22  09:02",
       "read_min": 2,
       "toyota": false,
       "excerpt": ""
@@ -201,7 +306,12 @@
       "date_label": "JUL 22  08:00",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Claude Mythos: Cyber Power, Competition & Global Risk - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260722_0800_Claude_Mythos__Cyber_Power,_Competition_&_Global_R.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_0735",
@@ -211,7 +321,12 @@
       "date_label": "JUL 22  07:35",
       "read_min": 3,
       "toyota": true,
-      "excerpt": "米国がセクション338を復活させ、カナダとのUSMCA交渉を進展させるための圧力手段として活"
+      "excerpt": "米国がセクション338を復活させ、カナダとのUSMCA交渉を進展させるための圧力手段として活",
+      "subject_en": "Research Summary for Jul 21, 2026",
+      "html": "data/pdfs/20260722_0735_Research_Summary_for_Jul_21,_2026.html",
+      "summary_en": "Washington has revived the long-dormant Section 338 trade statute to pressure Canada in stalled USMCA renegotiations, a move that could hit even goods currently compliant with the trade pact. For automakers with integrated North American supply chains, this raises the risk of new tariffs or non-tariff barriers regardless of existing USMCA certification. The targeted approach also signals Washington may use similar leverage against other trading partners, adding further uncertainty to cross-border auto sourcing and production planning.",
+      "summary_ja": "ワシントンは、停滞するUSMCA再交渉でカナダに圧力をかけるため、長らく使われていなかった通商法301条(Section 338)を復活させた。この措置はUSMCA適合品にも影響を及ぼす可能性があり、北米に統合されたサプライチェーンを持つ自動車メーカーにとって、既存の適合認定にかかわらず新たな関税や非関税障壁のリスクが高まる。この的を絞った手法は、他の貿易相手国への同様の圧力行使の前例ともなり得るため、自動車の国境を越えた調達・生産計画における不確実性がさらに増している。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260722_0601",
@@ -627,21 +742,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20260720_2144",
-      "sender_norm": "Eurasia Group",
-      "subject": "EG Daily Brief: Iran is unlikely to back down, says Ian Bremmer",
-      "pdf": "data/pdfs/20260720_2144_EG_Daily_Brief__Iran_is_unlikely_to_back_down,_say.pdf",
-      "date_label": "JUL 20  21:44",
-      "read_min": 9,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EG Daily Brief: Iran is unlikely to back down, says Ian Bremmer",
-      "html": "data/pdfs/20260720_2144_EG_Daily_Brief__Iran_is_unlikely_to_back_down,_say.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "The US has revived Section 338 to pressure Canada in USMCA talks, threatening tariffs even on currently compliant goods. Automakers with integrated North American supply chains face new sourcing risk regardless of existing USMCA certification, and this tactic could extend to other trading partners."
 }
