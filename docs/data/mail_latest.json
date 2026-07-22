@@ -1,224 +1,215 @@
 {
-  "generated_at": "2026-07-22 07:01 JST",
-  "sender_count": 6,
-  "total_mails": 20,
+  "generated_at": "2026-07-23 07:01 JST",
+  "sender_count": 5,
+  "total_mails": 21,
   "summaries": [
     {
-      "sender": "EG",
-      "short": "EG",
+      "sender": "AJC",
+      "short": "AJC",
       "color": "CYAN",
-      "count": 11,
+      "count": 1,
       "bullets": [
-        "米国トランプ政権がセクション338を初めて近代的に活用し、カナダ製品約200億ドル分に対して50%の追加関税を発動、USMC交渉停滞への圧力強化",
-        "中東情勢の緊迫化に伴いイランのホルムズ海峡混乱、フーシ派の紅海封鎖脅威、ウクライナ攻撃により石油市場が逼迫し、油価は90ドル台への上昇見通し",
-        "イランとの紛争激化によるエネルギー価格からの経済成長率低下とインフレーション影響が6月下旬以降約30%拡大",
-        "ロシアは2026年度予算維持に必要な政治的・財政的余力を保持するも、2027年以降の財政課題に明確な解決策を欠き、ウクライナ戦争での軍事的エスカレーション傾向が高まる可能性",
-        "中国が国際的鉱物支出を拡大し、鉱物資源をめぐる世界的競争が加速"
+        "ASEAN-Japan Young Environmental Leaders Network（AJYELN）が3年間で182件の環境活動を実施し、44,279人にリーチするとともに、153の地域支援団体とのネットワーク構築と4.9トンの廃棄物回収を実現",
+        "第18回ASEAN環境教育作業部会会合でAJYELNの成果を発表し、政策対話やグリーン・アントレプレナーシップなどを強化するAJYELN 3.0の方向性を提示",
+        "ASEAN加盟国および地域パートナーとの協力可能性について意見交換を実施",
+        "循環型バリューチェーン構築に向けた日本の環境技術投資とASEANの共創を推進"
       ],
       "subjects": [
         [
-          "2026-07-21",
-          "APAC & Japan Conference Call: MENA Crisis Update",
-          "data/pdfs/20260721_1440_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_「.pdf"
-        ],
-        [
-          "2026-07-21",
-          "EG United States, Canada QUICKTAKE: Washington revives",
-          "data/pdfs/20260721_1902_EG_United_States,_Canada_QUICKTAKE__Washington_rev.pdf"
-        ],
-        [
-          "2026-07-21",
-          "China, the middle powers, and the global minerals race - EG",
-          "data/pdfs/20260721_2001_China,_the_middle_powers,_and_the_global_minerals_.pdf"
-        ],
-        [
-          "2026-07-21",
-          "EG Daily Brief: Oil prices to rise as conflicts tighten market",
-          "data/pdfs/20260721_2131_EG_Daily_Brief__Oil_prices_to_rise_as_conflicts_ti.pdf"
-        ],
-        [
-          "2026-07-21",
-          "EG Russia: Fiscal challenges boost escalation odds despite Putin’s",
-          "data/pdfs/20260721_2254_EG_Russia__Fiscal_challenges_boost_escalation_odds.pdf"
-        ],
-        [
           "2026-07-22",
-          "EG US Daily: Use of Section 338 is significant expansion of the",
-          "data/pdfs/20260722_0104_EG_US_Daily__Use_of_Section_338_is_significant_exp.pdf"
-        ],
-        [
-          "2026-07-22",
-          "Europe update - EG Conference Call",
-          "data/pdfs/20260722_0248_Europe_update_-_EG_Conference_Call.pdf"
-        ],
-        [
-          "2026-07-22",
-          "EG India, Brazil: Higher ethanol flex fuel mandate will be delayed",
-          "data/pdfs/20260722_0319_EG_India,_Brazil__Higher_ethanol_flex_fuel_mandate.pdf"
-        ],
-        [
-          "2026-07-22",
-          "EG India, Brazil: CORRECTION: India's Higher ethanol flex fuel",
-          "data/pdfs/20260722_0348_EG_India,_Brazil__CORRECTION__India's_Higher_ethan.pdf"
-        ],
-        [
-          "2026-07-22",
-          "EG Agriculture: Agriculture prices set to rise as second Hormuz",
-          "data/pdfs/20260722_0454_EG_Agriculture__Agriculture_prices_set_to_rise_as_.pdf"
-        ],
-        [
-          "2026-07-22",
-          "MENA Crisis Update - EG Conference Call",
-          "data/pdfs/20260722_0601_MENA_Crisis_Update_-_EG_Conference_Call.pdf"
+          "AJC Newsletter (ASEAN-Japan Centre)",
+          "data/pdfs/20260722_1500_AJC_Newsletter_(ASEAN-Japan_Centre).pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260721_1440_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_「.pdf",
-        "data/pdfs/20260721_1902_EG_United_States,_Canada_QUICKTAKE__Washington_rev.pdf",
-        "data/pdfs/20260721_2001_China,_the_middle_powers,_and_the_global_minerals_.pdf",
-        "data/pdfs/20260721_2131_EG_Daily_Brief__Oil_prices_to_rise_as_conflicts_ti.pdf",
-        "data/pdfs/20260721_2254_EG_Russia__Fiscal_challenges_boost_escalation_odds.pdf",
-        "data/pdfs/20260722_0104_EG_US_Daily__Use_of_Section_338_is_significant_exp.pdf",
-        "data/pdfs/20260722_0248_Europe_update_-_EG_Conference_Call.pdf",
-        "data/pdfs/20260722_0319_EG_India,_Brazil__Higher_ethanol_flex_fuel_mandate.pdf",
-        "data/pdfs/20260722_0348_EG_India,_Brazil__CORRECTION__India's_Higher_ethan.pdf",
-        "data/pdfs/20260722_0454_EG_Agriculture__Agriculture_prices_set_to_rise_as_.pdf",
-        "data/pdfs/20260722_0601_MENA_Crisis_Update_-_EG_Conference_Call.pdf"
+        "data/pdfs/20260722_1500_AJC_Newsletter_(ASEAN-Japan_Centre).pdf"
+      ]
+    },
+    {
+      "sender": "EG",
+      "short": "EG",
+      "color": "YEL",
+      "count": 10,
+      "bullets": [
+        "イラン紛争の激化により、エネルギー価格が世界経済に与える影響が6月以降約30％拡大し、年末まで続く場合はさらに35％の追加打撃が懸念される状況",
+        "米イラン紛争の再燃に伴い、ホルムズ海峡の長期的な影響力確保やエネルギー市場の動向に関する緊急の分析・協議が進行中",
+        "米国が香港関連の大統領令を満了させ米中関係の緩和を進める一方で、貿易・制裁・輸出管理における中核的制限はおおむね維持される状況",
+        "ウクライナではゼレンスキー大統領の譲歩により短期的な緊張は緩和されるも、政治的なコスト問題が長期的に存在",
+        "米国内では予備選で進歩派民主党員の勢いが増し、2028年大統領選に向けた党の左傾化が加速"
+      ],
+      "subjects": [
+        [
+          "2026-07-22",
+          "Claude Mythos: Cyber Power, Competition & Global Risk - EG",
+          "data/pdfs/20260722_0800_Claude_Mythos__Cyber_Power,_Competition_&_Global_R.pdf"
+        ],
+        [
+          "2026-07-22",
+          "eg update in Japanese (July 20, 2026)",
+          "data/pdfs/20260722_1058_eg_update_in_Japanese_(July_20,_2026).pdf"
+        ],
+        [
+          "2026-07-22",
+          "EG Research Summary in Japanese: 2026年7月22日",
+          "data/pdfs/20260722_1131_EG_Research_Summary_in_Japanese__2026年7月22日.pdf"
+        ],
+        [
+          "2026-07-22",
+          "MENA Crisis Update - EG Conference Call, REMINDER",
+          "data/pdfs/20260722_1702_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf"
+        ],
+        [
+          "2026-07-22",
+          "EG Ukraine: Zelensky's concession restores calm but lasting",
+          "data/pdfs/20260722_1800_EG_Ukraine__Zelensky's_concession_restores_calm_bu.pdf"
+        ],
+        [
+          "2026-07-22",
+          "China, the middle powers, and the global minerals race - EG",
+          "data/pdfs/20260722_2001_China,_the_middle_powers,_and_the_global_minerals_.pdf"
+        ],
+        [
+          "2026-07-22",
+          "EG Daily Brief: Iran escalation set to push agriculture prices",
+          "data/pdfs/20260722_2108_EG_Daily_Brief__Iran_escalation_set_to_push_agricu.pdf"
+        ],
+        [
+          "2026-07-22",
+          "EG Geo-technology: US AI governance will stay fragmented and",
+          "data/pdfs/20260722_2311_EG_Geo-technology__US_AI_governance_will_stay_frag.pdf"
+        ],
+        [
+          "2026-07-23",
+          "EG Oil: Strait of Hormuz significance for oil trade could be cut in",
+          "data/pdfs/20260723_0055_EG_Oil__Strait_of_Hormuz_significance_for_oil_trad.pdf"
+        ],
+        [
+          "2026-07-23",
+          "EG US Daily: Closure of critical minerals procurement loophole will",
+          "data/pdfs/20260723_0120_EG_US_Daily__Closure_of_critical_minerals_procurem.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260722_0800_Claude_Mythos__Cyber_Power,_Competition_&_Global_R.pdf",
+        "data/pdfs/20260722_1058_eg_update_in_Japanese_(July_20,_2026).pdf",
+        "data/pdfs/20260722_1131_EG_Research_Summary_in_Japanese__2026年7月22日.pdf",
+        "data/pdfs/20260722_1702_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20260722_1800_EG_Ukraine__Zelensky's_concession_restores_calm_bu.pdf",
+        "data/pdfs/20260722_2001_China,_the_middle_powers,_and_the_global_minerals_.pdf",
+        "data/pdfs/20260722_2108_EG_Daily_Brief__Iran_escalation_set_to_push_agricu.pdf",
+        "data/pdfs/20260722_2311_EG_Geo-technology__US_AI_governance_will_stay_frag.pdf",
+        "data/pdfs/20260723_0055_EG_Oil__Strait_of_Hormuz_significance_for_oil_trad.pdf",
+        "data/pdfs/20260723_0120_EG_US_Daily__Closure_of_critical_minerals_procurem.pdf"
       ]
     },
     {
       "sender": "Eurasia",
       "short": "EURAS",
-      "color": "YEL",
-      "count": 1,
-      "bullets": [
-        "複数の地政学的紛争による市場の逼迫でブレント油価が90ドル/バレル台への上昇",
-        "7月22日にAPAC・日本向けサイバー覇権と地政学的リスクに関するカンファレンスコール開催予定"
-      ],
-      "subjects": [
-        [
-          "2026-07-21",
-          "Research Summary for Jul 20, 2026",
-          "data/pdfs/20260721_0735_Research_Summary_for_Jul_20,_2026.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260721_0735_Research_Summary_for_Jul_20,_2026.pdf"
-      ]
-    },
-    {
-      "sender": "Firas",
-      "short": "FIRAS",
       "color": "RED",
       "count": 1,
       "bullets": [
-        "フーシ派がサウジアラビアへの海上封鎖の実施を発表",
-        "限定的な攻撃を通じてサウジアラビアからの資金獲得を狙う見通し",
-        "エネルギー供給の大規模な混乱は回避される可能性",
-        "フーシ派指導者がアブドゥル・マレク・アル・フーシが木曜日の演説で軍事的エスカレーション、またはデエスカレーションの姿勢を示唆の見込み",
-        "サウジ船舶への脅威を通じてリヤドからの財政支援を引き出す戦略"
+        "米国がセクション338を復活させ、カナダとのUSMCA交渉における圧力手段として活用、交渉力強化",
+        "7月22日にサイバーセキュリティと地政学的競争をテーマとした「Claude Mythos: Cyber Power, Competition & Global Risk」カンファレンスコール開催",
+        "7月23日にイランやエネルギーを含む中東危機に関する最新アップデートセッション開催",
+        "7月23日に中国と中堅国による鉱物資源獲得競争をテーマとしたカンファレンス開催"
       ],
       "subjects": [
         [
-          "2026-07-21",
-          "EG MENA Crisis, Saudi Arabia, Yemen, Iran QUICKTAKE: Houthis",
-          "data/pdfs/20260721_0713_EG_MENA_Crisis,_Saudi_Arabia,_Yemen,_Iran_QUICKTAK.pdf"
+          "2026-07-22",
+          "Research Summary for Jul 21, 2026",
+          "data/pdfs/20260722_0735_Research_Summary_for_Jul_21,_2026.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260721_0713_EG_MENA_Crisis,_Saudi_Arabia,_Yemen,_Iran_QUICKTAK.pdf"
+        "data/pdfs/20260722_0735_Research_Summary_for_Jul_21,_2026.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
       "color": "ORG",
-      "count": 5,
+      "count": 8,
       "bullets": [
-        "マリオ・ドラギの来欧によるEU競争力論争の再燃とイギリス政府の人事異動",
-        "アンディ・バーナムの新内閣編成による英国の方向性の変化と政治的波紋",
-        "EU資金調達のための新たな政策提案とテレコム政策改革の推進",
-        "EU メタン規制をめぐる化石燃料業界との対立と規制強化の姿勢",
-        "トランプ大統領のイラン政策継続と中東情勢の緊迫化"
+        "ウクライナのゼレンスキー大統領が軍司令官を更迭し、防衛体制の再編に着手",
+        "ファーンボロー航空ショーで€42.4億以上の航空・防衛・宇宙関連取引が発表され、エアバスとボーイングの受注残が生産量の12年分に相当",
+        "オルバン首相の退場により、EU加盟国がロシア制裁強化への個別の立場を明確にせざるを得ない状況に",
+        "EU27カ国の首脳がAIの開発と安全性について初めての協議を実施",
+        "トランプ大統領がホルムズ海峡での攻撃に対抗し、イラン領土への報復攻撃を警告"
       ],
       "subjects": [
         [
-          "2026-07-21",
-          "Parliament’s China conundrum",
-          "data/pdfs/20260721_1348_Parliament’s_China_conundrum.pdf"
-        ],
-        [
-          "2026-07-21",
-          "What Andy Burnham’s new-look Cabinet says about UK’s direction",
-          "data/pdfs/20260721_1937_What_Andy_Burnham’s_new-look_Cabinet_says_about_UK.pdf"
-        ],
-        [
-          "2026-07-21",
-          "How to fill EU coffers? Eurogroup chief has inventive idea",
-          "data/pdfs/20260721_2223_How_to_fill_EU_coffers__Eurogroup_chief_has_invent.pdf"
+          "2026-07-22",
+          "Russian sanctions season finale",
+          "data/pdfs/20260722_1402_Russian_sanctions_season_finale.pdf"
         ],
         [
           "2026-07-22",
+          "Planemakers flex their muscles at Farnborough",
+          "data/pdfs/20260722_1406_Planemakers_flex_their_muscles_at_Farnborough.pdf"
+        ],
+        [
+          "2026-07-22",
+          "Post-Orbán sanctions showdown exposes EU capitals’ red lines",
+          "data/pdfs/20260722_1635_Post-Orbán_sanctions_showdown_exposes_EU_capitals’.pdf"
+        ],
+        [
+          "2026-07-22",
+          "Europe’s 27 leaders to take on AI — finally",
+          "data/pdfs/20260722_1907_Europe’s_27_leaders_to_take_on_AI_—_finally.pdf"
+        ],
+        [
+          "2026-07-22",
+          "Trump threatens retaliatory strikes on key Iranian infrastructure as",
+          "data/pdfs/20260722_2345_Trump_threatens_retaliatory_strikes_on_key_Iranian.pdf"
+        ],
+        [
+          "2026-07-23",
           "Pro Daily Headlines",
-          "data/pdfs/20260722_0031_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20260723_0031_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-07-22",
-          "Trump says midterms won’t impact his Iran war plan",
-          "data/pdfs/20260722_0502_Trump_says_midterms_won’t_impact_his_Iran_war_plan.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260721_1348_Parliament’s_China_conundrum.pdf",
-        "data/pdfs/20260721_1937_What_Andy_Burnham’s_new-look_Cabinet_says_about_UK.pdf",
-        "data/pdfs/20260721_2223_How_to_fill_EU_coffers__Eurogroup_chief_has_invent.pdf",
-        "data/pdfs/20260722_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260722_0502_Trump_says_midterms_won’t_impact_his_Iran_war_plan.pdf"
-      ]
-    },
-    {
-      "sender": "ジェトロ",
-      "short": "ジェトロ",
-      "color": "GRN",
-      "count": 1,
-      "bullets": [
-        "ジェトロ・メンバーズ向けにアジア大洋州13か国の貿易投資動向を動画で解説するWEB講座を配信開始",
-        "中国、香港、台湾、韓国、シンガポール、タイ、マレーシア、インドネシア、フィリピン、ベトナム、ラオス、インド、オーストラリアの最新産業とビジネス動向をカバー",
-        "ジェトロ海外事務所の駐在員および調査部員が2025年6月～2026年3月の公表資料を基に解説",
-        "配信期間は7月21日から10月21日まで、申込締切は10月15日"
-      ],
-      "subjects": [
+          "2026-07-23",
+          "Greece derails EU’s Russia sanctions plan",
+          "data/pdfs/20260723_0316_Greece_derails_EU’s_Russia_sanctions_plan.pdf"
+        ],
         [
-          "2026-07-21",
-          "ジェトロ・メンバーズニュース第471号",
-          "data/pdfs/20260721_1129_ジェトロ・メンバーズニュース第471号.pdf"
+          "2026-07-23",
+          "‘Falling apart’: Trump’s Boeing deal hits turbulence with Beijing",
+          "data/pdfs/20260723_0658_‘Falling_apart’__Trump’s_Boeing_deal_hits_turbulen.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260721_1129_ジェトロ・メンバーズニュース第471号.pdf"
+        "data/pdfs/20260722_1402_Russian_sanctions_season_finale.pdf",
+        "data/pdfs/20260722_1406_Planemakers_flex_their_muscles_at_Farnborough.pdf",
+        "data/pdfs/20260722_1635_Post-Orbán_sanctions_showdown_exposes_EU_capitals’.pdf",
+        "data/pdfs/20260722_1907_Europe’s_27_leaders_to_take_on_AI_—_finally.pdf",
+        "data/pdfs/20260722_2345_Trump_threatens_retaliatory_strikes_on_key_Iranian.pdf",
+        "data/pdfs/20260723_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260723_0316_Greece_derails_EU’s_Russia_sanctions_plan.pdf",
+        "data/pdfs/20260723_0658_‘Falling_apart’__Trump’s_Boeing_deal_hits_turbulen.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "PRP",
+      "color": "GRN",
       "count": 1,
       "bullets": [
-        "中国の飲料大手「蜜雪氷城」がビール工場を建設するなど、アジア地域での日本企業の事業展開が活発化",
-        "韓国銀行が基準金利を3年半ぶりに引き上げるなど、アジア主要国での金融引き締めの動き",
-        "米国のトランプ大統領がカナダの乳製品に50%の追加関税を発動し、北米地域での通商摩擦が深刻化",
-        "欧州委が外国補助金規則の簡素化と輸入監視システムの見直しで、過剰生産対策を強化",
-        "ジェトロが日独オープンイノベーションフォーラムを開催するなど、国際的な企業連携とイノベーション促進の取組"
+        "中国のGDP成長率が上半期4.7％を達成し、ハイテク産業への投資が好調",
+        "インド政府が半導体産業支援策「Semicon 2.0」と携帯電話製造スキームを新たに承認",
+        "日本が対米直接投資残高で7年連続首位、2025年末時点で5兆8,600億ドルに到達",
+        "中国のEV車が新車登録の約半数を占め、新エネルギー車産業が急速に成長",
+        "TSMCが米国投資を2,650億ドルに拡大し、米台協力が深化"
       ],
       "subjects": [
         [
-          "2026-07-21",
-          "「ジェトロ・ビジネス短信」2026/07/21",
-          "data/pdfs/20260721_1827_「ジェトロ・ビジネス短信」2026_07_21.pdf"
+          "2026-07-22",
+          "「ジェトロ・ビジネス短信」2026/07/22",
+          "data/pdfs/20260722_1900_「ジェトロ・ビジネス短信」2026_07_22.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260721_1827_「ジェトロ・ビジネス短信」2026_07_21.pdf"
+        "data/pdfs/20260722_1900_「ジェトロ・ビジネス短信」2026_07_22.pdf"
       ]
     }
   ]
