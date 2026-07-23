@@ -488,7 +488,7 @@ def _load_en_intel_title_map() -> dict:
     # カードブロック全体を切り出してから、その中だけでタイトルを抽出する
     card_pattern = re.compile(r'<div class="v2-card"(.*?)</div>\s*(?=\n<div class="v2-card"|</div>)',
                               re.DOTALL)
-    ts_pattern   = re.compile(r"openFile\(['\"][^'\"]*?/(\d{8}_\d{4}_)")
+    ts_pattern   = re.compile(r'data-url="[^"]*?/(\d{8}_\d{4}_)')
     title_pattern = re.compile(r'<div class="v2-title">(.*?)</div>', re.DOTALL)
 
     for m in card_pattern.finditer(content):
@@ -527,13 +527,29 @@ def _extract_en_sidebar() -> str:
     # 英語 UI ラベルを日本語に置換（メール件名はそのまま）
     sidebar = sidebar.replace("Key Takeaways",              "今日のポイント")
     sidebar = sidebar.replace("Source Emails",              "関連メール")
-    sidebar = sidebar.replace("No automotive-relevant emails today.",
-                              "本日の自動車関連メールはありません。")
+    sidebar = sidebar.replace("No automotive-relevant intelligence today.",
+                              "本日の自動車関連インテリジェンスはありません。")
     sidebar = re.sub(r"~1 min read",     "~1 分",   sidebar)
     sidebar = re.sub(r"~(\d+) min total", r"合計 ~\1 分", sidebar)
-    # Type B の href が data/pdfs/... なので docs/jp/ からは ../data/pdfs/... に変換済み
-    # openFile の第1引数を ../ 付きに修正（Type B は docs/en/ 基準で書かれている）
-    # Type B は既に "../data/..." 形式で書いているので変更不要
+
+    # v2-summary-block の本文を rolling JSON の JP 要約（toyota_summary）に置換
+    rolling_path = DATA_DIR / "mail_rolling.json"
+    if rolling_path.exists():
+        rolling = json.loads(rolling_path.read_text(encoding="utf-8"))
+        sidebar_ja = rolling.get("toyota_summary", "")
+        if sidebar_ja:
+            paras = [p.strip() for p in sidebar_ja.split("\n\n") if p.strip()]
+            if not paras:
+                paras = [sidebar_ja.strip()]
+            jp_body = "\n".join(f"<p>{_html.escape(p)}</p>" for p in paras)
+            sidebar = re.sub(
+                r'(<div class="v2-summary-block">).*?(</div>)',
+                lambda m: m.group(1) + jp_body + m.group(2),
+                sidebar,
+                flags=re.DOTALL,
+                count=1
+            )
+
     return sidebar
 
 
@@ -555,7 +571,7 @@ def update_intelligence():
     <div class="v2-sb-sub">{DATETIME_JP}</div>
   </div>
   <div class="v2-sb-body">
-    <div class="v2-summary-block"><p>本日の自動車関連メールはありません。</p></div>
+    <div class="v2-summary-block"><p>本日の自動車関連インテリジェンスはありません。</p></div>
   </div>
 </div>"""
 

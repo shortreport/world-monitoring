@@ -701,8 +701,15 @@ def patch_from_json(html: str, data: dict) -> str:
     from datetime import datetime, timezone, timedelta
     JST = timezone(timedelta(hours=9))
 
-    # ── 更新日時 ──────────────────────────────────────────────────────────
-    now_str = datetime.now(JST).strftime("%Y-%m-%d")
+    # ── 更新日時・曜日 ────────────────────────────────────────────────────
+    now = datetime.now(JST)
+    now_str = now.strftime("%Y-%m-%d")
+    en_weekdays = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
+    en_day = en_weekdays[now.weekday()]
+    html = re.sub(
+        r'(<div class="header-date">)[^<]*(</div>)',
+        rf'\g<1>{en_day}\g<2>', html
+    )
     html = re.sub(
         r'(Updated:\s*)\d{4}-\d{2}-\d{2}(\s*JST)',
         rf'\g<1>{now_str}\2', html
@@ -824,13 +831,33 @@ def main():
         print("[WARN] midterm_latest.json が見つかりません。日時のみ更新します。")
         from datetime import datetime, timezone, timedelta
         JST = timezone(timedelta(hours=9))
-        now_str = datetime.now(JST).strftime("%Y-%m-%d")
+        now_fb = datetime.now(JST)
+        now_str = now_fb.strftime("%Y-%m-%d")
+        en_weekdays = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
+        en_day = en_weekdays[now_fb.weekday()]
+        html = re.sub(r'(<div class="header-date">)[^<]*(</div>)', rf'\g<1>{en_day}\g<2>', html)
         html = re.sub(r'(Updated:\s*)\d{4}-\d{2}-\d{2}(\s*JST)', rf'\g<1>{now_str}\2', html)
 
     os.makedirs(os.path.join(base, "docs", "en"), exist_ok=True)
     with open(en_path, "w", encoding="utf-8") as f:
         f.write(html)
     print(f"Done! Written to {en_path}")
+
+    # ── JP midterm.html の曜日・日時を更新 ──────────────────────────────────
+    jp_path = os.path.join(base, "docs", "jp", "midterm.html")
+    if os.path.exists(jp_path):
+        from datetime import datetime, timezone, timedelta
+        JST = timezone(timedelta(hours=9))
+        now_jp = datetime.now(JST)
+        jp_weekdays = ["月曜日","火曜日","水曜日","木曜日","金曜日","土曜日","日曜日"]
+        jp_day = jp_weekdays[now_jp.weekday()]
+        jp_date = now_jp.strftime("%Y-%m-%d")
+        jp_html = open(jp_path, encoding="utf-8").read()
+        jp_html = re.sub(r'(<div class="header-date">)[^<]*(</div>)', rf'\g<1>{jp_day}\g<2>', jp_html)
+        jp_html = re.sub(r'(最終更新:\s*)[^\n<&]+', rf'\g<1>{jp_date} JST', jp_html)
+        with open(jp_path, "w", encoding="utf-8") as f:
+            f.write(jp_html)
+        print(f"Done! Written to {jp_path}")
 
     if not args.no_push:
         from datetime import datetime, timezone, timedelta

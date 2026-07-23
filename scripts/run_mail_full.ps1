@@ -22,9 +22,9 @@ if ($LASTEXITCODE -ne 0) {
     "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] mail_slides.py FAILED ($LASTEXITCODE)" | Out-File $LOGFILE -Append -Encoding UTF8
 }
 
-# 3. Type B intelligence.html 生成
+# 3. Type B intelligence.html 生成（デプロイは Type C push 後に一括実行するため --no-deploy）
 "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] make_en_intelligence.py 実行中..." | Out-File $LOGFILE -Append -Encoding UTF8
-& $PYTHON "$BASE\make_en_intelligence.py" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
+& $PYTHON "$BASE\make_en_intelligence.py" --no-deploy 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
 if ($LASTEXITCODE -ne 0) {
     "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] make_en_intelligence.py FAILED ($LASTEXITCODE)" | Out-File $LOGFILE -Append -Encoding UTF8
 }
@@ -33,13 +33,13 @@ if ($LASTEXITCODE -ne 0) {
 "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] update_type_c.py --only intelligence 実行中..." | Out-File $LOGFILE -Append -Encoding UTF8
 & $PYTHON "$BASE\update_type_c.py" --only intelligence --no-push 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
 
-# 5. Type C git push
+# 5. Type C git push + デプロイ（B/C 両方の push が終わった後に一括トリガー）
 "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] Git push 中..." | Out-File $LOGFILE -Append -Encoding UTF8
 Set-Location $BASE
 & git add docs/jp/intelligence.html 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
 $diff = & git diff --staged --quiet 2>&1; $changed = ($LASTEXITCODE -ne 0)
 if (-not $changed) {
-    "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] JP intelligence 変更なし。スキップします。" | Out-File $LOGFILE -Append -Encoding UTF8
+    "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] JP intelligence 変更なし。" | Out-File $LOGFILE -Append -Encoding UTF8
 } else {
     $ts = Get-Date -Format 'yyyy-MM-dd HH:mm JST'
     $msg = "Intelligence update (JP): $ts"
@@ -52,7 +52,8 @@ if (-not $changed) {
         & git push 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
     }
     "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] Push 完了" | Out-File $LOGFILE -Append -Encoding UTF8
-    & pwsh -NonInteractive -ExecutionPolicy Bypass -File "$BASE\scripts\trigger_deploy.ps1" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
 }
+# B/C 両方の push 完了後にデプロイを一括トリガー
+& pwsh -NonInteractive -ExecutionPolicy Bypass -File "$BASE\scripts\trigger_deploy.ps1" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
 
 "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] DONE" | Out-File $LOGFILE -Append -Encoding UTF8

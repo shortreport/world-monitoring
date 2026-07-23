@@ -16,6 +16,11 @@ try {
 }
 
 # --- Type B (EN): home.html 生成 ---
+if (-not $env:ANTHROPIC_API_KEY) {
+    try {
+        $env:ANTHROPIC_API_KEY = (Get-ItemProperty 'HKCU:\Environment' -Name ANTHROPIC_API_KEY -ErrorAction Stop).ANTHROPIC_API_KEY
+    } catch {}
+}
 "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] Type B home 生成中..." | Out-File $LOGFILE -Append -Encoding UTF8
 try {
     & $PYTHON "$BASE\generate_en_home.py" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
@@ -52,7 +57,7 @@ if (-not $changed) {
     "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] B/C Push 完了" | Out-File $LOGFILE -Append -Encoding UTF8
 
     # --- GitHub Pages デプロイ ---
-    & powershell -NonInteractive -ExecutionPolicy Bypass -File "$BASE\scripts\trigger_deploy.ps1" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
+    & pwsh -NonInteractive -ExecutionPolicy Bypass -File "$BASE\scripts\trigger_deploy.ps1" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
 }
 
 "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] DONE" | Out-File $LOGFILE -Append -Encoding UTF8

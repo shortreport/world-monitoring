@@ -100,6 +100,9 @@ pyvenv.cfg
 前回の入力データ.json
 世界*.json
 
+# ── 英語学習サイト プロトタイプ（第三者記事本文を含むため非公開）──
+eng_study_app/data/
+
 # ── 使用しないスクリプト（ルートに散在）────────────────────────
 *analyze_gemini.py
 *query.py

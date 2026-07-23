@@ -1,4 +1,4 @@
-$BASE   = "C:\Users\shondo\Desktop\agent_project"
+﻿$BASE   = "C:\Users\shondo\Desktop\agent_project"
 $PYTHON = "$BASE\venv\Scripts\python.exe"
 $env:PYTHONUTF8 = "1"
 
@@ -50,7 +50,7 @@ if (-not $changed) {
     }
     "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] B/C Push 完了" | Out-File $LOGFILE -Append -Encoding UTF8
 
-    & powershell -NonInteractive -ExecutionPolicy Bypass -File "$BASE\scripts\trigger_deploy.ps1" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
+    & pwsh -NonInteractive -ExecutionPolicy Bypass -File "$BASE\scripts\trigger_deploy.ps1" 2>&1 | Out-File $LOGFILE -Append -Encoding UTF8
 }
 
 "[$((Get-Date -Format 'yyyy/MM/dd HH:mm:ss'))] DONE" | Out-File $LOGFILE -Append -Encoding UTF8

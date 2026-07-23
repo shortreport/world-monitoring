@@ -716,7 +716,7 @@ document.addEventListener('keydown',function(e){{if(e.key==='Escape')closeModal(
 
 
 # ── git + deploy ──────────────────────────────────────────────────────────────
-def git_push_and_deploy(msg: str):
+def git_push_and_deploy(msg: str, deploy: bool = True):
     def run(cmd): subprocess.run(cmd, cwd=str(BASE))
     run(["git", "add",
          "docs/en/intelligence.html",
@@ -733,6 +733,9 @@ def git_push_and_deploy(msg: str):
         run(["git", "fetch", "origin", "main"])
         run(["git", "merge", "-X", "ours", "origin/main", "--no-edit"])
         subprocess.run(["git", "push"], cwd=str(BASE))
+    if not deploy:
+        print("[Deploy] --no-deploy 指定のためスキップ（run_mail_full が後でトリガーします）。")
+        return
     req = urllib.request.Request(
         "https://api.github.com/repos/shortreport/world-monitoring/actions/workflows/update.yml/dispatches",
         data=b'{"ref":"main"}',
@@ -754,6 +757,8 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--reprocess", action="store_true",
                         help="最近3日分のHTMLを画像付きで強制再生成（rolling JSON更新なし）")
+    parser.add_argument("--no-deploy", action="store_true",
+                        help="git push のみ行い GitHub Actions デプロイをトリガーしない（run_mail_full から呼ぶとき用）")
     args = parser.parse_args()
 
     register_fonts()
@@ -915,7 +920,7 @@ def main():
 
     # ── git + deploy ──────────────────────────────────────────────────────────
     print("\n[Git] コミット＆プッシュ中...")
-    git_push_and_deploy(f"EN Intelligence: {now_str}")
+    git_push_and_deploy(f"EN Intelligence: {now_str}", deploy=not args.no_deploy)
 
 
 if __name__ == "__main__":
