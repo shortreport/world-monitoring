@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24 00:57:58",
+  "generated_at": "2026-07-24 08:01:19",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-24 00:57:06",
+      "last_checked": "2026-07-24 08:00:14",
       "items": [
         {
           "uid": "289af08766db",
@@ -2019,8 +2019,78 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-24 00:57:33",
+      "last_checked": "2026-07-24 08:00:39",
       "items": [
+        {
+          "uid": "f80dd54cc4d8",
+          "date": "2026-07-23",
+          "title": "Senate Commerce Committee Passage of the Connected Vehicle Security Act - The Auto Channel",
+          "summary": "S.4429（米国接続車両安全保障法）は、Senate Commerce Committee（上院商業委員会）によって可決された法案で、接続された自動車のサイバーセキュリティ要件を確立し、車両から収集されるデータの保護と安全な通信規格の実装を規制する内容となっています。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU2ZLZjJ1QTdqZkhLcE9tY1lGeTZtbUd4XzQzMHJuZlpSbnRkR1hfeGdxN3RHcVkzQkE3WHF1YjBhN2VNZWN4MUxmZzk2d3BkNDhtLUFjM2hwSlpzazlmaU1tTk13bTBYbF9EUy1heFZVOXkwb1VpWUtOZk1KTEFXWHBXWTVRaFplRVFOUDl6NUFBN0xGS3d3Y3VpbDNWTkY4S0F4TDdzTmRqaDVSY0ZlNG0zdnNfVTdSYTI3cGx1MXRkdw?oc=5",
+          "added_at": "2026-07-24 08:00:24"
+        },
+        {
+          "uid": "edc4d77a3183",
+          "date": "2026-07-23",
+          "title": "Ban on connected tech, auto investors advances in US Senate - Alton Telegraph",
+          "summary": "申し訳ありませんが、提供いただいたテキストには実質的な記事内容が含まれておらず、タイトルのみで本文がないため、具体的な要約を作成することができません。記事の本文をご提供いただければ、S.4429に関連した日本語の要約をお作りします。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbVdMV0VhLVRJTlpiNEFpcFI0blBfXzcwNlFwQ1djc1EybWVfS1hUUHgzVlEtVWFwSHphNDBYdzJ3UjEyX1pkM1dxN3d6UDlXVTVWOGI1dDdJQ0FMUGNWc1g3UklJVUk3ZnF3aC1LMXdQdFhCdnNrTVBubXhKYnZsN3hPMUdzdWRtS1JzaVZjZw?oc=5",
+          "added_at": "2026-07-24 08:00:24"
+        },
+        {
+          "uid": "124084efa7b9",
+          "date": "2026-07-23",
+          "title": "Elissa Slotkin’s Chinese Car Ban Advances out of US Senate - WJR-AM",
+          "summary": "# 要約\n\n米国の上院議員エリッサ・スロットキンが主導する中国車禁止法案（S.4429）が米国上院を通過し、中国製または中国資本の自動車の米国内での販売や走行を禁止することを目指しています。この法案は国家安全保障上の懸念に対応するものであり、次段階として下院での審議に進む見通しです。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT0VWOUt6eEtxeWlUaTFSYlZibmZRLTEwNmRnYTh3RmZxaFdXaU8xY3BzcXAwcU00UXhnWnRYVWk5aWlFUG9qdTZiR2hsV3dVeF92TE9ZMGZjQzN2Ui1ydHZHc0JZdTZQaFFBVjNlOS1NQTh6UXVnQmxFT1NsN1ZiT1U5U2tKTW1ZOXg5MjlYdE84WlE?oc=5",
+          "added_at": "2026-07-24 08:00:24"
+        },
+        {
+          "uid": "249dfd2f7a0e",
+          "date": "2026-07-23",
+          "title": "US senators clash over scope of Chinese connected-vehicle ban - South China Morning Post",
+          "summary": "米国の議員らはS.4429法案をめぐり、中国製コネクテッドカー（接続車両）の規制範囲について対立しており、一部は完全禁止を主張する一方で、他方は特定の機能のみの規制を支持しています。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGwtTFBfZmhmWU42RjZuZXdvN0RYSlppZTNnWHBSWUotcEppd3FkU0hDYXFidzlSZnFrT2NhN1RhNGpzSEpnalJ5THlwZ3JnVC00bXNWRGJENWlFUEtIUFBlNHRTYm1sVjU1TDZPc25ZSC1nUlpUdTFIZ0tuWHpWUDBORmtldno1dUJhWUtKWXZDMk5mOTVLMGN3WjlzZ092QjBvOXZiVHpQcThOa2lCQXMzNNIBswFBVV95cUxNaHdUOVlFRnhqX24yTW9HQVgtanN3MFQ3Sm1sSENIOTh5ZmZDUjl4Y1YxTVZzMlhPZjJEVHdIdHg5OXRuc2JPbzZwN0xqU19aVS1lRTBUU1RkNnNBQmhHX0R3dG1FZzVRNlFXUVVYLVg5VkZYZ3VyZmhUdi1ldTdzdXpaTGVLcTgtZks4YWJ1VEVDSXlJMkplVU9aX2hlMDFkSGo4SlJZODRXRjMyajIxc3F5cw?oc=5",
+          "added_at": "2026-07-24 08:00:24"
+        },
+        {
+          "uid": "d769d0c7117c",
+          "date": "2026-07-23",
+          "title": "Ban on connected tech, auto investors advances in US Senate - Midland Daily News",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国やロシアなどの敵対的国家による車両の遠隔操作やデータ盗取を防ぐため、これらの国の企業による接続車両技術への投資を禁止し、安全保障上の脅威を排除することを目的としている。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZm5Eb3JRV3FOenZINWd6a0U2LTR5VGpHa2l3ZE51LWVBUzRlWXg2WTZYQ2phb2VjTjM1OEgyb1VGSGU2SDRpYnFNMjMtR3JrdUhXVFVjVHFTRm9EZ1JKSE5qRDc3ZlRFTjk1Z0JoQWluMURFMlFjb05XMjJ5QmpNdkNwQ3NOOG8wSmJCcQ?oc=5",
+          "added_at": "2026-07-24 08:00:24"
+        },
+        {
+          "uid": "2b633e19de78",
+          "date": "2026-07-23",
+          "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from the US - The American Bazaar",
+          "summary": "米国の上院委員会が、中国との自動車産業の結びつきに基づいて外国企業を米国市場から排除する可能性のある法案を可決し、メルセデス・ベンツなどの企業が規制対象となる可能性が示唆されている。",
+          "source": "上院議員",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc0t3R3VoQ1hfV3pWcHJOVXh2ZmJxdzY1NVRWSkRoUkRiMXpWbHUza29iNE5qZ0pQZkpDTnZXMVJEZzV0Y0I5RTlDZklTWDdYVzdUd21QUk1xVmNjRktOSFozYlptSjNQR0I1RV9lXzdyc3I2bjRGaENGeFVfR2c3LWU0alA4Mm9ZLTVaa3R6aUhSeG8?oc=5",
+          "added_at": "2026-07-24 08:00:24"
+        },
+        {
+          "uid": "51d85d522680",
+          "date": "2026-07-23",
+          "title": "Mercedes Faces A US Ban Over Chinese Ties, But Ted Cruz Says Not A Chance - Carscoops",
+          "summary": "中国とのつながりを理由にメルセデス・ベンツが米国での販売禁止に直面する可能性があるが、テッド・クルーズ上院議員はこれに反対の立場を示している。S.4429法案は外国の敵対的勢力との関係を持つ自動車メーカーの米国市場での活動を制限することを目的としている。",
+          "source": "上院議員",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rbmhvTXhWQWdYdHFxMzlHc2czUnZWdi1DcEduWl9CaE9mMHhwQjRPM2tXXzZwQkVUMldBWFFwbnQ4OXh3SnppT2ZMMWFnNGZqSC1RcE44ejExN29meWpaMzdXb2NQeTZvdzBsQ0t6VkEyd0p6?oc=5",
+          "added_at": "2026-07-24 08:00:24"
+        },
         {
           "uid": "f3e52c30e78d",
           "date": "2026-07-23",
@@ -3950,76 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT1FvV0lZdFR3R2FPemkyWjVOVVVnZDBaLUZIOXZOQU9EZWtIVkE5MFQwX0JiXzVSLVZ5QUFTc2lXOUx4TkhmaENVLUd0dXd3ejMzek1aN2IyNEdXQWI3UFZCdGdhMzZPNS1Db25vZnRReHlibkVwWnYtcXRyNXlZTFpqcjlfR2ZEejBqZlhQQ3lITGJSVlNwelh1SnBHQ2gzM0RWRHlsbDhVN2M4d3VxeEotbzF1bm9sMV9zYlZNNEZmaVlHTXo0bEF3?oc=5",
           "added_at": "2026-06-08 23:54:23"
-        },
-        {
-          "uid": "14dd102ae516",
-          "date": "2026-05-23",
-          "title": "Global automakers face China threat as US eyes EV ban - MSN",
-          "summary": "米国はEV産業における中国の支配を懸念し、S.4429法案を含む規制を通じて中国製EVやバッテリー技術の導入を制限しようとしており、これにより世界的な自動車メーカーは中国との競争激化と米国市場での事業戦略の見直しを迫られている。",
-          "source": "自動車メーカー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdUdiT3NfR2lMOTMyc2VUZlJTTFJvTmJjeFc3TWlscWVVdmlXdjR6QmNsYmlQeUxLRURwYm5wNFd3Zi1ydEFhYktmT2Y2eWxyU29lX3Z2RWRxdVVxb0FrWWw4YUpGZGFUM2VOQjR1WDBHbnowVFYybGd5VW0xU2NBdXdyQVA0SDRPS1RaZndySVZTNFZUaE9YOFpuOHJsZTA2X2pON0JVX0dhei1QaWYtRzM0UW5MZmRMVjhyME1ESFVYZWdVNjR3MHpoanBIVkRMUC1Nei1rMGtsb1ZGMWwyeHFrU0pxMUlGdmVR?oc=5",
-          "added_at": "2026-06-07 19:19:02"
-        },
-        {
-          "uid": "6afaff0a4b9f",
-          "date": "2026-04-30",
-          "title": "Senators push bipartisan bill to ban Chinese vehicles, tech - MSN",
-          "summary": "米国の超党派議員がS.4429法案を推進しており、中国製自動車および関連技術の米国市場への参入を禁止することを目指しています。同法案は国家安全保障上の懸念に基づいており、中国の自動運転技術やコネクテッドカー技術が米国の重要インフラに対するリスクを構成する可能性があると判断しています。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQM2dVY3lJWWtJaUdkVDdEVkRmRjZDTDZYeHVrbHkzaWFjbDZhX3NoZG1PejBEN1lBbnBvQ25rb0hDUlBzZ2pqaVpiUlNzejBMUTl3dFBsUW5aQlAwX2hvaXVOUWt4TEVYdkRsbmpfQzFKUEVqRUFCY2pyZm1rU0kwbk1Sdll4c3NjWmpqTFNMRlhjTlMydjZRNGwycFV3M3dsVjh6UWRiRWdSSnphcUVta2p1NFQzRHF1MGFVYjNOUktxejNzbjhOcHExdFRlWTVfc0JMMVUxbHZpdWxvNVR2ekJWTQ?oc=5",
-          "added_at": "2026-06-07 01:44:25"
-        },
-        {
-          "uid": "724340dff166",
-          "date": "2026-03-19",
-          "title": "How Chinese automakers can use Canada to prepare for selling cars in U.S. - Automotive News",
-          "summary": "申し訳ありませんが、記事の具体的な内容が提供されていないため、要約することができません。タイトルのみでは「米国接続車両安全保障法（S.4429）」との関連性や、カナダを通じた中国自動車メーカーの米国進出戦略の詳細を判断できません。記事の本文をご提供いただければ、的確な要約をお作りできます。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ2RTWDI5X1BpY3Q0THdNMF9NU1dJdk1JOFlxLWp5SFN6bEhJM1llMUM5TXd0alZWUGo5UjNNaEU1X3M4cmZyelppckdQNGt5OGdzNDlYal9QTjlTVHRqLWdpSVhnSWJ0Q2N2SnRpRmlabUJwSjVyeURTckdjcTNjMW1n?oc=5",
-          "added_at": "2026-06-07 01:44:25"
-        },
-        {
-          "uid": "89c7fa99d5c4",
-          "date": "2026-06-04",
-          "title": "Sino-Euro Auto Alliance Unlocks Opportunities - chinatoday.com.cn",
-          "summary": "申し訳ございませんが、提供いただいたテキストには実質的な記事内容がなく、タイトルのみであるため、S.4429との関連性を含めた要約を作成することができません。記事の本文をご提供ください。",
-          "source": "自動車部品業界",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWJCTHR6Tm9BNzVvRmRnakhXM2dXazM0bmF1SGtPUS10ZVdac3RVUmZPWG5xMXNwNFJYcko4Ul9DMFVCTjMxYk1lZUFhWmdwY01VV1FKQUZERzFvWVBqb2w1ZVgyRTNYZG5fN0o5aFkyMTJWYmVXa1gwUEFOOW8zbXgxTmM?oc=5",
-          "added_at": "2026-06-06 18:32:13"
-        },
-        {
-          "uid": "c45b114dae46",
-          "date": "2026-06-05",
-          "title": "US Lawmakers Propose Bills Blocking Chinese Connected Vehicles - asatunews.co.id",
-          "summary": "米国の議員らがS.4429法案を提案し、中国製のコネクテッドカーが米国市場に参入することを禁止することで、国家安全保障上の脅威に対処しようとしている。この法案は、中国の自動車メーカーによるデータ収集や遠隔制御機能を通じた潜在的な監視リスクを防ぐことを目的としている。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4U3hNYTlyeGlDMEY0ei1FUXNHV2hINmE2U1ZqeUVuQTFWWE1uS3NTVTE5dmdhSXNBQ0Fod2pGSkpXQUswUVMzamROY2hmNXIwLWlUdTdWbjRxVC10MDBwQ1lEVmVLS3ZTZ010clVrLXlZNTBKRnJKYUZQWmtzQ0U?oc=5",
-          "added_at": "2026-06-06 04:16:33"
-        },
-        {
-          "uid": "91be28ea063c",
-          "date": "2026-06-05",
-          "title": "Proposed U.S. bill targets Canadian drivers in Chinese cars - driving.ca",
-          "summary": "米国の提案法案S.4429は、中国製車両を運転するカナダドライバーを対象としており、中国メーカーが製造または設計した車両の米国への輸入や販売を制限することを目指しています。この法案は国家安全保障上の懸念から、中国関連の自動車技術が北米市場に浸透することを防ぐ狙いがあります。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjczSzBfX1ZzRVpKZlN6ZDlRVkZUa0MxTDFkSUtnMFcteS0zUWVOV3c4bGVSVDhZNGktZkhpX1dCMlFPTzJlczJ2VUZSZUN6SHJhUzdyN1YtOERFWFk5dnN0SmVoWU1IUEVGam9PRnFXanZZWS1yb3FSMHh3dS1jQ1h4X1lBS0pna2FBU3JjV1hHUVFVTVg1SzB2aw?oc=5",
-          "added_at": "2026-06-06 04:16:33"
-        },
-        {
-          "uid": "99a450016eea",
-          "date": "2026-05-27",
-          "title": "The BUILD America 250 Act Moves Forward in the House - Alliance for American Manufacturing",
-          "summary": "申し訳ありませんが、提供していただいたテキストが記事の完全な内容を含んでいないため、具体的な要約ができません。タイトルと出典のみで本文内容がないため、米国接続車両安全保障法（S.4429）との関連性や具体的な要点を判断することができません。記事の本文を提供していただければ、お応えできます。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFhoQkM0bHVZRktCdEhFNnZ2cjdJNnNBYTd5TmNIZThxbVBZYnhiTTR0OWNYb1R0U3R0NGVmRFVFblVnTWVXVlZaaFpUelpyOHNqRkV4LWUzS3IwQkJkZ0pjak1VRnVaX0xId2ppTnB1LURiWTNFNVNsWHhvSnBSMk5BU3ZkY2F1aE9QZzVZR1V0TGI2MGJ4VlhsQjU?oc=5",
-          "added_at": "2026-06-05 04:52:51"
         }
       ]
     },
@@ -4030,8 +4030,108 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-24 00:57:58",
+      "last_checked": "2026-07-24 08:01:19",
       "items": [
+        {
+          "uid": "87d08751e845",
+          "date": "2026-05-18",
+          "title": "THE WEEK OF MAY 18, 2026 - AIP.ORG",
+          "summary": "申し訳ありませんが、提供していただいたテキストには実質的な内容が含まれておらず、タイトルと日付、ウェブサイト名のみとなっているため、「中国レアアース輸出管理」に関する具体的な要約を作成することができません。\n\n記事の本文内容をご提供いただければ、要約させていただきます。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KTEdXWEtjR2hMa2p4dExNV0FXUV9wU2pTeVdza1EwOHEzYnpsb21xcmlTeUdXT1F6MlBtMUJRRWVaZVJqUDJyRTFGVGtzcFRtTU13amtPVjVYOU0?oc=5",
+          "added_at": "2026-07-24 08:00:58"
+        },
+        {
+          "uid": "32a6356fe38a",
+          "date": "2026-07-23",
+          "title": "China Rare Earth Price Index Holds at 270.4-But Investors Should View It as a Policy Signal, Not a Market Price - Rare Earth Exchanges",
+          "summary": "中国のレアアース価格指数が270.4で据え置かれたが、これは市場価格というより政府の政策シグナルと見なすべきであり、中国政府がレアアース輸出を戦略的に管理していることを示唆している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZDZheVlpOXlmU2NRZ1gxM3pJUjRsQXp5VnJzc2RoendjX3Uwemp4QnhyOEFmUmoxQkI3LXRDS24tdnJSWEFtVHFKZGlsaDM4RzV5SXdSRjZRY05NTFRUU2dnQW9FRUJMOHdjUkVmNUdmM3RSRDhNZk9WblFJaS1zZDNEalFLbWRvQ012TWJIS3pTWGxmWUY0NXBiMDRJTUswYzljT3h0RDVZY1lQV1RKLXN0Wi1Na0wtOUQtUTFJTVFZd2lodU1RdzdCU2l5LWNXQkNJZTlGcFpPQzBLckFpRQ?oc=5",
+          "added_at": "2026-07-24 08:00:58"
+        },
+        {
+          "uid": "dcc985f6a41d",
+          "date": "2026-06-23",
+          "title": "China Strikes Back at the Pentagon’s Rare Earth Bet - Foreign Policy in Focus",
+          "summary": "中国はレアアース産業の支配力を強化するため、採掘制限や輸出管理を厳格化させることで、米国防総省のレアアース自給化戦略に対抗している。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HTEpCamptNzA1QWY5cFhXcF9fdUZQNVVNZmtaSkREbGI0ZzFlMHMwUXE0X09INDBMOEFLRUlxcGduX19kSURDQWxGQlBsVnYxTVV3LUtOSl81N3hJdW1qaG9GcElHclZVU1lYSjRoVXFwWWVEaTlF?oc=5",
+          "added_at": "2026-07-24 08:00:58"
+        },
+        {
+          "uid": "ea5ade8386ab",
+          "date": "2026-07-21",
+          "title": "ERI, Cyclic Materials partner to recover and recycle rare earths from e-waste",
+          "summary": "米国の企業ERI and Cyclic Materialsが電子廃棄物からレアアースを回収・リサイクルする事業を開始し、北米最大級の商業規模のレアアース リサイクル供給源ポートフォリオの構築を目指している。これは中国への依存度が高いレアアース供給を多角化する取り組みとして機能する。",
+          "source": "Mining.com",
+          "source_type": "industry",
+          "url": "https://www.mining.com/eri-cyclic-materials-partner-to-recover-and-recycle-rare-earths-from-e-waste/",
+          "added_at": "2026-07-24 08:00:58"
+        },
+        {
+          "uid": "9cf89d17edfc",
+          "date": "2026-07-21",
+          "title": "Permitting reform key to challenging China’s critical minerals dominance: US mining lawyer",
+          "summary": "G7は2030年までにレアアースの輸入を単一国家の60%以下に制限することで合意し、中国の支配的地位に対抗するための許可手続き改革が重要な課題とされている。",
+          "source": "Mining.com",
+          "source_type": "industry",
+          "url": "https://www.mining.com/permitting-reform-key-to-challenging-chinas-critical-minerals-dominance-us-mining-lawyer/",
+          "added_at": "2026-07-24 08:00:58"
+        },
+        {
+          "uid": "1db490c35aca",
+          "date": "2026-07-21",
+          "title": "Copper price nearing US record as premium doubles, Shanghai stockpiles drop 82%",
+          "summary": "中国の銅スポット価格プレミアムが急騰し、LME在庫の56%が既にシステムからの流出が決まっており、上海の銅備蓄が82%減少しているが、これは中国によるレアアース等の戦略的資源の輸出管理強化と同様の供給制御戦略を示唆している。中国が銅を含む重要鉱物資源の国内保有を優先させ、国際市場への供給を制限する傾向が強まっていることを反映している。",
+          "source": "Mining.com",
+          "source_type": "industry",
+          "url": "https://www.mining.com/copper-price-nearing-us-record-as-premium-doubles-shanghai-stockpiles-drop-82/",
+          "added_at": "2026-07-24 08:00:58"
+        },
+        {
+          "uid": "1ef86bbfaefa",
+          "date": "2026-07-21",
+          "title": "China’s rare earth clampdown backfired: CSIS analyst",
+          "summary": "中国がレアアースの輸出制限を実施したことで、かえって日本や米国などの同盟国が代替供給網の構築に団結し、中国の長期的な影響力を弱めることになった。",
+          "source": "Mining.com",
+          "source_type": "industry",
+          "url": "https://www.mining.com/chinas-rare-earth-clampdown-backfired-csis-analyst/",
+          "added_at": "2026-07-24 08:00:58"
+        },
+        {
+          "uid": "10d3e2ee95e9",
+          "date": "2026-07-20",
+          "title": "Tactical Resources gets Nasdaq approval; to accelerate Texas rare earths project",
+          "summary": "テキサス州のレアアース鉱床を管理するTactical Resourcesがナスダック上場を承認されたことで、米国内でのレアアース生産体制の構築が加速し、中国への依存低減と供給チェーン多角化に向けた動きが進展する。同社が保有する鉱床は米国内で数少ない生産可能なレアアース資源であり、地政学的リスク対策としての重要性が高まっている。",
+          "source": "Mining.com",
+          "source_type": "industry",
+          "url": "https://www.mining.com/tactical-resources-gets-nasdaq-approval-to-accelerate-texas-rare-earths-project/",
+          "added_at": "2026-07-24 08:00:58"
+        },
+        {
+          "uid": "db2ff892e46d",
+          "date": "2026-07-23",
+          "title": "Americans see China as more advanced on AI than US: Pew survey",
+          "summary": "本記事はAI開発での米国と中国の競争力認識に関するもので、レアアース輸出管理とは直接の関連がないため、要約することができません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/5986888-pew-research-ai-competitiveness-survey/",
+          "added_at": "2026-07-24 08:00:58"
+        },
+        {
+          "uid": "905b89bb2634",
+          "date": "2026-07-23",
+          "title": "China says AI development comes from ‘greater self-reliance and strength’ amid stolen tech claims",
+          "summary": "中国政府はAI開発における技術盗用疑惑に対して「自主自強」による成果だと主張しており、この防衛的な姿勢は米国による技術流出規制が強化される中で、レアアース等の戦略的資源の輸出管理を通じた報復措置の正当化につながる可能性を示唆している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/5986143-china-defends-ai-development/",
+          "added_at": "2026-07-24 08:00:58"
+        },
         {
           "uid": "d425d135a57b",
           "date": "2026-05-06",
@@ -5931,106 +6031,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak8wOUwxUUtSN1E4WUJXUmw2V2ZhNy1JR1hTbTFZZVhIWWlNUHVvUWFwTlJHNVpqeDJRUWVpYlQySWN2QVNmSGVlc091a0NUUmhfTlN3dzVNUnNMeUZpUVFzbHMxQ18zbDAtWlJ1U1M4cDdPRWRHZ2NZY2dVR2t3VDd1Tjc1OUdQWUcwRnRZQ2JORVRwamR5R1ozSzRnOGR3NDE5Wi1pdlFCeUxLd3BiY3g4bzHSAboBQVVfeXFMUEwtanAwWnh4YV9YdmE5VnUxclBVMkZwUU0xYXlTMlFrT1FaMG9ra0FqT1J3WTYyWE5JRXRaUDJWMnhkMDVjaDJ5NUJkcG9VU2JIRC16V0hyT1pVTTQ3TnVCODdxdkg5YzdHZFZVT3hyZGlWTHRJamY5Zm1Bclk2eGd5Y1ZNYkx3NnUzZ1hURjlPVW15QUd1dWVCeGphSHhYZXJKV0k5eGVHNzJvV0h5SWJLNkVYZ2d4UHFR?oc=5",
           "added_at": "2026-07-07 13:32:25"
-        },
-        {
-          "uid": "a4da361dd59e",
-          "date": "2026-07-06",
-          "title": "China’s top ETF is now gold, not stocks",
-          "summary": "中国の最大級ETFが株式から金にシフトしており、各国中央銀行による金購入の増加とともに、金市場への関心が高まっているが、これはレアアース等の戦略的資源に対する中国の輸出管理強化と並行して、金などの希少資源の確保が各国の資源戦略の優先事項となっていることを反映している。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/chinas-top-etf-is-now-gold-not-stocks/",
-          "added_at": "2026-07-07 05:22:23"
-        },
-        {
-          "uid": "0c2b8cb42974",
-          "date": "2026-04-30",
-          "title": "Two Regulations, One Direction: China’s Expanding Economic Security Playbook - Steptoe",
-          "summary": "中国は2023年8月にレアアースを含む重要鉱物の輸出管理規制を強化し、輸出許可要件を厳格化することで経済安全保障を推進しており、これは米国などとの技術・産業競争における戦略的ツールとなっている。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVmZUUjgxUXlWU0xDUVRpM3BsVEh3ZzByekg1blo2ZHotbGRwdzI4UXAtZjM0Rng0V2VzQWZMdWUycHpoMEF1UUdGdkRONDBJaURZVDE2OUlXdG1IWVVKcWE4cHlFcUtZNkdubThzenBLaXc0T1lEb3RtVDZNNUJVNENOQng2a0h1SUlvUTNEaG5uUW1qbGVlbmpoNk9fWXNyR3ZlR2ZrZy11NGplaXp5Nm9FZ2dQMkRSZXVLRUZxV2JWNGR0Tm9nd0lELVZyMVF1Z29ZaGYzYk0weXRBb1RZY01maFdZY3B0?oc=5",
-          "added_at": "2026-07-06 20:12:55"
-        },
-        {
-          "uid": "173913d190ec",
-          "date": "2026-04-10",
-          "title": "Senate Republicans must act now to reverse Biden’s parting gift to China - Washington Examiner",
-          "summary": "バイデン前政権が中国に有利な政策を実施したことを批判する記事であり、共和党議員が中国のレアアース産業や輸出管理関連の政策を是正するために直ちに行動すべきだと主張しています。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOW9sZldINnBmZjJKbi1ocjlXelNvWXpRbzF3ZUFTbmY1Y3lfSkNQVTFpbVJCcHpKWUE3cTBPZ2RaU2xOZWNGX3ZUZ1pHVXJkX0tyWGdqdzdKRXZhbEdaeGhFcDhCaF9sRlZrSV94WHJHODRQLV9XUE5OUmtuNjVqSDFkS1pnZDFzTTlXVGExMlN1Nk5Xb0toZ3RfUjJ4OWdKb1RjbjlPNHJIaTN1RVdwT0o0NHlJWTVwdHc?oc=5",
-          "added_at": "2026-07-06 13:50:18"
-        },
-        {
-          "uid": "8fcd83f7569b",
-          "date": "2026-06-19",
-          "title": "China Critical Minerals Export Controls: Global Supply Chain Impact - Discovery Alert",
-          "summary": "中国がレアアースを含む戦略的鉱物の輸出管理を強化しており、グローバル・サプライチェーンに大きな影響を与えています。この措置は先進国の産業や技術開発に依存する企業に対して供給不足とコスト上昇をもたらす可能性があります。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHhMR2VwNjlReE02blZsdFhYZmNXd0Z1VjZOVEhvWlZjaHNCMEtWMUNzNk0xenlGY1hVWXM1OWN1UHVudFFkSldQbWNDT094MkRkTFNTOTJEUmo5bjJwYkptUVVTOWRBZkRhVDU1QWZCamVVR0w0amhidjBYdkZLck9SM3NlV0hwRnMzU0tSeWhka003Z2dva2NqUQ?oc=5",
-          "added_at": "2026-07-06 04:51:06"
-        },
-        {
-          "uid": "4e72bce5ecd8",
-          "date": "2026-06-18",
-          "title": "Pentagon Backs Phoenix Tailings’ Rare Earth Processing Push in 2026 - Discovery Alert",
-          "summary": "米国国防総省がPhoenix Tailingsのレアアース処理施設の2026年稼働を支援することは、中国のレアアース輸出管理に対抗するため、米国が国内でのレアアース調達体制の構築を急速に進めていることを示唆している。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSlRvT0phNFhMS0lWdFVqUXZZaVdNOUVpdjhneUc3SjdsS1hJY0taRUVuR0Y5THJXU1R2WmpscmNhTjlGZTM4Q2ZQM2h4QTBrQXEydmR4Zm80NGRWUFVkNXhjZmdUZkRVYk8yV3R2RVVrWUotY1NsOXJMYW1sX1VsUWlSckFfay04UmU5cUpmaTl6dUtLZkVLWWZiRE0?oc=5",
-          "added_at": "2026-07-05 23:16:47"
-        },
-        {
-          "uid": "e63d5fbe83ab",
-          "date": "2026-05-16",
-          "title": "Pentagon faces 'crippling' rare earth shortage as China 'tightens controls' - AOL.com",
-          "summary": "米国防総省は中国がレアアース輸出管理を強化していることにより、深刻な供給不足に直面する可能性があり、防衛産業の機能が麻痺する恐れがあると警告している。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbHg3LWxjWnBPR3BlWF9ZcFJWZ1BZRjEzNVM1YWRpZHV3ZkxoLW9XNFBET09zRXRfbnp5MEJteFNZblpxZjZMbFB5S2Y5OUxWejIzT1lRR0x3ZTU3MHZ1UGd2anY2aU53M0tUd3hhcUk5Q1Q1al9qR2JTZVR2R3g3QVJRSjROS04wUzM2Tg?oc=5",
-          "added_at": "2026-07-05 13:39:47"
-        },
-        {
-          "uid": "31f44e7d32a4",
-          "date": "2026-05-15",
-          "title": "Pentagon Deal Team Six: America’s Rare Earth Supply Chain Battle - Discovery Alert",
-          "summary": "# 要約\n\nアメリカ国防総省は中国に依存するレアアース供給チェーンの脆弱性に対応するため、国内調達を強化し供給源の多角化を進めている。これは中国がレアアース輸出管理を戦略的に活用することへの直接的な対抗措置である。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3I5blFLNHhUU0J4LTZkYWtvcHlCOWxvendvSGJRaFRvSVFmQXNITmhHZk5DamZfLWFtN1pITWZKZTFWc1NhY05GNElaRjI1U2VmQUlCWGxtZ3BiMWpMUTZ5Q2pmdVktVHNBVEhRZGFpRDM3RmpRVThRNG5HQWMzRGRkdDU0RnB1?oc=5",
-          "added_at": "2026-07-05 13:39:47"
-        },
-        {
-          "uid": "71a9e3567aea",
-          "date": "2026-06-11",
-          "title": "China's Rare Earth Price Index Holds Near Multi-Year Highs as Heavy Rare Earth Markets Remain Tight-Exponentially Higher Ex-China - Rare Earth Exchanges",
-          "summary": "中国のレアアース価格指数が複数年高値付近で推移しており、重希土類市場の逼迫により、中国域外での価格が指数関数的に上昇していることから、中国の輸出管理による供給制限が国際市場での価格高騰を招いている。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZjRJcjdSZVVHT1dQRXBGcTRVcm1Gams2VWhUR2xHc05fcHc2X1VwOXZEdmYzSWRpQTN1T0Q0U3pnZk1EbWEtWXI1TVJEVEJ3LThMTHJ2QnZLY0R2Ni15cHBiZkpSOUxxRjhwdWI2cE8wem8ybjBiLXowV2pJZjhTVm9oU2I1cC13eWZZMXhBbU1ib245bV9kS0g2SW1nUXlreWlDeFV4YWkxcjlwbVUzV05UaXVIMWI1dHJNYmx2Z3MwNFh2djR1RmZ0eE1STGRPSmdaS0Jfa1h4V2xfTXJVZXZuaVNqUnVHaXd0eERtcFdSVUxRcXpIRg?oc=5",
-          "added_at": "2026-07-05 04:44:28"
-        },
-        {
-          "uid": "e960c66ac079",
-          "date": "2026-06-24",
-          "title": "Rare Earth Minerals Shape Global Economy. How Are Countries Playing Them? - TradingView",
-          "summary": "中国はレアアース生産量の約70%を占め世界市場を支配していますが、地政学的緊張やサプライチェーン懸念から、オーストラリアやインドなどの代替供給国の開発が進められています。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd3VIYlVZVnBqTjFLeF9NdXhZdF85U3RyS1NibGVseFBoMUF0N19DbHgtUjJjc08tNC1DV0d2QnJSQnVKQlpaVmZIZXdDOE5NTDRtUEpJRTVqRndCMnJvWVNTLXR0UHhUQzhFTEhkVVpSVW85SkZrRmRIeHBmTkExOXp0Z3VybWxHTU1rRGpDYkNfRS1qQURFazRJNTdsMlA0MkdhUXg2d1lzM3U1c1o1VlBySnU4ZlJBbGFfQUxuT0Njd3RQalpMTk5Zc0pwVFdicTZR?oc=5",
-          "added_at": "2026-07-04 23:08:16"
-        },
-        {
-          "uid": "0ecd2abe4487",
-          "date": "2026-06-15",
-          "title": "America’s New Critical Minerals Playbook - Time Magazine",
-          "summary": "申し訳ありませんが、提供いただいた内容が「タイトルのみ」で、記事本文が含まれていないため、要約することができません。記事の本文をご提供いただければ、中国レアアース輸出管理の文脈で日本語1〜2文に要約いたします。",
-          "source": "欧米メディア",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzNLT1Q0WU9MVnAwcVJ6WUc3dG9aVjk1eGlhbS1sc1NvMXpXcnlST1FrdU9JeDJuMGVxS29ZckI0aXI4YnVxVC03QXNzX3prQk1VWWdiT3JYNWRfQjg1d0tmQVR3d1JSblkzSDlhT0M3Zk1jaXk3TWRNNFA4X3ZBaXFNZw?oc=5",
-          "added_at": "2026-07-04 18:05:58"
         }
       ]
     }
