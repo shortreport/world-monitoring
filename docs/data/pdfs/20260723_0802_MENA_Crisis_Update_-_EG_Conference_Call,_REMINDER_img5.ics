@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:MENA Crisis Update - EG Conference Call
+DTSTART;VALUE=DATE-TIME:20260723T130000Z
+DTEND;VALUE=DATE-TIME:20260723T140000Z
+DESCRIPTION:Please join Eurasia Group's Senior Analyst for United States\,
+  Noah Daponte-\nSmith\, and Senior Analyst for Iran and Energy\, Gregory B
+ rew\, for an update on\nthe US-Iran conflict following the latest developm
+ ents.\n  * Collapse of the US-Iran deal\n  * What comes next for Hormuz an
+ d oil markets\n  * Regional angle and Houthi risk\n\n\nRegister Here: http
+ s://us02web.zoom.us/webinar/register/WN_vsnl-_rgSumdnxfLe-PkWA\n\nCall-in:
+ \n[Registration for this event is\nrequired](https://us02web.zoom.us/webin
+ ar/register/WN_vsnl-_rgSumdnxfLe-PkWA).  \n  \nAfter registering\, you wil
+ l receive an email with instructions to join the\nmeeting\, including loca
+ l dial-in information and a meeting invitation you can\nadd to your calend
+ ar. Please note you must be logged in from a computer or\nmobile app in or
+ der to ask a question.  \n  \nPlease allow a few minutes before the call t
+ o join the meeting\, and connect\naudio by following the prompts from the 
+ conference call platform.\n\nReplay:\nA recording of this call will be ava
+ ilable on the [Eurasia Group\nportal](https://library.eurasiagroup.net/eve
+ nts/) and mobile app approximately\nthree hours after the event concludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260723T124500Z
+UID:bae6319f-8543-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:bae6319e-8543-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR

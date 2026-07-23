@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:China\, the middle powers\, and the global minerals race - EG Conf
+ erence Call
+DTSTART;VALUE=DATE-TIME:20260723T120000Z
+DTEND;VALUE=DATE-TIME:20260723T130000Z
+DESCRIPTION:Please join Eurasia Group's Director of Commodities\, Timothy 
+ Puko\, in\nconversation with Dan Wang\, Director for China\, and Jesus Ren
+ zullo\, Senior\nConsultant for Energy\, Climate\, and Resources\, for a di
+ scussion about the\nmining powers racing to capitalize on surging global i
+ nterest in minerals.\n  * Beijing's boost to international minerals spendi
+ ng\n  * Limits on the middle powers that want to be mining powers\n  * New
+  policy trends among the upstart mineral producers\n\n\nRegister Here: htt
+ ps://us02web.zoom.us/webinar/register/WN_Bj-TTjK4QcSHk2baSLLSuA\n\nCall-in
+ :\nRegistration for this event is required.  \n  \nAfter registering\, you
+  will receive an email with instructions to join the\nmeeting\, including 
+ local dial-in information and a meeting invitation you can\nadd to your ca
+ lendar. Please note you must be logged in from a computer or\nmobile app i
+ n order to ask a question.  \n  \nPlease allow a few minutes before the ca
+ ll to join the meeting\, and connect\naudio by following the prompts from 
+ the conference call platform.\n\nReplay:\nA recording of this call will be
+  available on the [Eurasia Group\nportal](https://library.eurasiagroup.net
+ /events/) and mobile app approximately\nthree hours after the event conclu
+ des.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260723T114500Z
+UID:060057f5-847c-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:060057f4-847c-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:Europe update - EG Conference Call
+DTSTART;VALUE=DATE-TIME:20260727T133000Z
+DTEND;VALUE=DATE-TIME:20260727T133000Z
+DESCRIPTION:Please join Mujtaba Rahman\, Managing Director for Europe\, Je
+ ns Larsen\,\nPractice Head for Geoeconomics\, and Jan Techau\, Director fo
+ r Europe\, for an\nupdate on European politics and macroeconomics.\n  * UK
+  political outlook: Fiscal and foreign policy under Burnham's government\n
+   * France/Germany: How likely is a Le Pen President? How stable is German
+ y's coalition in light of its recent reform package?\n  * What is the outl
+ ook for EU-China relations? \n\n\nRegister Here: https://us02web.zoom.us/w
+ ebinar/register/WN_NQwf1I1nQ4-TMSx0qGSGIA\n\nCall-in:\nRegistration for th
+ is event is required.  \n  \nAfter registering\, you will receive an email
+  with instructions to join the\nmeeting\, including local dial-in informat
+ ion and a meeting invitation you can\nadd to your calendar. Please note yo
+ u must be logged in from a computer or\nmobile app in order to ask a quest
+ ion.  \n  \nPlease allow a few minutes before the call to join the meeting
+ \, and connect\naudio by following the prompts from the conference call pl
+ atform.\n\nReplay:\nA recording of this call will be available on the [Eur
+ asia Group\nportal](https://library.eurasiagroup.net/events/) and mobile a
+ pp approximately\nthree hours after the event concludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260727T131500Z
+UID:1e9c5ec5-852c-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:1e9c5ec4-852c-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR
