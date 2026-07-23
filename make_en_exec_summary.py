@@ -15,7 +15,7 @@ make_en_exec_summary.py
   8. git add / commit / push + GitHub Actions トリガー
 """
 
-import os, re, sys, io, json, html as _html, shutil, subprocess, urllib.request
+import os, re, sys, io, json, html as _html, shutil, subprocess
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
 
@@ -53,7 +53,6 @@ EN_SUMMARY    = BASE / "docs" / "en" / "summary.html"
 JP_C_SUMMARY  = BASE / "docs" / "jp" / "summary.html"
 PDF_LATEST    = BASE / "docs" / "briefing_latest.pdf"
 MODEL         = "claude-sonnet-5"
-GH_TOKEN      = os.environ.get("GH_TOKEN", "")
 JST           = timezone(timedelta(hours=9))
 
 FONT_PATH     = r"C:\Windows\Fonts\YuGothM.ttc"
@@ -70,16 +69,35 @@ def strip_html(text):
     return _html.unescape(text).strip()
 
 def parse_json_safe(text):
+    # マークダウンフェンス除去
     text = re.sub(r"^```(?:json)?\s*", "", text.strip())
-    text = re.sub(r"\s*```$", "", text)
+    text = re.sub(r"\s*```$", "", text).strip()
+    # 試行1: そのまま
     try:
-        return json.loads(text.strip())
+        return json.loads(text)
     except json.JSONDecodeError:
-        # 文字列内の制御文字（改行等）をエスケープして再試行
-        cleaned = re.sub(r'(?<!\\)\n', r'\\n', text.strip())
+        pass
+    # 試行2: 最外の { ... } を正規表現で抽出
+    m = re.search(r'\{[\s\S]*\}', text)
+    if m:
+        try:
+            return json.loads(m.group())
+        except json.JSONDecodeError:
+            pass
+    # 試行3: 文字列値内の生改行をエスケープ（JSONキーの外側のみ安全に置換）
+    try:
+        cleaned = re.sub(r'(?<!\\)\n', r'\\n', text)
         cleaned = re.sub(r'(?<!\\)\r', r'\\r', cleaned)
         cleaned = re.sub(r'(?<!\\)\t', r'\\t', cleaned)
         return json.loads(cleaned)
+    except json.JSONDecodeError:
+        pass
+    # 試行4: 抽出ブロックに同様のクリーニングを適用
+    if m:
+        cleaned = re.sub(r'(?<!\\)\n', r'\\n', m.group())
+        cleaned = re.sub(r'(?<!\\)\r', r'\\r', cleaned)
+        return json.loads(cleaned)
+    raise ValueError(f"JSON parse failed. Raw (first 300 chars): {text[:300]}")
 
 
 # ── Data loaders ──────────────────────────────────────────────────────────────
@@ -190,13 +208,20 @@ def generate_en_summary(source_text: str, client, date_en: str) -> dict:
         "Do NOT summarize every source — synthesize into the clearest possible picture.\n\n"
         + SECTION_SCHEMA
     )
-    resp = client.messages.create(
-        model=MODEL, max_tokens=2000,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": prompt}]
-    )
-    text = next((b.text for b in resp.content if hasattr(b, "text")), "{}")
-    return parse_json_safe(text)
+    for attempt in range(3):
+        resp = client.messages.create(
+            model=MODEL, max_tokens=2000,
+            system=SYSTEM_PROMPT,
+            messages=[{"role": "user", "content": prompt}]
+        )
+        text = next((b.text for b in resp.content if hasattr(b, "text")), "{}")
+        try:
+            return parse_json_safe(text)
+        except (json.JSONDecodeError, ValueError) as e:
+            print(f"  [JSON retry {attempt+1}/3] {e}")
+            if attempt == 2:
+                raise
+    raise RuntimeError("generate_en_summary: all retries failed")
 
 
 # ── Claude: 日本語翻訳 ─────────────────────────────────────────────────────────
@@ -546,19 +571,11 @@ def git_push_and_deploy(msg: str):
         run(["git", "fetch", "origin", "main"])
         run(["git", "merge", "-X", "ours", "origin/main", "--no-edit"])
         subprocess.run(["git", "push"], cwd=str(BASE))
-    req = urllib.request.Request(
-        "https://api.github.com/repos/shortreport/world-monitoring/actions/workflows/update.yml/dispatches",
-        data=b'{"ref":"main"}',
-        headers={"Authorization": f"token {GH_TOKEN}",
-                 "Accept": "application/vnd.github.v3+json",
-                 "Content-Type": "application/json"},
-        method="POST",
+    trigger = BASE / "scripts" / "trigger_deploy.ps1"
+    subprocess.run(
+        ["pwsh", "-NonInteractive", "-ExecutionPolicy", "Bypass", "-File", str(trigger)],
+        cwd=str(BASE)
     )
-    try:
-        urllib.request.urlopen(req)
-        print("[Deploy] GitHub Actions トリガー完了。約5分で反映されます。")
-    except Exception as ex:
-        print(f"[Deploy] WARN: {ex}")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
