@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldflow//net//
+TZ:+00
+BEGIN:VEVENT
+SUMMARY:Iran war escalation & energy implications - EG Conference Call
+DTSTART;VALUE=DATE-TIME:20260728T143000Z
+DTEND;VALUE=DATE-TIME:20260728T153000Z
+DESCRIPTION:Please join Eurasia Group's analyst team for an update on the 
+ US-Iran conflict\nfollowing Houthi strikes in the Red Sea.\n  * Outlook fo
+ r the conflict following Houthi strikes\n  * US response and scenarios for
+  further escalation \n  * Implications for oil and shipping traffic\n\n\nR
+ egister Here: https://us02web.zoom.us/webinar/register/WN_rqqKgKDLQxuBcvgz
+ VlOuOA\n\nCall-in:\nRegistration for this event is required.  \n  \nAfter 
+ registering\, you will receive an email with instructions to join the\nmee
+ ting\, including local dial-in information and a meeting invitation you ca
+ n\nadd to your calendar. Please note you must be logged in from a computer
+  or\nmobile app in order to ask a question.  \n  \nPlease allow a few minu
+ tes before the call to join the meeting\, and connect\naudio by following 
+ the prompts from the conference call platform.\n\nReplay:\nA recording of 
+ this call will be available on the [Eurasia Group\nportal](https://library
+ .eurasiagroup.net/events/) and mobile app approximately\nthree hours after
+  the event concludes.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER;VALUE=DATE-TIME:20260728T141500Z
+UID:8480648b-876e-11f1-bc1e-02f3451fdf30@EurasiaGroup
+X-WR-ALARMUID:8480648a-876e-11f1-bc1e-02f3451fdf30@EurasiaGroup
+END:VALARM
+END:VEVENT
+END:VCALENDAR
