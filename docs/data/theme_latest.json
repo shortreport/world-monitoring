@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25 00:27:29",
+  "generated_at": "2026-07-25 09:15:51",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-25 00:26:54",
+      "last_checked": "2026-07-25 09:14:39",
       "items": [
+        {
+          "uid": "522c88d238f7",
+          "date": "2026-07-02",
+          "title": "The EU Industrial Accelerator Act: Strategic Ambitions and Design Challenges - Kiel Institute for the World Economy",
+          "summary": "# 要約\n\n欧州産業加速法案（IAA）は、EUの産業競争力強化と戦略的自律性の確保を目指すが、規制の複雑さや財政負担、加盟国間の利益相反といった実装上の課題に直面している。成功には、これらの設計上の課題を解決しながら、域内産業の革新と成長を促進する包括的なアプローチが必要とされている。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGw1VXl1MjcwSXBJZlV6eDBOU2U3LTFNOXNlUWdxOUhiTktsUGJKclU0LVJRLTdMTmJ4TEpTdFVVRHFWX2tQcHp0U0hnSkVGZ0pBNEc5TVQ0cHVTZmxSNktIb2tDRVRHdkY4a0IzeWo3b0tfQ2hMQzU5TG1adTNIbF9iM1lvTVZ2akJkdWNEWlZYN2QyQ2tRNXFSNlhiSkJJMW1GWW1KOWdmSTktVVY5dXUxNy1GQnMtcHNGdV9iclg?oc=5",
+          "added_at": "2026-07-25 09:14:36"
+        },
         {
           "uid": "289af08766db",
           "date": "2026-07-10",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUDV6S0E2dW1MekVYeVRxZE9nalh4WEZ6OUwwOHQ2eFhQUW9UczBjZWx0bjdWZGRKcDEtaExnTXJLUDlWZk05MnRTNXhTelMyNkNMakszbnRaYzFyMGZiUmVxR21zWDVlbGx6QndIUUw3bVVMLU0xbTVaaWFWSS1vXzFQTUI4N3JCQUZwTmJVUDhfczY4enVEUmYyWGItMG1hUTlKVmEwT3dlUQ?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "0f0be22a6905",
-          "date": "2026-03-20",
-          "title": "Draft Industrial Accelerator Act: The European Commission proposes an additional FDI regime - Noerr",
-          "summary": "欧州産業加速法案は、欧州委員会が提案する追加的な外国直接投資（FDI）規制制度であり、欧州の産業競争力強化と戦略的産業の保護を目的とした新たな投資監視メカニズムを導入するものである。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRWw4cEJwbjRuSkE0c3A0eV9DdVkybDZQdk1wNzdwMWJpR204Rnlnamx6TkRhU2toWW81Q2F5S0gwb2NWUmw0d2JyVGs4a1REY2dIZUVKa2ZWWUQyM2g5X1NNRmQtd0ljTVp1THdPdlUwZDhLa0FrUTQwX25Fc1c2RFFDZ2xxLXdkVXE0YWpiSjZYaVppTm1aRTVRSzZPN1ptbGxlWHV5VzR4M2F0aTl0RVozbUI1S1pCY1VyZmd2dGJPZw?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,37 +2019,97 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-25 00:27:08",
+      "last_checked": "2026-07-25 09:15:17",
       "items": [
         {
           "uid": "52708d8270da",
           "date": "2026-07-24",
           "title": "Bill banning Chinese connected vehicles moves out of U.S. Senate Commerce Committee - repairerdrivennews.com",
-          "summary": "米国接続車両安全保障法（S.4429）は、センサーやソフトウェア経由で運転データを収集・送信する中国製の接続車両を米国市場から排除することを目的とした法案で、上院商務委員会を通過しました。この法案は、中国による米国の運転データの不正入手や自動車システムの遠隔操作といった国家安全保障上の脅威に対応するものです。",
+          "summary": "米国上院商業委員会は中国製接続車両を禁止するS.4429法案を可決し、同法案は接続機能を持つ中国車の米国市場への参入防止を目的としています。この法案の承認により、国家安全保障上の懸念から中国製自動車技術に対する規制強化が進展しました。",
           "source": "上院商業委員会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeC1aczNSci0zbmpfRUJCOWdpa0pRaTFuektZemJSdzBacEVLaTZhZVQwRzhlNTBhSjVuRUxWNDJiXzNmbFozR3daVnB5SXFhVUg3a2RXdTduMDl1WHllbTR2aTFKRUlMQnVNVEhnVDNKM3JrTkk4cEJSUHI5VktwbUljSXNVTWMzbjYyZzcxUXplb1NPc0c1Uks5MXF0Z1E3Y196STU4MWQ0emJpTk5ETzVWRXBsUTNsUjR1ZDVRNzZxdld5MWUxcw?oc=5",
-          "added_at": "2026-07-25 00:27:03"
+          "added_at": "2026-07-25 09:14:51"
+        },
+        {
+          "uid": "ddbe69fd4e06",
+          "date": "2026-07-22",
+          "title": "Bill to ban certain Chinese cars approved by Senate panel - Roll Call",
+          "summary": "米国上院委員会は、中国製の特定の自動車を禁止する法案（S.4429）を承認しました。この法案は、国家安全保障上の懸念から中国の自動車メーカーの米国市場への参入を制限することを目的としています。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFZ2TUxmcncwYXY5S3Q0NWVvRS03Q2sxUWdQdE5BZXZwdXVMLUNJeVFIWEZTRk5lQ2VYOEw3cGVFd3Z5WVJNT1NvQnVXNTMzWUZQYTV5QzMxSU1zekptV0lPTFdGOUJpNVM0dldBakdvOTdYbkZuMkFRZmlEVFpvbGZ1eGl0TG9pcm5iZXo2ajVmOF9l?oc=5",
+          "added_at": "2026-07-25 09:14:51"
+        },
+        {
+          "uid": "0d58cc4e775e",
+          "date": "2026-07-24",
+          "title": "Shutting Off Cruz Control on China - Commonplace | Substack",
+          "summary": "申し訳ありませんが、提供していただいたタイトルのみで、記事の具体的な内容が記載されていないため、「米国接続車両安全保障法（S.4429）」に関する文脈での要約ができません。記事の本文内容をご提供いただければ、要約させていただきます。",
+          "source": "上院議員",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SdEo0cEJ4QmkwMm9oRUhOUDFzY01fTXVmYzdnMGN6b0ZVYnB2SDZOa3Fid3hiQWJDY1lGU01IYU9rbzlqUnNHaE1xUG5XSUFnSTU3cHBURGQ0MzNQQlB6aG5ES2RYTHRLYjdoamtxcDBYUQ?oc=5",
+          "added_at": "2026-07-25 09:14:51"
+        },
+        {
+          "uid": "caef2a1d3556",
+          "date": "2026-07-24",
+          "title": "NADA Pres. cheers bill to block Chinese vehicles and tech - CBT News",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国製車両と関連技術の市場参入を制限する法案であり、全米自動車ディーラー協会（NADA）会長がこの法案を支持している。本法案は、国家安全保障上の懸念から中国企業による米国への自動車および関連技術の提供を規制することを目的としている。",
+          "source": "議員発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tdDRpTWlnMFhuM3lYel9xU0c0djN1Y2FlT0hTUHpiaGcxYU81T1VaZHJMM3QtMy05d3hSS0pVZGdLTE9wMFB6ejEyMnF4eXItWkZ4SkY0UTZlWm95aUZsNzNYNDFlVTcxdW9kU1NtRnE2aG1GeDFYbXhMV2w?oc=5",
+          "added_at": "2026-07-25 09:14:51"
+        },
+        {
+          "uid": "d055f52f7d34",
+          "date": "2026-07-23",
+          "title": "Slotkin bill banning Chinese autos passes U.S. Senate with bipartisan support - Civic Media",
+          "summary": "米国上院はSlotkin議員による中国製自動車を禁止する法案S.4429を超党派的な支持で可決し、中国企業による米国自動車市場への参入を規制する措置が承認されました。この法案は、中国系企業による自動車販売を禁止することで、米国の自動車産業と関連するサプライチェーンの安全保障を強化することを目的としています。",
+          "source": "議員発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3lvODFZUHk0b0JzR2F6U2ZpZmprZkQxSlpKVWNMa3FNcTdXbGFVUFJxSlJsYkxuVU9nOGcyaHN5a2JudlJUZk1ldVlMR0ZReUhiTVh3NHFRdnd6aVp0RThodmxhS1NhWGhZODhkWERIZDltR0p4ZFNnbUFCeXlYR3RGS0czX3VONGZPOG9uMVN2MDFSY0liWWpoMTd3RXJ4aWcyVmN1VndqQVBJVlJLRXIwYnY?oc=5",
+          "added_at": "2026-07-25 09:14:51"
+        },
+        {
+          "uid": "68e30d30a66c",
+          "date": "2026-07-20",
+          "title": "Automakers play catch-up with fast-changing state privacy regulations - Automotive News",
+          "summary": "申し訳ございませんが、記事の実質的な内容が提供されていないため、要約することができません。タイトルのみの情報では、S.4429との具体的な関連性や記事の詳細な要点を把握できませんので、本文をご提供いただければ幸いです。",
+          "source": "業界団体（自動車）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRExYQ0FXR1htMG5yZ3FURkx4eHBpT091ZVhqTjlYRWo5RFhMMWlZRWNyR2dCVzN4UUlRclNSMlQ3QXZzTW9qTFZoVVZBNGpIWmhpMjg1Snhtbm40b2xiTjUyQ254RW9NUy0tZDhUQ0pIczJtOHZoMXBWSEY5SFFzQmpIazhaSzdMOUVxYloteTVtUDV5?oc=5",
+          "added_at": "2026-07-25 09:14:51"
+        },
+        {
+          "uid": "173559462b09",
+          "date": "2026-07-22",
+          "title": "Mercedes risks US sales ban under Senate China bill - Financial Times",
+          "summary": "メルセデス・ベンツが米国上院の「接続車両安全保障法」の対象となる可能性があり、中国関連の規制強化により米国での販売禁止のリスクに直面している。同法は外国製の接続車両（インターネット接続機能を持つ車両）に対する安全保障上の懸念から、中国企業との関連性がある自動車メーカーに厳しい制限を課す内容と見られる。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNV9Gay15VWlQbkRROWktZmVDcjdCOWtlb3dWS0ptMGhPaVVVWmUyN2JJOVpybGJOZnlVLWlOWUdvOERaaWhUQW80UHVQdElyeWlfS1BFY0haU3U4YXJETmtaSExUNmg2d0E0OXlFU3lRbWwtTE80cGs1ajA4Q1ZBMV9fZ0g?oc=5",
+          "added_at": "2026-07-25 09:14:51"
+        },
+        {
+          "uid": "8462a4cc44e7",
+          "date": "2026-07-24",
+          "title": "China could hack your next car. The Senate has a chance to stop it - Washington Examiner",
+          "summary": "米国上院で検討中のS.4429法案は、中国による自動車ハッキングの脅威に対応するため、接続車両のセキュリティ基準を強化し、外国の悪意あるアクターによる遠隔操作や機密情報盗取を防止することを目的としています。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmJyeWlFdE16ZkJXMVdjVW9pLVBtWE5fdmQtQkJaWFZsWWFBN2g4a1A0dUc5TVhYYTJ4eG83dGtybHY0Z1Y0ZGFtLWUzdzViWHY0UzQ5dko1OGkyQ2dsZ2c0Ql9IRnBwVHJxS2FLY2h1eDVVWEh1RkpHaExvWHl3OTVsYUdXbkNjZ3h0cUdORVV6X0tPZnNyQ2UxSDhzdUh4ZlN3?oc=5",
+          "added_at": "2026-07-25 09:14:51"
         },
         {
           "uid": "28f1493e5e69",
           "date": "2026-07-24",
           "title": "Mercedes-Benz may get 'banned' from selling vehicles in America, and reason is China - The Times of India",
-          "summary": "メルセデス・ベンツが中国製部品の使用により米国市場から締め出される可能性があるのは、米国接続車両安全保障法（S.4429）が外国の支配下にある部品をスマートカーに搭載することを禁止しているためである。同法は中国を含む米国の敵対国による自動車システムへのアクセスや制御を防ぐことを目的とした規制強化である。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQNW5fdXlqWWItcWQzaWVJaVpRWU54b2NMSlRYaEhVUUpNbmMyT0V1MmREY1hZYkNNZ3B2dGNTZmNYQl9uOUdvWERqSWtRVkRabHFrUUd0Q2ZSQ1U1MXZ0eXNfblBnRDZRWnctZEpRU3hxWl9xUFRsUUF0cWNmcFN5Z3VSc0pCVGNPcnJLanlyZ2ZNSE1iR3JTdzdzT0xXN0ZIbktnNm9EbnlkZkNIUllKNjhZSERaOVRfSURGbDNSMXNtbWRBclBiQ2M5ZWdfaHp5cXN6UHhVeWlGTS1EUVJSaGhuSWNfc0toTXhRT0NhdUtYTlRyUWxEaWhwWVQxQnpRQndKaHl1U1JaLTB3YktoRVpaaDVmTDZPZjVTOVNfV0Q2Y1FfMXlmY2ZPRnVoZ2vSAbQCQVVfeXFMT1dYaEpkZkN4anhqb3lqbjc4dnM4UzRvTDVaWVNXQmpBT1hMTFRwMHpraG5Uazc5aWxLV0U4eTV2V3FscEstbk0yOTNuMnB0Q0VsM1ZlYTdVSFlUekJlNXYzZmZmbEJkY05xaVlvRWl2NlpISFNSS1JJeXlNLWxydnJzbnZYLWFwYV9aU0hkdXZNNzh2OTFKTmFWNnVsWWQxejhoNlc5a0J5V3plYmJMSnJGTVVNSXg3Tkl5OTUtbHQyd3pldm9pT3hfa3l4ekRDcnYyVnRJZ2ozQTJkaEk2MlhCb1hNN1hkN0NJOXM0NkM3OWo4cDNCaUd4N0RTbUZucy0tNm9QdUJpQ05uaGI0Wk1veDRtRVA1UlF1ZjZucVRRelJDZGZVRmx5WmlOWXA4TnJrTF8?oc=5",
-          "added_at": "2026-07-25 00:27:03"
-        },
-        {
-          "uid": "4e3ab64eff9e",
-          "date": "2026-06-25",
-          "title": "Polestar shut out of US market from 2027 as China tech ban claims Geely-linked brand - investingLive",
-          "summary": "米国接続車両安全保障法（S.4429）により、中国系企業Geely傘下のPolestarは2027年から米国市場から排除される見通しです。",
-          "source": "業界分析",
+          "summary": "メルセデス・ベンツが中国製部品やソフトウェアの使用を理由に米国での販売禁止の可能性に直面しており、これはS.4429法案が外国の敵対勢力による自動車技術の支配を制限しようとしていることを示している。同法案は中国関連の車両技術に対する厳しい規制を通じて、米国の自動車産業と国家安全保障を保護することを目的としている。",
+          "source": "メディア分析",
           "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUo2YjRtaW5Na3NVSnV1aU81dTMwbDR1dmd5NURZaGg1S05hWTFzV2tDMmFXLVBMM2FWTWRqM24tanJWMi1JT2lLdW15UWRUeFFXTU5IWG1YNE02OURGT0lPTDEtaXhlYlcxVkNIUEFseUJHdlR6UG1yVmJDOGZmLU9nMDBlTHY1NHpkMUR0N2pPVTVuWXNxZHV1S2JibUlxaXdoNVM0dHhHUUJHVW9jSDF1RHU0cWpTRUZGLUNsNldMTWc?oc=5",
-          "added_at": "2026-07-25 00:27:03"
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQNW5fdXlqWWItcWQzaWVJaVpRWU54b2NMSlRYaEhVUUpNbmMyT0V1MmREY1hZYkNNZ3B2dGNTZmNYQl9uOUdvWERqSWtRVkRabHFrUUd0Q2ZSQ1U1MXZ0eXNfblBnRDZRWnctZEpRU3hxWl9xUFRsUUF0cWNmcFN5Z3VSc0pCVGNPcnJLanlyZ2ZNSE1iR3JTdzdzT0xXN0ZIbktnNm9EbnlkZkNIUllKNjhZSERaOVRfSURGbDNSMXNtbWRBclBiQ2M5ZWdfaHp5cXN6UHhVeWlGTS1EUVJSaGhuSWNfc0toTXhRT0NhdUtYTlRyUWxEaWhwWVQxQnpRQndKaHl1U1JaLTB3YktoRVpaaDVmTDZPZjVTOVNfV0Q2Y1FfMXlmY2ZPRnVoZ2vSAbQCQVVfeXFMT1dYaEpkZkN4anhqb3lqbjc4dnM4UzRvTDVaWVNXQmpBT1hMTFRwMHpraG5Uazc5aWxLV0U4eTV2V3FscEstbk0yOTNuMnB0Q0VsM1ZlYTdVSFlUekJlNXYzZmZmbEJkY05xaVlvRWl2NlpISFNSS1JJeXlNLWxydnJzbnZYLWFwYV9aU0hkdXZNNzh2OTFKTmFWNnVsWWQxejhoNlc5a0J5V3plYmJMSnJGTVVNSXg3Tkl5OTUtbHQyd3pldm9pT3hfa3l4ekRDcnYyVnRJZ2ozQTJkaEk2MlhCb1hNN1hkN0NJOXM0NkM3OWo4cDNCaUd4N0RTbUZucy0tNm9QdUJpQ05uaGI0Wk1veDRtRVA1UlF1ZjZucVRRelJDZGZVRmx5WmlOWXA4TnJrTF8?oc=5",
+          "added_at": "2026-07-25 09:14:51"
         },
         {
           "uid": "7fe97e93daae",
@@ -3960,66 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckVRVWFXcVVfelhJZTVNejV5RnJhWktyRDM0SktCOHN3bEZCRENoS2NKUlp0cTQxLUxoX1hOWk5iR29FVlhEZUluaGZKSlB6WlB2UUlfaWtHMVp2MlcxV1dKVW5iUXl6UE83YmdJaXQyYUJCekd0TktnWnBtSlBlekI0ck5IeW1jYTVjSUtEVHJpTFFNMWFucGpua0lYa24teWoxcVBR?oc=5",
           "added_at": "2026-06-13 08:06:24"
-        },
-        {
-          "uid": "440632e5e507",
-          "date": "2026-06-12",
-          "title": "Michigan Democrats push to ban Chinese EVs in Canada from crossing border — trade watchers call it a 'fake problem' - National Post",
-          "summary": "ミシガン州の民主党議員が中国製EVのカナダからの越境を禁止しようとしているが、貿易専門家はこれを実質的な問題ではなく、S.4429などの過度な保護主義政策の一例として批判している。",
-          "source": "議員発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkFOOHQ0QnlyYndrZmVXcXVBdFNwWXhjaTdfeEhfendjVmxCOEFaWERWWUJfWVlZdENWUkxtZzlxWXVTQnhvRWV3aFBoTkhCNVpuT2NweUtZR0gtZWhrWXhaRVFBclRMZFVlQm1GdHhKbkRTMC1icE1RZzdHQUcwUXNOZ2ZCOXlmLWVVZkZ4WDVFeElJaG9wLWR3cVMwRHRyVGozSC14YktBazZwNTNERDNsSEY3ZkppNTg4cHkzYw?oc=5",
-          "added_at": "2026-06-12 21:44:24"
-        },
-        {
-          "uid": "f20c7c6c3c72",
-          "date": "2026-06-12",
-          "title": "Vehicle Security Sensor Market Forecast to 2035: Growth Amid Insurance Mandates and Connected Vehicle Integration - News and Statistics - IndexBox",
-          "summary": "車両セキュリティセンサー市場は、保険義務化および接続車両統合の推進により2035年まで成長が見込まれており、S.4429のような接続車両の安全保障強化に関する規制が市場拡大をさらに加速させると予想されます。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQVZNSksyMXBOWlZqWFNCcGVhd3JwVHZVVVA3QUV3eWprRjJ4N3JiWWI5c2tYSWJXbFhGZEpkbURCSVZYdjFqS0JZQXdkNnhQMW5GR1ZhcG9HZ1NqSW9EZnJoMV9lTVRURFRMN1E1ZHdNT3hUekgtMy1NcmhaWkhBUWFVcjREcWJzNmM3MnhmMUF0LVktYXlQWjMtVGRBNnZYbkVxSDR4VzN1cGhoS2hjZXQybWF6d1hrOWpWdUtJbGRnNjExV3BLcS1lYmowb1l3YzBUcTNjTXRFNXZWRG9oa1U1OFVUVjVWM3FrcmpqQQ?oc=5",
-          "added_at": "2026-06-12 21:44:24"
-        },
-        {
-          "uid": "79c9d9e2239c",
-          "date": "2026-06-11",
-          "title": "Congress Introduces Legislation to Bolster Connected Vehicle Regulatory Regime - Akin",
-          "summary": "米国議会が提案した「米国接続車両安全保障法（S.4429）」は、接続車両（コネクテッドカー）のサイバーセキュリティと規制体制を強化する法案であり、自動運転車やIoT車両の安全基準と規制の枠組みの拡充を目的としています。",
-          "source": "議員発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWM4UzRLcDFKdW9SX0ZYSkNtVzV4RjI5b09FSnBrcG1iVnhXVjFGa0YxWVlwM0xkZmUxNmU4QXVyQmZlNFh2TTlSSXhjTlEzbklkRm42dm5QaHBBS0U3bDg1eW5MbzBqVkVLOFVLdkwzZWRldlVWQUJpbEk4a3REc3Bjcndzckp2clVFdjMwY2ZoRWVsTFQzeGd6VVhBM3BjQ2VyQ2h3d3hMbFExMkVZT2UwTVF3ZVRNYUY5MU5ZUQ?oc=5",
-          "added_at": "2026-06-12 09:09:48"
-        },
-        {
-          "uid": "f47cdc07be31",
-          "date": "2026-06-11",
-          "title": "ATA chief calls for repeal of federal excise tax on heavy duty trucks, trailers - Trucks, Parts, Service",
-          "summary": "申し訳ありませんが、提供いただいたタイトルと「内容」が同一であり、実際の記事本文が含まれていないため、「米国接続車両安全保障法（S.4429）」との具体的な関連性を判断できません。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd0Y3VUNabEdKRjk3bVNBQ1F4THBwREZTcEFtWkZBZlM1Rkh1RUktQlNKS0V0TkhDdDlNaFFiWEVfMTA2S3ctMmhyNVRuaWtQZWFRVVl5VTRVN0hKQTloM2hHSjNSMjk5a1F2YlBERnQxZUFydzc5enZ1VzEwQTJaZmVzRkhfMFNUMkd1OW9heXpZV1haVW55TXdRSkpnQTh5X3BlOWh5bTk3akRRVzQwcTAzRXZDRHpwaVlpeW9sOWJsMmgwb3ItcWF5TTI2NjMya0NBOXFMdFVYZ2NVUjAtYzhtZmpyUHpy?oc=5",
-          "added_at": "2026-06-11 23:29:06"
-        },
-        {
-          "uid": "56b014a2eb11",
-          "date": "2026-06-01",
-          "title": "Connected vehicle data ‘can have intelligence value’ to adversaries: federal document - CityNews Edmonton",
-          "summary": "米国の連邦政府文書によると、接続車両から収集されるデータは敵国にとって情報価値を持つ可能性があり、S.4429法はこうしたセキュリティ脅威に対応するため、接続車両システムの安全保障基準と規制を強化することを目指しています。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaC14c0Z0SDFVU2RtbVlDN2t2QnNXOWxzalIyNmJ0cVRzeWxPcjA0VllMY3h1aWlMSTBNdWRTSkdtOVFOclBRUkNWcTNHZDV0eFFWVkpEdmw3S1dhTHZKWmJadVM1SGJENWlGLWF3LW54Qi1Oc0NraEtQYlg5OXhWQmF0bmlzR1o4UVZBcDQydHZGMDdOaUs1MHJpejhDamtod1dsOEpOVG9IdXE4Zm1tYjQ1YjBJTkZMaGNqbTdqeGc?oc=5",
-          "added_at": "2026-06-11 23:29:06"
-        },
-        {
-          "uid": "be1a974ded7b",
-          "date": "2026-06-08",
-          "title": "Congressional Bill Would Ban Chinese Cars from Crossing Into U.S. from Canada or Mexico - Road & Track",
-          "summary": "S.4429は、カナダやメキシコ経由で米国に流入する中国製自動車を禁止する法案であり、中国の自動車メーカーが北米の自由貿易協定を迂回して米国市場に参入することを防ぐことを目的としています。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSkZJa2RqV1pOYVlMeTBjY0loTldZYzBUMC1yZWhncUVkc3lyMUhobHA4QUVRMzdXYXBOSW1kc3JZRGNxMUprMlJ2RXI3dS12OGRZV05wdVNlVmJEWVk4dGFIaDMzemdocjN0ckh3Z2NCLVE0Yk5ITmRkV2dvckJkOURCcHJXc1NjVjlNdjVzejJLWnpEb1MzMU9NNXo2anhjdWo1U2FYVklQTlU5emliYlJFWUtvb3dZNXpXTURVS1ViN0FlenJOOUR3?oc=5",
-          "added_at": "2026-06-11 08:58:10"
         }
       ]
     },
@@ -4030,47 +4030,47 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-25 00:27:29",
+      "last_checked": "2026-07-25 09:15:51",
       "items": [
         {
           "uid": "d3228db67f37",
           "date": "2026-04-27",
           "title": "Rare Earth Export Restrictions One Year Later - CSIS | Center for Strategic and International Studies",
-          "summary": "申し訳ございませんが、提供いただいたテキストはタイトルのみで、実質的な記事の内容が含まれていません。記事本文をご提供いただければ、中国レアアース輸出管理に関する要約を作成させていただきます。",
+          "summary": "中国は2023年8月にレアアース精製技術の輸出規制を導入し、西側諸国のレアアース産業における中国への依存を強化しましたが、実際の輸出制限による実質的な影響は限定的であり、各国は代替供給源の確保と技術開発を加速させています。",
           "source": "米国防・エネルギー省",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjl4RTQ4VXFxaVRuT2FrYUNlVE11dEJKVzdSTm51U3l3dG1jNGdHdWVXaVVVM0RBeTU4cGRJaWM5Zkk2NUlEal9oNTFyWURldURHTTg4UEg3TnNyZVpJbEVQUm5aSEI1TU9sRk9KV0NERG5ONkV3NlR4cTl3bWJ0OA?oc=5",
-          "added_at": "2026-07-25 00:27:22"
+          "added_at": "2026-07-25 09:15:39"
         },
         {
           "uid": "536ac66812cb",
           "date": "2026-05-18",
           "title": "Rare earth truce? China agrees to ease US supply concerns after Beijing summit - Firstpost",
-          "summary": "中国は米国との北京サミット後、米国のレアアース供給懸念を緩和することに合意し、輸出管理の緩和方針を示唆しました。この合意は、米国へのレアアース供給不足による産業への影響を軽減することを目的としています。",
+          "summary": "中国はバイデン大統領との北京サミット後、米国のレアアース供給懸念の緩和に合意し、輸出管理を緩和する方向を示唆した。この合意により、米国と中国間のレアアース供給をめぐる緊張が一時的に緩和される可能性がある。",
           "source": "欧米要人発言",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak8wOUwxUUtSN1E4WUJXUmw2V2ZhNy1JR1hTbTFZZVhIWWlNUHVvUWFwTlJHNVpqeDJRUWVpYlQySWN2QVNmSGVlc091a0NUUmhfTlN3dzVNUnNMeUZpUVFzbHMxQ18zbDAtWlJ1U1M4cDdPRWRHZ2NZY2dVR2t3VDd1Tjc1OUdQWUcwRnRZQ2JORVRwamR5R1ozSzRnOGR3NDE5Wi1pdlFCeUxLd3BiY3g4bzHSAboBQVVfeXFMUEwtanAwWnh4YV9YdmE5VnUxclBVMkZwUU0xYXlTMlFrT1FaMG9ra0FqT1J3WTYyWE5JRXRaUDJWMnhkMDVjaDJ5NUJkcG9VU2JIRC16V0hyT1pVTTQ3TnVCODdxdkg5YzdHZFZVT3hyZGlWTHRJamY5Zm1Bclk2eGd5Y1ZNYkx3NnUzZ1hURjlPVW15QUd1dWVCeGphSHhYZXJKV0k5eGVHNzJvV0h5SWJLNkVYZ2d4UHFR?oc=5",
-          "added_at": "2026-07-25 00:27:22"
+          "added_at": "2026-07-25 09:15:39"
         },
         {
-          "uid": "a1a19b83fb0a",
+          "uid": "c9ead06d2b02",
           "date": "2026-07-24",
-          "title": "A ship linked to China’s military sailed from Baltimore. That should worry US workers",
-          "summary": "中国の軍事機関と関連する船舶がボルチモアから出航したことが報じられており、これは米国労働者にとって懸念材料となっている。このような船舶の運航は通常、米国法では違法となるため、レアアースなどの戦略的資源の中国への流出が国家安全保障上の問題としてクローズアップされている。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/5986709-trump-jones-act-waiver-threatens-maritime-industry/",
-          "added_at": "2026-07-25 00:27:22"
+          "title": "Japan finds heavy rare earths dominate seabed deposit",
+          "summary": "日本が深海海底から採取した希土類鉱床では重希土類が主成分であることが判明し、中国への依存度低減を実現する可能性がある。この発見は日本の重要鉱物サプライチェーンの強化につながる戦略的に重要な資源確保となる。",
+          "source": "Mining.com",
+          "source_type": "industry",
+          "url": "https://www.mining.com/japan-finds-heavy-rare-earths-dominate-seabed-deposit/",
+          "added_at": "2026-07-25 09:15:39"
         },
         {
-          "uid": "a1cb9697168b",
+          "uid": "fe2e52fe2b1f",
           "date": "2026-07-24",
-          "title": "US trading partners rip new Trump tariffs: ‘Completely unjustified’",
-          "summary": "本記事は、中国レアアース輸出管理との直接的な関連性は限定的ですが、トランプ大統領が発動した新規関税（60カ国に対し10～12.5%）に対して、中国を含む主要な米国貿易相手国が強く反発している状況を報じています。この関税措置は、レアアース含む多くの輸入品に影響を与える可能性があります。",
+          "title": "Trump says Russia, China not ‘participating’ in Iran war ‘in my opinion’",
+          "summary": "本記事はイラン関連の米国外交に関するもので、中国レアアース輸出管理とは直接の関連がないため、要約対象外です。",
           "source": "The Hill",
           "source_type": "media",
-          "url": "https://thehill.com/policy/international/5987847-foreign-trading-partners-react-donald-trump-new-tariffs/",
-          "added_at": "2026-07-25 00:27:22"
+          "url": "https://thehill.com/homenews/administration/5988554-trump-china-russia-iran-support/",
+          "added_at": "2026-07-25 09:15:39"
         },
         {
           "uid": "0ecd2abe4487",
