@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24 16:34:43",
+  "generated_at": "2026-07-25 00:27:29",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-24 16:34:07",
+      "last_checked": "2026-07-25 00:26:54",
       "items": [
         {
           "uid": "289af08766db",
@@ -2019,8 +2019,38 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-24 16:34:21",
+      "last_checked": "2026-07-25 00:27:08",
       "items": [
+        {
+          "uid": "52708d8270da",
+          "date": "2026-07-24",
+          "title": "Bill banning Chinese connected vehicles moves out of U.S. Senate Commerce Committee - repairerdrivennews.com",
+          "summary": "米国接続車両安全保障法（S.4429）は、センサーやソフトウェア経由で運転データを収集・送信する中国製の接続車両を米国市場から排除することを目的とした法案で、上院商務委員会を通過しました。この法案は、中国による米国の運転データの不正入手や自動車システムの遠隔操作といった国家安全保障上の脅威に対応するものです。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeC1aczNSci0zbmpfRUJCOWdpa0pRaTFuektZemJSdzBacEVLaTZhZVQwRzhlNTBhSjVuRUxWNDJiXzNmbFozR3daVnB5SXFhVUg3a2RXdTduMDl1WHllbTR2aTFKRUlMQnVNVEhnVDNKM3JrTkk4cEJSUHI5VktwbUljSXNVTWMzbjYyZzcxUXplb1NPc0c1Uks5MXF0Z1E3Y196STU4MWQ0emJpTk5ETzVWRXBsUTNsUjR1ZDVRNzZxdld5MWUxcw?oc=5",
+          "added_at": "2026-07-25 00:27:03"
+        },
+        {
+          "uid": "28f1493e5e69",
+          "date": "2026-07-24",
+          "title": "Mercedes-Benz may get 'banned' from selling vehicles in America, and reason is China - The Times of India",
+          "summary": "メルセデス・ベンツが中国製部品の使用により米国市場から締め出される可能性があるのは、米国接続車両安全保障法（S.4429）が外国の支配下にある部品をスマートカーに搭載することを禁止しているためである。同法は中国を含む米国の敵対国による自動車システムへのアクセスや制御を防ぐことを目的とした規制強化である。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQNW5fdXlqWWItcWQzaWVJaVpRWU54b2NMSlRYaEhVUUpNbmMyT0V1MmREY1hZYkNNZ3B2dGNTZmNYQl9uOUdvWERqSWtRVkRabHFrUUd0Q2ZSQ1U1MXZ0eXNfblBnRDZRWnctZEpRU3hxWl9xUFRsUUF0cWNmcFN5Z3VSc0pCVGNPcnJLanlyZ2ZNSE1iR3JTdzdzT0xXN0ZIbktnNm9EbnlkZkNIUllKNjhZSERaOVRfSURGbDNSMXNtbWRBclBiQ2M5ZWdfaHp5cXN6UHhVeWlGTS1EUVJSaGhuSWNfc0toTXhRT0NhdUtYTlRyUWxEaWhwWVQxQnpRQndKaHl1U1JaLTB3YktoRVpaaDVmTDZPZjVTOVNfV0Q2Y1FfMXlmY2ZPRnVoZ2vSAbQCQVVfeXFMT1dYaEpkZkN4anhqb3lqbjc4dnM4UzRvTDVaWVNXQmpBT1hMTFRwMHpraG5Uazc5aWxLV0U4eTV2V3FscEstbk0yOTNuMnB0Q0VsM1ZlYTdVSFlUekJlNXYzZmZmbEJkY05xaVlvRWl2NlpISFNSS1JJeXlNLWxydnJzbnZYLWFwYV9aU0hkdXZNNzh2OTFKTmFWNnVsWWQxejhoNlc5a0J5V3plYmJMSnJGTVVNSXg3Tkl5OTUtbHQyd3pldm9pT3hfa3l4ekRDcnYyVnRJZ2ozQTJkaEk2MlhCb1hNN1hkN0NJOXM0NkM3OWo4cDNCaUd4N0RTbUZucy0tNm9QdUJpQ05uaGI0Wk1veDRtRVA1UlF1ZjZucVRRelJDZGZVRmx5WmlOWXA4TnJrTF8?oc=5",
+          "added_at": "2026-07-25 00:27:03"
+        },
+        {
+          "uid": "4e3ab64eff9e",
+          "date": "2026-06-25",
+          "title": "Polestar shut out of US market from 2027 as China tech ban claims Geely-linked brand - investingLive",
+          "summary": "米国接続車両安全保障法（S.4429）により、中国系企業Geely傘下のPolestarは2027年から米国市場から排除される見通しです。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUo2YjRtaW5Na3NVSnV1aU81dTMwbDR1dmd5NURZaGg1S05hWTFzV2tDMmFXLVBMM2FWTWRqM24tanJWMi1JT2lLdW15UWRUeFFXTU5IWG1YNE02OURGT0lPTDEtaXhlYlcxVkNIUEFseUJHdlR6UG1yVmJDOGZmLU9nMDBlTHY1NHpkMUR0N2pPVTVuWXNxZHV1S2JibUlxaXdoNVM0dHhHUUJHVW9jSDF1RHU0cWpTRUZGLUNsNldMTWc?oc=5",
+          "added_at": "2026-07-25 00:27:03"
+        },
         {
           "uid": "7fe97e93daae",
           "date": "2026-07-24",
@@ -3990,36 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSkZJa2RqV1pOYVlMeTBjY0loTldZYzBUMC1yZWhncUVkc3lyMUhobHA4QUVRMzdXYXBOSW1kc3JZRGNxMUprMlJ2RXI3dS12OGRZV05wdVNlVmJEWVk4dGFIaDMzemdocjN0ckh3Z2NCLVE0Yk5ITmRkV2dvckJkOURCcHJXc1NjVjlNdjVzejJLWnpEb1MzMU9NNXo2anhjdWo1U2FYVklQTlU5emliYlJFWUtvb3dZNXpXTURVS1ViN0FlenJOOUR3?oc=5",
           "added_at": "2026-06-11 08:58:10"
-        },
-        {
-          "uid": "1336fa7d2531",
-          "date": "2026-06-08",
-          "title": "Michigan politicians want to ban Chinese-badged cars from even visiting the US - Ars Technica",
-          "summary": "ミシガン州の政治家たちは、中国ブランド車が米国に進入することを完全に禁止しようとしており、この動きはS.4429（米国接続車両安全保障法）の文脈で、中国製自動車に対する安全保障上の懸念から進められている。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWg0VmFiX0U3ZE15dmxOakd1Q0ZfNVpDS19rTlYtalFYbFp0QWNWSVk4SEpyV05CcGZLTkJWU3lwM2RlXzhNOWUzLXBrcFBieEU5a0JSWHF6Wi1JQXFSdHR2SnRHZ1NlS2JBQUxncmdtQ3MyNHlMN1RPUXZTOVZ5VEsydzc0QkZfdEIxR0tENUFoY0hRZm1rREFTN2hfZVMtMVk3dmNsbkpkWWRGVWZnODhEa3BrUXc?oc=5",
-          "added_at": "2026-06-11 08:58:10"
-        },
-        {
-          "uid": "b68a266f5d14",
-          "date": "2026-06-01",
-          "title": "US Crackdown On Chinese Cars Could Kill Mercedes-Benz In America - CarBuzz",
-          "summary": "米国が中国製自動車に対する規制を強化する場合、メルセデス・ベンツなどの外国自動車メーカーも影響を受ける可能性があり、米国市場での販売が制限される恐れがあります。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfTUg3VTV1WFNPMkI0ZmZCNEdfdjAtd1dPVDdKQ3pabTlpZkhST2FfanRTWmFnNDRqOFpjV2lLd2JlbFJSZGVQbmJDa0tPNklSdzlyb0ZJbmhaWEg3dFZISk5YdGhyaFdjakxITFk4RFhKdVBNdlVn?oc=5",
-          "added_at": "2026-06-11 08:58:10"
-        },
-        {
-          "uid": "d18f87555f68",
-          "date": "2026-06-09",
-          "title": "Foreign policies shape how automakers compete with China - The Detroit News",
-          "summary": "米国がS.4429法案などの政策を通じて外国製自動車技術への規制を強化することで、自動車メーカーが中国との競争でどのような戦略をとるべきかが決定されることを指摘しています。",
-          "source": "業界団体（自動車）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQjlZVURQbW5qZ3pJZTlJNFVhWWVkRFYxeWowazVqQlBnZW1selUtUU9kemlVdVZpUW5nRFFVamtjX3F3dUF4NHh2eG4tanlLNS0ydXNyaC1sTF9FQmRGYnZWMG8wYWVYRDNqaGczQnF5bDFmTEE1RGVVaFFPZmJlWm12QmdjaVZUMnZ6TGN2dkRVZXdwVFQyRTlYZzVJalBVbHBJVnJBRV85TU1mMHhkaTgydGJCR0JONEE4NGZTTU9JeFNGMHNSTEVYUXF3VE5M?oc=5",
-          "added_at": "2026-06-10 04:52:47"
         }
       ]
     },
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-24 16:34:43",
+      "last_checked": "2026-07-25 00:27:29",
       "items": [
+        {
+          "uid": "d3228db67f37",
+          "date": "2026-04-27",
+          "title": "Rare Earth Export Restrictions One Year Later - CSIS | Center for Strategic and International Studies",
+          "summary": "申し訳ございませんが、提供いただいたテキストはタイトルのみで、実質的な記事の内容が含まれていません。記事本文をご提供いただければ、中国レアアース輸出管理に関する要約を作成させていただきます。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjl4RTQ4VXFxaVRuT2FrYUNlVE11dEJKVzdSTm51U3l3dG1jNGdHdWVXaVVVM0RBeTU4cGRJaWM5Zkk2NUlEal9oNTFyWURldURHTTg4UEg3TnNyZVpJbEVQUm5aSEI1TU9sRk9KV0NERG5ONkV3NlR4cTl3bWJ0OA?oc=5",
+          "added_at": "2026-07-25 00:27:22"
+        },
+        {
+          "uid": "536ac66812cb",
+          "date": "2026-05-18",
+          "title": "Rare earth truce? China agrees to ease US supply concerns after Beijing summit - Firstpost",
+          "summary": "中国は米国との北京サミット後、米国のレアアース供給懸念を緩和することに合意し、輸出管理の緩和方針を示唆しました。この合意は、米国へのレアアース供給不足による産業への影響を軽減することを目的としています。",
+          "source": "欧米要人発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak8wOUwxUUtSN1E4WUJXUmw2V2ZhNy1JR1hTbTFZZVhIWWlNUHVvUWFwTlJHNVpqeDJRUWVpYlQySWN2QVNmSGVlc091a0NUUmhfTlN3dzVNUnNMeUZpUVFzbHMxQ18zbDAtWlJ1U1M4cDdPRWRHZ2NZY2dVR2t3VDd1Tjc1OUdQWUcwRnRZQ2JORVRwamR5R1ozSzRnOGR3NDE5Wi1pdlFCeUxLd3BiY3g4bzHSAboBQVVfeXFMUEwtanAwWnh4YV9YdmE5VnUxclBVMkZwUU0xYXlTMlFrT1FaMG9ra0FqT1J3WTYyWE5JRXRaUDJWMnhkMDVjaDJ5NUJkcG9VU2JIRC16V0hyT1pVTTQ3TnVCODdxdkg5YzdHZFZVT3hyZGlWTHRJamY5Zm1Bclk2eGd5Y1ZNYkx3NnUzZ1hURjlPVW15QUd1dWVCeGphSHhYZXJKV0k5eGVHNzJvV0h5SWJLNkVYZ2d4UHFR?oc=5",
+          "added_at": "2026-07-25 00:27:22"
+        },
+        {
+          "uid": "a1a19b83fb0a",
+          "date": "2026-07-24",
+          "title": "A ship linked to China’s military sailed from Baltimore. That should worry US workers",
+          "summary": "中国の軍事機関と関連する船舶がボルチモアから出航したことが報じられており、これは米国労働者にとって懸念材料となっている。このような船舶の運航は通常、米国法では違法となるため、レアアースなどの戦略的資源の中国への流出が国家安全保障上の問題としてクローズアップされている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/5986709-trump-jones-act-waiver-threatens-maritime-industry/",
+          "added_at": "2026-07-25 00:27:22"
+        },
+        {
+          "uid": "a1cb9697168b",
+          "date": "2026-07-24",
+          "title": "US trading partners rip new Trump tariffs: ‘Completely unjustified’",
+          "summary": "本記事は、中国レアアース輸出管理との直接的な関連性は限定的ですが、トランプ大統領が発動した新規関税（60カ国に対し10～12.5%）に対して、中国を含む主要な米国貿易相手国が強く反発している状況を報じています。この関税措置は、レアアース含む多くの輸入品に影響を与える可能性があります。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/5987847-foreign-trading-partners-react-donald-trump-new-tariffs/",
+          "added_at": "2026-07-25 00:27:22"
+        },
         {
           "uid": "0ecd2abe4487",
           "date": "2026-06-15",
@@ -5991,46 +6031,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdWtycjFJeDZMcnlnTEpjMjUzT01Wd21XT1RKVExTdHgwN2Y3NzNMS0w3OFBlT3NLLWRmUVYyYVNCWUJHWTlSbDlReHNlcHMzYndCUS1VOHRSRlktaVdMd25xLUVKckpoVjFkZVRGVHg2c0Y1MkRGMmYtaTRGVHJzaV9yNzQzRVBoNWU1cVVULVk?oc=5",
           "added_at": "2026-07-08 00:25:18"
-        },
-        {
-          "uid": "9debcde2c1cf",
-          "date": "2026-05-08",
-          "title": "Onshoring the Mineral Supply Chain: Structural Constraints, Policy Tools, and Research Gaps - Resources for the Future",
-          "summary": "中国は鉱物精製の優位性により、米国などが鉱物サプライチェーンの国内回帰(オンショアリング)を進める上で構造的な障壁となっており、政策支援や技術開発による課題解決が必要とされています。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeExQTmo1cFFIM05qNHFqR202N1daa1p4WENrWnhCcDZVR2ExZnhaWlBIWFBSVW9UdEw5cFprbnFYRVB1cG9rVzdnTTUyS080ZzFieXZidTNnQVdnVHVBQktWOTE0amx6eFp5bERqbjNvbm1oaFN1YURmZWRlSjlSdm5mdUFENnkwVGFSUTZaZWoxaFg4ajBXMGNXc1dHbi1JMVpwXzNlN2xnWFBBbGRqUVNjSVdCQ3VfdGtfMDBSZ3hmcU92bFJONUJR?oc=5",
-          "added_at": "2026-07-07 19:44:54"
-        },
-        {
-          "uid": "6c85dffafc59",
-          "date": "2026-05-25",
-          "title": "Rare Earth Supply Chain: Greenland Mines Secures Sarfartoq Nd-Pr Project in $35M Deal - Tech Times",
-          "summary": "グリーンランドの鉱山企業が35百万ドルでSarfartoq Nd-Pr鉱床プロジェクトを確保し、中国に依存してきたレアアース供給チェーンの多角化が進展している。本取引は、中国のレアアース輸出管理強化に対抗する西側諸国の供給源確保戦略の一環である。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdDVnUnV3VG9EX2VVNkpkOHZHMXpkTE1QVktBbkpVemhfOW44Z0tzdkhoaFN6SUQ3VXBDRXlod0o1UVk0U3pVTk5saVNhaVVrQU5RdjR4UGhmeXBVYTdNYW1tQkNKWEsyR2JaLXhCRXZRRDA1YXdBYzl3b2U1SEMwd1RJcGgyTkJkTHkxNjVmcThWVWIxWXBrZUh6LXFfSGtxWFB0Z2RVUHF3MmhkZGttZk9seVczQ05BdHdWdzQ0RUVkX2NjYWRCWFZMUDFaWGNT?oc=5",
-          "added_at": "2026-07-07 19:20:17"
-        },
-        {
-          "uid": "e43cbdb4db97",
-          "date": "2026-05-15",
-          "title": "The U.S.-China Trade Relationship: What’s Behind the Competition? - Council on Foreign Relations",
-          "summary": "申し訳ありませんが、提供いただいたテキストには記事の具体的な内容が含まれていないため、要約することができません。記事本文をご提供いただければ、「中国レアアース輸出管理」に関する文脈での要約をお作りします。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85R1Rxa096czZxUGpuWjB0T0RCeWtvNzUwM2kxcHRhVXp4MjBJUXVIbC1vU2EtRGZ6c2MxQnVNamVJUHhpZU4yMVBqRUZ3YUgxNGVRT0pRSWYteGpFeW1mRlBuazdselRXZDdpaVY1NW0xS2hzSlUtb1p1VWhwdw?oc=5",
-          "added_at": "2026-07-07 19:20:17"
-        },
-        {
-          "uid": "6137196f3ceb",
-          "date": "2026-05-22",
-          "title": "Companies join a deep-sea mining rush after Trump executive order, as regulators fast-track permits - Yahoo! Finance Canada",
-          "summary": "トランプ大統領の行政命令により深海採鉱が加速し、レアアースを含む重要鉱物の海洋採鉱がレアアース供給の中国依存を低減する代替手段として注目されている。規制当局による許可の迅速化により、レアアース獲得競争における地政学的リスク回避の動きが加速している。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3V3d3Q2cm41dEJYUy0waWxCY1Vud2o4WW9mMnVYSjBKUm5xNTY4VzRXaG5ndGE5Z0QzdVk2ZjdpVW5RSWh1SXdrc0I2ZjlUMTNGUkt0TXhYa3M5NE9zbkdKWVFPdF9hb3JiTVpjRjhNc3MwV01qVW5DdHVVQVhQTg?oc=5",
-          "added_at": "2026-07-07 19:10:08"
         }
       ]
     }
