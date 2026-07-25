@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25 16:20:51",
+  "generated_at": "2026-07-26 00:06:27",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-25 16:20:20",
+      "last_checked": "2026-07-26 00:05:58",
       "items": [
         {
           "uid": "522c88d238f7",
@@ -2019,8 +2019,38 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-25 16:20:31",
+      "last_checked": "2026-07-26 00:06:13",
       "items": [
+        {
+          "uid": "4fa508bd18e4",
+          "date": "2026-05-08",
+          "title": "Slotkin and U.S. Sen. Bernie Moreno, R-Ohio, recently introduced a bill banning the sale of Chinese vehicles. See link below ⬇️ 📸 Cody Scanlan / The Des Moines Register / USA TODAY NETWORK via Imagn Images - facebook.com",
+          "summary": "SlotkinとBernie Moreno上院議員（共和党、オハイオ州）は、中国製車両の販売を禁止する法案（S.4429）を最近導入した。この法案は国家安全保障上の懸念に対応するため、米国市場への中国車の流入を制限することを目的としている。",
+          "source": "自動車メーカー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQlR0V01xQVZRUlRfQzltUEF0anNKQm83THpvbXZUUjZoQXdTWG5EdGxNSlVpa2hIX2ZxTnVzc01obDRyaWlzVzVfbVNTTXNGc3FWYUNfck4zMnhkZlRVeFE1MTZhTV90WUFManpPY1YwZ0p3cmVrT29lODIxZnAzMUlVeHQyMGZPcE5udVhZbXZuZkZ5Nk5MYmlfMjRYMTJUWHBnY1ZyUzczNGdlSFRVNFBxVXVKWFlUU2JkekpDNlBnOUItX0toX0ZkV3diQmdQeHNzQ1loS0ZFNEpCbUhj?oc=5",
+          "added_at": "2026-07-26 00:06:07"
+        },
+        {
+          "uid": "f8f8d5b19461",
+          "date": "2026-07-18",
+          "title": "Bill Would Ban Chinese Connected Cars in the US—From Sale and on the Streets - Yahoo",
+          "summary": "米国上院が提出した「米国接続車両安全保障法（S.4429）」は、中国製の接続車両（コネクテッドカー）の米国での販売および走行を禁止する法案です。本法案は、中国企業による車両データの収集やシステムへのアクセスが米国の国家安全保障に脅威をもたらす可能性があることを背景としています。",
+          "source": "中国政府",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbnJhR2VfZERTYkhQak9hWGNNN25DOFVsbU5BbHo3Rkp0a3hvMnExUG81d1VPMlQyRk9LUkNjSXZ3S2RrOWUtZlFqNHZ5VWx6YmZNN2JzZ3VGcUdCbHJpSnBLMWhXd3h5cWdQYWpsb1BfNXlCdmNWMk9vWDJDYk4tVS1vY3hFVUJtNVhubGFyNkVCaC1wY1E?oc=5",
+          "added_at": "2026-07-26 00:06:07"
+        },
+        {
+          "uid": "63d511a289db",
+          "date": "2026-07-25",
+          "title": "Weekly roundup: Ford ratifies Canadian labor deal, Used-vehicle prices ease, GM's core earnings rise - CBT News",
+          "summary": "申し訳ございませんが、提供いただいたタイトルのみでは、記事の具体的な内容が不明確なため、「米国接続車両安全保障法（S.4429）」に関連した正確な要約ができません。フォード、GM、中古車価格に関するニュースを扱っているようですが、S.4429との直接的な関連性を判断するには、記事の本文が必要です。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xWkVSOHBRb2daWHZkUHFwWXlYNW13eG5JVXJSRGNWVVloc0xoWmU0RTJjejNGN1RfeklTYk9EcHlseFBkZFh0TGNMSEJaMUtVR0hBSEpuaENDcC1KNnhjVmJR?oc=5",
+          "added_at": "2026-07-26 00:06:07"
+        },
         {
           "uid": "f5f7d87cee6f",
           "date": "2026-06-25",
@@ -3990,36 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3BvdkF3cFJuTklYclR0VDEwaEtJa3VTYnA3a3pTNWFaeGU5NHkzWDhjRlpodC1DTVRwZHowUUxSZW1zcmVvemtsX3A2SEExdlJwQmVmbVZKVFVnNUhGbkRmVDhBR0ZVZGN6VDQ2UG05V3hUMVUzZy1iVzZ6MUh5ZEMxNEI3ejdQcGRvRXBSY3E5Um8?oc=5",
           "added_at": "2026-06-16 03:18:15"
-        },
-        {
-          "uid": "05d7ab55dec7",
-          "date": "2026-05-13",
-          "title": "Canada and Mexico allow Chinese EVs into their markets. Why not the US? - Straight Arrow News - SAN - Unbiased. Straight Facts.",
-          "summary": "# 要約\n\nカナダとメキシコが中国製EVの市場参入を認める一方、米国がS.4429法などを通じて中国製電動車両を規制・排除しようとしているのは、国家安全保障とサプライチェーン管理を理由とした差別的な政策姿勢の表れであり、北米地域における貿易政策の不一貫性を示しています。",
-          "source": "自動車メーカー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeDJRODY5VzVnNTB0Nll1cEZEWi04dGx3R0JSamVjU0VGWTNsVG1YQWllSDhsYTBOekZtR2txanBYa2xVZE92dHF3Q01NelZmV2hWcURFVDFYVHRLU3NmeXVnUmw4a1Z6MDA2a3lmblJ0YVdnb1VpUWVoTUR3UWgwajlRSjhNTk9ZdlNwcGg4cXZvUVU?oc=5",
-          "added_at": "2026-06-16 03:18:15"
-        },
-        {
-          "uid": "89b082dc70e0",
-          "date": "2026-04-03",
-          "title": "Baldwin, Schumer, Slotkin Call on Trump to Block Chinese Automakers From Jeopardizing American Jobs, National Security - Urban Milwaukee",
-          "summary": "米国の民主党議員バルドウィン、シューマー、スロトキンは、トランプ大統領に対して、中国の自動車メーカーによるアメリカの雇用と国家安全保障への脅威をブロックするよう要求している。この要求は、中国メーカーの米国市場進出を制限する必要性を強調するもので、S.4429のような保護的措置と一致している。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNV2w2Znp5c3pkeUJucTN3dUNSRmZSbFp2Zm51eGJ0MlM0SU1HNzAxbEwxQ1pmbDJVMl9oWUJ2Y2tvLTNwal9JS2w1SmZUREo5U2dLczh0RXhRM3BHN2M1b2hLb0c1OEkwWDIxeGZqWVhxYlEtNXppT1FCRkliRHc3TXNLQ2Y0MkE4b0JpVldicGl1V1BpX3BURkVWX0NaQ3FiU2prU2FRYmdybkI5dW14VHJxa0NoZnc0YXlrOFM2VVB5aURhVmR3NFRCdGVHaTBOZFJuZ1RPZjQ2QThfOUM0QmJvRVNXd25aWmllZw?oc=5",
-          "added_at": "2026-06-15 07:48:36"
-        },
-        {
-          "uid": "414b1847b663",
-          "date": "2026-06-12",
-          "title": "AUVSI Endorses Connected Vehicle Security Act of 2026 - AUVSI",
-          "summary": "AUVSI（米国無人システム協会）は、接続車両のサイバーセキュリティ基準を強化し、自動運転技術の安全性を確保するS.4429法案を支持しています。本法案は、接続車両に対する統一的なセキュリティ要件の確立と、業界全体のサイバー脅威への対応能力向上を目指しています。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazItdGtHaU83bXNLVHhoOXZjYUFRMjZBamhlVTZ5Ti1IVno4c1h1N1pFLVpHU0tJZGhheU5OY2cxYldKbHQxb0FwOTFpbG1mcF84UksyOUJ3RHJSbVFXdzl1aDB0NmYwc2UtYXpaNFI3OFAxZzZidmFYWU1VSEgtV2xlYmViZ3pf?oc=5",
-          "added_at": "2026-06-13 19:19:06"
         }
       ]
     },
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-25 16:20:51",
+      "last_checked": "2026-07-26 00:06:27",
       "items": [
         {
           "uid": "9debcde2c1cf",
