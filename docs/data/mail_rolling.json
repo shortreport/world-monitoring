@@ -1,8 +1,38 @@
 {
   "updated_at": "2026-07-26 23:47 JST",
   "total": 50,
-  "toyota_summary": "The Trump administration is moving forward with new baseline tariffs of 10 to 12.5 percent under Section 301, replacing expiring duties that had been in place. The timing and scope remain fluid, but the shift signals the administration intends to maintain elevated tariff levels on imports rather than let them lapse. This matters because automakers source parts globally and assemble vehicles across borders; sustained tariffs at this level will increase costs and likely force companies to reconsider where they build and buy components.\n\nFrance and Germany are negotiating a joint industrial strategy focused on reviving European auto manufacturing, with both countries seeing the sector as critical to economic competitiveness. The collaboration suggests European governments plan to coordinate subsidies and regulations to protect domestic producers, which could reshape supply chains and create new barriers for companies operating on the continent. Watch whether these countries announce specific investments or production targets by the end of the quarter.",
+  "toyota_summary": "",
   "emails": [
+    {
+      "ts": "20260726_2244",
+      "sender_norm": "POLITICO",
+      "subject": "Massive forest fires reignite political tensions in Spain",
+      "subject_en": "Massive forest fires reignite political tensions in Spain",
+      "html": "data/pdfs/20260726_2244_Massive_forest_fires_reignite_political_tensions_i.html",
+      "pdf": "data/pdfs/20260726_2244_Massive_forest_fires_reignite_political_tensions_i.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "JUL 26  22:44",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260726_2033",
+      "sender_norm": "POLITICO",
+      "subject": "Romania blames Russia as military shoots down third drone",
+      "subject_en": "Romania blames Russia as military shoots down third drone",
+      "html": "data/pdfs/20260726_2033_Romania_blames_Russia_as_military_shoots_down_thir.html",
+      "pdf": "data/pdfs/20260726_2033_Romania_blames_Russia_as_military_shoots_down_thir.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "JUL 26  20:33",
+      "read_min": 2,
+      "toyota": false,
+      "excerpt": ""
+    },
     {
       "ts": "20260725_0736",
       "sender_norm": "Eurasia Group",
@@ -262,7 +292,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "Deadline Approaching! JETRO [Webinar] 2026 World Trade and Investment Report: Free Trade System Standing Firm in an Era of Normalized High Risk",
+      "subject_en": "Deadline Approaching! JETRO Webinar: 2026 World Trade and Investment Report: Free Trade System Standing Firm in an Era of Normalized High Risk",
       "html": "data/pdfs/20260724_1530_《締切間近！》ジェトロ【ウェビナー】2026年版世界貿易投資報告：高リスクが常態化する時代に、踏み止.html",
       "summary_en": "",
       "summary_ja": "",
@@ -557,7 +587,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "[From JETRO] Learn in One Day! Trade Practice Course - Basic Course Guidance (Online and Nagoya Venue Held Simultaneously)",
+      "subject_en": "From JETRO: Learn in One Day! Introduction to Trade Practice Basics Course (Online and Nagoya Venue Held Simultaneously)",
       "html": "data/pdfs/20260723_1434_【ジェトロより】1日で学べる！_貿易実務講座_基礎編のご案内（オンライン・名古屋会場_同時開催）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -572,7 +602,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "JETRO Regional and Analysis Report New Arrival Notice (July 23, 2026 Issue)",
+      "subject_en": "Notice of New JETRO Regional and Analysis Reports (July 23, 2026 Edition)",
       "html": "data/pdfs/20260723_1421_ジェトロ地域・分析レポートの新着のご案内（2026年7月23日号）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -634,8 +664,8 @@
       "excerpt": "紛争による市場逼迫で原油価格が1バレル90ドル台に上昇する見込みであり、イランのホルムズ海",
       "subject_en": "EG Research Summary in Japanese: 2026年7月23日",
       "html": "data/pdfs/20260723_0758_EG_Research_Summary_in_Japanese__2026年7月23日.html",
-      "summary_en": "",
-      "summary_ja": "",
+      "summary_en": "Escalating Middle East tensions—spanning the Strait of Hormuz, Red Sea shipping threats, and Ukraine's strikes on Russia—are set to push oil toward $90 a barrel, which will also squeeze already-tight global grain and fertilizer supplies and raise agricultural prices. Meanwhile, trade friction is intensifying elsewhere: Washington has imposed new 50% tariffs on some Canadian goods and revived Section 338 to pressure USMCA talks, India is delaying its E25 ethanol mandate by at least a year, and Gulf states are rerouting trade away from Hormuz-dependent corridors.",
+      "summary_ja": "ホルムズ海峡や紅海での緊張激化、ウクライナによるロシア攻撃を背景に原油価格は1バレル90ドル台へ上昇する見通しで、在庫が乏しい世界の穀物・肥料市場にも打撃を与え、農産物価格の上昇が見込まれる。一方、米国はカナダの一部製品に50％関税を課しUSMCA交渉打開のため通商法338条を復活させ、インドはE25エタノール混合義務化を少なくとも1年延期し、湾岸諸国はホルムズ依存を減らすため貿易路の再構築を進めている。",
       "summary_pdf": ""
     },
     {
@@ -712,31 +742,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20260723_0031",
-      "sender_norm": "POLITICO",
-      "subject": "Pro Daily Headlines",
-      "pdf": "data/pdfs/20260723_0031_Pro_Daily_Headlines.pdf",
-      "date_label": "JUL 23  00:31",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": ""
-    },
-    {
-      "ts": "20260722_2345",
-      "sender_norm": "POLITICO",
-      "subject": "Trump threatens retaliatory strikes on key Iranian infrastructure as",
-      "pdf": "data/pdfs/20260722_2345_Trump_threatens_retaliatory_strikes_on_key_Iranian.pdf",
-      "date_label": "JUL 22  23:45",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Trump threatens retaliatory strikes on key Iranian infrastructure as conflict escalates",
-      "html": "data/pdfs/20260722_2345_Trump_threatens_retaliatory_strikes_on_key_Iranian.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
