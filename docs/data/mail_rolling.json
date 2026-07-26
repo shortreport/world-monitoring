@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-25 09:17 JST",
+  "updated_at": "2026-07-26 23:47 JST",
   "total": 50,
-  "toyota_summary": "米国は、通商法301条に基づく関税を10～12.5%という安定的な基準水準へ移行させた。カナダに対する50%の関税警告は、USMCA（米国・メキシコ・カナダ協定）交渉に絡めた交渉戦術であり、確定した政策ではない。自動車メーカー各社は、この基準水準を前提に計画を立て、見出しを飾る威嚇的な数字は割り引いて捉えるべきである。\n\nフランスとドイツは、「欧州製」調達規制の厳格化と自動車メーカーへの救済措置――2035年の内燃機関禁止の緩和を含む――を組み合わせた大掛かりな取引について交渉を進めている。フォルクスワーゲンが表明した10万人規模の人員削減という警告が事態に緊迫感を加えており、10月のEU首脳会議までの合意成立が目標とされている。",
+  "toyota_summary": "The Trump administration is moving forward with new baseline tariffs of 10 to 12.5 percent under Section 301, replacing expiring duties that had been in place. The timing and scope remain fluid, but the shift signals the administration intends to maintain elevated tariff levels on imports rather than let them lapse. This matters because automakers source parts globally and assemble vehicles across borders; sustained tariffs at this level will increase costs and likely force companies to reconsider where they build and buy components.\n\nFrance and Germany are negotiating a joint industrial strategy focused on reviving European auto manufacturing, with both countries seeing the sector as critical to economic competitiveness. The collaboration suggests European governments plan to coordinate subsidies and regulations to protect domestic producers, which could reshape supply chains and create new barriers for companies operating on the continent. Watch whether these countries announce specific investments or production targets by the end of the quarter.",
   "emails": [
     {
       "ts": "20260725_0736",
@@ -62,6 +62,16 @@
       "summary_en": "The Trump administration has replaced its expired Section 122 tariffs with a new 10-12.5% baseline tariff under Section 301, marking the durable foundation of US trade policy going forward. Separately, the threatened 50% tariff on Canada under the untested Section 338 authority is a negotiating tactic aimed at pressuring Ottawa in stalled USMCA talks rather than a firm policy shift. Automakers and suppliers should treat the Section 301 baseline as the stable planning assumption, while discounting headline-grabbing threats as leverage tactics likely to recur across other trading partners.",
       "summary_ja": "トランプ政権は失効したセクション122関税に代わり、セクション301に基づく10~12.5%の新たな基準関税を導入し、これが今後の米通商政策の安定的な土台となる。一方、カナダに対する未検証のセクション338権限を用いた50%関税の脅しは、停滞するUSMCA交渉でカナダ側に圧力をかけるための交渉戦術に過ぎない。自動車メーカーやサプライヤーは、セクション301による基準関税を安定した前提として計画を立てつつ、他の貿易相手国にも波及しうる注目度の高い関税の脅しは交渉上のノイズとして割り引いて捉えるべきである。",
       "summary_pdf": ""
+    },
+    {
+      "ts": "20260725_0031",
+      "sender_norm": "POLITICO",
+      "subject": "Pro Daily Headlines",
+      "pdf": "data/pdfs/20260725_0031_Pro_Daily_Headlines.pdf",
+      "date_label": "JUL 25  00:31",
+      "read_min": 1,
+      "toyota": true,
+      "excerpt": "航空機メーカーは革新技術をファーンボロー航空ショーで展示したが、実際の旅客運用開始はいま"
     },
     {
       "ts": "20260725_0008",
@@ -727,22 +737,6 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20260722_2311",
-      "sender_norm": "Eurasia Group",
-      "subject": "EG Geo-technology: US AI governance will stay fragmented and",
-      "pdf": "data/pdfs/20260722_2311_EG_Geo-technology__US_AI_governance_will_stay_frag.pdf",
-      "date_label": "JUL 22  23:11",
-      "read_min": 4,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EG Geo-technology: US AI governance will stay fragmented and executive-driven through 2027",
-      "html": "data/pdfs/20260722_2311_EG_Geo-technology__US_AI_governance_will_stay_frag.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ],
-  "toyota_summary_en": "The US has shifted to a stable 10-12.5% Section 301 tariff baseline; the 50% Canada threat is a negotiating tactic tied to USMCA talks, not firm policy. Automakers should plan around the baseline and discount headline threats.\n\nFrance and Germany are negotiating a grand bargain pairing stricter 'Made in Europe' procurement rules with automaker relief, including softening the 2035 combustion-engine ban. Volkswagen's warning of 100,000 job cuts adds urgency, with a deal targeted before October's EU leaders summit."
+  ]
 }

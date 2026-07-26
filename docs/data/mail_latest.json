@@ -1,204 +1,40 @@
 {
-  "generated_at": "2026-07-25 09:15 JST",
-  "sender_count": 5,
-  "total_mails": 19,
+  "generated_at": "2026-07-26 23:47 JST",
+  "sender_count": 1,
+  "total_mails": 3,
   "summaries": [
-    {
-      "sender": "EG",
-      "short": "EG",
-      "color": "CYAN",
-      "count": 9,
-      "bullets": [
-        "イラン情勢の緊迫化に伴い農産物価格が上昇し、湾岸地域の貿易・外交関係が再構築される一方で、ホルムズ海峡の石油貿易における重要性が2030年までに半減する見通し",
-        "米国のAIガバナンスは2027年まで分断状態が続き、各州・裁判所・大統領令が政策を形成する中で、中国の技術的ブレークスルーなどにより政策が急変する可能性",
-        "米国は技術外交を外交政策の優先事項としながらも、対応的で分断された政策アプローチにより努力が阻害されている状況",
-        "ウクライナの穀物輸出収益を損なわせるためのロシアの黒海攻撃や、戦争資金調達に関する懸念の高まりなど、地政学的リスクが顕在化",
-        "インドの学生主導の抗議活動に対する政府の妥協の可能性やペルーの政治見通しの格上げなど、南米・南アジアにおける政治的安定化の兆し"
-      ],
-      "subjects": [
-        [
-          "2026-07-24",
-          "EG Research Summary in Japanese: 2026年7月24日",
-          "data/pdfs/20260724_0741_EG_Research_Summary_in_Japanese__2026年7月24日.pdf"
-        ],
-        [
-          "2026-07-24",
-          "EG South Asia Biweekly: Modi government likely to reach",
-          "data/pdfs/20260724_1615_EG_South_Asia_Biweekly__Modi_government_likely_to_.pdf"
-        ],
-        [
-          "2026-07-24",
-          "EG Daily Brief: US tech diplomacy likely to be undermined by",
-          "data/pdfs/20260724_2132_EG_Daily_Brief__US_tech_diplomacy_likely_to_be_und.pdf"
-        ],
-        [
-          "2026-07-24",
-          "EG Russia QUICKTAKE: Politicized rate cut shows Kremlin’s",
-          "data/pdfs/20260724_2225_EG_Russia_QUICKTAKE__Politicized_rate_cut_shows_Kr.pdf"
-        ],
-        [
-          "2026-07-24",
-          "EG Geo-technology, United Kingdom: Eliminating science and",
-          "data/pdfs/20260724_2319_EG_Geo-technology,_United_Kingdom__Eliminating_sci.pdf"
-        ],
-        [
-          "2026-07-24",
-          "Iran war escalation & energy implications - EG Conference Call",
-          "data/pdfs/20260724_2348_Iran_war_escalation_&_energy_implications_-_EG_Con.pdf"
-        ],
-        [
-          "2026-07-25",
-          "EG CONFERENCE CALL NOTES: China, the middle powers, and the",
-          "data/pdfs/20260725_0008_EG_CONFERENCE_CALL_NOTES__China,_the_middle_powers.pdf"
-        ],
-        [
-          "2026-07-25",
-          "EG US Daily: Separating signal from noise in Trump’s latest tariff",
-          "data/pdfs/20260725_0105_EG_US_Daily__Separating_signal_from_noise_in_Trump.pdf"
-        ],
-        [
-          "2026-07-25",
-          "EG Energy, Climate & Resources, China QUICKTAKE: Beijing’s",
-          "data/pdfs/20260725_0419_EG_Energy,_Climate_&_Resources,_China_QUICKTAKE__B.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260724_0741_EG_Research_Summary_in_Japanese__2026年7月24日.pdf",
-        "data/pdfs/20260724_1615_EG_South_Asia_Biweekly__Modi_government_likely_to_.pdf",
-        "data/pdfs/20260724_2132_EG_Daily_Brief__US_tech_diplomacy_likely_to_be_und.pdf",
-        "data/pdfs/20260724_2225_EG_Russia_QUICKTAKE__Politicized_rate_cut_shows_Kr.pdf",
-        "data/pdfs/20260724_2319_EG_Geo-technology,_United_Kingdom__Eliminating_sci.pdf",
-        "data/pdfs/20260724_2348_Iran_war_escalation_&_energy_implications_-_EG_Con.pdf",
-        "data/pdfs/20260725_0008_EG_CONFERENCE_CALL_NOTES__China,_the_middle_powers.pdf",
-        "data/pdfs/20260725_0105_EG_US_Daily__Separating_signal_from_noise_in_Trump.pdf",
-        "data/pdfs/20260725_0419_EG_Energy,_Climate_&_Resources,_China_QUICKTAKE__B.pdf"
-      ]
-    },
-    {
-      "sender": "Eurasia",
-      "short": "EURAS",
-      "color": "YEL",
-      "count": 4,
-      "bullets": [
-        "米国のAI技術統制強化と中国の能力向上に伴い、中堅国家によるレジリエンス構築と多角化の必要性",
-        "米国とイランの緊張激化がもたらすエネルギー価格ショックの世界的な経済・インフレへの悪影響と、エルニーニョによる南・東南アジア輸入国への追加的打撃",
-        "米国民主党の進歩派勢力の台頭がミッドタームおよび以降の政策を左傾化させる可能性",
-        "英国の科学技術部門再編がロンドンの第三の道テック・AI戦略と指導的地位を危険にさらす懸念",
-        "新ポータルプラットフォームの導入によるリサーチアクセス体験の向上"
-      ],
-      "subjects": [
-        [
-          "2026-07-24",
-          "Research Summary for Jul 23, 2026",
-          "data/pdfs/20260724_0736_Research_Summary_for_Jul_23,_2026.pdf"
-        ],
-        [
-          "2026-07-24",
-          "EG Top 10 Most Read For Week Ending Jul 24, 2026",
-          "data/pdfs/20260724_2111_EG_Top_10_Most_Read_For_Week_Ending_Jul_24,_2026.pdf"
-        ],
-        [
-          "2026-07-25",
-          "New client portal launches next week",
-          "data/pdfs/20260725_0229_New_client_portal_launches_next_week.pdf"
-        ],
-        [
-          "2026-07-25",
-          "Research Summary for Jul 24, 2026",
-          "data/pdfs/20260725_0736_Research_Summary_for_Jul_24,_2026.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260724_0736_Research_Summary_for_Jul_23,_2026.pdf",
-        "data/pdfs/20260724_2111_EG_Top_10_Most_Read_For_Week_Ending_Jul_24,_2026.pdf",
-        "data/pdfs/20260725_0229_New_client_portal_launches_next_week.pdf",
-        "data/pdfs/20260725_0736_Research_Summary_for_Jul_24,_2026.pdf"
-      ]
-    },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "RED",
-      "count": 4,
+      "color": "CYAN",
+      "count": 3,
       "bullets": [
-        "トランプ米政権が複数の貿易相手国に二桁の関税を新たに発動し、EUを含む各国に影響。",
-        "GPS妨害・スプーフィング技術の脅威から航空機の安全運航を確保するため、技術企業による新たなナビゲーション手段の開発が進展。",
-        "フランスとドイツが欧州産業強化と自動車産業復興のための包括的協定を交渉中で、「メイド・イン・ヨーロッパ」条件強化とガソリン車廃止時期延期などを検討。",
-        "EUが強制労働に関する輸入品規制の不備を理由とする米国の新関税について、米国が大西洋間の貿易休戦条件をおおむね遵守したとして受容の可能性を示唆。"
+        "ポーランドの保守派が分裂し、2027年選挙に向けて野党がドナルド・トゥスク首相の打倒を狙う力が減弱",
+        "次世代航空機は技術的進歩が進んでいるものの、実用化までは数年以上かかる見通",
+        "米国の新関税が10%に設定され、EU・米国間の貿易協定の基準内での落ち着き",
+        "フランスとドイツがEU産業政策の見直しに向け、保護措置強化と排ガス規制の緩和を協議推進"
       ],
       "subjects": [
         [
           "2026-07-24",
-          "Last commissioner standing",
-          "data/pdfs/20260724_1354_Last_commissioner_standing.pdf"
+          "Polish conservatives split ahead of 2027 election",
+          "data/pdfs/20260724_2116_Polish_conservatives_split_ahead_of_2027_election.pdf"
         ],
         [
           "2026-07-24",
-          "GPS threats prompt air navigation innovation",
-          "data/pdfs/20260724_1401_GPS_threats_prompt_air_navigation_innovation.pdf"
+          "Why tomorrow’s aircraft are still years away from takeoff",
+          "data/pdfs/20260724_2357_Why_tomorrow’s_aircraft_are_still_years_away_from_.pdf"
         ],
         [
-          "2026-07-24",
-          "France, Germany seek grand bargain on cars and ‘Made in Europe’",
-          "data/pdfs/20260724_1722_France,_Germany_seek_grand_bargain_on_cars_and_‘Ma.pdf"
-        ],
-        [
-          "2026-07-24",
-          "EU signals relief over new US tariffs as Trump respects",
-          "data/pdfs/20260724_1828_EU_signals_relief_over_new_US_tariffs_as_Trump_res.pdf"
+          "2026-07-25",
+          "Pro Daily Headlines",
+          "data/pdfs/20260725_0031_Pro_Daily_Headlines.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260724_1354_Last_commissioner_standing.pdf",
-        "data/pdfs/20260724_1401_GPS_threats_prompt_air_navigation_innovation.pdf",
-        "data/pdfs/20260724_1722_France,_Germany_seek_grand_bargain_on_cars_and_‘Ma.pdf",
-        "data/pdfs/20260724_1828_EU_signals_relief_over_new_US_tariffs_as_Trump_res.pdf"
-      ]
-    },
-    {
-      "sender": "ジェトロ調査企画課・デジタルメディア班",
-      "short": "ジェトロ調",
-      "color": "ORG",
-      "count": 1,
-      "bullets": [
-        "ジェトロが「2026年版世界貿易投資報告」に関するウェビナーを8月5日に開催",
-        "高リスクが常態化する時代における自由貿易体制の動向を、世界と日本の貿易、企業投資、通商政策の3つの観点から解説",
-        "米中対立、地政学リスク、経済安全保障、WTO・FTA等の最新動向と実務対応について情報提供",
-        "受講無料で中堅・中小企業を対象とし、申込締切は8月3日17時"
-      ],
-      "subjects": [
-        [
-          "2026-07-24",
-          "《締切間近！》ジェトロ【ウェビナー】2026年版世界貿易投資報告：高",
-          "data/pdfs/20260724_1530_《締切間近！》ジェトロ【ウェビナー】2026年版世界貿易投資報告：高リスクが常態化する時代に、踏み止.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260724_1530_《締切間近！》ジェトロ【ウェビナー】2026年版世界貿易投資報告：高リスクが常態化する時代に、踏み止.pdf"
-      ]
-    },
-    {
-      "sender": "ビジネス短信",
-      "short": "ビジネス短",
-      "color": "GRN",
-      "count": 1,
-      "bullets": [
-        "BYDがアゼルバイジャンの乗用車市場に参入し、5車種を投入",
-        "中国の広汽集団がモロッコ市場への進出を開始",
-        "遼寧省が2030年までに海洋生産総額8,000億元を目指す5カ年規画を発表",
-        "ジェトロが中国成都のホテルレックス展にジャパンブースを初出展",
-        "韓国政府がK-カルチャー育成を目的とした1,500億ウォン規模ファンドを創設",
-        "シンガポール内閣改造で貿易産業省をエネルギー・貿易産業省に改称"
-      ],
-      "subjects": [
-        [
-          "2026-07-24",
-          "「ジェトロ・ビジネス短信」2026/07/24",
-          "data/pdfs/20260724_1826_「ジェトロ・ビジネス短信」2026_07_24.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260724_1826_「ジェトロ・ビジネス短信」2026_07_24.pdf"
+        "data/pdfs/20260724_2116_Polish_conservatives_split_ahead_of_2027_election.pdf",
+        "data/pdfs/20260724_2357_Why_tomorrow’s_aircraft_are_still_years_away_from_.pdf",
+        "data/pdfs/20260725_0031_Pro_Daily_Headlines.pdf"
       ]
     }
   ]
