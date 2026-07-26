@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26 16:37:50",
+  "generated_at": "2026-07-26 23:47:27",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-26 16:37:26",
+      "last_checked": "2026-07-26 23:46:45",
       "items": [
         {
           "uid": "0659d72e0f29",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-26 16:37:34",
+      "last_checked": "2026-07-26 23:47:00",
       "items": [
         {
           "uid": "4fa508bd18e4",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-26 16:37:50",
+      "last_checked": "2026-07-26 23:47:27",
       "items": [
+        {
+          "uid": "f26461731040",
+          "date": "2026-05-13",
+          "title": "How China Could Wield Its Control of Rare Earths Against Trump - The New York Times",
+          "summary": "中国はレアアース輸出を制限することで、トランプ政権の関税政策に対する報復手段として機能させる可能性があります。中国が世界のレアアース供給の大部分を支配していることから、輸出管理を通じた経済的圧力は米国の防衛・技術産業に深刻な影響をもたらす戦略的な交渉カードとなり得ます。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0lzYTU1U1JSVDlSRW50aVU0TWRVTkkwMU52WWRiQXJJWXFDQzFnSlAwT1VMejU0eUpoQzZZQ1VDUmhnak92QU1qdmdrVUxJYnFneUZFaHN2MEY2cEFrMmdCWDNNa0NBbm5YM0MxVEVCejlEZDNmTm1sRjFnZmpJYQ?oc=5",
+          "added_at": "2026-07-26 23:47:22"
+        },
+        {
+          "uid": "e7126f0f571b",
+          "date": "2026-05-15",
+          "title": "China’s 2025 Rare Earth Controls Continue to Reprice Western Critical Mineral Assets - Crux Investor",
+          "summary": "中国は2025年もレアアース輸出管理を継続・強化することで、西側諸国の重要鉱物資産の価格評価を大きく変動させている。この政策により、レアアース供給の地政学的リスクが高まり、西側企業や政府は代替供給源やサプライチェーン多角化への投資を加速させている。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUNtd0pGVG00VExubGp1c01JVUduR0JGWGNPQmRNdkJhajRvOXJjdks3Q0xPS0hVb1dQdVA1b2EtbU53TkZVZ2NoYnd2ZnBpODRWNDRWNDZNcHIyU0w5X0t3ejBuNzFZak9NSEpnUGd1YWpGYWVCQnFkTlpRZGR0Ulk3MUVaczN1QWJGN2h5TFBaTW9YUWxMZUJFczlRV0pKc2NJeHQzRGdHdGQzem9DaW8tUEozNzBoblE?oc=5",
+          "added_at": "2026-07-26 23:47:22"
+        },
         {
           "uid": "954a4c3e16ee",
           "date": "2026-07-24",
@@ -6011,26 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVZLV1Y3NEVpcy03YXJ4dEVvbHdUZkVIOWxFVlJDRS1OMnNQUWlfelFRTWxVV0xTSmxYMVd6U3p0V09pbDBhMmVoa2g2bzVEZTI4YjlNOGYtaDUwRnlrZEVLMmJYUnZVU0NKWWNDVVYweXZKMHhNbTd1YjdBTTMwRmJiTjRHQTRB?oc=5",
           "added_at": "2026-07-08 10:37:15"
-        },
-        {
-          "uid": "a2c7995482c9",
-          "date": "2026-06-21",
-          "title": "China imposes trade curbs on dozens of U.S. firms in retaliation for Pentagon blacklist - CNBC",
-          "summary": "中国はペンタゴンのブラックリスト指定に対する報復として、数十の米国企業に対して貿易制限を課しており、これはレアアース等の戦略的資源の輸出管理を含む可能性のある報復措置である。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXo1RzZsUk1PSnJ4V2hJWEZmZG51bmZrRW5Na183b0I5TUlWbGpFR3lVTFVoQ0pBUkNoQlcyUm9QQW1oSTdWLTdvaHRoZUdVVnJFalNQOWRjSC1fVHFIOVJnZjliSTdxTXhWYkNqQVU2dlRmYlRJMW9vLWpwY3hiLVBFNk10alBTLW1ud1FtOF9iaDRtRURMNEQ2ZHpIcmtkN2M1VEl0b1doX3dBckptVEppZXlzVi1xMUx5Zg?oc=5",
-          "added_at": "2026-07-08 10:25:58"
-        },
-        {
-          "uid": "763000c38273",
-          "date": "2026-07-07",
-          "title": "Op-ed: The paradigm shift in critical mineral investment –Tungsten is just the beginning.",
-          "summary": "中国のレアアース輸出管理に対抗するため、先進国の重要鉱物戦略は中国との競争追従から、実際の影響力が残る競争可能な市場への転換が必要であり、タングステンはその転換の始まりに過ぎないということを示唆している。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/op-ed-the-paradigm-shift-in-critical-mineral-investment-tungsten-is-just-the-beginning/",
-          "added_at": "2026-07-08 10:25:58"
         }
       ]
     }
