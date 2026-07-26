@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26 00:06:27",
+  "generated_at": "2026-07-26 16:37:50",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-26 00:05:58",
+      "last_checked": "2026-07-26 16:37:26",
       "items": [
+        {
+          "uid": "0659d72e0f29",
+          "date": "2026-06-19",
+          "title": "CLEW Guide – How the European Union is trying to legislate a path to net-zero - Clean Energy Wire",
+          "summary": "欧州産業加速法案（IAA）は、EU が 2050 年までのネットゼロ達成に向けて、クリーンテクノロジーの国内製造能力を強化し、グリーン産業の競争力を高めるための重要な法制上の枠組みです。本法案は、再生可能エネルギー、電池、水素などの重要な産業分野における EU の戦略的自立性を確保しながら、欧州グリーン・ディールの目標達成を加速させることを目的としています。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU2Rac3gzVkJzNzZYZmhWQ1BQQUNiSEo2dFU3Rllhd1pQZHdpMnY0WTVZRFlfOU1pQW9GSC1FTjFoNy1zaVBhbjgzb3dsRUFxREFudVhTeGpDYjJqQkNtZHRDa0J3T2s5RV9ZS2h3NUQ5T0E4SWQxUHBheWlMS2Z6UFRaRnRjLVRYdUxVbkpmN3padTRGQm1GTUlyYnROZ3BGZFZ5bW1R?oc=5",
+          "added_at": "2026-07-26 16:37:24"
+        },
         {
           "uid": "522c88d238f7",
           "date": "2026-07-02",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOVhBTG1tNG9ISno3VGRuZm91ZmVVY3JmV2ZIaWNHSlVjMmdkZW9fOVBMOUFseUdaUGRlRmtTVWM1NVh5emg4aE9ISjN6OXpCMVBRak9QdTFuSmg5cEpXeXM4aDZ3Nzd6d3JaR0o3MzBlRy12OTVDVFVsbXRDTklnelJsMklvMEZCNldRaFo3a3FvRF9rY1M1NkVvOVFuN1MwSzg0SWxDc2FSZTBBWGpHVFJ3aTNBZDRqSEVuNmp6c2dMaHhYV3pZdzBYSHZhTUNxdk13bFNmU29RSERGekpEMmNsVHZNU3A2OTVfaElfdlBIUWpweXJtNA?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "b8136d3c41e7",
-          "date": "2026-02-26",
-          "title": "Policy experts advise rethink of European Competitiveness Fund - Science|Business",
-          "summary": "申し訳ございませんが、提供いただいたテキストには具体的な記事内容が含まれておらず、タイトルのみとなっているため、要約することができません。記事の本文をご提供いただければ、欧州産業加速法案（IAA）の文脈における日本語要約を作成いたします。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUDV6S0E2dW1MekVYeVRxZE9nalh4WEZ6OUwwOHQ2eFhQUW9UczBjZWx0bjdWZGRKcDEtaExnTXJLUDlWZk05MnRTNXhTelMyNkNMakszbnRaYzFyMGZiUmVxR21zWDVlbGx6QndIUUw3bVVMLU0xbTVaaWFWSS1vXzFQTUI4N3JCQUZwTmJVUDhfczY4enVEUmYyWGItMG1hUTlKVmEwT3dlUQ?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-26 00:06:13",
+      "last_checked": "2026-07-26 16:37:34",
       "items": [
         {
           "uid": "4fa508bd18e4",
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-26 00:06:27",
+      "last_checked": "2026-07-26 16:37:50",
       "items": [
+        {
+          "uid": "954a4c3e16ee",
+          "date": "2026-07-24",
+          "title": "Beijing's Export Control Counterpunch: 14 EU Entities Added to China's Controlled List - Geopolitechs",
+          "summary": "中国は、EU関連の地政学的対立に対抗する措置として、14のEU企業・機関を輸出管理対象リストに追加し、これらへの戦略的物資の輸出を制限する報復措置を講じた。この措置はレアアースを含む重要鉱物の輸出管理を通じて、地政学的な圧力手段として機能している。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lUEd4cTdMa1UxZFJaTFBBamhkR0NaelFhVGNxQ2x5T1JCMENJUUxqS20yTGJUY0xIXzZDZGZ2Q1hQc0NHNHhDX3dsNDYtUGxNam55Q3ZjcmNTVTQ3R2Vwazl0d3J6cmxhRmFXX1NLTDFMN3M4U3c?oc=5",
+          "added_at": "2026-07-26 16:37:45"
+        },
+        {
+          "uid": "1c39030821b8",
+          "date": "2026-06-05",
+          "title": "Washington Links TRIPP and Jackson-Vanik Repeal in Push Toward Central Asia - The Times Of Central Asia",
+          "summary": "申し訳ありませんが、提供いただいたテキストは見出しのみで、記事の本文内容がないため、「中国レアアース輸出管理」に関する要約を作成することができません。記事の詳細な内容をご提供いただければ、要約させていただきます。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkYwcWFybXRhZUNUNEQyWFgwNl9YdUpaV2xXTm51SmpmTDdQTGhyeThsb25TY1NsZWthX3lDQVV5MUxqSDBSTXoyeHRkZmxHS05WcVBWRHdfZktwcklLeENSQXUwRjEtZW9uZUN0ZnRvekZMSmZKSmdPOXFuZjZFR21Nc2puaktzbjdwUnlVOXBsRTNDQXoydmZhZ3Y?oc=5",
+          "added_at": "2026-07-26 16:37:45"
+        },
+        {
+          "uid": "9e519360b3a4",
+          "date": "2026-07-25",
+          "title": "China Rare Earth Index Stays Elevated as NdPr Rises; Heavy-Rare-Earth Scarcity Persists - Rare Earth Exchanges",
+          "summary": "中国のレアアース指数は、ネオジム・プラセオジム（NdPr）の上昇に伴い高水準を維持する一方で、重希土類の供給不足が継続している。中国の輸出管理下における希土類価格の上昇と供給逼迫が、産業界に対する市場圧力となっている。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSjYybE5peEZFd1JYTWVHVzNUMVNXN0NJVWtOaTJUa0NUamhTTk9PT1ZfOVFWM0JPdGdfVFA3Zzc1dmVBZ0xqN3R4b2tVdDZmdVJXQUxYOTBySElsX3hLczdsRnpCVHFsTnU2U0pSNE9hZnRqMUNoWnc0a1F0NW1uLXVxaEhOMmFKYWJaenM1WEVWUi1RU1NRSUdhcVRhMEV4Z2I2eGNsWVlBdF80UG5xcDZnUXFNSG1CZ1dmWF94d1E?oc=5",
+          "added_at": "2026-07-26 16:37:45"
+        },
         {
           "uid": "9debcde2c1cf",
           "date": "2026-05-08",
@@ -6001,36 +6031,6 @@
           "source_type": "industry",
           "url": "https://www.mining.com/op-ed-the-paradigm-shift-in-critical-mineral-investment-tungsten-is-just-the-beginning/",
           "added_at": "2026-07-08 10:25:58"
-        },
-        {
-          "uid": "37aea0c72df8",
-          "date": "2026-07-07",
-          "title": "Canada set to back Teck’s BC smelter to boost germanium output: report",
-          "summary": "カナダは、テック・リソーシズのトレイル製錬所への大型資金提供を計画し、ゲルマニウム生産を増強して北米の重要鉱物サプライチェーンを確保しようとしている。これは中国のレアアース輸出管理に対抗し、西側諸国が重要鉱物の供給源の多様化と国内産業の強化を急速に進めていることを示している。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/canada-set-to-back-tecks-bc-smelter-to-boost-germanium-output-report/",
-          "added_at": "2026-07-08 10:25:58"
-        },
-        {
-          "uid": "901154dd39c0",
-          "date": "2026-07-07",
-          "title": "US condemns China’s ICBM test launch",
-          "summary": "本記事はICBM試射に関する米国の非難を扱っており、レアアース輸出管理とは直接の関連がないため、要約対象として適切ではありません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/defense/5957727-china-icbm-missile-test/",
-          "added_at": "2026-07-08 10:25:58"
-        },
-        {
-          "uid": "f26461731040",
-          "date": "2026-05-13",
-          "title": "How China Could Wield Its Control of Rare Earths Against Trump - The New York Times",
-          "summary": "中国がレアアースの輸出制限を武器として米国との貿易紛争で活用する可能性を指摘した記事で、世界的なレアアース供給の大部分を支配する中国が戦略物資として輸出管理を厳しくすることで、米国の防衛・技術産業に打撃を与える可能性があることが示唆されている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0lzYTU1U1JSVDlSRW50aVU0TWRVTkkwMU52WWRiQXJJWXFDQzFnSlAwT1VMejU0eUpoQzZZQ1VDUmhnak92QU1qdmdrVUxJYnFneUZFaHN2MEY2cEFrMmdCWDNNa0NBbm5YM0MxVEVCejlEZDNmTm1sRjFnZmpJYQ?oc=5",
-          "added_at": "2026-07-08 05:23:39"
         }
       ]
     }
