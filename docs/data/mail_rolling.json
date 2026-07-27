@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-07-26 23:47 JST",
+  "updated_at": "2026-07-27 10:45 JST",
   "total": 50,
-  "toyota_summary": "",
+  "toyota_summary": "The Trump administration moved to reinstate tariffs on imports under Section 301, with base rates of 10 to 12.5 percent, after the previous version expired. The timing and scope remain unclear, but the threat is immediate and affects supply chains across multiple countries.\n\nFor automakers, this matters because nearly every vehicle sold in the U.S. relies on parts sourced globally. A 10 percent tariff on imports would raise production costs across the industry unless manufacturers move sourcing to the U.S. or Mexico, a shift that takes years and billions in capital. Europe and Japan would be hit first; both are negotiating exemptions or retaliation measures.\n\nWatch whether the administration grants carve-outs for specific countries or sectors, or if the tariffs take effect as written.",
   "emails": [
+    {
+      "ts": "20260727_1041",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG EG China,",
+      "pdf": "data/pdfs/20260727_1041_EG_EG_China,_Japan中国は日本に対する圧力攻勢を調整しながら継続する.pdf",
+      "date_label": "JUL 27  10:41",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
     {
       "ts": "20260726_2244",
       "sender_norm": "POLITICO",
@@ -727,22 +737,6 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20260723_0055",
-      "sender_norm": "Eurasia Group",
-      "subject": "EG Oil: Strait of Hormuz significance for oil trade could be cut in",
-      "pdf": "data/pdfs/20260723_0055_EG_Oil__Strait_of_Hormuz_significance_for_oil_trad.pdf",
-      "date_label": "JUL 23  00:55",
-      "read_min": 6,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EG Oil: Strait of Hormuz significance for oil trade could be cut in half by 2030",
-      "html": "data/pdfs/20260723_0055_EG_Oil__Strait_of_Hormuz_significance_for_oil_trad.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ],
-  "toyota_summary_en": ""
+  ]
 }

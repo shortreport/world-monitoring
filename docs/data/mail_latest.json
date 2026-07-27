@@ -1,40 +1,55 @@
 {
-  "generated_at": "2026-07-26 23:47 JST",
-  "sender_count": 1,
+  "generated_at": "2026-07-27 10:45 JST",
+  "sender_count": 2,
   "total_mails": 3,
   "summaries": [
     {
-      "sender": "POLITICO",
-      "short": "POLIT",
+      "sender": "EG",
+      "short": "EG",
       "color": "CYAN",
-      "count": 3,
+      "count": 1,
       "bullets": [
-        "ポーランドの保守派が分裂し、2027年選挙に向けて野党がドナルド・トゥスク首相の打倒を狙う力が減弱",
-        "次世代航空機は技術的進歩が進んでいるものの、実用化までは数年以上かかる見通",
-        "米国の新関税が10%に設定され、EU・米国間の貿易協定の基準内での落ち着き",
-        "フランスとドイツがEU産業政策の見直しに向け、保護措置強化と排ガス規制の緩和を協議推進"
+        "中国は日本の地域政策に対する強硬姿勢に激怒し、外交ルート凍結と高レベルの政治的シグナルにより年内解決は困難な見通し",
+        "中国の報復措置は日本の防衛サプライチェーンに集中し、レアアースなどの輸出規制を継続、時間経過とともに圧力が増加する見込み",
+        "日本は中国への報復を回避し、サプライチェーンの強靱性強化を加速、米国企業への影響拡大を容認する方針"
       ],
       "subjects": [
         [
-          "2026-07-24",
-          "Polish conservatives split ahead of 2027 election",
-          "data/pdfs/20260724_2116_Polish_conservatives_split_ahead_of_2027_election.pdf"
-        ],
-        [
-          "2026-07-24",
-          "Why tomorrow’s aircraft are still years away from takeoff",
-          "data/pdfs/20260724_2357_Why_tomorrow’s_aircraft_are_still_years_away_from_.pdf"
-        ],
-        [
-          "2026-07-25",
-          "Pro Daily Headlines",
-          "data/pdfs/20260725_0031_Pro_Daily_Headlines.pdf"
+          "2026-07-27",
+          "EG EG China,",
+          "data/pdfs/20260727_1041_EG_EG_China,_Japan中国は日本に対する圧力攻勢を調整しながら継続する.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260724_2116_Polish_conservatives_split_ahead_of_2027_election.pdf",
-        "data/pdfs/20260724_2357_Why_tomorrow’s_aircraft_are_still_years_away_from_.pdf",
-        "data/pdfs/20260725_0031_Pro_Daily_Headlines.pdf"
+        "data/pdfs/20260727_1041_EG_EG_China,_Japan中国は日本に対する圧力攻勢を調整しながら継続する.pdf"
+      ]
+    },
+    {
+      "sender": "POLITICO",
+      "short": "POLIT",
+      "color": "YEL",
+      "count": 2,
+      "bullets": [
+        "ルーマニアの戦闘機が3日連続でウクライナ上空に侵入したドローンを撃墜し、ロシアによる「容認できず耐え難い」侵犯行為として大統領が非難",
+        "ルーマニア領空への侵犯はNATO加盟国における最新の軍事的緊張激化を示す事態",
+        "スペインのマドリード、アビラ、トレド、カステリョン周辺での大規模森林火災により10万人以上が避難",
+        "スペインの森林火災は消防能力の不備を露呈させ、左右勢力間での政治的対立を再燃"
+      ],
+      "subjects": [
+        [
+          "2026-07-26",
+          "Romania blames Russia as military shoots down third drone",
+          "data/pdfs/20260726_2033_Romania_blames_Russia_as_military_shoots_down_thir.pdf"
+        ],
+        [
+          "2026-07-26",
+          "Massive forest fires reignite political tensions in Spain",
+          "data/pdfs/20260726_2244_Massive_forest_fires_reignite_political_tensions_i.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260726_2033_Romania_blames_Russia_as_military_shoots_down_thir.pdf",
+        "data/pdfs/20260726_2244_Massive_forest_fires_reignite_political_tensions_i.pdf"
       ]
     }
   ]
