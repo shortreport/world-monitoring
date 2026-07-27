@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-28 07:00 JST",
+  "updated_at": "2026-07-28 07:01 JST",
   "total": 50,
-  "toyota_summary": "China and Thailand announced a joint commitment to expand cooperation in emerging fields including artificial intelligence, positioning themselves as closer strategic partners in technology development. This matters because both countries are becoming manufacturing hubs for components and vehicles, and closer AI ties could accelerate their adoption of autonomous driving and battery management systems ahead of European and American competitors. Watch whether this partnership produces specific joint ventures or technology-sharing agreements by year-end.\n\nThe European Union's military mobility regulations enter a technical phase on September 1st, with the Council and Parliament targeting a political agreement by December. For automakers, this opens a substantial market for specialized vehicles and logistics solutions, but the rules are still being written—and regulatory uncertainty could delay orders or force costly redesigns if final standards differ from current proposals.\n\nFrance and Germany are pursuing a \"grand bargain\" to revive Europe's automotive industry and strengthen continental manufacturing. The details remain vague, but both leaders are signaling willingness to coordinate industrial policy, which could mean new subsidies, trade protection, or joint investment targets that reshape the competitive landscape for all players in the region.",
+  "toyota_summary": "現代自動車の第2四半期利益は、売上増にもかかわらず20％減少した。これは、旺盛な需要下にあってもなお、関税と コスト圧力がマージンを圧迫している実態を示すものであり、グローバルなサプライチェーンを抱える他の自動車メーカーにとっても同様のリスクを示唆している。\n\n米上院は「コネクテッド・ビークル安全法案」を可決した。同法案は中国、ロシア、北朝鮮、イランに由来する技術を対象としており、米国内で販売されるコネクテッドカー部品について、自動車メーカーにサプライチェーンの再設計を迫る可能性がある。\n\n参考情報として、インドの第1四半期自動車販売台数が過去最高を記録したことを付記する。",
   "emails": [
     {
       "ts": "20260728_0132",
@@ -11,7 +11,12 @@
       "date_label": "JUL 28  01:32",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG US Daily: Trump’s last-minute pause on escalation does not create an off-ramp with Iran",
+      "html": "data/pdfs/20260728_0132_EG_US_Daily__Trump’s_last-minute_pause_on_escalati.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_0015",
@@ -21,7 +26,12 @@
       "date_label": "JUL 28  00:15",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Germany: Reform deal significantly reduces odds of government breakdown",
+      "html": "data/pdfs/20260728_0015_EG_Germany__Reform_deal_significantly_reduces_odds.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_0000",
@@ -31,7 +41,12 @@
       "date_label": "JUL 28  00:00",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Geoeconomics, United States: US midterms likely to shift expectations of Fed actions",
+      "html": "data/pdfs/20260728_0000_EG_Geoeconomics,_United_States__US_midterms_likely.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260727_2301",
@@ -41,7 +56,12 @@
       "date_label": "JUL 27  23:01",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iran war escalation & energy implications - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260727_2301_Iran_war_escalation_&_energy_implications_-_EG_Con.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260727_2131",
@@ -50,18 +70,28 @@
       "pdf": "data/pdfs/20260727_2131_EG_Daily_Brief__China_expands_rare_earths_export_c.pdf",
       "date_label": "JUL 27  21:31",
       "read_min": 10,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EG Daily Brief: China expands rare earths export control leverage",
+      "html": "data/pdfs/20260727_2131_EG_Daily_Brief__China_expands_rare_earths_export_c.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260727_2047",
-      "sender_norm": "Ian",
+      "sender_norm": "Ian Bremmer",
       "subject": "eg update",
       "pdf": "data/pdfs/20260727_2047_eg_update.pdf",
       "date_label": "JUL 27  20:47",
       "read_min": 12,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update",
+      "html": "data/pdfs/20260727_2047_eg_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260727_2001",
@@ -71,7 +101,12 @@
       "date_label": "JUL 27  20:01",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260727_2001_Europe_update_-_EG_Conference_Call,_REMINDER.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260727_1851",
@@ -81,7 +116,12 @@
       "date_label": "JUL 27  18:51",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Energy, Climate & Resources, United Kingdom: Great Britain likely to narrowly miss clean power pledge",
+      "html": "data/pdfs/20260727_1851_EG_Energy,_Climate_&_Resources,_United_Kingdom__Gr.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260727_1831",
@@ -90,8 +130,13 @@
       "pdf": "data/pdfs/20260727_1831_EG_Research_Summary_in_Japanese__2026年7月27日.pdf",
       "date_label": "JUL 27  18:31",
       "read_min": 4,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese: 2026年7月27日",
+      "html": "data/pdfs/20260727_1831_EG_Research_Summary_in_Japanese__2026年7月27日.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260727_1808",
@@ -101,17 +146,27 @@
       "date_label": "JUL 27  18:08",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Indonesia QUICKTAKE: Bank Indonesia governor’s exit fuels central bank independence concerns",
+      "html": "data/pdfs/20260727_1808_EG_Indonesia_QUICKTAKE__Bank_Indonesia_governor’s_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260727_1806",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/07/27",
       "pdf": "data/pdfs/20260727_1806_「ジェトロ・ビジネス短信」2026_07_27.pdf",
       "date_label": "JUL 27  18:06",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中国とタイがAIを含む新興分野での協力を拡大する共同声明を発表し、両国の戦略的パートナー"
+      "excerpt": "中国とタイがAIを含む新興分野での協力を拡大する共同声明を発表し、両国の戦略的パートナー",
+      "subject_en": "\"JETRO Business Brief\" 2026/07/27",
+      "html": "data/pdfs/20260727_1806_「ジェトロ・ビジネス短信」2026_07_27.html",
+      "summary_en": "Hyundai Motor reported higher second-quarter sales but a 20% drop in operating profit, reflecting cost pressures despite strong demand. Meanwhile, the U.S. Senate Commerce Committee advanced the Connected Vehicle Safety Act targeting vehicle technology from China, Russia, North Korea and Iran, and India's passenger car sales hit a record high in the first quarter, underscoring diverging trends across major auto markets.",
+      "summary_ja": "現代自動車は第2四半期の売上高が増加した一方、営業利益は2割減少し、コスト圧力が業績を圧迫した。同時期、米上院委員会は中国・ロシア・北朝鮮・イラン関連の車載技術を対象とする「コネクテッドビークル安全保障法案」を承認し、インドでは乗用車販売が過去最高を記録するなど、主要自動車市場で明暗が分かれている。",
+      "summary_pdf": "data/pdfs/20260727_1806_「ジェトロ・ビジネス短信」2026_07_27_en.pdf"
     },
     {
       "ts": "20260727_1736",
@@ -121,7 +176,12 @@
       "date_label": "JUL 27  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iceland opposition chief to Europe: Don’t meddle in our referendum",
+      "html": "data/pdfs/20260727_1736_Iceland_opposition_chief_to_Europe__Don’t_meddle_i.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260727_1635",
@@ -131,7 +191,12 @@
       "date_label": "JUL 27  16:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "French politicians can’t get enough of ‘De Gaulle’",
+      "html": "data/pdfs/20260727_1635_French_politicians_can’t_get_enough_of_‘De_Gaulle’.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260727_1401",
@@ -140,8 +205,13 @@
       "pdf": "data/pdfs/20260727_1401_September_push_for_military_mobility.pdf",
       "date_label": "JUL 27  14:01",
       "read_min": 9,
-      "toyota": true,
-      "excerpt": "EU軍事移動規制は9月1日から技術段階に入り、理事会と議会は年末までの政治合意を目指してい"
+      "toyota": false,
+      "excerpt": "EU軍事移動規制は9月1日から技術段階に入り、理事会と議会は年末までの政治合意を目指してい",
+      "subject_en": "September push for military mobility",
+      "html": "data/pdfs/20260727_1401_September_push_for_military_mobility.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260727_1355",
@@ -150,8 +220,13 @@
       "pdf": "data/pdfs/20260727_1355_How_Trump’s_tariffs_could_tear_up_Turnberry.pdf",
       "date_label": "JUL 27  13:55",
       "read_min": 13,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "How Trump’s tariffs could tear up Turnberry",
+      "html": "data/pdfs/20260727_1355_How_Trump’s_tariffs_could_tear_up_Turnberry.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260727_1041",
@@ -412,7 +487,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/07/24",
+      "subject_en": "JETRO Business Brief 2026/07/24",
       "html": "data/pdfs/20260724_1826_「ジェトロ・ビジネス短信」2026_07_24.html",
       "summary_en": "",
       "summary_ja": "",
@@ -457,7 +532,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "Deadline Approaching! JETRO Webinar: 2026 World Trade and Investment Report: Free Trade System Standing Firm in an Era of Normalized High Risk",
+      "subject_en": "Approaching Deadline! JETRO Webinar: 2026 World Trade and Investment Report: Maintaining the Free Trade System in an Era of Normalized High Risk",
       "html": "data/pdfs/20260724_1530_《締切間近！》ジェトロ【ウェビナー】2026年版世界貿易投資報告：高リスクが常態化する時代に、踏み止.html",
       "summary_en": "",
       "summary_ja": "",
@@ -668,5 +743,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "Hyundai's Q2 profit fell 20% despite higher sales, showing tariff and cost pressures are squeezing margins even amid strong demand. This signals similar risk for other automakers with global supply chains.\n\nThe U.S. Senate advanced the Connected Vehicle Safety Act, targeting tech from China, Russia, North Korea and Iran. This could force automakers to redesign supply chains for connected vehicle components sold in the U.S.\n\nIndia's record Q1 car sales are provided for reference."
 }
