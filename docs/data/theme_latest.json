@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27 17:33:45",
+  "generated_at": "2026-07-28 01:24:10",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-27 17:33:16",
+      "last_checked": "2026-07-28 01:23:44",
       "items": [
+        {
+          "uid": "6af9d7111f47",
+          "date": "2026-07-27",
+          "title": "France, Germany seek grand bargain on cars and ‘Made in Europe’ - E&E News by POLITICO",
+          "summary": "I appreciate your request, but I notice the article content provided only includes the title and doesn't contain the actual body text needed for an accurate summary. To provide you with a proper 1-2 sentence summary in Japanese regarding the Industrial Ambition Act (IAA) context, I would need access to the full article content.\n\nCould you please provide the complete article text so I can create an accurate summary?",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEp4X0NpNEFqb05SOXg3OXBUTUZZUnFfeHFuRmU2T29YN0FsMGkzd2swYmx3d212dHkteG1YdjFJMk1JTVVURDl5RVFGSVhHcXFBQXpWRXZZZUtnQnpIS096OUJZMUdzT3k2YVB0MFREdVN4NmllT09reVJaOHNJdl9OMUJMTXd6VGJKOElXV3dhdDdUdjZOOQ?oc=5",
+          "added_at": "2026-07-28 01:23:42"
+        },
         {
           "uid": "39439c2235ac",
           "date": "2026-07-24",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGpGRVBxaC1KSV9MRzZFT3dDSjZqa1pKVTB3Y3U0OGZXa2JvcVE4T0tqT3Roc2tuczdZazBjWmVQeFJpR0ZRVkQ0TUJpZVZ4UndpWlh1UnowZnZGNUdKekRpbjJOVXc1U0UxZE1WNGlnT3pmeXFmVThPNkVWZEFFb3Z2Z0VRZWpGNEpQLXhXU0xSZw?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "4e8c35f53d1f",
-          "date": "2026-04-28",
-          "title": "Parliament wants EU long-term budget to top €2 trillion - politico.eu",
-          "summary": "欧州議会は、欧州産業加速法案（IAA）を支援するため、EU長期予算を2兆ユーロ以上に引き上げることを要求しており、これは欧州の産業競争力強化と経済成長加速のための財政基盤の拡大を目指すものです。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcU1rMHRxcXN5NEtCS3lOWkV5dEpzbm5ub1NBMmN5QXE4WVdFejQ0RXI0WWVjV2Etdnd4bDJMOFk0YmxQbzMybXBlX3lHZDFrbG5vZFI4RFEwQ1Y2Sm85cmhrWUxCblFfTHZIeTRYQm1GVW5qMlZ5UWs4YzlYVGlOSGJqSXdoeERDTi1JVW9KWGhSMGVYUW43ekpLT1AwZw?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-27 17:33:31",
+      "last_checked": "2026-07-28 01:23:55",
       "items": [
+        {
+          "uid": "dd58e65933ea",
+          "date": "2026-07-27",
+          "title": "Connected Vehicle Security Act advances as dealers rally behind legislation - CBT News",
+          "summary": "米国接続車両安全保障法（S.4429）は、自動車ディーラーがその可決を支持する中で法案化が進展しており、業界の統一的な支援により接続車両のサイバーセキュリティ基準の強化が推進されている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TeUNxV08zTzUtN0dxY3dCZ0RmUWZPRXFIVDQ4RVNrR3VYMUo4SktJMFpkQmZoWEJadldSRnBJejA2UzRLOVViOHVkWGlkNGstS3Q0Ti1taWdLZXp0RlhxR1AwQm9pc2RKMFI5TWl4d014dw?oc=5",
+          "added_at": "2026-07-28 01:23:52"
+        },
+        {
+          "uid": "44d99ff36bdb",
+          "date": "2026-06-15",
+          "title": "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models - Reuters",
+          "summary": "フォードなどの自動車メーカーが中国製モデルの米国販売に向けてライセンス申請を進めており、これは米国の接続車両安全保障規制への対応である。この動きは、中国製自動車の米国市場参入に伴うサイバーセキュリティ上の懸念に対する規制枠組みの形成を示唆している。",
+          "source": "自動車部品業界",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdkRHMWVUZkRxMl9LREpCcnVJdTlTOHRzMHE0ZE4zMU96UG5yMFdQVEQxX3J1ZC1VZEhDOHEya3I3WlRUc0FJNk1uMnQwODN2a1dqS0prSHV1ODZOQ0tCT1k1YnBYQ0wtdzF1UFVIQmcxZTRLOWN5d1dVUzQtTmZieVMwcTRFdE0xUm42UVVkbUI1dGY3WDBCYTlxMGlrckVHanVqcGVLOVBoNjNEV2JSakNDZXlyV1pSalVRSi1pZXFucDgyY25VVnBvQ3p1X1VzTDMtMmpCRjhZRFk?oc=5",
+          "added_at": "2026-07-28 01:23:52"
+        },
         {
           "uid": "5d46dbc09f8b",
           "date": "2026-07-22",
@@ -4000,26 +4020,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNSkRUZzZwMnhsaVpZMWFRaUphVDhNWGlOUGVkdWRXX1lRVi1iLUR0V21KTWNZYnc0bmFoTVg3QXUyZjRCekxtMWNvM25ycVhCX0VmaWRVT2tPNUVGNm9qMnNSOEJBMEtLcGlXaTQyeF9aNmR0eXI4UXJwYkRWWEFicWswRGd1b09YZnJnZ0kta2FzQlV5N2xlNC1uQ1pMUkwzUU5VNEZvMEo4YTJQZmlZbGhFYTNLbVdBQlluYkREa2Z2Qk1UV1FUS2hTRnBXRk53OTVRUHpZOU9LRERjQkpJMVBSTzA4YWg5M2tHclNrWHB2cW96ZF9Mb2pyQ1RGYTZHSFhnX1Q3S1plVlp4VlJUOTlOY1hfQ3Zxd0dPRExyTFRjeThrcEZhQlA1OHVtZmdTWHp3ekh5TGxlbUxCaWxsYUkxUUhVRGVwQWc?oc=5",
           "added_at": "2026-06-17 03:24:08"
-        },
-        {
-          "uid": "c6817afced85",
-          "date": "2026-05-15",
-          "title": "Connected and Autonomous Cars: Security Risks from Chinese Components - American Enterprise Institute - AEI",
-          "summary": "本記事は、中国製部品を搭載した接続車両と自動運転車が米国の国家安全保障に対するリスクをもたらすため、S.4429法案が当該車両に使用される部品の供給チェーン管理と安全保障審査を強化する必要性を主張しています。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVE3QkpkTXlFVHR1eW1WSUI3Q2N0TS1jTnlBUmpzeFFGdVVqMFloWUVUR0NqdGRINk5GaXQ5MkJlWlI2T1FWN3VfbzI3bDVOcmZfS0hhNzloYXpLVmNqenJpbHowWm43ZjlpcEtGWlJSQzRZY1FCQWE3SGtxSVc0eTdmek02bEZ4b041clMwSGNkb1lZZm1RdEdJVFhKSU44d19tb2d5N1J5QWJPc2RJX2Y2LWE?oc=5",
-          "added_at": "2026-06-17 03:24:08"
-        },
-        {
-          "uid": "185a990560f9",
-          "date": "2026-05-26",
-          "title": "As the (Customs and Trade) World Turns: May 2026 - ArentFox Schiff",
-          "summary": "申し訳ありませんが、提供いただいたテキストには実質的な記事内容が含まれておらず、タイトルとサイト名のみであるため、「米国接続車両安全保障法（S.4429）」に関する具体的な要約を作成することができません。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTRYN2VFMXgwUEpsZHFYdTJ1MWlNdjZSLUF1WDZ4aWlQYWdfQkx6djRJYWd0MHpNTExJRmdhSzBWTnoyQTZ2bUNIUVE5NGtrRDRUUXZrdVpWMXVCalZQa3Q1TkR4UGdSaE9sUzdhTl9ZeWdnci1MbXFpVjd4V0RvZ184ZGN2WnUzTUZPaTgyaWVqVnZiWnM3Si1TOU04Y2xIYUtnNmJnTEVYMkcyNnc?oc=5",
-          "added_at": "2026-06-17 03:24:08"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-27 17:33:45",
+      "last_checked": "2026-07-28 01:24:10",
       "items": [
+        {
+          "uid": "737158f71c41",
+          "date": "2026-06-16",
+          "title": "China Controls Trade Chokepoints Beyond Rare Earths. - Medium",
+          "summary": "中国はレアアースだけでなく、ガリウムやゲルマニウムなど戦略的に重要な鉱物資源の輸出を厳格に管理し、これらの資源に依存する各国に対する経済的影響力を強化している。こうした多岐にわたる資源統制戦略は、中国の国際的な交渉力の強化と、技術産業における支配力の確保を目的としている。",
+          "source": "需要産業（防衛・EV・航空）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0FyT0N6UWk3dWNleklHRzZhRnA0c0xrNFE0Wkt5cm9sN21qeHVHbFg3bnBBNWl4cXI3a2JYcTJJcENTWG93OUdMUzNvVEI2NnNYWjdsclZIcndfbFBfd1E4S1lHUklnRVVaUlhjX1BpTkltTVRhTmU1R3YxbUN3bXgwdGVHVzhrdXNzX1hqeUNTM1FsbHZKR1ZFNDN0VmY4?oc=5",
+          "added_at": "2026-07-28 01:24:08"
+        },
         {
           "uid": "7eddebe26b79",
           "date": "2026-07-27",
@@ -6021,16 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9rOHkwQl9VYldidlJVajgtZzY4VE5TQmt6eEQ2czIxaTk5N3Ywd3diVXdCT3dKVmhUNmxMRjJ0UnJKdGE2TUtuNklrdWx4UTVGZG5kY1pvWnNEWUhkdmZ5WkV3R0plREV6aTlGc1JEUHVQeG02VzRsVE82OERteXhsMGNfTEVPMllnN0p3?oc=5",
           "added_at": "2026-07-08 11:13:15"
-        },
-        {
-          "uid": "98c633df2d9f",
-          "date": "2026-05-26",
-          "title": "China Rare Earth Export Controls: April Curbs Still Bite After Beijing Summit - Tech Times",
-          "summary": "中国は2024年4月に導入したレアアース輸出管理措置を継続しており、北京サミット後も規制の影響が続いている。この措置は特定国への輸出制限を通じて、地政学的影響力を強化する狙いがあるとみられている。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcDlfVkVidm9VdTdIOUN1Yi1xVzlJNXdPRE5vZXprRVdob244eThtclNWV2VtcWtpSE9HWV9TMmp6Z3pkUjZkTmNFdkRmTVpxbld0d1lpMUFTLWtydEpMcFlSVFhMem5ybk02MTRnNnhDZUx0Sl8xbFVZZnNibUNOcks1dm9zU0Nhc3BFZ0ZHRzJ6TlczMndsVzJiTjNqbHpMN1F1ZzhlQ05mV2JLNndtWkV3bnB5dXkzWUY2NmRXSi1HUGhlODItblR6bw?oc=5",
-          "added_at": "2026-07-08 10:37:15"
         }
       ]
     }
