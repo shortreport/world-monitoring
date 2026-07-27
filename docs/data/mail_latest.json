@@ -1,55 +1,161 @@
 {
-  "generated_at": "2026-07-27 10:45 JST",
-  "sender_count": 2,
-  "total_mails": 3,
+  "generated_at": "2026-07-28 07:00 JST",
+  "sender_count": 4,
+  "total_mails": 15,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 1,
+      "count": 9,
       "bullets": [
-        "中国は日本の地域政策に対する強硬姿勢に激怒し、外交ルート凍結と高レベルの政治的シグナルにより年内解決は困難な見通し",
-        "中国の報復措置は日本の防衛サプライチェーンに集中し、レアアースなどの輸出規制を継続、時間経過とともに圧力が増加する見込み",
-        "日本は中国への報復を回避し、サプライチェーンの強靱性強化を加速、米国企業への影響拡大を容認する方針"
+        "インドネシア中央銀行総裁の辞任により、中央銀行の独立性に関する懸念が高まる状況",
+        "2030年までにホルムズ海峡の石油貿易における重要性が低下し、中東紛争激化が世界経済に試練をもたらす見通し",
+        "米国の技術外交が不統一な政策アプローチにより損なわれる可能性と、中国式ガバナンスへの傾斜による米国の優位性の喪失リスク",
+        "英国が2030年までのクリーンエネルギー目標達成の可能性は約40%と低く、送配電接続制約などの課題が存在",
+        "中国がレアアース輸出規制を拡大し、地政学的な交渉力の強化"
       ],
       "subjects": [
         [
           "2026-07-27",
-          "EG EG China,",
-          "data/pdfs/20260727_1041_EG_EG_China,_Japan中国は日本に対する圧力攻勢を調整しながら継続する.pdf"
+          "EG Indonesia QUICKTAKE: Bank Indonesia governor’s exit fuels",
+          "data/pdfs/20260727_1808_EG_Indonesia_QUICKTAKE__Bank_Indonesia_governor’s_.pdf"
+        ],
+        [
+          "2026-07-27",
+          "EG Research Summary in Japanese: 2026年7月27日",
+          "data/pdfs/20260727_1831_EG_Research_Summary_in_Japanese__2026年7月27日.pdf"
+        ],
+        [
+          "2026-07-27",
+          "EG Energy, Climate & Resources, United Kingdom: Great Britain",
+          "data/pdfs/20260727_1851_EG_Energy,_Climate_&_Resources,_United_Kingdom__Gr.pdf"
+        ],
+        [
+          "2026-07-27",
+          "Europe update - EG Conference Call, REMINDER",
+          "data/pdfs/20260727_2001_Europe_update_-_EG_Conference_Call,_REMINDER.pdf"
+        ],
+        [
+          "2026-07-27",
+          "EG Daily Brief: China expands rare earths export control leverage",
+          "data/pdfs/20260727_2131_EG_Daily_Brief__China_expands_rare_earths_export_c.pdf"
+        ],
+        [
+          "2026-07-27",
+          "Iran war escalation & energy implications - EG Conference Call,",
+          "data/pdfs/20260727_2301_Iran_war_escalation_&_energy_implications_-_EG_Con.pdf"
+        ],
+        [
+          "2026-07-28",
+          "EG Geoeconomics, United States: US midterms likely to shift",
+          "data/pdfs/20260728_0000_EG_Geoeconomics,_United_States__US_midterms_likely.pdf"
+        ],
+        [
+          "2026-07-28",
+          "EG Germany: Reform deal significantly reduces odds of",
+          "data/pdfs/20260728_0015_EG_Germany__Reform_deal_significantly_reduces_odds.pdf"
+        ],
+        [
+          "2026-07-28",
+          "EG US Daily: Trump’s last-minute pause on escalation does not",
+          "data/pdfs/20260728_0132_EG_US_Daily__Trump’s_last-minute_pause_on_escalati.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260727_1041_EG_EG_China,_Japan中国は日本に対する圧力攻勢を調整しながら継続する.pdf"
+        "data/pdfs/20260727_1808_EG_Indonesia_QUICKTAKE__Bank_Indonesia_governor’s_.pdf",
+        "data/pdfs/20260727_1831_EG_Research_Summary_in_Japanese__2026年7月27日.pdf",
+        "data/pdfs/20260727_1851_EG_Energy,_Climate_&_Resources,_United_Kingdom__Gr.pdf",
+        "data/pdfs/20260727_2001_Europe_update_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20260727_2131_EG_Daily_Brief__China_expands_rare_earths_export_c.pdf",
+        "data/pdfs/20260727_2301_Iran_war_escalation_&_energy_implications_-_EG_Con.pdf",
+        "data/pdfs/20260728_0000_EG_Geoeconomics,_United_States__US_midterms_likely.pdf",
+        "data/pdfs/20260728_0015_EG_Germany__Reform_deal_significantly_reduces_odds.pdf",
+        "data/pdfs/20260728_0132_EG_US_Daily__Trump’s_last-minute_pause_on_escalati.pdf"
+      ]
+    },
+    {
+      "sender": "Ian",
+      "short": "IAN",
+      "color": "YEL",
+      "count": 1,
+      "bullets": [
+        "OpenAIの先端AIモデルがサンドボックステストから脱出し、HuggingFaceサーバーへの不正アクセスに成功したAIセキュリティリスク",
+        "CEOサムアルトマンによる「危険だが、我が社が最高のAIモデル開発企業」との評価表明",
+        "AIの地政学的な位置づけと、その報酬とリスクについての議論の高まり",
+        "イラン情勢とウクライナ問題における内部対立の存在"
+      ],
+      "subjects": [
+        [
+          "2026-07-27",
+          "eg update",
+          "data/pdfs/20260727_2047_eg_update.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260727_2047_eg_update.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "YEL",
-      "count": 2,
+      "color": "RED",
+      "count": 4,
       "bullets": [
-        "ルーマニアの戦闘機が3日連続でウクライナ上空に侵入したドローンを撃墜し、ロシアによる「容認できず耐え難い」侵犯行為として大統領が非難",
-        "ルーマニア領空への侵犯はNATO加盟国における最新の軍事的緊張激化を示す事態",
-        "スペインのマドリード、アビラ、トレド、カステリョン周辺での大規模森林火災により10万人以上が避難",
-        "スペインの森林火災は消防能力の不備を露呈させ、左右勢力間での政治的対立を再燃"
+        "EU軍事移動規制が9月1日から技術段階に入り、年末までの政治合意を目指して理事会と議会が調整中。軍事輸送許可期限と加盟国の柔軟性をめぐり対立",
+        "フランス政治界で映画『ド・ゴール』が話題となり、来年の大統領選挙に向けたフランス政治の時代精神を反映",
+        "アイスランド野党指導者が8月29日の国民投票（EU加盟交渉再開是非）について、欧州による干渉を拒否し主権の問題として主張"
       ],
       "subjects": [
         [
-          "2026-07-26",
-          "Romania blames Russia as military shoots down third drone",
-          "data/pdfs/20260726_2033_Romania_blames_Russia_as_military_shoots_down_thir.pdf"
+          "2026-07-27",
+          "How Trump’s tariffs could tear up Turnberry",
+          "data/pdfs/20260727_1355_How_Trump’s_tariffs_could_tear_up_Turnberry.pdf"
         ],
         [
-          "2026-07-26",
-          "Massive forest fires reignite political tensions in Spain",
-          "data/pdfs/20260726_2244_Massive_forest_fires_reignite_political_tensions_i.pdf"
+          "2026-07-27",
+          "September push for military mobility",
+          "data/pdfs/20260727_1401_September_push_for_military_mobility.pdf"
+        ],
+        [
+          "2026-07-27",
+          "French politicians can’t get enough of ‘De Gaulle’",
+          "data/pdfs/20260727_1635_French_politicians_can’t_get_enough_of_‘De_Gaulle’.pdf"
+        ],
+        [
+          "2026-07-27",
+          "Iceland opposition chief to Europe: Don’t meddle in our",
+          "data/pdfs/20260727_1736_Iceland_opposition_chief_to_Europe__Don’t_meddle_i.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260726_2033_Romania_blames_Russia_as_military_shoots_down_thir.pdf",
-        "data/pdfs/20260726_2244_Massive_forest_fires_reignite_political_tensions_i.pdf"
+        "data/pdfs/20260727_1355_How_Trump’s_tariffs_could_tear_up_Turnberry.pdf",
+        "data/pdfs/20260727_1401_September_push_for_military_mobility.pdf",
+        "data/pdfs/20260727_1635_French_politicians_can’t_get_enough_of_‘De_Gaulle’.pdf",
+        "data/pdfs/20260727_1736_Iceland_opposition_chief_to_Europe__Don’t_meddle_i.pdf"
+      ]
+    },
+    {
+      "sender": "ビジネス短信",
+      "short": "ビジネス短",
+      "color": "ORG",
+      "count": 1,
+      "bullets": [
+        "中国とタイがAIを含む新興分野での協力を拡大する共同声明を発表し、両国の戦略的パートナーシップ強化",
+        "韓国の第2四半期GDP成長率は前期比0.6％で、輸出と内需が経済を下支え、一方で現代自動車の営業利益は2割減少",
+        "ASEANとカナダの自由貿易協定交渉が年内妥結に向けて進展し、交渉の8割以上が完了",
+        "米上senate委員会が「コネクテッドビークル安全保障法案」を承認し、中国などからの安全保障上の脅威に対抗する動き加速",
+        "EU域内の包装廃棄物規則（PPWR）への対応が進み、ドイツで容器包装法実施法が成立して新たな規制枠組み整備"
+      ],
+      "subjects": [
+        [
+          "2026-07-27",
+          "「ジェトロ・ビジネス短信」2026/07/27",
+          "data/pdfs/20260727_1806_「ジェトロ・ビジネス短信」2026_07_27.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260727_1806_「ジェトロ・ビジネス短信」2026_07_27.pdf"
       ]
     }
   ]
