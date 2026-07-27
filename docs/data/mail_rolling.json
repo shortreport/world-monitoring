@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-27 10:45 JST",
+  "updated_at": "2026-07-27 10:46 JST",
   "total": 50,
-  "toyota_summary": "The Trump administration moved to reinstate tariffs on imports under Section 301, with base rates of 10 to 12.5 percent, after the previous version expired. The timing and scope remain unclear, but the threat is immediate and affects supply chains across multiple countries.\n\nFor automakers, this matters because nearly every vehicle sold in the U.S. relies on parts sourced globally. A 10 percent tariff on imports would raise production costs across the industry unless manufacturers move sourcing to the U.S. or Mexico, a shift that takes years and billions in capital. Europe and Japan would be hit first; both are negotiating exemptions or retaliation measures.\n\nWatch whether the administration grants carve-outs for specific countries or sectors, or if the tariffs take effect as written.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20260727_1041",
@@ -11,7 +11,12 @@
       "date_label": "JUL 27  10:41",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG EG China, Japan中国は日本に対する圧力攻勢を調整しながら継続する",
+      "html": "data/pdfs/20260727_1041_EG_EG_China,_Japan中国は日本に対する圧力攻勢を調整しながら継続する.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260726_2244",
@@ -567,7 +572,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/07/23",
+      "subject_en": "JETRO Business Brief 2026/07/23",
       "html": "data/pdfs/20260723_1806_「ジェトロ・ビジネス短信」2026_07_23.html",
       "summary_en": "",
       "summary_ja": "",
@@ -597,7 +602,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "From JETRO: Learn in One Day! Introduction to Trade Practice Basics Course (Online and Nagoya Venue Held Simultaneously)",
+      "subject_en": "From JETRO: Learn in One Day! Introduction to Trade Practices Course Guidance (Online and Nagoya Venue Held Simultaneously)",
       "html": "data/pdfs/20260723_1434_【ジェトロより】1日で学べる！_貿易実務講座_基礎編のご案内（オンライン・名古屋会場_同時開催）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -612,7 +617,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "Notice of New JETRO Regional and Analysis Reports (July 23, 2026 Edition)",
+      "subject_en": "New Announcement of JETRO Regional and Analysis Reports (July 23, 2026 Issue)",
       "html": "data/pdfs/20260723_1421_ジェトロ地域・分析レポートの新着のご案内（2026年7月23日号）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -738,5 +743,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
