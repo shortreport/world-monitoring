@@ -1,161 +1,186 @@
 {
-  "generated_at": "2026-07-27 00:30 JST",
-  "article_count": 29,
+  "generated_at": "2026-07-27 10:45 JST",
+  "article_count": 53,
   "segments": [
     {
-      "badge": "① 米イラン対立",
+      "badge": "① 米イラン紛争",
       "color": "RED",
-      "title": "米イラン攻撃の応酬が2週間継続",
-      "subtitle": "トランプ大統領がミサイル枯渇懸念から攻撃を保留",
-      "search_en": "US Iran military conflict 2026 ceasefire negotiations",
+      "title": "米軍、イラン攻撃を一時停止",
+      "subtitle": "13日連続の空爆後、協議模索へ転換",
+      "search_en": "Trump Iran military pause ceasefire negotiations 2026",
       "bullets": [
         {
-          "text": "トランプ大統領、中東駐留米軍の防空ミサイル枯渇懸念からイラン大規模攻撃を見送り",
-          "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186111000.html",
+          "text": "トランプ大統領、イラン攻撃の一時停止を指示し協議の余地を表明",
+          "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186961000.html",
           "source": "NHK"
         },
         {
-          "text": "イランとの攻撃応酬が約2週間継続、25日から直接攻撃は報告されず",
+          "text": "13日連続の直接攻撃から中止、防空ミサイル枯渇の懸念が背景",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jRlh6VGpua3hRT0lkNUdPakc0bHlGZmFhTXpTSk9YTmNSY3poSzU3TlFQREhfaGFUWTZndlVpUmJMLU9sTUREQzlaLUNmNThOYXFLZEZkM3hkTVVNejYwc3NUNE5QaWdxMFk5Mg?oc=5",
+          "source": "日経"
+        },
+        {
+          "text": "米中央軍、ホルムズ海峡周辺での対イラン攻撃停止をホワイトハウスに進言",
           "url": "http://www3.nhk.or.jp/news/html/20260725/k10015185821000.html",
           "source": "NHK"
         },
         {
-          "text": "トランプ大統領、イランとの対話を通じた事態打開の可能性を排除しない姿勢",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FWHEtS3hKM1RneGttOUw4ZXlYMGhYQWgtemdoeWJsc1FiTFJSclJHSGh0cElrQjJrMzYwM184UjNvY2ZiRXh3WTlkd1QtNUtWWlA4LXhYVzk0ZHctNlhfei1XZVlVbnNtbmpsTUp3cndzWXVOSlhDNlR0QzFNUG8?oc=5",
+          "text": "パキスタン、米国に金融支援を要請し仲介役としての見返り期待",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zaTVyamVfQ0xfaTZfa2ZGNm9uOUVlWlVxQjcxT2V1eFlmMGdPbDRDNmQydkRsVmNmWUNJa2ZNVDA0Q0lhYndzY0tUcEJnc1FHZE5EaFQ0clEtTzRKVE5PMVZGWmI4ZXRPR0tNRE53ZUpNUDdJUkE?oc=5",
+          "source": "産経"
+        },
+        {
+          "text": "イラン高官、米国の攻撃停止は戦術的とみて懐疑的見方を維持",
+          "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186111000.html",
+          "source": "NHK"
+        }
+      ],
+      "risk": "▲リスク：協議決裂時の急速な軍事エスカレーション（数日～1週間）。原油市場の供給懸念継続。フーシ派によるサウジアラムコ施設攻撃で地域紛争の飛び火可能性",
+      "context": "背景：米イラン間で約2週間にわたり攻撃の応酬が続き、エネルギー市場への懸念が広がる中での方針転換。トランプ政権が軍事的限界と外交的解決の可能性を探り始める"
+    },
+    {
+      "badge": "② 台湾周辺",
+      "color": "ORG",
+      "title": "中国漁船が軍事的陣形で集結",
+      "subtitle": "台湾周辺の緊張が急速に高まる",
+      "search_en": "Chinese fishing boats Taiwan military formations tensions",
+      "bullets": [
+        {
+          "text": "中国漁船が台湾周辺で軍事スタイルの陣形を形成、緊張を急速に高める",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUIyTnhzY0xNVjVPZ09RVENVUC1lRXVQM3I3dWVLWmZwT0hQUmNXRWlHU2JwdlpYWHRZZ2xENUN6OVYtMzRWU3JsZGVycVRHMWdSNTBJb0R3cE5wNzlKTEZZUGpsMm1nb0h2WkJvM19ObnZ3bTFpbmgwVmU2bWtIMUo5QXJSbTEwQUhDWVZHc0xTVTlqb3NCa3Z2R0hEY01kc2c?oc=5",
           "source": "Crypto Briefing"
         },
         {
-          "text": "イエメンのフーシ派がサウジアラムコ石油施設を攻撃、エネルギー市場への影響懸念",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVXhoMnJrU3F4VGpIYm9fTnRYaG9WQVE3YnVxa1lzRms1aWRvRm9XSHlucEZSRUM2OWNYYV9hcXR4SU8xV2FIcUZVNkd1UFVNUGpocVcta1pkWEtpOXBDZUZzWDZYM2sydEtmbWZGaUpnRnVfa01rNFJPbjlKc1FLbk1oYkh1b2ZudVpVUThUUlJycC01elEtaWJIYlA0NmotNktFYV9rY3NXdG1wd1U5OUpTdHdaNEd0TGtLa211X1NmNjlyTlExa0JWWXJOd9IB0wFBVV95cUxNcEFyTmZpcTdSVURNX3lHeUtSem5sbTNlbVowbDhfVXE4WFdFS09DS2NXczFzSmZqODMxdFdRM3cyb2hKeEZNVU1OaWZTaXhwOEZoNFNyVFl1N3ljSUNSMDZQb1lmZ29QaEEzbDRVcHNtZi1fWjJXVWMtWnRVaUMzQllBR0M2U0JMSzJjT1BLQmR1UlZhSEwwb0ZCZXh4VlNEcFlnaldaT0FpY29nRWtNOHlrTzVEWEpBMFBybkxObWZyN3pIWlZfRUdIV1FJSU5TSE9v?oc=5",
-          "source": "News18"
+          "text": "米国の台湾政策が変動する中での動き、あいまいさ喪失を指摘",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTUJjQ3BHS3FXMjU2ZFFpLXh3enRyMjJrbnpJZW5ORDFkVFFZa0ItUWF3YVViamszbW1PR255VVlBZ0ZJU0d0VC1FdXV4dllRQ3BZSGNocF9MeWFDRDBKWjc4dnZwcFNJZndLZ05BUlhHajc5Q2VhTjN1QXRQQURta0VSREFIY2JJampqMURHNDZQNWJrZmJ2STRtOFVyTkNRcXI0bnBjOENDcWUyR2I5ckNEN191cUtIVmt4THdEYWFvcWxuY29QQzVDR0k2ZVhSdl8xeENMOA?oc=5",
+          "source": "RealClearDefense"
         },
         {
-          "text": "米国務長官ルビオ、イランへの経済制裁緩和はまだ実施していないと確認",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVXhoMnJrU3F4VGpIYm9fTnRYaG9WQVE3YnVxa1lzRms1aWRvRm9XSHlucEZSRUM2OWNYYV9hcXR4SU8xV2FIcUZVNkd1UFVNUGpocVcta1pkWEtpOXBDZUZzWDZYM2sydEtmbWZGaUpnRnVfa01rNFJPbjlKc1FLbk1oYkh1b2ZudVpVUThUUlJycC01elEtaWJIYlA0NmotNktFYV9rY3NXdG1wd1U5OUpTdHdaNEd0TGtLa211X1NmNjlyTlExa0JWWXJOd9IB0wFBVV95cUxNcEFyTmZpcTdSVURNX3lHeUtSem5sbTNlbVowbDhfVXE4WFdFS09DS2NXczFzSmZqODMxdFdRM3cyb2hKeEZNVU1OaWZTaXhwOEZoNFNyVFl1N3ljSUNSMDZQb1lmZ29QaEEzbDRVcHNtZi1fWjJXVWMtWnRVaUMzQllBR0M2U0JMSzJjT1BLQmR1UlZhSEwwb0ZCZXh4VlNEcFlnaldaT0FpY29nRWtNOHlrTzVEWEpBMFBybkxObWZyN3pIWlZfRUdIV1FJSU5TSE9v?oc=5",
-          "source": "News18"
-        }
-      ],
-      "risk": "▲リスク：ミサイル枯渇による防衛能力低下でイラン側の攻撃強化可能性。ホルムズ海峡での軍事衝突によるエネルギー供給途絶は数日以内に市場危機を誘発。交渉決裂なら数週間以内に全面衝突の危険",
-      "context": "背景：約2週間にわたる米イラン軍事衝突が進行中。米国は経済制裁維持姿勢だがトランプ大統領は交渉継続の可能性を示唆。中東の地政学的緊張が石油市場と世界経済を直撃している状況"
-    },
-    {
-      "badge": "② 米中貿易戦争",
-      "color": "YEL",
-      "title": "トランプ氏が貿易戦争の新段階を開始",
-      "subtitle": "中国が有利な立場で推移との指摘",
-      "search_en": "Trump trade war China new phase 2026",
-      "bullets": [
-        {
-          "text": "トランプ大統領が米中貿易戦争の新段階を開始",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PRDkyX0ZpSzd2QmhBWnJiQVJDbHBqbWZlQzBGbGJacUVUekJmcHhYYVJXWlpXeUk4TVRSWG5MNzdnR2ZCSVNTbWtra3doaDg1ei10NlB4bk9JUXAzMXVRYmRuWU1NSGJVMnpub1Jybms5Q0xjTXRN?oc=5",
-          "source": "The New York Times"
-        },
-        {
-          "text": "中国が貿易戦争を好位置で切り抜けているとメディア評価",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMUhsbHd1QVNmRm9wM1RNTWNWNXpmQVpva2RaS0tSTHppQm5mSkd1cldFSVprVGpFX2pSU3hmcEp1MnhqQ05lR01SVFZhemhRWmJYTTdkQzlEREZyMkVQNVI0aDl0ZzN1cS1qWVptaklPclphdFRsY3pDZm9uUzdlak5HckJjc2s?oc=5",
-          "source": "UA.NEWS"
-        },
-        {
-          "text": "カナダとの通商紛争もエスカレート、ゴーディホー橋開通式から米国関係者が不参加",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMUhsbHd1QVNmRm9wM1RNTWNWNXpmQVpva2RaS0tSTHppQm5mSkd1cldFSVprVGpFX2pSU3hmcEp1MnhqQ05lR01SVFZhemhRWmJYTTdkQzlEREZyMkVQNVI0aDl0ZzN1cS1qWVptaklPclphdFRsY3pDZm9uUzdlak5HckJjc2s?oc=5",
-          "source": "UA.NEWS"
-        },
-        {
-          "text": "シー・チンピン主席がトランプ氏に「ツキュディデスの罠」の回避を警告",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMUhsbHd1QVNmRm9wM1RNTWNWNXpmQVpva2RaS0tSTHppQm5mSkd1cldFSVprVGpFX2pSU3hmcEp1MnhqQ05lR01SVFZhemhRWmJYTTdkQzlEREZyMkVQNVI0aDl0ZzN1cS1qWVptaklPclphdFRsY3pDZm9uUzdlak5HckJjc2s?oc=5",
-          "source": "UA.NEWS"
-        }
-      ],
-      "risk": "▲リスク：関税戦争の拡大で北米・太平洋地域の供給網混乱、数ヶ月以内に消費者物価上昇。中国報復関税で米農産物・テクノロジー企業が打撃、2026年後半の経済減速懸念",
-      "context": "背景：トランプ政権が第2期で再度貿易戦争を加速。中国はこれまでの報復関税で市場調整を進めており、対抗の準備が整った状態。カナダを含む多国間での通商摩擦が同時並行で発生中"
-    },
-    {
-      "badge": "③ 台湾選挙",
-      "color": "ORG",
-      "title": "台湾の国民党が統一地方選に向けた協力体制を確立",
-      "subtitle": "民衆党と連携で野党勢力の拡大目指す",
-      "search_en": "Taiwan opposition KMT DPP election November 2026",
-      "bullets": [
-        {
-          "text": "台湾最大野党の国民党が党大会を開催、2026年11月統一地方選の戦略を決定",
+          "text": "台湾の最大野党・国民党が11月統一地方選挙で野党勢力拡大を標榜",
           "url": "http://www3.nhk.or.jp/news/html/20260725/k10015185991000.html",
           "source": "NHK"
         },
         {
-          "text": "国民党は野党第2党の民衆党と候補者擁立で協力、22県市での野党勢力拡大を目指す",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTh2NmJ1ZEJvN29LSmx6UEhNc1p0UnlpaXAtMHc1dWhja201RFpTVXR3YVVJNE5mckxTUG9VSF8wcU1EMGhGeFhlbGhfUjRpWjFFd1BlWm82UzFhN0h4cWtfZ1hTMUkzanF2cnRtWVhqMmY2S19vMFl2dEo1bllud3pyMHJxYjhuRU42SkVSajR6VkZJa09LVzhST0d6LThTVm9BbWhtQ2dsWG5YOU9vVW1kOFpvZw?oc=5",
-          "source": "Goodreturns"
+          "text": "中国J-20戦闘機が台湾防空レーダーを回避した可能性を報道",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8weWwxQ2dkUmt6VVdIblRBSUhpdDZlV2JYZnpidWJMS2xmRkNEU0cxZlVYZC1fX2k3eGJNcjZxRW12NG5QVG1HTGp2WUhzZV9jUzdYOHVLWDMwRHpudnl1Qg?oc=5",
+          "source": "Mshale"
         },
         {
-          "text": "国民党主席鄭立文氏がホルムズ海峡平和維持と独立志向の回避を強調",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTh2NmJ1ZEJvN29LSmx6UEhNc1p0UnlpaXAtMHc1dWhja201RFpTVXR3YVVJNE5mckxTUG9VSF8wcU1EMGhGeFhlbGhfUjRpWjFFd1BlWm82UzFhN0h4cWtfZ1hTMUkzanF2cnRtWVhqMmY2S19vMFl2dEo1bllud3pyMHJxYjhuRU42SkVSajR6VkZJa09LVzhST0d6LThTVm9BbWhtQ2dsWG5YOU9vVW1kOFpvZw?oc=5",
-          "source": "Goodreturns"
-        },
-        {
-          "text": "台湾海峡の緊張緩和を名目とした野党の政策アピール",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTh2NmJ1ZEJvN29LSmx6UEhNc1p0UnlpaXAtMHc1dWhja201RFpTVXR3YVVJNE5mckxTUG9VSF8wcU1EMGhGeFhlbGhfUjRpWjFFd1BlWm82UzFhN0h4cWtfZ1hTMUkzanF2cnRtWVhqMmY2S19vMFl2dEo1bllud3pyMHJxYjhuRU42SkVSajR6VkZJa09LVzhST0d6LThTVm9BbWhtQ2dsWG5YOU9vVW1kOFpvZw?oc=5",
-          "source": "Goodreturns"
+          "text": "台湾IT企業の6月売上が57%増加し経済的活力を示す",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8weWwxQ2dkUmt6VVdIblRBSUhpdDZlV2JYZnpidWJMS2xmRkNEU0cxZlVYZC1fX2k3eGJNcjZxRW12NG5QVG1HTGp2WUhzZV9jUzdYOHVLWDMwRHpudnl1Qg?oc=5",
+          "source": "Mshale"
         }
       ],
-      "risk": "▲リスク：与野党の政策対立が台湾民意の分裂招き、米中の台湾統治権巡る介入加速の可能性。11月選挙結果如何では2027年以降の対中政策急変の恐れ",
-      "context": "背景：台湾政治は現与党と野党勢力の勢力図が流動的。国民党が民衆党との連携強化で野党統一戦線を構築し、11月統一地方選での躍進を狙った戦略転換。米中対立の台湾への波及懸念が背景"
+      "risk": "▲リスク：軍事的衝突へのエスカレーション（数日～数週間）。米国政策の不確実性が台湾側の防衛態勢に影響。選挙時期と軍事的圧力の同時進行",
+      "context": "背景：米国政策の流動化と中国による複合的な軍事・政治圧力が同時並行。台湾国内の野党勢力拡大動向が地政学的環境と複雑に絡む"
     },
     {
-      "badge": "④ 日米野球",
-      "color": "CYAN",
-      "title": "山本由伸が日米通算100勝を達成",
-      "subtitle": "ドジャースで米大リーグの快進撃続く",
-      "search_en": "Yoshinobu Yamamoto 100 wins MLB Dodgers 2026",
+      "badge": "③ 米国金融政策",
+      "color": "YEL",
+      "title": "FRB、イラン情勢下で利上げ判断へ",
+      "subtitle": "インフレ再加速リスク、3年ぶり利上げ観測",
+      "search_en": "Federal Reserve interest rate Iran inflation 2026",
       "bullets": [
         {
-          "text": "ドジャース投手・山本由伸がメッツ戦で6回1失点の好投で11勝目を記録",
-          "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186441000.html",
+          "text": "FRBが28日からの会合で金融政策決定、政策金利据え置き見方が有力",
+          "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186781000.html",
           "source": "NHK"
         },
         {
-          "text": "プロ野球時代の70勝と合わせて日米通算100勝という大記録達成",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4ejRYM0RkV25TVFp2Ym9fTFJYWTRkY1p2RVY5WHVHazI1VEY3VjkzUnM2TklYdzlaRTNzdzNlWkVPUmxwTmlSMjctRUN0SlhDSzM3MS1yTW84SXh6V0ExejZsZnhYa0ZoUkkzMkpPTUprMEFkemc?oc=5",
-          "source": "産経"
+          "text": "イラン情勢によるインフレ再加速リスク抑制で3年ぶり利上げ観測も浮上",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQelNMZmVfbmY4b2tTNFd3ZW1HT2w2WWladHY3MWJhUFZ0X2tDNHkwS1dnZXVuZ1BZTEJFeGpoSDFNcV9ndFBqSnUyTDc5X3E3Q3hJbVlPUVpTdXhkSmNXQ1c0eVpFYjhoMmZzSTRBUlZFVThzWWgyV1ZZSGVEaVlQbi1Bb2RJenJSOFdOV0ZpaF9HaUZvX0N2Rkkwamw4VkNtMzNBeDdGNGc?oc=5",
+          "source": "marketscreener.com"
         },
         {
-          "text": "大リーグ通算30勝、今シーズン好調継続で両リーグ間の活躍の象徴",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4ejRYM0RkV25TVFp2Ym9fTFJYWTRkY1p2RVY5WHVHazI1VEY3VjkzUnM2TklYdzlaRTNzdzNlWkVPUmxwTmlSMjctRUN0SlhDSzM3MS1yTW84SXh6V0ExejZsZnhYa0ZoUkkzMkpPTUprMEFkemc?oc=5",
-          "source": "産経"
+          "text": "原油市場の上昇がエネルギー関連ETNで過去最高の月間上昇率を記録",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelNIVmdVMGpqck1tbWdqTFIwNm5RQ2ZxSkFvNFdrblhRbjFWTDAwbWpIWVMwM2JPNnNybWxONzE3UTd2TEtkNklmeTRISjM0UnNyWC1zclBnT1lVVk1OVVJSZGs4aEtWZDdQajBsbkhTNFhBU3FrbGFmUU8xQy1jctIBlAFBVV95cUxPYzAzTXpRa2xfOVM3VEFUUFdvYUNSdlBQeUF0SklGeWN1WnU4Q3NUcUNYQzZkVy1HbXl5bUVGZ2l2Q0hoTWY2Z2VXNUZ5eVluZ1JQbjhKX0YtR0hyZjhnTEN1andmS0R6VUxvX3ZJTXdmTlZ5R3R0TFNVWndxekhBdGVBbzdQLXg3clJSUURWYmZ6YV9Y?oc=5",
+          "source": "Chosunbiz"
+        },
+        {
+          "text": "米イラン紛争がホルムズ海峡周辺の中東出荷に支障、供給懸念が継続",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelNIVmdVMGpqck1tbWdqTFIwNm5RQ2ZxSkFvNFdrblhRbjFWTDAwbWpIWVMwM2JPNnNybWxONzE3UTd2TEtkNklmeTRISjM0UnNyWC1zclBnT1lVVk1OVVJSZGs4aEtWZDdQajBsbkhTNFhBU3FrbGFmUU8xQy1jctIBlAFBVV95cUxPYzAzTXpRa2xfOVM3VEFUUFdvYUNSdlBQeUF0SklGeWN1WnU4Q3NUcUNYQzZkVy1HbXl5bUVGZ2l2Q0hoTWY2Z2VXNUZ5eVluZ1JQbjhKX0YtR0hyZjhnTEN1andmS0R6VUxvX3ZJTXdmTlZ5R3R0TFNVWndxekhBdGVBbzdQLXg3clJSUURWYmZ6YV9Y?oc=5",
+          "source": "Chosunbiz"
+        },
+        {
+          "text": "日本株市場、米イラン緊張緩和で寄り高となり影響を受ける",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelNIVmdVMGpqck1tbWdqTFIwNm5RQ2ZxSkFvNFdrblhRbjFWTDAwbWpIWVMwM2JPNnNybWxONzE3UTd2TEtkNklmeTRISjM0UnNyWC1zclBnT1lVVk1OVVJSZGs4aEtWZDdQajBsbkhTNFhBU3FrbGFmUU8xQy1jctIBlAFBVV95cUxPYzAzTXpRa2xfOVM3VEFUUFdvYUNSdlBQeUF0SklGeWN1WnU4Q3NUcUNYQzZkVy1HbXl5bUVGZ2l2Q0hoTWY2Z2VXNUZ5eVluZ1JQbjhKX0YtR0hyZjhnTEN1andmS0R6VUxvX3ZJTXdmTlZ5R3R0TFNVWndxekhBdGVBbzdQLXg3clJSUURWYmZ6YV9Y?oc=5",
+          "source": "Chosunbiz"
         }
       ],
-      "risk": "▲リスク：なし（スポーツ記事のため）",
-      "context": "背景：日本人投手として日米両国での通算100勝は歴史的快挙。大リーグでの成功は日本野球の国際評価向上の指標として機能。日米スポーツ交流の象徴的存在として注視される"
+      "risk": "▲リスク：イラン情勢再悪化による原油価格急騰でインフレ再加速（数日～数週間）。金融市場の高ボラティリティが継続",
+      "context": "背景：米イラン紛争の一時停止後も根本的解決未達成のため、エネルギー市場の不確実性が高まったまま。FRBの政策判断がグローバル金融市場に波及する"
     },
     {
-      "badge": "⑤ TSMC投資評価",
+      "badge": "④ 日本自動車産業",
       "color": "GRN",
-      "title": "TSMCが5年でS&P500を上回る見通し",
-      "subtitle": "ブローカー一致して買い推奨の継続",
-      "search_en": "TSMC stock outperform S&P 500 semiconductor forecast",
+      "title": "日産・ホンダ、次世代車で提携",
+      "subtitle": "ソフトウェア共有で米中勢に対抗",
+      "search_en": "Nissan Honda software next generation vehicle collaboration",
       "bullets": [
         {
-          "text": "複数ブローカーがTSMC株に買い推奨の統一評価を継続",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLS1EQkk0V0Q4R1o0VkplZmZobjRHV2FTdWRMczAyZGJDcmFVbVFkamtKbVNEMHItclhJcFlHNXlOM3lMNldORnV1SVVkQ0VmSGY5LTJscDVNdXZMNEF5am9ZY2dKU255VnRZbHZrbkQ0X3JQRkFyWmQ4d2Qzb1NrRFRuNA?oc=5",
-          "source": "AOL.ca"
+          "text": "日産のソフトウェアを軸にホンダと次世代車開発で提携を発表",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85Uk95VlFLM3E5VWhDRjNFdXYyNDVVaFRDUGdHYi1kUVk0NFE5QTNMOGVZRkp5OUxUcjZpZXZ1X24tQUZFV3NRcUFRMm9BVlBIR3BPQWFKNzhJZjhWMzFSVnJQX0haUmhuWUMwd214YUtQZzBlbkE?oc=5",
+          "source": "産経"
         },
         {
-          "text": "アナリストがTSMCが今後5年でS&P500を上回る見通しを予測",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlhUN3ZWamZVVS1XVy02UWhPUU5pVkI1NjhlQXhWUkZ4cVN0dF9scmd5dGtsTGJyVnBoSVJmQkNuRkZIMFEwLXQwVmVXOHVaZFlXRmw0VU8xVDVuektTUXVEMVZjbzg5cDRpSENSV0pyVTlRVGdnVk1WWFJLOFlaaERNdjVRdEliY0ttckF3?oc=5",
-          "source": "Kavout | AI"
+          "text": "電子制御ユニット共通化により開発効率を向上、米中自動車メーカーに対抗",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85Uk95VlFLM3E5VWhDRjNFdXYyNDVVaFRDUGdHYi1kUVk0NFE5QTNMOGVZRkp5OUxUcjZpZXZ1X24tQUZFV3NRcUFRMm9BVlBIR3BPQWFKNzhJZjhWMzFSVnJQX0haUmhuWUMwd214YUtQZzBlbkE?oc=5",
+          "source": "産経"
         },
         {
-          "text": "ヘッジファンドの減持にもかかわらず強気評価が維持される状況",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORlJGbWVqMTM1NkFET0NlSkNrblIzX1ljSXY4YmYzMUJ1QlBTMUJnREc3UU5JTGlCczMzS3FmRlZsU1ZvejU2TkZITXhqaEhJbzJmd3hhaFk5d0dtMW8tOFl6VnA0N014Q2I1Y29Ld0FiTFFfQkhEVWFJWjR2VEFiS3FlTHJOUm9DZFVBY3U5TEFxaER4V3NHRmpCSjc4WF9UU21wNWpENjFRenBjaWw3TTE4TGhKOFFXdks2eFdQSzdZQzVLbW9ZZXlacWx0S0VkLXluR1lOV0Z4UFdqQjdzVHZQOUVyR0E?oc=5",
-          "source": "MarketBeat"
+          "text": "愛知・三河地域、トヨタ経済圏を越えて宇宙産業等への多角化推進",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85Uk95VlFLM3E5VWhDRjNFdXYyNDVVaFRDUGdHYi1kUVk0NFE5QTNMOGVZRkp5OUxUcjZpZXZ1X24tQUZFV3NRcUFRMm9BVlBIR3BPQWFKNzhJZjhWMzFSVnJQX0haUmhuWUMwd214YUtQZzBlbkE?oc=5",
+          "source": "産経"
         },
         {
-          "text": "半導体業界での台湾の地位強化がテーマ",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORlJGbWVqMTM1NkFET0NlSkNrblIzX1ljSXY4YmYzMUJ1QlBTMUJnREc3UU5JTGlCczMzS3FmRlZsU1ZvejU2TkZITXhqaEhJbzJmd3hhaFk5d0dtMW8tOFl6VnA0N014Q2I1Y29Ld0FiTFFfQkhEVWFJWjR2VEFiS3FlTHJOUm9DZFVBY3U5TEFxaER4V3NHRmpCSjc4WF9UU21wNWpENjFRenBjaWw3TTE4TGhKOFFXdks2eFdQSzdZQzVLbW9ZZXlacWx0S0VkLXluR1lOV0Z4UFdqQjdzVHZQOUVyR0E?oc=5",
-          "source": "MarketBeat"
+          "text": "フィジカルAIなど大学発新興企業の物つかみ技術をトヨタも着目",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85Uk95VlFLM3E5VWhDRjNFdXYyNDVVaFRDUGdHYi1kUVk0NFE5QTNMOGVZRkp5OUxUcjZpZXZ1X24tQUZFV3NRcUFRMm9BVlBIR3BPQWFKNzhJZjhWMzFSVnJQX0haUmhuWUMwd214YUtQZzBlbkE?oc=5",
+          "source": "産経"
+        },
+        {
+          "text": "自動運転はWP.29新規則で現実的な前進、市場実装へ進展",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85Uk95VlFLM3E5VWhDRjNFdXYyNDVVaFRDUGdHYi1kUVk0NFE5QTNMOGVZRkp5OUxUcjZpZXZ1X24tQUZFV3NRcUFRMm9BVlBIR3BPQWFKNzhJZjhWMzFSVnJQX0haUmhuWUMwd214YUtQZzBlbkE?oc=5",
+          "source": "産経"
         }
       ],
-      "risk": "▲リスク：米中貿易戦争拡大でTSMC事業が制裁対象化の可能性。台湾情勢悪化による地政学的リスクが評価を大幅低下させる懸念は中期（3ヶ月以内）で顕在化の可能性",
-      "context": "背景：TSMCは世界的な半導体供給の要。米国による対中政策やジオポリティカルな台湾リスクがあるにもかかわらず、成長性への高い評価が継続。テクノロジーセクターの注目銘柄として機関投資家の買い需要が根強い"
+      "risk": "▲リスク：米中EV企業との技術格差継続（6～12ヶ月）。提携成功の鍵となるソフトウェア標準化の遅延可能性",
+      "context": "背景：中国BYDが日本市場に軽自動車EV参入する中で、日本メーカーが共同開発により競争力強化に動く。グローバル自動車産業の再編が加速"
+    },
+    {
+      "badge": "⑤ 中国自動車産業",
+      "color": "GRN",
+      "title": "BYD軽自動車EV日本発売",
+      "subtitle": "中国メーカー、日本市場に本格参入",
+      "search_en": "BYD Racy electric vehicle Japan launch 2026",
+      "bullets": [
+        {
+          "text": "BYDの軽自動車EV「ラッコ」28日に日本で発売開始、価格が市場根付きの鍵",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mcWc4RjNSTUItZHVEYjBLcjBULUNLTlZxWDZ0LTM1RjU2ekJJcWZGazVxamNQbXNlQ3Rxa1VEN19oZDRYMnJrbE1rUmc1QlU2aHB3NmxuV2JEZHJWaDIzMTE4ZUdBVHNBNlJkeg?oc=5",
+          "source": "日経"
+        },
+        {
+          "text": "BYDがフォードを既に上回る規模に成長し野心的な拡大を加速",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWF9ZSkJ2cm5ZbXRxc3NBRjREMkd1eGdTcTRBS3BlTmJLWVZ2Y0FTWGNlbFBSWWVMQ3Jjcm1yUG9Ycm9ZZk1VeElHUFYwSTB3cW5kVW9LVHh0bHRIRDhBNlFYS2dHcFZ1eEJGVEt5Um41VFN6TUtmaVZPUkxIREt0V2ZYdVZrSU1jcDB5MlQ1Szk5bTJGeUtYS0J4YUE?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "text": "中国自動車産業の利益率が1.5%に縮小、コスト上昇と販売減で圧迫",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWF9ZSkJ2cm5ZbXRxc3NBRjREMkd1eGdTcTRBS3BlTmJLWVZ2Y0FTWGNlbFBSWWVMQ3Jjcm1yUG9Ycm9ZZk1VeElHUFYwSTB3cW5kVW9LVHh0bHRIRDhBNlFYS2dHcFZ1eEJGVEt5Um41VFN6TUtmaVZPUkxIREt0V2ZYdVZrSU1jcDB5MlQ1Szk5bTJGeUtYS0J4YUE?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "text": "日本市場への新規参入で価格競争の激化が確実",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWF9ZSkJ2cm5ZbXRxc3NBRjREMkd1eGdTcTRBS3BlTmJLWVZ2Y0FTWGNlbFBSWWVMQ3Jjcm1yUG9Ycm9ZZk1VeElHUFYwSTB3cW5kVW9LVHh0bHRIRDhBNlFYS2dHcFZ1eEJGVEt5Um41VFN6TUtmaVZPUkxIREt0V2ZYdVZrSU1jcDB5MlQ1Szk5bTJGeUtYS0J4YUE?oc=5",
+          "source": "Yahoo Finance"
+        },
+        {
+          "text": "グローバルEV市場が2033年に2.17兆ドル規模へ成長予測",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWF9ZSkJ2cm5ZbXRxc3NBRjREMkd1eGdTcTRBS3BlTmJLWVZ2Y0FTWGNlbFBSWWVMQ3Jjcm1yUG9Ycm9ZZk1VeElHUFYwSTB3cW5kVW9LVHh0bHRIRDhBNlFYS2dHcFZ1eEJGVEt5Um41VFN6TUtmaVZPUkxIREt0V2ZYdVZrSU1jcDB5MlQ1Szk5bTJGeUtYS0J4YUE?oc=5",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "risk": "▲リスク：日本国内の既存自動車メーカー収益圧迫（3～6ヶ月）。サプライチェーンの脱中国化戦略の急速推進必要性が高まる",
+      "context": "背景：中国BYDの急速な成長が日本市場に直撃する局面。日本メーカーの業界団結（日産・ホンダ提携）と中国勢の本格参入がEV市場の覇権争いを激化させる"
     }
   ]
 }
