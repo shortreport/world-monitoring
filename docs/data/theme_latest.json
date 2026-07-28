@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28 16:41:38",
+  "generated_at": "2026-07-29 01:07:04",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-28 16:41:03",
+      "last_checked": "2026-07-29 01:06:34",
       "items": [
         {
           "uid": "6af9d7111f47",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-28 16:41:16",
+      "last_checked": "2026-07-29 01:06:44",
       "items": [
+        {
+          "uid": "5d6c46f78dc3",
+          "date": "2026-05-13",
+          "title": "US Automakers Urge Trump to Block Chinese Car Imports - Mexico Business News",
+          "summary": "米国自動車メーカーはトランプ前大統領に対し中国製自動車の輸入阻止を求めており、これはS.4429法案が規制しようとしている中国関連の車両セキュリティリスクへの対抗措置として、国家安全保障と産業保護の双方を目的としている。同法案は中国製通信機器や遠隔制御技術を搭載した車両の販売を制限することで、米国の自動車産業を保護しながら潜在的なサイバー脅威から国防を守ろうとしている。",
+          "source": "業界団体（自動車）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXRQVEllRllJM25EUXJXMjlRVndjVDRMR2RrbDBzZld4NVVxQ3BrNXRFSmd5WTFGOVlpUlpLN1k1Nnd5N1dBSVIwY3I2Z013ckxCLW1pWFNjQndjWlVvbDk4eXRpZjAtdG1ZVi1pUUQtSHFnUEYzUWJnZFByN0tzUndHS0tkZ2kyMmdCWnVfTzc4YXRCMVBNa0tB?oc=5",
+          "added_at": "2026-07-29 01:06:42"
+        },
         {
           "uid": "b0fb015bfb8e",
           "date": "2026-07-27",
@@ -4010,16 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3psa0xvemFDdWtubUtoaU5pbkpRQWlzaTEyWWlxQjRmVzItT0owZE1OVGN4U1gzN3RQVERLWVhRbkItaDNtUE16aFdmdWgxaHhKVC03cmNZQTNTYjhrbHc4RHlMRmd6b3Q4MEotSDg3Tm1Ydlg0djVTQ1V2NnFVTFNET3p6R2hWUEQzTlRHdXlqVGtkWDNjaVQwV1ZSdm9HbmpNbmEyNjJnd2MtdUdVXzZiNklFN3M?oc=5",
           "added_at": "2026-06-19 22:04:15"
-        },
-        {
-          "uid": "415719b8967d",
-          "date": "2026-06-18",
-          "title": "North American auto industry must scale supply chains, production to face China - Automotive News",
-          "summary": "北米自動車産業は、中国との競争に対抗するため、サプライチェーンと生産能力の大幅な拡大が必要とされており、これはS.4429法案が目指す米国の自動車産業強化戦略と一致している。",
-          "source": "自動車部品業界",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0NLU1N0c212QW80OE94NVBEdUtEaXFkM0R1NENBcE1DQ1NWRDE0eVVyUFZTNDRLS1Ntejh1ZkRFajRtS1F2T3FlWHNjRjg3NEFIczJmVWNJenNoT190bE9WWWhzdk90S0pTTlBZS0ZVX0JVU0xxRW5jUENaa1RsX0hFWTk3eGh3YzZVbGp0a3BFQ283?oc=5",
-          "added_at": "2026-06-19 09:16:24"
         }
       ]
     },
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-28 16:41:38",
+      "last_checked": "2026-07-29 01:07:04",
       "items": [
+        {
+          "uid": "1ab7dddcb1a8",
+          "date": "2026-05-11",
+          "title": "The U.S.-China Trade Truce Has Not Solved the Gallium Problem - CSIS | Center for Strategic and International Studies",
+          "summary": "米国と中国の貿易休戦にもかかわらず、中国はガリウムなどの重要鉱物の輸出を厳格に管理し続けており、米国の半導体産業への供給リスクは解決されていない。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVZLV1Y3NEVpcy03YXJ4dEVvbHdUZkVIOWxFVlJDRS1OMnNQUWlfelFRTWxVV0xTSmxYMVd6U3p0V09pbDBhMmVoa2g2bzVEZTI4YjlNOGYtaDUwRnlrZEVLMmJYUnZVU0NKWWNDVVYweXZKMHhNbTd1YjdBTTMwRmJiTjRHQTRB?oc=5",
+          "added_at": "2026-07-29 01:06:57"
+        },
+        {
+          "uid": "bf9fc6da1806",
+          "date": "2026-05-20",
+          "title": "Chinese, US trade teams hold extensive discussions on rare-earth export control issues, will jointly study solutions to each other's legitimate concerns: MOFCOM - Global Times",
+          "summary": "中国と米国の貿易チームがレアアース輸出管理問題について広範な協議を行い、双方の正当な関心事に対する解決策を共同で検討することで合意した。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Lb2NPRHo5MXlXcmJwRENNdDZmYjhkZTJESzI1bXpaYUVTLUluZkp4bjRTdzVBQ3hTc0lqQUpIbEtFZ1JtbEFOQVF3dDJ6dmd6SnNrdUotcldBanVadVJ1MjVB?oc=5",
+          "added_at": "2026-07-29 01:06:57"
+        },
+        {
+          "uid": "7ef3daa01c31",
+          "date": "2026-07-27",
+          "title": "Pentagon Suppliers Warn U.S. Won't Have Magnet Capacity By 2027 - Crude Oil Prices Today | OilPrice.com",
+          "summary": "米国防総省のサプライヤーが、中国によるレアアース輸出管理の影響で、米国は2027年までに必要な磁石生産能力を確保できないと警告している。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSHFhSjQ2SGFLNXV5bE1sTVZ1QmN2WC10aURubFFRX1Y3NnQ3eTdKOVYxVV8ydTdRZHNZaGpWUHdfODdXY29zeTBKdWF3T0N4T05OQUlJVzd0VXlvRFhmc2xZR2swME5DUnR2amxTc09lMHZoZWpNMm1nVmxiOFNTS0k0OWtVUVlZZFV1cU5wV2xPcHhmeVBIMmJyeWRvZDdua2lyMHZkUjjSAa4BQVVfeXFMUEhFLVlvbHFkYmRYQW9CUHh2ekFMMHlJLW9FSVJDVHVuanVtVmphZVZnZVFrZGxTcURkaWQ3dk5WT3JKMXYxYnFvTEg2Y0VOMC0yWTlEX1l5SXVMdFQ0eU80QjluakFibmU3bmZMcTZmSk9ocHJrNl9tZllTSXdobzJ6Qk9laERTbkxKZGFhSUpuaHN6R19oTmN4NzU1aEVxeldkOU9NaWpEbUx3cGpR?oc=5",
+          "added_at": "2026-07-29 01:06:57"
+        },
+        {
+          "uid": "ac97824bdbf4",
+          "date": "2026-07-28",
+          "title": "Cutting AIDS relief hands South Africa to Russia, China",
+          "summary": "中国とロシアは、保健パートナーシップが地政学的影響力に転換できることを認識しており、AIDS救済削減によって南アフリカへの影響力拡大の長期的機会を得ることになる。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/international/5988719-trump-pepfar-south-africa/",
+          "added_at": "2026-07-29 01:06:57"
+        },
         {
           "uid": "07a308076278",
           "date": "2026-07-24",
@@ -5991,46 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ21uQUhKNlQ1dFZUNmE5dGxaQno2RElFdjlzRUFNMWJLSGlNUjdOTGdnR2xlclVKRFdmSHVaSVl3LXUxU1Z0eGZiQzNfVGZrV0tsRTdjUGFXTHprS2laMERFZ2EyS282cUdoMkYyNHNqYktBRVpMZ2tVWVV0SGNUeDhxOS1TOTJ1NjJGekptSHFqVFlTSGNGYnBmb0JvcFdWay1scUJMQVZiZTA1LWRZQ3hQdjI2ai1uOXpWWDZ6MWswZw?oc=5",
           "added_at": "2026-07-08 15:52:09"
-        },
-        {
-          "uid": "b5ad9e2e5a91",
-          "date": "2026-06-22",
-          "title": "China Sanctions 56 U.S. Firms in Rare Earth, Defense Sectors - 조선일보",
-          "summary": "中国がレアアース・防衛産業関連の米国企業56社に対する制裁を発表し、米国のレアアース輸入制限政策への対抗措置として機能している。この制裁はレアアース供給の戦略的価値を背景に、米国との技術・経済競争における中国の影響力を示すものとなっている。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGVLSkVRMDBlV1Qta1JfeXp4ZmZ2Q1lJYktCeWY1QjhLTUpkOFRYbHRXZmdXWC1CLU90VGhVOEZKT0FBVU1WdlBIVFk2emxQaDVaTGlVaG5fbWZLUFVmaVc1VVltOHQ3UWdETnNVVFEzYXlfd2VPTnE0Z1ZKWFlfOEVHd3I?oc=5",
-          "added_at": "2026-07-08 14:41:43"
-        },
-        {
-          "uid": "9feb66c821c9",
-          "date": "2026-06-22",
-          "title": "China Joins United States, Taiwan, Iran, France and Global Trade Partners as Beijing Sanctions Ten American Defense and Rare Earth Companies, Raising Fresh Concerns for International Travel, Aviation Supply Chains and Business Mobility - Nomad Lawyer",
-          "summary": "中国は米国防衛企業およびレアアース企業10社に対する制裁を実施し、国際的な航空供給チェーンと事業活動に新たな懸念を生じさせている。この措置は米国や台湾、イランなど他の国々の制裁措置と連動する形で、レアアース産業を巡る国家間の経済的緊張が一層高まっていることを示している。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0FRYW9jUU5jS0VDX2REVzVCQy1YeGgyUlpYdlZrdVp5TE1RX2c5aXdDWEJtNU1xdHRyRDVxVVVqckRfQ1ptdWJCeHhlSm1TUTBpMks4UE04RG5ZTXhnUUZ5bFVvd251ZXFSR2JyY3JnbUlWX2piSmFsSTFKcHBneXk0RlhVX1JLWlF5b01qYVBIQjVfS1JNV3plTld1Vm5tdTB3VFhYNHJSYTFo?oc=5",
-          "added_at": "2026-07-08 14:41:43"
-        },
-        {
-          "uid": "a6fa7cdc6d2c",
-          "date": "2026-07-06",
-          "title": "Rare earth company MP Materials dropped 13.4% last month following China's decision to add it to an export control list - eciks.org",
-          "summary": "中国がレアアース企業MP Materialsを輸出管理リストに追加したことを受け、同社の株価は先月13.4%下落した。中国によるレアアース輸出規制の強化が、米国のレアアース企業に直接的な市場インパクトをもたらしている。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45ZDMzamU4YVFIQ1Q4OWpjTlZWczlSQU5pOUtVTTNhQW9mWDR1SDE2aGYzNFJZMDN2RkVGdmxtTkRfYVpkSkpVWTBpWFh3VVRRbVRFbWNxMGFtNlg0WkhpMlpYUFRidFpuc3JOdVpza05FNV9STFE?oc=5",
-          "added_at": "2026-07-08 14:19:21"
-        },
-        {
-          "uid": "40c639c189e4",
-          "date": "2026-05-18",
-          "title": "US China Rare Earth Deal Offers Limited Relief as Beijing Maintains Tight Export Controls - Modern Diplomacy",
-          "summary": "米国と中国が希土類に関する取引に合意したものの、中国は依然として輸出管理を厳格に維持しており、米国の供給不足問題への根本的な解決には至っていない。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQndwY3Vval9EVzFpRzA0cGVGTjRGMkNpeU1VMDV5UWlFeTZaaS1oQnE3TFdzNm1Yc20zSUxYT05wWU5FRFNFMVhodWpnQXVsT1loMkJHNkZ4MWV4b3hvQURLdGdFYWhGeUwyZ2RYdlRKckJXVENTVndFX3U1ZU5hOHhiNGl4b2lxUktlZTFleUE5ZVJhRk02WVI4UVU4WGR2VjhycEIxVjgtYXJHdFBJSHFvR3FNRkFRVlM4Ukd1MjV1a0RsMExN?oc=5",
-          "added_at": "2026-07-08 14:19:21"
         }
       ]
     }
