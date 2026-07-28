@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28 08:01:03",
+  "generated_at": "2026-07-28 16:41:38",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-28 08:00:14",
+      "last_checked": "2026-07-28 16:41:03",
       "items": [
         {
           "uid": "6af9d7111f47",
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-28 08:00:34",
+      "last_checked": "2026-07-28 16:41:16",
       "items": [
+        {
+          "uid": "b0fb015bfb8e",
+          "date": "2026-07-27",
+          "title": "Sen. Bernie Moreno pushes Connected Vehicle Security Act, says bill protects dealers and U.S. auto industry - CBT News",
+          "summary": "セン・バーニー・モレノ議員が提案する接続車両安全保障法（S.4429）は、自動車ディーラーと米国の自動車産業を保護することを目的としており、接続車両のセキュリティ脅威から業界を守ることを重視しています。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yR0E0MGdQd3haS3dPWm9ZdHF4eWJlZG5oTm9kck5Ia1lIT2tDWTJwUDlvc1BGV2RuTXZHSVJNUUY3amZzS21wNVdmcWJtbWFnbFBkcHZ6b3N6OUk2WEhHTndTMjNnWHpJdC1ocHVwNnJyVFZuXzE1Sw?oc=5",
+          "added_at": "2026-07-28 16:41:12"
+        },
+        {
+          "uid": "185a990560f9",
+          "date": "2026-05-26",
+          "title": "As the (Customs and Trade) World Turns: May 2026 - ArentFox Schiff",
+          "summary": "申し訳ございませんが、提供いただいたテキストには「米国接続車両安全保障法（S.4429）」に関する具体的な内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、ご依頼の内容に沿って対応させていただきます。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTRYN2VFMXgwUEpsZHFYdTJ1MWlNdjZSLUF1WDZ4aWlQYWdfQkx6djRJYWd0MHpNTExJRmdhSzBWTnoyQTZ2bUNIUVE5NGtrRDRUUXZrdVpWMXVCalZQa3Q1TkR4UGdSaE9sUzdhTl9ZeWdnci1MbXFpVjd4V0RvZ184ZGN2WnUzTUZPaTgyaWVqVnZiWnM3Si1TOU04Y2xIYUtnNmJnTEVYMkcyNnc?oc=5",
+          "added_at": "2026-07-28 16:41:12"
+        },
         {
           "uid": "5d3c92f5e707",
           "date": "2026-07-27",
@@ -4000,26 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0NLU1N0c212QW80OE94NVBEdUtEaXFkM0R1NENBcE1DQ1NWRDE0eVVyUFZTNDRLS1Ntejh1ZkRFajRtS1F2T3FlWHNjRjg3NEFIczJmVWNJenNoT190bE9WWWhzdk90S0pTTlBZS0ZVX0JVU0xxRW5jUENaa1RsX0hFWTk3eGh3YzZVbGp0a3BFQ283?oc=5",
           "added_at": "2026-06-19 09:16:24"
-        },
-        {
-          "uid": "5d6c46f78dc3",
-          "date": "2026-05-13",
-          "title": "US Automakers Urge Trump to Block Chinese Car Imports - Mexico Business News",
-          "summary": "米国自動車メーカーはトランプ大統領に中国製自動車の輸入禁止を要求しており、これはS.4429法案が中国関連の供給チェーンリスクから米国の自動車産業を保護しようとする意図を反映しています。同法案は、セキュリティ上の懸念から中国製部品や技術を含む車両の国内導入を制限することを目的としています。",
-          "source": "業界団体（自動車）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXRQVEllRllJM25EUXJXMjlRVndjVDRMR2RrbDBzZld4NVVxQ3BrNXRFSmd5WTFGOVlpUlpLN1k1Nnd5N1dBSVIwY3I2Z013ckxCLW1pWFNjQndjWlVvbDk4eXRpZjAtdG1ZVi1pUUQtSHFnUEYzUWJnZFByN0tzUndHS0tkZ2kyMmdCWnVfTzc4YXRCMVBNa0tB?oc=5",
-          "added_at": "2026-06-18 21:39:36"
-        },
-        {
-          "uid": "6ba0dffb4f54",
-          "date": "2026-04-14",
-          "title": "Dead cars tell tales by storing data that's never wiped - iTnews",
-          "summary": "自動車に搭載されたシステムが故障・廃棄後も個人データを保持し続けることが懸念されており、S.4429はこうした車両データの消去・保護要件を強化する法案として機能している。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb0NuSzRBM2hseE1admo5bzNEbFR4RFVnMWhsMkl3TWg3OWlpRURsMzI3b0VDLUsxZEF0QlVFSzN2T0pyR2Q5T1E1NWJCZGhZNjYwdWpONVhYRG1VS0hHYUpncEpWVmdOT0xpM1Z4WGJQaUdnNFF6MlVlN1VrUUl1T195VFJNZktTTy1ob3dSa1dxczV3Ynpj?oc=5",
-          "added_at": "2026-06-18 08:58:45"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-28 08:01:03",
+      "last_checked": "2026-07-28 16:41:38",
       "items": [
+        {
+          "uid": "07a308076278",
+          "date": "2026-07-24",
+          "title": "US-China Relations in the Trump 2.0 Era: A Timeline - China Briefing",
+          "summary": "I appreciate your request, but I notice you've provided only a title and haven't included the actual article content needed for summarization. The title \"US-China Relations in the Trump 2.0 Era: A Timeline\" suggests the article may discuss US-China relations broadly, but without the article body, I cannot extract specific information about China's rare earth export controls to provide an accurate summary in the requested context.\n\n記事の本文を提供していただければ、「中国レアアース輸出管理」に関連する内容を1〜2文で要約いたします。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9rOHkwQl9VYldidlJVajgtZzY4VE5TQmt6eEQ2czIxaTk5N3Ywd3diVXdCT3dKVmhUNmxMRjJ0UnJKdGE2TUtuNklrdWx4UTVGZG5kY1pvWnNEWUhkdmZ5WkV3R0plREV6aTlGc1JEUHVQeG02VzRsVE82OERteXhsMGNfTEVPMllnN0p3?oc=5",
+          "added_at": "2026-07-28 16:41:30"
+        },
+        {
+          "uid": "70b54cf1102e",
+          "date": "2026-06-20",
+          "title": "China's Rare Earth Empire and the PLA: The Strategic Materials Architecture Behind Military Power - Rare Earth Exchanges",
+          "summary": "中国はレアアースの採掘・加工・輸出を統合的に管理することで、軍事力強化と戦略的優位性の確保に活用しており、レアアース産業全体が人民解放軍（PLA）の装備近代化を支える物質基盤として機能している。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnVwdTN6RTFiZjEtaTVXbHJmSnpTeVJwZElWRWhmN0lBRmpkcXdZUFJsMTR5cEgxTC1IbmU5WkFmR1RpTjMyV1UwWWlKUTJoUnlRM0FYcEc3Z2VoNTFNRm1nSHpGMC15eEJ5bWxGblFHak5rY2dfUTRnNUZJdF9PLVhHUndRVVlsZ3ZjbURfRi1sa2RBeUk0LUZEWFdKeTNIZFlnY3kxQ2RCMjIwM3hSR2J6SGhORWstT2lxMk5mbXhzaE5UbVRNd1hxWUo?oc=5",
+          "added_at": "2026-07-28 16:41:30"
+        },
+        {
+          "uid": "8e4d98562116",
+          "date": "2026-06-16",
+          "title": "China controls trade choke points beyond rare earths. It’s squeezing them. - The Washington Post",
+          "summary": "中国は、レアアース以外にもマグネシウム、ガリウム、ゲルマニウムなどの戦略的に重要な鉱物・素材の輸出を制限し、米国や同盟国に対する経済的な圧力手段として活用している。このような多岐にわたる供給チェーン支配を通じ、中国は技術やエネルギー産業における世界的な影響力を強化しつつある。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjFfNVJxSUdSaWVYMWY5YlhHVVkwbGd0RnFRNURuSDI2VW1JQ3ZhVlM4ZW9rZFY4Vk5fc0FZTUlOT0FCdHA3c2xKTTg2NmpXaXljVzZYcnRITENfa2FQcHhPcVYtUzM2b2pLd1BuM1Nyd1hFb1lGeEpKMXhUc3Z0S1c2RjYycmxWc1Q2YkNSdjlqQmtaMU5UNWgxSUhiWFFsN1kyUk5TdTlJRmZ3d25lbkZTSFM4Zw?oc=5",
+          "added_at": "2026-07-28 16:41:30"
+        },
         {
           "uid": "98c633df2d9f",
           "date": "2026-05-26",
@@ -6001,36 +6031,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQndwY3Vval9EVzFpRzA0cGVGTjRGMkNpeU1VMDV5UWlFeTZaaS1oQnE3TFdzNm1Yc20zSUxYT05wWU5FRFNFMVhodWpnQXVsT1loMkJHNkZ4MWV4b3hvQURLdGdFYWhGeUwyZ2RYdlRKckJXVENTVndFX3U1ZU5hOHhiNGl4b2lxUktlZTFleUE5ZVJhRk02WVI4UVU4WGR2VjhycEIxVjgtYXJHdFBJSHFvR3FNRkFRVlM4Ukd1MjV1a0RsMExN?oc=5",
           "added_at": "2026-07-08 14:19:21"
-        },
-        {
-          "uid": "f5837f4d187d",
-          "date": "2026-04-14",
-          "title": "China Imposes New Rules to Block Foreign Companies From ‘Decoupling’ - The New York Times",
-          "summary": "中国は外国企業による「デカップリング（経済的分離）」を阻止するため新規則を導入し、レアアース等の戦略的資源の輸出管理を強化して、中国からの経済的依存を減らそうとする外国企業の動きに対抗している。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlNWMzIta1R0WF9EeFVEZTFuXzNnUnRfdEtieloyTFNiQ2QySDZQM1BScm0wYUwtcDU5RDBzeWxKWTBzeDBaamNKNkRPR2tjSGt6ZXRnY3JYRG1tNnJ5ZTgyeGdvb1NFYlU1ZUxURTJjZkZDQm41djFXb2NoRXlRZFVmeGk5Xzl5bXpkYkVR?oc=5",
-          "added_at": "2026-07-08 14:19:21"
-        },
-        {
-          "uid": "94468c5a044c",
-          "date": "2026-05-18",
-          "title": "Brussels Weighs China Supply-Chain Rules as Trade Deficit Becomes Security Issue - EU Today",
-          "summary": "EUは中国のレアアース供給に対する依存度の高さが安全保障上の脅威となっているため、サプライチェーン規制の導入を検討している。この措置は、戦略的に重要な鉱物資源における中国の支配力を牽制し、EU内での供給源の多様化を目指すものである。",
-          "source": "欧米メディア",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QT1UwNXQwdFNsWEpNWGFhV085RENyYks0VFhGOVVscXFZaDM0LTZsWFFnSGVIZmcxOUtVeGJ4QkZteWFLWHc5X3FSZnNZYkkzdHBNY0FmV2RVYjBSUE5HTjNuUWlLU2RwZ2dOeThn?oc=5",
-          "added_at": "2026-07-08 12:40:37"
-        },
-        {
-          "uid": "bf9fc6da1806",
-          "date": "2026-05-20",
-          "title": "Chinese, US trade teams hold extensive discussions on rare-earth export control issues, will jointly study solutions to each other's legitimate concerns: MOFCOM - Global Times",
-          "summary": "中国とアメリカの貿易チームがレアアース輸出管理問題について広範な協議を行い、互いの正当な懸念に対する解決策を共同で検討することで合意した。中国商務部(MOFCOM)がこの方針を発表した。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Lb2NPRHo5MXlXcmJwRENNdDZmYjhkZTJESzI1bXpaYUVTLUluZkp4bjRTdzVBQ3hTc0lqQUpIbEtFZ1JtbEFOQVF3dDJ6dmd6SnNrdUotcldBanVadVJ1MjVB?oc=5",
-          "added_at": "2026-07-08 12:02:32"
         }
       ]
     }
