@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30 00:51:29",
+  "generated_at": "2026-07-30 08:01:01",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-30 00:50:55",
+      "last_checked": "2026-07-30 08:00:17",
       "items": [
+        {
+          "uid": "7ca669e8c44e",
+          "date": "2026-07-14",
+          "title": "Clean energy technologies in the European Union – Implications for quality jobs, skills and a just transition - European Environment Agency (EEA)",
+          "summary": "クリーンエネルギー技術産業の拡大に伴い、EUは高度なスキルを持つ労働力の育成と地域格差の是正が必要であり、これは欧州産業加速法案の産業競争力強化と雇用創出目標を支持する施策である。IAA推進下でのグリーン産業転換には、質の高い雇用機会創出と公正な地域移行を両立させることが重要な課題となる。",
+          "source": "EU産業政策",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdVcyb2YyNEtkVlNpaE9FUE55dTM2dEgwVUMxbzQzLTRkdFZzeXVQcktNQWxFdVFYbHI2d1RJcHFtc2tXbEJHZ0NHLS0zb0ZhSVQtTTNqd1JQU1BEdHFPbC1BbUM3SUJLdVVDVEFVUHJUMV9iM19IZ2d6eU9kX05kOVFiVkIwQQ?oc=5",
+          "added_at": "2026-07-30 08:00:15"
+        },
         {
           "uid": "0f4ed31d230a",
           "date": "2026-07-28",
@@ -1999,16 +2009,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGZRbmJTRVpiVC1iUGRpUjIweU9adlFsUXJHOHY5SC1qZURFUk5xTWRodFFkQm5WTHFDUmlhT1dvOUZvLWQtcTl5WTVUdTNYQ3cxVGVZTWdWb19hX2VaM0M4RTdPYm1fSE5LbWtpTmhQbmJVNE9QanA1cnlIbWF4YUtINzFOTnRkNUw4bWhoVEdnQzdqU0VialVzbnFyUTBHOGtWRktuRkNkc2Q1d0t0WQ?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "4dd23fe1aaeb",
-          "date": "2026-05-12",
-          "title": "Deregulation Watch - Corporate Europe Observatory",
-          "summary": "申し訳ございませんが、提供していただいたテキストが「タイトル」と「内容」のラベルのみで、実際の記事本文が含まれていないため、要約することができません。欧州産業加速法案（IAA）に関する記事の具体的な内容をご提供いただければ、日本語で1～2文の要約を作成いたします。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oSlROenFILXdmUmE4V2xMM3hBcmhSWnBkazRmSG4zb0FwRmQ2WmFIQXFFSWNIRm1BMm5zbjVwRC00dWZjazhlOEYwMnBZWmJTOVhiNGE1dTJ1Y01PTzZ2MmtRTQ?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,8 +2019,48 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-30 00:51:10",
+      "last_checked": "2026-07-30 08:00:36",
       "items": [
+        {
+          "uid": "f3f22bb06de4",
+          "date": "2026-07-29",
+          "title": "MichAuto and the Detroit Regional Chamber Applaud Senate Committee Advancement of Connected Vehicle Security Act - MichAuto",
+          "summary": "ミシガン自動車工業会とデトロイト地域商工会議所は、コネクテッドカーのサイバーセキュリティ基準を定める米国接続車両安全保障法（S.4429）の上院委員会での可決を支持しており、これは自動車産業の安全性向上と国家安全保障強化に貢献するものと評価している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2xuOWhnT216M1hJQk9ISjk2RHVHMzZVM3FBdjJYYVVYbHRxNGpLdUZHdHhHTTZqN0ZkSUkwLWJWMHo1STBldUdVdTNvUjVlNlFvYndFOUFjdjh6N2hnM0xqSlhuSlRxdWUyaFZyVklFbmQ2TWk1V0FuUE02RTAzbzZ5bWxVNEREejZZZkFMckJYQnA3c05DQVFTX2ZPWDJBUlBZSUFhSEEwV0dxS0FuU21vd1lLbXl3cHZhcjZEWXlPTUxveC1QSUU2WTFtT1E?oc=5",
+          "added_at": "2026-07-30 08:00:28"
+        },
+        {
+          "uid": "711451c34ba7",
+          "date": "2026-07-29",
+          "title": "The Connected Vehicle Crisis Idling Just Outside of America’s Borders - Alliance for American Manufacturing",
+          "summary": "申し訳ございませんが、提供いただいたテキストには、「米国接続車両安全保障法（S.4429）」に関する実質的な記事内容が含まれていません。タイトルのみで、具体的な記事本文がないため、要約することができません。記事の本文を提供していただければ、日本語1〜2文で要約させていただきます。",
+          "source": "業界団体（自動車）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkpRRnoxMTJ2NlFLSnRwd2xCcnlTM0Rsa29YUEVYelRmdl8tQkhMeXN4dWUwZVFqR0pLdXowbi1Pa3d2SnUydkxReWZsdndBZTd4VkFuQ3ZUVm5UeGRqZ0VfNjNoWG5RT2ZhTVp2UGZyYlVkdVBCam0xelRjNEtVb1lPaUpwdW5UZFNYdy10a3BjS09KXzRBbHhSbzB2T2k3MUlHbGVXSHI4UG9jd0JqMGln?oc=5",
+          "added_at": "2026-07-30 08:00:28"
+        },
+        {
+          "uid": "81e9c78ac49e",
+          "date": "2026-07-29",
+          "title": "Foley Automotive Update: July 29, 2026 - The National Law Review",
+          "summary": "申し訳ありませんが、提供いただいた内容には記事本文がなく、タイトルのみとなっているため、「米国接続車両安全保障法（S.4429）」に関する具体的な情報を抽出して要約することができません。記事の本文をご提供いただければ、要約させていただけます。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYazBjT09ZcU5QLXhFN2RnTU9kQ0JzaGRyQ1lNcnl2Q1F4S1dYbUdoYTQ4X3M2czlERVI2T19NZEg4S0t6WVZDRmtFbWpqcmtYUDdiT29xTFRybnByNXVta0dJQlk0aC1taEtZcnozbjB3VFk5ZHRtQWQ4a2dRUdIBfkFVX3lxTFBYazBjT09ZcU5QLXhFN2RnTU9kQ0JzaGRyQ1lNcnl2Q1F4S1dYbUdoYTQ4X3M2czlERVI2T19NZEg4S0t6WVZDRmtFbWpqcmtYUDdiT29xTFRybnByNXVta0dJQlk0aC1taEtZcnozbjB3VFk5ZHRtQWQ4a2dRUQ?oc=5",
+          "added_at": "2026-07-30 08:00:28"
+        },
+        {
+          "uid": "0c080ba22c13",
+          "date": "2026-07-29",
+          "title": "Momenta Launches Map-Free Delivery Vans Into China’s Driverless Delivery Race - Tech Times",
+          "summary": "中国のAI企業Momentaが地図不要の自動運転配送車を展開することで、中国の無人配送競争が加速しており、これは米国がS.4429で懸念する中国の自動運転技術発展と、米国企業との技術格差拡大を示す事例となっています。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZFFiblNnakEtWWo5RXR0bzdvT0RLd2ZkcWd4cm01UXFhNDZhRXFnVHdGRi03ZVJFN21icEtwa1pxT0Y1SEhhZ2VMcWN1TUNSeHNURDJQeEM1TzFzWXJWUldoZW44R3RLTTZ5blFGNDJkOGtySkVpNlVfS1dfSFFkRFdoYWUwd2RGYVRXVWpEVjcwbHFmVlVvSG1MTS1RSEZLdUlXQ2Y4X21nZWoyS29vNU5ENjZER29DQnhTQ0hodVFtV2FU?oc=5",
+          "added_at": "2026-07-30 08:00:28"
+        },
         {
           "uid": "0a019914b45a",
           "date": "2026-06-21",
@@ -3980,46 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlN2bVJlLXhvaE1VeFc3YzFwcWUtR2FKWmwtOU9QZzVWVWpXYzdBbUJCYkt4TkIzOWNPM2tkLXZuQ0NmemRaZmVBMTRWaXpHNjB5OXhNeU90WVlVZGpTb3hKUW5fQklyY3dQWmpZVXpVcS1IOEhJRk5PRnRWS25qOU1pbGUwRlZXaUZDMFUyb3hVX0dxUkdEOGpBSGFiR3o1X0pjMzhaNzRfWlYyLXk1Q21WSELSAbQBQVVfeXFMTjJTdm1SZS14b2hNVXhXN2MxcHFlLUdhSlpsLTlPUGc1VlVqV2M3QW1CQmJLeE5CMzljTzNrZC12bkNDZnpkWmZlQTE0Vml6RzYweTl4TXlPdFlZVWRqU294SlFuX0JJcmN3UFpqWVV6VXEtSDhISUZOT0Z0VktuajlNaWxlMEZWV2lGQzBVMm94VV9HcVJHRDhqQUhhYkd6NV9KYzM4Wjc0X1pWMi15NUNtVkhC?oc=5",
           "added_at": "2026-06-26 13:49:59"
-        },
-        {
-          "uid": "60338f8e5788",
-          "date": "2026-05-27",
-          "title": "Volvo gets US government approval to bypass Chinese connected-car ban - Ars Technica",
-          "summary": "ボルボが米国政府から中国製コネクテッドカーシステムの禁止規制を回避する承認を取得し、同社の車両がS.4429法の適用除外となりました。これにより、ボルボは米国市場で特定の中国関連技術を搭載した接続車両の販売を継続することが可能になりました。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMmlMZ0NFcS1mNlF1Mmp5bmhRcDJwb00zSXJfZTNPZVRPTWtkcmo3Mkt5a2laT2R3QzZJeFIyLVZ1bGZVMU40SWd1dldhNzJoZVcwbWRMU0p2X3ZPTm9UWEtVcE8wMU9hdlJaSzM3cW1wNDRSS3FEeExEdU1Kdkp3ZHNJMGdfcEc0X29GQmgzd1RxWXVwSHdXcmpqdjFURUpfZkhQZndvM1VWNTQ?oc=5",
-          "added_at": "2026-06-26 13:49:59"
-        },
-        {
-          "uid": "5b409df18c49",
-          "date": "2026-06-16",
-          "title": "U.S. Restricts Chinese Software in Connected Vehicles; Automakers Seek Waivers-Internet Info Agency - 网通社",
-          "summary": "米国は接続車両における中国製ソフトウェアの使用を制限する法律を施行し、自動車メーカーが規制の適用除外を求めている。この措置は国家安全保障上の懸念から中国関連の通信技術を車両から排除することを目的としている。",
-          "source": "自動車部品業界",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByUmtfTWd2M2VXMzlWVEwxYWFKa1g4TjlybjUtTmtUcXI1VkhPd2U2dmtXcEpvQzVVVGtZWVI4UEdQQmF4dFVaR043cXdEOTBfd0NucXFzaEYxRndSaXJPMjJR?oc=5",
-          "added_at": "2026-06-26 00:23:42"
-        },
-        {
-          "uid": "c5a0d573eb1f",
-          "date": "2026-05-01",
-          "title": "India Opens V2X Spectrum Talks for Autonomous Cars - Whalesbook",
-          "summary": "インドが自動運転車向けのV2X（車両間・路車間通信）スペクトラムに関する協議を開始したもので、これは米国のS.4429法が推進する車両セキュリティと通信規格の国際的な展開の一環として、インドが自動運転車通信基盤の構築に向けて動き出したことを示している。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZWJnbHhocXpNdlA2VVlTT3NlRUl0RUVZZkRvcHFEbVlXbWxFbG5oYVdPUG95azBwak5GVEt0Y2JIdDExMmdlLVFncFQ1cF84WV9JMFhzVG91cTlZU2xmdGgyMldNOHg1bkpEYi1SYWtvV083c2NlcmxYQW1VcWlFSWo2aVNuTnF1WjFHNDRLdThPRzdkRi16dVVVWFVpTDZ1Ukd5UkRrVnNQeklwaHYtSTNzR2tGZGgyd0x1RQ?oc=5",
-          "added_at": "2026-06-26 00:23:42"
-        },
-        {
-          "uid": "87b4d68abe8b",
-          "date": "2026-06-01",
-          "title": "Mercedes-Benz dealers face uncertainty as Congress weighs ownership restrictions - CBT News",
-          "summary": "米国議会が検討する所有権制限に関する法案により、メルセデス・ベンツのディーラーは経営の不確実性に直面している。この動きは自動車産業における外国資本の支配を制限しようとする米国の安全保障上の懸念を反映している。",
-          "source": "業界団体（自動車）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMHo2R3BRa3k4UWRFZUVydFZBV2hpdzhBM0szUmJwNnE3dW1WMkxDc0VRVHR2RHZJWFdZOWwyOUhWa1R5RnNVOFdsRjNpLWc5UmV1Tml4UmxMcHZaM19qbTBoeTFkR2w1eGRsTUMxUFc?oc=5",
-          "added_at": "2026-06-25 13:41:59"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-30 00:51:29",
+      "last_checked": "2026-07-30 08:01:01",
       "items": [
+        {
+          "uid": "e19670f61343",
+          "date": "2026-07-29",
+          "title": "China Restricts EU Entities in Export Control Watchlist, Targeting Rare-Earth Supply Chains【SMM Analysis】 - Shanghai Metals Market",
+          "summary": "中国がEU企業をレアアース供給チェーンの管理対象として輸出管理ウォッチリストに追加し、レアアース関連産業における欧州勢の調達を制限する施策を講じている。この措置は、西側諸国によるレアアース依存度を減らそうとする中国の戦略的な対抗手段と位置づけられている。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb3Z6ZExPUGZyZE8yZ201WlBjelZJYVJPYS1vX1BHdC1jeFhUeERWQ0Q3QkRSSnIzbTdqMFpQb0pWZ1FTTHVMT3c1Y3l2N0ZNODE4SEE5NjJFSXRhempoYkQzYmVyY1VnekI0MFRELWJuVG1HblZiblFZS191NUxaLVpPOXBub0F1WVo1ZUFNOUFTNlBUdHE3OXhhWkxzcHdtSVYtOXJDZy1qQWtGMFRVVUxfWGM5eEpDQ1hHYU5lY3BKZHl4YXdrVGFLaUdqb01WY2duQnkwYnVnWlp2R1Z0Yw?oc=5",
+          "added_at": "2026-07-30 08:00:54"
+        },
+        {
+          "uid": "11594f76ca38",
+          "date": "2026-05-16",
+          "title": "Pentagon faces 'crippling' rare earth shortage as China 'tightens controls' - AOL.com",
+          "summary": "米国防総省は、中国がレアアース輸出を厳しく統制することで、防衛産業に深刻な供給不足が生じる危機に直面している。中国は世界のレアアース供給の大部分を支配しており、輸出規制強化により米国の防衛能力が著しく損なわれる可能性がある。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM1BZWkZtTGFTNEx5Z2ltbnhiS2x5U193MkZXUy1nUXNrNmkydU1qTUxDQzVjazJ2aS1CRmtNbFlKeWs4ZUJxSWRZdlBfZ2lYNnVMT3djTHhPVThZcmEyWTJmMmFuclhxRTZWU0lINzJIYjZFRWRVY25BMk9QUG1ST1dJbTlJUQ?oc=5",
+          "added_at": "2026-07-30 08:00:54"
+        },
+        {
+          "uid": "79c0a6570c3a",
+          "date": "2026-07-29",
+          "title": "Rare Earths Americas expands footprint at Shiloh project in Georgia",
+          "summary": "Rare Earths Americas社がジョージア州のShilohプロジェクトで採掘を拡大し、6月の試錐と表層サンプリングで44.5%の酸化物希土類濃度（TREO）を達成した。これは中国のレアアース輸出管理に対する米国のサプライチェーン多様化戦略の一環となる。",
+          "source": "Mining.com",
+          "source_type": "industry",
+          "url": "https://www.mining.com/rare-earths-americas-expands-footprint-at-shiloh-project-in-georgia/",
+          "added_at": "2026-07-30 08:00:54"
+        },
         {
           "uid": "a3617e8deefd",
           "date": "2026-07-29",
@@ -6001,36 +6031,6 @@
           "source_type": "industry",
           "url": "https://www.mining.com/trump-puts-greenlands-rare-earths-back-on-the-table-for-nato/",
           "added_at": "2026-07-08 23:47:12"
-        },
-        {
-          "uid": "2b3453e2c70f",
-          "date": "2026-07-08",
-          "title": "Washington, Beijing should de-escalate from tit-for-tat actions, US senator says - The Star",
-          "summary": "中国のレアアース輸出管理に関する米中間の報復措置の応酬について、米国上院議員が両国に対して緊張緩和を求めている。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTDMyMG9MLXh2ZlpKMzlZUVpIT2xuczFFb1NPUmoyTWRGeVZhQS1QQU8wYTUxckFDZWRhQlF4bEl1dEF5QUY5M3NDazlYVGZVb2hwS1dhU2xrVENrM0VkdVY0RThRbHh2OGdBb3dpOXZBWFFuWnQ0OFRjeW9YQWdBOF8tSENIV3V3MlJPT2lRZ0lCQURWeDRkSEdoQlJXdHd0OFJMM3lzM3BTTVBIX19rSVg2d3FjWVBPeEIwOGpxdXBCLXJDOEl3SERJb29lSlFYOE1wTnduUTQ?oc=5",
-          "added_at": "2026-07-08 20:48:34"
-        },
-        {
-          "uid": "ad7f60bc439d",
-          "date": "2026-04-16",
-          "title": "China Rare Earth Price Bulletin Signals Firmness—But Pricing Reality Remains Murky - Rare Earth Exchanges",
-          "summary": "中国のレアアース価格公示は市場の堅調さを示唆しているが、実際の取引価格は不透明なままであり、公示価格と実売価格の乖離が続いている。中国の輸出管理強化に伴い、レアアース市場の価格形成メカニズムが十分に機能していない状況が浮き彫りになっている。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFBObHlxUEkwYjBBdGU0R2JFTUZpVHh2S1c2R2N4YkR2cEt2Rk80ZWpSRHJpX19rUndFeUJDSlpTWHFRVV9qVE9xcno3eEFhY3N0V0d0cGNSMFctT1FJTEpxb0RtUTZ3WC1acmJJRWdfdzRTSVAwMW1DSmpwV1RETml4dGVWUzg1QVNUaGZ0RlctUjZjRkVtZWlKMXhDXzE4MDNSSmtsWm01SWc2MHEtUjN3QTNPcndxVFpB?oc=5",
-          "added_at": "2026-07-08 20:48:34"
-        },
-        {
-          "uid": "8d4bcea63dd4",
-          "date": "2026-06-22",
-          "title": "China hits US rare earth companies with export bans - Taipei Times",
-          "summary": "中国は米国のレアアース企業に対して輸出禁止措置を発動し、米国への供給を制限することで貿易紛争における報復手段として機能させている。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44REpYSTJIZEYwbFZsUEkxYnBjelRHTlVKTkRxc0g1YlMzOGczRGhwak1wckJLYlRReDd5aTJwRlpjcVpyNHFfanBZN3JvN3BLdWF1S0hSTEhyOHhDYS1mZmZCak5CLUlTZXcyUndFWEg3U05HSkE?oc=5",
-          "added_at": "2026-07-08 20:48:34"
         }
       ]
     }
