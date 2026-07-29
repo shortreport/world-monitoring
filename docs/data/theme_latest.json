@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29 16:45:44",
+  "generated_at": "2026-07-29 23:29:28",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-29 16:45:12",
+      "last_checked": "2026-07-29 23:28:39",
       "items": [
         {
           "uid": "0f4ed31d230a",
@@ -2019,8 +2019,48 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-29 16:45:28",
+      "last_checked": "2026-07-29 23:29:06",
       "items": [
+        {
+          "uid": "f9efbf4a3fba",
+          "date": "2026-05-26",
+          "title": "Trump administration permits Volvo to keep selling connected cars in the US - Yahoo Finance",
+          "summary": "トランプ政権がボルボに対して米国での接続車両（コネクテッドカー）の販売継続を許可したことが報じられており、これはS.4429が目指す中国を含む外国勢力による自動車通信システムへのアクセス規制と、実際の産業運営の間に調整が必要であることを示唆している。同法案は車両セキュリティの強化を掲げながらも、既存メーカーの事業継続との両立が課題となっている。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjV6dmZqRzk0T0JrM1RSSWFVTlh0dUtiWUctVmdzUXhvLXdLME16LWg0NG9vRFh5TFVHQXBtQWNNbnIwamxGOGJtSXdCVkdQX0JiR19LeE1TZmdlc2Q0SF9XVURJdjZXU2ZtS1NTZndCV1BtbXluSEc2b3FEMEdvLXZDZHg0WWtyQmF4ZzBJRFdKc2xLZXBrZTUxSGxmU00y?oc=5",
+          "added_at": "2026-07-29 23:28:55"
+        },
+        {
+          "uid": "b764bd3bb4c1",
+          "date": "2026-04-30",
+          "title": "Slotkin, Moreno introduce bill intended to ban connected vehicles from China, other countries in U.S. - CBS News",
+          "summary": "米国の議員らが導入したS.4429法案は、中国などの特定国から製造された接続車両（IoT機能を備えた車両）の米国での販売・使用を禁止することを目的としており、国家安全保障上の懸念からデータ漏洩やサイバー攻撃のリスクを制限しようとしています。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc2hIWjNQZHRJYXFjQXBlVWZhWDh0M0dlZ0lxMHNYZnFYMkluMWcxU2dieVpHckdtX2tNZGZzZU03UzZ6c1o5NTZJR2NYN2Z5cjlXaWpwdjZTOFcwUl9zNTJ2eUlPTXBQclc1Y1VoZmM2MmYtbHYtS1RTek1mQ0NiRngxQUJHbHdZTmdpdTdlWdIBlAFBVV95cUxNTDB0V3N2SjhDaGxoSnlYbkd0SlZseDR2WE52d09Kb2VOYzJxaERLdlpfUElfU0NUaGIwZkpKUlJ2Zkk4MVdmaFJ3NlZMY2J6eXE1a3FIcjlpX3FLWXZkN3JXdVFCaFNrUmUzOG01VDNWNXF6QjlOUDN2X3hnLWswUmd3b2ZlLUNZNjB1MUhwZ2FjVnMy?oc=5",
+          "added_at": "2026-07-29 23:28:55"
+        },
+        {
+          "uid": "5561e6d8e8af",
+          "date": "2026-07-25",
+          "title": "U.S. auto industry races to purge Chinese connected-car hardware amid federal push - AOL.ca",
+          "summary": "米国の自動車業界は、S.4429法案による連邦政府の圧力に応じて、コネクテッドカーから中国製ハードウェアを排除するために急速に動いている。この法案は国家安全保障上の懸念から、中国製の接続車両部品の使用を制限することを目的としている。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aM0Nvb3VjRkJCa0xBNEdIYm03ZldrbTBlVnZEZ3ZMZTNVZ3VHVEI3eV96V0xyRkRyejhJeHRoRGZNUHEzZlMwdm56Z1hzVUFzbzk2MWFpRUZKWE5rWEVKd1pmcHk5U1o3d0dlV3ZtZTZRTDRTQW9HR0pB?oc=5",
+          "added_at": "2026-07-29 23:28:55"
+        },
+        {
+          "uid": "aea7b2b74dfb",
+          "date": "2026-05-15",
+          "title": "Article | Senate bill blocking Chinese cars would snare two big Europe-based automakers - POLITICO Pro",
+          "summary": "米国接続車両安全保障法（S.4429）は中国製自動車の販売を禁止することを目的としていますが、その規定によってBMWとVolkswagenといった欧州の大手自動車メーカーも影響を受ける可能性があります。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ3ZtcG01N0x2TFp4eFM2ZV9IdFJqMVN3OGJLMi10dXVWWHpxZGYwd1lDSnRlcXRLeDZwYUdZRjAxeTJHTVVqYTlVamNBWmo2QzVHaG83MWFGNHhQYzRnZ2R5cGdEWkdnNm8teTdRN3RmdGFiYXpSLXhjN0s4NWxzOVI3Mi1ic1Rmem1wdmMxTFZGbW9hRXRyOTNDb0g5VC1qZXFnUXZleEtYdw?oc=5",
+          "added_at": "2026-07-29 23:28:55"
+        },
         {
           "uid": "5ec347bab9fd",
           "date": "2026-07-28",
@@ -3980,46 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY05mVUFkbGFEc1JEd0ozYnJ5NVR6bVJfZnRRdFpJaW9xWmhYQXBrY1dGREF2OHc2dnhOdG1mUXpPYjlvX1pzYW5Pekk2bUlCMHFFVlJtUXJNUDluc0QwY1Y5VFgyMjB4RzQwcDc1RVI1UWFkR3FDVUpZU1pheXFRNFExaXZIeVFYdHNOMFZSZXBOWWY1aGtNWUFqNGg2eUw4alB4aXRRUk9oSnYzS1lZSDRid1BLLXdZalRoWUpGRDVhdE9i?oc=5",
           "added_at": "2026-06-24 04:33:08"
-        },
-        {
-          "uid": "4a9746477178",
-          "date": "2026-06-16",
-          "title": "US CISA, G7 Partners in Europe and Asia Release Minimum Elements for AI Software Bills of Materials - Morgan Lewis",
-          "summary": "米国CISAおよびG7パートナー（欧州・アジア）がAIソフトウェア部品表（BOM）の最小要件を公開したもので、S.4429に関連するサイバーセキュリティ標準化の国際的な取り組みを示しており、接続車両のAIシステムに対する透明性と安全保障要件の強化につながる。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUVZJMjJaZnhKdlFHWmFLSE9QSnl1V0QtQnBvd183YUxtczhCY0pwSFkzODJJU0VZLXlfNU5udmJEcTlxS05IenhQdjdvMzdYcFZhVW5XUUUwdEZSakVMNnJMaS0ySFFWTFA0dHRWc3FFMUNCb3RGR0pRTkYtWmRpT1BHekd6WmJ2aEZLRXRNdUd1UDJtOTBiS2ZJUzkwd0NSeElQdE1SSVBnMkFhV2JsY3RGdlBhajFhTWNRdEVSaEJ6S1FncHh4S0dHUE9pMXhPb2pLSUlB?oc=5",
-          "added_at": "2026-06-23 20:51:26"
-        },
-        {
-          "uid": "29902b142906",
-          "date": "2026-06-22",
-          "title": "Ford seeks US approval to keep selling China-built Nautilus - MSN",
-          "summary": "フォード・モーターは中国製のノーティラス（中型SUV）の米国販売を継続するため、米国当局に承認を求めています。これは接続車両に関する安全保障規制の厳格化により、中国製の接続機能を備えた車両の販売が制限される可能性があることに対応した動きです。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTFpLOC1XU3hfVHRsMlVwOUo4S1VRWWVvR01ydWwxei1WOFlPdWs4MGQ2TTlOVUgxZzFaT3FwVVFNS3htR2Z1QVlYOTRlTW1UWGZHV2sza2NOWFlVMHlKV1I0cl9tMnFpemw3NmEtMEFkYjcybG9rLVRvN2F5T2tnbmhnMXlnZGtxUHY3TXAzVTdtMklNY090TmFiTS1vR0FsOTc0Y3pncEZzLXFjT0Z3LVpROVc2Ty11RFM5VGpmbEtqdDZOYXl2T3JrM1M4dm1qLVluS3B3X0RpWEJjQ3plMEJnSVZseHlDU0gzSHdEcHhRU1U?oc=5",
-          "added_at": "2026-06-23 20:51:26"
-        },
-        {
-          "uid": "0a019914b45a",
-          "date": "2026-06-22",
-          "title": "Chinese Auto Companies Test U.S. Tech Rules - The Wire China",
-          "summary": "申し訳ありませんが、提供いただいたタイトルのみで記事の具体的な内容が明記されていないため、要約を作成することができません。記事の本文を含めてご提供いただければ、S.4429との関連性を踏まえて日本語で要約いたします。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSUVKX3pxdGp3LU1QSnRhSW5lNjJjcE1sdzVGMUtKMUgwX0J0Vk91TGRqSS16SWlia1RYZmRXQXFPSThNd21HRUgya3E0UVlybGo1X0VrdWJlTWwtUG1JTzE3UEdKMm11cGs0ZFFPbEI3QkoxZVlTOE04bTNKUGhibEtlbEVFV3lZTFBJ?oc=5",
-          "added_at": "2026-06-23 03:07:53"
-        },
-        {
-          "uid": "73a9689db183",
-          "date": "2026-06-22",
-          "title": "Finite State CSO Sharon Hagi To Present Auto-ISAC Europe Cybersecurity Workshop Keynote “AI Closes the Window: Automotive Supply Chain Security in an Accelerated Threat Environment” - Business Wire",
-          "summary": "本記事は米国接続車両安全保障法（S.4429）の背景にある自動車供給チェーン全体のサイバーセキュリティ脅威に対応するため、AI技術を活用した防御強化が急速な脅威環境下で重要であることを示唆しています。同法が求める自動車産業のセキュリティ基準達成には、供給チェーン全体でのAI導入による脅威検知・対応の加速が必須となります。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNR1NDdW9rcnB4a3NLUUR5U0w1ZDJKejNBN1duUDJPd01yMUtFdk9TNWlYMkZjcVVWRTVzYkZ4ZHE5LWJSQWRhaEYweTUta0gxVERqbWI5NjNURTdRMm0wWG9pMkhxT3o1VDI3V19ySlRqSE9ld0FtUk5DZFFabHZ3RnpxY2lKNFdqMjgwRFRDUGdtN213RTZwdlJKbmdJVVZ1SHAzMDRtbW9WZTNkSTNNVmMyc1MwcWVMRE1CblNKUEhxRE5MdGx2OHJDeS0tZGl5bnNsTGpWdXlwMHg5MjlJa1FqODZlSjBGQ29RaS1LMFFKdkwwdlBHQURTeGJ3TDRFZnFhWWpQRlN0clM0ZTBZTWxBbzVJY2hKWTdUakJzcldYRG9Ga3JESWN3X2pxTUNvTEZET0hScnUyMzJJaFo4eHU3aXJaUEp3NEpXdkY3VGg5X2tfOEE?oc=5",
-          "added_at": "2026-06-23 03:07:53"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-29 16:45:44",
+      "last_checked": "2026-07-29 23:29:28",
       "items": [
+        {
+          "uid": "4648dc552495",
+          "date": "2026-07-28",
+          "title": "US enters China’s Africa turf with new rare earth bet",
+          "summary": "米国がアフリカでのレアアース採掘企業Harenaを支援することで、中国が支配するレアアース市場に対抗し、西側諸国のサプライチェーン構築を推進している。",
+          "source": "Mining.com",
+          "source_type": "industry",
+          "url": "https://www.mining.com/us-enters-chinas-africa-turf-with-new-rare-earth-bet/",
+          "added_at": "2026-07-29 23:29:26"
+        },
         {
           "uid": "b5ad9e2e5a91",
           "date": "2026-06-22",
@@ -6020,16 +6030,6 @@
           "source": "欧米レアアース企業",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRDktVFpvdUJ5dTU3WExJOXpJZEhWZHg0b3dfcHhXc1lVcmNNM1FHdktYOWJScUwwcUhJOV8zbFItTGpLa0xFSGtza1NGVFZaZnQ4TWtOSVZ5R013N0JnOWQ1TFpKZ29vN1JGSWNSOGdXZklnS0F0eGVySnFVZFZQblFKMUxmZ3o5emFtSFE3ZXFCYmVzQVVLOVZIVC11Q1dMcEE0RUY5TEtnWV94TjlCWUllMGlZUFVld1FGYnVlT2xhSEZGV3RpN2NnR045QnJmenFUMnBMZ2IzcXNsNjhOcFlzTnRrMmdJQmpfU3BrakE4azllSnFB?oc=5",
-          "added_at": "2026-07-08 18:06:06"
-        },
-        {
-          "uid": "7f486cb71858",
-          "date": "2026-06-22",
-          "title": "Rare Earth Supply Chain: Pentagon Loans $725M to Close Metallization Gap as China Hits Rivals - Tech Times",
-          "summary": "米国防総省が中国のレアアース支配に対抗するため、冶金化プロセスの技術ギャップを埋めるために7億2,500万ドルのローンを提供し、国内サプライチェーン構築を進めている。中国がレアアース輸出を管理・制限する中で、米国は戦略的に重要なレアアース産業の国産化を急いでいる。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2VzYWd6cXdpODdVeHAyYTN4MlBESkZPVk92OThHajRUZTUyYUZFMTdDYnZvczNuUm5STlYtQUZGYUhjU1p4TENPX2hqRzFTWHhrRE83NlpsMDVSSUc4RmY1RTN6V0V5cnFueExYVGtzaFdsMWVLMzdTeENwR0hKQUI2bjlXZDdjUFNTX2dMeE5FYTRwcFhNMXBWOC1tZjkzWjVBbjBKZElDR0ZTZ0R4MDFScmVoTDh6ZVQyZnRUV2NIVlVWTUNiSWlXc3JtTzh2SGJFZERXWQ?oc=5",
           "added_at": "2026-07-08 18:06:06"
         }
       ]
