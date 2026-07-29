@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-28 07:01 JST",
+  "updated_at": "2026-07-29 23:28 JST",
   "total": 50,
-  "toyota_summary": "現代自動車の第2四半期利益は、売上増にもかかわらず20％減少した。これは、旺盛な需要下にあってもなお、関税と コスト圧力がマージンを圧迫している実態を示すものであり、グローバルなサプライチェーンを抱える他の自動車メーカーにとっても同様のリスクを示唆している。\n\n米上院は「コネクテッド・ビークル安全法案」を可決した。同法案は中国、ロシア、北朝鮮、イランに由来する技術を対象としており、米国内で販売されるコネクテッドカー部品について、自動車メーカーにサプライチェーンの再設計を迫る可能性がある。\n\n参考情報として、インドの第1四半期自動車販売台数が過去最高を記録したことを付記する。",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20260728_0132",
@@ -162,7 +162,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "中国とタイがAIを含む新興分野での協力を拡大する共同声明を発表し、両国の戦略的パートナー",
-      "subject_en": "\"JETRO Business Brief\" 2026/07/27",
+      "subject_en": "JETRO Business Brief 2026/07/27",
       "html": "data/pdfs/20260727_1806_「ジェトロ・ビジネス短信」2026_07_27.html",
       "summary_en": "Hyundai Motor reported higher second-quarter sales but a 20% drop in operating profit, reflecting cost pressures despite strong demand. Meanwhile, the U.S. Senate Commerce Committee advanced the Connected Vehicle Safety Act targeting vehicle technology from China, Russia, North Korea and Iran, and India's passenger car sales hit a record high in the first quarter, underscoring diverging trends across major auto markets.",
       "summary_ja": "現代自動車は第2四半期の売上高が増加した一方、営業利益は2割減少し、コスト圧力が業績を圧迫した。同時期、米上院委員会は中国・ロシア・北朝鮮・イラン関連の車載技術を対象とする「コネクテッドビークル安全保障法案」を承認し、インドでは乗用車販売が過去最高を記録するなど、主要自動車市場で明暗が分かれている。",
@@ -744,5 +744,5 @@
       "summary_pdf": ""
     }
   ],
-  "toyota_summary_en": "Hyundai's Q2 profit fell 20% despite higher sales, showing tariff and cost pressures are squeezing margins even amid strong demand. This signals similar risk for other automakers with global supply chains.\n\nThe U.S. Senate advanced the Connected Vehicle Safety Act, targeting tech from China, Russia, North Korea and Iran. This could force automakers to redesign supply chains for connected vehicle components sold in the U.S.\n\nIndia's record Q1 car sales are provided for reference."
+  "toyota_summary_en": ""
 }
