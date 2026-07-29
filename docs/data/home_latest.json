@@ -1,186 +1,186 @@
 {
-  "generated_at": "2026-07-28 12:30 JST",
-  "article_count": 79,
+  "generated_at": "2026-07-29 05:53 JST",
+  "article_count": 86,
   "segments": [
     {
-      "badge": "① 米イラン停戦",
-      "color": "RED",
-      "title": "米イラン軍事衝突に一時休止",
-      "subtitle": "13日連続攻撃から停止、交渉局面へ転換",
-      "search_en": "US Iran ceasefire military pause diplomacy 2026",
+      "badge": "① 熊本地震",
+      "color": "GRN",
+      "title": "熊本地震が半導体・自動車産業に打撃",
+      "subtitle": "TSMC・ホンダ・トヨタ工場が操業停止",
+      "search_en": "Kumamoto earthquake TSMC Honda Toyota semiconductor production halt",
       "bullets": [
         {
-          "text": "トランプ大統領が27日「合意にいたる可能性ある」と表明、交渉継続を明言",
-          "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187571000.html",
+          "text": "2026年7月29日、台湾の救助隊が4時間以内に出発可能と表明",
+          "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188781000.html",
           "source": "NHK"
         },
         {
-          "text": "米軍による13日連続のイラン攻撃が25-26日に停止、軍事面での休止状態継続中",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc2JtLUthcU03cWNwLUlld0hsS2tKR3RsTjBzTDZOVHRpNGNobDkwVWh5aUFZMHo5YWNyTFpZRGFNZHprWnJoeGllYW1OXzhjd0kwVmQwOTVtU0M1bW5UY1cyb2JHNkZMcXM4dnpIU3llX3NWYXJ0dC1fUnhkTnJxNlk2T0VqTGJWNkxjV09hUjFQQW41ekM0REhObl84UXdlZ0pSWTJ3?oc=5",
-          "source": "Eurasia Review"
+          "text": "TSMC熊本工場の従業員の無事を確認、建物安全性も検証中",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnMnZsQ05fV2Z2bzAwWmFnSVZVOXZvV0tURVA2TzI3UWVqZjQ3SGdCT0RVMDVTR2pJVUFfbEJQNDM0SVJXVkF4WmpYTnZuemFnWVhsMUlRZlByZUR3V2ZJZkVrMlBjN29lUWdoMUg5T3YzNWEyMGc?oc=5",
+          "source": "産経"
         },
         {
-          "text": "イラン外務省報道官がアメリカを批判、妥協しない姿勢を示す対立継続",
-          "url": "http://www3.nhk.or.jp/news/html/20260727/k10015187131000.html",
+          "text": "トヨタが3工場を月内停止、ホンダは熊本製作所を31日まで稼働停止",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjNnNoZEN4VmVOMzd2bTd0TkZDMGdtc3htdklhakZzcGpGUW51Y3hadXljQ2JsSUdhZWVzVTBzanJTU3dYRm43V1RHVERZMHBUYjZmSUN3cW0xcFF5QVBfWDg5eU0zczluTEJBZEJqaDBfWlhJTHc?oc=5",
+          "source": "産経"
+        },
+        {
+          "text": "TSMCやソニーGの半導体工場が稼働停止、復旧めど立たず",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HUFVIX2FTQmlHQjVJVG9oQjUxVS1OVTBaa0VUQXBnWmVxYTFJemtUZ21QaHlDUjdKbThXeHk2anFSX1NOb3V1XzB4OC1qQUtTUjBwTzlhNWdLbG1lLTZNRU1RdEd1Um5NeC0xSA?oc=5",
+          "source": "日経"
+        },
+        {
+          "text": "台湾のコンビニやアプリで義援金募集開始、支援体制整備",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnMnZsQ05fV2Z2bzAwWmFnSVZVOXZvV0tURVA2TzI3UWVqZjQ3SGdCT0RVMDVTR2pJVUFfbEJQNDM0SVJXVkF4WmpYTnZuemFnWVhsMUlRZlByZUR3V2ZJZkVrMlBjN29lUWdoMUg5T3YzNWEyMGc?oc=5",
+          "source": "産経"
+        }
+      ],
+      "risk": "▲リスク：世界の半導体供給チェーン寸断による産業停滞。復旧めどが立たない場合、8月中に自動車・電子機器産業へ波及。グローバル供給網への影響は8月下旬から9月に顕在化の可能性",
+      "context": "背景：熊本県は日本の主要な半導体・自動車生産拠点。TSMC熊本工場やトヨタ・ホンダの拠点が集中しており、世界のサプライチェーンへの影響は甚大"
+    },
+    {
+      "badge": "② 米イラン紛争",
+      "color": "RED",
+      "title": "米イラン協議の進展と軍事圧力の継続",
+      "subtitle": "ホルムズ海峡分割管理案が難航",
+      "search_en": "US Iran ceasefire negotiations Hormuz strait 2026 sanctions",
+      "bullets": [
+        {
+          "text": "オマーンがホルムズ海峡均等分割管理案を提案、イランが拒否",
+          "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189611000.html",
           "source": "NHK"
         },
         {
-          "text": "原油相場がWTI84ドル付近まで下落、中東情勢緩和を市場が評価",
-          "url": "http://www3.nhk.or.jp/news/html/20260727/k10015186781000.html",
+          "text": "トランプ大統領がネタニヤフ首相と会談、イラン核武装阻止を改めて確認",
+          "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189281000.html",
           "source": "NHK"
         },
         {
-          "text": "米司令部がホワイトハウスへ攻撃停止進言、弾薬枯渇懸念指摘との報道",
-          "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186111000.html",
+          "text": "米上院がロシア・イラン制裁法案を86対12で可決、ハイグレーディング100%関税検討",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwRjgwajdYU1M2M05nbUNYOE11M1pVU3E0ZjNFbDhxbW12N1BLTkJ6U0h4TDd6aEowakhkRDlwVGlxT2pMZ1QxY1REeWFaZ1BPRWJKM1g5el9jdFZ0RVA4amtKakY2X1NmZVJ3Z3lWeHZFalZQYlE?oc=5",
+          "source": "finance.biggo.com"
+        },
+        {
+          "text": "日本の茂木外相がイラン外相と電話会談、覚書に沿った協議継続を支持",
+          "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188921000.html",
+          "source": "NHK"
+        },
+        {
+          "text": "イラン側が妥協しない姿勢、米側は軍事作戦再開も辞さない構え",
+          "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187891000.html",
           "source": "NHK"
         }
       ],
-      "risk": "▲リスク：交渉決裂による軍事衝突再開（1～2週間以内）。イラン核合意の事実上崩壊状態継続。中東地域での拡大紛争化の懸念。",
-      "context": "背景：2週間以上続いた米イラン間の激化した報復攻撃が一時停止。トランプ政権が軍事的圧力から交渉へシフト。ただし双方の立場距離は依然大きく、持続的な停戦保証は不透明。"
+      "risk": "▲リスク：協議が決裂した場合、8月中に軍事衝突再開の可能性。ホルムズ海峡の航行制限による石油価格急騰とグローバル経済への打撃。インド・中国への経済制裁も波及",
+      "context": "背景：米軍が13日連続でイラン攻撃を停止し協議局面へ転換。ただしイランと米国の立場の隔たりが大きく、仲介役のオマーンも難航している状況"
     },
     {
-      "badge": "② 米中対立激化",
-      "color": "YEL",
-      "title": "グローバル好感度逆転",
-      "subtitle": "中国が米国を上回る、カナダ・メキシコで顕著",
-      "search_en": "China US global favorability favorability rating 2026",
+      "badge": "③ 台湾武器売却",
+      "color": "ORG",
+      "title": "米国がトランプに台湾140億ドル武器売却を促す",
+      "subtitle": "Forbes論説、トランプ承認促し",
+      "search_en": "Trump Taiwan 14 billion dollar arms sale approval Forbes",
       "bullets": [
         {
-          "text": "米国が2026年初めてグローバル好感度で中国に下回る逆転発生、CFR分析",
+          "text": "Forbes論説がトランプに140億ドルの台湾武器売却承認を促す",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tZG5yQi1zcXEtNC1JRm11dUVIdHlDMW5QV3NJQk1aZUNjZkQwRDh6c3lGUnNqT0MxdC1ZbnVwWEMzMVVsQUNMbG1SWU5CWDZLNVFwZWNrWU1VcGM?oc=5",
+          "source": "rti.org.tw"
+        },
+        {
+          "text": "台湾の駐英特使がワシントンの台湾支持は行動で実証されると表明",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54MzFqVm1XZUs3V2pWUDRkOGo0WFBlYnZTOU5rZkxrT3BkTG0tN2ZSaGpkQWdNaHlScy15SF9zTVZBZ2g3MWlwRE51dnZ5OTRfS0dQdGRleWU?oc=5",
+          "source": "Taiwan News"
+        },
+        {
+          "text": "台湾が米国との関係に確信を持つ姿勢、トランプ訪中前にアピール",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSTVsYXgwVmNKRUFBcTU2R1JxUjV4Q1RjaTZzY3NYSTZDNHdvM3ZUS1k5RFZpd2pxUmFLVjlpSGRxTlczX21LU1hJT1RJdDFLRFp1aktjV3RETlFYZVZpbFhvMFN0ZEhVeW5TSFh2ZU9adHRBQ1g1eURtYzN0bUgyV3AtYTlBWWg4V1E?oc=5",
+          "source": "Yahoo"
+        },
+        {
+          "text": "米国のコメンテーターがトランプはライ総統の『対中抵抗』路線を望まないと指摘",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSUF1OHJoSURIUGRNOE9hZ0RrcHA3SzF4ZHpYSVBUZDcxeVdwNk5BOG02MXluQUlzc19HRTVKNXJ0a2JjSE8taE5fcm1lWlBjbFZucw?oc=5",
+          "source": "Taiwan News"
+        },
+        {
+          "text": "米政策界が台湾の防衛力強化を米国益と結びつけ説得図る",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1lNTnZrZXVUQWJMOXRfRDZIdTlIX1d0WWJrQ1JiQVk1dmhSNW5ETTlNVi1zcmhHUkhqSl9yOUo5MzhYRHlGdE05NXpUQkNMWElNUUE3aWlpa3loai1Gel9hbGdZaXNEWXNpMXJBZV9BX2VKZzY2UWNFS0V3SDlseExFb1gyQTlPUGlN?oc=5",
+          "source": "DD News"
+        }
+      ],
+      "risk": "▲リスク：トランプがビジネス優先で台湾武器売却を先送りした場合、台湾の防衛態勢低下と中国による統一圧力増加。8月中のトランプ判断次第で地域不安定化の可能性",
+      "context": "背景：トランプ大統領が中国訪問を予定する中、米政策界から台湾支持の具体化（武器売却承認）を求める声が高まっている。台湾側も米国の支持を確認したい局面"
+    },
+    {
+      "badge": "④ 米中関係悪化",
+      "color": "YEL",
+      "title": "中国の国際好感度がUS超える",
+      "subtitle": "米国のソフトパワー低下が浮き彫り",
+      "search_en": "China favorability rating exceeds United States 2026 global survey",
+      "bullets": [
+        {
+          "text": "中国の世界的好感度が米国を上回る逆転現象、シンクタンク報告",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZTRrN3JodS03cnMzbUxDLTNfb0FuOExRZFA1Qkd2RjI0X09yMzl0eFEyYnVyUEc1LVRfZFFncFhzTGNuSDE5MGw4ZlFyMG5yNDIwM20xbzNDSUV1Z3RfZkJLNkVKano5akk5R3ZUdWpQU09GWGNJQ0E0Yk13aUNOd3Y5MS0tN3did1BxZm5VcHdnZlYxSlYwY0hORVhZMnJoa2dJYQ?oc=5",
           "source": "Council on Foreign Relations"
         },
         {
-          "text": "カナダ・メキシコ国民が中国をより好意的に評価へ転換、米国への信頼低下",
+          "text": "カナダ・メキシコが中国を米国より肯定的に評価",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMjJ6NENnbE83d3hfUVpHTks4SzlMN1hNaU1kZVVRcUFPRmYwM3MzMlNZckVTeWpYMmN1VWhwUU4zQzFQNV8tblBYUUxiWmx6VUhoWEhoSDFnOUVMbF8tdVkwT25pNDBlLWMzOGUtYnI2eEEwaGlXN2w2OVZGR1FaOHBDUTNGcFFKd1NTWkVjZHN2QjJhb21oM29SVjZDUUZkdWF5c2tWT1RpSVZEdDdIb2gxbTI3bTB2?oc=5",
           "source": "Pew Research Center"
         },
         {
-          "text": "トランプ政権の関税政策により、ブラジルが中国との貿易協議を加速推進中",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDdVS0M0V2hCQVBLMTVldkVWcGpSaldpclI0cGliS2d5SlhscjU2enZEbVBGR0VuZGgxWXZ3ZVg2M2xOX2NoUzhWX2tZNVhXb1F1R0FNTlBCLXB6ZU1SeV94c1FXc0hHYnBlSG83aWROTGtRUE4xN1JXOGx0dEp1dW9GaTdGU1VWTkFqaWduSVVWUmdNQXdz?oc=5",
-          "source": "RNZ"
+          "text": "米国の関税圧力が各国を中国との取引に向かわせている傾向",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ21EZ3V2OENFSVBDNzJ4SUd5MlpxRF92MTJ2cVdGbzRoN19xU3lqdy1wdV9fTGxmVU14TjBQZGd1b0xJZEdmcHhRdFpzLU9rb09NcEU2Y3ctNU1scWdSYmhNaTlpQlJHQlNCcGl0NXZrZjJINnhQVG1DMTN3ZEVqaThPSm9raUo2c0FpWGtQWTVuQQ?oc=5",
+          "source": "Asia Society"
         },
         {
-          "text": "米国がイランに新たな制裁、中国は米政策を「ゼロサム」と批判継続",
+          "text": "ブラジルが米国関税後に中国との貿易協定へ舵を切る",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1NnTldiQlZTaWNuNjA3clhvSnpHNDZMRWNlZ2psMVVfc1ktQWk2NXJtUHJucy1GODdQTU1PYmZBVUs3dFFsd3ItR0d4dGxJdHprY1dUdVJSUXZnbl9NOUI2aDhJS2VneEZjeU9oZ2F6TElZVnVuRmRNekR3RnBacGpBbE95WDVyclVrMFFDYTBsLTNQU2RQaFpBbjJhZFJwWjJ4VjR3?oc=5",
+          "source": "China-US Focus"
+        },
+        {
+          "text": "米中経済競争がタリフ以上の構造的対立に展開",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTThUOWFwMlY5WnFXTWVERnc5SDdxdDNMbnhBYW5rclUwMjBDTlloV0had2tyVFdQWUwxMzVPcndXTW13MVkxbTdZVE1qYmFuUG5kX18xeFFjeWFrWXJ5UFlHYjBlYkUyTGpfVVVMVVcwczZUbTZPT1AzREF1NlJ1alliNTA3SUpYV1FsRzdBcnNQLU9xLXpEOXFZcnlSTGQ4V1Z1MlRybGxOMFlBQmlDaHZLOGVWdkNCSF9Eb2swaXhxeFEtamxvadIByAFBVV95cUxObE5RQlMtTVdRX0tmQ3VhVWR5R0FTRFkzRnZycVQtbjZ4eW1zZjZSNENsV2RsbG5Qbi1jY1pVUGlMWk9YajNFNmlFS3k5YjNSN19tRGdYZlJQMWZpekJtM0pkUTVCR0hsTzZvdzRHak1MaUN3UnczRU96SFloQmI5dHkxTlhMbGQxTjlsR0RzaG9VVy14N1NGckNwYUhtRTgwUzlDMjRmTkJDaGlocXMxNWlYT2M2VXZubjgtLUI4VHlKcTVqUWN2Qw?oc=5",
           "source": "South China Morning Post"
-        },
-        {
-          "text": "独ポルシェが米中市場不振で2035年までに5000人追加削減を発表",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWGdlOFo5U19OdnFTSXFDUjlhcUJrMzZiUUZHQ3FDZk9pRWRtbWpLcVNYTjFIdGQ2cV9oUTRCVk5qX18yb2Y2OFNRM3RGMTU3REtjVUVPOXdiTUI2c0ZucExhRENwT2tEV3dlQWpkWEwwMHB3a0kzR2xTRnF5bE9DUjBVTk9OSlBZNzBPTDVjRkJKdlpLXzVUVFI1SS1BaDVqTTN6UFFrZw?oc=5",
-          "source": "fakti.bg"
         }
       ],
-      "risk": "▲リスク：米中経済圏の分断加速（6～12ヶ月内）。第三国のシフト加速による米国の国際的地位低下。報復関税連鎖による世界的インフレ再燃可能性。",
-      "context": "背景：トランプ2期政権の強硬な中国関税政策が世界的な米国への不信感を増加。同時に中国が経済外交を活発化させ、グローバルな支持基盤拡大中。"
+      "risk": "▲リスク：米国のソフトパワー後退が地政学的再編へ発展。同盟国の対米依存低下とBRICS陣営の拡大。9月以降の多国間経済協定交渉で米国孤立化の可能性",
+      "context": "背景：トランプ政権の高関税政策がブーメラン効果で米国への信頼を損耗。発展途上国で中国の経済協力と米国のドル覇権のパワーバランスが変動"
     },
     {
-      "badge": "③ 台湾防衛体制",
-      "color": "ORG",
-      "title": "台湾民間防衛訓練加速",
-      "subtitle": "中国侵攻シナリオ、民間人の参戦準備進行",
-      "search_en": "Taiwan civilian defense training military preparations 2026",
-      "bullets": [
-        {
-          "text": "台湾民間人が侵攻シナリオ想定の軍事訓練実施、報道で動画公開",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeDZUU1RlOTBsRXlBQVctMEtFVkY1MndiY0hxM3diS25YRjdzUk9NcUVhbVZ1eUFNdmFKdXpoQVBYRS1mdkg4VjVFdDZFc2pOQUc5RUZiRnNYYWk2OFFjY2ZhRDJWcElrUERTOGRTLWhicWl4WUh1YWNuTk55TjNBQjJ6ZFdScGFtVjRSaUVaRnZvM0tBNF9JRGdRdkNBc3c4a0FlTVNNTlprZ2VvWDU4MFBkQzFWdjRLUS10bFgyb1dNQQ?oc=5",
-          "source": "The Globe and Mail"
-        },
-        {
-          "text": "米国議会が台湾防衛予算を追加承認、トランプの支援方針転換の可能性示唆",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU1RteW5GaUJLUkNoTU85Q1Q3VldUUXNmcUpRU0NkUHRzZndNTVZ6a3dScU1XTnU4cC1NWTBvSzJfdHUwTmdwSldWUnN6MjRnblA3ZTJFVG5kblRwbGYzMlMyM1o2UXYtaWdKLWNfSTBvMWVUbG9FNjBRQU4xNTZpOXlMMENQV0FNOUZJeVhONXhsUHBnSDJTUTZtYW5adDIxVHNhT24zLXFBdEVCbjNMeUp5bXZpeVZZUGVpa2lUd2hTZjV3NUVIalFFTDIwOGZZb2dFWWZ1VFQ3bFE?oc=5",
-          "source": "Defense News"
-        },
-        {
-          "text": "トランプ大統領が台湾への支援を『静かに』推進中、駐台湾大使が明かし",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVdQQ2NLbm5NUmRRQTVRSmxQenlpcnJvLUwxdG00M2dkWThib1VNb3g3MzdPWS1OOWtfSjZoSlpRb05sMkVUTjBSX2dVRlNSNTZBYVZxUnBBTS1sV1I3N1NoVy11RHlZYVByU1U2eFZtNkJuM3NGZ0JXWDhxWU44Vko0N21BQ2p1dkpFVnQyT2VtTTB2c041T3FpbHdKRUNBTTdMcjBma2R2TXhfVHRFN0pIZ3Y?oc=5",
-          "source": "Nikkei Asia"
-        },
-        {
-          "text": "フィリピン国防相が台湾有事での中立は『選択肢ではない』と宣言",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5cEtjMW5MUDZpQ0g4YXF2dFl6c1FSemNBc1dJeHNuTV83cHZONk1tLVhEbGpld190SHE4eHMtTVpoT3JyX2hGQ3ZmdlBydVhIWlFtZw?oc=5",
-          "source": "Taiwan News"
-        },
-        {
-          "text": "北京支援の台湾統一映画が公開直前に棚上げ、政治的圧力の表れ",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeENGVW5MaXk4dFgwVFVIcmZmNk5WUUxocHFqNE9jVEt2U1ZyOEk0NWFja21ic1pldGcyLTIyUjRjX2h1OTBPbGNyR3JCMGl1bUZ5dEFXLVNQVm53WXQyLVYtQk9PTkROZHpZREpMc2N6SEdVN1VBczU3OHBnRjdhNEZB?oc=5",
-          "source": "The Telegraph"
-        }
-      ],
-      "risk": "▲リスク：中国による台湾への軍事的圧力急増（3～6ヶ月内）。米国と中国の台湾政策の直接対立激化。地域紛争への周辺国巻き込み。",
-      "context": "背景：トランプ2期政権が台湾支援を継続しながら、中国との対話も探る曖昧性の喪失局面。台湾が中国侵攻可能性を前提とした民間防衛体制を強化中。"
-    },
-    {
-      "badge": "④ 日米同盟深化",
+      "badge": "⑤ 日米同盟強化",
       "color": "CYAN",
-      "title": "日本が中堅国の超大国化",
-      "subtitle": "米国と構築する対中抑止連携強化",
-      "search_en": "US Japan alliance China deterrence superpower 2026",
+      "title": "日米がルール・ジャパニカ構築へ",
+      "subtitle": "中国が警戒する同盟再編",
+      "search_en": "Rule Japanica America Japan alliance China response 2026",
       "bullets": [
         {
-          "text": "米国がシンクタンク分析で『日本が中堅国の超大国』に評価転換、AEI報告",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYmUxTmcxLW54TFNNQ3Ffank2Zm1FbERrMjBMdlA5SWJkRWNsNjFvZkZTNUVJNENxRDRXVXg0ZVFQdXZzWWZwd2Z2WUEwOXRvVnNiY3hnZm01MUxMMWJoR0s4VGlyX09BZUN6bTZTVjJrUl9jTXhRWFVvSHFLZU1yNGVheTRyTTFtYU9aMlJrVzZnSHByRGRnM9IBmAFBVV95cUxQYmUxTmcxLW54TFNNQ3Ffank2Zm1FbERrMjBMdlA5SWJkRWNsNjFvZkZTNUVJNENxRDRXVXg0ZVFQdXZzWWZwd2Z2WUEwOXRvVnNiY3hnZm01MUxMMWJoR0s4VGlyX09BZUN6bTZTVjJrUl9jTXhRWFVvSHFLZU1yNGVheTRyTTFtYU9aMlJrVzZnSHByRGRnMw?oc=5",
-          "source": "Fox News"
+          "text": "米国と日本が『ルール・ジャパニカ』構築、中国が脅威と認識",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFpTenV6WnMzaThCTnpIMlg1RWluWjA4cV94Mk90eXBHdUY4MC1ZS3ppOGNjVEFIQlZ4MHRiWDZlMFVkelJrQnBmYzRPN0RxLVZGcGRrZnllYnN1TXI1UlIybEU5eVhzSTR0X1g5ajUzaktKbkFqZENReWVRSjdrWkE3T2RQTFE4TkZKbHItWEY1SXNseml1dWNGMWh5bll3VjF2ZjVMQXhleFB0Sm5QSW1VdEczZw?oc=5",
+          "source": "Hudson Institute"
         },
         {
-          "text": "米日が対中『恐れるべき同盟』構築、戦略的パートナーシップ深化",
+          "text": "日本が中堅国の大国化を達成、地域安全保障の要に躍進",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ0pOSm1NTloyMVRKTnBxenJIRUZtektFV1RCQkFmWEFMbFRldERIS0F4alRtRmhsVjRqZUNvTFh5WFZKMjI0UzhhS055TV93SlRva2lrbUx4Y21aanNOZjVsYkx6TW81djZjSm1NTkJjU0U3TkNVMkZmY3RubjF5cmxpcGZRRVV0WjVIUQ?oc=5",
           "source": "American Enterprise Institute - AEI"
         },
         {
-          "text": "トランプ2.0政権下でも日米同盟が『不可欠』と評価、継続性確認",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUVkSWRPNGJxYzBhWW5VMHlVa3cwVVFTYksyWXluR1NOZnJQeW1OWVFFMmJNdnFOQjQwejFPUTI0a0pQLW9ZTzlZT2Zob2dSR3R5endpbGF2WmhuRmp3OFBRTnZ6bHZ2OFI1Q092ZDAzUUpGa1F5VHlCNVdyZWNnNzUxVmFuaUY3QWVDdzVzZWdlaHZhbDdYMXpGbmFJZlpxcC1GckZsS1BDSEp5TzRnSXVfVmE?oc=5",
-          "source": "Columbia-Harvard China and the World Program"
+          "text": "日米合意に基づく対米投資第2弾、米銀資金調達を検討",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2NiektRWnEwQmpqQnN4V1VKdjJWcjQ0cVF5eS03UV9QMVJYOW5kVXpfN0hrbmxaMGNQLV9Da3YtVFZiQmJFTDg2RGkxZ0Q5azczYzdBZ2c4Mk5mOEtxZWFycmpXdmFsNWNxVTNKWjEtWlV1RW9GMGlzTE9McEtSNHlR?oc=5",
+          "source": "The Diplomat – Asia-Pacific"
         },
         {
-          "text": "日本の国際競争力強化が最優先課題に浮上、産業面での自動車・技術分野注力",
+          "text": "片山財務相が政府系金融機関と米銀を組み合わせ投資加速方針",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZlJONGltcnQwSFN3MVRwc3oxZEJUQW9ia1FtLUtsOUlCeVA3ek1DRUxfbkRKYlNNZDVSOVJKVjZaSUN4Z3NQQXE4NmplZVVjb3cwc3hBMmhfMV9TcEVjbXJjdnhsM2ZvM24xTE80OGVhSTNXcXpINVVCX180SlVTVWd6VkdSV3NPQzdZRTlya09GejjSAZgBQVVfeXFMUGJlMU5nMS1ueExTTUNxX2p5NmZtRWxEazIwTHZQOUliZEVjbDYxb2ZGUzVFSTRDcUQ0V1V4NGVRUHV2c1lmcHdmdllBMDl0b1ZzYmN4Z2ZtNTFMTDFiaEdLOFRpcl9PQWVDem02U1Yya1JfY014UVhVb0hxS2VNcjRlYXk0ck0xbWFPWjJSa1c2Z0hwckRkZzM?oc=5",
           "source": "Fox News"
         },
         {
-          "text": "防衛協力と経済連携の統合戦略展開、米国の対中抑止力として日本の重要性増加",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWXEwOS1Ma3RjMDdEMkl4aGZTRHdpMHE1QVlfYm1SYkNDNm1UaTd2cHJpbEo2c0ExN1ZCNDlIMFR3SXlYaTR6d2hTeEtveW5MOEd4cF9QTVlmaWNrSk9sMW9DMDhGbVg5bDRZQWFXRUh2SnJWLTJSTGJ1SEx2anhQbnIyVm1lSFpwSFZSWE1xWXliRlU0ekNtR010MFJqNGZ5MGtHb01FcnRKbGxmbXpRUzJRUWNEcTFXTVRVR0x2bGcxaklUTkswVHdfM2FiZ1pELVJzVTdYaGI1ZEdRWS13Z01JdmpZNUhFUW5vOHIzVkI?oc=5",
-          "source": "Japan Today"
+          "text": "日米の記憶安全保障ジレンマと中国への対抗姿勢の相互確認",
+          "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188071000.html",
+          "source": "NHK"
         }
       ],
-      "risk": "▲リスク：日本への対中防衛負担増加と経済的コスト拡大（1～2年内）。中国からの報復経済措置の可能性。米国政権交代による政策転換リスク。",
-      "context": "背景：トランプ政権の再登場により、米国が自由主義陣営の同盟関係を再評価。日本がインド太平洋戦略の枢要なパートナーとして位置づけられ、防衛・経済両面での役割期待が増加。"
-    },
-    {
-      "badge": "⑤ EV市場転換",
-      "color": "GRN",
-      "title": "EV化加速、地域差顕著化",
-      "subtitle": "豪州・欧州で急速普及、日本勢のシェア競争激化",
-      "search_en": "electric vehicle market share Australia Europe 2026",
-      "bullets": [
-        {
-          "text": "豪州新車販売でEVが約25%に達し、燃料危機受け急速シフト加速中",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdTctY1gySlR4UUhkS0cyeDI0YnFNX3JWZzlhbHRiaDdVMEtJOTFJWWdSazc5MlZwUlFEb3ppNENaQnBYRlg3ZDUtaDZnNkpyYVptUHBDM1hQNlF2UmJPQTZPa1pJNXBUemg1b1dCaHZST0RpZDExSGw3XzktZmk4R21ERHdHaVlEUDA2bDVTQTNiNHV0SVNFT2p6WHNCZkp1ZlVOa2xuLUtaTlB0LUsyTXUtQlBQVXlWUWYwWA?oc=5",
-          "source": "The Guardian"
-        },
-        {
-          "text": "欧州EV市場が20%シェア超えで通年達成、上期登録が前年比5.7%増加",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmtzT01wd0VBcUZTaTludk91bTNUWDl0VVlrMWNlY2Zrdk1XbjBsNUJYM2hLQUYxY2tBWkdNaVVKVXRSZXNxNEo0bFpwYU5YVzFoSlg2ZGZBbE80Sm5CaUdlaEVSWDhzcGxudVpjTDFuSURYY1hUb0pONURUUVd1Z1V1OEtZV2VCUmc5SUI1VU5iVXptWm9xeFBZck5lTDk1UHoydUtWR0o3TDhNaFBWNmN30gGyAUFVX3lxTE1ma3NPTXB3RUFxRlNpOW52T3VtM1RYOXRVWWsxY2VjZmt2TVduMGw1QlgzaEtBRjFja0FaR01pVUpVdFJlc3E0SjRsWnBhTlhXMWhKWDZkZkFsTzRKbkJpR2VoRVJYOHNwbG51WmNMMW5JRFhjWFRvSk41RFRRV3VnVXU4S1lXZUJSZzlJQjVVTmJVem1ab3F4UFlyTmVMOTVQejJ1S1ZHSjdMOE1oUFY2Y3c?oc=5",
-          "source": "whichev.net"
-        },
-        {
-          "text": "日本メーカー（ホンダ・日産）がSDV協業で米中勢に対抗戦略強化",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdTctY1gySlR4UUhkS0cyeDI0YnFNX3JWZzlhbHRiaDdVMEtJOTFJWWdSazc5MlZwUlFEb3ppNENaQnBYRlg3ZDUtaDZnNkpyYVptUHBDM1hQNlF2UmJPQTZPa1pJNXBUemg1b1dCaHZST0RpZDExSGw3XzktZmk4R21ERHdHaVlEUDA2bDVTQTNiNHV0SVNFT2p6WHNCZkp1ZlVOa2xuLUtaTlB0LUsyTXUtQlBQVXlWUWYwWA?oc=5",
-          "source": "The Guardian"
-        },
-        {
-          "text": "トヨタが統一部品規格化へ動き、業界標準確立で競争力強化を模索",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWXEwOS1Ma3RjMDdEMkl4aGZTRHdpMHE1QVlfYm1SYkNDNm1UaTd2cHJpbEo2c0ExN1ZCNDlIMFR3SXlYaTR6d2hTeEtveW5MOEd4cF9QTVlmaWNrSk9sMW9DMDhGbVg5bDRZQWFXRUh2SnJWLTJSTGJ1SEx2anhQbnIyVm1lSFpwSFZSWE1xWXliRlU0ekNtR010MFJqNGZ5MGtHb01FcnRKbGxmbXpRUzJRUWNEcTFXTVRVR0x2bGcxaklUTkswVHdfM2FiZ1pELVJzVTdYaGI1ZEdRWS13Z01JdmpZNUhFUW5vOHIzVkI?oc=5",
-          "source": "Japan Today"
-        },
-        {
-          "text": "インドネシア自動車市場が『リセット局面』も長期成長見通しは堅調継続",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BX19JdGNfRUNLWm9GakkxQTg1cUIwc21hN3oyam15OF9iWFIyQkVTRXJVOUJVMlQ0VW4zSlVONzg1b19WaFhBUV9tWEFkRkQ2QkRFUTlnZw?oc=5",
-          "source": "economy.ac"
-        }
-      ],
-      "risk": "▲リスク：日本メーカーのグローバルシェア低下加速（1～2年内）。テスラ他米中勢による市場支配強化。ガソリン車世代の急速淘汰による供給チェーン混乱。",
-      "context": "背景：豪州・欧州での環境規制・燃料価格上昇によるEV急速普及一方、日本メーカーは開発・投資で後塵を拝する状況。デジタル化対応の遅れが競争力低下を加速。"
+      "risk": "▲リスク：日米同盟の強化が中国に挑発と認識され、台湾海峡の軍事緊張激化。9月のトランプ・習会談で反発の可能性。地域の軍拡競争と経済的分断が加速",
+      "context": "背景：Hudson InstituteやAEIなど米シンクタンクが日本の戦略的重要性を再評価。米国の中国抑止戦略で日本の役割が中心化しており、日米投資や防衛協力が急速に拡大"
     }
   ]
 }
