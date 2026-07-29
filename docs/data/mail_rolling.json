@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-07-30 00:27 JST",
+  "updated_at": "2026-07-30 00:28 JST",
   "total": 50,
-  "toyota_summary": "A major European automaker announced plans to cut as many as 8,000 jobs by the end of 2027, with severance packages beginning in October. The cuts come as the company grapples with slowing demand and the costly shift to electric vehicles. This is the largest single reduction at the company in years.\n\nFor the industry, this signals that margin pressure is real and immediate. Companies are no longer waiting to see if demand recovers—they're restructuring now. Expect more announcements from competitors facing similar headwinds in Europe and China.\n\nWatch whether other manufacturers follow suit in the coming weeks, and whether unions accept the proposed packages without significant disruption.",
+  "toyota_summary": "BMWは、中国での販売不振と2026年の利益見通し下方修正を受け、2027年末までに希望退職を通じて最大8000人の人員を削減する計画である。これはフォルクスワーゲンやポルシェ、さらにはメルセデス・ベンツにも波及しつつある同様の構造改革と軌を一にするものであり、ドイツ自動車業界全体に広がる苦境を象徴する動きといえる。",
   "emails": [
+    {
+      "ts": "20260729_2341",
+      "sender_norm": "Eurasia Group",
+      "subject": "Political Risk Monitor - July 2026",
+      "subject_en": "Political Risk Monitor - July 2026",
+      "html": "data/pdfs/20260729_2341_Political_Risk_Monitor_-_July_2026.html",
+      "pdf": "data/pdfs/20260729_2341_Political_Risk_Monitor_-_July_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "JUL 29  23:41",
+      "read_min": 6,
+      "toyota": false,
+      "excerpt": ""
+    },
     {
       "ts": "20260729_2151",
       "sender_norm": "Eurasia Group",
@@ -11,7 +26,12 @@
       "date_label": "JUL 29  21:51",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Brief: Youth discontent will remain a challenge for Modi",
+      "html": "data/pdfs/20260729_2151_Daily_Brief__Youth_discontent_will_remain_a_challe.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_2017",
@@ -21,7 +41,12 @@
       "date_label": "JUL 29  20:17",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "El Niño, fertilizer, and war pose renewed 2027 food price risks",
+      "html": "data/pdfs/20260729_2017_El_Niño,_fertilizer,_and_war_pose_renewed_2027_foo.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_1923",
@@ -31,17 +56,27 @@
       "date_label": "JUL 29  19:23",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "BMWは2027年末までに最大8,000人の人員削減を実施する予定で、10月から退職金上乗せプロ"
+      "excerpt": "BMWは2027年末までに最大8,000人の人員削減を実施する予定で、10月から退職金上乗せプロ",
+      "subject_en": "BMW to cut 8,000 jobs",
+      "html": "data/pdfs/20260729_1923_BMW_to_cut_8,000_jobs.html",
+      "summary_en": "BMW plans to cut up to 8,000 jobs by the end of 2027 through a voluntary redundancy program aimed at German administrative and R&D staff, with offers starting in October. The move follows weaker China sales that prompted BMW to lower its 2026 profit forecast, and mirrors similar cuts at Volkswagen, Porsche and possibly Mercedes as German automakers restructure.",
+      "summary_ja": "BMWは2027年末までに最大8000人の人員削減を、希望退職プログラムを通じて実施する計画で、対象はドイツ国内の管理部門と研究開発部門の従業員となる。募集は10月に始まる予定で、この動きは中国での販売不振により2026年の利益予想を下方修正したことを受けたもの。フォルクスワーゲンやポルシェ、さらにはメルセデスも同様の人員削減を検討しており、ドイツ自動車業界全体で再編が進んでいる。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_1811",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/07/29",
       "pdf": "data/pdfs/20260729_1811_「ジェトロ・ビジネス短信」2026_07_29.pdf",
       "date_label": "JUL 29  18:11",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "タイ首相が四川省での投資拡大を呼びかけ、タイ投資委員会が成都事務所を開設し、アジア地域で"
+      "excerpt": "タイ首相が四川省での投資拡大を呼びかけ、タイ投資委員会が成都事務所を開設し、アジア地域で",
+      "subject_en": "JETRO Business Brief 2026/07/29",
+      "html": "data/pdfs/20260729_1811_「ジェトロ・ビジネス短信」2026_07_29.html",
+      "summary_en": "Japanese automakers and suppliers continue expanding overseas footprints despite trade uncertainty: Isuzu extended its port operating contract in India's Tamil Nadu, auto parts maker Fujio Zex opened a new production line in Mexico even as USMCA renegotiation looms, and Suzuki plans a roughly ¥40 billion additional investment in its Hungary plant to add EV and battery pack production.",
+      "summary_ja": "貿易環境の不透明感が続く中でも、日系自動車関連企業の海外投資は拡大している。いすゞ自動車はインド・タミル・ナドゥ州の港湾運営契約を延長し、自動車部品のフジオーゼックスはUSMCA見直しの不透明感の中でもメキシコに新生産ラインを新設した。またスズキはハンガリー工場にEVおよびバッテリーパック生産を追加すべく、約400億円規模の追加投資を計画している。",
+      "summary_pdf": "data/pdfs/20260729_1811_「ジェトロ・ビジネス短信」2026_07_29_en.pdf"
     },
     {
       "ts": "20260729_1805",
@@ -51,7 +86,12 @@
       "date_label": "JUL 29  18:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Merz’s fresh start quickly falls apart",
+      "html": "data/pdfs/20260729_1805_Merz’s_fresh_start_quickly_falls_apart.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_1756",
@@ -60,8 +100,13 @@
       "pdf": "data/pdfs/20260729_1756_Departure_of_Bank_Indonesia_governor_increases_pol.pdf",
       "date_label": "JUL 29  17:56",
       "read_min": 11,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Departure of Bank Indonesia governor increases policy uncertainty",
+      "html": "data/pdfs/20260729_1756_Departure_of_Bank_Indonesia_governor_increases_pol.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_1635",
@@ -71,7 +116,12 @@
       "date_label": "JUL 29  16:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The French presidential candidate who wants to blow up the Franco-German engine",
+      "html": "data/pdfs/20260729_1635_The_French_presidential_candidate_who_wants_to_blo.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_1605",
@@ -81,7 +131,12 @@
       "date_label": "JUL 29  16:05",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20260729_1605_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_1402",
@@ -90,8 +145,13 @@
       "pdf": "data/pdfs/20260729_1402_ETS_review_proposal_keeps_sparking_criticism.pdf",
       "date_label": "JUL 29  14:02",
       "read_min": 9,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "ETS review proposal keeps sparking criticism",
+      "html": "data/pdfs/20260729_1402_ETS_review_proposal_keeps_sparking_criticism.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_1353",
@@ -101,7 +161,12 @@
       "date_label": "JUL 29  13:53",
       "read_min": 11,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The airport nobody loves (until it closes)",
+      "html": "data/pdfs/20260729_1353_The_airport_nobody_loves_(until_it_closes).html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_1217",
@@ -111,7 +176,12 @@
       "date_label": "JUL 29  12:17",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update in Japanese  (June 29, 2026)",
+      "html": "data/pdfs/20260729_1217_eg_update_in_Japanese_(June_29,_2026).html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_0823",
@@ -121,7 +191,12 @@
       "date_label": "JUL 29  08:23",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Welcome to the Eurasia Group Portal",
+      "html": "data/pdfs/20260729_0823_Welcome_to_the_Eurasia_Group_Portal.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_0554",
@@ -131,7 +206,12 @@
       "date_label": "JUL 29  05:54",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Introducing our new portal",
+      "html": "data/pdfs/20260729_0554_Introducing_our_new_portal.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_0553",
@@ -141,7 +221,12 @@
       "date_label": "JUL 29  05:53",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Allies shrug as US pushes for Strait of Hormuz patrol",
+      "html": "data/pdfs/20260729_0553_Allies_shrug_as_US_pushes_for_Strait_of_Hormuz_pat.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_0313",
@@ -151,7 +236,12 @@
       "date_label": "JUL 29  03:13",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG India: Youth discontent remains major political threat for BJP as protests subside",
+      "html": "data/pdfs/20260729_0313_EG_India__Youth_discontent_remains_major_political.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_0140",
@@ -161,7 +251,12 @@
       "date_label": "JUL 29  01:40",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG US Daily: Netanyahu and Zelensky focused on staying in Trump’s good graces.",
+      "html": "data/pdfs/20260729_0140_EG_US_Daily__Netanyahu_and_Zelensky_focused_on_sta.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260729_0031",
@@ -181,7 +276,12 @@
       "date_label": "JUL 28  21:06",
       "read_min": 11,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Daily Brief: Germany coalition breakdown risk drops",
+      "html": "data/pdfs/20260728_2106_EG_Daily_Brief__Germany_coalition_breakdown_risk_d.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_2055",
@@ -191,7 +291,12 @@
       "date_label": "JUL 28  20:55",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Charleroi airport to halt flights in 2028 for over 2 months",
+      "html": "data/pdfs/20260728_2055_Charleroi_airport_to_halt_flights_in_2028_for_over.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_2001",
@@ -201,7 +306,12 @@
       "date_label": "JUL 28  20:01",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iran war escalation & energy implications - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260728_2001_Iran_war_escalation_&_energy_implications_-_EG_Con.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_1905",
@@ -211,17 +321,27 @@
       "date_label": "JUL 28  19:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe’s AI safety rules take on US rogue agents and Chinese ambitions",
+      "html": "data/pdfs/20260728_1905_Europe’s_AI_safety_rules_take_on_US_rogue_agents_a.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_1807",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/07/28",
       "pdf": "data/pdfs/20260728_1807_「ジェトロ・ビジネス短信」2026_07_28.pdf",
       "date_label": "JUL 28  18:07",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "ジェトロが2026年版「世界貿易投資報告」を発表し、高リスク時代における自由貿易体制の維持"
+      "excerpt": "ジェトロが2026年版「世界貿易投資報告」を発表し、高リスク時代における自由貿易体制の維持",
+      "subject_en": "\"JETRO Business Brief\" 2026/07/28",
+      "html": "data/pdfs/20260728_1807_「ジェトロ・ビジネス短信」2026_07_28.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260728_1807_「ジェトロ・ビジネス短信」2026_07_28_en.pdf"
     },
     {
       "ts": "20260728_1732",
@@ -231,7 +351,12 @@
       "date_label": "JUL 28  17:32",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG ASEAN: Philippines could gain US tariff advantage over regional peers",
+      "html": "data/pdfs/20260728_1732_EG_ASEAN__Philippines_could_gain_US_tariff_advanta.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_1635",
@@ -241,17 +366,27 @@
       "date_label": "JUL 28  16:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Spain’s biggest blaze risks scorching conservatives ahead of key election year",
+      "html": "data/pdfs/20260728_1635_Spain’s_biggest_blaze_risks_scorching_conservative.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_1603",
-      "sender_norm": "Julian",
+      "sender_norm": "Julian Strohbecke",
       "subject": "EG Sustainability, Consumer & Retail: Producer responsibility for",
       "pdf": "data/pdfs/20260728_1603_EG_Sustainability,_Consumer_&_Retail__Producer_res.pdf",
       "date_label": "JUL 28  16:03",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Sustainability, Consumer & Retail: Producer responsibility for plastic packaging waste is becoming global default",
+      "html": "data/pdfs/20260728_1603_EG_Sustainability,_Consumer_&_Retail__Producer_res.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_1402",
@@ -260,8 +395,13 @@
       "pdf": "data/pdfs/20260728_1402_New_German_transport_minister’s_overflowing_in_tra.pdf",
       "date_label": "JUL 28  14:02",
       "read_min": 8,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "New German transport minister’s overflowing in tray",
+      "html": "data/pdfs/20260728_1402_New_German_transport_minister’s_overflowing_in_tra.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_1354",
@@ -271,7 +411,12 @@
       "date_label": "JUL 28  13:54",
       "read_min": 12,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "When the smoke clears",
+      "html": "data/pdfs/20260728_1354_When_the_smoke_clears.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_0735",
@@ -281,7 +426,12 @@
       "date_label": "JUL 28  07:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Research Summary for Jul 27, 2026",
+      "html": "data/pdfs/20260728_0735_Research_Summary_for_Jul_27,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_0515",
@@ -291,7 +441,12 @@
       "date_label": "JUL 28  05:15",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG United States, China: Targeted bilateral tariff reductions likely centerpiece of September summit",
+      "html": "data/pdfs/20260728_0515_EG_United_States,_China__Targeted_bilateral_tariff.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_0338",
@@ -301,7 +456,12 @@
       "date_label": "JUL 28  03:38",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG China: Confident policymakers will avoid consumption policy shift at Politburo meeting",
+      "html": "data/pdfs/20260728_0338_EG_China__Confident_policymakers_will_avoid_consum.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_0258",
@@ -311,7 +471,12 @@
       "date_label": "JUL 28  02:58",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG CONFERENCE CALL NOTES: Europe update",
+      "html": "data/pdfs/20260728_0258_EG_CONFERENCE_CALL_NOTES__Europe_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_0210",
@@ -321,7 +486,12 @@
       "date_label": "JUL 28  02:10",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Oil Markets Weekly: Hormuz closure will endure as escalation risk drives volatility",
+      "html": "data/pdfs/20260728_0210_EG_Oil_Markets_Weekly__Hormuz_closure_will_endure_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260728_0132",
@@ -577,21 +747,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": ""
-    },
-    {
-      "ts": "20260726_2033",
-      "sender_norm": "POLITICO",
-      "subject": "Romania blames Russia as military shoots down third drone",
-      "subject_en": "Romania blames Russia as military shoots down third drone",
-      "html": "data/pdfs/20260726_2033_Romania_blames_Russia_as_military_shoots_down_thir.html",
-      "pdf": "data/pdfs/20260726_2033_Romania_blames_Russia_as_military_shoots_down_thir.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": "",
-      "date_label": "JUL 26  20:33",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "BMW plans to cut up to 8,000 jobs by end-2027 via voluntary redundancy, following weaker China sales and a lowered 2026 profit forecast. This mirrors similar restructuring at Volkswagen, Porsche and possibly Mercedes, signaling broader stress across German automakers.\n\nJETRO Business Brief 2026/07/29 is provided for reference."
 }
