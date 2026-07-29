@@ -252,13 +252,20 @@ def translate_sections_to_ja(sections: list, client) -> list:
         "]\n\n"
         f"{items}"
     )
-    resp = client.messages.create(
-        model=TRANSLATE_MODEL, max_tokens=2000,
-        system=TRANSLATE_SYSTEM,
-        messages=[{"role": "user", "content": prompt}]
-    )
-    text = next((b.text for b in resp.content if hasattr(b, "text")), "[]")
-    return parse_json_safe(text)
+    for attempt in range(3):
+        resp = client.messages.create(
+            model=TRANSLATE_MODEL, max_tokens=2000,
+            system=TRANSLATE_SYSTEM,
+            messages=[{"role": "user", "content": prompt}]
+        )
+        text = next((b.text for b in resp.content if hasattr(b, "text")), "[]")
+        try:
+            return parse_json_safe(text)
+        except (json.JSONDecodeError, ValueError) as e:
+            print(f"  [翻訳 JSON retry {attempt+1}/3] {e}")
+            if attempt == 2:
+                raise
+    raise RuntimeError("translate_sections_to_ja: all retries failed")
 
 
 # ── EN HTML 生成 ──────────────────────────────────────────────────────────────
