@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30 08:01:01",
+  "generated_at": "2026-07-30 16:35:53",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-30 08:00:17",
+      "last_checked": "2026-07-30 16:35:22",
       "items": [
         {
           "uid": "7ca669e8c44e",
@@ -2019,8 +2019,38 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-30 08:00:36",
+      "last_checked": "2026-07-30 16:35:38",
       "items": [
+        {
+          "uid": "55d083672457",
+          "date": "2026-07-29",
+          "title": "While the bill was written to keep Chinese automakers out of America, the company it caught employs more than 10,000 Americans, assembles cars in Alabama and South Carolina, and just posted its best year ever with an SUV built in Tuscaloosa - Autonocion.com",
+          "summary": "S.4429は中国の自動車メーカーを排除することを目的としていますが、規制対象となった企業は米国内で10,000人以上を雇用し、アラバマ州とサウスカロライナ州で自動車を組立て、タスカルーサで製造したSUVで過去最高の成績を記録しています。",
+          "source": "上院議員",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fRWJScG1kd0hKbXlmNV8tXzE1Y3pqQ1NjZWhiaFFvY2VtMkNqZW9KeE80a1N1SDI4eGlaYks0VElEWEFfXzhpZll1VkZhbGx2YjBuc3hXc1VWMUlmd1VtbkVjQ2dDeU03M2hockRhQ2lGNi1lNHpZ?oc=5",
+          "added_at": "2026-07-30 16:35:29"
+        },
+        {
+          "uid": "87b4d68abe8b",
+          "date": "2026-06-01",
+          "title": "Mercedes-Benz dealers face uncertainty as Congress weighs ownership restrictions - CBT News",
+          "summary": "メルセデス・ベンツのディーラーが、米国接続車両安全保障法（S.4429）による外国資本の所有制限の検討に直面し、経営の不確実性が増している。この法案は、国家安全保障上の懸念から中国やロシアなどの外国投資家によるディーラー所有を制限しようとしている。",
+          "source": "業界団体（自動車）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMHo2R3BRa3k4UWRFZUVydFZBV2hpdzhBM0szUmJwNnE3dW1WMkxDc0VRVHR2RHZJWFdZOWwyOUhWa1R5RnNVOFdsRjNpLWc5UmV1Tml4UmxMcHZaM19qbTBoeTFkR2w1eGRsTUMxUFc?oc=5",
+          "added_at": "2026-07-30 16:35:29"
+        },
+        {
+          "uid": "4de701042296",
+          "date": "2026-06-25",
+          "title": "Polestar exits US market after government bans sales due to connected vehicle tech - Yahoo Finance",
+          "summary": "# 要約\n\nポールスター（Polestar）は、接続車両技術に関する米国政府の規制により米国市場から撤退を余儀なくされており、これはS.4429法による接続車両安全保障規制の実施例を示しています。同法は車両の接続技術に対する安全保障上の懸念から販売禁止措置を導入するものです。",
+          "source": "半導体・Tier1サプライヤー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeGFURElyWlViNkJTQTFBUy1LNzRkQVV6alFpNU5ETmtRaEdWY1RfRjk4d1FPQ1JtTnRDRUc2elE3Q3oxSHRnRXY2Q1BYZHJyZkRvM0x1Y0dweVp4Vi1ySVVVRjMxQU0taVRVdV9FLW40cjJWUnVRNVJqeG9uV09HaDVBMVJoMVJUX0JKcWtBVzdiY3QwZGJfS2xJN3FwUHd1MlV2bmVXOTlQSXdCLUh0eEE1RjI5UmFGd3Vubm1BUS1QOTR0X0ZuNmx5X1FveXlNQVIyUUZmUTZraE11YTJv?oc=5",
+          "added_at": "2026-07-30 16:35:29"
+        },
         {
           "uid": "f3f22bb06de4",
           "date": "2026-07-29",
@@ -3990,36 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTE5aLU1WSGxUYlFtXzFHaGUwRUdjcjQ5QWg5Um1KektEREdVYWVrY05mM2xqX3AtNzM1NTliQzJXa2p6dXA0Y2VKUlJlNG1QNE1CbGxXSnBSb2NWY2JYOGI5NjI5VTVJYzZiTXRtOUJNS2NtWWVrd2k3NXVHbnlSVG1mYkxmaEd6UEU5WkE5RlIzeU1XV0YyMw?oc=5",
           "added_at": "2026-06-26 18:58:44"
-        },
-        {
-          "uid": "1761c9ed8566",
-          "date": "2026-06-26",
-          "title": "Polestar to exit US market due to Connected Vehicle Rule that bans connected tech linked to China, Russia - Paul Tan's Automotive News",
-          "summary": "ポールスター（Polestar）は、中国・ロシア関連の接続技術を禁止する接続車両規則（S.4429）に対応できないため、米国市場から撤退することを決定した。同規則は国家安全保障上の懸念から、これらの国と関連のある自動車技術の使用を制限している。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcWRsZFk5aXdwQnloZ2NscVlNRnR2YnFnZmM3MUljXzNTSDJPSTRfbV84Y21Ob0t1bjVLNzMtcnFWWU1vNHdLSXJDbkVGS1NsN2J6aEl4cGFNbDMtY2g3bGI1VVB0S0hIaVY1Y2ZzdWNlajhPcDdWZDFyVjhPRGtwcWxlbzJYUnN6alBBQ1RsWHIzUnQ3SjlXa2FuTld2akJmOXJ0NGhSeWQwaUl2dEFRWkZpM0d3M3ZfRGxpTzhYMUFBZy1GR3FpSlpVV1FQZUVnZWc?oc=5",
-          "added_at": "2026-06-26 13:49:59"
-        },
-        {
-          "uid": "6ef1f7e24824",
-          "date": "2026-05-11",
-          "title": "Lawmakers Push Donald Trump to Maintain Ban on Chinese Vehicles Before Xi Jinping Meeting - Yahoo",
-          "summary": "米国の議員らが、習近平主席との会談を前にトランプ大統領に対し、中国製車両の禁止措置を継続するよう圧力をかけており、これは国家安全保障上の懸念から中国の自動車産業の米国市場進出を制限する動きを反映している。この立場は、S.4429などの法案で提案されている中国車排除政策と一致し、米国の自動車産業と国防関連インフラ保護の必要性が強調されている。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0dkd3pCVE1ETUhsS2daR1ZqbjA5V0ZjZ1pQalRZNDNFbzY1R01HdzJwVzgtYk9hd3NWY2FjbDJoXzV4WUVjUy1vd0I0cy1zMkoyZU5NOEREcWpCS2hrYUlMU2o3eU96N3FGRXdNRkRwTXJDaTdXTDFOQmd6anFuNVYzZXVmMllrZnYzQTQ3dTM?oc=5",
-          "added_at": "2026-06-26 13:49:59"
-        },
-        {
-          "uid": "2dba0d9b9a7a",
-          "date": "2026-06-25",
-          "title": "Polestar Pivot: Navigating the Storm of U.S. Restrictions - Devdiscourse",
-          "summary": "申し訳ございませんが、記事の具体的な内容テキストが提供されていないため、要約することができません。タイトルとソース名のみでは、米国接続車両安全保障法（S.4429）との関連性や具体的な論点を把握できません。記事の本文を提供していただければ、要約させていただきます。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlN2bVJlLXhvaE1VeFc3YzFwcWUtR2FKWmwtOU9QZzVWVWpXYzdBbUJCYkt4TkIzOWNPM2tkLXZuQ0NmemRaZmVBMTRWaXpHNjB5OXhNeU90WVlVZGpTb3hKUW5fQklyY3dQWmpZVXpVcS1IOEhJRk5PRnRWS25qOU1pbGUwRlZXaUZDMFUyb3hVX0dxUkdEOGpBSGFiR3o1X0pjMzhaNzRfWlYyLXk1Q21WSELSAbQBQVVfeXFMTjJTdm1SZS14b2hNVXhXN2MxcHFlLUdhSlpsLTlPUGc1VlVqV2M3QW1CQmJLeE5CMzljTzNrZC12bkNDZnpkWmZlQTE0Vml6RzYweTl4TXlPdFlZVWRqU294SlFuX0JJcmN3UFpqWVV6VXEtSDhISUZOT0Z0VktuajlNaWxlMEZWV2lGQzBVMm94VV9HcVJHRDhqQUhhYkd6NV9KYzM4Wjc0X1pWMi15NUNtVkhC?oc=5",
-          "added_at": "2026-06-26 13:49:59"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-30 08:01:01",
+      "last_checked": "2026-07-30 16:35:53",
       "items": [
+        {
+          "uid": "8d4bcea63dd4",
+          "date": "2026-06-23",
+          "title": "China hits US rare earth companies with export bans - Taipei Times",
+          "summary": "中国がレアアース企業への輸出規制を強化し、米国企業を対象とした措置を実施しており、これは米中間の技術・資源競争の激化を示すものである。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44REpYSTJIZEYwbFZsUEkxYnBjelRHTlVKTkRxc0g1YlMzOGczRGhwak1wckJLYlRReDd5aTJwRlpjcVpyNHFfanBZN3JvN3BLdWF1S0hSTEhyOHhDYS1mZmZCak5CLUlTZXcyUndFWEg3U05HSkE?oc=5",
+          "added_at": "2026-07-30 16:35:50"
+        },
+        {
+          "uid": "c72e75948b69",
+          "date": "2026-07-28",
+          "title": "US backs Madagascar rare earths project in push to loosen China's supply chain grip - Reuters",
+          "summary": "米国がマダガスカルのレアアース採掘プロジェクトを支援することで、中国が支配するレアアース供給チェーンからの脱却を目指している。この取り組みは、米国が中国のレアアース輸出管理に対抗し、供給源の多角化を進める戦略の一環である。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRU5mVGtfTmItbUhNS1lHU0hDc2NKXzFna3VzNmZNT2pDVzBRbG1XSnlwYmk4TDlza3V1d1dpUDVBQTBUOXRZeFVDakNVNHNjNTE0djZQa19rME1qSm1LOFI4dHJSZ2psM3pqV2tQVGUtbzktU0IxZGd0SjBaWGtxLXBodkxaQzdTWXNjaExVRHVuSlRkdF8yZUNsaEMxaTVXMllERTc0bGZESFg4Z0JIa2V6LVNsbnNySm12eXRSRjg4d00?oc=5",
+          "added_at": "2026-07-30 16:35:50"
+        },
         {
           "uid": "e19670f61343",
           "date": "2026-07-29",
@@ -6010,26 +6030,6 @@
           "source": "Mining.com",
           "source_type": "industry",
           "url": "https://www.mining.com/critical-metals-weighs-asset-sales-to-speed-up-greenland-project/",
-          "added_at": "2026-07-08 23:47:12"
-        },
-        {
-          "uid": "4c5c230ea6bd",
-          "date": "2026-07-08",
-          "title": "Rio Tinto hands Sovereign full control of Malawi graphite project",
-          "summary": "Rio Tintoがマラウイのグラファイト事業をSovereignに譲渡し、中国への依存を低減させるための非中国系サプライヤーの供給力が強化されることになった。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/rio-tinto-hands-sovereign-full-control-of-malawi-graphite-project/",
-          "added_at": "2026-07-08 23:47:12"
-        },
-        {
-          "uid": "fae92f7fd722",
-          "date": "2026-07-08",
-          "title": "Trump puts Greenland’s rare earths back on the table for NATO",
-          "summary": "トランプ前大統領がグリーンランドの戦略的重要性を主張し、同地域のレアアースを含む資源確保の関心を示唆しているが、デンマークはグリーンランドの領土売却を拒否している。この対立は、米国がレアアース供給源の多角化を急速に進める中で、中国への依存を減らす狙いと関連している。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/trump-puts-greenlands-rare-earths-back-on-the-table-for-nato/",
           "added_at": "2026-07-08 23:47:12"
         }
       ]
