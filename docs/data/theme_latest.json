@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31 16:52:52",
+  "generated_at": "2026-08-01 01:02:50",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-31 16:52:24",
+      "last_checked": "2026-08-01 01:02:24",
       "items": [
         {
           "uid": "dd76b235cd0f",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-31 16:52:34",
+      "last_checked": "2026-08-01 01:02:36",
       "items": [
+        {
+          "uid": "7e9013ee9c2f",
+          "date": "2026-05-05",
+          "title": "Foley Automotive Update - May 2026 - JD Supra",
+          "summary": "申し訳ございませんが、提供いただいたのはタイトルのみで、実際の記事内容が含まれていません。S.4429に関連する具体的な内容が記載された記事本文をご提供いただければ、日本語で1〜2文に要約いたします。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTBxODNnNFV4UEJNdjl1cmwyUE4xTGYxdzA3S1ZPUlVHZlJxREJWbzJUdUJJSllRV0RyWWxEc19BTHJjenhvUXlOcXpMcXFKME1iSWROZzlJeDFGMHZacWhjVkRoMUV5WnFLUUNLS2dVcWtxaXk5aHJGV0dsSEpsVQ?oc=5",
+          "added_at": "2026-08-01 01:02:34"
+        },
         {
           "uid": "3b068bb9c872",
           "date": "2026-07-30",
@@ -4010,16 +4020,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDl0MlRYTDNmdnR0d09SS1g3LTg5dERjcmYyY1BSaEdnQTZvN05pMDFRdDdTLW9Ldmg4WlR6dXFDU0N2Ym5sdGt0RkxHdkFrT0E3bkNHTU9WSGRqdmF1R3dvWnlIUlNRUjNLbGZJVWYtRVhuR2hlbXN2aUlpWC1XaWYxR2JWeFBQRGhsR3BQdldIMF9GSG5WSGZmdzRSQVB0bXdmeHlqVDBjYk42clA4?oc=5",
           "added_at": "2026-06-27 05:17:30"
-        },
-        {
-          "uid": "411b368a1b80",
-          "date": "2026-06-26",
-          "title": "Polestar Exits US Market: Chinese Ownership Triggers Connected Vehicle Rule Ban - Tech Times",
-          "summary": "ポールスター（Polestar）が米国市場から撤退したのは、中国資本の所有権が米国接続車両安全保障法（S.4429）による接続車両規制の対象となったためであり、この法律が中国系企業の米国自動車市場参入を実質的に制限する効果をもたらしています。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2tIblUwaUU0SDlnVUlial9yTE40ZkZycXhGMjBwTkktZXVmT0QycVlldnM0anRndzM1UVIwOHhkU2ZPcTI4S00wWlpYV3U4dnpDVTcwQmZqZlM0U3FISERUckhPd0NiUEpfMy1TeGcyZ3JPdWNEWmZXQ3MzNmR6Nl9YNTB4ZzRLLUdIb08xWWZUOXdGRERfdnYyaHdjbnhVemtkcFFvU0VaeFlwVjg1ZzlCajVkWnBRQ3pwZzFWTFZRMkxiSXdBZ1B4RGhjZw?oc=5",
-          "added_at": "2026-06-27 05:17:30"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-31 16:52:52",
+      "last_checked": "2026-08-01 01:02:50",
       "items": [
+        {
+          "uid": "7a2716d34df4",
+          "date": "2026-05-24",
+          "title": "Critical Minerals Report (05.24.2026): National Security Moves Downstream - InvestorNews",
+          "summary": "申し訳ありませんが、提供いただいたテキストはタイトルのみで、具体的な記事の内容が含まれていないため、要約することができません。記事の本文をご提供ください。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenJYUkQ0Y2VtcWFMX2UyVWpzSU5fQWxTM2syQXVhY0FIenp6c2FwR0RUYmREemdkZ1hySVgxTmN4WWxsQ2w4MXBfbld6ZzNRclJ3dkFnTjN1NnBVcG1GS0xyd01ySlZtaDg5MjRseXhWakdyQ3J3WUlna0dUc1Mtb3UweDBCYXV3ZEFwTjJPaUY2YVNZOW1VT2tubHpGUVA4elFVVjZnUkNVa1FRYlVuVkI4NkMtdzlDXzhORFp6ZEx4N3I4?oc=5",
+          "added_at": "2026-08-01 01:02:49"
+        },
         {
           "uid": "8b906e8139c6",
           "date": "2026-07-30",
@@ -6021,16 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamluSWtoNzRXVThxWWNjbkNQMEVkdG5sWVdYdjdENTVVUnl4UWJoaHktZDdGWEdzWmREVUFNelhBc2RxN1ZzYkJGM09JcUJmd2tQc1lyMFVhYmlCNC1MbFdhMWRBc1l5WGJ6OVlBelFVRGNfWjltYUNaZDBQNldlR1pmTXk3cXBTRTFibnBWWFk2S2JBSWp5T05rYkNyaGpVdTFsZzdfYjlvcEhGU2pYODVTVjRDM2wxY3oxWlMyQ3FfLTNjOE1uZ3dKUkU2RGlNbUZtaWdUS0c1N3dCdUlsRU93a0paWXc4S3dFdHhPbjJVNkUyRVE?oc=5",
           "added_at": "2026-07-09 12:29:34"
-        },
-        {
-          "uid": "2b79c3d8f736",
-          "date": "2026-04-13",
-          "title": "Sharp Q2 price hike by China Northern Rare Earth reshapes cost outlook for miners - AL Circle",
-          "summary": "中国の北方稀土集団が第2四半期に稀土類価格を大幅に引き上げたことで、鉱山採掘企業のコスト見通しが大きく変わり、中国の稀土類輸出管理が鉱物市場に直接的な影響を与えていることが明らかになった。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVl92RFMwQmhBX3NnVVFUVXZRdzFIWjBubmlMNlNXcHVDRHM1R084Sm92LVNxME5xNWN3N2JFRi1zcFYtRUJ0MUo4SHM5bklvQjZsRGRlWC1fS1V1eHhqZzhtcTc3Y1N4ZVgzWF9jaV8wcTdOa0tYTUlOWndMeUlwRWN6MDVlUzJta0pnQ2ZZT2lxTkdVbnhRMmhEaDNFejlNaWtWcTJoclNuY0VSWEpKRlozX2pKY1hjZ1E?oc=5",
-          "added_at": "2026-07-09 05:01:45"
         }
       ]
     }
