@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31 13:33:30",
+  "generated_at": "2026-07-31 16:52:52",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-31 13:33:28",
+      "last_checked": "2026-07-31 16:52:24",
       "items": [
+        {
+          "uid": "dd76b235cd0f",
+          "date": "2026-07-31",
+          "title": "Chinese businesses warn EU's proposed cybersecurity and industrial bills violate WTO rules - Global Times",
+          "summary": "中国企業は、EUの提案する産業加速法案（IAA）がWTO規則に違反する可能性があると警告している。同法案が域内産業保護主義を強化し、中国を含む非EU企業への差別的措置をもたらす懸念を示している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nZEF5UGV2c0c0UERoOTJiVWRQRjZUc3h3bzNsNzR2QS1lMVEwUjdnYlBiNmM0QTdfSVdPTEdTY2xmYUsybTQ3SXQxamZncG5kMFBIQkMxanFWd1hWS0ZmOW13?oc=5",
+          "added_at": "2026-07-31 16:52:22"
+        },
         {
           "uid": "7ca669e8c44e",
           "date": "2026-07-14",
@@ -1999,16 +2009,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLXFlNlU1UTRwRldhWUhNNHhadUl4dWdMWlRhVnFoY3JldU9FMEhQOFZyMFlKaVo1amt4d0FxczNpd181dzdLWG1zQlJpSVZoTlM0WUNnZ0VJVUhGVldfZUVOYmNaeWRvbm4yeTlIaXE1Nm1Ta1JrTWxGZGJTdTRpSlAxZ1k2Qzg3eEdubHNvRC1EOTFSbWZQLWpCX0pGMlIzdFhSVUdDMA?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "f5aa1f03ab2b",
-          "date": "2026-04-27",
-          "title": "How Madrid is trying to use renewables to redesign Europe’s industrial map - Agenda Pública",
-          "summary": "スペインのマドリッドは、再生可能エネルギーを活用することで欧州の産業地図を再構成しようとしており、これは欧州産業加速法案（IAA）の枠組みの中で、エネルギー集約的な産業をスペインに誘致し、欧州全体の産業競争力強化を目指す戦略である。",
-          "source": "欧州委員会要人",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGZRbmJTRVpiVC1iUGRpUjIweU9adlFsUXJHOHY5SC1qZURFUk5xTWRodFFkQm5WTHFDUmlhT1dvOUZvLWQtcTl5WTVUdTNYQ3cxVGVZTWdWb19hX2VaM0M4RTdPYm1fSE5LbWtpTmhQbmJVNE9QanA1cnlIbWF4YUtINzFOTnRkNUw4bWhoVEdnQzdqU0VialVzbnFyUTBHOGtWRktuRkNkc2Q1d0t0WQ?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-31 13:33:29",
+      "last_checked": "2026-07-31 16:52:34",
       "items": [
+        {
+          "uid": "3b068bb9c872",
+          "date": "2026-07-30",
+          "title": "A Bill To Crack Down on Chinese Cars Could Shut Mercedes-Benz Out of American Markets - Reason Magazine",
+          "summary": "米国接続車両安全保障法（S.4429）は中国製車両の締め出しを目的とした法案ですが、その厳格な規制要件によってメルセデス・ベンツなどの外国メーカーも米国市場から排除される可能性があります。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTHFhdmpuTWFMT2hBSGd3YlgzTndJOFZ0WjVKME9NLVlrQXA4cl9Rak83ekVNWlJBeDdmVkc1NnoxMmhVXzNvb0lPVW9pbDZjZmZNXzBhUGVfbUt3MW5BNW9FYWpPWXdPdER2Q3ZSeFY4eGxZU01kOExYUE1Kd0tKcXU1cHk0Tzd1QVFTWGhOUXl2MXRnRGNFRjRFdkFITUE2Y1FnVVlZUHREdUdaMUpDQ1FvZVVSSkU?oc=5",
+          "added_at": "2026-07-31 16:52:33"
+        },
         {
           "uid": "1761c9ed8566",
           "date": "2026-06-26",
@@ -4010,16 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2tIblUwaUU0SDlnVUlial9yTE40ZkZycXhGMjBwTkktZXVmT0QycVlldnM0anRndzM1UVIwOHhkU2ZPcTI4S00wWlpYV3U4dnpDVTcwQmZqZlM0U3FISERUckhPd0NiUEpfMy1TeGcyZ3JPdWNEWmZXQ3MzNmR6Nl9YNTB4ZzRLLUdIb08xWWZUOXdGRERfdnYyaHdjbnhVemtkcFFvU0VaeFlwVjg1ZzlCajVkWnBRQ3pwZzFWTFZRMkxiSXdBZ1B4RGhjZw?oc=5",
           "added_at": "2026-06-27 05:17:30"
-        },
-        {
-          "uid": "0e6bd06bebb6",
-          "date": "2026-06-26",
-          "title": "Polestar Wants to Strengthen its Presence in Europe Following New US Regulations - Phandroid",
-          "summary": "Polestarは米国の新規制（接続車両安全保障法S.4429）への対応のため、欧州市場での事業強化を検討しており、これは中国系企業への規制強化に伴うビジネス戦略の転換を示唆している。米国での規制の厳格化により、欧州市場でのプレゼンス拡大がPolestarにとって重要な成長機会となっている。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHFJN2ZKbTdmUzgwcDFVbHBKcVlKNkNacGllbXB6QjB3QWV3MWp2THJ2OF96YmtrS3NyNDAtekZ5bl9NVVUzZkRGb2ZpSW9UQnBVbmFsZUQ4dER0anU0OExRUm1qTnRfdjh4UnFlSmVQak9aVTFmQVZwNlA2R0NDNjNjM3RlTVB0MkNSb3Q3U1NxYXFSUFJjODRPYXczekl4dVVtRFBLQTRHTHB5VkZuU3plSUfSAboBQVVfeXFMTndKNWNnLWNyR0Z4UFpWdmhIT2NIbWh5Si05Y2hWcW1oVEFvNnh3aU5CTjZ1MElZNW9vUUlSMUtaZU5YNFVUNndKLVRrd3d0Wm5UUTRkamQwZ1A2SlF5UGk4dVowby1GbHlxblNfMEVtNXV3aGthZjlhaXRZbFhWa0dEXy0tX0xJV0I2bWJxczAyeHl4WGxTbjExS3E0SmVGVzEyWE5Ua3J6Q3RIcENvMWFMRXpVRFNnSWpR?oc=5",
-          "added_at": "2026-06-27 05:17:30"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-31 13:33:30",
+      "last_checked": "2026-07-31 16:52:52",
       "items": [
+        {
+          "uid": "8b906e8139c6",
+          "date": "2026-07-30",
+          "title": "China Puts EU Entities in Export Control Watchlist, Targeting Rare-Earth Supply Chains【SMM Analysis】 - news.metal.com",
+          "summary": "中国がEU企業をレアアース輸出管理の監視リストに追加し、レアアース供給チェーンを標的にしている。これは中国がレアアース資源への統制を強化し、西側諸国への供給を制限する戦略の一環である。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWS1RTlJHRjVEVTZoZTFjSGJSdTBYM3pzX1J4NWZYQkh3N1lOX01PeS1CNnRYczdoMnJiSmZHVjZRU2tNLTZQT3B5QjAyQzd5VldsYy1hVEphSlhDNzVaM1ZENW83NzlBWmJOTk1KMkhDYlFYZ3VlSWZscldRcDNnSlNzS3VpbTljR053RzJabnNqa1F4SnJiZEJSV2FhTEN5bmdLSTlkOGlZVjRYcXZvV1ozQkw4TlpkcEtHekVhOWtSNHpyX3MtOGVaY25zbXF1ekd0V2E2dVZVcUFVbHc?oc=5",
+          "added_at": "2026-07-31 16:52:49"
+        },
+        {
+          "uid": "2d47c8912032",
+          "date": "2026-05-13",
+          "title": "China Rare Earth Index Holds High as Pricing Gaps Widen Outside China - Rare Earth Exchanges",
+          "summary": "中国のレアアース指数は高止まりしており、中国国内と海外の価格差が拡大していることから、中国による輸出管理が価格に影響を与えている。この価格差の拡大は、中国がレアアース供給をコントロールしている状況を反映しており、国際市場での需給逼迫を示唆している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmFmQWpqVnhZZXQ3eElLdjItWTZLRGt4RW9WRUktS1VWZGNTUnJfVXlxazFXUUdVRzF0VUE3WjA0YkxjSHRLOHJlajkzR2d0VWZqQ3BzX1BjdFBrV2JnRnBJUjlvZWxJdGpnZG5xOW02R1p2V3RRUk9fSFdsaTNOa2FfcHZsOHlWS0RwVXJqX1NSdi1QUlNVN2lqQjhqTHR2QmF0VDE3elBvdw?oc=5",
+          "added_at": "2026-07-31 16:52:49"
+        },
         {
           "uid": "40ed417c1063",
           "date": "2026-07-30",
@@ -6011,26 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVl92RFMwQmhBX3NnVVFUVXZRdzFIWjBubmlMNlNXcHVDRHM1R084Sm92LVNxME5xNWN3N2JFRi1zcFYtRUJ0MUo4SHM5bklvQjZsRGRlWC1fS1V1eHhqZzhtcTc3Y1N4ZVgzWF9jaV8wcTdOa0tYTUlOWndMeUlwRWN6MDVlUzJta0pnQ2ZZT2lxTkdVbnhRMmhEaDNFejlNaWtWcTJoclNuY0VSWEpKRlozX2pKY1hjZ1E?oc=5",
           "added_at": "2026-07-09 05:01:45"
-        },
-        {
-          "uid": "4aceab51977b",
-          "date": "2026-07-05",
-          "title": "Between the superpowers: Southeast Asia’s strategic supply chain dilemma - Lowy Institute",
-          "summary": "申し訳ありませんが、提供いただいたのはタイトルのみで、記事の具体的な内容が含まれていません。記事本文を提供していただければ、中国レアアース輸出管理に関する文脈で要約させていただきます。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlpiVkNXREV5TzdueERpTjZZM0JBTmQ4emJrdGdDUXBPRG9WOWlrMlhOcUtFSEV2MGVZbVpoZFp1VXJzcDVjWklKdk1FZVNqaV9zckVoZWlmMDdtREQwbkdUQ3hOWFhPZmdKODZNbmhVRWJNSXRfSEttRWhnU2dUNlF0UVRlV2h5ajludEk2S2psWG1VenptWXNDUF9NVDU5QndhMjZlSHJuMFJqMUNLVlNOOEc?oc=5",
-          "added_at": "2026-07-09 05:01:45"
-        },
-        {
-          "uid": "7a2716d34df4",
-          "date": "2026-05-24",
-          "title": "Critical Minerals Report (05.24.2026): National Security Moves Downstream - InvestorNews",
-          "summary": "中国のレアアース輸出管理は国家安全保障上の重要な課題として認識されており、供給チェーン下流における戦略的対応が進められている。各国は中国のレアアース支配への依存を低減するため、鉱物調達の多角化と国内産業の育成に注力している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenJYUkQ0Y2VtcWFMX2UyVWpzSU5fQWxTM2syQXVhY0FIenp6c2FwR0RUYmREemdkZ1hySVgxTmN4WWxsQ2w4MXBfbld6ZzNRclJ3dkFnTjN1NnBVcG1GS0xyd01ySlZtaDg5MjRseXhWakdyQ3J3WUlna0dUc1Mtb3UweDBCYXV3ZEFwTjJPaUY2YVNZOW1VT2tubHpGUVA4elFVVjZnUkNVa1FRYlVuVkI4NkMtdzlDXzhORFp6ZEx4N3I4?oc=5",
-          "added_at": "2026-07-08 23:47:12"
         }
       ]
     }
