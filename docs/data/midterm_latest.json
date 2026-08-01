@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-16T08:45:30.197638+09:00",
-  "article_count": 13,
+  "generated_at": "2026-08-02T08:44:54.345021+09:00",
+  "article_count": 16,
   "projections": {
     "senate": {
-      "r": 54,
-      "d": 44,
+      "r": 52,
+      "d": 46,
       "tossup": 2
     },
     "house": {
@@ -19,49 +19,86 @@
     }
   },
   "key_developments": [
-    "Trump's approval rating has hit a record low approximately 18 months into his second term, potentially impacting GOP midterm performance.",
-    "Michigan Senate race between Democrat Abdul El-Sayed and Republican Mike Rogers remains tight, with AOC endorsement boosting progressive support.",
-    "Maine Senate race complications arising from Graham Platner allegations could significantly impact Democrats' narrow path to Senate majority.",
-    "Swing voters view Democrats unfavorably but still lean toward voting for Democratic candidates in 2026 midterm elections.",
-    "Trump's 2026 midterm campaign schedule is running slightly behind his 2018 pace of campaign events."
+    "Jon Ossoff maintains strong fundraising advantage with $42M cash on hand versus Mike Collins' $2M in Georgia Senate race.",
+    "Michigan Democratic Senate primary between progressive Abdul El-Sayed and establishment Rep. Haley Stevens on August 4 viewed as consequential test of party direction.",
+    "Democrats face uphill battle to control Senate with competitive races in Alaska, Maine, North Carolina, and Texas remaining tight with 98 days until election.",
+    "South Texas counties that fueled Republican Hispanic gains become focal point for Democrats seeking to flip Texas Senate seat with James Talarico challenging Republican incumbent.",
+    "Trump's approval ratings reach lowest point of second term heading into midterms, raising questions about Republican momentum in key races."
   ],
   "key_races": {
     "senate": [
       {
-        "state": "MI",
-        "incumbent": "Mike Rogers (R)",
-        "party": "R",
-        "rating": "tossup",
-        "label": "MI-Senate",
-        "note": "Abdul El-Sayed (D) has secured AOC endorsement in a must-win race for Democrats with polls showing a tight contest."
-      },
-      {
-        "state": "ME",
-        "incumbent": "Susan Collins (I)",
-        "party": "I",
-        "rating": "tossup",
-        "label": "ME-Senate",
-        "note": "Graham Platner (D) candidacy complicated by recent allegations, threatening Democrats' path to flipping the seat."
-      },
-      {
         "state": "GA",
         "incumbent": "Jon Ossoff (D)",
         "party": "D",
+        "rating": "likely-d",
+        "label": "Georgia: Ossoff vs. Collins",
+        "note": "Ossoff leads with $42M cash on hand versus Collins' $2M, and shows clear lead in AARP polling among seniors."
+      },
+      {
+        "state": "TX",
+        "incumbent": "Republican (R)",
+        "party": "R",
+        "rating": "tossup",
+        "label": "Texas: Talarico vs. Republican",
+        "note": "Democratic state Rep. James Talarico challenges Republican incumbent; South Texas Hispanic counties key to Democratic flip hopes."
+      },
+      {
+        "state": "MI",
+        "incumbent": "Republican (R)",
+        "party": "R",
+        "rating": "tossup",
+        "label": "Michigan: Primary TBD",
+        "note": "August 4 Democratic primary between progressive El-Sayed and establishment Stevens determines nominee in competitive seat."
+      },
+      {
+        "state": "ME",
+        "incumbent": "Republican (R)",
+        "party": "R",
         "rating": "lean-d",
-        "label": "GA-Senate",
-        "note": "Ossoff holds narrow lead over Republican Mike Collins but remains below 50% in polling."
+        "label": "Maine: Progressive Challenge",
+        "note": "Progressive Senate candidate mobilizing in Maine to challenge Republican incumbent."
+      },
+      {
+        "state": "NC",
+        "incumbent": "Republican (R)",
+        "party": "R",
+        "rating": "tossup",
+        "label": "North Carolina: Competitive",
+        "note": "North Carolina remains among most competitive Republican-held Senate seats with less than 100 days to election."
+      },
+      {
+        "state": "AK",
+        "incumbent": "Republican (R)",
+        "party": "R",
+        "rating": "tossup",
+        "label": "Alaska: Competitive",
+        "note": "Alaska listed as competitive Republican-held seat Democrats target for pickup."
       }
     ],
-    "house": [],
-    "governor": []
+    "house": [
+      {
+        "state": "AZ-04",
+        "incumbent": "DSA-backed Candidate (D)",
+        "party": "D",
+        "rating": "lean-r",
+        "label": "Arizona 4th: DSA Challenge",
+        "note": "Democratic Socialist candidate underperformed in Arizona 4th Congressional District, demonstrating limits of DSA reach."
+      }
+    ],
+    "governor": [
+      {
+        "state": "GA",
+        "incumbent": "Democrat (D)",
+        "party": "D",
+        "rating": "tossup",
+        "label": "Georgia Governor: Deadlocked",
+        "note": "Georgia gubernatorial race remains deadlocked according to recent AARP-commissioned poll."
+      }
+    ]
   },
   "upcoming_schedule": {
     "senate": [
-      {
-        "date": "Jul 21",
-        "state": "Georgia (GA)",
-        "event": "Primary Runoff (if needed)"
-      },
       {
         "date": "Aug 04",
         "state": "Michigan (MI)",
@@ -150,16 +187,26 @@
       {
         "date": "Sep 08",
         "state": "Rhode Island (RI)",
+        "event": "Primary Election"
+      },
+      {
+        "date": "Sep 15",
+        "state": "New York (NY)",
+        "event": "Primary Election"
+      },
+      {
+        "date": "Sep 15",
+        "state": "Maine (ME)",
+        "event": "Primary Election"
+      },
+      {
+        "date": "Sep 22",
+        "state": "North Dakota (ND)",
         "event": "Primary Election"
       }
     ],
     "house": [
       {
-        "date": "Jul 21",
-        "state": "Georgia (GA)",
-        "event": "Primary Runoff (if needed)"
-      },
-      {
         "date": "Aug 04",
         "state": "Michigan (MI)",
         "event": "Primary Election"
@@ -252,16 +299,26 @@
       {
         "date": "Sep 08",
         "state": "Rhode Island (RI)",
+        "event": "Primary Election"
+      },
+      {
+        "date": "Sep 15",
+        "state": "New York (NY)",
+        "event": "Primary Election"
+      },
+      {
+        "date": "Sep 15",
+        "state": "Maine (ME)",
+        "event": "Primary Election"
+      },
+      {
+        "date": "Sep 22",
+        "state": "North Dakota (ND)",
         "event": "Primary Election"
       }
     ],
     "governor": [
       {
-        "date": "Jul 21",
-        "state": "Georgia (GA)",
-        "event": "Primary Runoff (if needed)"
-      },
-      {
         "date": "Aug 04",
         "state": "Michigan (MI)",
         "event": "Primary Election"
@@ -354,6 +411,21 @@
       {
         "date": "Sep 08",
         "state": "Rhode Island (RI)",
+        "event": "Primary Election"
+      },
+      {
+        "date": "Sep 15",
+        "state": "New York (NY)",
+        "event": "Primary Election"
+      },
+      {
+        "date": "Sep 15",
+        "state": "Maine (ME)",
+        "event": "Primary Election"
+      },
+      {
+        "date": "Sep 22",
+        "state": "North Dakota (ND)",
         "event": "Primary Election"
       }
     ]
