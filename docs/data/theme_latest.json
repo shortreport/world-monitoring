@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01 16:29:43",
+  "generated_at": "2026-08-02 00:03:17",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-01 16:29:11",
+      "last_checked": "2026-08-02 00:02:51",
       "items": [
         {
           "uid": "9680284400a5",
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-01 16:29:24",
+      "last_checked": "2026-08-02 00:03:03",
       "items": [
+        {
+          "uid": "0e6bd06bebb6",
+          "date": "2026-06-26",
+          "title": "Polestar Wants to Strengthen its Presence in Europe Following New US Regulations - Phandroid",
+          "summary": "申し訳ございませんが、提供いただいたタイトルと「内容」の部分が同じテキストになっており、記事の実質的な内容が記載されていません。S.4429に関する文脈での要約作成には、Polestarの欧州展開計画と米国規制の具体的な関係性を示す記事本文が必要です。記事の本文をご提供いただければ、要約させていただきます。",
+          "source": "半導体・Tier1サプライヤー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHFJN2ZKbTdmUzgwcDFVbHBKcVlKNkNacGllbXB6QjB3QWV3MWp2THJ2OF96YmtrS3NyNDAtekZ5bl9NVVUzZkRGb2ZpSW9UQnBVbmFsZUQ4dER0anU0OExRUm1qTnRfdjh4UnFlSmVQak9aVTFmQVZwNlA2R0NDNjNjM3RlTVB0MkNSb3Q3U1NxYXFSUFJjODRPYXczekl4dVVtRFBLQTRHTHB5VkZuU3plSUfSAboBQVVfeXFMTndKNWNnLWNyR0Z4UFpWdmhIT2NIbWh5Si05Y2hWcW1oVEFvNnh3aU5CTjZ1MElZNW9vUUlSMUtaZU5YNFVUNndKLVRrd3d0Wm5UUTRkamQwZ1A2SlF5UGk4dVowby1GbHlxblNfMEVtNXV3aGthZjlhaXRZbFhWa0dEXy0tX0xJV0I2bWJxczAyeHl4WGxTbjExS3E0SmVGVzEyWE5Ua3J6Q3RIcENvMWFMRXpVRFNnSWpR?oc=5",
+          "added_at": "2026-08-02 00:02:59"
+        },
+        {
+          "uid": "dc0b04e72d18",
+          "date": "2026-06-27",
+          "title": "Blocked in US, Chinese EV Makers Pivot to Canada - Seoul Economic Daily",
+          "summary": "米国がS.4429による規制強化で中国系EV企業の市場参入を制限する中、これらのメーカーがカナダへの進出をシフトさせており、北米市場での競争構図が変わりつつあります。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcE1YUTRzTGJoQ0N4QldmMkVrN0VZTUhScGFPbkIyc2ZJUUJBSmNJYlRtRE1xb1Njb0REMDJxMHpsbFV4OV9kZzJHVmhIT09LaW9Ycm9JNVhmaUNDSUdFU1pqTWpLQjJfa25penI4TFR3Nmd2ZnBuNmpOMlp6bVhQam9wVEhJaHE4QlJYNjlSbzFFa0VLSVdLd2ZwWQ?oc=5",
+          "added_at": "2026-08-02 00:02:59"
+        },
         {
           "uid": "bea935a25652",
           "date": "2026-07-31",
@@ -4000,26 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yc0NRYzNiZEoySXhNTVdOVFVxeVFUdGFoc2hFaTFlXzJnZGNpLWxhUUdSWmU0YURaa3ZXbWl3YTFyZkxVNUdtRGw1eGtRZHQxYUJoaWV6OFZBTWxEWGZYVDRKWW5OeFE?oc=5",
           "added_at": "2026-06-27 18:11:14"
-        },
-        {
-          "uid": "9a576cc7a99d",
-          "date": "2026-06-26",
-          "title": "Polestar banned from US market under rule targeting China-linked connected vehicles - Fox Business",
-          "summary": "米国政府は中国との関連性を理由に、スウェーデンの電気自動車メーカーであるポールスター（Polestar）に対し、接続機能を備えた車両の米国市場での販売を禁止する規制を適用しました。この措置は、S.4429法に基づき、中国関連企業による接続車両の安全保障上のリスクを排除する目的で実施されたものです。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXRQZTlLc0ZmekpmNFpiUkNNUDJpMVh5UkhHQzhVSHk0ZXBPeE1oU0wtS1NOekpxOWJvLUh1QzUzSXhzQlNNMUxXdnluS29sbmZtQTFYc3ZteDFxWWJRSWNMWlRhdGY1T0FZVlZsaC1EeHFTekRyLVJzOXlpTU9jU0U3VGZYTXg5V2w0dVRBbkp2NmZTRDJSSmRzc20wSU5VUHNXUFQwcGFmRTAyclFrR09Wb1ZmMnhidFV2eXNmVF_SAcABQVVfeXFMUDV0UGU5S3NGZnpKZjRaYlJDTVAyaTFYeVJIR0M4VUh5NGVwT3hNaFNMLUtTTnpKcTliby1IdUM1M0l4c0JTTTFMV3Z5bktvbG5mbUExWHN2bXgxcVliUUljTFpUYXRmNU9BWVZWbGgtRHhxU3pEci1Sczl5aU1PY1NFN1RmWE14OVdsNHVUQW5KdjZmU0QyUkpkc3NtMElOVVBzV1BUMHBhZkUwMnJRa0dPVm9WZjJ4YnRVdnlzZlRf?oc=5",
-          "added_at": "2026-06-27 13:33:41"
-        },
-        {
-          "uid": "f1f647ad06cd",
-          "date": "2026-06-26",
-          "title": "Polestar banned from US market under rule targeting China-linked connected vehicles - Fox Business",
-          "summary": "米国は中国関連の接続車両を対象とした規則に基づき、Polestar（ボルボ傘下の中国資本を持つ自動車メーカー）を米国市場から排除しました。本規則はS.4429に関連し、中国の影響下にある車両のソフトウェアやデータセキュリティ上のリスクから米国を保護することを目的としています。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjZWSjBpSWRhSC13RFU4T3J6cDV5YmFNdXhwZHJNaUNZVElLU21jb2l0azBOUHlBQkMySkI3QjF5ZnZRb1FjMmRuUmZCbE9lMm1fZ3Z5Zml5VGxuTGkwLTJwcUdmdUVjNkJyTGVHRlByMW9QYXNJU3d3azZ5UkNFdnFXcENjOUkzSjRoUWQ5RU8wRklTWGZTWWtZc1ItMmtJYTB1R0lwSG00Z2NUREdOTjQ4NnhJM0QtZGJF0gHAAUFVX3lxTFA1dFBlOUtzRmZ6SmY0WmJSQ01QMmkxWHlSSEdDOFVIeTRlcE94TWhTTC1LU056SnE5Ym8tSHVDNTNJeHNCU00xTFd2eW5Lb2xuZm1BMVhzdm14MXFZYlFJY0xaVGF0ZjVPQVlWVmxoLUR4cVN6RHItUnM5eWlNT2NTRTdUZlhNeDlXbDR1VEFuSnY2ZlNEMlJKZHNzbTBJTlVQc1dQVDBwYWZFMDJyUWtHT1ZvVmYyeGJ0VXZ5c2ZUXw?oc=5",
-          "added_at": "2026-06-27 13:33:41"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-01 16:29:43",
+      "last_checked": "2026-08-02 00:03:17",
       "items": [
+        {
+          "uid": "243e96af73f5",
+          "date": "2026-07-05",
+          "title": "China dominates the rare earth elements industry, but this American company hopes to challenge China's grip - CBS News",
+          "summary": "中国はレアアース産業を支配しているが、米国企業がこの支配に対抗しようとしており、米国はサプライチェーンの多様化を通じて中国への依存を減らそうとしている。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkhpZllZUHRkTTRQS3kxR0VWMXJUY204QlJfaUpTbWVXOEJiY21icm8xbENLOFRuaEEzZjEzNTlSc0ZHOVdEam5NV0NtUDBFaHd0V1cwYkR6WURjZUZCbVd5aTJkdU9VbG1WOU9XUEJNeVhWQ3hETTZ4akZBQS1rellTVl9XY2NiS1lDTkNNUHl0M2FkdnpHekJ5Q3JtSklDcmRMVlhLRlRpS0pybTgyeDJEZkJndw?oc=5",
+          "added_at": "2026-08-02 00:03:16"
+        },
         {
           "uid": "e588dbe23380",
           "date": "2026-07-30",
@@ -6021,16 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTjFLMkt4OXV3MlFDWkRNWTVLWmxubUZVV3BRQS1uSWdXVkQ5VWUtTFdKS0ZfSFRoVjNGdkpvUndmRnp4M3pPWE5ObU1GMHAycnZ0cGViMlhCNEpVd0JYTHVpNlZxQTVkRktBbG9uNEFES2M4UE9iNE1SQW1NemhFTmswQ1FMZ0RxdDNETVJtQXJXZDFaRkVTOGpaRG45TnI2dzJqNjN0NzVSal9ncEp4RW5RZFB1dWNWbVl5cTBnekJURzdvbFg4VDktTVRfc3k0RWVlUC1ScERFVlU?oc=5",
           "added_at": "2026-07-09 13:21:03"
-        },
-        {
-          "uid": "eb3dc9e1e8aa",
-          "date": "2026-06-22",
-          "title": "China Adds MP Materials and USA Rare Earth to Its Export Control List (June 2026) - Stock Titan",
-          "summary": "中国は2026年6月、MP Materialsと米国のレアアース企業をレアアース輸出管理規制の対象リストに追加し、これらの企業に対する輸出制限措置を実施した。この措置は、中国がレアアース産業における支配力を強化し、米国企業への圧力を高めるための戦略的対抗手段と位置付けられている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEx2ODlYd2hpM1RhSzNvZGJpTDdpbTJ0NFBYc2dNLXRFVjdsWDF4czBjeHNxeXVBTW9SMGpGVXltcEp2Wm1Ham9ER0lyWDFsWFotYVJtMzVUVTRlT0JDMFlCbV96NHFQY0JJQWFORFlscF8yMWpObjJPaDlGeEJKMmxYOVhZVXRHSllIVWxhc2dCUnFUek9nTWRFRjQ?oc=5",
-          "added_at": "2026-07-09 12:37:51"
         }
       ]
     }
