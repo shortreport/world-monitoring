@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-08-02 08:55 JST",
+  "updated_at": "2026-08-02 08:56 JST",
   "total": 50,
-  "toyota_summary": "Germany's three largest automakers are cutting thousands of jobs and losing market share in China, the profit engine that has sustained them for decades. BMW announced plans to eliminate up to 8,000 positions by the end of 2027, targeting management and research-and-development staff. The moves signal that premium German carmakers are struggling to compete against Chinese rivals in their most important market and cannot sustain current cost structures.\n\nThe auto industry faces a structural problem: the companies that built their wealth on scale and brand in China now face cheaper, faster competitors on that same turf. Chinese automakers have closed the technology gap in electric vehicles while maintaining lower production costs. This is no longer a temporary market shock but a permanent shift in who controls the industry's most valuable market.\n\nWatch whether Japanese and South Korean manufacturers gain share as German makers retrench, or whether Chinese brands accelerate their own international expansion.",
+  "toyota_summary": "",
   "emails": [
+    {
+      "ts": "20260801_2026",
+      "sender_norm": "POLITICO",
+      "subject": "Ceuta crisis: 22 EU leaders gang up against Spain’s Sánchez over his migration policy",
+      "subject_en": "Ceuta crisis: 22 EU leaders gang up against Spain’s Sánchez over his migration policy",
+      "html": "data/pdfs/20260801_2026_Ceuta_crisis__22_EU_leaders_gang_up_against_Spain’.html",
+      "pdf": "data/pdfs/20260801_2026_Ceuta_crisis__22_EU_leaders_gang_up_against_Spain’.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "AUG 1  20:26",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
     {
       "ts": "20260801_0545",
       "sender_norm": "Eurasia Group",
@@ -11,6 +26,26 @@
       "date_label": "AUG 1  05:45",
       "read_min": 6,
       "toyota": false,
+      "excerpt": "",
+      "subject_en": "Saudi oil disruptions to persist amid regional conflict in 2026",
+      "html": "data/pdfs/20260801_0545_Saudi_oil_disruptions_to_persist_amid_regional_con.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20260801_0212",
+      "sender_norm": "POLITICO",
+      "subject": "EU countries drop mandatory industrial acceleration areas from IAA",
+      "subject_en": "EU countries drop mandatory industrial acceleration areas from IAA",
+      "html": "data/pdfs/20260801_0212_EU_countries_drop_mandatory_industrial_acceleratio.html",
+      "pdf": "data/pdfs/20260801_0212_EU_countries_drop_mandatory_industrial_acceleratio.html",
+      "summary_en": "The EU Council's Irish presidency has softened the Industrial Accelerator Act, making industrial acceleration zones optional rather than mandatory for member states. For automakers, a key provision survives: manufacturers can self-declare EU-origin compliance if at least 85% of vehicles assembled the prior year met the rules, offering flexibility on local content requirements. The revised text also lets national governments retain more control over permitting, foreign investment screening, and approval of partner countries for origin equivalence.",
+      "summary_ja": "EU理事会のアイルランド議長国は「産業加速化法」を緩和し、加盟国に義務付けていた産業加速地域の指定を任意とする方向で調整している。自動車業界にとって重要な点として、前年に組み立てた車両の85%以上がEU原産規則を満たしていれば自己申告で対応できる柔軟措置が維持された。さらに改訂案では、許認可手続きや外国投資審査、原産地同等性を認めるパートナー国の承認について、加盟国政府の権限を強める内容となっている。",
+      "summary_pdf": "",
+      "date_label": "AUG 1  02:12",
+      "read_min": 2,
+      "toyota": true,
       "excerpt": ""
     },
     {
@@ -21,7 +56,12 @@
       "date_label": "AUG 1  01:47",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iran war escalation & energy implications",
+      "html": "data/pdfs/20260801_0147_Iran_war_escalation_&_energy_implications.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260801_0146",
@@ -31,7 +71,12 @@
       "date_label": "AUG 1  01:46",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US political and economic update",
+      "html": "data/pdfs/20260801_0146_US_political_and_economic_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260801_0129",
@@ -41,7 +86,12 @@
       "date_label": "AUG 1  01:29",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "This week in polling: Trump’s approval rating slides to new low",
+      "html": "data/pdfs/20260801_0129_This_week_in_polling__Trump’s_approval_rating_slid.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260731_2119",
@@ -51,7 +101,12 @@
       "date_label": "JUL 31  21:19",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Despite growth concerns, no major policy change in China",
+      "html": "data/pdfs/20260731_2119_Despite_growth_concerns,_no_major_policy_change_in.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260731_1924",
@@ -61,14 +116,54 @@
       "date_label": "JUL 31  19:24",
       "read_min": 4,
       "toyota": false,
+      "excerpt": "",
+      "subject_en": "Spain: Mass border breach will likely give the far-right a one-off boost",
+      "html": "data/pdfs/20260731_1924_Spain__Mass_border_breach_will_likely_give_the_far.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20260731_1905",
+      "sender_norm": "POLITICO",
+      "subject": "Russia’s Olympic win comes with a price for Putin",
+      "subject_en": "Russia’s Olympic win comes with a price for Putin",
+      "html": "data/pdfs/20260731_1905_Russia’s_Olympic_win_comes_with_a_price_for_Putin.html",
+      "pdf": "data/pdfs/20260731_1905_Russia’s_Olympic_win_comes_with_a_price_for_Putin.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "JUL 31  19:05",
+      "read_min": 1,
+      "toyota": false,
       "excerpt": ""
     },
     {
       "ts": "20260731_1808",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/07/31",
       "pdf": "data/pdfs/20260731_1808_「ジェトロ・ビジネス短信」2026_07_31.pdf",
       "date_label": "JUL 31  18:08",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "JETRO Business Brief 2026/07/31",
+      "html": "data/pdfs/20260731_1808_「ジェトロ・ビジネス短信」2026_07_31.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260731_1808_「ジェトロ・ビジネス短信」2026_07_31_en.pdf"
+    },
+    {
+      "ts": "20260731_1635",
+      "sender_norm": "POLITICO",
+      "subject": "Meet the EU team leading the world’s first bona fide regulation of AI",
+      "subject_en": "Meet the EU team leading the world’s first bona fide regulation of AI",
+      "html": "data/pdfs/20260731_1635_Meet_the_EU_team_leading_the_world’s_first_bona_fi.html",
+      "pdf": "data/pdfs/20260731_1635_Meet_the_EU_team_leading_the_world’s_first_bona_fi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "JUL 31  16:35",
       "read_min": 1,
       "toyota": false,
       "excerpt": ""
@@ -81,7 +176,12 @@
       "date_label": "JUL 31  14:06",
       "read_min": 8,
       "toyota": true,
-      "excerpt": "ドイツの自動車大手3社（BMW、フォルクスワーゲン、メルセデス・ベンツ）は中国市場での販"
+      "excerpt": "ドイツの自動車大手3社（BMW、フォルクスワーゲン、メルセデス・ベンツ）は中国市場での販",
+      "subject_en": "German automakers in freefall",
+      "html": "data/pdfs/20260731_1406_German_automakers_in_freefall.html",
+      "summary_en": "Germany's top automakers—BMW, Volkswagen and Mercedes-Benz—posted sharply weaker first-half results as their once-lucrative China sales collapse, even as they hold steady in Europe and North America. Compounding the pain, Chinese EV makers are rapidly gaining ground in Europe, with their sales up 63% in the first half to nearly 10% of the EU market. The downturn lands just as Brussels negotiates the 2035 combustion-engine ban and new EU-preference rules, with industry lobbyists pushing hard to soften emissions targets.",
+      "summary_ja": "BMW、フォルクスワーゲン、メルセデス・ベンツなどドイツの主要自動車メーカーは、かつて稼ぎ頭だった中国市場での販売急減により、上半期決算が軒並み大幅に悪化した。欧州や北米では堅調を維持しているものの、それだけでは補いきれない状況だ。さらに追い打ちをかけるように、中国メーカーの欧州でのシェアが急拡大しており、上半期の販売台数は前年比63%増でEU市場の約1割を占めるまでになっている。この不振は、EUが2035年の内燃機関禁止や新たな「欧州優先」ルールを協議する時期と重なり、業界のロビイストは排出目標の緩和を強く求めている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260731_1403",
@@ -91,7 +191,12 @@
       "date_label": "JUL 31  14:03",
       "read_min": 12,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Inside the EU’s crisis room",
+      "html": "data/pdfs/20260731_1403_Inside_the_EU’s_crisis_room.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260731_1211",
@@ -367,7 +472,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/07/30",
+      "subject_en": "\"JETRO Business Newsletter\" 2026/07/30",
       "html": "data/pdfs/20260730_1809_「ジェトロ・ビジネス短信」2026_07_30.html",
       "summary_en": "",
       "summary_ja": "",
@@ -397,7 +502,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "日本企業の理系人材不足が深刻な中、英語で学ぶ留学生や海外大学の理系人材、日本語学習者の採",
-      "subject_en": "New JETRO Regional and Analysis Report Notice (July 30, 2026 Issue)",
+      "subject_en": "JETRO Regional and Analysis Report New Arrival Notice (July 30, 2026 Issue)",
       "html": "data/pdfs/20260730_1501_ジェトロ地域・分析レポートの新着のご案内（2026年7月30日号）.html",
       "summary_en": "JETRO's latest Middle East report highlights that China now leads auto sales in the region while Japan has hit record export volumes, underscoring intensifying competition for market share amid regional turmoil. However, the reports also warn that potential closure of the Strait of Hormuz poses a significant risk to Japanese automakers' export logistics and supply chains. This underscores the dual nature of the Middle East as both a growth market and a geopolitical risk zone for Japan's auto industry.",
       "summary_ja": "ジェトロの最新の中東関連レポートによると、同地域の自動車市場では中国がシェア首位に立つ一方、日本は輸出台数で過去最多を記録しており、競争が激化している。しかし、ホルムズ海峡が封鎖された場合、日本の自動車輸出物流や供給網に大きな影響が及ぶリスクも指摘されている。中東は日本の自動車産業にとって成長市場であると同時に、地政学的リスクが高い地域であることが浮き彫りとなっている。",
@@ -637,66 +742,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20260729_1635",
-      "sender_norm": "POLITICO",
-      "subject": "The French presidential candidate who wants to blow up the",
-      "pdf": "data/pdfs/20260729_1635_The_French_presidential_candidate_who_wants_to_blo.pdf",
-      "date_label": "JUL 29  16:35",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "The French presidential candidate who wants to blow up the Franco-German engine",
-      "html": "data/pdfs/20260729_1635_The_French_presidential_candidate_who_wants_to_blo.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20260729_1605",
-      "sender_norm": "Eurasia Group",
-      "subject": "EG Research Summary in Japanese",
-      "pdf": "data/pdfs/20260729_1605_EG_Research_Summary_in_Japanese.pdf",
-      "date_label": "JUL 29  16:05",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EG Research Summary in Japanese",
-      "html": "data/pdfs/20260729_1605_EG_Research_Summary_in_Japanese.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20260729_1402",
-      "sender_norm": "POLITICO",
-      "subject": "ETS review proposal keeps sparking criticism",
-      "pdf": "data/pdfs/20260729_1402_ETS_review_proposal_keeps_sparking_criticism.pdf",
-      "date_label": "JUL 29  14:02",
-      "read_min": 9,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "ETS review proposal keeps sparking criticism",
-      "html": "data/pdfs/20260729_1402_ETS_review_proposal_keeps_sparking_criticism.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20260729_1353",
-      "sender_norm": "POLITICO",
-      "subject": "The airport nobody loves (until it closes)",
-      "pdf": "data/pdfs/20260729_1353_The_airport_nobody_loves_(until_it_closes).pdf",
-      "date_label": "JUL 29  13:53",
-      "read_min": 11,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "The airport nobody loves (until it closes)",
-      "html": "data/pdfs/20260729_1353_The_airport_nobody_loves_(until_it_closes).html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
