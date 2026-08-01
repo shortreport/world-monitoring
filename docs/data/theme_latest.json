@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31 13:33:30",
+  "generated_at": "2026-08-02 00:03:17",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,28 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-07-31 13:33:28",
+      "last_checked": "2026-08-02 00:02:51",
       "items": [
+        {
+          "uid": "9680284400a5",
+          "date": "2026-07-29",
+          "title": "EU Inc.: A new harmonised corporate legal regime - European Commission",
+          "summary": "欧州委員会が提案する「EU Inc.」は、EU全域で統一された企業法制度を創設するもので、欧州産業加速法案（IAA）の一環として、域内企業の競争力強化と規制統一による事業環境の改善を目指しています。",
+          "source": "欧州産業政策",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcDVpZ3RVRkd3YUN0MFZNclBZMjN6NXFtUXg0bzA3WjRicWdvNFlpZFJ2RU83WHdLN19JWVA0R1N6VkVJamlMS29WTUs4b3YxWC1KVXZVQk5UMmFXSmZGRWhkRG1nb2h2ZFJvZzlwTThCR01TYWV5bE51b2N6Tlgzd296Vm94RlBiT1ZoSTRBaktiZHQ2dlpWYkUwMXhWMzNyWGNqdjEzTTdmS0FhRDJ6d25WTmp3ZHlzODNnamU0NU9tQ1F2VzJacEdXUC04UGRCM1JIcVozb0NRUQ?oc=5",
+          "added_at": "2026-08-01 16:29:10"
+        },
+        {
+          "uid": "dd76b235cd0f",
+          "date": "2026-07-31",
+          "title": "Chinese businesses warn EU's proposed cybersecurity and industrial bills violate WTO rules - Global Times",
+          "summary": "中国企業は、EUの提案する産業加速法案（IAA）がWTO規則に違反する可能性があると警告している。同法案が域内産業保護主義を強化し、中国を含む非EU企業への差別的措置をもたらす懸念を示している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nZEF5UGV2c0c0UERoOTJiVWRQRjZUc3h3bzNsNzR2QS1lMVEwUjdnYlBiNmM0QTdfSVdPTEdTY2xmYUsybTQ3SXQxamZncG5kMFBIQkMxanFWd1hWS0ZmOW13?oc=5",
+          "added_at": "2026-07-31 16:52:22"
+        },
         {
           "uid": "7ca669e8c44e",
           "date": "2026-07-14",
@@ -1989,26 +2009,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0Nl9KOEdSd1hJWlJWc204RnNaMHg1aTFTTC05SVJtSVNNU2pOTzAtOHFVY2tlMnVkR1lVMHR1QWdfVkllNlhnTHFuWlNBVUNxUlY4T0JMOFdGQlVoZTExdnlFVzFTdEs2bTBkOUJaZGJUZUk3M0lZ?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "46aa085ef88e",
-          "date": "2026-03-03",
-          "title": "EU to finally unveil ‘Made in Europe’ industrial plan after repeated delays - EUobserver",
-          "summary": "EUは、産業競争力強化と米国・中国への対抗を目的とした「欧州産業加速法案」を、複数の遅延を経て最終的に発表する予定であり、この計画は欧州製造業の復興と戦略的自立性の確保を目指すものである。",
-          "source": "欧州委員会要人",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLXFlNlU1UTRwRldhWUhNNHhadUl4dWdMWlRhVnFoY3JldU9FMEhQOFZyMFlKaVo1amt4d0FxczNpd181dzdLWG1zQlJpSVZoTlM0WUNnZ0VJVUhGVldfZUVOYmNaeWRvbm4yeTlIaXE1Nm1Ta1JrTWxGZGJTdTRpSlAxZ1k2Qzg3eEdubHNvRC1EOTFSbWZQLWpCX0pGMlIzdFhSVUdDMA?oc=5",
-          "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "f5aa1f03ab2b",
-          "date": "2026-04-27",
-          "title": "How Madrid is trying to use renewables to redesign Europe’s industrial map - Agenda Pública",
-          "summary": "スペインのマドリッドは、再生可能エネルギーを活用することで欧州の産業地図を再構成しようとしており、これは欧州産業加速法案（IAA）の枠組みの中で、エネルギー集約的な産業をスペインに誘致し、欧州全体の産業競争力強化を目指す戦略である。",
-          "source": "欧州委員会要人",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGZRbmJTRVpiVC1iUGRpUjIweU9adlFsUXJHOHY5SC1qZURFUk5xTWRodFFkQm5WTHFDUmlhT1dvOUZvLWQtcTl5WTVUdTNYQ3cxVGVZTWdWb19hX2VaM0M4RTdPYm1fSE5LbWtpTmhQbmJVNE9QanA1cnlIbWF4YUtINzFOTnRkNUw4bWhoVEdnQzdqU0VialVzbnFyUTBHOGtWRktuRkNkc2Q1d0t0WQ?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,8 +2019,78 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-07-31 13:33:29",
+      "last_checked": "2026-08-02 00:03:03",
       "items": [
+        {
+          "uid": "0e6bd06bebb6",
+          "date": "2026-06-26",
+          "title": "Polestar Wants to Strengthen its Presence in Europe Following New US Regulations - Phandroid",
+          "summary": "申し訳ございませんが、提供いただいたタイトルと「内容」の部分が同じテキストになっており、記事の実質的な内容が記載されていません。S.4429に関する文脈での要約作成には、Polestarの欧州展開計画と米国規制の具体的な関係性を示す記事本文が必要です。記事の本文をご提供いただければ、要約させていただきます。",
+          "source": "半導体・Tier1サプライヤー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHFJN2ZKbTdmUzgwcDFVbHBKcVlKNkNacGllbXB6QjB3QWV3MWp2THJ2OF96YmtrS3NyNDAtekZ5bl9NVVUzZkRGb2ZpSW9UQnBVbmFsZUQ4dER0anU0OExRUm1qTnRfdjh4UnFlSmVQak9aVTFmQVZwNlA2R0NDNjNjM3RlTVB0MkNSb3Q3U1NxYXFSUFJjODRPYXczekl4dVVtRFBLQTRHTHB5VkZuU3plSUfSAboBQVVfeXFMTndKNWNnLWNyR0Z4UFpWdmhIT2NIbWh5Si05Y2hWcW1oVEFvNnh3aU5CTjZ1MElZNW9vUUlSMUtaZU5YNFVUNndKLVRrd3d0Wm5UUTRkamQwZ1A2SlF5UGk4dVowby1GbHlxblNfMEVtNXV3aGthZjlhaXRZbFhWa0dEXy0tX0xJV0I2bWJxczAyeHl4WGxTbjExS3E0SmVGVzEyWE5Ua3J6Q3RIcENvMWFMRXpVRFNnSWpR?oc=5",
+          "added_at": "2026-08-02 00:02:59"
+        },
+        {
+          "uid": "dc0b04e72d18",
+          "date": "2026-06-27",
+          "title": "Blocked in US, Chinese EV Makers Pivot to Canada - Seoul Economic Daily",
+          "summary": "米国がS.4429による規制強化で中国系EV企業の市場参入を制限する中、これらのメーカーがカナダへの進出をシフトさせており、北米市場での競争構図が変わりつつあります。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcE1YUTRzTGJoQ0N4QldmMkVrN0VZTUhScGFPbkIyc2ZJUUJBSmNJYlRtRE1xb1Njb0REMDJxMHpsbFV4OV9kZzJHVmhIT09LaW9Ycm9JNVhmaUNDSUdFU1pqTWpLQjJfa25penI4TFR3Nmd2ZnBuNmpOMlp6bVhQam9wVEhJaHE4QlJYNjlSbzFFa0VLSVdLd2ZwWQ?oc=5",
+          "added_at": "2026-08-02 00:02:59"
+        },
+        {
+          "uid": "bea935a25652",
+          "date": "2026-07-31",
+          "title": "Moreno, Slotkin Win Broad Support to Defend American Auto Industry from CCP-Linked Vehicles - U.S. Senate (.gov)",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国共産党と関連のある車両から米国の自動車産業を守るため、MoremoとSlotkinが超党派的な広範な支持を獲得した法案である。本法案は、接続車両の安全保障リスクに対処し、中国関連企業による米国市場への浸透を制限することを目的としている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZHNoWW5tU1kzNHR5emVZeFUwNEgwMU5tOXg0eEdOTXAzcl9QalpETGd0di0zWGlDeDRlcF9mUF9JNmxWNjB0ampjLVo5Z1V2N3pTNHlDVjZySVZTXzVsUGozV24zMjkxbUI3YXo4MnN1eUJpdkJZOTdoOUxVcGpvcy1MNnJmSVBiQ0VqbjBaeTNDc1VpTm96NjFYR2tnaU9NcHo5MzRGR3hsVktzN010LWc2ekxxZEl2eVlUZHBQcVozOVYtZVd0cmRmcTlENUdHUTNVMzJDb2V2OUFmYWc?oc=5",
+          "added_at": "2026-08-01 16:29:19"
+        },
+        {
+          "uid": "13b5eb696775",
+          "date": "2026-07-31",
+          "title": "Opinion | Our Legislation Is Against China, Not Mercedes Benz - WSJ",
+          "summary": "申し訳ございませんが、提供いただいたテキストが記事のタイトルのみで、具体的な本文内容がないため、S.4429に関する正確な要約を作成することができません。記事の本文をご提供ください。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRmR2alh4WjZraXJzQWp1OVdTX25VTUZKU2FnNUp4VG9hU01mV2tMd3RCMTRDVzE1YUtzdkF4WFh0WnA1bGdwbVR0X3V0UjQ1VURXUTNqeG56RGdoVEU1RTRsT3VFaGVwX3kxTk9Zcm1mMXRnRi1MMWRuR09WaEsxeWVDemRwRjlnYVUzUEVad0M?oc=5",
+          "added_at": "2026-08-01 16:29:19"
+        },
+        {
+          "uid": "411b368a1b80",
+          "date": "2026-06-26",
+          "title": "Polestar Exits US Market: Chinese Ownership Triggers Connected Vehicle Rule Ban - Tech Times",
+          "summary": "ポールスター社は中国資本の所有が米国接続車両安全保障法（S.4429）に基づく接続車両ルール禁止の対象となったため、米国市場から撤退しました。本法は外国（特に中国）の所有企業による接続機能搭載車両の販売を制限する規制です。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2tIblUwaUU0SDlnVUlial9yTE40ZkZycXhGMjBwTkktZXVmT0QycVlldnM0anRndzM1UVIwOHhkU2ZPcTI4S00wWlpYV3U4dnpDVTcwQmZqZlM0U3FISERUckhPd0NiUEpfMy1TeGcyZ3JPdWNEWmZXQ3MzNmR6Nl9YNTB4ZzRLLUdIb08xWWZUOXdGRERfdnYyaHdjbnhVemtkcFFvU0VaeFlwVjg1ZzlCajVkWnBRQ3pwZzFWTFZRMkxiSXdBZ1B4RGhjZw?oc=5",
+          "added_at": "2026-08-01 16:29:19"
+        },
+        {
+          "uid": "7e9013ee9c2f",
+          "date": "2026-05-05",
+          "title": "Foley Automotive Update - May 2026 - JD Supra",
+          "summary": "申し訳ございませんが、提供いただいたのはタイトルのみで、実際の記事内容が含まれていません。S.4429に関連する具体的な内容が記載された記事本文をご提供いただければ、日本語で1〜2文に要約いたします。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTBxODNnNFV4UEJNdjl1cmwyUE4xTGYxdzA3S1ZPUlVHZlJxREJWbzJUdUJJSllRV0RyWWxEc19BTHJjenhvUXlOcXpMcXFKME1iSWROZzlJeDFGMHZacWhjVkRoMUV5WnFLUUNLS2dVcWtxaXk5aHJGV0dsSEpsVQ?oc=5",
+          "added_at": "2026-08-01 01:02:34"
+        },
+        {
+          "uid": "3b068bb9c872",
+          "date": "2026-07-30",
+          "title": "A Bill To Crack Down on Chinese Cars Could Shut Mercedes-Benz Out of American Markets - Reason Magazine",
+          "summary": "米国接続車両安全保障法（S.4429）は中国製車両の締め出しを目的とした法案ですが、その厳格な規制要件によってメルセデス・ベンツなどの外国メーカーも米国市場から排除される可能性があります。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTHFhdmpuTWFMT2hBSGd3YlgzTndJOFZ0WjVKME9NLVlrQXA4cl9Rak83ekVNWlJBeDdmVkc1NnoxMmhVXzNvb0lPVW9pbDZjZmZNXzBhUGVfbUt3MW5BNW9FYWpPWXdPdER2Q3ZSeFY4eGxZU01kOExYUE1Kd0tKcXU1cHk0Tzd1QVFTWGhOUXl2MXRnRGNFRjRFdkFITUE2Y1FnVVlZUHREdUdaMUpDQ1FvZVVSSkU?oc=5",
+          "added_at": "2026-07-31 16:52:33"
+        },
         {
           "uid": "1761c9ed8566",
           "date": "2026-06-26",
@@ -3950,76 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yc0NRYzNiZEoySXhNTVdOVFVxeVFUdGFoc2hFaTFlXzJnZGNpLWxhUUdSWmU0YURaa3ZXbWl3YTFyZkxVNUdtRGw1eGtRZHQxYUJoaWV6OFZBTWxEWGZYVDRKWW5OeFE?oc=5",
           "added_at": "2026-06-27 18:11:14"
-        },
-        {
-          "uid": "9a576cc7a99d",
-          "date": "2026-06-26",
-          "title": "Polestar banned from US market under rule targeting China-linked connected vehicles - Fox Business",
-          "summary": "米国政府は中国との関連性を理由に、スウェーデンの電気自動車メーカーであるポールスター（Polestar）に対し、接続機能を備えた車両の米国市場での販売を禁止する規制を適用しました。この措置は、S.4429法に基づき、中国関連企業による接続車両の安全保障上のリスクを排除する目的で実施されたものです。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNXRQZTlLc0ZmekpmNFpiUkNNUDJpMVh5UkhHQzhVSHk0ZXBPeE1oU0wtS1NOekpxOWJvLUh1QzUzSXhzQlNNMUxXdnluS29sbmZtQTFYc3ZteDFxWWJRSWNMWlRhdGY1T0FZVlZsaC1EeHFTekRyLVJzOXlpTU9jU0U3VGZYTXg5V2w0dVRBbkp2NmZTRDJSSmRzc20wSU5VUHNXUFQwcGFmRTAyclFrR09Wb1ZmMnhidFV2eXNmVF_SAcABQVVfeXFMUDV0UGU5S3NGZnpKZjRaYlJDTVAyaTFYeVJIR0M4VUh5NGVwT3hNaFNMLUtTTnpKcTliby1IdUM1M0l4c0JTTTFMV3Z5bktvbG5mbUExWHN2bXgxcVliUUljTFpUYXRmNU9BWVZWbGgtRHhxU3pEci1Sczl5aU1PY1NFN1RmWE14OVdsNHVUQW5KdjZmU0QyUkpkc3NtMElOVVBzV1BUMHBhZkUwMnJRa0dPVm9WZjJ4YnRVdnlzZlRf?oc=5",
-          "added_at": "2026-06-27 13:33:41"
-        },
-        {
-          "uid": "f1f647ad06cd",
-          "date": "2026-06-26",
-          "title": "Polestar banned from US market under rule targeting China-linked connected vehicles - Fox Business",
-          "summary": "米国は中国関連の接続車両を対象とした規則に基づき、Polestar（ボルボ傘下の中国資本を持つ自動車メーカー）を米国市場から排除しました。本規則はS.4429に関連し、中国の影響下にある車両のソフトウェアやデータセキュリティ上のリスクから米国を保護することを目的としています。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjZWSjBpSWRhSC13RFU4T3J6cDV5YmFNdXhwZHJNaUNZVElLU21jb2l0azBOUHlBQkMySkI3QjF5ZnZRb1FjMmRuUmZCbE9lMm1fZ3Z5Zml5VGxuTGkwLTJwcUdmdUVjNkJyTGVHRlByMW9QYXNJU3d3azZ5UkNFdnFXcENjOUkzSjRoUWQ5RU8wRklTWGZTWWtZc1ItMmtJYTB1R0lwSG00Z2NUREdOTjQ4NnhJM0QtZGJF0gHAAUFVX3lxTFA1dFBlOUtzRmZ6SmY0WmJSQ01QMmkxWHlSSEdDOFVIeTRlcE94TWhTTC1LU056SnE5Ym8tSHVDNTNJeHNCU00xTFd2eW5Lb2xuZm1BMVhzdm14MXFZYlFJY0xaVGF0ZjVPQVlWVmxoLUR4cVN6RHItUnM5eWlNT2NTRTdUZlhNeDlXbDR1VEFuSnY2ZlNEMlJKZHNzbTBJTlVQc1dQVDBwYWZFMDJyUWtHT1ZvVmYyeGJ0VXZ5c2ZUXw?oc=5",
-          "added_at": "2026-06-27 13:33:41"
-        },
-        {
-          "uid": "dc0b04e72d18",
-          "date": "2026-06-26",
-          "title": "Blocked in US, Chinese EV Makers Pivot to Canada - Seoul Economic Daily",
-          "summary": "米国での規制強化により参入が困難になった中国系EV製造業者がカナダへの進出を加速させており、これはS.4429などの米国の接続車両セキュリティ規制が、中国企業の北米戦略の変更を促していることを示唆しています。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcE1YUTRzTGJoQ0N4QldmMkVrN0VZTUhScGFPbkIyc2ZJUUJBSmNJYlRtRE1xb1Njb0REMDJxMHpsbFV4OV9kZzJHVmhIT09LaW9Ycm9JNVhmaUNDSUdFU1pqTWpLQjJfa25penI4TFR3Nmd2ZnBuNmpOMlp6bVhQam9wVEhJaHE4QlJYNjlSbzFFa0VLSVdLd2ZwWQ?oc=5",
-          "added_at": "2026-06-27 13:33:41"
-        },
-        {
-          "uid": "60c37a52efa2",
-          "date": "2026-06-25",
-          "title": "Polestar barred from US over the Chinese connected vehicle rule, a dangerous precedent - Electrek",
-          "summary": "米国接続車両安全保障法（S.4429）により、ボルボの高級ブランドであるポールスターが中国の接続機能に関する懸念から米国市場への参入を阻止されており、これが外国企業に対する規制の危険な前例となる可能性がある。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94aHMzQ0NaYVpjS1cyWVo3eFYwdUlKOWZwb1oyZ2UtZGlrRDE0SGk1OGVuTEVIcVkyLWNaN21sbHp5d2VWb2IwSEZweXJPUFNJa1ZvZTdxUTl1YzBDYnBweU5mQXBqS3ZjNXB4MkpKcjZZb0FENFU4bFNEeUVadw?oc=5",
-          "added_at": "2026-06-27 13:33:41"
-        },
-        {
-          "uid": "ee37fe128e60",
-          "date": "2026-04-12",
-          "title": "Trump Says 100% Chinese Car Tariff Is ‘About the Only Thing’ Biden ‘Did Good’ - eletric-vehicles.com",
-          "summary": "トランプ前大統領は、バイデン政権による中国車への100%関税をバイデンが「ほぼ唯一良いことをした」と評価し、米国の自動車産業保護政策を支持する立場を示しました。この発言は、S.4429が目指す中国を含む外国製車両からの米国市場保護という方針と一致しています。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDl0MlRYTDNmdnR0d09SS1g3LTg5dERjcmYyY1BSaEdnQTZvN05pMDFRdDdTLW9Ldmg4WlR6dXFDU0N2Ym5sdGt0RkxHdkFrT0E3bkNHTU9WSGRqdmF1R3dvWnlIUlNRUjNLbGZJVWYtRVhuR2hlbXN2aUlpWC1XaWYxR2JWeFBQRGhsR3BQdldIMF9GSG5WSGZmdzRSQVB0bXdmeHlqVDBjYk42clA4?oc=5",
-          "added_at": "2026-06-27 05:17:30"
-        },
-        {
-          "uid": "411b368a1b80",
-          "date": "2026-06-26",
-          "title": "Polestar Exits US Market: Chinese Ownership Triggers Connected Vehicle Rule Ban - Tech Times",
-          "summary": "ポールスター（Polestar）が米国市場から撤退したのは、中国資本の所有権が米国接続車両安全保障法（S.4429）による接続車両規制の対象となったためであり、この法律が中国系企業の米国自動車市場参入を実質的に制限する効果をもたらしています。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2tIblUwaUU0SDlnVUlial9yTE40ZkZycXhGMjBwTkktZXVmT0QycVlldnM0anRndzM1UVIwOHhkU2ZPcTI4S00wWlpYV3U4dnpDVTcwQmZqZlM0U3FISERUckhPd0NiUEpfMy1TeGcyZ3JPdWNEWmZXQ3MzNmR6Nl9YNTB4ZzRLLUdIb08xWWZUOXdGRERfdnYyaHdjbnhVemtkcFFvU0VaeFlwVjg1ZzlCajVkWnBRQ3pwZzFWTFZRMkxiSXdBZ1B4RGhjZw?oc=5",
-          "added_at": "2026-06-27 05:17:30"
-        },
-        {
-          "uid": "0e6bd06bebb6",
-          "date": "2026-06-26",
-          "title": "Polestar Wants to Strengthen its Presence in Europe Following New US Regulations - Phandroid",
-          "summary": "Polestarは米国の新規制（接続車両安全保障法S.4429）への対応のため、欧州市場での事業強化を検討しており、これは中国系企業への規制強化に伴うビジネス戦略の転換を示唆している。米国での規制の厳格化により、欧州市場でのプレゼンス拡大がPolestarにとって重要な成長機会となっている。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHFJN2ZKbTdmUzgwcDFVbHBKcVlKNkNacGllbXB6QjB3QWV3MWp2THJ2OF96YmtrS3NyNDAtekZ5bl9NVVUzZkRGb2ZpSW9UQnBVbmFsZUQ4dER0anU0OExRUm1qTnRfdjh4UnFlSmVQak9aVTFmQVZwNlA2R0NDNjNjM3RlTVB0MkNSb3Q3U1NxYXFSUFJjODRPYXczekl4dVVtRFBLQTRHTHB5VkZuU3plSUfSAboBQVVfeXFMTndKNWNnLWNyR0Z4UFpWdmhIT2NIbWh5Si05Y2hWcW1oVEFvNnh3aU5CTjZ1MElZNW9vUUlSMUtaZU5YNFVUNndKLVRrd3d0Wm5UUTRkamQwZ1A2SlF5UGk4dVowby1GbHlxblNfMEVtNXV3aGthZjlhaXRZbFhWa0dEXy0tX0xJV0I2bWJxczAyeHl4WGxTbjExS3E0SmVGVzEyWE5Ua3J6Q3RIcENvMWFMRXpVRFNnSWpR?oc=5",
-          "added_at": "2026-06-27 05:17:30"
         }
       ]
     },
@@ -4030,8 +4030,88 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-07-31 13:33:30",
+      "last_checked": "2026-08-02 00:03:17",
       "items": [
+        {
+          "uid": "243e96af73f5",
+          "date": "2026-07-05",
+          "title": "China dominates the rare earth elements industry, but this American company hopes to challenge China's grip - CBS News",
+          "summary": "中国はレアアース産業を支配しているが、米国企業がこの支配に対抗しようとしており、米国はサプライチェーンの多様化を通じて中国への依存を減らそうとしている。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkhpZllZUHRkTTRQS3kxR0VWMXJUY204QlJfaUpTbWVXOEJiY21icm8xbENLOFRuaEEzZjEzNTlSc0ZHOVdEam5NV0NtUDBFaHd0V1cwYkR6WURjZUZCbVd5aTJkdU9VbG1WOU9XUEJNeVhWQ3hETTZ4akZBQS1rellTVl9XY2NiS1lDTkNNUHl0M2FkdnpHekJ5Q3JtSklDcmRMVlhLRlRpS0pybTgyeDJEZkJndw?oc=5",
+          "added_at": "2026-08-02 00:03:16"
+        },
+        {
+          "uid": "e588dbe23380",
+          "date": "2026-07-30",
+          "title": "Hedge funds raise bets against US-backed critical minerals companies - Financial Times",
+          "summary": "ヘッジファンドが米国支援の重要鉱物企業に対する空売りポジションを増やしており、これは中国が高度な産業向けのレアアースなどの重要鉱物供給を制限する可能性がある中で、米国が戦略的鉱物の自給能力強化を目指していることと対比される状況を示唆している。中国のレアアース輸出管理が強化されるにつれ、米国のサプライチェーン多様化戦略の実現可能性に対する市場の懸念が反映されている。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVE4NTRRVnZmVzRkZEhhUFU2Z2JuTlZGUXh4LW51Sms5dGZaRm1GZG1tRl9xeWhxUGwtVHdTUnFpT09UdURKTDF1TVZVekNfTlJRY1N1NEV4SjlIZXJMbGYtaDRUOHFYSjByUGR4Y2hPRE05QUhzdlo3MDFDb0daYkVQQTA?oc=5",
+          "added_at": "2026-08-01 16:29:36"
+        },
+        {
+          "uid": "9709f98a0a39",
+          "date": "2026-07-31",
+          "title": "Europas Rohstoff-Illusion: Warum die grüne Wende an China hängt – Der teure Preis der strategischen Selbsttäuschung - Xpert.Digital - Konrad Wolfenstein",
+          "summary": "ヨーロッパの脱炭素化とグリーン転換は中国のレアアース供給に極度に依存しており、戦略的な自己欺瞞により供給リスクと地政学的脆弱性にさらされているという問題を指摘しています。中国はレアアース市場を支配することで、ヨーロッパの再生可能エネルギー推進を戦略的に制御できる立場にあります。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vOGFib0VSNURJZW1LN19YV2tQdDg1dVIwTWFFRWtWQnV5bVMzNEU0akVDTTVqdzhsOFFaZm9XandmTmZ1SHBOeVFNWVZRMHdBbHVza0dRSmMtWjJqRVY5aV9pNU9qbzhBSXdRbjF30gFuQVVfeXFMT284YWJvRVI1REllbUs3X1hXa1B0ODV1UjBNYUVFa1ZCdXltUzM0RTRqRUNNNWp3OGw4UVpmb1dqd2ZOZnVIcE55UU1ZVlEwd0FsdXNrR1FKYy1aMmpFVjlpX2k1T2pvOEFJd1FuMXc?oc=5",
+          "added_at": "2026-08-01 16:29:36"
+        },
+        {
+          "uid": "319106f9b184",
+          "date": "2026-07-27",
+          "title": "China’s Rare Earth Export Curbs: $6.5T Supply Chain Risk Explained - discoveryalert.com.au",
+          "summary": "中国がレアアース輸出を制限することで、世界的な$6.5兆規模のサプライチェーンがリスクにさらされており、電子機器や防衛産業などの重要産業に影響を与える可能性がある。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFQxWEtmMWZtbHU0SXlJMjdUZzh6YzJyM0hLX0E0dTFNVkptYTV3RHZ6V3ZHLUczOVZFdEdkLXZ0ckpXTl9JYk5feWVkN0J4c2d6ck1TenpYV2dleEpZQjB1QndWTkhFU0tMMEQyMXhMUjV2Z09uNGNnSFVMeElDX3A0TUdEYktT?oc=5",
+          "added_at": "2026-08-01 16:29:36"
+        },
+        {
+          "uid": "3551c9e118a6",
+          "date": "2026-07-31",
+          "title": "Hasan Piker exposed: Friends have ties to radical pro-China communists",
+          "summary": "この記事は「中国レアアース輸出管理」の文脈には関連がなく、米国政治人物のハサン・パイカー氏の人間関係と共産主義的背景を扱った内容であるため、要約の対象外です。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/robbys-radar/6002490-anti-data-center-propaganda/",
+          "added_at": "2026-08-01 16:29:36"
+        },
+        {
+          "uid": "7a2716d34df4",
+          "date": "2026-05-24",
+          "title": "Critical Minerals Report (05.24.2026): National Security Moves Downstream - InvestorNews",
+          "summary": "申し訳ありませんが、提供いただいたテキストはタイトルのみで、具体的な記事の内容が含まれていないため、要約することができません。記事の本文をご提供ください。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenJYUkQ0Y2VtcWFMX2UyVWpzSU5fQWxTM2syQXVhY0FIenp6c2FwR0RUYmREemdkZ1hySVgxTmN4WWxsQ2w4MXBfbld6ZzNRclJ3dkFnTjN1NnBVcG1GS0xyd01ySlZtaDg5MjRseXhWakdyQ3J3WUlna0dUc1Mtb3UweDBCYXV3ZEFwTjJPaUY2YVNZOW1VT2tubHpGUVA4elFVVjZnUkNVa1FRYlVuVkI4NkMtdzlDXzhORFp6ZEx4N3I4?oc=5",
+          "added_at": "2026-08-01 01:02:49"
+        },
+        {
+          "uid": "8b906e8139c6",
+          "date": "2026-07-30",
+          "title": "China Puts EU Entities in Export Control Watchlist, Targeting Rare-Earth Supply Chains【SMM Analysis】 - news.metal.com",
+          "summary": "中国がEU企業をレアアース輸出管理の監視リストに追加し、レアアース供給チェーンを標的にしている。これは中国がレアアース資源への統制を強化し、西側諸国への供給を制限する戦略の一環である。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWS1RTlJHRjVEVTZoZTFjSGJSdTBYM3pzX1J4NWZYQkh3N1lOX01PeS1CNnRYczdoMnJiSmZHVjZRU2tNLTZQT3B5QjAyQzd5VldsYy1hVEphSlhDNzVaM1ZENW83NzlBWmJOTk1KMkhDYlFYZ3VlSWZscldRcDNnSlNzS3VpbTljR053RzJabnNqa1F4SnJiZEJSV2FhTEN5bmdLSTlkOGlZVjRYcXZvV1ozQkw4TlpkcEtHekVhOWtSNHpyX3MtOGVaY25zbXF1ekd0V2E2dVZVcUFVbHc?oc=5",
+          "added_at": "2026-07-31 16:52:49"
+        },
+        {
+          "uid": "2d47c8912032",
+          "date": "2026-05-13",
+          "title": "China Rare Earth Index Holds High as Pricing Gaps Widen Outside China - Rare Earth Exchanges",
+          "summary": "中国のレアアース指数は高止まりしており、中国国内と海外の価格差が拡大していることから、中国による輸出管理が価格に影響を与えている。この価格差の拡大は、中国がレアアース供給をコントロールしている状況を反映しており、国際市場での需給逼迫を示唆している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmFmQWpqVnhZZXQ3eElLdjItWTZLRGt4RW9WRUktS1VWZGNTUnJfVXlxazFXUUdVRzF0VUE3WjA0YkxjSHRLOHJlajkzR2d0VWZqQ3BzX1BjdFBrV2JnRnBJUjlvZWxJdGpnZG5xOW02R1p2V3RRUk9fSFdsaTNOa2FfcHZsOHlWS0RwVXJqX1NSdi1QUlNVN2lqQjhqTHR2QmF0VDE3elBvdw?oc=5",
+          "added_at": "2026-07-31 16:52:49"
+        },
         {
           "uid": "40ed417c1063",
           "date": "2026-07-30",
@@ -5951,86 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTjFLMkt4OXV3MlFDWkRNWTVLWmxubUZVV3BRQS1uSWdXVkQ5VWUtTFdKS0ZfSFRoVjNGdkpvUndmRnp4M3pPWE5ObU1GMHAycnZ0cGViMlhCNEpVd0JYTHVpNlZxQTVkRktBbG9uNEFES2M4UE9iNE1SQW1NemhFTmswQ1FMZ0RxdDNETVJtQXJXZDFaRkVTOGpaRG45TnI2dzJqNjN0NzVSal9ncEp4RW5RZFB1dWNWbVl5cTBnekJURzdvbFg4VDktTVRfc3k0RWVlUC1ScERFVlU?oc=5",
           "added_at": "2026-07-09 13:21:03"
-        },
-        {
-          "uid": "eb3dc9e1e8aa",
-          "date": "2026-06-22",
-          "title": "China Adds MP Materials and USA Rare Earth to Its Export Control List (June 2026) - Stock Titan",
-          "summary": "中国は2026年6月、MP Materialsと米国のレアアース企業をレアアース輸出管理規制の対象リストに追加し、これらの企業に対する輸出制限措置を実施した。この措置は、中国がレアアース産業における支配力を強化し、米国企業への圧力を高めるための戦略的対抗手段と位置付けられている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEx2ODlYd2hpM1RhSzNvZGJpTDdpbTJ0NFBYc2dNLXRFVjdsWDF4czBjeHNxeXVBTW9SMGpGVXltcEp2Wm1Ham9ER0lyWDFsWFotYVJtMzVUVTRlT0JDMFlCbV96NHFQY0JJQWFORFlscF8yMWpObjJPaDlGeEJKMmxYOVhZVXRHSllIVWxhc2dCUnFUek9nTWRFRjQ?oc=5",
-          "added_at": "2026-07-09 12:37:51"
-        },
-        {
-          "uid": "6e3152907eb4",
-          "date": "2026-06-21",
-          "title": "China imposes export controls on two US rare earth producers - Crypto Briefing",
-          "summary": "中国は米国のレアアース生産企業2社に対して輸出管理を実施し、米国への報復措置として規制を強化した。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEVDVuQjRMeVBWNlBlTHM4Q0FxMG42ZzE3QmVDVjVacU1yanlyMmFQeXJ2MDhZS3FMWHVyU3NsOEpPbENDVXpvc3FiS0pnSlg4Zy1MNGFqMU5hSE1MZXRGeU9wVXVNam9RaHhBQlljNFA?oc=5",
-          "added_at": "2026-07-09 12:29:34"
-        },
-        {
-          "uid": "f57231671955",
-          "date": "2026-06-22",
-          "title": "China has expanded its export restrictions against U.S. companies - UA.NEWS",
-          "summary": "中国はレアアース等の戦略的資源の輸出制限を拡大し、米国企業に対する経済的圧力を強化している。この措置は米国による対中制裁に対する報復として機能している。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdE02VG1OQl9sRXNjckU2ZXMzZ08zTHNDN0NGNHgyektjREJ6VXJCRDIxVTFkaGtWdlJ6M2stcXVtaEJVejhWYkd2dHU1UEhqelY4TEdpSnprd0JIQ0FfeTRRYkFqYnVEX0pjUHYtQkh4bDVuQmhDLTZfNlRZTjUxVEhwWV82aDBUSFR1ZmtzWnpGWFVFQ2c?oc=5",
-          "added_at": "2026-07-09 12:29:34"
-        },
-        {
-          "uid": "243e96af73f5",
-          "date": "2026-07-05",
-          "title": "China dominates the rare earth elements industry, but this American company hopes to challenge China's grip - CBS News",
-          "summary": "中国がレアアース産業を支配する中、米国企業がこの支配に対抗することを目指しており、中国の輸出管理体制に対する競争圧力が高まっている。米国を含む各国がレアアース産業の中国依存からの脱却を進めることで、今後のレアアース供給チェーンの多極化が進む可能性がある。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkhpZllZUHRkTTRQS3kxR0VWMXJUY204QlJfaUpTbWVXOEJiY21icm8xbENLOFRuaEEzZjEzNTlSc0ZHOVdEam5NV0NtUDBFaHd0V1cwYkR6WURjZUZCbVd5aTJkdU9VbG1WOU9XUEJNeVhWQ3hETTZ4akZBQS1rellTVl9XY2NiS1lDTkNNUHl0M2FkdnpHekJ5Q3JtSklDcmRMVlhLRlRpS0pybTgyeDJEZkJndw?oc=5",
-          "added_at": "2026-07-09 12:29:34"
-        },
-        {
-          "uid": "436fe2d58802",
-          "date": "2026-07-08",
-          "title": "CRML, UUUU, USAR, ALOY, GLND: Greenland’s Rare-Earth Trade Draws Investors As Trump Revives Arctic Ambitions - TradingView",
-          "summary": "グリーンランドのレアアース資源が注目を集める中、米国がアークティック戦略を強化することで、中国に依存するレアアース供給チェーンの多角化を目指す動きが加速している。これはグリーンランドの鉱物資源開発企業への投資機会を創出し、中国のレアアース輸出管理による供給制限に対する代替資源の確保戦略として機能している。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamluSWtoNzRXVThxWWNjbkNQMEVkdG5sWVdYdjdENTVVUnl4UWJoaHktZDdGWEdzWmREVUFNelhBc2RxN1ZzYkJGM09JcUJmd2tQc1lyMFVhYmlCNC1MbFdhMWRBc1l5WGJ6OVlBelFVRGNfWjltYUNaZDBQNldlR1pmTXk3cXBTRTFibnBWWFk2S2JBSWp5T05rYkNyaGpVdTFsZzdfYjlvcEhGU2pYODVTVjRDM2wxY3oxWlMyQ3FfLTNjOE1uZ3dKUkU2RGlNbUZtaWdUS0c1N3dCdUlsRU93a0paWXc4S3dFdHhPbjJVNkUyRVE?oc=5",
-          "added_at": "2026-07-09 12:29:34"
-        },
-        {
-          "uid": "2b79c3d8f736",
-          "date": "2026-04-13",
-          "title": "Sharp Q2 price hike by China Northern Rare Earth reshapes cost outlook for miners - AL Circle",
-          "summary": "中国の北方稀土集団が第2四半期に稀土類価格を大幅に引き上げたことで、鉱山採掘企業のコスト見通しが大きく変わり、中国の稀土類輸出管理が鉱物市場に直接的な影響を与えていることが明らかになった。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVl92RFMwQmhBX3NnVVFUVXZRdzFIWjBubmlMNlNXcHVDRHM1R084Sm92LVNxME5xNWN3N2JFRi1zcFYtRUJ0MUo4SHM5bklvQjZsRGRlWC1fS1V1eHhqZzhtcTc3Y1N4ZVgzWF9jaV8wcTdOa0tYTUlOWndMeUlwRWN6MDVlUzJta0pnQ2ZZT2lxTkdVbnhRMmhEaDNFejlNaWtWcTJoclNuY0VSWEpKRlozX2pKY1hjZ1E?oc=5",
-          "added_at": "2026-07-09 05:01:45"
-        },
-        {
-          "uid": "4aceab51977b",
-          "date": "2026-07-05",
-          "title": "Between the superpowers: Southeast Asia’s strategic supply chain dilemma - Lowy Institute",
-          "summary": "申し訳ありませんが、提供いただいたのはタイトルのみで、記事の具体的な内容が含まれていません。記事本文を提供していただければ、中国レアアース輸出管理に関する文脈で要約させていただきます。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlpiVkNXREV5TzdueERpTjZZM0JBTmQ4emJrdGdDUXBPRG9WOWlrMlhOcUtFSEV2MGVZbVpoZFp1VXJzcDVjWklKdk1FZVNqaV9zckVoZWlmMDdtREQwbkdUQ3hOWFhPZmdKODZNbmhVRWJNSXRfSEttRWhnU2dUNlF0UVRlV2h5ajludEk2S2psWG1VenptWXNDUF9NVDU5QndhMjZlSHJuMFJqMUNLVlNOOEc?oc=5",
-          "added_at": "2026-07-09 05:01:45"
-        },
-        {
-          "uid": "7a2716d34df4",
-          "date": "2026-05-24",
-          "title": "Critical Minerals Report (05.24.2026): National Security Moves Downstream - InvestorNews",
-          "summary": "中国のレアアース輸出管理は国家安全保障上の重要な課題として認識されており、供給チェーン下流における戦略的対応が進められている。各国は中国のレアアース支配への依存を低減するため、鉱物調達の多角化と国内産業の育成に注力している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenJYUkQ0Y2VtcWFMX2UyVWpzSU5fQWxTM2syQXVhY0FIenp6c2FwR0RUYmREemdkZ1hySVgxTmN4WWxsQ2w4MXBfbld6ZzNRclJ3dkFnTjN1NnBVcG1GS0xyd01ySlZtaDg5MjRseXhWakdyQ3J3WUlna0dUc1Mtb3UweDBCYXV3ZEFwTjJPaUY2YVNZOW1VT2tubHpGUVA4elFVVjZnUkNVa1FRYlVuVkI4NkMtdzlDXzhORFp6ZEx4N3I4?oc=5",
-          "added_at": "2026-07-08 23:47:12"
         }
       ]
     }
