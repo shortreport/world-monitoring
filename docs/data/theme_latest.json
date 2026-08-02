@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02 00:03:17",
+  "generated_at": "2026-08-02 16:33:40",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-02 00:02:51",
+      "last_checked": "2026-08-02 16:33:19",
       "items": [
         {
           "uid": "9680284400a5",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-02 00:03:03",
+      "last_checked": "2026-08-02 16:33:27",
       "items": [
         {
           "uid": "0e6bd06bebb6",
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-02 00:03:17",
+      "last_checked": "2026-08-02 16:33:40",
       "items": [
+        {
+          "uid": "eb3dc9e1e8aa",
+          "date": "2026-06-22",
+          "title": "China Adds MP Materials and USA Rare Earth to Its Export Control List (June 2026) - Stock Titan",
+          "summary": "中国が2026年6月にMP Materials社とUSA Rare Earth社をレアアース輸出管理リストに追加し、これらの企業への輸出制限を強化したことで、米国のレアアース供給チェーンに対する影響が懸念されている。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEx2ODlYd2hpM1RhSzNvZGJpTDdpbTJ0NFBYc2dNLXRFVjdsWDF4czBjeHNxeXVBTW9SMGpGVXltcEp2Wm1Ham9ER0lyWDFsWFotYVJtMzVUVTRlT0JDMFlCbV96NHFQY0JJQWFORFlscF8yMWpObjJPaDlGeEJKMmxYOVhZVXRHSllIVWxhc2dCUnFUek9nTWRFRjQ?oc=5",
+          "added_at": "2026-08-02 16:33:38"
+        },
         {
           "uid": "243e96af73f5",
           "date": "2026-07-05",
@@ -6021,16 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWZRX1JQSjVPYk43MHF2NVhwSVlJTlc3dXZnTjBSYUh1TDczN20xbHMwdWNPeHdMNkxVSndQZ1V0ekM1ZHVWYnpNR2RqYWYyaEJqZTV2OEJyaE5TdC1DQ1ZYMDRKN0Ryc1R3NzgtQ1lLM2tfXzFGQk5lSjNjSEduSjUxT2ZwNXNIRHZxSy1NVllYa0xTbnBiQVR3?oc=5",
           "added_at": "2026-07-09 15:09:46"
-        },
-        {
-          "uid": "ea223ce579bc",
-          "date": "2026-05-20",
-          "title": "China says rare earth controls lawful, will cooperate with US on 'reasonable' concerns - Reuters",
-          "summary": "中国は希土類輸出管理が合法的であると主張しながらも、米国の「合理的な」懸念事項については協力する姿勢を示している。中国は世界の希土類供給の大部分を占める立場を活用して、輸出管理を通じた経済的・政治的影響力を行使しようとしている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTjFLMkt4OXV3MlFDWkRNWTVLWmxubUZVV3BRQS1uSWdXVkQ5VWUtTFdKS0ZfSFRoVjNGdkpvUndmRnp4M3pPWE5ObU1GMHAycnZ0cGViMlhCNEpVd0JYTHVpNlZxQTVkRktBbG9uNEFES2M4UE9iNE1SQW1NemhFTmswQ1FMZ0RxdDNETVJtQXJXZDFaRkVTOGpaRG45TnI2dzJqNjN0NzVSal9ncEp4RW5RZFB1dWNWbVl5cTBnekJURzdvbFg4VDktTVRfc3k0RWVlUC1ScERFVlU?oc=5",
-          "added_at": "2026-07-09 13:21:03"
         }
       ]
     }
