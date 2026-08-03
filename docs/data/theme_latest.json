@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03 17:32:03",
+  "generated_at": "2026-08-04 01:28:59",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-03 17:31:40",
+      "last_checked": "2026-08-04 01:28:27",
       "items": [
+        {
+          "uid": "bb18d8d66e79",
+          "date": "2026-08-03",
+          "title": "‘Partner origin’ category in Industrial Accelerator Act proposed - mlex.com",
+          "summary": "欧州産業加速法案（IAA）では、EU域外の「パートナー国」からの投資や調達を優遇する「パートナー由来」カテゴリーの新設が提案されており、戦略的な産業支援を目的とした制度設計が進められています。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUtDZVhOLTdFd1RTODFLSHIyY254WURodkVwcHB0OUY2bEVkMjhXQkpoMDlWN2Utdm9heTM5ajQ3c0hfU0RBRnU0c3ZDbHllUzRVUXUycnZkWlNWSjFUSVBGSVhNMmVIRGU4X2tQU0VkNFZjdUhYREtoN3dZa3N0MEd0RS0zR2VzYkRYTWdnY0lxd0ZySFdXQ0VCeHd4Z3VEc08zRVFsYkFmek5EVjJvRldR0gFaQVVfeXFMTW52eVJ3c21DV2FSU1FUTHdCNFR6dTNDczZveENMT0FVWkxNMXVIOFdULVE5YV9IRldIc1hfdUZncE9QUFYwckFVTDNiSEdaSUxIUEdDRzdFY3Z3?oc=5",
+          "added_at": "2026-08-04 01:28:25"
+        },
         {
           "uid": "9680284400a5",
           "date": "2026-07-29",
@@ -1999,16 +2009,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdThJSk5vX0tOTHVKbE5CMVpvdUROYnNRWlFUV2VtV01sZDZtdHVRcndZUk9LalV6ZVJfVFQ3eThTU1NBZE93NEU5QjNfYVpBRFlXU1hHN2wwaUxfcVR3M3pNZGRWdXpVQjJUVHBJcWMtSW1JcXRQRDJWM3lQMzJuM1daczNXUWR1d2dFaDFSRFNIUUo2cGN1V3hyY2I5bkVIVHpNeFo3MTRfWE56R2JN?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "754501773683",
-          "date": "2026-03-05",
-          "title": "European Commission Unveils Long-Awaited ‘Made in Europe’ Act - Impakter",
-          "summary": "欧州委員会が発表した「欧州産業加速法案（IAA）」は、欧州産業の国際競争力強化と戦略的自立を実現するため、規制緩和、投資促進、公共調達の優遇措置を含む包括的な支援策を提供するものである。本法案は、欧州域内の製造業復興と技術革新を通じて、世界市場における「メイド・イン・ヨーロッパ」の競争力回復を目指している。",
-          "source": "欧州委員会要人",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0Nl9KOEdSd1hJWlJWc204RnNaMHg1aTFTTC05SVJtSVNNU2pOTzAtOHFVY2tlMnVkR1lVMHR1QWdfVkllNlhnTHFuWlNBVUNxUlY4T0JMOFdGQlVoZTExdnlFVzFTdEs2bTBkOUJaZGJUZUk3M0lZ?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-03 17:31:49",
+      "last_checked": "2026-08-04 01:28:42",
       "items": [
+        {
+          "uid": "31636f8c2adf",
+          "date": "2026-06-25",
+          "title": "The US Just Banned Polestar From Selling New Cars, Even The One It Builds In America - Carscoops",
+          "summary": "米国はS.4429法に基づき、米国内で製造されている車両を含むポールスターの新車販売を禁止しました。この禁止令は、中国資本のボルボ傘下であるポールスターが国家安全保障上のリスクと判断されたことによるものです。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yc0NRYzNiZEoySXhNTVdOVFVxeVFUdGFoc2hFaTFlXzJnZGNpLWxhUUdSWmU0YURaa3ZXbWl3YTFyZkxVNUdtRGw1eGtRZHQxYUJoaWV6OFZBTWxEWGZYVDRKWW5OeFE?oc=5",
+          "added_at": "2026-08-04 01:28:41"
+        },
         {
           "uid": "c3a68006bff9",
           "date": "2026-05-16",
@@ -4010,16 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQU5GQjduSWdidFdzTklwOUpKbjR1Yk51cFhmbkswYWhHY2M5dU0xT0tPZDZPbjI1SmZfSHMwc1labFJoR21ZS29zNWZIcHVwS0VlaXp1Q24yS0h1V1VPbjFjbGJfWTZFMjFCMWpkWnFmYndSV2w4TG1uRE9WUjBXQlJUOWVGRXBJdFV4V1l3TjlLRUVhRUF0MGwyQTZqUlNfOTN5NjdGUFRBajA0MExfQ0tkOWx1NW1WSkd2clR6QkZOdGd6eEdzOElybkJMVjBtdy1YM0ExNXdiNWxQWnNKVVdlR1hoN3UxU2lBRXdHeUtsQQ?oc=5",
           "added_at": "2026-06-27 23:13:52"
-        },
-        {
-          "uid": "a748ac1c44ba",
-          "date": "2026-04-28",
-          "title": "House Democrats Urge Trump to Keep Ban on Chinese Automakers in Place - eletric-vehicles.com",
-          "summary": "米国下院民主党議員はトランプ大統領に対し、中国自動車メーカーに対する禁止措置を維持するよう促しており、これは米国接続車両安全保障法（S.4429）が目指す国内自動車産業保護と安全保障強化の方針と一致している。この禁止措置は、中国メーカーが米国市場に進出することで国防に関わる自動車技術やサプライチェーンが危機にさらされることを防ぐための施策である。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0NDYlVYMjQ3RS1LTkE4Sm1xS18zbl81SmZ4Ukt6a1VqbEVPSG5zZ1N4eTVwcTRqWlA4RUliSFVITFM2ZEpDM24zUmF2ZVhJc2NpMjNKV0k1TnlBWFZHZ0NpTGVEbjF3Y29PZk83RjRHZnUxNG9yU1MtbDNaN3F1XzcweThqM3Vxc2dyOE9ycXF2Sm42ZVNRWjc0WVhLQVlWdXh0WjBneUhTQ1k?oc=5",
-          "added_at": "2026-06-27 18:11:14"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-03 17:32:03",
+      "last_checked": "2026-08-04 01:28:59",
       "items": [
+        {
+          "uid": "96182f5b76d6",
+          "date": "2026-05-14",
+          "title": "All Gas, No Tax Leaves America’s Infrastructure Behind - thefuse.org",
+          "summary": "申し訳ございませんが、提供していただいた記事は「All Gas, No Tax Leaves America's Infrastructure Behind」という米国のガソリン税とインフラに関する内容であり、「中国レアアース輸出管理」とは関連性がありません。レアアース輸出管理に関する記事の提供をお願いします。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1dfYkR4UXNnY0hSajU0ckNkM3FuM2ZTYkpINEVucUpKMS1LQTRUU2gxRHNObnhsSVl3US1HMUFvN2JsMTJYQm56S0Z0M0pPOUtPUkl0S0dEdXJmZWdyTjlXU2tJd212cEd6aFV1Qm1KUzNKYU5fTkdKY0ltUnFDdDhrZ01qNW01Rm9CLUZ3?oc=5",
+          "added_at": "2026-08-04 01:28:55"
+        },
+        {
+          "uid": "9820dc9298da",
+          "date": "2026-08-03",
+          "title": "Football has given Europe a rare geopolitical victory",
+          "summary": "ヨーロッパの若き才能あるサッカー選手たちが国際競争における「レアアース」のような戦略的資源であることを示唆する記事であり、中国のレアアース輸出管理が地政学的優位性を生む中で、ヨーロッパは人材育成において稀有で貴重な優位性を確保している点が対照的である。",
+          "source": "Financial Times",
+          "source_type": "media",
+          "url": "https://www.ft.com/content/ebfc7f0f-d176-4da7-9136-b8703388decc?syn-25a6b1a6=1",
+          "added_at": "2026-08-04 01:28:55"
+        },
         {
           "uid": "98806e7e3375",
           "date": "2026-05-11",
@@ -6011,26 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeDZGUmZjekZGOF9sOEJJUm9aX0k3SXZINVZna0x3dU5TTVpmUzdQV2VzQm45d1hqcElMZjQ2a2Z0WVZFZGhrY2s2WjR0Qm05Q29hUG1RWVhETndMUFZsVzJfRFVETldRY0V2R2IxakhnMXE4Yk5nVVdXUHcxTS0zVm1SUzloMGhBcEk0XzZjaWh0UQ?oc=5",
           "added_at": "2026-07-09 23:03:29"
-        },
-        {
-          "uid": "091b94d4ade4",
-          "date": "2026-07-09",
-          "title": "Billions in US-funded rare earths flowing to Asian markets: report",
-          "summary": "米国が資金提供するレアアース生産が増加しているものの、その大部分はアジア市場に流れており、米国は磁石需要の増加に対応するため中国への依存軽減を目指している。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/billions-in-us-funded-rare-earths-flowing-to-asian-markets-report/",
-          "added_at": "2026-07-09 22:16:35"
-        },
-        {
-          "uid": "060acd5cd80a",
-          "date": "2026-04-10",
-          "title": "Project Vault and the New Era of US Strategic Mineral Stockpiling - Geopolitical Monitor",
-          "summary": "米国はProject Vaultを通じて戦略的鉱物の備蓄を強化しており、中国のレアアース輸出管理への対抗策として、サプライチェーンの脆弱性を減らし、国内資源確保に注力している。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnBUbW5STVpJQ3psNUEtbTRkd0NISnRYWFFvR2c4Z01XOXlISXJCNGZQVWVKRURxTFdaSm04VWhXYjN6LTNYUnFPWngzRU9rZ0VOOHBJZUFWMmhHMV9kMnJCQ1RXNjZWcnYxOEtUZ3FzQmc1NTc4UWxLYlR6NDZuc05LeGZHLWlGdkdCNmdiY0dWNDFtYmxBaU83MjVHUTNQSGtvRg?oc=5",
-          "added_at": "2026-07-09 16:13:32"
         }
       ]
     }
