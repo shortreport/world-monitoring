@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02 00:03:17",
+  "generated_at": "2026-08-03 00:05:17",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-02 00:02:51",
+      "last_checked": "2026-08-03 00:04:49",
       "items": [
         {
           "uid": "9680284400a5",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-02 00:03:03",
+      "last_checked": "2026-08-03 00:04:58",
       "items": [
         {
           "uid": "0e6bd06bebb6",
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-02 00:03:17",
+      "last_checked": "2026-08-03 00:05:17",
       "items": [
+        {
+          "uid": "ea223ce579bc",
+          "date": "2026-05-20",
+          "title": "China says rare earth controls lawful, will cooperate with US on 'reasonable' concerns - Reuters",
+          "summary": "中国は レアアース輸出管理が国際法に合致していると主張し、米国の「合理的な」懸念に対しては協力する姿勢を示している。同時に、中国はレアアース市場における供給管理を通じた影響力維持の意図を示唆している。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTjFLMkt4OXV3MlFDWkRNWTVLWmxubUZVV3BRQS1uSWdXVkQ5VWUtTFdKS0ZfSFRoVjNGdkpvUndmRnp4M3pPWE5ObU1GMHAycnZ0cGViMlhCNEpVd0JYTHVpNlZxQTVkRktBbG9uNEFES2M4UE9iNE1SQW1NemhFTmswQ1FMZ0RxdDNETVJtQXJXZDFaRkVTOGpaRG45TnI2dzJqNjN0NzVSal9ncEp4RW5RZFB1dWNWbVl5cTBnekJURzdvbFg4VDktTVRfc3k0RWVlUC1ScERFVlU?oc=5",
+          "added_at": "2026-08-03 00:05:13"
+        },
+        {
+          "uid": "8a2df8bf277d",
+          "date": "2026-07-28",
+          "title": "Trump's critical minerals push faces U.S. supply shortfall - malaysiasun.com",
+          "summary": "トランプ前大統領が進める重要鉱物の国内確保戦略は米国の供給不足という課題に直面しており、この状況は中国によるレアアース輸出管理の影響を受けている。米国がレアアース自給率向上を目指す中、中国の輸出規制強化により、代替供給源確保の難しさが浮き彫りになっている。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcHd1MjA0NnBpekdNWmc0MThFbDNKLW5GZWpJT1F2VFE1Vm53c2pUbm9SUjB2TDV5SnlYT3cxZEVWYUFJWmxPOXBXanBqWFdLME1GVHQ4LXJWVlpVY2plRkNSZC1uRldSdHVTVEdxWG5KbmdTakhkVW4wMFFteUJ2VTdiSHpUWVpLWi1yVzZnTlVTd0puV1AxV1lYOVNWSUxSb2c?oc=5",
+          "added_at": "2026-08-03 00:05:13"
+        },
+        {
+          "uid": "eb3dc9e1e8aa",
+          "date": "2026-06-22",
+          "title": "China Adds MP Materials and USA Rare Earth to Its Export Control List (June 2026) - Stock Titan",
+          "summary": "中国が2026年6月にMP Materials社とUSA Rare Earth社をレアアース輸出管理リストに追加し、これらの企業への輸出制限を強化したことで、米国のレアアース供給チェーンに対する影響が懸念されている。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEx2ODlYd2hpM1RhSzNvZGJpTDdpbTJ0NFBYc2dNLXRFVjdsWDF4czBjeHNxeXVBTW9SMGpGVXltcEp2Wm1Ham9ER0lyWDFsWFotYVJtMzVUVTRlT0JDMFlCbV96NHFQY0JJQWFORFlscF8yMWpObjJPaDlGeEJKMmxYOVhZVXRHSllIVWxhc2dCUnFUek9nTWRFRjQ?oc=5",
+          "added_at": "2026-08-02 16:33:38"
+        },
         {
           "uid": "243e96af73f5",
           "date": "2026-07-05",
@@ -6001,36 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1dfYkR4UXNnY0hSajU0ckNkM3FuM2ZTYkpINEVucUpKMS1LQTRUU2gxRHNObnhsSVl3US1HMUFvN2JsMTJYQm56S0Z0M0pPOUtPUkl0S0dEdXJmZWdyTjlXU2tJd212cEd6aFV1Qm1KUzNKYU5fTkdKY0ltUnFDdDhrZ01qNW01Rm9CLUZ3?oc=5",
           "added_at": "2026-07-09 16:13:32"
-        },
-        {
-          "uid": "035003b83b0a",
-          "date": "2026-05-08",
-          "title": "Lula won’t sideline China on rare earths, tells Trump refining stays in Brazil - South China Morning Post",
-          "summary": "ブラジルのルーラ大統領は、米国のトランプ大統領に対し、レアアース精製はブラジルに留まると述べており、レアアース採掘・精製事業から中国を排除しない方針を示している。これは中国によるレアアース輸出管理に対抗する米国の圧力に対して、ブラジルが中立的な立場を維持することを示唆している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON1NUX0tlTTcwS2xQN3dlbmNsT0VicGoyYTZjcjJ6Qmwyd2U1SnpXSFJXdmZMZnQ0SnhsNWIyamlrQ1lVTW91NXM5Z1B3MzVkdjUtRS14NUJXZTliUjN2UFVyUEtiU1lsMmRKTWRpMnlvTTdubVJLMlNNMTU4Y2dPakQ3UC1CT21TUGdiMGV5b2JJTm9lNDl2YzA1ckpFU2lERzllTzBoNmNCWlJjbXZoUUVPSl8zeWN6aVExRzlvMXdhNmlzaFZCTV92QURGSm5OMm9PQdIB1AFBVV95cUxNYzlRTTFSbk91TV91RlN5Q091LVJkSUVubmRIM3RxU3hYM2dLeC00NnEzaU82UFFSbmJVb0VuaHk3NW4tR3NuSjMzN1dNYkNURVhBR3N6N09pYVhWTHlISGY4T1FTdjlpMG1qTDdYOWs2WjZ3dnNjZFdCNkFiV3QtdUxIdjVvbkNkeHptMnd3c29YdENjS0JpNGNHRzNlVHlPYW95VUNmUkMydEU4TVZjakZQUE9KOTNKOThUZ2RuZEh5cm1Lc09Bckh1M3VkZmE3VFRHMQ?oc=5",
-          "added_at": "2026-07-09 15:51:56"
-        },
-        {
-          "uid": "81d1ef23ab08",
-          "date": "2026-05-22",
-          "title": "EU Emergency Stockpile of Critical Minerals: Europe’s Strategic Response - Discovery Alert",
-          "summary": "EUは中国のレアアース輸出管理に対抗するため、戦略的に重要な鉱物の緊急備蓄制度を構築し、供給チェーンの脆弱性に対する依存度を低減させようとしている。",
-          "source": "欧州委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWZRX1JQSjVPYk43MHF2NVhwSVlJTlc3dXZnTjBSYUh1TDczN20xbHMwdWNPeHdMNkxVSndQZ1V0ekM1ZHVWYnpNR2RqYWYyaEJqZTV2OEJyaE5TdC1DQ1ZYMDRKN0Ryc1R3NzgtQ1lLM2tfXzFGQk5lSjNjSEduSjUxT2ZwNXNIRHZxSy1NVllYa0xTbnBiQVR3?oc=5",
-          "added_at": "2026-07-09 15:09:46"
-        },
-        {
-          "uid": "ea223ce579bc",
-          "date": "2026-05-20",
-          "title": "China says rare earth controls lawful, will cooperate with US on 'reasonable' concerns - Reuters",
-          "summary": "中国は希土類輸出管理が合法的であると主張しながらも、米国の「合理的な」懸念事項については協力する姿勢を示している。中国は世界の希土類供給の大部分を占める立場を活用して、輸出管理を通じた経済的・政治的影響力を行使しようとしている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTjFLMkt4OXV3MlFDWkRNWTVLWmxubUZVV3BRQS1uSWdXVkQ5VWUtTFdKS0ZfSFRoVjNGdkpvUndmRnp4M3pPWE5ObU1GMHAycnZ0cGViMlhCNEpVd0JYTHVpNlZxQTVkRktBbG9uNEFES2M4UE9iNE1SQW1NemhFTmswQ1FMZ0RxdDNETVJtQXJXZDFaRkVTOGpaRG45TnI2dzJqNjN0NzVSal9ncEp4RW5RZFB1dWNWbVl5cTBnekJURzdvbFg4VDktTVRfc3k0RWVlUC1ScERFVlU?oc=5",
-          "added_at": "2026-07-09 13:21:03"
         }
       ]
     }

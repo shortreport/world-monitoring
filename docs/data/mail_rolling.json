@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-08-02 08:56 JST",
+  "updated_at": "2026-08-03 15:06 JST",
   "total": 50,
-  "toyota_summary": "",
+  "toyota_summary": "German automakers are cutting thousands of jobs and losing ground in China, the market that made them profitable. BMW alone plans to eliminate up to 8,000 positions by the end of 2027, starting with severance incentives in October. The broader pattern is clear: Chinese competitors have steadily taken market share from German brands in China itself, reversing decades of dependence on that growth engine.\n\nFor the auto industry, this signals a fundamental shift in competitive power. German manufacturers built their global fortunes on access to Chinese consumers and joint ventures with Chinese partners. Now those same partners have become rivals with their own technology and cost advantages. The job cuts suggest companies see no quick recovery and are restructuring for a smaller, less profitable future.\n\nWatch whether other German manufacturers announce similar layoffs in coming weeks, which would indicate the problem extends across the industry rather than being company-specific.",
   "emails": [
+    {
+      "ts": "20260803_1350",
+      "sender_norm": "POLITICO",
+      "subject": "The loneliest leader in the EU",
+      "pdf": "data/pdfs/20260803_1350_The_loneliest_leader_in_the_EU.pdf",
+      "date_label": "AUG 3  13:50",
+      "read_min": 8,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260803_0802",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG Research Summary in Japanese",
+      "pdf": "data/pdfs/20260803_0802_EG_Research_Summary_in_Japanese.pdf",
+      "date_label": "AUG 3  08:02",
+      "read_min": 2,
+      "toyota": false,
+      "excerpt": ""
+    },
     {
       "ts": "20260801_2026",
       "sender_norm": "POLITICO",
@@ -92,6 +112,16 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
+    },
+    {
+      "ts": "20260801_0031",
+      "sender_norm": "POLITICO",
+      "subject": "Pro Daily Headlines",
+      "pdf": "data/pdfs/20260801_0031_Pro_Daily_Headlines.pdf",
+      "date_label": "AUG 1  00:31",
+      "read_min": 1,
+      "toyota": true,
+      "excerpt": "ドイツの自動車大手は中国によって成長させられてきたが、現在は中国がドイツ自動車産業の衰退"
     },
     {
       "ts": "20260731_2119",
@@ -697,52 +727,6 @@
       "summary_en": "BMW plans to cut up to 8,000 jobs by the end of 2027 through a voluntary redundancy program aimed at German administrative and R&D staff, with offers starting in October. The move follows weaker China sales that prompted BMW to lower its 2026 profit forecast, and mirrors similar cuts at Volkswagen, Porsche and possibly Mercedes as German automakers restructure.",
       "summary_ja": "BMWは2027年末までに最大8000人の人員削減を、希望退職プログラムを通じて実施する計画で、対象はドイツ国内の管理部門と研究開発部門の従業員となる。募集は10月に始まる予定で、この動きは中国での販売不振により2026年の利益予想を下方修正したことを受けたもの。フォルクスワーゲンやポルシェ、さらにはメルセデスも同様の人員削減を検討しており、ドイツ自動車業界全体で再編が進んでいる。",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20260729_1811",
-      "sender_norm": "Jetro",
-      "subject": "「ジェトロ・ビジネス短信」2026/07/29",
-      "pdf": "data/pdfs/20260729_1811_「ジェトロ・ビジネス短信」2026_07_29.pdf",
-      "date_label": "JUL 29  18:11",
-      "read_min": 1,
-      "toyota": true,
-      "excerpt": "タイ首相が四川省での投資拡大を呼びかけ、タイ投資委員会が成都事務所を開設し、アジア地域で",
-      "subject_en": "JETRO Business Brief 2026/07/29",
-      "html": "data/pdfs/20260729_1811_「ジェトロ・ビジネス短信」2026_07_29.html",
-      "summary_en": "Japanese automakers and suppliers continue expanding overseas footprints despite trade uncertainty: Isuzu extended its port operating contract in India's Tamil Nadu, auto parts maker Fujio Zex opened a new production line in Mexico even as USMCA renegotiation looms, and Suzuki plans a roughly ¥40 billion additional investment in its Hungary plant to add EV and battery pack production.",
-      "summary_ja": "貿易環境の不透明感が続く中でも、日系自動車関連企業の海外投資は拡大している。いすゞ自動車はインド・タミル・ナドゥ州の港湾運営契約を延長し、自動車部品のフジオーゼックスはUSMCA見直しの不透明感の中でもメキシコに新生産ラインを新設した。またスズキはハンガリー工場にEVおよびバッテリーパック生産を追加すべく、約400億円規模の追加投資を計画している。",
-      "summary_pdf": "data/pdfs/20260729_1811_「ジェトロ・ビジネス短信」2026_07_29_en.pdf"
-    },
-    {
-      "ts": "20260729_1805",
-      "sender_norm": "POLITICO",
-      "subject": "Merz’s fresh start quickly falls apart",
-      "pdf": "data/pdfs/20260729_1805_Merz’s_fresh_start_quickly_falls_apart.pdf",
-      "date_label": "JUL 29  18:05",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Merz’s fresh start quickly falls apart",
-      "html": "data/pdfs/20260729_1805_Merz’s_fresh_start_quickly_falls_apart.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20260729_1756",
-      "sender_norm": "Eurasia Group",
-      "subject": "Departure of Bank Indonesia governor increases policy uncertainty",
-      "pdf": "data/pdfs/20260729_1756_Departure_of_Bank_Indonesia_governor_increases_pol.pdf",
-      "date_label": "JUL 29  17:56",
-      "read_min": 11,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Departure of Bank Indonesia governor increases policy uncertainty",
-      "html": "data/pdfs/20260729_1756_Departure_of_Bank_Indonesia_governor_increases_pol.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ],
-  "toyota_summary_en": ""
+  ]
 }

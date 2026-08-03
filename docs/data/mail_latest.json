@@ -1,111 +1,81 @@
 {
-  "generated_at": "2026-08-02 08:55 JST",
-  "sender_count": 3,
-  "total_mails": 9,
+  "generated_at": "2026-08-03 15:06 JST",
+  "sender_count": 2,
+  "total_mails": 7,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 6,
+      "count": 1,
       "bullets": [
-        "スペイン・モロッコ国境で数万人の無証移民がセウタへ流入し、極右勢力の一時的な支持拡大をもたらす可能性",
-        "中国の政治局会議は経済成長鈍化への懸念を示す一方、短期的には大規模な政策変更なし",
-        "米国ではトランプ大統領の支持率が過去最低へ低下し、ハマス和平合意の発表によりガザ問題が後景化",
-        "米国のアプローチが日本・韓国の造船およびエネルギー事業に悪影響",
-        "米国とイランの紛争がホーシ派による紅海攻撃後に激化し、エネルギー市場への影響が懸念"
+        "米国がイランに対して実質的な対抗措置を講じられる期間は数週間のみ",
+        "ホルムズ海峡の再封鎖がエルニーニョ現象や黒海での輸送混乱と相まって、2027年6月までに主要食料商品の価格を10～18％押し上げる可能性",
+        "ブラジルのルラ大統領の4選により、短期的には財政面での現実的対応がもたらされるが、時間経過とともに政策リスクが高まる可能性",
+        "ロシアとイランを対象とした法案可決時には、関税や制裁に関する最終決定権をトランプ大統領が握ることになる決定"
       ],
       "subjects": [
         [
-          "2026-07-31",
-          "Spain: Mass border breach will likely give the far-right a one-off",
-          "data/pdfs/20260731_1924_Spain__Mass_border_breach_will_likely_give_the_far.pdf"
-        ],
-        [
-          "2026-07-31",
-          "Despite growth concerns, no major policy change in China",
-          "data/pdfs/20260731_2119_Despite_growth_concerns,_no_major_policy_change_in.pdf"
-        ],
-        [
-          "2026-08-01",
-          "This week in polling: Trump’s approval rating slides to new low",
-          "data/pdfs/20260801_0129_This_week_in_polling__Trump’s_approval_rating_slid.pdf"
-        ],
-        [
-          "2026-08-01",
-          "US political and economic update",
-          "data/pdfs/20260801_0146_US_political_and_economic_update.pdf"
-        ],
-        [
-          "2026-08-01",
-          "Iran war escalation & energy implications",
-          "data/pdfs/20260801_0147_Iran_war_escalation_&_energy_implications.pdf"
-        ],
-        [
-          "2026-08-01",
-          "Saudi oil disruptions to persist amid regional conflict in 2026",
-          "data/pdfs/20260801_0545_Saudi_oil_disruptions_to_persist_amid_regional_con.pdf"
+          "2026-08-03",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20260803_0802_EG_Research_Summary_in_Japanese.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260731_1924_Spain__Mass_border_breach_will_likely_give_the_far.pdf",
-        "data/pdfs/20260731_2119_Despite_growth_concerns,_no_major_policy_change_in.pdf",
-        "data/pdfs/20260801_0129_This_week_in_polling__Trump’s_approval_rating_slid.pdf",
-        "data/pdfs/20260801_0146_US_political_and_economic_update.pdf",
-        "data/pdfs/20260801_0147_Iran_war_escalation_&_energy_implications.pdf",
-        "data/pdfs/20260801_0545_Saudi_oil_disruptions_to_persist_amid_regional_con.pdf"
+        "data/pdfs/20260803_0802_EG_Research_Summary_in_Japanese.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
       "color": "YEL",
-      "count": 2,
+      "count": 6,
       "bullets": [
-        "EUの移民問題がセウタで再び緊張化し、ヨーロッパの移民対策における焦点に",
-        "ドイツの自動車大手3社（BMW、フォルクスワーゲン、メルセデス・ベンツ）が中国市場での販売減少により利益が大幅低下し、欧州と北米の好調で補えない状況",
-        "中国メーカーの欧州シェアが急速拡大で、2026年上半期のEU内中国車販売が前年比63%増加し全販売の約10%を占有",
-        "ドイツ自動車産業の危機が2035年エンジン禁止令やEU産業促進法の交渉と重なり、メーカーが排出ガス規制緩和のロビー活動を強化",
-        "ドイツの極右政党が自動車セクターの雇用削減を政治利用し、EUの排出ガス規制とドイツ産業保護を批判"
+        "EU新設機関がAIプラットフォームに対する安全性規制の権限を取得し、罰金や営業停止処分を行える権限を保有",
+        "ロシアのオリンピック委員会復帰がプーチン政権にとって外交的勝利である一方で、領土主張との乖離で国内の親戦争派から批判",
+        "ドイツ自動車産業が中国市場による成長から衰退への転換に直面し、政界で産業経営難への対立激化を懸念",
+        "EU加盟国が産業加速区域指定を任意化するなど、原産地基準や許認可手続きで各国の裁量を強化",
+        "スペイン首相サンチェスがモロッコ経由の移民急増対応で22のEU加盟国からの反発に直面し、EU内で孤立状態"
       ],
       "subjects": [
         [
           "2026-07-31",
-          "Inside the EU’s crisis room",
-          "data/pdfs/20260731_1403_Inside_the_EU’s_crisis_room.pdf"
+          "Meet the EU team leading the world’s first bona fide regulation of",
+          "data/pdfs/20260731_1635_Meet_the_EU_team_leading_the_world’s_first_bona_fi.pdf"
         ],
         [
           "2026-07-31",
-          "German automakers in freefall",
-          "data/pdfs/20260731_1406_German_automakers_in_freefall.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260731_1403_Inside_the_EU’s_crisis_room.pdf",
-        "data/pdfs/20260731_1406_German_automakers_in_freefall.pdf"
-      ]
-    },
-    {
-      "sender": "ビジネス短信",
-      "short": "ビジネス短",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "中国とASEANが広州市で貿易促進・サプライチェーン協力に関する交流会を開催",
-        "イタリア議員団体が浙江省長と会談し、経済交流促進に意欲を表明",
-        "天津市の2026年上半期GRP成長率が4.8％で全国を上回る",
-        "AI普及による電力需要急増に対応し、広東省の中国南方電網が供給能力を拡充",
-        "ジェトロが上海市で日韓コンテンツ・ビジネスフォーラムを開催"
-      ],
-      "subjects": [
+          "Russia’s Olympic win comes with a price for Putin",
+          "data/pdfs/20260731_1905_Russia’s_Olympic_win_comes_with_a_price_for_Putin.pdf"
+        ],
         [
-          "2026-07-31",
-          "「ジェトロ・ビジネス短信」2026/07/31",
-          "data/pdfs/20260731_1808_「ジェトロ・ビジネス短信」2026_07_31.pdf"
+          "2026-08-01",
+          "Pro Daily Headlines",
+          "data/pdfs/20260801_0031_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-08-01",
+          "EU countries drop mandatory industrial acceleration areas from",
+          "data/pdfs/20260801_0212_EU_countries_drop_mandatory_industrial_acceleratio.pdf"
+        ],
+        [
+          "2026-08-01",
+          "Ceuta crisis: 22 EU leaders gang up against Spain’s Sánchez over",
+          "data/pdfs/20260801_2026_Ceuta_crisis__22_EU_leaders_gang_up_against_Spain’.pdf"
+        ],
+        [
+          "2026-08-03",
+          "The loneliest leader in the EU",
+          "data/pdfs/20260803_1350_The_loneliest_leader_in_the_EU.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260731_1808_「ジェトロ・ビジネス短信」2026_07_31.pdf"
+        "data/pdfs/20260731_1635_Meet_the_EU_team_leading_the_world’s_first_bona_fi.pdf",
+        "data/pdfs/20260731_1905_Russia’s_Olympic_win_comes_with_a_price_for_Putin.pdf",
+        "data/pdfs/20260801_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260801_0212_EU_countries_drop_mandatory_industrial_acceleratio.pdf",
+        "data/pdfs/20260801_2026_Ceuta_crisis__22_EU_leaders_gang_up_against_Spain’.pdf",
+        "data/pdfs/20260803_1350_The_loneliest_leader_in_the_EU.pdf"
       ]
     }
   ]
