@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-08-03 15:06 JST",
   "total": 50,
-  "toyota_summary": "German automakers are cutting thousands of jobs and losing ground in China, the market that made them profitable. BMW alone plans to eliminate up to 8,000 positions by the end of 2027, starting with severance incentives in October. The broader pattern is clear: Chinese competitors have steadily taken market share from German brands in China itself, reversing decades of dependence on that growth engine.\n\nFor the auto industry, this signals a fundamental shift in competitive power. German manufacturers built their global fortunes on access to Chinese consumers and joint ventures with Chinese partners. Now those same partners have become rivals with their own technology and cost advantages. The job cuts suggest companies see no quick recovery and are restructuring for a smaller, less profitable future.\n\nWatch whether other German manufacturers announce similar layoffs in coming weeks, which would indicate the problem extends across the industry rather than being company-specific.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20260803_1350",
@@ -11,7 +11,12 @@
       "date_label": "AUG 3  13:50",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The loneliest leader in the EU",
+      "html": "data/pdfs/20260803_1350_The_loneliest_leader_in_the_EU.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260803_0802",
@@ -21,7 +26,12 @@
       "date_label": "AUG 3  08:02",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20260803_0802_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260801_2026",
@@ -177,7 +187,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "JETRO Business Brief 2026/07/31",
+      "subject_en": "\"JETRO Business Brief\" 2026/07/31",
       "html": "data/pdfs/20260731_1808_「ジェトロ・ビジネス短信」2026_07_31.html",
       "summary_en": "",
       "summary_ja": "",
@@ -502,7 +512,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Newsletter\" 2026/07/30",
+      "subject_en": "\"JETRO Business Brief\" 2026/07/30",
       "html": "data/pdfs/20260730_1809_「ジェトロ・ビジネス短信」2026_07_30.html",
       "summary_en": "",
       "summary_ja": "",
@@ -728,5 +738,6 @@
       "summary_ja": "BMWは2027年末までに最大8000人の人員削減を、希望退職プログラムを通じて実施する計画で、対象はドイツ国内の管理部門と研究開発部門の従業員となる。募集は10月に始まる予定で、この動きは中国での販売不振により2026年の利益予想を下方修正したことを受けたもの。フォルクスワーゲンやポルシェ、さらにはメルセデスも同様の人員削減を検討しており、ドイツ自動車業界全体で再編が進んでいる。",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
