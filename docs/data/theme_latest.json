@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03 00:05:17",
+  "generated_at": "2026-08-03 17:32:03",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-03 00:04:49",
+      "last_checked": "2026-08-03 17:31:40",
       "items": [
         {
           "uid": "9680284400a5",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-03 00:04:58",
+      "last_checked": "2026-08-03 17:31:49",
       "items": [
+        {
+          "uid": "c3a68006bff9",
+          "date": "2026-05-16",
+          "title": "US Wants to Ban All Chinese Cars With New Bill - ProPakistani",
+          "summary": "米国の新法案（S.4429）は中国製自動車の国内販売を禁止し、中国企業による米国自動車企業の買収も制限することで、自動車サプライチェーンのセキュリティを強化し、中国の技術流出を防ぐことを目的としています。",
+          "source": "中国政府",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUERsMjFFUUpJLXYyZUFnREIza1dTTEYzLWNEd3lpc2ZCUFFWdUxRQ2hlMXJoTWtENFN5NmQ2bUszeFoxVmNhaS00TlE2bnhLZ25jSG5xOHp1SWk3QmtJMnR2UXIzbXNySk1mVWVNOU5nQ2ZhUFNZM0RyV1VzbWJCel9ELTlXSnVxWkHSAY8BQVVfeXFMTnpiNWNPdXc3Ml9fcWk2aEkxWFpMY0l1WnBuS2FMaUJtcGRLaU5FaF9FTk5PWXdoUndMODZ1LXQwZnVLenZMOGtqbVQ2cDY1bVNfRFlBNjFSbDNucmVvYl96bWZhODFXUU83VGMwRjRGQ2plVDl2RFJvNDRiMGtZYlVyb0FzY1Jxd2NjYW01dDg?oc=5",
+          "added_at": "2026-08-03 17:31:48"
+        },
         {
           "uid": "0e6bd06bebb6",
           "date": "2026-06-26",
@@ -4010,16 +4020,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0NDYlVYMjQ3RS1LTkE4Sm1xS18zbl81SmZ4Ukt6a1VqbEVPSG5zZ1N4eTVwcTRqWlA4RUliSFVITFM2ZEpDM24zUmF2ZVhJc2NpMjNKV0k1TnlBWFZHZ0NpTGVEbjF3Y29PZk83RjRHZnUxNG9yU1MtbDNaN3F1XzcweThqM3Vxc2dyOE9ycXF2Sm42ZVNRWjc0WVhLQVlWdXh0WjBneUhTQ1k?oc=5",
           "added_at": "2026-06-27 18:11:14"
-        },
-        {
-          "uid": "31636f8c2adf",
-          "date": "2026-06-25",
-          "title": "The US Just Banned Polestar From Selling New Cars, Even The One It Builds In America - Carscoops",
-          "summary": "米国がPolestarの新車販売を禁止した理由は、同社が中国資本の影響下にあると判断され、S.4429法により中国関連自動車メーカーの販売が制限されたためです。この禁止令は、米国で製造されているPolestarの車両にも適用されています。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yc0NRYzNiZEoySXhNTVdOVFVxeVFUdGFoc2hFaTFlXzJnZGNpLWxhUUdSWmU0YURaa3ZXbWl3YTFyZkxVNUdtRGw1eGtRZHQxYUJoaWV6OFZBTWxEWGZYVDRKWW5OeFE?oc=5",
-          "added_at": "2026-06-27 18:11:14"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-03 00:05:17",
+      "last_checked": "2026-08-03 17:32:03",
       "items": [
+        {
+          "uid": "98806e7e3375",
+          "date": "2026-05-11",
+          "title": "China’s Next-Generation Industrial Policy - Rhodium Group",
+          "summary": "中国は先端産業育成を目的とした産業政策を推進する中で、レアアース等の戦略的に重要な資源の輸出管理を強化し、供給チェーンにおける支配力を高めようとしている。これは米国などの主要国に対する経済的影響力を確保するための重要な手段と位置付けられている。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FQ2pFaV9RWnI4VHVMNFVpLURTaGtuTUZJWWo1UmY3RGhjQ0lMTjFHRXNweTl3TXpwUFp1ZlhRdVpmNS03emUxNzdPQ0F0THd3dnRRVWMzeUh5bDhGb05maG5Ta1VIZjRiMGdpd2Zudml6cWp2?oc=5",
+          "added_at": "2026-08-03 17:32:02"
+        },
         {
           "uid": "ea223ce579bc",
           "date": "2026-05-20",
@@ -6020,16 +6030,6 @@
           "source": "トランプ政権",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnBUbW5STVpJQ3psNUEtbTRkd0NISnRYWFFvR2c4Z01XOXlISXJCNGZQVWVKRURxTFdaSm04VWhXYjN6LTNYUnFPWngzRU9rZ0VOOHBJZUFWMmhHMV9kMnJCQ1RXNjZWcnYxOEtUZ3FzQmc1NTc4UWxLYlR6NDZuc05LeGZHLWlGdkdCNmdiY0dWNDFtYmxBaU83MjVHUTNQSGtvRg?oc=5",
-          "added_at": "2026-07-09 16:13:32"
-        },
-        {
-          "uid": "96182f5b76d6",
-          "date": "2026-05-14",
-          "title": "All Gas, No Tax Leaves America’s Infrastructure Behind - thefuse.org",
-          "summary": "申し訳ございませんが、提供していただいたテキストには「中国レアアース輸出管理」に関する具体的な内容が含まれていません。記事のタイトルは米国のガソリン税とインフラに関するもので、中国レアアースについての情報がないため、要約することができません。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ1dfYkR4UXNnY0hSajU0ckNkM3FuM2ZTYkpINEVucUpKMS1LQTRUU2gxRHNObnhsSVl3US1HMUFvN2JsMTJYQm56S0Z0M0pPOUtPUkl0S0dEdXJmZWdyTjlXU2tJd212cEd6aFV1Qm1KUzNKYU5fTkdKY0ltUnFDdDhrZ01qNW01Rm9CLUZ3?oc=5",
           "added_at": "2026-07-09 16:13:32"
         }
       ]
