@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04 01:28:59",
+  "generated_at": "2026-08-04 16:42:12",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-04 01:28:27",
+      "last_checked": "2026-08-04 16:41:47",
       "items": [
+        {
+          "uid": "d8c1ddc973f2",
+          "date": "2026-08-03",
+          "title": "EU countries recast ‘Made in Europe’ around products, not countries - politico.eu",
+          "summary": "EU各国は欧州産業加速法案に基づき、「Made in Europe」のブランド戦略を国単位ではなく製品単位で再構築することで、欧州全体のサプライチェーンを統合し、グローバル競争力を強化する方針を打ち出した。この変更により、特定国の産業支援から欧州全体の産業エコシステム構築へとシフトし、域内統一市場の利点を最大化することが目指されている。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeEdMT0tmeXhJdjhOTHlKRnd0ZF9pOHhkYldkVnUyZTZzbHItZllUREVpM0dqQkpjYVNSYVFYUlJKcmlMVFgyd0FlWGcyWjBtTFZvU0pqZFp5TWdOSFZGWDdpaklfUUh4TlRNbUVqZF9PbGFoZEVYdXYxLTBEZ0Y3TTVQTE5DZDBoYzVqdGxDY2tpQVdmSjJoRWNPclU0Zw?oc=5",
+          "added_at": "2026-08-04 16:41:44"
+        },
         {
           "uid": "bb18d8d66e79",
           "date": "2026-08-03",
@@ -1999,16 +2009,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORWFoVmlGQW1rdXktbURYa2ZyRUVWZ2tHZzI2cFE4b3J5S3ZyZ2psNFNNRlNSc3dHYjNadXVTY2N1dVBldVpya0lvSmNTbncyTXpPR0p1dzJSVm1pSnpyTGZCNDVEZWlJZ2NDQkg0S0xwRjFvMldOcXluX0UwbXpmR215N1hzSEZHa3dOVjNnTC1GaHlRWFpVVjhLN0piZG1VT3h0eFJxZEI0UQ?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "5b6429f0c30d",
-          "date": "2026-03-04",
-          "title": "EU unveils Industrial Accelerator Act to boost ‘Made in Europe’ clean tech - electrive.com",
-          "summary": "EU（欧州連合）は「欧州産業加速法案（IAA）」を発表し、欧州製のクリーンテクノロジー産業を強化・加速させることで、米国やアジアとの国際競争力を高めることを目指しています。",
-          "source": "欧州委員会要人",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdThJSk5vX0tOTHVKbE5CMVpvdUROYnNRWlFUV2VtV01sZDZtdHVRcndZUk9LalV6ZVJfVFQ3eThTU1NBZE93NEU5QjNfYVpBRFlXU1hHN2wwaUxfcVR3M3pNZGRWdXpVQjJUVHBJcWMtSW1JcXRQRDJWM3lQMzJuM1daczNXUWR1d2dFaDFSRFNIUUo2cGN1V3hyY2I5bkVIVHpNeFo3MTRfWE56R2JN?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-04 01:28:42",
+      "last_checked": "2026-08-04 16:41:58",
       "items": [
+        {
+          "uid": "c7406e131f8a",
+          "date": "2026-08-03",
+          "title": "Ford expects Chinese vehicles will enter U.S. market in 5 to 10 years - repairerdrivennews.com",
+          "summary": "フォードは中国製車両が5～10年以内に米国市場に参入することを予想しており、これは米国接続車両安全保障法（S.4429）が対抗しようとしている中国企業による市場進出の脅威を示唆しています。同法案は、中国関連の自動車メーカーが米国市場で接続車両技術を通じて国家安全保障上のリスクをもたらすことを防ぐことを目的としています。",
+          "source": "上院議員",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmhBTktfbWdZbVRWT3h3dWpLM0pyVlp5R09SckFoQngtUTkwTXh6M1F5UkhZVTJHemthTUlrSUhrTjk0UVZZYUFkekw2dUlEYXBXVUZPMzhMMGliNDhVYkU0cGhKNGZ4aWhyVk5UZnlBNmpvdC1Ha0I5Wll2UWNuT1dnbDJBUzR2cGxDMXYxTHY1aXlUcVZHdmdiczZodmpleTZrREYtblpYalBVX09UNUNwTWtpdw?oc=5",
+          "added_at": "2026-08-04 16:41:54"
+        },
+        {
+          "uid": "ab6ea8b2c75c",
+          "date": "2026-07-21",
+          "title": "US auto industry races to purge Chinese connected-car hardware - The Detroit News",
+          "summary": "米国の自動車業界は、接続車両に使用されている中国製ハードウェアを排除するため、S.4429法への対応を急いでいます。この法律は中国関連の車両技術による安全保障上のリスクを軽減することを目的としています。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT3VjMEJ6SU9NNHhOemNrYjVQbkJHTzZTRjBIalRVN1dpTU1ieGxaYVpiTUx1Y3kyNnVsTkhlNnVEMXhzcVB5Zk13OUtsNnNLcF9pSU92UlI5aE1wOE1EelZfNGRFV2FYR1V3cjBEQjJVckJJY1pxMmRKVHJpZzhuWXJyMGc2LU5TVDkwMHJWV0lpNGJDRndmZFhSSU5Wcktya0wtb2xsMW5QWmJPUXJxVE9hU1FQenhDRXRnMjhNbVR0eXhjYU5WQzhULUpCdHpsbTd1WE5uMA?oc=5",
+          "added_at": "2026-08-04 16:41:54"
+        },
         {
           "uid": "31636f8c2adf",
           "date": "2026-06-25",
@@ -4000,26 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR2tUWUx2cUVLQ0Vtb0d5eElWX1FyeXNBODdGMllUalZmUXFrS0Z2dXpCX0Z6M09Pc2Y1YXRpZGxxWDhZUlZ0RjNkYUtxcnhScmRFM3dZdDd6RDlDYVdxNVNTcVJmaWtMRnR3OE1hRWJVUmZleGF0cWZNeWlrOHdkeVRvSV9yQTlqd2fSAYoBQVVfeXFMTkdrVFlMdnFFS0NFbW9HeXhJVl9RcnlzQTg3RjJZVGpWZlFxa0tGdnV6Ql9GejNPT3NmNWF0aWRscVg4WVJWdEYzZGFLcXJ4UnJkRTN3WXQ3ekQ5Q2FXcTVTU3FSZmlrTEZ0dzhNYUViVVJmZXhhdHFmTXlpazh3ZHlUb0lfckE5andn?oc=5",
           "added_at": "2026-06-27 23:13:52"
-        },
-        {
-          "uid": "bc6d05816d47",
-          "date": "2026-06-26",
-          "title": "US blocks Polestar sales from 2027 over China tech ties - MSN",
-          "summary": "米国はS.4429に基づき、中国との技術的つながりを理由に2027年からのポールスター販売を禁止する措置を実施し、外国の自動車メーカーに対する国家安全保障の観点からの規制を強化している。この決定は、米国の接続車両における中国技術の影響排除を目指すものである。",
-          "source": "中国政府",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYkd2bUZob0g0WUlqWlBnajA5N1pPNGFWY1RZRU5sSC1pVF9HMGtSc0owekZkMFkzd21FSXZBeVJ0THlydUFWc1gydzZKOFJRQ0pmZElkZzFpb0hzVU5TQ05nekJNRTBrbkVYU1BQNGFrYUM4YXlkbmcyUTJkOTVMNUtGUGJPbUNHMnQ0bDM2Q3dUSXZsRWFWdGZQLTNHdVF6VXZKLThUYk5KQWx0RWtOQXpSOGJpNURUaGhuMzZxYXlkenRLYk9hZExWdW45SFA2WTFyaE5FcUJ1TGN4VzEwTVkyOHF5S0RjRldtSEhR?oc=5",
-          "added_at": "2026-06-27 23:13:52"
-        },
-        {
-          "uid": "17b4331821a3",
-          "date": "2026-06-01",
-          "title": "Ottawa warns Chinese EVs pose potential surveillance risks - MSN",
-          "summary": "カナダ政府は中国製電気自動車がデータ収集機能を通じて監視リスクをもたらす可能性があると警告しており、これは米国のS.4429法案が中国製自動車の安全保障上の脅威を懸念して規制を強化しようとする動きと同調している。この警告は、接続車両が収集する位置情報や個人データが外国政府によって悪用される可能性があることを示唆している。",
-          "source": "中国政府",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQU5GQjduSWdidFdzTklwOUpKbjR1Yk51cFhmbkswYWhHY2M5dU0xT0tPZDZPbjI1SmZfSHMwc1labFJoR21ZS29zNWZIcHVwS0VlaXp1Q24yS0h1V1VPbjFjbGJfWTZFMjFCMWpkWnFmYndSV2w4TG1uRE9WUjBXQlJUOWVGRXBJdFV4V1l3TjlLRUVhRUF0MGwyQTZqUlNfOTN5NjdGUFRBajA0MExfQ0tkOWx1NW1WSkd2clR6QkZOdGd6eEdzOElybkJMVjBtdy1YM0ExNXdiNWxQWnNKVVdlR1hoN3UxU2lBRXdHeUtsQQ?oc=5",
-          "added_at": "2026-06-27 23:13:52"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-04 01:28:59",
+      "last_checked": "2026-08-04 16:42:12",
       "items": [
+        {
+          "uid": "77fe26e9bbd2",
+          "date": "2026-07-31",
+          "title": "Europas Rohstoff-Illusion: Warum die grüne Wende an China hängt – Der teure Preis der strategischen Selbsttäuschung - Xpert.Digital - Konrad Wolfenstein",
+          "summary": "欧州はエネルギー転換に必要なレアアース等の重要鉱物を中国に大きく依存しており、戦略的な自給能力の欠如が高いコストを招いている。グリーン転換の推進には、中国のレアアース輸出管理からの脱却が不可欠である。",
+          "source": "EU戦略的原材料法",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ocmdFbTVDQVFvN2xMcWpCVWpqcktjYXI0MTFtQjVJdXZWbTdHN1MyV3J2b09Cb1RwOGxWVTZQR1RIZ19KMk53S2dBNzJUSlg5QXlVbi0yb0NfYjJ1TGpuSXVuTFF1UdIBbkFVX3lxTE9vOGFib0VSNURJZW1LN19YV2tQdDg1dVIwTWFFRWtWQnV5bVMzNEU0akVDTTVqdzhsOFFaZm9XandmTmZ1SHBOeVFNWVZRMHdBbHVza0dRSmMtWjJqRVY5aV9pNU9qbzhBSXdRbjF3?oc=5",
+          "added_at": "2026-08-04 16:42:10"
+        },
         {
           "uid": "96182f5b76d6",
           "date": "2026-05-14",
@@ -6021,16 +6031,6 @@
           "source_type": "industry",
           "url": "https://www.mining.com/flynn-us-billions-for-rare-earths-missing-the-mark/",
           "added_at": "2026-07-10 05:16:58"
-        },
-        {
-          "uid": "9982f282d58e",
-          "date": "2026-06-03",
-          "title": "Europe has had enough of China’s export surge - Atlantic Council",
-          "summary": "中国の急速な輸出拡大がヨーロッパに経済的な圧力をもたらしており、EUは中国の不公正な貿易慣行に対抗する措置を強化する必要があります。",
-          "source": "欧州委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeDZGUmZjekZGOF9sOEJJUm9aX0k3SXZINVZna0x3dU5TTVpmUzdQV2VzQm45d1hqcElMZjQ2a2Z0WVZFZGhrY2s2WjR0Qm05Q29hUG1RWVhETndMUFZsVzJfRFVETldRY0V2R2IxakhnMXE4Yk5nVVdXUHcxTS0zVm1SUzloMGhBcEk0XzZjaWh0UQ?oc=5",
-          "added_at": "2026-07-09 23:03:29"
         }
       ]
     }
