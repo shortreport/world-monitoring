@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05 13:53:16",
+  "generated_at": "2026-08-05 16:42:26",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-05 13:51:18",
+      "last_checked": "2026-08-05 16:41:58",
       "items": [
         {
           "uid": "35ee5ff7a541",
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-05 13:52:08",
+      "last_checked": "2026-08-05 16:42:09",
       "items": [
+        {
+          "uid": "6ef1f7e24824",
+          "date": "2026-05-11",
+          "title": "Lawmakers Push Donald Trump to Maintain Ban on Chinese Vehicles Before Xi Jinping Meeting - Yahoo",
+          "summary": "米国の議員らが、習近平主席との会談を控えるドナルド・トランプ前大統領に対し、S.4429法案に基づく中国車への禁止措置の維持を促しており、国家安全保障上の懸念から中国製車両の米国市場参入を阻止する圧力が高まっている。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0dkd3pCVE1ETUhsS2daR1ZqbjA5V0ZjZ1pQalRZNDNFbzY1R01HdzJwVzgtYk9hd3NWY2FjbDJoXzV4WUVjUy1vd0I0cy1zMkoyZU5NOEREcWpCS2hrYUlMU2o3eU96N3FGRXdNRkRwTXJDaTdXTDFOQmd6anFuNVYzZXVmMllrZnYzQTQ3dTM?oc=5",
+          "added_at": "2026-08-05 16:42:05"
+        },
+        {
+          "uid": "ddfea14db684",
+          "date": "2026-06-25",
+          "title": "Power and peril - How Chinese EVs, solar systems, and embedded technologies threaten Canada’s national security - The Macdonald-Laurier Institute",
+          "summary": "本記事は、中国製EV、太陽光発電システム、組み込み技術がカナダの国家安全保障に及ぼすリスクについて分析しており、S.4429が米国内で進める接続車両のサイバーセキュリティ強化と同様に、北米全体で中国由来の技術的脅威に対する規制体制の必要性を示唆しています。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdWI4cXUtS2VsczBNTnVvTHh5c1pLdEVCLWY5d3hLZGk0UW51NW9tZzlvTXlqVzFQNDk5OThQSm5qdnJFQVdKc3dTRFJwQkEyZFJUSURXelcyYnB6MlNuREw2SGFfczB6M3BVUmZOR2dBTmd6QmI1Q0w2YkdGcVlmeTVRcC1FalMxSVNxM2pwM3ZPcUpPWGlFVzNZWXg4ZDlobWxYenpEN0t5eC1XSTNGektaWnZ2THZaRDhUcUR4MDZVVURaZXRqV3RTVk8xdm52?oc=5",
+          "added_at": "2026-08-05 16:42:05"
+        },
         {
           "uid": "5e040dea14e6",
           "date": "2026-06-27",
@@ -4000,26 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ1R2alB2NVhjcGpDLWkwQTZNSzBmaVpja19tNkRocFFBQ2IydTZKLUJWcl9OOHVUdVBJekU0YVk2a1laZWM2c2k1YncxRnNVaHk2MFNzT2E3cmhmWlNNdXpNZUUteTYxZHhxVmtXMk5PeXhscmd3dXc4LVlHQ1d3ZlVOc0Q5QkJjdEZrM2hxbzJFYVhXTGZPWDN5aGM4Z2d1MG1VZG11Vk9fSUFlRkxQc3dpQ3doTHN2SV9aNXFn0gHDAUFVX3lxTE9Md0RwTktUcFNOb3BDWmpodmo1N1ZnenNwOXZqSDM2VTV6bWtHbnE0ZGtrcHBVWXR3M1lmSEpwNE1mLS12QV94b252TlREOGFHZU9pQ3VWdEF3bmFGSC1RaWdFZ2N2UkFEUUt0Sk1yb0tNV3AxSWNXY3JrV0N3eXhHSTJfSlZGc1hfNDUxSzdNQlF3eENnbHlmajZCVlVGbzBsR24yOThtOVd3MUJPZno0QjhGRXI1cHI4ODJZRy0yNmEzaw?oc=5",
           "added_at": "2026-06-28 23:22:03"
-        },
-        {
-          "uid": "d95036cdb067",
-          "date": "2026-06-07",
-          "title": "Liz Cannon on How the U.S. Government Considers Chinese Tech - The Wire China",
-          "summary": "申し訳ございませんが、ご提供いただいたテキストは記事の内容がなく、タイトルのみとなっているため、「米国接続車両安全保障法（S.4429）」に関連する具体的な要約を作成することができません。記事本文をご提供いただければ、要約させていただきます。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSk5pVC15MWdKT1dOT0QzY2RBZ3JmVUgySFZWV2JVejE4Qk1MczJNaHJ1MENveDRwT2MwaXFqU2p4YnBRdFhuSTlIeDdibXFLUUFRS1FYWnY3N2JXbDJvSmhtbk14U0UtODNhMmZBUzh2endmWlZ0cDYtN25HSXl4ZlpXaFFsbFV6Y05YVDd2dXBnOTBRd29uejhXQVZNM0pNZnc?oc=5",
-          "added_at": "2026-06-28 18:41:17"
-        },
-        {
-          "uid": "ecd7ca766290",
-          "date": "2026-06-26",
-          "title": "BYD Launches ParkPay In-Car Parking Payments on Android Automotive OS for Europe - Tech Times",
-          "summary": "BYDがAndroid Automotive OSを搭載した欧州向け車両にParkPayアプリを導入することで、中国系企業による車載システムの統合が進み、S.4429が懸念する外国企業による車両通信機能の支配リスクがさらに高まる事例となっています。この動向は、米国の自動車安全保障規制強化の背景にある中国メーカーの車載ソフトウェア浸透への危機感を示しています。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc3U3TGVNbGhpTHJNUVpvSDF2TTM1NFU4aE41SW10QnNTLUdlVkRwY1VJWGhSUnlUSEl0dTc2MGlJeUJZcnpoenlNM21fNDFKQTlZcFdDeWttdTFvVnF5TWtQa3JMUjJpUjFWQkc0THo3TlUxbGs0b2lOVDRPcW8tcDJBRlA1anlOUW9ybC1BTGUyS3czTGRPM0FKek1qaHM5VkxzSC01VTZETG02N1lJYWcxTEplV3hNcWFIUjFNZ3lhYjg?oc=5",
-          "added_at": "2026-06-28 18:41:17"
         }
       ]
     },
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-05 13:53:16",
+      "last_checked": "2026-08-05 16:42:26",
       "items": [
+        {
+          "uid": "01cad41a2195",
+          "date": "2026-07-09",
+          "title": "Policy Backgrounder: Critical Minerals: Impact of Export Regulations - The Conference Board",
+          "summary": "中国がレアアースを含む戦略的に重要な鉱物の輸出を規制することで、グローバルサプライチェーンと先進技術産業に深刻な影響が生じており、各国は供給源の多様化やリサイクル技術の強化を迫られている。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjk0cXdtWTk5Z0J4VDFuUHczTkhyUk1OSlhVSGVObi1jRGhkSzk0cVdHMGw1VmFNWFNsRkJuZGtyQk9ESzg4aTYxOWk4ME4wNGJiRElvbXo3Q0p1eXBRXzRVeFJwcFVaX3JQeXFTUHIzVkVyNzBwcERkODUwRHJOWXRDWE04UHNnUkllTnZxcUtuZFIxa2xXVFJVajFVeTF0S1FDNXBCVVBkcTJYb1E?oc=5",
+          "added_at": "2026-08-05 16:42:21"
+        },
+        {
+          "uid": "98e74252c965",
+          "date": "2026-07-09",
+          "title": "Competing for inputs: how the European Union can improve critical raw materials supply security - Bruegel",
+          "summary": "欧州連合(EU)は中国によるレアアース輸出管理の影響を受けており、供給安定性を高めるため、鉱物採掘の多様化、戦略的備蓄、リサイクル技術の強化など複数の対策を講じる必要がある。中国への依存を低減し、サプライチェーンの自律性を確保することがEUの重要な課題となっている。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGdPWVNpNDBQVHNlSi05WDlwUzJ3aUpBeVhKRlhPZnRydzZoTzZweTVmQ2JrZmFYazNlelVQaHdPX2ZjRjhqQ0FLRDlvNWNDOExBU3U5SjBQVXdkdjFodERxb0pUZmI3dHRfSGRqemZDQnFWMGtDaEVsNDVRMVpENl9VWDhJSGtqVjRvS2JJSG9RZDN0TEV1OXJZcDhiMFRsbUxLS2tPMUJOTDVYT0owZW5sZ1hqcHI4Sks1RUc0ekw?oc=5",
+          "added_at": "2026-08-05 16:42:21"
+        },
+        {
+          "uid": "f3f7990ae178",
+          "date": "2026-08-04",
+          "title": "Opinion | The hidden cost of the government’s corporate buying spree - The Washington Post",
+          "summary": "申し訳ございませんが、提供いただいたタイトルと内容では、記事の本文が含まれていないため、「中国レアアース輸出管理」に関する具体的な要約を作成することができません。記事の本文をご提供ください。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQk5KVGdBUHNxZFo5WTV5Q2JSQjNDd0xZaHNBbjVFX2VCSXhIR0pDTFZNbktVTS1tM19tWC1LeFJyWEhzTG9WRlNLQWNYbU5SXzVTSGlZT0ZCLVNXZnNibS1tZG9Ka2tzLVFHYTI4eXlrdG5kZk9TYkE3UFgzZG5sVUw4RXM0SnRXS25SUGVhZlRKUUtkSkthRzV1RF8tYnRaMTdDdzVNRXFPbklyR25VNmxuSEJxamd3a3NDUVpR?oc=5",
+          "added_at": "2026-08-05 16:42:21"
+        },
+        {
+          "uid": "5d043181f539",
+          "date": "2026-07-07",
+          "title": "Lynas and JS Link Build Malaysia’s First Major Rare Earth Magnet Hub - ChemAnalyst",
+          "summary": "マレーシアのLynasとJS Linkが同国初の大規模レアアース磁石製造ハブを構築することで、中国に依存するレアアース加工産業の地理的分散が進み、中国の輸出管理の影響を緩和する動きが広がっている。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb2R5Rm5BclhxM2Exa3ViZERyUFAtMXQ2R1pZQTN5bExQU1F4NndaNldyc0YtbGtsZUZGc0VGS1I4Mlk4aUs0SFlNdm9sZVQyeXJZVWowR0phdnlMWGFlU3ZsQVdMRE9XeEtrY3ZBVFBpaEhMR1dNa1paXzZIaXJaOTU0Z1RTWlZkM2lGdllVLWJnMHdrX2Q5WkxFNVlpYWNUaU1UZXZZeWtDSkh6dFBUTDc3dy1YdENtR2J5Q0Rudw?oc=5",
+          "added_at": "2026-08-05 16:42:21"
+        },
         {
           "uid": "4b8619341ae6",
           "date": "2026-06-02",
@@ -5991,46 +6031,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzN3SGRBU2VJYVpQY0NBS01fQmNvTE5uNGVQSGNyODluTE1iYTRENnFWZ1hIdE00RC1WSjg4US1qdzZqU3J0enBtZXhhdjg1bUtqSXJmV3E2Z3c5UmlQNzg0TzJnZ2xHV1hnN0k3MERZWUNKODlvU0xqSmZMaXNfdmxJeG93Wk1nZmc?oc=5",
           "added_at": "2026-07-11 08:59:47"
-        },
-        {
-          "uid": "ffc147ff1891",
-          "date": "2026-06-29",
-          "title": "Trump, Lutnick’s sons stand to gain big profits from billion-dollar mining deal: report - New York Post",
-          "summary": "申し訳ございませんが、提供いただいたテキストは記事のタイトルのみで、具体的な内容が含まれていません。記事本文の内容を教えていただければ、「中国レアアース輸出管理」に関する文脈での要約を提供できます。",
-          "source": "米閣僚発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMUcyenB2b1c4Slp5TlVPQ00yVlU3WnNGLUlWang3X2ctWnlseEUwNHotOTR1ZktTdXRtTGlETXlMU2p6WHNuUGJ2RkRyNTJYR0FURVc0QmdoSlpaYzFrWFRUZXlTRHI5UDE0d05ROEZPaF9UdjZLUjloNnJvNzhsNjMtYkV1TnhoTUpjSlozSHdHNEFvUHRZbDZ1WC1SU0JzbURzWHpoOWthSGdTTkNRelY0Y2d4Z0g2VU5LcU1YNjY?oc=5",
-          "added_at": "2026-07-11 08:59:47"
-        },
-        {
-          "uid": "b5d104a09c13",
-          "date": "2026-05-28",
-          "title": "The Sixty-Ton Problem: Scandium Supply Chain Risk the US Defense Industrial Base - Modern War Institute -",
-          "summary": "スカンジウムは米国防産業基盤にとって重要な希土類元素であるにもかかわらず、年間供給量が約60トンに限定されており、中国がこの供給チェーンを支配することで米国の防衛産業に対する深刻なリスク要因となっている。米国はこの脆弱性に対処するため、スカンジウムを含む希土類元素の国内生産能力の確保と供給チェーンの多角化が急務である。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkZvNU9xSFN3X0FXUWdkTXZZcFJUUjJabkt5bDVKczNXRzlSUEtwRDFheFNncGVacllPbW9UbWtZVUZxamFCRlg0c2pLOFhOWWhjbUVOQ3g1UTU3bVhBNEdkNVJrVmx2Z3NQeFdESzllUlhCYmRMbG9BWHlod2EwZHRIRFZoQnpGN29fVE0wUzg2cnRuZk1ILXJaWjVCVnJybHZFNHk3RTFvQQ?oc=5",
-          "added_at": "2026-07-11 00:35:52"
-        },
-        {
-          "uid": "69dc14d3f6c5",
-          "date": "2026-05-12",
-          "title": "Chinese rare-earth miners bullish ahead of Trump-Xi summit - Nikkei Asia",
-          "summary": "中国のレアアース鉱山採掘企業は、トランプ前大統領と習近平国家主席の会談を控え、中国政府による輸出管理強化や戦略物資としての位置づけの強まりにより、経営環境の好転を見込んでいる。米中関係の緊張が深まる中で、レアアースの供給制限を通じた中国の交渉カードとしての価値が高まることへの期待が反映されている。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkdNbUNhUXJENXFYdU81WXVCX2pKTzlxU2VVWWdBbk8yUW9JSGZ0Sy1wQm4ybkxfYnRwZ2lFMHZoV0FhOXFNVUs1OUxhWXFlX1pwbU9GYzBHWDNHNHJYOTVKWWdHMzdjVmM0UEgyT1kycHA3ZXVMN0VHT3hmRkhrQzk5SDViUGh1d083X0Q4T0NCazVhcTFfNGFjZEVYbzNRYkZn?oc=5",
-          "added_at": "2026-07-10 20:35:24"
-        },
-        {
-          "uid": "24f9956ca87e",
-          "date": "2026-05-20",
-          "title": "China Rare Earth Price Index Pulls Back-But the Real Story Is Market Structure, Not Daily Volatility - Rare Earth Exchanges",
-          "summary": "中国のレアアース価格は日々の変動で注目されることが多いが、真の重要性は市場構造にあり、中国による輸出管理と市場の支配力の影響を理解することが重要である。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQVE5aUQ1aGdHOWw5bXl1aUcwVG5BN2hpVkpObFM1TmgxX1RFY2kwX2pBMVc3bVczRS01R200dFF6Y0o0MzVPMXZNVU5XYi1PZnEzOFdBaWQ0di1UbVhyeXRhVlJYWV9nSUppM3I0Qzd2N3M3aFRpSmhYejNUZ1U5U3MtWVVZS1h4YWx3RFV3SlY4ZE5mOTVoTkZrb2lHX3lYcXJ5bzR4a1lXSTR3X1NTT0xHUlBCWTBZYzl1MlhFRUJzeDBoNjFhNnVmYWMtQTUxV3c?oc=5",
-          "added_at": "2026-07-10 19:02:42"
         }
       ]
     }
