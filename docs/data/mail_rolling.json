@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-05 13:49 JST",
+  "updated_at": "2026-08-05 13:50 JST",
   "total": 50,
-  "toyota_summary": "EU member states are pushing Brussels for the right to adjust quotas for low-carbon steel and cement in the bloc's new industrial law, rather than adhering to fixed requirements. This matters because automakers depend on these materials for vehicle frames and manufacturing facilities, and stricter sourcing rules could force supply chain restructuring across Europe. Watch whether Brussels grants this flexibility or holds the line on climate standards.\n\nGermany's largest automakers are losing ground in China, the market that built their global dominance over the past two decades. The shift reflects both Chinese competitors gaining technology and domestic automakers favoring local supply chains. This signals a structural threat to European auto manufacturing, which has long relied on China as a growth engine to fund investment in electric vehicles and advanced platforms elsewhere.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20260805_1340",
@@ -10,8 +10,13 @@
       "pdf": "data/pdfs/20260805_1340_ジェトロ・メンバーズニュース第472号.pdf",
       "date_label": "AUG 5  13:40",
       "read_min": 3,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "JETRO Members News No. 472",
+      "html": "data/pdfs/20260805_1340_ジェトロ・メンバーズニュース第472号.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260805_1340_ジェトロ・メンバーズニュース第472号_en.pdf"
     },
     {
       "ts": "20260805_0817",
@@ -21,7 +26,12 @@
       "date_label": "AUG 5  08:17",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update in Japanese  (June 29, 2026)",
+      "html": "data/pdfs/20260805_0817_eg_update_in_Japanese_(June_29,_2026).html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260805_0211",
@@ -31,7 +41,12 @@
       "date_label": "AUG 5  02:11",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "De-escalation likely as US leans toward temporary fix to open strait",
+      "html": "data/pdfs/20260805_0211_De-escalation_likely_as_US_leans_toward_temporary_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260805_0021",
@@ -41,7 +56,12 @@
       "date_label": "AUG 5  00:21",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Michigan race will shape Democrats’ 2028 primary narrative",
+      "html": "data/pdfs/20260805_0021_Michigan_race_will_shape_Democrats’_2028_primary_n.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260804_2203",
@@ -51,7 +71,12 @@
       "date_label": "AUG 4  22:03",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iran Update Call - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260804_2203_Iran_Update_Call_-_EG_Conference_Call,_REMINDER.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260804_1807",
@@ -62,7 +87,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/08/04",
+      "subject_en": "JETRO Business Brief 2026/08/04",
       "html": "data/pdfs/20260804_1807_「ジェトロ・ビジネス短信」2026_08_04.html",
       "summary_en": "",
       "summary_ja": "",
@@ -718,5 +743,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
