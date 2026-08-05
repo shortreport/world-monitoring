@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04 18:15:32",
+  "generated_at": "2026-08-05 01:15:22",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-04 18:14:47",
+      "last_checked": "2026-08-05 01:14:43",
       "items": [
+        {
+          "uid": "b1188cf33926",
+          "date": "2026-08-04",
+          "title": "EU governments push to narrow “Made in Europe” preference rules in industrial draft bill - Harici",
+          "summary": "EU加盟国政府は、欧州産業加速法案における「欧州製」優遇ルールの適用範囲を縮小するよう推し進めている。この動きは、過度な保護主義を避けつつ、欧州産業の競争力強化とのバランスを図る試みである。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdW12M3ZxRUs2Tmwwc1FIa2F3WUZoajlnRnBHd2FranlkTDhfcjFtY25tLXJoWlJXUWJhN3lqeHZBSG94cnl0UVVZTURLUWtmM21vcWUxTzd6Z0tTRlVBZVRHeXYzTDZ2V0VheG5fZU5HcGM0OGhhRk9rMHJqUWFyOG9HNG5fVkRmZzZ2OUltaEg4QzZ1cHNTNXpEN1hGU3VjNm9acXcydUQySlNydmlnU1VR0gGyAUFVX3lxTE51bXYzdnFFSzZObDBzUUhrYXdZRmhqOWdGcEd3YWtqeWRMOF9yMW1jbm0tcmhaUldRYmE3eWp4dkFIb3hyeXRRVVlNREtRa2YzbW9xZTFPN3pnS1NGVUFlVEd5djNMNnZXRWF4bl9lTkdwYzQ4aGFGT2swcmpRYXI4b0c0bl9WRGZnNnY5SW1oSDhDNnVwc1M1ekQ3WEZTdWM2b1pxdzJ1RDJKU3J2aWdTVVE?oc=5",
+          "added_at": "2026-08-05 01:14:41"
+        },
         {
           "uid": "bb18d8d66e79",
           "date": "2026-08-03",
@@ -1999,16 +2009,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUlEUXBNN2dIYm92OVhYcHBjLXFfNVFqbE1aeTk2aHhxa2Faa3JKZ2k0S3lSaFgzTUd0aEl1UXg5eXlZSVhDeFUzdmo1dnZDYkRQTWtpR19XSDRrc1hUMkR0YkR4d3ItNy1YeURJVUtESndCZnloZVAtM2xaZUt6YXVlVm9kOV8tUWdXLXNXSTZDVHdzZ1piMmV0UEQ2LVlKQzFEVDNWanVjQ21aaGZrXw?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "44d06d59f5bc",
-          "date": "2026-04-28",
-          "title": "EU industry act in trouble as German bosses denounce ‘bureaucratic monster’ - politico.eu",
-          "summary": "ドイツの経営者らが産業加速法案（IAA）を「官僚的怪物」と批判し、規制負担の増加を懸念していることから、同法案の実施に支障が生じている。業界からの強い反発により、EU産業競争力強化を目指す同法案の実現が困難な状況に直面している。",
-          "source": "欧州委員会要人",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORWFoVmlGQW1rdXktbURYa2ZyRUVWZ2tHZzI2cFE4b3J5S3ZyZ2psNFNNRlNSc3dHYjNadXVTY2N1dVBldVpya0lvSmNTbncyTXpPR0p1dzJSVm1pSnpyTGZCNDVEZWlJZ2NDQkg0S0xwRjFvMldOcXluX0UwbXpmR215N1hzSEZHa3dOVjNnTC1GaHlRWFpVVjhLN0piZG1VT3h0eFJxZEI0UQ?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-04 18:15:06",
+      "last_checked": "2026-08-05 01:14:53",
       "items": [
+        {
+          "uid": "cbb820a2761c",
+          "date": "2026-08-03",
+          "title": "FCC Adds Foreign-Produced Advanced Robotic Devices and Power Inverters to Covered List, Opens Conditional Approval Process - Morgan Lewis",
+          "summary": "S.4429に基づき、FCCは外国製の高度なロボット装置と電力インバーターを規制対象に追加し、条件付き承認プロセスを開始して、米国の接続車両に関連する外国製技術のセキュリティリスク管理を強化した。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNnFUSjZjQUNqd0NIYjlwRlplbUNmcktZRWtqNVdRUlhobEtrZXZtcy1XWjFJTTdqcktsbFp5dGdhZkFheHZ6dzJoYjh0cHFRcmoyeTRGbllRSkxvYkE1R05lNzlGZ3lBWXVJWHpUZjhzNkhNajloOTBWTFRsMW5GVUFKWWhQUHIxamlaVlQzSDFEVnRKRDhiZk5ybG9xRU5CRzFRZ3hzWUxhV1BIOWNjNHdpczcwOFB5M3p2cGpPM3ZPWTdrTkhRdTVZX01JcVNCTTVrQjNCUFAzMU1CNUVpZkpJUnlHMU10dHU0WkJqVzZrVUpX?oc=5",
+          "added_at": "2026-08-05 01:14:50"
+        },
         {
           "uid": "31636f8c2adf",
           "date": "2026-06-25",
@@ -4010,16 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObEZXeUZNR1NHY1hWdi1rNnJnbGZmMUlBcDJZUnlEcXhaQ1RHM3MzcndFRHA4dmpMU2VfX2Y5ZGdySjNHYnRiSGw0cjN4N1kyTDR6T3Z1NmMxVnF6VDhuRnNrUjY0MDlJTmxJRHF4bU45a0ZqWTE4Q3cxUWlNYU9TTU02NTBtbkVhS0I3OXZqNjMzMFpnR2Vad0lzcw?oc=5",
           "added_at": "2026-06-28 13:59:49"
-        },
-        {
-          "uid": "5e040dea14e6",
-          "date": "2026-06-27",
-          "title": "Polestar US Sales Ban: Commerce Department Blocks Chinese-Owned EV Brand From 2027 Market - Tech My Money",
-          "summary": "米国商務省がS.4429関連の措置の一環として、中国系電気自動車メーカーのポールスターの2027年以降の米国市場進出を阻止する決定を下しました。同法は中国資本のEV企業に対する安全保障上の懸念から、米国市場へのアクセス制限を強化しています。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR2tUWUx2cUVLQ0Vtb0d5eElWX1FyeXNBODdGMllUalZmUXFrS0Z2dXpCX0Z6M09Pc2Y1YXRpZGxxWDhZUlZ0RjNkYUtxcnhScmRFM3dZdDd6RDlDYVdxNVNTcVJmaWtMRnR3OE1hRWJVUmZleGF0cWZNeWlrOHdkeVRvSV9yQTlqd2fSAYoBQVVfeXFMTkdrVFlMdnFFS0NFbW9HeXhJVl9RcnlzQTg3RjJZVGpWZlFxa0tGdnV6Ql9GejNPT3NmNWF0aWRscVg4WVJWdEYzZGFLcXJ4UnJkRTN3WXQ3ekQ5Q2FXcTVTU3FSZmlrTEZ0dzhNYUViVVJmZXhhdHFmTXlpazh3ZHlUb0lfckE5andn?oc=5",
-          "added_at": "2026-06-27 23:13:52"
         }
       ]
     },
@@ -4030,8 +4030,58 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-04 18:15:32",
+      "last_checked": "2026-08-05 01:15:22",
       "items": [
+        {
+          "uid": "791c7ca91208",
+          "date": "2026-05-09",
+          "title": "Trump-Xi Summit Looms: Traders Brace for Tariff Talks, Rare Earths, and Tech War Fallout - finance.biggo.com",
+          "summary": "トランプ前大統領とxi近平国家主席の首脳会談を控え、市場参加者は関税交渉やレアアース問題など米中技術戦争の影響に注視しており、中国がレアアース輸出制限を交渉カードとして使用する可能性が懸念されている。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EX3FOaXp4amt2MDI2QmRBeWdaZ0JVcDVVMlE2eTZILXFMSlhTTndiX1pZSWlqWnNRTGxpRVpIRGNQWkZ5UDVEM3pDZzFZNDhvN2dLc3o3dk9UeHJKU1BBNQ?oc=5",
+          "added_at": "2026-08-05 01:15:09"
+        },
+        {
+          "uid": "4de8be7504b4",
+          "date": "2026-06-02",
+          "title": "The Stockpile Gap: How America Can Secure the Strategic Materials It Needs to Win - Council on Foreign Relations",
+          "summary": "米国は戦略的に重要なレアアースなどの物質の備蓄不足に直面しており、中国のレアアース輸出管理に対抗するため、国内供給の多角化と備蓄の拡大が急務である。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOblkzTno3NmhkLU9ySHdkdkctc0hBVVJKZkJJeGV3SVFoNjk0ZVRBVi00UkVBMzIzLVhKOFRrQVhkZ0tpNE9UT0c5Uy1kYlNVLWhMTXNUTkYxT2thUW1mTU4zSkI1ZFpFQUNIaEo0dkNtbkxyWWdiOFBQTG53S3FJbHVma01FcGhISVZRRWk2ZktFMEFUMjloby1sZWRqb3JHaEk3cUtoT3Z6OWVvTVE?oc=5",
+          "added_at": "2026-08-05 01:15:09"
+        },
+        {
+          "uid": "fb55145c2982",
+          "date": "2026-08-03",
+          "title": "U.S. faces new pressure to build weapons without China’s rare-earth magnets - Washington Times",
+          "summary": "中国がレアアース磁石の輸出管理を強化する可能性が高まる中、米国は中国に依存しない防衛兵器の製造体制構築の必要性に迫られている。このため、米国はレアアース採掘・精製技術の国内開発やサプライチェーン多角化を急務としている。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOWZEdXpDV2szaEtfd2FwSEdJcUlTRUg0RFJlSnlPYUdONmRXd2xET1Z1RS16Mm9hOEVIZ04wdzQwNnFHVjlXYUVlRGlUZ0pxbWdQSkFMdzVQY0FXWlA5S01vbTg2RUhJMGdXRjVKSUFqZ0lDM3NqMWhCUmN5M0dxV29zR3k2SFhNczFnd0M1SE1ib0ZkejlwM2NDTXV4Y1RBU0FGWVhndzNIUGxGZWd5QzFR?oc=5",
+          "added_at": "2026-08-05 01:15:09"
+        },
+        {
+          "uid": "70c3fd5ec347",
+          "date": "2026-06-02",
+          "title": "Trump's 'weaponisation' fund put on hold after fierce opposition from Congress - The Business Standard",
+          "summary": "トランプ大統領の「兵器化」基金は議会の激しい反対により保留となった。この記事の内容から中国レアアース輸出管理との直接的な関連情報は確認できません。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMV96TUg3ZHlKcVNUdUVlbHVybGJCUkRQcWpyOVJpdDJXUnpic0FZM0lVS05jelpkQ0FURGlQbk1MZHdUX1hrZDV5UVV5ZDh0bjRLdkJpMm9VUlFrRVJpMHBhdlBveDJFMzU0OGJXNXlsaER2TFg2WXlyWktHUkpKaHpNdjdqUi1tVDUyWEk1RV8wTVNhVUJEa0lOeEZ3c2pyWUhkeHJsYTJNbzJaVmxaNU130gG3AUFVX3lxTE5CZS02eG9Xbi1qM0VJTzRiMW9FRWpRV1NZamctckxoVjJGNm9GZFdPZ2pqUGRjRFprVjVLSXJnRDlQYVdjNmkxWHdWLUJybkZQeVp4RHd3ME5GRmxLV2FFNFJ5enUwaHJaRlRULS1xY20tOG9weVhBU2VzUDJOd0RQbU4xbXZ2cXJDWUw2YzNSLXJwcUxLQUFnX2Rib2VOeWQtdHR0T0tFaGFsVVJSU212VDMwVUlOUQ?oc=5",
+          "added_at": "2026-08-05 01:15:09"
+        },
+        {
+          "uid": "7c15b9f0aeaf",
+          "date": "2026-06-29",
+          "title": "NATO's Critical Minerals Security Runs Through the Eastern Flank. Why Bucharest 9 Should Lead It - Small Wars Journal",
+          "summary": "NATOは東欧の重要鉱物資源の安全保障強化が急務であり、ブカレスト9（東欧9ヶ国）がこの地域での重要鉱物戦略の主導的役割を果たすべきだと主張している。これは中国によるレアアース等の重要鉱物輸出管理に対抗し、西側諸国の供給チェーン依存を低減させる戦略的必要性を示唆している。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYkV2N3A3UDNQWjhoV3V2djNlOENQbW95OExrazROclRhSTluNlFFbjQtM2dBaElWQmdTSXpyYzdDSHVYSDJTcDl3aW9DYWwySURKRlhLc29yVjA3Mlp6ajdDRVJnZ3JpZEo5RDJQcGpmU1pCdXFKR1BZdHFSUkZfYTljSjN1YVhNYlFYWVhMNkFuZ2liZDdLN3V5YW55TmZMZWFTSkdER0s4cU5iY3dBUUljYUQ5WkdsYXMwUnA2bEt0SUYwME0ydVFLOXl2QndS?oc=5",
+          "added_at": "2026-08-05 01:15:09"
+        },
         {
           "uid": "96182f5b76d6",
           "date": "2026-05-14",
@@ -5981,56 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjk0cXdtWTk5Z0J4VDFuUHczTkhyUk1OSlhVSGVObi1jRGhkSzk0cVdHMGw1VmFNWFNsRkJuZGtyQk9ESzg4aTYxOWk4ME4wNGJiRElvbXo3Q0p1eXBRXzRVeFJwcFVaX3JQeXFTUHIzVkVyNzBwcERkODUwRHJOWXRDWE04UHNnUkllTnZxcUtuZFIxa2xXVFJVajFVeTF0S1FDNXBCVVBkcTJYb1E?oc=5",
           "added_at": "2026-07-10 14:32:08"
-        },
-        {
-          "uid": "29faf66ea2f7",
-          "date": "2026-06-23",
-          "title": "China tightens export controls on 10 U.S. defence and rare earth firms - 디지털투데이",
-          "summary": "中国は米国防衛企業10社に対するレアアース関連製品の輸出規制を強化し、米国への報復措置として機微技術の流出制限を図っている。これにより、米国防衛産業のレアアース調達が一層困難になる見通しだ。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODg0VUlzc2ZwR3VMOHkzSnFGRWtOOF8wUXMyTGRPTXNOSEZpZXN5cm1ra2xuRF94V2JTMmtzVmJrR1kxVS12N1hPZHRYb0Uxb25JbmlUXzhiMzRvNFE0SHV1Y2hJVWx1dk5ZMGNNVWV2THBLZFU2VkNTS1dUUTcyeHBYTnNNZVpKWmt3R2hPMnBKbW1GM1NjOU5aM3FZeXhKVTdiTlNuSTR6bXVCZmUxdkxidw?oc=5",
-          "added_at": "2026-07-10 14:32:08"
-        },
-        {
-          "uid": "93289e0ba26e",
-          "date": "2026-06-09",
-          "title": "US Launches $12bn Minerals Reserve to Counter China’s Africa Grip - NewsGhana",
-          "summary": "米国がアフリカにおける中国のレアアース・鉱物資源支配に対抗するため、120億ドル規模の鉱物備蓄プログラムを立ち上げた。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDhpLXExN3E1WEQzRVNydG5hWGFCT2FPb1hRbWVjbXhIcmJsVmhuZXR3R0pCZklCTXRRXzc1V2kybWYtQ3FYck1Nb1NqdzVfc0NDQkt4cDhlUUJsNWN3QzBpdWFjNDM4Z2Y3ZzFHXzdTN2xSWjhIMkI4SGlDZ2hZTGpjdDBXUjBmU1htN3hDZFdOdVJaRHljaA?oc=5",
-          "added_at": "2026-07-10 14:19:18"
-        },
-        {
-          "uid": "4b8619341ae6",
-          "date": "2026-06-02",
-          "title": "The China-US tech truce is fragile - Financial Times",
-          "summary": "中国とアメリカの技術分野における緊張緩和は脆弱であり、中国によるレアアース輸出管理などの報復措置が引き続き経済的な対立を深める可能性がある。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRERpaUJNYzNsQTV6a3Nkdnlfeml0MXR5cmU1QVVEVkRuX2hqN2xEYjNURkdLVS1wVWxTVUxCb1Iwa2l2akh2TWNhcWxOVkc4UVRpWXJOVHpSTU9TSW5tNDRRUndxcjF5LWFKZDlvQzY?oc=5",
-          "added_at": "2026-07-10 05:16:58"
-        },
-        {
-          "uid": "cd92a74e9fc7",
-          "date": "2026-07-09",
-          "title": "Flynn: US billions for rare earths ‘missing the mark’",
-          "summary": "米国の退役将軍フリン氏は、レアアースを含む重要鉱物の安定供給を実現するには、ジュニア企業や供給業者、労働者への支援が不可欠であり、現在の米国の投資では目標を達成していないと指摘している。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/flynn-us-billions-for-rare-earths-missing-the-mark/",
-          "added_at": "2026-07-10 05:16:58"
-        },
-        {
-          "uid": "9982f282d58e",
-          "date": "2026-06-03",
-          "title": "Europe has had enough of China’s export surge - Atlantic Council",
-          "summary": "中国の急速な輸出拡大がヨーロッパに経済的な圧力をもたらしており、EUは中国の不公正な貿易慣行に対抗する措置を強化する必要があります。",
-          "source": "欧州委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeDZGUmZjekZGOF9sOEJJUm9aX0k3SXZINVZna0x3dU5TTVpmUzdQV2VzQm45d1hqcElMZjQ2a2Z0WVZFZGhrY2s2WjR0Qm05Q29hUG1RWVhETndMUFZsVzJfRFVETldRY0V2R2IxakhnMXE4Yk5nVVdXUHcxTS0zVm1SUzloMGhBcEk0XzZjaWh0UQ?oc=5",
-          "added_at": "2026-07-09 23:03:29"
         }
       ]
     }

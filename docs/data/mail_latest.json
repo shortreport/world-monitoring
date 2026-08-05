@@ -1,215 +1,69 @@
 {
-  "generated_at": "2026-08-04 18:15 JST",
-  "sender_count": 5,
-  "total_mails": 21,
+  "generated_at": "2026-08-05 13:49 JST",
+  "sender_count": 2,
+  "total_mails": 5,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 11,
+      "count": 4,
       "bullets": [
-        "マレーシアの総選挙がイスラム政党の権力奪取への狭いが拡大する道を形成",
-        "中東危機がイランとの戦争の波及にもかかわらずユーロ圏のハードランディング回避を可能に",
-        "フーシ派の攻撃と米国とイランの エスカレーションがサウジアラビアの石油輸出の部分的な混乱を継続",
-        "政府の資金不足がOpen RANを限定的に保つ一方でファーウェイに恩恵",
-        "米国と中国のAI軍拡競争が両国間の関係安定化を脅かす"
+        "イラン紛争の最新動向と米国の軍事行動の見通し、緊張緩和の道筋についての専門家による解説会議を開催",
+        "ミシガン州民主党上院議員候補のアブドゥル・エルセイドが有力で、2028年民主党予備選の叙述を形成",
+        "中東での緊張緩和が現実的となり、米国とイランがホルムズ海峡の共同管理を含む暫定的な合意に達する見通し",
+        "米国の大規模爆撃キャンペーン拡大の余地が縮小し、中東緊張緩和の確率が25%から60%に上昇"
       ],
       "subjects": [
         [
-          "2026-08-03",
-          "Islamist party has narrow but growing path to power",
-          "data/pdfs/20260803_1642_Islamist_party_has_narrow_but_growing_path_to_powe.pdf"
-        ],
-        [
-          "2026-08-03",
-          "Eurozone likely to avoid hard landing despite Iran war fallout",
-          "data/pdfs/20260803_1901_Eurozone_likely_to_avoid_hard_landing_despite_Iran.pdf"
-        ],
-        [
-          "2026-08-03",
-          "US political and economic update - EG Conference Call, REMINDER",
-          "data/pdfs/20260803_2202_US_political_and_economic_update_-_EG_Conference_C.pdf"
-        ],
-        [
-          "2026-08-03",
-          "Saudi oil disruption to continue amid regional war",
-          "data/pdfs/20260803_2319_Saudi_oil_disruption_to_continue_amid_regional_war.pdf"
-        ],
-        [
           "2026-08-04",
-          "Government underfunding will keep Open RAN marginal, benefiting",
-          "data/pdfs/20260804_0156_Government_underfunding_will_keep_Open_RAN_margina.pdf"
+          "Iran Update Call - EG Conference Call, REMINDER",
+          "data/pdfs/20260804_2203_Iran_Update_Call_-_EG_Conference_Call,_REMINDER.pdf"
         ],
         [
-          "2026-08-04",
-          "US’s July tariff overhaul hits Brazil hardest",
-          "data/pdfs/20260804_0205_US’s_July_tariff_overhaul_hits_Brazil_hardest.pdf"
+          "2026-08-05",
+          "Michigan race will shape Democrats’ 2028 primary narrative",
+          "data/pdfs/20260805_0021_Michigan_race_will_shape_Democrats’_2028_primary_n.pdf"
         ],
         [
-          "2026-08-04",
-          "Oil Markets Weekly",
-          "data/pdfs/20260804_0221_Oil_Markets_Weekly.pdf"
+          "2026-08-05",
+          "De-escalation likely as US leans toward temporary fix to open strait",
+          "data/pdfs/20260805_0211_De-escalation_likely_as_US_leans_toward_temporary_.pdf"
         ],
         [
-          "2026-08-04",
-          "APAC & Japan Conference Call: Iran war escalation & energy implic",
-          "data/pdfs/20260804_0700_APAC_&_Japan_Conference_Call__Iran_war_escalation_.pdf"
-        ],
-        [
-          "2026-08-04",
-          "Iran war escalation & energy implications - EG Conference Call,",
-          "data/pdfs/20260804_0702_Iran_war_escalation_&_energy_implications_-_EG_Con.pdf"
-        ],
-        [
-          "2026-08-04",
-          "US political and economic update",
-          "data/pdfs/20260804_0715_US_political_and_economic_update.pdf"
-        ],
-        [
-          "2026-08-04",
-          "Iran Update Call",
-          "data/pdfs/20260804_0716_Iran_Update_Call.pdf"
+          "2026-08-05",
+          "eg update in Japanese (June 29, 2026)",
+          "data/pdfs/20260805_0817_eg_update_in_Japanese_(June_29,_2026).pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260803_1642_Islamist_party_has_narrow_but_growing_path_to_powe.pdf",
-        "data/pdfs/20260803_1901_Eurozone_likely_to_avoid_hard_landing_despite_Iran.pdf",
-        "data/pdfs/20260803_2202_US_political_and_economic_update_-_EG_Conference_C.pdf",
-        "data/pdfs/20260803_2319_Saudi_oil_disruption_to_continue_amid_regional_war.pdf",
-        "data/pdfs/20260804_0156_Government_underfunding_will_keep_Open_RAN_margina.pdf",
-        "data/pdfs/20260804_0205_US’s_July_tariff_overhaul_hits_Brazil_hardest.pdf",
-        "data/pdfs/20260804_0221_Oil_Markets_Weekly.pdf",
-        "data/pdfs/20260804_0700_APAC_&_Japan_Conference_Call__Iran_war_escalation_.pdf",
-        "data/pdfs/20260804_0702_Iran_war_escalation_&_energy_implications_-_EG_Con.pdf",
-        "data/pdfs/20260804_0715_US_political_and_economic_update.pdf",
-        "data/pdfs/20260804_0716_Iran_Update_Call.pdf"
+        "data/pdfs/20260804_2203_Iran_Update_Call_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20260805_0021_Michigan_race_will_shape_Democrats’_2028_primary_n.pdf",
+        "data/pdfs/20260805_0211_De-escalation_likely_as_US_leans_toward_temporary_.pdf",
+        "data/pdfs/20260805_0817_eg_update_in_Japanese_(June_29,_2026).pdf"
       ]
     },
     {
-      "sender": "Eurasia",
-      "short": "EURAS",
+      "sender": "ジェトロ",
+      "short": "ジェトロ",
       "color": "YEL",
       "count": 1,
       "bullets": [
-        "Red海とホルムズ海峡での紛争が継続し、ブレント油価は1バレル75～95ドルの範囲内で推移",
-        "米国が2週連続でエスカレーション回避、ただし暴力激化のリスクが価格高騰を維持",
-        "7月の米国関税改革がブラジルに最大の打撃"
+        "ジェトロ・メンバーズニュース第472号の配信",
+        "中東情勢（イスラエル・米国とイランの衝突）に関する特集ページの提供",
+        "第2次トランプ政権の動向・最新ニュースの情報提供",
+        "中東情勢が世界と日本経済に与えるインパクトを分析するウェビナー開催（ライブ配信8月27日、オンデマンド配信9月3日～16日）",
+        "中東・湾岸地域の市場成長性やビジネス機会の紹介"
       ],
       "subjects": [
         [
-          "2026-08-04",
-          "Daily Research Summary - Aug 3rd, 2026",
-          "data/pdfs/20260804_0836_Daily_Research_Summary_-_Aug_3rd,_2026.pdf"
+          "2026-08-05",
+          "ジェトロ・メンバーズニュース第472号",
+          "data/pdfs/20260805_1340_ジェトロ・メンバーズニュース第472号.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260804_0836_Daily_Research_Summary_-_Aug_3rd,_2026.pdf"
-      ]
-    },
-    {
-      "sender": "Ian",
-      "short": "IAN",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "イラン戦争が段階的に拡大し、米国とイランの停戦が米イ間の覚書解釈の相違をめぐって決裂",
-        "米国はホルムズ海峡の完全開放を要求する一方、イランは通航船舶への砲撃で海峡支配を維持",
-        "米国が軍事攻撃を再開しイランへの海上封鎖を実施",
-        "ゼレンスキー大統領のワシントン訪問",
-        "米中間の持続可能性に関する協議"
-      ],
-      "subjects": [
-        [
-          "2026-08-03",
-          "eg update",
-          "data/pdfs/20260803_2052_eg_update.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260803_2052_eg_update.pdf"
-      ]
-    },
-    {
-      "sender": "POLITICO",
-      "short": "POLIT",
-      "color": "ORG",
-      "count": 6,
-      "bullets": [
-        "トランプ大統領の貿易脅迫の激化に対し、EUは報復ではなく戦略的忍耐で対応する姿勢",
-        "EU加盟国は産業加速法における「メイド・イン・ヨーロッパ」概念を製品ごとの法的システムに再構成し、第三国製品の扱いルールを明確化",
-        "低炭素鋼・セメントなどの環境クォータについて、加盟国が価格上昇と競争力低下への懸念から柔軟性と変更権を要求",
-        "EUが中米との競争維持の懸念から環境規制を段階的に緩和する傾向を継続",
-        "欧州がセキュリティリスク削減のため、警察・情報機関・医療などで使用中の米国Palantirの代替案模索を推進"
-      ],
-      "subjects": [
-        [
-          "2026-08-03",
-          "Trump keeps escalating his trade threats. This time, Europe isn’t",
-          "data/pdfs/20260803_1636_Trump_keeps_escalating_his_trade_threats._This_tim.pdf"
-        ],
-        [
-          "2026-08-03",
-          "Document: EU countries recast ‘Made in Europe’ around products,",
-          "data/pdfs/20260803_1956_Document__EU_countries_recast_‘Made_in_Europe’_aro.pdf"
-        ],
-        [
-          "2026-08-03",
-          "Document: EU countries seek flexibility over green steel and",
-          "data/pdfs/20260803_2006_Document__EU_countries_seek_flexibility_over_green.pdf"
-        ],
-        [
-          "2026-08-04",
-          "Pro Daily Headlines",
-          "data/pdfs/20260804_0031_Pro_Daily_Headlines.pdf"
-        ],
-        [
-          "2026-08-04",
-          "The Spain blame game",
-          "data/pdfs/20260804_1357_The_Spain_blame_game.pdf"
-        ],
-        [
-          "2026-08-04",
-          "Europe wants to kick its Palantir habit",
-          "data/pdfs/20260804_1655_Europe_wants_to_kick_its_Palantir_habit.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260803_1636_Trump_keeps_escalating_his_trade_threats._This_tim.pdf",
-        "data/pdfs/20260803_1956_Document__EU_countries_recast_‘Made_in_Europe’_aro.pdf",
-        "data/pdfs/20260803_2006_Document__EU_countries_seek_flexibility_over_green.pdf",
-        "data/pdfs/20260804_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260804_1357_The_Spain_blame_game.pdf",
-        "data/pdfs/20260804_1655_Europe_wants_to_kick_its_Palantir_habit.pdf"
-      ]
-    },
-    {
-      "sender": "ビジネス短信",
-      "short": "ビジネス短",
-      "color": "GRN",
-      "count": 2,
-      "bullets": [
-        "中国がスポーツ産業の5カ年規画を発表し、2030年までに産業規模を7兆元超に拡大する目標",
-        "米国がイラン追加制裁を実施し、中国企業43社をウイグル強制労働防止法リストに追加",
-        "ベトナムとインドネシアで賃金・金利政策が変化し、最低賃金引き上げと人民元建て国債発行に成功",
-        "ブラジルの自動車国内販売が前年同期比18.5％増加し、市場回復が進行",
-        "日米が量子エコシステム連携強化へ協力覚書締結し、米国がセーフガード措置を発動"
-      ],
-      "subjects": [
-        [
-          "2026-08-03",
-          "「ジェトロ・ビジネス短信」2026/08/03",
-          "data/pdfs/20260803_1855_「ジェトロ・ビジネス短信」2026_08_03.pdf"
-        ],
-        [
-          "2026-08-04",
-          "「ジェトロ・ビジネス短信」2026/08/04",
-          "data/pdfs/20260804_1807_「ジェトロ・ビジネス短信」2026_08_04.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260803_1855_「ジェトロ・ビジネス短信」2026_08_03.pdf",
-        "data/pdfs/20260804_1807_「ジェトロ・ビジネス短信」2026_08_04.pdf"
+        "data/pdfs/20260805_1340_ジェトロ・メンバーズニュース第472号.pdf"
       ]
     }
   ]
