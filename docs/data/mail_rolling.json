@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-08-06 14:57 JST",
+  "updated_at": "2026-08-06 14:58 JST",
   "total": 50,
-  "toyota_summary": "Middle East supply chain disruptions are reshaping logistics and trade flows across the region. Jetro reports that political instability is forcing companies to reassess operations, inventory placement, and routing strategies in real time. This matters because automakers source components and materials from the Middle East and route finished vehicles through regional ports. Any sustained closure or diversion of trade corridors will force costly workarounds and delay deliveries to Africa, Europe, and Asia. Watch whether the Strait of Hormuz or key ports see actual shipping halts in the next two weeks.\n\nThe EU is pressing Brussels to loosen its green steel and cement requirements in the Industrial Accelerating Act, seeking flexibility to adjust local sourcing quotas by country rather than applying uniform rules across the bloc. That softens a rule that would have forced automakers and suppliers to source exclusively from approved European mills—a cost burden many opposed. The real shift is reframing \"Made in Europe\" around bilateral trade deals with individual countries instead of bloc-wide content rules. This gives manufacturers more latitude to source from Turkey, the UK, and other partners without penalty.\n\nChina announced a five-year sports industry plan targeting 7 trillion yuan in sector growth by 2030, while also weighing fiscal stimulus and new industrial policies for the second half of the year. Watch China's fiscal announcement in the next month—if they unlock spending on infrastructure and manufacturing, it could lift demand for commercial vehicles and electric powertrains faster than expected.",
+  "toyota_summary": "ホルムズ海峡閉鎖の可能性は、中東における自動車部品輸出および原材料調達を脅かし、同地域の自動車メーカーにとって新たなサプライチェーンリスクとなっている。\n\n中国はサプライヤーへの支払いを60日以内に行うとする規定の運用を厳格化し、メディア監視を活用することで、自動車部品サプライヤーを圧迫する支払い遅延の抑制を図っている。\n\nサラワク州によるEV・半導体分野への取り組み、および理想汽車（Li Auto）のカザフスタン進出については、参考情報として付言する。",
   "emails": [
+    {
+      "ts": "20260806_1352",
+      "sender_norm": "POLITICO",
+      "subject": "Burnout in the Berlaymont",
+      "subject_en": "Burnout in the Berlaymont",
+      "html": "data/pdfs/20260806_1352_Burnout_in_the_Berlaymont.html",
+      "pdf": "data/pdfs/20260806_1352_Burnout_in_the_Berlaymont.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "AUG 6  13:52",
+      "read_min": 10,
+      "toyota": false,
+      "excerpt": ""
+    },
     {
       "ts": "20260806_1337",
       "sender_norm": "Jetro",
@@ -11,7 +26,12 @@
       "date_label": "AUG 6  13:37",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中東情勢の不安定化により、同地域でのビジネス環境が大きく変化しており、物流・貿易動向や企"
+      "excerpt": "中東情勢の不安定化により、同地域でのビジネス環境が大きく変化しており、物流・貿易動向や企",
+      "subject_en": "Notice of New JETRO Regional and Analysis Reports (August 6, 2026 Issue)",
+      "html": "data/pdfs/20260806_1337_ジェトロ地域・分析レポートの新着のご案内（2026年8月6日号）.html",
+      "summary_en": "JETRO's latest report highlights how a potential closure of the Strait of Hormuz threatens Middle East auto parts exports and raw material sourcing, adding new supply-chain risk for automakers operating in the region. Separately, Malaysia's Sarawak state is leveraging its renewable energy and hydrogen investments to attract semiconductor and electric vehicle-related industries, positioning itself as an emerging EV supply hub in Southeast Asia.",
+      "summary_ja": "ジェトロの最新レポートによれば、ホルムズ海峡封鎖のリスクが中東地域の自動車部品輸出や原料調達に影響を及ぼし、同地域で事業展開する自動車メーカーにとって新たなサプライチェーンリスクとなっている。一方、マレーシアのサラワク州は再生可能エネルギーや水素関連の投資を背景に、半導体やEV関連産業を呼び込みつつあり、東南アジアにおけるEVサプライチェーンの新たな拠点として存在感を高めている。",
+      "summary_pdf": "data/pdfs/20260806_1337_ジェトロ地域・分析レポートの新着のご案内（2026年8月6日号）_en.pdf"
     },
     {
       "ts": "20260806_1102",
@@ -21,7 +41,12 @@
       "date_label": "AUG 6  11:02",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "From Washington to Tokyo: US policy, the midterms, and global market risks - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260806_1102_From_Washington_to_Tokyo__US_policy,_the_midterms,.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260806_1000",
@@ -31,7 +56,12 @@
       "date_label": "AUG 6  10:00",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "From Washington to Tokyo: US policy, the midterms, and global market risks 「ワシントンから東京まで：米国政策・中間選挙とグローバル市場におけるリスク」（同時通訳なし） - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260806_1000_From_Washington_to_Tokyo__US_policy,_the_midterms,.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260806_0836",
@@ -41,7 +71,12 @@
       "date_label": "AUG 6  08:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Aug 5th, 2026",
+      "html": "data/pdfs/20260806_0836_Daily_Research_Summary_-_Aug_5th,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260806_0729",
@@ -51,7 +86,12 @@
       "date_label": "AUG 6  07:29",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Beijing's latest retaliation keeps summit door open",
+      "html": "data/pdfs/20260806_0729_Beijing's_latest_retaliation_keeps_summit_door_ope.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260806_0447",
@@ -61,7 +101,12 @@
       "date_label": "AUG 6  04:47",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Beneath the US-China truce, AI and commercial pressures are mounting",
+      "html": "data/pdfs/20260806_0447_Beneath_the_US-China_truce,_AI_and_commercial_pres.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260806_0435",
@@ -70,6 +115,26 @@
       "pdf": "data/pdfs/20260806_0435_CONFERENCE_CALL_NOTES__Iran_update.pdf",
       "date_label": "AUG 6  04:35",
       "read_min": 9,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "CONFERENCE CALL NOTES: Iran update",
+      "html": "data/pdfs/20260806_0435_CONFERENCE_CALL_NOTES__Iran_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20260806_0125",
+      "sender_norm": "POLITICO",
+      "subject": "Europe’s new border system works by being switched off when overwhelmed",
+      "subject_en": "Europe’s new border system works by being switched off when overwhelmed",
+      "html": "data/pdfs/20260806_0125_Europe’s_new_border_system_works_by_being_switched.html",
+      "pdf": "data/pdfs/20260806_0125_Europe’s_new_border_system_works_by_being_switched.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "AUG 6  01:25",
+      "read_min": 6,
       "toyota": false,
       "excerpt": ""
     },
@@ -81,7 +146,12 @@
       "date_label": "AUG 6  00:56",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Takaichi politically secure despite governing stumbles",
+      "html": "data/pdfs/20260806_0056_Takaichi_politically_secure_despite_governing_stum.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260806_0038",
@@ -91,7 +161,12 @@
       "date_label": "AUG 6  00:38",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The Senate race is now nearly a coin flip",
+      "html": "data/pdfs/20260806_0038_The_Senate_race_is_now_nearly_a_coin_flip.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260805_2257",
@@ -100,6 +175,26 @@
       "pdf": "data/pdfs/20260805_2257_Analysing_global_oil_&_gas_markets.pdf",
       "date_label": "AUG 5  22:57",
       "read_min": 4,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Analysing global oil & gas markets",
+      "html": "data/pdfs/20260805_2257_Analysing_global_oil_&_gas_markets.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20260805_2252",
+      "sender_norm": "POLITICO",
+      "subject": "The economic toll of Europe’s infernal summer",
+      "subject_en": "The economic toll of Europe’s infernal summer",
+      "html": "data/pdfs/20260805_2252_The_economic_toll_of_Europe’s_infernal_summer.html",
+      "pdf": "data/pdfs/20260805_2252_The_economic_toll_of_Europe’s_infernal_summer.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "AUG 5  22:52",
+      "read_min": 8,
       "toyota": false,
       "excerpt": ""
     },
@@ -111,7 +206,12 @@
       "date_label": "AUG 5  22:37",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "From Washington to Tokyo: US policy, the midterms, and global market risks 「ワシントンから東京まで：米国政策・中間選挙とグローバル市場におけるリスク」（同時通訳なし）",
+      "html": "data/pdfs/20260805_2237_From_Washington_to_Tokyo__US_policy,_the_midterms,.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260805_2233",
@@ -121,7 +221,12 @@
       "date_label": "AUG 5  22:33",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "From Washington to Tokyo: US policy, the midterms, and global market risks",
+      "html": "data/pdfs/20260805_2233_From_Washington_to_Tokyo__US_policy,_the_midterms,.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260805_2202",
@@ -131,7 +236,12 @@
       "date_label": "AUG 5  22:02",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US political and economic update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260805_2202_US_political_and_economic_update_-_EG_Conference_C.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260805_2130",
@@ -141,7 +251,12 @@
       "date_label": "AUG 5  21:30",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US-Iran de-escalation now likely",
+      "html": "data/pdfs/20260805_2130_US-Iran_de-escalation_now_likely.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260805_2002",
@@ -151,17 +266,42 @@
       "date_label": "AUG 5  20:02",
       "read_min": 1,
       "toyota": false,
+      "excerpt": "",
+      "subject_en": "Iran Update Call - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260805_2002_Iran_Update_Call_-_EG_Conference_Call,_REMINDER.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20260805_1950",
+      "sender_norm": "POLITICO",
+      "subject": "Self-driving startup approved to take taxi passengers in London",
+      "subject_en": "Self-driving startup approved to take taxi passengers in London",
+      "html": "data/pdfs/20260805_1950_Self-driving_startup_approved_to_take_taxi_passeng.html",
+      "pdf": "data/pdfs/20260805_1950_Self-driving_startup_approved_to_take_taxi_passeng.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "AUG 5  19:50",
+      "read_min": 2,
+      "toyota": false,
       "excerpt": ""
     },
     {
       "ts": "20260805_1847",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/08/05",
       "pdf": "data/pdfs/20260805_1847_「ジェトロ・ビジネス短信」2026_08_05.pdf",
       "date_label": "AUG 5  18:47",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中国は下半期の財政支出加速と新規政策の検討を検討しており、カンボジア、タイとの貿易・サプ"
+      "excerpt": "中国は下半期の財政支出加速と新規政策の検討を検討しており、カンボジア、タイとの貿易・サプ",
+      "subject_en": "JETRO Business Brief 2026/08/05",
+      "html": "data/pdfs/20260805_1847_「ジェトロ・ビジネス短信」2026_08_05.html",
+      "summary_en": "China is tightening oversight of automakers' compliance with a 60-day supplier payment rule, introducing media monitors to enforce transparency after complaints of delayed payments squeezing suppliers. Separately, Chinese EV maker Li Auto launched a new model in Kazakhstan and plans to start local production there, marking an expansion of Chinese automakers' manufacturing footprint into Central Asia.",
+      "summary_ja": "中国政府は自動車メーカーに義務付けた60日以内のサプライヤー支払いの履行状況を監督強化し、メディア監督員制度を導入して透明性確保を図る。一方、中国EVメーカーの理想汽車はカザフスタンで新型車を発売し、現地生産の開始も計画しており、中国自動車メーカーの中央アジアへの生産拠点拡大が進んでいる。",
+      "summary_pdf": "data/pdfs/20260805_1847_「ジェトロ・ビジネス短信」2026_08_05_en.pdf"
     },
     {
       "ts": "20260805_1747",
@@ -171,7 +311,12 @@
       "date_label": "AUG 5  17:47",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20260805_1747_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260805_1636",
@@ -181,7 +326,12 @@
       "date_label": "AUG 5  16:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Spain sweats over its isolated territories in Africa",
+      "html": "data/pdfs/20260805_1636_Spain_sweats_over_its_isolated_territories_in_Afri.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260805_1351",
@@ -191,7 +341,12 @@
       "date_label": "AUG 5  13:51",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The EU’s other top diplomat",
+      "html": "data/pdfs/20260805_1351_The_EU’s_other_top_diplomat.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260805_1340",
@@ -277,7 +432,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/08/04",
+      "subject_en": "JETRO Business Brief 2026/08/04",
       "html": "data/pdfs/20260804_1807_「ジェトロ・ビジネス短信」2026_08_04.html",
       "summary_en": "",
       "summary_ja": "",
@@ -592,66 +747,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20260803_0802",
-      "sender_norm": "Eurasia Group",
-      "subject": "EG Research Summary in Japanese",
-      "pdf": "data/pdfs/20260803_0802_EG_Research_Summary_in_Japanese.pdf",
-      "date_label": "AUG 3  08:02",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EG Research Summary in Japanese",
-      "html": "data/pdfs/20260803_0802_EG_Research_Summary_in_Japanese.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20260801_2026",
-      "sender_norm": "POLITICO",
-      "subject": "Ceuta crisis: 22 EU leaders gang up against Spain’s Sánchez over his migration policy",
-      "subject_en": "Ceuta crisis: 22 EU leaders gang up against Spain’s Sánchez over his migration policy",
-      "html": "data/pdfs/20260801_2026_Ceuta_crisis__22_EU_leaders_gang_up_against_Spain’.html",
-      "pdf": "data/pdfs/20260801_2026_Ceuta_crisis__22_EU_leaders_gang_up_against_Spain’.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": "",
-      "date_label": "AUG 1  20:26",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": ""
-    },
-    {
-      "ts": "20260801_0545",
-      "sender_norm": "Eurasia Group",
-      "subject": "Saudi oil disruptions to persist amid regional conflict in 2026",
-      "pdf": "data/pdfs/20260801_0545_Saudi_oil_disruptions_to_persist_amid_regional_con.pdf",
-      "date_label": "AUG 1  05:45",
-      "read_min": 6,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Saudi oil disruptions to persist amid regional conflict in 2026",
-      "html": "data/pdfs/20260801_0545_Saudi_oil_disruptions_to_persist_amid_regional_con.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20260801_0212",
-      "sender_norm": "POLITICO",
-      "subject": "EU countries drop mandatory industrial acceleration areas from IAA",
-      "subject_en": "EU countries drop mandatory industrial acceleration areas from IAA",
-      "html": "data/pdfs/20260801_0212_EU_countries_drop_mandatory_industrial_acceleratio.html",
-      "pdf": "data/pdfs/20260801_0212_EU_countries_drop_mandatory_industrial_acceleratio.html",
-      "summary_en": "The EU Council's Irish presidency has softened the Industrial Accelerator Act, making industrial acceleration zones optional rather than mandatory for member states. For automakers, a key provision survives: manufacturers can self-declare EU-origin compliance if at least 85% of vehicles assembled the prior year met the rules, offering flexibility on local content requirements. The revised text also lets national governments retain more control over permitting, foreign investment screening, and approval of partner countries for origin equivalence.",
-      "summary_ja": "EU理事会のアイルランド議長国は「産業加速化法」を緩和し、加盟国に義務付けていた産業加速地域の指定を任意とする方向で調整している。自動車業界にとって重要な点として、前年に組み立てた車両の85%以上がEU原産規則を満たしていれば自己申告で対応できる柔軟措置が維持された。さらに改訂案では、許認可手続きや外国投資審査、原産地同等性を認めるパートナー国の承認について、加盟国政府の権限を強める内容となっている。",
-      "summary_pdf": "",
-      "date_label": "AUG 1  02:12",
-      "read_min": 2,
-      "toyota": true,
-      "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "A potential Strait of Hormuz closure threatens Middle East auto parts exports and raw material sourcing, adding fresh supply-chain risk for automakers in the region.\n\nChina is tightening enforcement of its 60-day supplier payment rule, using media monitors to curb delayed payments squeezing auto suppliers.\n\nSarawak's EV/semiconductor push and Li Auto's Kazakhstan expansion are provided for reference."
 }
