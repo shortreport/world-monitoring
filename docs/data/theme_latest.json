@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07 15:10:59",
+  "generated_at": "2026-08-07 23:55:45",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-07 15:10:36",
+      "last_checked": "2026-08-07 23:55:11",
       "items": [
         {
           "uid": "f7c4a1bccc7f",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-07 15:10:44",
+      "last_checked": "2026-08-07 23:55:22",
       "items": [
+        {
+          "uid": "d6343625bbdc",
+          "date": "2026-07-25",
+          "title": "Sen. Baldwin Backs Bill Aimed at Banning Chinese Vehicles - Seehafer News",
+          "summary": "米国の上院議員ボールドウィンは、中国製車両の米国市場への参入を禁止することを目指す法案（S.4429）を支持している。この法案は、中国の自動車メーカーによるサイバーセキュリティリスクや国家安全保障上の脅威を懸念し、中国車の販売および輸入を制限することを主な内容としている。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEJ4Sld6LXJZblh2Nmd3SE5JbEVUV1ZTcFphYzk1RUNkME5XdG9UbUFpLWxkeTV6MGV4NVNOM1prT19KWVRZc3BUUXdPNjhoZnpCeGw4ajlla1hsZWJRQ3duVG05VDV4dV9UbDUyS1owYURTaVVfRUI3M0FCSDlQWW1MM1hzck1JNFdrd0g4OHRiQnV0MWc3S3hWZGREZw?oc=5",
+          "added_at": "2026-08-07 23:55:19"
+        },
         {
           "uid": "212374ea355f",
           "date": "2026-08-06",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSVF4TU00TGZhVEpuak1ab2dfSldCSUNJc2gzdmEtc3pSdV9QTDFmQmQtVHdiSGRYMnV6ZFFNdk1wQmZMdkI3aFBHR3hZU2x3dlk3Nk9ZVlJwVGdRc3VjaFVGZ1JGMnMxWDNwTFFtdnFLV0Vja2hSczNQXzl0ZmlKSXN6MnEySGEyYkk3RnFqSTNxUWp6Q2VPQjdB?oc=5",
           "added_at": "2026-06-29 04:53:08"
-        },
-        {
-          "uid": "bddc5fb82e75",
-          "date": "2026-05-12",
-          "title": "As Trump eyes ‘great things’ with Xi, US lawmakers move to block Chinese-linked vehicles over spying fears - The Statesman",
-          "summary": "米国の議員らが、中国関連の車両がスパイ行為に使用されることへの懸念から、S.4429法案を通じて中国関連車両の販売を規制しようとしており、これはトランプ前大統領が中国の習近平国家主席との関係改善を模索する動きと対照的である。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaE9KenA4b2pyeWJhTkduTk9PVndIQm5feTdta1VxbnFOc3BFX1ZzV0RyQXFMZGUyam40a0dYSy0xSW1YVHhjVE9hV2QwU0hzbEsyZS16Rk9sTUhpTlVBVmxzTV9hbl85bHhhV3h4OUxLRnBwdWtKNkEtZUhuT1ViNkNQd2JTS2ZKaWN3dDRHejM0U0l4TTJOLXVBN3N2bkRHbndCMVNZSFVfcGlGaU15ZU1nTXRXQkZLX0JaNk5ZSzVibi1UM3dLbHA3TGhPWHlGWlEySk03WGJsaTIwdEpTUGtINXJrWWVwQ2fSAe8BQVVfeXFMUGE0X051SEJqdFYtZ2kzZGdySk93QXdaM0EyQ1VvcXdfZWZVSV84VXU2YXIxR1p1el8yWVJ1c01MZ3FEQjBSN3VONl8zbUh2MlJUMEdEWUhibWpUVTRWZGJuaWVTZDQxc0hfUVp2YWh3TDNtbjdXdkJEQjAySE1ubU5sN0hBY24yMjV6Y05OaWZzZnpDRGZ3NUxqaWw2MERfNVBDNmNBNGdzQndleFU3Y0VhdFpkVy1LRWhZei11ZzJhSk02X0RrZkxkRlRfOERwYUo1a3laQy03SXd0N0hpLTh2RVo5NlZuT1R4LTR0cUE?oc=5",
-          "added_at": "2026-06-29 04:53:08"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-07 15:10:59",
+      "last_checked": "2026-08-07 23:55:45",
       "items": [
+        {
+          "uid": "f8b34d054956",
+          "date": "2026-08-07",
+          "title": "China’s Jan-July rare-earth exports fall 10%; China Rare Earth Group sees ‘upward’ market conditions - Global Times",
+          "summary": "中国の1～7月のレアアース輸出量が前年同期比10%減少する一方、中国レアアース集団は市場見通しが「上向き」だと評価している。これは中国による輸出管理の強化と国内需要の増加を背景とした戦略的な供給管理の現れと考えられる。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nVHM1SU9ONzdyUUJBOFN2QzNJZFBxLUhWcmtfUE41dUJ4VFFwT3hCZjJ2VmZkU2pJeS1telU3U0VSb3M4ZjRvejNOSE1JTExwU2ZvdWY2S1FpTU9sam9GMzN3?oc=5",
+          "added_at": "2026-08-07 23:55:39"
+        },
+        {
+          "uid": "78dfa1e5b64f",
+          "date": "2026-07-22",
+          "title": "Trump restricts supply chain waivers for US defense industrial base - Manufacturing Dive",
+          "summary": "トランプ政権は米国防産業基盤向けのサプライチェーン例外措置を制限し、防衛関連産業の重要物資調達を強化しているもので、これは中国レアアース等の重要鉱物に対する依存度低減と国内調達の推進を意図していると考えられます。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSTZHSWhKM0htLTd1dHpXbUVLTFF1RE15WWUzUWxNWDlKY245cGQ2dWoyblpOOVFaUWstcEZkcEpEMVJXWXdwMmRwQ1VCOEZ3bEFvV0dvNDV0Wm84WGxPWjgzTWN3MDRUcS05SFFjd2hUdlFodDdDSXFQREd1eGJSZ0F3MmVJQWpEV0pseUZnT0hIZ0xhZ0NZanFKRnplQlBaMWZmS3oyM2I5LVZ5Tmc1R1RfUnM1Ym1o?oc=5",
+          "added_at": "2026-08-07 23:55:39"
+        },
+        {
+          "uid": "e92e3f29acf0",
+          "date": "2026-08-07",
+          "title": "Beijing may be adapting its influence playbook for America’s infrastructure debate",
+          "summary": "中国がAIインフラなどアメリカの技術開発に関する国内議論を増幅させ、技術発展を遅延させようとする影響力作戦を展開している。これは、レアアース等の戦略的資源供給をコントロールすることで、アメリカの技術的優位性を削ぐ中国の包括的な戦略の一環と言える。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6015467-china-ai-infrastructure-influence/",
+          "added_at": "2026-08-07 23:55:39"
+        },
         {
           "uid": "2751236719a5",
           "date": "2026-06-22",
@@ -6001,36 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZEFUTVkyLWZsOFVwM0tBcmZndHNmX2dVT1YtTjZUNmRWNF9SUVRDY3B1dUhJZFlDT3dOMUtSQjdYeW1NbGY4d3ROOVgwMXpfc2NQV3NtRW9sVGo2a1ZyYlhtS2xDdXpxZE1fWHptWlBGNUt0aXFmdlZjR2VuaUJfS3BrS3ZkLVRQY0p1bjVVMUc4OW5ZTDdXQmdMVGJuYXFqZGZWdjE3dVhQUnVpdUNiX3MwTHI1SlBrSlZkZGRHbDI?oc=5",
           "added_at": "2026-07-14 01:37:43"
-        },
-        {
-          "uid": "79406885a8d4",
-          "date": "2026-07-13",
-          "title": "Trump urges Senate to pass crypto bill in honor of Graham",
-          "summary": "この記事は「中国レアアース輸出管理」とは無関係です。同記事はトランプ前大統領が故リンジー・グラハム上院議員を追悼して暗号資産規制法案の可決を呼びかけた内容であり、要約できません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/technology/5965846-trump-senate-clarity-act-graham/",
-          "added_at": "2026-07-14 01:37:43"
-        },
-        {
-          "uid": "bb2cb52a0fe2",
-          "date": "2026-06-24",
-          "title": "China’s new front in rare earth export violations: rewarding tip-offs - South China Morning Post",
-          "summary": "中国がレアアース違法輸出の告発者に報奨金を支給する制度を導入し、輸出規制の厳格化を進めています。この措置により、密輸や過度な輸出に関する情報提供を奨励し、戦略的資源であるレアアースの統制を強化しようとしています。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPXzdTU0RubE5aX2xLNF9rUnVLd1loaUZvRjJYUEo4MFpkMTFJYlR1ZnVZTjlTVERQOHBNUDFIRU1KWkhQMnZTbl93UDV6enlmRUk4ZjRJUk1WYnExUnhsRUdGNDFpVW1FalFfT2xZSGhrSTBZcm9KbFdqSlFYTUFLRUtockFpV0pLeXhkUHptQXJMMU1SMUpMTy1FZDFwM1dadVYybHFULXV0aFhsaHJHNmYxN0QxTEV1NktvX3R6Qmpqblhj?oc=5",
-          "added_at": "2026-07-13 17:19:16"
-        },
-        {
-          "uid": "f1fce3100d22",
-          "date": "2026-07-07",
-          "title": "One Year After Rare Earth Restrictions, the Winner Was Not Alternative Materials, but \"Conservation\"｜ZERO - note",
-          "summary": "中国がレアアース輸出を制限してから1年経った結果、代替材料の開発よりも、既存製品の省資源化・効率化による「保全」が実質的な解決策となったことが示されている。この事例は、技術革新よりも現有資源の最適利用が、レアアース供給不安への対応として有効であったことを示唆している。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nRUNRR3k5Rkp0Q0lweG9GS3ZqbUQ5QzdGYURzc1lfQWNhdm1tTmhsUDJsVFZxVURmUVhDRkpqTm55djItZkpLVUVzcmdZelBuelN5bjZmZm9QMXc?oc=5",
-          "added_at": "2026-07-13 17:19:16"
         }
       ]
     }
