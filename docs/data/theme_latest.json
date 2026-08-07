@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06 16:42:32",
+  "generated_at": "2026-08-07 13:37:06",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-06 16:42:11",
+      "last_checked": "2026-08-07 13:36:15",
       "items": [
+        {
+          "uid": "f7c4a1bccc7f",
+          "date": "2026-08-06",
+          "title": "‘Made in Europe’ or how to build 20 million m² of industrial space a year for a decade - The Corner .eu",
+          "summary": "欧州産業加速法案（IAA）は、今後10年間で年間2000万平方メートルの産業用スペースを建設することで、欧州での製造業基盤の強化と「メイド・イン・ヨーロッパ」の実現を目指しています。この大規模な産業インフラ投資により、欧州の産業競争力向上と経済自立を図る構想です。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaEU0bVdnNEFiM19zTVIxd1JsOWtXcVpwMUc4eU4yakNrTHA5d3VQa3VfZmFqQlJvX0ZpSTB6dEtCSEJMSGdDcTR5ZC1jSm5aUVFINklWZWtEdlMwUHBCZFl5VVM5Qk5JQS1IYjFOYjhsNkJpcmdTdE1pdTZ3OVExZzJrZkRhS0NEeTZMemMyNlk0X25jM2szVGxpWkFNOWtHaE9KUXZHUDEyNzFrTTY5cE8yWmJpd3hiOXBHWkV6dDlOOUE2Q19HaDNR?oc=5",
+          "added_at": "2026-08-07 13:36:13"
+        },
         {
           "uid": "9ad5ff1471be",
           "date": "2026-08-04",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdEtzUU1XQnhCWl9MYmsxZWVNR1BjQ3hIbkRjT2hHb1ZWcExlWkxjU1lDNFVoc1FWNEhpajh0X2JNS3Y1Rzd2TnF4WjV4QWc2YWV0azNlY0VQMEZaZno4ZnNLQURPbFJzWXR5N1FWTzV6M0JBXzM4c1VlcnBxN3M4X1lWQTg3TUhKXzMtRXlwYS1KMEZy?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "e63080fbf506",
-          "date": "2026-03-18",
-          "title": "EU Inc.: A new harmonised corporate legal regime - European Commission",
-          "summary": "# 欧州産業加速法案（IAA）の文脈での要約\n\nEU委員会は、企業の設立・運営に関する規制を統一化する「EU Inc.」制度を導入し、ヨーロッパ全域で統一された企業法体系を実現することで、企業の競争力強化と事業拡大の障壁を低減させることを目指している。この調和された法制度は、IAA が掲げるヨーロッパの産業競争力向上と事業環境の簡素化という目標に貢献する。",
-          "source": "欧州産業政策",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQzF5Q2hxaDRleGpTdm1YVm1FcHJXYjNrbzVCZDZkVzI4YlZtZFNRUVViU0YtSlpLTzc5ZDZmb25TWF9nYUtQRzJQRWdPZlVwZ00wTWR1Z3hqT2Q4RDVOaW1CZ1Zmc3BwdjdvX05YempQMUNOVjhJRzhMQXV2Mk1jMVF4TmdSZDloS0RSaVR1S2ltcUk1eFJ2ZGJlWWQ0eTJWVG5rYjRSZF9iYVVETlNoeXp0WjVmeDhHd05xNXR0TnpkVGcwalkzWjc1b2VkN3hXTlRFTEtyQzFKTzJTd2tZdmFWNTBiODQ0bVkxTENJOW1rQQ?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-06 16:42:18",
+      "last_checked": "2026-08-07 13:36:34",
       "items": [
+        {
+          "uid": "212374ea355f",
+          "date": "2026-08-06",
+          "title": "Pentagon policy chief can’t get invited to Beijing",
+          "summary": "米国が台湾への武器売却を続けることで中国が反発し、ペンタゴン政策責任者の北京招待が実現していない状況は、S.4429が懸念する中国による報復措置や安全保障上の対抗戦略を示す事例である。",
+          "source": "POLITICO",
+          "source_type": "media",
+          "url": "https://www.politico.com/news/2026/08/06/china-pentagon-colby-dissed-01025966",
+          "added_at": "2026-08-07 13:36:32"
+        },
         {
           "uid": "2fc21d97ae08",
           "date": "2026-07-22",
@@ -4010,16 +4020,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaE9KenA4b2pyeWJhTkduTk9PVndIQm5feTdta1VxbnFOc3BFX1ZzV0RyQXFMZGUyam40a0dYSy0xSW1YVHhjVE9hV2QwU0hzbEsyZS16Rk9sTUhpTlVBVmxzTV9hbl85bHhhV3h4OUxLRnBwdWtKNkEtZUhuT1ViNkNQd2JTS2ZKaWN3dDRHejM0U0l4TTJOLXVBN3N2bkRHbndCMVNZSFVfcGlGaU15ZU1nTXRXQkZLX0JaNk5ZSzVibi1UM3dLbHA3TGhPWHlGWlEySk03WGJsaTIwdEpTUGtINXJrWWVwQ2fSAe8BQVVfeXFMUGE0X051SEJqdFYtZ2kzZGdySk93QXdaM0EyQ1VvcXdfZWZVSV84VXU2YXIxR1p1el8yWVJ1c01MZ3FEQjBSN3VONl8zbUh2MlJUMEdEWUhibWpUVTRWZGJuaWVTZDQxc0hfUVp2YWh3TDNtbjdXdkJEQjAySE1ubU5sN0hBY24yMjV6Y05OaWZzZnpDRGZ3NUxqaWw2MERfNVBDNmNBNGdzQndleFU3Y0VhdFpkVy1LRWhZei11ZzJhSk02X0RrZkxkRlRfOERwYUo1a3laQy03SXd0N0hpLTh2RVo5NlZuT1R4LTR0cUE?oc=5",
           "added_at": "2026-06-29 04:53:08"
-        },
-        {
-          "uid": "2342a14caf53",
-          "date": "2026-06-01",
-          "title": "Ontario moves to ban Chinese drones amid federal tech security warning - MSN",
-          "summary": "オンタリオ州がカナダ連邦政府のテック安全保障警告を受けて中国製ドローンの禁止を進めており、これは米国のS.4429法案が推進する外国製（特に中国製）技術の制限と同様の動きを示している。両国が連携して、重要インフラやセキュリティリスク対象となる外国製技術製品の規制を強化する傾向を反映している。",
-          "source": "中国政府",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPeUVGSXZUT1dmdDJQQ2NVMS1hMlVQMHo5V0h4Y0NmcTRrMUhXaVhEc1ZoTDBGLWFld1BES2gxVV9TaDFwUlBpcklIa3N4bURsRTZ2aFV2bkprVjdfeW1UOHpub0pGOWFlb2N6bnZhdnNsekZzdEwtUFQ1bmh4VmNhdWM4NFRkTUdjT013LVdkc2pmQVRPcTY3cHU5ZlJpN3NNLVgwbDAzMDM5aV8yWl9CcnBuamFpTXd2NHZSMnMwdmoxOWZWZlMtLVltamlBaUlQTzhERUg2NlRGd1hBVWE2UW5RNzFvRVIyUDMwdXNuTHJtYnBGa2lTM3ZVc09PWC1MUHc?oc=5",
-          "added_at": "2026-06-29 04:53:08"
         }
       ]
     },
@@ -4030,8 +4030,58 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-06 16:42:32",
+      "last_checked": "2026-08-07 13:37:06",
       "items": [
+        {
+          "uid": "9ac1ca2466a7",
+          "date": "2026-08-06",
+          "title": "Shenghe Resources Holds 2026 Mid-Year Strategy Conference, Prioritizes Global Expansion and Risk Management - Rare Earth Exchanges",
+          "summary": "中国大手レアアース企業の盛和資源が2026年中盤の戦略会議を開催し、グローバル展開とリスク管理を優先課題として、中国のレアアース産業における国際競争力強化と市場支配力の維持に注力することを確認した。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQXFmbG10dVRVdENTNEhxSFJmcXh2YUJfUnBISGtkRkdNMDY0b3d3WnZoZEFsVHNtNFBrUWsyTlhRbzFJcUFHNm9yeXNkV0ZlSmNvMjkxVnY4bHRWVWF5X1JtSTBsNlV0SDV0M2lscFZOZHhzekVKak9MQnFEZTJ6Z211VE9DU3RFYTdHeUlWWGRYbndaeFhrOTNMSXE2YmpWaGhCbXNadjNCVHh4NkRDT1BCbzhBZU50bExQR0JhZ1FEdE5rVjZ2RjdUaUhoVmxwZFhOSzJXNUgzcG8?oc=5",
+          "added_at": "2026-08-07 13:36:56"
+        },
+        {
+          "uid": "d9364055f848",
+          "date": "2026-05-27",
+          "title": "How South Korea Is Trying to Increase Its Supply-Chain Resilience - Korea Economic Institute of America -",
+          "summary": "韓国は、中国のレアアース輸出管理による供給チェーンへの依存リスクを低減させるため、レアアース採掘・精製技術の国内開発やベトナム・アフリカ諸国などとの資源確保協力を強化している。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSm5TUVFFRFllTlVzRnB0RnIzTnRENFpGSEw2ZlNOZDg2dnBkeGlSVFJfVTN6OE1neFNEYWoySTRSLVNZa3oydkJwQVlKNWJFQjJVeU1PTmxyckNvamNOMW9kSDk3d0dsLTgzZ3RveWZ5eUxEWjNGZmdyV3RwTEVwNWdYYjBFQklqYjRXZ091NENFYjdSbTVn?oc=5",
+          "added_at": "2026-08-07 13:36:56"
+        },
+        {
+          "uid": "81d1ef23ab08",
+          "date": "2026-05-22",
+          "title": "EU Emergency Stockpile of Critical Minerals: Europe’s Strategic Response - Discovery Alert",
+          "summary": "EUは中国のレアアース輸出管理に対抗するため、戦略的に重要な鉱物の緊急備蓄制度を構築し、供給チェーンの脆弱性を軽減しようとしている。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWZRX1JQSjVPYk43MHF2NVhwSVlJTlc3dXZnTjBSYUh1TDczN20xbHMwdWNPeHdMNkxVSndQZ1V0ekM1ZHVWYnpNR2RqYWYyaEJqZTV2OEJyaE5TdC1DQ1ZYMDRKN0Ryc1R3NzgtQ1lLM2tfXzFGQk5lSjNjSEduSjUxT2ZwNXNIRHZxSy1NVllYa0xTbnBiQVR3?oc=5",
+          "added_at": "2026-08-07 13:36:56"
+        },
+        {
+          "uid": "26fdd4cb0450",
+          "date": "2026-08-06",
+          "title": "China Rare Earth Industry Association Surveys Zhejiang Permanent Magnet Motor Industry, Flags High NdFeB Prices as Growth Constraint - Rare Earth Exchanges",
+          "summary": "中国希土類産業協会がZhejiang地域の永久磁石モーター産業を調査し、NdFeB（ネオジム磁石）の高価格が産業成長の制約要因であることを指摘している。この調査結果は、中国のレアアース輸出管理政策がサプライチェーンのコスト上昇を招き、下流産業の競争力低下につながっていることを示唆している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeTVRdHQtdFhqUktYbXBBN093eGlTaUlReEduaXIwUnYwLUs0T2c2Y2JWX09iREhuNW16Nk1kUlVJVVVSTEJIR3Q5b0M4OEkxajh4S0NkYVo4d29tR2k5dlQtSDRzSG5DRXZuZjJTLUpUSloxM0s4czFmelRlUE9vZEstNkFHWG0tZGpUXy1CY2d2M19lV0FNTmt3ckxsX2J2OW1oX1MtTjJORnJzZHFiN2t1dmZhd1EtZGl4eXBEc3BGdXI2empNdVBSZndiSUhtaGFjcDVIcmE2LS03TXlqb09Sa3FWOEFQRjVHdWg2YjZsWDNuZ0R6d2NJd04?oc=5",
+          "added_at": "2026-08-07 13:36:56"
+        },
+        {
+          "uid": "55521f0b79e7",
+          "date": "2026-07-09",
+          "title": "Billions in US-funded rare earths flowing to Asian markets: report - Mining.com",
+          "summary": "米国が資金提供する数十億ドル規模のレアアース事業がアジア市場に流入しており、これは中国のレアアース輸出管理に対抗する米国の戦略的な供給源多様化の取り組みを示している。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNHJRMXdibG1TZ0h6OWtTY1Y5TUtfa3FjSDdrTXg1Q2YwUzVMRmlzM01oRmYxUUxpanUzMXAwZU5NdU9kWHN3NlBINnd1ZnVBTDJvNGRGQUxqbF9tei11WVMtTEdJbzl0Rm9yZ21SbmRfS0FkZE5hRU1DWmRMWUJyYjBtOGhwdVVlRWVTMGpSUndXa2c?oc=5",
+          "added_at": "2026-08-07 13:36:56"
+        },
         {
           "uid": "7bb92f20455a",
           "date": "2026-06-28",
@@ -5981,56 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVNDb1RJT2o4OFBfRE11Mnpwajg1OE5NZW9BNFVrdzRDN01uWXFLNDlUUkUya1JnbndDcmpXM2VQOUpvbUdqUGk3aVJ5TXlIN3VKbkpOTmsyLUVCNzZ5YURrN25oSGtUWnZyaUttSDJtcHVqSWJWa3RRa3RfSktHaVNyRDBTTlNmcTFaRnVQN09FRU40bkJFaFU2dEZGMDg?oc=5",
           "added_at": "2026-07-13 17:19:16"
-        },
-        {
-          "uid": "2751236719a5",
-          "date": "2026-06-22",
-          "title": "China targets U.S. rare earths firms in response to Pentagon list - The Japan Times",
-          "summary": "中国は、米国防総省がレアアース企業リストを公表したことに対抗して、米国のレアアース企業を標的にする措置を講じている。これは中国がレアアース供給を武器化し、地政学的な対抗手段として活用する戦略を示唆している。",
-          "source": "欧米メディア",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0tVT25EQWRpek9jRWhXeXIwbnhuaGtTVVJhcU1xYUlGYmhlalJXSmtEZFQtRWwwOFRyRzFFS1h2bjE4SS00b3piTnZ0T0pMbnFSRldCTVdLZUdCUWpJQS1IaG1INmpkU29hWTJUNWxacE1ScDR4Q0lRMVJNcXdVT0tsV3VVZw?oc=5",
-          "added_at": "2026-07-13 17:19:16"
-        },
-        {
-          "uid": "aaf03b591d05",
-          "date": "2026-07-12",
-          "title": "UN Ambassador Waltz: Cuba’s regime ‘is a national security threat’",
-          "summary": "この記事は中国レアアース輸出管理との関連性が認められないため、要約対象として適切ではありません。同記事はキューバの国家安全保障上の脅威とアメリカの対キューバ政策に関する内容であり、レアアース輸出管理とは無関係です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/international/5964821-cuba-national-security-threat/",
-          "added_at": "2026-07-13 17:19:16"
-        },
-        {
-          "uid": "7fe354eef4aa",
-          "date": "2026-07-12",
-          "title": "Congress should share, not shield, US artificial intelligence tech",
-          "summary": "中国が米国の輸出規制を回避するため、GPU の代わりに CPU 標準マイクロプロセッサのネットワークを使用して世界最速のスーパーコンピュータ「LineShine」を開発したことは、レアアースを含む先端技術の輸出管理における規制の実効性が限定的であることを示している。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/technology/5963691-china-tech-race-supercomputer/",
-          "added_at": "2026-07-13 17:19:16"
-        },
-        {
-          "uid": "da031c249518",
-          "date": "2026-05-20",
-          "title": "MOFCOM elaborates on eight preliminary outcomes of China-US economic, trade consultations covering issues of tariffs, agricultural trade, rare earth export controls, aircraft trade - Global Times",
-          "summary": "中国商務省（MOFCOM）が米国との経済・貿易協議における予備的成果として、関税、農業貿易、レアアース輸出管理、航空機貿易を含む8項目の合意内容を明らかにした。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FODBuN1RNaUliRi1NcFhmUV93Y0JaZzhlMURMRm5oOWF3WGFSQ0FCc2RqUUpOSGlzaUZJQlVhd2F0OEQ4YU8wVGxkZFJZdXQ3NnVLdVZIaHJ5X2dfNGxPVkVn?oc=5",
-          "added_at": "2026-07-13 00:00:05"
-        },
-        {
-          "uid": "1a667c55d244",
-          "date": "2026-04-23",
-          "title": "US working to break China's rare earth 'chokehold', says Commerce Secretary Lutnick - ANI News",
-          "summary": "米国通商長官ルトニックは、中国がレアアース市場を支配している状況から脱却するため、米国がレアアース産業の構築に取り組んでいると述べた。米国は中国のレアアース輸出管理による支配力を打破することを目指している。",
-          "source": "米閣僚発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdlMzd0R4TjAybWV3S0lHelBFNGdMYVhPSnpWOXhSdDd5VlpCZ2VZVVh3SDc2R24yLWFvNTl0QWExZTdibmVXSGJhaEJmYXhDdU5MZXlyX0J4MWczXzFXZHVvQmh4cE93dDBoSmhUcWlqMFlvWFo5bERjM0o0WFFTQ2RuRlVlZ0F0WWJrSkxYMEQ4LXVnZ3RGUXZTbmVHVkJqendZZm5sV1doWnlIeHJlaWtzX3YtLVdnbTdQUnUyOWt0dURmU0pQMzFn?oc=5",
-          "added_at": "2026-07-12 16:30:20"
         }
       ]
     }
