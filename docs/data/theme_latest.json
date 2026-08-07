@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07 13:37:06",
+  "generated_at": "2026-08-07 15:10:59",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-07 13:36:15",
+      "last_checked": "2026-08-07 15:10:36",
       "items": [
         {
           "uid": "f7c4a1bccc7f",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-07 13:36:34",
+      "last_checked": "2026-08-07 15:10:44",
       "items": [
         {
           "uid": "212374ea355f",
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-07 13:37:06",
+      "last_checked": "2026-08-07 15:10:59",
       "items": [
+        {
+          "uid": "2751236719a5",
+          "date": "2026-06-22",
+          "title": "China targets U.S. rare earths firms in response to Pentagon list - The Japan Times",
+          "summary": "中国は米国防総省がレアアース企業リストを公表したことに対抗して、米国のレアアース企業を標的とした措置を講じている。これは中国がレアアース輸出管理を戦略的に活用し、米国との対立を深めている動きを示している。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0tVT25EQWRpek9jRWhXeXIwbnhuaGtTVVJhcU1xYUlGYmhlalJXSmtEZFQtRWwwOFRyRzFFS1h2bjE4SS00b3piTnZ0T0pMbnFSRldCTVdLZUdCUWpJQS1IaG1INmpkU29hWTJUNWxacE1ScDR4Q0lRMVJNcXdVT0tsV3VVZw?oc=5",
+          "added_at": "2026-08-07 15:10:56"
+        },
         {
           "uid": "9ac1ca2466a7",
           "date": "2026-08-06",
@@ -6020,16 +6030,6 @@
           "source": "中国商務省",
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nRUNRR3k5Rkp0Q0lweG9GS3ZqbUQ5QzdGYURzc1lfQWNhdm1tTmhsUDJsVFZxVURmUVhDRkpqTm55djItZkpLVUVzcmdZelBuelN5bjZmZm9QMXc?oc=5",
-          "added_at": "2026-07-13 17:19:16"
-        },
-        {
-          "uid": "4acfafe98e9a",
-          "date": "2026-04-16",
-          "title": "US Senate narrowly overturns Minnesota mining ban, sending bill to Trump - Mining.com",
-          "summary": "米国上院がミネソタ州の鉱山採掘禁止令をわずかな差で覆し、トランプ大統領に法案を送付したことで、米国内でのレアアース採掘可能性が広がり、中国へのレアアース供給依存を減らす重要なステップが進展した。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVNDb1RJT2o4OFBfRE11Mnpwajg1OE5NZW9BNFVrdzRDN01uWXFLNDlUUkUya1JnbndDcmpXM2VQOUpvbUdqUGk3aVJ5TXlIN3VKbkpOTmsyLUVCNzZ5YURrN25oSGtUWnZyaUttSDJtcHVqSWJWa3RRa3RfSktHaVNyRDBTTlNmcTFaRnVQN09FRU40bkJFaFU2dEZGMDg?oc=5",
           "added_at": "2026-07-13 17:19:16"
         }
       ]
