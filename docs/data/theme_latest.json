@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08 14:44:30",
+  "generated_at": "2026-08-08 23:34:45",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-08 14:43:54",
+      "last_checked": "2026-08-08 23:34:21",
       "items": [
         {
           "uid": "f7c4a1bccc7f",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-08 14:44:05",
+      "last_checked": "2026-08-08 23:34:28",
       "items": [
         {
           "uid": "d6343625bbdc",
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-08 14:44:30",
+      "last_checked": "2026-08-08 23:34:45",
       "items": [
+        {
+          "uid": "a49c529a6956",
+          "date": "2026-08-08",
+          "title": "Trump Unveils $3 Billion Mining Project to Cut Chinese Reliance - 조선일보",
+          "summary": "トランプ前大統領が中国への依存を削減するため30億ドルの鉱山プロジェクトを発表し、レアアースなどの重要鉱物の国内採掘を強化することで、中国のレアアース輸出管理による影響を回避する戦略を示した。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUk1QNFlTWmQ1Q2c3WEVvRDZyQVBtUlVrQUkyck5jOGlvY2pEUm1vMndISFdQU1duYW9RTmdIems3V0pLNUcwOEVmSGZGa0xEeGsxMm91cHZGd3FXamQ1YktrVHZGa0NMcFZLZFpJa1BfamdyZE5rc0hEd0NlT250MTlwVnZkMFg2?oc=5",
+          "added_at": "2026-08-08 23:34:40"
+        },
+        {
+          "uid": "84b07b60216c",
+          "date": "2026-08-08",
+          "title": "Trump’s Critical Minerals Summit: Reshaping Western Supply Chains - Discovery Alert",
+          "summary": "トランプ前大統領が開催する重要鉱物サミットは、中国に依存する西側諸国のレアアース・重要鉱物サプライチェーンを再構築し、中国による輸出管理への対抗措置として独立した供給網の構築を目指すものである。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkZIM1N0ZFZPV2FnR25Qa2d3N0o4dW9kYzh2bnhtUFpDQTVQQkFCaWRDbjhoanNaOG9PT25oOTJaVllKVWYxTDJsWHZkb1E0Z1dab25NNzYwdDlqeGxqR2hjUFNRLUNTNzMzeTktN1NFZ0IyWE45a3A3RFYyQ1RRNG80VzRXTDZtWFcxX19TZVYzeFAw?oc=5",
+          "added_at": "2026-08-08 23:34:40"
+        },
+        {
+          "uid": "177434b17299",
+          "date": "2026-07-28",
+          "title": "Trump may need to allow Chinese minerals as U.S. industry struggles to meet 2027 deadline - The Japan Times",
+          "summary": "トランプ政権は2027年の期限までに国内のレアアース供給を確保できない可能性があるため、中国産鉱物の輸入を認める必要に迫られるかもしれません。米国の産業が自給体制の構築に苦戦している現状から、中国への依存継続が現実的な選択肢となる懸念があります。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUQ0Z0xobmxjV1hDZ01MdzJoSGpZcGY4OTZmX3MyRExpV1VNTVV1WFNzSU04eXl6NUZEcEVCck5IWExyanA4UklGaGtpMjh3SGgtNzF1NmZBczlkaG9qSHJka1NfWS1WRHhEN3pLX2RmM3hXS3p2Q0RJOThpX0VhaW9NOFU0SGM?oc=5",
+          "added_at": "2026-08-08 23:34:40"
+        },
         {
           "uid": "f66b31e80de3",
           "date": "2026-08-07",
@@ -6001,36 +6031,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaEtZOWRId2ZHYWNqbkhtM0plXzktRWFYRVFuUzZDam44ZFZ0WVVyQmRsZjQ3MmhaTEVBeHI4N0g0WmJhc0RpSmo1Y0w3Q2RFSGozNlJBd0NDaGszRG01ZTVwcGllVjNET1dkdEtLSS1TSWQxd2VaYS1SRnBTTVlfN1pKM3FKbjV2MjVOaG9WaW51azB2NHR3VF9vYkhabE9meGJUNmFQRlFzNTdaQ09wX211djdhQXdmT1RMdXdhOUxzb0JncmZMWjZVVmFpbGctdUlncUxJWTlwQ05zZ1lRdzhid1FlUFQtSlJMbHZLeHFhVk90b3daeVBHOHM3dFNvMlhma0dLdzM?oc=5",
           "added_at": "2026-07-14 16:12:11"
-        },
-        {
-          "uid": "e397a20dddb0",
-          "date": "2026-05-11",
-          "title": "China's Rare Earth Price Machine Reaccelerates-But Question What the Numbers Really Mean - Rare Earth Exchanges",
-          "summary": "中国のレアアース価格が再び上昇傾向を示しているが、実際の市場規模や取引量がこの価格上昇を反映しているかについて疑問の声が上がっている。中国がレアアース輸出を管理・制限する手段として価格操作を活用している可能性が指摘されている。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT1o0MFE0X3FQTng3bFN1Vlk3clRpNkpGLUJnYVc4MGNyTXM5ckxsbU5HS2RydWVXWF9hT3hzXzFhQno3cjIwTXpiXzdra2JkOFVoUUVvNDA1NE1mblR6RXYzdzdBdnVzUWJFYnBHQnJPTWRWZWxSbkRFZXAzalhER1ZYbmJNQmdndUZfSVJZQ2ZhUHlpLUcwdXFFbDJ6Q25PanlBTHEyMEFRUEVKMG9OdHRqeHUwSEtkdlN5Z2VfVk40QQ?oc=5",
-          "added_at": "2026-07-14 16:12:11"
-        },
-        {
-          "uid": "032448499121",
-          "date": "2026-06-23",
-          "title": "China limits trade with 56 US defense, aerospace firms - Manufacturing Dive",
-          "summary": "中国が米国の防衛・航空宇宙関連企業56社との貿易を制限し、レアアースを含む戦略的に重要な物質の輸出管理を強化している。この措置は米国による対中制裁への報復として機能しており、中国がレアアース供給を外交・経済的な圧力ツールとして活用していることを示している。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTRtTkxOMjd0ZGlkNS1jT191OGxfWWdxSC1uZTdRa1J2dzRyWHZEMmxodkRNUXNfQ0JJY2hTOU04MkpYakYzODRtUkYtamFqUTZ0X2lLNm9xWWFLa2dhMW95WE1mblB4alVNTUZCYlpUcFpaOXhVaGt6b3JQMjFIb1N1bC01cmFHX3dQTTdZcllVNXMxTGxOa1JzaEhGcXJPYnFOWHR6b2FZMGJCbXpfWXFZRmY?oc=5",
-          "added_at": "2026-07-14 16:12:11"
-        },
-        {
-          "uid": "28655cfe6ca6",
-          "date": "2026-06-22",
-          "title": "China targets US rare earth and other firms with export controls - Reuters",
-          "summary": "中国がレアアース関連企業を含む米国企業に対して輸出管理を強化し、報復措置として制裁を実施している。この措置は米国による対中制裁に対抗する形で、技術関連産業に対する中国の輸出規制が拡大していることを示している。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTFRNGkzaENWU2dUd0hseGlKUjVhT0NlVVAwRUVlcFRPQW5BdEZhWVdwSFQ0ZGJaaTlYcXFScEdkUGFRcWdyUFpyZHhVU1dCdzE0bUk3RHQwdU5TVnZGa25IUGN1X01qRXo4SU9Nd2hKT0pEYVJNM1VLdXdaaHdrSHh6R2MySFp1RTdwc3YxUC1mN2ZrbVBLYkg2LUg1N3BOZk84TGRDX2NQcWM3M1BOSlc0eFZZZw?oc=5",
-          "added_at": "2026-07-14 01:37:43"
         }
       ]
     }
