@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07 23:55:45",
+  "generated_at": "2026-08-08 14:44:30",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-07 23:55:11",
+      "last_checked": "2026-08-08 14:43:54",
       "items": [
         {
           "uid": "f7c4a1bccc7f",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-07 23:55:22",
+      "last_checked": "2026-08-08 14:44:05",
       "items": [
         {
           "uid": "d6343625bbdc",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-07 23:55:45",
+      "last_checked": "2026-08-08 14:44:30",
       "items": [
+        {
+          "uid": "f66b31e80de3",
+          "date": "2026-08-07",
+          "title": "China rare-earth exports to Japan, US plunge after restrictions - Nikkei Asia",
+          "summary": "中国が希土類輸出を制限した結果、日本と米国への輸出が急減しており、両国はサプライチェーンの脆弱性に直面している。これにより日本や米国は代替供給源の確保や備蓄の強化を迫られている。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaktXeEdTcTdPVGFZVVZwYlNkOFVvS1dDSHU3YmktMWtZMG1pbUhNdzhydmgxa2NqZGR6Z0swUEJ1dlhMeldzUjh1TUNoVHhDWUtlSkpjeVlvOC0wMVlRVDROUmFZUmZIRm1ZT0NtVUsyakRSUFBIeWRiMFkyZWhERzJkMHE1X19jTEs2Y1VIRG83a2twclN5WUE1akZabHRWODYyZ1Mwc3U?oc=5",
+          "added_at": "2026-08-08 14:44:25"
+        },
+        {
+          "uid": "2f7c4284d2ee",
+          "date": "2026-08-07",
+          "title": "Trump unveils $2B critical minerals push - Metal Tech News",
+          "summary": "トランプ前大統領が20億ドルの重要鉱物戦略を発表し、中国に依存する希土類やレアメタルの国内供給を強化する方針を示唆していることは、中国によるレアアース輸出管理への対抗措置として機能する可能性がある。この動きはサプライチェーン強靭化を目指すものであり、中国のレアアース輸出規制に対する米国の戦略的対抗策となり得る。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcmhwTTlpSGU0a1gxWHZWMmNvaVdpdEFJZmxpSGc5dWJ0cFhqMGlPZ2JUVXN4NmVuaFNZNkZoTFdKYVRBc3hVdmVqT3hSVHVQZWZhRkswYzZaVG1SdUlXVFRaaUhEYnBWaW5NMUNsSHpIYVM5NTJ0UEs1TjVENXhabkg4NGluMGNTRVcxMUZOSXRYbnp2bFRhMUQ5bEdEcnlobjhtOFFMRV9GZ1VL?oc=5",
+          "added_at": "2026-08-08 14:44:25"
+        },
         {
           "uid": "f8b34d054956",
           "date": "2026-08-07",
@@ -6010,26 +6030,6 @@
           "source": "中国商務省",
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTFRNGkzaENWU2dUd0hseGlKUjVhT0NlVVAwRUVlcFRPQW5BdEZhWVdwSFQ0ZGJaaTlYcXFScEdkUGFRcWdyUFpyZHhVU1dCdzE0bUk3RHQwdU5TVnZGa25IUGN1X01qRXo4SU9Nd2hKT0pEYVJNM1VLdXdaaHdrSHh6R2MySFp1RTdwc3YxUC1mN2ZrbVBLYkg2LUg1N3BOZk84TGRDX2NQcWM3M1BOSlc0eFZZZw?oc=5",
-          "added_at": "2026-07-14 01:37:43"
-        },
-        {
-          "uid": "70215c85a241",
-          "date": "2026-06-20",
-          "title": "Japan seeks G7 price floors to break China’s rare earth grip - Asia Times",
-          "summary": "日本はG7を通じて中国が支配するレアアース市場での価格下限設定を提案し、中国の市場支配力を減弱させようとしている。これにより、中国によるレアアース輸出管理を牽制し、国際的な供給安定化を図る戦略である。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa3FuV2JoWWpJcGJQbDZ2N19LcnFHSHZtdUMwSGRycmhjTTMtWk5XdlZ5VlQxQWZuSDNaYlFQRlRwQ3JZUlJrSFhrS21nS2x2NzlFaGxwc0VlRmRISnM1THN2SjRBVWF1V0hCSDdXaC1FVGZrbHE1dmlSNFpENlh2SjlwSWdYNVdBb1pJY3VuY0h4VFEt?oc=5",
-          "added_at": "2026-07-14 01:37:43"
-        },
-        {
-          "uid": "f4aa90684086",
-          "date": "2026-06-23",
-          "title": "China's Rare Earth Prices Climb Again: Heavy Rare Earths Lead as Supply Concerns Persist - Rare Earth Exchanges",
-          "summary": "中国のレアアース価格が再び上昇しており、特に重希土類が主導する形で供給懸念が続いている。これは中国によるレアアース輸出管理の強化が市場にプレッシャーをかけ、価格上昇につながっていることを示唆している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZEFUTVkyLWZsOFVwM0tBcmZndHNmX2dVT1YtTjZUNmRWNF9SUVRDY3B1dUhJZFlDT3dOMUtSQjdYeW1NbGY4d3ROOVgwMXpfc2NQV3NtRW9sVGo2a1ZyYlhtS2xDdXpxZE1fWHptWlBGNUt0aXFmdlZjR2VuaUJfS3BrS3ZkLVRQY0p1bjVVMUc4OW5ZTDdXQmdMVGJuYXFqZGZWdjE3dVhQUnVpdUNiX3MwTHI1SlBrSlZkZGRHbDI?oc=5",
           "added_at": "2026-07-14 01:37:43"
         }
       ]
