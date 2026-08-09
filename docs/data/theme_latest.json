@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09 14:48:59",
+  "generated_at": "2026-08-09 23:37:41",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-09 14:48:30",
+      "last_checked": "2026-08-09 23:37:18",
       "items": [
         {
           "uid": "f7c4a1bccc7f",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-09 14:48:39",
+      "last_checked": "2026-08-09 23:37:26",
       "items": [
         {
           "uid": "d6343625bbdc",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-09 14:48:59",
+      "last_checked": "2026-08-09 23:37:41",
       "items": [
+        {
+          "uid": "73fab53549ec",
+          "date": "2026-07-14",
+          "title": "China tightens rare earth controls, boosts corporate profits and global grip - CHOSUNBIZ - Chosunbiz",
+          "summary": "# 要約\n\n中国がレアアース輸出管理を強化することで、国内企業の利益拡大と世界市場における支配力の強化を実現している。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeElkNjlaQUVhTWdjX29pU18tbXFaTFdwN1IzV0thQllVZEhaYnlYS3Q0U25OOU5ILUpPeWo2bWFoS1VaRDd0YS1GNDhkUlhUa2JKVmtNcnRJeEdNekszUmFmYmV3LXhlcGppMUVFUGpFWUhsR3ZFdjRHV1FPWmZzX2lwWU0zUnBv0gGcAUFVX3lxTE5LQWZwQmFsdk9la3lEWW14OV9nQjJ4SW1wOVhzRjRKQTVkRVFwb2UxYXEzMHo1VnMtWTcyOHVYTGNXam5RZHZmMk9zYkV1dnZQd21VU0FBdmJUWmEtVXN5SVpGX1poeGJjOXN3eVBPMmJGR3FlekNwVV9DdFpBSG14Tkh3OGg3LTVCRGVaenFib1pRRi00a1VHdl9xdw?oc=5",
+          "added_at": "2026-08-09 23:37:38"
+        },
+        {
+          "uid": "4a3f0ca42f80",
+          "date": "2026-06-15",
+          "title": "China Dominates Rare Earth Elements Supply Chain - Legis1",
+          "summary": "中国がレアアース供給チェーンを支配しており、この支配力を通じて輸出管理を強化している状況を示している。日本を含む各国はこの依存状態から脱却するため、代替供給源の確保や国内生産能力の強化が急務となっている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81U1ZiZVZ5ZWd1OEhYLTNhc3o0TVViTTFydmZoOHVOVGVUbUNqSnJoajJBNld5dmh1QWdFQ2hSRmhWeTE4X2RzSkdRUHNkXzI3RHpMbVAxYVFtRjhyRld0bF9EYjRZOUdSamd5VGZ1dVFVUl9xekRMdVhDSnY?oc=5",
+          "added_at": "2026-08-09 23:37:38"
+        },
         {
           "uid": "28655cfe6ca6",
           "date": "2026-06-22",
@@ -6010,26 +6030,6 @@
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQjMzT1I2WTVkZ1U5azlJSEE4RDM5UUV5LUo0WWVNdml1cmtKcVptNlF2YmpEdFZ1Z3FIZG4ycFRLUkpyS0FQeWh2REhXdnhfN1FfT0FMQkJnaE5RVHVWU21GdHQwZzdXZ3lnVXNQN2VYNzVpSElUSWVfRlNrMEVlXw?oc=5",
-          "added_at": "2026-07-15 00:25:45"
-        },
-        {
-          "uid": "7c3590498e39",
-          "date": "2026-06-22",
-          "title": "China places two US rare earths producers on export control list - Mining Weekly",
-          "summary": "中国が米国のレアアース生産企業2社を輸出管理リストに追加し、これらの企業への技術移転や協力を制限する措置を講じた。この行動は、米国による中国ハイテク産業への制裁に対する報復として位置づけられている。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5FMzBxamc5ZlByM0VrbF9VVFdvd09FTFNfRlYyYzlTWFVjaHl3VEc3WVdzaWlTLUpFN0laQjdqZmJCbWFNdDNUMDRBekQwM3k5SkZ3V1Q0LU9EWUxETlU5M045QmpQLUZjeF9qWDExUjRBN2QyTXp4cGs2SWRIQkY3MHBQUXdGcXdhT1Z3YmJqNlcxY1NydGF3R05SQXlnWTB4STV0S19LVHRiM0ZPNVR3?oc=5",
-          "added_at": "2026-07-15 00:25:45"
-        },
-        {
-          "uid": "87b84df8dc64",
-          "date": "2026-04-20",
-          "title": "Escape route from Iran energy shock leads to China, US allies find - Politico",
-          "summary": "中国がイランからの石油輸入を増やす一方で、米国の同盟国はイランへの経済制裁を回避するため中国経由のエネルギー調達に依存せざるを得ず、その結果中国がエネルギー供給チェーンにおける影響力を強化している。",
-          "source": "欧米メディア",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU0RNVVd1eGhmR2hmUzE4M0llZlAyX05WVTd1eDNqNGRQSzRSazViM21HUHVDclFaemlXRzNJaXhNaDJwX2U0QWdZalhFdjI3c2dTazFtU2RNYjl3aTI5dFRvaXFRTjJoQU94S1h6OWp0TjVnODd6NXA0eTZBaktfRndiWG5HNWF5RXhOQkhvaHJYa25IZEQ4TnV2aUQtQ2k2cXFXMA?oc=5",
           "added_at": "2026-07-15 00:25:45"
         }
       ]
