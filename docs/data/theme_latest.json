@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 15:11:49",
+  "generated_at": "2026-08-11 00:02:05",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-10 15:11:26",
+      "last_checked": "2026-08-11 00:01:30",
       "items": [
         {
           "uid": "f7c4a1bccc7f",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-10 15:11:34",
+      "last_checked": "2026-08-11 00:01:40",
       "items": [
+        {
+          "uid": "3c764d477119",
+          "date": "2026-07-22",
+          "title": "Senate advances bill to ban connected vehicle tech from foreign adversaries including China and Russia - CDLLife",
+          "summary": "米国上院は、中国やロシアなどの外国の敵対国による接続車両技術の使用を禁止する法案を可決した。この法案は、自動運転機能やリモートアクセス機能など、外国勢力が悪用する可能性のある車両技術から国家安全保障を保護することを目的としている。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZDlEenM5T1E4cFNPN3hiTDB6Xzl0d016YkZ5c3BNOUtyRHREYm5BaHRVSnVjNklLRnBaejYxMzRSajNXTTNiQm9GNk9Cdy04cDVzb1gxS1FiQ09CckNPdXhqU0R4WWkteU9iSWV3Y0NhbEpETHlld1cyUXBFWTNTOVNxdUppUnAtTVJqTzVEYXF5RDdua3l1ajFmdXdfZHdDREpxQmZwZ3pGY28zcVVtdXdnbDZpRW5HQW1vOGdhMXdCR0xCRWc00gHMAUFVX3lxTE8yc2VycllkaFA4SUNDNk5lR2hFMXZQWGdnOWUyQVZ4cHJycTFJbkVCMC03dTFaYUFiM2tuc3ltYUFUZ0hUd2k3UlV4cDBMNHRXZDhwWW9UWVVEZDU0TERZQ0poNDRxOFdBaGlWWHJrbzRpbWF5RlFvWUwwUFE4TVVidGdVd3NZalJwSE5jRE1VamJjVU5zUVRINGdlV0tRZVUxZ1lDYmhDeVNHbXk5cDFiLTRVX0xLNk1TSzlpWWZzcE9TSkxram1tYWpVVQ?oc=5",
+          "added_at": "2026-08-11 00:01:39"
+        },
         {
           "uid": "d6343625bbdc",
           "date": "2026-07-25",
@@ -4010,16 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWU1ZQ28zNUh6NWdtRU5xNEg4X3NTNHU2cFVWXzA4Q2RuR0tFamdkNDVNQ3pya213cTNjSGhMdkFjYk9HYjJxV0cycWd2WUJJRWRiQWZCZWVhOWUtUzRrbHl5WXNqdHRVU3MwX1FNNTJ4aXZRVnZlbHRRcnBlTzY5amI3ZDlFS2tOSzhtdC1OenZoOGhNekhjc3ExX0xKQ2lTbVJhYU03T3huSzBHMmlPMEo1RFRnN0sxVjFmQV92SF8wZw?oc=5",
           "added_at": "2026-06-29 14:09:49"
-        },
-        {
-          "uid": "de8c6ff3a25a",
-          "date": "2026-06-28",
-          "title": "Polestar Halts US Vehicle Sales Over China Connection Regulations - sekbernews.id",
-          "summary": "ポールスターは米国の車両安全保障規制により、中国との関連性を理由に米国での販売を一時停止することを余儀なくされました。同社は規制要件への対応が困難であることから、市場からの撤退を決定しました。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSVF4TU00TGZhVEpuak1ab2dfSldCSUNJc2gzdmEtc3pSdV9QTDFmQmQtVHdiSGRYMnV6ZFFNdk1wQmZMdkI3aFBHR3hZU2x3dlk3Nk9ZVlJwVGdRc3VjaFVGZ1JGMnMxWDNwTFFtdnFLV0Vja2hSczNQXzl0ZmlKSXN6MnEySGEyYkk3RnFqSTNxUWp6Q2VPQjdB?oc=5",
-          "added_at": "2026-06-29 04:53:08"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-10 15:11:49",
+      "last_checked": "2026-08-11 00:02:05",
       "items": [
+        {
+          "uid": "f4aa90684086",
+          "date": "2026-06-23",
+          "title": "China's Rare Earth Prices Climb Again: Heavy Rare Earths Lead as Supply Concerns Persist - Rare Earth Exchanges",
+          "summary": "中国のレアアース価格が再び上昇し、特に重希土類が値上がりしており、これは供給不安が継続していることを反映している。中国による輸出管理の強化が供給逼迫を招き、国際市場での価格上昇につながっている。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZEFUTVkyLWZsOFVwM0tBcmZndHNmX2dVT1YtTjZUNmRWNF9SUVRDY3B1dUhJZFlDT3dOMUtSQjdYeW1NbGY4d3ROOVgwMXpfc2NQV3NtRW9sVGo2a1ZyYlhtS2xDdXpxZE1fWHptWlBGNUt0aXFmdlZjR2VuaUJfS3BrS3ZkLVRQY0p1bjVVMUc4OW5ZTDdXQmdMVGJuYXFqZGZWdjE3dVhQUnVpdUNiX3MwTHI1SlBrSlZkZGRHbDI?oc=5",
+          "added_at": "2026-08-11 00:01:57"
+        },
+        {
+          "uid": "7c3590498e39",
+          "date": "2026-06-22",
+          "title": "China places two US rare earths producers on export control list - Mining Weekly",
+          "summary": "中国は米国のレアアース生産企業2社を輸出管理リストに加え、これらの企業への販売を制限することで、米国のレアアース調達に対する圧力を強化した。この措置は米国による対中規制への報復として機能し、レアアース供給の地政学的競争が一層激化していることを示唆している。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5FMzBxamc5ZlByM0VrbF9VVFdvd09FTFNfRlYyYzlTWFVjaHl3VEc3WVdzaWlTLUpFN0laQjdqZmJCbWFNdDNUMDRBekQwM3k5SkZ3V1Q0LU9EWUxETlU5M045QmpQLUZjeF9qWDExUjRBN2QyTXp4cGs2SWRIQkY3MHBQUXdGcXdhT1Z3YmJqNlcxY1NydGF3R05SQXlnWTB4STV0S19LVHRiM0ZPNVR3?oc=5",
+          "added_at": "2026-08-11 00:01:57"
+        },
+        {
+          "uid": "1ee63ad9dd8a",
+          "date": "2026-08-10",
+          "title": "China's 2025 Rare-Earth Export Controls Trigger Uneven Price Shocks Across Global Markets - Rare Earth Exchanges",
+          "summary": "中国が2025年に実施したレアアース輸出規制により、グローバル市場で不均等な価格変動が生じている。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd0pSSDFIRGR6LS1ydUFSQ1J1VzlmYkJYeXdha0NWYnU1SmY2YTBmak0taFBQV25yRTdRajdrX0RaNHhBaVNaLTdBX0NhazRSdlVyZTNqN2FtSG5YR3lEVTI1ZWFBMlp4akFXdENIaE5rMXlBNFk1eFhqaGF5YkFSWU1fd2ZtbWFPM1VzdWdoUmgzZzBQMmNTYzdIQW9FY2lIeExiOU5PUG5PNXZoMkdvSGxSbGt3Zm9WNjFncEV2SzFFSTQ?oc=5",
+          "added_at": "2026-08-11 00:01:57"
+        },
         {
           "uid": "da031c249518",
           "date": "2026-05-20",
@@ -6001,36 +6031,6 @@
           "source_type": "media",
           "url": "https://www.ft.com/content/a5018a00-0f96-4b39-b82f-c4ccd5e929f7",
           "added_at": "2026-07-15 16:17:12"
-        },
-        {
-          "uid": "45202fb60ef8",
-          "date": "2026-07-14",
-          "title": "House lawmakers grill top Trump official over AI chip exports",
-          "summary": "この記事は中国レアアース輸出管理とは直接的な関連がなく、米国の先端AI チップ輸出規制についての議会公聴会に関する内容です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/technology/5968359-trump-administration-ai-chip-grilling/",
-          "added_at": "2026-07-15 16:17:12"
-        },
-        {
-          "uid": "ef89f8855d65",
-          "date": "2026-07-14",
-          "title": "China Northern Rare Earth: H1 net profit expected to increase 112.74%-121.33%, rare earth prices strengthened overall and consolidated - Shanghai Metals Market",
-          "summary": "中国北方稀土は2024年上期の純利益が112.74～121.33%増加する見通しを発表し、これはレアアース価格全体の強化と市場統合による結果である。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT1JKZzlzMGltcVM4akx2VFRpRmpnU0dMS01kYU9RS2g0LWZvbGNlX3ZNRElGQkhpd0ZEa1pKM25PRURzaHJFSVZnZ0x6dEJub05UTFFBUzZmMHNyYm9mN296ZkZmbzlwMEg2M3dzR1pycG9OVzBRNmZNcUVRclhIeTB3bnYzNzVzQVZ1VmQtaGp4OERiUjJKTHdtMnRZQWcyalQyNVRfdTlYaE1LYkpvQ3F5dWVrR2tZbk1SRW1qU0dSbjVfQUtQMEV6cUVTY2liZDNxZG02dkU2NWx5VFg1MHE5SXdMV05IMDBNbHFrUWxFY3pPMEhxYVFtb1U?oc=5",
-          "added_at": "2026-07-15 00:25:45"
-        },
-        {
-          "uid": "b6ff6ccc9955",
-          "date": "2026-06-22",
-          "title": "Beijing's Calibrated Response to the 1260H Designations - Geopolitechs",
-          "summary": "中国は米国による「1260H指定」(ウイグル強制労働防止法に基づく輸入禁止)に対抗して、レアアース等の戦略的資源の輸出管理をより厳格化し、米国との対立を深刻化させています。このように中国は経済制裁に対して計算された報復措置を講じることで、地政学的な影響力を行使している。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yX3B5MG5oMldOejNEekNSTGo5eFY4SFdaT19CdFh3R1FUTUFraG1vM2pYSG54Sk9wbEtvdXZ2WVJ4RjEzZHRKaTlhdWVmcmFQY0NGN2l0UEswU09vRHBWZmphTlVUbUkzT054MGFjLTJOWklP?oc=5",
-          "added_at": "2026-07-15 00:25:45"
         }
       ]
     }
