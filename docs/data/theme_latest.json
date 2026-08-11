@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11 12:21:07",
+  "generated_at": "2026-08-11 14:55:12",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-11 12:20:01",
+      "last_checked": "2026-08-11 14:54:43",
       "items": [
+        {
+          "uid": "424d62fd8e62",
+          "date": "2026-07-25",
+          "title": "The EU Industrial Accelerator Act: Strategic Ambitions and Design Challenges - Intereconomics | Review of European Economic Policy",
+          "summary": "# 要約\n\n欧州産業加速法案（IAA）はEUの産業競争力を強化し、米国や中国との技術格差を縮小することを戦略的目標としているが、規制緩和と環境基準維持、域内産業保護と自由市場原則のバランスといった設計上の課題に直面している。同法案の成功は、これらの相反する目標を如何に調整し、実現可能な産業政策を構築できるかにかかっている。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc0IwYjdPYmtCdHkzdHExMkhQQklYa0pmVm5HUTBhM3pDX0YtaE40M2tPdXJHc1ZyM0pkZU41WXVTUUF2SnhielhtYUxqVlRvUl85aFh5ZnRkT1FyOEJHY0hxVmFfUWg3MjBDTkFBNGx4UVVCYVZ4TU5ZbDlUeTQ4M3pwOUkxdmdiZ3BOZFNFTHg2Zl85dE1uSkdKa21OdkN1dkJfRWdyUlBzRFRCMDE4SFplcXJOSmhKM0tSOXdhLW94OFJPU0xESTFHeElTeXRjMkJoYjlaNmM5WXJ5Zm8w?oc=5",
+          "added_at": "2026-08-11 14:54:41"
+        },
         {
           "uid": "7f615af215df",
           "date": "2026-08-07",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUFlUDN3MG9seHB2Vkd1ZHdxTnY5U1dHX1hPdHhLd1ptVWVfOXI0c3Y3SWdQV1FXRTczdVhWMXNIZ0ZPQ0JWY0JXZmFsQW83d2lpdHlaSlRnQU9UV3Z1Wk1KWGxGbndVM0JLajh4dmlMLWN4Q3RnTEdob1ZvWGdsb3BpSTk?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "afa2d540991b",
-          "date": "2026-04-03",
-          "title": "The Italian Competition Authority’s quantum computing inquiry - www.hoganlovells.com",
-          "summary": "イタリア競争当局が量子コンピュータ産業の競争状況を調査しており、これはEU産業競争力強化の文脈でテクノロジー分野の市場支配力や革新阻害要因を検証する取り組みとして位置付けられます。IAA下で欧州産業の競争力向上が求められる中、量子コンピュータなどの戦略的技術における市場構造の透明化と競争環境の整備が進められています。",
-          "source": "欧州産業政策",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGQ5M0YwZ2Zlcm5FMHhLS2o1MUtNaUN2VGlpNVlpc1hmUWV4Q2lMUE4wQTlYbDBZLTNIX1RSVjV2bE52akZxVWZTUE1Jc0NYZXFRak1XZUdaSGdJVnN1R0lmdDg2VnZXM0lhRTZqeGlYWElabURPN0VuMG1KV1duMGtrTlZycGFkcmN4V3VIZDBTb2huRU1LaEJHRmdlWnhMRV9Od1VpQ04?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-11 12:20:16",
+      "last_checked": "2026-08-11 14:54:51",
       "items": [
         {
           "uid": "3c764d477119",
@@ -4030,8 +4030,68 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-11 12:21:07",
+      "last_checked": "2026-08-11 14:55:12",
       "items": [
+        {
+          "uid": "28655cfe6ca6",
+          "date": "2026-06-22",
+          "title": "China targets US rare earth and other firms with export controls - Reuters",
+          "summary": "中国は米国企業を対象にレアアース等の輸出管理を強化し、米国の対中制裁に対抗する報復措置を取っています。この措置は米国の防衛・半導体産業に打撃を与えることを狙いとしています。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTFRNGkzaENWU2dUd0hseGlKUjVhT0NlVVAwRUVlcFRPQW5BdEZhWVdwSFQ0ZGJaaTlYcXFScEdkUGFRcWdyUFpyZHhVU1dCdzE0bUk3RHQwdU5TVnZGa25IUGN1X01qRXo4SU9Nd2hKT0pEYVJNM1VLdXdaaHdrSHh6R2MySFp1RTdwc3YxUC1mN2ZrbVBLYkg2LUg1N3BOZk84TGRDX2NQcWM3M1BOSlc0eFZZZw?oc=5",
+          "added_at": "2026-08-11 14:55:03"
+        },
+        {
+          "uid": "73fab53549ec",
+          "date": "2026-07-14",
+          "title": "China tightens rare earth controls, boosts corporate profits and global grip - CHOSUNBIZ - Chosunbiz",
+          "summary": "中国がレアアース輸出管理を強化することで、国内企業の利益を増大させるとともに、レアアース市場に対するグローバルな支配力を強化している。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeElkNjlaQUVhTWdjX29pU18tbXFaTFdwN1IzV0thQllVZEhaYnlYS3Q0U25OOU5ILUpPeWo2bWFoS1VaRDd0YS1GNDhkUlhUa2JKVmtNcnRJeEdNekszUmFmYmV3LXhlcGppMUVFUGpFWUhsR3ZFdjRHV1FPWmZzX2lwWU0zUnBv0gGcAUFVX3lxTE5LQWZwQmFsdk9la3lEWW14OV9nQjJ4SW1wOVhzRjRKQTVkRVFwb2UxYXEzMHo1VnMtWTcyOHVYTGNXam5RZHZmMk9zYkV1dnZQd21VU0FBdmJUWmEtVXN5SVpGX1poeGJjOXN3eVBPMmJGR3FlekNwVV9DdFpBSG14Tkh3OGg3LTVCRGVaenFib1pRRi00a1VHdl9xdw?oc=5",
+          "added_at": "2026-08-11 14:55:03"
+        },
+        {
+          "uid": "4a3f0ca42f80",
+          "date": "2026-06-15",
+          "title": "China Dominates Rare Earth Elements Supply Chain - Legis1",
+          "summary": "中国はレアアース元素のサプライチェーン全体で圧倒的な支配力を持っており、採掘から加工・精製まで高い市場シェアを占めることで、輸出管理を通じた戦略的な影響力を行使している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81U1ZiZVZ5ZWd1OEhYLTNhc3o0TVViTTFydmZoOHVOVGVUbUNqSnJoajJBNld5dmh1QWdFQ2hSRmhWeTE4X2RzSkdRUHNkXzI3RHpMbVAxYVFtRjhyRld0bF9EYjRZOUdSamd5VGZ1dVFVUl9xekRMdVhDSnY?oc=5",
+          "added_at": "2026-08-11 14:55:03"
+        },
+        {
+          "uid": "335d717a78b4",
+          "date": "2026-08-07",
+          "title": "US unveils critical minerals deals in latest push to counter China - South China Morning Post",
+          "summary": "米国は中国のレアアース輸出管理に対抗するため、オーストラリアやカナダなどの同盟国とのレアアース・重要鉱物の供給確保契約を発表し、中国への依存度を低減する戦略を推進している。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkJOOFpjSEI1bHNpMFRVX28tdUEzd013dEZBZGRzUnIyODNiYU9BRmd2V2hOQjFQeDM4MnpZZVdFUUEweGJnRDhkWVRVRlJXdnpNWXFsMTAzb3AzZHZJV1RON3I2ZHBpRmxMNFItZElQOE1KQnkzYnRMc3ZoMGhkMjBMMW1pRUxaNkVlMlhYTnVVNUdxQURyTjZzWHNfUFNBX1lGZkJYaTHSAagBQVVfeXFMTVJQR1JFaXB4U2d6TUZZYUFfanNpTnlLanExZUdyS0NaVC13MDBIYUNaaDVCTWg2WjhOMDY1alBpZV9YMkV5OUg5UnRTMExpZWQwWXZ1dGp3V2Z0dkhGMXRxeGYySGZIVUVUWHRaM3pUOUpDNWp0Y0U3SFZTZVU0UEFILTNwWDVDWXZGaFRDOHd5bjRBcXFZQ2RaMHhVak9pTnBhZldocnhz?oc=5",
+          "added_at": "2026-08-11 14:55:03"
+        },
+        {
+          "uid": "032448499121",
+          "date": "2026-06-23",
+          "title": "China limits trade with 56 US defense, aerospace firms - Manufacturing Dive",
+          "summary": "中国が米国の防衛・航空宇宙関連企業56社との取引を制限することを発表し、レアアースなどの戦略的に重要な資源の輸出管理をさらに強化する姿勢を示した。この措置は、米国による中国への技術規制に対する報復として機能している。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTRtTkxOMjd0ZGlkNS1jT191OGxfWWdxSC1uZTdRa1J2dzRyWHZEMmxodkRNUXNfQ0JJY2hTOU04MkpYakYzODRtUkYtamFqUTZ0X2lLNm9xWWFLa2dhMW95WE1mblB4alVNTUZCYlpUcFpaOXhVaGt6b3JQMjFIb1N1bC01cmFHX3dQTTdZcllVNXMxTGxOa1JzaEhGcXJPYnFOWHR6b2FZMGJCbXpfWXFZRmY?oc=5",
+          "added_at": "2026-08-11 14:55:03"
+        },
+        {
+          "uid": "a3f91258e02f",
+          "date": "2026-05-15",
+          "title": "Did the US-China Summit Resolve Trade Disputes? - Crux Investor",
+          "summary": "申し訳ありませんが、提供いただいたテキストにはタイトルのみで具体的な記事内容が含まれていないため、「中国レアアース輸出管理」に関する要約を作成することができません。記事の本文をご提供ください。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmlEWmZyQ3FNMU1tTXlWMkNjZXdCUDFSS1hrRDV5VnhCd2RIOU1oLVJaYk9ESzFBekg0VF9yb0RUa0tIZW56RHMxTkRrZFZQNVZLZGJDZW1EZFBTUFNGZlo4QVp1WVR4Sk1IUnhMd29pckFzcmZIeXltMzlXOHpSdVl0Tmd1RDl6?oc=5",
+          "added_at": "2026-08-11 14:55:03"
+        },
         {
           "uid": "f66b31e80de3",
           "date": "2026-08-07",
@@ -5971,66 +6031,6 @@
           "source_type": "media",
           "url": "https://thehill.com/policy/technology/5968359-trump-administration-ai-chip-grilling/",
           "added_at": "2026-07-15 16:17:12"
-        },
-        {
-          "uid": "ef89f8855d65",
-          "date": "2026-07-14",
-          "title": "China Northern Rare Earth: H1 net profit expected to increase 112.74%-121.33%, rare earth prices strengthened overall and consolidated - Shanghai Metals Market",
-          "summary": "中国北方稀土は2024年上期の純利益が112.74～121.33%増加する見通しを発表し、これはレアアース価格全体の強化と市場統合による結果である。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT1JKZzlzMGltcVM4akx2VFRpRmpnU0dMS01kYU9RS2g0LWZvbGNlX3ZNRElGQkhpd0ZEa1pKM25PRURzaHJFSVZnZ0x6dEJub05UTFFBUzZmMHNyYm9mN296ZkZmbzlwMEg2M3dzR1pycG9OVzBRNmZNcUVRclhIeTB3bnYzNzVzQVZ1VmQtaGp4OERiUjJKTHdtMnRZQWcyalQyNVRfdTlYaE1LYkpvQ3F5dWVrR2tZbk1SRW1qU0dSbjVfQUtQMEV6cUVTY2liZDNxZG02dkU2NWx5VFg1MHE5SXdMV05IMDBNbHFrUWxFY3pPMEhxYVFtb1U?oc=5",
-          "added_at": "2026-07-15 00:25:45"
-        },
-        {
-          "uid": "b6ff6ccc9955",
-          "date": "2026-06-22",
-          "title": "Beijing's Calibrated Response to the 1260H Designations - Geopolitechs",
-          "summary": "中国は米国による「1260H指定」(ウイグル強制労働防止法に基づく輸入禁止)に対抗して、レアアース等の戦略的資源の輸出管理をより厳格化し、米国との対立を深刻化させています。このように中国は経済制裁に対して計算された報復措置を講じることで、地政学的な影響力を行使している。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yX3B5MG5oMldOejNEekNSTGo5eFY4SFdaT19CdFh3R1FUTUFraG1vM2pYSG54Sk9wbEtvdXZ2WVJ4RjEzZHRKaTlhdWVmcmFQY0NGN2l0UEswU09vRHBWZmphTlVUbUkzT054MGFjLTJOWklP?oc=5",
-          "added_at": "2026-07-15 00:25:45"
-        },
-        {
-          "uid": "94b96f9ce0e2",
-          "date": "2026-04-26",
-          "title": "The Pentagon Needed Rare Earths—and Found a Supplier in Malaysia - WSJ",
-          "summary": "米国防総省はマレーシアの供給業者を通じてレアアースの調達を進めており、中国への依存を減らすための戦略的な供給源多様化を図っている。これは中国のレアアース輸出管理に対抗し、防衛産業のサプライチェーンを強化する取り組みである。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uWDdFT2dfTTN1WThCNl9nZWdOQTNCZ3JTbGRxNDNxQzRvQi1RSmw1bzFrWm5JWmVDeUp0RnZhQy1nZ2ZORWZVM1JqSnQ5d0c3M0VOMmh6d3ItTGUyMkVpTDVnTEJmYkxzSzc5Q3I1eXhzQXRQ?oc=5",
-          "added_at": "2026-07-15 00:25:45"
-        },
-        {
-          "uid": "905420c030e9",
-          "date": "2026-04-16",
-          "title": "Senate Votes to Allow Mining Near Minnesota Wilderness - The New York Times",
-          "summary": "米国上院がミネソタ州の野生地域近くでの鉱業を認可する投票を行ったことは、中国が支配するレアアース供給への依存を減らすため、米国が国内鉱物採掘を拡大しようとしている戦略を示しています。この動きは、中国のレアアース輸出管理に対抗し、供給チェーンの多様化を図る米国の取り組みの一環として位置付けられます。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQjMzT1I2WTVkZ1U5azlJSEE4RDM5UUV5LUo0WWVNdml1cmtKcVptNlF2YmpEdFZ1Z3FIZG4ycFRLUkpyS0FQeWh2REhXdnhfN1FfT0FMQkJnaE5RVHVWU21GdHQwZzdXZ3lnVXNQN2VYNzVpSElUSWVfRlNrMEVlXw?oc=5",
-          "added_at": "2026-07-15 00:25:45"
-        },
-        {
-          "uid": "7c3590498e39",
-          "date": "2026-06-22",
-          "title": "China places two US rare earths producers on export control list - Mining Weekly",
-          "summary": "中国が米国のレアアース生産企業2社を輸出管理リストに追加し、これらの企業への技術移転や協力を制限する措置を講じた。この行動は、米国による中国ハイテク産業への制裁に対する報復として位置づけられている。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5FMzBxamc5ZlByM0VrbF9VVFdvd09FTFNfRlYyYzlTWFVjaHl3VEc3WVdzaWlTLUpFN0laQjdqZmJCbWFNdDNUMDRBekQwM3k5SkZ3V1Q0LU9EWUxETlU5M045QmpQLUZjeF9qWDExUjRBN2QyTXp4cGs2SWRIQkY3MHBQUXdGcXdhT1Z3YmJqNlcxY1NydGF3R05SQXlnWTB4STV0S19LVHRiM0ZPNVR3?oc=5",
-          "added_at": "2026-07-15 00:25:45"
-        },
-        {
-          "uid": "87b84df8dc64",
-          "date": "2026-04-20",
-          "title": "Escape route from Iran energy shock leads to China, US allies find - Politico",
-          "summary": "中国がイランからの石油輸入を増やす一方で、米国の同盟国はイランへの経済制裁を回避するため中国経由のエネルギー調達に依存せざるを得ず、その結果中国がエネルギー供給チェーンにおける影響力を強化している。",
-          "source": "欧米メディア",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU0RNVVd1eGhmR2hmUzE4M0llZlAyX05WVTd1eDNqNGRQSzRSazViM21HUHVDclFaemlXRzNJaXhNaDJwX2U0QWdZalhFdjI3c2dTazFtU2RNYjl3aTI5dFRvaXFRTjJoQU94S1h6OWp0TjVnODd6NXA0eTZBaktfRndiWG5HNWF5RXhOQkhvaHJYa25IZEQ4TnV2aUQtQ2k2cXFXMA?oc=5",
-          "added_at": "2026-07-15 00:25:45"
         }
       ]
     }
