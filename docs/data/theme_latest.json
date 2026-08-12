@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12 00:01:28",
+  "generated_at": "2026-08-12 15:17:10",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,28 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-12 00:00:41",
+      "last_checked": "2026-08-12 15:16:36",
       "items": [
+        {
+          "uid": "497d6e8b9677",
+          "date": "2026-08-11",
+          "title": "ARGEZ: EU Industrial Accelerator Act offers opportunities for Europe’s supply industry - SteelRadar",
+          "summary": "欧州産業加速法案（IAA）は、欧州のサプライチェーン産業に対して市場拡大と事業成長の機会をもたらす可能性を有しており、特に鋼鉄などの基礎素材産業の競争力強化を目指している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY0xIbllnWEZHUEF2cEhDLU1iZDk1anN6cHg3VGV5bWQyd3RhMzFhenh3OEg1cGpvcFpDa1ByOHlXR3VCRXVtejQ0Q0VvQkI3d2I4eEFqcGhoRC1oelFPdFlQcjN2UXhTY25xOTZPUmtEdU51M0N5dEx5eU9zdy04d0ZRSnhudDFjZHU1SGdpT1ZBRVRIWnNWYUd2YnhfOVVWSmMzVlB3MTBQREl2Y2NWMWVpTzJSejlrWDJiWXJB?oc=5",
+          "added_at": "2026-08-12 15:16:33"
+        },
+        {
+          "uid": "62984530a540",
+          "date": "2026-07-08",
+          "title": "EU plans slower CO2 cuts, more free permits for industry in carbon market overhaul - Reuters",
+          "summary": "EUは産業競争力強化のため、欧州排出権取引制度（ETS）の改革により、産業部門へのCO2削減ペースを緩和し、無償配分許可を増やす計画を進めている。これは欧州産業加速法案（IAA）の一環として、炭素市場の再編を通じた脱炭素化と産業競争力の両立を目指すものである。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVpoUFVzdDJKYkZuTkR3dVhBYThsYmtWMnl5TEY5RkFQU2I3VDZkM1QtTThGQUZ0a3dvSnVVUTRfWTl1M2FfajBUQ0U3blBlZURfSUlaX1ZmOXRCS3BvR0NYNGFxdl9TQklzTHR4ZERBTlV1YXVBandHQ1RldkFxYndvZWlaU0l4TkY0aFdfRDJVS294VjdJMEhvVW1yT1RHdnZKM1hjYTNXbUI4a0JOVnVQNA?oc=5",
+          "added_at": "2026-08-12 15:16:33"
+        },
         {
           "uid": "424d62fd8e62",
           "date": "2026-07-25",
@@ -1989,26 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2OUxvaXc3TGZoWmlWXy0xUzZCbUc3bUlTN21BSzZvT2F4THFmY1RzNGVESFZZUExvTE1IQVZabHNRR0E1d3pSMGlyWUs4VXdCVG5UOHlXalVySjN0Y1dSLVc1aEM3enlhcFpQYWl6N0h2Q0UwV0FBX1VrWjcwZUU?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "981bc5eee0c2",
-          "date": "2026-05-21",
-          "title": "Parliament urges Commission to protect EU sensitive sectors from dangerous foreign investments - European Interest",
-          "summary": "欧州議会は、欧州産業加速法案（IAA）の枠組みの中で、EU域内の防衛・エネルギー・重要インフラなどの戦略的に重要な産業部門を、外国による危険な投資や買収から保護するよう欧州委員会に促している。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcVg4MVlyRVNtYTd4UTJLVjhQX3hsMHVlckVldU9nMXFuZ1Z3b1llN09ia3FmT2dyZ2VqeHJHSnBoYjB0NWVRdmFJd2Y2RTBMc05sY2RsTGk4Nm1wNUZKN21Ib2toZklONVZYOEtFNWgybEVyc1hZZkx6Qjdicnk5QjNpVEh5d1dTdC1fV0FPa29mQ2ZYa2dVS0lTYlhfb29hVXEtRjJjQmNKWGMzOF9MVHZGam9NTXczQk1fOE5DWVBwUll3RHc?oc=5",
-          "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "9dc592a337a2",
-          "date": "2026-03-18",
-          "title": "Competitiveness compass - European Commission",
-          "summary": "# 要約\n\nEUの競争力向上を目的とした「競争力コンパス」は、欧州産業加速法案（IAA）の重要な支援ツールとして機能し、加盟国が産業政策の実施状況を監視・評価するための指標とデータを提供しています。",
-          "source": "欧州産業政策",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUFlUDN3MG9seHB2Vkd1ZHdxTnY5U1dHX1hPdHhLd1ptVWVfOXI0c3Y3SWdQV1FXRTczdVhWMXNIZ0ZPQ0JWY0JXZmFsQW83d2lpdHlaSlRnQU9UV3Z1Wk1KWGxGbndVM0JLajh4dmlMLWN4Q3RnTEdob1ZvWGdsb3BpSTk?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-12 00:00:56",
+      "last_checked": "2026-08-12 15:16:48",
       "items": [
+        {
+          "uid": "25d992f9387e",
+          "date": "2026-08-11",
+          "title": "China Connected Car Security Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
+          "summary": "中国の接続車両セキュリティ市場は急速に成長しており、S.4429のような接続車両セキュリティ規制の強化に対応して、車両のサイバーセキュリティ対策と安全保障への需要が2030年まで拡大することが予想されている。",
+          "source": "半導体・Tier1サプライヤー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUZTVWhMTXVKdnllUGF0UkFybWprSWp1V3N5cXBsdU5EVURRSndSWm05VmZPVXBvNkFKa0Q0OWFEcHE2OVM5a0JnNGtSaDRiZ3ZIT0I3MG15NXVVQ0owajlBdEFDdm9vc0ppVnVfQ3ZtZ2VjekY1all4QTljQ2dxUlFLUmZNSDFVWFYzNkVVam5lTVVLTkdGOG9R?oc=5",
+          "added_at": "2026-08-12 15:16:47"
+        },
         {
           "uid": "f1f647ad06cd",
           "date": "2026-06-26",
@@ -4010,16 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWnVlaGZEVDBDMHFiVEl4QWNHbjRaNFRkbUZqM2xtVWVHMUtjcVpCajg1ay1wZnJYWlBuZWNKdDhVbVVJa0hvM1FlRDR6M2JFdmFNcFNJMGdOTUJPVW9fY0RmM0JuaWg1eDFZRENWNjh3UUN2ZXgxOEhjUXZzRk5EZjNWZ09pV0NSUWxFaWMyNC1xblF1cVM4MEkxMUU2QlhiNGNUSm1ZUVV2dTNrcXVtdzJSNHVSWDA2Z1J3REVlUDNLbUIxNm9FSmRLY0pyWE10OTVycUpB0gHbAUFVX3lxTFB2TC02ZVhEX3hxMWx5cUtDNm95S0Q5T0RVODZZdGdjMlhXc2JTZ1lxSHJpdnFtOS1jTkw5Wl9VdllsMDNBVE1VZGFBNFh1WEJMdS1oOHpKdlZKaTltWm0xXzVaZlRnd3ptS2o5VEx0X2ZubFdtSV9qQU1aT1p4Q25UMVJvcHZscFVReHRvMnNIcGNSYVB3LWVQT0h0YlZIY3R5SjdEY2hqc3hndzNCbldFQUN0Y1RpcUZtWThEeW1KY3VJUTRiTkJxaVpoVVlWU0N1MGFMMmM4LTM2TQ?oc=5",
           "added_at": "2026-06-29 20:30:45"
-        },
-        {
-          "uid": "a1f00d51032d",
-          "date": "2026-06-26",
-          "title": "Polestar forced to stop US sales due to new ban on Chinese software, Australia unaffected - CarExpert",
-          "summary": "Polestarは米国の新たな中国ソフトウェア禁止規制により米国での販売を停止することを余儀なくされ、オーストラリアでは影響を受けていない。この措置は、中国製ソフトウェアが搭載された車両の米国への販売・登録を制限する安全保障規制の実施によるものである。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNG4wYWdYMWk4cnVCd0V6QXZPSUZtanBxQUhTbnRPUDBoNDdvYTBKSmdQVW53U291X2VFaTQtQzlLVnhUcEhNYWFaLW5yM3dlT0hQNlFVMi1SejdsUGZvTmFJMjF6Q3dFWmxBQWh3Q1I5REZmTEpTVl9ZVHFEZjZsRW14R2FPanlmZWcxTHVLeWZjR1YzOFZzTzZtQmJYSTVMalFIUHhvOUNkODg2TjJMQ1NQNXNJRVp1blFIRUFNR2hkWm5Q?oc=5",
-          "added_at": "2026-06-29 14:09:49"
         }
       ]
     },
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-12 00:01:28",
+      "last_checked": "2026-08-12 15:17:10",
       "items": [
+        {
+          "uid": "1b3996c405e6",
+          "date": "2026-06-24",
+          "title": "China’s new front in rare earth export violations: rewarding tip-offs - South China Morning Post",
+          "summary": "中国がレアアース輸出違反の取り締まりを強化する一環として、違反情報の告発者に報奨金を支給する新制度を導入し、密輸や不正な輸出の摘発に民間からの情報提供を活用している。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPXzdTU0RubE5aX2xLNF9rUnVLd1loaUZvRjJYUEo4MFpkMTFJYlR1ZnVZTjlTVERQOHBNUDFIRU1KWkhQMnZTbl93UDV6enlmRUk4ZjRJUk1WYnExUnhsRUdGNDFpVW1FalFfT2xZSGhrSTBZcm9KbFdqSlFYTUFLRUtockFpV0pLeXhkUHptQXJMMU1SMUpMTy1FZDFwM1dadVYybHFULXV0aFhsaHJHNmYxN0QxTEV1NktvX3R6Qmpqblhj0gHEAUFVX3lxTE9TTXZoREZlTkthSlJ6TTVQNUs4TG12RGh2QzZEbnB6M0FneERzYndncVRVSjRLb3I4WHRzd29BY2IxOFdwNjROLTB6NVpiU2VUQ3laWUlNbVY2VGxHWUxPMVZVYllVSzRNaXJhc0JWeHEzSzJLWEY5RzdzUUZoRWxCaklpZ2k3dmFOSHRKT1ZZTXctODJwZEZpbERCbE1pNkdxVW0zNXBsaENEd2pXb29KSnY3RTVaY19ReDI2Y3VyM3JSbDA?oc=5",
+          "added_at": "2026-08-12 15:17:04"
+        },
+        {
+          "uid": "4093e18a3185",
+          "date": "2026-07-27",
+          "title": "Trump may need to allow Chinese minerals as US industry struggles to meet 2027 deadline - Reuters",
+          "summary": "トランプ政権は、米国産業が2027年の期限までにレアアース等の鉱物需要を満たせない見込みのため、中国からのレアアース輸入を認めざるを得ない可能性がある。米国内でのレアアース生産能力の拡充が進展せず、中国への依存継続が不可避となりつつある。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmZzZWxMYmx5WGZmdEFHVm9oenVXVHFDNG8yanVHLXRWRTltUGRiV2lIMk1RbGdsUXdwaU5rUi1MdWdSb192elMzX0xmTERYV0xqOENlVVRONGhtSHRoRXJzTGVIRUZqakFaWk5CcndEWEhLMzVLeTY5UEVHb1JZNlhsNnpfZUdlVkd5ZW10WThUTEVPUkMtT2d3dXlodkVzb3ktVTNicG1uYkI4czYxaFdrekxHMEFWUmZUM2JtOXFKVG1CYTJMWjNrRQ?oc=5",
+          "added_at": "2026-08-12 15:17:04"
+        },
+        {
+          "uid": "2bb29e63fa74",
+          "date": "2026-06-24",
+          "title": "MP Materials, USA Rare Earth Hit by China Export Controls - Mexico Business News",
+          "summary": "中国がレアアース輸出管理を強化したことにより、米国のMP Materialsなどのレアアース企業が直接的な影響を受けている状況が報じられています。これは中国の輸出規制政策が米国のレアアース産業サプライチェーンに対する制約として機能していることを示しています。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVR1T1p3NFhNMDUwV2NkWHN4dDhIYUJnajRzbXItX25raW02dmpZS2VwWlJJMkdJeHcwS2ZWOENlT25MNlEteGtkaXpTV2ZyaDQtbmFocFhqNHBDZE5IWVFRcVJRc2IzNUQ2akwzdW5fTDNBT290aGpEaDhLd1FheUNFdm9McE1yakt4aE13WExSM040N3NvZw?oc=5",
+          "added_at": "2026-08-12 15:17:04"
+        },
+        {
+          "uid": "e4c39bc05b3f",
+          "date": "2026-06-24",
+          "title": "China Targets US Rare Earth Firms: Export Controls Escalate Trade War June 2026 - Intellectia AI",
+          "summary": "中国が米国のレアアース企業を標的として輸出管理を強化し、米中貿易戦争の緊張がさらに高まっている。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yeGxUUXZybjBVWjJHbjVmVksxb1ppcHdNOGstZ2NjcHUtcTFfU0YteFVZdXFnYzE5NEdfRlpOQTdiV3B2MWg1RlF3QTJOZU56SDB6TG5FR3FDUTlla2IxVzBRcTZKa2NyS1VBdWVLTXFHRFVUeVVXMUhB?oc=5",
+          "added_at": "2026-08-12 15:17:04"
+        },
         {
           "uid": "da031c249518",
           "date": "2026-05-20",
@@ -5991,46 +6031,6 @@
           "source_type": "media",
           "url": "https://thehill.com/homenews/house/5970422-cammack-warns-china-ai-threat/",
           "added_at": "2026-07-16 16:24:40"
-        },
-        {
-          "uid": "c683a6008b50",
-          "date": "2026-06-30",
-          "title": "China Expands Japan Defense Blacklist to 80 Firms, Cutting Rare Earth Access - Tech Times",
-          "summary": "中国は日本の防衛関連企業80社をブラックリストに追加指定し、レアアースを含む戦略的に重要な資源へのアクセスを制限する措置を講じた。この措置は日本の防衛力強化に対する中国の報復的な輸出管理政策の強化を示すものである。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMVE0eWZBdy1obWZ1OU5pUFljTVctQ3JVSXVPNGxSbTdBdkxRcXk5aDFiUXBkT2R0QmhwSFV1QUJOUnhqS1M0Qms1NkRpSXUtdXVyaUN5ckN5TkxyUDhnU0V1MGZTV0JzZElpV2Etekwwc0RnMWRZSFVCWkhnbmxWOU0zQ0Vqc0h3Y1owM193ZG1VcU53VXZueXN4UkxhSVBjYmRNRUY2RHRIblFUeXJGWUxMaTRVVE44SGpEbVAyLXV0dnZrOEE?oc=5",
-          "added_at": "2026-07-16 00:28:31"
-        },
-        {
-          "uid": "f5cf2241b0fa",
-          "date": "2026-07-15",
-          "title": "China Moves to Eliminate the Missing Link in Its Rare Earth Empire - Rare Earth Exchanges",
-          "summary": "中国がレアアース産業の川下産業（加工・製造）の強化に注力しており、レアアース輸出管理と一体となって、資源から最終製品までの統合的支配を確立しようとしている。これにより、中国は国際市場におけるレアアース関連産業の競争力強化と戦略的なサプライチェーン支配を進めている。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOU92dU0zak1WUXFwYXhIdnpMRG9LYjk3VXhmTVphXzFXeGlidUthY3NkVzR2TndlZXM1blBJRGczU0o3YjlJU21YcVZmSzhMazA1eEI2aktwcmVuWjJ2ZHRiWXF4a1FvY3JYNTNfVFhVeWhiWTNtY0s1QmZhM0hFRWdJUDk0WVN4dFg1TkUzamwwZHpIZmlnRWZpazhla2NLSWxWM2F3?oc=5",
-          "added_at": "2026-07-16 00:28:31"
-        },
-        {
-          "uid": "e7fd6bf235df",
-          "date": "2026-06-22",
-          "title": "China adds 10 US firms, including rare-earth miner, to export control list - Al Jazeera",
-          "summary": "中国は米国の10社（レアアース鉱山企業を含む）を輸出管理規制リストに追加し、レアアース関連産業への制裁を強化しました。これは米中間の技術・資源をめぐる対立が一層激化していることを示しています。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnkxelBpRHVwRWNKbmZPMVM4Si1FQlZRVHh5MHZxRlFSWU9paHBVTmZBSW5uR0ZEcnlJeFM1WTNpR1pZMEJ3am1YN3NEVzRZdkZMV2ZibjJqaXZVVU1RNFZINHR1NnVwbnVSWVJxbVJxejRSbDVjZ3E5MFhVUEcwcFVBUFlfeWlfVXJNWjNQOWItNXdCR0J4azhqcTBPZEhOakpaU0p4WElyLW9tQjF0bTdhY9IBuAFBVV95cUxOVHVRVWs4LVJlN1h6cS1ndFVDUE1qU1FNbWtBdHJtS2Z6MUlnYU5ZaUdla202N1FTUVpucDBWd0pxSnJ6c21tQmpsQjloeTNMbHR0MHNReVpwX2lqQmFueU5DdndzR2pzcExZcE5QdEkybFNwdktoMEg3RDdMcE9OZkEyd3hiQ3NBSmFxMUxxbS1UUEplaUU2a0gyQjFXMnpabHl1TzU2dWtwUFMtU0dRQldySVBBZ2Zt?oc=5",
-          "added_at": "2026-07-16 00:28:31"
-        },
-        {
-          "uid": "8c76e253f5f0",
-          "date": "2026-07-15",
-          "title": "‘Chokepoint Politics’: China’s Rare-Earth Statecraft and India’s Search for Strategic Autonomy - orfonline.org",
-          "summary": "中国はレアアース資源の輸出管理を戦略的に活用して地政学的影響力を行使しており、インドを含む各国がこの供給依存から脱却するため、レアアース産業の国内開発やサプライチェーンの多角化による戦略的自律性の確保を模索している。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlRDdXNFUjBlTkFaMi1UYjZ3cGI2eHowNnhkRmZQR3l6NFdvRDlqSWppU0RwbV9nQ0xPcjljY3NhUGhtMUtzQ0ZuUHA3djFjOU05amJKVFhPTWhyX3VSN2c4V2JkdHVpMGVXak1OM0puMF9GSDlualJYN25WNFlmb2xCM0l6d3NNS0ZMdkJqb2Y3N0dnaU5pX01kdHVjbzJZVUppMTFFa1JuRjV4SnNLbjVzMDJZQ1VEdk5DRzRWNVJNS1FheVE?oc=5",
-          "added_at": "2026-07-15 16:17:12"
         }
       ]
     }
