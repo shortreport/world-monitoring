@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12 15:17:10",
+  "generated_at": "2026-08-13 00:00:19",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-12 15:16:36",
+      "last_checked": "2026-08-12 23:59:53",
       "items": [
         {
           "uid": "497d6e8b9677",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-12 15:16:48",
+      "last_checked": "2026-08-13 00:00:03",
       "items": [
+        {
+          "uid": "a1f00d51032d",
+          "date": "2026-06-25",
+          "title": "Polestar forced to stop US sales due to new ban on Chinese software, Australia unaffected - CarExpert",
+          "summary": "米国の新しい法規制により、中国製ソフトウェアを搭載するPolestarは米国での販売を停止することを余儀なくされましたが、オーストラリアでの販売は影響を受けていません。この措置は、S.4429法案に基づく中国関連技術に対する米国の規制強化の一環です。",
+          "source": "米商務省・BIS",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNG4wYWdYMWk4cnVCd0V6QXZPSUZtanBxQUhTbnRPUDBoNDdvYTBKSmdQVW53U291X2VFaTQtQzlLVnhUcEhNYWFaLW5yM3dlT0hQNlFVMi1SejdsUGZvTmFJMjF6Q3dFWmxBQWh3Q1I5REZmTEpTVl9ZVHFEZjZsRW14R2FPanlmZWcxTHVLeWZjR1YzOFZzTzZtQmJYSTVMalFIUHhvOUNkODg2TjJMQ1NQNXNJRVp1blFIRUFNR2hkWm5Q?oc=5",
+          "added_at": "2026-08-13 00:00:01"
+        },
         {
           "uid": "25d992f9387e",
           "date": "2026-08-11",
@@ -4010,16 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOVdSWlFpcnZ3M3NRQWVYWlcyQ3hRWFNFdGg3OFlaaU52ejhEOEhka0l1djlhRERUYkZTTllCNVhVcjlLaDd4TXhSaHJ2SXBfRXAtVHJEcXRBWHpONzc4cUk5c0JrWGd1R1psMm5DMEdmcVpmRWlldFNrRXVESXpZZFp4MzdkVWVLQk5DZmZlR0hmRlc0cXZXOGt3?oc=5",
           "added_at": "2026-06-29 20:30:45"
-        },
-        {
-          "uid": "6380c33f40a1",
-          "date": "2026-06-26",
-          "title": "Wheel Alignment Monitoring Market Trends And Forecast Analysis Reveal Strong Long-Term Potential - EIN News",
-          "summary": "申し訳ございませんが、提供いただいた記事内容は「Wheel Alignment Monitoring Market Trends And Forecast Analysis Reveal Strong Long-Term Potential」というタイトルのみで、本文が含まれていないため、具体的な要約ができません。記事の本文をご提供いただければ、米国接続車両安全保障法（S.4429）との関連性を踏まえて要約させていただきます。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWnVlaGZEVDBDMHFiVEl4QWNHbjRaNFRkbUZqM2xtVWVHMUtjcVpCajg1ay1wZnJYWlBuZWNKdDhVbVVJa0hvM1FlRDR6M2JFdmFNcFNJMGdOTUJPVW9fY0RmM0JuaWg1eDFZRENWNjh3UUN2ZXgxOEhjUXZzRk5EZjNWZ09pV0NSUWxFaWMyNC1xblF1cVM4MEkxMUU2QlhiNGNUSm1ZUVV2dTNrcXVtdzJSNHVSWDA2Z1J3REVlUDNLbUIxNm9FSmRLY0pyWE10OTVycUpB0gHbAUFVX3lxTFB2TC02ZVhEX3hxMWx5cUtDNm95S0Q5T0RVODZZdGdjMlhXc2JTZ1lxSHJpdnFtOS1jTkw5Wl9VdllsMDNBVE1VZGFBNFh1WEJMdS1oOHpKdlZKaTltWm0xXzVaZlRnd3ptS2o5VEx0X2ZubFdtSV9qQU1aT1p4Q25UMVJvcHZscFVReHRvMnNIcGNSYVB3LWVQT0h0YlZIY3R5SjdEY2hqc3hndzNCbldFQUN0Y1RpcUZtWThEeW1KY3VJUTRiTkJxaVpoVVlWU0N1MGFMMmM4LTM2TQ?oc=5",
-          "added_at": "2026-06-29 20:30:45"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-12 15:17:10",
+      "last_checked": "2026-08-13 00:00:19",
       "items": [
+        {
+          "uid": "f5cf2241b0fa",
+          "date": "2026-07-15",
+          "title": "China Moves to Eliminate the Missing Link in Its Rare Earth Empire - Rare Earth Exchanges",
+          "summary": "中国は、レアアース産業の川上から川下までの統合を進めており、サプライチェーン全体における支配力を強化することで、国際市場への影響力を拡大しようとしている。このような垂直統合戦略により、中国はレアアース輸出に対するコントロール強化を図り、戦略的競争における優位性を確保している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOU92dU0zak1WUXFwYXhIdnpMRG9LYjk3VXhmTVphXzFXeGlidUthY3NkVzR2TndlZXM1blBJRGczU0o3YjlJU21YcVZmSzhMazA1eEI2aktwcmVuWjJ2ZHRiWXF4a1FvY3JYNTNfVFhVeWhiWTNtY0s1QmZhM0hFRWdJUDk0WVN4dFg1TkUzamwwZHpIZmlnRWZpazhla2NLSWxWM2F3?oc=5",
+          "added_at": "2026-08-13 00:00:16"
+        },
+        {
+          "uid": "e7fd6bf235df",
+          "date": "2026-06-22",
+          "title": "China adds 10 US firms, including rare-earth miner, to export control list - Al Jazeera",
+          "summary": "中国がレアアース鉱山企業を含む米国企業10社を輸出管理リストに追加し、技術やレアアースなどの戦略物資の輸出制限を強化した。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnkxelBpRHVwRWNKbmZPMVM4Si1FQlZRVHh5MHZxRlFSWU9paHBVTmZBSW5uR0ZEcnlJeFM1WTNpR1pZMEJ3am1YN3NEVzRZdkZMV2ZibjJqaXZVVU1RNFZINHR1NnVwbnVSWVJxbVJxejRSbDVjZ3E5MFhVUEcwcFVBUFlfeWlfVXJNWjNQOWItNXdCR0J4azhqcTBPZEhOakpaU0p4WElyLW9tQjF0bTdhY9IBuAFBVV95cUxOVHVRVWs4LVJlN1h6cS1ndFVDUE1qU1FNbWtBdHJtS2Z6MUlnYU5ZaUdla202N1FTUVpucDBWd0pxSnJ6c21tQmpsQjloeTNMbHR0MHNReVpwX2lqQmFueU5DdndzR2pzcExZcE5QdEkybFNwdktoMEg3RDdMcE9OZkEyd3hiQ3NBSmFxMUxxbS1UUEplaUU2a0gyQjFXMnpabHl1TzU2dWtwUFMtU0dRQldySVBBZ2Zt?oc=5",
+          "added_at": "2026-08-13 00:00:16"
+        },
         {
           "uid": "1b3996c405e6",
           "date": "2026-06-24",
@@ -6010,26 +6030,6 @@
           "source": "防衛産業",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSGlqVVlxRDBmTWJlWC1DdHdOdUJGcS1VcTU5SUhpYW82Qk44Ti16bUNoUVlQdU5WMERnWHJBdHJJSnIzNk03UVIxS2kxeEdBRGNlZi1peTVUSWdKdE82Y1hNY2poZy1XNUFQWTV6MnFSbFh4cHVyRkZrRVllZ3JITEpkdVFtLXFPbVZJUS1HLWwtNU81TDJidWo0S2NIZFZ2UGhsRk03TU9MR2U4b2NFTXZGTVB3amp1eVp0LXBFcWwySGpCZW1pdFBnR0NXMFNsT0pTTW4zOHNOSU5tUEloVmVweFF5N0NzdlhnckdEUXo?oc=5",
-          "added_at": "2026-07-16 16:24:40"
-        },
-        {
-          "uid": "4f13c080a285",
-          "date": "2026-07-15",
-          "title": "Many countries favor China and Xi over Trump and the US: Polling",
-          "summary": "この記事は、レアアース輸出管理とは直接関係なく、米国とトランプ大統領に対する世界的な好感度の低下と、中国およびXi Jinping指導部に対する好感度の上昇を示すPew Research Centerの調査結果を報告しています。したがって、中国レアアース輸出管理に関する具体的な情報は含まれていません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/international/5970552-pew-survey-china-us-favorability/",
-          "added_at": "2026-07-16 16:24:40"
-        },
-        {
-          "uid": "bc7dea543b01",
-          "date": "2026-07-15",
-          "title": "Cammack says China has deployed ‘digital twins’ of every lawmaker",
-          "summary": "本記事は人工知能覇権に関する米国政界の議論を扱っており、レアアース輸出管理との直接的な関連性は見出せません。レアアースに関する具体的な情報は記事に含まれていないため、当該テーマでの要約は不可能です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/house/5970422-cammack-warns-china-ai-threat/",
           "added_at": "2026-07-16 16:24:40"
         }
       ]
