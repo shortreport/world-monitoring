@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13 00:00:19",
+  "generated_at": "2026-08-13 15:19:12",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-12 23:59:53",
+      "last_checked": "2026-08-13 15:18:45",
       "items": [
         {
           "uid": "497d6e8b9677",
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-13 00:00:03",
+      "last_checked": "2026-08-13 15:18:56",
       "items": [
+        {
+          "uid": "a241cbef821c",
+          "date": "2026-08-13",
+          "title": "GM, Ford secure Army truck contracts under new national security rules - The Detroit News",
+          "summary": "# 要約\n\nGM とフォードが新しい国家安全保障ルールに基づいて米陸軍のトラック契約を獲得したことは、S.4429 が意図する外国資本や中国などの潜在的脅威からの自動車サプライチェーン保護が機能していることを示唆しています。本法は防衛関連車両の製造・調達において国内産業基盤の維持と供給網の安全性確保を優先する政策的枠組みを反映しています。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTTE2cXRCb3ZsT1MxMzRsZ1hLbXlHN0NsOEpKOXdxcDJhZVZoNjZ5OV9WTVN3Rl9TalJra2tOaEw4LXIxZmFBemVBVHhGS1dPM0c1X3JyTjVOVHUyRHl6bHVqQTkwZHBvSE9aRW5QRkNlSGwyc2lHc2dYaU16OThwQUxCelhGYzBPV0txZk5lelJvVURyaW92WXRxUU9fWk5sdlVpZU51MUJFYUNSRFRtWEZNU0NqT3FKeDk4c0ZlUW1RNDV1WXRxR2prWDVCa3BjX29HQ09ocUtKYk9Bbk5TNVo0QU1faXZ2QW9WZkFlU0E4Y2RrcE9zZW9wajRiMC15Ync?oc=5",
+          "added_at": "2026-08-13 15:18:52"
+        },
+        {
+          "uid": "ab719b6c2210",
+          "date": "2026-08-06",
+          "title": "US Federal Communications Commission prohibits new foreign-made power inverters and mobile robots - White & Case LLP",
+          "summary": "米国FCC（連邦通信委員会）は、米国接続車両安全保障法（S.4429）に基づき、外国製のパワーインバーターと移動型ロボットの新規販売を禁止し、中国などからの自動運転技術関連機器の輸入を制限する措置を実施しました。この規制は、自動運転車両の通信システムに対する外国勢力のアクセスを防ぎ、国家安全保障上の脅威から米国の自動車インフラを保護することを目的としています。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcXgyNFNNYTk4d0xHVFdlcjhTdVlIWnV6cnE5ZDVsUEMtZXdRdllRTzBjNHY4dlZBSTBTVmRpWWZteElVRWtfZ25ybkpOa3UyOGhSN2l2S3B1dkZBc1dqNmlYOU1DVDZGbWVTOGFQSFBxNkxjbWpLODNKYllkSHlDWDF4WXBDM253OXdscEFZOEFfWEtOUFVyOFFLdkYwdHFLcUxuNmRScHVFYmJOUnByblZrb29vNVdBbmcwWnhBQWk?oc=5",
+          "added_at": "2026-08-13 15:18:52"
+        },
         {
           "uid": "a1f00d51032d",
           "date": "2026-06-25",
@@ -4000,26 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU093NkhRWlktUmI5N0o1d0tLTDRUVWtqVkQ1c3lDVVNTZlFsT3ZtRzZiMHRiUUJzZl9zVGV2WEMzbTMxaDVyRG5qNERwSGlSQTh0N1U1TlVLbkZTUEFjTlBVaDdLWE9COGxHMWpFejdSeTZhVTFCRHhUdnp0SW9KZ2NjOXpIaGQxLWlaYm9Rb1Rja2dZeE5WbTlLeFBCNFdob0RLRHJIZ1hob29hb2ExdHp1ZGstMUtBTWRxNXc5Z2pOVDhoWFpxSFNFX0E4eEFFX2l4ZU12NXVMMmh5LU1UckFfOGtpRTNnZnktNWlCWXFlcnMzTWVMOGZDOVlKZG8wMEtra3B30gGLAkFVX3lxTFBLR2JDczNPd2kzOGt6dkRJa01xU1FzVU1LRzlxd2g5UWVZSFhsbzZYLW5ZaTloQTVydklLT3NKN0QxQXo3dEJiTVprRk96c3ptM1NkdWxHYVBEaWY0NVFzV1JCYmx2Y3lpNlNqMkNGTEo3aG1JdzZZTHJuYllWUmloV0NCMUVIM1B3aDNGZzBnbDV0eGdkRHh1UlNBODV1bW9BeWFKb2t1YmRvaWI3cG5hV0s4a2VIbVBIelVVdGoya2ZDU2ZXQ25iaVIwUzdITHZjQTNsUDE5dXN2dVBqLXNHZVI3eml4SnhpTW9nLTVSVHk1T2JFS0dPU2x5dUZNZl9mWmVIQjZwRGgxUQ?oc=5",
           "added_at": "2026-06-30 19:07:47"
-        },
-        {
-          "uid": "5cdd8d4daeb5",
-          "date": "2026-06-25",
-          "title": "US Auto Giants Panic First as They Try to Choke China's Supply Chains - 36Kr",
-          "summary": "米国の自動車大手企業は、中国のサプライチェーンを制限しようとする試みの中で、同法案によるセキュリティ規制の強化が自社の調達コストや開発期間に大きな影響を与えることに懸念を抱いている。特に、電動車やコネクテッドカーに搭載されるソフトウェアやチップに対する安全保障要件の厳格化により、既存の中国依存の供給体制の組み替えが急務となっている。",
-          "source": "議員発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zblBUOG5pdXV4UWFJMVFaLTVHZ1FqSUw5a1luQm03MFlvdjFnTks2eDFwVm1GN0FvcTRUNU1CRFF2Vmw0U1ZDRUhQZDJ2UG9kQUt3?oc=5",
-          "added_at": "2026-06-30 01:16:09"
-        },
-        {
-          "uid": "fa3aa1ae5cb4",
-          "date": "2026-06-26",
-          "title": "EV brand with Chinese ties banned from selling cars in the US - drive.com.au",
-          "summary": "申し訳ございますが、提供していただいたのはタイトルのみで、記事の具体的な内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、S.4429（米国接続車両安全保障法）の文脈での要約をお作りすることが可能です。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOVdSWlFpcnZ3M3NRQWVYWlcyQ3hRWFNFdGg3OFlaaU52ejhEOEhka0l1djlhRERUYkZTTllCNVhVcjlLaDd4TXhSaHJ2SXBfRXAtVHJEcXRBWHpONzc4cUk5c0JrWGd1R1psMm5DMEdmcVpmRWlldFNrRXVESXpZZFp4MzdkVWVLQk5DZmZlR0hmRlc0cXZXOGt3?oc=5",
-          "added_at": "2026-06-29 20:30:45"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-13 00:00:19",
+      "last_checked": "2026-08-13 15:19:12",
       "items": [
+        {
+          "uid": "46011a75d2fd",
+          "date": "2026-08-13",
+          "title": "Rules-based critical mineral export oversight enhanced - China Daily",
+          "summary": "中国は重要鉱物（レアアースを含む）の輸出管理を強化し、ルールベースの監視体制を整備することで、国家戦略的資源の保護と国際市場への供給管理をより厳格に行う方向へシフトしている。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vcHFDY1c1d1BiVmp6X3RVSEwwT29YWjZNc1YtUWdDS1NSNl84UXVoZGVWUnZ2TDByOEdKLU41cThYVjFhazNBWTE3X3hldDQ3V0VKYUVWemU2N3k4NGg5N29QcWFZNDQtVzVzVEdKaXA1QzZpYkI4SkxXYVY1UQ?oc=5",
+          "added_at": "2026-08-13 15:19:08"
+        },
+        {
+          "uid": "54daf4f9144a",
+          "date": "2026-06-25",
+          "title": "China targets US rare earth and defence-linked entities with dual-use export ban - source.benchmarkminerals.com",
+          "summary": "中国が米国のレアアース関連企業と防衛関連企業を対象に、デュアルユース製品の輸出禁止措置を発動した。この措置は米国による中国への技術規制に対する報復として機能している。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMEtnMWdIYV80b05mY1JKTmY3ODRnRW1CT3ZxN0ZNdjAzSGhaMjFOdE5vN0h5ZFNCbDRYRmwyQ0dSVWlIdFNCUTJJalBZZUhQQUlyTXVvc3E4RzMta1FnaVppSUNIcWhSazdFY2J5eFZzU2xPZEptam9uVllGNV90ZV9IYWZkSzM3aDU0akJwYUtoNXgzQ3VJVnJSZ09JeTRQMFBtOFJUajJyRlkyLWduc2E2ODBaYnhaaFlZb2lUM3BPeUk?oc=5",
+          "added_at": "2026-08-13 15:19:08"
+        },
+        {
+          "uid": "94468c5a044c",
+          "date": "2026-05-18",
+          "title": "Brussels Weighs China Supply-Chain Rules as Trade Deficit Becomes Security Issue - EU Today",
+          "summary": "EUは中国からのレアアースを含む戦略的物資の供給依存を減らすため、サプライチェーン規制の強化を検討しており、経済的な貿易赤字が国家安全保障上の懸念に転換しているという状況が示されています。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QT1UwNXQwdFNsWEpNWGFhV085RENyYks0VFhGOVVscXFZaDM0LTZsWFFnSGVIZmcxOUtVeGJ4QkZteWFLWHc5X3FSZnNZYkkzdHBNY0FmV2RVYjBSUE5HTjNuUWlLU2RwZ2dOeThn?oc=5",
+          "added_at": "2026-08-13 15:19:08"
+        },
         {
           "uid": "f5cf2241b0fa",
           "date": "2026-07-15",
@@ -6000,36 +6030,6 @@
           "source": "需要産業（防衛・EV・航空）",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnNrRGJtZ1dDUDdxTW9BdmNOcWZqRF92ZnpFLWtEUmVmT2lEeGxSQVV0Z1ViSUxURTZsdDg5YWJ5Y0VNbE0yZkw2UkRSdG9WUVEzbW5XVVpCQ3dQNmd1VTVGUkY0WUU0dWxRTktkeGMtMmNSZFc2YUFabFNjMHliTWFjVE44Y0lpeEhDOUVoTTR0ZXM?oc=5",
-          "added_at": "2026-07-16 16:24:40"
-        },
-        {
-          "uid": "281b2ad1bcd9",
-          "date": "2026-05-31",
-          "title": "China Rare Earth Exports to Japan: 2026 Supply Crisis Explained - Discovery Alert",
-          "summary": "中国が戦略的にレアアース輸出を制限していることで、2026年に日本が深刻な供給危機に直面する可能性があり、これは電子機器や再生可能エネルギー産業に大きな影響を与える恐れがある。",
-          "source": "需要産業（防衛・EV・航空）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdXFpeTFmZjl4MEliMTRaZzhhREZvbGtaWFNrcHJXX2Z0bEdNdUdPTkRERkwtX0hlOFY0eU12VHVuZGxqVnA2TUh1ekw2VmRVSlVxMThleURnODMxblgxVXE5cXF6MlNldjJMcHZLbUwxQjN0YjV3elpFb2k2UFhHZHNzZWxsZFhQaDJTQUFWWFQ?oc=5",
-          "added_at": "2026-07-16 16:24:40"
-        },
-        {
-          "uid": "158288afdfde",
-          "date": "2026-06-22",
-          "title": "China moves against US rare earth, defence firms in ‘calibrated’ response to Pentagon blacklist - The Straits Times",
-          "summary": "中国が米国防総省のブラックリスト指定に対抗して、米国防関連企業へのレアアース輸出制限を含む「段階的な報復措置」を実施している。これは米中間の技術・防衛分野をめぐる対立が、レアアース等の戦略物資の輸出管理を通じた経済的制裁に発展していることを示している。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLUdUdXF6dWRuMFVHNURVNWgtME9GeTQ4amJPc3V5c3JIZWhMSVBzbUJLSUFOb3FTNnpHQ2dleXVYYWIyckEtZlEwWnJsSzJzREh6OS1RUWNWVDJ5OUI3dEFQam1Gd2lpTjR3NGdNQU1FanNlMEhxWkhEVlhYMWU4bjVQSy1QT0x1dlpTQlc4QmpCNllNeFd0d1o5SEF2OG9qdWxlS0FvMjZuXzlSMHE5UlVuQVZFWUtScldOOWREdEdKb3o4eFZvd05nNkgxX0dVR3c?oc=5",
-          "added_at": "2026-07-16 16:24:40"
-        },
-        {
-          "uid": "3e53a5b04424",
-          "date": "2026-06-22",
-          "title": "China sanctions 10 US firms in rare earth, defence sectors - MSN",
-          "summary": "中国は米国のレアアース・防衛関連企業10社に対して制裁を実施し、これは米国による中国企業への制限措置に対する報復措置である。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSGlqVVlxRDBmTWJlWC1DdHdOdUJGcS1VcTU5SUhpYW82Qk44Ti16bUNoUVlQdU5WMERnWHJBdHJJSnIzNk03UVIxS2kxeEdBRGNlZi1peTVUSWdKdE82Y1hNY2poZy1XNUFQWTV6MnFSbFh4cHVyRkZrRVllZ3JITEpkdVFtLXFPbVZJUS1HLWwtNU81TDJidWo0S2NIZFZ2UGhsRk03TU9MR2U4b2NFTXZGTVB3amp1eVp0LXBFcWwySGpCZW1pdFBnR0NXMFNsT0pTTW4zOHNOSU5tUEloVmVweFF5N0NzdlhnckdEUXo?oc=5",
           "added_at": "2026-07-16 16:24:40"
         }
       ]
