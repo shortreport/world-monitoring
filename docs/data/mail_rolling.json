@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-08-14 09:47 JST",
   "total": 50,
-  "toyota_summary": "The U.S. and Canada are negotiating a limited trade deal ahead of an August 19 deadline, with Section 338 tariffs under discussion. A partial agreement could reshape how the two countries handle cross-border auto supply chains, lowering some duties but likely keeping targeted levies in place. This matters because automakers source parts across North America, and any tariff carve-outs or new restrictions change sourcing math and production costs overnight.\n\nOil flowing through the Strait of Hormuz—about 5 million barrels daily even under Iran sanctions—is keeping Brent crude prices lower than they would otherwise be. Cheaper fuel reduces consumer incentive to buy electric vehicles and shifts demand back toward larger, higher-margin vehicles. Watch whether geopolitical flare-ups in the Middle East disrupt that flow.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20260814_0436",
@@ -11,7 +11,12 @@
       "date_label": "AUG 14  04:36",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "China will tighten offshore taxation as fiscal pressure mounts",
+      "html": "data/pdfs/20260814_0436_China_will_tighten_offshore_taxation_as_fiscal_pre.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260814_0226",
@@ -21,7 +26,12 @@
       "date_label": "AUG 14  02:26",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Oil prices will fall even if Hormuz traffic only partially recovers",
+      "html": "data/pdfs/20260814_0226_Oil_prices_will_fall_even_if_Hormuz_traffic_only_p.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260814_0112",
@@ -31,7 +41,12 @@
       "date_label": "AUG 14  01:12",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Analyzing global oil and gas markets",
+      "html": "data/pdfs/20260814_0112_Analyzing_global_oil_and_gas_markets.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260814_0031",
@@ -51,7 +66,12 @@
       "date_label": "AUG 14  00:23",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "This week in polling: Forecasters favor Democrats in Senate",
+      "html": "data/pdfs/20260814_0023_This_week_in_polling__Forecasters_favor_Democrats_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260813_2202",
@@ -61,7 +81,12 @@
       "date_label": "AUG 13  22:02",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "China's political and economic outlook - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260813_2202_China's_political_and_economic_outlook_-_EG_Confer.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260813_2138",
@@ -71,7 +96,12 @@
       "date_label": "AUG 13  21:38",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU to scrape through winter on tight gas reserves",
+      "html": "data/pdfs/20260813_2138_EU_to_scrape_through_winter_on_tight_gas_reserves.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260813_2002",
@@ -81,17 +111,27 @@
       "date_label": "AUG 13  20:02",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Analysing global oil & gas markets - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260813_2002_Analysing_global_oil_&_gas_markets_-_EG_Conference.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260813_1806",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/08/13",
       "pdf": "data/pdfs/20260813_1806_「ジェトロ・ビジネス短信」2026_08_13.pdf",
       "date_label": "AUG 13  18:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" 2026/08/13",
+      "html": "data/pdfs/20260813_1806_「ジェトロ・ビジネス短信」2026_08_13.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260813_1806_「ジェトロ・ビジネス短信」2026_08_13_en.pdf"
     },
     {
       "ts": "20260813_1736",
@@ -101,7 +141,12 @@
       "date_label": "AUG 13  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Ukraine’s new ballistic missile puts Putin within reach",
+      "html": "data/pdfs/20260813_1736_Ukraine’s_new_ballistic_missile_puts_Putin_within_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260813_1459",
@@ -110,8 +155,13 @@
       "pdf": "data/pdfs/20260813_1459_ジェトロ地域・分析レポートの新着のご案内（2026年8月13日号）.pdf",
       "date_label": "AUG 13  14:59",
       "read_min": 1,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Notice of New JETRO Regional and Analysis Reports (August 13, 2026 Issue)",
+      "html": "data/pdfs/20260813_1459_ジェトロ地域・分析レポートの新着のご案内（2026年8月13日号）.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260813_1459_ジェトロ地域・分析レポートの新着のご案内（2026年8月13日号）_en.pdf"
     },
     {
       "ts": "20260813_1351",
@@ -121,7 +171,12 @@
       "date_label": "AUG 13  13:51",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The EU’s Middle East impasse",
+      "html": "data/pdfs/20260813_1351_The_EU’s_Middle_East_impasse.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260813_1101",
@@ -131,7 +186,12 @@
       "date_label": "AUG 13  11:01",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "India update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260813_1101_India_update_-_EG_Conference_Call,_REMINDER.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260813_1000",
@@ -141,7 +201,12 @@
       "date_label": "AUG 13  10:00",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "India update「インドに関する最新アップデート」（同時通訳あり） - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260813_1000_India_update「インドに関する最新アップデート」（同時通訳あり）_-_EG_Confere.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260813_0802",
@@ -151,7 +216,12 @@
       "date_label": "AUG 13  08:02",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "米国はバイオテクノロジー分野で中国に対して業界全体の規制ではなく、財務省の規則制定やバイ"
+      "excerpt": "米国はバイオテクノロジー分野で中国に対して業界全体の規制ではなく、財務省の規則制定やバイ",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20260813_0802_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260813_0233",
@@ -161,7 +231,12 @@
       "date_label": "AUG 13  02:33",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How Russian attacks, European protectionism and drought are trapping Ukraine’s vital grain",
+      "html": "data/pdfs/20260813_0233_How_Russian_attacks,_European_protectionism_and_dr.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_2237",
@@ -171,7 +246,12 @@
       "date_label": "AUG 12  22:37",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU will likely scrape through winter on tighter gas reserves",
+      "html": "data/pdfs/20260812_2237_EU_will_likely_scrape_through_winter_on_tighter_ga.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_2208",
@@ -181,7 +261,12 @@
       "date_label": "AUG 12  22:08",
       "read_min": 8,
       "toyota": true,
-      "excerpt": "ホルムズ海峡を通じて1日約500万バレルの石油が流通しており、イラン制限下でもブレント油価"
+      "excerpt": "ホルムズ海峡を通じて1日約500万バレルの石油が流通しており、イラン制限下でもブレント油価",
+      "subject_en": "Oil leaking through Hormuz to keep prices lower",
+      "html": "data/pdfs/20260812_2208_Oil_leaking_through_Hormuz_to_keep_prices_lower.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_2139",
@@ -191,7 +276,12 @@
       "date_label": "AUG 12  21:39",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "China's political and economic outlook",
+      "html": "data/pdfs/20260812_2139_China's_political_and_economic_outlook.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_2106",
@@ -201,7 +291,12 @@
       "date_label": "AUG 12  21:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The backlash to social media bans has already begun",
+      "html": "data/pdfs/20260812_2106_The_backlash_to_social_media_bans_has_already_begu.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_1905",
@@ -211,7 +306,12 @@
       "date_label": "AUG 12  19:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Breakfast looks a lot more expensive under new EU pesticide plans",
+      "html": "data/pdfs/20260812_1905_Breakfast_looks_a_lot_more_expensive_under_new_EU_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_1835",
@@ -221,17 +321,27 @@
       "date_label": "AUG 12  18:35",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update in Japanese  (June 29, 2026)",
+      "html": "data/pdfs/20260812_1835_eg_update_in_Japanese_(June_29,_2026).html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_1827",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/08/12",
       "pdf": "data/pdfs/20260812_1827_「ジェトロ・ビジネス短信」2026_08_12.pdf",
       "date_label": "AUG 12  18:27",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" 2026/08/12",
+      "html": "data/pdfs/20260812_1827_「ジェトロ・ビジネス短信」2026_08_12.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260812_1827_「ジェトロ・ビジネス短信」2026_08_12_en.pdf"
     },
     {
       "ts": "20260812_1753",
@@ -241,7 +351,12 @@
       "date_label": "AUG 12  17:53",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Philippines: Fiscal constraints limit options to boost lackluster growth",
+      "html": "data/pdfs/20260812_1753_Philippines__Fiscal_constraints_limit_options_to_b.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_1736",
@@ -251,7 +366,12 @@
       "date_label": "AUG 12  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Farage vs. Binface: Inside the Clacton by-election circus",
+      "html": "data/pdfs/20260812_1736_Farage_vs._Binface__Inside_the_Clacton_by-election.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_1641",
@@ -261,7 +381,12 @@
       "date_label": "AUG 12  16:41",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Merz’s deal with the Taliban alarms Afghan dissidents in Germany",
+      "html": "data/pdfs/20260812_1641_Merz’s_deal_with_the_Taliban_alarms_Afghan_disside.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_1359",
@@ -271,7 +396,12 @@
       "date_label": "AUG 12  13:59",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe’s growing pains",
+      "html": "data/pdfs/20260812_1359_Europe’s_growing_pains.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_0836",
@@ -281,7 +411,12 @@
       "date_label": "AUG 12  08:36",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "セクション338関税の回避に向けた交渉が進展しており、限定的な合意により米国・カナダ間のよ"
+      "excerpt": "セクション338関税の回避に向けた交渉が進展しており、限定的な合意により米国・カナダ間のよ",
+      "subject_en": "Daily Research Summary - Aug 11th, 2026",
+      "html": "data/pdfs/20260812_0836_Daily_Research_Summary_-_Aug_11th,_2026.html",
+      "summary_en": "Eurasia Group reports that US-Canada negotiations aimed at averting Section 338 tariffs are gaining momentum, and a limited trade agreement could pave the way for broader USMCA discussions. Such a deal would also open the door to expanded US-Canada trade and defense talks, with significant implications for the integrated North American auto sector. Automakers reliant on cross-border supply chains would benefit from reduced tariff uncertainty.",
+      "summary_ja": "ユーラシア・グループの報告によると、第338条関税を回避するための米加交渉が勢いを増しており、限定的な貿易合意が実現すればUSMCAを巡るより広範な協議への道が開かれる可能性がある。この合意はまた、米加間の貿易・防衛協議の拡大にもつながるとみられ、北米で統合されたサプライチェーンを持つ自動車業界に大きな影響を与える。国境を越えた供給網に依存する自動車メーカーにとって、関税の不確実性緩和は追い風となる。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_0802",
@@ -291,7 +426,12 @@
       "date_label": "AUG 12  08:02",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20260812_0802_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_0320",
@@ -301,7 +441,12 @@
       "date_label": "AUG 12  03:20",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Wildfires will expose limits of environmental governance and market frameworks",
+      "html": "data/pdfs/20260812_0320_Wildfires_will_expose_limits_of_environmental_gove.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_0016",
@@ -311,7 +456,12 @@
       "date_label": "AUG 12  00:16",
       "read_min": 7,
       "toyota": true,
-      "excerpt": "ウィスコンシン州、ミネソタ州、コネチカット州での民主党予備選は、進歩派イデオロギーと世代"
+      "excerpt": "ウィスコンシン州、ミネソタ州、コネチカット州での民主党予備選は、進歩派イデオロギーと世代",
+      "subject_en": "Progressive influence and desire for generational change drive Tuesday's Democratic primaries",
+      "html": "data/pdfs/20260812_0016_Progressive_influence_and_desire_for_generational_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_0002",
@@ -321,7 +471,12 @@
       "date_label": "AUG 12  00:02",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "NEW TIME: India update",
+      "html": "data/pdfs/20260812_0002_NEW_TIME__India_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260812_0000",
@@ -331,7 +486,12 @@
       "date_label": "AUG 12  00:00",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "India update「インドに関する最新アップデート」（同時通訳あり）",
+      "html": "data/pdfs/20260812_0000_India_update「インドに関する最新アップデート」（同時通訳あり）.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260811_2323",
@@ -341,7 +501,12 @@
       "date_label": "AUG 11  23:23",
       "read_min": 4,
       "toyota": true,
-      "excerpt": "トランプ大統領の関税脅迫によりUS-カナダ交渉が活発化し、8月19日の期限前に限定的な貿易協"
+      "excerpt": "トランプ大統領の関税脅迫によりUS-カナダ交渉が活発化し、8月19日の期限前に限定的な貿易協",
+      "subject_en": "USMCA reset possible as tariff deal edges closer",
+      "html": "data/pdfs/20260811_2323_USMCA_reset_possible_as_tariff_deal_edges_closer.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260811_2121",
@@ -351,7 +516,12 @@
       "date_label": "AUG 11  21:21",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "India update「インドに関する最新アップデート」（同時通訳あり）",
+      "html": "data/pdfs/20260811_2121_India_update「インドに関する最新アップデート」（同時通訳あり）.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260811_2116",
@@ -361,7 +531,12 @@
       "date_label": "AUG 11  21:16",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "India update",
+      "html": "data/pdfs/20260811_2116_India_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260811_1905",
@@ -371,7 +546,12 @@
       "date_label": "AUG 11  19:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Greece’s aging power grid blamed for catastrophic wildfires",
+      "html": "data/pdfs/20260811_1905_Greece’s_aging_power_grid_blamed_for_catastrophic_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260811_1740",
@@ -381,7 +561,12 @@
       "date_label": "AUG 11  17:40",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Germany’s modern miracle: Churches are losing believers but gaining money",
+      "html": "data/pdfs/20260811_1740_Germany’s_modern_miracle__Churches_are_losing_beli.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260811_1636",
@@ -391,7 +576,12 @@
       "date_label": "AUG 11  16:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe is running out of Patriot missiles as Ukraine braces for Russia’s winter attacks",
+      "html": "data/pdfs/20260811_1636_Europe_is_running_out_of_Patriot_missiles_as_Ukrai.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260811_1354",
@@ -401,7 +591,12 @@
       "date_label": "AUG 11  13:54",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Costa’s €2 trillion grand tour",
+      "html": "data/pdfs/20260811_1354_Costa’s_€2_trillion_grand_tour.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260811_0836",
@@ -411,7 +606,12 @@
       "date_label": "AUG 11  08:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Aug 10th, 2026",
+      "html": "data/pdfs/20260811_0836_Daily_Research_Summary_-_Aug_10th,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260811_0103",
@@ -421,7 +621,12 @@
       "date_label": "AUG 11  01:03",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Oil Markets Weekly",
+      "html": "data/pdfs/20260811_0103_Oil_Markets_Weekly.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260811_0031",
@@ -441,7 +646,12 @@
       "date_label": "AUG 10  22:31",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Hormuz disruption boosts Duqm as supply chain hub",
+      "html": "data/pdfs/20260810_2231_Hormuz_disruption_boosts_Duqm_as_supply_chain_hub.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260810_2153",
@@ -451,7 +661,12 @@
       "date_label": "AUG 10  21:53",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Islamic coalition bolsters Saudi security ties",
+      "html": "data/pdfs/20260810_2153_Islamic_coalition_bolsters_Saudi_security_ties.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260810_2106",
@@ -461,7 +676,12 @@
       "date_label": "AUG 10  21:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe’s crisis reserves weren’t meant for this kind of drought",
+      "html": "data/pdfs/20260810_2106_Europe’s_crisis_reserves_weren’t_meant_for_this_ki.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260810_2102",
@@ -471,17 +691,27 @@
       "date_label": "AUG 10  21:02",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Analysing global oil & gas markets - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260810_2102_Analysing_global_oil_&_gas_markets_-_EG_Conference.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260810_2050",
-      "sender_norm": "Ian",
+      "sender_norm": "Ian Bremmer",
       "subject": "eg update",
       "pdf": "data/pdfs/20260810_2050_eg_update.pdf",
       "date_label": "AUG 10  20:50",
       "read_min": 14,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update",
+      "html": "data/pdfs/20260810_2050_eg_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260810_1926",
@@ -490,8 +720,13 @@
       "pdf": "data/pdfs/20260810_1926_Trump_officials_are_celebrating_the_‘impressive_re.pdf",
       "date_label": "AUG 10  19:26",
       "read_min": 9,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Trump officials are celebrating the ‘impressive results’ of trade deals way too soon",
+      "html": "data/pdfs/20260810_1926_Trump_officials_are_celebrating_the_‘impressive_re.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260810_1919",
@@ -501,7 +736,13 @@
       "date_label": "AUG 10  19:19",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "New central bank governor will offer loose continuity",
+      "html": "data/pdfs/20260810_1919_New_central_bank_governor_will_offer_loose_continu.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
