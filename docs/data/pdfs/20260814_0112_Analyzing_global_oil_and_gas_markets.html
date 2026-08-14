@@ -1,0 +1,664 @@
+<!doctype html><html lang="en-US"><head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Analyzing global oil and gas markets</title>
+    <style>
+      body {
+        margin: 0 !important;
+        padding: 0 !important;
+        background-color: #f3f6ff !important;
+        -webkit-text-size-adjust: 100% !important;
+        -ms-text-size-adjust: 100% !important;
+        width: 100% !important;
+        overflow-x: hidden !important;
+      }
+
+      img {
+        -ms-interpolation-mode: bicubic;
+        max-width: 100% !important;
+        height: auto !important;
+        display: block !important;
+      }
+
+      table {
+        border-collapse: collapse !important;
+        border-spacing: 0 !important;
+      }
+
+      .container {
+        width: 100% !important;
+        max-width: 853px !important;
+        margin: 0 auto !important;
+        background-color: #f3f6ff !important;
+        border-collapse: collapse !important;
+      }
+
+      .hygraph-content h1,
+      .hygraph-content h2,
+      .hygraph-content h3,
+      .hygraph-content h4,
+      .hygraph-content h5,
+      .hygraph-content h6 {
+        font-family: 'Libre Baskerville', Georgia, serif !important;
+        font-size: 20px !important;
+        line-height: 1.3 !important;
+        color: #1e293b !important;
+        font-weight: 400 !important;
+        margin: 24px 0 12px 0 !important;
+      }
+
+      .hygraph-content p {
+        font-family: 'Libre Franklin', Arial, sans-serif !important;
+        font-size: 16px !important;
+        line-height: 1.6 !important;
+        color: #636674 !important;
+        margin: 0 0 16px 0 !important;
+        font-weight: 400 !important;
+      }
+
+      .hygraph-content ul,
+      .hygraph-content ol {
+        font-family: 'Libre Franklin', Arial, sans-serif !important;
+        font-size: 16px !important;
+        line-height: 1.6 !important;
+        color: #636674 !important;
+        margin: 0 0 16px 0 !important;
+        padding-left: 20px !important;
+      }
+
+      .hygraph-content li {
+        margin-bottom: 8px !important;
+        line-height: 1.6 !important;
+        padding-left: 16px !important;
+      }
+
+      .hygraph-content a {
+        color: #182957 !important;
+        text-decoration: underline !important;
+        word-break: break-word !important;
+      }
+
+      .hygraph-content strong,
+      .hygraph-content b {
+        font-family: inherit !important;
+        font-weight: 600 !important;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .container {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+
+        .desktop-only {
+          display: none !important;
+          max-height: 0 !important;
+          overflow: hidden !important;
+          mso-hide: all !important;
+        }
+
+        .stack-mobile td {
+          display: block !important;
+          width: 100% !important;
+          text-align: left !important;
+        }
+
+        .stack-mobile .cta {
+          padding-top: 12px !important;
+        }
+
+        .mobile-padding {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+
+        .title-text {
+          font-size: 26px !important;
+          line-height: 1.3 !important;
+        }
+
+        .hygraph-content h1,
+        .hygraph-content h2,
+        .hygraph-content h3,
+        .hygraph-content h4,
+        .hygraph-content h5,
+        .hygraph-content h6 {
+          font-size: 18px !important;
+          line-height: 1.4 !important;
+        }
+
+        .hygraph-content p,
+        .hygraph-content ul,
+        .hygraph-content ol,
+        .hygraph-content li,
+        .hygraph-content div {
+          font-size: 15px !important;
+          line-height: 1.6 !important;
+        }
+      }
+      
+      [data-ogsc] .hygraph-content h1,
+      [data-ogsc] .hygraph-content h2,
+      [data-ogsc] .hygraph-content h3,
+      [data-ogsc] .hygraph-content h4,
+      [data-ogsc] .hygraph-content h5,
+      [data-ogsc] .hygraph-content h6 {
+        color: #ffffff !important;
+      }
+      [data-ogsc] .hygraph-content p,
+      [data-ogsc] .hygraph-content li {
+        color: #d0d0d8 !important;
+      }
+    </style>
+    <!--[if mso]>
+      <style type="text/css">
+        table {
+          mso-table-lspace: 0pt;
+          mso-table-rspace: 0pt;
+        }
+        .hygraph-content,
+        .hygraph-content td {
+          font-family: Arial, Helvetica, sans-serif !important;
+        }
+        .hygraph-content p,
+        .hygraph-content li,
+        .hygraph-content div {
+          mso-line-height-rule: exactly;
+          line-height: 26px !important;
+        }
+        .hygraph-content p {
+          margin: 0 0 16px 0 !important;
+        }
+        .hygraph-content ul,
+        .hygraph-content ol {
+          margin: 0 0 16px 0 !important;
+        }
+        .hygraph-content li {
+          margin: 0 0 8px 0 !important;
+        }
+        .hygraph-content strong,
+        .hygraph-content b {
+          font-family: Arial, Helvetica, sans-serif !important;
+          font-weight: bold !important;
+        }
+        .hygraph-content a {
+          word-break: normal !important;
+        }
+      </style>
+    <![endif]-->
+  </head>
+
+  <body style="margin: 0; padding: 0; background-color: #f3f6ff">
+    <div style="
+        display: none;
+        font-size: 1px;
+        color: #f3f6ff;
+        line-height: 1px;
+        max-height: 0;
+        overflow: hidden;
+        mso-hide: all;
+      ">
+      This is an AI-generated summary based on the call transcript. A full transcript and recording of this call are available in the portal here . You can ‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;
+    </div>
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #f3f6ff; border-collapse: collapse">
+      <tr>
+        <td align="center" style="padding: 20px 12px">
+          <!-- Top Logo -->
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="width: 100%; max-width: 853px; margin: 0 auto; border-collapse: collapse">
+            <tr>
+              <td class="mobile-padding" align="center" style="padding: 36px 40px 10px 40px; text-align: center">
+                <img src="http://cdn.mcauto-images-production.sendgrid.net/a3691991024ed9a3/a269a2db-8961-47d8-862d-59619d5a38f6/480x168.png" alt="Eurasia Group Logo" width="150" height="53" style="width: 150px; height: 53px; display: block; margin: 0 auto">
+              </td>
+            </tr>
+            <tr>
+              <td class="mobile-padding" style="padding: 0 40px; vertical-align: top">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt">
+                  <tr>
+                    <td style="
+                        padding: 0;
+                        height: 1px;
+                        line-height: 1px;
+                        font-size: 1px;
+                        border-top: 1px solid #161c2c;
+                        mso-border-top-alt: 1px solid #161c2c;
+                      ">
+                      &nbsp;
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+
+          <table role="presentation" class="container" width="100%" cellpadding="0" cellspacing="0" align="center" style="width: 100%; max-width: 853px; margin: 0 auto; background-color: #ffffff; border-collapse: collapse">
+            <!-- Header / Preferences Row -->
+            <tr>
+              <td class="mobile-padding" style="padding: 32px 40px 16px 40px">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="width: 100%">
+                  <tr>
+                    <td style="text-align: left; vertical-align: middle">
+                      <div style="
+                          font-family: 'Libre Baskerville', Georgia, serif;
+                          font-size: 18px;
+                          line-height: 1.4;
+                          color: #64748b;
+                          font-style: italic;
+                          margin: 0;
+                          font-weight: 400;
+                          text-align: left;
+                        ">
+                        Conference Call Note
+                      </div>
+                    </td>
+                    <td class="desktop-only" style="text-align: right; vertical-align: middle">
+                      <a href="https://u55806042.ct.sendgrid.net/ls/click?upn=u001.zCX-2BwsXjmwaE99lIbX90rRxC9Wh8-2B1dz2pEyYWV0jMJbAFzF94saTb3q7SF8Q4i4IxWdYwXZL3OugzvWdSMS2ebaUII-2BmgohBqBiet6P8KpVJxLqtuTq64uHSUIy87sVPHf3iRpvLQgYk9s67dVMWw-3D-3DiDbv_-2FhdkQkTtbSRQsfmNfy5HxdljfWpIZbVzG3TWOXRguFOwZtTBYgdRLol1HW5leEnNXFhPjB2PXLJd6EXYv7Bo-2FVfimnfIi7ZNKWYtbAdlEf610vovCVEeNcHilrszkAAR4k3LfAnx-2BGiDlJrXacPvwF3wBBbtQ32XjwDT2Yke24XOPY2g2lndagUa5fMfrBKUEeHhETQa75epXTbYRy3m8qlBXXr4-2BIGtGWghb4VdlPBYWRlKDS74mw2UDlA1Dk3i7EA3Dx3DOSOO17jtgDsv3LnpSMwSfUz2gx0H2MLTyXD4GuETwXzV1IOKcxzMOVpbsnHH6NHA5FrQnHS01K0YygouVeY4DHlwlpyPBcjxZz4j8xlbRXXdWwCCt8mghi18R3CuOy3MsGIpjgEFfUK9OEBdippkcHYtOYNauNmhiFGVK7BgBspCLfrJ6sZkCQk0q3ow-2BMD4NoUX7NmTnGeovLh0C6JYAuxhwSI-2B2UWhmQSt-2FN7ryd-2FIpWVwMEDznNosqElrf1t-2FnrGSe5aoY4dfnE2r01-2B-2BWb-2BMJaXfYuqTMrLE9wl0rGXGjm7R30ASb7iGVBiJJjnJBoe2B98C0r3edHsNVgx-2FLdaD46h8J9ONCoafp6caQeYBkXhB2vQbEfY8r1vD9osgxtIPJt0wAF9gWXT26BMK72pTTTwpamthPgdW9rNj6m0fHo7T5eyJVwVRYVIB-2BEjOi216yo61e23m5if3i5wTg1psGPVhnnsDq2Prp-2FIeV-2BlImSJtn7eEcD6QUk-2FZk1nWOB9s0gYHBkVxtEpFV71-2FaC82LuIXhT8KIIoVIaH1brkvUe27pODRBUQ9uGqiidPORTbrnXkjAs4h8uTzWo1K3DqlYQc2tLvY6QeleNfZGe4txO3reZM2a5i-2B" style="
+                          font-family: 'Libre Franklin', Arial, sans-serif;
+                          font-size: 14px;
+                          line-height: 1.5;
+                          color: #161c2c;
+                          text-decoration: underline;
+                        ">Customize Email Preferences</a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <tr>
+              <td class="mobile-padding" style="padding: 0 40px 16px 40px">
+                <h1 class="title-text" style="
+                    font-family: 'Libre Baskerville', Georgia, serif;
+                    font-size: 40px;
+                    line-height: 1.25;
+                    color: #1e293b;
+                    margin: 0;
+                    font-weight: 400;
+                    text-align: left;
+                  ">
+                  Analyzing global oil and gas markets
+                </h1>
+              </td>
+            </tr>
+
+            <!-- Date and Recording Button -->
+            <tr>
+              <td class="mobile-padding" style="padding: 0 40px 48px 40px">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="width: 100%" class="stack-mobile">
+                  <tr>
+                    <td style="text-align: left; vertical-align: middle">
+                      <span style="
+                          font-family: 'Libre Franklin', Arial, sans-serif;
+                          font-size: 16px;
+                          line-height: 1.5;
+                          color: #6d707c;
+                        ">13 Aug 2026 12:07 EDT</span>
+                    </td>
+                    <td class="cta" style="text-align: right; vertical-align: middle">
+                      <a href="https://u55806042.ct.sendgrid.net/ls/click?upn=u001.zCX-2BwsXjmwaE99lIbX90rRxC9Wh8-2B1dz2pEyYWV0jMKWuoRYYAen2dIKH0exmFbUaEZf60LjiF2ZWP6A3bVgEat2HjNKKLQWHU3E8AYZuTs-3DCto8_-2FhdkQkTtbSRQsfmNfy5HxdljfWpIZbVzG3TWOXRguFOwZtTBYgdRLol1HW5leEnNXFhPjB2PXLJd6EXYv7Bo-2FVfimnfIi7ZNKWYtbAdlEf610vovCVEeNcHilrszkAAR4k3LfAnx-2BGiDlJrXacPvwF3wBBbtQ32XjwDT2Yke24XOPY2g2lndagUa5fMfrBKUEeHhETQa75epXTbYRy3m8qlBXXr4-2BIGtGWghb4VdlPBYWRlKDS74mw2UDlA1Dk3i7EA3Dx3DOSOO17jtgDsv3LnpSMwSfUz2gx0H2MLTyXD4GuETwXzV1IOKcxzMOVpbsnHH6NHA5FrQnHS01K0YygouVeY4DHlwlpyPBcjxZz4j8xlbRXXdWwCCt8mghi18R3CuOy3MsGIpjgEFfUK9OEBdippkcHYtOYNauNmhiFGVK7BgBspCLfrJ6sZkCQk0q3ow-2BMD4NoUX7NmTnGeovLh0C6JYAuxhwSI-2B2UWhmQSt-2FN7ryd-2FIpWVwMEDznNosqElrf1t-2FnrGSe5aoY4dfnE2r01-2B-2BWb-2BMJaXfYuqTMrLE9wl0rGXGjm7R30ASb7iGVBiJJjnJBoe2B98C0r3edHsNVgx-2FLdaD46h8J9ONCoafp6caQeYBkXhB2vQbEfY8r1vD9osgxtIPJt0wAF9gWXT26BMK72pTTTwpamthPgdW9rNj6m0fHo7T5eyJVwVRYVIB-2BEjOi216yo61e23m5if3i5wTg1psGPVhnnsDq2NX-2FS2-2FaW20iTxLywag9yyjXz1-2B64tcD2bqr1scRBgtKEmpxnL9CxaLsEYvyLGXWLwvQuPYsamYEllD9r7ohClkRcSVphoIHCgEKKQZAfIjkWs9xcV-2B1gpPgeBvGVAN4tNowey-2BXxH2MRL3AsUhfmWw" style="
+                          background-color: #161c2c;
+                          color: #ffffff;
+                          font-family: 'Libre Franklin', Arial, sans-serif;
+                          font-size: 14px;
+                          font-weight: 700;
+                          line-height: 24px;
+                          text-align: center;
+                          text-decoration: none;
+                          display: inline-block;
+                          padding: 16px 24px;
+                          border-radius: 8px;
+                          white-space: nowrap;
+                        ">
+                        Listen to the recording
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+ 
+            <tr>
+              <td class="mobile-padding" style="padding: 0 40px 40px 40px">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt">
+                  <tr>
+                    <td style="
+                        padding: 0;
+                        vertical-align: top;
+                        font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                        font-size: 16px;
+                        line-height: 26px;
+                        mso-line-height-rule: exactly;
+                        color: #636674;
+                        text-align: left;
+                      ">
+                      <div class="hygraph-content" style="
+                          text-align: left;
+                          font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                          font-size: 16px;
+                          line-height: 26px;
+                          mso-line-height-rule: exactly;
+                          color: #636674;
+                        ">
+                        <ul><li><div>Eurasia Group assigns 60% probability to US-Iran de-escalation by mid-September, with a partial interim arrangement reopening the Strait of Hormuz (SoH); oil prices expected to fall to $65–$80/barrel on a deal.</div></li><li><div>European gas storage is at ~60%, below the EU's 80% target; Eurasia Group puts 65% odds on Europe clearing winter without severe shortages, but the 35% risk scenario is meaningful and driven by stacked vulnerabilities.</div></li><li><div>The SoH crisis is accelerating permanent structural shifts — alternative pipeline routes, electrification, and demand reduction — that will durably reduce the strait's role in global energy flows by 2028–2030.</div></li></ul><p></p>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse; margin-top: 16px">
+                  <tr>
+                    <td style="
+                        border-top: 1px solid #9c9fa9;
+                        mso-border-top-alt: 1px solid #9c9fa9;
+                        font-size: 0;
+                        line-height: 0;
+                        padding: 0;
+                      ">
+                      &nbsp;
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td class="mobile-padding" style="padding: 0 40px 24px 40px">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt">
+                  <tr>
+                    <td style="
+                        padding: 0;
+                        vertical-align: top;
+                        font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                        font-size: 16px;
+                        line-height: 26px;
+                        mso-line-height-rule: exactly;
+                        color: #636674;
+                        text-align: left;
+                      ">
+                      <div class="hygraph-content" style="
+                          text-align: left;
+                          font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                          font-size: 16px;
+                          line-height: 26px;
+                          mso-line-height-rule: exactly;
+                          color: #636674;
+                        ">
+                        <p><em>This is an AI-generated summary based on the call transcript. A full transcript and recording of this call are available in the portal </em><a href="https://u55806042.ct.sendgrid.net/ls/click?upn=u001.zCX-2BwsXjmwaE99lIbX90rRxC9Wh8-2B1dz2pEyYWV0jMKWuoRYYAen2dIKH0exmFbUaEZf60LjiF2ZWP6A3bVgEat2HjNKKLQWHU3E8AYZuTs-3DWjsm_-2FhdkQkTtbSRQsfmNfy5HxdljfWpIZbVzG3TWOXRguFOwZtTBYgdRLol1HW5leEnNXFhPjB2PXLJd6EXYv7Bo-2FVfimnfIi7ZNKWYtbAdlEf610vovCVEeNcHilrszkAAR4k3LfAnx-2BGiDlJrXacPvwF3wBBbtQ32XjwDT2Yke24XOPY2g2lndagUa5fMfrBKUEeHhETQa75epXTbYRy3m8qlBXXr4-2BIGtGWghb4VdlPBYWRlKDS74mw2UDlA1Dk3i7EA3Dx3DOSOO17jtgDsv3LnpSMwSfUz2gx0H2MLTyXD4GuETwXzV1IOKcxzMOVpbsnHH6NHA5FrQnHS01K0YygouVeY4DHlwlpyPBcjxZz4j8xlbRXXdWwCCt8mghi18R3CuOy3MsGIpjgEFfUK9OEBdippkcHYtOYNauNmhiFGVK7BgBspCLfrJ6sZkCQk0q3ow-2BMD4NoUX7NmTnGeovLh0C6JYAuxhwSI-2B2UWhmQSt-2FN7ryd-2FIpWVwMEDznNosqElrf1t-2FnrGSe5aoY4dfnE2r01-2B-2BWb-2BMJaXfYuqTMrLE9wl0rGXGjm7R30ASb7iGVBiJJjnJBoe2B98C0r3edHsNVgx-2FLdaD46h8J9ONCoafp6caQeYBkXhB2vQbEfY8r1vD9osgxtIPJt0wAF9gWXT26BMK72pTTTwpamthPgdW9rNj6m0fHo7T5eyJVwVRYVIB-2BEjOi216yo61e23m5if3i5wTg1psGPVhnnsDq2OkdA-2BmqjtMxLtJAaHes2cR0Ub1fTGLnQ74grqWWZUAJ8afQct8oSceT4AkAY8sAgDXc1aJXNhSbm6B2j83Cb8khBXrW0j3IXgXE0UneV4dQAcCiS1FDY6SIDuCcewZ-2BGH1lAJEwcZXNtQfJBNEKfdt"><em>here</em></a><em>. You can access other Eurasia Group conference calls through a personalized link for select podcast readers </em><a href="https://u55806042.ct.sendgrid.net/ls/click?upn=u001.zCX-2BwsXjmwaE99lIbX90rf1d3hDUQp4p3hJ-2FLVo1aWt8MmuLrRgodjcf7l0Hh4Ii8Ycfh-2F2lWBC2uwc256L6ahO04XEEuNCyDQ1EYIfLQdmFVo4njI-2BY04BHuN19oHMOlhJ6_-2FhdkQkTtbSRQsfmNfy5HxdljfWpIZbVzG3TWOXRguFOwZtTBYgdRLol1HW5leEnNXFhPjB2PXLJd6EXYv7Bo-2FVfimnfIi7ZNKWYtbAdlEf610vovCVEeNcHilrszkAAR4k3LfAnx-2BGiDlJrXacPvwF3wBBbtQ32XjwDT2Yke24XOPY2g2lndagUa5fMfrBKUEeHhETQa75epXTbYRy3m8qlBXXr4-2BIGtGWghb4VdlPBYWRlKDS74mw2UDlA1Dk3i7EA3Dx3DOSOO17jtgDsv3LnpSMwSfUz2gx0H2MLTyXD4GuETwXzV1IOKcxzMOVpbsnHH6NHA5FrQnHS01K0YygouVeY4DHlwlpyPBcjxZz4j8xlbRXXdWwCCt8mghi18R3CuOy3MsGIpjgEFfUK9OEBdippkcHYtOYNauNmhiFGVK7BgBspCLfrJ6sZkCQk0q3ow-2BMD4NoUX7NmTnGeovLh0C6JYAuxhwSI-2B2UWhmQSt-2FN7ryd-2FIpWVwMEDznNosqElrf1t-2FnrGSe5aoY4dfnE2r01-2B-2BWb-2BMJaXfYuqTMrLE9wl0rGXGjm7R30ASb7iGVBiJJjnJBoe2B98C0r3edHsNVgx-2FLdaD46h8J9ONCoafp6caQeYBkXhB2vQbEfY8r1vD9osgxtIPJt0wAF9gWXT26BMK72pTTTwpamthPgdW9rNj6m0fHo7T5eyJVwVRYVIB-2BEjOi216yo61e23m5if3i5wTg1psGPVhnnsDq2PPXcKRN-2FZQaWhlllEUGp0M8OX-2BAubC3x1ffQZt-2FtYOrNeSTQMZA6AxiMmc3s-2F3LWkHFNqFnerGmQ9HkQpBohAd2tCI0NsobJpMoSpYkEE0IP4ePCfn-2FHMcwObtIgFNUAamkbQ75HR-2BQch3hDb5IQbA"><em>here</em></a><em>. You can access the slides </em><a href="https://u55806042.ct.sendgrid.net/ls/click?upn=u001.zCX-2BwsXjmwaE99lIbX90rVXwrCR4D5gAYjojr8b3DPngutGs-2BFN5oOuUGOT-2F9bwiX36DJ8e6kCL6RYvAxoDuPFz2kCEBI-2BerrU5RJzDZRlsus7ujUMvI5PWUqeknYTTBlQRs_-2FhdkQkTtbSRQsfmNfy5HxdljfWpIZbVzG3TWOXRguFOwZtTBYgdRLol1HW5leEnNXFhPjB2PXLJd6EXYv7Bo-2FVfimnfIi7ZNKWYtbAdlEf610vovCVEeNcHilrszkAAR4k3LfAnx-2BGiDlJrXacPvwF3wBBbtQ32XjwDT2Yke24XOPY2g2lndagUa5fMfrBKUEeHhETQa75epXTbYRy3m8qlBXXr4-2BIGtGWghb4VdlPBYWRlKDS74mw2UDlA1Dk3i7EA3Dx3DOSOO17jtgDsv3LnpSMwSfUz2gx0H2MLTyXD4GuETwXzV1IOKcxzMOVpbsnHH6NHA5FrQnHS01K0YygouVeY4DHlwlpyPBcjxZz4j8xlbRXXdWwCCt8mghi18R3CuOy3MsGIpjgEFfUK9OEBdippkcHYtOYNauNmhiFGVK7BgBspCLfrJ6sZkCQk0q3ow-2BMD4NoUX7NmTnGeovLh0C6JYAuxhwSI-2B2UWhmQSt-2FN7ryd-2FIpWVwMEDznNosqElrf1t-2FnrGSe5aoY4dfnE2r01-2B-2BWb-2BMJaXfYuqTMrLE9wl0rGXGjm7R30ASb7iGVBiJJjnJBoe2B98C0r3edHsNVgx-2FLdaD46h8J9ONCoafp6caQeYBkXhB2vQbEfY8r1vD9osgxtIPJt0wAF9gWXT26BMK72pTTTwpamthPgdW9rNj6m0fHo7T5eyJVwVRYVIB-2BEjOi216yo61e23m5if3i5wTg1psGPVhnnsDq2PcandmqJ0kjYSnUdLMYKpUEqKivbrHS-2FFkr347h01FRLhKfQbvCtpbauVsgbzHy4InajW7z-2FqwwZ4KjYk0dCoze5YUOQg-2ByHuGHGrJ2e-2FRAv29N76f-2FbMLNE6SammJ6iP9kRoakzDY3WsHiueCoWPc"><em>here</em></a><em>.</em></p><p><strong>Speakers:</strong></p><ul><li><div>Henning Gloystein, Managing Director, Energy &amp; Resources, Eurasia Group</div></li><li><div>Greg Brew, Senior Analyst, Energy &amp; Resources, Eurasia Group</div></li><li><div>Conor Frydenborg, Associate, Energy &amp; Resources, Eurasia Group</div></li></ul><p>---</p><h2>Iran De-escalation: Base Case and Oil Price Outlook</h2><p>Eurasia Group's base case — 60% by mid-September — is a partial, interim US-Iran arrangement that reopens the SoH. The deal will not be durable. It will not replicate even the June agreement in strength. Key structural obstacles persist: mines in the central waterway will take months to clear, limiting transits to the Iranian northern route and the Omani southern route; Iran will continue pressing for recognition of its control over the strait and for mandatory ship tolls; and the risk of re-escalation tied to Iran's nuclear program, ballistic missile development, and the Israel-Hezbollah front remains acute.</p><p>Under de-escalation, oil prices are expected to fall into a <strong>$65–$80/barrel</strong> range for the remainder of 2026, down from the current <strong>$75–$95</strong> range. Flows through the strait will recover, but transits will not return to pre-war levels in 2026. Speakers estimated that in a de-escalation scenario, transits recover to <strong>30–50%</strong> of pre-war levels by year-end.</p><p>---</p><h2>Crude Supply: China and the Global Balance</h2><p>Chinese oil imports have fallen from 11 million barrels per day (mb/d) to as low as 5 mb/d. China has drawn on inventories estimated at 1.5–1.8 billion barrels — significantly above prior analyst estimates of 1.2–1.3 billion barrels — and likely retains enough stock to sustain reduced import levels through year-end without materially cutting consumption. A full recovery in Chinese imports to pre-war levels is not expected in 2026, partly because some older refineries have permanently shut. This demand restraint is a key factor keeping prices from spiking further.</p><p>Approximately 5 mb/d is currently transiting the strait via three channels: ships using the Iranian coastal route with transponders on, ships transiting dark, and a shuttle service transferring oil ship-to-ship in the Gulf of Oman. These flows are showing up in Gulf of Oman export data rather than SoH transit data.</p><p>---</p><h2>Refined Products: Tighter Than Crude</h2><p>Refined product markets are structurally tighter than crude. US gasoline prices have exceeded $4/gallon — described as the first time this has occurred this late in the year in nominal terms. US refineries are running at maximum throughput, with a significant share of output being exported. Diesel is also priced elevated relative to crude, driven by Russian refinery outages from Ukrainian strikes, Persian Gulf refinery disruptions, and Houthi attacks on Saudi facilities including the Jizan refinery. US gasoline and diesel inventories are at the low end of the historical range, with further draws expected through fall refinery maintenance season. Speakers do not expect outright shortages but anticipate product prices will remain elevated even as crude falls.</p><p>---</p><h2>European Gas: Tight But Probably Manageable</h2><p>Northwest European gas storage stands at approximately 50%, well below the EU's 80% target. Eurasia Group's base case projects storage reaching <strong>65–70%</strong> by November 1 — below target but likely sufficient. The firm assigns <strong>65% odds</strong> that Europe clears winter without severe shortages or emergency measures; the <strong>35% risk scenario</strong> encompasses a range of emergency responses, not necessarily residential curtailments.</p><p>Key upside risks: a cold shock, additional SoH disruptions, and unplanned French nuclear outages. In a shortage scenario, gas prices could reach <strong>€65–€85/MWh</strong>; in a benign scenario, <strong>€30–€50/MWh</strong>, with the base case between those bands.</p><p>The EU's Russian liquefied natural gas (LNG) ban takes effect 1 January 2027. Speakers see near-zero probability of reversal. Russia's Yamal LNG is poorly positioned to redirect to Asia given Northern Sea Route seasonality. Turkey, Egypt, and South America are the most plausible alternative markets for displaced Russian volumes.</p><p>---</p><h2>Yambu Disruption and Houthi Escalation</h2><p>Houthi attacks have disrupted Saudi exports from the Yambu terminal on the Red Sea. Pre-conflict loadings ran at <strong>4–4.5 mb/d</strong>; current data suggests a drop to as low as <strong>2 mb/d</strong>, though dark tanker traffic makes precise measurement difficult. Speakers estimate the net disruption at <strong>1–1.5 mb/d</strong>. At least one berth may have sustained damage. Even absent further escalation, the Houthi-Saudi conflict is expected to persist through year-end with its own independent drivers. Yambu loadings are expected to recover toward the 4–4.5 mb/d range over the next several weeks as shipping reroutes, barring further infrastructure damage.</p><p>---</p><h2>Structural Shift: The Strait's Declining Centrality</h2><p>Speakers emphasized that crises of this magnitude do not resolve back to the status quo. By <strong>2028</strong>, Eurasia Group estimates roughly half of flows that previously transited the SoH will move through alternative routes. By <strong>2030</strong>, the strait's share of global crude flows could fall below 50%. The UAE is reportedly planning to double Fujairah pipeline capacity; Saudi Arabia is discussing an East-West Pipeline 2; an Iraq-Syria-East Mediterranean pipeline corridor is also under consideration. Europe may cease relying on the SoH for crude entirely by 2030.</p><p>However, speakers noted countervailing risks: the Bab el-Mandeb's strategic importance will increase as alternative routes depend on Red Sea transits, strengthening the Houthis' leverage. Iran retains the ability to strike alternative pipeline infrastructure with missiles and drones. Electrification creates new dependencies on critical minerals and grid vulnerability.</p><p>---</p><h2>Key Watch Items</h2><ol><li><div><strong>US-Iran interim deal by mid-September</strong>: Whether an arrangement materializes, its scope, and whether it includes any recognition of Iranian toll/fee demands in the SoH.</div></li><li><div><strong>SoH transit recovery</strong>: Whether transits recover toward 30–50% of pre-war levels or remain suppressed due to mines, re-escalation risk, or shipping confidence.</div></li><li><div><strong>Chinese import recovery</strong>: Any meaningful rebound in Chinese crude imports from current ~5 mb/d would tighten the supply-demand balance and push prices toward the higher end of the $65–$80 range or above it.</div></li><li><div><strong>Northwest European gas storage trajectory</strong>: Whether storage reaches the projected 65–70% by November 1; any shortfall materially raises the 35% shortage-scenario odds.</div></li><li><div><strong>Yambu infrastructure damage</strong>: Extent and duration of damage to the Yambu terminal; sustained disruption above 1.5 mb/d would tighten product markets further.</div></li><li><div><strong>Russian LNG ban implementation (January 1, 2027)</strong>: Confirmation that the EU does not soften the ban and how displaced Yamal volumes are absorbed by Turkey and other non-EU markets.</div></li></ol><p>---</p><h2>What Clients Are Asking</h2><p><strong>Iran's toll and fee demands</strong>: Clients asked whether Iran's claims about charging fees for SoH passage have any legal or historical basis. Speakers said Iran's demand for mandatory per-ship tolls has been rejected by Oman, the Gulf Cooperation Council (GCC), and the US as contrary to international law; the Omani counterproposal models the voluntary, cost-covering fee structure used at the Strait of Malacca. Iran is expected to keep pushing, making this a persistent source of instability regardless of any interim deal.</p><p><strong>European shortage risk — why 35%?</strong>: Clients questioned whether a 35% probability of shortages is too high for what seems like an extreme outcome. Speakers clarified that the 35% scenario covers a wide range of emergency responses — primarily industry demand reduction and government-mandated purchases — not residential curtailments, which are considered very unlikely given the multiple policy escalation steps available before that threshold is reached.</p><p><strong>Venezuelan crude supply</strong>: Clients asked about the visibility of Venezuelan oil hitting the market following the post-Maduro political shift. Speakers said Venezuelan output recovery has broadly met expectations — a slight increase but no significant near-term spike — given geological constraints, infrastructure deficits, and the time lag on upstream investment.</p><p><strong>Refined product price outlook given crude de-escalation</strong>: Clients asked whether the $65–$80 crude range assumed meaningful SoH flow recovery, and what happens if transits stay near current levels. Speakers confirmed the range does assume a flow recovery; re-escalation scenarios — driven by Iran's nuclear/missile posture or the Israel-Hezbollah front — could push prices above that band. The administration's desire to move on from the Iran confrontation is the primary factor anchoring the de-escalation base case.</p><p><strong>Qatari LNG recovery timeline</strong>: Clients asked about the pace of Qatari LNG supply restoration. Speakers said at least one LNG train has likely sustained damage requiring a full rebuild; it is expected to be faster for Qatar to bring new planned production to market by early 2027 than to fully repair damaged trains. Once SoH shipping resumes, Qatar could return to near pre-crisis production levels using new capacity while repairing older trains.</p><p>---</p><p><em>Please note that while this AI generated summary has been checked for accuracy against the source material, it may not capture every nuance or qualifier from the discussion. The full transcript or audio should be consulted for complete context.</em></p>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td class="mobile-padding" style="padding: 0px 40px 24px 40px">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse">
+                  <tr>
+                    <td style="
+                        border-top: 1px solid #9c9fa9;
+                        mso-border-top-alt: 1px solid #9c9fa9;
+                        font-size: 0;
+                        line-height: 0;
+                        padding: 0;
+                      ">
+                      &nbsp;
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="height: 40px; line-height: 40px; font-size: 1px; padding: 0">&nbsp;</td>
+                  </tr>
+                </table>
+                <div style="text-align: left">
+                  <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="width: 100%">
+                     
+                    <tr>
+                      <td style="width: 25%; padding-right: 8px; vertical-align: top">
+                        <div style="margin-bottom: 20px">
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 14px;
+                              line-height: 20px;
+                              color: #1e293b;
+                              font-weight: 600;
+                              text-decoration: underline;
+                              margin-bottom: 4px;
+                            ">
+                            Henning Gloystein
+                          </div>
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 12px;
+                              line-height: 18px;
+                              color: #64748b;
+                              font-style: italic;
+                              margin-bottom: 4px;
+                            ">
+                            Managing Director, Energy &amp; Resources
+                          </div>
+                           
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 12px;
+                              line-height: 18px;
+                              color: #475569;
+                              margin-bottom: 4px;
+                            ">
+                            +44 (0)73 898 444 98
+                          </div>
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 12px;
+                              line-height: 18px;
+                              color: #475569;
+                            ">
+                            <a href="mailto:gloystein@eurasiagroup.net" style="color: #475569; text-decoration: underline">gloystein@eurasiagroup.net</a>
+                          </div>
+                        </div>
+                      </td>
+                       
+                      <td style="width: 25%; padding-right: 8px; vertical-align: top">
+                        <div style="margin-bottom: 20px">
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 14px;
+                              line-height: 20px;
+                              color: #1e293b;
+                              font-weight: 600;
+                              text-decoration: underline;
+                              margin-bottom: 4px;
+                            ">
+                            Gregory Brew
+                          </div>
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 12px;
+                              line-height: 18px;
+                              color: #64748b;
+                              font-style: italic;
+                              margin-bottom: 4px;
+                            ">
+                            Senior Analyst, Iran &amp; Energy
+                          </div>
+                           
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 12px;
+                              line-height: 18px;
+                              color: #475569;
+                              margin-bottom: 4px;
+                            ">
+                            +1 646 259 3207
+                          </div>
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 12px;
+                              line-height: 18px;
+                              color: #475569;
+                            ">
+                            <a href="mailto:brew@eurasiagroup.net" style="color: #475569; text-decoration: underline">brew@eurasiagroup.net</a>
+                          </div>
+                        </div>
+                      </td>
+                       
+                      <td style="width: 25%; padding-right: 8px; vertical-align: top">
+                        <div style="margin-bottom: 20px">
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 14px;
+                              line-height: 20px;
+                              color: #1e293b;
+                              font-weight: 600;
+                              text-decoration: underline;
+                              margin-bottom: 4px;
+                            ">
+                            Conor Frydenborg
+                          </div>
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 12px;
+                              line-height: 18px;
+                              color: #64748b;
+                              font-style: italic;
+                              margin-bottom: 4px;
+                            ">
+                            Associate, Energy &amp; Resources
+                          </div>
+                           
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 12px;
+                              line-height: 18px;
+                              color: #475569;
+                              margin-bottom: 4px;
+                            ">
+                            +1 202.540.5149
+                          </div>
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 12px;
+                              line-height: 18px;
+                              color: #475569;
+                            ">
+                            <a href="mailto:frydenborg@eurasiagroup.net" style="color: #475569; text-decoration: underline">frydenborg@eurasiagroup.net</a>
+                          </div>
+                        </div>
+                      </td>
+                       
+                      <td style="width: 25%; padding-right: 8px; vertical-align: top">
+                        <div style="margin-bottom: 20px">
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 14px;
+                              line-height: 20px;
+                              color: #1e293b;
+                              font-weight: 600;
+                              text-decoration: underline;
+                              margin-bottom: 4px;
+                            ">
+                            EG Energy, Climate &amp; Resources
+                          </div>
+                          <div style="
+                              font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                              font-size: 12px;
+                              line-height: 18px;
+                              color: #475569;
+                            ">
+                            <a href="mailto:ecr@eurasiagroup.net" style="color: #475569; text-decoration: underline">ecr@eurasiagroup.net</a>
+                          </div>
+                        </div>
+                      </td>
+                    </tr>
+                     
+                  </table>
+                </div>
+              </td>
+            </tr>
+
+            <tr>
+              <td class="mobile-padding" style="padding: 0 40px 55px 40px">
+                <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-collapse: collapse">
+                  <tr>
+                    <td style="
+                        border-top: 1px solid #9c9fa9;
+                        mso-border-top-alt: 1px solid #9c9fa9;
+                        font-size: 0;
+                        line-height: 0;
+                        padding: 0;
+                      ">
+                      &nbsp;
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="height: 67px; line-height: 67px; font-size: 1px; padding: 0">&nbsp;</td>
+                  </tr>
+                </table>
+                <div style="
+                    font-family: 'Libre Franklin', Arial, sans-serif;
+                    font-size: 11px;
+                    line-height: 1.6;
+                    color: #94a3b8;
+                    text-align: left;
+                  ">
+                  © 2026 Eurasia Group. All rights reserved. This material was produced by Eurasia Group for
+                  use by the recipient. This is intended as general background research and is not intended to
+                  constitute advice on any particular commercial investment or trade matter or issue and should not be
+                  relied upon for such purposes. It is not to be made available to any person other than the recipient.
+                  No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any
+                  form or by any means, electronic or otherwise, without the prior consent of Eurasia Group.
+                </div>
+              </td>
+            </tr>
+
+            <tr>
+              <td class="mobile-padding" style="padding: 0 40px 8px 40px">
+                <p style="font-family: 'Libre Franklin', Arial, sans-serif; font-size: 8px; color: #cbd5e1; margin: 0">
+                  X-HG-DocID cmsrp5tg7uk1w07n7geob0ugw
+                </p>
+              </td>
+            </tr>
+
+            <tr>
+              <td class="mobile-padding" align="center" style="padding: 0 40px 24px 40px; text-align: center">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin: 0 auto; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt">
+                  <tr>
+                    <td style="
+                        font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                        font-size: 14px;
+                        color: #161c2c;
+                      ">
+                      <a href="https://u55806042.ct.sendgrid.net/ls/click?upn=u001.zCX-2BwsXjmwaE99lIbX90rRxC9Wh8-2B1dz2pEyYWV0jMJpTxY5tqVZVCjq4remmDeHfJgUCot310ce6nDsfJFrT2l33kyV1RlWF1gxqWvc0uBcTxc349xsuYnj0EZl1oQ-2FTliynfu8C6-2F00NWzYByVl-2BRaCfQVS2sTHM9e-2BS-2BAPa7no6FZncBmxyeSxq9hzmzy91o2d94q36kC-2F2iwYc2h4Dz4GTFJqmamfUyopcSXV5MjyrNtjWoQPIASoveYnW0OTy1hg9BVX2EHZP31x1lCEEwDJv2dFMrvl3tZWNQXEAoTWGKZFfOt1rrM5Mx3OJvnQMUJM4VzIETRQseoKpMUkPEU3vnwbec58suvhcqnPkw-3Dx30i_-2FhdkQkTtbSRQsfmNfy5HxdljfWpIZbVzG3TWOXRguFOwZtTBYgdRLol1HW5leEnNXFhPjB2PXLJd6EXYv7Bo-2FVfimnfIi7ZNKWYtbAdlEf610vovCVEeNcHilrszkAAR4k3LfAnx-2BGiDlJrXacPvwF3wBBbtQ32XjwDT2Yke24XOPY2g2lndagUa5fMfrBKUEeHhETQa75epXTbYRy3m8qlBXXr4-2BIGtGWghb4VdlPBYWRlKDS74mw2UDlA1Dk3i7EA3Dx3DOSOO17jtgDsv3LnpSMwSfUz2gx0H2MLTyXD4GuETwXzV1IOKcxzMOVpbsnHH6NHA5FrQnHS01K0YygouVeY4DHlwlpyPBcjxZz4j8xlbRXXdWwCCt8mghi18R3CuOy3MsGIpjgEFfUK9OEBdippkcHYtOYNauNmhiFGVK7BgBspCLfrJ6sZkCQk0q3ow-2BMD4NoUX7NmTnGeovLh0C6JYAuxhwSI-2B2UWhmQSt-2FN7ryd-2FIpWVwMEDznNosqElrf1t-2FnrGSe5aoY4dfnE2r01-2B-2BWb-2BMJaXfYuqTMrLE9wl0rGXGjm7R30ASb7iGVBiJJjnJBoe2B98C0r3edHsNVgx-2FLdaD46h8J9ONCoafp6caQeYBkXhB2vQbEfY8r1vD9osgxtIPJt0wAF9gWXT26BMK72pTTTwpamthPgdW9rNj6m0fHo7T5eyJVwVRYVIB-2BEjOi216yo61e23m5if3i5wTg1psGPVhnnsDq2Mt-2F82eCz948WYQB-2B8E3us96tzlI5jSUHX-2BTo9gk6gXu7ExMuI-2BhaJ7erTXfXu3nDxhvgvtCllKKW7dKeIT-2BeqxkIuHvyTYi4CpdsI9-2FSz4NIg-2FmHzwaUtJu9EyFVyk6BgPctXjjPh7P6wcd5JitKly" style="
+                          font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                          font-size: 14px;
+                          color: #161c2c;
+                          font-weight: 400;
+                          text-decoration: underline;
+                        ">Opt Out</a>
+                    </td>
+                    <td style="
+                        font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                        font-size: 14px;
+                        color: #161c2c;
+                        padding: 0 16px;
+                      ">
+                      |
+                    </td>
+                    <td style="
+                        font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                        font-size: 14px;
+                        color: #161c2c;
+                      ">
+                      <a href="https://u55806042.ct.sendgrid.net/ls/click?upn=u001.zCX-2BwsXjmwaE99lIbX90rRxC9Wh8-2B1dz2pEyYWV0jMJbAFzF94saTb3q7SF8Q4i4IxWdYwXZL3OugzvWdSMS2ebaUII-2BmgohBqBiet6P8KpVJxLqtuTq64uHSUIy87sVPHf3iRpvLQgYk9s67dVMWw-3D-3D-z0P_-2FhdkQkTtbSRQsfmNfy5HxdljfWpIZbVzG3TWOXRguFOwZtTBYgdRLol1HW5leEnNXFhPjB2PXLJd6EXYv7Bo-2FVfimnfIi7ZNKWYtbAdlEf610vovCVEeNcHilrszkAAR4k3LfAnx-2BGiDlJrXacPvwF3wBBbtQ32XjwDT2Yke24XOPY2g2lndagUa5fMfrBKUEeHhETQa75epXTbYRy3m8qlBXXr4-2BIGtGWghb4VdlPBYWRlKDS74mw2UDlA1Dk3i7EA3Dx3DOSOO17jtgDsv3LnpSMwSfUz2gx0H2MLTyXD4GuETwXzV1IOKcxzMOVpbsnHH6NHA5FrQnHS01K0YygouVeY4DHlwlpyPBcjxZz4j8xlbRXXdWwCCt8mghi18R3CuOy3MsGIpjgEFfUK9OEBdippkcHYtOYNauNmhiFGVK7BgBspCLfrJ6sZkCQk0q3ow-2BMD4NoUX7NmTnGeovLh0C6JYAuxhwSI-2B2UWhmQSt-2FN7ryd-2FIpWVwMEDznNosqElrf1t-2FnrGSe5aoY4dfnE2r01-2B-2BWb-2BMJaXfYuqTMrLE9wl0rGXGjm7R30ASb7iGVBiJJjnJBoe2B98C0r3edHsNVgx-2FLdaD46h8J9ONCoafp6caQeYBkXhB2vQbEfY8r1vD9osgxtIPJt0wAF9gWXT26BMK72pTTTwpamthPgdW9rNj6m0fHo7T5eyJVwVRYVIB-2BEjOi216yo61e23m5if3i5wTg1psGPVhnnsDq2M5o4fTqu7l1kzNVk8qu3cFO5G1K5QK7Y-2BnJ6Qr62eSZT1lDtQjBpEz-2BLynYsG82cKt10VQbqTxICBNEAKrttlvk6oO7pMOkQSg0Qvbpy0qP9Fc3M3ovvox32hvyVKiXwFYTBjSMswjAgry7AeWx7-2Fp" style="
+                          font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                          font-size: 14px;
+                          color: #161c2c;
+                          font-weight: 400;
+                          text-decoration: underline;
+                        ">Customize Email Preferences</a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  <img src="https://u55806042.ct.sendgrid.net/wf/open?upn=u001.DfYNoVqfi7ptKKOm-2FNJHj7DgveNU4nttmjAkezMP3MBYiQhyHb2bjzjEruopvEoRpEzo-2FyIFfmwa-2BF7TommRfafVOJXWJWfu4h0CujrWPZ-2FiArDP4MIwNpn1B2iUf7h6uqYuMWQWciKo9NdvNkliZoemhxaIF1v2bs3dce9Fh0QytoLZTdintGs0hD20-2FvMAutdV9L-2FwblTp-2B1VHdy26ZUf9fnH3lDRi5LAbijpguq1bZgPU5DiWH8Evq8i32mvpcPnCugvG4uqbeP067Ot3y4IkMVl-2FM8nvFQ0I-2BlvnMnZTcrLJ2wQVq7TzQh8TWquxEUH90c1z-2FUWrahyxWjJrWk5yBM-2BAEsiLeN2iBicoyV5w1QjwQjGRsjUCm5PTpPMwvC01YPsSUSeul9nF-2BY9e2azq0p1CgS4BBsgrJ37fHQd8Uba9UxbksJtHTwMbBudZUZipxUbJVuqke9IfQXuZP8G1wBzHTjifVlbRtyEKKNE3XjkcPuDHjDBGByT0PB0hnFIct3hi8QdveFMwj5M2sIIg7If6wRVUnL2CLdCTl6hLoLFKwkV-2F2Y3YVM2XBi-2BZEPmgpHjXo0aWLrpf6-2BgF7H-2FyJwE5co70PqFN9Gt9vel5NT-2Bi5mEKlBRevbzvaZAsJwIdz4X0RBA9xJnIl9ME3fveg9T7wBOetDaOay-2B4SgeYKnoNDtfsoIU04c-2FBWgkvOp9n3ld8g2t7IBYJxDME9BwO-2Ftv-2FPg4mXvPyPpR-2BDuhu1vy8nWTqyo-2BuW2lpr-2B2gnxaD13X-2FZ1v-2F-2FkcDshRoWp2UhdFR2GjAV8LnWXQl9Ho1RTa4R03yHGBg50-2BxTRzhqNA6r0NxbLek-2B-2F8n0Q9LPAE0ktwVP1-2BrtL-2F412ihiADp92S2vYJhtEUzoz5owPAA" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body>
+</html>
