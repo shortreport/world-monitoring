@@ -1,182 +1,487 @@
 {
-  "generated_at": "2026-08-07 13:32 JST",
-  "sender_count": 3,
-  "total_mails": 21,
+  "generated_at": "2026-08-14 09:47 JST",
+  "sender_count": 6,
+  "total_mails": 64,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 8,
+      "count": 34,
       "bullets": [
-        "ミシガン州の選挙戦が民主党の2028年予備選の展開を左右し、上院レースは接戦化して民主党が勢いを取り戻す状況",
-        "7月の関税制度見直しでブラジルが最大打撃を受け、中国も米国の強制労働法執行に対する報復を実施するも9月の大統領サミット開催に向けて外交的選択肢を維持",
-        "通商法301条をめぐる訴訟決着が2027年半ばまでかかる見込みで、米国は中国のAIに対する選択的規制へ動く方針",
-        "米国がホルムズ海峡開放に向けた一時的解決策に傾く中、中東における緊張緩和の可能性が高まり、米国とイランが共同管理を含む妥協案で合意見込みも不安定性の懸念",
-        "連邦準備制度の強気姿勢の収束により9月の利上げが可能性を高めており、米国経済見通しが変化"
+        "グローバルな石油・ガス市場の地政学的リスクが高まり、イラン戦争やロシア製油所攻撃が供給に影響を与えている状況の分析と解説",
+        "南アジア地域ではエルニーニョによる弱いモンスーンが食糧インフレと政府の財政圧力を引き起こす見込み",
+        "中東ではネタニヤフ首相のトランプ会談が選挙での脆弱性を深める一方、サウジアラビア・トルコ・パキスタンの「イスラム連合」による安全保障協力の強化が進行",
+        "イランとの核合意における経済効果は政府の主張を大きく下回り、年間30～40億ドル程度にとどまる可能性"
       ],
       "subjects": [
         [
-          "2026-08-06",
+          "2026-08-07",
+          "Analysing global oil & gas markets - EG Conference Call,",
+          "data/pdfs/20260807_2102_Analysing_global_oil_&_gas_markets_-_EG_Conference.pdf"
+        ],
+        [
+          "2026-08-08",
+          "El Niño raises food inflation risks in the region",
+          "data/pdfs/20260808_0322_El_Niño_raises_food_inflation_risks_in_the_region.pdf"
+        ],
+        [
+          "2026-08-08",
+          "Netanyahu’s Trump meeting deepens his electoral vulnerability",
+          "data/pdfs/20260808_0354_Netanyahu’s_Trump_meeting_deepens_his_electoral_vu.pdf"
+        ],
+        [
+          "2026-08-08",
+          "Deepening ‘Islamic Coalition’ bolsters Saudi security as trust in US",
+          "data/pdfs/20260808_0520_Deepening_‘Islamic_Coalition’_bolsters_Saudi_secur.pdf"
+        ],
+        [
+          "2026-08-10",
+          "Iran’s deal proceeds would fall well short of its claims",
+          "data/pdfs/20260810_1827_Iran’s_deal_proceeds_would_fall_well_short_of_its_.pdf"
+        ],
+        [
+          "2026-08-10",
           "EG Research Summary in Japanese",
-          "data/pdfs/20260806_1824_EG_Research_Summary_in_Japanese.pdf"
+          "data/pdfs/20260810_1833_EG_Research_Summary_in_Japanese.pdf"
         ],
         [
-          "2026-08-06",
-          "US political and economic update - EG Conference Call, REMINDER",
-          "data/pdfs/20260806_2002_US_political_and_economic_update_-_EG_Conference_C.pdf"
+          "2026-08-10",
+          "New central bank governor will offer loose continuity",
+          "data/pdfs/20260810_1919_New_central_bank_governor_will_offer_loose_continu.pdf"
         ],
         [
-          "2026-08-06",
-          "Republicans maintain slight advatange as Senate race tightens",
-          "data/pdfs/20260806_2134_Republicans_maintain_slight_advatange_as_Senate_ra.pdf"
+          "2026-08-10",
+          "Analysing global oil & gas markets - EG Conference Call,",
+          "data/pdfs/20260810_2102_Analysing_global_oil_&_gas_markets_-_EG_Conference.pdf"
         ],
         [
-          "2026-08-07",
-          "Senate nearly a toss-up",
-          "data/pdfs/20260807_0155_Senate_nearly_a_toss-up.pdf"
+          "2026-08-10",
+          "Islamic coalition bolsters Saudi security ties",
+          "data/pdfs/20260810_2153_Islamic_coalition_bolsters_Saudi_security_ties.pdf"
         ],
         [
-          "2026-08-07",
-          "China: Broad retaliation preserves diplomatic options",
-          "data/pdfs/20260807_0408_China__Broad_retaliation_preserves_diplomatic_opti.pdf"
+          "2026-08-10",
+          "Hormuz disruption boosts Duqm as supply chain hub",
+          "data/pdfs/20260810_2231_Hormuz_disruption_boosts_Duqm_as_supply_chain_hub.pdf"
         ],
         [
-          "2026-08-07",
-          "CONFERENCE CALL NOTES: US political and economic update",
-          "data/pdfs/20260807_0545_CONFERENCE_CALL_NOTES__US_political_and_economic_u.pdf"
+          "2026-08-11",
+          "Oil Markets Weekly",
+          "data/pdfs/20260811_0103_Oil_Markets_Weekly.pdf"
         ],
         [
-          "2026-08-07",
-          "From Washington to Tokyo: US policy, the midterms, and global",
-          "data/pdfs/20260807_0700_From_Washington_to_Tokyo__US_policy,_the_midterms,.pdf"
+          "2026-08-11",
+          "India update",
+          "data/pdfs/20260811_2116_India_update.pdf"
         ],
         [
-          "2026-08-07",
-          "From Washington to Tokyo: US policy, the midterms, and global",
-          "data/pdfs/20260807_0802_From_Washington_to_Tokyo__US_policy,_the_midterms,.pdf"
+          "2026-08-11",
+          "India update「インドに関する最新アップデート」（同時通訳あり）",
+          "data/pdfs/20260811_2121_India_update「インドに関する最新アップデート」（同時通訳あり）.pdf"
+        ],
+        [
+          "2026-08-11",
+          "USMCA reset possible as tariff deal edges closer",
+          "data/pdfs/20260811_2323_USMCA_reset_possible_as_tariff_deal_edges_closer.pdf"
+        ],
+        [
+          "2026-08-12",
+          "India update「インドに関する最新アップデート」（同時通訳あり）",
+          "data/pdfs/20260812_0000_India_update「インドに関する最新アップデート」（同時通訳あり）.pdf"
+        ],
+        [
+          "2026-08-12",
+          "NEW TIME: India update",
+          "data/pdfs/20260812_0002_NEW_TIME__India_update.pdf"
+        ],
+        [
+          "2026-08-12",
+          "Progressive influence and desire for generational change drive",
+          "data/pdfs/20260812_0016_Progressive_influence_and_desire_for_generational_.pdf"
+        ],
+        [
+          "2026-08-12",
+          "Wildfires will expose limits of environmental governance and",
+          "data/pdfs/20260812_0320_Wildfires_will_expose_limits_of_environmental_gove.pdf"
+        ],
+        [
+          "2026-08-12",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20260812_0802_EG_Research_Summary_in_Japanese.pdf"
+        ],
+        [
+          "2026-08-12",
+          "Philippines: Fiscal constraints limit options to boost lackluster",
+          "data/pdfs/20260812_1753_Philippines__Fiscal_constraints_limit_options_to_b.pdf"
+        ],
+        [
+          "2026-08-12",
+          "eg update in Japanese (June 29, 2026)",
+          "data/pdfs/20260812_1835_eg_update_in_Japanese_(June_29,_2026).pdf"
+        ],
+        [
+          "2026-08-12",
+          "China's political and economic outlook",
+          "data/pdfs/20260812_2139_China's_political_and_economic_outlook.pdf"
+        ],
+        [
+          "2026-08-12",
+          "Oil leaking through Hormuz to keep prices lower",
+          "data/pdfs/20260812_2208_Oil_leaking_through_Hormuz_to_keep_prices_lower.pdf"
+        ],
+        [
+          "2026-08-12",
+          "EU will likely scrape through winter on tighter gas reserves",
+          "data/pdfs/20260812_2237_EU_will_likely_scrape_through_winter_on_tighter_ga.pdf"
+        ],
+        [
+          "2026-08-13",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20260813_0802_EG_Research_Summary_in_Japanese.pdf"
+        ],
+        [
+          "2026-08-13",
+          "India update「インドに関する最新アップデート」（同時通訳あり） -",
+          "data/pdfs/20260813_1000_India_update「インドに関する最新アップデート」（同時通訳あり）_-_EG_Confere.pdf"
+        ],
+        [
+          "2026-08-13",
+          "India update - EG Conference Call, REMINDER",
+          "data/pdfs/20260813_1101_India_update_-_EG_Conference_Call,_REMINDER.pdf"
+        ],
+        [
+          "2026-08-13",
+          "Analysing global oil & gas markets - EG Conference Call,",
+          "data/pdfs/20260813_2002_Analysing_global_oil_&_gas_markets_-_EG_Conference.pdf"
+        ],
+        [
+          "2026-08-13",
+          "EU to scrape through winter on tight gas reserves",
+          "data/pdfs/20260813_2138_EU_to_scrape_through_winter_on_tight_gas_reserves.pdf"
+        ],
+        [
+          "2026-08-13",
+          "China's political and economic outlook - EG Conference Call,",
+          "data/pdfs/20260813_2202_China's_political_and_economic_outlook_-_EG_Confer.pdf"
+        ],
+        [
+          "2026-08-14",
+          "This week in polling: Forecasters favor Democrats in Senate",
+          "data/pdfs/20260814_0023_This_week_in_polling__Forecasters_favor_Democrats_.pdf"
+        ],
+        [
+          "2026-08-14",
+          "Analyzing global oil and gas markets",
+          "data/pdfs/20260814_0112_Analyzing_global_oil_and_gas_markets.pdf"
+        ],
+        [
+          "2026-08-14",
+          "Oil prices will fall even if Hormuz traffic only partially recovers",
+          "data/pdfs/20260814_0226_Oil_prices_will_fall_even_if_Hormuz_traffic_only_p.pdf"
+        ],
+        [
+          "2026-08-14",
+          "China will tighten offshore taxation as fiscal pressure mounts",
+          "data/pdfs/20260814_0436_China_will_tighten_offshore_taxation_as_fiscal_pre.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260806_1824_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20260806_2002_US_political_and_economic_update_-_EG_Conference_C.pdf",
-        "data/pdfs/20260806_2134_Republicans_maintain_slight_advatange_as_Senate_ra.pdf",
-        "data/pdfs/20260807_0155_Senate_nearly_a_toss-up.pdf",
-        "data/pdfs/20260807_0408_China__Broad_retaliation_preserves_diplomatic_opti.pdf",
-        "data/pdfs/20260807_0545_CONFERENCE_CALL_NOTES__US_political_and_economic_u.pdf",
-        "data/pdfs/20260807_0700_From_Washington_to_Tokyo__US_policy,_the_midterms,.pdf",
-        "data/pdfs/20260807_0802_From_Washington_to_Tokyo__US_policy,_the_midterms,.pdf"
+        "data/pdfs/20260807_2102_Analysing_global_oil_&_gas_markets_-_EG_Conference.pdf",
+        "data/pdfs/20260808_0322_El_Niño_raises_food_inflation_risks_in_the_region.pdf",
+        "data/pdfs/20260808_0354_Netanyahu’s_Trump_meeting_deepens_his_electoral_vu.pdf",
+        "data/pdfs/20260808_0520_Deepening_‘Islamic_Coalition’_bolsters_Saudi_secur.pdf",
+        "data/pdfs/20260810_1827_Iran’s_deal_proceeds_would_fall_well_short_of_its_.pdf",
+        "data/pdfs/20260810_1833_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20260810_1919_New_central_bank_governor_will_offer_loose_continu.pdf",
+        "data/pdfs/20260810_2102_Analysing_global_oil_&_gas_markets_-_EG_Conference.pdf",
+        "data/pdfs/20260810_2153_Islamic_coalition_bolsters_Saudi_security_ties.pdf",
+        "data/pdfs/20260810_2231_Hormuz_disruption_boosts_Duqm_as_supply_chain_hub.pdf",
+        "data/pdfs/20260811_0103_Oil_Markets_Weekly.pdf",
+        "data/pdfs/20260811_2116_India_update.pdf",
+        "data/pdfs/20260811_2121_India_update「インドに関する最新アップデート」（同時通訳あり）.pdf",
+        "data/pdfs/20260811_2323_USMCA_reset_possible_as_tariff_deal_edges_closer.pdf",
+        "data/pdfs/20260812_0000_India_update「インドに関する最新アップデート」（同時通訳あり）.pdf",
+        "data/pdfs/20260812_0002_NEW_TIME__India_update.pdf",
+        "data/pdfs/20260812_0016_Progressive_influence_and_desire_for_generational_.pdf",
+        "data/pdfs/20260812_0320_Wildfires_will_expose_limits_of_environmental_gove.pdf",
+        "data/pdfs/20260812_0802_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20260812_1753_Philippines__Fiscal_constraints_limit_options_to_b.pdf",
+        "data/pdfs/20260812_1835_eg_update_in_Japanese_(June_29,_2026).pdf",
+        "data/pdfs/20260812_2139_China's_political_and_economic_outlook.pdf",
+        "data/pdfs/20260812_2208_Oil_leaking_through_Hormuz_to_keep_prices_lower.pdf",
+        "data/pdfs/20260812_2237_EU_will_likely_scrape_through_winter_on_tighter_ga.pdf",
+        "data/pdfs/20260813_0802_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20260813_1000_India_update「インドに関する最新アップデート」（同時通訳あり）_-_EG_Confere.pdf",
+        "data/pdfs/20260813_1101_India_update_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20260813_2002_Analysing_global_oil_&_gas_markets_-_EG_Conference.pdf",
+        "data/pdfs/20260813_2138_EU_to_scrape_through_winter_on_tight_gas_reserves.pdf",
+        "data/pdfs/20260813_2202_China's_political_and_economic_outlook_-_EG_Confer.pdf",
+        "data/pdfs/20260814_0023_This_week_in_polling__Forecasters_favor_Democrats_.pdf",
+        "data/pdfs/20260814_0112_Analyzing_global_oil_and_gas_markets.pdf",
+        "data/pdfs/20260814_0226_Oil_prices_will_fall_even_if_Hormuz_traffic_only_p.pdf",
+        "data/pdfs/20260814_0436_China_will_tighten_offshore_taxation_as_fiscal_pre.pdf"
+      ]
+    },
+    {
+      "sender": "Eurasia",
+      "short": "EURAS",
+      "color": "YEL",
+      "count": 2,
+      "bullets": [
+        "ホルムズ海峡の米国-イラン緊張緩和が見込まれ、9月中旬までの再開合意により油価は75~95ドル/バレルから65~75ドル/バレルへの低下予想",
+        "ホルムズ海峡経由の石油輸送量は約500万バレル/日で継続しており、サウジアラビアのヤンブ積み出し地でのフーシ派による妨害が石油価格に部分的に相殺効果",
+        "オマーンのドゥクムが迂回サプライチェーンの投資受け入れ拠点としてのポジショニング強化",
+        "セクション338関税回避に向けた交渉が進展し、限定的な合意により米国・カナダ間のより広範な貿易・防衛協議が可能化"
+      ],
+      "subjects": [
+        [
+          "2026-08-11",
+          "Daily Research Summary - Aug 10th, 2026",
+          "data/pdfs/20260811_0836_Daily_Research_Summary_-_Aug_10th,_2026.pdf"
+        ],
+        [
+          "2026-08-12",
+          "Daily Research Summary - Aug 11th, 2026",
+          "data/pdfs/20260812_0836_Daily_Research_Summary_-_Aug_11th,_2026.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260811_0836_Daily_Research_Summary_-_Aug_10th,_2026.pdf",
+        "data/pdfs/20260812_0836_Daily_Research_Summary_-_Aug_11th,_2026.pdf"
+      ]
+    },
+    {
+      "sender": "Ian",
+      "short": "IAN",
+      "color": "RED",
+      "count": 1,
+      "bullets": [
+        "トランプ大統領の譲歩を受けて、イラン核問題での新たな合意構築に向けた動き",
+        "ホルムズ海峡のイラン・オマーン共同統制を明示的に認める内容で、従来の合意と類似",
+        "海峡通行に対する「任意の手数料」による管理体制の導入",
+        "地域プレイヤー自身による直接交渉で合意を構成中"
+      ],
+      "subjects": [
+        [
+          "2026-08-10",
+          "eg update",
+          "data/pdfs/20260810_2050_eg_update.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260810_2050_eg_update.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "YEL",
-      "count": 12,
+      "color": "ORG",
+      "count": 22,
       "bullets": [
-        "ロンドンの交通局がWayveとUberに対し、自動運転車でタクシー乗客の輸送を行う許可を付与。15台の改造車両による試験運行を開始。",
-        "欧州で猛暑と野火による経済的打撃が拡大。気候変動対策よりも地球温暖化そのものがビジネスに悪影響を及ぼすと専門家が警告。",
-        "EUの新しい生体認証国境検査システムが機能不全。夏季の旅行者による長時間の遅延が発生し、一部空港ではシステムを停止することで対応。",
-        "EU域内の規制当局の疲弊。ブラッセルの政策決定機関における人的・組織的な疲労が顕在化。"
+        "ドイツのメルツ首相が就任1年余りで党内から退任の是非を問われるなど、欧州の政治的安定が揺らぎ始めている状況",
+        "スペインとイタリアの首脳による国境管理をめぐる対立が激化し、両国間の渡航者が混乱に巻き込まれている事態",
+        "イタリアのメローニ首相が政治的ライバルの台頭に対抗するため、移民対策をめぐる強硬姿勢を強める動き",
+        "ポーランドの野党分裂など各国の政党再編が進行し、既存政権の地位が不安定化している流れ",
+        "米国投資企業によるeasyJet買収など、欧州の産業・モビリティ部門での国際的な資本移動が活発化"
       ],
       "subjects": [
         [
-          "2026-08-05",
-          "Self-driving startup approved to take taxi passengers in London",
-          "data/pdfs/20260805_1950_Self-driving_startup_approved_to_take_taxi_passeng.pdf"
+          "2026-08-07",
+          "Germany’s hot topic this summer: A chancellor swap",
+          "data/pdfs/20260807_1905_Germany’s_hot_topic_this_summer__A_chancellor_swap.pdf"
         ],
         [
-          "2026-08-05",
-          "The economic toll of Europe’s infernal summer",
-          "data/pdfs/20260805_2252_The_economic_toll_of_Europe’s_infernal_summer.pdf"
-        ],
-        [
-          "2026-08-06",
+          "2026-08-08",
           "Pro Daily Headlines",
-          "data/pdfs/20260806_0031_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20260808_0031_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-08-06",
-          "Europe’s new border system works by being switched off when",
-          "data/pdfs/20260806_0125_Europe’s_new_border_system_works_by_being_switched.pdf"
+          "2026-08-08",
+          "Sánchez-Meloni clash brings back borders — and headaches for",
+          "data/pdfs/20260808_2159_Sánchez-Meloni_clash_brings_back_borders_—_and_hea.pdf"
         ],
         [
-          "2026-08-06",
-          "Burnout in the Berlaymont",
-          "data/pdfs/20260806_1352_Burnout_in_the_Berlaymont.pdf"
+          "2026-08-10",
+          "Ending the border check battle",
+          "data/pdfs/20260810_1352_Ending_the_border_check_battle.pdf"
         ],
         [
-          "2026-08-06",
-          "Why people want a job at the European Commission — and why so",
-          "data/pdfs/20260806_1638_Why_people_want_a_job_at_the_European_Commission_—.pdf"
+          "2026-08-10",
+          "A new rival is forcing Italy’s Meloni back to her far-right roots",
+          "data/pdfs/20260810_1636_A_new_rival_is_forcing_Italy’s_Meloni_back_to_her_.pdf"
         ],
         [
-          "2026-08-06",
-          "German interior minister suggests state actor behind drone attack",
-          "data/pdfs/20260806_1844_German_interior_minister_suggests_state_actor_behi.pdf"
+          "2026-08-10",
+          "Why Poland’s right-wing split may not save Donald Tusk",
+          "data/pdfs/20260810_1737_Why_Poland’s_right-wing_split_may_not_save_Donald_.pdf"
         ],
         [
-          "2026-08-06",
-          "Malta leads fight against EU bid to tax Big Gambling",
-          "data/pdfs/20260806_1906_Malta_leads_fight_against_EU_bid_to_tax_Big_Gambli.pdf"
+          "2026-08-10",
+          "Trump officials are celebrating the ‘impressive results’ of trade",
+          "data/pdfs/20260810_1926_Trump_officials_are_celebrating_the_‘impressive_re.pdf"
         ],
         [
-          "2026-08-06",
-          "Leipzig drone incident fuels fears of Russian election meddling",
-          "data/pdfs/20260806_2239_Leipzig_drone_incident_fuels_fears_of_Russian_elec.pdf"
+          "2026-08-10",
+          "Europe’s crisis reserves weren’t meant for this kind of drought",
+          "data/pdfs/20260810_2106_Europe’s_crisis_reserves_weren’t_meant_for_this_ki.pdf"
         ],
         [
-          "2026-08-07",
+          "2026-08-11",
           "Pro Daily Headlines",
-          "data/pdfs/20260807_0031_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20260811_0031_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-08-07",
-          "US investment firm buys easyJet",
-          "data/pdfs/20260807_0124_US_investment_firm_buys_easyJet.pdf"
+          "2026-08-11",
+          "Costa’s €2 trillion grand tour",
+          "data/pdfs/20260811_1354_Costa’s_€2_trillion_grand_tour.pdf"
         ],
         [
-          "2026-08-07",
-          "US stresses Ceuta is Spanish territory but slams Sánchez for not",
-          "data/pdfs/20260807_0252_US_stresses_Ceuta_is_Spanish_territory_but_slams_S.pdf"
+          "2026-08-11",
+          "Europe is running out of Patriot missiles as Ukraine braces for",
+          "data/pdfs/20260811_1636_Europe_is_running_out_of_Patriot_missiles_as_Ukrai.pdf"
+        ],
+        [
+          "2026-08-11",
+          "Germany’s modern miracle: Churches are losing believers but",
+          "data/pdfs/20260811_1740_Germany’s_modern_miracle__Churches_are_losing_beli.pdf"
+        ],
+        [
+          "2026-08-11",
+          "Greece’s aging power grid blamed for catastrophic wildfires",
+          "data/pdfs/20260811_1905_Greece’s_aging_power_grid_blamed_for_catastrophic_.pdf"
+        ],
+        [
+          "2026-08-12",
+          "Europe’s growing pains",
+          "data/pdfs/20260812_1359_Europe’s_growing_pains.pdf"
+        ],
+        [
+          "2026-08-12",
+          "Merz’s deal with the Taliban alarms Afghan dissidents in Germany",
+          "data/pdfs/20260812_1641_Merz’s_deal_with_the_Taliban_alarms_Afghan_disside.pdf"
+        ],
+        [
+          "2026-08-12",
+          "Farage vs. Binface: Inside the Clacton by-election circus",
+          "data/pdfs/20260812_1736_Farage_vs._Binface__Inside_the_Clacton_by-election.pdf"
+        ],
+        [
+          "2026-08-12",
+          "Breakfast looks a lot more expensive under new EU pesticide plans",
+          "data/pdfs/20260812_1905_Breakfast_looks_a_lot_more_expensive_under_new_EU_.pdf"
+        ],
+        [
+          "2026-08-12",
+          "The backlash to social media bans has already begun",
+          "data/pdfs/20260812_2106_The_backlash_to_social_media_bans_has_already_begu.pdf"
+        ],
+        [
+          "2026-08-13",
+          "How Russian attacks, European protectionism and drought are",
+          "data/pdfs/20260813_0233_How_Russian_attacks,_European_protectionism_and_dr.pdf"
+        ],
+        [
+          "2026-08-13",
+          "The EU’s Middle East impasse",
+          "data/pdfs/20260813_1351_The_EU’s_Middle_East_impasse.pdf"
+        ],
+        [
+          "2026-08-13",
+          "Ukraine’s new ballistic missile puts Putin within reach",
+          "data/pdfs/20260813_1736_Ukraine’s_new_ballistic_missile_puts_Putin_within_.pdf"
+        ],
+        [
+          "2026-08-14",
+          "Pro Daily Headlines",
+          "data/pdfs/20260814_0031_Pro_Daily_Headlines.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260805_1950_Self-driving_startup_approved_to_take_taxi_passeng.pdf",
-        "data/pdfs/20260805_2252_The_economic_toll_of_Europe’s_infernal_summer.pdf",
-        "data/pdfs/20260806_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260806_0125_Europe’s_new_border_system_works_by_being_switched.pdf",
-        "data/pdfs/20260806_1352_Burnout_in_the_Berlaymont.pdf",
-        "data/pdfs/20260806_1638_Why_people_want_a_job_at_the_European_Commission_—.pdf",
-        "data/pdfs/20260806_1844_German_interior_minister_suggests_state_actor_behi.pdf",
-        "data/pdfs/20260806_1906_Malta_leads_fight_against_EU_bid_to_tax_Big_Gambli.pdf",
-        "data/pdfs/20260806_2239_Leipzig_drone_incident_fuels_fears_of_Russian_elec.pdf",
-        "data/pdfs/20260807_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260807_0124_US_investment_firm_buys_easyJet.pdf",
-        "data/pdfs/20260807_0252_US_stresses_Ceuta_is_Spanish_territory_but_slams_S.pdf"
+        "data/pdfs/20260807_1905_Germany’s_hot_topic_this_summer__A_chancellor_swap.pdf",
+        "data/pdfs/20260808_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260808_2159_Sánchez-Meloni_clash_brings_back_borders_—_and_hea.pdf",
+        "data/pdfs/20260810_1352_Ending_the_border_check_battle.pdf",
+        "data/pdfs/20260810_1636_A_new_rival_is_forcing_Italy’s_Meloni_back_to_her_.pdf",
+        "data/pdfs/20260810_1737_Why_Poland’s_right-wing_split_may_not_save_Donald_.pdf",
+        "data/pdfs/20260810_1926_Trump_officials_are_celebrating_the_‘impressive_re.pdf",
+        "data/pdfs/20260810_2106_Europe’s_crisis_reserves_weren’t_meant_for_this_ki.pdf",
+        "data/pdfs/20260811_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260811_1354_Costa’s_€2_trillion_grand_tour.pdf",
+        "data/pdfs/20260811_1636_Europe_is_running_out_of_Patriot_missiles_as_Ukrai.pdf",
+        "data/pdfs/20260811_1740_Germany’s_modern_miracle__Churches_are_losing_beli.pdf",
+        "data/pdfs/20260811_1905_Greece’s_aging_power_grid_blamed_for_catastrophic_.pdf",
+        "data/pdfs/20260812_1359_Europe’s_growing_pains.pdf",
+        "data/pdfs/20260812_1641_Merz’s_deal_with_the_Taliban_alarms_Afghan_disside.pdf",
+        "data/pdfs/20260812_1736_Farage_vs._Binface__Inside_the_Clacton_by-election.pdf",
+        "data/pdfs/20260812_1905_Breakfast_looks_a_lot_more_expensive_under_new_EU_.pdf",
+        "data/pdfs/20260812_2106_The_backlash_to_social_media_bans_has_already_begu.pdf",
+        "data/pdfs/20260813_0233_How_Russian_attacks,_European_protectionism_and_dr.pdf",
+        "data/pdfs/20260813_1351_The_EU’s_Middle_East_impasse.pdf",
+        "data/pdfs/20260813_1736_Ukraine’s_new_ballistic_missile_puts_Putin_within_.pdf",
+        "data/pdfs/20260814_0031_Pro_Daily_Headlines.pdf"
+      ]
+    },
+    {
+      "sender": "ジェトロ",
+      "short": "ジェトロ",
+      "color": "GRN",
+      "count": 1,
+      "bullets": [
+        "地政学的リスク高騰やエネルギー価格上昇など不確定要因が常態化する中、2025年の世界貿易が堅調に推移し自由貿易体制が維持されていることを報告",
+        "貿易・直接投資・通商分野における政策不確実性の高まりに対し、世界全体および各国・地域の現状を定量・定性両面から分析",
+        "日本と世界、第三国間の貿易・直接投資動向および注目産業の企業・政策動向を俯瞰的に捉えた分析を実施",
+        "中東情勢悪化に伴う国際物流混乱と高リスク環境下での日本企業対応の方向性を検討"
+      ],
+      "subjects": [
+        [
+          "2026-08-13",
+          "ジェトロ地域・分析レポートの新着のご案内（2026年8月13日号）",
+          "data/pdfs/20260813_1459_ジェトロ地域・分析レポートの新着のご案内（2026年8月13日号）.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260813_1459_ジェトロ地域・分析レポートの新着のご案内（2026年8月13日号）.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "RED",
-      "count": 1,
+      "color": "PRP",
+      "count": 4,
       "bullets": [
-        "中国商務部が米国301条関税などの措置に対する談話を相次ぎ発表し、米中首脳会談の合意に基づく協議継続",
-        "中国が9月15日から「出入国管理に関する国務院規定」を施行し、外国人の出入国管理規定を具体化",
-        "広東省が優良企業の育成と上場支援を強化",
-        "江蘇省交通運輸庁が「AI＋交通運輸」実施プランを発表",
-        "中国が再生可能エネルギー分野の5カ年規画を発表し、2030年の風力・太陽光発電設備容量を28億kW以上へ目標設定"
+        "中国が重要分野での米国企業への規制強化、知的財産権保護の強化、原発建設承認など産業・技術基盤の整備を推進",
+        "米国やEUが保護主義的な通商政策（関税、輸出規制）を強化する一方で、再生可能エネルギーや重要鉱物産業への投資促進を実施",
+        "アジア各国（中国、タイ、韓国）が消費者物価上昇への対応、産業人材育成、環境対応産業の支援を通じた経済成長を推進",
+        "グリーン化やデジタル化、メタノール自動車、ロボタクシーなど次世代産業への投資と技術開発が加速"
       ],
       "subjects": [
         [
-          "2026-08-06",
-          "「ジェトロ・ビジネス短信」2026/08/06",
-          "data/pdfs/20260806_1847_「ジェトロ・ビジネス短信」2026_08_06.pdf"
+          "2026-08-07",
+          "「ジェトロ・ビジネス短信」2026/08/07",
+          "data/pdfs/20260807_1825_「ジェトロ・ビジネス短信」2026_08_07.pdf"
+        ],
+        [
+          "2026-08-10",
+          "「ジェトロ・ビジネス短信」2026/08/10",
+          "data/pdfs/20260810_1806_「ジェトロ・ビジネス短信」2026_08_10.pdf"
+        ],
+        [
+          "2026-08-12",
+          "「ジェトロ・ビジネス短信」2026/08/12",
+          "data/pdfs/20260812_1827_「ジェトロ・ビジネス短信」2026_08_12.pdf"
+        ],
+        [
+          "2026-08-13",
+          "「ジェトロ・ビジネス短信」2026/08/13",
+          "data/pdfs/20260813_1806_「ジェトロ・ビジネス短信」2026_08_13.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260806_1847_「ジェトロ・ビジネス短信」2026_08_06.pdf"
+        "data/pdfs/20260807_1825_「ジェトロ・ビジネス短信」2026_08_07.pdf",
+        "data/pdfs/20260810_1806_「ジェトロ・ビジネス短信」2026_08_10.pdf",
+        "data/pdfs/20260812_1827_「ジェトロ・ビジネス短信」2026_08_12.pdf",
+        "data/pdfs/20260813_1806_「ジェトロ・ビジネス短信」2026_08_13.pdf"
       ]
     }
   ]
