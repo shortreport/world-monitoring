@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 14:27:40",
+  "generated_at": "2026-08-15 23:25:49",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,28 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-15 14:27:14",
+      "last_checked": "2026-08-15 23:25:24",
       "items": [
+        {
+          "uid": "1e97cd1ee846",
+          "date": "2026-07-11",
+          "title": "A new chapter for industrial Europe: the Industrial Accelerator Act - ashurstperkinscoie.com",
+          "summary": "申し訳ございませんが、提供いただいたテキストにはタイトルのみで具体的な記事内容が含まれていないため、要約を作成することができません。記事の本文をご提供いただければ、IAAに関する文脈で日本語1～2文の要約をお作りします。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakxtSFFHWFdYdzJPV1c2ekt0NjQ0eGZmWTZOZXJWU2x3SllRX244aWNhdW5FQlEyYXF4Z2pLX1FUVEx4Q1NmejRMb1hwXzU0Y0QyOElFcktELUNscmJyd0pLSmIwNnFBUDlibXlGNkt4bHJtM2JUR0sxWUJhakNVZXdORUFablhCV2s0dll4R2Mwbkw2YmQtdGZ1ejhlV3FUQW5JRklteFd2VlVQcmxjOWxWb3Q?oc=5",
+          "added_at": "2026-08-15 23:25:20"
+        },
+        {
+          "uid": "6be46596e361",
+          "date": "2026-08-11",
+          "title": "EU Approves €84M Danish State Aid for Clean Tech Manufacturing - News and Statistics - IndexBox",
+          "summary": "EUはデンマークに対して8,400万ユーロのクリーンテック製造業向け国家補助を承認し、これはIAA（欧州産業加速法案）に基づく支援措置として、欧州の産業競争力強化と脱炭素化を同時に推進する政策の一環となっている。",
+          "source": "EU産業政策",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWVlSXBnTDFDNnNSSjhvTWZXdUlFazRXUXp3QVBpNEEwbVdXSzFWQzhYekMzTHl4VkdOR01UYWdYVmdIQmFxZUJueVNvTFZfOFlhUHdEc3VHc2JrNG9RX0tDdGVkWkdueEx0d2prRlFPZ1BIQUtORVJ4YzN0c1N2WU5IVk43UQ?oc=5",
+          "added_at": "2026-08-15 23:25:20"
+        },
         {
           "uid": "4bde19f04379",
           "date": "2026-08-13",
@@ -1989,26 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByUE9BNk1oTGViQUc2UFVqaUFfY3Q0azhMTzhxNzhKODdMU1dxZGF4dmZPYmtUY0wtUENocnVpQ0E1RVFaNUNQb1M5X19YUE1CYXJNMTdnckJpeklJS2Y0LXFBbXZPQzNWMzlnTW5EWEM1N0RSYjNXOEk2T19SVjg?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "87382a8d2b90",
-          "date": "2026-03-06",
-          "title": "European Commission Proposes Industrial Accelerator Act: Key Takeaways - Latham & Watkins LLP",
-          "summary": "欧州産業加速法案は、欧州の産業競争力強化を目的として、規制緩和、投資促進、サプライチェーン確保などの措置を講じる包括的な産業政策である。本法案は、米国やアジアとの競争激化に対抗するため、クリーンテクノロジーやデジタル産業など戦略的に重要な産業部門の育成を重視している。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXR2NWV3LUVyYk1yUU8xaDBlR2I4Nm8ySUIyZ3hpT0hHNjRnSUZpM3NIT1FGd1hrRTJXcW1nS2lFTmU2cHJtWjRjMnpLUlBISTFzNlQxdDFLdGxEQmZYRTZNeGxxVkE1RWhXRTh0WjhaS3FPUG9iZl9aVjl4SHRJUXRnTWdCY3JrNjM0NmZXNXZFN1FvcTd0MWc4TkZwTFlRRmc?oc=5",
-          "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "ac536ef8bb76",
-          "date": "2026-03-09",
-          "title": "European Commission Proposes Industrial Accelerator Act - Mayer Brown",
-          "summary": "欧州委員会が提案した欧州産業加速法案（IAA）は、欧州の産業競争力を強化するための規制緩和と投資促進を目的とした法案である。本法案は、許認可手続きの迅速化やイノベーション規制の柔軟化により、欧州企業が米国や中国との競争で優位性を獲得することを目指している。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHQ5ODlqcDdVb090MW5IcWt4WnFJcGZvUkZ2enB6MldfQzRCQnk5SVI0UWU3VExMWnB3eTZQcFNBLUVpMUpUWVBseTMzUXIzOU1NZFdyU3FKS21BTG1CN3pNQ1J0VzM4MFNXQnk2SDVtZG9jd3dpbjZ5UnlKZDhhQURWSDVra2FBanJtYUhFN00ybEVsbnhTaVREbloxQklBNzlJN0FDaUM1T2tTWlJQX2VpY3Vsdw?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-15 14:27:23",
+      "last_checked": "2026-08-15 23:25:33",
       "items": [
         {
           "uid": "70e96fbb06b8",
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-15 14:27:40",
+      "last_checked": "2026-08-15 23:25:49",
       "items": [
         {
           "uid": "333e0930b82c",
