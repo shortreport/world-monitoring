@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14 23:54:48",
+  "generated_at": "2026-08-15 14:27:40",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-14 23:54:14",
+      "last_checked": "2026-08-15 14:27:14",
       "items": [
         {
           "uid": "4bde19f04379",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-14 23:54:26",
+      "last_checked": "2026-08-15 14:27:23",
       "items": [
+        {
+          "uid": "70e96fbb06b8",
+          "date": "2026-07-01",
+          "title": "Tightening of the “BIS Rules” for Connected Vehicle Technologies in the U.S. – Challenge for global Automotive Companies with China-Nexus - Taylor Wessing",
+          "summary": "米国商務省産業安全保障局（BIS）は、接続車両技術に関する規制を強化し、中国関連企業との取引を制限する措置を導入しており、これはグローバル自動車企業にとって重大な規制リスクとなっています。このS.4429関連の規制強化は、自動車メーカーのサプライチェーン再編と中国技術との分離を促進させる意図を持っています。",
+          "source": "米商務省・BIS",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekxzVmQ1WVpYdUhpUHhGdU9xbFRudlExT0c4ampjczVjX3dIU2lOeHRhRGJpdkt0WXJNTUY3b2E1SWtJaGZ5dG51eDl2azZoM1RBbXFOYVprSlFkanN4QXVhRV9sbWxQemJtRXZrS0RuUGUtamZvVmZ6MTBTbS1fSGlwcWljYXU1aUlHd2x6NTAxZXNnNWx0UURXTGxsUQ?oc=5",
+          "added_at": "2026-08-15 14:27:21"
+        },
         {
           "uid": "349946efd8a0",
           "date": "2026-08-11",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNkdZeFhWTDRiZzh6QkZHYnpheUhCVEVMc1RRR1VjV3kxTlpuMEZmZnhUYk1jaGxuSlFnQ19IaVJLUk1fVlg1TDlCWS1wcXB0M0JSOW9WMFF5b3FWTzdHWEFaX0JoenNHcEM5N29RTUVPaS1IMmVRZjA2OHZ4SlVSci15X0xOUjk0NFFNVXJZd0s0Y25zaUZNc0ZsSGFpUQ?oc=5",
           "added_at": "2026-07-02 13:39:28"
-        },
-        {
-          "uid": "5aff6962f705",
-          "date": "2026-04-12",
-          "title": "China’s Connected Vehicles Widen the U.S.-Canada Disconnect - The Wire China",
-          "summary": "中国の接続車両がサイバーセキュリティ上の脅威を構成するとして、米国はS.4429法案を通じて規制を強化しようとしているのに対し、カナダはより緩い姿勢を保持していることで、北米の規制スタンスの相違が拡大している。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTndxeFA1N3Z0aldobUtmWHdrZ1pkQ3Znb1hxcFVmU2xZVk96cXdHbWhqRTU3Sm1maE9uNWl3OGVJczJqSnBjTTBnMXEyN2otdkhvU0VqQUxHTGphUzdXN2lPa2pIcVg2b2xINm00UG5kQ202UVNCZmFGa1I0dll1ZUViRW1uVDJucXhsT25hcTg2bHdZbmlDZlBSLXdjUGs?oc=5",
-          "added_at": "2026-07-02 13:39:28"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-14 23:54:48",
+      "last_checked": "2026-08-15 14:27:40",
       "items": [
+        {
+          "uid": "333e0930b82c",
+          "date": "2026-07-16",
+          "title": "China's rare earth curbs endanger $6.5 trillion of Western industry, IEA says - Reuters",
+          "summary": "中国がレアアース輸出を制限していることに対し、国際エネルギー機関（IEA）は西側産業約6.5兆ドル分が危険にさらされていると警告している。特に電気自動車や再生可能エネルギー産業など、レアアースに依存する産業が供給不足のリスクに直面している。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ1JvOGNOVF9NekpFQlJZLWowNkRlZkpZa2JjcnBSalhndDhwb09Gel9TdnNwYUctMlc3VXlHTjlzV0hwMkdBWGdGS04zSUpxdmhnX0JVeU9rRFFMVXFTVkRLaHR4b21NTTFONGVVR1U4VVZ3ZmlUQmRHcHphczdnWExMNFNVS0tWLTE1OEwzakl2VmJZMC1qS2c2YlhxaGNkbi03RjVjbzNRcWhzWkZITjhMR3VrNXB2eU0xaDlCWFN1TThDUkJjVTRDRkI4UkV1T1E?oc=5",
+          "added_at": "2026-08-15 14:27:35"
+        },
+        {
+          "uid": "a0415ffcaa81",
+          "date": "2026-08-14",
+          "title": "USA Rare Earth Gains 7%, MP Materials Jumps 8%: Here's Why Critical Minerals Are Moving Today - 24/7 Wall St.",
+          "summary": "中国がレアアース輸出に対する管理を強化する動きが見られる中、米国のレアアース企業であるUSA Rare Earthが7%、MP Materialsが8%上昇し、中国の輸出制限が供給懸念を招いて北米企業の株価を押し上げている。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTdUNDQyUXBDbHpTdjYtNWJpdmxwdlZwOGZhbnhrOFdPLS1ydkE2SmNXUmxuWVR1MnMzcThYRGQwU0pMU1lTX18xa1F5RWpkb210djhqbUdCYTAydkxySDNiaE92ckhHc2JDc2hVdjdTbHFVTkVVN28tbk5VTVlsTDdKeEw4eVZ6cVktWWVNcmxxMWFWNnhEelkyckpuSllwRHVLbFJRQU5Zc1NJTmZXYnY1Tm9menhmT1JiUlBxcy1YQ1Q5X2FjTnZpZHg?oc=5",
+          "added_at": "2026-08-15 14:27:35"
+        },
+        {
+          "uid": "b626db95277e",
+          "date": "2026-07-02",
+          "title": "China's Enhanced Export Controls: Impact on 20 Japanese Entities and Rare Earth Supply Chains【SMM Analysis】 - Shanghai Metals Market",
+          "summary": "中国は20の日本企業を含む多数の外国企業に対してレアアース等の輸出管理を強化し、サプライチェーンに影響を与えている。この措置は中国がレアアース供給を戦略的に管理し、外交・経済的な影響力を行使する動きを示している。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUzRzMlRaTVk0RHpGd0VmcDRsRWJvZXRPenB3VW9qRUR2VWJnMUVQTzVZSS02MFNKU0ZrX2VKSTRvS05kZnpRRmhpUzliajc5Y3J0YndTVUdpMkd3b0oyMnhyb09QRko0RUtQNGNNR3FFZUlQRTVJQXpNcnRsczgyeEJVUVA5ck9oWWEtb3NKX1h4ODY4Q2VMakF0TnBybllEQUN5S2RmTTV2dDQ2djR6UjZOMkU4MUc4Mm94RDlidHVQQVFsWU9UTm1WRFJkdEZrZE11ZERKOTBOVkFNQldyWkdR?oc=5",
+          "added_at": "2026-08-15 14:27:35"
+        },
         {
           "uid": "d9aaaf6f4393",
           "date": "2026-06-04",
@@ -6001,36 +6031,6 @@
           "source_type": "media",
           "url": "https://thehill.com/regulation/court-battles/5971779-john-rogers-fed-spying-conviction/",
           "added_at": "2026-07-17 00:41:09"
-        },
-        {
-          "uid": "57cabfb5b01e",
-          "date": "2026-07-16",
-          "title": "Uber eyes Delivery Hero in $15B acquisition bid",
-          "summary": "この記事は「中国レアアース輸出管理」に関する文脈での要約ができません。記事の内容はUberによるDelivery Heroの買収に関するもので、レアアース輸出管理とは無関係です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/technology/5971443-uber-eats-delivery-hero-deal/",
-          "added_at": "2026-07-17 00:41:09"
-        },
-        {
-          "uid": "5382ee51a680",
-          "date": "2026-07-16",
-          "title": "If export controls are an AI kill switch, the process needs reform",
-          "summary": "中国が行うレアアース輸出管理と同様に、政府による輸出規制が過度な制限にならないよう、政府に公開での立証責任を課し、恣意的な運用を防ぐための説明責任あるレビュープロセスが必要である。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/technology/5970389-anthropic-mythos-fable-ban/",
-          "added_at": "2026-07-17 00:41:09"
-        },
-        {
-          "uid": "82ca1166163c",
-          "date": "2026-07-14",
-          "title": "Key Changes in China s Export Control Landscape - Taylor Wessing",
-          "summary": "中国は2020年から2023年にかけて、レアアース、タングステン、モリブデンなどの戦略的に重要な鉱物資源の輸出許可制度を強化し、これらの物質に対する輸出規制をより厳格に管理する体制を構築した。この変化は、中国が重要な希少資源に対する支配力を強化し、国家の経済的および地政学的な利益を保護する戦略の一環である。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVN6WTlmbTFRXy1nTmtTN2wxX2ZnZ1dJSV9Xa2s2eDFZODlvTE9ab3pDTUNFMUR0YkhHR25GY3dYN3lmQ29fSnA3cHRLUmxORDdoSnRZaFFUVFhfVGZmVGpBUUkxR1NGWExHeWd0Mkd3TE5BYS1raUtvUkR6WktQazA4dkZQTU45ZTRQQTd5SXhkalFDdDctRkxxbU8yaFJsU2xsbmQ0WHRZUmhQVjVlRC10TFM2Y3pp?oc=5",
-          "added_at": "2026-07-16 16:24:40"
         }
       ]
     }
