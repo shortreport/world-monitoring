@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15 23:25:49",
+  "generated_at": "2026-08-16 14:31:08",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-15 23:25:24",
+      "last_checked": "2026-08-16 14:30:44",
       "items": [
         {
           "uid": "1e97cd1ee846",
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-15 23:25:33",
+      "last_checked": "2026-08-16 14:30:55",
       "items": [
+        {
+          "uid": "8fe18530c178",
+          "date": "2026-08-15",
+          "title": "GM to Halt Chevrolet Sales in China, Ford Shifts Lincoln Output to US - finance.biggo.com",
+          "summary": "GMが中国でのシボレー販売を中止し、フォードがリンカーン生産を米国にシフトする動きは、米国接続車両安全保障法（S.4429）が求める国内サプライチェーン強化と中国との経済的分離の圧力を反映している。これらの企業の戦略転換は、同法が意図する中国製部品排除と米国内での自動車生産・販売の集約化を実現する方向性を示している。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tU0JfZ3ZFcDZfMGdvUUZTYWRJY1hMSVlzS1lEVGM0YmZIZzg3U0dXanA4SkRod0RfZmVPbjB6VW95OXhwWHdXd1NGa1UyTzJUZVpnbFpBWm5CS1JOX1lOUnZ5ZlNUU1NjNzMzMlVHRGR2Rl9BcHc?oc=5",
+          "added_at": "2026-08-16 14:30:51"
+        },
+        {
+          "uid": "60808fb3cc0a",
+          "date": "2026-05-26",
+          "title": "Dashboard Camera Market Size to Hit USD 17.63 Billion by 2035 - Precedence Research",
+          "summary": "ドライブレコーダー市場は2035年までに173億ドルに達すると予測されており、これは接続車両のセキュリティ強化やデータ保護を求める米国接続車両安全保障法（S.4429）の要件に対応した車両安全技術の需要増加を反映している。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wVThTRV9peFI2UklrOEI4WmlPVVYzRUdUeGxUbGFXWlFoTnNDR096eC05YmVCZ0VJUjFuZURzaUs1aU5YUzFYUFVIVlQxVHRWVnZ3ZnFfazdXdXBtZnZKRl9zRkZhZGhxZUE?oc=5",
+          "added_at": "2026-08-16 14:30:51"
+        },
         {
           "uid": "70e96fbb06b8",
           "date": "2026-07-01",
@@ -4000,26 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TS1RPd1dRdlRvTUxBNy1aSE02cTdOY0sySk1mZnFNTHVRZnNpdmpoRzQ5OWVFNERpSm04OHJBRXowTWZ1d0hGQlNsc090S2JoX0pnUC05cU9XVGd2Z2ltd1FiVGx4cDVtV2s0Y1ZiRHdfZW1QVDV2LW9n?oc=5",
           "added_at": "2026-07-04 13:10:17"
-        },
-        {
-          "uid": "2b3c78fe8979",
-          "date": "2026-06-25",
-          "title": "US cranks up pressure on China EVs with Polestar ban - Reuters",
-          "summary": "米国はポールスター（中国系EV企業）への規制を通じて、中国製電動車に対する圧力を強化しており、これはS.4429法による安全保障を名目とした中国EV排除戦略の一環である。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLW1SMWdEUXp3ODA1STNZaXRMZVNWek9QRVRRMHpvdmJIRm8zYWhrVHJwOTFUWm9nSEVrVzVGYTFjR1JIMGYycHZwLXNqWVBKLUpIYkgtY1djSEJwb0hOTkdNSGpXSXByRlVUYnZnbVJLcm1BTGc2OUtSU2M3UzFzcGdYeU5yUnBydFgyZUdyMXcwY0RXRFMzWlZEOEYtSVdCakdLajRXb25rRGFEV295Z01iN0N1S0F4dTg2OVNQczJRV3A4UTFyMW14SWxUbXlrQ2pRUzNZUXhQcEh4WkE?oc=5",
-          "added_at": "2026-07-03 05:00:54"
-        },
-        {
-          "uid": "df88a9a8dc7e",
-          "date": "2026-07-01",
-          "title": "Tightening of the “BIS Rules” for Connected Vehicle Technologies in the U.S. – Challenge for global Automotive Companies with China-Nexus - Taylor Wessing",
-          "summary": "米国商務省産業安全保障局（BIS）は、接続車両技術に関する輸出規制を強化し、中国関連の自動車企業に対して設計・製造・サプライチェーン管理における技術的制限を課すことで、グローバル自動車企業の事業運営に新たな課題をもたらしている。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNkdZeFhWTDRiZzh6QkZHYnpheUhCVEVMc1RRR1VjV3kxTlpuMEZmZnhUYk1jaGxuSlFnQ19IaVJLUk1fVlg1TDlCWS1wcXB0M0JSOW9WMFF5b3FWTzdHWEFaX0JoenNHcEM5N29RTUVPaS1IMmVRZjA2OHZ4SlVSci15X0xOUjk0NFFNVXJZd0s0Y25zaUZNc0ZsSGFpUQ?oc=5",
-          "added_at": "2026-07-02 13:39:28"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-15 23:25:49",
+      "last_checked": "2026-08-16 14:31:08",
       "items": [
+        {
+          "uid": "da031c249518",
+          "date": "2026-05-20",
+          "title": "MOFCOM elaborates on eight preliminary outcomes of China-US economic, trade consultations covering issues of tariffs, agricultural trade, rare earth export controls, aircraft trade - Global Times",
+          "summary": "中国商務部は米国との経済・貿易協議の予備的成果として、関税、農産物貿易、レアアース輸出管理、航空機貿易を含む8項目について明らかにした。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FODBuN1RNaUliRi1NcFhmUV93Y0JaZzhlMURMRm5oOWF3WGFSQ0FCc2RqUUpOSGlzaUZJQlVhd2F0OEQ4YU8wVGxkZFJZdXQ3NnVLdVZIaHJ5X2dfNGxPVkVn?oc=5",
+          "added_at": "2026-08-16 14:31:07"
+        },
         {
           "uid": "333e0930b82c",
           "date": "2026-07-16",
@@ -6020,16 +6030,6 @@
           "source": "メディア分析",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWmh5OUZ6MkRKNXBxSlJOdFc3STRyT19tNDR4RVVLZ1dRWkJrVVY3bklEcGQ1a0tGN3VRYXRVd21LRlNGb2txeTdMYkp4MjE3UV9mNFVxZTE3VEl5MDllcm5rd1FTWUxHQThJUF9oRnJ1YTJZRWl0TUdMeXJtc2Rzckh2U01zcU1uM0wtRFZEZk9ZQVN4SVU2NmxFeXZPbkhJWldaU3BaWWo5MXpYVmdOZG45eGt1OE1jWG8zZGs4S3BHRG9qeDVUYk9XX3pqQ2FaZDdLWFgwaGgyeUM4NGhTM0IwZlZqR1ktZXVGU04tUXg?oc=5",
-          "added_at": "2026-07-17 00:41:09"
-        },
-        {
-          "uid": "76a98dc99ff7",
-          "date": "2026-07-16",
-          "title": "Former Federal Reserve adviser sentenced for false statements about China ties",
-          "summary": "米国の前連邦準備制度理事会(FRB)上級顧問が、中国スパイへの機密情報提供について虚偽の陳述をした罪で38ヶ月の懲役刑を言い渡されたもので、経済スパイ行為への関与が明らかになり、中国による機密情報収集活動の実態を示す事例として注目される。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/regulation/court-battles/5971779-john-rogers-fed-spying-conviction/",
           "added_at": "2026-07-17 00:41:09"
         }
       ]
