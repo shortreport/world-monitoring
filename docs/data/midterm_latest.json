@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-02T08:44:54.345021+09:00",
-  "article_count": 16,
+  "generated_at": "2026-08-16T08:08:28.641130+09:00",
+  "article_count": 19,
   "projections": {
     "senate": {
-      "r": 52,
-      "d": 46,
+      "r": 51,
+      "d": 47,
       "tossup": 2
     },
     "house": {
@@ -19,137 +19,63 @@
     }
   },
   "key_developments": [
-    "Jon Ossoff maintains strong fundraising advantage with $42M cash on hand versus Mike Collins' $2M in Georgia Senate race.",
-    "Michigan Democratic Senate primary between progressive Abdul El-Sayed and establishment Rep. Haley Stevens on August 4 viewed as consequential test of party direction.",
-    "Democrats face uphill battle to control Senate with competitive races in Alaska, Maine, North Carolina, and Texas remaining tight with 98 days until election.",
-    "South Texas counties that fueled Republican Hispanic gains become focal point for Democrats seeking to flip Texas Senate seat with James Talarico challenging Republican incumbent.",
-    "Trump's approval ratings reach lowest point of second term heading into midterms, raising questions about Republican momentum in key races."
+    "Progressive Democrat Abdul El-Sayed defeated establishment moderate Haley Stevens in Michigan's Democratic Senate primary, signaling Democratic Party civil war between left and center-left wings heading into midterms.",
+    "Republican Bruce Blakeman is surging against Democratic Governor Kathy Hochul in New York, threatening Democratic control of a traditionally safe blue state.",
+    "Democrats face challenging midterm landscape despite strong voter turnout, with control of Congress hanging in the balance against Republican trifecta of White House, Senate, and House.",
+    "Iowa Senate race tests whether the state remains a swing state as Democrats seek to reclaim Congress after two years of powerlessness during Trump's second term.",
+    "Immigration politics and Trump's ICE crackdown emerge as perilous issue for GOP as midterm elections approach in three months."
   ],
   "key_races": {
     "senate": [
       {
-        "state": "GA",
-        "incumbent": "Jon Ossoff (D)",
-        "party": "D",
-        "rating": "likely-d",
-        "label": "Georgia: Ossoff vs. Collins",
-        "note": "Ossoff leads with $42M cash on hand versus Collins' $2M, and shows clear lead in AARP polling among seniors."
-      },
-      {
-        "state": "TX",
-        "incumbent": "Republican (R)",
-        "party": "R",
-        "rating": "tossup",
-        "label": "Texas: Talarico vs. Republican",
-        "note": "Democratic state Rep. James Talarico challenges Republican incumbent; South Texas Hispanic counties key to Democratic flip hopes."
-      },
-      {
         "state": "MI",
-        "incumbent": "Republican (R)",
-        "party": "R",
+        "incumbent": "Mike Rogers (R)",
+        "party": "D",
         "rating": "tossup",
-        "label": "Michigan: Primary TBD",
-        "note": "August 4 Democratic primary between progressive El-Sayed and establishment Stevens determines nominee in competitive seat."
+        "label": "Michigan Senate",
+        "note": "Abdul El-Sayed, progressive former public health official, won Democratic primary against establishment moderate Haley Stevens in upset."
       },
       {
-        "state": "ME",
-        "incumbent": "Republican (R)",
-        "party": "R",
-        "rating": "lean-d",
-        "label": "Maine: Progressive Challenge",
-        "note": "Progressive Senate candidate mobilizing in Maine to challenge Republican incumbent."
+        "state": "IA",
+        "incumbent": "Unknown (R)",
+        "party": "D",
+        "rating": "lean-r",
+        "label": "Iowa Senate",
+        "note": "Democrats testing whether Iowa remains a swing state in increasingly competitive midterm environment."
       },
       {
-        "state": "NC",
-        "incumbent": "Republican (R)",
-        "party": "R",
-        "rating": "tossup",
-        "label": "North Carolina: Competitive",
-        "note": "North Carolina remains among most competitive Republican-held Senate seats with less than 100 days to election."
-      },
-      {
-        "state": "AK",
-        "incumbent": "Republican (R)",
-        "party": "R",
-        "rating": "tossup",
-        "label": "Alaska: Competitive",
-        "note": "Alaska listed as competitive Republican-held seat Democrats target for pickup."
+        "state": "WI",
+        "incumbent": "Unknown",
+        "party": "D",
+        "rating": "lean-r",
+        "label": "Wisconsin Senate",
+        "note": "Democrat Fran Hong race may cost Democrats significant midterm gains according to recent reporting."
       }
     ],
     "house": [
       {
-        "state": "AZ-04",
-        "incumbent": "DSA-backed Candidate (D)",
-        "party": "D",
-        "rating": "lean-r",
-        "label": "Arizona 4th: DSA Challenge",
-        "note": "Democratic Socialist candidate underperformed in Arizona 4th Congressional District, demonstrating limits of DSA reach."
+        "state": "MI-3",
+        "incumbent": "Unknown",
+        "party": "R",
+        "rating": "tossup",
+        "label": "Michigan-3",
+        "note": "Part of battleground Michigan's high-stakes midterm fight affecting House control."
       }
     ],
     "governor": [
       {
-        "state": "GA",
-        "incumbent": "Democrat (D)",
-        "party": "D",
-        "rating": "tossup",
-        "label": "Georgia Governor: Deadlocked",
-        "note": "Georgia gubernatorial race remains deadlocked according to recent AARP-commissioned poll."
+        "state": "NY",
+        "incumbent": "Kathy Hochul (D)",
+        "party": "R",
+        "rating": "lean-d",
+        "label": "New York Governor",
+        "note": "Republican Bruce Blakeman surging against Hochul in traditionally Democratic state according to Siena University poll."
       }
     ]
   },
   "upcoming_schedule": {
     "senate": [
       {
-        "date": "Aug 04",
-        "state": "Michigan (MI)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 04",
-        "state": "Arizona (AZ)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 04",
-        "state": "Washington (WA)",
-        "event": "Top-2 Open Primary"
-      },
-      {
-        "date": "Aug 04",
-        "state": "Kansas (KS)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 06",
-        "state": "Tennessee (TN)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 08",
-        "state": "Hawaii (HI)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 11",
-        "state": "Minnesota (MN)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 11",
-        "state": "Connecticut (CT)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 11",
-        "state": "Wisconsin (WI)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 11",
-        "state": "Vermont (VT)",
-        "event": "Primary Election"
-      },
-      {
         "date": "Aug 18",
         "state": "Florida (FL)",
         "event": "Primary Election"
@@ -203,65 +129,15 @@
         "date": "Sep 22",
         "state": "North Dakota (ND)",
         "event": "Primary Election"
+      },
+      {
+        "date": "Sep 29",
+        "state": "Louisiana (LA)",
+        "event": "Jungle Primary"
       }
     ],
     "house": [
       {
-        "date": "Aug 04",
-        "state": "Michigan (MI)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 04",
-        "state": "Missouri (MO)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 04",
-        "state": "Arizona (AZ)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 04",
-        "state": "Washington (WA)",
-        "event": "Top-2 Open Primary"
-      },
-      {
-        "date": "Aug 04",
-        "state": "Kansas (KS)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 06",
-        "state": "Tennessee (TN)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 08",
-        "state": "Hawaii (HI)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 11",
-        "state": "Minnesota (MN)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 11",
-        "state": "Connecticut (CT)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 11",
-        "state": "Wisconsin (WI)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 11",
-        "state": "Vermont (VT)",
-        "event": "Primary Election"
-      },
-      {
         "date": "Aug 18",
         "state": "Florida (FL)",
         "event": "Primary Election"
@@ -315,65 +191,15 @@
         "date": "Sep 22",
         "state": "North Dakota (ND)",
         "event": "Primary Election"
+      },
+      {
+        "date": "Sep 29",
+        "state": "Louisiana (LA)",
+        "event": "Jungle Primary"
       }
     ],
     "governor": [
       {
-        "date": "Aug 04",
-        "state": "Michigan (MI)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 04",
-        "state": "Missouri (MO)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 04",
-        "state": "Arizona (AZ)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 04",
-        "state": "Washington (WA)",
-        "event": "Top-2 Open Primary"
-      },
-      {
-        "date": "Aug 04",
-        "state": "Kansas (KS)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 06",
-        "state": "Tennessee (TN)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 08",
-        "state": "Hawaii (HI)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 11",
-        "state": "Minnesota (MN)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 11",
-        "state": "Connecticut (CT)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 11",
-        "state": "Wisconsin (WI)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 11",
-        "state": "Vermont (VT)",
-        "event": "Primary Election"
-      },
-      {
         "date": "Aug 18",
         "state": "Florida (FL)",
         "event": "Primary Election"
@@ -427,6 +253,11 @@
         "date": "Sep 22",
         "state": "North Dakota (ND)",
         "event": "Primary Election"
+      },
+      {
+        "date": "Sep 29",
+        "state": "Louisiana (LA)",
+        "event": "Jungle Primary"
       }
     ]
   }
