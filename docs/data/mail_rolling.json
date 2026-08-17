@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-17 14:35 JST",
+  "updated_at": "2026-08-17 14:37 JST",
   "total": 50,
-  "toyota_summary": "8月上旬、ホルムズ海峡と紅海における船舶への攻撃が激化し、タンカーへの無人機攻撃を含む安全警告が2週間で12件発出された。両海域はエネルギーおよび自動車サプライチェーンにとって重要な航路であり、混乱が長期化すれば業界全体でコスト上昇や部品輸送の遅延を招く恐れがある。",
+  "toyota_summary": "ホルムズ海峡および紅海における攻撃の激化は、世界のエネルギーおよび自動車部品の流通において要となる海上輸送路を脅かしている。当該地域の不安定な状況が続けば、自動車メーカーは物流の遅延や輸送保険料の上昇に備える必要があろう。\n\nなお、海上輸送の安全性については参考情報として提供するものである。",
   "emails": [
     {
       "ts": "20260817_1410",
@@ -12,7 +12,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "JETRO Members News Special Edition [Fee Waiver for Companies and Organizations Affected by Severe Disasters]",
+      "subject_en": "JETRO Members News Special Edition [Regarding Membership Fee Exemption for Companies and Organizations Affected by Severe Disasters]",
       "html": "data/pdfs/20260817_1410_ジェトロ・メンバーズニュース臨時号【激甚災害の被災企業・団体様向け会費免除について】.html",
       "summary_en": "",
       "summary_ja": "",
@@ -202,7 +202,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "JETRO Business Brief 2026/08/14",
+      "subject_en": "\"JETRO Business Brief\" 2026/08/14",
       "html": "data/pdfs/20260814_1806_「ジェトロ・ビジネス短信」2026_08_14.html",
       "summary_en": "",
       "summary_ja": "",
@@ -279,8 +279,8 @@
       "excerpt": "ホルムズ海峡を通過する日量約500万バレルの石油が北海ブレント原油の価格を75～95ドル範囲",
       "subject_en": "EG Research Summary in Japanese",
       "html": "data/pdfs/20260814_1143_EG_Research_Summary_in_Japanese.html",
-      "summary_en": "",
-      "summary_ja": "",
+      "summary_en": "Roughly 5 million barrels per day continue to flow through the Strait of Hormuz despite Iranian restrictions, keeping Brent crude in a $75-95 range and easing pressure on Washington to escalate tensions with Tehran. This steady oil flow is a key stabilizing factor for global energy markets, including automotive fuel costs, even as other geopolitical and trade issues—like the US-Canada tariff deadline and US-China tech tensions—remain in focus.",
+      "summary_ja": "イランによる制限があるものの、ホルムズ海峡では日量約500万バレルの石油輸送が続いており、北海ブレント原油は75〜95ドルの範囲で安定し、米国が緊張を激化させる圧力も緩和されている。この安定した石油供給は、自動車業界の燃料コストを含む世界のエネルギー市場にとって重要な安定要因となっており、米加関税期限や米中ハイテク摩擦など他の地政学・貿易問題も依然注視されている。",
       "summary_pdf": ""
     },
     {
@@ -407,7 +407,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/08/13",
+      "subject_en": "JETRO Business Brief 2026/08/13",
       "html": "data/pdfs/20260813_1806_「ジェトロ・ビジネス短信」2026_08_13.html",
       "summary_en": "",
       "summary_ja": "",
@@ -437,7 +437,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "JETRO Regional and Analysis Report New Arrival Notification (August 13, 2026 Issue)",
+      "subject_en": "JETRO Regional and Analysis Report New Arrivals Notice (August 13, 2026 Edition)",
       "html": "data/pdfs/20260813_1459_ジェトロ地域・分析レポートの新着のご案内（2026年8月13日号）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -744,5 +744,5 @@
       "summary_pdf": ""
     }
   ],
-  "toyota_summary_en": "Attacks on shipping in the Strait of Hormuz and Red Sea intensified in early August, with 12 security warnings issued in two weeks including drone strikes on tankers. These are critical routes for energy and auto supply chains, so sustained disruption risks raising costs and delaying parts shipments industry-wide."
+  "toyota_summary_en": "Escalating attacks in the Strait of Hormuz and Red Sea threaten shipping lanes central to global energy and auto parts flows. Automakers should brace for potential logistics delays and rising transport insurance costs if the region stays unstable.\n\nShipping security is provided for reference."
 }
