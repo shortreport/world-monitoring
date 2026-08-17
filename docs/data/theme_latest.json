@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 14:38:06",
+  "generated_at": "2026-08-17 14:47:54",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-17 14:37:13",
+      "last_checked": "2026-08-17 14:47:06",
       "items": [
         {
           "uid": "1e97cd1ee846",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-17 14:37:31",
+      "last_checked": "2026-08-17 14:47:23",
       "items": [
+        {
+          "uid": "5868595cf900",
+          "date": "2026-06-22",
+          "title": "Lorraine Explains: Will your Chinese-made Tesla be banned at the U.S. border? - driving.ca",
+          "summary": "# 要約\n\n米国接続車両安全保障法（S.4429）は、中国製テスラを含む中国製電気自動車の米国への輸入および販売を禁止する包括的な規制を目指しており、国家安全保障上の懸念から外国製通信技術やデータ収集機能を備えた車両を制限することを主な目的としています。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TS1RPd1dRdlRvTUxBNy1aSE02cTdOY0sySk1mZnFNTHVRZnNpdmpoRzQ5OWVFNERpSm04OHJBRXowTWZ1d0hGQlNsc090S2JoX0pnUC05cU9XVGd2Z2ltd1FiVGx4cDVtV2s0Y1ZiRHdfZW1QVDV2LW9n?oc=5",
+          "added_at": "2026-08-17 14:47:21"
+        },
         {
           "uid": "f7ae5f3cb997",
           "date": "2026-07-12",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZeDBoYnA1b3FobS01a2hGMkZ3ZVA2VjI4Wkl6cVdfdU9HaDFheWN3eDY4SUJBUGR3d19XeTFGbGZsVzdsNldnNFFuSFgzTkpHcFdMcXlmdTltUGp3Y19kY1NtSDVKZHV3SlJ5MFc5cmVKTjA?oc=5",
           "added_at": "2026-07-06 04:50:50"
-        },
-        {
-          "uid": "53b613ab964c",
-          "date": "2026-07-05",
-          "title": "World Automotive Tire Tread Sensors - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-          "summary": "申し訳ございませんが、提供いただいたタイトルと内容は市場分析レポートの表題のみで、具体的な本文内容がないため、「米国接続車両安全保障法（S.4429）」との関連性を判断して要約することができません。記事の本文をご提供ください。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUFVtckZOVVFWS0pXcFFwbmtrNEwxNU1nQ1ZzUEVQOGIzNkJhSUJHNVpyeTZUbFVVOTF1TFlZdXNjS3pwSVpvYTU2ZFFBOVFxQVdvcDV2bzhWRnhwM2NBNjdEUmFKZzZDOS1idkxHNlZYdGhITzhvaVVXeXAzWUxOVlVxd3M1YkdMVkhPVmVCV2hLN3lDdUJVX0hlYU5FTnFxY2s3S01wZzlNaWtOcnFLd0ZYRXhDbDk2SzEwRUlDalREUlhyVDRDWWVMQ1F1Zw?oc=5",
-          "added_at": "2026-07-05 18:27:25"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-17 14:38:06",
+      "last_checked": "2026-08-17 14:47:54",
       "items": [
+        {
+          "uid": "50ef3f9d9b88",
+          "date": "2026-07-16",
+          "title": "Supply concentration, export restrictions and declining investment put critical mineral security at risk - IEA – International Energy Agency",
+          "summary": "中国によるレアアース輸出制限と供給集中、および鉱物産業への投資減少により、世界的な重要鉱物セキュリティが深刻な脅威にさらされていると国際エネルギー機関（IEA）が警告している。特にエネルギー転換に必須のレアアースやコバルト、リチウムなどの確保が困難化しており、供給国による輸出規制が今後の技術開発と脱炭素化進捗の阻害要因となる可能性が高まっている。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHI1dzJIMlRlRGJpRWl3ZEZsYm5WZEZYa1BWWVJOU0czSlYtaHVITGNYQWJSMXNacU1WQzMwc3ktN3JrS1dwMFhyMkJBY2pVYnNieXlaUkhLbFJXRktRbk1xR2lIcjZEc21MZFRhQno4YmktZEtKUWRTMU1pNzZZZ2xEbU9KSGFsWGl2ZFRFUWotbnNYS3pEbk13SlpodVFjRS1qaXJmRW5pRVI4Q3pLbGJ6bUljUGhnQlMzSXpkaklEOUpXSV80?oc=5",
+          "added_at": "2026-08-17 14:47:47"
+        },
+        {
+          "uid": "530f2cc50671",
+          "date": "2026-07-16",
+          "title": "Executive summary – Global Critical Minerals Outlook 2026 – Analysis - IEA – International Energy Agency",
+          "summary": "中国がレアアースを含む重要鉱物の生産・精製・加工で世界的な支配力を維持しており、サプライチェーン上流での寡占状態が供給リスク増加につながっている。グローバルサプライチェーンの多角化と戦略的備蓄強化が、中国への依存低減に向けた主要課題である。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFNpdzloN056aHJMNWlmbng1YWZ0VnhkUEpjaUNFZUZlVkpJRXd5TDVWOE9iMlEtZ2dZS0t3aEZtWEJQNHk5ajlPRHZIb1FJRWE3TE5LYmpzVXNUX0pwem9Ndk4tZ3J6VThEMXRLeTNaZUx6bndEU2RrWmRWX1Q1NkJfTVBNOHdFX19j?oc=5",
+          "added_at": "2026-08-17 14:47:47"
+        },
+        {
+          "uid": "a3a463e2db54",
+          "date": "2026-05-21",
+          "title": "The New Politics of Oil: China’s Export Controls on Rare Earth Elements and the Restructuring of Global Supply Chains - STRASAM.ORG",
+          "summary": "中国のレアアース輸出規制は、グローバルサプライチェーンの再構築を促し、石油に代わる新たな地政学的資源競争の中心となっている。この規制を通じた中国の影響力行使は、先進国に対して代替供給源の確保やリサイクル技術の開発を加速させている。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWmh5OUZ6MkRKNXBxSlJOdFc3STRyT19tNDR4RVVLZ1dRWkJrVVY3bklEcGQ1a0tGN3VRYXRVd21LRlNGb2txeTdMYkp4MjE3UV9mNFVxZTE3VEl5MDllcm5rd1FTWUxHQThJUF9oRnJ1YTJZRWl0TUdMeXJtc2Rzckh2U01zcU1uM0wtRFZEZk9ZQVN4SVU2NmxFeXZPbkhJWldaU3BaWWo5MXpYVmdOZG45eGt1OE1jWG8zZGs4S3BHRG9qeDVUYk9XX3pqQ2FaZDdLWFgwaGgyeUM4NGhTM0IwZlZqR1ktZXVGU04tUXg?oc=5",
+          "added_at": "2026-08-17 14:47:47"
+        },
         {
           "uid": "8c76e253f5f0",
           "date": "2026-07-15",
@@ -6000,36 +6030,6 @@
           "source": "米国防・エネルギー省",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSmctdElMbXNnSi1kenYzLWhQYkxuQUc2T3JuMVZSV2RHbWJJbkdxdkpZUkYzdU1Id040WmtKUFIxSFVZRW11Y0tFMFNtNEFublVmTUJCYkVRSzg5cDBUSHlNcFQyVThNUFdQOHd3UWJYR01wYUNxVUhwMEFvdTVtampqZmtYaVRrT3R4UlRhaXlWWEp2VkRIcw?oc=5",
-          "added_at": "2026-07-17 00:41:09"
-        },
-        {
-          "uid": "a076fd263ccb",
-          "date": "2026-07-16",
-          "title": "Brussels Prepares Emergency Response to Renewed Chinese Rare-Earth Controls - EU Today",
-          "summary": "中国がレアアース輸出を再び制限していることを受け、EU は戦略的なサプライチェーンの多様化と国内生産強化を含む緊急対応策を準備している。",
-          "source": "欧州委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWbFdibkVSYmw3cUhvUlBWWWdmLUdpMEpscU45WGVkTzhra2ZTT2RMbUp4cGU5NnF2c01Wd0xfbjFzVFV6VUtHSDRQQnpQdlo2RTdaOVl6eVA0VFFHV2lTTkczRDlFM2NDRFcxQ3ZqMlJ3dDY3U09j?oc=5",
-          "added_at": "2026-07-17 00:41:09"
-        },
-        {
-          "uid": "a4f67e5840c5",
-          "date": "2026-06-02",
-          "title": "EU Investment in South Africa’s Critical Minerals Sector Explained - Discovery Alert",
-          "summary": "EUが南アフリカの重要鉱物セクターへの投資を強化しており、これは中国が支配するレアアース市場への依存を減らそうとする戦略的な動きです。中国のレアアース輸出管理に対抗するため、先進国が供給源の多元化に注力していることを示しています。",
-          "source": "欧州委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUdJdndadjF5QWZMVlcyS3VCaGg3WTBfZzA1ZmZYYmpnbnMzUzZ5Ui00TGVtY3QtWC12NE1lcGF2dl9VRUYzM2gwa2xkWDRMMWhrRWdSWEQ4S1c2a0dyZmFOdzhDQl9Vc3pKbkxERzRwSTd0dk5zNWphYTR2MkU2LWJuQUFHMUozSGJRX0lpVy1qLTVJLXlmZUR3?oc=5",
-          "added_at": "2026-07-17 00:41:09"
-        },
-        {
-          "uid": "2105ed2adbb8",
-          "date": "2026-06-22",
-          "title": "China Flexes Its Rare-Earth Muscle—Again - Foreign Policy",
-          "summary": "中国は最近、レアアース輸出の規制強化や関税引き上げなどの措置を通じて、地政学的な影響力を行使しており、米国や同盟国に対する圧力手段としてレアアース資源を戦略的に利用している。この行動は中国がサプライチェーン内で持つ支配力を示すとともに、先端技術産業における依存リスクを世界に改めて認識させている。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2FqUDhJbDRlTW5ueXNNTlo4MFJTanRmMHVIcktGNDNsZzY5WnFSdDlNc1A1X3BUZFd5Z082NFhVbFI1cFVQVTBxSlZrNFM1VC00QXhlOU9sRVdQZ3BtU3N4SzhNZFBpUDh0S29ZUDhLLXNJWVNZZWlxR0xBbXNETHloblg?oc=5",
           "added_at": "2026-07-17 00:41:09"
         }
       ]
