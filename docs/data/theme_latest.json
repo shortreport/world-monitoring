@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 23:25:59",
+  "generated_at": "2026-08-17 14:38:06",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-16 23:25:39",
+      "last_checked": "2026-08-17 14:37:13",
       "items": [
         {
           "uid": "1e97cd1ee846",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-16 23:25:47",
+      "last_checked": "2026-08-17 14:37:31",
       "items": [
+        {
+          "uid": "f7ae5f3cb997",
+          "date": "2026-07-12",
+          "title": "It Was The Best Of Times, It Was The Worst Of Times For Electric Car Sales In America - cleantechnica.com",
+          "summary": "申し訳ございませんが、提供いただいた記事の内容が「タイトルのみ」となっており、本文が記載されていません。S.4429（米国接続車両安全保障法）との関連性を踏まえて要約するには、記事の具体的な内容が必要です。記事の本文をお教えいただければ、要約させていただきます。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02WFBFSTlFU1p4N25vZEE5ZnJYVi03Q3RkeEFncnoxYjF3VDVWODdHQnRBRi1YNy11aktRUmFqS3ZhTVhXUVIxMGZSQQ?oc=5",
+          "added_at": "2026-08-17 14:37:29"
+        },
         {
           "uid": "8fe18530c178",
           "date": "2026-08-15",
@@ -4010,16 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUFVtckZOVVFWS0pXcFFwbmtrNEwxNU1nQ1ZzUEVQOGIzNkJhSUJHNVpyeTZUbFVVOTF1TFlZdXNjS3pwSVpvYTU2ZFFBOVFxQVdvcDV2bzhWRnhwM2NBNjdEUmFKZzZDOS1idkxHNlZYdGhITzhvaVVXeXAzWUxOVlVxd3M1YkdMVkhPVmVCV2hLN3lDdUJVX0hlYU5FTnFxY2s3S01wZzlNaWtOcnFLd0ZYRXhDbDk2SzEwRUlDalREUlhyVDRDWWVMQ1F1Zw?oc=5",
           "added_at": "2026-07-05 18:27:25"
-        },
-        {
-          "uid": "5868595cf900",
-          "date": "2026-06-22",
-          "title": "Lorraine Explains: Will your Chinese-made Tesla be banned at the U.S. border? - driving.ca",
-          "summary": "申し訳ございませんが、提供していただいたタイトルのみでは、記事の具体的な内容が不明のため、「米国接続車両安全保障法（S.4429）」に関する正確な要約ができません。記事本文の内容をご提供いただければ、要約させていただきます。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TS1RPd1dRdlRvTUxBNy1aSE02cTdOY0sySk1mZnFNTHVRZnNpdmpoRzQ5OWVFNERpSm04OHJBRXowTWZ1d0hGQlNsc090S2JoX0pnUC05cU9XVGd2Z2ltd1FiVGx4cDVtV2s0Y1ZiRHdfZW1QVDV2LW9n?oc=5",
-          "added_at": "2026-07-04 13:10:17"
         }
       ]
     },
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-16 23:25:59",
+      "last_checked": "2026-08-17 14:38:06",
       "items": [
+        {
+          "uid": "8c76e253f5f0",
+          "date": "2026-07-15",
+          "title": "‘Chokepoint Politics’: China’s Rare-Earth Statecraft and India’s Search for Strategic Autonomy - orfonline.org",
+          "summary": "中国はレアアース資源の供給支配を地政学的な武器として活用し、インドを含む各国の戦略的自律性を制限しようとしており、インドはこうした中国の支配に対抗するため代替供給源の確保と国内産業の強化を通じた戦略的自立を模索している。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlRDdXNFUjBlTkFaMi1UYjZ3cGI2eHowNnhkRmZQR3l6NFdvRDlqSWppU0RwbV9nQ0xPcjljY3NhUGhtMUtzQ0ZuUHA3djFjOU05amJKVFhPTWhyX3VSN2c4V2JkdHVpMGVXak1OM0puMF9GSDlualJYN25WNFlmb2xCM0l6d3NNS0ZMdkJqb2Y3N0dnaU5pX01kdHVjbzJZVUppMTFFa1JuRjV4SnNLbjVzMDJZQ1VEdk5DRzRWNVJNS1FheVE?oc=5",
+          "added_at": "2026-08-17 14:37:57"
+        },
+        {
+          "uid": "664bc699e51f",
+          "date": "2026-08-07",
+          "title": "China-Sub-Saharan Africa Ties and U.S. Policy - Every CRS Report",
+          "summary": "この記事は中国レアアース輸出管理との直接的な関連情報を含まない一般的なレポート目録であるため、具体的な要約を提供できません。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmRk1TUjd6ekplN2t5TW9XdkhCMHNzbThpYllLWWdFV2lpeXdFaTZQMWlwMmJEbE1MUW1BcV9BUmwzMnYtdFE0SHBTVGc2Ymp5V3NZYU1ZQnpJZ2FhRGw0?oc=5",
+          "added_at": "2026-08-17 14:37:57"
+        },
+        {
+          "uid": "be555349b404",
+          "date": "2026-06-29",
+          "title": "China Retaliates Against United States Blacklist by slamming 56 American firms with trade restrictions - The Tanzania Times",
+          "summary": "中国は米国による企業ブラックリスト化に対抗して、56の米国企業に対して貿易制限措置を発動した報復行動を実施しました。この措置はレアアース等の戦略物資の輸出管理を活用した経済的報復であると考えられます。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRU9XQXlBdEZVXzFhckk1UHZaOEFKQWJucVYxSXRHQXdxdHlTcmpzRW1xZlRJbk85TzZ4TGVmcFhKNDVmb3dhTEhmWndFNzlGT2xsbVE1TFRvcWd5YU1WWFYxclhqYkRHa09OQTloWjVNYzNFazhrYkx3aHpaQW5KS3p2N2VrdVlDbzZ4eXNaNzltN3l5dkhIeVMzN08yY0Z5RWZSV1RQSUgxQUNMZFlyV2xOTWotUWZ3WkRlMw?oc=5",
+          "added_at": "2026-08-17 14:37:57"
+        },
+        {
+          "uid": "911dc6a6906f",
+          "date": "2026-08-16",
+          "title": "Mass homelessness is exposing the rot in Chinese society",
+          "summary": "中国では昨年の報告によると4,750万人のホームレスが存在するという深刻な社会問題が明らかになったが、この記事はレアアース輸出管理との直接的な関連性はありません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/6030358-china-homelessness-rising-youth-unemployment/",
+          "added_at": "2026-08-17 14:37:57"
+        },
         {
           "uid": "da031c249518",
           "date": "2026-05-20",
@@ -5990,46 +6030,6 @@
           "source": "業界団体",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2FqUDhJbDRlTW5ueXNNTlo4MFJTanRmMHVIcktGNDNsZzY5WnFSdDlNc1A1X3BUZFd5Z082NFhVbFI1cFVQVTBxSlZrNFM1VC00QXhlOU9sRVdQZ3BtU3N4SzhNZFBpUDh0S29ZUDhLLXNJWVNZZWlxR0xBbXNETHloblg?oc=5",
-          "added_at": "2026-07-17 00:41:09"
-        },
-        {
-          "uid": "d6ed1cfede04",
-          "date": "2026-06-25",
-          "title": "China Rare Earth Index Slips, But the Real Market Is Elsewhere - Rare Earth Exchanges",
-          "summary": "中国のレアアース公式指数は下落しているが、実際の取引市場は政府公認の取引所以外の場所で展開されており、中国のレアアース輸出管理の実効性が限定的であることを示唆している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRURZWEFEMGRfSmVoTHJXNm5QSzlYRTB3T0xxOG52Zjk2Wk9ZbkFwYzRFVElmcmx0S01wQklkVDgzUUU2WVR4Z0pkYTBxWUluSDZrSmUtcGFUeFZDWG9wZWY0eUpBdWVKakNWSC1kV29NY1Vmd0d0cV94bHJtdVRhQjhqVkJFbzB2YTBsYkpnWXZuU2JzNmJKTVBXRXFabWM?oc=5",
-          "added_at": "2026-07-17 00:41:09"
-        },
-        {
-          "uid": "50ef3f9d9b88",
-          "date": "2026-07-16",
-          "title": "Supply concentration, export restrictions and declining investment put critical mineral security at risk - IEA – International Energy Agency",
-          "summary": "中国がレアアースを含む重要鉱物の供給に集中し、輸出制限を実施することで、世界的なサプライチェーンの脆弱性が増大し、投資減少と相まってエネルギー転換に必要な鉱物資源の安定供給が脅かされている。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHI1dzJIMlRlRGJpRWl3ZEZsYm5WZEZYa1BWWVJOU0czSlYtaHVITGNYQWJSMXNacU1WQzMwc3ktN3JrS1dwMFhyMkJBY2pVYnNieXlaUkhLbFJXRktRbk1xR2lIcjZEc21MZFRhQno4YmktZEtKUWRTMU1pNzZZZ2xEbU9KSGFsWGl2ZFRFUWotbnNYS3pEbk13SlpodVFjRS1qaXJmRW5pRVI4Q3pLbGJ6bUljUGhnQlMzSXpkaklEOUpXSV80?oc=5",
-          "added_at": "2026-07-17 00:41:09"
-        },
-        {
-          "uid": "530f2cc50671",
-          "date": "2026-07-16",
-          "title": "Executive summary – Global Critical Minerals Outlook 2026 – Analysis - IEA – International Energy Agency",
-          "summary": "中国はレアアースを含む重要鉱物の生産・加工で圧倒的なシェアを占めており、供給チェーンの多くのステップで支配力を持つため、輸出管理を通じた戦略的影響力が増大している。IEAの2026年予測では、クリーンエネルギー移行に必要な鉱物需要の急増に対し、中国以外の供給源の多角化が急務とされている。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFNpdzloN056aHJMNWlmbng1YWZ0VnhkUEpjaUNFZUZlVkpJRXd5TDVWOE9iMlEtZ2dZS0t3aEZtWEJQNHk5ajlPRHZIb1FJRWE3TE5LYmpzVXNUX0pwem9Ndk4tZ3J6VThEMXRLeTNaZUx6bndEU2RrWmRWX1Q1NkJfTVBNOHdFX19j?oc=5",
-          "added_at": "2026-07-17 00:41:09"
-        },
-        {
-          "uid": "a3a463e2db54",
-          "date": "2026-05-21",
-          "title": "The New Politics of Oil: China’s Export Controls on Rare Earth Elements and the Restructuring of Global Supply Chains - STRASAM.ORG",
-          "summary": "中国によるレアアース輸出規制は戦略的な資源管理ツールとして機能し、グローバルなサプライチェーンの再構築を促進している。この措置は従来の石油中心の国際政治構造に代わる新たな資源ナショナリズムの時代を象徴している。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWmh5OUZ6MkRKNXBxSlJOdFc3STRyT19tNDR4RVVLZ1dRWkJrVVY3bklEcGQ1a0tGN3VRYXRVd21LRlNGb2txeTdMYkp4MjE3UV9mNFVxZTE3VEl5MDllcm5rd1FTWUxHQThJUF9oRnJ1YTJZRWl0TUdMeXJtc2Rzckh2U01zcU1uM0wtRFZEZk9ZQVN4SVU2NmxFeXZPbkhJWldaU3BaWWo5MXpYVmdOZG45eGt1OE1jWG8zZGs4S3BHRG9qeDVUYk9XX3pqQ2FaZDdLWFgwaGgyeUM4NGhTM0IwZlZqR1ktZXVGU04tUXg?oc=5",
           "added_at": "2026-07-17 00:41:09"
         }
       ]
