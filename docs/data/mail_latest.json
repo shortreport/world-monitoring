@@ -1,189 +1,178 @@
 {
-  "generated_at": "2026-08-17 14:35 JST",
-  "sender_count": 4,
-  "total_mails": 19,
+  "generated_at": "2026-08-18 09:33 JST",
+  "sender_count": 5,
+  "total_mails": 15,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 7,
+      "count": 5,
       "bullets": [
-        "ホルムズ海峡経由の石油供給がブレント原油価格を抑制し、米国の圧力緩和につながる状況",
-        "米国とカナダが8月19日の関税期限を前に限定的な貿易合意を検討し、USMCA協議への道が開かれる見通し",
-        "パキスタンのシャリフ政権はカシミール地域の不安定性の脅威を受けておらず、分裂した地方の不安は統一的な脅威にならない状況",
-        "メキシコのシェインバウム大統領がロペス・ベルトランのビザ失効問題で米国との関係を調整する困難な立場に置かれている状況",
-        "記録的なエルニーニョによりラテンアメリカ、アジア太平洋、アフリカにおけるココア、ロブスタコーヒー、小麦など食糧商品の供給が遮断され、脆弱地域での食糧商品インフレが集中化する見通し",
-        "EUはガス備蓄の逼迫下でも緊急措置を回避して冬を乗り切る見込みだが、供給ショックや寒波に対して脆弱な状況",
-        "ハンガリーとポーランドの西側寄りへの政治転換がEU資金流入と投資家信頼回復により株式市場の急伸につながる状況"
+        "記録的なエルニーニョ現象とホルムズ海峡・黒海の海運途絶により、2027年6月までに世界食料商品価格が10～18%上昇",
+        "ラテンアメリカ、アジア太平洋、アフリカでココア、ロブスタコーヒー、小麦などの食料商品供給リスク集中",
+        "中国の原油輸入減少と地域間の燃料取引により、今後2ヶ月間の石油市場での供給不足回避",
+        "米国とイランの緊張緩和の可能性は低下し、9月での合意見通し後退",
+        "中国の政治経済見通しと米中サミット予想、通商・レアアース問題について専門家による会議開催予定"
       ],
       "subjects": [
         [
-          "2026-08-14",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20260814_1143_EG_Research_Summary_in_Japanese.pdf"
+          "2026-08-17",
+          "El Niño to drive global food prices 10%–18% higher",
+          "data/pdfs/20260817_2134_El_Niño_to_drive_global_food_prices_10%–18%_higher.pdf"
         ],
         [
-          "2026-08-15",
-          "Sharif secure amid Kashmiri unrest",
-          "data/pdfs/20260815_0355_Sharif_secure_amid_Kashmiri_unrest.pdf"
+          "2026-08-17",
+          "China's political and economic outlook - EG Conference Call,",
+          "data/pdfs/20260817_2202_China's_political_and_economic_outlook_-_EG_Confer.pdf"
         ],
         [
-          "2026-08-15",
-          "Lopez Beltran visa dispute puts Sheinbaum in a bind",
-          "data/pdfs/20260815_0546_Lopez_Beltran_visa_dispute_puts_Sheinbaum_in_a_bin.pdf"
+          "2026-08-18",
+          "Cross-regional fuel flows will avert shortages",
+          "data/pdfs/20260818_0118_Cross-regional_fuel_flows_will_avert_shortages.pdf"
         ],
         [
-          "2026-08-15",
+          "2026-08-18",
           "Special report: El Niño's impact on global food commodities",
-          "data/pdfs/20260815_0606_Special_report__El_Niño's_impact_on_global_food_co.pdf"
+          "data/pdfs/20260818_0302_Special_report__El_Niño's_impact_on_global_food_co.pdf"
         ],
         [
-          "2026-08-17",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20260817_0802_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-08-17",
-          "India update「インドに関する最新アップデート」（同時通訳あり） -",
-          "data/pdfs/20260817_1000_India_update「インドに関する最新アップデート」（同時通訳あり）_-_EG_Confere.pdf"
-        ],
-        [
-          "2026-08-17",
-          "India update - EG Conference Call, REMINDER",
-          "data/pdfs/20260817_1101_India_update_-_EG_Conference_Call,_REMINDER.pdf"
+          "2026-08-18",
+          "US-Iran standoff will drag on",
+          "data/pdfs/20260818_0359_US-Iran_standoff_will_drag_on.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260814_1143_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20260815_0355_Sharif_secure_amid_Kashmiri_unrest.pdf",
-        "data/pdfs/20260815_0546_Lopez_Beltran_visa_dispute_puts_Sheinbaum_in_a_bin.pdf",
-        "data/pdfs/20260815_0606_Special_report__El_Niño's_impact_on_global_food_co.pdf",
-        "data/pdfs/20260817_0802_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20260817_1000_India_update「インドに関する最新アップデート」（同時通訳あり）_-_EG_Confere.pdf",
-        "data/pdfs/20260817_1101_India_update_-_EG_Conference_Call,_REMINDER.pdf"
+        "data/pdfs/20260817_2134_El_Niño_to_drive_global_food_prices_10%–18%_higher.pdf",
+        "data/pdfs/20260817_2202_China's_political_and_economic_outlook_-_EG_Confer.pdf",
+        "data/pdfs/20260818_0118_Cross-regional_fuel_flows_will_avert_shortages.pdf",
+        "data/pdfs/20260818_0302_Special_report__El_Niño's_impact_on_global_food_co.pdf",
+        "data/pdfs/20260818_0359_US-Iran_standoff_will_drag_on.pdf"
+      ]
+    },
+    {
+      "sender": "Eurasia",
+      "short": "EURAS",
+      "color": "YEL",
+      "count": 1,
+      "bullets": [
+        "中国の原油輸入減少と地域間の燃料取引が並行して機能し、アジア・ヨーロッパの短期的な供給不足を防止",
+        "グローバルな燃料供給は中国の輸出制限とヨーロッパの留分在庫の薄さへの脆弱性が存在",
+        "高需要地域間の燃料取引による供給調整メカニズムの稼働"
+      ],
+      "subjects": [
+        [
+          "2026-08-18",
+          "Daily Research Summary - Aug 17th, 2026",
+          "data/pdfs/20260818_0836_Daily_Research_Summary_-_Aug_17th,_2026.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260818_0836_Daily_Research_Summary_-_Aug_17th,_2026.pdf"
+      ]
+    },
+    {
+      "sender": "Marc",
+      "short": "MARC",
+      "color": "RED",
+      "count": 1,
+      "bullets": [
+        "Marc GustafsonがIan不在中の業務を担当",
+        "ホワイトハウス情報担当官および状況室長などの経歴を持つ",
+        "ユーラシア・グループに昨年入社",
+        "イランや大規模紛争対策、米国とイスラエル・湾岸諸国との協調に専門知識を有する"
+      ],
+      "subjects": [
+        [
+          "2026-08-17",
+          "EG Update",
+          "data/pdfs/20260817_2051_EG_Update.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260817_2051_EG_Update.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "YEL",
-      "count": 10,
+      "color": "ORG",
+      "count": 7,
       "bullets": [
-        "SNSは欧州連合(EU)の新たな政治戦場となり、規制強化の焦点。",
-        "英国のファラージ改革党党首がクラクトン補選で勝利し、財政疑惑による批判が継続。",
-        "EU当局がAI生成コンテンツの「透かし」表示義務化により、AI利用の隠蔽が困難に。",
-        "EU指導部の休暇中も域内危機が継続し、対応の遅れが懸念。",
-        "ウクライナとNATOがドローン戦争でのAI統合戦略を推進、人間による判断維持を重視。"
+        "ロシアの原子力企業Rosatomが安全基準違反で非難され、EU域内での事業における安全性の懸念が顕在化",
+        "英国首脳がトランプ政権高官になりすました者と通信交換、偽装通信による外交的リスク",
+        "イタリアの猛暑がパルメザンチーズ生産に打撃、チーズ製造業者への支援が必須に",
+        "欧州の航空便遅延は削減されたが、フランスが引き続き課題であり業界の懸念が継続",
+        "欧州の電動車補助金制度により中国製EVの販売が急増し、地域産業保護のため補助金制度見直しと現地調達要件導入の検討が加速"
       ],
       "subjects": [
         [
-          "2026-08-14",
-          "Your social feed is the EU’s new battleground",
-          "data/pdfs/20260814_1349_Your_social_feed_is_the_EU’s_new_battleground.pdf"
+          "2026-08-17",
+          "‘Deliberate negligence’: Russian nuclear power company with EU",
+          "data/pdfs/20260817_1606_‘Deliberate_negligence’__Russian_nuclear_power_com.pdf"
         ],
         [
-          "2026-08-14",
-          "Farage wins Clacton by-election",
-          "data/pdfs/20260814_1433_Farage_wins_Clacton_by-election.pdf"
+          "2026-08-17",
+          "Burnham exchanged messages with impersonator of top Trump",
+          "data/pdfs/20260817_1706_Burnham_exchanged_messages_with_impersonator_of_to.pdf"
         ],
         [
-          "2026-08-14",
-          "Farage’s victory over Binface won’t silence his critics",
-          "data/pdfs/20260814_1610_Farage’s_victory_over_Binface_won’t_silence_his_cr.pdf"
+          "2026-08-17",
+          "Italy’s scorching summer puts Parmesan producers to the test",
+          "data/pdfs/20260817_2229_Italy’s_scorching_summer_puts_Parmesan_producers_t.pdf"
         ],
         [
-          "2026-08-14",
-          "Hiding your use of AI is about to get much harder — thanks to",
-          "data/pdfs/20260814_1735_Hiding_your_use_of_AI_is_about_to_get_much_harder_.pdf"
+          "2026-08-17",
+          "Europe cuts flight delays, but France remains the weak link",
+          "data/pdfs/20260817_2351_Europe_cuts_flight_delays,_but_France_remains_the_.pdf"
         ],
         [
-          "2026-08-14",
-          "EU leaders are on holiday. The crises affecting the bloc aren’t.",
-          "data/pdfs/20260814_1906_EU_leaders_are_on_holiday._The_crises_affecting_th.pdf"
+          "2026-08-18",
+          "European subsidies fuel China’s EV export boom",
+          "data/pdfs/20260818_0009_European_subsidies_fuel_China’s_EV_export_boom.pdf"
         ],
         [
-          "2026-08-14",
-          "NATO’s plan for a drone-infested battlefield: Let AI fly while",
-          "data/pdfs/20260814_2105_NATO’s_plan_for_a_drone-infested_battlefield__Let_.pdf"
-        ],
-        [
-          "2026-08-14",
-          "UK considers relaxing EV sales targets",
-          "data/pdfs/20260814_2306_UK_considers_relaxing_EV_sales_targets.pdf"
-        ],
-        [
-          "2026-08-15",
+          "2026-08-18",
           "Pro Daily Headlines",
-          "data/pdfs/20260815_0031_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20260818_0031_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-08-17",
-          "No respite in Hormuz",
-          "data/pdfs/20260817_1401_No_respite_in_Hormuz.pdf"
-        ],
-        [
-          "2026-08-17",
-          "The cost of holding the front line",
-          "data/pdfs/20260817_1406_The_cost_of_holding_the_front_line.pdf"
+          "2026-08-18",
+          "Trump’s rosy Hormuz claims collide with tanker data",
+          "data/pdfs/20260818_0452_Trump’s_rosy_Hormuz_claims_collide_with_tanker_dat.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260814_1349_Your_social_feed_is_the_EU’s_new_battleground.pdf",
-        "data/pdfs/20260814_1433_Farage_wins_Clacton_by-election.pdf",
-        "data/pdfs/20260814_1610_Farage’s_victory_over_Binface_won’t_silence_his_cr.pdf",
-        "data/pdfs/20260814_1735_Hiding_your_use_of_AI_is_about_to_get_much_harder_.pdf",
-        "data/pdfs/20260814_1906_EU_leaders_are_on_holiday._The_crises_affecting_th.pdf",
-        "data/pdfs/20260814_2105_NATO’s_plan_for_a_drone-infested_battlefield__Let_.pdf",
-        "data/pdfs/20260814_2306_UK_considers_relaxing_EV_sales_targets.pdf",
-        "data/pdfs/20260815_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260817_1401_No_respite_in_Hormuz.pdf",
-        "data/pdfs/20260817_1406_The_cost_of_holding_the_front_line.pdf"
-      ]
-    },
-    {
-      "sender": "ジェトロ",
-      "short": "ジェトロ",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "令和8年熊本地震が政府により激甚災害として指定された",
-        "被害を受けたジェトロ・メンバーズ会員企業に1カ年度分の会費を免除",
-        "申請受付期間は2026年9月1日から1年間",
-        "詳細確認とお手続きについてはメンバー・サービスデスクへの問い合わせが必要"
-      ],
-      "subjects": [
-        [
-          "2026-08-17",
-          "ジェトロ・メンバーズニュース臨時号【激甚災害の被災企業・団体様向",
-          "data/pdfs/20260817_1410_ジェトロ・メンバーズニュース臨時号【激甚災害の被災企業・団体様向け会費免除について】.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260817_1410_ジェトロ・メンバーズニュース臨時号【激甚災害の被災企業・団体様向け会費免除について】.pdf"
+        "data/pdfs/20260817_1606_‘Deliberate_negligence’__Russian_nuclear_power_com.pdf",
+        "data/pdfs/20260817_1706_Burnham_exchanged_messages_with_impersonator_of_to.pdf",
+        "data/pdfs/20260817_2229_Italy’s_scorching_summer_puts_Parmesan_producers_t.pdf",
+        "data/pdfs/20260817_2351_Europe_cuts_flight_delays,_but_France_remains_the_.pdf",
+        "data/pdfs/20260818_0009_European_subsidies_fuel_China’s_EV_export_boom.pdf",
+        "data/pdfs/20260818_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260818_0452_Trump’s_rosy_Hormuz_claims_collide_with_tanker_dat.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "ORG",
+      "color": "GRN",
       "count": 1,
       "bullets": [
-        "瀋陽市でアニメ・ゲーム博覧会を開催し、約4万人が来場",
-        "中国最北の高速鉄道「哈伊高鉄」が試験運行開始、観光振興や地域経済の活性化に期待",
-        "山東省の上半期貿易額が4.4％増、新興市場向け輸出とグリーン関連製品が伸長",
-        "湖南省が対アフリカ経済貿易協力3年アクションプランと売上高1,000億元超の企業競争力強化行動プランを発表",
-        "重慶市が国際消費中心都市の育成・建設に向けた政策措置を公布"
+        "中国がナミビアで人民元国際決済システムを開始するなど、アジア・オセアニア地域での経済協力を拡大中で、香港上場のIPO調達額も2025年通年を超える成果",
+        "中国の自動車産業でNEV比率が60％超に達し、輸出が2カ月連続で100万台超となるなど、市場の急速な転換",
+        "米国がドローン・同部品への232条関税適用を決定し9月に発動予定で、貿易摩擦が継続",
+        "米国とメキシコで矢崎グループの労働問題が解決され関税清算が再開されるなど、通商問題の個別対応が進展",
+        "欧州ではドイツの河川水位低下による内陸水運制限など、気象変動が物流と生産に影響"
       ],
       "subjects": [
         [
-          "2026-08-14",
-          "「ジェトロ・ビジネス短信」2026/08/14",
-          "data/pdfs/20260814_1806_「ジェトロ・ビジネス短信」2026_08_14.pdf"
+          "2026-08-17",
+          "「ジェトロ・ビジネス短信」2026/08/17",
+          "data/pdfs/20260817_1905_「ジェトロ・ビジネス短信」2026_08_17.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260814_1806_「ジェトロ・ビジネス短信」2026_08_14.pdf"
+        "data/pdfs/20260817_1905_「ジェトロ・ビジネス短信」2026_08_17.pdf"
       ]
     }
   ]
