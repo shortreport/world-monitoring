@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18 09:49:59",
+  "generated_at": "2026-08-18 14:32:33",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-18 09:49:27",
+      "last_checked": "2026-08-18 14:32:12",
       "items": [
         {
           "uid": "5051dde1b068",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-18 09:49:37",
+      "last_checked": "2026-08-18 14:32:21",
       "items": [
+        {
+          "uid": "2228aebd1492",
+          "date": "2026-07-16",
+          "title": "Foley Automotive Update - Foley & Lardner LLP",
+          "summary": "申し訳ございませんが、提供いただいたテキストには「米国接続車両安全保障法（S.4429）」に関する具体的な内容が含まれておらず、タイトルのみの記載となっています。要約に必要な詳細な記事本文をご提供いただければ、要件に沿った日本語1～2文の要約をお作りすることができます。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN3JpajVfSnZKZndISVBmYnR1SDlvVDZLaDJwSjhGeW1oNm05a192aEdxRF9ERko4S3NoVFRxWm4xbV9aRXdQT2d5aEgzSFQtWUJHSGo0MW9FdzRxcVpsQzZzd0RMM2pzUGZpOFZzMWdydzdiNUpaU1Fkd0ZCdHRIZ2phR2xLUQ?oc=5",
+          "added_at": "2026-08-18 14:32:19"
+        },
         {
           "uid": "399f80add7c8",
           "date": "2026-07-22",
@@ -4010,16 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QZGhpcEM2SVRaUDM3el9yU21vbTZVZkpWMDZvVVJjLWNzcTIzTmxHT1RMenB0eVVjVmotU3NkT3RYRGJLTWxyM3pQdXMtdTl3YmtNTUo4dWNsN3lRSFM1MkFLT2Y5V3p4WDR0ZU9nRVJBU1la?oc=5",
           "added_at": "2026-07-06 13:50:01"
-        },
-        {
-          "uid": "a1546adb6e2e",
-          "date": "2026-05-26",
-          "title": "BESS up, EVs down: US Regional Spotlight - Benchmark Mineral Intelligence",
-          "summary": "申し訳ありませんが、提供いただいた記事のタイトルのみで内容本文が含まれていないため、「米国接続車両安全保障法（S.4429）」に関する文脈での要約ができません。記事の本文をお提供いただければ、要約させていただきます。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPandFVmQzUHFYTFUxaENFYUZCUGUyTHFHbTBuZFFDRE1mdWZPNWprVWRzSXpMVm1MZVpUaEwtZTNQeW5GaTVGZmhuNThVNHhDSGxZbkdMTDI4eVhDSzFpR2tCZTVIVjVpQ3N6MTJFQlc4TEpnZWlzNjk5bmkyR1IzNkx4OA?oc=5",
-          "added_at": "2026-07-06 13:50:01"
         }
       ]
     },
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-18 09:49:59",
+      "last_checked": "2026-08-18 14:32:33",
       "items": [
         {
           "uid": "82ca1166163c",
