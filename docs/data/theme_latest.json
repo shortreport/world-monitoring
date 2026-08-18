@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17 23:31:33",
+  "generated_at": "2026-08-18 09:49:59",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-17 23:31:02",
+      "last_checked": "2026-08-18 09:49:27",
       "items": [
         {
           "uid": "5051dde1b068",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-17 23:31:14",
+      "last_checked": "2026-08-18 09:49:37",
       "items": [
         {
           "uid": "399f80add7c8",
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-17 23:31:33",
+      "last_checked": "2026-08-18 09:49:59",
       "items": [
+        {
+          "uid": "82ca1166163c",
+          "date": "2026-07-14",
+          "title": "Key Changes in China s Export Control Landscape - Taylor Wessing",
+          "summary": "中国は2023年8月にレアアース関連技術の輸出規制を強化し、レアアース製品の精錬・分離技術の輸出許可を制限することで、サプライチェーン全体における支配力を強化した。この措置は、米国などの先進国によるレアアース産業への投資や代替資源開発を牽制し、グローバル市場での中国の優位性を維持する狙いがある。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVN6WTlmbTFRXy1nTmtTN2wxX2ZnZ1dJSV9Xa2s2eDFZODlvTE9ab3pDTUNFMUR0YkhHR25GY3dYN3lmQ29fSnA3cHRLUmxORDdoSnRZaFFUVFhfVGZmVGpBUUkxR1NGWExHeWd0Mkd3TE5BYS1raUtvUkR6WktQazA4dkZQTU45ZTRQQTd5SXhkalFDdDctRkxxbU8yaFJsU2xsbmQ0WHRZUmhQVjVlRC10TFM2Y3pp?oc=5",
+          "added_at": "2026-08-18 09:49:52"
+        },
+        {
+          "uid": "a1a92d405dd9",
+          "date": "2026-08-17",
+          "title": "Japan's Chinese Critical Mineral Imports Plunge - 조선일보",
+          "summary": "日本の中国からのレアアース・重要鉱物輸入が急減しており、これは中国による輸出管理強化と地政学的リスク回避により、日本がサプライチェーン多元化を進めていることを示している。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGF0TGdXZFk3WlVEd2ZueVpCU3ZNWXJydlBhSkV2bG53ZFhsTzR6S01qU0d1S2tvS2xMZUxzR2Q4THJjbjBZaHlCZHFDZ1NjZXkxallFNGd1X3VPcGxFb2N0V1hZZi1ycTNRYVduaG9qUVhWMDBYbzFmY1pCc2R3SW5HbWxNWFox?oc=5",
+          "added_at": "2026-08-18 09:49:52"
+        },
+        {
+          "uid": "e77ec61a36ac",
+          "date": "2026-08-17",
+          "title": "Does Congress Even Have a Critical Minerals Strategy? - The Breakthrough Institute",
+          "summary": "# 要約\n\n米国議会は、中国が支配するレアアースを含む重要鉱物サプライチェーンに対する包括的な戦略を欠いており、これが中国のレアアース輸出管理による供給リスクに対する脆弱性を露呈させている。米国は国内採掘・加工能力の強化と戦略的備蓄の構築など、中国への依存脱却に向けた統合的なアプローチの策定を急務とされている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMi1DUHhUTUFKQ1ZpNFVBUnZnUTFsWWJxYklFY0JGcEtNOWc5ZHplWmxYTExCTlUyeEV5MWNMZmQxZjU5dTVOck9HUVM0OUxXeFBmeHA4QjJEZTNkN1d5a1hkNDBOcnQ5MEV0X3R4cXE4LUVpUVdZS0k0b2E5ZU1HN2lSQzZ0Q082OUJ5dkFZWFhhd29JMi15Smd3?oc=5",
+          "added_at": "2026-08-18 09:49:52"
+        },
         {
           "uid": "a076fd263ccb",
           "date": "2026-07-16",
@@ -6000,36 +6030,6 @@
           "source": "米閣僚発言",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVjMyQVZMVnVDaGtMMVhSaTBJcWJfN0lvRGJOYlRILWZEajgybFFXU2dxanpHTE8xUU51OXBnQUEyZVpNZTc1ZXMwMndWa0tRUE9KSzB5VExyRjB3bWl4dnJLcmlrQ1Z6eU4zYUtrai1fSzdFeHF3UnlfVTh2UmNKYlZabUFFVVpUeVJRSFJMTnNwaDF4dXJhUy1HRlIxVUpaejR2NHJFeXNyT3RNU3VobkU1TlJYVVZKczUwZXNxeHZsdk04Si1wSXkzdVc?oc=5",
-          "added_at": "2026-07-17 16:20:06"
-        },
-        {
-          "uid": "f38b6b36664a",
-          "date": "2026-06-09",
-          "title": "Are Critical Minerals Catalysing the Second Scramble for Africa? - Modern Diplomacy",
-          "summary": "申し訳ありませんが、提供していただいたタイトル以外の記事の具体的な内容が記載されていないため、要約を作成することができません。記事本文をご提供いただければ、「中国レアアース輸出管理」の文脈での日本語要約を作成いたします。",
-          "source": "欧米メディア",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX09aNUdnSDdxQ192N2JOT2RQd3NueEVsVTBqa2FOc2p4dUt6VzdRVjE0V2JNeWxPUldndk44c0Yzb0ZSOG9KVUx2V2NYUGI3WjhzZTZ0dU92LTVmR0JyMVRKRFFzemtMbDEtNGpKaWRMRkhKRE9Ed1lRVzV6c0FIemRmQjBmNFlYNHZxckZQUkxkZC1PRkp3TkdBVVpNQ3lIbXE3Xw?oc=5",
-          "added_at": "2026-07-17 16:20:06"
-        },
-        {
-          "uid": "cd9cd81d8581",
-          "date": "2026-07-17",
-          "title": "Trump rails against China in new 2020 election claims disputed by critics",
-          "summary": "申し訳ございませんが、提供いただいた記事は2020年の米国大統領選挙に関する内容であり、「中国レアアース輸出管理」とは直接的な関連性がありません。そのため、この文脈での要約は適切に行えません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/5973400-trump-election-claims-china/",
-          "added_at": "2026-07-17 16:20:06"
-        },
-        {
-          "uid": "a6cc030f784d",
-          "date": "2026-07-17",
-          "title": "Live updates: Trump alleges ‘stunning’ Chinese election interference, ‘deep state’ coverup",
-          "summary": "この記事は中国のレアアース輸出管理とは無関係です。記事はトランプ前大統領による2020年大統領選挙への中国の干渉疑惑と政府機関の隠蔽に関する主張を扱っており、レアアースに関する内容を含んでいません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/5970909-live-updates-trump-address-iran-house-budget-maine-senate/",
           "added_at": "2026-07-17 16:20:06"
         }
       ]
