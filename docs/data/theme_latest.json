@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 14:33:32",
+  "generated_at": "2026-08-19 23:37:02",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-19 14:33:03",
+      "last_checked": "2026-08-19 23:36:29",
       "items": [
         {
           "uid": "c0cd20144a3a",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-19 14:33:14",
+      "last_checked": "2026-08-19 23:36:38",
       "items": [
         {
           "uid": "2228aebd1492",
@@ -4030,8 +4030,58 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-19 14:33:32",
+      "last_checked": "2026-08-19 23:37:02",
       "items": [
+        {
+          "uid": "c59d3a3f74cd",
+          "date": "2026-07-17",
+          "title": "China’s Rare Earth Endgame: What Happens After November 10? - investornews.com",
+          "summary": "中国は11月10日以降、レアアース輸出の新規制導入を予告しており、同国による戦略的資源の供給統制が一層強化される見通しです。この措置は世界的なレアアース供給チェーンに大きな影響を与える可能性があります。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUjdkY1BzUkhhQU1TQWdoMk1oTjFsUWx0eGhoWmlpV0xORDlrR1hMRDRUYnZNYmtuejUzVzhjNXZqWVd5ejFjbHVKSTRuQmlQZEc2ZENYdU03cG8xSzVFWWdoSElDX0RZTjdUU3hNY2kwVDZFSDVULXNHcERHSVVrWjhGanFMZ19aU2FVQkpLTU8xTHB0N1loNkI2ZF9seF9fX1Y4b1A3b1pwQkRxaVpLVjJ3?oc=5",
+          "added_at": "2026-08-19 23:36:55"
+        },
+        {
+          "uid": "2494677f24ce",
+          "date": "2026-06-22",
+          "title": "Critical Mineral Security: The Endgame - by Farrell Gregory - ChinaTalk",
+          "summary": "申し訳ありませんが、提示いただいた「内容」が記事本文ではなく、タイトルのみの繰り返しとなっているため、具体的な記事内容を要約することができません。記事の本文を提供していただければ、「中国レアアース輸出管理」に関する文脈での要約を提供させていただきます。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13NjhLRzZ0TmVodjc0MEs1WHN0Qko2WVZERk8xb3NnajE3d0VCQlZpZ3ptUFhrMlJjVVprQUdnc2hoSFZ0ZVpDSzFLSUduYkU4UlZraVhPLUF1d295cXBCaU1PT1g5WmxMNlBVeW9fQWZWcUdibWc?oc=5",
+          "added_at": "2026-08-19 23:36:55"
+        },
+        {
+          "uid": "ef96106202e9",
+          "date": "2026-08-03",
+          "title": "US faces new pressure to build weapons without China's rare earth magnets - ABC News - Breaking News, Latest News and Videos",
+          "summary": "中国がレアアース磁石の輸出を制限する中、米国は中国に依存しない防衛装備品の製造を強化する圧力に直面している。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX25wcVNmWFVSMm1UWThBSEJpd3lxVjJFU2NLdUxYNW9tbkJ1UF9ibHE3RjF4Yy1iXzUxQmhNa290al94OXZGcURYWjVwODJRdl9Nc2c5NVRrV2Y4YUU3enRDeGhPQnJxbFlQR0prRWZ5ZjE1MDdXa1A0a0JXVnlnZ3RzOXJKYU94OVZMT0dnWEFEM00y0gGaAUFVX3lxTE9ZU3BReGg5eWtWOWFUb1NiSGk4bGpHWkkzMWw5Rnc1UldrOHJDU251Sy1mUWwzS2JGUXVnT2hyVDdsZzExQU1YMTg2UHdaeXM4RzlaYWN5R00yc0pWdVlOUVNEYzFsWnYtdFQ4N05waG8yNVdVRGRSb0owMGtTSzlaZThlR1dzSFRSbjJzM2gzRjhuX3J6SGhhb2c?oc=5",
+          "added_at": "2026-08-19 23:36:55"
+        },
+        {
+          "uid": "f7f7ad4bbeaf",
+          "date": "2026-08-03",
+          "title": "U.S. companies work to cut reliance on China for critical minerals used in weapons - PBS",
+          "summary": "米国企業は、武器製造に用いられるレアアースなどの重要鉱物を中国からの輸入に依存していることから、その依存度を低下させるための取り組みを進めており、これは中国がレアアース輸出を管理・制限する可能性に対する防衛戦略となっている。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbWgxSWl1TlpkRzFYdkJ1VHd2Skp4Rmx5MDVrZkN0bDJnYjhNcUpRWHMyZ0cxZnhLazFwbDZ3d0otVTE1eGpiOFBhVGFBM1dJbWhTamRhNDVJbXpLcTFtY2FyMDJUcVUzWHI3OFFOZlpXalhXZnFBVDB0STBMaGV2SndwUU84U0c2bS1TQjdUVk9nN19TUGFkT2U4QWpIWmtnZVFCZkhiQXd4Yl82QnFqMEc5cnc4NENr?oc=5",
+          "added_at": "2026-08-19 23:36:55"
+        },
+        {
+          "uid": "d6f0dda65ca9",
+          "date": "2026-08-19",
+          "title": "Darline Graham pilloried for saying she’s ‘not that informed on national security’",
+          "summary": "申し訳ございませんが、提供いただいた記事は米国上院議員Darline Grahamの国家安全保障に関する発言についての内容であり、「中国レアアース輸出管理」との関連性が見当たりません。レアアース輸出管理に関する記事をご確認いただき、改めてご提供いただけますでしょうか。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/campaign/6037420-darline-graham-national-security-knowledge-criticism/",
+          "added_at": "2026-08-19 23:36:55"
+        },
         {
           "uid": "8317e4f2faac",
           "date": "2026-06-03",
@@ -5981,56 +6031,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRTNOdTNuRHlJMG5VT1JudVFJN0xIRl9rN01YRmRjbVVUU3NCUExiUEl0djNYdW03akJtU0NWVDVjUnJmN0lLYkN1dHFEcDIxUC0wNlctNHFnWDFmWmtwbllTT19OQnYxUDF6Y2dqcnpNUlRLVm1ydWhRYy1lYlBLa1dKMlBmbm9WSXhWdDh5eFNpdHpTVU5seEZlMV9OZlFw?oc=5",
           "added_at": "2026-07-18 00:17:27"
-        },
-        {
-          "uid": "7079ecb8bcaa",
-          "date": "2026-07-17",
-          "title": "Live updates: Mullin holds press conference as Trump alleges compromised US elections",
-          "summary": "この記事は「中国レアアース輸出管理」との直接的な関連性がないため、当該テーマに関する要約はできません。記事の内容は米国大統領による中国の選挙干渉疑惑に関するもので、レアアース輸出管理とは異なるトピックです。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/5973243-live-updates-trump-speech-elections-iran/",
-          "added_at": "2026-07-18 00:17:27"
-        },
-        {
-          "uid": "bfb466f51480",
-          "date": "2026-07-17",
-          "title": "Warner labels Trump election fraud claim ‘completely false’",
-          "summary": "この記事は中国レアアース輸出管理とは関連していないため、要約できません。内容は米国の2020年大統領選挙における中国の選挙干渉疑惑についての政治的議論であり、レアアース輸出管理政策とは無関係です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/senate/5973738-mark-warner-donald-trump-address-election-fraud-claims/",
-          "added_at": "2026-07-18 00:17:27"
-        },
-        {
-          "uid": "ee94a78d7e1e",
-          "date": "2026-07-17",
-          "title": "China dismisses ‘groundless’ Trump election interference claim",
-          "summary": "記事はレアアース輸出管理の文脈とは関連がないため、要約できません。本記事はトランプ前大統領が2020年大統領選挙への中国の干渉疑惑を主張したことに対し、中国が否定する内容であり、レアアース政策や輸出管理の議論ではありません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/campaign/5973681-donald-trump-china-election-interference-claim-reaction/",
-          "added_at": "2026-07-18 00:17:27"
-        },
-        {
-          "uid": "4da0d7258ffc",
-          "date": "2026-06-24",
-          "title": "Beijing Tightens Critical Mineral Export Controls with a Chinese-Style Whistleblower Program - Geopolitechs",
-          "summary": "中国政府がレアアース等の戦略的鉱物の輸出管理を強化するため、中国式の内部告発プログラムを導入し、違法な輸出行為の摘発体制を整備しました。この措置により、中国は重要鉱物の供給をさらに厳格にコントロールする意図を示しています。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uYmZMTU5PNldWVkNmb3ppTEU2SmNuUTdMVjRfcFpzSDVFRmFQemRvZmRSdDdOQ0FfYjV2cFNKU2owVFFkZXhyS1VkZ2VQLXlubTlkMjV6U3JsM3FiTjgzOEJvSEpzTTV4SGNZVWU1aEw3Zw?oc=5",
-          "added_at": "2026-07-17 16:20:06"
-        },
-        {
-          "uid": "731b87a393fd",
-          "date": "2026-07-16",
-          "title": "IEA Warns China Rare Earth Export Controls Could Jeopardize $6.5 Trillion in Global Production - IndexBox",
-          "summary": "国際エネルギー機関（IEA）は、中国のレアアース輸出規制が世界的な6.5兆ドル規模の生産に悪影響を及ぼす可能性があると警告しており、これは特にクリーンエネルギー技術やEVなどの産業に対する供給チェーンの脅威となっている。",
-          "source": "中国素材大手",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3JwY0w3a0xjTGx3MENESDhvYWNqWUxwR2RUbmN0SDhZZkxnZFM5NmJhWFEyQnNmWk1IU0tLX2pxSkpuZF9qaWFXc1hSd2h1WjNEMm5HSV9aa2llSGctbXdIdVp6SG1COFpQTkwwQXBuZmlxRnFJWDBJc1VKS0dSZktyT051aXd2dVhEY0Q3NkVuYnVNOXRJTWJQT3R3Z3BVOVJCY1pjV05PY2NKcExnSVJDRUlnTHk4aWE1OHNhMA?oc=5",
-          "added_at": "2026-07-17 16:20:06"
         }
       ]
     }
