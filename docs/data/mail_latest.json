@@ -1,192 +1,167 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": "2026-08-19 09:15 JST",
-  "sender_count": 3,
-  "total_mails": 15,
-=======
-  "generated_at": "2026-08-14 09:45 JST",
-  "sender_count": 2,
-  "total_mails": 2,
->>>>>>> Stashed changes
+  "generated_at": "2026-08-20 09:15 JST",
+  "sender_count": 4,
+  "total_mails": 16,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-<<<<<<< Updated upstream
-      "count": 6,
+      "count": 9,
       "bullets": [
-        "ベトナムにおいて国営企業の民営化計画の推進が政治的抵抗により制約される見通し",
-        "インド政府は安定しているものの、青年層の不満と選挙連立の亀裂という課題に直面",
-        "米国財務省が長期国債利回りの抑制に必要な政治的余地の不足に直面",
-        "米国の債務が数週間以内に40兆ドルを超える見通しで、債務上限問題への対応が後送りされる可能性",
-        "中国の経済成長鈍化と政策対応、米中サミット、貿易・レアアースについての議論が予定"
+        "エルニーニョ現象と海運混乱により、世界の食料品価格は2027年6月までに10～18%の上昇が見込まれ、米国とイランの緊張緩和によりホルムズ海峡は部分的に再開、原油価格は年内1バレル65～80ドルの範囲の見通し",
+        "中国のデータ基盤拡充により、中国居住者の海外資産（オフショア信託、保険契約、証券口座）が当局の監視下に入る状況",
+        "米国財務省は議会の財政健全化への関心欠如と連邦準備制度の対立方針により、長期金利抑制に政治的余地の不足",
+        "ウクライナのゼレンスキー大統領への圧力増加にもかかわらず、停戦前の選挙実施は困難な見通し",
+        "2028年米国民主党大統領選挙予備選挙の日程再編により、ミシガン州とバージニア州が主要な選挙戦の位置づけ"
       ],
       "subjects": [
         [
-          "2026-08-18",
-          "Vietnam: Politics will blunt privatization push",
-          "data/pdfs/20260818_1225_Vietnam__Politics_will_blunt_privatization_push.pdf"
-        ],
-        [
-          "2026-08-18",
-          "CONFERENCE CALL NOTES: India update",
-          "data/pdfs/20260818_1934_CONFERENCE_CALL_NOTES__India_update.pdf"
-        ],
-        [
-          "2026-08-18",
-          "China's political and economic outlook - EG Conference Call,",
-          "data/pdfs/20260818_2002_China's_political_and_economic_outlook_-_EG_Confer.pdf"
-        ],
-        [
-          "2026-08-18",
-          "US: Treasury lacks political space to lower yields",
-          "data/pdfs/20260818_2053_US__Treasury_lacks_political_space_to_lower_yields.pdf"
+          "2026-08-19",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20260819_1552_EG_Research_Summary_in_Japanese.pdf"
         ],
         [
           "2026-08-19",
-          "Congress to address debt ceiling in lame duck or after",
-          "data/pdfs/20260819_0027_Congress_to_address_debt_ceiling_in_lame_duck_or_a.pdf"
+          "eg update in Japanese",
+          "data/pdfs/20260819_1939_eg_update_in_Japanese.pdf"
         ],
         [
           "2026-08-19",
-          "China's political and economic outlook",
-          "data/pdfs/20260819_0108_China's_political_and_economic_outlook.pdf"
+          "US Treasury lacks political space to lower yields",
+          "data/pdfs/20260819_2142_US_Treasury_lacks_political_space_to_lower_yields.pdf"
+        ],
+        [
+          "2026-08-19",
+          "Ukraine: Elections before a ceasefire remain unlikely",
+          "data/pdfs/20260819_2339_Ukraine__Elections_before_a_ceasefire_remain_unlik.pdf"
+        ],
+        [
+          "2026-08-20",
+          "Michigan, Virginia are key 2028 Democratic contests",
+          "data/pdfs/20260820_0124_Michigan,_Virginia_are_key_2028_Democratic_contest.pdf"
+        ],
+        [
+          "2026-08-20",
+          "Canada: US tariff delay points to phase one deal",
+          "data/pdfs/20260820_0136_Canada__US_tariff_delay_points_to_phase_one_deal.pdf"
+        ],
+        [
+          "2026-08-20",
+          "US water sector will remain vulnerable to cyberattacks",
+          "data/pdfs/20260820_0411_US_water_sector_will_remain_vulnerable_to_cyberatt.pdf"
+        ],
+        [
+          "2026-08-20",
+          "UAE: Iran detente falters, raising attack risk",
+          "data/pdfs/20260820_0533_UAE__Iran_detente_falters,_raising_attack_risk.pdf"
+        ],
+        [
+          "2026-08-20",
+          "Nvidia H200 sales will smooth Trump-Xi summit",
+          "data/pdfs/20260820_0822_Nvidia_H200_sales_will_smooth_Trump-Xi_summit.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260818_1225_Vietnam__Politics_will_blunt_privatization_push.pdf",
-        "data/pdfs/20260818_1934_CONFERENCE_CALL_NOTES__India_update.pdf",
-        "data/pdfs/20260818_2002_China's_political_and_economic_outlook_-_EG_Confer.pdf",
-        "data/pdfs/20260818_2053_US__Treasury_lacks_political_space_to_lower_yields.pdf",
-        "data/pdfs/20260819_0027_Congress_to_address_debt_ceiling_in_lame_duck_or_a.pdf",
-        "data/pdfs/20260819_0108_China's_political_and_economic_outlook.pdf"
-=======
+        "data/pdfs/20260819_1552_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20260819_1939_eg_update_in_Japanese.pdf",
+        "data/pdfs/20260819_2142_US_Treasury_lacks_political_space_to_lower_yields.pdf",
+        "data/pdfs/20260819_2339_Ukraine__Elections_before_a_ceasefire_remain_unlik.pdf",
+        "data/pdfs/20260820_0124_Michigan,_Virginia_are_key_2028_Democratic_contest.pdf",
+        "data/pdfs/20260820_0136_Canada__US_tariff_delay_points_to_phase_one_deal.pdf",
+        "data/pdfs/20260820_0411_US_water_sector_will_remain_vulnerable_to_cyberatt.pdf",
+        "data/pdfs/20260820_0533_UAE__Iran_detente_falters,_raising_attack_risk.pdf",
+        "data/pdfs/20260820_0822_Nvidia_H200_sales_will_smooth_Trump-Xi_summit.pdf"
+      ]
+    },
+    {
+      "sender": "Eurasia",
+      "short": "EURAS",
+      "color": "YEL",
       "count": 1,
       "bullets": [
-        "米国とイランがホルムズ海峡開放に向けた一時的で不安定な停戦の可能性が高まり、緊張緩和の確率は60%に上昇",
-        "米イラン間の緊張緩和により、戦争が成長とインフレに及ぼす悪影響を抑止",
-        "イランをめぐる戦況改善と原油価格下落にもかかわらず、欧州のガス価格は高止まり",
-        "米国の関税見直しはブラジルに最重圧一方、EU・台湾・英国には恩恵",
-        "米国のエスカレーション機会喪失と外交交渉進展が緊張緩和の主要因で、イランの要求引き上げと米国の弾薬備蓄・議会制約が合意を延長化"
+        "Nvidiaの高性能チップ「H200」の輸入承認がベイジンの方針転換を示唆し、トランプ・習近平首脳会談を円滑化する見通し",
+        "中国企業の購買制限が解除されることで、米中間の長期的な技術規制強化の懸念が浮上",
+        "米国の関税延期発表がカナダとの第一段階協議合意の可能性を示唆"
       ],
       "subjects": [
         [
-          "2026-08-07",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20260807_1726_EG_Research_Summary_in_Japanese.pdf"
+          "2026-08-20",
+          "Daily Research Summary - Aug 19th, 2026",
+          "data/pdfs/20260820_0834_Daily_Research_Summary_-_Aug_19th,_2026.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260807_1726_EG_Research_Summary_in_Japanese.pdf"
->>>>>>> Stashed changes
+        "data/pdfs/20260820_0834_Daily_Research_Summary_-_Aug_19th,_2026.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "YEL",
-<<<<<<< Updated upstream
-      "count": 8,
+      "color": "RED",
+      "count": 5,
       "bullets": [
-        "オランダの窒素問題をめぐる7年にわたる政治的対立の解決にEUが支援を模索",
-        "欧州市民はクリーンテクノロジーへの転換を支持する一方、ガソリン車の販売禁止には反対",
-        "EUは米国技術への依存を減らすことを目指している状況",
-        "欧州委員会が改正版の国家援助規則から報道・メディア資金を除外する計画",
-        "EUの新たなサイバーセキュリティ法の導入段階で、重要インフラの定義が曖昧となり混乱が生じている"
+        "EU域内の航空会社が排出権取引制度の費用上昇により、国際競争力で不利な立場に置かれる状況が深刻化",
+        "スペイン極右政党が「大改革」に向けた動きを加速",
+        "EU各国が小規模地域メディアへの資金援助について、ブリュッセルの事前許可なく実施可能とする補助金ルール改定",
+        "イラン戦争の勃発により、ソマリア海賊による商船への襲撃が復活し、多年休止していた脅威が再浮上"
       ],
       "subjects": [
         [
-          "2026-08-18",
-          "The Hague’s SOS to Brussels",
-          "data/pdfs/20260818_1348_The_Hague’s_SOS_to_Brussels.pdf"
-        ],
-        [
-          "2026-08-18",
-          "Europeans oppose combustion engine bans",
-          "data/pdfs/20260818_1402_Europeans_oppose_combustion_engine_bans.pdf"
-        ],
-        [
-          "2026-08-18",
-          "Flipping the kill switch: I survived 72 hours without US tech",
-          "data/pdfs/20260818_1636_Flipping_the_kill_switch__I_survived_72_hours_with.pdf"
-        ],
-        [
-          "2026-08-18",
-          "Document: EU plans media carveout in state aid overhaul",
-          "data/pdfs/20260818_1757_Document__EU_plans_media_carveout_in_state_aid_ove.pdf"
-        ],
-        [
-          "2026-08-18",
-          "Ice cream makers as ‘critical infrastructure’? EU’s new",
-          "data/pdfs/20260818_1907_Ice_cream_makers_as_‘critical_infrastructure’__EU’.pdf"
-        ],
-        [
-          "2026-08-18",
-          "Brussels wants ‘Buy European’ but voters lean domestic",
-          "data/pdfs/20260818_1920_Brussels_wants_‘Buy_European’_but_voters_lean_dome.pdf"
+          "2026-08-19",
+          "EU airline carbon costs set to rise",
+          "data/pdfs/20260819_1406_EU_airline_carbon_costs_set_to_rise.pdf"
         ],
         [
           "2026-08-19",
+          "Spain’s far right eyes a ‘great revolution’",
+          "data/pdfs/20260819_1412_Spain’s_far_right_eyes_a_‘great_revolution’.pdf"
+        ],
+        [
+          "2026-08-19",
+          "EU moves to ease subsidy rules for small media",
+          "data/pdfs/20260819_2344_EU_moves_to_ease_subsidy_rules_for_small_media.pdf"
+        ],
+        [
+          "2026-08-20",
           "Pro Daily Headlines",
-          "data/pdfs/20260819_0031_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20260820_0031_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-08-19",
-          "Ousted Ukrainian defense chief Fedorov demands elections in",
-          "data/pdfs/20260819_0616_Ousted_Ukrainian_defense_chief_Fedorov_demands_ele.pdf"
+          "2026-08-20",
+          "One beneficiary of the Iran war? Pirates.",
+          "data/pdfs/20260820_0616_One_beneficiary_of_the_Iran_war__Pirates..pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260818_1348_The_Hague’s_SOS_to_Brussels.pdf",
-        "data/pdfs/20260818_1402_Europeans_oppose_combustion_engine_bans.pdf",
-        "data/pdfs/20260818_1636_Flipping_the_kill_switch__I_survived_72_hours_with.pdf",
-        "data/pdfs/20260818_1757_Document__EU_plans_media_carveout_in_state_aid_ove.pdf",
-        "data/pdfs/20260818_1907_Ice_cream_makers_as_‘critical_infrastructure’__EU’.pdf",
-        "data/pdfs/20260818_1920_Brussels_wants_‘Buy_European’_but_voters_lean_dome.pdf",
-        "data/pdfs/20260819_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260819_0616_Ousted_Ukrainian_defense_chief_Fedorov_demands_ele.pdf"
+        "data/pdfs/20260819_1406_EU_airline_carbon_costs_set_to_rise.pdf",
+        "data/pdfs/20260819_1412_Spain’s_far_right_eyes_a_‘great_revolution’.pdf",
+        "data/pdfs/20260819_2344_EU_moves_to_ease_subsidy_rules_for_small_media.pdf",
+        "data/pdfs/20260820_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260820_0616_One_beneficiary_of_the_Iran_war__Pirates..pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "RED",
+      "color": "ORG",
       "count": 1,
       "bullets": [
-        "広東省9市で医薬品・医療機器導入制度に係る緊急事案対応計画の施行",
-        "スシロー、青島市1号店開業、山東省で出店拡大",
-        "「中国水素エネルギー発展報告（2026）」発表、再エネ由来水素が規模拡大の段階へ",
-        "中国長安汽車とファーウェイ、AIや国際展開などで戦略的提携",
-        "タイの2026年1～7月乗用車BEV登録台数が前年同期比88.2％増",
-        "在マレーシア日系企業のインド進出への関心高まり、ジェトロが「インド・ビジネスセミナー」開催"
+        "中国ではアートトイ産業や石油・天然ガス産業の振興、コンテンツ企業によるAI活用事業の拡大が進展",
+        "米国ではテスラやスペースXがテキサス州で大規模投資を実施し、クリーンエネルギーと半導体分野での産業強化が加速",
+        "韓国やタイ、ベトナムなどアジア地域で新規成長戦略や投資推進計画が相次ぎ発表",
+        "米国ではカナダとの関税問題による貿易紛争が進行中で、中間選挙に向けた政治動向が注視対象",
+        "EUでは自動車産業の環境規制強化が進む一方、アフリカ地域ではインフレ対策と経済支援が課題"
       ],
       "subjects": [
         [
-          "2026-08-18",
-          "「ジェトロ・ビジネス短信」2026/08/18",
-          "data/pdfs/20260818_1806_「ジェトロ・ビジネス短信」2026_08_18.pdf"
+          "2026-08-19",
+          "「ジェトロ・ビジネス短信」2026/08/19",
+          "data/pdfs/20260819_1817_「ジェトロ・ビジネス短信」2026_08_19.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260818_1806_「ジェトロ・ビジネス短信」2026_08_18.pdf"
-=======
-      "count": 1,
-      "bullets": [
-        "EUは2028年に新たに2つの加盟国を獲得する可能性",
-        "アイスランドが3週間後のEU加盟交渉に関する国民投票を控えた局面",
-        "アイスランドの首席外交官がレイキャヴィクのEU交渉での「攻撃的姿勢」を表明"
-      ],
-      "subjects": [
-        [
-          "2026-08-07",
-          "Iceland’s EU moment",
-          "data/pdfs/20260807_1353_Iceland’s_EU_moment.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260807_1353_Iceland’s_EU_moment.pdf"
->>>>>>> Stashed changes
+        "data/pdfs/20260819_1817_「ジェトロ・ビジネス短信」2026_08_19.pdf"
       ]
     }
   ]
