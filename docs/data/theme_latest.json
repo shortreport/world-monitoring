@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 09:23:06",
+  "generated_at": "2026-08-20 14:34:08",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-20 09:22:26",
+      "last_checked": "2026-08-20 14:33:45",
       "items": [
         {
           "uid": "41764a890913",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-20 09:22:38",
+      "last_checked": "2026-08-20 14:33:54",
       "items": [
+        {
+          "uid": "414b1847b663",
+          "date": "2026-06-12",
+          "title": "AUVSI Endorses Connected Vehicle Security Act of 2026 - AUVSI",
+          "summary": "米国無人システム工業会（AUVSI）は2026年米国接続車両安全保障法（S.4429）を支持し、自動運転車やコネクテッドビークルのサイバーセキュリティ基準強化と安全性向上を推進する立場を表明した。この法案は、接続車両産業のサイバーセキュリティ要件を統一し、業界全体の安全保障水準を高めることを目的としている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazItdGtHaU83bXNLVHhoOXZjYUFRMjZBamhlVTZ5Ti1IVno4c1h1N1pFLVpHU0tJZGhheU5OY2cxYldKbHQxb0FwOTFpbG1mcF84UksyOUJ3RHJSbVFXdzl1aDB0NmYwc2UtYXpaNFI3OFAxZzZidmFYWU1VSEgtV2xlYmViZ3pf?oc=5",
+          "added_at": "2026-08-20 14:33:51"
+        },
         {
           "uid": "2228aebd1492",
           "date": "2026-07-16",
@@ -4010,16 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSGctNGFacDc3QmI5aWxURmtKcWxZREcxZ3VjWkNuYlZnOF91QU1Db1I5RjZvc0xpQnZkMHpZZXZXZXZ6d0ZNX282N0hhcU5PVWpkQmxFNVI5c0tkVUFnLVp1NHpSak5HZFpMMkR6anVDNXdOSFFSUnVsaElwN3A4ZTBDTUE4Uy1lcmlkUkVnM0dsV0RZLWJr?oc=5",
           "added_at": "2026-07-06 13:50:01"
-        },
-        {
-          "uid": "3c8580733d84",
-          "date": "2026-07-03",
-          "title": "Automotive Cybersecurity Market Size to Hit USD 21.11 Billion By 2035 - Precedence Research",
-          "summary": "自動車サイバーセキュリティ市場は2035年までに211億ドルに達すると予測されており、S.4429が求める接続車両のセキュリティ基準強化に対応する需要が急速に拡大していることを示唆している。本市場の成長は、規制要件の厳格化と消費者のセキュリティ意識の高まりに牽引されると考えられる。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QZGhpcEM2SVRaUDM3el9yU21vbTZVZkpWMDZvVVJjLWNzcTIzTmxHT1RMenB0eVVjVmotU3NkT3RYRGJLTWxyM3pQdXMtdTl3YmtNTUo4dWNsN3lRSFM1MkFLT2Y5V3p4WDR0ZU9nRVJBU1la?oc=5",
-          "added_at": "2026-07-06 13:50:01"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-20 09:23:06",
+      "last_checked": "2026-08-20 14:34:08",
       "items": [
+        {
+          "uid": "66e6d8c99cd4",
+          "date": "2026-06-06",
+          "title": "America's Drone Rush Runs Into a Supply Chain Reality - Rare Earth Exchanges",
+          "summary": "米国のドローン産業の急速な拡大は、中国が支配するレアアース供給チェーンの課題に直面しており、中国のレアアース輸出管理が米国の防衛・技術産業にとって深刻な制約となる可能性がある。ドローンなどの先端防衛技術の製造に不可欠なレアアースの確保が困難になれば、米国の産業競争力と安全保障が脅かされることになる。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU19CN05XWEdZX05JT014TjdPb2I4Z2ZGVEExcFJYU0VCeGZWWnhEZVAwU3dOZWVsZHA5dkJ2SUdSamxidlNaaVh0ZkhaVm01Q2JiWFhfbDY4VmpScFpBSGRoRE9YNFlUUHNxSS1EZkotMXRaaWROb2VNSUJkNHI3MFp1eFlaVTVfVXhwNVE3Q3NWcjQ?oc=5",
+          "added_at": "2026-08-20 14:34:05"
+        },
+        {
+          "uid": "4fb3e16080c7",
+          "date": "2026-06-10",
+          "title": "Brazil jostles for rare earths share as US-China rivalry heats up - Climate Home News",
+          "summary": "米国と中国のレアアース競争が激化する中、ブラジルがレアアース市場での地位確保に動いており、中国のレアアース輸出管理による供給制限に対抗する動きが広がっている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdm1qTmprcF8tcmpKaEFTbHppWFNlbHZ2Nm00SW1LOHI5V0xrQmJQWEdiNGV6MGgxOEFGTVBpY2RQM3hTbzFWQk9TTVMxMDZsS2hFZTliR2diMlVBTkY0c1lpalBiVWswV2NaQUV3NHNob2FoTFdnaEVrbTVrcnh2QVZfWnZ5Z3J3N0tVWEVJaGdQcTBRbGtHNlBndEtzbGpDWTZQSHc2bHNBQW5HUmREWQ?oc=5",
+          "added_at": "2026-08-20 14:34:05"
+        },
         {
           "uid": "4da0d7258ffc",
           "date": "2026-06-24",
@@ -6011,26 +6031,6 @@
           "source_type": "media",
           "url": "https://thehill.com/homenews/administration/5975599-trump-election-interference-claims-declassified-documents/",
           "added_at": "2026-07-18 16:01:36"
-        },
-        {
-          "uid": "c9e6eaf8ebee",
-          "date": "2026-07-17",
-          "title": "US dramatically shortening visas for foreign journalists",
-          "summary": "この記事は「中国レアアース輸出管理」とは関連がなく、米国のトランプ政権が外国人記者のビザを短縮する措置に関する内容です。そのため、要求された文脈での要約はできません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/5974924-trump-mullin-foreign-journalist-visa-updates/",
-          "added_at": "2026-07-18 16:01:36"
-        },
-        {
-          "uid": "e62f594d3649",
-          "date": "2026-06-25",
-          "title": "US army bases to host critical minerals plants in onshoring push - Mining.com",
-          "summary": "米国は戦略的な重要鉱物の供給源を確保するため、陸軍基地内に重要鉱物加工施設を設置することで、中国への依存を低減し、レアアース産業の国内回帰を推進している。この取り組みは、中国によるレアアース輸出管理の強化に対抗し、米国のサプライチェーン自給率を向上させることを目的としている。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlgyS0NxT3pFdGVrc3Rsbjk2Mjc3VDJGeUh0LW8zOE0xcnhWM2RsTExVNHU0VzVCRzM5aWRjZExER3hSNmZ3c1I5UjdJX25NM25EVDBWcmRweHZXZEdDMW5xTnV1ZG1XZUxtb2ZMblhyeXN5R2QyMkZ3TDQ0eXN4RjVSVWxHTlliQnRrcEJxX0dlWXBNZjBN?oc=5",
-          "added_at": "2026-07-18 00:17:27"
         }
       ]
     }
