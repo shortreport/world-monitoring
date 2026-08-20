@@ -1,10 +1,99 @@
 {
+<<<<<<< Updated upstream
   "updated_at": "2026-08-19 09:15 JST",
   "total": 50,
   "toyota_summary": "EUが計画する「バイ・ヨーロピアン」調達条項は、信頼性の問題に直面している。25加盟国中23カ国の有権者が、実際には汎欧州的な結束よりも自国優先を望んでいるのだ。この意識の乖離は、産業アクセラレーター法への支持を弱めかねず、外国勢との競争に対抗して域内自動車サプライチェーンを強化しようとする協調的な取り組みを複雑にする恐れがある。\n\n参考情報として、EU調達政策の政治的動向が挙げられる。",
   "emails": [
     {
       "ts": "20260819_0616",
+=======
+  "updated_at": "2026-08-14 09:45 JST",
+  "total": 50,
+  "toyota_summary": "Middle East instability is disrupting logistics and trade routes that automakers depend on for parts shipments and regional sales. Supply chains already stretched thin are facing new chokepoints, and companies operating in the region are reassessing inventory strategies and delivery timelines. Watch whether insurers raise premiums for shipments through the Strait of Hormuz.\n\nChina's government signaled it will accelerate spending and introduce new stimulus measures in the second half of 2026, a potential lift for demand after months of slowing sales. Automakers with heavy exposure to the Chinese market face a timing question: whether this support will be meaningful enough to reverse buyer hesitation, or merely cushion a declining trend. The details of Beijing's stimulus package arrive within weeks.",
+  "emails": [
+    {
+      "ts": "20260807_1726",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG Research Summary in Japanese",
+      "pdf": "data/pdfs/20260807_1726_EG_Research_Summary_in_Japanese.pdf",
+      "date_label": "AUG 7  17:26",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260807_1353",
+      "sender_norm": "POLITICO",
+      "subject": "Iceland’s EU moment",
+      "pdf": "data/pdfs/20260807_1353_Iceland’s_EU_moment.pdf",
+      "date_label": "AUG 7  13:53",
+      "read_min": 10,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260807_0802",
+      "sender_norm": "Eurasia Group",
+      "subject": "From Washington to Tokyo: US policy, the midterms, and global",
+      "pdf": "data/pdfs/20260807_0802_From_Washington_to_Tokyo__US_policy,_the_midterms,.pdf",
+      "date_label": "AUG 7  08:02",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "From Washington to Tokyo: US policy, the midterms, and global market risks - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260807_0802_From_Washington_to_Tokyo__US_policy,_the_midterms,.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20260807_0700",
+      "sender_norm": "Eurasia Group",
+      "subject": "From Washington to Tokyo: US policy, the midterms, and global",
+      "pdf": "data/pdfs/20260807_0700_From_Washington_to_Tokyo__US_policy,_the_midterms,.pdf",
+      "date_label": "AUG 7  07:00",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "From Washington to Tokyo: US policy, the midterms, and global market risks 「ワシントンから東京まで：米国政策・中間選挙とグローバル市場におけるリスク」（同時通訳なし） - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260807_0700_From_Washington_to_Tokyo__US_policy,_the_midterms,.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20260807_0545",
+      "sender_norm": "Eurasia Group",
+      "subject": "CONFERENCE CALL NOTES: US political and economic update",
+      "pdf": "data/pdfs/20260807_0545_CONFERENCE_CALL_NOTES__US_political_and_economic_u.pdf",
+      "date_label": "AUG 7  05:45",
+      "read_min": 10,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "CONFERENCE CALL NOTES: US political and economic update",
+      "html": "data/pdfs/20260807_0545_CONFERENCE_CALL_NOTES__US_political_and_economic_u.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20260807_0408",
+      "sender_norm": "Eurasia Group",
+      "subject": "China: Broad retaliation preserves diplomatic options",
+      "pdf": "data/pdfs/20260807_0408_China__Broad_retaliation_preserves_diplomatic_opti.pdf",
+      "date_label": "AUG 7  04:08",
+      "read_min": 7,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "China: Broad retaliation preserves diplomatic options",
+      "html": "data/pdfs/20260807_0408_China__Broad_retaliation_preserves_diplomatic_opti.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20260807_0252",
+>>>>>>> Stashed changes
       "sender_norm": "POLITICO",
       "subject": "Ousted Ukrainian defense chief Fedorov demands elections in",
       "pdf": "data/pdfs/20260819_0616_Ousted_Ukrainian_defense_chief_Fedorov_demands_ele.pdf",
@@ -707,6 +796,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
+<<<<<<< Updated upstream
     },
     {
       "ts": "20260814_1143",
@@ -740,4 +830,8 @@
     }
   ],
   "toyota_summary_en": "The EU's planned 'Buy European' procurement clause faces a credibility problem: voters in 23 of 25 member states actually prefer national-over-EU preference, not pan-European unity. This split sentiment could weaken support for the Industrial Accelerator Act and complicate coordinated efforts to boost domestic auto supply chains against foreign competition.\n\nEU procurement politics is provided for reference."
+=======
+    }
+  ]
+>>>>>>> Stashed changes
 }
