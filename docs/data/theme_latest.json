@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19 23:37:02",
+  "generated_at": "2026-08-20 09:23:06",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-19 23:36:29",
+      "last_checked": "2026-08-20 09:22:26",
       "items": [
+        {
+          "uid": "41764a890913",
+          "date": "2026-07-27",
+          "title": "Japan and Europe: Partners in Automotive Competitiveness and Clean Mobility - The Parliament Magazine",
+          "summary": "# 日本とEUの自動車産業における協力関係に関する要約\n\nEUの欧州産業加速法案（IAA）は、クリーンモビリティと自動車競争力の強化を目指しており、日本はこの分野で重要なパートナーとなる可能性を持っています。日本の先進的な自動車技術と環境対応技術がEUの産業政策目標と相互補完的な役割を果たすことで、両地域の競争力向上と脱炭素化の実現が期待されます。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdExGMDd1TThhZXFzamp0blBMd0lwTWg1cGpmTERMT2x1OHBUaXRab25BTjhCSnRpQ2w4c0hOcDk4RXNqdjBYcjBSQTNwZ1VzQm42c2liWTBJajVKdldJdmNoTmRDclFYczg2VDNaQkRubUFPa1c0bFRGal9ac19HMVpudmJIX2o1RmtINlloRkpWSzRtcVFiaERfdWRfNDIwTFBwazh6Wjg3RG9qcmM2V0hhdjVKLTRqMU5tTVJB?oc=5",
+          "added_at": "2026-08-20 09:22:23"
+        },
         {
           "uid": "c0cd20144a3a",
           "date": "2026-08-18",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVEtwcVJLUjI1ZXpTejNYZHpJZ2w1ZTNwSE1BYVZtYzZfV2FnWkJkZ0FNdWxTZHRZWTMzY2xwZE1kS0MteUNSek5FV1hBVE9JejMwcmFUdExMSmtQTmx1UzBvVl9KakJaYXh0Z2N6ZWd5UnB6aUdwRGZXUDlkUHppQU55TFRVX042V05nV0pxVFR4THZFTkc0?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "9e9e53a3d48a",
-          "date": "2026-05-07",
-          "title": "The Industrial Accelerator Act: EU Permitting Analysis - A&O Shearman",
-          "summary": "欧州産業加速法案（IAA）は、許認可プロセスを簡素化・迅速化することで、EU域内の産業プロジェクト、特に再生可能エネルギーと重要なインフラストラクチャー関連の開発を加速することを目的としています。この法案により、従来の許認可手続きの期間短縮と行政手続きの効率化が実現され、EU産業の競争力強化と脱炭素化目標の達成が促進されます。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFMwZVp4VUctQXR4SEpYMHgzMmZabVVCSDJiWDlpWF9mVDJ5THdGY2d3ck9xZjZVN1ZPVHlZemZKTFU1VlNfc1JiMF80RGhrakdQRHMtaG9DTGtpNUtyckduWTk5MXR0ZFJfYkZ0MWFfVFFzSmQzdmtOYWhwb0cwVGsyU0JsclhkYkZGWHYtTmZyVXRJRjRSdDloM2JiX0tfVGRMSFFuaw?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-19 23:36:38",
+      "last_checked": "2026-08-20 09:22:38",
       "items": [
         {
           "uid": "2228aebd1492",
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-19 23:37:02",
+      "last_checked": "2026-08-20 09:23:06",
       "items": [
+        {
+          "uid": "4da0d7258ffc",
+          "date": "2026-06-24",
+          "title": "Beijing Tightens Critical Mineral Export Controls with a Chinese-Style Whistleblower Program - Geopolitechs",
+          "summary": "中国がレアアース等の戦略的鉱物の輸出管理を強化するため、中国式の告発者プログラムを導入し、違法な輸出活動の監視体制を整備している。このような措置により、中国は重要鉱物資源の国家統制をさらに厳格化し、地政学的な影響力を強化しようとしている。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uYmZMTU5PNldWVkNmb3ppTEU2SmNuUTdMVjRfcFpzSDVFRmFQemRvZmRSdDdOQ0FfYjV2cFNKU2owVFFkZXhyS1VkZ2VQLXlubTlkMjV6U3JsM3FiTjgzOEJvSEpzTTV4SGNZVWU1aEw3Zw?oc=5",
+          "added_at": "2026-08-20 09:22:58"
+        },
+        {
+          "uid": "77c63e09dbdd",
+          "date": "2026-08-05",
+          "title": "China lands painful retaliation over EU sanctions on Russia - The Bell",
+          "summary": "記事のタイトルのみの情報では、中国のEU制裁への報復措置に関する内容であり、レアアース輸出管理との直接的な関連性は明確ではありませんが、中国がEUへの経済的報復手段としてレアアース等の戦略的資源の輸出制限を含む可能性が示唆されています。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0RCODVkWGQ4cWhTM3gyU0EtTlhtTU1jZmlZS1dwUi1NX2t3NUVkVTdtOUNGaWQxTXJUMjVPbGlwaE8zbHUzVlVXYkJrdUxvU2NaQ0VuVGU2STVPVFJtazVMY3FIeWc1d1J0Qy1DM1RGRDBKM1NTdkJHSHhwdXZteWstNU9IQ2RKVHc?oc=5",
+          "added_at": "2026-08-20 09:22:58"
+        },
+        {
+          "uid": "b98464417893",
+          "date": "2026-08-19",
+          "title": "Will Energy Fuels' Tb Breakthrough Diversify Rare Earth Supply? - TradingView",
+          "summary": "エネルギー燃料社（Energy Fuels）のテルビウム（Tb）ブレークスルーが、中国に依存するレアアース供給の多角化を実現する可能性があり、米国など非中国系企業によるレアアース生産拡大が中国の輸出管理への対抗手段となる見通しがある。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzU4b0VHaG1xdFNIbDhpZDhndGI4SDhZRlZFQVQxZmpIQ0p4ZG94QUVhN1hLZjByZEhoSXY4QWlqNy02a3RQdzAtT2FnMkVqZDhSdFVmTDA5NzJaWjk4aXhNS3luOVdOamtaRUpOanpDSHpOdjZDdkVZdUVDOXVNXy1ZYVoyUzhBZ2FwT3ItelV4Zkw5NHZyaWEyYmdlTloxWVpyeE5hTG1sUER3TjF2NXVkZ3hpbHhU?oc=5",
+          "added_at": "2026-08-20 09:22:58"
+        },
+        {
+          "uid": "82afd5e81698",
+          "date": "2026-08-08",
+          "title": "China Rare-Earth Exports to Japan, US Plunge Following New Export Restrictions - Share Dilution Risk - Vinanet",
+          "summary": "中国が新たなレアアース輸出規制を導入した結果、日本とアメリカへのレアアース輸出が急減少しており、これが関連企業の株式希薄化リスクをもたらしている。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTXF6UHZWSjJPYXdydlg5U09pRWpKVTVBR0RmWXNUWmQ1U21McGxuSkJyM2dyaFczWmdnVnZJVEJneWxHbDlIZjNRUHlSa2FoRVMtVzZVNVhzQ1BEUUd0RHFZdXViYzA1QzFBczZyN09WZVpCLWpnQ29PVlh4cmFvbk1nWW1zRzU4R2NwM0pFcUl2MEczdWhxRG5NWks3U3NOYVdZNV95UUhzS0FMTDNZdVBHZjZ3OHpR?oc=5",
+          "added_at": "2026-08-20 09:22:58"
+        },
         {
           "uid": "c59d3a3f74cd",
           "date": "2026-07-17",
@@ -5990,46 +6030,6 @@
           "source": "トランプ政権",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlgyS0NxT3pFdGVrc3Rsbjk2Mjc3VDJGeUh0LW8zOE0xcnhWM2RsTExVNHU0VzVCRzM5aWRjZExER3hSNmZ3c1I5UjdJX25NM25EVDBWcmRweHZXZEdDMW5xTnV1ZG1XZUxtb2ZMblhyeXN5R2QyMkZ3TDQ0eXN4RjVSVWxHTlliQnRrcEJxX0dlWXBNZjBN?oc=5",
-          "added_at": "2026-07-18 00:17:27"
-        },
-        {
-          "uid": "66e6d8c99cd4",
-          "date": "2026-06-06",
-          "title": "America's Drone Rush Runs Into a Supply Chain Reality - Rare Earth Exchanges",
-          "summary": "米国のドローン産業急速成長が、中国が支配するレアアース供給チェーンの脆弱性に直面しており、防衛用途を含むドローン製造に必要な磁石やモーター部品の調達が中国の輸出管理によって制約される可能性がある。米国はレアアース資源の自給化と供給チェーン多角化を急務としている。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU19CN05XWEdZX05JT014TjdPb2I4Z2ZGVEExcFJYU0VCeGZWWnhEZVAwU3dOZWVsZHA5dkJ2SUdSamxidlNaaVh0ZkhaVm01Q2JiWFhfbDY4VmpScFpBSGRoRE9YNFlUUHNxSS1EZkotMXRaaWROb2VNSUJkNHI3MFp1eFlaVTVfVXhwNVE3Q3NWcjQ?oc=5",
-          "added_at": "2026-07-18 00:17:27"
-        },
-        {
-          "uid": "4fb3e16080c7",
-          "date": "2026-06-10",
-          "title": "Brazil jostles for rare earths share as US-China rivalry heats up - Climate Home News",
-          "summary": "ブラジルは米中対立の激化に伴うレアアース需要の高まりの中で、中国に依存する国際市場への供給者として地位を確立しようとしており、中国の輸出管理を回避する代替供給源としての役割が期待されています。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdm1qTmprcF8tcmpKaEFTbHppWFNlbHZ2Nm00SW1LOHI5V0xrQmJQWEdiNGV6MGgxOEFGTVBpY2RQM3hTbzFWQk9TTVMxMDZsS2hFZTliR2diMlVBTkY0c1lpalBiVWswV2NaQUV3NHNob2FoTFdnaEVrbTVrcnh2QVZfWnZ5Z3J3N0tVWEVJaGdQcTBRbGtHNlBndEtzbGpDWTZQSHc2bHNBQW5HUmREWQ?oc=5",
-          "added_at": "2026-07-18 00:17:27"
-        },
-        {
-          "uid": "bcfcff9d4a35",
-          "date": "2026-05-21",
-          "title": "EU Draws Up Critical Minerals Stockpile as China Dependency Moves From Trade Risk to Security Issue - EU Today",
-          "summary": "EUが中国への重要鉱物依存を貿易リスクから安全保障上の脅威と位置づけ、レアアースを含む戦略的鉱物の備蓄体制を構築している。これは中国によるレアアース輸出管理強化に対抗し、供給チェーンの脆弱性を軽減するための施策である。",
-          "source": "EU戦略的原材料法",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwSEZPMjNhSGp3MjB3VDZSZXdYVjNVTExMUGRueG5pMXE0VXRRVGR4MGp6QU1NbjkwbUl1VGgtSTdPbHVSb0MtWWw3c3lGalp1bmpVSktjcXBfeTdBTnhVTk1tZGdibFM5aWtNZA?oc=5",
-          "added_at": "2026-07-18 00:17:27"
-        },
-        {
-          "uid": "7abb8ded55e9",
-          "date": "2026-06-09",
-          "title": "US Request Denied: China Reaffirms Rare Earth Restrictions on Japan - NAI500",
-          "summary": "中国は米国の要請を拒否し、日本へのレアアース輸出に対する制限政策を継続することを再確認した。この措置は、中国が地政学的な影響力を強化するための戦略的な対抗手段として機能している。",
-          "source": "同盟国対応",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRTNOdTNuRHlJMG5VT1JudVFJN0xIRl9rN01YRmRjbVVUU3NCUExiUEl0djNYdW03akJtU0NWVDVjUnJmN0lLYkN1dHFEcDIxUC0wNlctNHFnWDFmWmtwbllTT19OQnYxUDF6Y2dqcnpNUlRLVm1ydWhRYy1lYlBLa1dKMlBmbm9WSXhWdDh5eFNpdHpTVU5seEZlMV9OZlFw?oc=5",
           "added_at": "2026-07-18 00:17:27"
         }
       ]
