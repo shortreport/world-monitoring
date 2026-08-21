@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-21 10:51 JST",
+  "updated_at": "2026-08-21 10:53 JST",
   "total": 50,
-  "toyota_summary": "Korean manufacturers are pulling investment out of China and redirecting it to the U.S. and Vietnam, according to Japan's trade agency. The shift reflects deepening concern about U.S.-China tensions and the deteriorating competitive position Chinese rivals pose. China's auto market, long a growth engine for foreign automakers, is becoming less attractive as domestic competitors undercut prices and grab market share.\n\nThis matters because it signals where the industry sees the next decade playing out. Companies are betting that tariff walls and deglobalization will be permanent features, not temporary friction. The U.S. and Southeast Asia are the safer bets. Automakers that don't make this same calculation risk being shut out of high-tariff zones and facing supply chain bottlenecks.\n\nWatch whether Trump's reported tariff deal with Canada signals a broader rollback of trade barriers or a preview of bilateral agreements that lock others out.",
+  "toyota_summary": "現代自動車グループは、貿易政策の転換と中国におけるコスト上昇を背景に、韓国企業が資本を中国から米国へと振り向けるなか、対米投資を大幅に拡大している。電池メーカーや持株会社も自動車メーカーとともに動きを見せており、こうした取り組みは韓国国内の新たな法制度によって後押しされている。\n\nなお、参考として、韓国とベトナム、インドネシア、インドとの関係深化についても触れておく。",
   "emails": [
     {
       "ts": "20260821_0443",
@@ -11,7 +11,12 @@
       "date_label": "AUG 21  04:43",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Youth protests in India will test all political parties",
+      "html": "data/pdfs/20260821_0443_Youth_protests_in_India_will_test_all_political_pa.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260821_0429",
@@ -21,7 +26,12 @@
       "date_label": "AUG 21  04:29",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "IPO boom backs Beijing's tech ambitions",
+      "html": "data/pdfs/20260821_0429_IPO_boom_backs_Beijing's_tech_ambitions.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260821_0333",
@@ -31,7 +41,12 @@
       "date_label": "AUG 21  03:33",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "India: Betting on France for military aviation",
+      "html": "data/pdfs/20260821_0333_India__Betting_on_France_for_military_aviation.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260821_0118",
@@ -40,8 +55,13 @@
       "pdf": "data/pdfs/20260821_0118_Treasury_still_lacks_political_space_to_fulfill_co.pdf",
       "date_label": "AUG 21  01:18",
       "read_min": 9,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Treasury still lacks political space to fulfill commitment to low rates",
+      "html": "data/pdfs/20260821_0118_Treasury_still_lacks_political_space_to_fulfill_co.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260821_0055",
@@ -51,7 +71,12 @@
       "date_label": "AUG 21  00:55",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Bahrain: Will maintain GCC support as fiscal strain mounts",
+      "html": "data/pdfs/20260821_0055_Bahrain__Will_maintain_GCC_support_as_fiscal_strai.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260821_0031",
@@ -71,7 +96,12 @@
       "date_label": "AUG 20  21:16",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "China's chip approval eases US ties ahead of summit",
+      "html": "data/pdfs/20260820_2116_China's_chip_approval_eases_US_ties_ahead_of_summi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260820_1907",
@@ -81,17 +111,27 @@
       "date_label": "AUG 20  19:07",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Brussels changes gear on Big Tech enforcement",
+      "html": "data/pdfs/20260820_1907_Brussels_changes_gear_on_Big_Tech_enforcement.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260820_1806",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/08/20",
       "pdf": "data/pdfs/20260820_1806_「ジェトロ・ビジネス短信」2026_08_20.pdf",
       "date_label": "AUG 20  18:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" 2026/08/20",
+      "html": "data/pdfs/20260820_1806_「ジェトロ・ビジネス短信」2026_08_20.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260820_1806_「ジェトロ・ビジネス短信」2026_08_20_en.pdf"
     },
     {
       "ts": "20260820_1800",
@@ -101,7 +141,12 @@
       "date_label": "AUG 20  18:00",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "France’s big climate problem: The budget crunch",
+      "html": "data/pdfs/20260820_1800_France’s_big_climate_problem__The_budget_crunch.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260820_1636",
@@ -111,7 +156,12 @@
       "date_label": "AUG 20  16:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Zelenskyy’s rival Fedorov overplays his hand with election push",
+      "html": "data/pdfs/20260820_1636_Zelenskyy’s_rival_Fedorov_overplays_his_hand_with_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260820_1632",
@@ -121,7 +171,12 @@
       "date_label": "AUG 20  16:32",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20260820_1632_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260820_1402",
@@ -130,8 +185,13 @@
       "pdf": "data/pdfs/20260820_1402_Lowering_CO2_standards_for_cars_can_cost_lives.pdf",
       "date_label": "AUG 20  14:02",
       "read_min": 8,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Lowering CO2 standards for cars can cost lives",
+      "html": "data/pdfs/20260820_1402_Lowering_CO2_standards_for_cars_can_cost_lives.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260820_1359",
@@ -141,7 +201,12 @@
       "date_label": "AUG 20  13:59",
       "read_min": 11,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Why Fico lost his Brussels bite",
+      "html": "data/pdfs/20260820_1359_Why_Fico_lost_his_Brussels_bite.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260820_1307",
@@ -151,7 +216,12 @@
       "date_label": "AUG 20  13:07",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "韓国企業は米中対立や中国での競争激化により、対中投資を急減させる一方で、米国、ベトナム、"
+      "excerpt": "韓国企業は米中対立や中国での競争激化により、対中投資を急減させる一方で、米国、ベトナム、",
+      "subject_en": "Notice of New Jetro Regional and Analysis Reports (August 20, 2026 Issue)",
+      "html": "data/pdfs/20260820_1307_ジェトロ地域・分析レポートの新着のご案内（2026年8月20日号）.html",
+      "summary_en": "Hyundai Motor Group is significantly expanding its U.S. investments as South Korean companies accelerate direct investment in America amid shifting trade policy under the second Trump administration. This comes as Korean firms sharply pull back from China due to rising costs, overcapacity, and stronger local competition, while simultaneously deepening ties with Vietnam, Indonesia, and India. Legal frameworks in South Korea are also advancing to support the execution of these outbound U.S. investment commitments, with battery makers and holding companies leading the charge alongside automakers.",
+      "summary_ja": "韓国の現代自動車グループは、対中投資が急減する中で対米投資を大きく拡大している。米中対立や中国での競争激化を背景に、韓国企業は「チャイナ・プラスワン」としてベトナムやインドネシア、インドへの関心を強めつつも、第2次トランプ政権下では対米投資の履行に向けた法整備が進み、2次電池や持ち株会社とともに自動車業界が投資を牽引している。",
+      "summary_pdf": "data/pdfs/20260820_1307_ジェトロ地域・分析レポートの新着のご案内（2026年8月20日号）_en.pdf"
     },
     {
       "ts": "20260820_1301",
@@ -160,8 +230,13 @@
       "pdf": "data/pdfs/20260820_1301_ジェトロ・メンバーズニュース第473号.pdf",
       "date_label": "AUG 20  13:01",
       "read_min": 2,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "JETRO Members News No. 473",
+      "html": "data/pdfs/20260820_1301_ジェトロ・メンバーズニュース第473号.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260820_1301_ジェトロ・メンバーズニュース第473号_en.pdf"
     },
     {
       "ts": "20260820_0834",
@@ -668,5 +743,6 @@
       "toyota": false,
       "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "Hyundai Motor Group is significantly expanding U.S. investment as Korean firms redirect capital from China toward America, driven by shifting trade policy and rising China costs. Battery makers and holding companies are moving alongside automakers, backed by new South Korean legal frameworks supporting these commitments.\n\nDeepening Korean ties with Vietnam, Indonesia, and India is provided for reference."
 }
