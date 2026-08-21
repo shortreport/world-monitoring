@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 14:35:32",
+  "generated_at": "2026-08-21 23:38:20",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-21 14:35:05",
+      "last_checked": "2026-08-21 23:37:50",
       "items": [
         {
           "uid": "93a784fb1842",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-21 14:35:14",
+      "last_checked": "2026-08-21 23:37:58",
       "items": [
         {
           "uid": "895f8cf1dc1c",
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-21 14:35:32",
+      "last_checked": "2026-08-21 23:38:20",
       "items": [
+        {
+          "uid": "2ef6f58b7b9a",
+          "date": "2026-06-23",
+          "title": "China minerals control threatens EU rearmament, as bloc seeks new sources - Nikkei Asia",
+          "summary": "中国がレアアース等の重要鉱物の輸出を厳しく管理しており、EU がミリタリー産業の拡大に必要な鉱物資源を確保できない懸念が生じているため、EU は中国以外の新たな供給源の開拓を急いでいる。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmNlbHFoUnpmY05vRDVUMmpiYkpRYVd4WW1rUGhFaHRJUEViVFVoY1RabUVVTTRlanhJVllpQnhPLUt6MnoxdVQ3TkxzcXg0UEw2VlR5WXlOQVhZd3JZSENjUlQweWFEOHcxMDlObzVxNkdVbTFOMXlJbEhONEhUc0V4czd3QWpEaWVWWVNKb00wTWJuXzRUSG1xMkpWZzY0em1IcUFJTnAzc1h2US1Ob3pGSk9oWTFJVFhCN2Nfb2NlRHBjU3NuaFNwakdyU0k?oc=5",
+          "added_at": "2026-08-21 23:38:11"
+        },
+        {
+          "uid": "8367d7fcb64f",
+          "date": "2026-07-20",
+          "title": "China Isn't Just Guarding Rare Earths-It's Actively Managing the Magnet Economy - Rare Earth Exchanges",
+          "summary": "中国はレアアース鉱物の輸出管理にとどまらず、磁石産業全体を戦略的に支配することで、サプライチェーン全体にわたる経済的影響力を強化している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVdwbmVYZHo5NmJ4OHczZlVrcndQU25sejh6Qkg5R1k0RW9jMXdQY0xQWXRRWjhWUUhsdDZDQld6cWRBVmZvWC1WUW4yQldBZXRxMnBpeEJDNkhwVThIbVR2NzRWS1dzQTRKcDg4V1pBSm9lcDFfWUhhWjVzS19BYjVXZ2dWWWlEeWQ2d2VEVFJ0YVZUWGdqNEVWa0F2TDlpVkZFekZTN3AyY3JNR0IzZVIwdW8?oc=5",
+          "added_at": "2026-08-21 23:38:11"
+        },
+        {
+          "uid": "16a78330730a",
+          "date": "2026-07-24",
+          "title": "Rare Earths in 2026: Navigating Geopolitical Tensions and Supply Chain Shifts - Investing News Network",
+          "summary": "中国はレアアース輸出に対する管理を強化し、地政学的緊張と供給チェーンの混乱を引き起こしており、2026年は各国が中国への依存を減らすため代替供給源の確保と国内生産能力の拡大を急いでいます。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QX2E2R2l4TmJBMWRUcHJQMUlHaWwxYmdhRzNFOUlhdWZPWm1vdWNYbUlrM2Y1WlNDT1ZOUGZCQ0RQZGdfbVhIRGlFUElQOFlVM3lTV0pnbFlweGM?oc=5",
+          "added_at": "2026-08-21 23:38:11"
+        },
+        {
+          "uid": "e96bddca3fa6",
+          "date": "2026-06-22",
+          "title": "China blacklists MP Materials, USA Rare Earth in critical minerals war - Mining.com",
+          "summary": "中国がレアアース戦争の一環として、MP MaterialsとUSA Rare Earthという米国企業をブラックリストに登録し、これらの企業との取引制限または禁止措置を実施したことを示しており、レアアース資源をめぐる米中間の競争が深刻化していることが伺える。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeENWR3MwVGd0MkJtcDIyMWhCTWR0Skp3VUtfdEkzcHBtblNtXzlkVzQ5UHdFSVEtMzQ3TElJOXlESXlDUHhmaGFPU2Q1a2ZYbEQxSUtRc3V3SXZZdWkwQ2tsSEw4NS1hbnlZYmN0S2Z6WHZGMWhFNk9SU3JQZVhKeHpqdXFWMmh0SXl0T3FzYjB5Y3BPQ09JNw?oc=5",
+          "added_at": "2026-08-21 23:38:11"
+        },
         {
           "uid": "300a03109431",
           "date": "2026-08-20",
@@ -5990,46 +6030,6 @@
           "source": "中国商務省",
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW9uNmYxaGZCcER0YS1WcmVabzVueEN0T0VwZTZBV2ladl9vNEg5ZWs4ZU1YS2RyRU8wR2V0eVIxbVB0VkxUb1J2UFl4NDFZZDdHV3YyQ2VVS0ttb18zYUFiM0w1SEMydHhHdmhiR1JhY01VajVzaDZ6cHRGNkJyazFVSlRiRjlXYklleEo2VWxsMDNRTmFWU09uRXhFZ29HNWZvMlNuX1FDZlNGRml0d004aXY5TnAx?oc=5",
-          "added_at": "2026-07-22 16:36:34"
-        },
-        {
-          "uid": "207c64bfd7e2",
-          "date": "2026-05-01",
-          "title": "China Rare Earth Production Quotas: What You Need to Know - discoveryalert.com.au",
-          "summary": "申し訳ございませんが、提供いただいたテキストはタイトルのみで、記事の具体的な内容が含まれていないため、要約することができません。記事の本文をご提供ください。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEFWSXlvWldJNWJFZUxqTkRINUNvOVdTcEFHUEhSSG1pYzFvcElfelBLaGsyZ0R4Z1NsMm4wNXF2M19OT0YySk5HbFhtYkI2RkVfLXQzWFVxcW1JRGw1TS1vN0YtNzFfdmlQZEZsZWR6bWVkZGYxVEE3Yk1ZLVFBbWJ2ZFd2NDhnaHFrTVJB?oc=5",
-          "added_at": "2026-07-22 16:36:34"
-        },
-        {
-          "uid": "ba4c5548726a",
-          "date": "2026-07-22",
-          "title": "BREAKING: Trump signs executive forcing US military suppliers to source critical minerals from inside US borders - Next Investors",
-          "summary": "トランプ大統領が米国防産業のサプライヤーに対し、重要鉱物を米国内から調達することを義務付ける大統領令に署名し、中国に依存する現状から脱却を図る戦略を強化しています。これは中国のレアアース輸出管理に対抗し、米国の供給チェーン自立性を確保する動きと位置付けられます。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQazgtS2hIVWlKSlpsR1BNbl9jaWQ1dVc0WHg1QmVIMy1KSGNUZjMwX0VmR0E3N08yOGhOcE9jZEdrTXoyOTdjTjM0dXZkUWRQNFM0ekhYRTExWFZtRjZETUw0SUw5MzBpckdFYzJhMnJIaFBBQXc1RC03bGh6UDBvcVowLVJ1eWxybGttNzdaY0cyZzV1cWFVYlg4eDZsUHlQdXNUM09BbVdtcFdkS1V4MmVPUER4XzQ1WjNvdE03bUQyalA5OHhxdE1jYkZkZF9WZUZjalhLZ1o1bk5veWlOaw?oc=5",
-          "added_at": "2026-07-22 16:36:34"
-        },
-        {
-          "uid": "e787c734a620",
-          "date": "2026-06-08",
-          "title": "Critical mineral stockpiling escalates with a focus on tungsten - Mining.com.au",
-          "summary": "中国がレアアースを含む重要鉱物の輸出管理を強化する中、タングステンなどの戦略的に重要な鉱物の備蓄が世界的に加速している。先進国は中国への依存を減らすため、重要鉱物の国内備蓄戦略を急速に拡大させている。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0lKR3E1WWFHb3daZUw4VGM0Tk5qTk0tX3JjVmNlYnVDZUtSamZZT0ktVEpmOUtjXzFpMzFGckJkeHZiSlB6bTdhNS16YkdUX1dCVU8zZVFfdEZFRkN6T3k2SjFFcXQ3V19HVXc3RkRSYU8ya3dOWC1UZVhCMzJGM0VLQjRuNzUyeWNVSWtBaw?oc=5",
-          "added_at": "2026-07-22 16:36:34"
-        },
-        {
-          "uid": "ba8e19177369",
-          "date": "2026-05-21",
-          "title": "Lawmakers introduce SILVER Act to increase precious metals storage sites in US - Mining.com",
-          "summary": "米国の議員らが「SILVER法」を導入し、米国内の貴金属貯蔵施設を増加させることで、中国などの外国依存を減らし、レアアースを含む重要鉱物の国内供給体制を強化しようとしている。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV05oeGw3d044cmlrWmQwN0hvSnJ3WEVvRENHVUZ2RkFWODFtT0JsNzItUFQybm5WYnBTcUZaa2RjbkNFSWdiNlpCTVFVM0VMejhDRkZPYmxwa3Ryc2gxVU5GaDZtaGlMVmFEY0s0TW9ZXzVtR1YyaGlteUNzNkpCRXZydkl5X3VkQU82Z1A1a2RROE8tZ3hNRC1yTmxvV3EydDNZQQ?oc=5",
           "added_at": "2026-07-22 16:36:34"
         }
       ]
