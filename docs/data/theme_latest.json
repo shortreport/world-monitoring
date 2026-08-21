@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 23:39:04",
+  "generated_at": "2026-08-21 10:55:55",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-20 23:38:32",
+      "last_checked": "2026-08-21 10:55:08",
       "items": [
+        {
+          "uid": "1aa33b41db86",
+          "date": "2026-08-20",
+          "title": "European Parliament Targets December Vote on Proposed Industrial Accelerator Act - HKTDC Research",
+          "summary": "欧州議会は提案中の産業加速法案（IAA）について12月の投票を目指しており、欧州の産業競争力強化に向けた規制緩和と投資促進を実現しようとしています。この法案は欧州企業のイノベーション加速と市場競争力向上を目的としています。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Pek9rQlBVRVRUc01QNkhfeXlHWE10SmNIUm80MTlFdEJWUy1YZVF6NXhLM1BfMVRiNjFRaUZEdFI0X2d1Nm1jSW9jY0JZcGRvZUxIdlJISTIycXJYUWJlelJB?oc=5",
+          "added_at": "2026-08-21 10:55:06"
+        },
         {
           "uid": "9dc592a337a2",
           "date": "2026-05-29",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHR1S1czNmFnSjJ3bHRsVWZnVmJVLVJ6bUFydGktdFJPaVpvMDE5eGxMOHhTb2NDSURFMXRTX2ZIQXlvTlpNaVNxeDR3TVdoOFh2aTNaOENlUmJCaXBlbzBSRG9QM0QxX1hUc0dESGU4R2ZEZ2Z3VVNCb19HQURxdVhKZFFhQkNiSWFHQjhrbFFKbnBLLXZYdy1LcHdrMGg3cnl6c2VqTHEzR2Nhd19qNDNEYVVkR0pHdmhzcQ?oc=5",
           "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "0e5187c44f02",
-          "date": "2026-05-22",
-          "title": "China's auto body says it strongly opposes EU's Industrial Accelerator Act - Yahoo Finance UK",
-          "summary": "中国の自動車業界団体がEUの産業加速法案に強く反対する姿勢を示しており、これはEUの産業競争力強化政策に対する中国側の抵抗を示唆している。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYzVHaGhZamRVaUJrV2dYelR2Z2U2U3JzQzNrU2ZtWFFjVWF2WFJyMWFWb1F3Q0pxVV9OQ25ubWxXbGxNbzZlZUV3TG42TmY4REQ3OHJHemVrTkN3bVpEUDJxOTh2dDR2c3Z0emdYckZSa1dIY1A2NTJVdzRnMzNSSVR5WmNEQQ?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-20 23:38:43",
+      "last_checked": "2026-08-21 10:55:25",
       "items": [
+        {
+          "uid": "2919b3f784dd",
+          "date": "2026-08-20",
+          "title": "Waymo Ojai Now Open to All Riders: Its Zeekr Chassis Faces Same Geely Ban That Expelled Polestar - Tech Times",
+          "summary": "Waymoが運用する自動運転車がZeekrシャシを採用しており、親会社のGeely（中国企業）がS.4429法による規制対象となる可能性があることから、米国の安全保障懸念に基づく中国系企業排除の影響を受ける恐れがある。",
+          "source": "米商務省・BIS",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRkM4Q0wySVlQSW5QZkdHaGxub2ctckV4UEZRR3NOVmF6bzB0bWxiRnpLeTNGTVgyYXJZVW14RUxWZUJrdVBwOU5rSnJOQ1lsai1SSng4QXl4Tm5YM0N0RWJlWmo5Wl9kNEE5OHZWWUo2WU5nc0t3U2syWExxWUhvYmJsTF9YaTE2dkNwdzJoTjdsMzBTWTJSaGRLZGN2Vzc5enNNM3BmLTNZaGdNcEFKLXlhZU1fa05kLWZoLWptNnJNLWl4TGdIdE1zd0pOQkdCQmVWZmdkZW1sY1hVWHUzSA?oc=5",
+          "added_at": "2026-08-21 10:55:20"
+        },
+        {
+          "uid": "7b09075adb1d",
+          "date": "2026-08-20",
+          "title": "US demands China release ‘wrongfully detained’ American held on spying charges",
+          "summary": "本記事は米国接続車両安全保障法（S.4429）とは直接関係がなく、中国で不当に拘束されているアメリカ国民に関する事案を扱っているため、同法に関する文脈での要約は適切ではありません。",
+          "source": "POLITICO",
+          "source_type": "media",
+          "url": "https://www.politico.com/news/2026/08/20/us-demands-china-release-american-01043513",
+          "added_at": "2026-08-21 10:55:20"
+        },
         {
           "uid": "59773c41a244",
           "date": "2026-08-20",
@@ -4000,26 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMlNvNW5QOC1HdU9pQzFsMnUwMjNFZ19qeGlUQmdjUEtYVGdjbGswZ2hCbUFZSmZhek9zMnpxZ3oxT1hoMTdSM1VhYjZ1UkpvcFJVQmhwWHN5VTE2WVhvS0NJbGRSN2hfY2NRNVQyQTJ5M3Axend5dVV4YkFSS3FRSkxsNFBsRGJ3anIwMXdrODZrQWNjVTF6WGZJb2hhR1YtUlJjVw?oc=5",
           "added_at": "2026-07-07 13:32:05"
-        },
-        {
-          "uid": "076afc073bea",
-          "date": "2026-06-29",
-          "title": "In-Vehicle Data Monetization Platforms Market Size, Report-2035 - Global Market Insights Inc.",
-          "summary": "本レポートは車両内部データの商用化プラットフォーム市場の成長予測を扱っており、S.4429で懸念される中国系企業による車両データ収集・利用リスクと、米国がこのデータセキュリティ規制を通じて市場競争力を確保する背景を示しています。データ商用化市場の拡大に伴い、外国資本による自動運転技術や消費者情報の搾取防止が同法の重要な立法目的となっていることが示唆されます。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOF9iSU9BQXNabFpkU2M0UXZFdUJKV3Ezc2VNeEJNTnJJLWE0R2I3ZDBFY2haRElJeU1YLVVPUWhfUzhFa21RVzNQN0NnMkQxZlpHSVhZTGhRQXFfanNlWllqcmRDR3hQVkFGTDY1a1RmNXNuSko3VnZVRzJWQlJYMHhEd1lod0VTUDF3SDA1LTJPOTNx?oc=5",
-          "added_at": "2026-07-07 01:00:07"
-        },
-        {
-          "uid": "72b20d50d1d1",
-          "date": "2026-06-30",
-          "title": "Polestar, Responding to U.S. Market Sales Ban... Focusing on European Market - starnewskorea.com",
-          "summary": "米国の接続車両安全保障法(S.4429)に対応して、Polestarは米国市場での販売禁止に対応し、ヨーロッパ市場への経営資源の集中にシフトしている。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRDNJYUdfZkF6Z3Z6Mncwa0JkYlhWTVNPekFwNXYzMkptXy1jc211M0pLdGxwRWZhTnhMUk9BQU5SNXdzdlVPUVFKdkdXbWViQVA4RnotU2lCVkhKV2ZvMHU3VW9IcjFkcEtRRmpVUFZOQ3ZkZmhCbnd5TjZkbDhVeVdqcw?oc=5",
-          "added_at": "2026-07-07 01:00:07"
         }
       ]
     },
@@ -4030,8 +4030,68 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-20 23:39:04",
+      "last_checked": "2026-08-21 10:55:55",
       "items": [
+        {
+          "uid": "52b1b92dff33",
+          "date": "2026-06-22",
+          "title": "China takes aim at U.S. rare earth companies with new export controls - The Washington Post",
+          "summary": "中国が米国のレアアース企業を標的とした新たな輸出管理を導入し、米国製のレアアース関連製品やサービスの対米輸出を厳しく制限する措置を実施した。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnVjbnBoV2F5Tk4tNzhtT0pQN0haOGdPOXN6d29MWGxDTGhNMm1mMmtaaFc4LUNpVUxyTmxNc1Y2OVZnbEJ2dE9HRDljdUREdU1EeldfTXRBRTBWNUN3YTVSbFlUdjdXRzdWdXMzeVN3aGIwcWg4d0JaVFJLOTZMYTlyX0tUYUJpbzgxS1k5cy1EcDJWNW1jV0dJUTVCSGFJeENxa3IzVjN1cHB6aEM5czI3NjZYSnFfZ1lrTGlSZlNrMlU?oc=5",
+          "added_at": "2026-08-21 10:55:43"
+        },
+        {
+          "uid": "44f4b1a940fc",
+          "date": "2026-08-20",
+          "title": "Dems sharpen attack on post-midterm target: Trump’s mineral deals - Politico",
+          "summary": "民主党がトランプ前大統領との鉱物取引に対する批判を強化していることが報じられており、これは中国レアアース輸出管理との関連で米国がレアアース確保戦略を巡る政治的対立に直面していることを示唆している。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFBhbmc4SGJ2SUhORXNRSnRScUpMSGdsMmxNSkZ2R3gtcFZBUGtkQjRQdkxoWWwyNTFmZ3dtNUxSR2lpdlEtakk5OHZSLS1aZmdaRXBzeGI1cVNod2dSV2FkWTg4blZyLVBHdC1JNklPUTZvVmU1SnYtc1VSTjFTaEI2V0Z6WEs3OEIzbTktVQ?oc=5",
+          "added_at": "2026-08-21 10:55:43"
+        },
+        {
+          "uid": "9c7abda96037",
+          "date": "2026-08-20",
+          "title": "Critical Minerals Institute Marks Five Years with a Warning That Government Funding Alone Is Not a Strategy - InvestorNews",
+          "summary": "# 要約\n\nCritical Minerals Institute は設立5年を記念し、政府資金のみでは重要鉱物（レアアースを含む）の供給チェーン確保に不十分であり、民間投資と産業戦略の構築が必要であることを警告している。この警告は、中国がレアアース輸出を管理下に置く中で、欧米諸国が自国の重要鉱物調達の脆弱性に対処する必要があることを示唆している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVG9lLWFSR2IzeTE0b3RVZWphb24xRkY4SGlZMF9vdERpZXkyUHhlc3FZOU8yekNHN3JjaWQ1bGE5eEdQZXVMV0h6bDBydEVLemR5SDRRT09RSXpaWHJmLXE1bDd1eVVZVC03dVVaaUUwTnhUeGkxN2VLMVliUHRDU1ByS2kzaC1FYThBZXQ5ajR1eWExTktLemxvbEstaERITEtKdTdkMkJpNDJjdFAzREJXWnVXbnlMelJ1QW5GMkh0MHotdVd6bFY2azFmRncxRkNBZXpEUUh0aE5vbll5bjk0VVY1bGloaHFka1BfOFg1RWoyN2c?oc=5",
+          "added_at": "2026-08-21 10:55:43"
+        },
+        {
+          "uid": "eb49260cf8db",
+          "date": "2026-06-23",
+          "title": "Beijing imposes export controls on 10 US rare earth firms in retaliation for military blacklist - Crypto Briefing",
+          "summary": "中国政府は、米国が軍事関連企業10社をブラックリストに追加したことへの報復措置として、これら米国企業に対するレアアース輸出を制限した。この措置は米中間の技術・防衛分野での対立激化を示す事例である。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FeTJYWkJTZ0RneU9lNGxOTmQ1cEhwZG81WmJld1BXUGo0NjlrNUtfRkdXVFByUlRwWEJnU3BxakJpUWl3cUVRUnBIa2tpQnR3N1ZObTlmZWRKUGo4d2lEZkhrZHRmVzhsWnVsLV9vaWFsUXdpR0NSVkk3RQ?oc=5",
+          "added_at": "2026-08-21 10:55:43"
+        },
+        {
+          "uid": "fba0965f3e3d",
+          "date": "2026-06-22",
+          "title": "China blocks rare Earth exports to US firms tied to AI supply chain - Cryptopolitan",
+          "summary": "中国がAIサプライチェーン関連の米企業へのレアアース輸出を制限している。これは米国の技術覇権に対抗する戦略的な措置である。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BTkVzaEl0ZXhVdGs0a00wczZlbl9yRkpGdElNc1VfTmJhc2JLcW5fSFZMc0pxYkhTOC1xcThURFU4blhQXzlFLUcxdGx5ZzZRTDJsOWo1N1VDX24yNE9Ec2pEYXN0VzJ3WS04NzVDRTFhUy1FY3hqRFdR?oc=5",
+          "added_at": "2026-08-21 10:55:43"
+        },
+        {
+          "uid": "fca75bfff9be",
+          "date": "2026-08-20",
+          "title": "To outcompete China, unhandcuff America’s biotech innovators",
+          "summary": "米国のバイオテック産業が中国との競争で後れを取らないよう、FDA の規制緩和が急務であり、特に再生医療分野における官僚的遅延が中国に戦略的優位性をもたらしているという主張。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/healthcare/6040418-fda-regulatory-delay-regenative-labs/",
+          "added_at": "2026-08-21 10:55:43"
+        },
         {
           "uid": "1bcfcf24db41",
           "date": "2026-08-19",
@@ -5971,66 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcG1Vd3JuNldxWHJJQnZqY3doa2RPQjlqN1lmS1hleGFuREJXRk8tcWFYbmkxS0d1aEdRdFJLdElubnVrTm8ycVpaT0QzOExpa29CV2tRZndyUVBnUmJHcXo2c0tPZ0hJbFVwazRxb3hjR0dPRFJLV1B6LV9iREpoSDZUVHRSRW84R2c?oc=5",
           "added_at": "2026-07-19 23:59:21"
-        },
-        {
-          "uid": "3b052bf8ac13",
-          "date": "2026-07-19",
-          "title": "The best human landing system is the one that can beat China to the moon",
-          "summary": "米国がレアアースを含む月面資源の獲得を目指す中で、中国との競争が激化しており、これは中国のレアアース輸出管理戦略に対抗するための重要な背景となっている。NASAが月面着陸システムの開発を急ぐのは、レアアースなどの戦略的資源確保と宇宙での覇権競争の両面でも中国に先制されることを避けるためと考えられる。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/technology/5975210-spacex-blue-origin-moon-landers/",
-          "added_at": "2026-07-19 23:59:21"
-        },
-        {
-          "uid": "1671bbc116af",
-          "date": "2026-06-23",
-          "title": "China throttles key mineral exports to Japan, pressuring Takaichi - Crypto Briefing",
-          "summary": "中国がレアアースなどの重要鉱物の日本への輸出を制限し、日本の高市経済安全保障担当大臣に圧力をかけている。この措置は、米国との対立の中で日本の経済的脆弱性を標的とした報復的な輸出管理戦略と考えられる。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mcTgtek93VFd6NWxVYjMwRWdSQnpZYzRxdzRNcGt3bmFJR2NET19qZjA0SUl0Tng2dWlpRkV6VU1hamxxRHdZTHNLN05mSlJEdUFfd2hFU2EyRWY5WXNlNHNhTHFrTGs2NWN1eklhem1jdw?oc=5",
-          "added_at": "2026-07-19 16:29:08"
-        },
-        {
-          "uid": "a757bf6a67a9",
-          "date": "2026-07-18",
-          "title": "Malaysia and Indonesia: Test Cases for China’s Global Rare Earth Control - InvestorNews",
-          "summary": "中国はマレーシアとインドネシアをレアアース産業の支配拡大のテストケースとして利用しており、これらの国々への投資や技術提供を通じてグローバルなレアアース供給チェーンにおける支配力を強化しようとしている。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU280cktDX0dsXzJkTXlzclB3c28tRG84WHFQVGxtODJ2UEVHRkVIRDdfaWFnLS1zRWtLcko5YTVyUmt3MmtySnlVQnU3eUh0Yjc3b1daSGJ4eElFTGhmYzl1SEhWX3VORVEzOXItZy1UQjl6ZDJuYUpqb2pFejhsMWp5aWZaT0RSdFNxX01IZDBicHJYY2swOVMtZXo0elM0MVNKcXlaZTlOSjhUdnhPMFRLVnVBa3h4cGJHb3VNOTFfZ3I2?oc=5",
-          "added_at": "2026-07-19 16:29:08"
-        },
-        {
-          "uid": "f7c3b81e843b",
-          "date": "2026-07-18",
-          "title": "China Rare Earth Export Curbs: Global Stakes Explained - Discovery Alert",
-          "summary": "中国が希土類元素の輸出規制を強化することで、レアアース依存度の高い日本やアメリカなどの先進国が供給不安に直面する一方、中国は戦略的資源として国内産業保護と対外交渉の切り札として活用している。この輸出管理は、グローバル・サプライチェーンの再編とレアアース調達の多角化を促進させている。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM2Ruc1F2RGotXzgzRzBRazJQb1g1M3hWZjktWmdsdnd6cnNsQnNNbjJsSzNvZEIydzYzVTJab3R4ZWpGQjVMc1A1eElPX1N1cGJwUHlId05uTjBuemg5dkp4VFlRdm5tUHBNVEp3UGgwLVZHcWNtRlNXVmZqaERwR19BQUU0X2FKNklr?oc=5",
-          "added_at": "2026-07-19 16:29:08"
-        },
-        {
-          "uid": "d817280b8bcf",
-          "date": "2026-07-18",
-          "title": "Sunday shows preview: Trump election claims raise alarm; Iran war shows no end in sight",
-          "summary": "この記事は中国レアアース輸出管理とは関連がありません。記事の内容はトランプ大統領の選挙干渉疑惑とイラン情勢に関するもので、レアアース輸出管理については言及されていません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/video-clips/sunday-shows/5976393-sunday-preview-trump-revives-china-election-claims/",
-          "added_at": "2026-07-19 16:29:08"
-        },
-        {
-          "uid": "42fde885c83d",
-          "date": "2026-05-07",
-          "title": "Brazil house backs critical minerals bill as Lula meets Trump - Mining.com",
-          "summary": "ブラジルの下院が重要鉱物法案を承認し、ルーラ大統領がトランプ氏と会談する中、中国のレアアース輸出管理への対抗策として、ブラジルが鉱物資源の戦略的地位を強化しようとしている動きが示されている。これは米国との連携を通じて、中国に依存しない重要鉱物サプライチェーンの構築を目指す取り組みである。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGZXdnJWdVI5aUstWGRLOU56RTlXQXRUX3FNTjBydTJyRUN3RWp3bzZvbGs1VTFaLWhDRU1rZkhZb3pYbDRYR2dJdkpOQWQ0VUhQUWRkSWpYVVZDczFqZVZWTWk3cGI2ZzdXc2NScGYzUm55NjFxdWpkSC13ckdfRWZXcHFSdmNyaTduN003TDNkZjQ?oc=5",
-          "added_at": "2026-07-18 23:57:03"
         }
       ]
     }
