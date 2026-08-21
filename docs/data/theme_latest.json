@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 10:55:55",
+  "generated_at": "2026-08-21 11:00:21",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-21 10:55:08",
+      "last_checked": "2026-08-21 10:59:43",
       "items": [
         {
           "uid": "1aa33b41db86",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-21 10:55:25",
+      "last_checked": "2026-08-21 11:00:00",
       "items": [
         {
           "uid": "2919b3f784dd",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-21 10:55:55",
+      "last_checked": "2026-08-21 11:00:21",
       "items": [
+        {
+          "uid": "a757bf6a67a9",
+          "date": "2026-07-18",
+          "title": "Malaysia and Indonesia: Test Cases for China’s Global Rare Earth Control - InvestorNews",
+          "summary": "中国はマレーシアとインドネシアのレアアース処理能力に投資することで、これらの国を中国のレアアース供給チェーンの重要な拠点とし、グローバルなレアアース市場支配を強化している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU280cktDX0dsXzJkTXlzclB3c28tRG84WHFQVGxtODJ2UEVHRkVIRDdfaWFnLS1zRWtLcko5YTVyUmt3MmtySnlVQnU3eUh0Yjc3b1daSGJ4eElFTGhmYzl1SEhWX3VORVEzOXItZy1UQjl6ZDJuYUpqb2pFejhsMWp5aWZaT0RSdFNxX01IZDBicHJYY2swOVMtZXo0elM0MVNKcXlaZTlOSjhUdnhPMFRLVnVBa3h4cGJHb3VNOTFfZ3I2?oc=5",
+          "added_at": "2026-08-21 11:00:16"
+        },
+        {
+          "uid": "789a6902392a",
+          "date": "2026-06-22",
+          "title": "China targets US defense, rare earth firms in new trade curbs - Türkiye Today",
+          "summary": "中国は米国防衛関連企業やレアアース企業を対象に新たな貿易制限措置を実施し、米国との貿易紛争をエスカレートさせている。この措置は、中国が戦略的に重要なレアアースの輸出管理を強化し、米国への圧力手段として活用する姿勢を示している。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWZrTXZYel9KNDlYOEdQbEpLVHY4SHFIU2E4UG5WSHZjRXZWZkRmbFhHLVJ3YTBJSXhRaDR0Y29YZnN0VTFGeFJsbXpoZUZNRFBfWnA4cWo2MEtzS3lUbmxMbkp2aksxNHZWbFhwZ0xLWmk3alUxdDVLa2s0ekNYeHZ4aFdsdkxiY0NVSWdjQ29YRDJDMUtHeDl2UjgwSGdOSjFQaVZn?oc=5",
+          "added_at": "2026-08-21 11:00:16"
+        },
         {
           "uid": "52b1b92dff33",
           "date": "2026-06-22",
@@ -6011,26 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNU1Yd2VkWWVEWjZ1dThDUFhDZEp1eUlGZzRhUzhLUW5PVV9hSmlpckctaVB4Rk5BeDl2N09fWld2ZWVNNS1IemR2eE5wbHIwODJxak94dkhXNjI4YkFBUFJzZ2FfQmM1WDkxUUtpWFE3QkQ0eTU1OUNDSzBRX1VtclNhVnluZVp1QXBQQXAzRVFRVlVTRThoMjZnN1RVams?oc=5",
           "added_at": "2026-07-20 17:08:14"
-        },
-        {
-          "uid": "862c41102e52",
-          "date": "2026-06-14",
-          "title": "Critical Minerals Report (06.14.2026): Control is the New Commodity - InvestorNews",
-          "summary": "申し訳ありませんが、提供いただいたテキストにはタイトルのみで記事の具体的な内容が含まれていないため、「中国レアアース輸出管理」に関する要約を作成することができません。記事の本文をご提供いただければ、要約可能です。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNejJnZkZDZU1pZGJZdkpoLTdUbmFLMTFiVXMwV0U0YXdRbWtqR3FzMENQbzVLbEV2d2xqZGQxNjQzVDBxQTdCSHU5RjR1Ujd3ZlJDdGExd21pbHFKckFiTkhscy1pVHJFRXdwLWxVMHI4d2NINlZuYS0wSXZsYzZKNGtZSXlEbG9kdDVxSTdQbGR5ZEw4S3RxcV9qVjF4QXFrZ19BRVdnWHJ1elIxZjlFczRRNk94dmRtME9NcQ?oc=5",
-          "added_at": "2026-07-20 17:08:14"
-        },
-        {
-          "uid": "5405f0f6e412",
-          "date": "2026-04-27",
-          "title": "Q1 2026 U.S.-Korea Trade, Investment, and Diplomacy Ledger - Korea Economic Institute of America -",
-          "summary": "申し訳ありませんが、提供いただいたタイトルと「内容」のテキストには、具体的な記事本文が含まれていないため、「中国レアアース輸出管理」に関する要約を作成できません。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcG1Vd3JuNldxWHJJQnZqY3doa2RPQjlqN1lmS1hleGFuREJXRk8tcWFYbmkxS0d1aEdRdFJLdElubnVrTm8ycVpaT0QzOExpa29CV2tRZndyUVBnUmJHcXo2c0tPZ0hJbFVwazRxb3hjR0dPRFJLV1B6LV9iREpoSDZUVHRSRW84R2c?oc=5",
-          "added_at": "2026-07-19 23:59:21"
         }
       ]
     }
