@@ -1,212 +1,100 @@
 {
-<<<<<<< Updated upstream
-  "generated_at": "2026-08-21 10:51 JST",
-  "sender_count": 4,
-  "total_mails": 16,
-=======
-  "generated_at": "2026-08-14 09:45 JST",
-  "sender_count": 2,
-  "total_mails": 2,
->>>>>>> Stashed changes
+  "generated_at": "2026-08-23 00:56 JST",
+  "sender_count": 3,
+  "total_mails": 7,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-<<<<<<< Updated upstream
-      "count": 7,
+      "count": 2,
       "bullets": [
-        "米国財務省は議会の財政再建への消極姿勢とFRBの利上げ動向により、長期金利抑制の政治的余地を欠く状況",
-        "中国によるNvidia H200チップの限定的販売承認が米中関係の緩和を示唆し、9月の首脳会談に向けた雰囲気醸成",
-        "バーレーンはイラン戦争の影響で債務が増加する一方、GCC諸国からの継続的な財政支援により危機回避の見通し",
-        "インドがフランスを主要な軍事航空パートナーとして位置付け、防衛力強化に向けた戦略転換"
+        "パキスタンで国防軍法2026が成立し、アシム・ムニル陸軍元帥の軍事・安保権限が法的に一元化",
+        "カナダとの米国の貿易交渉が決裂し、セクション338関税20億ドル分が発動と報復関税の応酬",
+        "両国は合意がほぼ妥結していたと主張するも、ホワイトハウス内の対立が交渉阻止",
+        "セクション232関税の削減幅が主要争点で、提案された鉄鋼・アルミ関税引き下げが不十分と判明",
+        "今後の合意にはトランプ大統領の親合意派支持の介入が必要となる可能性"
       ],
       "subjects": [
         [
-          "2026-08-20",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20260820_1632_EG_Research_Summary_in_Japanese.pdf"
+          "2026-08-22",
+          "Pakistan: Law formalizes Munir’s military grip",
+          "data/pdfs/20260822_0152_Pakistan__Law_formalizes_Munir’s_military_grip.pdf"
         ],
         [
-          "2026-08-20",
-          "China's chip approval eases US ties ahead of summit",
-          "data/pdfs/20260820_2116_China's_chip_approval_eases_US_ties_ahead_of_summi.pdf"
-        ],
-        [
-          "2026-08-21",
-          "Bahrain: Will maintain GCC support as fiscal strain mounts",
-          "data/pdfs/20260821_0055_Bahrain__Will_maintain_GCC_support_as_fiscal_strai.pdf"
-        ],
-        [
-          "2026-08-21",
-          "Treasury still lacks political space to fulfill commitment to low rates",
-          "data/pdfs/20260821_0118_Treasury_still_lacks_political_space_to_fulfill_co.pdf"
-        ],
-        [
-          "2026-08-21",
-          "India: Betting on France for military aviation",
-          "data/pdfs/20260821_0333_India__Betting_on_France_for_military_aviation.pdf"
-        ],
-        [
-          "2026-08-21",
-          "IPO boom backs Beijing's tech ambitions",
-          "data/pdfs/20260821_0429_IPO_boom_backs_Beijing's_tech_ambitions.pdf"
-        ],
-        [
-          "2026-08-21",
-          "Youth protests in India will test all political parties",
-          "data/pdfs/20260821_0443_Youth_protests_in_India_will_test_all_political_pa.pdf"
+          "2026-08-22",
+          "Canada: Collapse of US trade talks risks further escalation",
+          "data/pdfs/20260822_2334_Canada__Collapse_of_US_trade_talks_risks_further_e.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260820_1632_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20260820_2116_China's_chip_approval_eases_US_ties_ahead_of_summi.pdf",
-        "data/pdfs/20260821_0055_Bahrain__Will_maintain_GCC_support_as_fiscal_strai.pdf",
-        "data/pdfs/20260821_0118_Treasury_still_lacks_political_space_to_fulfill_co.pdf",
-        "data/pdfs/20260821_0333_India__Betting_on_France_for_military_aviation.pdf",
-        "data/pdfs/20260821_0429_IPO_boom_backs_Beijing's_tech_ambitions.pdf",
-        "data/pdfs/20260821_0443_Youth_protests_in_India_will_test_all_political_pa.pdf"
-=======
-      "count": 1,
-      "bullets": [
-        "米国とイランがホルムズ海峡開放に向けた一時的で不安定な停戦の可能性が高まり、緊張緩和の確率は60%に上昇",
-        "米イラン間の緊張緩和により、戦争が成長とインフレに及ぼす悪影響を抑止",
-        "イランをめぐる戦況改善と原油価格下落にもかかわらず、欧州のガス価格は高止まり",
-        "米国の関税見直しはブラジルに最重圧一方、EU・台湾・英国には恩恵",
-        "米国のエスカレーション機会喪失と外交交渉進展が緊張緩和の主要因で、イランの要求引き上げと米国の弾薬備蓄・議会制約が合意を延長化"
-      ],
-      "subjects": [
-        [
-          "2026-08-07",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20260807_1726_EG_Research_Summary_in_Japanese.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260807_1726_EG_Research_Summary_in_Japanese.pdf"
->>>>>>> Stashed changes
+        "data/pdfs/20260822_0152_Pakistan__Law_formalizes_Munir’s_military_grip.pdf",
+        "data/pdfs/20260822_2334_Canada__Collapse_of_US_trade_talks_risks_further_e.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
       "color": "YEL",
-<<<<<<< Updated upstream
-      "count": 6,
+      "count": 4,
       "bullets": [
-        "スロバキアのフィコ首相がブリュッセルでの影響力を失い、政治的な静寂が深まっている状況",
-        "EU委員会が自動車のCO2排出規制を緩和する提案により、数千人の早期死亡増加につながると報告書が警告",
-        "フランスがエネルギー危機に直面し、異例の熱波により気候関連の支出計画の見直しを余儀なくく状況",
-        "ブリュッセルが巨大IT企業への執行方針を転換し、高額罰金から遵守重視へシフト、市場支配力の強化懸念",
-        "ウクライナのゼレンスキー大統領の政敵フェドロフが選挙実施を呼びかけたが、広範な反発を招いている状況"
+        "EUはドローンの商用運用でAmazonなど米国企業に遅れており、断片化した国家承認制度と統合的な航空交通管理システムの欠如が課題",
+        "EU各国の規制当局による独自要件の設定により、ある国での承認が他国では有効にならない問題が存在",
+        "複数のドローン運用者と有人航空機が共存する空域運用がまだ実現できていない状況",
+        "米国は事前の厳格な規制ではなく実際の運用から学習する規制構築アプローチを採用",
+        "ハンガリーの€10B汚職問題とManUnited所有者による欧州化学産業復興計画が訴訟で停滞しており、欧州の産業雄心にとって悪い兆候",
+        "米国の40兆ドル債務問題と戦争、Big Techの生成AI投資により、グローバルな資本争奪が激化し欧州への影響が避けられない状況"
       ],
       "subjects": [
         [
-          "2026-08-20",
-          "Why Fico lost his Brussels bite",
-          "data/pdfs/20260820_1359_Why_Fico_lost_his_Brussels_bite.pdf"
-        ],
-        [
-          "2026-08-20",
-          "Lowering CO2 standards for cars can cost lives",
-          "data/pdfs/20260820_1402_Lowering_CO2_standards_for_cars_can_cost_lives.pdf"
-        ],
-        [
-          "2026-08-20",
-          "Zelenskyy’s rival Fedorov overplays his hand with election push",
-          "data/pdfs/20260820_1636_Zelenskyy’s_rival_Fedorov_overplays_his_hand_with_.pdf"
-        ],
-        [
-          "2026-08-20",
-          "France’s big climate problem: The budget crunch",
-          "data/pdfs/20260820_1800_France’s_big_climate_problem__The_budget_crunch.pdf"
-        ],
-        [
-          "2026-08-20",
-          "Brussels changes gear on Big Tech enforcement",
-          "data/pdfs/20260820_1907_Brussels_changes_gear_on_Big_Tech_enforcement.pdf"
+          "2026-08-21",
+          "EU risks falling behind in commercial drone operations",
+          "data/pdfs/20260821_1404_EU_risks_falling_behind_in_commercial_drone_operat.pdf"
         ],
         [
           "2026-08-21",
-          "Pro Daily Headlines",
-          "data/pdfs/20260821_0031_Pro_Daily_Headlines.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260820_1359_Why_Fico_lost_his_Brussels_bite.pdf",
-        "data/pdfs/20260820_1402_Lowering_CO2_standards_for_cars_can_cost_lives.pdf",
-        "data/pdfs/20260820_1636_Zelenskyy’s_rival_Fedorov_overplays_his_hand_with_.pdf",
-        "data/pdfs/20260820_1800_France’s_big_climate_problem__The_budget_crunch.pdf",
-        "data/pdfs/20260820_1907_Brussels_changes_gear_on_Big_Tech_enforcement.pdf",
-        "data/pdfs/20260821_0031_Pro_Daily_Headlines.pdf"
-      ]
-    },
-    {
-      "sender": "ジェトロ",
-      "short": "ジェトロ",
-      "color": "RED",
-      "count": 2,
-      "bullets": [
-        "韓国企業が米中対立や中国での競争激化を受けて対中投資を減少させ、米国やベトナム、インドなどへの直接投資を拡大",
-        "山東省が中国で対日輸出依存度が最も高く、2025年の対日輸出額が202億ドル",
-        "アンゴラが石油依存体制からの脱却を目指し、ロビト回廊整備などにより経済多角化と地域経済ハブへの転換を推進",
-        "日本のこんにゃくがヘルシー食品として注目され、フードテックやプラントベースフード原料としての活用による海外展開の可能性が拡大"
-      ],
-      "subjects": [
-        [
-          "2026-08-20",
-          "ジェトロ・メンバーズニュース第473号",
-          "data/pdfs/20260820_1301_ジェトロ・メンバーズニュース第473号.pdf"
+          "Hungary’s €10B corruption test",
+          "data/pdfs/20260821_1411_Hungary’s_€10B_corruption_test.pdf"
         ],
         [
-          "2026-08-20",
-          "ジェトロ地域・分析レポートの新着のご案内（2026年8月20日号）",
-          "data/pdfs/20260820_1307_ジェトロ地域・分析レポートの新着のご案内（2026年8月20日号）.pdf"
+          "2026-08-21",
+          "Man United’s owner had a plan to revive the EU chemical",
+          "data/pdfs/20260821_1635_Man_United’s_owner_had_a_plan_to_revive_the_EU_che.pdf"
+        ],
+        [
+          "2026-08-21",
+          "Why Europe can’t escape the fallout from $40 trillion US debt woes",
+          "data/pdfs/20260821_1905_Why_Europe_can’t_escape_the_fallout_from_$40_trill.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260820_1301_ジェトロ・メンバーズニュース第473号.pdf",
-        "data/pdfs/20260820_1307_ジェトロ地域・分析レポートの新着のご案内（2026年8月20日号）.pdf"
+        "data/pdfs/20260821_1404_EU_risks_falling_behind_in_commercial_drone_operat.pdf",
+        "data/pdfs/20260821_1411_Hungary’s_€10B_corruption_test.pdf",
+        "data/pdfs/20260821_1635_Man_United’s_owner_had_a_plan_to_revive_the_EU_che.pdf",
+        "data/pdfs/20260821_1905_Why_Europe_can’t_escape_the_fallout_from_$40_trill.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "ORG",
+      "color": "RED",
       "count": 1,
       "bullets": [
-        "中国が住宅積立金管理条例を改正し、多様な住宅関連支出ニーズへの対応",
-        "湖南省がスマートロボット産業の発展加速に関する実施意見を発表",
-        "キリンHDがシンガポール拠点でヘルスサイエンス事業を拡大",
-        "インドの7月貿易収支が2カ月連続で赤字幅拡大、石油製品輸入増加",
-        "パキスタンの7月インフレ率が9.2%に鈍化"
+        "中国が消費活性化支援策を発表し、広東省が最低賃金引き上げなど内需拡大に注力",
+        "タイのGDP成長率減速、インドネシアの貿易黒字大幅減少など、アジア地域の経済成長に鈍化の兆し",
+        "米国のCFIUS審査が安全保障上の懸念から厳格化傾向を強め、国際的なM&A取引への影響が増大",
+        "ドイツの自動車産業で従業員数が20年近くぶりの最低水準に低下し、製造業の構造的課題が深刻化",
+        "米国によるイラン経済圧力強化で中東地域の地政学的リスク高まる一方、日本の対中東貿易は増加傾向"
       ],
       "subjects": [
         [
-          "2026-08-20",
-          "「ジェトロ・ビジネス短信」2026/08/20",
-          "data/pdfs/20260820_1806_「ジェトロ・ビジネス短信」2026_08_20.pdf"
+          "2026-08-21",
+          "「ジェトロ・ビジネス短信」2026/08/21",
+          "data/pdfs/20260821_1808_「ジェトロ・ビジネス短信」2026_08_21.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260820_1806_「ジェトロ・ビジネス短信」2026_08_20.pdf"
-=======
-      "count": 1,
-      "bullets": [
-        "EUは2028年に新たに2つの加盟国を獲得する可能性",
-        "アイスランドが3週間後のEU加盟交渉に関する国民投票を控えた局面",
-        "アイスランドの首席外交官がレイキャヴィクのEU交渉での「攻撃的姿勢」を表明"
-      ],
-      "subjects": [
-        [
-          "2026-08-07",
-          "Iceland’s EU moment",
-          "data/pdfs/20260807_1353_Iceland’s_EU_moment.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260807_1353_Iceland’s_EU_moment.pdf"
->>>>>>> Stashed changes
+        "data/pdfs/20260821_1808_「ジェトロ・ビジネス短信」2026_08_21.pdf"
       ]
     }
   ]
