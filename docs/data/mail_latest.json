@@ -1,12 +1,19 @@
 {
+<<<<<<< Updated upstream
   "generated_at": "2026-08-21 10:51 JST",
   "sender_count": 4,
   "total_mails": 16,
+=======
+  "generated_at": "2026-08-14 09:45 JST",
+  "sender_count": 2,
+  "total_mails": 2,
+>>>>>>> Stashed changes
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
+<<<<<<< Updated upstream
       "count": 7,
       "bullets": [
         "米国財務省は議会の財政再建への消極姿勢とFRBの利上げ動向により、長期金利抑制の政治的余地を欠く状況",
@@ -59,12 +66,32 @@
         "data/pdfs/20260821_0333_India__Betting_on_France_for_military_aviation.pdf",
         "data/pdfs/20260821_0429_IPO_boom_backs_Beijing's_tech_ambitions.pdf",
         "data/pdfs/20260821_0443_Youth_protests_in_India_will_test_all_political_pa.pdf"
+=======
+      "count": 1,
+      "bullets": [
+        "米国とイランがホルムズ海峡開放に向けた一時的で不安定な停戦の可能性が高まり、緊張緩和の確率は60%に上昇",
+        "米イラン間の緊張緩和により、戦争が成長とインフレに及ぼす悪影響を抑止",
+        "イランをめぐる戦況改善と原油価格下落にもかかわらず、欧州のガス価格は高止まり",
+        "米国の関税見直しはブラジルに最重圧一方、EU・台湾・英国には恩恵",
+        "米国のエスカレーション機会喪失と外交交渉進展が緊張緩和の主要因で、イランの要求引き上げと米国の弾薬備蓄・議会制約が合意を延長化"
+      ],
+      "subjects": [
+        [
+          "2026-08-07",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20260807_1726_EG_Research_Summary_in_Japanese.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260807_1726_EG_Research_Summary_in_Japanese.pdf"
+>>>>>>> Stashed changes
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
       "color": "YEL",
+<<<<<<< Updated upstream
       "count": 6,
       "bullets": [
         "スロバキアのフィコ首相がブリュッセルでの影響力を失い、政治的な静寂が深まっている状況",
@@ -163,6 +190,23 @@
       ],
       "pdf_files": [
         "data/pdfs/20260820_1806_「ジェトロ・ビジネス短信」2026_08_20.pdf"
+=======
+      "count": 1,
+      "bullets": [
+        "EUは2028年に新たに2つの加盟国を獲得する可能性",
+        "アイスランドが3週間後のEU加盟交渉に関する国民投票を控えた局面",
+        "アイスランドの首席外交官がレイキャヴィクのEU交渉での「攻撃的姿勢」を表明"
+      ],
+      "subjects": [
+        [
+          "2026-08-07",
+          "Iceland’s EU moment",
+          "data/pdfs/20260807_1353_Iceland’s_EU_moment.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260807_1353_Iceland’s_EU_moment.pdf"
+>>>>>>> Stashed changes
       ]
     }
   ]

@@ -1,10 +1,39 @@
 {
+<<<<<<< Updated upstream
   "updated_at": "2026-08-21 10:55 JST",
   "total": 50,
   "toyota_summary": "現代自動車グループは対米投資を急拡大させている。背景には、通商政策の転換に加え、中国におけるコスト上昇と競争激化を受け、韓国企業が中国から米国へと軸足を移している事情がある。自動車メーカーに追随する形で、電池メーカーや持株会社も相次いで進出しており、こうした対外投資を後押しする韓国国内の新たな法制度も整備されつつある。\n\nなお、参考として、ベトナム、インドネシア、インドとの間で深まる韓国の関係についても触れておく。",
   "emails": [
     {
       "ts": "20260821_0443",
+=======
+  "updated_at": "2026-08-14 09:45 JST",
+  "total": 50,
+  "toyota_summary": "Middle East instability is disrupting logistics and trade routes that automakers depend on for parts shipments and regional sales. Supply chains already stretched thin are facing new chokepoints, and companies operating in the region are reassessing inventory strategies and delivery timelines. Watch whether insurers raise premiums for shipments through the Strait of Hormuz.\n\nChina's government signaled it will accelerate spending and introduce new stimulus measures in the second half of 2026, a potential lift for demand after months of slowing sales. Automakers with heavy exposure to the Chinese market face a timing question: whether this support will be meaningful enough to reverse buyer hesitation, or merely cushion a declining trend. The details of Beijing's stimulus package arrive within weeks.",
+  "emails": [
+    {
+      "ts": "20260807_1726",
+      "sender_norm": "Eurasia Group",
+      "subject": "EG Research Summary in Japanese",
+      "pdf": "data/pdfs/20260807_1726_EG_Research_Summary_in_Japanese.pdf",
+      "date_label": "AUG 7  17:26",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260807_1353",
+      "sender_norm": "POLITICO",
+      "subject": "Iceland’s EU moment",
+      "pdf": "data/pdfs/20260807_1353_Iceland’s_EU_moment.pdf",
+      "date_label": "AUG 7  13:53",
+      "read_min": 10,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260807_0802",
+>>>>>>> Stashed changes
       "sender_norm": "Eurasia Group",
       "subject": "Youth protests in India will test all political parties",
       "pdf": "data/pdfs/20260821_0443_Youth_protests_in_India_will_test_all_political_pa.pdf",
@@ -367,6 +396,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
+<<<<<<< Updated upstream
     },
     {
       "ts": "20260819_2339",
@@ -745,4 +775,8 @@
     }
   ],
   "toyota_summary_en": "Hyundai Motor Group is sharply increasing U.S. investment as Korean firms pivot away from China toward America, driven by shifting trade policy and rising Chinese costs and competition. Battery makers and holding companies are moving alongside automakers, backed by new South Korean legal frameworks supporting these outbound investments.\n\nDeepening Korean ties with Vietnam, Indonesia, and India are provided for reference."
+=======
+    }
+  ]
+>>>>>>> Stashed changes
 }
