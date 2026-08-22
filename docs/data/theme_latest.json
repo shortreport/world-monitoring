@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 23:38:20",
+  "generated_at": "2026-08-22 14:30:30",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,38 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-21 23:37:50",
+      "last_checked": "2026-08-22 14:30:05",
       "items": [
+        {
+          "uid": "7ff28f20a995",
+          "date": "2026-08-21",
+          "title": "EU Industrial Accelerator Act & Battery Supply Chains - A&O Shearman",
+          "summary": "欧州産業加速法案（IAA）は、電池サプライチェーンを含む重要産業の競争力強化を目的として、EU域内での生産拡大と規制緩和を促進する法制度である。本法は、クリーンテック産業など戦略的に重要な産業セクターの迅速な発展を支援し、グローバル市場での欧州の地位確保を図っている。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjZSZDNIbUFBYmxqaEJRZGZVU2VFZ3ppbGNRSk85WlIzN0FsV0p3WDRrVUlhVTNQd2hWUmkxRk5oMDJLNW5YV2FVX1Q0UXBMN1dXUmlEUmpPNkliWDUzbjNXWlJjVHVpSXdpWDZjeE5wRlVhOUMxc0l2bEpqb0ZIbkdPS0xVYUJyczBzVG5ZaEo4VW9HTV85ZXVCbFVjS0x4Qm16R1dqMWQ0Mm9FWnE3dGU0NEwtdXRsOUhNVzRqWGZURVBvVVNOTA?oc=5",
+          "added_at": "2026-08-22 14:30:00"
+        },
+        {
+          "uid": "fd054aad4962",
+          "date": "2026-08-19",
+          "title": "“Beyond Tariffs to Local-Content Rules”: EU Tightens Pressure on Chinese EVs, but Effectiveness Questioned as Chinese Brands Expand European Production - economy.ac",
+          "summary": "EUは関税に加えて現地調達ルールを導入してChinese EVsへの圧力を強化していますが、中国ブランドがヨーロッパでの生産を拡大する中でその実効性が疑問視されており、IAA下での産業保護政策の限界が浮き彫りになっています。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44aURzOUxtblZSalhkU3NDMzdNTnZ2bjJraHFfV2dLM2VlOWliTlRwNTNJaHIybFlLdDRGYWViRGRrdGZsOEkySVNMM3IxQmN6bzRNRklBSQ?oc=5",
+          "added_at": "2026-08-22 14:30:00"
+        },
+        {
+          "uid": "112aa4a2b3da",
+          "date": "2026-07-30",
+          "title": "European Commission Publishes EU ETS Review, Proposing Significant Reforms - globalelr.com",
+          "summary": "EU排出権取引制度（ETS）の大幅な改革案が公表され、欧州産業の競争力強化と脱炭素化の両立を目指す欧州産業加速法案（IAA）の一環として、産業部門の炭素価格の調整やカーボンリーケージ対策が提案されている。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTZaek9qVEtlbzVwVFkxb2NBMndQSnpYWmo5T1BlMThEMVBzNU5LakpmallocVFYS3BwaTNXN1dweURzYm5rZDVjX0dXWVZvYy1oTUJwSzFWakNKVm1qdk9PQThmSEFWbWpLRl9KU0ZrYzJpYU5oci12Q1B2ODJQRlNiZTY2NHJndjRvbTBxT1VhX1pITVpLdWJMM09Qck10S2d4M0o0bGZmaWJW?oc=5",
+          "added_at": "2026-08-22 14:30:00"
+        },
         {
           "uid": "93a784fb1842",
           "date": "2026-06-17",
@@ -1979,36 +2009,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmp0NkYwNWpRRDBnQU1CUEJrYUJENnk5emZfRzdOS3pfbGhuWE5zZDN5a3lmSXZLcVIteUpGSVloYjlRYXJ4R0xnQkhvMTZEal8wWDE4Zkw0Z2JfLUloZjVWYmJ1cjF6R2ZwYmdGRzVUaXY0bnNMNmNqbUlObll2czJDdjBNVEtIM3FTVF9UMVIxNUdMVTZrdmVVekJnbWYyQzVWR1l3?oc=5",
           "added_at": "2026-05-27 07:55:37"
-        },
-        {
-          "uid": "4c8422081edf",
-          "date": "2026-04-24",
-          "title": "European Commission Proposes Industrial Accelerator Act: Prioritizing Strategic Sectors, ‘Made in EU’ Requirements and FDI Controls - Skadden, Arps, Slate, Meagher & Flom LLP",
-          "summary": "欧州委員会が提案した産業加速法案（IAA）は、戦略的産業セクターの優先支援、EU域内製造要件、および対外直接投資の規制を通じて、欧州の産業競争力強化と戦略的自律性の確保を目指すものである。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmVqQzhlQ01vc2YtSDBXMkJvNmVNSWJIaWhCcWdPTnVnMktXS1UxX2o2YkkyUE5MUjJLMzA1TVQ5V0dTMUtqOEplV1lCWFVxTlZRRVkzdmVicjJMbXZHRkZCSjhFeHBNM2o4aXNsMl9xOWtmbk5BbTZJREZkdzlrYVBCU21GTUtOT2IwbmhibU1VOFQtM2JhZzRjYXJoVFFnOE1jZGozRkM1a0syV0E?oc=5",
-          "added_at": "2026-05-27 07:55:37"
-        },
-        {
-          "uid": "2ba1c2983acc",
-          "date": "2026-05-21",
-          "title": "The flaws in the European Union’s proposed Industrial Accelerator Act and how to fix them - Bruegel",
-          "summary": "欧州産業加速法案は規制緩和と投資促進を目指すものの、競争法の例外規定が曖昧で市場競争を阻害する恐れがあり、透明性の強化と厳格な監視メカニズムの導入が必要である。具体的には、国家補助金の基準明確化、デジタル産業への競争ルール適用の徹底、及び独立した監督機関による事前評価制度の確立が改善策として挙げられる。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEE3LU00T0lOWDN3YlRTX05XNHdyZjVNd3ZsRG9WV3g0RjJMc201LTBZZ1hTczVhQWtGTzZsNjNLeEd1UUI1anl1YmdmRmJ3bDAtelFCeEZCZmlBa1laanZ6eEVTaWE1cFo1aTdWd0lfeEpudzdvU1dpQzhDTzhlclBDQjN1Wlp6a25HVkFTMlctVUhUaUEybjBBV2xZYl9HOGl5bkZpblR5WHpxX3JHeg?oc=5",
-          "added_at": "2026-05-27 02:51:16"
-        },
-        {
-          "uid": "eb190a76c211",
-          "date": "2026-05-13",
-          "title": "The EU Industrial Accelerator Act: Brussels Fights 'Tooth and Nail' for Europe’s Economic Future - CGEP",
-          "summary": "欧州産業加速法案（IAA）は、米国や中国との競争激化に直面するEUが、産業競争力を強化し経済的自立を実現するために「歯を食いしばって」推進する重要な政策であり、欧州の経済的将来を確保するための戦略的イニシアティブである。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ0tMNzhRcFlQbk1zUlRGdVVmQUJYOXFsM2NOSy1jbVhQa0xwRjhSNUtUdzc5VzBuUWZ0ZDFxY1REUUM2cmlITEcyMkZTZTdkbmczSHhhWXRvOUo2R1F1c1VwZHR4NHVtNDFKNDdVemNSVG11dHdZUVMtVnBISkFtTmwwZGhtNHhBTzJqMmlBV0E0bGlUT05kTVZiTW83RGZWTHZ3VVF1bDQyQTY4T2JUUnFERGRWZmxpUmVYTU9hcFZycWlKNjJEdGJzNTRWSm9kQjlOX2tKU3l5bFMx?oc=5",
-          "added_at": "2026-05-27 02:51:16"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-21 23:37:58",
+      "last_checked": "2026-08-22 14:30:13",
       "items": [
         {
           "uid": "895f8cf1dc1c",
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-21 23:38:20",
+      "last_checked": "2026-08-22 14:30:30",
       "items": [
+        {
+          "uid": "2d00ef97cb11",
+          "date": "2026-07-21",
+          "title": "Rare Earth Export Controls: What Compliance Looks Like in Practice - Taylor Wessing",
+          "summary": "中国はレアアース輸出管理の一環として、鉱物資源の採掘・精錬・輸出段階での厳格な管理体制を構築しており、企業はこれに対応するために環境基準の遵守、輸出許可の取得、貿易相手国の確認などを含む包括的なコンプライアンス対策を実施する必要があります。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRjE5YzA4X25QazQ0RVI5M3ZPZUhfcG9YRC1zUmVIdXRtNlN3YXF1OVhsaTEwSkYwbFFRRXJIR3BFMnRFeUNqZnhIdWxCZ1ZCZ3N3RGNGWEQ1UnE1UWN0Y2J6THdWdjVwOWtodzl3MTJicDhuX085dU1qa3ZpbnloYkF4MUY2QXlKNF9xU3lKMXNqX1A0NFNMQ2dEemRLajBWWWtKRjYwcFFEV3p6S3QxYmxoa3lQNkI1M0E?oc=5",
+          "added_at": "2026-08-22 14:30:25"
+        },
+        {
+          "uid": "b6261425d8a4",
+          "date": "2026-06-25",
+          "title": "Washington Is Staffing Up In Rare Earth Minerals - Investors Should Take Notice - Seeking Alpha",
+          "summary": "米国政府がレアアース鉱物部門の人員を増強しており、中国に依存する現状からの脱却を図る戦略的な動きが進行していることを示唆しています。この米国の対応は、中国によるレアアース輸出管理への牽制となり、サプライチェーンの多角化を促進する可能性があります。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMjFPNlc2aHVMckhDbVBqcnBUa2pOXy1Mb3ZoYnM4dlEycUJ0ejE0X08tTzkzN2tzRk4ycEdkc25RbXNxVzlyVWN3LUI3MzhkdlVpNmJnVHJzeGd0a19RMWNZZDZ2YnY2TGpIUXJZNmZkRnRyT2Rvd21oNXh6UmktbTBtYTYwZVhqZjB4TXhUXzJna2o3MGY3U3RNaU1mODhJcFB6R3RidHZ4cndXaGE1QVN3?oc=5",
+          "added_at": "2026-08-22 14:30:25"
+        },
+        {
+          "uid": "2bb9770bd3a4",
+          "date": "2026-07-27",
+          "title": "Pentagon Suppliers Warn U.S. Won't Have Magnet Capacity By 2027 - Yahoo Finance",
+          "summary": "米国国防総省のサプライヤーが、中国によるレアアース輸出管理の影響で、2027年までに米国が必要な永久磁石の国内生産能力を確保できないと警告している。この供給不足は、防衛産業の兵器システム製造に深刻な支障をもたらす可能性があるとされている。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdWthQ25lc0V2WUUxaW9ETTk2Yk1wcHpBRkJ6VXhJQ2tyTVFiUkMxclBXSHFXYWx0WEtGWGcyZ3BaSExINFV2ZFlkaUNGcndDQlN5c0V6VGRtbDByNEt3MTI2Y1ZCb2gwbHI2Q0FEaEJTdmJtZjZRX3FBZUR6Wi1SclQyLXJVVHNNZkl4VjMwY24?oc=5",
+          "added_at": "2026-08-22 14:30:25"
+        },
         {
           "uid": "2ef6f58b7b9a",
           "date": "2026-06-23",
@@ -6001,36 +6031,6 @@
           "source_type": "media",
           "url": "https://thehill.com/policy/international/5983202-red-sea-oil-shipments-diverted/",
           "added_at": "2026-07-23 00:45:12"
-        },
-        {
-          "uid": "3c0ddda1d359",
-          "date": "2026-07-22",
-          "title": "Spiraling domestic consumption is wrecking China’s economy",
-          "summary": "中国の国内消費の低迷が経済を圧迫しており、これによって過剰生産されたレアアースを含む産業用原材料が市場に溢れ、中国は輸出管理を通じて供給過剰を調整しようとしている。消費不振は製造業の需要減少につながり、戦略的資源であるレアアースの輸出制限をより重要な政策手段として機能させている。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/international/5980880-xi-economic-consumption-crisis/",
-          "added_at": "2026-07-23 00:45:12"
-        },
-        {
-          "uid": "2a4907d1c86b",
-          "date": "2026-07-22",
-          "title": "The new Monroe Doctrine is weakening Chinese coercion in Latin America",
-          "summary": "米国の新モンロー・ドクトリンにより、ラテンアメリカにおける中国の商業的強制力が弱体化しつつあり、これは中国がレアアース等の戦略的資源の輸出管理を通じて行ってきた経済的影響力行使の手法が、地政学的な対抗軸の形成によって制限されることを示唆している。米国の経済圏構築によるレアアース等の供給チェーン再編成が、中国の輸出管理戦略の有効性を減少させる可能性がある。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/international/5980647-new-monroe-doctrine-impact/",
-          "added_at": "2026-07-23 00:45:12"
-        },
-        {
-          "uid": "7f7c6c5e35ea",
-          "date": "2026-07-17",
-          "title": "Key Changes in China s Export Control Landscape - Taylor Wessing",
-          "summary": "申し訳ありませんが、提供いただいたテキストにはタイトルのみで本文内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、「中国レアアース輸出管理」に関する文脈で要約させていただきます。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW9uNmYxaGZCcER0YS1WcmVabzVueEN0T0VwZTZBV2ladl9vNEg5ZWs4ZU1YS2RyRU8wR2V0eVIxbVB0VkxUb1J2UFl4NDFZZDdHV3YyQ2VVS0ttb18zYUFiM0w1SEMydHhHdmhiR1JhY01VajVzaDZ6cHRGNkJyazFVSlRiRjlXYklleEo2VWxsMDNRTmFWU09uRXhFZ29HNWZvMlNuX1FDZlNGRml0d004aXY5TnAx?oc=5",
-          "added_at": "2026-07-22 16:36:34"
         }
       ]
     }
