@@ -1,100 +1,29 @@
 {
-  "generated_at": "2026-08-23 00:56 JST",
-  "sender_count": 3,
-  "total_mails": 7,
+  "generated_at": "2026-08-24 01:00 JST",
+  "sender_count": 1,
+  "total_mails": 1,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 2,
-      "bullets": [
-        "パキスタンで国防軍法2026が成立し、アシム・ムニル陸軍元帥の軍事・安保権限が法的に一元化",
-        "カナダとの米国の貿易交渉が決裂し、セクション338関税20億ドル分が発動と報復関税の応酬",
-        "両国は合意がほぼ妥結していたと主張するも、ホワイトハウス内の対立が交渉阻止",
-        "セクション232関税の削減幅が主要争点で、提案された鉄鋼・アルミ関税引き下げが不十分と判明",
-        "今後の合意にはトランプ大統領の親合意派支持の介入が必要となる可能性"
-      ],
-      "subjects": [
-        [
-          "2026-08-22",
-          "Pakistan: Law formalizes Munir’s military grip",
-          "data/pdfs/20260822_0152_Pakistan__Law_formalizes_Munir’s_military_grip.pdf"
-        ],
-        [
-          "2026-08-22",
-          "Canada: Collapse of US trade talks risks further escalation",
-          "data/pdfs/20260822_2334_Canada__Collapse_of_US_trade_talks_risks_further_e.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260822_0152_Pakistan__Law_formalizes_Munir’s_military_grip.pdf",
-        "data/pdfs/20260822_2334_Canada__Collapse_of_US_trade_talks_risks_further_e.pdf"
-      ]
-    },
-    {
-      "sender": "POLITICO",
-      "short": "POLIT",
-      "color": "YEL",
-      "count": 4,
-      "bullets": [
-        "EUはドローンの商用運用でAmazonなど米国企業に遅れており、断片化した国家承認制度と統合的な航空交通管理システムの欠如が課題",
-        "EU各国の規制当局による独自要件の設定により、ある国での承認が他国では有効にならない問題が存在",
-        "複数のドローン運用者と有人航空機が共存する空域運用がまだ実現できていない状況",
-        "米国は事前の厳格な規制ではなく実際の運用から学習する規制構築アプローチを採用",
-        "ハンガリーの€10B汚職問題とManUnited所有者による欧州化学産業復興計画が訴訟で停滞しており、欧州の産業雄心にとって悪い兆候",
-        "米国の40兆ドル債務問題と戦争、Big Techの生成AI投資により、グローバルな資本争奪が激化し欧州への影響が避けられない状況"
-      ],
-      "subjects": [
-        [
-          "2026-08-21",
-          "EU risks falling behind in commercial drone operations",
-          "data/pdfs/20260821_1404_EU_risks_falling_behind_in_commercial_drone_operat.pdf"
-        ],
-        [
-          "2026-08-21",
-          "Hungary’s €10B corruption test",
-          "data/pdfs/20260821_1411_Hungary’s_€10B_corruption_test.pdf"
-        ],
-        [
-          "2026-08-21",
-          "Man United’s owner had a plan to revive the EU chemical",
-          "data/pdfs/20260821_1635_Man_United’s_owner_had_a_plan_to_revive_the_EU_che.pdf"
-        ],
-        [
-          "2026-08-21",
-          "Why Europe can’t escape the fallout from $40 trillion US debt woes",
-          "data/pdfs/20260821_1905_Why_Europe_can’t_escape_the_fallout_from_$40_trill.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260821_1404_EU_risks_falling_behind_in_commercial_drone_operat.pdf",
-        "data/pdfs/20260821_1411_Hungary’s_€10B_corruption_test.pdf",
-        "data/pdfs/20260821_1635_Man_United’s_owner_had_a_plan_to_revive_the_EU_che.pdf",
-        "data/pdfs/20260821_1905_Why_Europe_can’t_escape_the_fallout_from_$40_trill.pdf"
-      ]
-    },
-    {
-      "sender": "ビジネス短信",
-      "short": "ビジネス短",
-      "color": "RED",
       "count": 1,
       "bullets": [
-        "中国が消費活性化支援策を発表し、広東省が最低賃金引き上げなど内需拡大に注力",
-        "タイのGDP成長率減速、インドネシアの貿易黒字大幅減少など、アジア地域の経済成長に鈍化の兆し",
-        "米国のCFIUS審査が安全保障上の懸念から厳格化傾向を強め、国際的なM&A取引への影響が増大",
-        "ドイツの自動車産業で従業員数が20年近くぶりの最低水準に低下し、製造業の構造的課題が深刻化",
-        "米国によるイラン経済圧力強化で中東地域の地政学的リスク高まる一方、日本の対中東貿易は増加傾向"
+        "米国とカナダの貿易交渉が金曜夜に決裂し、カナダ産品への50%関税が脅威となっている状況を解説",
+        "今後の交渉進展の方法と見通しについてEurasia Groupのアナリストが分析",
+        "USMCA（米国・メキシコ・カナダ協定）の再交渉見通しを検討",
+        "8月24日午前10時（EDT）のオンライン会議で事前質問の受付実施",
+        "カナダの前首相の戦略顧問を務めたEurasia Groupチェアマン、ジェラルド・バッツが登壇予定"
       ],
       "subjects": [
         [
-          "2026-08-21",
-          "「ジェトロ・ビジネス短信」2026/08/21",
-          "data/pdfs/20260821_1808_「ジェトロ・ビジネス短信」2026_08_21.pdf"
+          "2026-08-23",
+          "US-Canada trade update",
+          "data/pdfs/20260823_0207_US-Canada_trade_update.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260821_1808_「ジェトロ・ビジネス短信」2026_08_21.pdf"
+        "data/pdfs/20260823_0207_US-Canada_trade_update.pdf"
       ]
     }
   ]

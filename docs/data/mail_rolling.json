@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-23 00:57 JST",
-  "total": 7,
-  "toyota_summary": "米加通商協議の決裂は、報道によれば自動車関税の引き上げ要求が原因とされ、自動車・鉄鋼・アルミニウムに対する通商拡大法232条関税ですでに打撃を受けている業界に、新たなリスクを加えるものである。カーニー首相が同額報復の構えを見せたことで事態は一段と緊迫化しており、USMCA（米国・メキシコ・カナダ協定）の再交渉が2027年までもつれ込む確率は3割とされ、自動車メーカーのサプライチェーンと価格戦略における不透明感は長期化する見通しである。",
+  "updated_at": "2026-08-24 01:00 JST",
+  "total": 40,
+  "toyota_summary": "US trade negotiations with Canada collapsed Friday night, triggering threatened 50% tariffs on Canadian goods and $2 billion in retaliatory duties under Section 338. The breakdown came just before an August 22 deadline, leaving both sides without agreement on automotive and other trade disputes. For automakers, this means immediate tariff exposure on parts and vehicles crossing the US-Canada border—one of the world's most integrated manufacturing corridors. Supply chains that have relied on tariff-free movement for decades now face sudden cost increases that will ripple through production. Watch whether either government moves to extend negotiations or whether tariffs take effect as threatened.\n\nChina announced consumer stimulus measures this week and provincial governments like Guangdong are raising minimum wages to boost domestic demand. The moves signal Beijing's pivot away from export-dependent growth toward building internal consumption. For automakers, this opens opportunity in the world's largest car market, but only for those positioned to sell affordable vehicles to Chinese consumers with more purchasing power. The real test is whether these measures actually translate to higher vehicle sales or remain another policy announcement that fails to move the needle.",
   "emails": [
+    {
+      "ts": "20260823_0207",
+      "sender_norm": "Eurasia Group",
+      "subject": "US-Canada trade update",
+      "pdf": "data/pdfs/20260823_0207_US-Canada_trade_update.pdf",
+      "date_label": "AUG 23  02:07",
+      "read_min": 5,
+      "toyota": true,
+      "excerpt": "米国とカナダの貿易交渉が金曜夜に決裂し、カナダ産品への50%関税の脅威が現在どのような状"
+    },
     {
       "ts": "20260822_2334",
       "sender_norm": "Eurasia Group",
@@ -588,6 +598,5 @@
       "toyota": false,
       "excerpt": ""
     }
-  ],
-  "toyota_summary_en": "The collapse of US-Canada trade talks, reportedly over demands for higher auto tariffs, adds new risk to an industry already hit by Section 232 duties on autos, steel, and aluminum. Carney's threat of dollar-for-dollar retaliation raises the stakes, with a 30% chance USMCA negotiations stretch into 2027, prolonging uncertainty for automakers' supply chains and pricing."
+  ]
 }
