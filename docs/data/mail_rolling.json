@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-08-24 01:00 JST",
   "total": 40,
-  "toyota_summary": "US trade negotiations with Canada collapsed Friday night, triggering threatened 50% tariffs on Canadian goods and $2 billion in retaliatory duties under Section 338. The breakdown came just before an August 22 deadline, leaving both sides without agreement on automotive and other trade disputes. For automakers, this means immediate tariff exposure on parts and vehicles crossing the US-Canada border—one of the world's most integrated manufacturing corridors. Supply chains that have relied on tariff-free movement for decades now face sudden cost increases that will ripple through production. Watch whether either government moves to extend negotiations or whether tariffs take effect as threatened.\n\nChina announced consumer stimulus measures this week and provincial governments like Guangdong are raising minimum wages to boost domestic demand. The moves signal Beijing's pivot away from export-dependent growth toward building internal consumption. For automakers, this opens opportunity in the world's largest car market, but only for those positioned to sell affordable vehicles to Chinese consumers with more purchasing power. The real test is whether these measures actually translate to higher vehicle sales or remain another policy announcement that fails to move the needle.",
+  "toyota_summary": "米加間の協議は金曜日に決裂し、カナダ製品に対する50％の追加関税発動が改めて現実味を帯びることとなった。これはUSMCA（米国・メキシコ・カナダ協定）に紐づく自動車サプライチェーンおよび価格体系を直接的に脅かすものであり、再交渉の行方は業界にとって重要な注視事項となる。\n\nUSMCA再交渉の見通しについては、参考情報として提示する。",
   "emails": [
     {
       "ts": "20260823_0207",
@@ -11,7 +11,12 @@
       "date_label": "AUG 23  02:07",
       "read_min": 5,
       "toyota": true,
-      "excerpt": "米国とカナダの貿易交渉が金曜夜に決裂し、カナダ産品への50%関税の脅威が現在どのような状"
+      "excerpt": "米国とカナダの貿易交渉が金曜夜に決裂し、カナダ産品への50%関税の脅威が現在どのような状",
+      "subject_en": "US-Canada trade update",
+      "html": "data/pdfs/20260823_0207_US-Canada_trade_update.html",
+      "summary_en": "Eurasia Group is hosting a call on Monday to assess US-Canada trade relations after talks collapsed Friday, with threatened 50% tariffs on Canadian goods hanging in the balance. Analysts will discuss the path forward for negotiations and the broader outlook for renegotiating USMCA. The session features Chairman Gerald Butts, who previously helped negotiate the original USMCA deal.",
+      "summary_ja": "米国とカナダの通商協議が金曜夜に決裂したことを受け、ユーラシア・グループは月曜日に分析会合を開催する。カナダ製品への50%関税の行方や今後の交渉の展開、USMCA再交渉の見通しについて議論する予定。登壇者にはUSMCA交渉に携わった経験を持つジェラルド・バッツ会長が名を連ねる。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260822_2334",
@@ -67,7 +72,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "中国が消費活性化支援策を発表し、広東省も最低賃金を引き上げるなど内需拡大に注力している。",
-      "subject_en": "\"JETRO Business Brief\" 2026/08/21",
+      "subject_en": "JETRO Business Brief 2026/08/21",
       "html": "data/pdfs/20260821_1808_「ジェトロ・ビジネス短信」2026_08_21.html",
       "summary_en": "Germany's automotive sector employment has fallen to its lowest level since 2005, according to the Federal Statistical Office, reflecting the industry's ongoing structural downturn amid the shift to EVs and cost pressures. The decline underscores mounting challenges for German carmakers and suppliers as global competition intensifies and production shifts abroad.",
       "summary_ja": "ドイツ連邦統計局の発表によると、同国自動車産業の従業員数が2005年以来の最低水準まで落ち込んだ。EVシフトやコスト圧力を背景に、業界の構造的な低迷が続いていることを示している。海外への生産移転や競争激化が、ドイツの自動車メーカー・サプライヤーに一段の課題を突き付けている。",
@@ -227,7 +232,7 @@
       "ts": "20260820_1806",
       "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/08/20",
-      "subject_en": "\"JETRO Business Brief\" 2026/08/20",
+      "subject_en": "JETRO Business Brief 2026/08/20",
       "html": "data/pdfs/20260820_1806_「ジェトロ・ビジネス短信」2026_08_20.html",
       "pdf": "data/pdfs/20260820_1806_「ジェトロ・ビジネス短信」2026_08_20.html",
       "summary_en": "",
@@ -317,7 +322,7 @@
       "ts": "20260820_1307",
       "sender_norm": "Jetro",
       "subject": "ジェトロ地域・分析レポートの新着のご案内（2026年8月20日号）",
-      "subject_en": "Notice of New JETRO Regional and Analysis Reports (August 20, 2026 Issue)",
+      "subject_en": "New JETRO Regional and Analysis Report Notification (August 20, 2026 Issue)",
       "html": "data/pdfs/20260820_1307_ジェトロ地域・分析レポートの新着のご案内（2026年8月20日号）.html",
       "pdf": "data/pdfs/20260820_1307_ジェトロ地域・分析レポートの新着のご案内（2026年8月20日号）.html",
       "summary_en": "JETRO's latest report highlights South Korean firms expanding U.S. investment amid uncertainty from the second Trump administration, with battery makers and holding companies—including Hyundai Motor Group—leading the charge. Hyundai continues to scale up its American manufacturing footprint even as legal frameworks for investment execution advance, while Korean automakers also deepen ties with Vietnam, Indonesia, and India as part of a broader 'China Plus One' strategy amid shrinking China business.",
@@ -598,5 +603,6 @@
       "toyota": false,
       "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "Talks between the US and Canada collapsed Friday, putting threatened 50% tariffs on Canadian goods back on the table. This directly threatens USMCA-linked auto supply chains and pricing, making the renegotiation path a critical watch item for the industry.\n\nUSMCA renegotiation outlook is provided for reference."
 }
