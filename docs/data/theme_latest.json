@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22 23:24:37",
+  "generated_at": "2026-08-23 14:32:37",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-22 23:24:14",
+      "last_checked": "2026-08-23 14:32:04",
       "items": [
         {
           "uid": "b401e15ccaf2",
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-22 23:24:22",
+      "last_checked": "2026-08-23 14:32:17",
       "items": [
+        {
+          "uid": "5309b197f5f1",
+          "date": "2026-07-22",
+          "title": "US tightens rules, carmakers leave Chinese automotive hardware - idnfinancials.com",
+          "summary": "米国は自動運転システムやコネクテッド車技術において中国製部品の使用を制限する規制を強化し、これに対応して自動車メーカーは中国製のオートモーティブハードウェアから離れつつあります。",
+          "source": "業界団体（自動車）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObUE1b2MzckdaRUdiN1hVbFRhbEJyeTRsblNkd1RITnFKeGpjc2k1UjVXb0JrZ2JWSmJvcjJORHc4WDlnWjhNVVBadC01dllKbElxdnRiVVpPQXNQTUdIYlhJalRXUXpVM2Y0RGoxbUJGLWdZVUxuTExQc2tfeTE0Nks2TXhyTjA1aXozRnBONG9hbC1kM3JYTnpza0dFT0h4MHZOYQ?oc=5",
+          "added_at": "2026-08-23 14:32:14"
+        },
+        {
+          "uid": "c158fa08ded9",
+          "date": "2026-08-07",
+          "title": "Connected Vehicle Market Size, Share & Growth Report | MRFR - Market Research Future",
+          "summary": "I apologize, but I cannot provide a meaningful summary of the article you've referenced. The text you provided appears to be only a page title and header (\"Connected Vehicle Market Size, Share & Growth Report | MRFR\") without the actual article content.\n\n実際の記事本文がない状況では、S.4429（米国接続車両安全保障法）との関連性を持つ日本語要約を作成することができません。記事の本文をご提供いただければ、要約させていただきます。",
+          "source": "半導体・Tier1サプライヤー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWR5R3J0bFN4eFoxMzVrNGtiaXluM1FDUmU2aVFqd3MwQTRGTFJTQmJzZXBrOUhNWXh6VnRoU2VhNkVyb092Z0xxMEgzYTJBODBHRG9JNWFaalpyeFJQWllaeTkxUUJvOWVTcEJFMkx1Z0cwVnZuQVdyX2FmajVqSA?oc=5",
+          "added_at": "2026-08-23 14:32:14"
+        },
         {
           "uid": "895f8cf1dc1c",
           "date": "2026-07-23",
@@ -4000,26 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTGdPRWI3c3Q0c3RBVFVqX2pKRDhqYXQ4U2VUT3VubmFuZFU0bUJSQjR6QUNITnNHTWQ4N0ZzemNzNFNzc1BKMFlDWllBbEp6M0ZONE80bFB3VF9oSFhiWFdjamdhUzJaNG1OYmhuSjIyQXVQWW5IUmJwVEQ?oc=5",
           "added_at": "2026-07-08 05:23:22"
-        },
-        {
-          "uid": "12946318e09d",
-          "date": "2026-07-07",
-          "title": "BYD Seal 08 Earns 65,000 Orders in 30 Hours for $29,000 Flagship Sedan - Tech Times",
-          "summary": "BYD Seal 08が30時間で65,000台の受注を獲得し、米国がS.4429を通じて中国EVメーカーの市場進出を制限しようとする中、BYDの急速な成長と市場支配力が強化されている。本車は約29,000ドルのフラッグシップセダンとして位置付けられ、米国の自動車安全保障政策への対抗圧力となっている。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeExwSkZTV0doVXM0ZG9ISlJDWUNkb01xVTV6ZVgyY0xhTS1QdzYzRGx3MFBJWjBaM2c2TFNXRkNkVUIzblpIMGp2MG0yeWhQYXRvRE5rYVRQYkZObHpxckd4cDhYZ2toRVJFN3V0QlIyU054ZkJxX2pBX2YxYkdSeTJadllpUHNVcmJ3ZEI2dlNURDdmY2ZtazRMWTJRTzI0djcyQ0RLcjItZ1RnVUMwc2VZYW85Zw?oc=5",
-          "added_at": "2026-07-08 01:54:50"
-        },
-        {
-          "uid": "ca5085e5c357",
-          "date": "2026-04-15",
-          "title": "Lithium feedstock concerns over Nigeria port, security challenges - Benchmark Mineral Intelligence",
-          "summary": "ナイジェリアの港湾インフラの不安定性とセキュリティ上の課題により、米国がリチウムなどの重要鉱物の安定供給源としてナイジェリアへの依存を深める際のサプライチェーンリスクが増大し、S.4429で求められるサプライチェーン強化と安全保障上の要件を満たすことが困難になる可能性がある。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDJtelpKU3owTnFCOFFleFhCMWVUZmxQd0VKQXVoOVFQVVlJaVBaNnFuX3ljVndULUt1N3JZcUxhT2NzRDFkSGhlVEo2bEh0XzVqbGc3VGt0eEIwVHNpOEUyQXlZN0lvaFhHM1RtMUFMVkFZMUVfTDZhTkJMU3lPZldhbExMZ2stMmNDRWhING10SjZYQ1pBb0ZDekIyd2RUV25ZSi02T0FJbzVLUUE?oc=5",
-          "added_at": "2026-07-07 13:32:05"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-22 23:24:37",
+      "last_checked": "2026-08-23 14:32:37",
       "items": [
+        {
+          "uid": "c7e2c1e88961",
+          "date": "2026-07-24",
+          "title": "China Wields Its Rare-Earths Leverage Over Europe With Export Controls - The New York Times",
+          "summary": "中国がレアアースの輸出管理を強化することで、ヨーロッパに対する経済的影響力を増大させており、エネルギー転換やハイテク産業に依存するEU諸国に圧力をかけている。中国はレアアース資源の採掘・精製で世界的支配力を持つため、輸出制限を通じた政治的・経済的な要求の手段として機能させている。",
+          "source": "中国輸出規制",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yMFc4djJlWG5WMVl3Yy14YWZENk1KUGJKUF9aYnc3Y3A4Y0sycnRXWkt3eTZ1U2U0ZkYtZmRqaUdYTm9UX2lKS2VOZFpvUjdPYTdGOEIxMDU3QlhrWjZPeXpjdTJMdTc3d1NWOWtraFVYRUhBT0RKdUlqMlNoQQ?oc=5",
+          "added_at": "2026-08-23 14:32:32"
+        },
+        {
+          "uid": "8ee5093bbed3",
+          "date": "2026-07-14",
+          "title": "China Northern Rare Earth: H1 Net Profit Expected to Increase 112.74%-121.33%; Rare Earth Prices Overall Strengthened and Consolidated - Shanghai Metals Market",
+          "summary": "中国北方稀土が2024年上半期の純利益を112.74～121.33%増加させると予想しており、これは稀土価格全体の強化と安定化を背景としています。中国の稀土価格上昇は、輸出規制強化による供給逼迫が市場を支えていることを示唆しています。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZWE5Y0Fyd0tLeXEyZlQtTVRjQUFhVm9fZVBMWDFER1N1SkFVOERkRVFNUWV1R3ZUdDZqX1JkTmxFb1Ztc0w3Nzg3dTFvS3pFUDF4ZGFsbUNiSHZySmpPZHpXMmlTTkpJRHJZVUo1WDE4Nm5zdFNtX1Z6UnQ2Ni15bGhjTU5QVTFKUlk3bVI3SU9zcTN4ZEdaZmwxT3JSY05kNVF1NDZYRnBtUEVUVjIyUEEtNk1wWk5zZ1lHX09iTlJGNklyeUQ2SWZISlJXaURMaFJGVktTY2k5WmRVUjRrUUtVNUFWWndYOVM0V3V6UWJIdXdiMlNWMA?oc=5",
+          "added_at": "2026-08-23 14:32:32"
+        },
+        {
+          "uid": "ca711b002d0a",
+          "date": "2026-08-06",
+          "title": "The Trump Administration’s Many Tools for Seizing Critical Minerals Abroad - Public Citizen",
+          "summary": "# 要約\n\nトランプ政権は外交的・経済的手段を駆使して海外の重要鉱物資源を確保しようとしており、中国のレアアースに対する依存度を低減させるため、アメリカが採取・加工能力の強化や代替供給源の開拓に力を入れる戦略を推し進めている。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzF5Q0otTE1NUlI2TFhUWEpnUVF6VFpKVmlDTW96YnotM0pBTDRIQjRvS0pfWjNvdDU2TlFSZ3hRd0ZCWnQ2cjZRNWp2R09FeE12M0ZUTFBveG9aYTFjSlh4SnpBbTdvaXlTVzEzdWlzaUxJV0pxUFpacmMtODdpV1N0Nmw3Znoyc1UtWGU4ZG5WeVNWNHVEb24zdGV4a0hZakNoOGltZjNQQQ?oc=5",
+          "added_at": "2026-08-23 14:32:32"
+        },
         {
           "uid": "7f7c6c5e35ea",
           "date": "2026-07-17",
@@ -6001,36 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3FmOERpM19PYXc0YXRCOWxKdFl0blU0cGV0MWF0WU9CWTV3UmtYQ21GVFdOd3BlT05sQnhQNVhrSG1CMXhJNzNNN3d0cGY4c0NqT0ktYklLeldJUnhnMjhuR2lIeTduWXI5dUQ0QVJwNnN1X041Z3pvT29aWUVINFIwdVFYQ1p2OTh3bVdRLW1VTHhKYlB0X0dFVnh3MGpuNTJTRVZhY3d3dThsTXJqM29OLU41TkE?oc=5",
           "added_at": "2026-07-23 16:35:27"
-        },
-        {
-          "uid": "ba2c4c2c74f9",
-          "date": "2026-07-22",
-          "title": "US government tightens rules on critical minerals, defense supply chain waivers - Fastmarkets",
-          "summary": "米国政府が防衛サプライチェーンに関連する重要鉱物の輸出規制を厳格化させており、これは中国によるレアアース輸出管理への対抗措置として、米国が国内での重要鉱物確保と防衛産業保護を強化しようとしていることを示唆している。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSl9vQTdKTURQQW1aZ0p2YVNUeTlZRk1SVG9BZ3dvMi1DdmlJTzAtUTI3VVZ5WnhfZlRUX3o3bGZBaV9EQW1VQjlMUXMtM3NzNkxkU3VOdW16d3JIdnJOUXBhbWMzTkRmUTRDa1RYcHpZWk5kSG93d1NuYU1Nbm11SHAwNXBRelk1MmhMUmYzUDJwY3dsTWpqa0FLVzhCMTZsRDc0WnMzQVRiT0h1Q3dwTXBaOFJqNVk?oc=5",
-          "added_at": "2026-07-23 00:45:12"
-        },
-        {
-          "uid": "ce1e854b7a70",
-          "date": "2026-05-15",
-          "title": "US Needs Another Decade to Fix $1.2 Trillion Rare Earth Crisis - Bloomberg.com",
-          "summary": "米国がレアアース産業の構築に必要な1.2兆ドル規模の投資課題を解決するには10年以上の期間が必要であり、この間、中国によるレアアース輸出管理の影響を受けやすい状況が続くと予想される。米国は供給チェーン多角化とレアアース採掘・精錬能力の国内構築を急いでいるが、中国の圧倒的な優位性により戦略的な脆弱性が当面残る。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcHVLSlI2VS14bEdSNEdmMUNheFVNOEh2T0hSYmExYXZSNk5oaFN5c2x2YnhXU1pqdlRuanBkUEJ1bmpSMmV0N3h0M01RWTEwbnk0QTgycXU2cU5fSFI3Z2R1cHVhdlBydlRVWVdud21qLUsxU2NrZGFPUlBVNENaVDBlX3YzaldoZ2c?oc=5",
-          "added_at": "2026-07-23 00:45:12"
-        },
-        {
-          "uid": "7ba97871db5c",
-          "date": "2026-07-22",
-          "title": "IEA cautions that concentrated supply chains and falling investment threaten critical mineral security - INSIGHT EU MONITORING",
-          "summary": "IEA（国際エネルギー機関）は、特定国への供給集中と投資減少により、レアアースを含む重要鉱物の安定供給が脅かされていると警告しており、これは中国によるレアアース輸出管理が供給チェーン全体のリスクになることを示唆しています。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVWNpQ0gwcVdSWnNSSUxCM3NhRUNQcURtLUtOX0Jvc3ZOeE54ZzZiTElHZ0s3eTFZSnpWVnlRWnpZWXExRWpmUVhYRDVHYURvTWpqWlhfQ1NlWms1R1RpR1lHU2doUDFtczZkR0dmYUk3VmtsdkNCdnkwU0FTbE9aVERXSTZ4YXFMRUwxckdVQVNtV0JxSEViSVJpT29SeWw1bUp1NU5KR1JDZ2xPMTYxSXRmX2tNUW9nNDZ0V1UzT3Bha2lESFkxQXloOTl0eXhjelZPaUhYNGV5RGVzYU81WGJnMHRvOXF3Q0hsUElCcmptTkZONVVGOENlQUd5QQ?oc=5",
-          "added_at": "2026-07-23 00:45:12"
         }
       ]
     }
