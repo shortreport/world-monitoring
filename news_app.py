@@ -265,7 +265,7 @@ def filter_by_topic(articles: list[dict], keywords: list[str]) -> list[dict]:
                 if pub_dt < cutoff_48h:
                     continue  # 古い記事を除外
             except ValueError:
-                pass  # パース失敗は通す
+                continue  # パース失敗＝日付不明な記事は「速報」扱いにしない（誤って古い記事を通さない）
         key = art["title"][:60].lower()
         if key in seen:
             continue

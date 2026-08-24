@@ -178,7 +178,8 @@ def fetch_home_segments(api_key: str) -> list | None:
     recent, skipped = [], 0
     for a in all_articles:
         dt = _parse_pub(a.get("date", ""))
-        if dt is None or dt >= cutoff_48h:
+        # 日付が不明/パース不能な記事は「速報」として扱わない（古い記事の誤混入防止）
+        if dt is not None and dt >= cutoff_48h:
             recent.append(a)
         else:
             skipped += 1
