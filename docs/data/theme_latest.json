@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23 23:26:41",
+  "generated_at": "2026-08-24 14:41:03",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-23 23:26:12",
+      "last_checked": "2026-08-24 14:40:30",
       "items": [
+        {
+          "uid": "d9b64c36b7d7",
+          "date": "2026-07-28",
+          "title": "EU-China Relations After the 2024 European Elections: A Timeline - China Briefing",
+          "summary": "申し訳ございませんが、記事の具体的な内容が提供されていないため、要約を作成することができません。記事本文をご提供いただければ、「欧州産業加速法案（IAA）」に関する文脈で日本語1〜2文に要約いたします。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHZOcGl1U24wVWpZdjNyTlFHVTdUNFFSOXBMVUI2clNsSzNMMmFUeFRtRmk4WXZjMDZXT1Y2eFBrMGh1QUU4M3p5eDh3VkxhUS1sbTIyOGE4WG9IOFBMRFpMOWI2Z3pWQUNTZWZkWmwtSEZsRUVtcUdad2RrLXduMXdHQ2trci1OQ3cxdE9Na3BBNV9rRVh0alZVdU42d0VVV0E?oc=5",
+          "added_at": "2026-08-24 14:40:28"
+        },
         {
           "uid": "2d31fcdd1657",
           "date": "2026-07-01",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pHT1BXcTlvLUtuLUVxM1VlXzhRRVlnaUVPc2V2bDBIR3JLZEJ6Sm5fd0pqd3l2Z21TU1FsOUxzWkJ6dEV5akZmZTBoR0FPQ1pac2VyZzNjRTNlMEp5NVREVms5anZaMjRrT3cyWG91STRGTVNxdVBmRHVzNE9pczdTamI3UWN6d21MajBBbGFITnVjUW1LSW9UcEhybW50aVdqczZMQWEwTElUWlE?oc=5",
           "added_at": "2026-05-28 08:07:23"
-        },
-        {
-          "uid": "36bc9aa452fe",
-          "date": "2026-05-25",
-          "title": "EU Agenda: Week Ahead – 25-30 May 2026 - EUbusiness.com",
-          "summary": "申し訳ございませんが、提供いただいたテキストには記事の実質的な内容が含まれていないため、「欧州産業加速法案（IAA）」に関連した具体的な情報を抽出することができません。タイトルと日付のみでは要約が不可能です。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BQnhRakoxOUF2ZmlLdFdrRExXR3dDRXMwaC1Gb21qOHMyTFVtX1hyal9ISkNxWGJBUFBjUkNULWRDTzV2MXFfMnB0MGNVMFhDWmJvMzkwbFpNTm8?oc=5",
-          "added_at": "2026-05-28 08:07:23"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-23 23:26:20",
+      "last_checked": "2026-08-24 14:40:38",
       "items": [
         {
           "uid": "5309b197f5f1",
@@ -4030,8 +4030,98 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-23 23:26:41",
+      "last_checked": "2026-08-24 14:41:03",
       "items": [
+        {
+          "uid": "6885a652d007",
+          "date": "2026-07-22",
+          "title": "China Weighs Locking AI Model Weights: Download What You Use Right Now - Tech Times",
+          "summary": "中国がAIモデルの重みの輸出管理を検討しており、これは半導体やレアアース同様、戦略的技術資産として国家統制を強化する意向を示しています。現在、ユーザーはAIモデルを自由にダウンロード可能ですが、中国政府による今後の輸出規制によってこのアクセスが制限される可能性があります。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdjAtZjgzWEpKWGVocjRfRlZUOGtmREhwN3F2RlVweF9JQWVvNTBaNGNLVnpWYkhRNTlQQ3o0T05XWmZOWkFVbTB1RFhZMFJfZlhyWEpNU01pVVFwMGJIMDJicGl0WXVKMkh4MWVMWjZTcG41WXRHb0hsSFFMYjJJeDJYeEVnYlhGMWh4UHp4UGZhRDRjazVsam10ZlRMRHRqbDNnZ2hxTGpab1hTeEdwNFFiQlU1N055SWxkOUVKMC0wUQ?oc=5",
+          "added_at": "2026-08-24 14:40:49"
+        },
+        {
+          "uid": "27da4ed1f27e",
+          "date": "2026-08-13",
+          "title": "Critical raw materials explained - consilium.europa.eu",
+          "summary": "申し訳ありませんが、提供いただいたテキストが「Critical raw materials explained」というタイトルのみで、具体的な記事内容が含まれていないため、正確な要約ができません。記事の本文をご提供いただければ、「中国レアアース輸出管理」の文脈での要約をお作りします。",
+          "source": "EU戦略的原材料法",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUW5qMjRTWVBMcl9zelgxOWI0SFMzSDJqb2l3VmlqYW5TN1A4WEtSNUdBdDVtSUYtdW11VUJtX0E1LVpfSDFPRG9KbFpkUkRmeFNYR05VbGNtb3RPYmJmRmdYTTNFbURyRXVXdHdhOXJsRzYyR3J6N0ZwV09RTEpPSURXX1YyOUlX?oc=5",
+          "added_at": "2026-08-24 14:40:49"
+        },
+        {
+          "uid": "b96c9198b501",
+          "date": "2026-07-23",
+          "title": "Mining for Europe's future: Critical raw materials, public attitudes and risks in enlargement partners - European Union Institute for Security Studies |",
+          "summary": "本記事は、EUの拡大加盟国におけるレアアース等の重要鉱物採掘と公衆の態度、関連リスクについて分析し、中国による鉱物資源供給支配への対抗策として、欧州域内での鉱物確保戦略の重要性を指摘しています。",
+          "source": "EU戦略的原材料法",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTHhjM28xRWEwTzZZZXdud1RWc0pfZWZnMFVERzFydXJJcWl4Zm1CaXNfZk9vWC1JaWFXUzhXeWFQc3NjR3NRSXI5OWJLLWtMVGl1ZWNHcFk0c2h5WEJSTEFWdjREdlhkRS1YME1yU2Q4SFZlajNBV3N2WWdReF9jdkYxOUh6QXRpYmI4SW5SMl8xelR0ZVFuZVUzRURJMUp6aExIMVA3TXBCTklkMHhYSlZlbldmeEc4?oc=5",
+          "added_at": "2026-08-24 14:40:49"
+        },
+        {
+          "uid": "6496e6f8b9f9",
+          "date": "2026-06-23",
+          "title": "Visegrad’s critical minerals challenge: can Central Europe move up Europe’s strategic supply chain? - EUalive",
+          "summary": "中央ヨーロッパのヴィシェグラド諸国は、EUの戦略的鉱物サプライチェーンの上流に移動できるかという課題に直面しており、中国のレアアース輸出管理による供給依存からの脱却が急務となっている。ヨーロッパはレアアースの確保と国内加工能力の強化により、中国への依存度を低減する必要がある。",
+          "source": "EU戦略的原材料法",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3FmOERpM19PYXc0YXRCOWxKdFl0blU0cGV0MWF0WU9CWTV3UmtYQ21GVFdOd3BlT05sQnhQNVhrSG1CMXhJNzNNN3d0cGY4c0NqT0ktYklLeldJUnhnMjhuR2lIeTduWXI5dUQ0QVJwNnN1X041Z3pvT29aWUVINFIwdVFYQ1p2OTh3bVdRLW1VTHhKYlB0X0dFVnh3MGpuNTJTRVZhY3d3dThsTXJqM29OLU41TkE?oc=5",
+          "added_at": "2026-08-24 14:40:49"
+        },
+        {
+          "uid": "b80494b16c76",
+          "date": "2026-06-10",
+          "title": "China’s Japan rare earth ban: supply chain risk notes for project teams - Geomechanics.io",
+          "summary": "中国が日本へのレアアース輸出を制限していることは、プロジェクトチームにとってサプライチェーンリスクとなるため、代替調達先の確保や備蓄の検討が必要である。",
+          "source": "同盟国対応",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOGNtSWlmWkpPbmNwT2N1N0poc0RfQVZvbUFmOXYwd0V1RWllS3hsaG0tSHlWZWZRZ1ZQUWp6Y0hxMWllQWdfT1JSQm9UQ2xURF9nRUkzWENhOHBQUVU5ckpidTJNOHRVcVNYMTF5RXZHYkNaVEtnZjRtUjUtbHd1Ti1sbGZwYzNHZHpGTHpfczZtOXdzWFJieVp5VzNxY1RTUlJfSGxNRmpxMklfeTRF?oc=5",
+          "added_at": "2026-08-24 14:40:49"
+        },
+        {
+          "uid": "9722c0239e97",
+          "date": "2026-06-22",
+          "title": "China Rare Earth Index Hits 259.5-But This Is Not Free-Market Price Discovery - Rare Earth Exchanges",
+          "summary": "中国のレアアース指数が259.5に達したものの、これは政府による厳格な輸出管理と供給統制により、自由市場のメカニズムではなく計画経済的に形成された価格であることを示している。中国が戦略的に輸出を制限し市場価格を意図的にコントロールしている実態を反映している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamRsc1hFclk5VlFYeXFyWjd1X2FFSE5qMmFkbmVxRHVWQ0pVTkVPZ2FsdUpDM1ZFTXJpb0hqNGs2R3JRRllYRksyaXZDNDVxOHhkRWpqMGFmTXZWWmRtbWFOaEExRWJHVnNQYzR6cTk2WW9FS0hKX2JtLXVtWHB0SWwwdlgzTnRIQmRtam4xNEkyMDZITnVNc25MWmI2TnNfanVDSzdMY3czYzdfSzVaVkh2UW0?oc=5",
+          "added_at": "2026-08-24 14:40:49"
+        },
+        {
+          "uid": "cb290074dd9e",
+          "date": "2026-08-24",
+          "title": "China's tungsten export controls heighten AI supply chain vulnerabilities in 2026 - Global Sources",
+          "summary": "中国がタングステン輸出管理を強化することで、2026年のAI産業におけるサプライチェーンの脆弱性が高まり、AI半導体製造に必要な重要鉱物の供給リスクが増加する。この措置は、レアアース同様にAI技術発展に不可欠な資源の供給を中国が戦略的に管理する意図を示している。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa0R0WldfNll1c1dNN2xQWTBEZ0F1bjAwVFdWYmZPZk8tcUZVR09BbFBvODNRMEZzZlkwUk10bGJHYzAxbjJLTGl5LTJZV3Uzb3p6RHBlQmJHdTFGbWYtOTZidWlTOUREWm54eHZMSS1fSzgwUW44Y2wtRE8tSmFnRkNLYjhqODJVUU9NbklXUVZOZ2hqU2VDRjY3YnlDUFpkeGJPSk9fTmNfeUFMaDdZem5TUnpSdFJ3RXRiaUFla0xQWWVpSGVmUXExS2ZkU1VEQWpFSU0xODMyQ0xnLVpvcHNR?oc=5",
+          "added_at": "2026-08-24 14:40:49"
+        },
+        {
+          "uid": "4c0396a1ba44",
+          "date": "2026-06-22",
+          "title": "China Places Two US Rare Earths Producers on Export Control List - Bloomberg",
+          "summary": "中国は米国のレアアース生産企業2社を輸出規制リストに追加し、これらの企業への技術移転や投資を制限することで、米国のレアアース産業への圧力を強化した。この措置は米中の技術・経済競争の激化を反映している。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHJwdlZ4MUdGR0ZWRzFndEhRbzRWYUxjcVllaURQcGt4bkpHWHE0OXNwaGZOVkRkNFFyWGVOOGdqSkUtelBQU19qWlNITlRwNXZoTnAzR3VFSE0ydnhvdnl1d1hjVkdKYUNPWmZkTC1pVEpVNV9PSU9FMFlNc01OODUwSE1ScjBMZ2ZtdEVnelQ5Z2diYzk2bVpSOElidmFsLTh5VDVwR2FySWt2dngzV1hjLWhfZw?oc=5",
+          "added_at": "2026-08-24 14:40:49"
+        },
+        {
+          "uid": "ae903356637a",
+          "date": "2026-08-23",
+          "title": "Zeldin warns against banning data centers in US, citing China",
+          "summary": "米国EPA長官ゼルディンは、中国とのAI競争での米国の優位性維持の必要性から、データセンターの禁止に警告を発している。一部州がデータセンターのモラトリアムを推し進めているが、国内のほとんどは米国の競争力強化を望んでいるという立場を示している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/energy-environment/6045971-zeldin-warns-against-data-center-bans/",
+          "added_at": "2026-08-24 14:40:49"
+        },
         {
           "uid": "10ad4d5accab",
           "date": "2026-07-24",
@@ -5941,96 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HTEpCamptNzA1QWY5cFhXcF9fdUZQNVVNZmtaSkREbGI0ZzFlMHMwUXE0X09INDBMOEFLRUlxcGduX19kSURDQWxGQlBsVnYxTVV3LUtOSl81N3hJdW1qaG9GcElHclZVU1lYSjRoVXFwWWVEaTlF?oc=5",
           "added_at": "2026-07-24 08:00:58"
-        },
-        {
-          "uid": "ea5ade8386ab",
-          "date": "2026-07-21",
-          "title": "ERI, Cyclic Materials partner to recover and recycle rare earths from e-waste",
-          "summary": "米国の企業ERI and Cyclic Materialsが電子廃棄物からレアアースを回収・リサイクルする事業を開始し、北米最大級の商業規模のレアアース リサイクル供給源ポートフォリオの構築を目指している。これは中国への依存度が高いレアアース供給を多角化する取り組みとして機能する。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/eri-cyclic-materials-partner-to-recover-and-recycle-rare-earths-from-e-waste/",
-          "added_at": "2026-07-24 08:00:58"
-        },
-        {
-          "uid": "9cf89d17edfc",
-          "date": "2026-07-21",
-          "title": "Permitting reform key to challenging China’s critical minerals dominance: US mining lawyer",
-          "summary": "G7は2030年までにレアアースの輸入を単一国家の60%以下に制限することで合意し、中国の支配的地位に対抗するための許可手続き改革が重要な課題とされている。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/permitting-reform-key-to-challenging-chinas-critical-minerals-dominance-us-mining-lawyer/",
-          "added_at": "2026-07-24 08:00:58"
-        },
-        {
-          "uid": "1db490c35aca",
-          "date": "2026-07-21",
-          "title": "Copper price nearing US record as premium doubles, Shanghai stockpiles drop 82%",
-          "summary": "中国の銅スポット価格プレミアムが急騰し、LME在庫の56%が既にシステムからの流出が決まっており、上海の銅備蓄が82%減少しているが、これは中国によるレアアース等の戦略的資源の輸出管理強化と同様の供給制御戦略を示唆している。中国が銅を含む重要鉱物資源の国内保有を優先させ、国際市場への供給を制限する傾向が強まっていることを反映している。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/copper-price-nearing-us-record-as-premium-doubles-shanghai-stockpiles-drop-82/",
-          "added_at": "2026-07-24 08:00:58"
-        },
-        {
-          "uid": "1ef86bbfaefa",
-          "date": "2026-07-21",
-          "title": "China’s rare earth clampdown backfired: CSIS analyst",
-          "summary": "中国がレアアースの輸出制限を実施したことで、かえって日本や米国などの同盟国が代替供給網の構築に団結し、中国の長期的な影響力を弱めることになった。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/chinas-rare-earth-clampdown-backfired-csis-analyst/",
-          "added_at": "2026-07-24 08:00:58"
-        },
-        {
-          "uid": "10d3e2ee95e9",
-          "date": "2026-07-20",
-          "title": "Tactical Resources gets Nasdaq approval; to accelerate Texas rare earths project",
-          "summary": "テキサス州のレアアース鉱床を管理するTactical Resourcesがナスダック上場を承認されたことで、米国内でのレアアース生産体制の構築が加速し、中国への依存低減と供給チェーン多角化に向けた動きが進展する。同社が保有する鉱床は米国内で数少ない生産可能なレアアース資源であり、地政学的リスク対策としての重要性が高まっている。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/tactical-resources-gets-nasdaq-approval-to-accelerate-texas-rare-earths-project/",
-          "added_at": "2026-07-24 08:00:58"
-        },
-        {
-          "uid": "db2ff892e46d",
-          "date": "2026-07-23",
-          "title": "Americans see China as more advanced on AI than US: Pew survey",
-          "summary": "本記事はAI開発での米国と中国の競争力認識に関するもので、レアアース輸出管理とは直接の関連がないため、要約することができません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/technology/5986888-pew-research-ai-competitiveness-survey/",
-          "added_at": "2026-07-24 08:00:58"
-        },
-        {
-          "uid": "905b89bb2634",
-          "date": "2026-07-23",
-          "title": "China says AI development comes from ‘greater self-reliance and strength’ amid stolen tech claims",
-          "summary": "中国政府はAI開発における技術盗用疑惑に対して「自主自強」による成果だと主張しており、この防衛的な姿勢は米国による技術流出規制が強化される中で、レアアース等の戦略的資源の輸出管理を通じた報復措置の正当化につながる可能性を示唆している。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/technology/5986143-china-defends-ai-development/",
-          "added_at": "2026-07-24 08:00:58"
-        },
-        {
-          "uid": "d425d135a57b",
-          "date": "2026-05-06",
-          "title": "Critical raw materials: Rough trade - Emerging Europe",
-          "summary": "中国のレアアース輸出管理により、欧州はレアアースなどの重要鉱物供給において中国への依存度低減と国内産業の競争力強化を迫られており、新興欧州地域での採掘・製錬産業の発展と戦略的サプライチェーン構築が急務となっている。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nMjFKYXNPclUwUC1yYjI3dzNGUHlLS2Nqc2NLRzdBbEJrdnFub09BVzQ2UHRDdnlTVnNjSm10bWVLTGlld0I3MjVjczgxVS1sX3c?oc=5",
-          "added_at": "2026-07-24 00:57:50"
-        },
-        {
-          "uid": "32a6c8541a3e",
-          "date": "2026-07-21",
-          "title": "As US works to end reliance on China for critical minerals, mining companies see opportunity - Small Wars Journal",
-          "summary": "米国が中国への重要鉱物依存を脱却しようとする動きに対応して、採鉱企業が事業機会を見出しており、これはレアアースを含む重要鉱物サプライチェーンの多角化を促進する圧力となっています。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHFRSnFQX2Z1LUtqRWQ0NnJURUhBdWZzNE8xRGQtTmJpZndEbUNzd0QwbTdaQWVUc2Q5bHRaQjgzaG9mU0ZPV0hjTm1obFlMMzBDeVYwNVVEUF9FZXBpTGF0a2FWSlBOemVxNWZKR0p6UlJkUXFmdW1ObWZXOXZOb0xKSGpHa28?oc=5",
-          "added_at": "2026-07-24 00:57:50"
         }
       ]
     }
