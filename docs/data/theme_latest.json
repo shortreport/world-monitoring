@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24 14:41:03",
+  "generated_at": "2026-08-24 23:45:34",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-24 14:40:30",
+      "last_checked": "2026-08-24 23:45:10",
       "items": [
+        {
+          "uid": "a80e48f270ef",
+          "date": "2026-08-24",
+          "title": "Europe | Industrial policy: protecting ourselves without protectionism? - BBVA Research",
+          "summary": "申し訳ございませんが、提供いただいたテキストにはタイトルのみで記事の本文が含まれていないため、要約を作成することができません。「欧州産業加速法案（IAA）」に関する具体的な内容を含めた記事本文をご提供ください。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcE1JRlBlUE9renUwVG12NFFUYm15RjVBbks1bkZaQTFDSmxXUy1xX3I2dWx5YnlPRHhmamtGLWZTcENqRlN2UEpRTGlkWnhhQV84ZVZ1WE12TnF2eEdha2xsclBHall0dUtkNEljOFc3bDJRVmlvdkR1NzhXRjlqeXphR1R6ZFJHTGFIUGRiTkNud3RzeklTaElZZ3NLRVFNeGQ5b0ZZaFR1cXh3M2hORFZOZ3k?oc=5",
+          "added_at": "2026-08-24 23:45:09"
+        },
         {
           "uid": "d9b64c36b7d7",
           "date": "2026-07-28",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUW9PQWRxSUxKQ3VtczdOWkI0UzFvdDJEQzlDd1dVcHdSbWlhNEZCMC15ejhfU2xBY0laOFdORjJNSFNkelBqYjBEX0V1SnFKa0R2QkdTTkNvaXRqazJUQWhST041cWdCcXA2VkUtQjdjNlpiU0xubVlwYVZfR3dIUV9JRlYwMlVy?oc=5",
           "added_at": "2026-05-28 21:56:19"
-        },
-        {
-          "uid": "9bea9e0d8b05",
-          "date": "2026-05-03",
-          "title": "Industrial Accelerator Act: New requirements aimed at boosting EU industry - Gleiss Lutz",
-          "summary": "欧州産業加速法案（IAA）は、EU産業の競争力強化を目的とした新たな規制要件を導入し、特に戦略的に重要な産業セクターへの投資促進と規制の簡素化を通じて、欧州産業の加速的な成長を実現する取り組みです。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pHT1BXcTlvLUtuLUVxM1VlXzhRRVlnaUVPc2V2bDBIR3JLZEJ6Sm5fd0pqd3l2Z21TU1FsOUxzWkJ6dEV5akZmZTBoR0FPQ1pac2VyZzNjRTNlMEp5NVREVms5anZaMjRrT3cyWG91STRGTVNxdVBmRHVzNE9pczdTamI3UWN6d21MajBBbGFITnVjUW1LSW9UcEhybW50aVdqczZMQWEwTElUWlE?oc=5",
-          "added_at": "2026-05-28 08:07:23"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-24 14:40:38",
+      "last_checked": "2026-08-24 23:45:18",
       "items": [
         {
           "uid": "5309b197f5f1",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-24 14:41:03",
+      "last_checked": "2026-08-24 23:45:34",
       "items": [
+        {
+          "uid": "32a6c8541a3e",
+          "date": "2026-07-21",
+          "title": "As US works to end reliance on China for critical minerals, mining companies see opportunity - Small Wars Journal",
+          "summary": "米国が中国への重要鉱物依存からの脱却を進める中、鉱業企業はレアアースを含む重要鉱物の国内供給確保の機会を見出している。中国が従来占めてきた重要鉱物市場において、米国が代替供給源の構築を急速に進めることで、レアアース輸出管理の中心的役割を担う中国の地政学的影響力が減少する可能性がある。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHFRSnFQX2Z1LUtqRWQ0NnJURUhBdWZzNE8xRGQtTmJpZndEbUNzd0QwbTdaQWVUc2Q5bHRaQjgzaG9mU0ZPV0hjTm1obFlMMzBDeVYwNVVEUF9FZXBpTGF0a2FWSlBOemVxNWZKR0p6UlJkUXFmdW1ObWZXOXZOb0xKSGpHa28?oc=5",
+          "added_at": "2026-08-24 23:45:31"
+        },
+        {
+          "uid": "281b2ad1bcd9",
+          "date": "2026-05-31",
+          "title": "China Rare Earth Exports to Japan: 2026 Supply Crisis Explained - Discovery Alert",
+          "summary": "中国がレアアース輸出を制限する中、日本は2026年に深刻な供給危機に直面する可能性があり、これは電子機器やグリーンテクノロジー産業に大きな影響を与えることが予想されています。日本は中国への依存度を低減するため、代替供給源の開発やレアアース資源の国内循環利用の強化が急務となっています。",
+          "source": "需要産業（防衛・EV・航空）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdXFpeTFmZjl4MEliMTRaZzhhREZvbGtaWFNrcHJXX2Z0bEdNdUdPTkRERkwtX0hlOFY0eU12VHVuZGxqVnA2TUh1ekw2VmRVSlVxMThleURnODMxblgxVXE5cXF6MlNldjJMcHZLbUwxQjN0YjV3elpFb2k2UFhHZHNzZWxsZFhQaDJTQUFWWFQ?oc=5",
+          "added_at": "2026-08-24 23:45:31"
+        },
         {
           "uid": "6885a652d007",
           "date": "2026-07-22",
@@ -6010,26 +6030,6 @@
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KTEdXWEtjR2hMa2p4dExNV0FXUV9wU2pTeVdza1EwOHEzYnpsb21xcmlTeUdXT1F6MlBtMUJRRWVaZVJqUDJyRTFGVGtzcFRtTU13amtPVjVYOU0?oc=5",
-          "added_at": "2026-07-24 08:00:58"
-        },
-        {
-          "uid": "32a6356fe38a",
-          "date": "2026-07-23",
-          "title": "China Rare Earth Price Index Holds at 270.4-But Investors Should View It as a Policy Signal, Not a Market Price - Rare Earth Exchanges",
-          "summary": "中国のレアアース価格指数が270.4で据え置かれたが、これは市場価格というより政府の政策シグナルと見なすべきであり、中国政府がレアアース輸出を戦略的に管理していることを示唆している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZDZheVlpOXlmU2NRZ1gxM3pJUjRsQXp5VnJzc2RoendjX3Uwemp4QnhyOEFmUmoxQkI3LXRDS24tdnJSWEFtVHFKZGlsaDM4RzV5SXdSRjZRY05NTFRUU2dnQW9FRUJMOHdjUkVmNUdmM3RSRDhNZk9WblFJaS1zZDNEalFLbWRvQ012TWJIS3pTWGxmWUY0NXBiMDRJTUswYzljT3h0RDVZY1lQV1RKLXN0Wi1Na0wtOUQtUTFJTVFZd2lodU1RdzdCU2l5LWNXQkNJZTlGcFpPQzBLckFpRQ?oc=5",
-          "added_at": "2026-07-24 08:00:58"
-        },
-        {
-          "uid": "dcc985f6a41d",
-          "date": "2026-06-23",
-          "title": "China Strikes Back at the Pentagon’s Rare Earth Bet - Foreign Policy in Focus",
-          "summary": "中国はレアアース産業の支配力を強化するため、採掘制限や輸出管理を厳格化させることで、米国防総省のレアアース自給化戦略に対抗している。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HTEpCamptNzA1QWY5cFhXcF9fdUZQNVVNZmtaSkREbGI0ZzFlMHMwUXE0X09INDBMOEFLRUlxcGduX19kSURDQWxGQlBsVnYxTVV3LUtOSl81N3hJdW1qaG9GcElHclZVU1lYSjRoVXFwWWVEaTlF?oc=5",
           "added_at": "2026-07-24 08:00:58"
         }
       ]
