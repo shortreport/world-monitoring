@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-24 01:00 JST",
+  "updated_at": "2026-08-24 10:25 JST",
   "total": 40,
-  "toyota_summary": "米加間の協議は金曜日に決裂し、カナダ製品に対する50％の追加関税発動が改めて現実味を帯びることとなった。これはUSMCA（米国・メキシコ・カナダ協定）に紐づく自動車サプライチェーンおよび価格体系を直接的に脅かすものであり、再交渉の行方は業界にとって重要な注視事項となる。\n\nUSMCA再交渉の見通しについては、参考情報として提示する。",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20260823_0207",
@@ -322,7 +322,7 @@
       "ts": "20260820_1307",
       "sender_norm": "Jetro",
       "subject": "ジェトロ地域・分析レポートの新着のご案内（2026年8月20日号）",
-      "subject_en": "New JETRO Regional and Analysis Report Notification (August 20, 2026 Issue)",
+      "subject_en": "Notification of New JETRO Regional and Analysis Reports (August 20, 2026 Issue)",
       "html": "data/pdfs/20260820_1307_ジェトロ地域・分析レポートの新着のご案内（2026年8月20日号）.html",
       "pdf": "data/pdfs/20260820_1307_ジェトロ地域・分析レポートの新着のご案内（2026年8月20日号）.html",
       "summary_en": "JETRO's latest report highlights South Korean firms expanding U.S. investment amid uncertainty from the second Trump administration, with battery makers and holding companies—including Hyundai Motor Group—leading the charge. Hyundai continues to scale up its American manufacturing footprint even as legal frameworks for investment execution advance, while Korean automakers also deepen ties with Vietnam, Indonesia, and India as part of a broader 'China Plus One' strategy amid shrinking China business.",
@@ -604,5 +604,5 @@
       "excerpt": ""
     }
   ],
-  "toyota_summary_en": "Talks between the US and Canada collapsed Friday, putting threatened 50% tariffs on Canadian goods back on the table. This directly threatens USMCA-linked auto supply chains and pricing, making the renegotiation path a critical watch item for the industry.\n\nUSMCA renegotiation outlook is provided for reference."
+  "toyota_summary_en": ""
 }
