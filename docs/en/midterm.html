@@ -300,7 +300,7 @@ const stateData = {
     NY: { ctrl:'DD', seats:['Kirsten Gillibrand (D, 2027)', 'Chuck Schumer (D, 2029)'], up2026:true },
     NC: { ctrl:'RR', seats:['Thom Tillis (R, 2027)', 'Ted Budd (R, 2029)'], up2026:true },
     ND: { ctrl:'RR', seats:['John Hoeven (R, 2027)', 'Kevin Cramer (R, 2029)'], up2026:true },
-    OH: { ctrl:'RR', seats:['Jon Husted (R, 2031)', 'Mike DeWine (R, 2027)'], up2026:true },
+    OH: { ctrl:'RR', seats:['Bernie Moreno (R, 2031)', 'Jon Husted (R, 2027)'], up2026:true },
     OK: { ctrl:'RR', seats:['James Lankford (R, 2027)', 'Markwayne Mullin (R, 2027)'], up2026:true },
     OR: { ctrl:'DD', seats:['Ron Wyden (D, 2027)', 'Jeff Merkley (D, 2027)'], up2026:true },
     PA: { ctrl:'RD', seats:['Dave McCormick (R, 2031)', 'John Fetterman (D, 2028)'], up2026:false },
@@ -342,6 +342,7 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
+    { state:'OH', incumbent:'Brown (D) vs Husted (R)', party:'R', rating:'toss', label:'Toss-up (special)' },
     { state:'MI', incumbent:'El-Sayed (D) vs Rogers (R)', party:'D', rating:'toss',    label:'Toss-up' },
     { state:'GA', incumbent:'Ossoff (D) vs Collins (R)', party:'D', rating:'toss',    label:'Toss-up' },
     { state:'TX', incumbent:'Paxton (R) vs Talarico (D)', party:'R', rating:'toss',    label:'Toss-up' },
@@ -1308,11 +1309,23 @@ ${_seatsTable([
 </div>`,
 
     OH: () => `
-<div class="state-info-name">Ohio (OH) — No Senate elections in 2026</div>
+<div class="state-info-name">Ohio (OH) — 2026 Senate Special Election</div>
 <div class="state-info-body">${_seatsTable([
+  ['Jon Husted (Appointed)','R','var(--rep)','2026 (special election)',true],
   ['Bernie Moreno','R','var(--rep)','2030 (elected 2024)',false],
-  ['Appointed Senator (following JD Vance\'s resignation as Vice President)','R','var(--rep)','2028 (next election)',false],
-])}<p style="font-size:12px;color:var(--text-sub);margin:0 0 10px;line-height:1.6;">No Senate elections in 2026. JD Vance resigned from his Senate seat upon becoming Vice President in January 2025, and Governor DeWine appointed a Republican to fill the vacancy. The appointed senator will serve the remainder of Vance's term until 2028. Moreno won his first election in 2024, defeating Democrat Sherrod Brown. His first re-election race is in 2030. Ohio has been shifting in recent years from a swing state to one favoring Republicans.</p>
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['May 5, 2026','Special Primary (both parties)','Completed'],['November 3, 2026','Special General Election','future']])}<h4 style="margin:0 0 8px;font-size:13px;">Major Candidates</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Candidate</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">Party</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Notes</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Jon Husted</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Appointed by Gov. DeWine to fill Vance's seat; running to keep it</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Sherrod Brown</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Former three-term Senator (2007-2025), seeking a comeback</td></tr>
+  </tbody>
+</table>
+<h4 style="margin:0 0 8px;font-size:13px;">General Election Polling (August 2026)</h4>${_pollTable([['Sherrod Brown (Democratic)','D','var(--dem)','47%'],['Jon Husted (Republican)','R','var(--rep)','46%']],'※ Pollsters disagree widely this month: Wedgewood (Aug 13) has Brown +4, PollingSource average has Brown +5.3, while Pollsmax average has Husted +1.8. Effectively a toss-up.')}<h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
+<p style="font-size:12px;margin:0 0 14px;line-height:1.6;"><strong>Rating: Toss-up</strong><br>JD Vance resigned his Senate seat upon becoming Vice President in January 2025; Gov. DeWine appointed Lt. Gov. Jon Husted to fill the vacancy, but Ohio law requires a special election in 2026 to fill the remainder of the term (through 2027, with a full term up in 2028). Sherrod Brown, defeated for re-election in 2024, is attempting a comeback and brings decades of statewide name recognition. Despite Ohio's recent Republican lean, Brown's crossover appeal with working-class voters keeps this race competitive. Moreno's separate seat (elected 2024) is not up in 2026.</p>
 </div>`,
 
     PA: () => `

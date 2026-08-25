@@ -133,7 +133,7 @@
   <div class="logo" onclick="location.href='index.html'" title="ホームへ">World<em>News</em></div>
   <div class="header-date">2026年08月25日</div>
   <div class="header-spacer"></div>
-  <div class="update-time">最終更新: 2026年08月25日 14:53 JST</div>
+  <div class="update-time">最終更新: 2026年08月25日 15:02 JST</div>
   <div class="lang-toggle">
     <a href="midterm.html" class="active">JP</a>
     <a href="../en/midterm.html">EN</a>
@@ -296,7 +296,7 @@ const stateData = {
     NY: { ctrl:'DD', seats:['Kirsten Gillibrand (D, 2027)', 'Chuck Schumer (D, 2029)'], up2026:true },
     NC: { ctrl:'RR', seats:['Thom Tillis (R, 2027)', 'Ted Budd (R, 2029)'], up2026:true },
     ND: { ctrl:'RR', seats:['John Hoeven (R, 2027)', 'Kevin Cramer (R, 2029)'], up2026:true },
-    OH: { ctrl:'RR', seats:['Jon Husted (R, 2031)', 'Mike DeWine (R, 2027)'], up2026:true },
+    OH: { ctrl:'RR', seats:['Bernie Moreno (R, 2031)', 'Jon Husted (R, 2027)'], up2026:true },
     OK: { ctrl:'RR', seats:['James Lankford (R, 2027)', 'Markwayne Mullin (R, 2027)'], up2026:true },
     OR: { ctrl:'DD', seats:['Ron Wyden (D, 2027)', 'Jeff Merkley (D, 2027)'], up2026:true },
     PA: { ctrl:'RD', seats:['Dave McCormick (R, 2031)', 'John Fetterman (D, 2028)'], up2026:false },
@@ -338,6 +338,7 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
+    { state:'OH', incumbent:'Brown (D) vs Husted (R)', party:'R', rating:'toss', label:'Toss-up (special)' },
     { state:'MI', incumbent:'El-Sayed (D) vs Rogers (R)', party:'D', rating:'toss',    label:'Toss-up' },
     { state:'GA', incumbent:'Ossoff (D) vs Collins (R)', party:'D', rating:'toss',    label:'Toss-up' },
     { state:'TX', incumbent:'Paxton (R) vs Talarico (D)', party:'R', rating:'toss',    label:'Toss-up' },
@@ -1465,14 +1466,27 @@ ${_seatsTable([
 </div>`,
 
     OH: () => `
-<div class="state-info-name">オハイオ州（OH） — 2026年上院選挙なし</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['バーニー・モレノ','R','var(--rep)','2030年（2024年に当選）',false],
-  ['任命議員（JDバンス副大統領辞任後）','R','var(--rep)','2028年（次回）',false],
-])}
-<p style="font-size:12px;color:var(--text-sub);margin:0 0 10px;line-height:1.6;">2026年の上院選挙はなし。JDバンスが2025年1月に副大統領に就任し上院議席を辞したため、デワイン知事が共和党員を任命。任命議員はバンスの残任期（2028年まで）を務める。モレノは2024年にシェロッド・ブラウン（民主党）を破り初当選。2030年が初の再選挑戦。オハイオは近年スイング州から共和党優位の州へ変容しつつある。</p>
+
+<div class="state-info-name">オハイオ州 (OH) — 2026年上院特別選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['ジョン・フステッド（任命）','R','var(--rep)','2026年（特別選挙）',true],
+  ['バーニー・モレノ','R','var(--rep)','2030年（2024年当選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年5月5日','特別予備選（両党）','終了'],['2026年11月3日','特別本選','future']])}<h4 style="margin:0 0 8px;font-size:13px;">主要候補者</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">政党</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジョン・フステッド</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">デワイン知事によりヴァンスの議席を埋めるため任命；議席維持を目指し出馬</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">シェロッド・ブラウン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元三期上院議員（2007年～2025年）、返り咲きを目指す</td></tr>
+  </tbody>
+</table>
+<h4 style="margin:0 0 8px;font-size:13px;">本選世論調査（2026年8月）</h4>${_pollTable([['シェロッド・ブラウン（民主党）','D','var(--dem)','47%'],['ジョン・フステッド（共和党）','R','var(--rep)','46%']],'※ 今月の世論調査会社の見解は大きく分かれている：Wedgewood（8月13日）はブラウン+4、PollingSource平均はブラウン+5.3、一方Pollsmax平均はフステッド+1.8。事実上接戦。')}<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
+<p style="font-size:12px;margin:0 0 14px;line-height:1.6;"><strong>評価：接戦</strong><br>JD・ヴァンスは2025年1月に副大統領就任に伴い上院議席を辞職；デワイン知事は副知事ジョン・フステッドを空席補充に任命したが、オハイオ州法では任期の残り（2027年まで、2028年に通常任期選挙）を埋めるため2026年に特別選挙を義務付けている。2024年の再選で敗北したシェロッド・ブラウンは返り咲きを試み、数十年にわたる州全体での知名度を持つ。オハイオ州の最近の共和党優位にもかかわらず、ブラウンの労働者階級有権者への訴求力がこの選挙を競争的に保っている。モレノの別議席（2024年当選）は2026年には改選されない。</p>
 </div>`,
+
+
 
     PA: () => `
 <div class="state-info-name">ペンシルベニア州（PA） — 2026年上院選挙なし</div>
