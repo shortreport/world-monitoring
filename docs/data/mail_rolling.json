@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-25 10:48 JST",
+  "updated_at": "2026-08-25 10:51 JST",
   "total": 50,
-  "toyota_summary": "米加通商協議が決裂し、カナダ産財200億ドル相当に対する50%の米関税が発動、9月8日には報復措置の発動も見込まれる。ユーラシア・グループは早期解決の可能性をわずか30%とみており、国境を越えたサプライチェーンを持つ自動車メーカー・部品サプライヤーが長期にわたる不透明感にさらされる「ゾンビ化したUSMCA」が続く公算が大きいとの見方を示している。\n\nEU議会では、欧州委員会が掲げる2035年CO2排出量90%削減目標を80%削減へと緩和する方向が優勢となりつつあり、極右勢力からは規制そのものを撤廃すべきとの圧力もかかっている。これは、欧州の自動車メーカーが直面するEV義務化が緩和される可能性を示唆するものである。\n\nなお、フォルクスワーゲンの中国におけるEV事業拡大、バイストロニックの武漢新拠点、MANのアルジェリア事業再開についても参考情報として付言しておく。",
+  "toyota_summary": "米加通商交渉が決裂し、カナダ産品200億ドルに対する通商法338条に基づく50%関税が発動、カナダ側の報復措置も9月8日に予定されている。ユーラシア・グループは早期決着ではなく、長期にわたる「ゾンビUSMCA」状態が続くと予測しており、国境を跨ぐサプライチェーンを抱える自動車メーカーは、関税リスクに引き続き晒されることになる。\n\n欧州議会の交通・観光委員会（TRAN）では、欧州委員会が提案した90%削減案よりも緩やかな、2035年までにCO2排出量を80%削減するという目標案への収斂が進んでいる。欧州人民党（EPP）内部では意見が割れており、極右会派パトリオッツは規制撤廃ないし40%目標を主張している。今週後半に予定される主管委員会である環境・公衆衛生・食品安全委員会（ENVI）の修正案提出により、方向性が明確になる見通しである。\n\nなお、フォルクスワーゲンの中国におけるEV生産、および中国商用車メーカーのアルジェリア進出についても参考情報として付記する。",
   "emails": [
     {
       "ts": "20260825_0834",
@@ -157,7 +157,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "",
-      "subject_en": "JETRO Business Brief 2026/08/24",
+      "subject_en": "\"JETRO Business Brief\" 2026/08/24",
       "html": "data/pdfs/20260824_1907_「ジェトロ・ビジネス短信」2026_08_24.html",
       "summary_en": "Volkswagen's Anhui joint venture rolled its 100,000th smart EV off the line, underscoring Volkswagen's push to deepen China-based development and production. Meanwhile, Swiss auto parts maker Bystronic opened a new R&D center and factory in Wuhan, and in Algeria, Germany's MAN resumed vehicle assembly as Chinese automakers intensify competition in the commercial vehicle market.",
       "summary_ja": "VW安徽で10万台目のスマートEVがラインオフし、フォルクスワーゲンは中国発の開発・生産体制強化を進めている。同時に、スイスの自動車部品大手バーシジェントが武漢に新たな研究開発拠点と工場を稼働させた。またアルジェリアの商用車市場では独MANが組み立てを再開する一方、中国勢の攻勢も強まっている。",
@@ -749,5 +749,5 @@
       "excerpt": ""
     }
   ],
-  "toyota_summary_en": "US-Canada trade talks have collapsed, triggering 50% US tariffs on $20B of Canadian goods and looming retaliation September 8. Eurasia Group sees only a 30% chance of a quick fix, favoring a prolonged \"zombie USMCA\" that leaves automakers and suppliers with cross-border supply chains exposed to sustained uncertainty.\n\nEU lawmakers are trending toward softening 2035 CO2 targets to 80% reduction rather than the Commission's 90%, with far-right pressure to scrap the rule entirely. This signals potential easing of EV mandates facing European automakers.\n\nVW's China EV expansion, Bystronic's Wuhan facility, and MAN's Algeria restart are provided for reference."
+  "toyota_summary_en": "US-Canada trade talks have collapsed, triggering 50% Section 338 tariffs on $20B of Canadian goods and Canadian retaliation due September 8. Eurasia Group expects a prolonged \"zombie USMCA\" rather than a quick resolution, leaving automakers with cross-border supply chains exposed to sustained tariff risk.\n\nEuropean Parliament's TRAN Committee is coalescing around an 80% CO2 reduction target for 2035, softer than the Commission's 90% proposal, with the EPP split internally and far-right Patriots pushing for repeal or a 40% target. The lead ENVI Committee's amendments later this week will clarify the direction.\n\nVolkswagen's China EV production and Chinese commercial vehicle expansion into Algeria are provided for reference."
 }
