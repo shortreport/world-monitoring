@@ -1557,56 +1557,54 @@ ${_seatsTable([
 
   },
   house: {
-    TX: () => `
-<div class="state-info-name">テキサス州（TX） — 2026年下院選挙</div>
+    TX: () => `
+<div class="state-info-name">テキサス州 (TX) — 2026年下院選挙</div>
 <div class="state-info-body">
-<h4 style="margin:0 0 8px;font-size:13px;">現状の議席（全38議席）</h4>
+<h4 style="margin:0 0 8px;font-size:13px;">現在の議席 (全38議席)</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:16px;">
   <thead><tr style="background:var(--surface-2);">
-    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">党派</th>
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">議席数</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;"><span class="party-tag" style="background:var(--rep);">R</span> 共和党</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--rep);">25</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">安全区が大半</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;"><span class="party-tag" style="background:var(--dem);">D</span> 民主党</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--dem);">13</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">都市部・南テキサス中心</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;"><span class="party-tag" style="background:var(--rep);">R</span>共和党</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--rep);">25</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">大部分が安全議席</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;"><span class="party-tag" style="background:var(--dem);">D</span>民主党</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--dem);">13</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">都市部および南テキサス地域に集中</td></tr>
   </tbody>
 </table>
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年3月3日','予備選（両党）','終了'],['2026年5月26日','予備選決選投票（ランオフ）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 8px;font-size:13px;">注目選挙区</h4>
+<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年3月3日','予備選（両党）','終了'],['2026年5月26日','決選投票（ランオフ）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 8px;font-size:13px;">注目選挙区</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">選挙区</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">現職</th>
-    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党派</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">予想</th>
   </tr></thead><tbody>
-    <tr><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">TX-07（ヒューストン郊外）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">リジー・フレッチャー</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Lean D</td></tr>
-    <tr><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">TX-15（南テキサス・RGV）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">モニカ・デラクルス</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Lean R</td></tr>
-    <tr><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">TX-28（ラレード）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ヘンリー・クエジャー（有罪）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Toss-up</td></tr>
-    <tr><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">TX-34（ブラウンズビル）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ビセンテ・ゴンザレス</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Lean D</td></tr>
+    <tr><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">TX-07 (ヒューストン郊外)</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">リジー・フレッチャー</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">D優位</td></tr>
+    <tr><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">TX-15 (南テキサス、RGV)</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">モニカ・デ・ラ・クルス</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">R優位</td></tr>
+    <tr><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">TX-28 (ラレドからサンアントニオ)</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ヘンリー・クエヤー (収賄罪でトランプが2025年12月に恩赦)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">接戦</td></tr>
+    <tr><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">TX-34 (ブラウンズビル)</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ビセンテ・ゴンサレス</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">D優位</td></tr>
   </tbody>
 </table>
 <h4 style="margin:0 0 8px;font-size:13px;">2026年議席予想（全38選挙区）</h4>
-<p style="font-size:11px;color:var(--text-sub);margin:0 0 8px;">※ 予備的な評価。情勢は変化する可能性があります。</p>
+<p style="font-size:11px;color:var(--text-sub);margin:0 0 8px;">* 暫定的な予想です。情勢は変化する可能性があります。</p>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:6px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">予想</th>
-    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">議席</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">議席数</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">選挙区</th>
   </tr></thead><tbody>
     <tr style="background:#fff0f0;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;color:var(--rep);">安全R</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--rep);">21</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-size:11px;color:var(--text-sub);">01 02 03 04 05 08 10 11 13 14 17 19 21 23 24 25 26 27 31 36 38</td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;color:var(--rep);">R優位</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--rep);">4</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-size:11px;color:var(--text-sub);">06（アーリントン）12（フォートワース）15（南TX）22（シュガーランド）</td></tr>
-    <tr style="background:#fff8e1;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;color:#b8860b;">接戦</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:#b8860b;">1</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-size:11px;color:var(--text-sub);">28（ラレード・空席）</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;color:var(--dem);">D優位</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--dem);">3</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-size:11px;color:var(--text-sub);">07（ヒューストン郊外）32（北ダラス郊外）34（ブラウンズビル）</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;color:var(--rep);">R優位</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--rep);">4</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-size:11px;color:var(--text-sub);">06（アーリントン）12（フォートワース）15（南テキサス）22（シュガーランド）</td></tr>
+    <tr style="background:#fff8e1;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;color:#b8860b;">接戦</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:#b8860b;">1</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-size:11px;color:var(--text-sub);">28（ラレド・オープン議席）</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;color:var(--dem);">D優位</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--dem);">3</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-size:11px;color:var(--text-sub);">07（ヒューストン郊外）32（ダラス北部郊外）34（ブラウンズビル）</td></tr>
     <tr style="background:#f0f0ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;color:var(--dem);">安全D</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--dem);">9</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-size:11px;color:var(--text-sub);">09 16 18 20 29 30 33 35 37</td></tr>
   </tbody>
 </table>
-<p style="font-size:12px;font-weight:600;margin:0 0 14px;"><strong>予想結果：共和党 25議席 / 民主党 12議席 / 接戦 1議席</strong>（現状維持の見込み）</p>
+<p style="font-size:12px;font-weight:600;margin:0 0 14px;"><strong>予想：共和党25議席 / 民主党12議席 / 接戦1議席</strong>（変化なしの見込み）</p>
 <h4 style="margin:0 0 6px;font-size:13px;">分析</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">テキサスは共和党の強固な地盤だが、南テキサスでは民主党が接戦を展開。ヒスパニック系有権者の共和党シフトが2022〜2024年に加速しており、TX-15とTX-34は共和党奪取の標的。TX-28はクエジャーが汚職で有罪判決を受けており、空席となる可能性が高く最大の注目区。TX-07はヒューストン郊外の教育水準の高い有権者が多く、民主党優位を維持。</p>
-</div>`,
-
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">テキサス州は共和党の強固な地盤ですが、民主党は南テキサスで競争力のある選挙戦を展開しています。ヒスパニック系有権者の共和党支持は2022年から2024年にかけて加速し、TX-15とTX-34は共和党の標的です。TX-28はクエサダの最近の汚職有罪判決によるオープン議席として最も注目を集めています。TX-07はヒューストン郊外の高学歴有権者を抱え、民主党優位を維持しています。</p>
+</div>`,
+
     KY: () => `
 <div class="state-info-name">ケンタッキー州（KY） — 2026年下院選挙</div>
 <div class="state-info-body">
@@ -2013,7 +2011,8 @@ ${_sched([['2026年6月23日','予備選（両党）','終了'],['2026年11月3�
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党優位（下院議席争奪の主戦場）</strong><br>NYは全国の下院多数派争いで最重要州の一つ。ロングアイランド・ハドソンバレーの共和党現職4〜5議席が激戦区になる見込み。民主党は2022年の惨敗（地図誤作成）を経て現在の地図で巻き返しを図る。NY-04とNY-17が最大の注目区。</p>
 </div>`,
 
-    PA: () => `
+    PA: () => `
+
 <div class="state-info-name">ペンシルベニア州 (PA) — 2026年下院選挙</div>
 <div class="state-info-body">
 <h4 style="margin:0 0 8px;font-size:13px;">現在の議席数（全17議席）</h4>
@@ -2041,8 +2040,10 @@ ${_sched([['2026年6月23日','予備選（両党）','終了'],['2026年11月3�
   </tbody>
 </table>
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>総合評価：民主党やや有利</strong><br>裁判所が策定した均衡の取れた選挙区割りの下、現在D:9/R:8の勢力バランス。高学歴層の多いフィラデルフィア郊外有権者は民主党を支持する一方、スクラントン・ピッツバーグ郊外地域は共和党寄り。全国的な潮流次第で、3～4議席が入れ替わる可能性がある。</p>
-</div>`,
-
+</div>`,
+
+
+
     OH: () => `
 <div class="state-info-name">オハイオ州（OH） — 2026年下院選挙</div>
 <div class="state-info-body">
@@ -2688,24 +2689,22 @@ ${_sched([['2026年6月2日','予備選（共和党）','終了'],['2026年11月
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏</strong><br>SDは全州1議席で競合なし。ジョンソンは共和党穏健派として院内で一定の存在感を持つ。サウスダコタはトランプが30ポイント以上の差で圧勝する深紅の農業州。</p>
 </div>`,
 
-    WY: () => `
-<div class="state-info-name">ワイオミング州（WY） — 2026年下院選挙（全1議席・全州区）</div>
+    WY: () => `
+<div class="state-info-name">ワイオミング州 (WY) — 2026年下院選挙（1議席、全州選挙区）</div>
 <div class="state-info-body">
-<h4 style="margin:0 0 8px;font-size:13px;">現状の議席（全1議席）</h4>
+<h4 style="margin:0 0 8px;font-size:13px;">現在の議席（合計1議席）</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:16px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">現職</th>
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ハリエット・ハゲマン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">2022年予備選でリズ・チェイニーを破り当選</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ハリエット・ヘイジマン（上院選出馬）— 空席</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">チャック・グレイ（共和党、州務長官）が激戦の9候補予備選を制した；2022年にリズ・チェイニーを破って当選</td></tr>
   </tbody>
 </table>
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年8月18日','予備選（共和党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏</strong><br>ハゲマンはトランプ支持を打ち出しリズ・チェイニーを2022年予備選で大差で破った。WYは全米最も一人当たり人口が少ない州で、上院2議席（バラッソ・ラミス）と下院1議席の計3議席。民主党が競争力を持てる環境ではない。</p>
-</div>`,
-
+<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年8月18日','予備選（共和党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：安全R</strong><br>ヘイジマンは下院議席を放棄して空席となった上院議席（ルミス引退）への出馬を選択；州務長官のチャック・グレイが激戦の共和党予備選（9候補中25%）を制して後継者となり、11月に民主党のリサ・キニーと対決する。ワイオミング州は全米で最も一人当たり人口が少ない州であり、上院2議席と下院1議席の計3議席を有する。民主党が競争力を持てる環境ではない。</p>
+</div>`,
+
     VT: () => `
 <div class="state-info-name">バーモント州（VT） — 2026年下院選挙（全1議席・全州区）</div>
 <div class="state-info-body">
@@ -2774,7 +2773,8 @@ ${_sched([['2026年8月4日','予備選（両党）','終了'],['2026年11月3�
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党優位</strong><br>KS-03（カンザスシティ南郊）がKSで唯一の競合区。デービッズは先住民（ホー＝チャンク族）出身の初の女性議員として2018年に初当選。郊外の高学歴女性票が民主党を支えるが、KSの全体的な共和党地盤は強固。残る3議席は安全圏。</p>
 </div>`,
 
-    OK: () => `
+    OK: () => `
+
 <div class="state-info-name">オクラホマ州 (OK) — 2026年下院選挙</div>
 <div class="state-info-body">
 <h4 style="margin:0 0 8px;font-size:13px;">現在の議席（全5議席）</h4>
@@ -2792,8 +2792,10 @@ ${_sched([['2026年8月4日','予備選（両党）','終了'],['2026年11月3�
   </tbody>
 </table>
 <hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年6月16日','予備選（共和党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全（5議席独占）</strong><br>OK-01は、ケビン・ハーンが州の空席となった上院選挙に出馬したため空席となり、歴史的に多い12名の候補者による共和党予備選が行われている。OK-04のトム・コールは歳出委員会委員長（副議長に相当する地位）を務める上級議員である。共和党は全5議席で優位に立っており、民主党は効果的に競争できない。両上院議席を共和党が保持しているオクラホマ州は、下院においても完全に共和党の勢力圏である。</p>
-</div>`,
-
+</div>`,
+
+
+
     AR: () => `
 <div class="state-info-name">アーカンソー州（AR） — 2026年下院選挙</div>
 <div class="state-info-body">
@@ -2941,27 +2943,25 @@ ${_sched([['2026年6月9日','予備選（両党・RCV使用）','終了'],['202
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党やや優位（ME-02は接戦）</strong><br>MEはNEと同様に大統領選挙人を選挙区ごとに配分する全米2州の一つ（もう1つはNE）。ME-02（農村北部）はトランプが大差で勝利する「トランプ選挙区」でゴールデンが民主党離れした保守的政策（銃規制反対・移民制限）を取り入れ生き残る全国注目区。またMEはAK同様RCV（順位選択投票）を採用。</p>
 </div>`,
 
-    UT: () => `
-<div class="state-info-name">ユタ州（UT） — 2026年下院選挙</div>
+    UT: () => `
+<div class="state-info-name">ユタ州 (UT) — 2026年下院選挙</div>
 <div class="state-info-body">
-<h4 style="margin:0 0 8px;font-size:13px;">現状の議席（全4議席）</h4>
+<h4 style="margin:0 0 8px;font-size:13px;">現在の議席（全4議席）</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:16px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">選挙区</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">現職</th>
-    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党派</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">UT-01（北部・オグデン）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ブレイク・ムーア</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">UT-02（中部・ソルトレイク郊外）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">セレスト・マロイ</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">UT-03（南部・セントジョージ →カーティス上院転出後継）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">後継共和党議員</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">UT-04（ソルトレイク都市部南部）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">バージェス・オーウェンズ</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">UT-01（北部、オグデン）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ブレイク・ムーア</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">UT-02（中部、ソルトレイク郊外）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">セレスト・マロイ</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">UT-03（南部、セントジョージ — 上院に移ったカーティスの後継）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">マイク・ケネディ</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">UT-04（ソルトレイクシティ南部都市圏）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">バージェス・オーウェンズ</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td></tr>
   </tbody>
 </table>
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年6月23日','予備選（共和党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏（4議席独占）</strong><br>UTは4議席すべてを共和党が保持。ジョン・カーティスが2024年上院選転出に伴いUT-03はオープン席となったが共和党が維持。モルモン教の影響が強くトランプへの態度は複雑だったが、下院では共和党が盤石。ソルトレイクシティ都市部でも民主党は競争力を持てていない。</p>
-</div>`,
-
+<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年6月23日','予備選（共和党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全区（4議席独占）</strong><br>共和党がユタ州の全4議席を保持。ジョン・カーティスの2024年上院転出でUT-03が空席となったが、共和党が維持。モルモン教会の影響力が強く、トランプへの態度は複雑だが、下院では共和党が盤石。民主党はソルトレイクシティ都市圏でも競争力を欠く。</p>
+</div>`,
+
   },
 
   // ─────────────── GOVERNOR ───────────────
