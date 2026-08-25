@@ -187,8 +187,8 @@
 
   <!-- RIGHT: Sidebar -->
   <aside class="sidebar">
-    <!-- Seat arc chart -->
-    <div class="seat-card">
+    <!-- Seat arc chart (Senate/House only — a governor seat "total" is not a meaningful figure) -->
+    <div class="seat-card" id="seat-card">
       <div class="seat-card-header">🏛️ Seats</div>
       <div class="seat-card-sub" id="seat-subtitle">Senate — 100 Seats</div>
 
@@ -4475,6 +4475,10 @@ function switchChamber(chamber) {
   };
   document.getElementById('seat-subtitle').textContent = subtitles[chamber];
   document.getElementById('map-title').textContent = mapTitles[chamber];
+
+  // Governors aren't a legislative body with a "majority" — a 50-state seat
+  // count/prediction bar isn't a meaningful figure, so hide the whole card.
+  document.getElementById('seat-card').style.display = chamber === 'governor' ? 'none' : '';
 
   const { r, d, total } = seatCounts[chamber];
   document.getElementById('cnt-r').textContent = r;

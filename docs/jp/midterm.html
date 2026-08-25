@@ -184,7 +184,7 @@
   <!-- RIGHT: Sidebar -->
   <aside class="sidebar">
     <!-- Seat arc chart -->
-    <div class="seat-card">
+    <div class="seat-card" id="seat-card">
       <div class="seat-card-header">🏛️ 議席数</div>
       <div class="seat-card-sub" id="seat-subtitle">上院（Senate） 定数100</div>
 
@@ -4748,6 +4748,10 @@ function switchChamber(chamber) {
   };
   document.getElementById('seat-subtitle').textContent = subtitles[chamber];
   document.getElementById('map-title').textContent = mapTitles[chamber];
+
+  // 知事は「過半数」の概念がある議会ではないため、50州の議席数集計・予測バーは
+  // 意味を持たない。知事タブでは議席数カード全体を非表示にする。
+  document.getElementById('seat-card').style.display = chamber === 'governor' ? 'none' : '';
 
   const { r, d, total } = seatCounts[chamber];
   document.getElementById('cnt-r').textContent = r;
