@@ -268,7 +268,7 @@ const stateData = {
     AR: { ctrl:'RR', seats:['John Boozman (R, 2027)', 'Tom Cotton (R, 2027)'], up2026:true },
     CA: { ctrl:'DD', seats:['Alex Padilla (D, 2029)', 'Adam Schiff (D, 2031)'], up2026:false },
     CO: { ctrl:'DD', seats:['John Hickenlooper (D, 2027)', 'Michael Bennet (D, 2029)'], up2026:true },
-    CT: { ctrl:'DD', seats:['Chris Murphy (D, 2027)', 'Richard Blumenthal (D, 2029)'], up2026:true },
+    CT: { ctrl:'DD', seats:['Richard Blumenthal (D, 2029)', 'Chris Murphy (D, 2031)'], up2026:false },
     DE: { ctrl:'DD', seats:['Lisa Blunt Rochester (D, 2031)', 'Chris Coons (D, 2027)'], up2026:true },
     FL: { ctrl:'RR', seats:['Marco Rubio (→Sec State)', 'Rick Scott (R, 2027)'], up2026:true },
     GA: { ctrl:'DD', seats:['Jon Ossoff (D, 2027)', 'Raphael Warnock (D, 2029)'], up2026:true },
@@ -281,7 +281,7 @@ const stateData = {
     KY: { ctrl:'RR', seats:['Mitch McConnell (R, 2027)', 'Rand Paul (R, 2029)'], up2026:true },
     LA: { ctrl:'RR', seats:['Bill Cassidy (R, 2027)', 'John Kennedy (R, 2029)'], up2026:true },
     ME: { ctrl:'RD', seats:['Susan Collins (R, 2027)', 'Angus King (I/D, 2031)'], up2026:true },
-    MD: { ctrl:'DD', seats:['Angela Alsobrooks (D, 2031)', 'Chris Van Hollen (D, 2027)'], up2026:true },
+    MD: { ctrl:'DD', seats:['Angela Alsobrooks (D, 2031)', 'Chris Van Hollen (D, 2029)'], up2026:false },
     MA: { ctrl:'DD', seats:['Elizabeth Warren (D, 2031)', 'Ed Markey (D, 2027)'], up2026:true },
     MI: { ctrl:'DD', seats:['Gary Peters (D, 2027)', 'Elissa Slotkin (D, 2031)'], up2026:true },
     MN: { ctrl:'DD', seats:['Amy Klobuchar (D, 2027)', 'Tina Smith (D, 2027)'], up2026:true },
@@ -804,7 +804,8 @@ ${_photoRow([
 ])}
 </div>`,
 
-    MS: () => `
+    MS: () => `
+
 <div class="state-info-name">ミシシッピ州 (MS) — 2026年上院選挙</div>
 <div class="state-info-body">${_seatsTable([
   ['シンディ・ハイド=スミス（現職）','R','var(--rep)','2026年（2020年当選）',true],
@@ -826,8 +827,10 @@ ${_photoRow([
 <p style="font-size:12px;margin:0 0 14px;line-height:1.6;">巡回裁判所判事として広く知られるコロムは、1年間で民主党が+10ポイント差を縮める異例の展開を作り出した。ハイド=スミスの2018年特別選挙での人種差別的発言は選挙のたびに再浮上している。全体的には共和党優位が続くものの、ミシシッピ州の上院選挙でこれほど接戦となるのは極めて稀である。</p>${_photoRow([
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Official_headshot_of_US_Senator_Cindy_Hyde-Smith.jpg/330px-Official_headshot_of_US_Senator_Cindy_Hyde-Smith.jpg', name:'シンディ・ハイド=スミス', party:'共和党', color:'var(--rep)'},
   {url:null, name:'スコット・コロム', party:'民主党', color:'var(--dem)'}
-])}</div>`,
-
+])}</div>`,
+
+
+
     MO: () => `
 <div class="state-info-name">ミズーリ州（MO） — 2026年上院選挙なし</div>
 <div class="state-info-body">
@@ -997,52 +1000,43 @@ ${_sched([['2026年8月11日','予備選（両党）','終了'],['2026年11月3�
 </div>`,
 
     IL: () => `
-<div class="state-info-name">イリノイ州（IL） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['ディック・ダービン（退任予定）','D','var(--dem)','2026年（2020年に再選）',true],
-  ['タミー・ダックワース','D','var(--dem)','2028年（2022年に再選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年3月17日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 8px;font-size:13px;">主な候補者</h4>
+<div class="state-info-name">イリノイ州 (IL) — 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['ディック・ダービン（引退）','D','var(--dem)','2026年（2020年再選）',true],
+  ['タミー・ダックワース','D','var(--dem)','2028年（2022年再選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年3月17日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 8px;font-size:13px;">主要候補者</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
-    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">政党</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
   </tr></thead><tbody>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ラジャ・クリシュナムルティ（下院議員）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">IL-8選出・出馬有力候補</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">JBプリツカー（現知事）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">出馬可能性あり</td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">共和党候補</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">勝利の可能性は低い</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジュリアナ・ストラットン（副知事）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">プリツカー知事の支援を受け、クリシュナムールティ下院議員とケリー下院議員を破り民主党予備選で勝利</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">共和党候補者</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">勝利の可能性は低い</td></tr>
   </tbody>
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党安全圏（Likely D）</strong><br>ダービン上院院内総務（82歳）の引退による注目のオープンシート。イリノイは民主党の強固な地盤でシカゴ圏が選挙を左右する。3月予備選は終了し民主党候補が確定。本選では民主党が圧倒的有利。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：安全D</strong><br>上院院内幹事ダービン議員（82歳）の引退による注目度の高いオープンシート。ジュリアナ・ストラットン副知事は、プリツカー知事の支持とプリツカー資金のスーパーPACの支援により、ラジャ・クリシュナムールティ下院議員（彼女を大きく上回る選挙資金を投入）とロビン・ケリー下院議員を破り、激戦の民主党予備選で勝利した。イリノイ州はシカゴ圏が選挙の帰趨を決める民主党の強固な地盤であり、ストラットン氏は11月の本選で圧倒的に有利である。</p>
 </div>`,
 
     CO: () => `
-<div class="state-info-name">コロラド州（CO） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['ジョン・ヒッケンルーパー（現職）','D','var(--dem)','2026年（2020年に当選）',true],
-  ['マイケル・ベネット','D','var(--dem)','2028年（2022年に再選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年6月23日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 8px;font-size:13px;">主な候補者</h4>
+<div class="state-info-name">コロラド州（CO）— 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['ジョン・ヒッケンルーパー（現職）','D','var(--dem)','2026年（2020年当選）',true],
+  ['マイケル・ベネット','D','var(--dem)','2028年（2022年再選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年6月23日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 8px;font-size:13px;">主要候補者</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
   </tr></thead><tbody>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジョン・ヒッケンルーパー（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元コロラド州知事・現職1期目</td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">共和党候補（予備選終了）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">6月予備選で共和党候補が確定</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジョン・ヒッケンルーパー（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元コロラド州知事、現在1期目</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">マーク・ベイズリー（州上院議員）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">共和党予備選で無投票当選、コロラド州共和党はトップクラスの対抗馬獲得に苦戦</td></tr>
   </tbody>
 </table>
-<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党優位（Lean D）</strong><br>コロラドは2000年代から民主党が上院議席を保持。ヒッケンルーパーは元州知事として認知度が高く現職優位。ただし全国的な共和党の追い風があれば接戦も。民主党が2議席を保有しており守りやすい。</p>
+<h4 style="margin:0 0 6px;font-size:13px;">展望</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党優位</strong><br>ヒッケンルーパーは民主党予備選で州上院議員ジュリー・ゴンザレスを破り、元知事として高い知名度を保持。コロラド州共和党は彼に対するトップクラスの候補者を獲得できず、州上院議員マーク・ベイズリーが指名候補となった。コロラド州は2000年代以降、民主党の上院議席を維持しており、ヒッケンルーパーが明確に有利。</p>
 </div>`,
 
     ME: () => `
@@ -1140,7 +1134,8 @@ ${_sched([['2026年8月18日','予備選（順位選択・全候補一括）','�
 
 
 
-    ID: () => `
+    ID: () => `
+
 <div class="state-info-name">アイダホ州（ID）— 2026年上院選挙</div>
 <div class="state-info-body">${_seatsTable([
   ['ジム・リッシュ（現職）','R','var(--rep)','2026年（2020年再選）',true],
@@ -1158,8 +1153,10 @@ ${_sched([['2026年8月18日','予備選（順位選択・全候補一括）','�
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：安全R</strong><br>外交委員会委員長のリッシュ（81歳）は4期目を目指しており、引退せず — 3人の共和党予備選挑戦者を圧倒的に破った。アイダホ州は強固な共和党の牙城であり、民主党が上院議席を獲得することは稀である；一部の地元民主党員は、この議席を争うことがリソースに見合うかどうかを疑問視している。本選での共和党の勝利は確実である。</p>
-</div>`,
-
+</div>`,
+
+
+
     AR: () => `
 <div class="state-info-name">アーカンソー州（AR） — 2026年上院選挙あり</div>
 <div class="state-info-body">
@@ -1174,19 +1171,16 @@ ${_sched([['2026年5月19日','予備選（共和党）','終了'],['2026年11�
 </div>`,
 
     DE: () => `
-<div class="state-info-name">デラウェア州（DE） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['クリス・クーンズ（現職）','D','var(--dem)','2026年（2020年に再選）',true],
-  ['リサ・ブラント・ロチェスター','D','var(--dem)','2030年（2024年に当選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年9月12日','予備選（両党）','future'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党安全圏（Safe D）</strong><br>クーンズはバイデン前大統領の盟友として知られ、外交委員会などで活動するベテラン。デラウェアはバイデン大統領のホームステートであり強固な民主党地盤。再選はほぼ確実な情勢。</p>
+<div class="state-info-name">デラウェア州 (DE) — 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['クリス・クーンズ（現職）','D','var(--dem)','2026年（2020年再選）',true],
+  ['リサ・ブラント・ロチェスター','D','var(--dem)','2030年（2024年当選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年9月15日','予備選（両党）','future'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 6px;font-size:13px;">展望</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価: 安全D</strong><br>クーンズは4期目への立候補を表明し、3人のあまり知られていない民主党予備選対抗馬（ジェフ・アペルハンス、メアリー・ルーヴ、エリック・ハンセン）と対決する。共和党のマイケル・カッツとジョン・シューリが共和党候補指名を争っている。デラウェア州は強力な民主党の地盤であり、クーンズの再選はほぼ確実である。</p>
 </div>`,
 
-    KS: () => `
+    KS: () => `
+
 <div class="state-info-name">カンザス州 (KS) — 2026年上院選挙</div>
 <div class="state-info-body">${_seatsTable([
   ['ロジャー・マーシャル（現職）','R','var(--rep)','2026年（2020年当選）',true],
@@ -1204,9 +1198,12 @@ ${_sched([['2026年9月12日','予備選（両党）','future'],['2026年11月3�
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党優位</strong>（安全Rから格下げ）<br>マーシャルは元産科医で保守強硬派であり、この共和党寄りの州で有利とされるべきだが、民主党の牧師アダム・ハミルトンの記録的な資金調達と党派を超えた訴求力により、予想以上に接戦となっている——8月中旬の地元報道では、両者が「攻撃の応酬」を繰り広げ選挙戦が緊迫していると報じられた。カンザス州は時折民主党知事を選出しており、党派を超えた投票の可能性を示しているが、上院議席は依然としてマーシャルが失う方が難しい状況である。</p>
-</div>`,
-
-    LA: () => `
+</div>`,
+
+
+
+    LA: () => `
+
 <div class="state-info-name">ルイジアナ州 (LA) — 2026年上院選挙</div>
 <div class="state-info-body">${_seatsTable([
   ['ビル・キャシディ（予備選敗退）','R','var(--rep)','2026年（2020年再選）',true],
@@ -1226,8 +1223,10 @@ ${_sched([['2026年9月12日','予備選（両党）','future'],['2026年11月3�
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：安全R</strong><br>キャシディの敗退により、弾劾票に対するトランプ氏の「復讐計画」が完了したが、議席は引き続き共和党が確保 — ルイジアナ州の深い共和党寄りの傾向により、11月のレトロー対デイビスの勝利はほぼ確実。</p>
-</div>`,
-
+</div>`,
+
+
+
     MA: () => `
 <div class="state-info-name">マサチューセッツ州（MA） — 2026年上院選挙あり</div>
 <div class="state-info-body">
@@ -1242,16 +1241,23 @@ ${_sched([['2026年9月15日','予備選（両党）','future'],['2026年11月3�
 </div>`,
 
     NJ: () => `
-<div class="state-info-name">ニュージャージー州（NJ） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['コリー・ブッカー（現職）','D','var(--dem)','2026年（2020年に再選）',true],
-  ['アンディ・キム','D','var(--dem)','2030年（2024年に当選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年6月2日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
+<div class="state-info-name">ニュージャージー州 (NJ) — 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['コーリー・ブッカー（現職）','D','var(--dem)','2026年（2020年再選）',true],
+  ['アンディ・キム','D','var(--dem)','2030年（2024年当選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年6月2日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 8px;font-size:13px;">主要候補者</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党派</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
+  </tr></thead><tbody>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">コーリー・ブッカー（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">予備選で無投票当選；手持ち資金2,200万ドル超</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジャスティン・マーフィー</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">海軍退役軍人、最小限の選挙資金にもかかわらず混戦の共和党予備選でわずか33％の得票で勝利</td></tr>
+  </tbody>
+</table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党優位（Likely D）</strong><br>ブッカーは元ニューアーク市長で全国的に著名な民主党議員。NJは民主党地盤ながら州知事選では接戦が続く「softer blue」の州。2024年にはメネンデス議員汚職有罪でアンディ・キムが新議席を獲得。ブッカーの再選は有力だが共和党が資金投入する可能性もある。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党優位</strong><br>ブッカーは元ニューアーク市長であり、全国的に著名な民主党上院議員。ニュージャージー州は民主党の地盤であるが、州知事選挙が接戦となる「やや青い」州である。マーフィーの資金不足のキャンペーンと薄い予備選勝利により、本格的な番狂わせの可能性は低い；ブッカーが圧倒的に有利。</p>
 </div>`,
 
     NM: () => `
@@ -1267,7 +1273,8 @@ ${_sched([['2026年6月2日','予備選（両党）','終了'],['2026年11月3�
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党優位（Likely D）</strong><br>ルハンは2022年に脳卒中で入院したが回復し職務を継続。ニューメキシコはヒスパニック系人口が多く民主党地盤。エネルギー・水資源政策が地元の主要争点。再選は有力。</p>
 </div>`,
 
-    OK: () => `
+    OK: () => `
+
 <div class="state-info-name">オクラホマ州（OK）— 2026年上院特別選挙</div>
 <div class="state-info-body">${_seatsTable([
   ['空席（マルリン辞任）','R','var(--rep)','2026年（特別選挙）',true],
@@ -1287,8 +1294,10 @@ ${_sched([['2026年6月2日','予備選（両党）','終了'],['2026年11月3�
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：安全R</strong><br>オクラホマ州は確固たる共和党の地盤です。ハーンの幅広い主流派の支持により、本日の決選投票でどちらの民主党候補が勝利しても、11月の特別本選での共和党の議席保持は事実上確実です。</p>
-</div>`,
-
+</div>`,
+
+
+
     OR: () => `
 <div class="state-info-name">オレゴン州（OR） — 2026年上院選挙あり</div>
 <div class="state-info-body">
@@ -1366,7 +1375,8 @@ ${_sched([['2026年6月2日','予備選（共和党）','終了'],['2026年11月
 
 
 
-    WY: () => `
+    WY: () => `
+
 <div class="state-info-name">ワイオミング州 (WY) — 2026年上院選挙</div>
 <div class="state-info-body">${_seatsTable([
   ['シンシア・ルミス（再選を目指さず）','R','var(--rep)','2026年（2020年に当選）',true],
@@ -1384,8 +1394,10 @@ ${_sched([['2026年6月2日','予備選（共和党）','終了'],['2026年11月
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">展望</h4>
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価: 安全R</strong><br>著名な暗号通貨（ビットコイン）支持者であるルミスは、再選を目指さないことを決定。トランプ支持のハリエット・ヘイジマン下院議員が、空席となった共和党予備選で圧勝。ワイオミング州は全米で最も共和党優位の州の一つであり、トランプが2020年と2024年の両方で70%以上を獲得した州である。11月のヘイジマンの勝利は事実上確実である。</p>
-</div>`,
-
+</div>`,
+
+
+
     NE: () => `
 <div class="state-info-name">ネブラスカ州（NE） — 2026年上院選挙あり</div>
 <div class="state-info-body">

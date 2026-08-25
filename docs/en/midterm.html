@@ -272,7 +272,7 @@ const stateData = {
     AR: { ctrl:'RR', seats:['John Boozman (R, 2027)', 'Tom Cotton (R, 2027)'], up2026:true },
     CA: { ctrl:'DD', seats:['Alex Padilla (D, 2029)', 'Adam Schiff (D, 2031)'], up2026:false },
     CO: { ctrl:'DD', seats:['John Hickenlooper (D, 2027)', 'Michael Bennet (D, 2029)'], up2026:true },
-    CT: { ctrl:'DD', seats:['Chris Murphy (D, 2027)', 'Richard Blumenthal (D, 2029)'], up2026:true },
+    CT: { ctrl:'DD', seats:['Richard Blumenthal (D, 2029)', 'Chris Murphy (D, 2031)'], up2026:false },
     DE: { ctrl:'DD', seats:['Lisa Blunt Rochester (D, 2031)', 'Chris Coons (D, 2027)'], up2026:true },
     FL: { ctrl:'RR', seats:['Marco Rubio (→Sec State)', 'Rick Scott (R, 2027)'], up2026:true },
     GA: { ctrl:'DD', seats:['Jon Ossoff (D, 2027)', 'Raphael Warnock (D, 2029)'], up2026:true },
@@ -285,7 +285,7 @@ const stateData = {
     KY: { ctrl:'RR', seats:['Mitch McConnell (R, 2027)', 'Rand Paul (R, 2029)'], up2026:true },
     LA: { ctrl:'RR', seats:['Bill Cassidy (R, 2027)', 'John Kennedy (R, 2029)'], up2026:true },
     ME: { ctrl:'RD', seats:['Susan Collins (R, 2027)', 'Angus King (I/D, 2031)'], up2026:true },
-    MD: { ctrl:'DD', seats:['Angela Alsobrooks (D, 2031)', 'Chris Van Hollen (D, 2027)'], up2026:true },
+    MD: { ctrl:'DD', seats:['Angela Alsobrooks (D, 2031)', 'Chris Van Hollen (D, 2029)'], up2026:false },
     MA: { ctrl:'DD', seats:['Elizabeth Warren (D, 2031)', 'Ed Markey (D, 2027)'], up2026:true },
     MI: { ctrl:'DD', seats:['Gary Peters (D, 2027)', 'Elissa Slotkin (D, 2031)'], up2026:true },
     MN: { ctrl:'DD', seats:['Amy Klobuchar (D, 2027)', 'Tina Smith (D, 2027)'], up2026:true },
@@ -960,13 +960,12 @@ ${_seatsTable([
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">Party</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Notes</th>
   </tr></thead><tbody>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Raja Krishnamoorthi (U.S. Representative)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Elected from IL-8 • Strong candidate to run</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">J.B. Pritzker (current Governor)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Possible entry</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Juliana Stratton (Lt. Governor)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Won Democratic primary over Rep. Krishnamoorthi and Rep. Kelly, backed by Gov. Pritzker</td></tr>
     <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Republican Candidate</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Low probability of victory</td></tr>
   </tbody>
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Democratic Safe Seat (Likely D)</strong><br>High-profile open seat due to the retirement of Senate Majority Whip Durbin (82 years old). Illinois is a strong Democratic stronghold with the Chicago area deciding the election. The March primary is Completed and the Democratic candidate is confirmed. The Democratic Party has an overwhelming advantage in the general election.</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Safe D</strong><br>High-profile open seat due to the retirement of Senate Majority Whip Durbin (82 years old). Lt. Gov. Juliana Stratton won a fiercely contested Democratic primary over U.S. Rep. Raja Krishnamoorthi (who heavily outspent her) and Rep. Robin Kelly, powered by Gov. Pritzker's endorsement and a Pritzker-funded super PAC. Illinois is a strong Democratic stronghold with the Chicago area deciding the election; Stratton is heavily favored in November.</p>
 </div>`,
 
     CO: () => `
@@ -982,11 +981,11 @@ ${_seatsTable([
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Notes</th>
   </tr></thead><tbody>
     <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">John Hickenlooper (Incumbent)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Former Colorado Governor, currently in first term</td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Republican Candidate (Primary Completed)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Republican candidate confirmed in June primary</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Mark Baisley (State Senator)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Ran unopposed in GOP primary; Colorado Republicans struggled to recruit a top-tier challenger</td></tr>
   </tbody>
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Democrat Favored（Lean D）</strong><br>Colorado has maintained Democratic Senate seats since the 2000s. Hickenlooper has high name recognition as a former governor and holds an incumbent advantage. However, a national Republican wave could make this a Toss-up. The Democratic Party controls both seats, making them easier to defend.</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Likely D</strong><br>Hickenlooper beat state Sen. Julie Gonzales in the Democratic primary and holds high name recognition as a former governor. Colorado Republicans never landed a top-tier recruit against him, leaving state Sen. Mark Baisley as the nominee. Colorado has maintained Democratic Senate seats since the 2000s, making Hickenlooper the clear favorite.</p>
 </div>`,
 
     ME: () => `
@@ -1104,10 +1103,10 @@ ${_seatsTable([
     DE: () => `
 <div class="state-info-name">Delaware (DE) — 2026 Senate Election</div>
 <div class="state-info-body">${_seatsTable([
-  ['Chris Coons (incumbent)','D','var(--dem)','2026 (re-elected 2020)',true],
+  ['Chris Coons (Incumbent)','D','var(--dem)','2026 (re-elected 2020)',true],
   ['Lisa Blunt Rochester','D','var(--dem)','2030 (elected 2024)',false],
-])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['September 12, 2026','Primary (both parties)','future'],['November 3, 2026','General Election','future']])}<h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Safe D</strong><br>Coons is known as an ally of former President Biden and is an experienced legislator active on committees including Foreign Relations. Delaware is President Biden's home state and a strong Democratic stronghold. Re-election is virtually certain.</p>
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['September 15, 2026','Primary (both parties)','future'],['November 3, 2026','General Election','future']])}<h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Safe D</strong><br>Coons announced his bid for a 4th term and faces three little-known Democratic primary challengers (Jeff Appelhans, Mary Louve, Eric Hansen); Republicans Michael Katz and John Shulli compete for the GOP nod. Delaware is a strong Democratic stronghold and Coons's re-election is virtually certain.</p>
 </div>`,
 
     KS: () => `
@@ -1166,8 +1165,19 @@ ${_seatsTable([
 <div class="state-info-body">${_seatsTable([
   ['Cory Booker (Incumbent)','D','var(--dem)','2026 (re-elected 2020)',true],
   ['Andy Kim','D','var(--dem)','2030 (elected 2024)',false],
-])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['June 2, 2026','Primary (both parties)','Completed'],['November 3, 2026','General Election','future']])}<h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Democrat Favored（Likely D）</strong><br>Booker is a former Newark mayor and nationally prominent Democratic senator. While NJ is Democratic territory, it is a "softer blue" state where gubernatorial elections remain toss-ups. In 2024, following Senator Menendez's corruption conviction, Andy Kim won the new seat. Booker's reelection is likely, though Republicans may invest campaign funds.</p>
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['June 2, 2026','Primary (both parties)','Completed'],['November 3, 2026','General Election','future']])}<h4 style="margin:0 0 8px;font-size:13px;">Major Candidates</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Candidate</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">Party</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Notes</th>
+  </tr></thead><tbody>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Cory Booker (Incumbent)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Ran unopposed in primary; $22M+ cash on hand</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Justin Murphy</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Navy veteran, won crowded GOP primary with just 33% despite minimal campaign funds</td></tr>
+  </tbody>
+</table>
+<h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Likely D</strong><br>Booker is a former Newark mayor and nationally prominent Democratic senator. While NJ is Democratic territory, it is a "softer blue" state where gubernatorial elections remain toss-ups. Murphy's underfunded campaign and thin primary win make a serious upset unlikely; Booker is heavily favored.</p>
 </div>`,
 
     NM: () => `
