@@ -665,8 +665,10 @@ def update_midterm():
     en_html = en_path.read_text(encoding="utf-8")
     jp_html = jp_path.read_text(encoding="utf-8")
 
-    # EN から JS データブロックをコピー（stateData / upcomingSchedules / projData 等）
-    for var_name in ("upcomingSchedules", "projData", "keyRaces"):
+    # EN から JS データブロックをコピー（stateData / upcomingSchedules / predictions 等）
+    # NOTE: 旧コードは変数名が "projData" になっており実際の変数名 "predictions" と
+    # 一致せず一度もコピーされていなかったバグを修正（2026-08-25）。
+    for var_name in ("upcomingSchedules", "predictions", "keyRaces"):
         m = re.search(
             rf'const {var_name}\s*=\s*\{{.*?\}};',
             en_html, re.DOTALL

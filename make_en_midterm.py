@@ -739,12 +739,84 @@ def patch_from_json(html: str, data: dict) -> str:
             f"  governor: [\n{_items_js(upcoming.get('governor', []))}\n  ],\n"
             "};"
         )
-        # コメント含むブロックごと置換
+        # コメントの日付レンジ (next 8 weeks from X → Y) を更新
+        # NOTE: 旧パターンは "/* ===...\n   UPCOMING SCHEDULE" の装飾行に
+        # \s* しか許容しておらず "=" と一致せず不一致になっていたバグを修正。
+        cutoff_str = (now + timedelta(weeks=8)).strftime("%Y-%m-%d")
         html = re.sub(
-            r'/\*\s*UPCOMING SCHEDULE.*?const upcomingSchedules\s*=\s*\{.*?\};',
-            new_upcoming,
-            html, flags=re.DOTALL,
+            r'(UPCOMING SCHEDULE \(next 8 weeks from )\d{4}-\d{2}-\d{2}(\s*→\s*)\d{4}-\d{2}-\d{2}(\))',
+            rf'\g<1>{now_str}\g<2>{cutoff_str}\g<3>',
+            html,
         )
+        # データブロックだけを確実に置換（コメント装飾に依存しない）
+        html = re.sub(
+            r'const upcomingSchedules\s*=\s*\{.*?\n\};',
+            new_upcoming,
+            html, count=1, flags=re.DOTALL,
+        )
+
+    # ── predictions（2026年議席予想）を置き換え ───────────────────────────
+    proj = data.get("projections", {})
+    if proj:
+        def _pred(chamber, total):
+            p = proj.get(chamber, {})
+            r = p.get("r", 0)
+            d = p.get("d", 0)
+            toss = p.get("tossup", p.get("toss", 0))
+            return f"{{ r:{r}, d:{d}, toss:{toss}, total:{total} }}"
+
+        new_predictions = (
+            "const predictions = {\n"
+            f"  senate:   {_pred('senate', 100)},\n"
+            f"  house:    {_pred('house', 435)},\n"
+            f"  governor: {_pred('governor', 50)},\n"
+            "};"
+        )
+        html = re.sub(
+            r'const predictions\s*=\s*\{.*?\n\};',
+            new_predictions,
+            html, count=1, flags=re.DOTALL,
+        )
+
+    # ── keyRaces（注目レース）を置き換え。データが薄い chamber は既存を維持 ─
+    kr = data.get("key_races", {})
+    if kr:
+        RATING_MAP = {
+            "safe-r": "safe-r", "likely-r": "likely-r", "lean-r": "lean-r",
+            "tossup": "toss", "toss-up": "toss", "toss": "toss",
+            "lean-d": "lean-d", "likely-d": "likely-d", "safe-d": "safe-d",
+        }
+        LABEL_MAP = {
+            "safe-r": "Safe R", "likely-r": "Likely R", "lean-r": "Lean R",
+            "toss": "Toss-up", "lean-d": "Lean D", "likely-d": "Likely D",
+            "safe-d": "Safe D",
+        }
+
+        def _race_items(items):
+            lines = []
+            for it in items:
+                rating = RATING_MAP.get((it.get("rating") or "toss").lower(), "toss")
+                label = it.get("label") or LABEL_MAP.get(rating, "Toss-up")
+                lines.append(
+                    "    { state: %s, incumbent: %s, party: %s, rating: %s, label: %s },"
+                    % (_json.dumps(it.get("state", "")), _json.dumps(it.get("incumbent", "")),
+                       _json.dumps(it.get("party", "")), _json.dumps(rating), _json.dumps(label))
+                )
+            return "\n".join(lines)
+
+        m = re.search(r'const keyRaces\s*=\s*\{(.*?)\n\};', html, re.DOTALL)
+        if m:
+            body = m.group(1)
+            for chamber in ("senate", "house", "governor"):
+                items = kr.get(chamber, [])
+                if len(items) < 5:
+                    continue  # データが薄い chamber は既存の一覧を維持
+                body = re.sub(
+                    rf'{chamber}:\s*\[.*?\n  \],',
+                    f"{chamber}: [\n{_race_items(items)}\n  ],",
+                    body, count=1, flags=re.DOTALL,
+                )
+            html = html[:m.start()] + "const keyRaces = {" + body + "\n};" + html[m.end():]
 
     # ── key_developments をコメントとして埋め込む ─────────────────────────
     devs = data.get("key_developments", [])

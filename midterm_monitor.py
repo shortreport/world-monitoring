@@ -151,7 +151,7 @@ def analyze_with_claude(articles: list[dict], client) -> dict:
         return {"projections": {}, "key_developments": [], "key_races": {}}
 
     articles_text = "\n".join(
-        f"[{a['date']}] {a['title']}\n{a['summary']}" for a in articles[:30]
+        f"[{a['date']}] {a['title']}\n{a['summary']}" for a in articles[:45]
     )
     today_str = datetime.now(JST).strftime("%Y-%m-%d")
 
@@ -190,13 +190,14 @@ Output ONLY valid JSON (no markdown, no explanation) with this structure:
 Rules:
 - projections: best estimate of final seat counts after 2026 election (Senate: 100 total, House: 435 total, Governor: 50 total active races ≈ 36 up in 2026)
 - key_developments: top 3-5 notable changes or news items from the articles
-- key_races: top 5-8 most competitive/newsworthy races per chamber
+- key_races: as many competitive/newsworthy races as the articles support, aim for 6-10 per chamber (fewer is fine if data is thin — do not invent races not grounded in the articles)
+- rating must be one of: safe-r, likely-r, lean-r, toss, lean-d, likely-d, safe-d
 - Use only information from the provided articles; do not invent data
 - If articles are insufficient for a specific chamber, use reasonable defaults (Senate R:56 D:42 Tossup:2, House R:215 D:185 Tossup:35, Governor R:22 D:14 Tossup:0)
 """
     try:
         msg = client.messages.create(
-            model=MODEL, max_tokens=2000,
+            model=MODEL, max_tokens=3500,
             messages=[{"role": "user", "content": prompt}],
         )
         raw = msg.content[0].text.strip()
@@ -229,11 +230,12 @@ def main():
         "2026 US House election competitive districts forecast",
         "2026 US Governor race battleground states",
         "2026 midterm election polls swing states",
+        "2026 midterm election toss-up races",
     ]
     all_articles = []
     for q in queries:
         print(f"  収集中: {q[:60]}...")
-        arts = collect_news(q, max_articles=8)
+        arts = collect_news(q, max_articles=12)
         all_articles.extend(arts)
         time.sleep(1)
 

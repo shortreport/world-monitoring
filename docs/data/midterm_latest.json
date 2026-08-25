@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T08:08:28.641130+09:00",
-  "article_count": 19,
+  "generated_at": "2026-08-25T14:24:15.007948+09:00",
+  "article_count": 41,
   "projections": {
     "senate": {
       "r": 51,
@@ -19,78 +19,111 @@
     }
   },
   "key_developments": [
-    "Progressive Democrat Abdul El-Sayed defeated establishment moderate Haley Stevens in Michigan's Democratic Senate primary, signaling Democratic Party civil war between left and center-left wings heading into midterms.",
-    "Republican Bruce Blakeman is surging against Democratic Governor Kathy Hochul in New York, threatening Democratic control of a traditionally safe blue state.",
-    "Democrats face challenging midterm landscape despite strong voter turnout, with control of Congress hanging in the balance against Republican trifecta of White House, Senate, and House.",
-    "Iowa Senate race tests whether the state remains a swing state as Democrats seek to reclaim Congress after two years of powerlessness during Trump's second term.",
-    "Immigration politics and Trump's ICE crackdown emerge as perilous issue for GOP as midterm elections approach in three months."
+    "Iowa and Texas Senate races shifted to toss-up status, expanding Democrats' path to Senate control as Trump economy concerns affect rural voters.",
+    "Progressive Abdul El-Sayed narrowly won Michigan Democratic Senate primary over centrist Haley Stevens, setting up general election against Republican Mike Rogers in key battleground.",
+    "Wisconsin gubernatorial race emerging as competitive, with Democrat David Crowley holding narrow lead over Republican Tom Tiffany in post-primary polling.",
+    "Democratic turnout appears strong heading into November despite internal party divisions, contradicting historical patterns of midterm fatigue.",
+    "Trump's primary victories over incumbents including Cornyn and Cassidy may create general election vulnerabilities in competitive districts."
   ],
   "key_races": {
     "senate": [
       {
         "state": "MI",
         "incumbent": "Mike Rogers (R)",
-        "party": "D",
+        "party": "R",
         "rating": "tossup",
         "label": "Michigan Senate",
-        "note": "Abdul El-Sayed, progressive former public health official, won Democratic primary against establishment moderate Haley Stevens in upset."
+        "note": "Abdul El-Sayed (D) leads Rogers 48-47 per AARP poll but struggles with voters 50+ in this deadlocked race."
       },
       {
         "state": "IA",
-        "incumbent": "Unknown (R)",
-        "party": "D",
-        "rating": "lean-r",
+        "incumbent": "Chuck Grassley (R)",
+        "party": "R",
+        "rating": "tossup",
         "label": "Iowa Senate",
-        "note": "Democrats testing whether Iowa remains a swing state in increasingly competitive midterm environment."
+        "note": "Race increasingly competitive as Trump economy hurts agricultural voters; shifted from solid Republican to toss-up."
       },
       {
-        "state": "WI",
-        "incumbent": "Unknown",
-        "party": "D",
+        "state": "TX",
+        "incumbent": "Ted Cruz (R)",
+        "party": "R",
         "rating": "lean-r",
-        "label": "Wisconsin Senate",
-        "note": "Democrat Fran Hong race may cost Democrats significant midterm gains according to recent reporting."
+        "label": "Texas Senate",
+        "note": "Cook Political Report downgraded race from safe to toss-up, representing significant Democratic opportunity in Trump stronghold."
+      },
+      {
+        "state": "GA",
+        "incumbent": "Jon Ossoff (D)",
+        "party": "D",
+        "rating": "lean-d",
+        "label": "Georgia Senate",
+        "note": "Democrats defending Trump-won state but within striking distance; part of critical battleground holding pattern."
       }
     ],
     "house": [
       {
-        "state": "MI-3",
-        "incumbent": "Unknown",
+        "state": "WI-03",
+        "incumbent": "Tom Tiffany (R)",
         "party": "R",
         "rating": "tossup",
-        "label": "Michigan-3",
-        "note": "Part of battleground Michigan's high-stakes midterm fight affecting House control."
+        "label": "Wisconsin 3rd District",
+        "note": "David Crowley holds narrow Democratic lead in first post-primary poll of this competitive House race."
+      },
+      {
+        "state": "OH-13",
+        "incumbent": "Max Miller (R)",
+        "party": "R",
+        "rating": "lean-r",
+        "label": "Ohio 13th District",
+        "note": "Cook Political Report downgraded from Solid Republican to Likely Republican, indicating Democratic competitiveness."
+      },
+      {
+        "state": "CO-03",
+        "incumbent": "Lauren Boebert (R)",
+        "party": "R",
+        "rating": "lean-r",
+        "label": "Colorado 3rd District",
+        "note": "Shifted from Solid Republican to Likely Republican per Cook ratings, showing erosion of GOP advantage."
+      },
+      {
+        "state": "OH-16",
+        "incumbent": "Unknown (R)",
+        "party": "R",
+        "rating": "lean-r",
+        "label": "Ohio 16th District",
+        "note": "Second Ohio district downgraded from Solid to Likely Republican in recent Cook Political Report update."
       }
     ],
     "governor": [
       {
+        "state": "WI",
+        "incumbent": "Tom Tiffany (R)",
+        "party": "R",
+        "rating": "tossup",
+        "label": "Wisconsin Governor",
+        "note": "Democrat David Crowley holds narrow lead over Republican Tom Tiffany; poised to be one of most competitive gubernatorial races."
+      },
+      {
         "state": "NY",
         "incumbent": "Kathy Hochul (D)",
-        "party": "R",
+        "party": "D",
         "rating": "lean-d",
         "label": "New York Governor",
-        "note": "Republican Bruce Blakeman surging against Hochul in traditionally Democratic state according to Siena University poll."
+        "note": "Republican Bruce Blakeman surging in latest Siena poll, gaining ground on Democratic incumbent in traditionally blue state."
+      },
+      {
+        "state": "MI",
+        "incumbent": "Gretchen Whitmer (D)",
+        "party": "D",
+        "rating": "likely-d",
+        "label": "Michigan Governor",
+        "note": "Democratic incumbent running in competitive midterm battleground state."
       }
     ]
   },
   "upcoming_schedule": {
     "senate": [
       {
-        "date": "Aug 18",
-        "state": "Florida (FL)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 18",
-        "state": "Alaska (AK)",
-        "event": "RCV Top-4 Primary"
-      },
-      {
-        "date": "Aug 18",
-        "state": "Wyoming (WY)",
-        "event": "Primary Election"
-      },
-      {
         "date": "Aug 25",
         "state": "Oklahoma (OK)",
         "event": "Primary Election"
@@ -138,21 +171,6 @@
     ],
     "house": [
       {
-        "date": "Aug 18",
-        "state": "Florida (FL)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 18",
-        "state": "Alaska (AK)",
-        "event": "RCV Top-4 Primary"
-      },
-      {
-        "date": "Aug 18",
-        "state": "Wyoming (WY)",
-        "event": "Primary Election"
-      },
-      {
         "date": "Aug 25",
         "state": "Oklahoma (OK)",
         "event": "Primary Election"
@@ -199,21 +217,6 @@
       }
     ],
     "governor": [
-      {
-        "date": "Aug 18",
-        "state": "Florida (FL)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Aug 18",
-        "state": "Alaska (AK)",
-        "event": "RCV Top-4 Primary"
-      },
-      {
-        "date": "Aug 18",
-        "state": "Wyoming (WY)",
-        "event": "Primary Election"
-      },
       {
         "date": "Aug 25",
         "state": "Oklahoma (OK)",
