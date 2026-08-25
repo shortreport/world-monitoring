@@ -686,6 +686,10 @@ def update_midterm():
                      rf'\g<1>{DATE_JP}\2', jp_html)
     jp_html = re.sub(r'(最終更新:)[^<]*(</div>)',
                      rf'\g<1> {DATETIME_JP}\2', jp_html)
+    # footer の「更新: YYYY-MM-DD」も更新（旧コードは未対応で 2026-06-25 のまま残っていたバグを修正）
+    today_iso = now_jst.strftime("%Y-%m-%d")
+    jp_html = re.sub(r'(更新:\s*)\d{4}-\d{2}-\d{2}',
+                     rf'\g<1>{today_iso}', jp_html)
 
     jp_path.write_text(jp_html, encoding="utf-8")
     print(f"  保存: {jp_path}")
