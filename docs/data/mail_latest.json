@@ -1,29 +1,173 @@
 {
-  "generated_at": "2026-08-24 01:00 JST",
-  "sender_count": 1,
-  "total_mails": 1,
+  "generated_at": "2026-08-25 10:47 JST",
+  "sender_count": 5,
+  "total_mails": 17,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 1,
+      "count": 6,
       "bullets": [
-        "米国とカナダの貿易交渉が金曜夜に決裂し、カナダ産品への50%関税が脅威となっている状況を解説",
-        "今後の交渉進展の方法と見通しについてEurasia Groupのアナリストが分析",
-        "USMCA（米国・メキシコ・カナダ協定）の再交渉見通しを検討",
-        "8月24日午前10時（EDT）のオンライン会議で事前質問の受付実施",
-        "カナダの前首相の戦略顧問を務めたEurasia Groupチェアマン、ジェラルド・バッツが登壇予定"
+        "要約取得に失敗しました。"
       ],
       "subjects": [
         [
-          "2026-08-23",
-          "US-Canada trade update",
-          "data/pdfs/20260823_0207_US-Canada_trade_update.pdf"
+          "2026-08-24",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20260824_1359_EG_Research_Summary_in_Japanese.pdf"
+        ],
+        [
+          "2026-08-24",
+          "US-Canada trade update - EG Conference Call, REMINDER",
+          "data/pdfs/20260824_2102_US-Canada_trade_update_-_EG_Conference_Call,_REMIN.pdf"
+        ],
+        [
+          "2026-08-24",
+          "US-Canada de-escalation likely requires Trump to act",
+          "data/pdfs/20260824_2125_US-Canada_de-escalation_likely_requires_Trump_to_a.pdf"
+        ],
+        [
+          "2026-08-25",
+          "Product prices will outpace crude as Middle East conflict drags on",
+          "data/pdfs/20260825_0228_Product_prices_will_outpace_crude_as_Middle_East_c.pdf"
+        ],
+        [
+          "2026-08-25",
+          "CONFERENCE CALL NOTES: US-Canada trade update",
+          "data/pdfs/20260825_0608_CONFERENCE_CALL_NOTES__US-Canada_trade_update.pdf"
+        ],
+        [
+          "2026-08-25",
+          "Security concessions will shield US trade talks",
+          "data/pdfs/20260825_0743_Security_concessions_will_shield_US_trade_talks.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260823_0207_US-Canada_trade_update.pdf"
+        "data/pdfs/20260824_1359_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20260824_2102_US-Canada_trade_update_-_EG_Conference_Call,_REMIN.pdf",
+        "data/pdfs/20260824_2125_US-Canada_de-escalation_likely_requires_Trump_to_a.pdf",
+        "data/pdfs/20260825_0228_Product_prices_will_outpace_crude_as_Middle_East_c.pdf",
+        "data/pdfs/20260825_0608_CONFERENCE_CALL_NOTES__US-Canada_trade_update.pdf",
+        "data/pdfs/20260825_0743_Security_concessions_will_shield_US_trade_talks.pdf"
+      ]
+    },
+    {
+      "sender": "Eurasia",
+      "short": "EURAS",
+      "color": "YEL",
+      "count": 1,
+      "bullets": [
+        "要約取得に失敗しました。"
+      ],
+      "subjects": [
+        [
+          "2026-08-25",
+          "Daily Research Summary - Aug 24th, 2026",
+          "data/pdfs/20260825_0834_Daily_Research_Summary_-_Aug_24th,_2026.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260825_0834_Daily_Research_Summary_-_Aug_24th,_2026.pdf"
+      ]
+    },
+    {
+      "sender": "Heather",
+      "short": "HEATH",
+      "color": "RED",
+      "count": 1,
+      "bullets": [
+        "要約取得に失敗しました。"
+      ],
+      "subjects": [
+        [
+          "2026-08-24",
+          "EG Update",
+          "data/pdfs/20260824_2053_EG_Update.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260824_2053_EG_Update.pdf"
+      ]
+    },
+    {
+      "sender": "POLITICO",
+      "short": "POLIT",
+      "color": "ORG",
+      "count": 8,
+      "bullets": [
+        "要約取得に失敗しました。"
+      ],
+      "subjects": [
+        [
+          "2026-08-24",
+          "After the heat, the crisis",
+          "data/pdfs/20260824_1351_After_the_heat,_the_crisis.pdf"
+        ],
+        [
+          "2026-08-24",
+          "TRAN’s consensus on CO2 standards",
+          "data/pdfs/20260824_1402_TRAN’s_consensus_on_CO2_standards.pdf"
+        ],
+        [
+          "2026-08-24",
+          "Germany’s establishment has a plan to contain the far right. Sort",
+          "data/pdfs/20260824_1635_Germany’s_establishment_has_a_plan_to_contain_the_.pdf"
+        ],
+        [
+          "2026-08-24",
+          "Tiny fish could unlock new MS drugs. Brexit is getting in the way.",
+          "data/pdfs/20260824_1735_Tiny_fish_could_unlock_new_MS_drugs._Brexit_is_get.pdf"
+        ],
+        [
+          "2026-08-24",
+          "The Danube is drying up. Europe still has no plan.",
+          "data/pdfs/20260824_1905_The_Danube_is_drying_up._Europe_still_has_no_plan..pdf"
+        ],
+        [
+          "2026-08-24",
+          "Ukraine widens its targets — and its tolerance for causing civilian",
+          "data/pdfs/20260824_2106_Ukraine_widens_its_targets_—_and_its_tolerance_for.pdf"
+        ],
+        [
+          "2026-08-24",
+          "Trump announces 50 percent tariff increase on Canada for",
+          "data/pdfs/20260824_2328_Trump_announces_50_percent_tariff_increase_on_Cana.pdf"
+        ],
+        [
+          "2026-08-25",
+          "Pro Daily Headlines",
+          "data/pdfs/20260825_0031_Pro_Daily_Headlines.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260824_1351_After_the_heat,_the_crisis.pdf",
+        "data/pdfs/20260824_1402_TRAN’s_consensus_on_CO2_standards.pdf",
+        "data/pdfs/20260824_1635_Germany’s_establishment_has_a_plan_to_contain_the_.pdf",
+        "data/pdfs/20260824_1735_Tiny_fish_could_unlock_new_MS_drugs._Brexit_is_get.pdf",
+        "data/pdfs/20260824_1905_The_Danube_is_drying_up._Europe_still_has_no_plan..pdf",
+        "data/pdfs/20260824_2106_Ukraine_widens_its_targets_—_and_its_tolerance_for.pdf",
+        "data/pdfs/20260824_2328_Trump_announces_50_percent_tariff_increase_on_Cana.pdf",
+        "data/pdfs/20260825_0031_Pro_Daily_Headlines.pdf"
+      ]
+    },
+    {
+      "sender": "ビジネス短信",
+      "short": "ビジネス短",
+      "color": "GRN",
+      "count": 1,
+      "bullets": [
+        "要約取得に失敗しました。"
+      ],
+      "subjects": [
+        [
+          "2026-08-24",
+          "「ジェトロ・ビジネス短信」2026/08/24",
+          "data/pdfs/20260824_1907_「ジェトロ・ビジネス短信」2026_08_24.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260824_1907_「ジェトロ・ビジネス短信」2026_08_24.pdf"
       ]
     }
   ]
