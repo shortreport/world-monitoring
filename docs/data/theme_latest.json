@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25 10:55:46",
+  "generated_at": "2026-08-25 14:34:26",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-25 10:55:07",
+      "last_checked": "2026-08-25 14:34:01",
       "items": [
         {
           "uid": "a80e48f270ef",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-25 10:55:21",
+      "last_checked": "2026-08-25 14:34:09",
       "items": [
         {
           "uid": "f11043d46111",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-25 10:55:46",
+      "last_checked": "2026-08-25 14:34:26",
       "items": [
+        {
+          "uid": "2d3552420676",
+          "date": "2026-06-01",
+          "title": "China Is Closing the Door on Heavy Rare Earth Exports for Good, NioCorp CEO Warns in Fox News Op-Ed - Investing News Network",
+          "summary": "中国は重希土類元素の輸出を恒久的に制限する方針を強化しており、NioCorpのCEOはこの動きが西側諸国のサプライチェーン安全保障に深刻な脅威となると警告しています。中国による輸出管理の厳格化は、電子機器や防衛産業など重要産業の資源確保を困難にする可能性があります。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVhha1Izbm5Bek9uNktXNGNNRURBLUUwNnFQUkk2NU9FbWdpU21iRHVBUTR4RjllX1VEVGdfQVZBOU1wOVc3TzltMFhOdUhya1dUV0NMcHZ4LXE1d05KTDJfNGdyT1FEMnJ1dW9Uc1J0dHk1SXdET0NkQjREVlV3WFFqT1BNQ05uS0hvZ04yMzFiUHVMbl9UTzNMRGE2d0VpbVNWRVpiOVRJN3BJTGdNMlEyWWVBTWpTcHpYU2RGbG9wWDg?oc=5",
+          "added_at": "2026-08-25 14:34:21"
+        },
+        {
+          "uid": "73a84915543a",
+          "date": "2026-07-13",
+          "title": "A $5M startup claims rare earth-free electric motor breakthrough - Electrek",
+          "summary": "レアアース不要な電動モーターの開発に成功したスタートアップが現れたもので、中国のレアアース輸出管理に対する代替技術の可能性を示唆しています。",
+          "source": "自動車・EV大手",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HRVJIVnBWS1l1M1I5MlRkWVlGa0wzQW9ZWjRTOGtVZTM2bndDU3hTVDJFbVJPZFp2SGs4VW5VV3BTZnhFTTNwbnNiX1RSY3NlVU0tMHZDbVc4ZE9CbmJWR1JXaExuTURhOGQzZ0VDanZ3TDFiaVlyLVRR?oc=5",
+          "added_at": "2026-08-25 14:34:21"
+        },
         {
           "uid": "dcc985f6a41d",
           "date": "2026-06-23",
@@ -6010,26 +6030,6 @@
           "source": "トランプ政権",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzNLT1Q0WU9MVnAwcVJ6WUc3dG9aVjk1eGlhbS1sc1NvMXpXcnlST1FrdU9JeDJuMGVxS29ZckI0aXI4YnVxVC03QXNzX3prQk1VWWdiT3JYNWRfQjg1d0tmQVR3d1JSblkzSDlhT0M3Zk1jaXk3TWRNNFA4X3ZBaXFNZw?oc=5",
-          "added_at": "2026-07-24 16:34:33"
-        },
-        {
-          "uid": "31f44e7d32a4",
-          "date": "2026-05-15",
-          "title": "Pentagon Deal Team Six: America’s Rare Earth Supply Chain Battle - Discovery Alert",
-          "summary": "米国防総省がレアアース供給チェーンの確保に向けて対策チーム「Deal Team Six」を立ち上げ、中国の輸出管理による供給依存の脆弱性に対抗しようとしている。この取組は、防衛産業の継続的な運営に不可欠なレアアース資源の自給体制構築を目指すものである。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3I5blFLNHhUU0J4LTZkYWtvcHlCOWxvendvSGJRaFRvSVFmQXNITmhHZk5DamZfLWFtN1pITWZKZTFWc1NhY05GNElaRjI1U2VmQUlCWGxtZ3BiMWpMUTZ5Q2pmdVktVHNBVEhRZGFpRDM3RmpRVThRNG5HQWMzRGRkdDU0RnB1?oc=5",
-          "added_at": "2026-07-24 16:34:33"
-        },
-        {
-          "uid": "4e72bce5ecd8",
-          "date": "2026-06-18",
-          "title": "Pentagon Backs Phoenix Tailings’ Rare Earth Processing Push in 2026 - Discovery Alert",
-          "summary": "米国国防総省がフェニックス・テイリングス社のレアアース処理施設の2026年稼働を支持しており、これは中国のレアアース輸出管理に対抗するための米国の国内供給確保戦略の一環である。米国は中国への依存を減らすため、国防関連産業向けのレアアース加工能力の強化を急速に進めている。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSlRvT0phNFhMS0lWdFVqUXZZaVdNOUVpdjhneUc3SjdsS1hJY0taRUVuR0Y5THJXU1R2WmpscmNhTjlGZTM4Q2ZQM2h4QTBrQXEydmR4Zm80NGRWUFVkNXhjZmdUZkRVYk8yV3R2RVVrWUotY1NsOXJMYW1sX1VsUWlSckFfay04UmU5cUpmaTl6dUtLZkVLWWZiRE0?oc=5",
           "added_at": "2026-07-24 16:34:33"
         }
       ]
