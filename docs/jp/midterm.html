@@ -295,7 +295,7 @@ const stateData = {
     NM: { ctrl:'DD', seats:['Martin Heinrich (D, 2027)', 'Ben Ray Luján (D, 2027)'], up2026:true },
     NY: { ctrl:'DD', seats:['Chuck Schumer (D, 2029)', 'Kirsten Gillibrand (D, 2031)'], up2026:false },
     NC: { ctrl:'RR', seats:['Thom Tillis (R, 2027)', 'Ted Budd (R, 2029)'], up2026:true },
-    ND: { ctrl:'RR', seats:['John Hoeven (R, 2027)', 'Kevin Cramer (R, 2029)'], up2026:true },
+    ND: { ctrl:'RR', seats:['John Hoeven (R, 2029)', 'Kevin Cramer (R, 2031)'], up2026:false },
     OH: { ctrl:'RR', seats:['Bernie Moreno (R, 2031)', 'Jon Husted (R, 2027)'], up2026:true },
     OK: { ctrl:'RR', seats:['James Lankford (R, 2027)', 'Markwayne Mullin (R, 2027)'], up2026:true },
     OR: { ctrl:'DD', seats:['Ron Wyden (D, 2027)', 'Jeff Merkley (D, 2027)'], up2026:true },
@@ -308,7 +308,7 @@ const stateData = {
     UT: { ctrl:'RR', seats:['Mike Lee (R, 2029)', 'John Curtis (R, 2031)'], up2026:false },
     VT: { ctrl:'DD', seats:['Bernie Sanders (I/D, 2031)', 'Peter Welch (D, 2029)'], up2026:false },
     VA: { ctrl:'DD', seats:['Mark Warner (D, 2027)', 'Tim Kaine (D, 2031)'], up2026:true },
-    WA: { ctrl:'DD', seats:['Patty Murray (D, 2029)', 'Maria Cantwell (D, 2027)'], up2026:true },
+    WA: { ctrl:'DD', seats:['Patty Murray (D, 2029)', 'Maria Cantwell (D, 2031)'], up2026:false },
     WV: { ctrl:'RR', seats:['Shelley Moore Capito (R, 2027)', 'Jim Justice (R, 2031)'], up2026:true },
     WI: { ctrl:'RD', seats:['Tammy Baldwin (D, 2031)', 'Ron Johnson (R, 2029)'], up2026:false },
     WY: { ctrl:'RR', seats:['John Barrasso (R, 2027)', 'Cynthia Lummis (R, 2027)'], up2026:true },
@@ -1237,16 +1237,12 @@ ${_sched([['2026年9月15日','予備選（両党）','future'],['2026年11月3�
 </div>`,
 
     NM: () => `
-<div class="state-info-name">ニューメキシコ州（NM） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['ベン・レイ・ルハン（現職）','D','var(--dem)','2026年（2020年に当選）',true],
-  ['マーティン・ハインリッヒ','D','var(--dem)','2030年（2024年に再選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年6月2日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党優位（Likely D）</strong><br>ルハンは2022年に脳卒中で入院したが回復し職務を継続。ニューメキシコはヒスパニック系人口が多く民主党地盤。エネルギー・水資源政策が地元の主要争点。再選は有力。</p>
+<div class="state-info-name">ニューメキシコ州（NM）— 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['ベン・レイ・ルハン（現職）','D','var(--dem)','2026年（2020年当選）',true],
+  ['マーティン・ハインリッヒ','D','var(--dem)','2030年（2024年再選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年6月2日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>予測：安全D</strong><br>ルハンは2022年に脳卒中で入院したが回復し、職務を継続している。異例の展開として、ニューメキシコ州の共和党候補クリストファー・ヴァンデン・ヒューベルは署名不足により投票用紙から失格となった。これは州の近代史上初めて、上院本選が事実上共和党の主要政党候補を欠く事態となる（共和党は書き込み投票の取り組みを検討している）。ニューメキシコ州はヒスパニック系人口が多く、民主党の地盤である。ルハンの再選は事実上確実である。</p>
 </div>`,
 
     OK: () => `
@@ -1326,16 +1322,12 @@ ${_sched([['2026年9月8日','予備選（両党）','future'],['2026年11月3�
 </div>`,
 
     SD: () => `
-<div class="state-info-name">サウスダコタ州（SD） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['マイク・ラウンズ（現職）','R','var(--rep)','2026年（2020年に再選）',true],
-  ['ジョン・スーン（上院院内総務）','R','var(--rep)','2028年（2022年に再選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年6月2日','予備選（共和党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏（Safe R）</strong><br>ラウンズは元州知事で農業・金融委員会で活動する穏健派。スーン上院院内総務（マコネルの後継）と並びSDの2議席を共和党が独占。サウスダコタは大統領選でも共和党が30ポイント以上の差をつける深紅の州で、ラウンズの再選は確実。</p>
+<div class="state-info-name">サウスダコタ州（SD）— 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['マイク・ラウンズ（現職）','R','var(--rep)','2026年（2020年再選）',true],
+  ['ジョン・スーン（上院多数党院内幹事）','R','var(--rep)','2028年（2022年再選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年6月2日','予備選（共和党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：安全R</strong><br>ラウンズは元知事であり、農業委員会と財政委員会に所属する穏健派です。民主党候補のジュリアン・ボーディオンは無投票で予備選を勝ち取った後に辞退し、無所属のブライアン・ベングス（2022年の民主党候補としてスーンと接戦を繰り広げた）がラウンズの主な11月の対抗馬として残りました。上院多数党院内幹事のスーンと共に、サウスダコタ州の2議席は完全に共和党が支配しており、ラウンズの再選は確実です。</p>
 </div>`,
 
     VA: () => `
@@ -1385,16 +1377,12 @@ ${_sched([['2026年6月2日','予備選（共和党）','終了'],['2026年11月
 
 
     NE: () => `
-<div class="state-info-name">ネブラスカ州（NE） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['ピート・リケッツ（現職・元知事）','R','var(--rep)','2026年（2023年に任命）',true],
+<div class="state-info-name">ネブラスカ州（NE）— 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['ピート・リケッツ（現職、元知事）','R','var(--rep)','2026年（2023年に任命）',true],
   ['デブ・フィッシャー','R','var(--rep)','2030年（2024年に再選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年5月12日','無党派一括予備選','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏（Safe R）</strong><br>リケッツは元プロ野球球団オーナー（シカゴ・カブス）・元ネブラスカ州知事。ベン・サス前議員の辞任に伴い2023年に任命。今回が初の選挙。ネブラスカは農業州で共和党の強固な地盤（ただし第2選挙区は民主党が競争力を持つ）。再選はほぼ確実。</p>
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年5月12日','無党派予備選','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：安全R</strong><br>リケッツは元プロ野球チームオーナー（シカゴ・カブス）であり、元ネブラスカ州知事です。彼は2023年に元上院議員ベン・サッセの辞任を受けて任命されました。ネブラスカ州民主党は意図的に本格的な候補者を立てず（名目上の勝者シンディ・バーバンクは撤退を表明）、代わりに無所属のダン・オズボーン（2024年に接戦を展開した元労働組合指導者）をリケッツを倒す最良の機会として支持しています。ネブラスカ州は農業州であり、堅固な共和党の地盤です。オズボーンの幅広い支持にもかかわらず、再選が有力です。</p>
 </div>`,
 
     // ── 2026年上院選挙なし（4州） ───────────────────────
