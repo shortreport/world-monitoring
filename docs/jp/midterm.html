@@ -270,7 +270,7 @@ const stateData = {
     CO: { ctrl:'DD', seats:['John Hickenlooper (D, 2027)', 'Michael Bennet (D, 2029)'], up2026:true },
     CT: { ctrl:'DD', seats:['Richard Blumenthal (D, 2029)', 'Chris Murphy (D, 2031)'], up2026:false },
     DE: { ctrl:'DD', seats:['Lisa Blunt Rochester (D, 2031)', 'Chris Coons (D, 2027)'], up2026:true },
-    FL: { ctrl:'RR', seats:['Marco Rubio (→Sec State)', 'Rick Scott (R, 2027)'], up2026:true },
+    FL: { ctrl:'RR', seats:['Ashley Moody (R, 2027)', 'Rick Scott (R, 2031)'], up2026:true },
     GA: { ctrl:'DD', seats:['Jon Ossoff (D, 2027)', 'Raphael Warnock (D, 2029)'], up2026:true },
     HI: { ctrl:'DD', seats:['Brian Schatz (D, 2029)', 'Mazie Hirono (D, 2027)'], up2026:true },
     ID: { ctrl:'RR', seats:['Mike Crapo (R, 2029)', 'Jim Risch (R, 2027)'], up2026:true },
@@ -301,7 +301,7 @@ const stateData = {
     OR: { ctrl:'DD', seats:['Ron Wyden (D, 2027)', 'Jeff Merkley (D, 2027)'], up2026:true },
     PA: { ctrl:'RD', seats:['Dave McCormick (R, 2031)', 'John Fetterman (D, 2028)'], up2026:false },
     RI: { ctrl:'DD', seats:['Sheldon Whitehouse (D, 2029)', 'Jack Reed (D, 2027)'], up2026:true },
-    SC: { ctrl:'RR', seats:['Lindsey Graham (R, 2027)', 'Tim Scott (R, 2029)'], up2026:true },
+    SC: { ctrl:'RR', seats:['Darline Graham (R, 2027)', 'Tim Scott (R, 2029)'], up2026:true },
     SD: { ctrl:'RR', seats:['John Thune (R, 2029)', 'Mike Rounds (R, 2027)'], up2026:true },
     TN: { ctrl:'RR', seats:['Marsha Blackburn (R, 2027)', 'Bill Hagerty (R, 2027)'], up2026:true },
     TX: { ctrl:'RR', seats:['John Cornyn (R, 2027)', 'Ted Cruz (R, 2031)'], up2026:true },
@@ -739,35 +739,29 @@ ${_seatsTable([
 
 
     TN: () => `
-<div class="state-info-name">テネシー州（TN） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['ビル・ハガーティ（現職）','R','var(--rep)','2026年（2020年に当選）',true],
-  ['マーシャ・ブラックバーン','R','var(--rep)','2030年（2024年に再選）',false]
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年8月6日','民主党予備選','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 6px;font-size:13px;">注目点</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">ビル・ハガーティ現職が再選を目指す。共和党予備選は対抗馬なし（無投票通過）。民主党は4名が予備選で争う。テネシーで民主党が上院議席を制したのは1990年が最後。</p>
-<h4 style="margin:0 0 8px;font-size:13px;">各党の候補者状況</h4>
+<div class="state-info-name">テネシー州（TN）— 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['ビル・ハガティ（現職）','R','var(--rep)','2026年（2020年当選）',true],
+  ['マーシャ・ブラックバーン','R','var(--rep)','2030年（2024年再選）',false]
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年8月6日','民主党予備選','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 6px;font-size:13px;">重要ポイント</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">現職のビル・ハガティが再選を目指す。共和党予備選では対立候補なし（無投票）。民主党予備選では4名が競合。テネシー州で民主党が上院議席を獲得したのは1990年が最後。</p>
+<h4 style="margin:0 0 8px;font-size:13px;">政党別候補者</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
-    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">政党</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">状況</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">ビル・ハガーティ（現職）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">共和党予備選無投票通過。2020年62.2%で当選。</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">マルキータ・ブラッドショー ほか3名</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">2026年8月6日の予備選で1名に絞る</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">ビル・ハガティ（現職）</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">共和党予備選無投票。2020年に62.2%で当選。</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">マルキータ・ブラッドショー</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">8月6日予備選で54.8%を獲得し勝利、2020年本選でハガティと対決した再戦</td></tr>
   </tbody>
 </table>
-<h4 style="margin:0 0 8px;font-size:13px;">予想レーティング</h4>
-<p style="font-size:12px;margin:0 0 12px;line-height:1.6;">Lean R（共和党優位）。世論調査のデータは公表されていない。</p>
+<h4 style="margin:0 0 8px;font-size:13px;">評価</h4>
+<p style="font-size:12px;margin:0 0 12px;line-height:1.6;">安全R。詳細な本選世論調査データは入手不可。</p>
 <h4 style="margin:0 0 6px;font-size:13px;">分析</h4>
-<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">テネシーは1994年以降、連邦上院議員を全て共和党が独占。ハガーティは大統領特使（駐日大使）経験者で現職優位。民主候補は8月予備選後に確定。構造的に共和党の強固な地盤であり、劇的な変化は見込みにくい。</p>
-${_photoRow([
-  {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bill_Hagerty_senatorial_portrait.jpg/330px-Bill_Hagerty_senatorial_portrait.jpg', name:'ビル・ハガーティ', party:'共和党', color:'var(--rep)'}
-])}
-<p style="font-size:11px;color:var(--text-sub);margin-top:6px;">民主党候補は2026年8月6日の予備選で確定</p>
+<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">テネシー州は1994年以来、連邦上院で共和党のみが議席を占めている。ハガティは元大統領特使および駐日米国大使であり、現職の優位性を持つ。メンフィス出身の環境活動家ブラッドショーは、2020年にハガティに敗れた。構造的に共和党の強固な牙城であり、劇的な変化は考えにくい。</p>${_photoRow([
+  {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bill_Hagerty_senatorial_portrait.jpg/330px-Bill_Hagerty_senatorial_portrait.jpg', name:'ビル・ハガティ', party:'共和党', color:'var(--rep)'}
+])}<p style="font-size:11px;color:var(--text-sub);margin-top:6px;">民主党候補は2026年8月6日の予備選で確定</p>
 </div>`,
 
     WV: () => `
@@ -892,40 +886,30 @@ ${_photoRow([
 </div>`,
 
     NC: () => `
-<div class="state-info-name">ノースカロライナ州（NC） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['トム・ティリス（退任）','R','var(--rep)','2026年（2020年に再選）',true],
-  ['テッド・バッド','R','var(--rep)','2028年（2022年に当選）',false]
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年3月（予備選）','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 6px;font-size:13px;">注目点</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">ティリス現職が3選不出馬を表明（トランプとの対立が引き金）。全国最大の激戦区の一つ。共和党は全国委員長のワットリー、民主党は元知事のクーパーが対決。</p>
-<h4 style="margin:0 0 8px;font-size:13px;">予備選結果</h4>
+<div class="state-info-name">ノースカロライナ州 (NC) — 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['トム・ティリス（引退）','R','var(--rep)','2026年（2020年再選）',true],
+  ['テッド・バッド','R','var(--rep)','2028年（2022年当選）',false]
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年3月（予備選）','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 6px;font-size:13px;">主要ポイント</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">現職のティリスは3期目を目指さないことを発表（トランプとの対立が引き金）。全米で最も競争の激しい選挙区の一つ。共和党全国委員会のウェイトリー委員長と元知事のクーパー（民主党）が対決。</p>
+<h4 style="margin:0 0 8px;font-size:13px;">予備選挙結果</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">得票率</th>
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">結果</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">マイケル・ワットリー（共和党全国委員長・共和）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--rep);">64.6%</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);color:var(--rep);font-weight:600;">共和党候補</td></tr>
-    <tr><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ドン・ブラウン（共和）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);">35.4%</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);color:#666;">落選</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">ロイ・クーパー（元知事・民主）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--dem);">92.0%</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);color:var(--dem);font-weight:600;">民主党候補</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">マイケル・ウェイトリー（共和党全国委員会委員長、共和党）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--rep);">64.6%</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);color:var(--rep);font-weight:600;">共和党候補</td></tr>
+    <tr><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ドン・ブラウン（共和党）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);">35.4%</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);color:#666;">敗北</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">ロイ・クーパー（元知事、民主党）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--dem);">92.0%</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);color:var(--dem);font-weight:600;">民主党候補</td></tr>
   </tbody>
 </table>
-<p style="font-size:11px;color:var(--text-sub);margin:-8px 0 12px;">※ ワットリーはトランプ大統領の直接支持を受けて圧勝</p>
-<h4 style="margin:0 0 8px;font-size:13px;">本選の候補者と最新支持率（2026年6月1〜10日調査）</h4>
-${_pollTable([['ロイ・クーパー（元知事）','D','var(--dem)','48%'],['マイケル・ワットリー（RNC委員長）','R','var(--rep)','34%']],'※ Catawba College/YouGov調査。クーパー+14。2025年8月Emerson調査では+6。')}
-<h4 style="margin:0 0 6px;font-size:13px;">分析</h4>
-<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">クーパーは2016〜2024年まで知事を2期務めた高知名度の候補。ワットリーはRNC委員長として組織力はあるものの個人知名度が低く（有利36%不明）、直近で差が拡大傾向。NCは激戦州だが、2026年時点では民主党が優位。上院支配権を左右する全国最注目レースの一つ。</p>
-${_photoRow([
-  {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Michael_Whatley_%2854670563614%29_%28cropped%29.jpg/330px-Michael_Whatley_%2854670563614%29_%28cropped%29.jpg', name:'マイケル・ワットリー', party:'共和党', color:'var(--rep)'},
+<p style="font-size:11px;color:var(--text-sub);margin:-8px 0 12px;">※ ウェイトリーはトランプ大統領の直接支援を受けて圧勝</p>
+<h4 style="margin:0 0 8px;font-size:13px;">本選候補者と最新支持率（2026年8月世論調査）</h4>${_pollTable([['ロイ・クーパー（元知事）','D','var(--dem)','51%'],['マイケル・ウェイトリー（共和党全国委員会委員長）','R','var(--rep)','40%']],'※ 8月の複数の世論調査でクーパーのリードで一致：Carolina Journal/Harper（8月9-10日）+12.5、Elon大学（7月23-31日）+11、Carolina Forward +7。ウェイトリーの知名度はまだクーパーに及ばない（17%が彼のことを聞いたことがない）。')}<h4 style="margin:0 0 6px;font-size:13px;">分析</h4>
+<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">クーパーは2016年から2024年まで2期州知事を務めた高い知名度を持つ候補者。ウェイトリーは共和党全国委員会委員長として組織力を持つが、個人的な知名度は低い（好感度36%が不明）、最近この差が拡大傾向にある。ノースカロライナ州はスイング州だが、2026年時点では民主党が優位。上院の支配権を左右する全米で最も注目される選挙戦の一つ。</p>${_photoRow([
+  {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Michael_Whatley_%2854670563614%29_%28cropped%29.jpg/330px-Michael_Whatley_%2854670563614%29_%28cropped%29.jpg', name:'マイケル・ウェイトリー', party:'共和党', color:'var(--rep)'},
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Roy_Cooper_in_November_2023_%28cropped2%29.jpg/330px-Roy_Cooper_in_November_2023_%28cropped2%29.jpg', name:'ロイ・クーパー', party:'民主党', color:'var(--dem)'}
-])}
-</div>`,
-
-    // ── Batch 1: 競合10州 ──────────────────────────
+])}</div>`,
 
     GA: () => `
 
@@ -1040,27 +1024,23 @@ ${_sched([['2026年8月11日','予備選（両党）','終了'],['2026年11月3�
 </div>`,
 
     ME: () => `
-<div class="state-info-name">メイン州（ME） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['スーザン・コリンズ（現職）','R','var(--rep)','2026年（2020年に再選）',true],
-  ['アンガス・キング（無所属・民主会派）','I','#7B2FBE','2030年（2024年に再選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年6月9日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 8px;font-size:13px;">主な候補者</h4>
+<div class="state-info-name">メイン州 (ME) — 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['スーザン・コリンズ（現職）','R','var(--rep)','2026年（2020年再選）',true],
+  ['アンガス・キング（無所属、民主党会派）','I','#7B2FBE','2030年（2024年再選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年6月9日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 8px;font-size:13px;">主要候補者</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">スーザン・コリンズ（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">5期目を目指す・超党派で高支持率</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">民主党候補（予備選終了）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">挑戦者・コリンズ打倒は困難</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">スーザン・コリンズ（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">5期目を目指し、党派を超えて高い支持率を維持</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">トロイ・ジャクソン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">アルーストック郡出身の州議会議員；スキャンダルにより7月8日に撤退した当初の予備選勝者グラハム・プラトナーに代わり指名</td></tr>
   </tbody>
 </table>
-<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党優位（Likely R）</strong><br>コリンズは民主党傾向のメイン州で5期当選を目指す超党派ベテラン。2020年にも厳しい選挙を制した実績がある。独自の政治スタイルで民主党支持者からも一定の支持を受けており安定した地位を保つ。</p>
+<h4 style="margin:0 0 6px;font-size:13px;">展望</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党優位</strong><br>コリンズは民主党寄りのメイン州で5期目を目指す超党派のベテラン。2020年に厳しい選挙を勝ち抜いた。民主党の当初の予備選勝者グラハム・プラトナーがスキャンダルで撤退し、トロイ・ジャクソンが州全体の選挙運動を築くための準備期間が短縮された状態で指名された。コリンズは独自の政治スタイルにより、民主党支持者からも支持を維持し、安定した地位を保っている。</p>
 </div>`,
 
     IA: () => `
@@ -1327,16 +1307,26 @@ ${_sched([['2026年9月8日','予備選（両党）','future'],['2026年11月3�
     // ── Batch 3: 選挙あり5州＋選挙なし4州 ──────────────────────────
 
     SC: () => `
-<div class="state-info-name">サウスカロライナ州（SC） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['リンゼー・グラム（現職）','R','var(--rep)','2026年（2020年に再選）',true],
-  ['ティム・スコット','R','var(--rep)','2028年（2022年に再選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年6月9日','予備選（共和党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
+<div class="state-info-name">サウスカロライナ州（SC）— 2026年上院選挙（特別選挙）</div>
+<div class="state-info-body">${_seatsTable([
+  ['ダーライン・グラハム（任命）','R','var(--rep)','2026年（特別予備選決選投票が本日）',true],
+  ['ティム・スコット','R','var(--rep)','2028年（2022年再選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年6月9日','予備選（共和党）','終了'],['2026年8月11日','特別予備選（グラハム氏の死去後）','終了'],['2026年8月25日','特別予備選決選投票（ランオフ）','future'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 6px;font-size:13px;">重要ポイント</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">リンゼー・グラハム上院議員は6月9日の通常予備選で勝利（自己資金候補のマーク・リンチを破る）したが、2026年7月に死去。トランプ氏が支持する任命議員ダーライン・グラハム（故人の妹）が新たな特別予備選の候補者陣をリード。彼女は8月11日の第1回投票で約33%を獲得してトップとなり、約20%で3位となったラッセル・フライ下院議員の支持を受け、本日8月25日の決選投票で約25%を獲得したラルフ・ノーマン下院議員と対決。民主党のアニー・アンドリュース医師は予備選で約62%を獲得し、11月の本選で共和党候補を待つ。</p>
+<h4 style="margin:0 0 8px;font-size:13px;">主要候補者</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">政党</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ダーライン・グラハム</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">任命現職、トランプ支持、本日の決選投票でノーマン氏と対決</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ラルフ・ノーマン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">連邦下院議員、本日の決選投票でグラハム氏と対決</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">アニー・アンドリュース</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">医師、民主党候補</td></tr>
+  </tbody>
+</table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏（Safe R）</strong><br>グラムは外交委員会など主要委員会を渡り歩く共和党の重鎮。2020年には民主党がジェイミー・ハリソン候補に史上最高額の選挙資金を投じたが、グラムが10ポイント以上の差で勝利した。対ウクライナ支援派としてトランプ路線とは一部ずれるが、SCは共和党の強固な地盤。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：安全R</strong><br>サウスカロライナ州は依然として共和党の強固な地盤。本日の決選投票で勝利する共和党候補は、11月にアンドリュース氏に対して大きく有利となる。</p>
 </div>`,
 
     SD: () => `
@@ -1434,13 +1424,25 @@ ${_seatsTable([
 </div>`,
 
     FL: () => `
-<div class="state-info-name">フロリダ州（FL） — 2026年上院選挙なし</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['リック・スコット','R','var(--rep)','2030年（2024年に再選）',false],
-  ['マルコ・ルビオ（国務長官就任で空席→任命議員）','R','var(--rep)','2028年（次回）',false],
-])}
-<p style="font-size:12px;color:var(--text-sub);margin:0 0 10px;line-height:1.6;">2026年の上院選挙はなし。ルビオは2025年1月に国務長官に就任して上院議席を辞して空席に。デサンティス知事（またはその後任）が共和党員を任命。任命議員は次の選挙（2028年）まで在任。スコットは2030年が次回。フロリダは近年共和党が地盤を固め、2024年トランプが13ポイント差で勝利。</p>
+<div class="state-info-name">フロリダ州（FL）— 2026年上院特別選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['アシュリー・ムーディ（任命）','R','var(--rep)','2026年（特別選挙）',true],
+  ['リック・スコット','R','var(--rep)','2030年（2024年再選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年8月18日','特別予備選（両党）','終了'],['2026年11月3日','特別本選','future']])}<h4 style="margin:0 0 6px;font-size:13px;">主要ポイント</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">ルビオが2025年1月に国務長官就任のため議席を空けた後、デサンティス知事が司法長官アシュリー・ムーディを任命。ムーディは残りの任期（2029年1月まで）を全うするため、特別選挙で勝利する必要がある。民主党予備選では、予想外の展開として、民主社会主義者の州下院議員アンジー・ニクソン（資金調達100万ドル未満）が、有力視され豊富な資金（1600万ドル以上）を持つ元中佐アレックス・ヴィンドマンを破った。</p>
+<h4 style="margin:0 0 8px;font-size:13px;">主要候補者</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">政党</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">アシュリー・ムーディ</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">任命された現職、元フロリダ州司法長官</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">アンジー・ニクソン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">州下院議員、アメリカ民主社会主義者党員、予備選番狂わせ勝者</td></tr>
+  </tbody>
+</table>
+<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：安全R</strong><br>フロリダ州は近年の選挙サイクルで共和党の地盤として固まり、2024年にトランプが13ポイント差で勝利した。ニクソンの進歩派的プロフィールでは、ムーディに対する本選での競争は困難だが、予備選での番狂わせは全国的な注目を集めた。</p>
 </div>`,
 
     HI: () => `

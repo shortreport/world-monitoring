@@ -274,7 +274,7 @@ const stateData = {
     CO: { ctrl:'DD', seats:['John Hickenlooper (D, 2027)', 'Michael Bennet (D, 2029)'], up2026:true },
     CT: { ctrl:'DD', seats:['Richard Blumenthal (D, 2029)', 'Chris Murphy (D, 2031)'], up2026:false },
     DE: { ctrl:'DD', seats:['Lisa Blunt Rochester (D, 2031)', 'Chris Coons (D, 2027)'], up2026:true },
-    FL: { ctrl:'RR', seats:['Marco Rubio (→Sec State)', 'Rick Scott (R, 2027)'], up2026:true },
+    FL: { ctrl:'RR', seats:['Ashley Moody (R, 2027)', 'Rick Scott (R, 2031)'], up2026:true },
     GA: { ctrl:'DD', seats:['Jon Ossoff (D, 2027)', 'Raphael Warnock (D, 2029)'], up2026:true },
     HI: { ctrl:'DD', seats:['Brian Schatz (D, 2029)', 'Mazie Hirono (D, 2027)'], up2026:true },
     ID: { ctrl:'RR', seats:['Mike Crapo (R, 2029)', 'Jim Risch (R, 2027)'], up2026:true },
@@ -305,7 +305,7 @@ const stateData = {
     OR: { ctrl:'DD', seats:['Ron Wyden (D, 2027)', 'Jeff Merkley (D, 2027)'], up2026:true },
     PA: { ctrl:'RD', seats:['Dave McCormick (R, 2031)', 'John Fetterman (D, 2028)'], up2026:false },
     RI: { ctrl:'DD', seats:['Sheldon Whitehouse (D, 2029)', 'Jack Reed (D, 2027)'], up2026:true },
-    SC: { ctrl:'RR', seats:['Lindsey Graham (R, 2027)', 'Tim Scott (R, 2029)'], up2026:true },
+    SC: { ctrl:'RR', seats:['Darline Graham (R, 2027)', 'Tim Scott (R, 2029)'], up2026:true },
     SD: { ctrl:'RR', seats:['John Thune (R, 2029)', 'Mike Rounds (R, 2027)'], up2026:true },
     TN: { ctrl:'RR', seats:['Marsha Blackburn (R, 2027)', 'Bill Hagerty (R, 2027)'], up2026:true },
     TX: { ctrl:'RR', seats:['John Cornyn (R, 2027)', 'Ted Cruz (R, 2031)'], up2026:true },
@@ -745,13 +745,13 @@ ${_seatsTable([
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Status</th>
   </tr></thead><tbody>
     <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">Bill Hagerty (incumbent)</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Republican primary unopposed. Elected in 2020 with 62.2%.</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Marquita Bradshaw and three others</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">To be narrowed to one candidate in primary on August 6, 2026</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Marquita Bradshaw</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Won Aug. 6 primary outright with 54.8%, a rematch of the 2020 general election against Hagerty</td></tr>
   </tbody>
 </table>
 <h4 style="margin:0 0 8px;font-size:13px;">Rating</h4>
-<p style="font-size:12px;margin:0 0 12px;line-height:1.6;">Lean R. No detailed poll data available.</p>
+<p style="font-size:12px;margin:0 0 12px;line-height:1.6;">Safe R. No detailed general-election poll data available.</p>
 <h4 style="margin:0 0 6px;font-size:13px;">Analysis</h4>
-<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">Tennessee has been exclusively represented by Republicans in the U.S. Senate since 1994. Hagerty, a former presidential envoy and U.S. Ambassador to Japan, holds an incumbent advantage. The Democratic candidate will be determined after the August primary. As a structurally strong Republican stronghold, dramatic changes are unlikely.</p>${_photoRow([
+<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">Tennessee has been exclusively represented by Republicans in the U.S. Senate since 1994. Hagerty, a former presidential envoy and U.S. Ambassador to Japan, holds an incumbent advantage. Bradshaw, an environmental advocate from Memphis, previously lost to Hagerty in 2020. As a structurally strong Republican stronghold, dramatic changes are unlikely.</p>${_photoRow([
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bill_Hagerty_senatorial_portrait.jpg/330px-Bill_Hagerty_senatorial_portrait.jpg', name:'Bill Hagerty', party:'Republican', color:'var(--rep)'}
 ])}<p style="font-size:11px;color:var(--text-sub);margin-top:6px;">Democratic nominee confirmed at primary on August 6, 2026</p>
 </div>`,
@@ -878,7 +878,7 @@ ${_seatsTable([
   </tbody>
 </table>
 <p style="font-size:11px;color:var(--text-sub);margin:-8px 0 12px;">※ Whatley won decisively with direct support from President Trump</p>
-<h4 style="margin:0 0 8px;font-size:13px;">General Election Candidates and Latest Approval Ratings (Survey conducted June 1-10, 2026)</h4>${_pollTable([['Roy Cooper (Former Governor)','D','var(--dem)','48%'],['Michael Whatley (RNC Chair)','R','var(--rep)','34%']],'※ Catawba College/YouGov survey. Cooper +14. August 2025 Emerson survey showed +6.')}<h4 style="margin:0 0 6px;font-size:13px;">Analysis</h4>
+<h4 style="margin:0 0 8px;font-size:13px;">General Election Candidates and Latest Approval Ratings (August 2026 polling)</h4>${_pollTable([['Roy Cooper (Former Governor)','D','var(--dem)','51%'],['Michael Whatley (RNC Chair)','R','var(--rep)','40%']],'※ Multiple August polls agree Cooper leads: Carolina Journal/Harper (Aug 9-10) +12.5, Elon University (Jul 23-31) +11, Carolina Forward +7. Whatley\'s name recognition still trails Cooper\'s (17% haven\'t heard of him).')}<h4 style="margin:0 0 6px;font-size:13px;">Analysis</h4>
 <p style="font-size:12px;margin:0 0 14px;line-height:1.6;">Cooper is a highly recognized candidate who served two terms as governor from 2016 to 2024. Whatley has organizational strength as RNC Chair but low personal name recognition (favor 36% unfamiliar), with the gap showing an expanding trend recently. NC is a swing state, but as of 2026, Democrats hold the advantage. One of the nation's most closely watched races that will determine Senate control.</p>${_photoRow([
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Michael_Whatley_%2854670563614%29_%28cropped%29.jpg/330px-Michael_Whatley_%2854670563614%29_%28cropped%29.jpg', name:'Michael Whatley', party:'Republican Party', color:'var(--rep)'},
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Roy_Cooper_in_November_2023_%28cropped2%29.jpg/330px-Roy_Cooper_in_November_2023_%28cropped2%29.jpg', name:'Roy Cooper', party:'Democratic Party', color:'var(--dem)'}
@@ -1001,11 +1001,11 @@ ${_seatsTable([
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Notes</th>
   </tr></thead><tbody>
     <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Susan Collins (Incumbent)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Seeking fifth term, high approval ratings across party lines</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Democratic Candidate (Primary Completed)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Challenger faces difficult odds against Collins</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Troy Jackson</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">State legislator from Aroostook County; replaced original primary winner Graham Platner, who withdrew July 8 amid scandal</td></tr>
   </tbody>
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Republican Favored（Likely R）</strong><br>Collins is a bipartisan veteran seeking a fifth term in the Democratic-leaning state of Maine. She won a tough election in 2020. With her unique political style, she maintains support even from Democratic voters and holds a stable position.</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Likely R</strong><br>Collins is a bipartisan veteran seeking a fifth term in the Democratic-leaning state of Maine. She won a tough election in 2020. Democrats' original primary winner Graham Platner withdrew amid scandal, elevating Troy Jackson as the nominee with a shortened runway to build a statewide campaign. With her unique political style, Collins maintains support even from Democratic voters and holds a stable position.</p>
 </div>`,
 
     IA: () => `
@@ -1232,12 +1232,26 @@ ${_seatsTable([
     // ── Batch 3: 選挙あり5州＋選挙なし4州 ──────────────────────────
 
     SC: () => `
-<div class="state-info-name">South Carolina (SC) — 2026 Senate Election</div>
+<div class="state-info-name">South Carolina (SC) — 2026 Senate Election (Special)</div>
 <div class="state-info-body">${_seatsTable([
-  ['Lindsey Graham (Incumbent)','R','var(--rep)','2026 (re-elected 2020)',true],
+  ['Darline Graham (Appointed)','R','var(--rep)','2026 (special primary runoff today)',true],
   ['Tim Scott','R','var(--rep)','2028 (re-elected 2022)',false],
-])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['June 9, 2026','Primary (Republican)','Completed'],['November 3, 2026','General Election','future']])}<h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Safe R</strong><br>Graham is a senior Republican who has served on major committees including the Foreign Relations Committee. In 2020, Democrats invested record-breaking campaign funds in candidate Jamie Harrison, but Graham won by more than 10 points. As a supporter of Ukraine aid, he diverges somewhat from Trump's approach, but SC is a strong Republican stronghold.</p>
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['June 9, 2026','Primary (Republican)','Completed'],['August 11, 2026','Special Primary (following Graham\'s death)','Completed'],['August 25, 2026','Special Primary Runoff','future'],['November 3, 2026','General Election','future']])}<h4 style="margin:0 0 6px;font-size:13px;">Key Points</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">Sen. Lindsey Graham won his regular June 9 primary (defeating self-funded challenger Mark Lynch), but died in July 2026. Trump-endorsed appointee Darline Graham (his sister) leads a new special-primary field; she topped the Aug. 11 first round with ~33% and faces Rep. Ralph Norman (~25%) in today's Aug. 25 runoff, after Rep. Russell Fry (~20%, 3rd place) endorsed her. Democrat Dr. Annie Andrews, who won her primary with ~62%, awaits the GOP nominee in November.</p>
+<h4 style="margin:0 0 8px;font-size:13px;">Major Candidates</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Candidate</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">Party</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Notes</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Darline Graham</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Appointed incumbent, Trump-endorsed, in today's runoff vs. Norman</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Ralph Norman</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">U.S. Representative, in today's runoff vs. Graham</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Annie Andrews</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Physician, Democratic nominee</td></tr>
+  </tbody>
+</table>
+<h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Safe R</strong><br>South Carolina remains a strong Republican stronghold; whichever Republican wins today's runoff will be heavily favored over Andrews in November.</p>
 </div>`,
 
     SD: () => `
@@ -1317,11 +1331,25 @@ ${_seatsTable([
 </div>`,
 
     FL: () => `
-<div class="state-info-name">Florida (FL) — No 2026 Senate election</div>
+<div class="state-info-name">Florida (FL) — 2026 Senate Special Election</div>
 <div class="state-info-body">${_seatsTable([
+  ['Ashley Moody (Appointed)','R','var(--rep)','2026 (special election)',true],
   ['Rick Scott','R','var(--rep)','2030 (re-elected in 2024)',false],
-  ['Marco Rubio (Open Seat due to State Department appointment → appointed senator)','R','var(--rep)','2028 (next election)',false],
-])}<p style="font-size:12px;color:var(--text-sub);margin:0 0 10px;line-height:1.6;">No Senate election in 2026. Rubio became Secretary of State in January 2025 and vacated his Senate seat, creating an Open Seat. Governor DeSantis (or his successor) will appoint a Republican. The appointed senator will serve until the next election in 2028. Scott will be up in 2030. Florida has recently solidified as Republican territory, with Trump winning by 13 points in 2024.</p>
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['August 18, 2026','Special Primary (both parties)','Completed'],['November 3, 2026','Special General Election','future']])}<h4 style="margin:0 0 6px;font-size:13px;">Key Points</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">Rubio vacated his seat to become Secretary of State in January 2025; Gov. DeSantis appointed Attorney General Ashley Moody, who must now win a special election to complete the remainder of the term (through Jan. 2029). In an upset, Democratic Socialist state Rep. Angie Nixon (under $1M raised) beat heavily-favored, well-funded ($16M+) former Lt. Col. Alex Vindman in the Democratic primary.</p>
+<h4 style="margin:0 0 8px;font-size:13px;">Major Candidates</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Candidate</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">Party</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Notes</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Ashley Moody</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Appointed incumbent, former Florida Attorney General</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Angie Nixon</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">State Representative, Democratic Socialists of America member, upset primary winner</td></tr>
+  </tbody>
+</table>
+<h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Safe R</strong><br>Florida has solidified as Republican territory in recent cycles, with Trump winning by 13 points in 2024. Nixon's progressive profile makes a competitive general election unlikely against Moody, though her primary upset drew national attention.</p>
 </div>`,
 
     HI: () => `
