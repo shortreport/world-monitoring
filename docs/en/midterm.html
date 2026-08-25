@@ -342,16 +342,13 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
-    { state:'OH', incumbent:'(R, Open)', party:'R', rating:'toss',    label:'Toss-up' },
-    { state:'MI', incumbent:'Gary Peters (D)', party:'D', rating:'toss',    label:'Toss-up' },
-    { state:'PA', incumbent:'Bob Casey (D)', party:'D', rating:'lean-d',  label:'Lean D' },
-    { state:'WI', incumbent:'Tammy Baldwin (D)', party:'D', rating:'lean-d',  label:'Lean D' },
-    { state:'MT', incumbent:'Jon Tester (D→)', party:'R', rating:'safe-r',  label:'Safe R' },
-    { state:'GA', incumbent:'Jon Ossoff (D)', party:'D', rating:'toss',    label:'Toss-up' },
-    { state:'NV', incumbent:'Jacky Rosen (D)', party:'D', rating:'lean-d',  label:'Lean D' },
-    { state:'NH', incumbent:'Jeanne Shaheen (D)', party:'D', rating:'likely-d', label:'Likely D' },
-    { state:'VA', incumbent:'Mark Warner (D)', party:'D', rating:'likely-d', label:'Likely D' },
-    { state:'TX', incumbent:'John Cornyn (R)', party:'R', rating:'safe-r',  label:'Safe R' },
+    { state:'MI', incumbent:'El-Sayed (D) vs Rogers (R)', party:'D', rating:'toss',    label:'Toss-up' },
+    { state:'GA', incumbent:'Ossoff (D) vs Collins (R)', party:'D', rating:'toss',    label:'Toss-up' },
+    { state:'TX', incumbent:'Paxton (R) vs Talarico (D)', party:'R', rating:'toss',    label:'Toss-up' },
+    { state:'IA', incumbent:'Hinson (R) vs Turek (D)', party:'R', rating:'toss',    label:'Toss-up (open)' },
+    { state:'NH', incumbent:'Open — Sununu/Brown (R) vs Pappas (D)', party:'D', rating:'toss', label:'Toss-up (open)' },
+    { state:'VA', incumbent:'Warner (D) vs Mizusawa (R)', party:'D', rating:'lean-d',  label:'Lean D' },
+    { state:'MT', incumbent:'Alme (R) vs Bankhead (D)', party:'R', rating:'likely-r', label:'Likely R' },
   ],
   house: [
     { state:'NY-3', incumbent:'(Open)', party:'D', rating:'toss', label:'Toss-up' },
@@ -670,8 +667,8 @@ const STATE_DETAIL = {
   </tbody>
 </table>
 <p style="font-size:11px;color:var(--text-sub);margin:-8px 0 12px;">※ Paxton staged a comeback with direct support from President Trump</p>
-<h4 style="margin:0 0 8px;font-size:13px;">General Election Candidates and Latest Support Rates (Survey conducted June 12, 2026)</h4>${_pollTable([['Ken Paxton','R','var(--rep)','43%'],['James Talarico (State Rep.)','D','var(--dem)','42%']],'※ Margin of error ±3.5%. University of Texas Texas Politics Project survey (1,200 respondents)')}<h4 style="margin:0 0 6px;font-size:13px;">Analysis</h4>
-<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">Paxton recovered from 34% in April to 43% (intra-Republican reconciliation progressing). Talarico has remained steady at 42%. Statistically a virtual tie. A Texas state senate race being this competitive is unprecedented.</p>${_photoRow([
+<h4 style="margin:0 0 8px;font-size:13px;">General Election Candidates and Latest Support Rates (Emerson College Poll, August 13, 2026)</h4>${_pollTable([['Ken Paxton','R','var(--rep)','47%'],['James Talarico (State Rep.)','D','var(--dem)','46%']],'※ Statistical dead heat. Age gap is stark: under-50 voters favor Talarico 53%-38%, over-50 voters favor Paxton 53%-42%. Earlier August poll (Texas Southern University) had Talarico up 2 points.')}<h4 style="margin:0 0 6px;font-size:13px;">Analysis</h4>
+<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">The race has stayed a statistical tie throughout August, with different polls alternating which candidate leads within the margin of error. A Texas Senate race being this competitive is unprecedented in the modern era.</p>${_photoRow([
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ken_Paxton_by_Gage_Skidmore.jpg/330px-Ken_Paxton_by_Gage_Skidmore.jpg', name:'Ken Paxton', party:'Republican', color:'var(--rep)'},
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg/330px-James_Talarico_Press_Conference_%28cropped%29.jpg', name:'James Talarico', party:'Democratic', color:'var(--dem)'}
 ])}</div>`,
@@ -712,24 +709,24 @@ ${_seatsTable([
   ['Elissa Slotkin','D','var(--dem)','2030 (elected 2024)',false]
 ])}
 <hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['August 4, 2026','Primary (both parties)','Completed'],['November 3, 2026','General Election','future']])}<h4 style="margin:0 0 6px;font-size:13px;">Key Points</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">Gary Peters, the incumbent, has announced his retirement. Open seat race in Michigan following Trump's victory in the 2024 presidential election. One of the most important Senate races in the nation.</p>
-<h4 style="margin:0 0 8px;font-size:13px;">Candidates by Party (Primary on August 4)</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">Gary Peters, the incumbent, retired. In the August 4 Democratic primary, progressive Abdul El-Sayed defeated centrist U.S. Rep. Hailee Stevens and state Sen. Mallory McMorrow to win the nomination, setting up a general-election clash with Republican Mike Rogers. One of the most closely watched Senate races in the nation.</p>
+<h4 style="margin:0 0 8px;font-size:13px;">Primary Results (August 4)</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Party</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Candidate</th>
-    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Title</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Result</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">Mike Rogers</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Former U.S. Representative (Lost by narrow margin in 2024 election)</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">Mallory McMorrow</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">State Senator (Running in 8/4 primary)</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">Hailee Stevens</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">U.S. Representative (Running in 8/4 primary)</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">Abdul El-Sayed</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Wayne County Health Department Director (Running in 8/4 primary)</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">Mike Rogers</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);color:var(--rep);font-weight:600;">Republican nominee</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">Abdul El-Sayed</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);color:var(--dem);font-weight:600;">Democratic nominee (won 3-way primary)</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">Hailee Stevens</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);color:#666;">Lost primary</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">Mallory McMorrow</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);color:#666;">Lost primary</td></tr>
   </tbody>
 </table>
-<h4 style="margin:0 0 8px;font-size:13px;">General Election Hypothetical Polling (June 2026)</h4>${_pollTable([['Mike Rogers (Republican)','R','var(--rep)','43.2%'],['Democratic Candidate (Hypothetical Average)','D','var(--dem)','42.6%']],'※ Within margin of error. Democratic candidate to be determined in August 4 primary. Toss-up.')}<h4 style="margin:0 0 6px;font-size:13px;">Analysis</h4>
-<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">Rogers is attempting a comeback after losing to Slotkin (Democrat) by 0.34% in 2024. The Democratic Party will consolidate to a single candidate following a three-way primary. McMorrow has high visibility on social media, while Stevens takes a centrist approach. One of the most competitive races in the nation.</p>${_photoRow([
+<h4 style="margin:0 0 8px;font-size:13px;">General Election Polling (August 2026)</h4>${_pollTable([['Abdul El-Sayed (Democratic)','D','var(--dem)','47%'],['Mike Rogers (Republican)','R','var(--rep)','46%']],'※ Pollsters disagree sharply this month: Susquehanna/AARP (Aug 11-17) show El-Sayed up 1-7 points; Fox News (Aug 6-10) shows Rogers up 4. Averages to a pure toss-up.')}<h4 style="margin:0 0 6px;font-size:13px;">Analysis</h4>
+<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">Rogers is attempting a comeback after losing to Slotkin (Democrat) by 0.34% in 2024. El-Sayed consolidated the progressive base to beat two better-funded rivals. Polling splits along age lines — El-Sayed leads under-50 voters by double digits, Rogers leads voters 50+. One of the most competitive races in the nation heading into the fall.</p>${_photoRow([
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Mike-Rogers-Head-Shot-2_%283x4_cropped%29.jpg/330px-Mike-Rogers-Head-Shot-2_%283x4_cropped%29.jpg', name:'Mike Rogers', party:'Republican', color:'var(--rep)'}
-])}<p style="font-size:11px;color:var(--text-sub);margin-top:6px;">Democratic candidate to be determined in primary on August 4, 2026</p>
+])}<p style="font-size:11px;color:var(--text-sub);margin-top:6px;">Abdul El-Sayed won the Democratic primary on August 4, 2026.</p>
 </div>`,
 
     TN: () => `
@@ -893,7 +890,7 @@ ${_seatsTable([
 <div class="state-info-body">${_seatsTable([
   ['Jon Ossoff (Incumbent)','D','var(--dem)','2026 (Elected in 2021)',true],
   ['Raphael Warnock','D','var(--dem)','2028 (re-elected 2022)',false],
-])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['May 19, 2026','Primary (both parties)','Completed'],['November 3, 2026','General Election','future']])}<h4 style="margin:0 0 8px;font-size:13px;">Major Candidates</h4>
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['May 19, 2026','Primary (both parties)','Completed'],['June 16, 2026','Republican Primary Runoff','Completed'],['November 3, 2026','General Election','future']])}<h4 style="margin:0 0 8px;font-size:13px;">Major Candidates</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Candidate</th>
@@ -901,11 +898,11 @@ ${_seatsTable([
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Notes</th>
   </tr></thead><tbody>
     <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Jon Ossoff (Incumbent)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">First term, initially elected in 2021 runoff election</td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Brian Kemp (Former Governor)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Gubernatorial term ends January 2027, considered likely to run</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Mike Collins</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">U.S. Representative, won GOP runoff 55%-45% over Derek Dooley (Trump-endorsed)</td></tr>
   </tbody>
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Toss-up（Toss-up / Lean R）</strong><br>Ossoff is a young Democratic legislator elected in the January 2021 runoff election. He faces a tough re-election battle in the traditionally Republican state of Georgia. Former Governor Brian Kemp (stepping down due to term limits) is emerging as a leading Republican candidate. One of the nation's most closely watched races that will determine Senate control.</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Toss-up</strong><br>Gov. Brian Kemp declined to enter the race, scrambling the Republican field into a three-way May primary (Collins 40.5%, Dooley 30.2%, Carter 25.1%) that went to a June 16 runoff, won by Trump-endorsed Rep. Mike Collins. Ossoff faces a tough re-election in traditionally Republican Georgia, but Kemp's absence from the ticket is seen as a boost to Democratic hopes. Widely regarded as the most competitive Senate seat of the 2026 cycle.</p>
 </div>`,
 
     NH: () => `
@@ -920,12 +917,14 @@ ${_seatsTable([
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">Party</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Notes</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Kelly Ayotte (Current Governor)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Former State Senator • 2024 gubernatorial election winner • Considering entry</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Democratic candidate (multiple under consideration)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">To be decided in September primary</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">John Sununu</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Former U.S. Senator, running in competitive Sept. 8 primary</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Scott Brown</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Former Massachusetts Senator, ex-ambassador to New Zealand</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Chris Pappas</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">U.S. Representative, centrist frontrunner</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Karishma Manzur</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Progressive challenger running to Pappas's left</td></tr>
   </tbody>
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Toss-up（Toss-up）</strong><br>Open seat due to Shaheen's retirement. NH is a typical swing state with narrow margins in presidential elections. Former State Senator Ayotte, current governor, is a strong Republican candidate. Democrats are seeking a candidate to inherit the popularity of Senator Hassan. The primary is held late in September.</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Toss-up</strong><br>Open seat due to Shaheen's retirement. Note: Gov. Kelly Ayotte is running for re-election as governor, not for this Senate seat. On the Republican side, former Sen. John Sununu and former Massachusetts Sen. Scott Brown are competing for the nomination. Rep. Chris Pappas is the Democratic frontrunner, facing a primary challenge from progressive Karishma Manzur. Both parties' primaries are September 8; NH's narrow presidential margins keep this race a genuine toss-up.</p>
 </div>`,
 
     MN: () => `
@@ -1012,7 +1011,7 @@ ${_seatsTable([
     IA: () => `
 <div class="state-info-name">Iowa (IA) — 2026 Senate Election</div>
 <div class="state-info-body">${_seatsTable([
-  ['Joni Ernst (Incumbent)','R','var(--rep)','2026 (re-elected 2020)',true],
+  ['Joni Ernst (Retiring)','R','var(--rep)','2026 (re-elected 2020)',true],
   ['Chuck Grassley','R','var(--rep)','2028 (re-elected 2022)',false],
 ])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['June 2, 2026','Primary (both parties)','Completed'],['November 3, 2026','General Election','future']])}<h4 style="margin:0 0 8px;font-size:13px;">Major Candidates</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
@@ -1021,12 +1020,12 @@ ${_seatsTable([
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">Party</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Notes</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Joni Ernst (Incumbent)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Army Veteran, Seeking Third Term</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Democratic Candidate</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Facing Tough Odds in Strong Republican Territory</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Ashley Hinson</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">U.S. Representative, Republican nominee for open seat</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Josh Turek</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">State Representative, Democratic nominee</td></tr>
   </tbody>
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Republican Favored（Lean R）</strong><br>Iowa has seen a rapid expansion of Republican dominance since the 2010s. Incumbent Ernst has a track record in agricultural and military committees. Democrats are watching this as a target for Senate takeover, but challenging the incumbent faces an uphill battle.</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Toss-up</strong> (downgraded from Lean R by Cook Political Report in August 2026)<br>Ernst's retirement opened the seat. Severe tariff-driven damage to Iowa's agricultural economy and a strong national Democratic environment (D+6 generic ballot) have made this competitive despite Iowa's R+13 presidential lean — a July Fox News poll found Iowa voters view Trump unfavorably by 13 points (55%-42%). Hinson remains favored but Democrats see a genuine opening with Turek.</p>
 </div>`,
 
     AK: () => `
@@ -1052,7 +1051,7 @@ ${_seatsTable([
     MT: () => `
 <div class="state-info-name">Montana (MT) — 2026 Senate Election</div>
 <div class="state-info-body">${_seatsTable([
-  ['Steve Daines (Incumbent)','R','var(--rep)','2026 (re-elected 2020)',true],
+  ['Steve Daines (Not seeking re-election)','R','var(--rep)','2026 (re-elected 2020)',true],
   ['Tim Sheehy','R','var(--rep)','2030 (elected 2024)',false],
 ])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['June 2, 2026','Primary (both parties)','Completed'],['November 3, 2026','General Election','future']])}<h4 style="margin:0 0 8px;font-size:13px;">Major Candidates</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
@@ -1061,12 +1060,13 @@ ${_seatsTable([
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">Party</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Notes</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Steve Daines (Incumbent)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Chair of the National Republican Senatorial Committee (NRSC)</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Democratic Candidate</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Victory Extremely Difficult in Deep Red State</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Kurt Alme</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Former U.S. Attorney, endorsed by Daines after his withdrawal</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Alani Bankhead</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Democratic nominee, won June 2 primary</td></tr>
+    <tr style="background:#f5f5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Seth Bodnar</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:#7B2FBE;">I</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Independent, former University of Montana president &amp; Green Beret, running in general</td></tr>
   </tbody>
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Safe R</strong><br>Montana has seen rapid Republican dominance in recent years. In 2024, incumbent Democrat Tester lost, and Republicans now hold both Senate seats. As NRSC chair, Daines leads Republican Senate campaign strategy. Re-election appears virtually certain.</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Likely R</strong><br>Daines withdrew from the race just before the filing deadline and endorsed U.S. Attorney Kurt Alme, who won the GOP nomination. Alme leads comfortably in August polling (45-49% vs. Bankhead's 24-30%), with independent Seth Bodnar splitting the anti-Republican vote — some Democrats have floated Bankhead standing aside for Bodnar. Montana has trended solidly Republican since Tester's 2024 loss, so a GOP hold remains the clear favorite.</p>
 </div>`,
 
     ID: () => `
@@ -1206,7 +1206,7 @@ ${_seatsTable([
 <div class="state-info-body">${_seatsTable([
   ['Mark Warner (Incumbent)','D','var(--dem)','2026 (re-elected 2020)',true],
   ['Tim Kaine','D','var(--dem)','2030 (re-elected in 2024)',false],
-])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['June 16, 2026','Primary (both parties)','Completed'],['November 3, 2026','General Election','future']])}<h4 style="margin:0 0 8px;font-size:13px;">Major Candidates</h4>
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['August 4, 2026','Republican Primary','Completed'],['November 3, 2026','General Election','future']])}<h4 style="margin:0 0 8px;font-size:13px;">Major Candidates</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Candidate</th>
@@ -1214,11 +1214,11 @@ ${_seatsTable([
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">Notes</th>
   </tr></thead><tbody>
     <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Mark Warner (Incumbent)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Former Virginia Governor and Former Senate Intelligence Committee Chair</td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Republican Candidate (Primary Completed)</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Suburban vote near DC is key to Virginia elections</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Bert Mizusawa</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">Retired Army general, won Aug. 4 GOP primary with ~53%</td></tr>
   </tbody>
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">Outlook</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Democrat Favored（Lean D）</strong><br>Warner is a former tech entrepreneur and former governor. He led the investigation into Russian interference in the Intelligence Committee. Virginia's highly educated suburban voters near DC have increasingly driven Democratic victories, making it a reliably Democratic state in recent years. However, depending on national Republican tailwinds, it could potentially become a toss-up.</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>Rating: Democrat Favored（Lean D）</strong><br>Warner is a former tech entrepreneur and former governor. He led the investigation into Russian interference in the Intelligence Committee. Republicans nominated retired Army Gen. Bert Mizusawa in the August 4 primary. Virginia's highly educated suburban voters near DC have increasingly driven Democratic victories, making it a reliably Democratic state in recent years. However, depending on national Republican tailwinds, it could potentially become a toss-up.</p>
 </div>`,
 
     WY: () => `
