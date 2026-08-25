@@ -133,7 +133,7 @@
   <div class="logo" onclick="location.href='index.html'" title="ホームへ">World<em>News</em></div>
   <div class="header-date">2026年08月25日</div>
   <div class="header-spacer"></div>
-  <div class="update-time">最終更新: 2026年08月25日 15:02 JST</div>
+  <div class="update-time">最終更新: 2026年08月25日 16:18 JST</div>
   <div class="lang-toggle">
     <a href="midterm.html" class="active">JP</a>
     <a href="../en/midterm.html">EN</a>
@@ -357,13 +357,14 @@ const keyRaces = {
     { state:'TX-28', incumbent:'(D)', party:'D', rating:'lean-d', label:'Lean D' },
   ],
   governor: [
-    { state:'FL', incumbent:'Ron DeSantis (R, Term Ends)', party:'R', rating:'safe-r', label:'Safe R' },
-    { state:'TX', incumbent:'Greg Abbott (R)', party:'R', rating:'safe-r', label:'Safe R' },
-    { state:'IL', incumbent:'JB Pritzker (D)', party:'D', rating:'safe-d', label:'Safe D' },
-    { state:'NY', incumbent:'Kathy Hochul (D)', party:'D', rating:'likely-d', label:'Likely D' },
-    { state:'GA', incumbent:'Brian Kemp (R, Term Ends)', party:'R', rating:'lean-r', label:'Lean R' },
-    { state:'WI', incumbent:'Tony Evers (D)', party:'D', rating:'toss', label:'Toss-up' },
-    { state:'PA', incumbent:'Josh Shapiro (D)', party:'D', rating:'safe-d', label:'Safe D' },
+    { state:'AK', incumbent:'Kreiss-Tomkins/Begich (D) vs Wilson/Bronson (R)', party:'R', rating:'toss', label:'Toss-up (open)' },
+    { state:'MI', incumbent:'Benson (D) vs James (R)', party:'D', rating:'toss', label:'Toss-up (open)' },
+    { state:'WI', incumbent:'Crowley (D) vs Tiffany (R)', party:'D', rating:'toss', label:'Toss-up (open)' },
+    { state:'NV', incumbent:'Lombardo (R) vs Ford (D)', party:'R', rating:'toss', label:'Toss-up' },
+    { state:'GA', incumbent:'Jones (R) vs Bottoms (D)', party:'R', rating:'lean-r', label:'Lean R (open)' },
+    { state:'KS', incumbent:'Masterson (R) vs Holscher (D)', party:'D', rating:'lean-r', label:'Lean R (open)' },
+    { state:'NY', incumbent:'Hochul (D) vs Blakeman (R)', party:'D', rating:'lean-d', label:'Lean D' },
+    { state:'ME', incumbent:'Pingree (D) vs Charles (R)', party:'D', rating:'lean-d', label:'Lean D (open)' },
   ]
 };
 
@@ -3118,7 +3119,8 @@ ${_sched([['2026年6月23日','予備選（共和党）','終了'],['2026年11�
 <p style="font-size:12px;margin:0;line-height:1.6;">キホー知事は前知事マイク・パーソンの後任（パーソンは任期制限で退任）。元州上院議長。ミズーリは近年急速に共和党優位が拡大した州で、知事職も共和党が継続保持。</p>
 </div>`,
 
-    TN: () => `
+    TN: () => `
+
 <div class="state-info-name">テネシー州 (TN) — 2026年知事選挙</div>
 <div class="state-info-body">
 <h4 style="margin:0 0 8px;font-size:13px;">現職知事</h4>
@@ -3150,9 +3152,12 @@ ${_sched([['2026年6月23日','予備選（共和党）','終了'],['2026年11�
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">展望</h4>
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>予測：安全R</strong><br>テネシー州は共和党の強固な地盤です。現職上院議員マーシャ・ブラックバーンはこのオープンシートの共和党指名を容易に獲得し、11月にはジェリ・グリーンに対して圧倒的に有利です。ブラックバーンの勝利は、彼女の上院議席が将来の特別選挙に開かれることも意味します。民主党が最後に知事職を保持したのは2002年です。</p>
-</div>`,
-
-    MI: () => `
+</div>`,
+
+
+
+    MI: () => `
+
 <div class="state-info-name">ミシガン州（MI）— 2026年知事選挙</div>
 <div class="state-info-body">
 <h4 style="margin:0 0 8px;font-size:13px;">現職知事</h4>
@@ -3184,8 +3189,10 @@ ${_sched([['2026年6月23日','予備選（共和党）','終了'],['2026年11�
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">展望</h4>
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦</strong><br>ミシガン州は最も競争の激しい激戦州の一つ。ホイットマー知事の引退による開放議席のため、ベンソンとジェームズは両党とも混戦の予備選から勝ち上がった — トランプは最終盤にジェームズのために自ら選挙運動を行った。ホイットマーは2022年に11ポイント差で勝利したが、現職が出馬しない今回、この選挙ははるかに接戦となると予想される — ミシガン州の上院選や下院選と並んで全国的に注目される重要な選挙。</p>
-</div>`,
-
+</div>`,
+
+
+
     CA: () => `
 
 <div class="state-info-name">カリフォルニア州 (CA) — 2026年知事選挙</div>
@@ -4136,7 +4143,8 @@ ${_sched([['2026年3月17日','予備選（両党）','終了'],['2026年11月3�
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党優位（Likely D）</strong><br>プリツカーはハイアット・ホテル創業家の資産家。2022年に約13ポイント差で再選。IL全体は民主党地盤（シカゴ圏が主導）だが、南部農村部は共和党優位。3期目を目指すプリツカーは2028年大統領選への布石とも目される。財政再建が課題。</p>
 </div>`,
 
-    KS: () => `
+    KS: () => `
+
 <div class="state-info-name">カンザス州 (KS) — 2026年知事選挙予定（オープンシート）</div>
 <div class="state-info-body">
 <h4 style="margin:0 0 8px;font-size:13px;">現職知事</h4>
@@ -4168,9 +4176,12 @@ ${_sched([['2026年3月17日','予備選（両党）','終了'],['2026年11月3�
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：R優位</strong><br>ケリーは深紅のカンザス州で連続当選を果たした卓越した民主党知事だが、任期制限により退任し、共和党が議席奪還を試みる好機となっている。2022年の住民投票でカンザス州有権者が中絶の権利保護を選択したように、カンザス州は一枚岩の共和党拠点ではなく複雑な州である。ホルシャーが知事自身の支持候補を破って予備選勝利したことは真の草の根エネルギーを示唆しており、この選挙を典型的なカンザス州のオープンシート選挙より競争的にしている。</p>
-</div>`,
-
-    VT: () => `
+</div>`,
+
+
+
+    VT: () => `
+
 <div class="state-info-name">バーモント州（VT）— 2026年州知事選挙予定（2年任期）</div>
 <div class="state-info-body">
 <h4 style="margin:0 0 8px;font-size:13px;">現職州知事</h4>
@@ -4202,8 +4213,10 @@ ${_sched([['2026年3月17日','予備選（両党）','終了'],['2026年11月3�
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：R優位</strong><br>スコットは、バイデン・ハリスが大統領選で30ポイント以上の差で勝利した圧倒的に民主党優勢のバーモント州で、5回連続（2016年〜2024年）の州知事選挙に勝利した稀有な穏健派共和党知事である。民主党は、より多くの資金を持つライバルのアリー・リチャーズを破り、政治の新人アマンダ・ジャヌーを指名した。スコットの反トランプ姿勢と超党派の統治は高く評価されており、再選の可能性が高い。バーモント州は2年ごとに州知事選挙を実施している。</p>
-</div>`,
-
+</div>`,
+
+
+
     // ── Governor Batch 4: MD（選挙あり）＋ 知事選なし8州 ──
 
     MD: () => `
