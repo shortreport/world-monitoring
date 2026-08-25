@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25 14:34:26",
+  "generated_at": "2026-08-25 23:49:25",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-25 14:34:01",
+      "last_checked": "2026-08-25 23:49:00",
       "items": [
         {
           "uid": "a80e48f270ef",
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-25 14:34:09",
+      "last_checked": "2026-08-25 23:49:12",
       "items": [
+        {
+          "uid": "f37493cb18e7",
+          "date": "2026-08-25",
+          "title": "One of Ohio’s U.S. senators pushes Chinese car ban - The Business Journals",
+          "summary": "申し訳ありませんが、提供いただいたタイトルと「内容」が同じであり、実質的な記事本文がないため、S.4429に関する具体的な要約ができません。記事の本文をご提供いただければ、要約させていただきます。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamxRbnNuR1lqdHBVYnN6ZVFGS3dUTTdCSlUxdFNNMFhxbnZ0bm5ycS0ydWhzbWtjcmowMzBoMmtyZ0VBc1czeVl6Q2tlQnZUZVRCeGlCZWM1MG4zZE85bzcwbFZLZ2lydnVyLXhXcHVGSTFveTdVM201NlQ2OUo1bjYxcHpTNGk4Z2k1eEtRbkcyZF9QNFlaNTRBR2dnRjZJV3ZmZDA4enU?oc=5",
+          "added_at": "2026-08-25 23:49:08"
+        },
+        {
+          "uid": "23489f151331",
+          "date": "2026-06-29",
+          "title": "Polestar to be banned from US market under Connected Vehicle Rule - Benchmark Mineral Intelligence",
+          "summary": "米国接続車両安全保障法（S.4429）により、中国系の電動車メーカーであるポールスターは米国市場から排除される見通しである。同法は中国の自動運転技術やデータ収集機能を制限することを目的としており、ポールスターなど中国資本の自動車メーカーが米国で販売する接続車両の認可を禁止する。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkRnSVlvVTMxX0dNVmY4R3d1X3hmNnotMnlicVFpTHYxbzdVb21MRXBDVlJ2V2JHNVI2aVBLZU81YlFNMGlZbzF6aXhaeHVlVGExSnlzR2dRNXFLN3N5OFZaRDQ4bFdzakFGekZHN1JycDI3RWJNbWdqcUlGQkZsRWFPUWdxX3U4SHl3WmZUVkNlb0pXVlVfWk5vckRWaVRaeExTY0xrSFlkTkMzZHVz?oc=5",
+          "added_at": "2026-08-25 23:49:08"
+        },
         {
           "uid": "f11043d46111",
           "date": "2026-05-29",
@@ -4000,26 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOEl1WkJuaHQzdDZCUHltRUh3RGt6LXlFN0lKUUJJWWVGQUZZRVNrQXEydWFwZ3NCZnItTVQzWkFkaTdHYkpiM3lvMXF5Y3FWTkRuRi1GVEdZSzZMTm5NTE9kTmpPQ1c1SzN0Wk9ZMHZyQmtXMlItQ0ZhNjNqNlE2QU9zS1laYVZLRG0yWk51djIxSnUtZnYyRFdhbTdBcFNzZDVOMU1ETXNhNG5oSlpBVTFXUW9rM1JHYkZrQXkya2V3SlRMWVRicWdibw?oc=5",
           "added_at": "2026-07-08 20:48:20"
-        },
-        {
-          "uid": "e2d269207641",
-          "date": "2026-06-15",
-          "title": "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models - WTAQ",
-          "summary": "米国の接続車両安全保障規制に対応するため、フォードを含む自動車メーカーが中国製モデルの米国市場での認可取得を求めており、この規制がサプライチェーンの地政学的リスクに対応する重要な措置となっています。",
-          "source": "自動車部品業界",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbnYxbjVvNEpjdVZ1cmduWWpHTERnSG1KMFdjLVVjR2RybUdnWTlvVWZYZXBKaXpUUjVTaFV1ajY3Zy02QXdCQzdnZktfMjQtZ1lJV3ZtU2NNMjFKTEVwaEtxdjVMTnh3dGZvc2RjRjBQTFdIR3o1bTJ4Y080SkU5bFlWVmNVNkVvY3FRQzBxM0RvaUxyM1ZNTGdsdVJiMW5OVnZoTU55d0d4TGFBNmFrRTIzQm5wOHdWZF83Ng?oc=5",
-          "added_at": "2026-07-08 14:41:26"
-        },
-        {
-          "uid": "f25ac2aaa53d",
-          "date": "2026-05-11",
-          "title": "Trump's 'Welcome Chinese Factories in the US' Remarks Alarm Detroit; Industry and Congress Push Back - finance.biggo.com",
-          "summary": "# 要約\n\nトランプ大統領の中国工場の米国招致発言はデトロイト自動車産業を懸念させ、業界と議会が反発していることから、S.4429は米国自動車産業の中国資本からの保護を目的とした安全保障立法として位置付けられています。本法案は、中国による米国自動車産業への投資浸透を抑制し、雇用と技術の流出を防ぐための規制枠組みを提供します。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jSUZKcEhMSTdlVThMck00QTltRkItSlU3SEY1cVFjWV9haWdYbEZpcGhwWFlTN2dORWY4aTBtN3gtNHFZR0dHSG01cWgxWWNoVFJJc2NCX3dCdkVoVWRDNQ?oc=5",
-          "added_at": "2026-07-08 12:40:20"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-25 14:34:26",
+      "last_checked": "2026-08-25 23:49:25",
       "items": [
+        {
+          "uid": "e813adb5789f",
+          "date": "2026-08-25",
+          "title": "China: New US sanctions on Iran ‘will only further intensify tensions’",
+          "summary": "本記事は中国レアアース輸出管理と直接的な関連がないため、要約することは適切ではありません。この記事は米国のイラン制裁に対する中国の立場を述べたもので、レアアース輸出管理政策には触れていません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6048518-china-criticizes-us-iran-sanctions/",
+          "added_at": "2026-08-25 23:49:24"
+        },
         {
           "uid": "2d3552420676",
           "date": "2026-06-01",
@@ -6021,16 +6031,6 @@
           "source_type": "media",
           "url": "https://thehill.com/homenews/administration/5988554-trump-china-russia-iran-support/",
           "added_at": "2026-07-25 09:15:39"
-        },
-        {
-          "uid": "0ecd2abe4487",
-          "date": "2026-06-15",
-          "title": "America’s New Critical Minerals Playbook - Time Magazine",
-          "summary": "# 要約\n\n米国が中国のレアアース輸出管理に対抗するため、国内資源の開発・確保と同盟国との供給チェーン多角化を強化する新戦略を展開している。これは中国がレアアース輸出を制限・規制する戦術に対して、米国が自立性を高め依存度を低減させることを目指す取り組みである。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzNLT1Q0WU9MVnAwcVJ6WUc3dG9aVjk1eGlhbS1sc1NvMXpXcnlST1FrdU9JeDJuMGVxS29ZckI0aXI4YnVxVC03QXNzX3prQk1VWWdiT3JYNWRfQjg1d0tmQVR3d1JSblkzSDlhT0M3Zk1jaXk3TWRNNFA4X3ZBaXFNZw?oc=5",
-          "added_at": "2026-07-24 16:34:33"
         }
       ]
     }
