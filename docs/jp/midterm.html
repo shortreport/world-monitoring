@@ -804,17 +804,13 @@ ${_photoRow([
 ])}
 </div>`,
 
-    MS: () => `
-<div class="state-info-name">ミシシッピ州（MS） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['シンディ・ハイド=スミス（現職）','R','var(--rep)','2026年（2020年に当選）',true],
-  ['ロジャー・ウィッカー','R','var(--rep)','2030年（2024年に再選）',false]
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年3月11日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 6px;font-size:13px;">注目点</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">シンディ・ハイド=スミス現職が3選目を目指す。民主党スコット・コロムの台頭で異例の接戦模様。</p>
+    MS: () => `
+<div class="state-info-name">ミシシッピ州 (MS) — 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['シンディ・ハイド=スミス（現職）','R','var(--rep)','2026年（2020年当選）',true],
+  ['ロジャー・ウィッカー','R','var(--rep)','2030年（2024年再選）',false]
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年3月11日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 6px;font-size:13px;">要点</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">現職のシンディ・ハイド=スミスが3期目を目指す。地方検事のスコット・コロム（民主党）は2025年半ば以降、差を顕著に縮めている（8月の世論調査では約R+13からR+8へ）。これは一部ハイド=スミスの支持率の低さに起因するが、深紅のミシシッピ州では依然として劣勢である。</p>
 <h4 style="margin:0 0 8px;font-size:13px;">予備選結果（2026年3月11日）</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
@@ -822,20 +818,16 @@ ${_sched([['2026年3月11日','予備選（両党）','終了'],['2026年11月3�
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">得票率</th>
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">結果</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">シンディ・ハイド=スミス（現職・共和）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--rep);">80.8%</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);color:var(--rep);font-weight:600;">共和党候補</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">スコット・コロム（地区巡回裁判所判事・民主）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--dem);">73.0%</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);color:var(--dem);font-weight:600;">民主党候補</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">シンディ・ハイド=スミス（現職、共和党）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--rep);">80.8%</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);color:var(--rep);font-weight:600;">共和党候補</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">スコット・コロム（巡回裁判所判事、民主党）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);font-weight:700;color:var(--dem);">73.0%</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);color:var(--dem);font-weight:600;">民主党候補</td></tr>
   </tbody>
 </table>
-<h4 style="margin:0 0 8px;font-size:13px;">本選の候補者と最新支持率（2026年4月中旬調査）</h4>
-${_pollTable([['シンディ・ハイド=スミス（現職）','R','var(--rep)','43%'],['スコット・コロム（裁判所判事）','D','var(--dem)','40%'],['タイ・ピンキンス（無所属）','I','#888','4%']],'※ SPLC Action Fund調査。2025年6月時点+13から+3に縮小。')}
-<h4 style="margin:0 0 6px;font-size:13px;">分析</h4>
-<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">コロムは地区巡回裁判所判事として知名度が高く、民主党に1年で+10ポイント縮小という異例の展開。ハイド=スミスは2018年特別選挙での人種差別発言が選挙のたびに再燃。全体としては共和党優位だが、MSの上院選でここまで接近するのは極めて異例。</p>
-${_photoRow([
+<h4 style="margin:0 0 8px;font-size:13px;">本選候補者と最新支持率（2026年4月中旬調査）</h4>${_pollTable([['シンディ・ハイド=スミス（現職）','R','var(--rep)','43%'],['スコット・コロム（巡回裁判所判事）','D','var(--dem)','40%'],['タイ・ピンキンス（無所属）','I','#888','4%']],'※ SPLC Action Fund調査。2025年6月以降、+13から+3へ縮小。')}<h4 style="margin:0 0 6px;font-size:13px;">分析</h4>
+<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">巡回裁判所判事として広く知られるコロムは、1年間で民主党が+10ポイント差を縮める異例の展開を作り出した。ハイド=スミスの2018年特別選挙での人種差別的発言は選挙のたびに再浮上している。全体的には共和党優位が続くものの、ミシシッピ州の上院選挙でこれほど接戦となるのは極めて稀である。</p>${_photoRow([
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Official_headshot_of_US_Senator_Cindy_Hyde-Smith.jpg/330px-Official_headshot_of_US_Senator_Cindy_Hyde-Smith.jpg', name:'シンディ・ハイド=スミス', party:'共和党', color:'var(--rep)'},
   {url:null, name:'スコット・コロム', party:'民主党', color:'var(--dem)'}
-])}
-</div>`,
-
+])}</div>`,
+
     MO: () => `
 <div class="state-info-name">ミズーリ州（MO） — 2026年上院選挙なし</div>
 <div class="state-info-body">
@@ -1148,32 +1140,26 @@ ${_sched([['2026年8月18日','予備選（順位選択・全候補一括）','�
 
 
 
-    ID: () => `
-<div class="state-info-name">アイダホ州（ID） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['ジム・リッシュ（退任予定）','R','var(--rep)','2026年（2020年に再選）',true],
-  ['マイク・クラポ','R','var(--rep)','2028年（2022年に再選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年5月19日','予備選（共和党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 8px;font-size:13px;">主な候補者</h4>
+    ID: () => `
+<div class="state-info-name">アイダホ州（ID）— 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['ジム・リッシュ（現職）','R','var(--rep)','2026年（2020年再選）',true],
+  ['マイク・クラポ','R','var(--rep)','2028年（2022年再選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年5月19日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 8px;font-size:13px;">主要候補者</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
-    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党派</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">共和党候補（予備選で確定）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">リッシュ引退後の共和党内競争が焦点</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">民主党候補</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">勝利の可能性なし</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジム・リッシュ（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">外交委員会委員長、4期目を目指す；予備選で3人の挑戦者を圧倒的に破り勝利（67.3％）</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">デビッド・ロス</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">不動産業者兼SEOコンサルタント、民主党予備選で勝利（61.9％）；無所属のトッド・アキレスとリバタリアンのマット・ローズビーも本選の投票用紙に掲載</td></tr>
   </tbody>
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏（Safe R）</strong><br>リッシュ上院外交委員長（81歳）の引退によるオープンシート。アイダホは共和党の堅固な地盤で民主党が上院議席を持ったことがほとんどない。焦点は共和党予備選での後継者争い。本選は共和党の圧勝が確実。</p>
-</div>`,
-
-    // ── Batch 2: 安全圏10州 ──────────────────────────
-
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：安全R</strong><br>外交委員会委員長のリッシュ（81歳）は4期目を目指しており、引退せず — 3人の共和党予備選挑戦者を圧倒的に破った。アイダホ州は強固な共和党の牙城であり、民主党が上院議席を獲得することは稀である；一部の地元民主党員は、この議席を争うことがリソースに見合うかどうかを疑問視している。本選での共和党の勝利は確実である。</p>
+</div>`,
+
     AR: () => `
 <div class="state-info-name">アーカンソー州（AR） — 2026年上院選挙あり</div>
 <div class="state-info-body">
@@ -1200,32 +1186,48 @@ ${_sched([['2026年9月12日','予備選（両党）','future'],['2026年11月3�
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党安全圏（Safe D）</strong><br>クーンズはバイデン前大統領の盟友として知られ、外交委員会などで活動するベテラン。デラウェアはバイデン大統領のホームステートであり強固な民主党地盤。再選はほぼ確実な情勢。</p>
 </div>`,
 
-    KS: () => `
-<div class="state-info-name">カンザス州（KS） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['ロジャー・マーシャル（現職）','R','var(--rep)','2026年（2020年に当選）',true],
-  ['ジェリー・モラン','R','var(--rep)','2028年（2022年に再選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年8月4日','予備選（共和党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
+    KS: () => `
+<div class="state-info-name">カンザス州 (KS) — 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['ロジャー・マーシャル（現職）','R','var(--rep)','2026年（2020年当選）',true],
+  ['ジェリー・モラン','R','var(--rep)','2028年（2022年再選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年8月4日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 8px;font-size:13px;">主要候補者</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ロジャー・マーシャル（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">予備選で共和党対抗馬ポンド・ナラモアを破る</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">アダム・ハミルトン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">メガチャーチの牧師、カンザス州の資金調達記録を樹立（最初の62日間で370万ドル）、11人の候補者が競う予備選から頭一つ抜け出す</td></tr>
+  </tbody>
+</table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏（Safe R）</strong><br>マーシャルは元産婦人科医で保守強硬派。カンザスは一時民主党の知事が誕生したこともあるが上院では共和党が盤石。農業・医療政策で地元との繋がりを保つ。再選はほぼ確実。</p>
-</div>`,
-
-    LA: () => `
-<div class="state-info-name">ルイジアナ州（LA） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['ビル・キャシディ（現職）','R','var(--rep)','2026年（2020年に再選）',true],
-  ['ジョン・ケネディ','R','var(--rep)','2028年（2022年に再選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年11月3日','無党派一括予備選（ジャングル予備選）','future'],['2026年12月（必要時）','決選投票','future']])}
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党優位</strong>（安全Rから格下げ）<br>マーシャルは元産科医で保守強硬派であり、この共和党寄りの州で有利とされるべきだが、民主党の牧師アダム・ハミルトンの記録的な資金調達と党派を超えた訴求力により、予想以上に接戦となっている——8月中旬の地元報道では、両者が「攻撃の応酬」を繰り広げ選挙戦が緊迫していると報じられた。カンザス州は時折民主党知事を選出しており、党派を超えた投票の可能性を示しているが、上院議席は依然としてマーシャルが失う方が難しい状況である。</p>
+</div>`,
+
+    LA: () => `
+<div class="state-info-name">ルイジアナ州 (LA) — 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['ビル・キャシディ（予備選敗退）','R','var(--rep)','2026年（2020年再選）',true],
+  ['ジョン・ケネディ','R','var(--rep)','2028年（2022年再選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年5月16日','予備選（両党、クローズド）','終了'],['2026年6月27日','決選投票（ランオフ）（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 6px;font-size:13px;">重要ポイント</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">ルイジアナ州は2026年から従来の「ジャングル予備選」をクローズド党予備選に変更した。現職のビル・キャシディは、2021年の弾劾裁判で有罪票を投じたことでトランプ氏から長年標的にされており、第1回戦で3位（24.8%）に終わり敗退。ジュリア・レトロー下院議員（44.8%）とジョン・フレミング下院議員（28.3%）に敗れた。トランプ氏が支持するレトローは6月27日の決選投票でフレミングを57%-43%で破った。</p>
+<h4 style="margin:0 0 8px;font-size:13px;">主要候補者</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジュリア・レトロー</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">連邦下院議員、トランプ氏支持、共和党決選投票で57%-43%勝利</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジェイミー・デイビス</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">テンサス郡警察陪審員、コンサルタントのゲーリー・クロケットを破り民主党決選投票勝利</td></tr>
+  </tbody>
+</table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党優位（Likely R）</strong><br>キャシディは2021年2月のトランプ弾劾裁判で有罪票を投じ、共和党州組織から正式に非難決議を受けた異色の現職。それでもルイジアナの深紅な政治地盤を背景に再選は有力。ルイジアナは独自のジャングル予備選（全候補が同日同列に出馬、得票50%超なら即選出）を採用。</p>
-</div>`,
-
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：安全R</strong><br>キャシディの敗退により、弾劾票に対するトランプ氏の「復讐計画」が完了したが、議席は引き続き共和党が確保 — ルイジアナ州の深い共和党寄りの傾向により、11月のレトロー対デイビスの勝利はほぼ確実。</p>
+</div>`,
+
     MA: () => `
 <div class="state-info-name">マサチューセッツ州（MA） — 2026年上院選挙あり</div>
 <div class="state-info-body">
@@ -1265,19 +1267,28 @@ ${_sched([['2026年6月2日','予備選（両党）','終了'],['2026年11月3�
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党優位（Likely D）</strong><br>ルハンは2022年に脳卒中で入院したが回復し職務を継続。ニューメキシコはヒスパニック系人口が多く民主党地盤。エネルギー・水資源政策が地元の主要争点。再選は有力。</p>
 </div>`,
 
-    OK: () => `
-<div class="state-info-name">オクラホマ州（OK） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['マークウェイン・マリン（現職）','R','var(--rep)','2026年（2022年補選当選）',true],
-  ['ジェームズ・ランクフォード','R','var(--rep)','2028年（2022年に再選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年6月23日','予備選（共和党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
+    OK: () => `
+<div class="state-info-name">オクラホマ州（OK）— 2026年上院特別選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['空席（マルリン辞任）','R','var(--rep)','2026年（特別選挙）',true],
+  ['ジェームズ・ランクフォード','R','var(--rep)','2028年（2022年再選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年6月16日','共和党予備選','終了'],['2026年8月25日','民主党予備選決選投票（ランオフ）','future'],['2026年11月3日','特別本選','future']])}<h4 style="margin:0 0 6px;font-size:13px;">重要ポイント</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">マークウェイン・マルリンは、トランプ大統領が国土安全保障長官に指名（上院で54対45で承認）した後、2026年3月に辞任しました。特別選挙で彼の任期の残りを埋めます。ケビン・ハーン下院議員は、幅広い支持（トランプ大統領、スティット州知事、スーン上院議員、ランクフォード上院議員）を得て、6月16日の共和党予備選で勝利しました。民主党の選挙は、ンキラ・ジャスミン・トーマス（第1回投票で45％で首位）とジム・プリースト（約24％）の間で8月25日の決選投票に進みました。</p>
+<h4 style="margin:0 0 8px;font-size:13px;">主要候補者</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ケビン・ハーン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">連邦下院議員、幅広い主流派の支持を得て共和党予備選で勝利</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">民主党候補者（8月25日決選投票で決定）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ンキラ・ジャスミン・トーマス 対 ジム・プリースト</td></tr>
+  </tbody>
+</table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏（Safe R）</strong><br>マリンは元MMA選手・実業家で、2022年の補選でジム・インホフ引退後の議席を獲得。上院で相手議員に「ファイトしよう」と発言した場面が話題になった。オクラホマは共和党の堅固な地盤で本選勝利は確実。今回が初の正式再選挑戦。</p>
-</div>`,
-
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：安全R</strong><br>オクラホマ州は確固たる共和党の地盤です。ハーンの幅広い主流派の支持により、本日の決選投票でどちらの民主党候補が勝利しても、11月の特別本選での共和党の議席保持は事実上確実です。</p>
+</div>`,
+
     OR: () => `
 <div class="state-info-name">オレゴン州（OR） — 2026年上院選挙あり</div>
 <div class="state-info-body">
@@ -1355,19 +1366,26 @@ ${_sched([['2026年6月2日','予備選（共和党）','終了'],['2026年11月
 
 
 
-    WY: () => `
-<div class="state-info-name">ワイオミング州（WY） — 2026年上院選挙あり</div>
-<div class="state-info-body">
-${_seatsTable([
-  ['シンシア・ラミス（現職）','R','var(--rep)','2026年（2020年に当選）',true],
-  ['ジョン・バラッソ（上院院内幹事）','R','var(--rep)','2030年（2024年に再選）',false],
-])}
-<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年8月18日','予備選（共和党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏（Safe R）</strong><br>ラミスは暗号資産（ビットコイン）の積極的な推進者として知られ、FIT21法など暗号資産関連法の成立に尽力。ワイオミングはトランプが2020年・2024年ともに70%超を獲得する米国最深紅の州の一つ。再選はほぼ確実。8月に共和党予備選（実質的な決選投票）を実施。</p>
-</div>`,
-
+    WY: () => `
+<div class="state-info-name">ワイオミング州 (WY) — 2026年上院選挙</div>
+<div class="state-info-body">${_seatsTable([
+  ['シンシア・ルミス（再選を目指さず）','R','var(--rep)','2026年（2020年に当選）',true],
+  ['ジョン・バラッソ（上院少数党幹事）','R','var(--rep)','2030年（2024年に再選）',false],
+])}<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">${_sched([['2026年8月18日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}<h4 style="margin:0 0 8px;font-size:13px;">主要候補者</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党派</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ハリエット・ヘイジマン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">連邦下院議員、トランプ支持、共和党予備選で4人の対抗馬に対して64.9%で勝利</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジェームズ・バード</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元州下院議員、民主党予備選で勝利</td></tr>
+  </tbody>
+</table>
+<h4 style="margin:0 0 6px;font-size:13px;">展望</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価: 安全R</strong><br>著名な暗号通貨（ビットコイン）支持者であるルミスは、再選を目指さないことを決定。トランプ支持のハリエット・ヘイジマン下院議員が、空席となった共和党予備選で圧勝。ワイオミング州は全米で最も共和党優位の州の一つであり、トランプが2020年と2024年の両方で70%以上を獲得した州である。11月のヘイジマンの勝利は事実上確実である。</p>
+</div>`,
+
     NE: () => `
 <div class="state-info-name">ネブラスカ州（NE） — 2026年上院選挙あり</div>
 <div class="state-info-body">
