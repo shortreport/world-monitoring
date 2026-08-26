@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-26 10:39 JST",
+  "updated_at": "2026-08-26 10:40 JST",
   "total": 50,
-  "toyota_summary": "Trade talks between the U.S. and Canada collapsed late Friday, with no resolution in sight and Trump now likely to impose tariffs on Canadian goods—potentially including auto parts and vehicles—unless he personally intervenes. The breakdown came hours before an August 22 deadline, leaving both sides at an impasse over what amounts to roughly $2 billion in threatened tariffs under Section 338 authority.\n\nFor automakers, this matters because Canada supplies roughly 15 percent of U.S. vehicle imports and is deeply integrated into North American supply chains. A tariff war would force immediate decisions about where to source components and assemble vehicles, disrupting production schedules and raising costs across the industry.\n\nWatch whether Trump signals willingness to negotiate this week or moves forward with tariffs.",
+  "toyota_summary": "参考として挙げられているライアンエアー対スペインの空港使用料訴訟は、航空業界に関する事案であり、自動車産業とは無関係である。",
   "emails": [
     {
       "ts": "20260826_0834",
@@ -11,7 +11,12 @@
       "date_label": "AUG 26  08:34",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Aug 25th, 2026",
+      "html": "data/pdfs/20260826_0834_Daily_Research_Summary_-_Aug_25th,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_0801",
@@ -21,7 +26,12 @@
       "date_label": "AUG 26  08:01",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "米国とカナダの通商協議が決裂し、交渉再開にはトランプ大統領の介入が必要となる可能性が高い"
+      "excerpt": "米国とカナダの通商協議が決裂し、交渉再開にはトランプ大統領の介入が必要となる可能性が高い",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20260826_0801_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_0525",
@@ -31,7 +41,12 @@
       "date_label": "AUG 26  05:25",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Geopolitical rivalry leaves AI risks ungoverned",
+      "html": "data/pdfs/20260826_0525_Geopolitical_rivalry_leaves_AI_risks_ungoverned.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_0455",
@@ -41,7 +56,12 @@
       "date_label": "AUG 26  04:55",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Sanctions D-Day stops short of upending Trump-Xi summit",
+      "html": "data/pdfs/20260826_0455_Sanctions_D-Day_stops_short_of_upending_Trump-Xi_s.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_0430",
@@ -51,7 +71,12 @@
       "date_label": "AUG 26  04:30",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trains between Britain and Europe on track to run every 15 minutes",
+      "html": "data/pdfs/20260826_0430_Trains_between_Britain_and_Europe_on_track_to_run_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_0213",
@@ -60,8 +85,13 @@
       "pdf": "data/pdfs/20260826_0213_The_trade_war_came_too_soon_for_Mark_Carney’s_midd.pdf",
       "date_label": "AUG 26  02:13",
       "read_min": 8,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "The trade war came too soon for Mark Carney’s middle powers alliance",
+      "html": "data/pdfs/20260826_0213_The_trade_war_came_too_soon_for_Mark_Carney’s_midd.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_0052",
@@ -71,7 +101,12 @@
       "date_label": "AUG 26  00:52",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iran sanctions pose no threat to China summit",
+      "html": "data/pdfs/20260826_0052_Iran_sanctions_pose_no_threat_to_China_summit.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_0031",
@@ -91,7 +126,12 @@
       "date_label": "AUG 25  23:00",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Waymo to launch robotaxis in Munich in 2027",
+      "html": "data/pdfs/20260825_2300_Waymo_to_launch_robotaxis_in_Munich_in_2027.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260825_1905",
@@ -101,17 +141,27 @@
       "date_label": "AUG 25  19:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How a 17th-century Irish law is shielding Big Tech from class actions in Europe",
+      "html": "data/pdfs/20260825_1905_How_a_17th-century_Irish_law_is_shielding_Big_Tech.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260825_1843",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/08/25",
       "pdf": "data/pdfs/20260825_1843_「ジェトロ・ビジネス短信」2026_08_25.pdf",
       "date_label": "AUG 25  18:43",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "JETRO Business Brief 2026/08/25",
+      "html": "data/pdfs/20260825_1843_「ジェトロ・ビジネス短信」2026_08_25.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260825_1843_「ジェトロ・ビジネス短信」2026_08_25_en.pdf"
     },
     {
       "ts": "20260825_1822",
@@ -121,7 +171,12 @@
       "date_label": "AUG 25  18:22",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Germany ‘under threat,’ Merz says after another explosive drone found near airport",
+      "html": "data/pdfs/20260825_1822_Germany_‘under_threat,’_Merz_says_after_another_ex.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260825_1735",
@@ -131,7 +186,12 @@
       "date_label": "AUG 25  17:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe must spend billions now or face mounting climate disaster costs, EU warns",
+      "html": "data/pdfs/20260825_1735_Europe_must_spend_billions_now_or_face_mounting_cl.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260825_1638",
@@ -141,7 +201,12 @@
       "date_label": "AUG 25  16:38",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump’s Arctic saber-rattling boosts Iceland’s pro-EU campaign",
+      "html": "data/pdfs/20260825_1638_Trump’s_Arctic_saber-rattling_boosts_Iceland’s_pro.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260825_1402",
@@ -151,7 +216,12 @@
       "date_label": "AUG 25  14:02",
       "read_min": 9,
       "toyota": true,
-      "excerpt": "スペイン政府とライアンエアが地域空港の料金をめぐって対立しており、ライアンエアは複数の地"
+      "excerpt": "スペイン政府とライアンエアが地域空港の料金をめぐって対立しており、ライアンエアは複数の地",
+      "subject_en": "Ryanair and Spain clash over airport charges",
+      "html": "data/pdfs/20260825_1402_Ryanair_and_Spain_clash_over_airport_charges.html",
+      "summary_en": "Ryanair and Spain's government are locked in a dispute over airport fees, with the airline pulling flights from regional hubs like Asturias, Jerez and Vigo while accusing Madrid of diverting AENA dividends instead of cutting charges. Spanish Transport Minister Óscar Puente dismissed this as a cover for aircraft delivery delays, noting Ryanair actually grew capacity overall by shifting seats to profitable hubs like Madrid and Barcelona. The clash comes as AENA prepares a nationwide airport fee hike expected to be approved in September.",
+      "summary_ja": "ライアンエアーとスペイン政府が空港使用料をめぐって対立しており、同社はアストゥリアスやヘレス、ビーゴなど地方空港からの撤退を進める一方、政府がAENAからの配当金を使用料引き下げに充てていないと非難している。スペインのプエンテ運輸相はこれを反論し、実際には航空機納入の遅れを取り繕う戦略だとし、ライアンエアーはマドリードやバルセロナなど収益性の高い拠点へ座席数を移すことで全体としては供給量を増やしていると指摘した。この対立は、国営空港運営会社AENAが9月にも承認予定の全国的な空港使用料引き上げ案を背景に起きている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260825_1400",
@@ -161,7 +231,12 @@
       "date_label": "AUG 25  14:00",
       "read_min": 12,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Why the Socialists are stuck on migration",
+      "html": "data/pdfs/20260825_1400_Why_the_Socialists_are_stuck_on_migration.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260825_1300",
@@ -171,7 +246,12 @@
       "date_label": "AUG 25  13:00",
       "read_min": 6,
       "toyota": true,
-      "excerpt": "EUは秋に「産業加速法」について議論し、クリーン製造業の強化を目指すが、加盟国間の保護主"
+      "excerpt": "EUは秋に「産業加速法」について議論し、クリーン製造業の強化を目指すが、加盟国間の保護主",
+      "subject_en": "Europe’s debate over how to boost clean manufacturing is about to heat up",
+      "html": "data/pdfs/20260825_1300_Europe’s_debate_over_how_to_boost_clean_manufactur.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260825_0834",
@@ -663,5 +743,6 @@
       "toyota": false,
       "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "Ryanair vs. Spain over airport fees is provided for reference; it concerns aviation, not the auto industry."
 }
