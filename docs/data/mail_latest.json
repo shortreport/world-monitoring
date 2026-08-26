@@ -1,55 +1,47 @@
 {
-  "generated_at": "2026-08-25 10:47 JST",
-  "sender_count": 5,
+  "generated_at": "2026-08-26 10:39 JST",
+  "sender_count": 4,
   "total_mails": 17,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 6,
+      "count": 4,
       "bullets": [
-        "要約取得に失敗しました。"
+        "イラン制裁は段階的な拡大に留まり、トランプ・シー首脳会談への悪影響を回避",
+        "AI統治の国際的枠組み構築が地政学的対立により数年先延ばし",
+        "米国とカナダの通商協議が決裂し、9月8日にカナダの報復関税が発動予定",
+        "中東紛争の長期化で石油精製品価格が急騰し、製油業者のマージンが歴史的高水準に到達",
+        "中国資本市場が消費者向けインターネットから戦略的ハードテクノロジーへシフト"
       ],
       "subjects": [
         [
-          "2026-08-24",
+          "2026-08-26",
+          "Iran sanctions pose no threat to China summit",
+          "data/pdfs/20260826_0052_Iran_sanctions_pose_no_threat_to_China_summit.pdf"
+        ],
+        [
+          "2026-08-26",
+          "Sanctions D-Day stops short of upending Trump-Xi summit",
+          "data/pdfs/20260826_0455_Sanctions_D-Day_stops_short_of_upending_Trump-Xi_s.pdf"
+        ],
+        [
+          "2026-08-26",
+          "Geopolitical rivalry leaves AI risks ungoverned",
+          "data/pdfs/20260826_0525_Geopolitical_rivalry_leaves_AI_risks_ungoverned.pdf"
+        ],
+        [
+          "2026-08-26",
           "EG Research Summary in Japanese",
-          "data/pdfs/20260824_1359_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-08-24",
-          "US-Canada trade update - EG Conference Call, REMINDER",
-          "data/pdfs/20260824_2102_US-Canada_trade_update_-_EG_Conference_Call,_REMIN.pdf"
-        ],
-        [
-          "2026-08-24",
-          "US-Canada de-escalation likely requires Trump to act",
-          "data/pdfs/20260824_2125_US-Canada_de-escalation_likely_requires_Trump_to_a.pdf"
-        ],
-        [
-          "2026-08-25",
-          "Product prices will outpace crude as Middle East conflict drags on",
-          "data/pdfs/20260825_0228_Product_prices_will_outpace_crude_as_Middle_East_c.pdf"
-        ],
-        [
-          "2026-08-25",
-          "CONFERENCE CALL NOTES: US-Canada trade update",
-          "data/pdfs/20260825_0608_CONFERENCE_CALL_NOTES__US-Canada_trade_update.pdf"
-        ],
-        [
-          "2026-08-25",
-          "Security concessions will shield US trade talks",
-          "data/pdfs/20260825_0743_Security_concessions_will_shield_US_trade_talks.pdf"
+          "data/pdfs/20260826_0801_EG_Research_Summary_in_Japanese.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260824_1359_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20260824_2102_US-Canada_trade_update_-_EG_Conference_Call,_REMIN.pdf",
-        "data/pdfs/20260824_2125_US-Canada_de-escalation_likely_requires_Trump_to_a.pdf",
-        "data/pdfs/20260825_0228_Product_prices_will_outpace_crude_as_Middle_East_c.pdf",
-        "data/pdfs/20260825_0608_CONFERENCE_CALL_NOTES__US-Canada_trade_update.pdf",
-        "data/pdfs/20260825_0743_Security_concessions_will_shield_US_trade_talks.pdf"
+        "data/pdfs/20260826_0052_Iran_sanctions_pose_no_threat_to_China_summit.pdf",
+        "data/pdfs/20260826_0455_Sanctions_D-Day_stops_short_of_upending_Trump-Xi_s.pdf",
+        "data/pdfs/20260826_0525_Geopolitical_rivalry_leaves_AI_risks_ungoverned.pdf",
+        "data/pdfs/20260826_0801_EG_Research_Summary_in_Japanese.pdf"
       ]
     },
     {
@@ -58,116 +50,124 @@
       "color": "YEL",
       "count": 1,
       "bullets": [
-        "要約取得に失敗しました。"
+        "トランプ・習近平首脳会談を前に、制裁措置の発表が行われたものの大規模な新規制裁には至らず、来月の首脳会談やイラン戦略に大きな影響を与えない見通し",
+        "AI規制をめぐる地政学的競争が激化し、統一的な国際的取り組みではなく、対立する地政学的ブロックの形成につながる可能性"
       ],
       "subjects": [
         [
-          "2026-08-25",
-          "Daily Research Summary - Aug 24th, 2026",
-          "data/pdfs/20260825_0834_Daily_Research_Summary_-_Aug_24th,_2026.pdf"
+          "2026-08-26",
+          "Daily Research Summary - Aug 25th, 2026",
+          "data/pdfs/20260826_0834_Daily_Research_Summary_-_Aug_25th,_2026.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260825_0834_Daily_Research_Summary_-_Aug_24th,_2026.pdf"
-      ]
-    },
-    {
-      "sender": "Heather",
-      "short": "HEATH",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "要約取得に失敗しました。"
-      ],
-      "subjects": [
-        [
-          "2026-08-24",
-          "EG Update",
-          "data/pdfs/20260824_2053_EG_Update.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260824_2053_EG_Update.pdf"
+        "data/pdfs/20260826_0834_Daily_Research_Summary_-_Aug_25th,_2026.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "ORG",
-      "count": 8,
+      "color": "RED",
+      "count": 11,
       "bullets": [
-        "要約取得に失敗しました。"
+        "EUがクリーン製造業強化のための「産業加速法」を議論し、低炭素製品の公共調達割当と「メイド・イン・ヨーロッパ」ルール導入で欧州産業基盤強化を推進",
+        "スペイン政府とライアンエアが地域空港料金をめぐり対立し、航空会社の撤退・減便と政府による空港料金引き上げ提案が相次ぐ",
+        "アイスランドがトランプ政権の北極圏威嚇を背景にEU加盟交渉再開の国民投票実施",
+        "欧州が火災・干ばつ・熱波など気候災害対策への数十億ユーロ規模の投資を緊急要求",
+        "ドイツが爆発性ドローン発見により「脅威下にある」状況を表明し、安全保障上の懸念が増大"
       ],
       "subjects": [
         [
-          "2026-08-24",
-          "After the heat, the crisis",
-          "data/pdfs/20260824_1351_After_the_heat,_the_crisis.pdf"
-        ],
-        [
-          "2026-08-24",
-          "TRAN’s consensus on CO2 standards",
-          "data/pdfs/20260824_1402_TRAN’s_consensus_on_CO2_standards.pdf"
-        ],
-        [
-          "2026-08-24",
-          "Germany’s establishment has a plan to contain the far right. Sort",
-          "data/pdfs/20260824_1635_Germany’s_establishment_has_a_plan_to_contain_the_.pdf"
-        ],
-        [
-          "2026-08-24",
-          "Tiny fish could unlock new MS drugs. Brexit is getting in the way.",
-          "data/pdfs/20260824_1735_Tiny_fish_could_unlock_new_MS_drugs._Brexit_is_get.pdf"
-        ],
-        [
-          "2026-08-24",
-          "The Danube is drying up. Europe still has no plan.",
-          "data/pdfs/20260824_1905_The_Danube_is_drying_up._Europe_still_has_no_plan..pdf"
-        ],
-        [
-          "2026-08-24",
-          "Ukraine widens its targets — and its tolerance for causing civilian",
-          "data/pdfs/20260824_2106_Ukraine_widens_its_targets_—_and_its_tolerance_for.pdf"
-        ],
-        [
-          "2026-08-24",
-          "Trump announces 50 percent tariff increase on Canada for",
-          "data/pdfs/20260824_2328_Trump_announces_50_percent_tariff_increase_on_Cana.pdf"
+          "2026-08-25",
+          "Europe’s debate over how to boost clean manufacturing is about to",
+          "data/pdfs/20260825_1300_Europe’s_debate_over_how_to_boost_clean_manufactur.pdf"
         ],
         [
           "2026-08-25",
+          "Why the Socialists are stuck on migration",
+          "data/pdfs/20260825_1400_Why_the_Socialists_are_stuck_on_migration.pdf"
+        ],
+        [
+          "2026-08-25",
+          "Ryanair and Spain clash over airport charges",
+          "data/pdfs/20260825_1402_Ryanair_and_Spain_clash_over_airport_charges.pdf"
+        ],
+        [
+          "2026-08-25",
+          "Trump’s Arctic saber-rattling boosts Iceland’s pro-EU campaign",
+          "data/pdfs/20260825_1638_Trump’s_Arctic_saber-rattling_boosts_Iceland’s_pro.pdf"
+        ],
+        [
+          "2026-08-25",
+          "Europe must spend billions now or face mounting climate disaster",
+          "data/pdfs/20260825_1735_Europe_must_spend_billions_now_or_face_mounting_cl.pdf"
+        ],
+        [
+          "2026-08-25",
+          "Germany ‘under threat,’ Merz says after another explosive drone",
+          "data/pdfs/20260825_1822_Germany_‘under_threat,’_Merz_says_after_another_ex.pdf"
+        ],
+        [
+          "2026-08-25",
+          "How a 17th-century Irish law is shielding Big Tech from class",
+          "data/pdfs/20260825_1905_How_a_17th-century_Irish_law_is_shielding_Big_Tech.pdf"
+        ],
+        [
+          "2026-08-25",
+          "Waymo to launch robotaxis in Munich in 2027",
+          "data/pdfs/20260825_2300_Waymo_to_launch_robotaxis_in_Munich_in_2027.pdf"
+        ],
+        [
+          "2026-08-26",
           "Pro Daily Headlines",
-          "data/pdfs/20260825_0031_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20260826_0031_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-08-26",
+          "The trade war came too soon for Mark Carney’s middle powers",
+          "data/pdfs/20260826_0213_The_trade_war_came_too_soon_for_Mark_Carney’s_midd.pdf"
+        ],
+        [
+          "2026-08-26",
+          "Trains between Britain and Europe on track to run every 15",
+          "data/pdfs/20260826_0430_Trains_between_Britain_and_Europe_on_track_to_run_.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260824_1351_After_the_heat,_the_crisis.pdf",
-        "data/pdfs/20260824_1402_TRAN’s_consensus_on_CO2_standards.pdf",
-        "data/pdfs/20260824_1635_Germany’s_establishment_has_a_plan_to_contain_the_.pdf",
-        "data/pdfs/20260824_1735_Tiny_fish_could_unlock_new_MS_drugs._Brexit_is_get.pdf",
-        "data/pdfs/20260824_1905_The_Danube_is_drying_up._Europe_still_has_no_plan..pdf",
-        "data/pdfs/20260824_2106_Ukraine_widens_its_targets_—_and_its_tolerance_for.pdf",
-        "data/pdfs/20260824_2328_Trump_announces_50_percent_tariff_increase_on_Cana.pdf",
-        "data/pdfs/20260825_0031_Pro_Daily_Headlines.pdf"
+        "data/pdfs/20260825_1300_Europe’s_debate_over_how_to_boost_clean_manufactur.pdf",
+        "data/pdfs/20260825_1400_Why_the_Socialists_are_stuck_on_migration.pdf",
+        "data/pdfs/20260825_1402_Ryanair_and_Spain_clash_over_airport_charges.pdf",
+        "data/pdfs/20260825_1638_Trump’s_Arctic_saber-rattling_boosts_Iceland’s_pro.pdf",
+        "data/pdfs/20260825_1735_Europe_must_spend_billions_now_or_face_mounting_cl.pdf",
+        "data/pdfs/20260825_1822_Germany_‘under_threat,’_Merz_says_after_another_ex.pdf",
+        "data/pdfs/20260825_1905_How_a_17th-century_Irish_law_is_shielding_Big_Tech.pdf",
+        "data/pdfs/20260825_2300_Waymo_to_launch_robotaxis_in_Munich_in_2027.pdf",
+        "data/pdfs/20260826_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260826_0213_The_trade_war_came_too_soon_for_Mark_Carney’s_midd.pdf",
+        "data/pdfs/20260826_0430_Trains_between_Britain_and_Europe_on_track_to_run_.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "GRN",
+      "color": "ORG",
       "count": 1,
       "bullets": [
-        "要約取得に失敗しました。"
+        "エクアドル大統領が訪中し、中国側が中南米諸国の独立自主堅持と協力パートナーの自主的選択を支持",
+        "小馬智行とウーバーが欧州でロボタクシー2,000台超の展開",
+        "ジェトロが北京市で日本産酒類の商談会を開催",
+        "中国国家発展改革委員会が計算力・新型電力・次世代通信ネットワークの一体的整備を検討",
+        "タイ政府が地域住民・小規模事業者向け低利融資支援策を開始"
       ],
       "subjects": [
         [
-          "2026-08-24",
-          "「ジェトロ・ビジネス短信」2026/08/24",
-          "data/pdfs/20260824_1907_「ジェトロ・ビジネス短信」2026_08_24.pdf"
+          "2026-08-25",
+          "「ジェトロ・ビジネス短信」2026/08/25",
+          "data/pdfs/20260825_1843_「ジェトロ・ビジネス短信」2026_08_25.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260824_1907_「ジェトロ・ビジネス短信」2026_08_24.pdf"
+        "data/pdfs/20260825_1843_「ジェトロ・ビジネス短信」2026_08_25.pdf"
       ]
     }
   ]
