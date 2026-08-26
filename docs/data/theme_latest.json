@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25 23:49:25",
+  "generated_at": "2026-08-26 10:43:30",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-25 23:49:00",
+      "last_checked": "2026-08-26 10:42:38",
       "items": [
         {
           "uid": "a80e48f270ef",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-25 23:49:12",
+      "last_checked": "2026-08-26 10:42:56",
       "items": [
+        {
+          "uid": "a32842cf37d9",
+          "date": "2026-06-01",
+          "title": "Connected vehicle data 'can have intelligence value' to adversaries: federal document - CTV News",
+          "summary": "接続車両から収集されたデータが敵対国に対する情報価値を持つ可能性があるため、S.4429は接続車両のサイバーセキュリティと外国による不正アクセスから保護することを重点としている。この法案は、自動車メーカーが国家安全保障上の脅威を防ぐために、接続車両データの収集・使用・共有に関する厳格なセキュリティ基準を実装することを要求している。",
+          "source": "中国政府",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR3hWNkI1UTlLclJUV0xEcUY2bHZUVUttWXVDaFd3QTdyV0ZFSGFyR3h0WW9QLTZRaTVmamtha29ZS3dhNXRaYlZXMzVJXzJBVmdGWmh0Znl5b2o4ZmlGbTNTUUFQWU5vSlZfcEU2OHZ6QzJZOWdQV1NULVlVUWZuMDZqUlBmV1RMS0NKSnNhRlZVUDI2ZkJKQWxfVm93NkdDemREdnFWR2ktaTlpWU9CNDVhWkJ6alRrZlVINmNTLXI?oc=5",
+          "added_at": "2026-08-26 10:42:54"
+        },
         {
           "uid": "f37493cb18e7",
           "date": "2026-08-25",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcmJDUG1UbWtEZUx2d0N6SkZXeGtRamJ3WmRXXzB2d1ozbzh6YTZvTXNobkpPRTJXckozUTBPZ3QxS1RRNV9Gd3BMZTFGckR4bE9VSlozZElxTUljUG13NkVjWl9DcGRqTEx6TGhFNTVtRFRwSGFLcXpoWkZEN2tXeEVubjRBdC13WHhzQWtOQTN0UXpDNDFCbXRvRVNIb2tvamYzS1BWSHVUazY3WUNUcWh3Tm9oNFB0c1psbXFGMDRLVFRXSU1NRVJwS1FWQ1U5NlHSAdcBQVVfeXFMTXZXZmJqUEtnWGlRZVZiSkF2R1pRYlVmNDZzYzFaSXU3UW5SRHJ4cnhQYnUwU3FLMDFUNkVPQm9JbnBHWEppQnFXbkwwT25iem9tZnM5eGlkYzhudFdlSlZtbVhuSHg0SHJCNDBCNDlYVDA0UWZZb1VaZklfTGdYa2N6Nkd4ZlRrOE1Udlo5QkJXT0hMMXZFTmlrdTRqZVVnQXlWMVRYZFhPclVKU20wT1BHdHFPbWVxYThiOVFlLS1QVXBleHFKOWFUUi1ZeXpQVEhBSVRsaVk?oc=5",
           "added_at": "2026-07-09 17:12:51"
-        },
-        {
-          "uid": "6fb0717965b3",
-          "date": "2026-04-25",
-          "title": "‘Made in China’ EVs are taking over the streets, but just how safe is your data? - SMH.com.au",
-          "summary": "中国製電動車両の急速な普及に伴い、走行データやGPS情報などの個人情報が中国企業に収集される懸念から、米国はS.4429法案で外国製車載システムからのデータ収集を制限し、国家安全保障リスクを軽減しようとしています。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOEl1WkJuaHQzdDZCUHltRUh3RGt6LXlFN0lKUUJJWWVGQUZZRVNrQXEydWFwZ3NCZnItTVQzWkFkaTdHYkpiM3lvMXF5Y3FWTkRuRi1GVEdZSzZMTm5NTE9kTmpPQ1c1SzN0Wk9ZMHZyQmtXMlItQ0ZhNjNqNlE2QU9zS1laYVZLRG0yWk51djIxSnUtZnYyRFdhbTdBcFNzZDVOMU1ETXNhNG5oSlpBVTFXUW9rM1JHYkZrQXkya2V3SlRMWVRicWdibw?oc=5",
-          "added_at": "2026-07-08 20:48:20"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-25 23:49:25",
+      "last_checked": "2026-08-26 10:43:30",
       "items": [
+        {
+          "uid": "0ecd2abe4487",
+          "date": "2026-06-15",
+          "title": "America’s New Critical Minerals Playbook - Time Magazine",
+          "summary": "申し訳ございませんが、記事の具体的な内容が提供されていないため、要約することができません。Time Magazineの記事本文をご提供いただければ、「中国レアアース輸出管理」に関する文脈での日本語要約を作成させていただきます。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzNLT1Q0WU9MVnAwcVJ6WUc3dG9aVjk1eGlhbS1sc1NvMXpXcnlST1FrdU9JeDJuMGVxS29ZckI0aXI4YnVxVC03QXNzX3prQk1VWWdiT3JYNWRfQjg1d0tmQVR3d1JSblkzSDlhT0M3Zk1jaXk3TWRNNFA4X3ZBaXFNZw?oc=5",
+          "added_at": "2026-08-26 10:43:27"
+        },
+        {
+          "uid": "b64fde22ec28",
+          "date": "2026-06-22",
+          "title": "China Adds MP Materials, USA Rare Earth and 8 Other US Firms to Export Control List - bloomingbit",
+          "summary": "中国がMP Materials、USA Rare Earthを含む米国企業10社をレアアース輸出管理対象リストに追加し、戦略的レアアース資源の対米輸出規制を強化した。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fcUtNZXM5ZWxUM2JMQTdwSFVaa183LVRRaDVBUFZqQmFPLW15b08zWGZURUJ5d0xNZ0h2Vy1ncUFyMFRtQUNybFhmRUZEN2d1OS1oYg?oc=5",
+          "added_at": "2026-08-26 10:43:27"
+        },
         {
           "uid": "e813adb5789f",
           "date": "2026-08-25",
@@ -6010,26 +6030,6 @@
           "source": "欧米要人発言",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak8wOUwxUUtSN1E4WUJXUmw2V2ZhNy1JR1hTbTFZZVhIWWlNUHVvUWFwTlJHNVpqeDJRUWVpYlQySWN2QVNmSGVlc091a0NUUmhfTlN3dzVNUnNMeUZpUVFzbHMxQ18zbDAtWlJ1U1M4cDdPRWRHZ2NZY2dVR2t3VDd1Tjc1OUdQWUcwRnRZQ2JORVRwamR5R1ozSzRnOGR3NDE5Wi1pdlFCeUxLd3BiY3g4bzHSAboBQVVfeXFMUEwtanAwWnh4YV9YdmE5VnUxclBVMkZwUU0xYXlTMlFrT1FaMG9ra0FqT1J3WTYyWE5JRXRaUDJWMnhkMDVjaDJ5NUJkcG9VU2JIRC16V0hyT1pVTTQ3TnVCODdxdkg5YzdHZFZVT3hyZGlWTHRJamY5Zm1Bclk2eGd5Y1ZNYkx3NnUzZ1hURjlPVW15QUd1dWVCeGphSHhYZXJKV0k5eGVHNzJvV0h5SWJLNkVYZ2d4UHFR?oc=5",
-          "added_at": "2026-07-25 09:15:39"
-        },
-        {
-          "uid": "c9ead06d2b02",
-          "date": "2026-07-24",
-          "title": "Japan finds heavy rare earths dominate seabed deposit",
-          "summary": "日本が深海海底から採取した希土類鉱床では重希土類が主成分であることが判明し、中国への依存度低減を実現する可能性がある。この発見は日本の重要鉱物サプライチェーンの強化につながる戦略的に重要な資源確保となる。",
-          "source": "Mining.com",
-          "source_type": "industry",
-          "url": "https://www.mining.com/japan-finds-heavy-rare-earths-dominate-seabed-deposit/",
-          "added_at": "2026-07-25 09:15:39"
-        },
-        {
-          "uid": "fe2e52fe2b1f",
-          "date": "2026-07-24",
-          "title": "Trump says Russia, China not ‘participating’ in Iran war ‘in my opinion’",
-          "summary": "本記事はイラン関連の米国外交に関するもので、中国レアアース輸出管理とは直接の関連がないため、要約対象外です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/5988554-trump-china-russia-iran-support/",
           "added_at": "2026-07-25 09:15:39"
         }
       ]
