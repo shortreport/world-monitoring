@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26 14:36:57",
+  "generated_at": "2026-08-26 23:49:20",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-26 14:36:36",
+      "last_checked": "2026-08-26 23:48:57",
       "items": [
+        {
+          "uid": "e45d8f0716ff",
+          "date": "2026-08-25",
+          "title": "Europe’s clean industry debate pits France against Germany - politico.eu",
+          "summary": "欧州産業加速法案（IAA）をめぐり、フランスとドイツが対立しており、クリーンエネルギーと産業競争力の政策方針について意見が分かれています。この対立は、欧州全体のグリーン産業戦略の方向性に大きな影響を与えています。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2xEeE9ldmszejZDLU5CSXJtb2ctWTltYWJ5ZGJEWG9Ua2ZoazRpTHBZSjZSUDNTSG5INVFNNW1WdHJKVk54R2ZFcWJNT3I3R19leGN5LXYxTnpyM1YzaUhidTBzNnJZSWxrVzZuVW9sckEzR2JlemtPem1Sa2trazN6TEFIUXhVOTBqajVvcWJmVUpuSW9TRHM4RkhfdEZWX09WeUNwanQ?oc=5",
+          "added_at": "2026-08-26 23:48:56"
+        },
         {
           "uid": "a80e48f270ef",
           "date": "2026-08-24",
@@ -1999,16 +2009,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd29KdVFsU2VqalVINkk0SXJmUDRWd1dWaWFNSmRvQlV4ckI2TERoRmtvLXMtUnllT3d2bndCa2JiNld0RVZCMW5wdndiSVlQY1VPZWhVVUYtbFBZdTNEUWhzaFRETXhBVUhzVjdFMm51NFNhbGtPdkRBdHg3d081Wlh3dFA3MmpTRHhmSUMyVTR6U3Z1UFNGSlQzVEdCZ2lnMHgydHFCQjlyampEbUZ1VmM1NFRRbDJnMzlXX0liaHowZw?oc=5",
           "added_at": "2026-05-28 21:56:19"
-        },
-        {
-          "uid": "684d6ac310a6",
-          "date": "2026-04-07",
-          "title": "Made in Europe means scaling what already works - Euractiv",
-          "summary": "欧州産業加速法案（IAA）は、既に機能している欧州の技術やビジネスモデルを拡大することで、欧州の産業競争力を強化することを目指しており、新規開発よりも実績のあるソリューションの規模拡大に焦点を当てています。",
-          "source": "EURACTIV",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUW9PQWRxSUxKQ3VtczdOWkI0UzFvdDJEQzlDd1dVcHdSbWlhNEZCMC15ejhfU2xBY0laOFdORjJNSFNkelBqYjBEX0V1SnFKa0R2QkdTTkNvaXRqazJUQWhST041cWdCcXA2VkUtQjdjNlpiU0xubVlwYVZfR3dIUV9JRlYwMlVy?oc=5",
-          "added_at": "2026-05-28 21:56:19"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-26 14:36:44",
+      "last_checked": "2026-08-26 23:49:06",
       "items": [
         {
           "uid": "a32842cf37d9",
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-26 14:36:57",
+      "last_checked": "2026-08-26 23:49:20",
       "items": [
+        {
+          "uid": "ad1ede786db9",
+          "date": "2026-08-26",
+          "title": "Don’t let China rescue Cuba",
+          "summary": "中国はキューバに継続的な情報収集拠点を維持しており、この戦略的な足がかりがレアアース等の資源獲得や政治的影響力拡大に寄与している可能性がある。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/international/6049652-china-signals-intelligence-cuba-risk/",
+          "added_at": "2026-08-26 23:49:19"
+        },
         {
           "uid": "0ecd2abe4487",
           "date": "2026-06-15",
@@ -6020,16 +6030,6 @@
           "source": "米国防・エネルギー省",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjl4RTQ4VXFxaVRuT2FrYUNlVE11dEJKVzdSTm51U3l3dG1jNGdHdWVXaVVVM0RBeTU4cGRJaWM5Zkk2NUlEal9oNTFyWURldURHTTg4UEg3TnNyZVpJbEVQUm5aSEI1TU9sRk9KV0NERG5ONkV3NlR4cTl3bWJ0OA?oc=5",
-          "added_at": "2026-07-25 09:15:39"
-        },
-        {
-          "uid": "536ac66812cb",
-          "date": "2026-05-18",
-          "title": "Rare earth truce? China agrees to ease US supply concerns after Beijing summit - Firstpost",
-          "summary": "中国はバイデン大統領との北京サミット後、米国のレアアース供給懸念の緩和に合意し、輸出管理を緩和する方向を示唆した。この合意により、米国と中国間のレアアース供給をめぐる緊張が一時的に緩和される可能性がある。",
-          "source": "欧米要人発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak8wOUwxUUtSN1E4WUJXUmw2V2ZhNy1JR1hTbTFZZVhIWWlNUHVvUWFwTlJHNVpqeDJRUWVpYlQySWN2QVNmSGVlc091a0NUUmhfTlN3dzVNUnNMeUZpUVFzbHMxQ18zbDAtWlJ1U1M4cDdPRWRHZ2NZY2dVR2t3VDd1Tjc1OUdQWUcwRnRZQ2JORVRwamR5R1ozSzRnOGR3NDE5Wi1pdlFCeUxLd3BiY3g4bzHSAboBQVVfeXFMUEwtanAwWnh4YV9YdmE5VnUxclBVMkZwUU0xYXlTMlFrT1FaMG9ra0FqT1J3WTYyWE5JRXRaUDJWMnhkMDVjaDJ5NUJkcG9VU2JIRC16V0hyT1pVTTQ3TnVCODdxdkg5YzdHZFZVT3hyZGlWTHRJamY5Zm1Bclk2eGd5Y1ZNYkx3NnUzZ1hURjlPVW15QUd1dWVCeGphSHhYZXJKV0k5eGVHNzJvV0h5SWJLNkVYZ2d4UHFR?oc=5",
           "added_at": "2026-07-25 09:15:39"
         }
       ]
