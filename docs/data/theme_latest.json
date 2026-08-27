@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26 23:49:20",
+  "generated_at": "2026-08-28 01:13:50",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-26 23:48:57",
+      "last_checked": "2026-08-28 01:13:23",
       "items": [
+        {
+          "uid": "6fb307a0bec0",
+          "date": "2026-07-09",
+          "title": "CBAM price falls on-quarter, Parliament committee amends bill - EUROMETAL",
+          "summary": "欧州議会委員会がCBAM（炭素国境調整メカニズム）法案を修正し、四半期比でCBAM価格が低下したことが報告されている。これはEUの産業競争力強化と脱炭素化を目指すIAAの枠組みの中で、炭素価格メカニズムの調整が進行していることを示唆している。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEFYR2ZfSDNEc2tQNk5hNWpPN0lfMzllYlJPUjdSYXBJX2tSdk93R0ZBUkNaSDlqMHNnSjRWZTlWWk1DbVBQc0h2djZZLThvSmxEZnBueWpHLUxpRkJYLWZyR29UMGxlU1U4STgyTUhSX0k4ZEd1M0NXN3dLOXlxLW16SzYzbTdNMENJ?oc=5",
+          "added_at": "2026-08-28 01:13:22"
+        },
         {
           "uid": "e45d8f0716ff",
           "date": "2026-08-25",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVHJCd1F3aURsTWhXZXByT09nQVlLS0dMSUowaU5yV09pd0hpbTdya1ZFRnVXOWJTZ0JiR3Ewczh0ZFcwcGQtZ2YtTUh2dHJzRmxXTjB0NC1lSEJnSTIwUzdhZWwyREFnWGFjd054QkV1dVBHdkZWUWRwUUl1QWJlTWhaVm5VRk1PYmc3ejNUOUFNZFlDZGF4eHBEeXJGczkxXzFxMmpOX05EenI2QU14TEpfR2RZa2Z5ZVpaQ1RsTTlNRFY5WG1jYVBGeDZqYV9nU1hhcmtOeWM1SkpXZjg3bEk3M0U3MUplTGZBdNIB7AFBVV95cUxNVHJCd1F3aURsTWhXZXByT09nQVlLS0dMSUowaU5yV09pd0hpbTdya1ZFRnVXOWJTZ0JiR3Ewczh0ZFcwcGQtZ2YtTUh2dHJzRmxXTjB0NC1lSEJnSTIwUzdhZWwyREFnWGFjd054QkV1dVBHdkZWUWRwUUl1QWJlTWhaVm5VRk1PYmc3ejNUOUFNZFlDZGF4eHBEeXJGczkxXzFxMmpOX05EenI2QU14TEpfR2RZa2Z5ZVpaQ1RsTTlNRFY5WG1jYVBGeDZqYV9nU1hhcmtOeWM1SkpXZjg3bEk3M0U3MUplTGZBdA?oc=5",
           "added_at": "2026-05-28 21:56:19"
-        },
-        {
-          "uid": "d6b7031c14ed",
-          "date": "2026-03-04",
-          "title": "With the Industrial Accelerator Act, \"Made in Europe\" makes its grand entrance into EU law - Eunews",
-          "summary": "欧州産業加速法案（IAA）は、EU法に「メイド・イン・ヨーロッパ」という新たな枠組みを導入し、欧州産業の競争力強化と自給率向上を目指すものである。この法案により、EUは重要産業の国内生産を促進し、戦略的自律性の確保を図っている。",
-          "source": "欧州委員会要人",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd29KdVFsU2VqalVINkk0SXJmUDRWd1dWaWFNSmRvQlV4ckI2TERoRmtvLXMtUnllT3d2bndCa2JiNld0RVZCMW5wdndiSVlQY1VPZWhVVUYtbFBZdTNEUWhzaFRETXhBVUhzVjdFMm51NFNhbGtPdkRBdHg3d081Wlh3dFA3MmpTRHhmSUMyVTR6U3Z1UFNGSlQzVEdCZ2lnMHgydHFCQjlyampEbUZ1VmM1NFRRbDJnMzlXX0liaHowZw?oc=5",
-          "added_at": "2026-05-28 21:56:19"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-26 23:49:06",
+      "last_checked": "2026-08-28 01:13:31",
       "items": [
         {
           "uid": "a32842cf37d9",
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-26 23:49:20",
+      "last_checked": "2026-08-28 01:13:50",
       "items": [
+        {
+          "uid": "66d6cb035062",
+          "date": "2026-06-23",
+          "title": "China's Antimony Ban Sent Prices Up 2,600%. Rare Earths Are Next - Crude Oil Prices Today | OilPrice.com",
+          "summary": "中国がアンチモンの輸出を禁止して価格を2,600%上昇させたのに続き、レアアースも同様の輸出管理の対象となる可能性があり、中国が戦略的に重要な鉱物資源の供給を統制する動きが強まっている。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHRTeW15SzJtNk5kb1lLejlPbVBFM01sd0NMWWR5azJIVDk0TEdQNkVPU0N6X1R4dXUxb1FiM2JsS0tqdzk1VXFDaHJRNXpVZkVmQUdHdXRGWFl3S3JBV28wOF9BcnVSdk04MXRUOXRSMy01NmRWVHJOSUZiRmNYVWNGaEExTmdVS01WaXM5R1JCNUVnWHpLQ1JXUHk3MnlaWHpHeHFaSHdSaDNH0gGyAUFVX3lxTE05OFlGMERTRVJqSkVGTEJyM0llU2NkeVlSbS1ubnUtSnlrWmFwZEY3ZWxiemY5cFJVYm9JdkVaMDdrSHlzbldfYnBYNnlMLWNWRVQ1Nk1FOThCOVFXQjcwNzBYUFJlMDJyOC04dVJRdDV0S0tiay1yOVZrMEc0eGdIZkRuUVE0alFqNHd3NjYxVC1YdVA5ODBwOENVRFI0R05FRlZReW1fWnZJRXpzZWdmZVE?oc=5",
+          "added_at": "2026-08-28 01:13:45"
+        },
+        {
+          "uid": "29faf66ea2f7",
+          "date": "2026-06-23",
+          "title": "China tightens export controls on 10 U.S. defence and rare earth firms - 디지털투데이",
+          "summary": "中国がレアアース関連企業を含む米国防衛・レアアース企業10社への輸出規制を強化し、戦略的資源の管理をより厳格にすることで、米国との技術・産業競争で優位性を確保しようとしている。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODg0VUlzc2ZwR3VMOHkzSnFGRWtOOF8wUXMyTGRPTXNOSEZpZXN5cm1ra2xuRF94V2JTMmtzVmJrR1kxVS12N1hPZHRYb0Uxb25JbmlUXzhiMzRvNFE0SHV1Y2hJVWx1dk5ZMGNNVWV2THBLZFU2VkNTS1dUUTcyeHBYTnNNZVpKWmt3R2hPMnBKbW1GM1NjOU5aM3FZeXhKVTdiTlNuSTR6bXVCZmUxdkxidw?oc=5",
+          "added_at": "2026-08-28 01:13:45"
+        },
+        {
+          "uid": "fee3d3adfcea",
+          "date": "2026-08-27",
+          "title": "Chinese foreign minister calls for Washington, Beijing to ‘overcome obstacles’ ahead of summit",
+          "summary": "中国外相王毅が米国との関係改善の必要性を表明しており、これは習近平主席の訪米に向けた米中関係の改善交渉の一環として、レアアース輸出管理などの経済的対立点の解決が議論される可能性を示唆している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6054943-chinese-foreign-minister-wang-yi-us-relations-trump-xi-summit/",
+          "added_at": "2026-08-28 01:13:45"
+        },
+        {
+          "uid": "e40fe2dcf2b5",
+          "date": "2026-08-27",
+          "title": "Trump’s ‘unique’ diplomacy gives hope to families detained in China",
+          "summary": "この記事はトランプ大統領の外交姿勢に関するものであり、中国レアアース輸出管理とは直接的な関連がありません。提供いただいたテキストは不完全であるため、要約作成が困難です。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6053411-trump-jin-release-china/",
+          "added_at": "2026-08-28 01:13:45"
+        },
         {
           "uid": "ad1ede786db9",
           "date": "2026-08-26",
@@ -5991,46 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeExQTmo1cFFIM05qNHFqR202N1daa1p4WENrWnhCcDZVR2ExZnhaWlBIWFBSVW9UdEw5cFprbnFYRVB1cG9rVzdnTTUyS080ZzFieXZidTNnQVdnVHVBQktWOTE0amx6eFp5bERqbjNvbm1oaFN1YURmZWRlSjlSdm5mdUFENnkwVGFSUTZaZWoxaFg4ajBXMGNXc1dHbi1JMVpwXzNlN2xnWFBBbGRqUVNjSVdCQ3VfdGtfMDBSZ3hmcU92bFJONUJR?oc=5",
           "added_at": "2026-07-25 16:20:43"
-        },
-        {
-          "uid": "6c85dffafc59",
-          "date": "2026-05-25",
-          "title": "Rare Earth Supply Chain: Greenland Mines Secures Sarfartoq Nd-Pr Project in $35M Deal - Tech Times",
-          "summary": "グリーンランドのレアアース鉱山企業が35百万ドルでサルファルトク鉱床のネオジム・プラセオジム採掘プロジェクトを確保し、中国による レアアース輸出管理に対抗する西側諸国のサプライチェーン多角化戦略が進展している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdDVnUnV3VG9EX2VVNkpkOHZHMXpkTE1QVktBbkpVemhfOW44Z0tzdkhoaFN6SUQ3VXBDRXlod0o1UVk0U3pVTk5saVNhaVVrQU5RdjR4UGhmeXBVYTdNYW1tQkNKWEsyR2JaLXhCRXZRRDA1YXdBYzl3b2U1SEMwd1RJcGgyTkJkTHkxNjVmcThWVWIxWXBrZUh6LXFfSGtxWFB0Z2RVUHF3MmhkZGttZk9seVczQ05BdHdWdzQ0RUVkX2NjYWRCWFZMUDFaWGNT?oc=5",
-          "added_at": "2026-07-25 16:20:43"
-        },
-        {
-          "uid": "32306ebf9f33",
-          "date": "2026-05-22",
-          "title": "Opinion | China squeezed too tight on rare earths. Now the market is taking action. - The Washington Post",
-          "summary": "中国がレアアース輸出を過度に制限したため、国際市場は代替供給源の開発と備蓄強化によって対抗措置を講じている。この動きは、中国のレアアース市場支配力を弱体化させる可能性がある。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0U2RUtYRElBb1ppMllCcU11eXBRQUt4czdmdXItY3pzRGJZZDdnbnJ6TG15TEx1YTFKZUlxWG84NXN2U25CV0hYTmRhUGlnelROaGR5U1lOcjhydW9FWms0LU5TQ1JBQ0ZsdFpVOHlnR1hvSjh6TkpDY3R6TkVwZHd2R3BJRnRYMzMwQUJoaFM5b1Z3d1JrMnlmXzJ2bjBnWUd4cm1ua01WR1JQ?oc=5",
-          "added_at": "2026-07-25 16:20:43"
-        },
-        {
-          "uid": "e43cbdb4db97",
-          "date": "2026-05-15",
-          "title": "The U.S.-China Trade Relationship: What’s Behind the Competition? - Council on Foreign Relations",
-          "summary": "申し訳ございませんが、提供いただいたのはタイトルのみで、記事の具体的な内容が含まれていないため、「中国レアアース輸出管理」に関する要約を作成することができません。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85R1Rxa096czZxUGpuWjB0T0RCeWtvNzUwM2kxcHRhVXp4MjBJUXVIbC1vU2EtRGZ6c2MxQnVNamVJUHhpZU4yMVBqRUZ3YUgxNGVRT0pRSWYteGpFeW1mRlBuazdselRXZDdpaVY1NW0xS2hzSlUtb1p1VWhwdw?oc=5",
-          "added_at": "2026-07-25 16:20:43"
-        },
-        {
-          "uid": "d3228db67f37",
-          "date": "2026-04-27",
-          "title": "Rare Earth Export Restrictions One Year Later - CSIS | Center for Strategic and International Studies",
-          "summary": "中国は2023年8月にレアアース精製技術の輸出規制を導入し、西側諸国のレアアース産業における中国への依存を強化しましたが、実際の輸出制限による実質的な影響は限定的であり、各国は代替供給源の確保と技術開発を加速させています。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjl4RTQ4VXFxaVRuT2FrYUNlVE11dEJKVzdSTm51U3l3dG1jNGdHdWVXaVVVM0RBeTU4cGRJaWM5Zkk2NUlEal9oNTFyWURldURHTTg4UEg3TnNyZVpJbEVQUm5aSEI1TU9sRk9KV0NERG5ONkV3NlR4cTl3bWJ0OA?oc=5",
-          "added_at": "2026-07-25 09:15:39"
         }
       ]
     }
