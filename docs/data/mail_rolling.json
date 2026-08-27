@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-08-27 09:01 JST",
   "total": 50,
-  "toyota_summary": "Germany will push the EU to take a harder line on China trade by October, according to Chancellor Merz. This matters because European automakers sell heavily into China and depend on supply chains that cross the region—tighter trade restrictions could upend sourcing strategies and invite retaliation that hits exports. Watch whether other major EU capitals align with Berlin or resist.\n\nWaymo plans to launch robotaxi service in Munich in 2027, marking its first entry into Europe. The move signals that autonomous vehicle operators see regulatory openness in the EU and are willing to compete directly with traditional mobility providers. This forces automakers to clarify whether they view robotaxis as a threat to their business model or as a new revenue stream to own themselves.\n\nU.S.-Canada trade talks have collapsed, and resolving the dispute likely requires Trump's direct involvement. A protectionist turn in North America would squeeze automakers caught between the two markets and potentially force expensive regional manufacturing splits.",
+  "toyota_summary": "ドイツは、EUの対中貿易赤字を議題とするEU首脳会議を前に、10月までにEUとしての対中貿易姿勢を統一・強化する方針を固めている。自動車・機械業界団体は既に対中戦略の見直しに着手しており、自動車メーカーのサプライチェーンや市場アクセスに変化が及ぶ可能性を示唆している。\n\n参考情報として、自営業改革の試験的導入が挙げられる。",
   "emails": [
     {
       "ts": "20260827_0801",
@@ -11,7 +11,12 @@
       "date_label": "AUG 27  08:01",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20260827_0801_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260827_0031",
@@ -31,17 +36,27 @@
       "date_label": "AUG 26  23:31",
       "read_min": 2,
       "toyota": true,
-      "excerpt": "ドイツ政府は10月までにEUに対し、中国との貿易政策をより厳しくするための提案を提示する予"
+      "excerpt": "ドイツ政府は10月までにEUに対し、中国との貿易政策をより厳しくするための提案を提示する予",
+      "subject_en": "Germany to set position on EU-China trade in October, Merz says",
+      "html": "data/pdfs/20260826_2331_Germany_to_set_position_on_EU-China_trade_in_Octob.html",
+      "summary_en": "Germany plans to present a unified, tougher stance on EU-China trade policy by October, ahead of an EU summit where negotiators will report on efforts to shrink the bloc's massive trade deficit with Beijing. Chancellor Friedrich Merz said his coalition is compiling proposals as German industry groups, including automotive and machinery sectors, reassess their China strategies. Finance Minister Lars Klingbeil said Germany remains committed to free trade but will not be naive about rule-breaking by trading partners.",
+      "summary_ja": "ドイツ政府は10月までにEUの対中貿易政策について、より強硬な統一見解をまとめる方針だ。10月のEUサミットでは中国との巨額の貿易赤字削減に向けた交渉状況が報告される予定で、メルツ首相は自動車・機械業界を含む産業界からも対中姿勢の見直しが進んでいると述べた。クリングバイル財務相は、自由貿易を引き続き重視する一方、ルールを破る相手に対しては甘い対応をしないと強調した。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_2241",
-      "sender_norm": "Mujtaba",
+      "sender_norm": "Mujtaba Rahman",
       "subject": "PRACTICE LETTER: Russia and China escalation risks to dominate",
       "pdf": "data/pdfs/20260826_2241_PRACTICE_LETTER__Russia_and_China_escalation_risks.pdf",
       "date_label": "AUG 26  22:41",
       "read_min": 8,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "PRACTICE LETTER: Russia and China escalation risks to dominate European politics this fall",
+      "html": "data/pdfs/20260826_2241_PRACTICE_LETTER__Russia_and_China_escalation_risks.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_2151",
@@ -51,7 +66,12 @@
       "date_label": "AUG 26  21:51",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iran sanctions won’t derail Trump-Xi summit",
+      "html": "data/pdfs/20260826_2151_Iran_sanctions_won’t_derail_Trump-Xi_summit.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_1920",
@@ -61,17 +81,27 @@
       "date_label": "AUG 26  19:20",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Canada’s Carney to attend EU’s State of the Union",
+      "html": "data/pdfs/20260826_1920_Canada’s_Carney_to_attend_EU’s_State_of_the_Union.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_1807",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/08/26",
       "pdf": "data/pdfs/20260826_1807_「ジェトロ・ビジネス短信」2026_08_26.pdf",
       "date_label": "AUG 26  18:07",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "アジア地域では、アリババグループがフィギュア・玩具ブランドを展開し、インドとシンガポール"
+      "excerpt": "アジア地域では、アリババグループがフィギュア・玩具ブランドを展開し、インドとシンガポール",
+      "subject_en": "\"JETRO Business Brief\" 2026/08/26",
+      "html": "data/pdfs/20260826_1807_「ジェトロ・ビジネス短信」2026_08_26.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260826_1807_「ジェトロ・ビジネス短信」2026_08_26_en.pdf"
     },
     {
       "ts": "20260826_1700",
@@ -81,7 +111,12 @@
       "date_label": "AUG 26  17:00",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update in Japanese",
+      "html": "data/pdfs/20260826_1700_eg_update_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_1654",
@@ -91,7 +126,12 @@
       "date_label": "AUG 26  16:54",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Malaysia: Further poll setback likely for Anwar",
+      "html": "data/pdfs/20260826_1654_Malaysia__Further_poll_setback_likely_for_Anwar.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_1401",
@@ -101,7 +141,12 @@
       "date_label": "AUG 26  14:01",
       "read_min": 9,
       "toyota": true,
-      "excerpt": "欧州のパイロットは秋に予定されているAir Services Regulation改革を利用して、航空会社が正"
+      "excerpt": "欧州のパイロットは秋に予定されているAir Services Regulation改革を利用して、航空会社が正",
+      "subject_en": "Pilots demand reform to fight bogus self-employment",
+      "html": "data/pdfs/20260826_1401_Pilots_demand_reform_to_fight_bogus_self-employmen.html",
+      "summary_en": "European pilots are pushing for the upcoming EU Air Services Regulation reform, expected this fall, to crack down on airlines misclassifying aircrews as self-employed freelancers. The European Cockpit Association, representing 44,000 pilots, argues such arrangements strip workers of employment protections while offering little real freelance flexibility, with a Ghent University study finding at least 5.8% of pilots affected—likely an undercount since many non-unionized pilots weren't surveyed. Airlines are not currently required to disclose how many self-employed pilots they employ.",
+      "summary_ja": "欧州の パイロットたちは、今秋予定されているEU航空サービス規則の改正を機に、航空会社が乗務員を実質的な従業員でありながら自営業者として扱う「偽装自営業」問題の是正を求めている。4万4000人のパイロットを代表する欧州コックピット協会（ECA）は、こうした雇用形態が労働者保護を奪う一方、本来のフリーランスの自由もほとんど伴わないと指摘する。ゲント大学の調査ではパイロットの少なくとも5.8％が該当するとされるが、非組合員の実態は把握されておらず、実際の割合はさらに高い可能性がある。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_1357",
@@ -110,8 +155,13 @@
       "pdf": "data/pdfs/20260826_1357_Super_Mario_on_the_loose.pdf",
       "date_label": "AUG 26  13:57",
       "read_min": 12,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Super Mario on the loose",
+      "html": "data/pdfs/20260826_1357_Super_Mario_on_the_loose.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260826_0834",
@@ -267,7 +317,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "JETRO Business Brief 2026/08/25",
+      "subject_en": "\"JETRO Business Brief\" 2026/08/25",
       "html": "data/pdfs/20260825_1843_「ジェトロ・ビジネス短信」2026_08_25.html",
       "summary_en": "",
       "summary_ja": "",
@@ -688,5 +738,6 @@
       "summary_ja": "ドイツ連邦統計局の発表によると、同国自動車産業の従業員数が2005年以来の最低水準まで落ち込んだ。EVシフトやコスト圧力を背景に、業界の構造的な低迷が続いていることを示している。海外への生産移転や競争激化が、ドイツの自動車メーカー・サプライヤーに一段の課題を突き付けている。",
       "summary_pdf": "data/pdfs/20260821_1808_「ジェトロ・ビジネス短信」2026_08_21_en.pdf"
     }
-  ]
+  ],
+  "toyota_summary_en": "Germany plans a unified, tougher EU-China trade stance by October, ahead of an EU summit addressing the bloc's trade deficit with Beijing. Automotive and machinery industry groups are already reassessing China strategies, signaling potential shifts in supply chains and market access for carmakers.\n\nPilot self-employment reform is provided for reference."
 }
