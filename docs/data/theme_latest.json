@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28 01:13:50",
+  "generated_at": "2026-08-28 10:34:56",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-28 01:13:23",
+      "last_checked": "2026-08-28 10:34:14",
       "items": [
+        {
+          "uid": "0dfa0cf90c14",
+          "date": "2026-08-27",
+          "title": "EU split widens over 'Made in Europe' rules as expert warns protection may backfire - Global Times",
+          "summary": "欧州産業加速法案（IAA）に関連して、EU加盟国間で「メイド・イン・ヨーロッパ」ルールをめぐって意見の対立が深まっており、専門家は保護主義的な規制が逆効果をもたらす可能性を警告している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96SHNERHkxNHFDLXFickozUFdsbTg1a3dkYklwRDRpNm9kclJSSmpKdE9BRjZOZC13ZmxGTDRlaDhldGRPTzVBWUVZaU12VzZZY3pSM0QtVTQxa0FKZlJIUjZ3?oc=5",
+          "added_at": "2026-08-28 10:34:12"
+        },
         {
           "uid": "6fb307a0bec0",
           "date": "2026-07-09",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORl9nM3QyN3lUNWFnSngzMmpESDVfQzJFdEtiNGU5TDhnUnIxa2tIMnhFaXhfMHJPZGdXcU56TUt5bktReHJKZWY5bHBsY1dOMWFnUFdpMXdlaDlaRXJZYk1uZ3VkaDJvNFhkTWpjV1BJV2VYLWIxWl9QUGFERHpSaWVVUzJVY2k2eEhyNVRpQUYyV2liT3FKTFNjYmpNODFyYTR1UWU0OXFUQ1ZCclZfNVVZcGYza1RfdFotX2NYS0VpcTZFWnF2b3ZmdGJvVlRIeGRwMnRrbnZ3QzY4UDlneDZ4bGNQQTdFa09VaTVUa1dxSU1aV0FqT2ln?oc=5",
           "added_at": "2026-05-28 21:56:19"
-        },
-        {
-          "uid": "006686d75141",
-          "date": "2026-05-28",
-          "title": "Trade minister conveys Seoul's concerns over EU's trade protectionist measures to European Parliament - The Korea Times",
-          "summary": "韓国通商相が欧州議会で、EU産業加速法案（IAA）を含む保護主義的通商措置に対するソウルの懸念を伝え、公正な競争環境の確保を求めた。韓国は同法案がEU域内企業に過度な優遇措置を与え、韓国企業を含む外国企業の市場アクセスを制限していると反発している。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVHJCd1F3aURsTWhXZXByT09nQVlLS0dMSUowaU5yV09pd0hpbTdya1ZFRnVXOWJTZ0JiR3Ewczh0ZFcwcGQtZ2YtTUh2dHJzRmxXTjB0NC1lSEJnSTIwUzdhZWwyREFnWGFjd054QkV1dVBHdkZWUWRwUUl1QWJlTWhaVm5VRk1PYmc3ejNUOUFNZFlDZGF4eHBEeXJGczkxXzFxMmpOX05EenI2QU14TEpfR2RZa2Z5ZVpaQ1RsTTlNRFY5WG1jYVBGeDZqYV9nU1hhcmtOeWM1SkpXZjg3bEk3M0U3MUplTGZBdNIB7AFBVV95cUxNVHJCd1F3aURsTWhXZXByT09nQVlLS0dMSUowaU5yV09pd0hpbTdya1ZFRnVXOWJTZ0JiR3Ewczh0ZFcwcGQtZ2YtTUh2dHJzRmxXTjB0NC1lSEJnSTIwUzdhZWwyREFnWGFjd054QkV1dVBHdkZWUWRwUUl1QWJlTWhaVm5VRk1PYmc3ejNUOUFNZFlDZGF4eHBEeXJGczkxXzFxMmpOX05EenI2QU14TEpfR2RZa2Z5ZVpaQ1RsTTlNRFY5WG1jYVBGeDZqYV9nU1hhcmtOeWM1SkpXZjg3bEk3M0U3MUplTGZBdA?oc=5",
-          "added_at": "2026-05-28 21:56:19"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-28 01:13:31",
+      "last_checked": "2026-08-28 10:34:28",
       "items": [
         {
           "uid": "a32842cf37d9",
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-28 01:13:50",
+      "last_checked": "2026-08-28 10:34:56",
       "items": [
+        {
+          "uid": "0fee6148e4d7",
+          "date": "2026-08-14",
+          "title": "USA Rare Earth Gains 7%, MP Materials Jumps 8%: Here’s Why Critical Minerals Are Moving Today - AOL.com",
+          "summary": "中国がレアアース輸出管理を強化する動きを受けて、米国のレアアース企業であるUSA Rare EarthとMP Materialsの株価がそれぞれ7%、8%上昇し、中国への依存度低減を目指す米国企業への投資関心が高まっている。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XQm5RNzQ3Y2FoU05UV2ZZblIzMDQ0dGJiTWFVVzlXanp2aTVESzF3Nlh1bk5vbW9BMVF4WnZ6MGg3TElSblEzM2YtMnQwNGxYNG9HNmRTREJsYzNpaFJjVGoyTUFWU0ZoS3pxQlJNUEJwYVVs?oc=5",
+          "added_at": "2026-08-28 10:34:48"
+        },
+        {
+          "uid": "5b20d6f10310",
+          "date": "2026-08-27",
+          "title": "Trump coy on ‘economic D-Day’ measures toward Russia, China",
+          "summary": "トランプ大統領がロシア・中国への「経済的D-Day」的な経済制裁脅迫の実効性について明確な回答を避けており、ロシアとイランの関係継続に対する具体的な懲罰措置については「場合による」と述べて慎重な姿勢を示している。これは米国がレアアースを含む戦略物資供給の管理を通じた対抗手段の信頼性に疑問を生じさせる可能性がある。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6055647-trump-russia-china-iran-isolation/",
+          "added_at": "2026-08-28 10:34:48"
+        },
+        {
+          "uid": "b80b801d1964",
+          "date": "2026-08-27",
+          "title": "For global AI governance, the US and China must cooperate while competing",
+          "summary": "米国と中国は人工知能ガバナンスにおいて競争しながらも協力する必要があり、AI技術の急速な発展に対応するため両国の二国間協力が急務である。ただし、この記事は中国レアアース輸出管理の直接的な内容を含んでいないため、要約の文脈が一致していません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/6052665-us-china-ai-collaboration/",
+          "added_at": "2026-08-28 10:34:48"
+        },
         {
           "uid": "66d6cb035062",
           "date": "2026-06-23",
@@ -6001,36 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lUEd4cTdMa1UxZFJaTFBBamhkR0NaelFhVGNxQ2x5T1JCMENJUUxqS20yTGJUY0xIXzZDZGZ2Q1hQc0NHNHhDX3dsNDYtUGxNam55Q3ZjcmNTVTQ3R2Vwazl0d3J6cmxhRmFXX1NLTDFMN3M4U3c?oc=5",
           "added_at": "2026-07-26 16:37:45"
-        },
-        {
-          "uid": "1c39030821b8",
-          "date": "2026-06-05",
-          "title": "Washington Links TRIPP and Jackson-Vanik Repeal in Push Toward Central Asia - The Times Of Central Asia",
-          "summary": "申し訳ありませんが、提供いただいたテキストは見出しのみで、記事の本文内容がないため、「中国レアアース輸出管理」に関する要約を作成することができません。記事の詳細な内容をご提供いただければ、要約させていただきます。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkYwcWFybXRhZUNUNEQyWFgwNl9YdUpaV2xXTm51SmpmTDdQTGhyeThsb25TY1NsZWthX3lDQVV5MUxqSDBSTXoyeHRkZmxHS05WcVBWRHdfZktwcklLeENSQXUwRjEtZW9uZUN0ZnRvekZMSmZKSmdPOXFuZjZFR21Nc2puaktzbjdwUnlVOXBsRTNDQXoydmZhZ3Y?oc=5",
-          "added_at": "2026-07-26 16:37:45"
-        },
-        {
-          "uid": "9e519360b3a4",
-          "date": "2026-07-25",
-          "title": "China Rare Earth Index Stays Elevated as NdPr Rises; Heavy-Rare-Earth Scarcity Persists - Rare Earth Exchanges",
-          "summary": "中国のレアアース指数は、ネオジム・プラセオジム（NdPr）の上昇に伴い高水準を維持する一方で、重希土類の供給不足が継続している。中国の輸出管理下における希土類価格の上昇と供給逼迫が、産業界に対する市場圧力となっている。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSjYybE5peEZFd1JYTWVHVzNUMVNXN0NJVWtOaTJUa0NUamhTTk9PT1ZfOVFWM0JPdGdfVFA3Zzc1dmVBZ0xqN3R4b2tVdDZmdVJXQUxYOTBySElsX3hLczdsRnpCVHFsTnU2U0pSNE9hZnRqMUNoWnc0a1F0NW1uLXVxaEhOMmFKYWJaenM1WEVWUi1RU1NRSUdhcVRhMEV4Z2I2eGNsWVlBdF80UG5xcDZnUXFNSG1CZ1dmWF94d1E?oc=5",
-          "added_at": "2026-07-26 16:37:45"
-        },
-        {
-          "uid": "9debcde2c1cf",
-          "date": "2026-05-08",
-          "title": "Onshoring the Mineral Supply Chain: Structural Constraints, Policy Tools, and Research Gaps - Resources for the Future",
-          "summary": "中国のレアアース供給支配に対抗するため、米国などは鉱物サプライチェーンの国内回帰(オンショアリング)を進めており、構造的制約の克服には政策支援と技術開発の強化が不可欠である。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeExQTmo1cFFIM05qNHFqR202N1daa1p4WENrWnhCcDZVR2ExZnhaWlBIWFBSVW9UdEw5cFprbnFYRVB1cG9rVzdnTTUyS080ZzFieXZidTNnQVdnVHVBQktWOTE0amx6eFp5bERqbjNvbm1oaFN1YURmZWRlSjlSdm5mdUFENnkwVGFSUTZaZWoxaFg4ajBXMGNXc1dHbi1JMVpwXzNlN2xnWFBBbGRqUVNjSVdCQ3VfdGtfMDBSZ3hmcU92bFJONUJR?oc=5",
-          "added_at": "2026-07-25 16:20:43"
         }
       ]
     }
