@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28 10:34:56",
+  "generated_at": "2026-08-29 02:12:39",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-28 10:34:14",
+      "last_checked": "2026-08-29 02:12:13",
       "items": [
         {
           "uid": "0dfa0cf90c14",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-28 10:34:28",
+      "last_checked": "2026-08-29 02:12:24",
       "items": [
+        {
+          "uid": "2b3c78fe8979",
+          "date": "2026-06-25",
+          "title": "US cranks up pressure on China EVs with Polestar ban - Reuters",
+          "summary": "米国がポールスター（Polestar）を含む中国系電動車に対する規制を強化する動きは、S.4429法案が目指す外国勢力による自動車産業への浸透防止という安全保障上の懸念に基づいており、対中圧力の一環として機能している。本措置は中国系EV企業の米国市場進出を制限し、国内自動車産業の保護と国家安全保障の両立を図る政策的対応である。",
+          "source": "中国政府",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLW1SMWdEUXp3ODA1STNZaXRMZVNWek9QRVRRMHpvdmJIRm8zYWhrVHJwOTFUWm9nSEVrVzVGYTFjR1JIMGYycHZwLXNqWVBKLUpIYkgtY1djSEJwb0hOTkdNSGpXSXByRlVUYnZnbVJLcm1BTGc2OUtSU2M3UzFzcGdYeU5yUnBydFgyZUdyMXcwY0RXRFMzWlZEOEYtSVdCakdLajRXb25rRGFEV295Z01iN0N1S0F4dTg2OVNQczJRV3A4UTFyMW14SWxUbXlrQ2pRUzNZUXhQcEh4WkE?oc=5",
+          "added_at": "2026-08-29 02:12:21"
+        },
         {
           "uid": "a32842cf37d9",
           "date": "2026-06-01",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdldmYmpQS2dYaVFlVmJKQXZHWlFiVWY0NnNjMVpJdTdRblJEcnhyeFBidTBTcUswMVQ2RU9Cb0lucEdYSmlCcVduTDBPbmJ6b21mczl4aWRjOG50V2VKVm1tWG5IeDRIckI0MEI0OVhUMDRRZllvVVpmSV9MZ1hrY3o2R3hmVGs4TVR2WjlCQldPSEwxdkVOaWt1NGplVWdBeVYxVFhkWE9yVUpTbTBPUEd0cU9tZXFhOGI5UWUtLVBVcGV4cUo5YVRSLVl5elBUSEFJVGxpWdIB1wFBVV95cUxNdldmYmpQS2dYaVFlVmJKQXZHWlFiVWY0NnNjMVpJdTdRblJEcnhyeFBidTBTcUswMVQ2RU9Cb0lucEdYSmlCcVduTDBPbmJ6b21mczl4aWRjOG50V2VKVm1tWG5IeDRIckI0MEI0OVhUMDRRZllvVVpmSV9MZ1hrY3o2R3hmVGs4TVR2WjlCQldPSEwxdkVOaWt1NGplVWdBeVYxVFhkWE9yVUpTbTBPUEd0cU9tZXFhOGI5UWUtLVBVcGV4cUo5YVRSLVl5elBUSEFJVGxpWQ?oc=5",
           "added_at": "2026-07-09 18:22:46"
-        },
-        {
-          "uid": "1d9673b5655f",
-          "date": "2026-07-09",
-          "title": "US Senate committee to vote on bill to tighten ban on Chinese vehicles - ET Auto",
-          "summary": "米国上院委員会が中国製車両の輸入禁止をさらに厳格化する法案（S.4429）の採決を行う予定であり、この法案は中国メーカーの米国市場への参入をより強く制限することを目的としている。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcmJDUG1UbWtEZUx2d0N6SkZXeGtRamJ3WmRXXzB2d1ozbzh6YTZvTXNobkpPRTJXckozUTBPZ3QxS1RRNV9Gd3BMZTFGckR4bE9VSlozZElxTUljUG13NkVjWl9DcGRqTEx6TGhFNTVtRFRwSGFLcXpoWkZEN2tXeEVubjRBdC13WHhzQWtOQTN0UXpDNDFCbXRvRVNIb2tvamYzS1BWSHVUazY3WUNUcWh3Tm9oNFB0c1psbXFGMDRLVFRXSU1NRVJwS1FWQ1U5NlHSAdcBQVVfeXFMTXZXZmJqUEtnWGlRZVZiSkF2R1pRYlVmNDZzYzFaSXU3UW5SRHJ4cnhQYnUwU3FLMDFUNkVPQm9JbnBHWEppQnFXbkwwT25iem9tZnM5eGlkYzhudFdlSlZtbVhuSHg0SHJCNDBCNDlYVDA0UWZZb1VaZklfTGdYa2N6Nkd4ZlRrOE1Udlo5QkJXT0hMMXZFTmlrdTRqZVVnQXlWMVRYZFhPclVKU20wT1BHdHFPbWVxYThiOVFlLS1QVXBleHFKOWFUUi1ZeXpQVEhBSVRsaVk?oc=5",
-          "added_at": "2026-07-09 17:12:51"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-28 10:34:56",
+      "last_checked": "2026-08-29 02:12:39",
       "items": [
+        {
+          "uid": "9e519360b3a4",
+          "date": "2026-07-25",
+          "title": "China Rare Earth Index Stays Elevated as NdPr Rises; Heavy-Rare-Earth Scarcity Persists - Rare Earth Exchanges",
+          "summary": "中国レアアース指数は軽希土類（NdPr）の上昇により高水準を維持しており、重希土類の供給不足が継続している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSjYybE5peEZFd1JYTWVHVzNUMVNXN0NJVWtOaTJUa0NUamhTTk9PT1ZfOVFWM0JPdGdfVFA3Zzc1dmVBZ0xqN3R4b2tVdDZmdVJXQUxYOTBySElsX3hLczdsRnpCVHFsTnU2U0pSNE9hZnRqMUNoWnc0a1F0NW1uLXVxaEhOMmFKYWJaenM1WEVWUi1RU1NRSUdhcVRhMEV4Z2I2eGNsWVlBdF80UG5xcDZnUXFNSG1CZ1dmWF94d1E?oc=5",
+          "added_at": "2026-08-29 02:12:37"
+        },
         {
           "uid": "0fee6148e4d7",
           "date": "2026-08-14",
@@ -6021,16 +6031,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUNtd0pGVG00VExubGp1c01JVUduR0JGWGNPQmRNdkJhajRvOXJjdks3Q0xPS0hVb1dQdVA1b2EtbU53TkZVZ2NoYnd2ZnBpODRWNDRWNDZNcHIyU0w5X0t3ejBuNzFZak9NSEpnUGd1YWpGYWVCQnFkTlpRZGR0Ulk3MUVaczN1QWJGN2h5TFBaTW9YUWxMZUJFczlRV0pKc2NJeHQzRGdHdGQzem9DaW8tUEozNzBoblE?oc=5",
           "added_at": "2026-07-26 23:47:22"
-        },
-        {
-          "uid": "954a4c3e16ee",
-          "date": "2026-07-24",
-          "title": "Beijing's Export Control Counterpunch: 14 EU Entities Added to China's Controlled List - Geopolitechs",
-          "summary": "中国は、EU関連の地政学的対立に対抗する措置として、14のEU企業・機関を輸出管理対象リストに追加し、これらへの戦略的物資の輸出を制限する報復措置を講じた。この措置はレアアースを含む重要鉱物の輸出管理を通じて、地政学的な圧力手段として機能している。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lUEd4cTdMa1UxZFJaTFBBamhkR0NaelFhVGNxQ2x5T1JCMENJUUxqS20yTGJUY0xIXzZDZGZ2Q1hQc0NHNHhDX3dsNDYtUGxNam55Q3ZjcmNTVTQ3R2Vwazl0d3J6cmxhRmFXX1NLTDFMN3M4U3c?oc=5",
-          "added_at": "2026-07-26 16:37:45"
         }
       ]
     }
