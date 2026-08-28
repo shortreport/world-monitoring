@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-28 10:34 JST",
+  "updated_at": "2026-08-28 10:35 JST",
   "total": 50,
-  "toyota_summary": "Germany's chancellor signaled this week that Berlin will push the EU toward harder trade measures against Chinese vehicles by October, specifically targeting the surge in Chinese hybrid imports that have undercut domestic manufacturers. This marks a shift from Germany's historical free-trade stance and reflects alarm at how quickly Chinese automakers have moved upmarket in Europe.\n\nFor the global auto industry, this matters because Germany remains the EU's economic heavyweight and can shape bloc-wide policy. A tougher EU stance on Chinese imports would raise costs for companies building in China and selling into Europe, while potentially protecting legacy automakers facing margin pressure from cheaper competitors. It also signals that the old playbook—competing on scale and efficiency—no longer guarantees survival in a market where Chinese firms are rapidly closing the technology gap.\n\nWatch whether France and other EU members align with Germany's October proposal, or whether trade divisions within Europe undermine a unified response.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20260828_0438",
@@ -11,7 +11,12 @@
       "date_label": "AUG 28  04:38",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "CIA director's Moscow visit likely a warning",
+      "html": "data/pdfs/20260828_0438_CIA_director's_Moscow_visit_likely_a_warning.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260828_0358",
@@ -20,8 +25,13 @@
       "pdf": "data/pdfs/20260828_0358_Beijing's_exit_rules_tighten_talent_mobility.pdf",
       "date_label": "AUG 28  03:58",
       "read_min": 5,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Beijing's exit rules tighten talent mobility",
+      "html": "data/pdfs/20260828_0358_Beijing's_exit_rules_tighten_talent_mobility.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260828_0353",
@@ -31,7 +41,12 @@
       "date_label": "AUG 28  03:53",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Document: Greece signs EU shipping emissions position despite industry opposition",
+      "html": "data/pdfs/20260828_0353_Document__Greece_signs_EU_shipping_emissions_posit.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260828_0325",
@@ -41,7 +56,12 @@
       "date_label": "AUG 28  03:25",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Managed decoupling to define US-China ties",
+      "html": "data/pdfs/20260828_0325_Managed_decoupling_to_define_US-China_ties.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260828_0253",
@@ -51,7 +71,12 @@
       "date_label": "AUG 28  02:53",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Canada: Trade war likely to persist through US midterms",
+      "html": "data/pdfs/20260828_0253_Canada__Trade_war_likely_to_persist_through_US_mid.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260828_0141",
@@ -61,7 +86,12 @@
       "date_label": "AUG 28  01:41",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU: White House probe targets exports over firms",
+      "html": "data/pdfs/20260828_0141_EU__White_House_probe_targets_exports_over_firms.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260828_0111",
@@ -71,7 +101,12 @@
       "date_label": "AUG 28  01:11",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Canada's retaliatory tariffs will have minimal influence on voters",
+      "html": "data/pdfs/20260828_0111_Canada's_retaliatory_tariffs_will_have_minimal_inf.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260827_2136",
@@ -81,7 +116,12 @@
       "date_label": "AUG 27  21:36",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe macro update",
+      "html": "data/pdfs/20260827_2136_Europe_macro_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260827_2124",
@@ -91,7 +131,12 @@
       "date_label": "AUG 27  21:24",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Russia, China to dominate EU politics this fall",
+      "html": "data/pdfs/20260827_2124_Russia,_China_to_dominate_EU_politics_this_fall.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260827_1907",
@@ -101,17 +146,27 @@
       "date_label": "AUG 27  19:07",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "France’s imperiled moderates look weaker than ever ahead of first presidential debate",
+      "html": "data/pdfs/20260827_1907_France’s_imperiled_moderates_look_weaker_than_ever.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260827_1809",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/08/27",
       "pdf": "data/pdfs/20260827_1809_「ジェトロ・ビジネス短信」2026_08_27.pdf",
       "date_label": "AUG 27  18:09",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" 2026/08/27",
+      "html": "data/pdfs/20260827_1809_「ジェトロ・ビジネス短信」2026_08_27.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260827_1809_「ジェトロ・ビジネス短信」2026_08_27_en.pdf"
     },
     {
       "ts": "20260827_1735",
@@ -121,7 +176,12 @@
       "date_label": "AUG 27  17:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The former neo-Nazi activists behind Germany’s rising far-right star",
+      "html": "data/pdfs/20260827_1735_The_former_neo-Nazi_activists_behind_Germany’s_ris.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260827_1635",
@@ -131,7 +191,12 @@
       "date_label": "AUG 27  16:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Merz unites EU budget-cutters as Costa gropes for deal",
+      "html": "data/pdfs/20260827_1635_Merz_unites_EU_budget-cutters_as_Costa_gropes_for_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260827_1400",
@@ -140,8 +205,13 @@
       "pdf": "data/pdfs/20260827_1400_Germany_wants_to_get_tougher_on_Chinese_EVs.pdf",
       "date_label": "AUG 27  14:00",
       "read_min": 9,
-      "toyota": true,
-      "excerpt": "ドイツのメルツ首相は、中国製ハイブリッド車の輸入増加を抑制するための強硬な貿易措置を求め"
+      "toyota": false,
+      "excerpt": "ドイツのメルツ首相は、中国製ハイブリッド車の輸入増加を抑制するための強硬な貿易措置を求め",
+      "subject_en": "Germany wants to get tougher on Chinese EVs",
+      "html": "data/pdfs/20260827_1400_Germany_wants_to_get_tougher_on_Chinese_EVs.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260827_1351",
@@ -151,7 +221,12 @@
       "date_label": "AUG 27  13:51",
       "read_min": 11,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Get me into SOTEU",
+      "html": "data/pdfs/20260827_1351_Get_me_into_SOTEU.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260827_1155",
@@ -160,8 +235,13 @@
       "pdf": "data/pdfs/20260827_1155_ジェトロ地域・分析レポートの新着のご案内（2026年8月27日号）.pdf",
       "date_label": "AUG 27  11:55",
       "read_min": 1,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Notification of New JETRO Regional and Analysis Reports (August 27, 2026 Issue)",
+      "html": "data/pdfs/20260827_1155_ジェトロ地域・分析レポートの新着のご案内（2026年8月27日号）.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260827_1155_ジェトロ地域・分析レポートの新着のご案内（2026年8月27日号）_en.pdf"
     },
     {
       "ts": "20260827_0801",
@@ -658,5 +738,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
