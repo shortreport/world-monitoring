@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29 20:31:24",
+  "generated_at": "2026-08-30 02:34:10",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-29 20:30:56",
+      "last_checked": "2026-08-30 02:33:47",
       "items": [
         {
           "uid": "a188c4469d09",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-29 20:31:07",
+      "last_checked": "2026-08-30 02:33:55",
       "items": [
         {
           "uid": "51d1869a6013",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-29 20:31:24",
+      "last_checked": "2026-08-30 02:34:10",
       "items": [
+        {
+          "uid": "d6ed1cfede04",
+          "date": "2026-06-25",
+          "title": "China Rare Earth Index Slips, But the Real Market Is Elsewhere - Rare Earth Exchanges",
+          "summary": "中国の公式レアアース指数は下落していますが、実際の市場取引の大部分は公式統計に反映されない場外市場で行われており、中国の輸出管理の実効性を評価する際には場外市場の動向も考慮する必要があることを示唆しています。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRURZWEFEMGRfSmVoTHJXNm5QSzlYRTB3T0xxOG52Zjk2Wk9ZbkFwYzRFVElmcmx0S01wQklkVDgzUUU2WVR4Z0pkYTBxWUluSDZrSmUtcGFUeFZDWG9wZWY0eUpBdWVKakNWSC1kV29NY1Vmd0d0cV94bHJtdVRhQjhqVkJFbzB2YTBsYkpnWXZuU2JzNmJKTVBXRXFabWM?oc=5",
+          "added_at": "2026-08-30 02:34:07"
+        },
+        {
+          "uid": "8fcd83f7569b",
+          "date": "2026-06-19",
+          "title": "China Critical Minerals Export Controls: Global Supply Chain Impact - Discovery Alert",
+          "summary": "# 中国がレアアース等の戦略的鉱物の輸出管理を強化しており、グローバルサプライチェーンに重大な影響を与えている。この政策は先進国の産業・防衛技術開発に支障をもたらす可能性がある。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHhMR2VwNjlReE02blZsdFhYZmNXd0Z1VjZOVEhvWlZjaHNCMEtWMUNzNk0xenlGY1hVWXM1OWN1UHVudFFkSldQbWNDT094MkRkTFNTOTJEUmo5bjJwYkptUVVTOWRBZkRhVDU1QWZCamVVR0w0amhidjBYdkZLck9SM3NlV0hwRnMzU0tSeWhka003Z2dva2NqUQ?oc=5",
+          "added_at": "2026-08-30 02:34:07"
+        },
         {
           "uid": "954a4c3e16ee",
           "date": "2026-07-24",
@@ -6011,26 +6031,6 @@
           "source_type": "industry",
           "url": "https://www.mining.com/algae-breakthrough-could-double-rare-earth-concentrations/",
           "added_at": "2026-07-28 08:00:50"
-        },
-        {
-          "uid": "737158f71c41",
-          "date": "2026-06-16",
-          "title": "China Controls Trade Chokepoints Beyond Rare Earths. - Medium",
-          "summary": "中国はレアアースだけでなく、ガリウムやゲルマニウムなど戦略的に重要な鉱物資源の輸出を厳格に管理し、これらの資源に依存する各国に対する経済的影響力を強化している。こうした多岐にわたる資源統制戦略は、中国の国際的な交渉力の強化と、技術産業における支配力の確保を目的としている。",
-          "source": "需要産業（防衛・EV・航空）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY0FyT0N6UWk3dWNleklHRzZhRnA0c0xrNFE0Wkt5cm9sN21qeHVHbFg3bnBBNWl4cXI3a2JYcTJJcENTWG93OUdMUzNvVEI2NnNYWjdsclZIcndfbFBfd1E4S1lHUklnRVVaUlhjX1BpTkltTVRhTmU1R3YxbUN3bXgwdGVHVzhrdXNzX1hqeUNTM1FsbHZKR1ZFNDN0VmY4?oc=5",
-          "added_at": "2026-07-28 01:24:08"
-        },
-        {
-          "uid": "7eddebe26b79",
-          "date": "2026-07-27",
-          "title": "Lynas’ latest Korean deal reveals the bigger strategy taking shape - Australian Resources & Investment",
-          "summary": "Lynas Rare Earthsがオーストラリアのレアアース企業として韓国とのパートナーシップを強化することで、中国以外のレアアース供給源を多角化し、中国の輸出管理に対する依存度を低減させる戦略を展開している。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWZVVW1TRTY2MDhHYmQxSXh1ZXlRRHBpUkwyRS1WTnlVVElQSVBRVjg3TlVFVlVBczhHdF9EX1VjbEhQWi1tbmFLOXE0Y0FLNWNBT3VkUVBrRjMwaXFzQll5cVNhVmRaX2F0ektoOHlaTUphQUpLNFlKbUVfZVdicWxXNk5jOWVMZDlNWV9YUW5PcGNIYnBMb3JCZEV3T0k3WWtKTGppWk9idGV3MVE5SDNkV2JLMDNiSUpJbktTQmI2THBLOGxLOA?oc=5",
-          "added_at": "2026-07-27 17:33:43"
         }
       ]
     }
