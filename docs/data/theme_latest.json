@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30 19:21:50",
+  "generated_at": "2026-08-31 02:59:11",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-30 19:21:22",
+      "last_checked": "2026-08-31 02:58:42",
       "items": [
         {
           "uid": "424d62fd8e62",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-30 19:21:32",
+      "last_checked": "2026-08-31 02:58:52",
       "items": [
+        {
+          "uid": "7baec7eba8b8",
+          "date": "2026-07-09",
+          "title": "Senate panel to vote on Chinese vehicle ban bill July 15 - qz.com",
+          "summary": "# 要約\n\n米国上院委員会が7月15日に中国製車両の禁止法案（S.4429）について投票を予定しており、この法案は米国市場への中国車の参入を制限し、国家安全保障上の懸念に対処することを目指しています。",
+          "source": "上院議員",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4bzdmb01uQ0N6V19HVmtQVEdBRUEwcXFieFYwdWV2T29FREdUeGU0TzBaWWU0aWpJVGtZdkhrOWhiYWljVTRjWWttNXFtcGJwQ2FjUmtSQzB3MHFKcEY5QnNmU29HcXZVTlY5T3Z5TDhhQzc0Y2x2c3VJVlg?oc=5",
+          "added_at": "2026-08-31 02:58:50"
+        },
         {
           "uid": "0ebccd7bd92d",
           "date": "2026-07-27",
@@ -4010,16 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzd6MlkySFp2M0UtN1ZnOVRocm9GemxveVliX3dBakppWEZNX25VUVVCV0ltX2hLSkw3anFZRGtoWjh4OVpFY2h3cHlDdkFzMHpic3RTNWE4bWVPQ0V0bUNpWjNYY1c4dVp3Y2RQOE9PYjRCMFZ6V1RzZjVtaldtN1puRHpsZnI5WXltU3IyNFQxc0JmZjBXaA?oc=5",
           "added_at": "2026-07-10 05:16:43"
-        },
-        {
-          "uid": "1616cf4badde",
-          "date": "2026-07-09",
-          "title": "U.S. Senate Committee Poised To Codify Ford Supported Chinese Vehicle Ban - Ford Authority",
-          "summary": "米国上院委員会は、フォード・モーターが支持する中国車両の禁止を法律として成文化する準備を整えており、これは米国接続車両安全保障法（S.4429）を通じて、中国メーカーの車両が米国市場に参入することを制限する措置を講じようとしています。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEdjcHJGQ0VkRjZIWTU0MkFfd1ltSTNjcnNMeDJsTHloNk1MS011ZDA3ZXExMW12dG5KRFdWYzJVckU3S0Fsa3ZzYjBhazNxUHB4U1lGWldYb0JQUk5Ybllia2MtbHVnX2I1b3U2VkVEVzFOUEIyZXlENkJxREdfMEdJZGItU2hpRnp5Nk5HTzlUUW5TTDlxWGk5U0ZsZUFvQ1BmUmFCMnh2NjQ?oc=5",
-          "added_at": "2026-07-10 00:40:48"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-30 19:21:50",
+      "last_checked": "2026-08-31 02:59:11",
       "items": [
+        {
+          "uid": "4e72bce5ecd8",
+          "date": "2026-06-18",
+          "title": "Pentagon Backs Phoenix Tailings’ Rare Earth Processing Push in 2026 - Discovery Alert",
+          "summary": "米国防総省がフェニックス・テイリングスのレアアース処理事業を2026年に支援することで、中国に依存する米国のレアアース調達構造の脱却と供給チェーン多元化を進める動きが強まっている。これは中国によるレアアース輸出管理の強化に対抗する戦略的な対応である。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSlRvT0phNFhMS0lWdFVqUXZZaVdNOUVpdjhneUc3SjdsS1hJY0taRUVuR0Y5THJXU1R2WmpscmNhTjlGZTM4Q2ZQM2h4QTBrQXEydmR4Zm80NGRWUFVkNXhjZmdUZkRVYk8yV3R2RVVrWUotY1NsOXJMYW1sX1VsUWlSckFfay04UmU5cUpmaTl6dUtLZkVLWWZiRE0?oc=5",
+          "added_at": "2026-08-31 02:59:06"
+        },
+        {
+          "uid": "8070373079c2",
+          "date": "2026-08-30",
+          "title": "What China’s delay means for the US-China moon race",
+          "summary": "申し訳ありませんが、提供いただいた記事内容は月探査ミッション（Chang'e 7）の延期に関するもので、「中国レアアース輸出管理」とは直接的な関連がないため、その文脈での要約は困難です。記事全文または異なる記事のご提供をお願いします。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/technology/6059278-what-chinas-delay-means-for-the-us-china-moon-race/",
+          "added_at": "2026-08-31 02:59:06"
+        },
         {
           "uid": "ba4c5548726a",
           "date": "2026-07-22",
@@ -6010,26 +6030,6 @@
           "source": "中国商務省（MOFCOM）",
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcDlfVkVidm9VdTdIOUN1Yi1xVzlJNXdPRE5vZXprRVdob244eThtclNWV2VtcWtpSE9HWV9TMmp6Z3pkUjZkTmNFdkRmTVpxbld0d1lpMUFTLWtydEpMcFlSVFhMem5ybk02MTRnNnhDZUx0Sl8xbFVZZnNibUNOcks1dm9zU0Nhc3BFZ0ZHRzJ6TlczMndsVzJiTjNqbHpMN1F1ZzhlQ05mV2JLNndtWkV3bnB5dXkzWUY2NmRXSi1HUGhlODItblR6bw?oc=5",
-          "added_at": "2026-07-28 08:00:50"
-        },
-        {
-          "uid": "f7e15dbbc671",
-          "date": "2026-07-27",
-          "title": "China Northern Rare Earth: Affected by the industry supply-demand pace and downstream procurement cycles, rare earth prices are expected to remain range-bound in the short term. - Shanghai Metals Market",
-          "summary": "中国の北方稀土は、業界の需給ペースと下流の調達サイクルの影響を受けて、レアアース価格が短期的には一定範囲内での変動に留まると予想している。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWTVxVnpuVFFSWjhEWVR2WmpTWEh3aTJtaV9XNVZjR3V0QjRUWDhZVHdhVEo5VzF4NEg3QkdaU3drZFE5SEZlT3JudzlZSkRtTE5FZzB4MzJJTEoyU0tXQ0RsdDZsaTBCam9uVzhodXVCUG5JOVpPdUhZVlBJUk1ja3oySGNJSVBTa2g0bTRBMndacFZfWFBWY2daaTNOTjI0dG93d0hmWEJxZE8tRWRTSlVGbEVEbTl2SDFUWDhKMU1uUTNzdGNpTFhsMVkwTlpJbUxzcmhXbi1yN3RwRFhHUmlWMlN5RkFQVjBQSVFOQS1JQ0tyNWc1dUR0dXU?oc=5",
-          "added_at": "2026-07-28 08:00:50"
-        },
-        {
-          "uid": "39e283d28730",
-          "date": "2026-07-27",
-          "title": "Trump may need to allow Chinese minerals as US industry struggles to meet 2027 deadline - Mining.com",
-          "summary": "トランプ政権は2027年の期限までに米国産レアアースの供給拡大が困難であるため、中国産鉱物の輸入を認めざるを得ない可能性が高い。米国産業が国内レアアース確保の目標達成に苦戦している実情から、中国への依存を完全には排除できない見通しとなっている。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1hkQXRJS2tmSy1hWXZTWkJ1dEZIX2tBWmJoNmVzN2VpLV9UeUpBUndXUlBoeXNLQXNnSnk5M0tIUUhUR2RIb0sxQ2JuWU9nbm9XYjdnV2N1SXdPc2dmRFR6a1o1N3kxTm1lZHR1RUdEN1lJVW56TzJSc29mQmFGUW85cUFEWnBjeWJjTU9XamNPZEZxUjMyeW00NWludWh5cF9WY2h1Sy0tbVJVRGhMR0JZcl96dw?oc=5",
           "added_at": "2026-07-28 08:00:50"
         }
       ]
