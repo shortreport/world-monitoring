@@ -1,145 +1,186 @@
 {
-  "generated_at": "2026-08-28 10:34 JST",
+  "generated_at": "2026-08-31 09:51 JST",
   "sender_count": 4,
-  "total_mails": 16,
+  "total_mails": 23,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 8,
+      "count": 9,
       "bullets": [
-        "ロシアのウクライナ戦争拡大とチャイナの経済的強制措置が秋のEU政治を支配",
-        "ウクライナ戦争が食糧商品価格上昇をもたらし、2027年中盤までに2月比10～18%の上昇見込み",
-        "米国のEUデジタル規制に関するセクション301調査が、個別企業ではなく欧州輸出品に対する関税で実施される見通し",
-        "カナダとの通商戦争に解決の道筋がなく、米国の中間選挙まで継続の可能性"
+        "イランを標的とした米国の制裁措置は9月の米中首脳会談の妨げにはならず、米国とイランの対立長期化により石油製品価格の高止まり",
+        "米国議会の単一政党支配がトレジャリー利回りを上昇させる傾向にあり、共和党統一支配の喪失が債券市場に影響を与える可能性",
+        "USMCA の見通しと自動車・重要鉱物・農業などの主要産業への影響、並びに米国の投資政策について9月3日にオンラインセミナーを開催",
+        "中東地域情勢ならびにイラン情勢の最新状況と米国の対応戦略、地域紛争拡大の可能性について8月31日にコンファレンスコール開催",
+        "地政学的競争とAIがもたらすリスク対処、欧州政治でのロシア・中国へのエスカレーションリスク、および東南アジア政情の動き"
       ],
       "subjects": [
         [
-          "2026-08-27",
-          "Russia, China to dominate EU politics this fall",
-          "data/pdfs/20260827_2124_Russia,_China_to_dominate_EU_politics_this_fall.pdf"
-        ],
-        [
-          "2026-08-27",
-          "Europe macro update",
-          "data/pdfs/20260827_2136_Europe_macro_update.pdf"
+          "2026-08-28",
+          "US-Mexico trade after the Canada standoff",
+          "data/pdfs/20260828_0503_US-Mexico_trade_after_the_Canada_standoff.pdf"
         ],
         [
           "2026-08-28",
-          "Canada's retaliatory tariffs will have minimal influence on voters",
-          "data/pdfs/20260828_0111_Canada's_retaliatory_tariffs_will_have_minimal_inf.pdf"
+          "MENA Crisis Update",
+          "data/pdfs/20260828_0534_MENA_Crisis_Update.pdf"
         ],
         [
           "2026-08-28",
-          "EU: White House probe targets exports over firms",
-          "data/pdfs/20260828_0141_EU__White_House_probe_targets_exports_over_firms.pdf"
+          "EG Research Summary in Japanese",
+          "data/pdfs/20260828_0800_EG_Research_Summary_in_Japanese.pdf"
         ],
         [
           "2026-08-28",
-          "Canada: Trade war likely to persist through US midterms",
-          "data/pdfs/20260828_0253_Canada__Trade_war_likely_to_persist_through_US_mid.pdf"
+          "Technical details: Congressional control shapes Treasury yields",
+          "data/pdfs/20260828_0800_Technical_details__Congressional_control_shapes_Tr.pdf"
         ],
         [
           "2026-08-28",
-          "Managed decoupling to define US-China ties",
-          "data/pdfs/20260828_0325_Managed_decoupling_to_define_US-China_ties.pdf"
+          "Congressional control shapes Treasury yields",
+          "data/pdfs/20260828_0828_Congressional_control_shapes_Treasury_yields.pdf"
         ],
         [
           "2026-08-28",
-          "Beijing's exit rules tighten talent mobility",
-          "data/pdfs/20260828_0358_Beijing's_exit_rules_tighten_talent_mobility.pdf"
+          "India-China border framework leaves rifts intact",
+          "data/pdfs/20260828_1524_India-China_border_framework_leaves_rifts_intact.pdf"
         ],
         [
           "2026-08-28",
-          "CIA director's Moscow visit likely a warning",
-          "data/pdfs/20260828_0438_CIA_director's_Moscow_visit_likely_a_warning.pdf"
+          "Europe macro update - EG Conference Call, REMINDER",
+          "data/pdfs/20260828_2102_Europe_macro_update_-_EG_Conference_Call,_REMINDER.pdf"
+        ],
+        [
+          "2026-08-28",
+          "MENA Crisis Update - EG Conference Call, REMINDER",
+          "data/pdfs/20260828_2102_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf"
+        ],
+        [
+          "2026-08-31",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20260831_0800_EG_Research_Summary_in_Japanese.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260827_2124_Russia,_China_to_dominate_EU_politics_this_fall.pdf",
-        "data/pdfs/20260827_2136_Europe_macro_update.pdf",
-        "data/pdfs/20260828_0111_Canada's_retaliatory_tariffs_will_have_minimal_inf.pdf",
-        "data/pdfs/20260828_0141_EU__White_House_probe_targets_exports_over_firms.pdf",
-        "data/pdfs/20260828_0253_Canada__Trade_war_likely_to_persist_through_US_mid.pdf",
-        "data/pdfs/20260828_0325_Managed_decoupling_to_define_US-China_ties.pdf",
-        "data/pdfs/20260828_0358_Beijing's_exit_rules_tighten_talent_mobility.pdf",
-        "data/pdfs/20260828_0438_CIA_director's_Moscow_visit_likely_a_warning.pdf"
+        "data/pdfs/20260828_0503_US-Mexico_trade_after_the_Canada_standoff.pdf",
+        "data/pdfs/20260828_0534_MENA_Crisis_Update.pdf",
+        "data/pdfs/20260828_0800_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20260828_0800_Technical_details__Congressional_control_shapes_Tr.pdf",
+        "data/pdfs/20260828_0828_Congressional_control_shapes_Treasury_yields.pdf",
+        "data/pdfs/20260828_1524_India-China_border_framework_leaves_rifts_intact.pdf",
+        "data/pdfs/20260828_2102_Europe_macro_update_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20260828_2102_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20260831_0800_EG_Research_Summary_in_Japanese.pdf"
+      ]
+    },
+    {
+      "sender": "Eurasia",
+      "short": "EURAS",
+      "color": "YEL",
+      "count": 1,
+      "bullets": [
+        "中国が人材の国外移動を制限する新規則を法制化し、サプライチェーン安全保障の手段として明確に位置付け",
+        "2031年までの米中関係は「管理されたデカップリング」が基本シナリオ（確率60%）で、相互の規制強化が進行"
+      ],
+      "subjects": [
+        [
+          "2026-08-28",
+          "Daily Research Summary - Aug 27th, 2026",
+          "data/pdfs/20260828_0834_Daily_Research_Summary_-_Aug_27th,_2026.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260828_0834_Daily_Research_Summary_-_Aug_27th,_2026.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "YEL",
-      "count": 6,
+      "color": "RED",
+      "count": 12,
       "bullets": [
-        "ドイツのメルツ首相が中国製ハイブリッド車への強硬な貿易措置をEUに提案予定で、ドイツの自動車メーカーも支持に転じ、市場での中国勢の急速な台頭に対抗",
-        "メルツ首相がEU予算削減を求める複数国を結集させる一方で、アントニオ・コスタはEUの予算規模維持を望む多くの政府との調整に奔走",
-        "ドイツの極右勢力AfDの指導者の側近に、ヒトラーユーゲント模倣の禁止組織の元メンバーが複数含まれ、ネオナチ系活動家が台頭",
-        "フランスの中道派候補が極左・極右勢力に押され、大統領選の初討論を前に政治的弱体化が鮮明",
-        "ギリシャが海運業界の反発を押し切り、国際海事機関のネットゼロ枠組みに関するEU共同方針に署名"
+        "米国とカナダの通商紛争が激化すれば、自動車産業が存続危機に直面する可能性であり、業界ロビイストがトランプ政権との交渉再開を模索",
+        "欧州委員会が航空各社に対し、飛行機雲回避戦略の採用を促すインセンティブ導入を提案、ただし専門家は誘因の十分性に疑問",
+        "アイスランドが対EU加盟の道を再開するかについて国民投票を実施予定、加盟に伴うクジラ漁禁止ルール採用が課題",
+        "ドイツの極右政党AFDが東ドイツ共産圏時代への郷愁を利用した選挙戦略を展開、東部地域の重要選挙に向けた勢力拡大",
+        "ロシアによるヨーロッパへの「ハイブリッド戦争」が進行中"
       ],
       "subjects": [
         [
-          "2026-08-27",
-          "Get me into SOTEU",
-          "data/pdfs/20260827_1351_Get_me_into_SOTEU.pdf"
-        ],
-        [
-          "2026-08-27",
-          "Germany wants to get tougher on Chinese EVs",
-          "data/pdfs/20260827_1400_Germany_wants_to_get_tougher_on_Chinese_EVs.pdf"
-        ],
-        [
-          "2026-08-27",
-          "Merz unites EU budget-cutters as Costa gropes for deal",
-          "data/pdfs/20260827_1635_Merz_unites_EU_budget-cutters_as_Costa_gropes_for_.pdf"
-        ],
-        [
-          "2026-08-27",
-          "The former neo-Nazi activists behind Germany’s rising far-right",
-          "data/pdfs/20260827_1735_The_former_neo-Nazi_activists_behind_Germany’s_ris.pdf"
-        ],
-        [
-          "2026-08-27",
-          "France’s imperiled moderates look weaker than ever ahead of first",
-          "data/pdfs/20260827_1907_France’s_imperiled_moderates_look_weaker_than_ever.pdf"
+          "2026-08-28",
+          "The auto industry is at the center of Trump’s trade war. They want",
+          "data/pdfs/20260828_0542_The_auto_industry_is_at_the_center_of_Trump’s_trad.pdf"
         ],
         [
           "2026-08-28",
-          "Document: Greece signs EU shipping emissions position despite",
-          "data/pdfs/20260828_0353_Document__Greece_signs_EU_shipping_emissions_posit.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260827_1351_Get_me_into_SOTEU.pdf",
-        "data/pdfs/20260827_1400_Germany_wants_to_get_tougher_on_Chinese_EVs.pdf",
-        "data/pdfs/20260827_1635_Merz_unites_EU_budget-cutters_as_Costa_gropes_for_.pdf",
-        "data/pdfs/20260827_1735_The_former_neo-Nazi_activists_behind_Germany’s_ris.pdf",
-        "data/pdfs/20260827_1907_France’s_imperiled_moderates_look_weaker_than_ever.pdf",
-        "data/pdfs/20260828_0353_Document__Greece_signs_EU_shipping_emissions_posit.pdf"
-      ]
-    },
-    {
-      "sender": "ジェトロ",
-      "short": "ジェトロ",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "米中対立と中国の生産コスト上昇により、韓国企業の対中直接投資が急減し、中国ビジネスが厳しさを増している状況",
-        "米国の産業政策による対米直接投資の急増が進む一方で、第2次トランプ政権発足による先行きの不透明性",
-        "「チャイナ・プラスワン」戦略の下、ベトナム、インドネシア、インドなど東南アジアとインドへの韓国企業の海外展開が活発化",
-        "ジェトロが世界主要国・地域の政治経済動向について、独自視点による地域・分析レポート情報を提供中"
-      ],
-      "subjects": [
+          "Inside von der Leyen’s social media strategy",
+          "data/pdfs/20260828_1354_Inside_von_der_Leyen’s_social_media_strategy.pdf"
+        ],
         [
-          "2026-08-27",
-          "ジェトロ地域・分析レポートの新着のご案内（2026年8月27日号）",
-          "data/pdfs/20260827_1155_ジェトロ地域・分析レポートの新着のご案内（2026年8月27日号）.pdf"
+          "2026-08-28",
+          "ETS contrail measures under the radar",
+          "data/pdfs/20260828_1402_ETS_contrail_measures_under_the_radar.pdf"
+        ],
+        [
+          "2026-08-28",
+          "Iceland’s last whaler faces a threat he can’t harpoon: The EU",
+          "data/pdfs/20260828_1705_Iceland’s_last_whaler_faces_a_threat_he_can’t_harp.pdf"
+        ],
+        [
+          "2026-08-28",
+          "Germany’s far right taps nostalgia for communist East to propel",
+          "data/pdfs/20260828_1806_Germany’s_far_right_taps_nostalgia_for_communist_E.pdf"
+        ],
+        [
+          "2026-08-28",
+          "Russia’s ‘hybrid war’ on Europe is starting to look a lot less hybrid",
+          "data/pdfs/20260828_1905_Russia’s_‘hybrid_war’_on_Europe_is_starting_to_loo.pdf"
+        ],
+        [
+          "2026-08-28",
+          "Belgium makes helmets compulsory on faster e-scooters",
+          "data/pdfs/20260828_2348_Belgium_makes_helmets_compulsory_on_faster_e-scoot.pdf"
+        ],
+        [
+          "2026-08-29",
+          "Pro Daily Headlines",
+          "data/pdfs/20260829_0031_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-08-29",
+          "Germany plans to blame Russia for Leipzig attack as tensions with",
+          "data/pdfs/20260829_2007_Germany_plans_to_blame_Russia_for_Leipzig_attack_a.pdf"
+        ],
+        [
+          "2026-08-29",
+          "The fixer at the center of FIFA’s meltdown",
+          "data/pdfs/20260829_2315_The_fixer_at_the_center_of_FIFA’s_meltdown.pdf"
+        ],
+        [
+          "2026-08-30",
+          "Icelanders say no to restarting talks to join the EU",
+          "data/pdfs/20260830_1805_Icelanders_say_no_to_restarting_talks_to_join_the_.pdf"
+        ],
+        [
+          "2026-08-30",
+          "The real reason Iceland rejected the EU",
+          "data/pdfs/20260830_2103_The_real_reason_Iceland_rejected_the_EU.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260827_1155_ジェトロ地域・分析レポートの新着のご案内（2026年8月27日号）.pdf"
+        "data/pdfs/20260828_0542_The_auto_industry_is_at_the_center_of_Trump’s_trad.pdf",
+        "data/pdfs/20260828_1354_Inside_von_der_Leyen’s_social_media_strategy.pdf",
+        "data/pdfs/20260828_1402_ETS_contrail_measures_under_the_radar.pdf",
+        "data/pdfs/20260828_1705_Iceland’s_last_whaler_faces_a_threat_he_can’t_harp.pdf",
+        "data/pdfs/20260828_1806_Germany’s_far_right_taps_nostalgia_for_communist_E.pdf",
+        "data/pdfs/20260828_1905_Russia’s_‘hybrid_war’_on_Europe_is_starting_to_loo.pdf",
+        "data/pdfs/20260828_2348_Belgium_makes_helmets_compulsory_on_faster_e-scoot.pdf",
+        "data/pdfs/20260829_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260829_2007_Germany_plans_to_blame_Russia_for_Leipzig_attack_a.pdf",
+        "data/pdfs/20260829_2315_The_fixer_at_the_center_of_FIFA’s_meltdown.pdf",
+        "data/pdfs/20260830_1805_Icelanders_say_no_to_restarting_talks_to_join_the_.pdf",
+        "data/pdfs/20260830_2103_The_real_reason_Iceland_rejected_the_EU.pdf"
       ]
     },
     {
@@ -148,21 +189,22 @@
       "color": "ORG",
       "count": 1,
       "bullets": [
-        "遼寧省と中央アジア・ロシアを結ぶ2つの越境道路輸送ルート開通",
-        "中国が財政と金融の連携による内需拡大策を強化、利子補給対象を拡大",
-        "小鵬集団の人型ロボット事業が9億ドル超を調達",
-        "アンカーポイント・ファイナンシャルが香港初のステーブルコインを発行",
-        "バンコクで大規模な茶のイベント「Taste of Tea 2026」開催、抹茶ブームが継続"
+        "ジェトロが広東省・大湾区の消費市場動向を解説するセミナーを香港で開催",
+        "中国のアニメ展示会に7万人超が来場し、日本コンテンツへの関心が高まり",
+        "ジェトロが長沙市で日本産酒類の商談会を開催",
+        "中国乗用車市場において中国ブランドのシェアが70％を超え",
+        "ジェトロが香港のFood Expo PRO 2026でコンテンツと食のセミナーを開催",
+        "韓国コンテナ船による北極海航路の試験運航が開始"
       ],
       "subjects": [
         [
-          "2026-08-27",
-          "「ジェトロ・ビジネス短信」2026/08/27",
-          "data/pdfs/20260827_1809_「ジェトロ・ビジネス短信」2026_08_27.pdf"
+          "2026-08-28",
+          "「ジェトロ・ビジネス短信」2026/08/28",
+          "data/pdfs/20260828_1815_「ジェトロ・ビジネス短信」2026_08_28.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260827_1809_「ジェトロ・ビジネス短信」2026_08_27.pdf"
+        "data/pdfs/20260828_1815_「ジェトロ・ビジネス短信」2026_08_28.pdf"
       ]
     }
   ]
