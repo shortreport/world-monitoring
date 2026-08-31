@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31 20:26:46",
+  "generated_at": "2026-09-01 04:53:13",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-31 20:26:26",
+      "last_checked": "2026-09-01 04:52:40",
       "items": [
         {
           "uid": "ff4a50ff45b1",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-31 20:26:33",
+      "last_checked": "2026-09-01 04:52:52",
       "items": [
+        {
+          "uid": "613e412db686",
+          "date": "2026-08-31",
+          "title": "Waymo Stockpiles 684 Ojai Robotaxis at Mesa as Senate Bill Targets Zeekr Supply Chain - Tech Times",
+          "summary": "Waymoが米国でのロボタクシー展開を加速させるため684台のOjaiロボタクシーをメサに備蓄している一方で、S.4429はGeely傘下のZeekrなど中国系サプライチェーンを規制対象とし、米国の自動運転車産業の供給網セキュリティを強化しようとしています。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaHZRLUdGRlZ6d1l0cVpmY0hkU29ZalJMR1dRVGROdHhNM3pPdlNiaS1feUxQVFVUV3d6RDNDV3lHTWstMWJBV2lweGpkS1FNdVVSd3o4TjY4ckQ4a2syM0JMdkFPVy1WZ3FlTlVTTG1OYVM2ZkV1OEJyYi00REw1bUN1VWY5YmFFRlVicXMtTEFUd2stWnF5amgyWTJoRFBHWDgxZ2NDd3FqQ1p6Y3BmYTc2dVg3WkFPenZaQTNYbTNMZlJrMFViWmpuVVJCalU?oc=5",
+          "added_at": "2026-09-01 04:52:50"
+        },
         {
           "uid": "7baec7eba8b8",
           "date": "2026-07-09",
@@ -4010,16 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWRRWkhsM2NkcHFsY3Yxc2dhZFRaWGtyYnJabXgtNFZ3Z2RsQXNMc01Bci0yQlZ6aDZkQ0VTRm5qYXF2R3V2LW5EZzlYa2VuMzlCQ2JraTZ5SnpUM1l3TUROdlJmZFhlTVlqd0dvSVdFNlBUZGNKZ1dIYmJKdlU5cG9GVFlGcVZu?oc=5",
           "added_at": "2026-07-10 11:02:44"
-        },
-        {
-          "uid": "9744d12c6ed2",
-          "date": "2026-07-09",
-          "title": "Senate panel to vote on Chinese vehicle ban bill July 15 - Yahoo",
-          "summary": "米国上院委員会は7月15日に中国製車両の禁止法案（S.4429）について投票を行う予定である。本法案は、中国企業による米国市場への車両参入を制限し、国家安全保障上の懸念に対処することを目的としている。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzd6MlkySFp2M0UtN1ZnOVRocm9GemxveVliX3dBakppWEZNX25VUVVCV0ltX2hLSkw3anFZRGtoWjh4OVpFY2h3cHlDdkFzMHpic3RTNWE4bWVPQ0V0bUNpWjNYY1c4dVp3Y2RQOE9PYjRCMFZ6V1RzZjVtaldtN1puRHpsZnI5WXltU3IyNFQxc0JmZjBXaA?oc=5",
-          "added_at": "2026-07-10 05:16:43"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-31 20:26:46",
+      "last_checked": "2026-09-01 04:53:13",
       "items": [
+        {
+          "uid": "a6ad0828dc6b",
+          "date": "2026-08-24",
+          "title": "COMMENTARY: Europe’s electronic waste crisis holds the key to supply security – if we act on it - Reuters",
+          "summary": "# 要約\n\n欧州は電子廃棄物のリサイクルを強化することで、中国に依存するレアアース供給を削減し、サプライチェーンの安定化を実現できる可能性がある。電子機器に含まれるレアアースの回収・再利用を促進することが、レアアース輸出管理による供給制限リスクへの対抗策となり得る。",
+          "source": "EU戦略的原材料法",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYjlKOThRMG5kU0E0ZjZVM3c4VXpORUZiZVFhVDBmNTJ5RFpmN2NPSlktMXgycU5ydFRlWmhjTVdmcFl0TWhNU3JfSDdiUXhJMkV3dV9YVFZleU5vb19uSDFGWmgza0MzalZtMTNUVTBucFFPNTJjY2dWSHgwclUzVXozWnF1d1Fpcks2cXlFa1llMURKTFZPUUNETFVXbkNCSUt0aGRfWjZzemsyNUxjb0kxR3ZvWS0zRmFjY0hvdHVrNktYZ2tINEhYQ3pvSVBIT0RLSXUyNnlHWUk?oc=5",
+          "added_at": "2026-09-01 04:53:07"
+        },
+        {
+          "uid": "225e419da5d7",
+          "date": "2026-08-31",
+          "title": "State Department warns of travel to Nepal after flooding",
+          "summary": "この記事は中国レアアース輸出管理とは無関係です。記事の内容はネパールとチベット境界での洪水被害に関する米国国務省の渡航警告であり、中国レアアース輸出管理についての情報は含まれていません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/transportation/6060656-state-department-travel-warning-nepal-flash-flooding/",
+          "added_at": "2026-09-01 04:53:07"
+        },
+        {
+          "uid": "d569cf97a11c",
+          "date": "2026-08-31",
+          "title": "Bessent to G20 finance leaders: Get tougher on China",
+          "summary": "米国財務長官ベッセント氏は、G20各国に対して中国との貿易関係を厳しく見直すよう促す方針を示し、中国の1.2兆ドルの貿易黒字が世界経済に不均衡をもたらしているとして、中国が経済的困難を輸出拡大で解決しようとしていることを問題視している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/business/6060518-bessent-urges-g20-china-rebalance/",
+          "added_at": "2026-09-01 04:53:07"
+        },
         {
           "uid": "4e72bce5ecd8",
           "date": "2026-06-18",
@@ -6001,36 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9rOHkwQl9VYldidlJVajgtZzY4VE5TQmt6eEQ2czIxaTk5N3Ywd3diVXdCT3dKVmhUNmxMRjJ0UnJKdGE2TUtuNklrdWx4UTVGZG5kY1pvWnNEWUhkdmZ5WkV3R0plREV6aTlGc1JEUHVQeG02VzRsVE82OERteXhsMGNfTEVPMllnN0p3?oc=5",
           "added_at": "2026-07-28 16:41:30"
-        },
-        {
-          "uid": "70b54cf1102e",
-          "date": "2026-06-20",
-          "title": "China's Rare Earth Empire and the PLA: The Strategic Materials Architecture Behind Military Power - Rare Earth Exchanges",
-          "summary": "中国はレアアースの採掘・加工・輸出を統合的に管理することで、軍事力強化と戦略的優位性の確保に活用しており、レアアース産業全体が人民解放軍（PLA）の装備近代化を支える物質基盤として機能している。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnVwdTN6RTFiZjEtaTVXbHJmSnpTeVJwZElWRWhmN0lBRmpkcXdZUFJsMTR5cEgxTC1IbmU5WkFmR1RpTjMyV1UwWWlKUTJoUnlRM0FYcEc3Z2VoNTFNRm1nSHpGMC15eEJ5bWxGblFHak5rY2dfUTRnNUZJdF9PLVhHUndRVVlsZ3ZjbURfRi1sa2RBeUk0LUZEWFdKeTNIZFlnY3kxQ2RCMjIwM3hSR2J6SGhORWstT2lxMk5mbXhzaE5UbVRNd1hxWUo?oc=5",
-          "added_at": "2026-07-28 16:41:30"
-        },
-        {
-          "uid": "8e4d98562116",
-          "date": "2026-06-16",
-          "title": "China controls trade choke points beyond rare earths. It’s squeezing them. - The Washington Post",
-          "summary": "中国は、レアアース以外にもマグネシウム、ガリウム、ゲルマニウムなどの戦略的に重要な鉱物・素材の輸出を制限し、米国や同盟国に対する経済的な圧力手段として活用している。このような多岐にわたる供給チェーン支配を通じ、中国は技術やエネルギー産業における世界的な影響力を強化しつつある。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjFfNVJxSUdSaWVYMWY5YlhHVVkwbGd0RnFRNURuSDI2VW1JQ3ZhVlM4ZW9rZFY4Vk5fc0FZTUlOT0FCdHA3c2xKTTg2NmpXaXljVzZYcnRITENfa2FQcHhPcVYtUzM2b2pLd1BuM1Nyd1hFb1lGeEpKMXhUc3Z0S1c2RjYycmxWc1Q2YkNSdjlqQmtaMU5UNWgxSUhiWFFsN1kyUk5TdTlJRmZ3d25lbkZTSFM4Zw?oc=5",
-          "added_at": "2026-07-28 16:41:30"
-        },
-        {
-          "uid": "98c633df2d9f",
-          "date": "2026-05-26",
-          "title": "China Rare Earth Export Controls: April Curbs Still Bite After Beijing Summit - Tech Times",
-          "summary": "中国は2024年4月に導入したレアアース輸出管理措置を継続しており、北京での首脳会談後も この規制は引き続き効力を発揮している。この措置はレアアース関連技術の流出防止を目的とした輸出制限であり、国際的なサプライチェーンに影響を与えている。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcDlfVkVidm9VdTdIOUN1Yi1xVzlJNXdPRE5vZXprRVdob244eThtclNWV2VtcWtpSE9HWV9TMmp6Z3pkUjZkTmNFdkRmTVpxbld0d1lpMUFTLWtydEpMcFlSVFhMem5ybk02MTRnNnhDZUx0Sl8xbFVZZnNibUNOcks1dm9zU0Nhc3BFZ0ZHRzJ6TlczMndsVzJiTjNqbHpMN1F1ZzhlQ05mV2JLNndtWkV3bnB5dXkzWUY2NmRXSi1HUGhlODItblR6bw?oc=5",
-          "added_at": "2026-07-28 08:00:50"
         }
       ]
     }
