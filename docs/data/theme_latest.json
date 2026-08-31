@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31 02:59:11",
+  "generated_at": "2026-08-31 20:26:46",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,28 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-08-31 02:58:42",
+      "last_checked": "2026-08-31 20:26:26",
       "items": [
+        {
+          "uid": "ff4a50ff45b1",
+          "date": "2026-08-31",
+          "title": "Von der Leyen: EU to maintain free ETS allowances after 2030 for decarbonizing companies - Steel Orbis",
+          "summary": "EU委員長フォン・デア・ライエン氏は、脱炭素化に取り組む企業に対して2030年以降もETS排出権の無償配分を継続する方針を示唆し、産業競争力の維持と脱炭素化の促進を両立させるIAA関連の支援策を強化するとしている。",
+          "source": "欧州委員会要人",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR3FYclNmNXVQUFUtQ0Rmcmk2Qlp2ZmJ1RDZfMzlyMnQxUW1weENyVFNTSjVqOHFhSzlNdWd2M0h6WWxxOHlweTQ2dXVRR3o0VFNnamxhZEhkb0VzNjBzdlpkZzFzcUJGaE5TaThJeEJpQjB6RFQ0OG82ek9OcXFLbk41QjYtUWVudGE4anlEeWFQR1BSaGtTSGc2WUE2eFVOeXhxX00tUjBIZHJrZ0VLNlY0ZS1YQ2dOVHFCU044anJNUVZvTjhEMmE1MTMxMDJ3SGpCOHpYaVR1cERJbkg5TjNnVQ?oc=5",
+          "added_at": "2026-08-31 20:26:22"
+        },
+        {
+          "uid": "3eba9794fe90",
+          "date": "2026-07-06",
+          "title": "Letter to Ursula Von Der Leyen - Ineos",
+          "summary": "申し訳ございませんが、提供いただいたタイトルのみで、具体的な記事の内容が記載されていないため、要約することができません。記事の本文をご提供いただければ、欧州産業加速法案（IAA）に関する文脈での日本語要約をお作りします。",
+          "source": "欧州委員会要人",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iYUhpNXpkSHlTZVBibDhCWVJqTlhGZ0gxQVpwYlhneEtIcGZFM2RMMXF2VUZ5eTd5VTBQZGZ1eElOVDh4LUFIMGFjWDQzR3ctQ0VqNHpoWElTTU5zQTBJZUdHXzhNS3NFRU5QTG5ORWpPOTU1QlJtNWlB?oc=5",
+          "added_at": "2026-08-31 20:26:22"
+        },
         {
           "uid": "424d62fd8e62",
           "date": "2026-07-25",
@@ -1989,26 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQlpqRFVMTzNLNjV4T3RXUDNjaHlBdjVVdkt3Zms2ZlgzY1V1dVpSc1FvdHREcVdMeTBVMDAxSGcxMy03c1FBRXlsV3ZIQnY5QmFwNjE4WlVvU1ZJVHFlOEdMaFdpd0hnVXhnWTRDandHeGdOWmpLX0tTc0duYjVWeVR2YzYzd3owajFPWmE0X1JGRXgtVFRRaUM1aDY3VnRUclBBWV9nWDlBVUVLa19TNl9aMUx6RmlXYlFnS0FRQnlFWC11SWJ1dFlHVVZaRS1CY1RZ?oc=5",
           "added_at": "2026-05-29 21:31:50"
-        },
-        {
-          "uid": "afbe6ac1ef6e",
-          "date": "2026-05-28",
-          "title": "Trade minister conveys Seoul's concerns over EU's trade protectionist measures to European Parliament - The Korea Times",
-          "summary": "韓国通商相がEUの貿易保護主義的措置（産業加速法案を含む）に対する懸念をヨーロッパ議会に伝え、EUの過度な保護主義政策が韓国を含む他国の企業に悪影響を与えることを指摘した。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMmFpYnF0X3doNmFyckFuX3EtOHZlSXRaZkExamxIREZBb2l3dl9hY2ZieUtBYi1aWTNmUlpvaXNBTDBQaTVtYUpFZTBNVEFQc2IxRWpxMTBjZUxzLUlqN1dKWlplZDF1aWhtNmhTVFdmOW1Lb2RrdEE1bjNjQUdDcmN3THV0YmwzOEFPTzZ3cHJ6TzVGd2xLZ0RTci1pZHZ5UjdsdkRvckpTeXBCb3pCOVB5bDQ3MUF5M05kSXA1ZzF3VUJJLVpOdVdKRGdsemVDeG90SzZoaFZVekFCRGJtNXJQdWMwaWfSAewBQVVfeXFMTVRyQndRd2lEbE1oV2Vwck9PZ0FZS0tHTElKMGlOcldPaXdIaW03cmtWRUZ1VzliU2dCYkdxMHM4dGRXMHBkLWdmLU1IdnRyc0ZsV04wdDQtZUhCZ0kyMFM3YWVsMkRBZ1hhY3dOeEJFdXVQR3ZGVlFkcFFJdUFiZU1oWlZuVUZNT2JnN3ozVDlBTWRZQ2RheHhwRHlyRnM5MV8xcTJqTl9ORHpyNkFNeExKX0dkWWtmeWVaWkNUbE05TURWOVhtY2FQRng2amFfZ1NYYXJrTnljNUpKV2Y4N2xJNzNFNzFKZUxmQXQ?oc=5",
-          "added_at": "2026-05-29 10:47:48"
-        },
-        {
-          "uid": "0c93e81c3ee8",
-          "date": "2026-03-12",
-          "title": "European Commission aims to boost manufacturing with Industrial Accelerator Act - EUWID Recycling and Waste Management",
-          "summary": "欧州委員会は欧州産業加速法案（IAA）を通じて、製造業の競争力強化と産業基盤の拡大を目指しており、特にリサイクル・廃棄物管理産業を含む重要製造セクターの成長を加速させることを狙いとしている。",
-          "source": "欧州委員会要人",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSFRNNW9LdEo1XzRwcVY1dVpFbzJVRnR5by1Tay1TN0ZrOGlhV1BOM2xKYURrdm1WU3U2WTRSTW1GdTdhVXp3ckJIZ19tZFhSM2lpRGVkQVFWMTJhWnNTRjlvd2VyTjkwd1ZaN2ZZS1kwUGpHQkNseEc3ekt3RWhnaHF4N1hMN1dIWGhHb25LR1Rlc2I0Z29MeTJkNXExeGR5X1BGdUlrd2FtX2VkbFl4SE1ZTVZyMmc4ZFhnQ0ItMEtJMXZpVlZ5b1d1dw?oc=5",
-          "added_at": "2026-05-29 10:47:48"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-08-31 02:58:52",
+      "last_checked": "2026-08-31 20:26:33",
       "items": [
         {
           "uid": "7baec7eba8b8",
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-08-31 02:59:11",
+      "last_checked": "2026-08-31 20:26:46",
       "items": [
         {
           "uid": "4e72bce5ecd8",
