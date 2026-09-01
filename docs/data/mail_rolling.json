@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-01 09:17 JST",
+  "updated_at": "2026-09-01 09:24 JST",
   "total": 50,
-  "toyota_summary": "EUの立法者は自動車メーカーに対する2035年排出目標を巡り依然として意見が分かれており、メーカー各社は長期的なコンプライアンス計画について明確な指針を得られない状態が続く。この不透明感が、域内自動車セクター全体の投資判断を複雑にしている。\n\nドイツはEV優遇制度に現地調達要件を付加する方針であり、ドイツ市場向けに販売する自動車メーカーのサプライチェーン戦略を再編させる可能性がある。輸入部品への依存度が高い企業は、新たなコスト圧力に直面しかねない。\n\nIMOの海運脱炭素化交渉については参考情報として付言する。",
+  "toyota_summary": "EUの立法者は自動車メーカーに対する2035年排出目標をめぐり意見の一致を見ておらず、メーカー各社は長期的な製品計画に向けた明確な規制の方向性を得られないままである。この不透明感が、欧州自動車業界全体の投資判断を複雑にしている。\n\nドイツはEV優遇制度に地場調達要件を付加する方針であり、国内ないし域内サプライチェーンへの転換を促す狙いがうかがえる。欧州域外から部品を調達する自動車メーカーは、新たなコストおよびコンプライアンス上の圧力に直面する可能性がある。\n\nなお、IMO（国際海事機関）における海運業の脱炭素化協議については参考情報として付記する。",
   "emails": [
     {
       "ts": "20260901_0834",
@@ -177,7 +177,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/08/31",
+      "subject_en": "JETRO Business Brief 2026/08/31",
       "html": "data/pdfs/20260831_1827_「ジェトロ・ビジネス短信」2026_08_31.html",
       "summary_en": "",
       "summary_ja": "",
@@ -749,5 +749,5 @@
       "summary_pdf": ""
     }
   ],
-  "toyota_summary_en": "EU lawmakers remain divided on 2035 emissions targets for automakers, leaving manufacturers without clarity on long-term compliance planning. This uncertainty complicates investment decisions across the bloc's auto sector.\n\nGermany plans to attach local content rules to its EV incentive program, potentially reshaping supply chain strategies for automakers selling into the German market. Companies reliant on imported components may face new cost pressures.\n\nIMO shipping decarbonization talks are provided for reference."
+  "toyota_summary_en": "EU lawmakers remain divided on 2035 emissions targets for automakers, leaving manufacturers without clear regulatory direction for long-term product planning. This uncertainty complicates investment decisions across the European auto sector.\n\nGermany plans to attach local content requirements to its EV incentive program, signaling a push toward domestic or regional supply chains. Automakers sourcing components from outside Europe may face new cost and compliance pressures.\n\nIMO shipping decarbonization talks are provided for reference."
 }
