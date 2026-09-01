@@ -1,186 +1,116 @@
 {
-  "generated_at": "2026-08-31 09:51 JST",
+  "generated_at": "2026-09-01 09:16 JST",
   "sender_count": 4,
-  "total_mails": 23,
+  "total_mails": 11,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 9,
+      "count": 3,
       "bullets": [
-        "イランを標的とした米国の制裁措置は9月の米中首脳会談の妨げにはならず、米国とイランの対立長期化により石油製品価格の高止まり",
-        "米国議会の単一政党支配がトレジャリー利回りを上昇させる傾向にあり、共和党統一支配の喪失が債券市場に影響を与える可能性",
-        "USMCA の見通しと自動車・重要鉱物・農業などの主要産業への影響、並びに米国の投資政策について9月3日にオンラインセミナーを開催",
-        "中東地域情勢ならびにイラン情勢の最新状況と米国の対応戦略、地域紛争拡大の可能性について8月31日にコンファレンスコール開催",
-        "地政学的競争とAIがもたらすリスク対処、欧州政治でのロシア・中国へのエスカレーションリスク、および東南アジア政情の動き"
+        "ヨーロッパの政治動向、イラン情勢、米メキシコ貿易に関する3つのコンファレンスコール開催",
+        "ヨーロッパではフランス、英国、スペイン、イタリア、ドイツ、ハンガリー、ポーランドの2027年選挙見通しおよびロシア・ウクライナ戦争の最新動向が議題",
+        "中東ではイラン戦争の影響と地域紛争拡大の可能性について討論",
+        "米メキシコ間ではUSMCA見通しと自動車、重要鉱物、農業などの主要産業への影響が分析対象",
+        "すべてのコンファレンスコールで事前質問提出またはQ&Aセッションでの質問が可能"
       ],
       "subjects": [
         [
-          "2026-08-28",
-          "US-Mexico trade after the Canada standoff",
-          "data/pdfs/20260828_0503_US-Mexico_trade_after_the_Canada_standoff.pdf"
-        ],
-        [
-          "2026-08-28",
-          "MENA Crisis Update",
-          "data/pdfs/20260828_0534_MENA_Crisis_Update.pdf"
-        ],
-        [
-          "2026-08-28",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20260828_0800_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-08-28",
-          "Technical details: Congressional control shapes Treasury yields",
-          "data/pdfs/20260828_0800_Technical_details__Congressional_control_shapes_Tr.pdf"
-        ],
-        [
-          "2026-08-28",
-          "Congressional control shapes Treasury yields",
-          "data/pdfs/20260828_0828_Congressional_control_shapes_Treasury_yields.pdf"
-        ],
-        [
-          "2026-08-28",
-          "India-China border framework leaves rifts intact",
-          "data/pdfs/20260828_1524_India-China_border_framework_leaves_rifts_intact.pdf"
-        ],
-        [
-          "2026-08-28",
+          "2026-08-31",
           "Europe macro update - EG Conference Call, REMINDER",
-          "data/pdfs/20260828_2102_Europe_macro_update_-_EG_Conference_Call,_REMINDER.pdf"
-        ],
-        [
-          "2026-08-28",
-          "MENA Crisis Update - EG Conference Call, REMINDER",
-          "data/pdfs/20260828_2102_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf"
+          "data/pdfs/20260831_2102_Europe_macro_update_-_EG_Conference_Call,_REMINDER.pdf"
         ],
         [
           "2026-08-31",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20260831_0800_EG_Research_Summary_in_Japanese.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260828_0503_US-Mexico_trade_after_the_Canada_standoff.pdf",
-        "data/pdfs/20260828_0534_MENA_Crisis_Update.pdf",
-        "data/pdfs/20260828_0800_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20260828_0800_Technical_details__Congressional_control_shapes_Tr.pdf",
-        "data/pdfs/20260828_0828_Congressional_control_shapes_Treasury_yields.pdf",
-        "data/pdfs/20260828_1524_India-China_border_framework_leaves_rifts_intact.pdf",
-        "data/pdfs/20260828_2102_Europe_macro_update_-_EG_Conference_Call,_REMINDER.pdf",
-        "data/pdfs/20260828_2102_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf",
-        "data/pdfs/20260831_0800_EG_Research_Summary_in_Japanese.pdf"
-      ]
-    },
-    {
-      "sender": "Eurasia",
-      "short": "EURAS",
-      "color": "YEL",
-      "count": 1,
-      "bullets": [
-        "中国が人材の国外移動を制限する新規則を法制化し、サプライチェーン安全保障の手段として明確に位置付け",
-        "2031年までの米中関係は「管理されたデカップリング」が基本シナリオ（確率60%）で、相互の規制強化が進行"
-      ],
-      "subjects": [
+          "MENA Crisis Update - EG Conference Call, REMINDER",
+          "data/pdfs/20260831_2102_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf"
+        ],
         [
-          "2026-08-28",
-          "Daily Research Summary - Aug 27th, 2026",
-          "data/pdfs/20260828_0834_Daily_Research_Summary_-_Aug_27th,_2026.pdf"
+          "2026-08-31",
+          "US-Mexico trade after the Canada standoff - EG Conference Call,",
+          "data/pdfs/20260831_2102_US-Mexico_trade_after_the_Canada_standoff_-_EG_Con.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260828_0834_Daily_Research_Summary_-_Aug_27th,_2026.pdf"
+        "data/pdfs/20260831_2102_Europe_macro_update_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20260831_2102_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20260831_2102_US-Mexico_trade_after_the_Canada_standoff_-_EG_Con.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "RED",
-      "count": 12,
+      "color": "YEL",
+      "count": 6,
       "bullets": [
-        "米国とカナダの通商紛争が激化すれば、自動車産業が存続危機に直面する可能性であり、業界ロビイストがトランプ政権との交渉再開を模索",
-        "欧州委員会が航空各社に対し、飛行機雲回避戦略の採用を促すインセンティブ導入を提案、ただし専門家は誘因の十分性に疑問",
-        "アイスランドが対EU加盟の道を再開するかについて国民投票を実施予定、加盟に伴うクジラ漁禁止ルール採用が課題",
-        "ドイツの極右政党AFDが東ドイツ共産圏時代への郷愁を利用した選挙戦略を展開、東部地域の重要選挙に向けた勢力拡大",
-        "ロシアによるヨーロッパへの「ハイブリッド戦争」が進行中"
+        "中国がEU企業への貿易制限を段階的に強化する可能性を示唆し、今後の報復がより深刻な影響をもたらす懸念。",
+        "中国がIMO脱炭素化枠組みについて具体的提案を提示し、船舶の温室効果ガス削減計算方法を拡大する柔軟なアプローチを主張。",
+        "EU、米国、サウジアラビア、ロシアなど利害関係者間で気候変動政策や産業政策について対立。",
+        "フォン・デア・ライエン欧州委員長が任期3年を残す中、産業振興、ルール防衛、安全保障強化、ウクライナ支援などの重要課題に直面。",
+        "アイスランドのEU加盟交渉再開否決がEUの国際的な求心力を示すうえでの大きな挫折。"
       ],
       "subjects": [
         [
-          "2026-08-28",
-          "The auto industry is at the center of Trump’s trade war. They want",
-          "data/pdfs/20260828_0542_The_auto_industry_is_at_the_center_of_Trump’s_trad.pdf"
+          "2026-08-31",
+          "China’s latest curbs on EU firms look symbolic. That could change.",
+          "data/pdfs/20260831_1301_China’s_latest_curbs_on_EU_firms_look_symbolic._Th.pdf"
         ],
         [
-          "2026-08-28",
-          "Inside von der Leyen’s social media strategy",
-          "data/pdfs/20260828_1354_Inside_von_der_Leyen’s_social_media_strategy.pdf"
+          "2026-08-31",
+          "China shows its IMO hand",
+          "data/pdfs/20260831_1408_China_shows_its_IMO_hand.pdf"
         ],
         [
-          "2026-08-28",
-          "ETS contrail measures under the radar",
-          "data/pdfs/20260828_1402_ETS_contrail_measures_under_the_radar.pdf"
+          "2026-08-31",
+          "Paris and Berlin’s plan to fix EU foreign policy",
+          "data/pdfs/20260831_1408_Paris_and_Berlin’s_plan_to_fix_EU_foreign_policy.pdf"
         ],
         [
-          "2026-08-28",
-          "Iceland’s last whaler faces a threat he can’t harpoon: The EU",
-          "data/pdfs/20260828_1705_Iceland’s_last_whaler_faces_a_threat_he_can’t_harp.pdf"
+          "2026-08-31",
+          "6 issues that will shape Ursula von der Leyen’s legacy",
+          "data/pdfs/20260831_1635_6_issues_that_will_shape_Ursula_von_der_Leyen’s_le.pdf"
         ],
         [
-          "2026-08-28",
-          "Germany’s far right taps nostalgia for communist East to propel",
-          "data/pdfs/20260828_1806_Germany’s_far_right_taps_nostalgia_for_communist_E.pdf"
+          "2026-08-31",
+          "How Greeks conquered the Brussels coffee bubble",
+          "data/pdfs/20260831_1736_How_Greeks_conquered_the_Brussels_coffee_bubble.pdf"
         ],
         [
-          "2026-08-28",
-          "Russia’s ‘hybrid war’ on Europe is starting to look a lot less hybrid",
-          "data/pdfs/20260828_1905_Russia’s_‘hybrid_war’_on_Europe_is_starting_to_loo.pdf"
-        ],
-        [
-          "2026-08-28",
-          "Belgium makes helmets compulsory on faster e-scooters",
-          "data/pdfs/20260828_2348_Belgium_makes_helmets_compulsory_on_faster_e-scoot.pdf"
-        ],
-        [
-          "2026-08-29",
-          "Pro Daily Headlines",
-          "data/pdfs/20260829_0031_Pro_Daily_Headlines.pdf"
-        ],
-        [
-          "2026-08-29",
-          "Germany plans to blame Russia for Leipzig attack as tensions with",
-          "data/pdfs/20260829_2007_Germany_plans_to_blame_Russia_for_Leipzig_attack_a.pdf"
-        ],
-        [
-          "2026-08-29",
-          "The fixer at the center of FIFA’s meltdown",
-          "data/pdfs/20260829_2315_The_fixer_at_the_center_of_FIFA’s_meltdown.pdf"
-        ],
-        [
-          "2026-08-30",
-          "Icelanders say no to restarting talks to join the EU",
-          "data/pdfs/20260830_1805_Icelanders_say_no_to_restarting_talks_to_join_the_.pdf"
-        ],
-        [
-          "2026-08-30",
-          "The real reason Iceland rejected the EU",
-          "data/pdfs/20260830_2103_The_real_reason_Iceland_rejected_the_EU.pdf"
+          "2026-08-31",
+          "The Trump-shaped problems awaiting Andy Burnham, ranked",
+          "data/pdfs/20260831_1906_The_Trump-shaped_problems_awaiting_Andy_Burnham,_r.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260828_0542_The_auto_industry_is_at_the_center_of_Trump’s_trad.pdf",
-        "data/pdfs/20260828_1354_Inside_von_der_Leyen’s_social_media_strategy.pdf",
-        "data/pdfs/20260828_1402_ETS_contrail_measures_under_the_radar.pdf",
-        "data/pdfs/20260828_1705_Iceland’s_last_whaler_faces_a_threat_he_can’t_harp.pdf",
-        "data/pdfs/20260828_1806_Germany’s_far_right_taps_nostalgia_for_communist_E.pdf",
-        "data/pdfs/20260828_1905_Russia’s_‘hybrid_war’_on_Europe_is_starting_to_loo.pdf",
-        "data/pdfs/20260828_2348_Belgium_makes_helmets_compulsory_on_faster_e-scoot.pdf",
-        "data/pdfs/20260829_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260829_2007_Germany_plans_to_blame_Russia_for_Leipzig_attack_a.pdf",
-        "data/pdfs/20260829_2315_The_fixer_at_the_center_of_FIFA’s_meltdown.pdf",
-        "data/pdfs/20260830_1805_Icelanders_say_no_to_restarting_talks_to_join_the_.pdf",
-        "data/pdfs/20260830_2103_The_real_reason_Iceland_rejected_the_EU.pdf"
+        "data/pdfs/20260831_1301_China’s_latest_curbs_on_EU_firms_look_symbolic._Th.pdf",
+        "data/pdfs/20260831_1408_China_shows_its_IMO_hand.pdf",
+        "data/pdfs/20260831_1408_Paris_and_Berlin’s_plan_to_fix_EU_foreign_policy.pdf",
+        "data/pdfs/20260831_1635_6_issues_that_will_shape_Ursula_von_der_Leyen’s_le.pdf",
+        "data/pdfs/20260831_1736_How_Greeks_conquered_the_Brussels_coffee_bubble.pdf",
+        "data/pdfs/20260831_1906_The_Trump-shaped_problems_awaiting_Andy_Burnham,_r.pdf"
+      ]
+    },
+    {
+      "sender": "Risa",
+      "short": "RISA",
+      "color": "RED",
+      "count": 1,
+      "bullets": [
+        "Eurasia Groupのラテンアメリカ部門責任者のRisaが今週のゲスト執筆を担当",
+        "「Donroe Doctrine」がトップリスク第3位に位置し、米国のラテンアメリカ政策が投資家にとって重要性を増加",
+        "過去20年間で米国がこれほど積極的に半球地域に関与する行政府は存在しないこと",
+        "中間選挙後も米国のラテンアメリカへの関与継続の可能性"
+      ],
+      "subjects": [
+        [
+          "2026-08-31",
+          "EG Update",
+          "data/pdfs/20260831_2052_EG_Update.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260831_2052_EG_Update.pdf"
       ]
     },
     {
@@ -189,22 +119,21 @@
       "color": "ORG",
       "count": 1,
       "bullets": [
-        "ジェトロが広東省・大湾区の消費市場動向を解説するセミナーを香港で開催",
-        "中国のアニメ展示会に7万人超が来場し、日本コンテンツへの関心が高まり",
-        "ジェトロが長沙市で日本産酒類の商談会を開催",
-        "中国乗用車市場において中国ブランドのシェアが70％を超え",
-        "ジェトロが香港のFood Expo PRO 2026でコンテンツと食のセミナーを開催",
-        "韓国コンテナ船による北極海航路の試験運航が開始"
+        "北京市がAI・ロボットなどデジタル産業の海外展開を中心に企業の海外進出を支援",
+        "香港が職場熱ストレス警告システムの発令基準を最適化",
+        "韓国銀行が2026年の成長率予測を3.3％に上方修正、半導体景気の改善を反映",
+        "シンガポール・ベトナム戦略対話が初開催、両国の連携強化",
+        "マレーシアの第2四半期GDP成長率が前年同期比6.0％で輸出の拡大を実現"
       ],
       "subjects": [
         [
-          "2026-08-28",
-          "「ジェトロ・ビジネス短信」2026/08/28",
-          "data/pdfs/20260828_1815_「ジェトロ・ビジネス短信」2026_08_28.pdf"
+          "2026-08-31",
+          "「ジェトロ・ビジネス短信」2026/08/31",
+          "data/pdfs/20260831_1827_「ジェトロ・ビジネス短信」2026_08_31.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260828_1815_「ジェトロ・ビジネス短信」2026_08_28.pdf"
+        "data/pdfs/20260831_1827_「ジェトロ・ビジネス短信」2026_08_31.pdf"
       ]
     }
   ]
