@@ -329,16 +329,16 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
-    { state:'OH', incumbent:'(R空席)', party:'R', rating:'toss',    label:'接戦' },
-    { state:'MI', incumbent:'Gary Peters (D)', party:'D', rating:'toss',    label:'接戦' },
-    { state:'PA', incumbent:'Bob Casey (D)', party:'D', rating:'lean-d',  label:'Lean D' },
-    { state:'WI', incumbent:'Tammy Baldwin (D)', party:'D', rating:'lean-d',  label:'Lean D' },
-    { state:'MT', incumbent:'Jon Tester (D→)', party:'R', rating:'safe-r',  label:'Safe R' },
-    { state:'GA', incumbent:'Jon Ossoff (D)', party:'D', rating:'toss',    label:'接戦' },
-    { state:'NV', incumbent:'Jacky Rosen (D)', party:'D', rating:'lean-d',  label:'Lean D' },
-    { state:'NH', incumbent:'Jeanne Shaheen (D)', party:'D', rating:'likely-d', label:'Likely D' },
+    { state:'OH', incumbent:'Jon Husted (R空席・特別選挙)', party:'R', rating:'toss',    label:'接戦' },
+    { state:'MI', incumbent:'Gary Peters (D空席)', party:'D', rating:'toss',    label:'接戦' },
+    { state:'NC', incumbent:'Thom Tillis (R空席)', party:'R', rating:'toss',  label:'接戦' },
+    { state:'AK', incumbent:'Dan Sullivan (R)', party:'R', rating:'lean-r',  label:'Lean R' },
+    { state:'MT', incumbent:'Steve Daines (R)', party:'R', rating:'safe-r',  label:'Safe R' },
+    { state:'GA', incumbent:'Jon Ossoff (D)', party:'D', rating:'lean-d',  label:'Lean D' },
+    { state:'ME', incumbent:'Susan Collins (R)', party:'R', rating:'lean-r',  label:'Lean R' },
+    { state:'NH', incumbent:'Jeanne Shaheen (D空席)', party:'D', rating:'likely-d', label:'Likely D' },
     { state:'VA', incumbent:'Mark Warner (D)', party:'D', rating:'likely-d', label:'Likely D' },
-    { state:'TX', incumbent:'John Cornyn (R)', party:'R', rating:'safe-r',  label:'Safe R' },
+    { state:'TX', incumbent:'Ken Paxton (R)', party:'R', rating:'toss',  label:'接戦' },
   ],
   house: [
     { state:'NY-3', incumbent:'(空席)', party:'D', rating:'toss', label:'接戦' },
@@ -711,10 +711,10 @@ ${_seatsTable([
   ['エリッサ・スロットキン','D','var(--dem)','2030年（2024年に当選）',false]
 ])}
 <hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年8月4日','予備選（両党）','future'],['2026年11月3日','本選（一般選挙）','future']])}
+${_sched([['2026年8月4日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
 <h4 style="margin:0 0 6px;font-size:13px;">注目点</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">ゲイリー・ピーターズ現職が引退を表明。2024年大統領選でトランプに敗れたミシガンでの空席争い。全国で最も重要な上院戦の一つ。</p>
-<h4 style="margin:0 0 8px;font-size:13px;">各党の候補者状況（予備選は8月4日）</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">ゲイリー・ピーターズ現職が引退を表明。2024年大統領選でトランプに敗れたミシガンでの空席争い。民主党予備選は進歩派のアブドゥル・エル=サイードがヘイリー・スティーヴンス下院議員を1ポイント差（48.5%対47.5%）で破る番狂わせ。全国で最も重要な上院戦の一つ。</p>
+<h4 style="margin:0 0 8px;font-size:13px;">本選対決の候補者</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
@@ -722,19 +722,16 @@ ${_sched([['2026年8月4日','予備選（両党）','future'],['2026年11月3�
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">肩書き</th>
   </tr></thead><tbody>
     <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">マイク・ロジャース</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元下院議員（2024年選で僅差落選）</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">マロリー・マクモロー</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">州上院議員（8/4予備選に出馬）</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">ヘイリー・スティーヴンス</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">連邦下院議員（8/4予備選に出馬）</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">アブドゥル・エル=サイード</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ウェイン郡保健局長（8/4予備選に出馬）</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">アブドゥル・エル=サイード</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元ウェイン郡保健局長（民主党予備選勝者）</td></tr>
   </tbody>
 </table>
-<h4 style="margin:0 0 8px;font-size:13px;">本選仮想対決の世論調査（2026年6月）</h4>
-${_pollTable([['マイク・ロジャース（共和）','R','var(--rep)','43.2%'],['民主候補（仮想平均）','D','var(--dem)','42.6%']],'※ 誤差内。民主候補は8月4日予備選で確定。Toss-up。')}
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年8月下旬）</h4>
+${_pollTable([['アブドゥル・エル=サイード（民主）','D','var(--dem)','45〜48%'],['マイク・ロジャース（共和）','R','var(--rep)','39〜47%']],'※ AARP調査(8/29)は48%対47%、Susquehanna調査は46%対39%、TIPP調査は45%対42%とエル=サイードが僅差〜小差でリード。事実上の接戦。')}
 <h4 style="margin:0 0 6px;font-size:13px;">分析</h4>
-<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">ロジャースは2024年にスロットキン（民主）に0.34%差で敗れた後の再挑戦。民主党は三つ巴の予備選を経て候補一本化へ。マクモローはSNSでの知名度が高く、スティーヴンスは中道路線。全国最大の激戦区の一つ。</p>
+<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">ロジャースは2024年にスロットキン（民主）に0.34%差で敗れた後の再挑戦。民主党はマクモロー州上院議員が撤退・エル=サイード支持に回り、進歩派が本選出馬。複数調査でエル=サイードが小差リードするが誤差内が多く、全国最大の激戦区の一つであることに変わりなし。</p>
 ${_photoRow([
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Mike-Rogers-Head-Shot-2_%283x4_cropped%29.jpg/330px-Mike-Rogers-Head-Shot-2_%283x4_cropped%29.jpg', name:'マイク・ロジャース', party:'共和党', color:'var(--rep)'}
 ])}
-<p style="font-size:11px;color:var(--text-sub);margin-top:6px;">民主党候補は2026年8月4日の予備選で確定</p>
 </div>`,
 
     TN: () => `
@@ -939,7 +936,7 @@ ${_seatsTable([
   ['ラファエル・ウォーノック','D','var(--dem)','2028年（2022年に再選）',false],
 ])}
 <hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年5月19日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
+${_sched([['2026年5月19日','予備選（両党）','終了'],['2026年7月','共和党決選投票（ランオフ）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
 <h4 style="margin:0 0 8px;font-size:13px;">主な候補者</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
@@ -948,11 +945,13 @@ ${_sched([['2026年5月19日','予備選（両党）','終了'],['2026年11月3�
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
   </tr></thead><tbody>
     <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジョン・オソフ（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">1期目・2021年決選投票で初当選</td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ブライアン・ケンプ（元知事）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">2027年1月知事任期終了・出馬有力</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">マイク・コリンズ（連邦下院議員）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">トランプ氏支持で決選投票を制し共和党候補に確定（ケンプ知事は不出馬）</td></tr>
   </tbody>
 </table>
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年8月）</h4>
+${_pollTable([['ジョン・オソフ（民主・現職）','D','var(--dem)','50〜56%'],['マイク・コリンズ（共和）','R','var(--rep)','43%']],'※ InsiderAdvantage（8/16-17）はオソフ50%対コリンズ43%。Fox Newsはオソフ56%対43%。複数調査でオソフが7〜13ポイントの安定したリード。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up / Lean R）</strong><br>オソフは2021年1月の決選投票で当選した民主党の若手議員。共和党地盤のジョージアで1期目の再選を目指す厳しい戦い。ブライアン・ケンプ元知事（任期制限で退任）が有力共和党候補に浮上。上院支配権を左右する全国最注目レースの一つ。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党やや優位（Lean D）</strong><br>オソフは2021年1月の決選投票で当選した民主党の若手議員。ケンプ知事が出馬を見送り、トランプ氏の支持を得たマイク・コリンズ下院議員が決選投票で共和党候補に。8月の複数調査でオソフが一貫して2桁近いリードを保っており、当初のToss-up評価からLean Dへ上方修正。上院支配権を左右する全国最注目レースの一つ。</p>
 </div>`,
 
     NH: () => `
@@ -1405,13 +1404,31 @@ ${_seatsTable([
 </div>`,
 
     FL: () => `
-<div class="state-info-name">フロリダ州（FL） — 2026年上院選挙なし</div>
+<div class="state-info-name">フロリダ州（FL） — 2026年上院選挙あり（特別選挙）</div>
 <div class="state-info-body">
 ${_seatsTable([
   ['リック・スコット','R','var(--rep)','2030年（2024年に再選）',false],
-  ['マルコ・ルビオ（国務長官就任で空席→任命議員）','R','var(--rep)','2028年（次回）',false],
+  ['アシュリー・ムーディ（任命議員）','R','var(--rep)','2026年（特別選挙で残り任期を争う）',true],
 ])}
-<p style="font-size:12px;color:var(--text-sub);margin:0 0 10px;line-height:1.6;">2026年の上院選挙はなし。ルビオは2025年1月に国務長官に就任して上院議席を辞して空席に。デサンティス知事（またはその後任）が共和党員を任命。任命議員は次の選挙（2028年）まで在任。スコットは2030年が次回。フロリダは近年共和党が地盤を固め、2024年トランプが13ポイント差で勝利。</p>
+<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
+${_sched([['2026年8月18日','予備選（両党）','終了'],['2026年11月3日','本選（特別選挙・一般選挙）','future']])}
+<h4 style="margin:0 0 6px;font-size:13px;">注目点</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">ルビオが2025年1月に国務長官就任のため上院議席を辞し、デサンティス知事がアシュリー・ムーディ州司法長官を任命。ルビオの残り任期（〜2029年1月）を埋めるための特別選挙が2026年11月に実施される。</p>
+<h4 style="margin:0 0 8px;font-size:13px;">本選対決の候補者</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">肩書き・備考</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">アシュリー・ムーディ（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元FL州司法長官・任命議員</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">アンジー・ニクソン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">州下院議員（民主社会主義者）・資金力で優る元NSC高官ヴィンドマンを破る番狂わせで予備選勝利</td></tr>
+  </tbody>
+</table>
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査</h4>
+${_pollTable([['アシュリー・ムーディ（共和・現職）','R','var(--rep)','49〜50%'],['アンジー・ニクソン（民主）','D','var(--dem)','40〜42%']],'※ 世論調査平均でムーディが約10ポイントリード。フロリダ大学North調査（7/17）はムーディ50%対ニクソン42%。')}
+<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党優位（Likely R）</strong><br>民主党予備選では民主社会主義者を自認する州議会議員アンジー・ニクソンが、資金力で圧倒していた元NSC高官アレックス・ヴィンドマンを破る番狂わせ。共和党地盤化が進むFLでムーディが優勢だが、ニクソンの進歩派としての知名度上昇が今後の焦点。</p>
 </div>`,
 
     HI: () => `
@@ -1467,13 +1484,31 @@ ${_seatsTable([
 </div>`,
 
     OH: () => `
-<div class="state-info-name">オハイオ州（OH） — 2026年上院選挙なし</div>
+<div class="state-info-name">オハイオ州（OH） — 2026年上院選挙あり（特別選挙）</div>
 <div class="state-info-body">
 ${_seatsTable([
   ['バーニー・モレノ','R','var(--rep)','2030年（2024年に当選）',false],
-  ['任命議員（JDバンス副大統領辞任後）','R','var(--rep)','2028年（次回）',false],
+  ['ジョン・ハステッド（任命議員）','R','var(--rep)','2026年（特別選挙で残り任期を争う）',true],
 ])}
-<p style="font-size:12px;color:var(--text-sub);margin:0 0 10px;line-height:1.6;">2026年の上院選挙はなし。JDバンスが2025年1月に副大統領に就任し上院議席を辞したため、デワイン知事が共和党員を任命。任命議員はバンスの残任期（2028年まで）を務める。モレノは2024年にシェロッド・ブラウン（民主党）を破り初当選。2030年が初の再選挑戦。オハイオは近年スイング州から共和党優位の州へ変容しつつある。</p>
+<hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
+${_sched([['2026年5月','予備選（両党）','終了'],['2026年11月3日','本選（特別選挙・一般選挙）','future']])}
+<h4 style="margin:0 0 6px;font-size:13px;">注目点</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">JDバンスが2025年1月に副大統領就任のため上院議席を辞し、デワイン知事がジョン・ハステッド州副知事を任命。バンスの残り任期を埋める特別選挙が2026年11月に実施され、民主党は元上院議員シェロッド・ブラウンが返り咲きを狙う。</p>
+<h4 style="margin:0 0 8px;font-size:13px;">本選対決の候補者</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">肩書き・備考</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジョン・ハステッド（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元州副知事・任命議員</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">シェロッド・ブラウン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元連邦上院議員（2024年落選・返り咲きを狙う）</td></tr>
+  </tbody>
+</table>
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年8月）</h4>
+${_pollTable([['シェロッド・ブラウン（民主）','D','var(--dem)','45〜48%'],['ジョン・ハステッド（共和・現職）','R','var(--rep)','44〜47%']],'※ Fox News調査（8/6-10）はブラウン+8。Wedgewood Polls（8/13）はブラウン48%対ハステッド44%。世論調査平均ではハステッドが僅差リード（47.1%対45.3%）とばらつきが大きい事実上の接戦。')}
+<h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up）</strong><br>オハイオは近年スイング州から共和党優位の州へ変容しつつあったが、民主党の重鎮ブラウンの返り咲き挑戦により全国屈指の接戦区に。調査によってブラウンとハステッドどちらもリードしており、上院支配権を左右しうる最重要レースの一つ。</p>
 </div>`,
 
     PA: () => `
@@ -3109,21 +3144,20 @@ ${_sched([['2026年3月3日','予備選（両党）','終了'],['2026年5月26�
   </tbody>
 </table>
 <hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年8月6日','予備選（両党）','future'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 8px;font-size:13px;">主な候補者（共和党予備選）</h4>
+${_sched([['2026年8月6日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
+<h4 style="margin:0 0 8px;font-size:13px;">本選対決の候補者</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">肩書き・備考</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジョナサン・スクルメッティ</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">州司法長官（出馬有力視）</td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">共和党候補（複数）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">8月6日の予備選で確定</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">民主党候補</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">勝利の可能性は極めて低い</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">マーシャ・ブラックバーン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">現職連邦上院議員（共和党予備選43.6%で勝利）</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジェリ・グリーン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">民主党予備選勝者</td></tr>
   </tbody>
 </table>
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏（Safe R）</strong><br>テネシーは共和党の強固な地盤。2022年のリー知事再選時は65%を獲得。オープンシートだが共和党の優位は揺るぎない。民主党が知事職を保持したのは2002年が最後。焦点は共和党の予備選（8月6日）となる。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏（Safe R）</strong><br>テネシーは共和党の強固な地盤。共和党予備選は現職連邦上院議員のマーシャ・ブラックバーンが制し、民主党はジェリ・グリーンが勝利。両党とも女性候補となり初の女性知事誕生が確実に。世論調査平均ではブラックバーンが20ポイント超の大差でリードしており、民主党が知事職を保持したのは2002年が最後。</p>
 </div>`,
 
     MI: () => `
@@ -3146,23 +3180,22 @@ ${_sched([['2026年8月6日','予備選（両党）','future'],['2026年11月3�
   </tbody>
 </table>
 <hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年8月4日','予備選（両党）','future'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 8px;font-size:13px;">主な候補者</h4>
+${_sched([['2026年8月4日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
+<h4 style="margin:0 0 8px;font-size:13px;">本選対決の候補者</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">肩書き・備考</th>
   </tr></thead><tbody>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ガーリン・ギルクリスト</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">現副知事（出馬有力）</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">デイナ・ネッセル</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">現州司法長官</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジョスリン・ベンソン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">現州務長官</td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">チューダー・ディクソン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">2022年共和党候補（再挑戦の可能性）</td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">マイク・ロジャース</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元連邦下院議員</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジョスリン・ベンソン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">現州務長官（民主党予備選勝者、対クリス・スワンソン郡保安官）</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジョン・ジェームズ</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">連邦下院議員・トランプ支持で予備選制覇（対ペリー・ジョンソン 49%対35%）</td></tr>
   </tbody>
 </table>
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年8月下旬）</h4>
+${_pollTable([['ジョスリン・ベンソン（民主）','D','var(--dem)','45〜47%'],['ジョン・ジェームズ（共和）','R','var(--rep)','41〜47%']],'※ 8/22-28調査はベンソン45%対ジェームズ41%（4ポイント差）。世論調査平均ではベンソンが約6.5ポイントリード。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up）</strong><br>ミシガンは最大の激戦州の一つ。ウィットマー知事後のオープンシートで民主・共和双方が本気で争う。2022年はウィットマーが11ポイント差で勝利したが、現職不在では差が縮まる公算が大きい。副知事ギルクリストら民主党の複数候補が予備選を争う見通し。上院・下院と並ぶ全国注目の最重要レース。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党やや優位（Lean D）</strong><br>ミシガンは最大の激戦州の一つ。ウィットマー知事後のオープンシートで、州務長官ベンソン（民主）と下院議員ジェームズ（共和）の対決に。予備選ではガーリン・ギルクリスト副知事が2026年1月に撤退し州務長官選へ転向、ネッセル司法長官も出馬せず、ベンソンが本命候補として勝ち上がった。8月の調査ではベンソンが4〜6ポイント台のリードを維持。上院・下院と並ぶ全国注目の最重要レース。</p>
 </div>`,
 
     CA: () => `
@@ -3283,20 +3316,22 @@ ${_sched([['2026年5月19日','予備選（共和党）','終了'],['2026年6月
   </tbody>
 </table>
 <hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年8月18日','予備選（両党）','future'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 8px;font-size:13px;">主な候補者</h4>
+${_sched([['2026年8月18日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
+<h4 style="margin:0 0 8px;font-size:13px;">本選対決の候補者</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">肩書き</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">アシュリー・ムーディ</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元FL州司法長官・有力候補</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">民主党候補（未定）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">有力候補模索中</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">バイロン・ドナルズ</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">連邦下院議員・トランプ支持で予備選勝利（47.8%）</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">デイビッド・ジョリー</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元共和党連邦下院議員・民主党へ転じ予備選勝利（61%）</td></tr>
   </tbody>
 </table>
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年8月）</h4>
+${_pollTable([['バイロン・ドナルズ（共和）','R','var(--rep)','44〜47%'],['デイビッド・ジョリー（民主）','D','var(--dem)','38〜46%']],'※ 世論調査平均ではドナルズが約4ポイントリード（44.2%対40.3%）。Hart Research（民主系、8/13）はジョリー46%対ドナルズ45%と逆転を示すなど調査間でばらつきあり。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党優位（Likely R）</strong><br>デサンティスの任期満了により2期ぶりのオープン席。FLは2018年・2022年ともに僅差で共和党が勝利し、2024年大統領選でトランプが13ポイント差で圧勝するまで共和党地盤化が進んだ。知事職も共和党有利な情勢。民主党は有力候補を見つけることが課題。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党やや優位（Lean R）</strong><br>デサンティスの任期満了により2期ぶりのオープン席。共和党はトランプ支持のドナルズ下院議員、民主党は元共和党下院議員から転じたジョリーが本選出馬。FLは2024年大統領選でトランプが13ポイント差で圧勝するなど共和党地盤化が進んだが、8月の調査ではドナルズのリードが1桁台に留まり、当初のLikely Rからやや接戦寄りに修正。</p>
 </div>`,
 
     GA: () => `
@@ -3355,20 +3390,22 @@ ${_sched([['2026年5月19日','予備選（両党）','終了'],['2026年7月（
   </tbody>
 </table>
 <hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年8月4日','予備選（両党）','future'],['2026年11月3日','本選（一般選挙）','future']])}
-<h4 style="margin:0 0 8px;font-size:13px;">主な候補者</h4>
+${_sched([['2026年7月21日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
+<h4 style="margin:0 0 8px;font-size:13px;">本選対決の候補者</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">肩書き</th>
   </tr></thead><tbody>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ケイティ・ホッブス（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元州務長官→現知事</td></tr>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">共和党候補（予備選で決定）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">2022年はカリ・レイクが出馬（上院に転向し敗北）</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ケイティ・ホッブス（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元州務長官→現知事（再選挑戦）</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">アンディ・ビッグス</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">連邦下院議員・トランプ支持で予備選勝利（対シュヴァイカート下院議員ら）</td></tr>
   </tbody>
 </table>
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年8月）</h4>
+${_pollTable([['ケイティ・ホッブス（民主・現職）','D','var(--dem)','44%'],['アンディ・ビッグス（共和）','R','var(--rep)','43%']],'※ Emerson College調査。誤差内の接戦。他の調査ではホッブスが2桁リードするものもあり、調査によりばらつきが大きい。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up）</strong><br>ホッブスは2022年に州務長官として選挙管理を担う立場でありながら知事選に出馬・0.6%差で当選。カリ・レイクは2022年知事選敗北後に2024年上院選に転向したが再び敗北。AZは大統領・上院・知事すべてで接戦が続く全米最注目スイング州。フェニックス郊外の無党派層が鍵。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up）</strong><br>ホッブスは2022年に州務長官として選挙管理を担う立場でありながら知事選に出馬・0.6%差で当選。共和党はトランプ支持のビッグス下院議員が予備選を制した。AZは大統領・上院・知事すべてで接戦が続く全米最注目スイング州。フェニックス郊外の無党派層が鍵。</p>
 </div>`,
 
     NV: () => `
@@ -4020,9 +4057,22 @@ ${_sched([['2026年3月17日','予備選（両党）','終了'],['2026年11月3�
   </tbody>
 </table>
 <hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年8月4日','予備選（両党）','future'],['2026年11月3日','本選（一般選挙）','future']])}
+${_sched([['2026年8月4日','予備選（両党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
+<h4 style="margin:0 0 8px;font-size:13px;">本選対決の候補者</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">肩書き・備考</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">タイ・マスターソン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">州上院議長・トランプ支持で予備選勝利</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">シンディ・ホルシャー</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">州上院議員・民主党予備選勝者</td></tr>
+  </tbody>
+</table>
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年8月下旬）</h4>
+${_pollTable([['シンディ・ホルシャー（民主）','D','var(--dem)','47%'],['タイ・マスターソン（共和）','R','var(--rep)','46%']],'※ Global Strategic Group調査（誤差±4%）。無党派層でホルシャーが優位。マスターソンは共和党支持層の一部離反も指摘され、事実上の接戦。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党やや優位（Lean R）</strong><br>ケリーは深紅のKSで2期連続勝利した異例の民主党知事。ケリー引退後のオープン席で、共和党が奪還を狙う。2022年の中絶投票でKS有権者が中絶権保護を選んだことが示すように、KSは一枚岩の共和党地盤ではない複雑な州。民主党が候補者次第では接戦も。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up）</strong><br>ケリーは深紅のKSで2期連続勝利した異例の民主党知事。予備選ではトランプ支持のマスターソン州上院議長が共和党候補に、民主党はホルシャー州上院議員が勝利。当初は共和党有利（Lean R）とみられていたが、8月の調査でホルシャーが僅差リードし接戦に。共和党内の一部離反やトランプ支持率低下が背景。2022年の中絶投票でKS有権者が中絶権保護を選んだ経緯も踏まえ、共和党の議席奪還は不透明に。</p>
 </div>`,
 
     VT: () => `
