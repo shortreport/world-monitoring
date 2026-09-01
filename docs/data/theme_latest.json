@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01 04:53:13",
+  "generated_at": "2026-09-01 18:49:32",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-01 04:52:40",
+      "last_checked": "2026-09-01 18:49:04",
       "items": [
         {
           "uid": "ff4a50ff45b1",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-01 04:52:52",
+      "last_checked": "2026-09-01 18:49:13",
       "items": [
         {
           "uid": "613e412db686",
@@ -4030,8 +4030,58 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-01 04:53:13",
+      "last_checked": "2026-09-01 18:49:32",
       "items": [
+        {
+          "uid": "6356bad8e7a0",
+          "date": "2026-08-31",
+          "title": "Tinsel Magazine Publishes 'The Countries Looking Away' on Nations Without Child Online Safety Laws - EIN News",
+          "summary": "申し訳ありませんが、提供いただいた記事のタイトルと内容は「中国レアアース輸出管理」とは無関係であり、児童のオンライン安全に関する内容です。そのため、ご指示の文脈での要約はできません。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1FkTlZIU3paeEI0aVB5ekZZTzE3UVh2UEN2aFgzbnRBUDluS0owYWRBaDhscXZtQXBHZGF5djhOVjRrWENDSmVyWWI4WEFGX09Xck5hUTZibG5nemZvc29XbTZ0S2MyM1pqNFpLQlhXWDgxZXd6WDc3MXFmTjl1aExsWlB1MEpZQ3NIMGZfSUZveVppVXFOS09OVUlNemt6dzdMMmZ5OThnT0tmcm5WaGV1OTk0ZU5BaDlfVWU5bkRFUUZ4VEZzNlVIU3pYNU9fTUxWOURB?oc=5",
+          "added_at": "2026-09-01 18:49:25"
+        },
+        {
+          "uid": "70b54cf1102e",
+          "date": "2026-06-20",
+          "title": "China's Rare Earth Empire and the PLA: The Strategic Materials Architecture Behind Military Power - Rare Earth Exchanges",
+          "summary": "# 要約\n\n中国はレアアースの採掘・精製を独占し、その供給を戦略的に管理することで、人民解放軍（PLA）を含む軍事力強化と地政学的影響力の拡大を図っており、レアアースは中国の国防戦略における重要な物質的基盤となっている。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnVwdTN6RTFiZjEtaTVXbHJmSnpTeVJwZElWRWhmN0lBRmpkcXdZUFJsMTR5cEgxTC1IbmU5WkFmR1RpTjMyV1UwWWlKUTJoUnlRM0FYcEc3Z2VoNTFNRm1nSHpGMC15eEJ5bWxGblFHak5rY2dfUTRnNUZJdF9PLVhHUndRVVlsZ3ZjbURfRi1sa2RBeUk0LUZEWFdKeTNIZFlnY3kxQ2RCMjIwM3hSR2J6SGhORWstT2lxMk5mbXhzaE5UbVRNd1hxWUo?oc=5",
+          "added_at": "2026-09-01 18:49:25"
+        },
+        {
+          "uid": "19511e37cd26",
+          "date": "2026-07-13",
+          "title": "New joint stock rare-earth company set up in South China; move to enable more flexible operation: expert - Global Times",
+          "summary": "中国が南部にレアアース産業の新しい合弁会社を設立し、レアアース事業のより柔軟な運営を可能にする戦略的措置として機能することが期待されている。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WNkpfMnY3V2pGcWl0MGlBNTY3YmozbXR0SFd2MTNUWmxZcHJmQTUzdElNTjlkemVPbUluel9fYVVPNF9GUUJpSVZ1NUpSQ1M5TDFZaE1TU3YtRDloajNXeFVB?oc=5",
+          "added_at": "2026-09-01 18:49:25"
+        },
+        {
+          "uid": "ed50344a87b9",
+          "date": "2026-08-06",
+          "title": "Can President Trump End U.S. Reliance On Chinese Rare Earth Minerals? - American Energy Alliance",
+          "summary": "トランプ大統領が米国の中国レアアース依存を終わらせることができるかについて論じており、米国のレアアース産業の自立化とサプライチェーンの多角化が政策課題として検討されていることを示唆している。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSG5IZGRGZGJZZ3YtNDl2STdhQkc1WmVwUFY0NFNkY281MU9SMm40TXdReTdaemhHNHNUbmx1b3JvekZRQnpBUFRxVnRqalpTYmVMNlctZFhuR3NLTUd1d1d2YmVXdkpHMmd0ejdfNjlxc3NBMnFBbjllV0dJUW95ZzNadzdOR0d3MXZfSmZielFaaVhlOTUzY3p1VlJYRlZDMXJJZG0zMXpjSnRIOEVTdUhIUXJuUQ?oc=5",
+          "added_at": "2026-09-01 18:49:25"
+        },
+        {
+          "uid": "d17d8b49f9a0",
+          "date": "2026-06-09",
+          "title": "US Launches $12bn Minerals Reserve to Counter China’s Africa Grip - newsghana.com.gh",
+          "summary": "米国が中国のアフリカにおけるレアアースなどの鉱物資源支配に対抗するため、120億ドルの鉱物備蓄制度を立ち上げた。これは中国によるレアアース輸出管理を通じた資源外交への対抗措置として、米国がサプライチェーン多様化を進めようとする動きである。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUV0aDVOWkphLXpFOXRSdTZ2OHFEd043eERhbXpUWmc4Mm93YzB3UHRMZ2p5eGVqSDhBU3VqbXFQbmF2TUZEcWhER29vM3ZrN1pfX3Q3RUFyZ2lTbmJjYmhjUDFZbkoyaGxqUERLakdPRHhBdUlRR2lZT1BvdFNyWkpET1gyWl8xN1dMYUdhSnNLRTA?oc=5",
+          "added_at": "2026-09-01 18:49:25"
+        },
         {
           "uid": "a6ad0828dc6b",
           "date": "2026-08-24",
@@ -5981,56 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfMGNnRF94eHBkYm5jZjlxV21QNjBsTjltSzVTZ3Vsa3puYml0WHhNNVQ3a1pub1k0TGwzWmFMQXBMVGRJNDJtTTJYTUFERVd4RlN0VXprTEhLODkzRGJZU3BCcEs?oc=5",
           "added_at": "2026-07-29 16:45:40"
-        },
-        {
-          "uid": "1ab7dddcb1a8",
-          "date": "2026-05-11",
-          "title": "The U.S.-China Trade Truce Has Not Solved the Gallium Problem - CSIS | Center for Strategic and International Studies",
-          "summary": "米国と中国の貿易休戦にもかかわらず、中国はガリウムなどの重要鉱物の輸出を厳格に管理し続けており、米国の半導体産業への供給リスクは解決されていない。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVZLV1Y3NEVpcy03YXJ4dEVvbHdUZkVIOWxFVlJDRS1OMnNQUWlfelFRTWxVV0xTSmxYMVd6U3p0V09pbDBhMmVoa2g2bzVEZTI4YjlNOGYtaDUwRnlrZEVLMmJYUnZVU0NKWWNDVVYweXZKMHhNbTd1YjdBTTMwRmJiTjRHQTRB?oc=5",
-          "added_at": "2026-07-29 01:06:57"
-        },
-        {
-          "uid": "bf9fc6da1806",
-          "date": "2026-05-20",
-          "title": "Chinese, US trade teams hold extensive discussions on rare-earth export control issues, will jointly study solutions to each other's legitimate concerns: MOFCOM - Global Times",
-          "summary": "中国と米国の貿易チームがレアアース輸出管理問題について広範な協議を行い、双方の正当な関心事に対する解決策を共同で検討することで合意した。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Lb2NPRHo5MXlXcmJwRENNdDZmYjhkZTJESzI1bXpaYUVTLUluZkp4bjRTdzVBQ3hTc0lqQUpIbEtFZ1JtbEFOQVF3dDJ6dmd6SnNrdUotcldBanVadVJ1MjVB?oc=5",
-          "added_at": "2026-07-29 01:06:57"
-        },
-        {
-          "uid": "7ef3daa01c31",
-          "date": "2026-07-27",
-          "title": "Pentagon Suppliers Warn U.S. Won't Have Magnet Capacity By 2027 - Crude Oil Prices Today | OilPrice.com",
-          "summary": "米国防総省のサプライヤーが、中国によるレアアース輸出管理の影響で、米国は2027年までに必要な磁石生産能力を確保できないと警告している。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSHFhSjQ2SGFLNXV5bE1sTVZ1QmN2WC10aURubFFRX1Y3NnQ3eTdKOVYxVV8ydTdRZHNZaGpWUHdfODdXY29zeTBKdWF3T0N4T05OQUlJVzd0VXlvRFhmc2xZR2swME5DUnR2amxTc09lMHZoZWpNMm1nVmxiOFNTS0k0OWtVUVlZZFV1cU5wV2xPcHhmeVBIMmJyeWRvZDdua2lyMHZkUjjSAa4BQVVfeXFMUEhFLVlvbHFkYmRYQW9CUHh2ekFMMHlJLW9FSVJDVHVuanVtVmphZVZnZVFrZGxTcURkaWQ3dk5WT3JKMXYxYnFvTEg2Y0VOMC0yWTlEX1l5SXVMdFQ0eU80QjluakFibmU3bmZMcTZmSk9ocHJrNl9tZllTSXdobzJ6Qk9laERTbkxKZGFhSUpuaHN6R19oTmN4NzU1aEVxeldkOU9NaWpEbUx3cGpR?oc=5",
-          "added_at": "2026-07-29 01:06:57"
-        },
-        {
-          "uid": "ac97824bdbf4",
-          "date": "2026-07-28",
-          "title": "Cutting AIDS relief hands South Africa to Russia, China",
-          "summary": "中国とロシアは、保健パートナーシップが地政学的影響力に転換できることを認識しており、AIDS救済削減によって南アフリカへの影響力拡大の長期的機会を得ることになる。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/international/5988719-trump-pepfar-south-africa/",
-          "added_at": "2026-07-29 01:06:57"
-        },
-        {
-          "uid": "07a308076278",
-          "date": "2026-07-24",
-          "title": "US-China Relations in the Trump 2.0 Era: A Timeline - China Briefing",
-          "summary": "I appreciate your request, but I notice you've provided only a title and haven't included the actual article content needed for summarization. The title \"US-China Relations in the Trump 2.0 Era: A Timeline\" suggests the article may discuss US-China relations broadly, but without the article body, I cannot extract specific information about China's rare earth export controls to provide an accurate summary in the requested context.\n\n記事の本文を提供していただければ、「中国レアアース輸出管理」に関連する内容を1〜2文で要約いたします。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9rOHkwQl9VYldidlJVajgtZzY4VE5TQmt6eEQ2czIxaTk5N3Ywd3diVXdCT3dKVmhUNmxMRjJ0UnJKdGE2TUtuNklrdWx4UTVGZG5kY1pvWnNEWUhkdmZ5WkV3R0plREV6aTlGc1JEUHVQeG02VzRsVE82OERteXhsMGNfTEVPMllnN0p3?oc=5",
-          "added_at": "2026-07-28 16:41:30"
         }
       ]
     }
