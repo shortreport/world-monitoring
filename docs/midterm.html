@@ -331,11 +331,11 @@ const keyRaces = {
   senate: [
     { state:'OH', incumbent:'Jon Husted (R空席・特別選挙)', party:'R', rating:'toss',    label:'接戦' },
     { state:'MI', incumbent:'Gary Peters (D空席)', party:'D', rating:'toss',    label:'接戦' },
-    { state:'NC', incumbent:'Thom Tillis (R空席)', party:'R', rating:'toss',  label:'接戦' },
-    { state:'AK', incumbent:'Dan Sullivan (R)', party:'R', rating:'lean-r',  label:'Lean R' },
+    { state:'NC', incumbent:'Thom Tillis (R空席)', party:'R', rating:'lean-d',  label:'Lean D' },
+    { state:'AK', incumbent:'Dan Sullivan (R)', party:'R', rating:'toss',  label:'接戦' },
     { state:'MT', incumbent:'Steve Daines (R)', party:'R', rating:'safe-r',  label:'Safe R' },
     { state:'GA', incumbent:'Jon Ossoff (D)', party:'D', rating:'lean-d',  label:'Lean D' },
-    { state:'ME', incumbent:'Susan Collins (R)', party:'R', rating:'lean-r',  label:'Lean R' },
+    { state:'ME', incumbent:'Susan Collins (R)', party:'R', rating:'likely-r',  label:'Likely R' },
     { state:'NH', incumbent:'Jeanne Shaheen (D空席)', party:'D', rating:'likely-d', label:'Likely D' },
     { state:'VA', incumbent:'Mark Warner (D)', party:'D', rating:'likely-d', label:'Likely D' },
     { state:'TX', incumbent:'Ken Paxton (R)', party:'R', rating:'toss',  label:'接戦' },
@@ -350,7 +350,7 @@ const keyRaces = {
     { state:'TX-28', incumbent:'(D)', party:'D', rating:'lean-d', label:'Lean D' },
   ],
   governor: [
-    { state:'FL', incumbent:'Ron DeSantis (R, 任期終)', party:'R', rating:'safe-r', label:'Safe R' },
+    { state:'FL', incumbent:'Ron DeSantis (R, 任期終)', party:'R', rating:'lean-r', label:'Lean R' },
     { state:'TX', incumbent:'Greg Abbott (R)', party:'R', rating:'safe-r', label:'Safe R' },
     { state:'IL', incumbent:'JB Pritzker (D)', party:'D', rating:'safe-d', label:'Safe D' },
     { state:'NY', incumbent:'Kathy Hochul (D)', party:'D', rating:'likely-d', label:'Likely D' },
@@ -1107,20 +1107,26 @@ ${_seatsTable([
   ['リサ・マーコウスキー','R','var(--rep)','2028年（2022年に再選）',false],
 ])}
 <hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
-${_sched([['2026年8月18日','予備選（順位選択・全候補一括）','future'],['2026年11月3日','本選（順位選択投票）','future']])}
-<h4 style="margin:0 0 8px;font-size:13px;">主な候補者</h4>
+${_sched([['2026年8月18日','予備選（順位選択・全候補一括）','終了'],['2026年11月3日','本選（順位選択投票）','future']])}
+<h4 style="margin:0 0 6px;font-size:13px;">注目点</h4>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;">総合予備選で民主党のメアリー・ペルトラ元下院議員が49.5%を得てサリバン現職（41.4%）を上回る番狂わせ。本選には共和党から現職サリバンと同姓同名の別候補「ダン・サリバン」も進出し、有権者の混同を招く異例の展開に。全国屈指の接戦州として上院支配権を左右しうる。</p>
+<h4 style="margin:0 0 8px;font-size:13px;">本選進出者（上位4名・順位選択投票）</h4>
 <table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
   <thead><tr style="background:var(--surface-2);">
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ダン・サリバン（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">海兵隊退役・3期目を目指す</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">民主党・無所属候補</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">8月の順位選択予備選で上位4名が本選へ</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">メアリー・ペルトラ</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元連邦下院議員・予備選トップ通過（49.5%）</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ダン・S・サリバン（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">海兵隊退役・3期目を目指す（41.4%）</td></tr>
+    <tr><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ダン・J・サリバン（別候補・ピーターズバーグ）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">現職と同姓同名で本選進出</td></tr>
+    <tr><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジェラルド・ハイクス</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">民主党4位候補の撤退で繰り上げ進出</td></tr>
   </tbody>
 </table>
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査</h4>
+${_pollTable([['メアリー・ペルトラ（民主）','D','var(--dem)','50.8〜51%'],['ダン・S・サリバン（共和・現職）','R','var(--rep)','49〜49.2%']],'※ Alaska Survey Research調査（8/5、順位選択最終ラウンド想定）。誤差内の事実上の同点。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏（Safe R）</strong><br>アラスカは共和党優位の州。サリバン現職に加え、アラスカは2022年から順位選択投票（RCV）を採用。8月の総合予備選で上位4名が11月本選に進む。サリバン再選はほぼ確実な情勢。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up）</strong><br>アラスカは伝統的に共和党優位の州だが、ペルトラは知名度と過去の州全体での当選歴を武器に善戦。同姓同名の共和党候補が本選に加わったことで一部有権者の混乱・票の分散が懸念され、共和党陣営に不利に働く可能性が指摘される。順位選択投票の集計次第で結果が変わりうる全国最注目レースの一つに浮上。</p>
 </div>`,
 
     MT: () => `
