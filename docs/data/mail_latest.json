@@ -1,116 +1,202 @@
 {
-  "generated_at": "2026-09-01 09:16 JST",
+  "generated_at": "2026-09-02 13:21 JST",
   "sender_count": 4,
-  "total_mails": 11,
+  "total_mails": 26,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 3,
+      "count": 14,
       "bullets": [
-        "ヨーロッパの政治動向、イラン情勢、米メキシコ貿易に関する3つのコンファレンスコール開催",
-        "ヨーロッパではフランス、英国、スペイン、イタリア、ドイツ、ハンガリー、ポーランドの2027年選挙見通しおよびロシア・ウクライナ戦争の最新動向が議題",
-        "中東ではイラン戦争の影響と地域紛争拡大の可能性について討論",
-        "米メキシコ間ではUSMCA見通しと自動車、重要鉱物、農業などの主要産業への影響が分析対象",
-        "すべてのコンファレンスコールで事前質問提出またはQ&Aセッションでの質問が可能"
+        "米中関係は2031年までの段階的な経済分離が基本シナリオで、制限は増加するも深刻なエスカレーションは回避の見通し",
+        "米国によるシリアのテロ支援国家指定解除により、国際援助と金融取引が円滑化し、復興財政が促進",
+        "中東の米イラン対立は2026年末まで膠着状態が継続し、ホルムズ海峡の石油流量増加にもかかわらず原油価格は1バレル75～95ドルの高水準維持",
+        "米加貿易戦争は9月以降の報復関税エスカレーションによる継続と中間選挙までの長期化"
       ],
       "subjects": [
         [
           "2026-08-31",
-          "Europe macro update - EG Conference Call, REMINDER",
-          "data/pdfs/20260831_2102_Europe_macro_update_-_EG_Conference_Call,_REMINDER.pdf"
+          "US-China likely to continue managed decoupling",
+          "data/pdfs/20260831_2149_US-China_likely_to_continue_managed_decoupling.pdf"
         ],
         [
-          "2026-08-31",
+          "2026-09-01",
+          "Syria’s terror de-listing will boost reconstruction",
+          "data/pdfs/20260901_0015_Syria’s_terror_de-listing_will_boost_reconstructio.pdf"
+        ],
+        [
+          "2026-09-01",
+          "Middle East standoff will keep crude prices higher",
+          "data/pdfs/20260901_0023_Middle_East_standoff_will_keep_crude_prices_higher.pdf"
+        ],
+        [
+          "2026-09-01",
+          "Standoff now likely to run through 2026",
+          "data/pdfs/20260901_0416_Standoff_now_likely_to_run_through_2026.pdf"
+        ],
+        [
+          "2026-09-01",
+          "MENA Crisis Update",
+          "data/pdfs/20260901_1053_MENA_Crisis_Update_「中東危機に関する最新アップデート」（同時通訳なし）.pdf"
+        ],
+        [
+          "2026-09-01",
+          "MENA Crisis Update",
+          "data/pdfs/20260901_1059_MENA_Crisis_Update.pdf"
+        ],
+        [
+          "2026-09-01",
+          "Intensifying Saudi-Houthi conflict still likely to fall short of all-out",
+          "data/pdfs/20260901_1755_Intensifying_Saudi-Houthi_conflict_still_likely_to.pdf"
+        ],
+        [
+          "2026-09-01",
+          "Venezuela's oil deal eases elections pressure",
+          "data/pdfs/20260901_2137_Venezuela's_oil_deal_eases_elections_pressure.pdf"
+        ],
+        [
+          "2026-09-01",
+          "Tumultuous fall ahead for Merz government",
+          "data/pdfs/20260901_2230_Tumultuous_fall_ahead_for_Merz_government.pdf"
+        ],
+        [
+          "2026-09-02",
+          "US: Driscoll first casualty of 2028 GOP jockeying",
+          "data/pdfs/20260902_0117_US__Driscoll_first_casualty_of_2028_GOP_jockeying.pdf"
+        ],
+        [
+          "2026-09-02",
+          "BRICS Summit",
+          "data/pdfs/20260902_0445_BRICS_Summit.pdf"
+        ],
+        [
+          "2026-09-02",
+          "eg update in Japanese",
+          "data/pdfs/20260902_0801_eg_update_in_Japanese.pdf"
+        ],
+        [
+          "2026-09-02",
+          "MENA Crisis Update",
+          "data/pdfs/20260902_0901_MENA_Crisis_Update_「中東危機に関する最新アップデート」（同時通訳なし）_-_EG.pdf"
+        ],
+        [
+          "2026-09-02",
           "MENA Crisis Update - EG Conference Call, REMINDER",
-          "data/pdfs/20260831_2102_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf"
-        ],
-        [
-          "2026-08-31",
-          "US-Mexico trade after the Canada standoff - EG Conference Call,",
-          "data/pdfs/20260831_2102_US-Mexico_trade_after_the_Canada_standoff_-_EG_Con.pdf"
+          "data/pdfs/20260902_0903_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260831_2102_Europe_macro_update_-_EG_Conference_Call,_REMINDER.pdf",
-        "data/pdfs/20260831_2102_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf",
-        "data/pdfs/20260831_2102_US-Mexico_trade_after_the_Canada_standoff_-_EG_Con.pdf"
+        "data/pdfs/20260831_2149_US-China_likely_to_continue_managed_decoupling.pdf",
+        "data/pdfs/20260901_0015_Syria’s_terror_de-listing_will_boost_reconstructio.pdf",
+        "data/pdfs/20260901_0023_Middle_East_standoff_will_keep_crude_prices_higher.pdf",
+        "data/pdfs/20260901_0416_Standoff_now_likely_to_run_through_2026.pdf",
+        "data/pdfs/20260901_1053_MENA_Crisis_Update_「中東危機に関する最新アップデート」（同時通訳なし）.pdf",
+        "data/pdfs/20260901_1059_MENA_Crisis_Update.pdf",
+        "data/pdfs/20260901_1755_Intensifying_Saudi-Houthi_conflict_still_likely_to.pdf",
+        "data/pdfs/20260901_2137_Venezuela's_oil_deal_eases_elections_pressure.pdf",
+        "data/pdfs/20260901_2230_Tumultuous_fall_ahead_for_Merz_government.pdf",
+        "data/pdfs/20260902_0117_US__Driscoll_first_casualty_of_2028_GOP_jockeying.pdf",
+        "data/pdfs/20260902_0445_BRICS_Summit.pdf",
+        "data/pdfs/20260902_0801_eg_update_in_Japanese.pdf",
+        "data/pdfs/20260902_0901_MENA_Crisis_Update_「中東危機に関する最新アップデート」（同時通訳なし）_-_EG.pdf",
+        "data/pdfs/20260902_0903_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf"
+      ]
+    },
+    {
+      "sender": "Eurasia",
+      "short": "EURAS",
+      "color": "YEL",
+      "count": 1,
+      "bullets": [
+        "米国とイランの対立が長期化し、ブレント原油価格は1バレル75～95ドルの範囲での推移が見込まれる見通し"
+      ],
+      "subjects": [
+        [
+          "2026-09-01",
+          "Daily Research Summary - Aug 31st, 2026",
+          "data/pdfs/20260901_0834_Daily_Research_Summary_-_Aug_31st,_2026.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260901_0834_Daily_Research_Summary_-_Aug_31st,_2026.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "YEL",
-      "count": 6,
-      "bullets": [
-        "中国がEU企業への貿易制限を段階的に強化する可能性を示唆し、今後の報復がより深刻な影響をもたらす懸念。",
-        "中国がIMO脱炭素化枠組みについて具体的提案を提示し、船舶の温室効果ガス削減計算方法を拡大する柔軟なアプローチを主張。",
-        "EU、米国、サウジアラビア、ロシアなど利害関係者間で気候変動政策や産業政策について対立。",
-        "フォン・デア・ライエン欧州委員長が任期3年を残す中、産業振興、ルール防衛、安全保障強化、ウクライナ支援などの重要課題に直面。",
-        "アイスランドのEU加盟交渉再開否決がEUの国際的な求心力を示すうえでの大きな挫折。"
-      ],
-      "subjects": [
-        [
-          "2026-08-31",
-          "China’s latest curbs on EU firms look symbolic. That could change.",
-          "data/pdfs/20260831_1301_China’s_latest_curbs_on_EU_firms_look_symbolic._Th.pdf"
-        ],
-        [
-          "2026-08-31",
-          "China shows its IMO hand",
-          "data/pdfs/20260831_1408_China_shows_its_IMO_hand.pdf"
-        ],
-        [
-          "2026-08-31",
-          "Paris and Berlin’s plan to fix EU foreign policy",
-          "data/pdfs/20260831_1408_Paris_and_Berlin’s_plan_to_fix_EU_foreign_policy.pdf"
-        ],
-        [
-          "2026-08-31",
-          "6 issues that will shape Ursula von der Leyen’s legacy",
-          "data/pdfs/20260831_1635_6_issues_that_will_shape_Ursula_von_der_Leyen’s_le.pdf"
-        ],
-        [
-          "2026-08-31",
-          "How Greeks conquered the Brussels coffee bubble",
-          "data/pdfs/20260831_1736_How_Greeks_conquered_the_Brussels_coffee_bubble.pdf"
-        ],
-        [
-          "2026-08-31",
-          "The Trump-shaped problems awaiting Andy Burnham, ranked",
-          "data/pdfs/20260831_1906_The_Trump-shaped_problems_awaiting_Andy_Burnham,_r.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260831_1301_China’s_latest_curbs_on_EU_firms_look_symbolic._Th.pdf",
-        "data/pdfs/20260831_1408_China_shows_its_IMO_hand.pdf",
-        "data/pdfs/20260831_1408_Paris_and_Berlin’s_plan_to_fix_EU_foreign_policy.pdf",
-        "data/pdfs/20260831_1635_6_issues_that_will_shape_Ursula_von_der_Leyen’s_le.pdf",
-        "data/pdfs/20260831_1736_How_Greeks_conquered_the_Brussels_coffee_bubble.pdf",
-        "data/pdfs/20260831_1906_The_Trump-shaped_problems_awaiting_Andy_Burnham,_r.pdf"
-      ]
-    },
-    {
-      "sender": "Risa",
-      "short": "RISA",
       "color": "RED",
-      "count": 1,
+      "count": 10,
       "bullets": [
-        "Eurasia Groupのラテンアメリカ部門責任者のRisaが今週のゲスト執筆を担当",
-        "「Donroe Doctrine」がトップリスク第3位に位置し、米国のラテンアメリカ政策が投資家にとって重要性を増加",
-        "過去20年間で米国がこれほど積極的に半球地域に関与する行政府は存在しないこと",
-        "中間選挙後も米国のラテンアメリカへの関与継続の可能性"
+        "ドイツの極右政党AfDが東部小州での統治を足がかりに、国政進出を目指す動き",
+        "米国とイランが約1ヶ月ぶりに軍事衝突を再開し、トランプ大統領がさらなる報復を予告",
+        "中国のEU企業への制裁措置は現在は限定的だが、今後サプライチェーン制御の武器化が懸念",
+        "EU欧州委員会が中国の対EU輸出削減を促すための協議を検討、貿易赤字削減の方針",
+        "ウクライナに関連する新たな欧州危機が浮上"
       ],
       "subjects": [
         [
-          "2026-08-31",
-          "EG Update",
-          "data/pdfs/20260831_2052_EG_Update.pdf"
+          "2026-09-01",
+          "Germany’s far right eyes small eastern state as springboard to",
+          "data/pdfs/20260901_0011_Germany’s_far_right_eyes_small_eastern_state_as_sp.pdf"
+        ],
+        [
+          "2026-09-01",
+          "Pro Daily Headlines",
+          "data/pdfs/20260901_0031_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-09-01",
+          "Trump promises more strikes after US and Iran trade blows for",
+          "data/pdfs/20260901_0233_Trump_promises_more_strikes_after_US_and_Iran_trad.pdf"
+        ],
+        [
+          "2026-09-01",
+          "EU wants to convince China to curb exports to the bloc",
+          "data/pdfs/20260901_0313_EU_wants_to_convince_China_to_curb_exports_to_the_.pdf"
+        ],
+        [
+          "2026-09-01",
+          "Europe’s new Ukraine crisis",
+          "data/pdfs/20260901_1349_Europe’s_new_Ukraine_crisis.pdf"
+        ],
+        [
+          "2026-09-01",
+          "IMO pick-your-emissions plan week begins",
+          "data/pdfs/20260901_1402_IMO_pick-your-emissions_plan_week_begins.pdf"
+        ],
+        [
+          "2026-09-01",
+          "Ireland bids to break EU budget deadlock as warring governments",
+          "data/pdfs/20260901_1636_Ireland_bids_to_break_EU_budget_deadlock_as_warrin.pdf"
+        ],
+        [
+          "2026-09-01",
+          "Marine Le Pen’s risky economic gamble",
+          "data/pdfs/20260901_1736_Marine_Le_Pen’s_risky_economic_gamble.pdf"
+        ],
+        [
+          "2026-09-02",
+          "Pro Daily Headlines",
+          "data/pdfs/20260902_0031_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-09-02",
+          "Germany blames Russia for drone incursion, announces retaliatory",
+          "data/pdfs/20260902_0100_Germany_blames_Russia_for_drone_incursion,_announc.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260831_2052_EG_Update.pdf"
+        "data/pdfs/20260901_0011_Germany’s_far_right_eyes_small_eastern_state_as_sp.pdf",
+        "data/pdfs/20260901_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260901_0233_Trump_promises_more_strikes_after_US_and_Iran_trad.pdf",
+        "data/pdfs/20260901_0313_EU_wants_to_convince_China_to_curb_exports_to_the_.pdf",
+        "data/pdfs/20260901_1349_Europe’s_new_Ukraine_crisis.pdf",
+        "data/pdfs/20260901_1402_IMO_pick-your-emissions_plan_week_begins.pdf",
+        "data/pdfs/20260901_1636_Ireland_bids_to_break_EU_budget_deadlock_as_warrin.pdf",
+        "data/pdfs/20260901_1736_Marine_Le_Pen’s_risky_economic_gamble.pdf",
+        "data/pdfs/20260902_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260902_0100_Germany_blames_Russia_for_drone_incursion,_announc.pdf"
       ]
     },
     {
@@ -119,21 +205,22 @@
       "color": "ORG",
       "count": 1,
       "bullets": [
-        "北京市がAI・ロボットなどデジタル産業の海外展開を中心に企業の海外進出を支援",
-        "香港が職場熱ストレス警告システムの発令基準を最適化",
-        "韓国銀行が2026年の成長率予測を3.3％に上方修正、半導体景気の改善を反映",
-        "シンガポール・ベトナム戦略対話が初開催、両国の連携強化",
-        "マレーシアの第2四半期GDP成長率が前年同期比6.0％で輸出の拡大を実現"
+        "スウェーデン系アトラスコプコが中国大連市に新工場を建設",
+        "浙江省がサービス型製造イノベーション発展深化アクションプランを発表",
+        "上海市が住宅購入負担軽減策を導入し、需要喚起と市場の安定的発展を推進",
+        "吉林省4市が国家水素実証事業に参画し、長江デルタとの需給連携を目指す",
+        "香港運輸署がAI活用の高度化計画を発表し、ライセンス承認と交通信号を効率化",
+        "マカオにコンテンツカフェがオープンし、日本のアーティストとIPの発信拠点に"
       ],
       "subjects": [
         [
-          "2026-08-31",
-          "「ジェトロ・ビジネス短信」2026/08/31",
-          "data/pdfs/20260831_1827_「ジェトロ・ビジネス短信」2026_08_31.pdf"
+          "2026-09-01",
+          "「ジェトロ・ビジネス短信」2026/09/01",
+          "data/pdfs/20260901_1806_「ジェトロ・ビジネス短信」2026_09_01.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260831_1827_「ジェトロ・ビジネス短信」2026_08_31.pdf"
+        "data/pdfs/20260901_1806_「ジェトロ・ビジネス短信」2026_09_01.pdf"
       ]
     }
   ]
