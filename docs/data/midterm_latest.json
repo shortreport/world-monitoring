@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-25T14:24:15.007948+09:00",
-  "article_count": 41,
+  "generated_at": "2026-09-02T09:36:25.481549+09:00",
+  "article_count": 42,
   "projections": {
     "senate": {
-      "r": 51,
-      "d": 47,
+      "r": 50,
+      "d": 48,
       "tossup": 2
     },
     "house": {
-      "r": 215,
-      "d": 185,
+      "r": 210,
+      "d": 190,
       "tossup": 35
     },
     "governor": {
@@ -19,121 +19,111 @@
     }
   },
   "key_developments": [
-    "Iowa and Texas Senate races shifted to toss-up status, expanding Democrats' path to Senate control as Trump economy concerns affect rural voters.",
-    "Progressive Abdul El-Sayed narrowly won Michigan Democratic Senate primary over centrist Haley Stevens, setting up general election against Republican Mike Rogers in key battleground.",
-    "Wisconsin gubernatorial race emerging as competitive, with Democrat David Crowley holding narrow lead over Republican Tom Tiffany in post-primary polling.",
-    "Democratic turnout appears strong heading into November despite internal party divisions, contradicting historical patterns of midterm fatigue.",
-    "Trump's primary victories over incumbents including Cornyn and Cassidy may create general election vulnerabilities in competitive districts."
+    "Democrats increasingly optimistic about recapturing Senate majority, with competitive races in Alaska, Iowa, Kansas, Ohio, and Texas—states Trump won by double digits in 2024.",
+    "Data center development and AI regulation emerge as major midterm issues, with Trump's support for data centers conflicting with Republican candidates' efforts to distance themselves from the issue in battleground races.",
+    "Trump's aggressive primary endorsements have unseated multiple GOP incumbents, but those Trump-backed candidates are underperforming in general election matchups, creating vulnerability for Republicans.",
+    "Michigan's 50-plus voters and older demographics in swing states show less loyalty to Republicans, with polls indicating El Sayed narrowly leads Rogers despite Democratic weakness nationally.",
+    "Texas Senate race unexpectedly competitive, with Democrat James Talarico leading Republican Ken Paxton in multiple polls, raising questions about Republican dominance in the state."
   ],
   "key_races": {
     "senate": [
       {
+        "state": "TX",
+        "incumbent": "Ken Paxton (R)",
+        "party": "D",
+        "rating": "toss",
+        "label": "TX Senate: Talarico (D) vs. Paxton (R)",
+        "note": "Democrat James Talarico has led Paxton in multiple polls; Texas hasn't elected a Democrat to Senate in nearly four decades but GOP insiders acknowledge the streak is in trouble."
+      },
+      {
         "state": "MI",
         "incumbent": "Mike Rogers (R)",
-        "party": "R",
-        "rating": "tossup",
-        "label": "Michigan Senate",
-        "note": "Abdul El-Sayed (D) leads Rogers 48-47 per AARP poll but struggles with voters 50+ in this deadlocked race."
+        "party": "D",
+        "rating": "toss",
+        "label": "MI Senate: El Sayed (D) vs. Rogers (R)",
+        "note": "Abdul El Sayed narrowly leads Rogers 48-47 in AARP poll, but struggles with voters 50 and older, a key swing demographic."
       },
       {
         "state": "IA",
-        "incumbent": "Chuck Grassley (R)",
-        "party": "R",
-        "rating": "tossup",
-        "label": "Iowa Senate",
-        "note": "Race increasingly competitive as Trump economy hurts agricultural voters; shifted from solid Republican to toss-up."
+        "incumbent": null,
+        "party": "D",
+        "rating": "toss",
+        "label": "IA Senate: Open Seat",
+        "note": "Democrats testing whether Iowa is still a swing state; cancer and healthcare among top issues for voters alongside general Trump midterm concerns."
       },
       {
-        "state": "TX",
-        "incumbent": "Ted Cruz (R)",
-        "party": "R",
-        "rating": "lean-r",
-        "label": "Texas Senate",
-        "note": "Cook Political Report downgraded race from safe to toss-up, representing significant Democratic opportunity in Trump stronghold."
-      },
-      {
-        "state": "GA",
-        "incumbent": "Jon Ossoff (D)",
+        "state": "OH",
+        "incumbent": null,
         "party": "D",
         "rating": "lean-d",
-        "label": "Georgia Senate",
-        "note": "Democrats defending Trump-won state but within striking distance; part of critical battleground holding pattern."
+        "label": "OH Senate: Open Seat",
+        "note": "Democrats mounting competitive campaign in state Trump won by double digits; transgender athlete policy dividing Democratic messaging approach."
+      },
+      {
+        "state": "KS",
+        "incumbent": null,
+        "party": "D",
+        "rating": "lean-d",
+        "label": "KS Senate: Open Seat",
+        "note": "Democrats competitive in state Trump won by double digits in 2024."
+      },
+      {
+        "state": "AK",
+        "incumbent": null,
+        "party": "D",
+        "rating": "lean-d",
+        "label": "AK Senate: Open Seat",
+        "note": "Democrats mounting competitive campaign in state Trump won by double digits."
       }
     ],
     "house": [
       {
-        "state": "WI-03",
-        "incumbent": "Tom Tiffany (R)",
-        "party": "R",
-        "rating": "tossup",
-        "label": "Wisconsin 3rd District",
-        "note": "David Crowley holds narrow Democratic lead in first post-primary poll of this competitive House race."
+        "state": "PA-07",
+        "incumbent": null,
+        "party": "D",
+        "rating": "toss",
+        "label": "PA-07: Cognetti (D) vs. Republican",
+        "note": "Democrat Paige Cognetti invoking state's industrial past against corporate interests, with AI and data centers emerging as central campaign issues."
       },
       {
-        "state": "OH-13",
-        "incumbent": "Max Miller (R)",
-        "party": "R",
-        "rating": "lean-r",
-        "label": "Ohio 13th District",
-        "note": "Cook Political Report downgraded from Solid Republican to Likely Republican, indicating Democratic competitiveness."
-      },
-      {
-        "state": "CO-03",
-        "incumbent": "Lauren Boebert (R)",
-        "party": "R",
-        "rating": "lean-r",
-        "label": "Colorado 3rd District",
-        "note": "Shifted from Solid Republican to Likely Republican per Cook ratings, showing erosion of GOP advantage."
-      },
-      {
-        "state": "OH-16",
-        "incumbent": "Unknown (R)",
-        "party": "R",
-        "rating": "lean-r",
-        "label": "Ohio 16th District",
-        "note": "Second Ohio district downgraded from Solid to Likely Republican in recent Cook Political Report update."
+        "state": "WI-GOV",
+        "incumbent": "Tony Evers (D)",
+        "party": "D",
+        "rating": "toss",
+        "label": "WI Governor: Crowley (D) vs. Tiffany (R)",
+        "note": "Democrat David Crowley holds narrow lead over Trump-endorsed Republican Tom Tiffany in first post-primary poll; positioned as one of most competitive 2026 races."
       }
     ],
     "governor": [
       {
         "state": "WI",
-        "incumbent": "Tom Tiffany (R)",
-        "party": "R",
-        "rating": "tossup",
-        "label": "Wisconsin Governor",
-        "note": "Democrat David Crowley holds narrow lead over Republican Tom Tiffany; poised to be one of most competitive gubernatorial races."
-      },
-      {
-        "state": "NY",
-        "incumbent": "Kathy Hochul (D)",
+        "incumbent": "Tony Evers (D)",
         "party": "D",
-        "rating": "lean-d",
-        "label": "New York Governor",
-        "note": "Republican Bruce Blakeman surging in latest Siena poll, gaining ground on Democratic incumbent in traditionally blue state."
+        "rating": "toss",
+        "label": "WI Governor: Crowley (D) vs. Tiffany (R)",
+        "note": "Democrat David Crowley holds narrow lead over Trump-endorsed Republican Tom Tiffany; one of most competitive gubernatorial contests in 2026."
       },
       {
-        "state": "MI",
-        "incumbent": "Gretchen Whitmer (D)",
+        "state": "TX",
+        "incumbent": "Greg Abbott (R)",
+        "party": "R",
+        "rating": "likely-r",
+        "label": "TX Governor: Abbott (R) vs. Hinojosa (D)",
+        "note": "Greg Abbott's lead over Democrat Gina Hinojosa grew in latest poll, contrasting with competitive Senate race in state."
+      },
+      {
+        "state": "MD",
+        "incumbent": "Wes Moore (D)",
         "party": "D",
         "rating": "likely-d",
-        "label": "Michigan Governor",
-        "note": "Democratic incumbent running in competitive midterm battleground state."
+        "label": "MD Governor: Moore (D) Reelection",
+        "note": "Gov. Wes Moore running for reelection and leading Democratic initiative to elect more Black governors nationwide; rumored 2028 presidential contender."
       }
     ]
   },
   "upcoming_schedule": {
     "senate": [
       {
-        "date": "Aug 25",
-        "state": "Oklahoma (OK)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 01",
-        "state": "Massachusetts (MA)",
-        "event": "Primary Election"
-      },
-      {
         "date": "Sep 08",
         "state": "Delaware (DE)",
         "event": "Primary Election"
@@ -171,16 +161,6 @@
     ],
     "house": [
       {
-        "date": "Aug 25",
-        "state": "Oklahoma (OK)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 01",
-        "state": "Massachusetts (MA)",
-        "event": "Primary Election"
-      },
-      {
         "date": "Sep 08",
         "state": "Delaware (DE)",
         "event": "Primary Election"
@@ -217,16 +197,6 @@
       }
     ],
     "governor": [
-      {
-        "date": "Aug 25",
-        "state": "Oklahoma (OK)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 01",
-        "state": "Massachusetts (MA)",
-        "event": "Primary Election"
-      },
       {
         "date": "Sep 08",
         "state": "Delaware (DE)",
