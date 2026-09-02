@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-02 13:22 JST",
+  "updated_at": "2026-09-02 13:39 JST",
   "total": 50,
-  "toyota_summary": "大众汽车工会正准备就管理层的成本削减计划展开斗争，这预示着劳资关系将再度紧张，可能扰乱生产计划，并在欧洲汽车制造商面临严峻竞争和监管环境之际，进一步加大成本压力。\n\n（国际海事组织航运排放谈判仅供参考。）",
+  "toyota_summary": "フォルクスワーゲンの労働組合は、経営陣が打ち出したコスト削減計画への抵抗姿勢を強めつつある。欧州最大の自動車メーカーが利益率の圧迫にあえぐ中、社内の緊張は一段と高まっている。この対立は、欧州の自動車政策および産業政策をめぐる、より広範な議論にも波及しかねない。\n\nなお、IMO（国際海事機関）における船舶排出規制交渉については参考情報として付記する。",
   "emails": [
     {
       "ts": "20260902_0903",
@@ -142,7 +142,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Bulletin\" 2026/09/01",
+      "subject_en": "\"JETRO Business Brief\" 2026/09/01",
       "html": "data/pdfs/20260901_1806_「ジェトロ・ビジネス短信」2026_09_01.html",
       "summary_en": "",
       "summary_ja": "",
@@ -437,7 +437,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/08/31",
+      "subject_en": "JETRO Business Brief 2026/08/31",
       "html": "data/pdfs/20260831_1827_「ジェトロ・ビジネス短信」2026_08_31.html",
       "summary_en": "",
       "summary_ja": "",
@@ -739,5 +739,5 @@
       "excerpt": ""
     }
   ],
-  "toyota_summary_en": "Volkswagen's labor union is gearing up to fight management's cost-cutting plans, signaling renewed labor tension that could disrupt production plans and add cost pressure just as European automakers face tough competitive and regulatory conditions.\n\nIMO shipping emissions talks are provided for reference."
+  "toyota_summary_en": "Volkswagen's labor union is preparing to resist management's cost-cutting plans, escalating tension inside Europe's largest automaker as it fights margin pressure. The dispute could ripple into broader European auto and industrial policy debates.\n\nIMO shipping emissions talks are provided for reference."
 }
