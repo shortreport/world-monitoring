@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>US Midterms | World News</title>
   <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js">/* KEY DEVELOPMENTS
-   - Iowa and Texas Senate races shifted to toss-up status, expanding Democrats' path to Senate control as Trump economy concerns affect rural voters.
-   - Progressive Abdul El-Sayed narrowly won Michigan Democratic Senate primary over centrist Haley Stevens, setting up general election against Republican Mike Rogers in key battleground.
-   - Wisconsin gubernatorial race emerging as competitive, with Democrat David Crowley holding narrow lead over Republican Tom Tiffany in post-primary polling.
-   - Democratic turnout appears strong heading into November despite internal party divisions, contradicting historical patterns of midterm fatigue.
-   - Trump's primary victories over incumbents including Cornyn and Cassidy may create general election vulnerabilities in competitive districts.
+   - Democrats increasingly optimistic about recapturing Senate majority, with competitive races in Alaska, Iowa, Kansas, Ohio, and Texas—states Trump won by double digits in 2024.
+   - Data center development and AI regulation emerge as major midterm issues, with Trump's support for data centers conflicting with Republican candidates' efforts to distance themselves from the issue in battleground races.
+   - Trump's aggressive primary endorsements have unseated multiple GOP incumbents, but those Trump-backed candidates are underperforming in general election matchups, creating vulnerability for Republicans.
+   - Michigan's 50-plus voters and older demographics in swing states show less loyalty to Republicans, with polls indicating El Sayed narrowly leads Rogers despite Democratic weakness nationally.
+   - Texas Senate race unexpectedly competitive, with Democrat James Talarico leading Republican Ken Paxton in multiple polls, raising questions about Republican dominance in the state.
 */
 </script>
   <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
@@ -135,9 +135,9 @@
 
 <header class="site-header">
   <div class="logo" onclick="location.href='index.html'">World<em>News</em></div>
-  <div class="header-date">Tuesday</div>
+  <div class="header-date">Wednesday</div>
   <div class="header-spacer"></div>
-  <div class="update-time">Updated: 2026-09-01 JST</div>
+  <div class="update-time">Updated: 2026-09-02 JST</div>
   <div class="lang-toggle">
     <a href="../jp/midterm.html">JP</a>
     <a href="midterm.html" class="active">EN</a>
@@ -241,7 +241,7 @@
 </div>
 
 <footer class="site-footer">
-  Data: Cook Political Report / 270toWin &nbsp;|&nbsp; Updated: 2026-09-01
+  Data: Cook Political Report / 270toWin &nbsp;|&nbsp; Updated: 2026-09-02
 </footer>
 
 <script>
@@ -342,14 +342,12 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
-    { state:'OH', incumbent:'Brown (D) vs Husted (R)', party:'R', rating:'toss', label:'Toss-up (special)' },
-    { state:'MI', incumbent:'El-Sayed (D) vs Rogers (R)', party:'D', rating:'toss',    label:'Toss-up' },
-    { state:'GA', incumbent:'Ossoff (D) vs Collins (R)', party:'D', rating:'toss',    label:'Toss-up' },
-    { state:'TX', incumbent:'Paxton (R) vs Talarico (D)', party:'R', rating:'toss',    label:'Toss-up' },
-    { state:'IA', incumbent:'Hinson (R) vs Turek (D)', party:'R', rating:'toss',    label:'Toss-up (open)' },
-    { state:'NH', incumbent:'Open — Sununu/Brown (R) vs Pappas (D)', party:'D', rating:'toss', label:'Toss-up (open)' },
-    { state:'VA', incumbent:'Warner (D) vs Mizusawa (R)', party:'D', rating:'lean-d',  label:'Lean D' },
-    { state:'MT', incumbent:'Alme (R) vs Bankhead (D)', party:'R', rating:'likely-r', label:'Likely R' },
+    { state: "TX", incumbent: "Ken Paxton (R)", party: "D", rating: "toss", label: "TX Senate: Talarico (D) vs. Paxton (R)" },
+    { state: "MI", incumbent: "Mike Rogers (R)", party: "D", rating: "toss", label: "MI Senate: El Sayed (D) vs. Rogers (R)" },
+    { state: "IA", incumbent: null, party: "D", rating: "toss", label: "IA Senate: Open Seat" },
+    { state: "OH", incumbent: null, party: "D", rating: "lean-d", label: "OH Senate: Open Seat" },
+    { state: "KS", incumbent: null, party: "D", rating: "lean-d", label: "KS Senate: Open Seat" },
+    { state: "AK", incumbent: null, party: "D", rating: "lean-d", label: "AK Senate: Open Seat" },
   ],
   house: [
     { state:'NY-3', incumbent:'(Open)', party:'D', rating:'toss', label:'Toss-up' },
@@ -381,8 +379,8 @@ const seatCounts = {
 
 // 2026 predictions (rough)
 const predictions = {
-  senate:   { r:51, d:47, toss:2, total:100 },
-  house:    { r:215, d:185, toss:35, total:435 },
+  senate:   { r:50, d:48, toss:2, total:100 },
+  house:    { r:210, d:190, toss:35, total:435 },
   governor: { r:22, d:14, toss:0, total:50 },
 };
 
@@ -4287,12 +4285,10 @@ function drawRaces() {
 }
 
 /* =====================================================
-   UPCOMING SCHEDULE (next 8 weeks from 2026-09-01 → 2026-10-27)
+   UPCOMING SCHEDULE (next 8 weeks from 2026-09-02 → 2026-10-28)
    ===================================================== */
 const upcomingSchedules = {
   senate: [
-    { date: "Aug 25", state: "Oklahoma (OK)", event: "Primary Election" },
-    { date: "Sep 01", state: "Massachusetts (MA)", event: "Primary Election" },
     { date: "Sep 08", state: "Delaware (DE)", event: "Primary Election" },
     { date: "Sep 08", state: "New Hampshire (NH)", event: "Primary Election" },
     { date: "Sep 08", state: "Rhode Island (RI)", event: "Primary Election" },
@@ -4302,8 +4298,6 @@ const upcomingSchedules = {
     { date: "Sep 29", state: "Louisiana (LA)", event: "Jungle Primary" },
   ],
   house: [
-    { date: "Aug 25", state: "Oklahoma (OK)", event: "Primary Election" },
-    { date: "Sep 01", state: "Massachusetts (MA)", event: "Primary Election" },
     { date: "Sep 08", state: "Delaware (DE)", event: "Primary Election" },
     { date: "Sep 08", state: "New Hampshire (NH)", event: "Primary Election" },
     { date: "Sep 08", state: "Rhode Island (RI)", event: "Primary Election" },
@@ -4313,8 +4307,6 @@ const upcomingSchedules = {
     { date: "Sep 29", state: "Louisiana (LA)", event: "Jungle Primary" },
   ],
   governor: [
-    { date: "Aug 25", state: "Oklahoma (OK)", event: "Primary Election" },
-    { date: "Sep 01", state: "Massachusetts (MA)", event: "Primary Election" },
     { date: "Sep 08", state: "Delaware (DE)", event: "Primary Election" },
     { date: "Sep 08", state: "New Hampshire (NH)", event: "Primary Election" },
     { date: "Sep 08", state: "Rhode Island (RI)", event: "Primary Election" },

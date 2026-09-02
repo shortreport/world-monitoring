@@ -131,9 +131,9 @@
 
 <header class="site-header">
   <div class="logo" onclick="location.href='index.html'" title="ホームへ">World<em>News</em></div>
-  <div class="header-date">火曜日</div>
+  <div class="header-date">2026年09月02日</div>
   <div class="header-spacer"></div>
-  <div class="update-time">最終更新: 2026-09-01 JST</div>
+  <div class="update-time">最終更新: 2026年09月02日 09:36 JST</div>
   <div class="lang-toggle">
     <a href="midterm.html" class="active">JP</a>
     <a href="../en/midterm.html">EN</a>
@@ -237,7 +237,7 @@
 </div>
 
 <footer class="site-footer">
-  データ出典: Cook Political Report / 270toWin 参考 &nbsp;|&nbsp; 更新: 2026-08-25
+  データ出典: Cook Political Report / 270toWin 参考 &nbsp;|&nbsp; 更新: 2026-09-02
 </footer>
 
 <script>
@@ -338,14 +338,12 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
-    { state:'OH', incumbent:'Brown (D) vs Husted (R)', party:'R', rating:'toss', label:'Toss-up (special)' },
-    { state:'MI', incumbent:'El-Sayed (D) vs Rogers (R)', party:'D', rating:'toss',    label:'Toss-up' },
-    { state:'GA', incumbent:'Ossoff (D) vs Collins (R)', party:'D', rating:'toss',    label:'Toss-up' },
-    { state:'TX', incumbent:'Paxton (R) vs Talarico (D)', party:'R', rating:'toss',    label:'Toss-up' },
-    { state:'IA', incumbent:'Hinson (R) vs Turek (D)', party:'R', rating:'toss',    label:'Toss-up (open)' },
-    { state:'NH', incumbent:'Open — Sununu/Brown (R) vs Pappas (D)', party:'D', rating:'toss', label:'Toss-up (open)' },
-    { state:'VA', incumbent:'Warner (D) vs Mizusawa (R)', party:'D', rating:'lean-d',  label:'Lean D' },
-    { state:'MT', incumbent:'Alme (R) vs Bankhead (D)', party:'R', rating:'likely-r', label:'Likely R' },
+    { state: "TX", incumbent: "Ken Paxton (R)", party: "D", rating: "toss", label: "TX Senate: Talarico (D) vs. Paxton (R)" },
+    { state: "MI", incumbent: "Mike Rogers (R)", party: "D", rating: "toss", label: "MI Senate: El Sayed (D) vs. Rogers (R)" },
+    { state: "IA", incumbent: null, party: "D", rating: "toss", label: "IA Senate: Open Seat" },
+    { state: "OH", incumbent: null, party: "D", rating: "lean-d", label: "OH Senate: Open Seat" },
+    { state: "KS", incumbent: null, party: "D", rating: "lean-d", label: "KS Senate: Open Seat" },
+    { state: "AK", incumbent: null, party: "D", rating: "lean-d", label: "AK Senate: Open Seat" },
   ],
   house: [
     { state:'NY-3', incumbent:'(Open)', party:'D', rating:'toss', label:'Toss-up' },
@@ -377,8 +375,8 @@ const seatCounts = {
 
 // 2026 predictions (rough)
 const predictions = {
-  senate:   { r:51, d:47, toss:2, total:100 },
-  house:    { r:215, d:185, toss:35, total:435 },
+  senate:   { r:50, d:48, toss:2, total:100 },
+  house:    { r:210, d:190, toss:35, total:435 },
   governor: { r:22, d:14, toss:0, total:50 },
 };
 
@@ -4601,8 +4599,6 @@ function drawRaces() {
    ===================================================== */
 const upcomingSchedules = {
   senate: [
-    { date: "Aug 25", state: "Oklahoma (OK)", event: "Primary Election" },
-    { date: "Sep 01", state: "Massachusetts (MA)", event: "Primary Election" },
     { date: "Sep 08", state: "Delaware (DE)", event: "Primary Election" },
     { date: "Sep 08", state: "New Hampshire (NH)", event: "Primary Election" },
     { date: "Sep 08", state: "Rhode Island (RI)", event: "Primary Election" },
@@ -4612,8 +4608,6 @@ const upcomingSchedules = {
     { date: "Sep 29", state: "Louisiana (LA)", event: "Jungle Primary" },
   ],
   house: [
-    { date: "Aug 25", state: "Oklahoma (OK)", event: "Primary Election" },
-    { date: "Sep 01", state: "Massachusetts (MA)", event: "Primary Election" },
     { date: "Sep 08", state: "Delaware (DE)", event: "Primary Election" },
     { date: "Sep 08", state: "New Hampshire (NH)", event: "Primary Election" },
     { date: "Sep 08", state: "Rhode Island (RI)", event: "Primary Election" },
@@ -4623,8 +4617,6 @@ const upcomingSchedules = {
     { date: "Sep 29", state: "Louisiana (LA)", event: "Jungle Primary" },
   ],
   governor: [
-    { date: "Aug 25", state: "Oklahoma (OK)", event: "Primary Election" },
-    { date: "Sep 01", state: "Massachusetts (MA)", event: "Primary Election" },
     { date: "Sep 08", state: "Delaware (DE)", event: "Primary Election" },
     { date: "Sep 08", state: "New Hampshire (NH)", event: "Primary Election" },
     { date: "Sep 08", state: "Rhode Island (RI)", event: "Primary Election" },
