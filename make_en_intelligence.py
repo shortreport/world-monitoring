@@ -452,25 +452,48 @@ def generate_sidebar_summary(toyota_entries: list, client) -> str:
         return ""
 
 
-def translate_to_ja(en_text: str, client) -> str:
+def _is_japanese_text(text: str) -> bool:
+    """ひらがな/カタカナの比率から、日本語（＝中国語ではない）らしいかを判定する。"""
+    if not text:
+        return True
+    kana = len(re.findall(r"[぀-ヿ]", text))
+    cjk  = len(re.findall(r"[一-鿿]", text))
+    if kana + cjk == 0:
+        return True  # 漢字・仮名を含まない（数字のみ等）場合は言語判定の対象外
+    return (kana / (kana + cjk)) >= 0.15
+
+
+def translate_to_ja(en_text: str, client, max_attempts: int = 3) -> str:
     if not en_text:
         return ""
-    try:
-        resp = client.messages.create(
-            model=QUALITY_MODEL, max_tokens=1200,
-            system=(
-                "あなたはエグゼクティブ向けビジネスインテリジェンスを専門とするプロの翻訳者です。"
-                "英語の原文を、経営幹部が読む格調ある自然な日本語に翻訳します。"
-                "文体は「〜である」調（体言止め可）。ビジネス誌（週刊東洋経済・日経ビジネス）レベルを目安に。"
-                "段落の区切りはそのまま保持し、原文にない情報を追加しないこと。"
-            ),
-            messages=[{"role": "user", "content":
-                "以下の英語を自然な日本語に翻訳してください。前置き不要。\n\n" + en_text}]
-        )
-        return next((b.text for b in resp.content if hasattr(b, "text")), "").strip()
-    except Exception as ex:
-        print(f"  [WARN] translate_to_ja 失敗: {ex}")
-        return ""
+    system_prompt = (
+        "あなたはエグゼクティブ向けビジネスインテリジェンスを専門とするプロの翻訳者です。"
+        "英語の原文を、経営幹部が読む格調ある自然な日本語に翻訳します。"
+        "文体は「〜である」調（体言止め可）。ビジネス誌（週刊東洋経済・日経ビジネス）レベルを目安に。"
+        "段落の区切りはそのまま保持し、原文にない情報を追加しないこと。"
+    )
+    user_prompt = "以下の英語を自然な日本語に翻訳してください。前置き不要。\n\n" + en_text
+
+    for attempt in range(1, max_attempts + 1):
+        try:
+            resp = client.messages.create(
+                model=QUALITY_MODEL, max_tokens=1200,
+                system=system_prompt,
+                messages=[{"role": "user", "content": user_prompt}]
+            )
+            text = next((b.text for b in resp.content if hasattr(b, "text")), "").strip()
+        except Exception as ex:
+            print(f"  [WARN] translate_to_ja 失敗: {ex}")
+            return ""
+
+        if _is_japanese_text(text):
+            return text
+
+        print(f"  [WARN] translate_to_ja: 日本語以外の出力を検知（{attempt}/{max_attempts}回目）。"
+              + ("再試行します。" if attempt < max_attempts else "リトライ上限に達しました。"))
+
+    print("  [WARN] translate_to_ja: 規定回数リトライしても日本語出力が得られず、空文字を返します。")
+    return ""
 
 
 # ── rolling JSON 更新 ─────────────────────────────────────────────────────────
