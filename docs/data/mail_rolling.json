@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-09-03 14:04 JST",
+  "updated_at": "2026-09-03 14:10 JST",
   "total": 50,
-  "toyota_summary": "EU（欧州連合）の産業政策が対中国で硬化しつつある。中国製品の「第二の輸出の波」への懸念が強まる中、産業界と議員は「インダストリアル・アクセラレーター法」の下で結束を固めており、より厳格な「メイド・イン・ヨーロッパ」調達規則や、第三国での組み立てといった抜け穴を含む中国からの投資に対する審査強化が盛り込まれる見通しである。自動車メーカー、欧州自動車部品工業会（CLEPA）、鉄鋼・電池業界は、年末の採決を前に法案の強化を求めて働きかけを強めている。\n\nなお、米国・メキシコ間の貿易見通しについては参考情報として付記する。",
+  "toyota_summary": "EUの産業アクセラレーター法案が、産業界および政界の強力な後押しを受けて勢いを増している。フォルクスワーゲン、CLEPA（欧州自動車部品工業会）をはじめとする自動車メーカー各社は、中国勢との競争に対抗すべく「メイド・イン・ヨーロッパ」の厳格な調達規則を支持している。議員らは、第三国での組立といった抜け穴を塞ぐ形で法案を強化する方針であり、来週には報告書がまとめられ、年内の最終決定を目指す。\n\nフォルクスワーゲンは、現地調達により中国サプライヤーと比べてコストが上昇すると警告しており、補助金の存在が同法案の成否を左右する鍵になるとしている。\n\nなお、参考として米国・メキシコ間の貿易協議についても言及されている。",
   "emails": [
+    {
+      "ts": "20260903_1406",
+      "sender_norm": "POLITICO",
+      "subject": "Kallas pushes back",
+      "subject_en": "Kallas pushes back",
+      "html": "data/pdfs/20260903_1406_Kallas_pushes_back.html",
+      "pdf": "data/pdfs/20260903_1406_Kallas_pushes_back.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "SEP 3  14:06",
+      "read_min": 15,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20260903_1405",
+      "sender_norm": "POLITICO",
+      "subject": "Knight in shining IAA-rmor",
+      "subject_en": "Knight in shining IAA-rmor",
+      "html": "data/pdfs/20260903_1405_Knight_in_shining_IAA-rmor.html",
+      "pdf": "data/pdfs/20260903_1405_Knight_in_shining_IAA-rmor.html",
+      "summary_en": "European lawmakers and industry players like Volkswagen and supplier group CLEPA are rallying behind the EU's Industrial Accelerator Act, seeing strict 'Made in Europe' content rules as a key defense against Chinese competition. VW has warned that sourcing components locally will raise costs compared to Chinese suppliers, making subsidies and incentives essential to offset the difference. Parliament's industry, internal market, and trade committees are expected to issue a draft report next week defining 'Made in Europe' as EU27-based, with an opt-in option for close trading partners.",
+      "summary_ja": "欧州議会とフォルクスワーゲンや部品業界団体CLEPAなどの業界関係者は、中国との競争に対抗する手段として「欧州製」を厳格に定義する産業アクセラレーター法(IAA)への支持を強めている。VWは、部品を欧州域内で調達するとコストが上昇するため、その差額を補う補助金やインセンティブが不可欠だと訴えている。欧州議会の産業・域内市場・貿易の各委員会は来週、EU27か国を「欧州製」の基準とし、近しい貿易相手国にはオプトイン制度を認める草案報告書を発表する見通しである。",
+      "summary_pdf": "",
+      "date_label": "SEP 3  14:05",
+      "read_min": 9,
+      "toyota": true,
+      "excerpt": ""
+    },
     {
       "ts": "20260903_1401",
       "sender_norm": "Jetro",
@@ -12,7 +42,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "Notification of New JETRO Regional and Analysis Reports (September 3, 2026 Issue)",
+      "subject_en": "Notice of New JETRO Regional and Analysis Reports (September 3, 2026 Issue)",
       "html": "data/pdfs/20260903_1401_ジェトロ地域・分析レポートの新着のご案内（2026年9月3日号）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -252,7 +282,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "JETRO Business Bulletin 2026/09/02",
+      "subject_en": "JETRO Business Brief 2026/09/02",
       "html": "data/pdfs/20260902_1819_「ジェトロ・ビジネス短信」2026_09_02.html",
       "summary_en": "",
       "summary_ja": "",
@@ -457,7 +487,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/09/01",
+      "subject_en": "JETRO Business Brief 2026/09/01",
       "html": "data/pdfs/20260901_1806_「ジェトロ・ビジネス短信」2026_09_01.html",
       "summary_en": "",
       "summary_ja": "",
@@ -712,37 +742,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20260831_2052",
-      "sender_norm": "Risa Grais-Targow",
-      "subject": "EG Update",
-      "pdf": "data/pdfs/20260831_2052_EG_Update.pdf",
-      "date_label": "AUG 31  20:52",
-      "read_min": 11,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EG Update",
-      "html": "data/pdfs/20260831_2052_EG_Update.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20260831_1906",
-      "sender_norm": "POLITICO",
-      "subject": "The Trump-shaped problems awaiting Andy Burnham, ranked",
-      "pdf": "data/pdfs/20260831_1906_The_Trump-shaped_problems_awaiting_Andy_Burnham,_r.pdf",
-      "date_label": "AUG 31  19:06",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "The Trump-shaped problems awaiting Andy Burnham, ranked",
-      "html": "data/pdfs/20260831_1906_The_Trump-shaped_problems_awaiting_Andy_Burnham,_r.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
   ],
-  "toyota_summary_en": "EU industrial policy is hardening in response to China. Growing fear of a second Chinese export wave is uniting industry and lawmakers behind the Industrial Accelerator Act, with tougher \"Made in Europe\" procurement rules and stricter vetting of Chinese investment, including loopholes like third-country assembly. Automakers, CLEPA, and steel/battery sectors are pushing for a strengthened bill before a year-end vote.\n\nUS-Mexico trade outlook is provided for reference."
+  "toyota_summary_en": "The EU's Industrial Accelerator Act is gaining strong industry and political momentum, with Volkswagen, CLEPA, and other automakers backing strict \"Made in Europe\" procurement rules to counter Chinese competition. Lawmakers plan to toughen the draft, closing loopholes like third-country assembly, with a report due next week and finalization targeted by year-end.\n\nVW warns local sourcing will raise costs versus Chinese suppliers, making subsidies critical to the bill's success.\n\nUS-Mexico trade call is provided for reference."
 }
