@@ -1,40 +1,21 @@
 {
-  "generated_at": "2026-09-03 14:03 JST",
-  "sender_count": 4,
-  "total_mails": 17,
+  "generated_at": "2026-09-04 09:47 JST",
+  "sender_count": 3,
+  "total_mails": 29,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 13,
+      "count": 15,
       "bullets": [
-        "2031年までの米中関係は管理されたデカップリングが基本シナリオであり、規制強化が進むも深刻なエスカレーションの可能性は低い見通し",
-        "米国とカナダの貿易戦争は中間選挙まで継続し、9月8日から報復関税の応酬が激化する可能性が高い状況",
-        "中東の対立激化により原油価格は高止まりが続き、米国とイランの対立には終結の兆しがない見通し",
-        "ユーラシア・グループは欧州のマクロ経済、BRICS首脳会談、北米貿易など主要地政学的イベントの分析と議論を提供"
+        "US-Iran対立が2026年を通じて継続する見通し、ホルムズ海峡の交通量増加により合意の緊急性が低下",
+        "中国共産党は2027年10月の第21回党大会に向けて政治的安定を重視し、経済管理者の昇進を促進",
+        "英国のバーナム首相は10月の予算で有権者向け施策と財政規律のバランスを試される局面",
+        "米国の迎撃ミサイル枯渇により、イラン攻撃作戦は数週間に限定される状況",
+        "バングラデシュのラーマン首相が内閣改編を通じて右傾化を進め、ジャマート党の政治的台頭を抑制"
       ],
       "subjects": [
-        [
-          "2026-09-02",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20260902_1441_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-09-02",
-          "Europe macro update - EG Conference Call, REMINDER",
-          "data/pdfs/20260902_1902_Europe_macro_update_-_EG_Conference_Call,_REMINDER.pdf"
-        ],
-        [
-          "2026-09-02",
-          "BRICS Summit - EG Conference Call, REMINDER",
-          "data/pdfs/20260902_2102_BRICS_Summit_-_EG_Conference_Call,_REMINDER.pdf"
-        ],
-        [
-          "2026-09-02",
-          "US-Mexico trade after the Canada standoff - EG Conference Call,",
-          "data/pdfs/20260902_2102_US-Mexico_trade_after_the_Canada_standoff_-_EG_Con.pdf"
-        ],
         [
           "2026-09-02",
           "US-Iran standoff likely to run through 2026",
@@ -79,13 +60,39 @@
           "2026-09-03",
           "EG Research Summary in Japanese",
           "data/pdfs/20260903_1026_EG_Research_Summary_in_Japanese.pdf"
+        ],
+        [
+          "2026-09-03",
+          "France: Fears of far-right vs far-left runoff are premature",
+          "data/pdfs/20260903_1532_France__Fears_of_far-right_vs_far-left_runoff_are_.pdf"
+        ],
+        [
+          "2026-09-03",
+          "Russia, Ukraine: Escalation coming in autumn",
+          "data/pdfs/20260903_1910_Russia,_Ukraine__Escalation_coming_in_autumn.pdf"
+        ],
+        [
+          "2026-09-03",
+          "US-Mexico trade after the Canada standoff - EG Conference Call,",
+          "data/pdfs/20260903_2002_US-Mexico_trade_after_the_Canada_standoff_-_EG_Con.pdf"
+        ],
+        [
+          "2026-09-03",
+          "BRICS Summit - EG Conference Call, REMINDER",
+          "data/pdfs/20260903_2102_BRICS_Summit_-_EG_Conference_Call,_REMINDER.pdf"
+        ],
+        [
+          "2026-09-03",
+          "Russia and Ukraine head for an autumn escalation",
+          "data/pdfs/20260903_2114_Russia_and_Ukraine_head_for_an_autumn_escalation.pdf"
+        ],
+        [
+          "2026-09-03",
+          "US will retain high-end advantage amid global defense hedging",
+          "data/pdfs/20260903_2236_US_will_retain_high-end_advantage_amid_global_defe.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260902_1441_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20260902_1902_Europe_macro_update_-_EG_Conference_Call,_REMINDER.pdf",
-        "data/pdfs/20260902_2102_BRICS_Summit_-_EG_Conference_Call,_REMINDER.pdf",
-        "data/pdfs/20260902_2102_US-Mexico_trade_after_the_Canada_standoff_-_EG_Con.pdf",
         "data/pdfs/20260902_2141_US-Iran_standoff_likely_to_run_through_2026.pdf",
         "data/pdfs/20260902_2323_CCP_benefits_from_stability_and_promotes_economic_.pdf",
         "data/pdfs/20260902_2335_UK__Budget_will_test_Burnham’s_big_ambitions.pdf",
@@ -94,82 +101,131 @@
         "data/pdfs/20260903_0137_Abbreviated_congressional_schedule_is_new_hurdle_f.pdf",
         "data/pdfs/20260903_0801_MENA_Crisis_Update_「中東危機に関する最新アップデート」（同時通訳なし）_-_EG.pdf",
         "data/pdfs/20260903_0802_MENA_Crisis_Update_-_EG_Conference_Call,_REMINDER.pdf",
-        "data/pdfs/20260903_1026_EG_Research_Summary_in_Japanese.pdf"
+        "data/pdfs/20260903_1026_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20260903_1532_France__Fears_of_far-right_vs_far-left_runoff_are_.pdf",
+        "data/pdfs/20260903_1910_Russia,_Ukraine__Escalation_coming_in_autumn.pdf",
+        "data/pdfs/20260903_2002_US-Mexico_trade_after_the_Canada_standoff_-_EG_Con.pdf",
+        "data/pdfs/20260903_2102_BRICS_Summit_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20260903_2114_Russia_and_Ukraine_head_for_an_autumn_escalation.pdf",
+        "data/pdfs/20260903_2236_US_will_retain_high-end_advantage_amid_global_defe.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
       "color": "YEL",
-      "count": 2,
+      "count": 13,
       "bullets": [
-        "欧州議会がフォン・デア・ライエン委員長の秋季政策方針演説と産業加速法に関する審議を開始",
-        "産業加速法は9月に共同報告案を提示し、12月の本会議での投票を予定",
-        "運輸委員会が5月に発表された「乗客パッケージ」について検討開始、マルチモーダル予約と鉄道チケット規制を対象",
-        "乗客パッケージはイタリアなど主要鉄道事業者から反発を受け、欧州市場全体の競争力低下への懸念",
-        "国際海事機関のネットゼロ枠組み交渉が進行中で、年末までの合意達成を目指す"
+        "ドイツの中道右派と左派の議員が、EU極右勢力を排除するための協定締結を模索",
+        "中国の脅威の高まりを受け、EU議員らが産業加速化法案の強化を要求",
+        "気候変動がヨーロッパの原子力ルネサンスに悪影響をもたらす状況",
+        "EUがAIインフラ構築に向けデータセンター投資に数十億ユーロの支出を検討",
+        "中国からの輸入品急増がEU産業政策への支持を強化"
       ],
       "subjects": [
         [
           "2026-09-02",
-          "A grand coalition for von der Leyen",
-          "data/pdfs/20260902_1404_A_grand_coalition_for_von_der_Leyen.pdf"
+          "Rival German lawmakers plot pact to shut out EU far right",
+          "data/pdfs/20260902_1717_Rival_German_lawmakers_plot_pact_to_shut_out_EU_fa.pdf"
         ],
         [
           "2026-09-02",
-          "IAA, trains and automobiles at TRAN",
-          "data/pdfs/20260902_1406_IAA,_trains_and_automobiles_at_TRAN.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260902_1404_A_grand_coalition_for_von_der_Leyen.pdf",
-        "data/pdfs/20260902_1406_IAA,_trains_and_automobiles_at_TRAN.pdf"
-      ]
-    },
-    {
-      "sender": "ジェトロ",
-      "short": "ジェトロ",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "ジェトロが世界主要国・地域の政治・経済動向について独自の視点で分析するレポートを配信中",
-        "欧州市場は地理的距離や規制面でのハードルが高いが、日本の高付加価値製品の価値を認める消費者が多く存在",
-        "欧州で高めたブランド力は他市場開拓時の活用が可能で、魅力ある市場として捉える余地",
-        "人や資本のリソースが限られた中堅・中小企業による欧州ビジネス展開事例と課題克服方法を紹介"
-      ],
-      "subjects": [
+          "EU lawmakers demand stronger industrial policy bill as China",
+          "data/pdfs/20260902_1920_EU_lawmakers_demand_stronger_industrial_policy_bil.pdf"
+        ],
+        [
+          "2026-09-02",
+          "How climate change threatens Europe’s nuclear renaissance",
+          "data/pdfs/20260902_2016_How_climate_change_threatens_Europe’s_nuclear_rena.pdf"
+        ],
+        [
+          "2026-09-02",
+          "The EU is ready to bet billions on data centers. Not all countries",
+          "data/pdfs/20260902_2109_The_EU_is_ready_to_bet_billions_on_data_centers._N.pdf"
+        ],
         [
           "2026-09-03",
-          "ジェトロ地域・分析レポートの新着のご案内（2026年9月3日号）",
-          "data/pdfs/20260903_1401_ジェトロ地域・分析レポートの新着のご案内（2026年9月3日号）.pdf"
+          "Pro Daily Headlines",
+          "data/pdfs/20260903_0031_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-09-03",
+          "China threat bolsters support for EU industrial policy",
+          "data/pdfs/20260903_0215_China_threat_bolsters_support_for_EU_industrial_po.pdf"
+        ],
+        [
+          "2026-09-03",
+          "Knight in shining IAA-rmor",
+          "data/pdfs/20260903_1405_Knight_in_shining_IAA-rmor.pdf"
+        ],
+        [
+          "2026-09-03",
+          "Kallas pushes back",
+          "data/pdfs/20260903_1406_Kallas_pushes_back.pdf"
+        ],
+        [
+          "2026-09-03",
+          "Inside Kallas’ fightback against plans to tear up the EU’s diplomatic",
+          "data/pdfs/20260903_1636_Inside_Kallas’_fightback_against_plans_to_tear_up_.pdf"
+        ],
+        [
+          "2026-09-03",
+          "Document: Truckers, green groups team up to demand EU truck",
+          "data/pdfs/20260903_1730_Document__Truckers,_green_groups_team_up_to_demand.pdf"
+        ],
+        [
+          "2026-09-03",
+          "Teresa Ribera floats oil tax, joint debt or bigger budget to",
+          "data/pdfs/20260903_1735_Teresa_Ribera_floats_oil_tax,_joint_debt_or_bigger.pdf"
+        ],
+        [
+          "2026-09-03",
+          "The far-right leader pushing Germans to forget the Nazi past",
+          "data/pdfs/20260903_1905_The_far-right_leader_pushing_Germans_to_forget_the.pdf"
+        ],
+        [
+          "2026-09-03",
+          "How Merkel and Merz lost eastern Germany to the AfD",
+          "data/pdfs/20260903_2108_How_Merkel_and_Merz_lost_eastern_Germany_to_the_Af.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260903_1401_ジェトロ地域・分析レポートの新着のご案内（2026年9月3日号）.pdf"
+        "data/pdfs/20260902_1717_Rival_German_lawmakers_plot_pact_to_shut_out_EU_fa.pdf",
+        "data/pdfs/20260902_1920_EU_lawmakers_demand_stronger_industrial_policy_bil.pdf",
+        "data/pdfs/20260902_2016_How_climate_change_threatens_Europe’s_nuclear_rena.pdf",
+        "data/pdfs/20260902_2109_The_EU_is_ready_to_bet_billions_on_data_centers._N.pdf",
+        "data/pdfs/20260903_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260903_0215_China_threat_bolsters_support_for_EU_industrial_po.pdf",
+        "data/pdfs/20260903_1405_Knight_in_shining_IAA-rmor.pdf",
+        "data/pdfs/20260903_1406_Kallas_pushes_back.pdf",
+        "data/pdfs/20260903_1636_Inside_Kallas’_fightback_against_plans_to_tear_up_.pdf",
+        "data/pdfs/20260903_1730_Document__Truckers,_green_groups_team_up_to_demand.pdf",
+        "data/pdfs/20260903_1735_Teresa_Ribera_floats_oil_tax,_joint_debt_or_bigger.pdf",
+        "data/pdfs/20260903_1905_The_far-right_leader_pushing_Germans_to_forget_the.pdf",
+        "data/pdfs/20260903_2108_How_Merkel_and_Merz_lost_eastern_Germany_to_the_Af.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "ORG",
+      "color": "RED",
       "count": 1,
       "bullets": [
-        "嵐図汽車が上半期業績を発表、増収も純損失を計上",
-        "中国工業情報化部が15次5カ年規画の取り組みを説明、AI活用と新エネ車品質向上に注力",
-        "香港最大級食品展示会「Food Expo Pro 2026」開催、日本企業100社超が出展",
-        "インドネシアとシンガポールが現地通貨決済の枠組み運用を開始",
-        "インドネシア第2四半期GDP成長率は前年同期比5.29％、5％成長を維持",
-        "デンソーテクノがフィリピン人材育成プログラムの成果を発表"
+        "中国が商品住宅販売制度を改善し予約販売から現物販売への移行、物流ネットワーク整備、長期介護保険の全国統一化を推進中",
+        "タイ中銀が政策金利を据え置き、シンガポールが屋外労働者の暑熱対策を雇用主に義務化するなどアジア各国で金融・労働政策の調整が進展",
+        "インドネシアでプラボウォ政権への満足度が低下し、バングラデシュは最低基本給を142％引き上げる給与規定改定を実施",
+        "米国がサプライチェーン可視化に向けた輸入情報開示要件を検討中で、カナダのGDP成長率が前期比年率3.3％を達成",
+        "イスラエル中銀が政策金利を3.25％に引き下げ、モザンビークではエクソンモービル主導の天然ガスプロジェクトが進展"
       ],
       "subjects": [
         [
-          "2026-09-02",
-          "「ジェトロ・ビジネス短信」2026/09/02",
-          "data/pdfs/20260902_1819_「ジェトロ・ビジネス短信」2026_09_02.pdf"
+          "2026-09-03",
+          "「ジェトロ・ビジネス短信」2026/09/03",
+          "data/pdfs/20260903_1806_「ジェトロ・ビジネス短信」2026_09_03.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260902_1819_「ジェトロ・ビジネス短信」2026_09_02.pdf"
+        "data/pdfs/20260903_1806_「ジェトロ・ビジネス短信」2026_09_03.pdf"
       ]
     }
   ]
