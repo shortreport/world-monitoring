@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06 01:38:55",
+  "generated_at": "2026-09-06 18:12:47",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-06 01:38:11",
+      "last_checked": "2026-09-06 18:12:10",
       "items": [
         {
           "uid": "6828dcd65d4c",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-06 01:38:24",
+      "last_checked": "2026-09-06 18:12:22",
       "items": [
+        {
+          "uid": "48de0e6401cf",
+          "date": "2026-07-22",
+          "title": "Should America Permanently Ban Chinese Cars? - nxsmediawire.com",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国製自動車による国家安全保障上の脅威に対処するため、中国資本の車両メーカーによる米国市場への参入を制限または禁止することを目的とした法案である。本法案は、接続車両を通じた個人情報やインフラストラクチャーへのサイバー攻撃の危険性を懸念し、外国の悪意ある行為者による米国の重要なデータへのアクセスを防ぐことを主眼としている。",
+          "source": "中国政府",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDdOM2ZZQmR6V1RGMlk2NWYzS2pobzZwMHFpeTd5d2IxcndkVXdhckQ5c3Q5Z2VTUUVTSEh2T2RPdE5rOExUMmh3RTFTVU85aVh0cDlBbEtOczJnNnItaEJSTllUS291dWcwakNqQXdIY0ZoSGhfRnE2SnZtMmd2SmtKRUM?oc=5",
+          "added_at": "2026-09-06 18:12:20"
+        },
         {
           "uid": "739700355c09",
           "date": "2026-09-04",
@@ -4010,16 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUNjNEpPS3l2LXA5UUFNa2ZSU1B3M0dUYUlta21VNFVLdExOTENGNmlib3ozbkZ2U0RMMVozZS11X2dHTUY0SzROeWt2Sm00eE9ULWsxN0VhSDNnQk1BOURqazJTYXR6UFd5MG5pWDFGaHJ2UE1Lb0ZiM3pUODZpeVpZb1hTbjhKUHBsaHRlWWtpX1FlYjhSVzR1ZG85eE5JT1pBRW1GNUdJLVViTTFyVFBRZTFDbVZ1M1pEbEZB?oc=5",
           "added_at": "2026-07-21 16:34:24"
-        },
-        {
-          "uid": "cb6c88f63d71",
-          "date": "2026-07-21",
-          "title": "Lobbying Update: $1,477,000 of AMERICAN HONDA MOTOR CO. INC. lobbying was just disclosed - Quiver Quantitative",
-          "summary": "アメリカン・ホンダ・モーター・カンパニーが2024年に147万7000ドルのロビー活動費を開示し、同社は米国接続車両安全保障法（S.4429）を含む自動車関連規制に対する影響力行使を行っていた。このロビー活動は、中国製部品の使用制限や車両セキュリティ基準に関する同法の内容に対する業界の立場を反映している。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzBLQjVOeDAwQjU2UVZEU01RdnBYU3pXMnF5eE11cUhxQzgtNlhJelRkUjZSVjd0ZFBzdUZkN1hiNXJYN09HOGZfRDhwSEZtTFU3dUVKYmpqMDZaS2NYWlBmdFNMZXdGSWdLeGdlNkxobFN3Uy1EcU8yVjRJN19VdVVaNmc0R2ZGMjluNUxKX2Y4bGdzYmJsZE81QS1DekM2eDhZN3ZDLTQwMkJibWdaemlnYVA1M1RJRFQ1OTkwV3dHWHlSVjJMbQ?oc=5",
-          "added_at": "2026-07-21 16:34:24"
         }
       ]
     },
@@ -4030,8 +4030,68 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-06 01:38:55",
+      "last_checked": "2026-09-06 18:12:47",
       "items": [
+        {
+          "uid": "8c76e253f5f0",
+          "date": "2026-07-15",
+          "title": "‘Chokepoint Politics’: China’s Rare-Earth Statecraft and India’s Search for Strategic Autonomy - orfonline.org",
+          "summary": "中国はレアアース産業を戦略的に支配して外交的影響力を行使する「チョークポイント政治」を展開しており、インドはこの依存から脱却するための戦略的自律性を模索している。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlRDdXNFUjBlTkFaMi1UYjZ3cGI2eHowNnhkRmZQR3l6NFdvRDlqSWppU0RwbV9nQ0xPcjljY3NhUGhtMUtzQ0ZuUHA3djFjOU05amJKVFhPTWhyX3VSN2c4V2JkdHVpMGVXak1OM0puMF9GSDlualJYN25WNFlmb2xCM0l6d3NNS0ZMdkJqb2Y3N0dnaU5pX01kdHVjbzJZVUppMTFFa1JuRjV4SnNLbjVzMDJZQ1VEdk5DRzRWNVJNS1FheVE?oc=5",
+          "added_at": "2026-09-06 18:12:37"
+        },
+        {
+          "uid": "a1a92d405dd9",
+          "date": "2026-08-18",
+          "title": "Japan's Chinese Critical Mineral Imports Fall 80% - 조선일보",
+          "summary": "日本の中国からのレアアース等重要鉱物輸入が80%減少したことが報じられており、これは中国による輸出管理強化と日本の脱依存戦略が進行していることを示唆している。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGF0TGdXZFk3WlVEd2ZueVpCU3ZNWXJydlBhSkV2bG53ZFhsTzR6S01qU0d1S2tvS2xMZUxzR2Q4THJjbjBZaHlCZHFDZ1NjZXkxallFNGd1X3VPcGxFb2N0V1hZZi1ycTNRYVduaG9qUVhWMDBYbzFmY1pCc2R3SW5HbWxNWFox?oc=5",
+          "added_at": "2026-09-06 18:12:37"
+        },
+        {
+          "uid": "a076fd263ccb",
+          "date": "2026-07-16",
+          "title": "Brussels Prepares Emergency Response to Renewed Chinese Rare-Earth Controls - EU Today",
+          "summary": "中国がレアアース輸出を再び制限する動きに対し、ブリュッセル（EU）は緊急対応策の準備を進めており、これはEUのサプライチェーン強化と中国への依存低減を目指すものである。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWbFdibkVSYmw3cUhvUlBWWWdmLUdpMEpscU45WGVkTzhra2ZTT2RMbUp4cGU5NnF2c01Wd0xfbjFzVFV6VUtHSDRQQnpQdlo2RTdaOVl6eVA0VFFHV2lTTkczRDlFM2NDRFcxQ3ZqMlJ3dDY3U09j?oc=5",
+          "added_at": "2026-09-06 18:12:37"
+        },
+        {
+          "uid": "7c3590498e39",
+          "date": "2026-06-22",
+          "title": "China places two US rare earths producers on export control list - Mining Weekly",
+          "summary": "中国は米国のレアアース生産企業2社を輸出管理リストに追加し、これらの企業への技術移転や投資を制限する措置を講じた。この対抗措置は米国の対中規制強化に対する報復として実施されたものである。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5FMzBxamc5ZlByM0VrbF9VVFdvd09FTFNfRlYyYzlTWFVjaHl3VEc3WVdzaWlTLUpFN0laQjdqZmJCbWFNdDNUMDRBekQwM3k5SkZ3V1Q0LU9EWUxETlU5M045QmpQLUZjeF9qWDExUjRBN2QyTXp4cGs2SWRIQkY3MHBQUXdGcXdhT1Z3YmJqNlcxY1NydGF3R05SQXlnWTB4STV0S19LVHRiM0ZPNVR3?oc=5",
+          "added_at": "2026-09-06 18:12:37"
+        },
+        {
+          "uid": "50ef3f9d9b88",
+          "date": "2026-07-16",
+          "title": "Supply concentration, export restrictions and declining investment put critical mineral security at risk - IEA – International Energy Agency",
+          "summary": "国際エネルギー機関(IEA)は、レアアース等の重要鉱物の供給が少数国に集中し、中国などによる輸出制限と投資不足により、グローバルなサプライチェーンと関連産業の安定性が脅かされていると警告している。特に再生可能エネルギーと電動車産業に必要な鉱物資源の確保が急速に困難になっており、国際的な供給多角化と戦略的備蓄の強化が急務であることを指摘している。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHI1dzJIMlRlRGJpRWl3ZEZsYm5WZEZYa1BWWVJOU0czSlYtaHVITGNYQWJSMXNacU1WQzMwc3ktN3JrS1dwMFhyMkJBY2pVYnNieXlaUkhLbFJXRktRbk1xR2lIcjZEc21MZFRhQno4YmktZEtKUWRTMU1pNzZZZ2xEbU9KSGFsWGl2ZFRFUWotbnNYS3pEbk13SlpodVFjRS1qaXJmRW5pRVI4Q3pLbGJ6bUljUGhnQlMzSXpkaklEOUpXSV80?oc=5",
+          "added_at": "2026-09-06 18:12:37"
+        },
+        {
+          "uid": "530f2cc50671",
+          "date": "2026-07-16",
+          "title": "Executive summary – Global Critical Minerals Outlook 2026 – Analysis - IEA – International Energy Agency",
+          "summary": "国際エネルギー機関（IEA）の2026年グローバル重要鉱物見通しによれば、クリーンエネルギー移行に必要な重要鉱物（レアアースを含む）の供給不足リスクが高まっており、中国が精製能力で圧倒的優位を占めることで、エネルギー転換に対する地政学的リスクが増大している。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFNpdzloN056aHJMNWlmbng1YWZ0VnhkUEpjaUNFZUZlVkpJRXd5TDVWOE9iMlEtZ2dZS0t3aEZtWEJQNHk5ajlPRHZIb1FJRWE3TE5LYmpzVXNUX0pwem9Ndk4tZ3J6VThEMXRLeTNaZUx6bndEU2RrWmRWX1Q1NkJfTVBNOHdFX19j?oc=5",
+          "added_at": "2026-09-06 18:12:37"
+        },
         {
           "uid": "cdfbf5045ffe",
           "date": "2026-09-04",
@@ -5971,66 +6031,6 @@
           "source_type": "media",
           "url": "https://thehill.com/homenews/campaign/6037420-darline-graham-national-security-knowledge-criticism/",
           "added_at": "2026-08-19 23:36:55"
-        },
-        {
-          "uid": "8317e4f2faac",
-          "date": "2026-06-03",
-          "title": "The Pharma Choke Point - Council on Foreign Relations",
-          "summary": "申し訳ありませんが、提供していただいたタイトルと内容だけでは、具体的な記事の本文がないため、「中国レアアース輸出管理」に関する正確な要約をすることができません。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBURUNMRkhJUERtaDV2MzBBWnJsUUNPVFpsZ0VPZnVwemdKNXBmdnQtWmhmUXZ6aUw2aGc0bkdhMzQ4TVNvWmlwdEFKaXJZdEF6am95MS1LdkpjMWMyWFdV?oc=5",
-          "added_at": "2026-08-19 14:33:30"
-        },
-        {
-          "uid": "f38b6b36664a",
-          "date": "2026-06-09",
-          "title": "Are Critical Minerals Catalysing the Second Scramble for Africa? - Modern Diplomacy",
-          "summary": "申し訳ございませんが、提供いただいたタイトルと「内容」の部分に実際のテキストが含まれていないため、要約することができません。記事の本文内容をご提供いただければ、中国レアアース輸出管理に関連する観点から要約させていただきます。",
-          "source": "欧米メディア",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX09aNUdnSDdxQ192N2JOT2RQd3NueEVsVTBqa2FOc2p4dUt6VzdRVjE0V2JNeWxPUldndk44c0Yzb0ZSOG9KVUx2V2NYUGI3WjhzZTZ0dU92LTVmR0JyMVRKRFFzemtMbDEtNGpKaWRMRkhKRE9Ed1lRVzV6c0FIemRmQjBmNFlYNHZxckZQUkxkZC1PRkp3TkdBVVpNQ3lIbXE3Xw?oc=5",
-          "added_at": "2026-08-19 14:33:30"
-        },
-        {
-          "uid": "f3f31c689779",
-          "date": "2026-07-30",
-          "title": "U.S. To Restrict Exports Of Recycled Critical Minerals - Forbes",
-          "summary": "米国がリサイクルされた重要鉱物の輸出を制限する施策は、中国が行うレアアース輸出管理と同様に、戦略的に重要な資源の供給チェーンを国内優先で確保しようとする動きであり、先進国間での重要鉱物の獲得競争が加速していることを示している。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVjVsT3ZzbFZJR2dzcVRxdk45NElpQVdKb2pndHhVU0UwQlpTRW1tR2oyQzRuSGVGOXE3R3Bud21PamNKQUxnTHBGUmtQelQ2NlZvWm0yWXI2OVgxZUVTYTc5MWp6TkVLS1c0YVlBNVo5VzJhV3BwNmk0MHBVbHhvek5IbHJubzF6OWNZLVEyQjMxWWVQV0RjbzVVb2ZPdGZxQld4UnVucGVDa1BYeHI1QmFVWkc?oc=5",
-          "added_at": "2026-08-19 09:22:18"
-        },
-        {
-          "uid": "befe7f555011",
-          "date": "2026-05-30",
-          "title": "China’s Rivals Depend on It Most for a Critical Material; IMF Data Shows the Scale - Voronoi",
-          "summary": "中国はレアアースの生産と輸出において圧倒的な優位性を保有しており、IMFのデータから米国やEU諸国などの競争国が中国のレアアース輸出に最も依存していることが明らかになった。この依存関係は、中国がレアアース輸出管理を通じて地政学的影響力を行使する可能性を高めている。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN3RVQjdWUHdyUnVxQ0pKQ21LOHRocGY3RnpqWDdmaFp4OGViNHRfZm5GNkM0ODlEeDdDblo0WEhPNmNHTnAzNnZvZlNnWERmSEUteUpwR3J1TzFjU2lKc1F4RWFrbDVQcFMwSTdwaHhKRlNlRXFjdE5va1BMNng4cHF6MWxkTl9VeW81MlVfdWRhZnk2QWFRRUhvYkFUTTRPZksweG9MNERfRjRTRnJEaThoXzh1WG8xdXNQallKeU5DUXpIbjZZTVFn?oc=5",
-          "added_at": "2026-08-19 09:22:18"
-        },
-        {
-          "uid": "bf16327b89d3",
-          "date": "2026-08-18",
-          "title": "Navy destroyer went days without power in the South China Sea, leaving sailors without toilets",
-          "summary": "この記事は中国レアアース輸出管理とは直接的な関連がないため、要約は適切ではありません。\n\n記事は米海軍駆逐艦の電力喪失事故について報じたものであり、中国のレアアース輸出管理政策とは無関係です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/defense/6036514-uss-benfold-south-china-sea-engineering-casualty/",
-          "added_at": "2026-08-19 09:22:18"
-        },
-        {
-          "uid": "82ca1166163c",
-          "date": "2026-07-14",
-          "title": "Key Changes in China s Export Control Landscape - Taylor Wessing",
-          "summary": "中国は2023年8月にレアアース関連技術の輸出規制を強化し、レアアース製品の精錬・分離技術の輸出許可を制限することで、サプライチェーン全体における支配力を強化した。この措置は、米国などの先進国によるレアアース産業への投資や代替資源開発を牽制し、グローバル市場での中国の優位性を維持する狙いがある。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVN6WTlmbTFRXy1nTmtTN2wxX2ZnZ1dJSV9Xa2s2eDFZODlvTE9ab3pDTUNFMUR0YkhHR25GY3dYN3lmQ29fSnA3cHRLUmxORDdoSnRZaFFUVFhfVGZmVGpBUUkxR1NGWExHeWd0Mkd3TE5BYS1raUtvUkR6WktQazA4dkZQTU45ZTRQQTd5SXhkalFDdDctRkxxbU8yaFJsU2xsbmQ0WHRZUmhQVjVlRC10TFM2Y3pp?oc=5",
-          "added_at": "2026-08-18 09:49:52"
         }
       ]
     }
