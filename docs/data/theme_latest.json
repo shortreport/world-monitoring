@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06 18:12:47",
+  "generated_at": "2026-09-07 01:46:44",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-06 18:12:10",
+      "last_checked": "2026-09-07 01:46:11",
       "items": [
+        {
+          "uid": "a2d6f2a420f1",
+          "date": "2026-08-14",
+          "title": "Made in EU rules cover concrete and cars, not software - The Next Web",
+          "summary": "EU産業加速法案はコンクリートや自動車などの製造業を対象としているが、ソフトウェア産業は対象外となっている。これはEUのデジタル産業競争力強化における課題を示唆している。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOWRVTnh5dUl1M1ZueFN5LVc4dkJjM0Z0QW8tV01hS2Z0dndtZzUxd2F2R2RfSHVHUXZoZ0J6aTEzZGZITlNndjlLM0FjMWJuTDBjRmFlV2VxX3hnd3RaTXZUYVYwWm9TU2F0QXdYZEo0R3ozMkh1Tk82b0VTc1RXcU1YcW9abnlMclE0WUNtTQ?oc=5",
+          "added_at": "2026-09-07 01:46:10"
+        },
         {
           "uid": "6828dcd65d4c",
           "date": "2026-07-01",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTBYcGVtZzJmU0FqRFpfVThGUHhQUDU5ZTduQUM5MWphSzloVWRnMTVtQU50VWFnT0Q0NjdudW1Od0tFM0JJWFlDdDk3akFOeUtUOTkxNnNWbzNjdFoyZmlvZHNCN3g5UlZuYy1kZDFfMWcxZzNpUGw5WjV2dTZ5dmptWQ?oc=5",
           "added_at": "2026-06-03 09:19:56"
-        },
-        {
-          "uid": "19854f10d28e",
-          "date": "2026-03-16",
-          "title": "EU risks losing US soy imports under deforestation rules, Washington warns - Euractiv",
-          "summary": "欧州産業加速法案（IAA）と直接関連する具体的な内容が提供されていないため、正確な要約ができません。ただし、タイトルから推測すると、EUの森林破壊規制がアメリカの大豆輸入制限につながる可能性があり、米国がこのリスクについてEUに警告しているという内容と考えられます。",
-          "source": "EURACTIV",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkZZNGk4dDFQUzFXMW9mdl90cFNndXE0LWpuRS1rdTlqU3cxVEU5bm9ubWRMUFM2M3A5Q3BRZUw5WHdCSTBhRk0tVlZWeUpGREFqQjdJSlUzb3BzcTlGMHo1Sno5N0VuY3ZHZmljZ3YzV3BQbHRqNDJ3UW5uS01WSnF0N0t4eXJTcTA4X2lZYzJOSFZKeWZVYnZ1RGNUdngwYjBYaXdzWQ?oc=5",
-          "added_at": "2026-06-03 09:19:56"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-06 18:12:22",
+      "last_checked": "2026-09-07 01:46:24",
       "items": [
+        {
+          "uid": "b5726e67e18a",
+          "date": "2026-06-25",
+          "title": "Polestar says the Commerce Department is banning US sales of its cars - CNN",
+          "summary": "ポールスターは米商務省により米国での自動車販売が禁止されていると主張しており、これはS.4429などの接続車両に関するセキュリティ規制の強化に伴う措置と考えられます。本規制は中国関連企業による米国自動車市場への進出を制限し、国家安全保障上のリスクを軽減することを目的としています。",
+          "source": "中国政府",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CQ3g3Q1pHWmZuVmdrMXVndkRaN0IwbENQZDVxQzNqT1IzN3hHTURBdW1pYklGa2VPV3RmQndFMjIxYnhMT2Y0aFRFYlAtYXRkOUNrSWRiWDlpUDIydS1oeElyaWFpQQ?oc=5",
+          "added_at": "2026-09-07 01:46:22"
+        },
         {
           "uid": "48de0e6401cf",
           "date": "2026-07-22",
@@ -4010,16 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3lhbEZtVnhhZWpBSjhvMUJmcWl5c3l0bGZROGVtQ2dienVORTZVX1BJT25rWUh0UUlCT3VDTVVvUGtSX2k0TFFLX21WMUJnTmhSZElKYWxLSFpBMWVzMFZrSU1rTFM4T0xxZWV3UmdWRi1fcDJGbUhMYnVBVVFjWkJHQXh6S0U4VjFzYTc3TThkUFRJVUREU2J3eF9YNWJubzJvdnpn?oc=5",
           "added_at": "2026-07-21 16:34:24"
-        },
-        {
-          "uid": "249c7088958e",
-          "date": "2026-07-21",
-          "title": "Lobbying Update: $1,170,000 of QUALCOMM INCORPORATED lobbying was just disclosed - Quiver Quantitative",
-          "summary": "クアルコムが117万ドルのロビー活動を開示し、米国接続車両安全保障法（S.4429）を含む自動車関連の規制に対する影響力行使を強化していることが明らかになった。同社は連結車両技術の安全基準策定に関わる法案に対して積極的にロビー活動を展開している。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUNjNEpPS3l2LXA5UUFNa2ZSU1B3M0dUYUlta21VNFVLdExOTENGNmlib3ozbkZ2U0RMMVozZS11X2dHTUY0SzROeWt2Sm00eE9ULWsxN0VhSDNnQk1BOURqazJTYXR6UFd5MG5pWDFGaHJ2UE1Lb0ZiM3pUODZpeVpZb1hTbjhKUHBsaHRlWWtpX1FlYjhSVzR1ZG85eE5JT1pBRW1GNUdJLVViTTFyVFBRZTFDbVZ1M1pEbEZB?oc=5",
-          "added_at": "2026-07-21 16:34:24"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-06 18:12:47",
+      "last_checked": "2026-09-07 01:46:44",
       "items": [
+        {
+          "uid": "37f83cef0093",
+          "date": "2026-07-14",
+          "title": "China Northern Rare Earth: H1 Net Profit Expected to Increase 112.74%-121.33%; Rare Earth Prices Overall Strengthened and Consolidated - Shanghai Metals Market",
+          "summary": "中国北方稀土は2024年上半期の純利益が112.74～121.33％増加する見込みであり、これは稀土価格全体の強化と堅調な推移を反映している。中国の稀土輸出管理政策により国内価格が上昇し、主要生産企業の収益が大幅に改善されている。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQcGcycWpTV1JFNlA5eUJ3eXdUbU9YM09TakVwN1I2amNSWVczd3RiLW9SN2tibGFJR3NsOVJ6LVJEMkhQVFJuanlXY3A5T1ZhMk5aU1VuaGxTUDdlUm9MaTVZZXl4OUNUamNydTRsQWpzazNEdnBLdVlBYjB4TjVfQTJMT0szQmdnaU9hV3lueGl1N3pyX0hRai05Z1lHS0hWX3kxZWxoelF4R19GT3FUd2tmX2I4cG43MC1wLUdlOC00MmZseGU1bWo3T2NPdG5mcFJ3Q2h1bEhPeG5lbFdGbVJ3aGNjR1hORlZnZE5lRlNOQU5ESU5KUF9jRzB0V2pjNGNr?oc=5",
+          "added_at": "2026-09-07 01:46:39"
+        },
+        {
+          "uid": "20f989a4fbfb",
+          "date": "2026-08-07",
+          "title": "China Rare Earth Industry Association Reports 263.6 Index as Ex-China Heavy Rare Earth Prices Diverge Sharply - Rare Earth Exchanges",
+          "summary": "中国レアアース産業協会が263.6のインデックスを報告する中、中国外の重希土類価格が大きく変動しており、中国のレアアース市場における価格形成と輸出管理の影響が顕在化している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzR1MC1oR2dYdTZvd1g0YW5uTTlnakN5SHpvdndvajlrdzk5OU1adHotRHpBNmpPSDBzLVdiQm92clZMZzdJYW5LSGhyUG4yZWxiYmRCaVY2dU91SDFic1QzdXdZT0x3c3g2bnU3UkZBWFgtRHdUX2JVVnkxdTJOZElkS3k2V3B5VFdwVEFnNTViRjY3OHFENGY5S3FENm9BdDVQTmk4eXBBZWEwY1Q3YW1yVmw4SU9wZWQ4M3Jub2hnNnduYk1zU0FoMG5XOFBrRlVMdDhYVGVOMW1QaG1F?oc=5",
+          "added_at": "2026-09-07 01:46:39"
+        },
+        {
+          "uid": "f38b6b36664a",
+          "date": "2026-06-09",
+          "title": "Are Critical Minerals Catalysing the Second Scramble for Africa? - Modern Diplomacy",
+          "summary": "申し訳ございませんが、提供いただいたタイトルのみで、記事の具体的な内容が含まれていないため、「中国レアアース輸出管理」の文脈での要約ができません。記事の本文をご提供ください。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX09aNUdnSDdxQ192N2JOT2RQd3NueEVsVTBqa2FOc2p4dUt6VzdRVjE0V2JNeWxPUldndk44c0Yzb0ZSOG9KVUx2V2NYUGI3WjhzZTZ0dU92LTVmR0JyMVRKRFFzemtMbDEtNGpKaWRMRkhKRE9Ed1lRVzV6c0FIemRmQjBmNFlYNHZxckZQUkxkZC1PRkp3TkdBVVpNQ3lIbXE3Xw?oc=5",
+          "added_at": "2026-09-07 01:46:39"
+        },
         {
           "uid": "8c76e253f5f0",
           "date": "2026-07-15",
@@ -6000,36 +6030,6 @@
           "source": "米国政府",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13NjhLRzZ0TmVodjc0MEs1WHN0Qko2WVZERk8xb3NnajE3d0VCQlZpZ3ptUFhrMlJjVVprQUdnc2hoSFZ0ZVpDSzFLSUduYkU4UlZraVhPLUF1d295cXBCaU1PT1g5WmxMNlBVeW9fQWZWcUdibWc?oc=5",
-          "added_at": "2026-08-19 23:36:55"
-        },
-        {
-          "uid": "ef96106202e9",
-          "date": "2026-08-03",
-          "title": "US faces new pressure to build weapons without China's rare earth magnets - ABC News - Breaking News, Latest News and Videos",
-          "summary": "中国がレアアース磁石の輸出を制限する中、米国は中国に依存しない防衛装備品の製造を強化する圧力に直面している。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX25wcVNmWFVSMm1UWThBSEJpd3lxVjJFU2NLdUxYNW9tbkJ1UF9ibHE3RjF4Yy1iXzUxQmhNa290al94OXZGcURYWjVwODJRdl9Nc2c5NVRrV2Y4YUU3enRDeGhPQnJxbFlQR0prRWZ5ZjE1MDdXa1A0a0JXVnlnZ3RzOXJKYU94OVZMT0dnWEFEM00y0gGaAUFVX3lxTE9ZU3BReGg5eWtWOWFUb1NiSGk4bGpHWkkzMWw5Rnc1UldrOHJDU251Sy1mUWwzS2JGUXVnT2hyVDdsZzExQU1YMTg2UHdaeXM4RzlaYWN5R00yc0pWdVlOUVNEYzFsWnYtdFQ4N05waG8yNVdVRGRSb0owMGtTSzlaZThlR1dzSFRSbjJzM2gzRjhuX3J6SGhhb2c?oc=5",
-          "added_at": "2026-08-19 23:36:55"
-        },
-        {
-          "uid": "f7f7ad4bbeaf",
-          "date": "2026-08-03",
-          "title": "U.S. companies work to cut reliance on China for critical minerals used in weapons - PBS",
-          "summary": "米国企業は、武器製造に用いられるレアアースなどの重要鉱物を中国からの輸入に依存していることから、その依存度を低下させるための取り組みを進めており、これは中国がレアアース輸出を管理・制限する可能性に対する防衛戦略となっている。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbWgxSWl1TlpkRzFYdkJ1VHd2Skp4Rmx5MDVrZkN0bDJnYjhNcUpRWHMyZ0cxZnhLazFwbDZ3d0otVTE1eGpiOFBhVGFBM1dJbWhTamRhNDVJbXpLcTFtY2FyMDJUcVUzWHI3OFFOZlpXalhXZnFBVDB0STBMaGV2SndwUU84U0c2bS1TQjdUVk9nN19TUGFkT2U4QWpIWmtnZVFCZkhiQXd4Yl82QnFqMEc5cnc4NENr?oc=5",
-          "added_at": "2026-08-19 23:36:55"
-        },
-        {
-          "uid": "d6f0dda65ca9",
-          "date": "2026-08-19",
-          "title": "Darline Graham pilloried for saying she’s ‘not that informed on national security’",
-          "summary": "申し訳ございませんが、提供いただいた記事は米国上院議員Darline Grahamの国家安全保障に関する発言についての内容であり、「中国レアアース輸出管理」との関連性が見当たりません。レアアース輸出管理に関する記事をご確認いただき、改めてご提供いただけますでしょうか。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/campaign/6037420-darline-graham-national-security-knowledge-criticism/",
           "added_at": "2026-08-19 23:36:55"
         }
       ]
