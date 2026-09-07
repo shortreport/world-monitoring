@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-09-07 10:08 JST",
   "total": 50,
-  "toyota_summary": "A major European automaker's board approved a sweeping cost-cutting plan today that will run through 2030, signaling the industry's struggle to fund the transition to electric vehicles while maintaining profits. The cuts come as governments worldwide tighten emissions rules—the International Maritime Organization's climate talks stalled over shipping decarbonization standards today, showing how regulatory pressure is spreading beyond cars to the entire transport sector. The company will need to shrink its cost base substantially, likely through factory closures and job cuts, to absorb both the capital required for EV production and the margin pressure from lower-cost Chinese competitors entering European markets.\n\nFor the industry, this validates what some Wall Street analysts have been warning: the EV transition is not compatible with current cost structures. Automakers face a squeeze from three directions at once—billions in capital spending for new platforms, price competition from Chinese makers and Tesla, and tightening regulations on emissions across all transport modes. Companies that cannot cut costs aggressively risk either losing money or losing market share.\n\nWatch whether other European and American automakers follow with similar restructuring announcements in the next quarter.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20260907_0213",
@@ -11,7 +11,12 @@
       "date_label": "SEP 7  02:13",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Germany’s far right AfD heads for its biggest win",
+      "html": "data/pdfs/20260907_0213_Germany’s_far_right_AfD_heads_for_its_biggest_win.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260905_0834",
@@ -21,7 +26,12 @@
       "date_label": "SEP 5  08:34",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Sep 4th, 2026",
+      "html": "data/pdfs/20260905_0834_Daily_Research_Summary_-_Sep_4th,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260905_0703",
@@ -31,7 +41,12 @@
       "date_label": "SEP 5  07:03",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iraq: Higher oil exports bring short-term relief",
+      "html": "data/pdfs/20260905_0703_Iraq__Higher_oil_exports_bring_short-term_relief.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260905_0112",
@@ -41,7 +56,12 @@
       "date_label": "SEP 5  01:12",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Republicans' outlook is remarkably stable",
+      "html": "data/pdfs/20260905_0112_Republicans'_outlook_is_remarkably_stable.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260905_0031",
@@ -61,7 +81,12 @@
       "date_label": "SEP 4  23:58",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "IMO climate talks stall as shipping deal deadline looms",
+      "html": "data/pdfs/20260904_2358_IMO_climate_talks_stall_as_shipping_deal_deadline_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260904_2229",
@@ -71,7 +96,12 @@
       "date_label": "SEP 4  22:29",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU: ChatGPT designation sets AI chatbot precedent",
+      "html": "data/pdfs/20260904_2229_EU__ChatGPT_designation_sets_AI_chatbot_precedent.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260904_2158",
@@ -81,7 +111,12 @@
       "date_label": "SEP 4  21:58",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How a ‘dodgy money’ scandal hijacked Nigel Farage’s reset conference",
+      "html": "data/pdfs/20260904_2158_How_a_‘dodgy_money’_scandal_hijacked_Nigel_Farage’.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260904_2144",
@@ -90,8 +125,13 @@
       "pdf": "data/pdfs/20260904_2144_Brazil’s_Lula_reelection_odds_drop_to_55%.pdf",
       "date_label": "SEP 4  21:44",
       "read_min": 8,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Brazil’s Lula reelection odds drop to 55%",
+      "html": "data/pdfs/20260904_2144_Brazil’s_Lula_reelection_odds_drop_to_55%.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260904_2105",
@@ -101,7 +141,12 @@
       "date_label": "SEP 4  21:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Ukraine, Poland explore joint FIFA World Cup bid",
+      "html": "data/pdfs/20260904_2105_Ukraine,_Poland_explore_joint_FIFA_World_Cup_bid.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260904_1904",
@@ -111,17 +156,27 @@
       "date_label": "SEP 4  19:04",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU blasts Serbia over ‘Butcher of Bosnia’ funeral",
+      "html": "data/pdfs/20260904_1904_EU_blasts_Serbia_over_‘Butcher_of_Bosnia’_funeral.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260904_1807",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/09/04",
       "pdf": "data/pdfs/20260904_1807_「ジェトロ・ビジネス短信」2026_09_04.pdf",
       "date_label": "SEP 4  18:07",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" 2026/09/04",
+      "html": "data/pdfs/20260904_1807_「ジェトロ・ビジネス短信」2026_09_04.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260904_1807_「ジェトロ・ビジネス短信」2026_09_04_en.pdf"
     },
     {
       "ts": "20260904_1736",
@@ -131,7 +186,12 @@
       "date_label": "SEP 4  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Friedrich Merz will lose Sunday’s regional election — whatever the result",
+      "html": "data/pdfs/20260904_1736_Friedrich_Merz_will_lose_Sunday’s_regional_electio.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260904_1635",
@@ -141,7 +201,12 @@
       "date_label": "SEP 4  16:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Germany’s far-right moment hastens EU’s push for €2T budget deal",
+      "html": "data/pdfs/20260904_1635_Germany’s_far-right_moment_hastens_EU’s_push_for_€.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260904_1532",
@@ -151,7 +216,12 @@
       "date_label": "SEP 4  15:32",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Russia: Duma election tests system capacity",
+      "html": "data/pdfs/20260904_1532_Russia__Duma_election_tests_system_capacity.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260904_1405",
@@ -161,7 +231,12 @@
       "date_label": "SEP 4  14:05",
       "read_min": 10,
       "toyota": true,
-      "excerpt": "• フォルクスワーゲンの取締役会がCEO オリバー・ブルーメの経費削減計画を承認し、2030年まで"
+      "excerpt": "• フォルクスワーゲンの取締役会がCEO オリバー・ブルーメの経費削減計画を承認し、2030年まで",
+      "subject_en": "White smoke at Volkswagen",
+      "html": "data/pdfs/20260904_1405_White_smoke_at_Volkswagen.html",
+      "summary_en": "Volkswagen's supervisory board unanimously approved CEO Oliver Blume's cost-cutting plan, agreeing to cut up to 50,000 jobs and close four German plants—Emden, Zwickau, Hanover, and Neckarsulm—bringing total job losses to around 100,000 by 2030. The automaker aims for 9 million annual vehicle sales and a 9% operating margin by 2030, while halving its model lineup and simplifying governance. The plan, backed by union IG Metall, marks Blume's second attempt after failing to secure board approval in July.",
+      "summary_ja": "フォルクスワーゲンの監査役会は、CEOオリバー・ブルーメ氏が提案したコスト削減計画を全会一致で承認し、最大5万人の追加人員削減とエムデン、ツヴィッカウ、ハノーバー、ネッカーズルムのドイツ国内4工場の閉鎖に合意した。これにより2030年までの人員削減数は計約10万人に達する見込みで、同社は2030年までに年間900万台の販売と9%の営業利益率を目指し、車種ラインナップも半減させる方針だ。この計画は労働組合IGメタルの支持を得ており、7月に承認を得られなかったブルーメ氏にとって2度目の挑戦での成功となった。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260904_1359",
@@ -171,7 +246,12 @@
       "date_label": "SEP 4  13:59",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The EU confronts its enlargement dilemma",
+      "html": "data/pdfs/20260904_1359_The_EU_confronts_its_enlargement_dilemma.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260904_0800",
@@ -492,7 +572,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "中国は商品住宅販売制度を改善し、予約販売から段階的に現物販売へ移行するほか、物流ネットワ",
-      "subject_en": "\"JETRO Business Brief\" 2026/09/03",
+      "subject_en": "\"JETRO Business Bulletin\" 2026/09/03",
       "html": "data/pdfs/20260903_1806_「ジェトロ・ビジネス短信」2026_09_03.html",
       "summary_en": "Thailand's government plans to convene a review committee on reforming its automotive tax system, a move that could affect both domestic manufacturers and Chinese EV makers expanding in the market. Separately, Mexico has launched an anti-dumping investigation into Japanese hot-rolled steel sheet, a key input for auto parts production, though coil products are excluded from the probe. These developments signal tightening trade and tax scrutiny across Asian and North American auto supply chains.",
       "summary_ja": "タイ政府は自動車税制の見直しに向けた検討会議を開催する方針で、国内メーカーや同市場で拡大する中国系EVメーカーへの影響が注目される。一方、メキシコは自動車部品向け原材料となる日本産熱延鋼板シート材に対しアンチダンピング調査を開始したが、コイル材は対象外とした。これらの動きは、アジアや北米の自動車サプライチェーンにおける貿易・税制面の監視強化を示している。",
@@ -597,7 +677,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "Notice of New JETRO Regional and Analysis Reports (September 3, 2026 Issue)",
+      "subject_en": "JETRO Regional and Analysis Report New Arrival Notice (September 3, 2026 Issue)",
       "html": "data/pdfs/20260903_1401_ジェトロ地域・分析レポートの新着のご案内（2026年9月3日号）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -663,5 +743,6 @@
       "toyota": true,
       "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
