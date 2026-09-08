@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-08 14:48 JST",
+  "updated_at": "2026-09-08 14:49 JST",
   "total": 50,
-  "toyota_summary": "EU regulators restarted negotiations today on car CO2 emission standards, with the environmental working group debating concrete targets for the first time since talks stalled. The bloc is under pressure to set rules that manufacturers can actually meet while competing against Chinese and American rivals who face looser requirements. The EU trade chief is separately meeting with corporate leaders on September 18 to discuss reducing dependence on Chinese supply chains, signaling the commission views automotive sourcing as a critical vulnerability.\n\nThe stakes are simple: stricter CO2 rules without relief on tariffs or supply chain costs could price European carmakers out of their own market. China's EV makers are undercutting them on price, and the U.S. has locked up domestic battery supply. If Brussels tightens emissions rules while Chinese competitors avoid the same standards, manufacturers will shift production or lose sales.\n\nWatch whether the EU ties any CO2 relief to progress on reshoring critical components, particularly batteries and semiconductors.",
+  "toyota_summary": "EUのCO2排出基準を巡る協議が再開され、当局はEVシフトを負担ではなく競争力強化の鍵と位置づけ、目標緩和論には反対の姿勢を鮮明にしている。これは、業界のコスト懸念をよそに、電動化加速に向けた規制圧力が今後も続くことを示唆するものである。\n\n欧州委員会はまた、自動車メーカーの中国製部品への依存低減にも動いており、対北京貿易協議を前に、サプライヤー多様化策を巡り各社CEOと会合を持った。拘束力を伴う調達ルールが導入されれば、重要材料のサプライチェーンが再編される可能性がある。\n\nフォルクスワーゲンのオスナブリュック工場における防衛転換、中国のコンプライアンス・検査規則、北米における港湾手数料およびEV割当を巡る動向については、参考情報として付記する。",
   "emails": [
     {
       "ts": "20260908_1402",
@@ -11,7 +11,12 @@
       "date_label": "SEP 8  14:02",
       "read_min": 9,
       "toyota": true,
-      "excerpt": "EU自動車メーカーのCO2排出基準に関する交渉が本日再開され、環境作業部会が目標について議"
+      "excerpt": "EU自動車メーカーのCO2排出基準に関する交渉が本日再開され、環境作業部会が目標について議",
+      "subject_en": "Car CO2 standard negotiations restart",
+      "html": "data/pdfs/20260908_1402_Car_CO2_standard_negotiations_restart.html",
+      "summary_en": "EU policymakers resumed talks today on CO2 emission standards for automakers, with climate officials urging against weakening the targets. The Commission is reframing decarbonization as an industrial competitiveness issue rather than purely an environmental one, arguing that EVs already offer lower running costs than combustion cars amid rising fuel prices. Both EU officials and lawmakers stressed that slowing the EV transition would hurt, not help, Europe's competitiveness.",
+      "summary_ja": "EUの政策担当者は本日、自動車メーカー向けCO2排出基準に関する交渉を再開し、気候当局は目標の緩和に反対する姿勢を示した。欧州委員会は脱炭素化を単なる環境政策ではなく産業競争力の問題として位置づけ直しており、燃料価格上昇の中でEVは既にガソリン車より運用コストが低いと主張している。EU当局者や議員は、EVへの移行を減速させることは欧州の競争力を損なうと強調した。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_1355",
@@ -21,7 +26,12 @@
       "date_label": "SEP 8  13:55",
       "read_min": 13,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Inside the collapse of Kallas’ defense group ",
+      "html": "data/pdfs/20260908_1355_Inside_the_collapse_of_Kallas’_defense_group.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_1327",
@@ -31,7 +41,12 @@
       "date_label": "SEP 8  13:27",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "特別配信：米中関係は2031年まで管理されたデカップリングが基本シナリオ",
+      "html": "data/pdfs/20260908_1327_特別配信：米中関係は2031年まで管理されたデカップリングが基本シナリオ.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_0138",
@@ -41,7 +56,12 @@
       "date_label": "SEP 8  01:38",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Ratko Mladić funeral exposes gap between Serbia’s EU ambitions and political reality",
+      "html": "data/pdfs/20260908_0138_Ratko_Mladić_funeral_exposes_gap_between_Serbia’s_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_0117",
@@ -51,7 +71,12 @@
       "date_label": "SEP 8  01:17",
       "read_min": 3,
       "toyota": true,
-      "excerpt": "EU通商委員会のシェフチョビッチ委員は9月18日に欧州企業トップと会合し、中国への依存度低"
+      "excerpt": "EU通商委員会のシェフチョビッチ委員は9月18日に欧州企業トップと会合し、中国への依存度低",
+      "subject_en": "EU trade chief to meet CEOs over China strategy",
+      "html": "data/pdfs/20260908_0117_EU_trade_chief_to_meet_CEOs_over_China_strategy.html",
+      "summary_en": "EU Trade Commissioner Maroš Šefčovič will meet CEOs from the automotive, machinery, electrical components and chemical sectors on Sept. 18 to gauge industry appetite for a proposed 'diversification tool' aimed at reducing reliance on Chinese suppliers for critical materials. The move comes as Brussels intensifies talks with Beijing over the EU's massive trade deficit, with Šefčovič set to speak with his Chinese counterpart before an October visit to Beijing. Automakers, heavily exposed to Chinese supply chains for raw materials and components, will be key to shaping how any binding sourcing requirements might work.",
+      "summary_ja": "EU のマロシュ・シェフチョビッチ通商担当委員は9月18日、自動車・機械・電子部品・化学分野の経営者と会談し、中国依存を減らすための「多様化ツール」導入案に対する業界の意向を探る。欧州委は中国との巨額の貿易赤字を背景に北京との協議を強化しており、シェフチョビッチ氏は10月の訪中前に中国側カウンターパートと会談する予定。原材料や部品の対中依存度が高い自動車業界の意見が、調達義務化の設計に大きく影響しそうだ。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_0031",
@@ -71,7 +96,12 @@
       "date_label": "SEP 7  22:37",
       "read_min": 2,
       "toyota": true,
-      "excerpt": "フォルクスワーゲンがオスナブリュック工場をイスラエルのラファエル社が製造する「アイアンド"
+      "excerpt": "フォルクスワーゲンがオスナブリュック工場をイスラエルのラファエル社が製造する「アイアンド",
+      "subject_en": "VW factory to be used for Israeli air defense system",
+      "html": "data/pdfs/20260907_2237_VW_factory_to_be_used_for_Israeli_air_defense_syst.html",
+      "summary_en": "Volkswagen is selling its Osnabrück plant to Lower Saxony and Aurelius Capital, converting it into a defense hub to produce Israel's Iron Dome air defense system with Rafael. The move is part of VW's broader cost-cutting plan involving 100,000 job cuts and four factory sales, while CEO Oliver Blume has pushed to diversify into defense amid Germany's push for greater security independence. Iron Dome complements Germany's existing Arrow 3 system, targeting lower-tier threats like rockets, drones, and artillery.",
+      "summary_ja": "フォルクスワーゲンはオスナブリュック工場をニーダーザクセン州とアウレリウス・キャピタルに売却し、イスラエルのラファエル社と共同でアイアンドーム防空システムを生産する防衛拠点に転換する。この動きは10万人の人員削減と4工場売却を含む同社のコスト削減計画の一環であり、CEOオリバー・ブルーメ氏はドイツの安全保障自立強化の流れの中で防衛分野への多角化を進めてきた。アイアンドームは既存のアロー3システムを補完し、ロケット弾やドローン、迫撃砲などの低空脅威への対処を担う。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260907_2121",
@@ -81,17 +111,27 @@
       "date_label": "SEP 7  21:21",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Germany: AfD is likely to rule after landslide victory",
+      "html": "data/pdfs/20260907_2121_Germany__AfD_is_likely_to_rule_after_landslide_vic.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260907_2053",
-      "sender_norm": "Gerald",
+      "sender_norm": "Gerald Butts",
       "subject": "EG Update",
       "pdf": "data/pdfs/20260907_2053_EG_Update.pdf",
       "date_label": "SEP 7  20:53",
       "read_min": 13,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Update",
+      "html": "data/pdfs/20260907_2053_EG_Update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260907_2020",
@@ -101,7 +141,12 @@
       "date_label": "SEP 7  20:20",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU already applying new merger rulebook, Ribera says",
+      "html": "data/pdfs/20260907_2020_EU_already_applying_new_merger_rulebook,_Ribera_sa.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260907_1910",
@@ -111,7 +156,12 @@
       "date_label": "SEP 7  19:10",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Russia has entered Sweden’s election campaign, center-left front-runner warns",
+      "html": "data/pdfs/20260907_1910_Russia_has_entered_Sweden’s_election_campaign,_cen.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260907_1908",
@@ -121,17 +171,27 @@
       "date_label": "SEP 7  19:08",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Germany fears France’s Palantir rival risks creating a new dependency",
+      "html": "data/pdfs/20260907_1908_Germany_fears_France’s_Palantir_rival_risks_creati.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260907_1848",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/09/07",
       "pdf": "data/pdfs/20260907_1848_「ジェトロ・ビジネス短信」2026_09_07.pdf",
       "date_label": "SEP 7  18:48",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "ジェトロが上海でロリータ関連展示会に出展し、日本ブランドのPR・販促を実施している。"
+      "excerpt": "ジェトロが上海でロリータ関連展示会に出展し、日本ブランドのPR・販促を実施している。",
+      "subject_en": "\"JETRO Business Brief\" 2026/09/07",
+      "html": "data/pdfs/20260907_1848_「ジェトロ・ビジネス短信」2026_09_07.html",
+      "summary_en": "China issued new guidelines for automakers on overseas competition practices and compliance, while also launching surprise quality inspections of road vehicles with a focus on autonomous-driving systems. In North America, three major U.S. auto industry groups urged continuation of the suspension on port fees for foreign-built vehicle carriers, and Canada began the second phase of its first-year import quota system for Chinese-made EVs.",
+      "summary_ja": "中国は自動車業界向けに国外での競争行為とコンプライアンス対応に関する新ガイドラインを発表するとともに、自動運転関連を重点とした道路車両の抜き打ち品質検査を開始した。北米では米自動車3団体が外国製自動車運搬船への入港料停止措置の継続を要請し、カナダは中国製EVの輸入割当制度で初年度第2期の運用を開始した。",
+      "summary_pdf": "data/pdfs/20260907_1848_「ジェトロ・ビジネス短信」2026_09_07_en.pdf"
     },
     {
       "ts": "20260907_1735",
@@ -141,7 +201,12 @@
       "date_label": "SEP 7  17:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Russia’s Rosatom expects more delays to Hungary nuclear plant, document shows",
+      "html": "data/pdfs/20260907_1735_Russia’s_Rosatom_expects_more_delays_to_Hungary_nu.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260907_1728",
@@ -150,8 +215,13 @@
       "pdf": "data/pdfs/20260907_1728_EG_Research_Summary_in_Japanese.pdf",
       "date_label": "SEP 7  17:28",
       "read_min": 2,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20260907_1728_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260907_1441",
@@ -160,8 +230,13 @@
       "pdf": "data/pdfs/20260907_1441_ジェトロ・メンバーズニュース第474号.pdf",
       "date_label": "SEP 7  14:41",
       "read_min": 3,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "JETRO Members News No. 474",
+      "html": "data/pdfs/20260907_1441_ジェトロ・メンバーズニュース第474号.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260907_1441_ジェトロ・メンバーズニュース第474号_en.pdf"
     },
     {
       "ts": "20260907_1413",
@@ -171,7 +246,12 @@
       "date_label": "SEP 7  14:13",
       "read_min": 14,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Euroskeptics steal the spotlight",
+      "html": "data/pdfs/20260907_1413_Euroskeptics_steal_the_spotlight.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260907_1402",
@@ -181,7 +261,12 @@
       "date_label": "SEP 7  14:02",
       "read_min": 8,
       "toyota": true,
-      "excerpt": "英国のEU担当大臣がブリュッセルでマロシュ・シェフチョビッチ欧州委員会貿易委員として、「"
+      "excerpt": "英国のEU担当大臣がブリュッセルでマロシュ・シェフチョビッチ欧州委員会貿易委員として、「",
+      "subject_en": "UK wants in on ‘Made in Europe’",
+      "html": "data/pdfs/20260907_1402_UK_wants_in_on_‘Made_in_Europe’.html",
+      "summary_en": "The U.K.'s new EU minister is in Brussels to push for British-made cars to qualify under the EU's 'Made in Europe' procurement rules, a key concern for automakers as the bloc rolls out its Industrial Accelerator Act. With nearly 60% of U.K. auto exports going to the EU and corporate fleets driving most sales, losing access to fleet-electrification incentives and emission supercredits would be a major blow to British-built EVs. The talks come as Brussels finalizes binding electrification targets for corporate fleets under its December 2025 auto package.",
+      "summary_ja": "英国の新任EU担当相がブリュッセルを訪れ、EUの「メイド・イン・ヨーロッパ」調達規則に英国製自動車を含めるよう交渉している。EUの産業促進法によるもので、自動車業界にとって重要な問題だ。英国の自動車輸出の約6割がEU向けで、企業向け車両（フリート）販売が売上の大半を占めるため、フリート電動化への補助金や排出量スーパークレジットの対象から外れれば、英国製EVにとって大きな打撃となる。EUが2025年12月提出の自動車パッケージで企業フリートの電動化義務目標を最終調整する中での交渉となる。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260907_1300",
@@ -191,7 +276,12 @@
       "date_label": "SEP 7  13:00",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe needs corn. Ukraine has it. But US farmers are poised to get the business.",
+      "html": "data/pdfs/20260907_1300_Europe_needs_corn._Ukraine_has_it._But_US_farmers_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260907_0213",
@@ -362,7 +452,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/09/04",
+      "subject_en": "JETRO Business Brief 2026/09/04",
       "html": "data/pdfs/20260904_1807_「ジェトロ・ビジネス短信」2026_09_04.html",
       "summary_en": "",
       "summary_ja": "",
@@ -648,5 +738,6 @@
       "toyota": true,
       "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "EU CO2 standard talks resumed, with officials framing the EV transition as key to competitiveness rather than a burden, and pushing back against weakening targets. This signals continued regulatory pressure on automakers to accelerate electrification despite industry cost concerns.\n\nBrussels is also moving to reduce automakers' dependence on Chinese suppliers, meeting CEOs on a diversification tool ahead of trade talks with Beijing. Any binding sourcing rules could reshape supply chains for critical materials.\n\nVW's Osnabrück defense conversion, China's compliance and inspection rules, and North American port-fee and EV-quota developments are provided for reference."
 }
