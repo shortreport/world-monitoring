@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08 03:39:11",
+  "generated_at": "2026-09-08 14:56:43",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-08 03:38:40",
+      "last_checked": "2026-09-08 14:56:03",
       "items": [
+        {
+          "uid": "1949ef90cf87",
+          "date": "2026-09-08",
+          "title": "Industrial Accelerator Act: Study sees greater potential for low-carbon concrete - Table.Briefings",
+          "summary": "欧州産業加速法案は低炭素コンクリートの導入拡大の可能性を示唆する研究結果を受けており、建設産業のカーボンニュートラル化を推進する重要な施策として位置付けられています。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOenc3U01OOVVxOU9XakxOR2poVW9PYjhxTW5vSDV5dVFTSGFYS3VwOWtFWENaYmktR3JEQktuTEtpRG1kN2tJOFN3alotN1pxNmVXeXJyU29iUThlVGZkb3FCZ3k4N0ozLVJfd2pzTl9FdUxtVDZoRVBCaVdNUnJwZllxcEdxOE1IZl9TZWs5QTl6SC1idV90Q0VuLTRNeWx3d1F0U0pwcDRuOW1aOTAyYXI1NjI?oc=5",
+          "added_at": "2026-09-08 14:56:02"
+        },
         {
           "uid": "a2d6f2a420f1",
           "date": "2026-08-14",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vdXVNOFZDMy1ncG1sNFFUY1lHZ1RvOVJzTkYwTGQtOWNtaVNsekhJbVUwQlR0MC01aEhxWWZGY3ZfX1FmcmdQNWpPa1ZmWFF5Tl9MRllGa3hKM093YVBpMkxB?oc=5",
           "added_at": "2026-06-03 09:19:56"
-        },
-        {
-          "uid": "e76063ffcbcf",
-          "date": "2026-05-04",
-          "title": "RED THREAD: China steps back from globalisation - Euractiv",
-          "summary": "申し訳ございませんが、提供いただいたテキストが不完全です。タイトルのみで記事の本文内容がないため、「欧州産業加速法案（IAA）」に関する文脈での要約ができません。記事の本文を提供していただければ、要約可能です。",
-          "source": "EURACTIV",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTBYcGVtZzJmU0FqRFpfVThGUHhQUDU5ZTduQUM5MWphSzloVWRnMTVtQU50VWFnT0Q0NjdudW1Od0tFM0JJWFlDdDk3akFOeUtUOTkxNnNWbzNjdFoyZmlvZHNCN3g5UlZuYy1kZDFfMWcxZzNpUGw5WjV2dTZ5dmptWQ?oc=5",
-          "added_at": "2026-06-03 09:19:56"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-08 03:38:54",
+      "last_checked": "2026-09-08 14:56:18",
       "items": [
+        {
+          "uid": "d00e4e2471a9",
+          "date": "2026-09-08",
+          "title": "EU trade chief to meet CEOs over China strategy",
+          "summary": "EUの通商担当者が中国戦略について欧州の機械、自動車、電子機器、化学産業の最高経営責任者らと会合を開く予定であり、これは米国のS.4429法における接続車両のサプライチェーンセキュリティ規制と同様に、中国関連の産業セキュリティ対策への戦略的対応を示唆している。EUも米国と同様に、主要産業の対中依存度低減と技術セキュリティの強化を検討していることが伺える。",
+          "source": "POLITICO",
+          "source_type": "media",
+          "url": "https://www.politico.eu/article/eu-trade-chief-maros-sefcovic-meet-eu-ceos-over-china-strategy/",
+          "added_at": "2026-09-08 14:56:15"
+        },
         {
           "uid": "4099f3fe137c",
           "date": "2026-09-07",
@@ -4010,16 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DQl94Q2hZZmdBZGRYQlVqblpTRTFBbUNkWVprdnBXUnVnamIzMnF5M1ZmWDFwbkNKck53YnJPM0xBU2N4akdhQXdnZXBzSjhpS1ZaYWhwUWVRRFlLbDAzT0hCeEFwZUd2bFZr?oc=5",
           "added_at": "2026-07-23 00:44:51"
-        },
-        {
-          "uid": "9763ed62856a",
-          "date": "2026-07-21",
-          "title": "U.S. auto industry races to purge Chinese connected-car hardware amid federal push - Reuters",
-          "summary": "米国の自動車産業は、S.4429法案に基づく連邦政府の要請により、接続車両（コネクテッドカー）から中国製ハードウェアを排除する競争を加速させている。この法案は、国家安全保障上の懸念から、中国の部品やシステムに対する規制を強化しようとしている。",
-          "source": "業界団体（自動車）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3k0VFhMXzdjcHd4SUczVkNmWVNQU1U5OHY3dHFVdjNzVklhYS01c0FnaW9vbUVrVnpaNFNvd3JGZ2FQUXAybzdXekU4Y1ptT1JVN0p0WEVJQUdEaS1HSDFvN29lbllLbmlQZThVaWphaUUxdVNSLURqSDlSZF9zTzBpRzIxSFJyMlhlUVZQZEZZTWg2N0o2d1Y1bG81RXVacXBCZHZrSEpxNjkxZWZnU3VxbE8xVFhJa2N3OVFqd053WUliQzFKd1BtUm9jVE02UHc?oc=5",
-          "added_at": "2026-07-22 16:36:20"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-08 03:39:11",
+      "last_checked": "2026-09-08 14:56:43",
       "items": [
+        {
+          "uid": "4da0d7258ffc",
+          "date": "2026-06-24",
+          "title": "Beijing Tightens Critical Mineral Export Controls with a Chinese-Style Whistleblower Program - Geopolitechs",
+          "summary": "中国政府がレアアース等の重要鉱物の輸出管理を強化するため、中国式の内部告発制度を導入し、違法な密輸出や過度な輸出を監視する体制を整備した。この措置により、戦略的に重要なレアアースの流出を抑制し、地政学的な影響力を強化しようとしている。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uYmZMTU5PNldWVkNmb3ppTEU2SmNuUTdMVjRfcFpzSDVFRmFQemRvZmRSdDdOQ0FfYjV2cFNKU2owVFFkZXhyS1VkZ2VQLXlubTlkMjV6U3JsM3FiTjgzOEJvSEpzTTV4SGNZVWU1aEw3Zw?oc=5",
+          "added_at": "2026-09-08 14:56:37"
+        },
+        {
+          "uid": "2867a4f9448c",
+          "date": "2026-09-03",
+          "title": "Brazil’s Senate passes rare earth minerals regulation, paving the way for boosted exploration - YourCentralValley.com",
+          "summary": "ブラジル上院がレアアース鉱物規制を可決し、探鉱の促進への道を開いたもので、中国の独占的な輸出管理に対する代替供給源の構築を目指す動きとして位置付けられます。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLXlVQWI1eGNpY09DYm1wSHoxa21xQWQxVHowaS1TQldYYWJmcHlTVHRXbzRseFFyX1hFVVJFcWZQbUdrSG9vODhrVm1XUk5URW9XeWctdkdlZGlLZ2w4ajdOTG5rM3hZaFhGemFpRjFHSk01Mm9fcGhCVzVBSGI3Tk9uTlpGR28xTF9VSUgxaFVSUlNpRXdLYTdWeDhfSE1fS2hJNC00b1ZCSGJBSTZpaGNvSWtlQUpoQmtTN2lONVpkcnQ2Q1FrZkU1Nm8yWEtFUElIVGpBZ1R1cDjSAeABQVVfeXFMTUdiNVR4NjZQSlhtSXFhdi1pXzJJZzlaLXF3RWZRdDRRbVJfUFMycDlNcmxBV3dZVWpEdmJMaVlpNmZNdlg0UDNlMmRBcE1zYVhpWWw1UnJLalZKdWFrMldaX3k0cGs3VnBhcG1UQ3E3bG9uZjdaSUNDWnNORkZwNkllY1A3RGJQUnZoazRoWVJvYVdNeXZweFJQUUhfdlhwVm44UjhpUnlfLXl0Rmp2QVFnVWVSOHJBUzluLVRIM1Iya1Z0RUZlQWFnOU84X1FhUklSalZnVlNyWndxMXE2c2Q?oc=5",
+          "added_at": "2026-09-08 14:56:37"
+        },
+        {
+          "uid": "77c63e09dbdd",
+          "date": "2026-08-05",
+          "title": "China lands painful retaliation over EU sanctions on Russia - The Bell",
+          "summary": "中国がEUのロシア制裁に対する報復として、レアアース輸出管理を含む経済的措置を講じ、EUに対する圧力を強化している。この報復は、中国のレアアース供給支配力を活用した戦略的な経済制裁の一例を示している。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0RCODVkWGQ4cWhTM3gyU0EtTlhtTU1jZmlZS1dwUi1NX2t3NUVkVTdtOUNGaWQxTXJUMjVPbGlwaE8zbHUzVlVXYkJrdUxvU2NaQ0VuVGU2STVPVFJtazVMY3FIeWc1d1J0Qy1DM1RGRDBKM1NTdkJHSHhwdXZteWstNU9IQ2RKVHc?oc=5",
+          "added_at": "2026-09-08 14:56:37"
+        },
         {
           "uid": "c59d3a3f74cd",
           "date": "2026-07-17",
@@ -6001,36 +6031,6 @@
           "source_type": "media",
           "url": "https://www.ft.com/content/201a86a6-3597-4efb-b575-39172c729fe1?syn-25a6b1a6=1",
           "added_at": "2026-08-20 23:38:56"
-        },
-        {
-          "uid": "17bef7176a24",
-          "date": "2026-08-20",
-          "title": "Panama is one battle in China’s infrastructure war",
-          "summary": "中国はパナマ最高裁がパナマ運河入口の香港系企業の利権を取り消したことに対抗し、パナマ船籍船の検査と拿捕を増加させることで報復を行っており、これは戦略的インフラをめぐる中国の支配力を示す事例である。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/national-security/6040093-reversing-chinese-belt-road/",
-          "added_at": "2026-08-20 23:38:56"
-        },
-        {
-          "uid": "66e6d8c99cd4",
-          "date": "2026-06-06",
-          "title": "America's Drone Rush Runs Into a Supply Chain Reality - Rare Earth Exchanges",
-          "summary": "米国のドローン産業の急速な拡大は、中国が支配するレアアース供給チェーンの課題に直面しており、中国のレアアース輸出管理が米国の防衛・技術産業にとって深刻な制約となる可能性がある。ドローンなどの先端防衛技術の製造に不可欠なレアアースの確保が困難になれば、米国の産業競争力と安全保障が脅かされることになる。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU19CN05XWEdZX05JT014TjdPb2I4Z2ZGVEExcFJYU0VCeGZWWnhEZVAwU3dOZWVsZHA5dkJ2SUdSamxidlNaaVh0ZkhaVm01Q2JiWFhfbDY4VmpScFpBSGRoRE9YNFlUUHNxSS1EZkotMXRaaWROb2VNSUJkNHI3MFp1eFlaVTVfVXhwNVE3Q3NWcjQ?oc=5",
-          "added_at": "2026-08-20 14:34:05"
-        },
-        {
-          "uid": "4fb3e16080c7",
-          "date": "2026-06-10",
-          "title": "Brazil jostles for rare earths share as US-China rivalry heats up - Climate Home News",
-          "summary": "米国と中国のレアアース競争が激化する中、ブラジルがレアアース市場での地位確保に動いており、中国のレアアース輸出管理による供給制限に対抗する動きが広がっている。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdm1qTmprcF8tcmpKaEFTbHppWFNlbHZ2Nm00SW1LOHI5V0xrQmJQWEdiNGV6MGgxOEFGTVBpY2RQM3hTbzFWQk9TTVMxMDZsS2hFZTliR2diMlVBTkY0c1lpalBiVWswV2NaQUV3NHNob2FoTFdnaEVrbTVrcnh2QVZfWnZ5Z3J3N0tVWEVJaGdQcTBRbGtHNlBndEtzbGpDWTZQSHc2bHNBQW5HUmREWQ?oc=5",
-          "added_at": "2026-08-20 14:34:05"
         }
       ]
     }
