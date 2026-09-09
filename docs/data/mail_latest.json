@@ -1,202 +1,183 @@
 {
-  "generated_at": "2026-09-08 14:48 JST",
-  "sender_count": 5,
-  "total_mails": 19,
+  "generated_at": "2026-09-09 13:54 JST",
+  "sender_count": 3,
+  "total_mails": 21,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 3,
+      "count": 11,
       "bullets": [
-        "ロシア・ウクライナは秋に攻勢を激化させる一方、2027年夏の終わりまでに交渉の誘因が強まる見通し",
-        "ドイツ極右政党AfDがザクセン・アンハルト州選挙で圧勝し、州政府樹立の可能性が55％",
-        "中国共産党第21回党大会は秩序立った準備で進行し、経済実務派の台頭が予想される",
-        "米中関係は2031年まで管理されたデカップリングが基本シナリオ（確率60％）で、両国とも深刻なエスカレーションを回避",
-        "米政権移行、AI発展、台湾問題が米中基本シナリオ崩壊の最有力要因"
+        "イタリアのメローニ首相は2026年春の選挙で2期目獲得の可能性が60%と微弱ながら有利だが、選挙制度改革と新極右政党の連立統合が勝利の鍵",
+        "米国の半導体関税に関する議論は継続しているが、短期的には勢いを失う見通しで、政策方向の大きな転換につながる可能性は低い",
+        "米財務長官ベッセントは長期金利低下への取り組みを縮小し、自らのツールキットの効果の限界を認識しながらコース変更する見通し",
+        "ドイツの極右政党AfDのザクセン-アンハルト州での圧勝は、主流政党の回旋余地をさらに狭める自己強化的な力学を深化",
+        "米上院選挙は極めて接戦で共和党が薄氷の優位を保持しているが、民主党が優勢になるには高い障壁が存在"
       ],
       "subjects": [
         [
-          "2026-09-07",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20260907_1728_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-09-07",
-          "Germany: AfD is likely to rule after landslide victory",
-          "data/pdfs/20260907_2121_Germany__AfD_is_likely_to_rule_after_landslide_vic.pdf"
+          "2026-09-08",
+          "EG Italy: Meloni faces tight re-election odds",
+          "data/pdfs/20260908_1911_EG_Italy__Meloni_faces_tight_re-election_odds.pdf"
         ],
         [
           "2026-09-08",
-          "特別配信：米中関係は2031年まで管理されたデカップリングが基本シナ",
-          "data/pdfs/20260908_1327_特別配信：米中関係は2031年まで管理されたデカップリングが基本シナリオ.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260907_1728_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20260907_2121_Germany__AfD_is_likely_to_rule_after_landslide_vic.pdf",
-        "data/pdfs/20260908_1327_特別配信：米中関係は2031年まで管理されたデカップリングが基本シナリオ.pdf"
-      ]
-    },
-    {
-      "sender": "Gerald",
-      "short": "GERAL",
-      "color": "YEL",
-      "count": 1,
-      "bullets": [
-        "ユーラシア・グループのGerald Butts会長がIan会長の代理としてメール配信",
-        "2020年代の地政学的混乱が世界中のエネルギー転換を加速させることへの注目",
-        "G-Zero Twentiesという地政学的混乱の時代への言及"
-      ],
-      "subjects": [
+          "Italy’s Meloni faces tight election odds",
+          "data/pdfs/20260908_2140_Italy’s_Meloni_faces_tight_election_odds.pdf"
+        ],
         [
-          "2026-09-07",
-          "EG Update",
-          "data/pdfs/20260907_2053_EG_Update.pdf"
+          "2026-09-08",
+          "US semiconductor tariffs likely to be further delayed",
+          "data/pdfs/20260908_2326_US_semiconductor_tariffs_likely_to_be_further_dela.pdf"
+        ],
+        [
+          "2026-09-08",
+          "US Treasury’s toolkit to try to lower yields",
+          "data/pdfs/20260908_2327_US_Treasury’s_toolkit_to_try_to_lower_yields.pdf"
+        ],
+        [
+          "2026-09-08",
+          "Republicans retain razor-thin lead in Senate race",
+          "data/pdfs/20260908_2331_Republicans_retain_razor-thin_lead_in_Senate_race.pdf"
+        ],
+        [
+          "2026-09-09",
+          "Republicans retain razor-thin lead in Senate race",
+          "data/pdfs/20260909_0038_Republicans_retain_razor-thin_lead_in_Senate_race.pdf"
+        ],
+        [
+          "2026-09-09",
+          "US AI job fears are outpacing actual job losses",
+          "data/pdfs/20260909_0105_US_AI_job_fears_are_outpacing_actual_job_losses.pdf"
+        ],
+        [
+          "2026-09-09",
+          "Crude prices will exceed $100",
+          "data/pdfs/20260909_0121_Crude_prices_will_exceed_$100.pdf"
+        ],
+        [
+          "2026-09-09",
+          "Poland: Right-wing split boosts Tusk’s 2027 odds",
+          "data/pdfs/20260909_0145_Poland__Right-wing_split_boosts_Tusk’s_2027_odds.pdf"
+        ],
+        [
+          "2026-09-09",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20260909_0801_EG_Research_Summary_in_Japanese.pdf"
+        ],
+        [
+          "2026-09-09",
+          "eg update in Japanese",
+          "data/pdfs/20260909_0801_eg_update_in_Japanese.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260907_2053_EG_Update.pdf"
+        "data/pdfs/20260908_1911_EG_Italy__Meloni_faces_tight_re-election_odds.pdf",
+        "data/pdfs/20260908_2140_Italy’s_Meloni_faces_tight_election_odds.pdf",
+        "data/pdfs/20260908_2326_US_semiconductor_tariffs_likely_to_be_further_dela.pdf",
+        "data/pdfs/20260908_2327_US_Treasury’s_toolkit_to_try_to_lower_yields.pdf",
+        "data/pdfs/20260908_2331_Republicans_retain_razor-thin_lead_in_Senate_race.pdf",
+        "data/pdfs/20260909_0038_Republicans_retain_razor-thin_lead_in_Senate_race.pdf",
+        "data/pdfs/20260909_0105_US_AI_job_fears_are_outpacing_actual_job_losses.pdf",
+        "data/pdfs/20260909_0121_Crude_prices_will_exceed_$100.pdf",
+        "data/pdfs/20260909_0145_Poland__Right-wing_split_boosts_Tusk’s_2027_odds.pdf",
+        "data/pdfs/20260909_0801_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20260909_0801_eg_update_in_Japanese.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "RED",
-      "count": 13,
+      "color": "YEL",
+      "count": 9,
       "bullets": [
-        "ヨーロッパのトウモロコシ不足に対し、ウクライナが供給源となる一方で、米国の農家がビジネス機会を獲得する可能性",
-        "英国がEUの「Made in Europe」調達政策への参加を協議中であり、産業加速化法による公共調達の欧州優先要件が英国の自動車産業に影響",
-        "ドイツの極右政党AfDがザクセン・アンハルト州で第二次世界大戦以降最大の選挙成功を収め、ユーロ懐疑派が台頭",
-        "ロシアのロサトムがハンガリーの原子力発電所プロジェクトでさらなる遅延を予想し、2014年の構想以来複数の問題に直面",
-        "ヨーロッパの軍事AI技術開発をめぐってドイツとフランスが協力の必要性で合意しながらも主導権について合意に至らず、またスウェーデンの選挙キャンペーンへのロシアの介入が懸念"
+        "ドイツの極右勢力がメルツ首相を多角的に攻撃し、首相の曖昧な対応が課題",
+        "欧州委員会が公共調達枠組みの改定で品質とヨーロッパ優先を中心方針に据える方針",
+        "ロシア占領下のウクライナで差別的政策が生活全般に浸透し、ウクライナ文化の残存が危機",
+        "フランスとカナダがイギリスに続きイスラエル入植地への経済制裁を発動",
+        "EUがブリュッセル・北京協議の中で中国との政治対話推進と利益防衛のバランスを模索、同時にイスラエルと防空・宇宙技術での協力強化"
       ],
       "subjects": [
         [
-          "2026-09-07",
-          "Europe needs corn. Ukraine has it. But US farmers are poised to",
-          "data/pdfs/20260907_1300_Europe_needs_corn._Ukraine_has_it._But_US_farmers_.pdf"
-        ],
-        [
-          "2026-09-07",
-          "UK wants in on ‘Made in Europe’",
-          "data/pdfs/20260907_1402_UK_wants_in_on_‘Made_in_Europe’.pdf"
-        ],
-        [
-          "2026-09-07",
-          "Euroskeptics steal the spotlight",
-          "data/pdfs/20260907_1413_Euroskeptics_steal_the_spotlight.pdf"
-        ],
-        [
-          "2026-09-07",
-          "Russia’s Rosatom expects more delays to Hungary nuclear plant,",
-          "data/pdfs/20260907_1735_Russia’s_Rosatom_expects_more_delays_to_Hungary_nu.pdf"
-        ],
-        [
-          "2026-09-07",
-          "Germany fears France’s Palantir rival risks creating a new",
-          "data/pdfs/20260907_1908_Germany_fears_France’s_Palantir_rival_risks_creati.pdf"
-        ],
-        [
-          "2026-09-07",
-          "Russia has entered Sweden’s election campaign, center-left",
-          "data/pdfs/20260907_1910_Russia_has_entered_Sweden’s_election_campaign,_cen.pdf"
-        ],
-        [
-          "2026-09-07",
-          "EU already applying new merger rulebook, Ribera says",
-          "data/pdfs/20260907_2020_EU_already_applying_new_merger_rulebook,_Ribera_sa.pdf"
-        ],
-        [
-          "2026-09-07",
-          "VW factory to be used for Israeli air defense system",
-          "data/pdfs/20260907_2237_VW_factory_to_be_used_for_Israeli_air_defense_syst.pdf"
+          "2026-09-08",
+          "Merz has no good answers as the far right targets his downfall",
+          "data/pdfs/20260908_1635_Merz_has_no_good_answers_as_the_far_right_targets_.pdf"
         ],
         [
           "2026-09-08",
+          "Document: Commission looks to boost quality over price in public",
+          "data/pdfs/20260908_1819_Document__Commission_looks_to_boost_quality_over_p.pdf"
+        ],
+        [
+          "2026-09-08",
+          "The least free place on earth: Occupied Ukraine",
+          "data/pdfs/20260908_1906_The_least_free_place_on_earth__Occupied_Ukraine.pdf"
+        ],
+        [
+          "2026-09-08",
+          "France and Canada join UK in issuing trade sanctions on Israeli",
+          "data/pdfs/20260908_2154_France_and_Canada_join_UK_in_issuing_trade_sanctio.pdf"
+        ],
+        [
+          "2026-09-08",
+          "Teresa Ribera urges EU to talk to China — and defend its interests",
+          "data/pdfs/20260908_2157_Teresa_Ribera_urges_EU_to_talk_to_China_—_and_defe.pdf"
+        ],
+        [
+          "2026-09-08",
+          "EU pursues closer Israel ties on air defense and space",
+          "data/pdfs/20260908_2301_EU_pursues_closer_Israel_ties_on_air_defense_and_s.pdf"
+        ],
+        [
+          "2026-09-08",
+          "Document: Updated EU renewable energy rules to focus on",
+          "data/pdfs/20260908_2346_Document__Updated_EU_renewable_energy_rules_to_foc.pdf"
+        ],
+        [
+          "2026-09-09",
           "Pro Daily Headlines",
-          "data/pdfs/20260908_0031_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20260909_0032_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-09-08",
-          "EU trade chief to meet CEOs over China strategy",
-          "data/pdfs/20260908_0117_EU_trade_chief_to_meet_CEOs_over_China_strategy.pdf"
-        ],
-        [
-          "2026-09-08",
-          "Ratko Mladić funeral exposes gap between Serbia’s EU ambitions",
-          "data/pdfs/20260908_0138_Ratko_Mladić_funeral_exposes_gap_between_Serbia’s_.pdf"
-        ],
-        [
-          "2026-09-08",
-          "Inside the collapse of Kallas’ defense group",
-          "data/pdfs/20260908_1355_Inside_the_collapse_of_Kallas’_defense_group.pdf"
-        ],
-        [
-          "2026-09-08",
-          "Car CO2 standard negotiations restart",
-          "data/pdfs/20260908_1402_Car_CO2_standard_negotiations_restart.pdf"
+          "2026-09-09",
+          "The Draghi plan at 2: Competitiveness crusade runs into Europe’s",
+          "data/pdfs/20260909_0211_The_Draghi_plan_at_2__Competitiveness_crusade_runs.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260907_1300_Europe_needs_corn._Ukraine_has_it._But_US_farmers_.pdf",
-        "data/pdfs/20260907_1402_UK_wants_in_on_‘Made_in_Europe’.pdf",
-        "data/pdfs/20260907_1413_Euroskeptics_steal_the_spotlight.pdf",
-        "data/pdfs/20260907_1735_Russia’s_Rosatom_expects_more_delays_to_Hungary_nu.pdf",
-        "data/pdfs/20260907_1908_Germany_fears_France’s_Palantir_rival_risks_creati.pdf",
-        "data/pdfs/20260907_1910_Russia_has_entered_Sweden’s_election_campaign,_cen.pdf",
-        "data/pdfs/20260907_2020_EU_already_applying_new_merger_rulebook,_Ribera_sa.pdf",
-        "data/pdfs/20260907_2237_VW_factory_to_be_used_for_Israeli_air_defense_syst.pdf",
-        "data/pdfs/20260908_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260908_0117_EU_trade_chief_to_meet_CEOs_over_China_strategy.pdf",
-        "data/pdfs/20260908_0138_Ratko_Mladić_funeral_exposes_gap_between_Serbia’s_.pdf",
-        "data/pdfs/20260908_1355_Inside_the_collapse_of_Kallas’_defense_group.pdf",
-        "data/pdfs/20260908_1402_Car_CO2_standard_negotiations_restart.pdf"
-      ]
-    },
-    {
-      "sender": "ジェトロ",
-      "short": "ジェトロ",
-      "color": "ORG",
-      "count": 1,
-      "bullets": [
-        "ジェトロ・メンバーズ向けにセミナーや交流会、WEB講座などの各種イベント情報を提供",
-        "イスラエル・米国とイランの衝突に関する中東情勢と第2次トランプ政権の動向に関する特集情報を掲載",
-        "経済安全保障をめぐる課題と企業対応を共有するJM経済安保情報交換会を11月17日に開催（会場参加のみ）",
-        "会員企業同士による経済安全保障に関する実務上の課題や対応方向の情報交換機会を提供"
-      ],
-      "subjects": [
-        [
-          "2026-09-07",
-          "ジェトロ・メンバーズニュース第474号",
-          "data/pdfs/20260907_1441_ジェトロ・メンバーズニュース第474号.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260907_1441_ジェトロ・メンバーズニュース第474号.pdf"
+        "data/pdfs/20260908_1635_Merz_has_no_good_answers_as_the_far_right_targets_.pdf",
+        "data/pdfs/20260908_1819_Document__Commission_looks_to_boost_quality_over_p.pdf",
+        "data/pdfs/20260908_1906_The_least_free_place_on_earth__Occupied_Ukraine.pdf",
+        "data/pdfs/20260908_2154_France_and_Canada_join_UK_in_issuing_trade_sanctio.pdf",
+        "data/pdfs/20260908_2157_Teresa_Ribera_urges_EU_to_talk_to_China_—_and_defe.pdf",
+        "data/pdfs/20260908_2301_EU_pursues_closer_Israel_ties_on_air_defense_and_s.pdf",
+        "data/pdfs/20260908_2346_Document__Updated_EU_renewable_energy_rules_to_foc.pdf",
+        "data/pdfs/20260909_0032_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260909_0211_The_Draghi_plan_at_2__Competitiveness_crusade_runs.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "GRN",
+      "color": "RED",
       "count": 1,
       "bullets": [
-        "ジェトロが上海のロリータ関連展示会に出展し、日本ブランドのPR・販促を実施",
-        "中国が自動車業界の国外競争行為ガイドラインを発表し、深セン市は新製品発表・初出店に最大300万元を支給",
-        "インドのゴヤル商工相が来日し、半導体・AI分野での日印協力拡大を呼びかけ",
-        "ジェトロが北海道・北九州市の宇宙スタートアップの米国派遣・進出支援プログラムをサポート",
-        "メキシコの上半期対内直接投資が過去最高、電子機器分野などが牽引"
+        "中国が日本産ジクロロシランに対するAD調査で仮決定、最大99.2％の保証金徴収",
+        "中国国家市場監督管理総局が独占協定における個人責任適用のガイドラインを発表",
+        "韓国で最大級の音楽ビジネス見本市・商談会「MU:CON 2026」を開催",
+        "中国国際電子商取引産業博覧会がジャカルタで開催",
+        "インドがFTA活用状況を公表し、活用重視への転換を示唆"
       ],
       "subjects": [
         [
-          "2026-09-07",
-          "「ジェトロ・ビジネス短信」2026/09/07",
-          "data/pdfs/20260907_1848_「ジェトロ・ビジネス短信」2026_09_07.pdf"
+          "2026-09-08",
+          "「ジェトロ・ビジネス短信」2026/09/08",
+          "data/pdfs/20260908_1806_「ジェトロ・ビジネス短信」2026_09_08.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260907_1848_「ジェトロ・ビジネス短信」2026_09_07.pdf"
+        "data/pdfs/20260908_1806_「ジェトロ・ビジネス短信」2026_09_08.pdf"
       ]
     }
   ]
