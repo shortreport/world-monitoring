@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-09 13:54 JST",
+  "updated_at": "2026-09-09 13:55 JST",
   "total": 50,
-  "toyota_summary": "The EU restarted negotiations today on car CO2 emissions standards after a stall, with working groups debating revised targets. Separately, the EU trade chief is meeting with corporate executives next week to discuss reducing economic dependence on China—a direct signal that automakers will face pressure to diversify supply chains and production away from the mainland. These moves reflect a broader push, launched by Mario Draghi two years ago, to rebuild European industrial competitiveness, though implementation has lagged.\n\nFor automakers, this creates a squeeze. Tighter CO2 rules will require either faster electrification or costly retrofits to existing plants, while the China strategy could force expensive dual-sourcing decisions or new factory investments in allied countries. The cost and complexity compound just as margins are already under pressure from high energy prices and slowing demand.\n\nWatch whether the EU sets a clear timeline for CO2 compliance and how aggressively it moves to restrict Chinese battery or component imports.",
+  "toyota_summary": "EU政策当局は自動車メーカー向けCO2排出基準に関する協議を再開し、欧州委員会は目標の緩和論を退けている。同委員会はEV移行を単なる気候政策ではなく、産業競争力にとって不可欠なものと位置づけ、目標達成の先送りは欧州自動車メーカーを守るどころか、むしろ損なうことになると主張している。\n\n4100億ユーロ規模の基金創設を含むドラギ競争力アジェンダは、加盟各国政府が従来型支出の振り替えに抵抗を示していることから、依然として停滞したままである。これは改革への意欲とEU政治との間に横たわる摩擦が続いていることを物語っている。",
   "emails": [
     {
       "ts": "20260909_0801",
@@ -11,7 +11,12 @@
       "date_label": "SEP 9  08:01",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update in Japanese",
+      "html": "data/pdfs/20260909_0801_eg_update_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_0211",
@@ -21,7 +26,12 @@
       "date_label": "SEP 9  02:11",
       "read_min": 15,
       "toyota": true,
-      "excerpt": "マリオ・ドラッギが2年前に発表した欧州の競争力強化計画がEUの公式議題となったが、実行が修"
+      "excerpt": "マリオ・ドラッギが2年前に発表した欧州の競争力強化計画がEUの公式議題となったが、実行が修",
+      "subject_en": "The Draghi plan at 2: Competitiveness crusade runs into Europe’s old politics",
+      "html": "data/pdfs/20260909_0211_The_Draghi_plan_at_2__Competitiveness_crusade_runs.html",
+      "summary_en": "Two years after Mario Draghi's warning that Europe faces existential economic decline, his reform agenda has become official EU policy but remains stalled in the bloc's legislative machinery. The Commission has proposed measures like a €410 billion Competitiveness Fund, yet national governments are resisting shifts away from traditional spending on agriculture and regional funds. Draghi himself has grown visibly frustrated, recently co-founding the Rhine Group to push Europe from diagnosis toward actual implementation.",
+      "summary_ja": "マリオ・ドラギ氏が欧州の経済的衰退を「存亡に関わる」脅威と警告してから2年、その改革案はEUの公式方針となったものの、実行は依然として立法プロセスの中で停滞している。欧州委員会は4100億ユーロ規模の競争力基金など複数の施策を提案したが、各国政府は農業や地域向け予算からの資金移転に抵抗している。ドラギ氏自身も進展の遅さに苛立ちを強めており、最近では「ライングループ」を共同設立し、欧州を診断から実行へと後押ししようとしている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_0145",
@@ -31,7 +41,12 @@
       "date_label": "SEP 9  01:45",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Poland: Right-wing split boosts Tusk’s 2027 odds",
+      "html": "data/pdfs/20260909_0145_Poland__Right-wing_split_boosts_Tusk’s_2027_odds.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_0121",
@@ -40,8 +55,13 @@
       "pdf": "data/pdfs/20260909_0121_Crude_prices_will_exceed_$100.pdf",
       "date_label": "SEP 9  01:21",
       "read_min": 5,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Crude prices will exceed $100",
+      "html": "data/pdfs/20260909_0121_Crude_prices_will_exceed_$100.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_0105",
@@ -51,7 +71,12 @@
       "date_label": "SEP 9  01:05",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US AI job fears are outpacing actual job losses",
+      "html": "data/pdfs/20260909_0105_US_AI_job_fears_are_outpacing_actual_job_losses.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_0038",
@@ -61,7 +86,12 @@
       "date_label": "SEP 9  00:38",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Republicans retain razor-thin lead in Senate race",
+      "html": "data/pdfs/20260909_0038_Republicans_retain_razor-thin_lead_in_Senate_race.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_0032",
@@ -81,7 +111,12 @@
       "date_label": "SEP 8  23:46",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Document: Updated EU renewable energy rules to focus on simplification, not targets",
+      "html": "data/pdfs/20260908_2346_Document__Updated_EU_renewable_energy_rules_to_foc.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_2331",
@@ -91,7 +126,12 @@
       "date_label": "SEP 8  23:31",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Republicans retain razor-thin lead in Senate race",
+      "html": "data/pdfs/20260908_2331_Republicans_retain_razor-thin_lead_in_Senate_race.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_2327",
@@ -101,7 +141,12 @@
       "date_label": "SEP 8  23:27",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US Treasury’s toolkit to try to lower yields",
+      "html": "data/pdfs/20260908_2327_US_Treasury’s_toolkit_to_try_to_lower_yields.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_2326",
@@ -111,7 +156,12 @@
       "date_label": "SEP 8  23:26",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US semiconductor tariffs likely to be further delayed",
+      "html": "data/pdfs/20260908_2326_US_semiconductor_tariffs_likely_to_be_further_dela.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_2301",
@@ -120,8 +170,13 @@
       "pdf": "data/pdfs/20260908_2301_EU_pursues_closer_Israel_ties_on_air_defense_and_s.pdf",
       "date_label": "SEP 8  23:01",
       "read_min": 4,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EU pursues closer Israel ties on air defense and space",
+      "html": "data/pdfs/20260908_2301_EU_pursues_closer_Israel_ties_on_air_defense_and_s.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_2157",
@@ -131,7 +186,12 @@
       "date_label": "SEP 8  21:57",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Teresa Ribera urges EU to talk to China — and defend its interests",
+      "html": "data/pdfs/20260908_2157_Teresa_Ribera_urges_EU_to_talk_to_China_—_and_defe.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_2154",
@@ -141,7 +201,12 @@
       "date_label": "SEP 8  21:54",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "France and Canada join UK in issuing trade sanctions on Israeli settlements",
+      "html": "data/pdfs/20260908_2154_France_and_Canada_join_UK_in_issuing_trade_sanctio.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_2140",
@@ -151,7 +216,12 @@
       "date_label": "SEP 8  21:40",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Italy’s Meloni faces tight election odds",
+      "html": "data/pdfs/20260908_2140_Italy’s_Meloni_faces_tight_election_odds.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_1911",
@@ -161,7 +231,12 @@
       "date_label": "SEP 8  19:11",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Italy: Meloni faces tight re-election odds",
+      "html": "data/pdfs/20260908_1911_EG_Italy__Meloni_faces_tight_re-election_odds.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_1906",
@@ -171,7 +246,12 @@
       "date_label": "SEP 8  19:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The least free place on earth: Occupied Ukraine  ",
+      "html": "data/pdfs/20260908_1906_The_least_free_place_on_earth__Occupied_Ukraine.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_1819",
@@ -181,17 +261,27 @@
       "date_label": "SEP 8  18:19",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Document: Commission looks to boost quality over price in public procurement ",
+      "html": "data/pdfs/20260908_1819_Document__Commission_looks_to_boost_quality_over_p.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_1806",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/09/08",
       "pdf": "data/pdfs/20260908_1806_「ジェトロ・ビジネス短信」2026_09_08.pdf",
       "date_label": "SEP 8  18:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" 2026/09/08",
+      "html": "data/pdfs/20260908_1806_「ジェトロ・ビジネス短信」2026_09_08.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260908_1806_「ジェトロ・ビジネス短信」2026_09_08_en.pdf"
     },
     {
       "ts": "20260908_1635",
@@ -201,7 +291,12 @@
       "date_label": "SEP 8  16:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Merz has no good answers as the far right targets his downfall",
+      "html": "data/pdfs/20260908_1635_Merz_has_no_good_answers_as_the_far_right_targets_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260908_1402",
@@ -643,5 +738,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "EU policymakers have restarted CO2 standard negotiations for automakers, with the Commission pushing back against weakening targets. It's framing the EV transition as essential to industrial competitiveness, not just climate policy, arguing delays would hurt European automakers rather than protect them.\n\nThe Draghi competitiveness agenda, including a proposed €410 billion fund, remains stalled as national governments resist reallocating traditional spending, showing continued friction between reform ambitions and EU politics."
 }
