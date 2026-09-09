@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09 14:05:39",
+  "generated_at": "2026-09-09 18:27:33",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-09 14:04:40",
+      "last_checked": "2026-09-09 18:27:12",
       "items": [
+        {
+          "uid": "a34f32b87e73",
+          "date": "2026-09-07",
+          "title": "Industrial Accelerator Act - European Parliament proposes seven requirements for considering product from third country equivalent to one from EU - Agence Europe",
+          "summary": "欧州産業加速法案に関して、欧州議会は第三国の製品をEU製品と同等と見なすための7つの要件を提案しており、これにより域外製品の市場受け入れ条件を明確化する方針を示している。この要件は、EU産業の競争力維持と域内市場の統一性を図りながら、国際的な製品基準の調和を進めるための枠組みとなる。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPX3NfamVDMEtFcVFJckFUUDRRdTdiNzQ1Yk5KelBYSXAydEh6YlplRkQ5OWpGdnQ1YlRqcXRucmZqLUlzSlQ2dlJZVlBLWlBXTDNGYVlDRVJtdVJJNVk1dE1nRnk1X1VCV0l3bUU1bUxPNHR5MTRuYklDLTMzWEpkRkZfMHRGZXdrUEhzLXE1Y2lNRVRfejlRMUpHemdPOUFxUkVlaDZvcVE0dHNXTmtuMFNFZ2xyeTBRSUhZN2xLMUlhdDk5eVc5dVJtOEVvY3VQWlNmMTNjMmtlSFg3VjJqZ0o1bXdNNlNaanFtNzNLQmt0NjVIZmZudGJ6U2lqbGpKN19pSUQ2b0ItZlNrMGdPUFc5VGVrbzNtTDhQUlkycw?oc=5",
+          "added_at": "2026-09-09 18:27:10"
+        },
         {
           "uid": "1ab54f70902c",
           "date": "2026-08-25",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWRoazRVYjlzTkdnSjhrVnRYTVhoUVdQcXhaZnM2ZWF5S3N4eEV3eGtqU215b01jMVRJUzhZTlBxSVFkU29WeHlPWGFWX2NqSmp2Ujh3RjVlNEpTTEdIVHZCOFRLMWNZZzFET3JJNmYya3hxcXdrbUstams5eFptWXhOVmZJa01Eb3l3bmItcmhnT1o2Sl9TcHdJVDJfYUFONENWNzRR?oc=5",
           "added_at": "2026-06-05 21:22:47"
-        },
-        {
-          "uid": "7728b58f2c49",
-          "date": "2026-05-12",
-          "title": "Parliamentary negotiator wants stricter ‘Made-in-EU’ policy - Euractiv",
-          "summary": "欧州議会の交渉担当者が、欧州産業加速法案（IAA）におけるクリーンテック産業の公開調達で、より厳格な「EU産」基準を要求しており、欧州産業の競争力強化と自給率向上を目指している。これにより、欧州企業による域内での製造・調達を促進し、グローバルサプライチェーンへの依存度を低減させる狙いがある。",
-          "source": "EURACTIV",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZTM3RFRyY3RWdEpqYzNpbU4xSVBPclBKcVdZaXV2cVZqN3poY3N3TlNMcTdPTVFvWFptbDk0VDZaWVQ3NnlhRkgxSEEwaFRWU0d4N1JPMFppUmFzWVJVeWlwRkluQ014U19RdGF4UXlXOXhMRWlJLXhGa05xdUpEbGVtWU5sNTlEb2w2WGhxb0RSdw?oc=5",
-          "added_at": "2026-06-05 21:22:47"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-09 14:05:05",
+      "last_checked": "2026-09-09 18:27:21",
       "items": [
         {
           "uid": "f4039e3b4b3c",
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-09 14:05:39",
+      "last_checked": "2026-09-09 18:27:33",
       "items": [
         {
           "uid": "a022b248c4f0",
