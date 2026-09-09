@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09 18:27:33",
+  "generated_at": "2026-09-10 02:41:25",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-09 18:27:12",
+      "last_checked": "2026-09-10 02:40:56",
       "items": [
+        {
+          "uid": "d1988df939a1",
+          "date": "2026-09-09",
+          "title": "Parliament rapporteurs seek to tighten ’Made in EU’ rules - EUROMETAL",
+          "summary": "欧州議会の報告者らは、産業加速法案（IAA）における「EU製」表示の基準を厳格化しようとしており、域内産業の競争力強化とグリーン技術の発展を支援するために、より厳しい原産地規則の導入を求めています。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHFMYU5EemUwcTRMcUNIajlvcVVyZ1c4OVF2aGdteG1aQUYtdHphdmF0U2ZCV2tuWE5FRnlqaTBXRC1HcEhQOUxnVmxqRG5yQWsyUWtIOTBXeUZSWTloSERpM3JRRjVGcm01eGlyZUp3U0NqVjZuSjlSU0dBNGtaYTdKVlg?oc=5",
+          "added_at": "2026-09-10 02:40:54"
+        },
         {
           "uid": "a34f32b87e73",
           "date": "2026-09-07",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SZzJXQ2xhamIwdVRFdjhZV0pDQWNDTVZFbUR0RFM4b0ZkVzQ2QjFPN2lFQ0dkVmk4OUZSVDAyUUpjRmU4bnJNOFpQZFd4d2dNZ2k0cEhwUkdjX2xCQThZckh3?oc=5",
           "added_at": "2026-06-05 21:22:47"
-        },
-        {
-          "uid": "11e3465ef212",
-          "date": "2026-05-04",
-          "title": "Parliament committee opens scrutiny of climate funding and 2028-2034 budget design - EU Today",
-          "summary": "欧州議会委員会が2028～2034年の予算設計とクライメートファイナンスの精査を開始し、この期間における産業競争力強化への予算配分が議論の焦点となっている。IAA推進に必要な資金調達メカニズムと気候投資のバランスが、次期EU予算枠組みにおける重要な検討課題として位置付けられている。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWRoazRVYjlzTkdnSjhrVnRYTVhoUVdQcXhaZnM2ZWF5S3N4eEV3eGtqU215b01jMVRJUzhZTlBxSVFkU29WeHlPWGFWX2NqSmp2Ujh3RjVlNEpTTEdIVHZCOFRLMWNZZzFET3JJNmYya3hxcXdrbUstams5eFptWXhOVmZJa01Eb3l3bmItcmhnT1o2Sl9TcHdJVDJfYUFONENWNzRR?oc=5",
-          "added_at": "2026-06-05 21:22:47"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-09 18:27:21",
+      "last_checked": "2026-09-10 02:41:06",
       "items": [
+        {
+          "uid": "a6640d4da5ed",
+          "date": "2026-09-09",
+          "title": "JSW and Volkswagen Forge India Auto Alliance to Counter Chinese Rivals - finance.biggo.com",
+          "summary": "インドの大手企業JSWとフォルクスワーゲンが提携し、中国企業との競争に対抗する戦略を展開していることは、米国のS.4429法が懸念する中国系自動車メーカーのサプライチェーン支配に対し、民主主義国家間の協力体制を強化する動きとして位置付けられます。",
+          "source": "自動車部品業界",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ING15M294cC1QV0Q2YzdNMDJRWHV6RjNYMnZZNDd0Sk1ydVc5azdzdDExRmRuamJ4Um9nSmJhN2lMQjBkN19PYU1Vei0zLU9aX0pRVmtUTUpSRjVwVUpFWERTNm81YXkwYS1weGxyajgtTngzTmc?oc=5",
+          "added_at": "2026-09-10 02:41:04"
+        },
         {
           "uid": "f4039e3b4b3c",
           "date": "2026-07-22",
@@ -4010,16 +4020,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONzRJWUthVml3MmwtMlFBWjk2WTlKc29CaER2eE9MSkRET3daLWpGLXJDQkNoOE91bHdYUV9Scmpmakptd3lXaEFJY2t6eGRRSjFyb2VFREc2d3AwNmJYZUo2MWs2ZVFXbEhHa3daR3dXTW9RWk5RUUFONW1TLWxQamhFdzLSAYoBQVVfeXFMTUxKR043ZkJNQ2ZPOElfS0xXVDQ5azk0WFZuUncwYjlUQm95M1dlVW9nbHBMdWR0X2xib1RPazNNeXNZVEE1Zng3eDBrbFl6Z0JtY1dKNHZORU13d3ZocTdIVE56VWNlUHBmZENnYVl5QUFQQXhEUmt3dEE0Y01DVHNXdUIySFU0SFlB?oc=5",
           "added_at": "2026-07-23 16:34:34"
-        },
-        {
-          "uid": "2810b7f8915f",
-          "date": "2026-07-22",
-          "title": "Slotkin ban on Chinese cars clears Senate committee - Detroit Free Press",
-          "summary": "米国上院委員会は、中国製自動車の輸入を制限する法案（S.4429）を承認し、中国の自動車メーカーが米国市場での販売拡大や自動車サプライチェーンへの浸透を防ぐことを目指しており、この動きは米国の自動車産業と国家安全保障を保護する狙いがある。",
-          "source": "上院議員",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzczenU4bWtPMlRYYTFQaUtwMEltSkxWWjN4bjhMTElwYmV2aTkxN1FlbXZmSHp2R21XRHZIZXE3bjdsc3N0SlgyazF3aFM5clNTQ0duQndXcUpEZlozdk45VTNQbUo1cDFZV2pKN3FEXzV5M25xX0NSZjB4VVA4aWxXN2lLX1pvMVVRTnc5QlVaUlROM1VWVU11S3MwYnZ5WWJQOGxtQ0pOQ0VEZ3N6R3Rpa2Njdw?oc=5",
-          "added_at": "2026-07-23 16:34:34"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-09 18:27:33",
+      "last_checked": "2026-09-10 02:41:25",
       "items": [
+        {
+          "uid": "cf630c1228e5",
+          "date": "2026-09-03",
+          "title": "Brazil’s Senate passes rare earth minerals regulation, paving the way for boosted exploration - AP News",
+          "summary": "ブラジル上院がレアアース鉱物規制を可決し、採掘促進への道を開いたことで、中国が支配するレアアース市場における新たな供給源候補として、中国のレアアース輸出管理への依存を低減させる可能性が生じている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUI1T240MWgwNUR1YVdvbU04emRFdmhBX0pZeWZzV2dWVUxtaklBT2hfbVdKbm5oUDZXZmpFTi0zTW9hZUFZSWIxWWVQUzV5c1ZSV0VkWDdoeEl2WHp6TDRZQVF5MVVHMzV5V25aREhzZVdpYTExZUlBQU9RNVdrMG9VdWJReEdxZ3hodjV1YlRzTjg4aDh0N2twOFY?oc=5",
+          "added_at": "2026-09-10 02:41:20"
+        },
+        {
+          "uid": "486c5a6a5888",
+          "date": "2026-09-09",
+          "title": "Ford: Duffy criticism over deals with China ‘wrongheaded attempt to capture headlines’",
+          "summary": "フォード・モーター・カンパニーは、中国との事業提携を批判した運輸長官ショーン・ダッフィの指摘に対して、不正確な情報を広げるための政治的攻撃だと反論し、米国企業による中国への技術依存をめぐる政府と産業界の対立が深刻化している状況を示唆している。この紛争は、レアアースを含む戦略的に重要な産業における米国の中国依存度削減と企業の商業的利益のバランスをめぐる緊張を反映している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/business/6079042-ford-refutes-duffy-china-claims/",
+          "added_at": "2026-09-10 02:41:20"
+        },
         {
           "uid": "a022b248c4f0",
           "date": "2026-08-01",
@@ -6010,26 +6030,6 @@
           "source": "業界団体",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVG9lLWFSR2IzeTE0b3RVZWphb24xRkY4SGlZMF9vdERpZXkyUHhlc3FZOU8yekNHN3JjaWQ1bGE5eEdQZXVMV0h6bDBydEVLemR5SDRRT09RSXpaWHJmLXE1bDd1eVVZVC03dVVaaUUwTnhUeGkxN2VLMVliUHRDU1ByS2kzaC1FYThBZXQ5ajR1eWExTktLemxvbEstaERITEtKdTdkMkJpNDJjdFAzREJXWnVXbnlMelJ1QW5GMkh0MHotdVd6bFY2azFmRncxRkNBZXpEUUh0aE5vbll5bjk0VVY1bGloaHFka1BfOFg1RWoyN2c?oc=5",
-          "added_at": "2026-08-21 10:55:43"
-        },
-        {
-          "uid": "eb49260cf8db",
-          "date": "2026-06-23",
-          "title": "Beijing imposes export controls on 10 US rare earth firms in retaliation for military blacklist - Crypto Briefing",
-          "summary": "中国政府は、米国が軍事関連企業10社をブラックリストに追加したことへの報復措置として、これら米国企業に対するレアアース輸出を制限した。この措置は米中間の技術・防衛分野での対立激化を示す事例である。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FeTJYWkJTZ0RneU9lNGxOTmQ1cEhwZG81WmJld1BXUGo0NjlrNUtfRkdXVFByUlRwWEJnU3BxakJpUWl3cUVRUnBIa2tpQnR3N1ZObTlmZWRKUGo4d2lEZkhrZHRmVzhsWnVsLV9vaWFsUXdpR0NSVkk3RQ?oc=5",
-          "added_at": "2026-08-21 10:55:43"
-        },
-        {
-          "uid": "fba0965f3e3d",
-          "date": "2026-06-22",
-          "title": "China blocks rare Earth exports to US firms tied to AI supply chain - Cryptopolitan",
-          "summary": "中国がAIサプライチェーン関連の米企業へのレアアース輸出を制限している。これは米国の技術覇権に対抗する戦略的な措置である。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BTkVzaEl0ZXhVdGs0a00wczZlbl9yRkpGdElNc1VfTmJhc2JLcW5fSFZMc0pxYkhTOC1xcThURFU4blhQXzlFLUcxdGx5ZzZRTDJsOWo1N1VDX24yNE9Ec2pEYXN0VzJ3WS04NzVDRTFhUy1FY3hqRFdR?oc=5",
           "added_at": "2026-08-21 10:55:43"
         }
       ]
