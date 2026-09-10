@@ -1,183 +1,236 @@
 {
-  "generated_at": "2026-09-09 13:54 JST",
-  "sender_count": 3,
-  "total_mails": 21,
+  "generated_at": "2026-09-10 16:28 JST",
+  "sender_count": 4,
+  "total_mails": 27,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 11,
+      "count": 10,
       "bullets": [
-        "イタリアのメローニ首相は2026年春の選挙で2期目獲得の可能性が60%と微弱ながら有利だが、選挙制度改革と新極右政党の連立統合が勝利の鍵",
-        "米国の半導体関税に関する議論は継続しているが、短期的には勢いを失う見通しで、政策方向の大きな転換につながる可能性は低い",
-        "米財務長官ベッセントは長期金利低下への取り組みを縮小し、自らのツールキットの効果の限界を認識しながらコース変更する見通し",
-        "ドイツの極右政党AfDのザクセン-アンハルト州での圧勝は、主流政党の回旋余地をさらに狭める自己強化的な力学を深化",
-        "米上院選挙は極めて接戦で共和党が薄氷の優位を保持しているが、民主党が優勢になるには高い障壁が存在"
+        "マレーシアの与党内の不満拡大により、アンワール首相は早期選挙圧力への抵抗を強化中",
+        "米上院選挙は極めて接戦で、共和党が微弱ながら優位に",
+        "ウクライナのゼレンスキー大統領は戦時統一により国内政治危機から保護される見通しで、冬季間の空爆や汚職疑惑などの課題に対応",
+        "米インド間の通商交渉は急速な進展を見せず、現在の10%関税体制が維持される傾向",
+        "米カナダ間の通商関係が膠着状態に陥入"
       ],
       "subjects": [
         [
-          "2026-09-08",
-          "EG Italy: Meloni faces tight re-election odds",
-          "data/pdfs/20260908_1911_EG_Italy__Meloni_faces_tight_re-election_odds.pdf"
-        ],
-        [
-          "2026-09-08",
-          "Italy’s Meloni faces tight election odds",
-          "data/pdfs/20260908_2140_Italy’s_Meloni_faces_tight_election_odds.pdf"
-        ],
-        [
-          "2026-09-08",
-          "US semiconductor tariffs likely to be further delayed",
-          "data/pdfs/20260908_2326_US_semiconductor_tariffs_likely_to_be_further_dela.pdf"
-        ],
-        [
-          "2026-09-08",
-          "US Treasury’s toolkit to try to lower yields",
-          "data/pdfs/20260908_2327_US_Treasury’s_toolkit_to_try_to_lower_yields.pdf"
-        ],
-        [
-          "2026-09-08",
-          "Republicans retain razor-thin lead in Senate race",
-          "data/pdfs/20260908_2331_Republicans_retain_razor-thin_lead_in_Senate_race.pdf"
+          "2026-09-09",
+          "Malaysia: Anwar likely to resist parties’ push for snap elections",
+          "data/pdfs/20260909_2010_Malaysia__Anwar_likely_to_resist_parties’_push_for.pdf"
         ],
         [
           "2026-09-09",
-          "Republicans retain razor-thin lead in Senate race",
-          "data/pdfs/20260909_0038_Republicans_retain_razor-thin_lead_in_Senate_race.pdf"
+          "Republicans slim favorites in Senate race",
+          "data/pdfs/20260909_2111_Republicans_slim_favorites_in_Senate_race.pdf"
         ],
         [
           "2026-09-09",
-          "US AI job fears are outpacing actual job losses",
-          "data/pdfs/20260909_0105_US_AI_job_fears_are_outpacing_actual_job_losses.pdf"
+          "Ukraine: wartime unity will protect Zelensky even as domestic",
+          "data/pdfs/20260909_2246_Ukraine__wartime_unity_will_protect_Zelensky_even_.pdf"
         ],
         [
           "2026-09-09",
-          "Crude prices will exceed $100",
-          "data/pdfs/20260909_0121_Crude_prices_will_exceed_$100.pdf"
+          "US, India in no hurry on trade deal",
+          "data/pdfs/20260909_2315_US,_India_in_no_hurry_on_trade_deal.pdf"
         ],
         [
           "2026-09-09",
-          "Poland: Right-wing split boosts Tusk’s 2027 odds",
-          "data/pdfs/20260909_0145_Poland__Right-wing_split_boosts_Tusk’s_2027_odds.pdf"
+          "US-Canada trade stuck in trench warfare",
+          "data/pdfs/20260909_2343_US-Canada_trade_stuck_in_trench_warfare.pdf"
         ],
         [
-          "2026-09-09",
+          "2026-09-10",
+          "Saudi Arabia: Houthi strikes lift oil risks, not full war",
+          "data/pdfs/20260910_0214_Saudi_Arabia__Houthi_strikes_lift_oil_risks,_not_f.pdf"
+        ],
+        [
+          "2026-09-10",
+          "Mexico and Vietnam face likely transshipment scrutiny",
+          "data/pdfs/20260910_0343_Mexico_and_Vietnam_face_likely_transshipment_scrut.pdf"
+        ],
+        [
+          "2026-09-10",
+          "Transatlantic relations inch back from the precipice",
+          "data/pdfs/20260910_0436_Transatlantic_relations_inch_back_from_the_precipi.pdf"
+        ],
+        [
+          "2026-09-10",
+          "Israel: Anti-Netanyahu bloc faces fragile mandate",
+          "data/pdfs/20260910_0648_Israel__Anti-Netanyahu_bloc_faces_fragile_mandate.pdf"
+        ],
+        [
+          "2026-09-10",
           "EG Research Summary in Japanese",
-          "data/pdfs/20260909_0801_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-09-09",
-          "eg update in Japanese",
-          "data/pdfs/20260909_0801_eg_update_in_Japanese.pdf"
+          "data/pdfs/20260910_1618_EG_Research_Summary_in_Japanese.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260908_1911_EG_Italy__Meloni_faces_tight_re-election_odds.pdf",
-        "data/pdfs/20260908_2140_Italy’s_Meloni_faces_tight_election_odds.pdf",
-        "data/pdfs/20260908_2326_US_semiconductor_tariffs_likely_to_be_further_dela.pdf",
-        "data/pdfs/20260908_2327_US_Treasury’s_toolkit_to_try_to_lower_yields.pdf",
-        "data/pdfs/20260908_2331_Republicans_retain_razor-thin_lead_in_Senate_race.pdf",
-        "data/pdfs/20260909_0038_Republicans_retain_razor-thin_lead_in_Senate_race.pdf",
-        "data/pdfs/20260909_0105_US_AI_job_fears_are_outpacing_actual_job_losses.pdf",
-        "data/pdfs/20260909_0121_Crude_prices_will_exceed_$100.pdf",
-        "data/pdfs/20260909_0145_Poland__Right-wing_split_boosts_Tusk’s_2027_odds.pdf",
-        "data/pdfs/20260909_0801_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20260909_0801_eg_update_in_Japanese.pdf"
+        "data/pdfs/20260909_2010_Malaysia__Anwar_likely_to_resist_parties’_push_for.pdf",
+        "data/pdfs/20260909_2111_Republicans_slim_favorites_in_Senate_race.pdf",
+        "data/pdfs/20260909_2246_Ukraine__wartime_unity_will_protect_Zelensky_even_.pdf",
+        "data/pdfs/20260909_2315_US,_India_in_no_hurry_on_trade_deal.pdf",
+        "data/pdfs/20260909_2343_US-Canada_trade_stuck_in_trench_warfare.pdf",
+        "data/pdfs/20260910_0214_Saudi_Arabia__Houthi_strikes_lift_oil_risks,_not_f.pdf",
+        "data/pdfs/20260910_0343_Mexico_and_Vietnam_face_likely_transshipment_scrut.pdf",
+        "data/pdfs/20260910_0436_Transatlantic_relations_inch_back_from_the_precipi.pdf",
+        "data/pdfs/20260910_0648_Israel__Anti-Netanyahu_bloc_faces_fragile_mandate.pdf",
+        "data/pdfs/20260910_1618_EG_Research_Summary_in_Japanese.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
       "color": "YEL",
-      "count": 9,
+      "count": 15,
       "bullets": [
-        "ドイツの極右勢力がメルツ首相を多角的に攻撃し、首相の曖昧な対応が課題",
-        "欧州委員会が公共調達枠組みの改定で品質とヨーロッパ優先を中心方針に据える方針",
-        "ロシア占領下のウクライナで差別的政策が生活全般に浸透し、ウクライナ文化の残存が危機",
-        "フランスとカナダがイギリスに続きイスラエル入植地への経済制裁を発動",
-        "EUがブリュッセル・北京協議の中で中国との政治対話推進と利益防衛のバランスを模索、同時にイスラエルと防空・宇宙技術での協力強化"
+        "EU委員会が公共調達改革案を発表し、欧州サプライヤー優遇と品質・強靱性・安全保障重視への転換を推進。契約当局による参加制限や欧州部品最低要件設定、EU製品入札ボーナスなどで欧州系企業を優遇可能に。",
+        "戦略的部門では過度な補助金を受ける中国など第三国との競争から欧州を保護するため、優遇政策がより強化される可能性。公共調達はEUのGDP最大15%に相当する規模での新たな入札枠組み設定。",
+        "フランスではセンター派の統一候補指名で苦戦する中、極左・極右勢力が台頭し、エドゥアール・フィリップとガブリエル・アタルの支持者が互いに対抗。",
+        "ドイツではメルツ首相のセンター左派連携パートナーが反発し、政治的軋轢が深刻化。メルツの連立政権指導能力に疑問符が浮上。",
+        "Anthropicの研究者が安全保障上の懸念から退職。AI開発者が「AI技術が10年以内に人類を殺す可能性がある」と警告。",
+        "EU当局がビッグテック、石油産業、北京に対抗する計画を推進。Teresa Riberaが関連政策について明言。"
       ],
       "subjects": [
         [
-          "2026-09-08",
-          "Merz has no good answers as the far right targets his downfall",
-          "data/pdfs/20260908_1635_Merz_has_no_good_answers_as_the_far_right_targets_.pdf"
-        ],
-        [
-          "2026-09-08",
-          "Document: Commission looks to boost quality over price in public",
-          "data/pdfs/20260908_1819_Document__Commission_looks_to_boost_quality_over_p.pdf"
-        ],
-        [
-          "2026-09-08",
-          "The least free place on earth: Occupied Ukraine",
-          "data/pdfs/20260908_1906_The_least_free_place_on_earth__Occupied_Ukraine.pdf"
-        ],
-        [
-          "2026-09-08",
-          "France and Canada join UK in issuing trade sanctions on Israeli",
-          "data/pdfs/20260908_2154_France_and_Canada_join_UK_in_issuing_trade_sanctio.pdf"
-        ],
-        [
-          "2026-09-08",
-          "Teresa Ribera urges EU to talk to China — and defend its interests",
-          "data/pdfs/20260908_2157_Teresa_Ribera_urges_EU_to_talk_to_China_—_and_defe.pdf"
-        ],
-        [
-          "2026-09-08",
-          "EU pursues closer Israel ties on air defense and space",
-          "data/pdfs/20260908_2301_EU_pursues_closer_Israel_ties_on_air_defense_and_s.pdf"
-        ],
-        [
-          "2026-09-08",
-          "Document: Updated EU renewable energy rules to focus on",
-          "data/pdfs/20260908_2346_Document__Updated_EU_renewable_energy_rules_to_foc.pdf"
+          "2026-09-09",
+          "Buy Europe push hits transport",
+          "data/pdfs/20260909_1405_Buy_Europe_push_hits_transport.pdf"
         ],
         [
           "2026-09-09",
+          "Von der Leyen’s economic blind spot",
+          "data/pdfs/20260909_1405_Von_der_Leyen’s_economic_blind_spot.pdf"
+        ],
+        [
+          "2026-09-09",
+          "5 things to know from POLITICO’s interview with Teresa Ribera",
+          "data/pdfs/20260909_1635_5_things_to_know_from_POLITICO’s_interview_with_Te.pdf"
+        ],
+        [
+          "2026-09-09",
+          "‘Gambling with our lives’: AI researcher quits Anthropic with dire",
+          "data/pdfs/20260909_1650_‘Gambling_with_our_lives’__AI_researcher_quits_Ant.pdf"
+        ],
+        [
+          "2026-09-09",
+          "French centrists struggle to find unity candidate as extremes surge",
+          "data/pdfs/20260909_1736_French_centrists_struggle_to_find_unity_candidate_.pdf"
+        ],
+        [
+          "2026-09-09",
+          "In Germany, Merz’s center-left partners rebel after far-right rout",
+          "data/pdfs/20260909_1907_In_Germany,_Merz’s_center-left_partners_rebel_afte.pdf"
+        ],
+        [
+          "2026-09-09",
+          "Document: Lead MEPs want tougher Made in Europe rules,",
+          "data/pdfs/20260909_2021_Document__Lead_MEPs_want_tougher_Made_in_Europe_ru.pdf"
+        ],
+        [
+          "2026-09-09",
+          "New EU Arctic strategy to release Oct. 20",
+          "data/pdfs/20260909_2137_New_EU_Arctic_strategy_to_release_Oct._20.pdf"
+        ],
+        [
+          "2026-09-09",
+          "EU seeks to turn procurement into €600B industrial policy tool",
+          "data/pdfs/20260909_2143_EU_seeks_to_turn_procurement_into_€600B_industrial.pdf"
+        ],
+        [
+          "2026-09-09",
+          "Europe’s military mobility plans have a workforce problem",
+          "data/pdfs/20260909_2345_Europe’s_military_mobility_plans_have_a_workforce_.pdf"
+        ],
+        [
+          "2026-09-10",
           "Pro Daily Headlines",
-          "data/pdfs/20260909_0032_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20260910_0031_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-09-09",
-          "The Draghi plan at 2: Competitiveness crusade runs into Europe’s",
-          "data/pdfs/20260909_0211_The_Draghi_plan_at_2__Competitiveness_crusade_runs.pdf"
+          "2026-09-10",
+          "Even Trump-friendly EU countries back Brussels’ pact with Canada",
+          "data/pdfs/20260910_0146_Even_Trump-friendly_EU_countries_back_Brussels’_pa.pdf"
+        ],
+        [
+          "2026-09-10",
+          "Trump says Iran war will end ‘immediately’ after midterms",
+          "data/pdfs/20260910_0425_Trump_says_Iran_war_will_end_‘immediately’_after_m.pdf"
+        ],
+        [
+          "2026-09-10",
+          "IAA lobbying turns to Council",
+          "data/pdfs/20260910_1407_IAA_lobbying_turns_to_Council.pdf"
+        ],
+        [
+          "2026-09-10",
+          "Von der Leyen’s pitch to Paris",
+          "data/pdfs/20260910_1412_Von_der_Leyen’s_pitch_to_Paris.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260908_1635_Merz_has_no_good_answers_as_the_far_right_targets_.pdf",
-        "data/pdfs/20260908_1819_Document__Commission_looks_to_boost_quality_over_p.pdf",
-        "data/pdfs/20260908_1906_The_least_free_place_on_earth__Occupied_Ukraine.pdf",
-        "data/pdfs/20260908_2154_France_and_Canada_join_UK_in_issuing_trade_sanctio.pdf",
-        "data/pdfs/20260908_2157_Teresa_Ribera_urges_EU_to_talk_to_China_—_and_defe.pdf",
-        "data/pdfs/20260908_2301_EU_pursues_closer_Israel_ties_on_air_defense_and_s.pdf",
-        "data/pdfs/20260908_2346_Document__Updated_EU_renewable_energy_rules_to_foc.pdf",
-        "data/pdfs/20260909_0032_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260909_0211_The_Draghi_plan_at_2__Competitiveness_crusade_runs.pdf"
+        "data/pdfs/20260909_1405_Buy_Europe_push_hits_transport.pdf",
+        "data/pdfs/20260909_1405_Von_der_Leyen’s_economic_blind_spot.pdf",
+        "data/pdfs/20260909_1635_5_things_to_know_from_POLITICO’s_interview_with_Te.pdf",
+        "data/pdfs/20260909_1650_‘Gambling_with_our_lives’__AI_researcher_quits_Ant.pdf",
+        "data/pdfs/20260909_1736_French_centrists_struggle_to_find_unity_candidate_.pdf",
+        "data/pdfs/20260909_1907_In_Germany,_Merz’s_center-left_partners_rebel_afte.pdf",
+        "data/pdfs/20260909_2021_Document__Lead_MEPs_want_tougher_Made_in_Europe_ru.pdf",
+        "data/pdfs/20260909_2137_New_EU_Arctic_strategy_to_release_Oct._20.pdf",
+        "data/pdfs/20260909_2143_EU_seeks_to_turn_procurement_into_€600B_industrial.pdf",
+        "data/pdfs/20260909_2345_Europe’s_military_mobility_plans_have_a_workforce_.pdf",
+        "data/pdfs/20260910_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260910_0146_Even_Trump-friendly_EU_countries_back_Brussels’_pa.pdf",
+        "data/pdfs/20260910_0425_Trump_says_Iran_war_will_end_‘immediately’_after_m.pdf",
+        "data/pdfs/20260910_1407_IAA_lobbying_turns_to_Council.pdf",
+        "data/pdfs/20260910_1412_Von_der_Leyen’s_pitch_to_Paris.pdf"
+      ]
+    },
+    {
+      "sender": "ジェトロ",
+      "short": "ジェトロ",
+      "color": "RED",
+      "count": 1,
+      "bullets": [
+        "日本で働く外国人が2023年10月末時点で初めて200万人突破",
+        "高度外国人材を含む「専門的・技術的分野の在留資格」の増加が最も著しい状況",
+        "高度外国人材はイノベーション創出や海external展開、既存サービス向上を通じた企業のポジティブな効果創出がポテンシャル",
+        "ジェトロが高度外国人材を雇用している企業へのインタビューに基づく活躍事例と島根の事例を含む雇用状況の分析を特集で提示"
+      ],
+      "subjects": [
+        [
+          "2026-09-10",
+          "ジェトロ地域・分析レポートの新着のご案内（2026年9月10日号）",
+          "data/pdfs/20260910_1355_ジェトロ地域・分析レポートの新着のご案内（2026年9月10日号）.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260910_1355_ジェトロ地域・分析レポートの新着のご案内（2026年9月10日号）.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "RED",
+      "color": "ORG",
       "count": 1,
       "bullets": [
-        "中国が日本産ジクロロシランに対するAD調査で仮決定、最大99.2％の保証金徴収",
-        "中国国家市場監督管理総局が独占協定における個人責任適用のガイドラインを発表",
-        "韓国で最大級の音楽ビジネス見本市・商談会「MU:CON 2026」を開催",
-        "中国国際電子商取引産業博覧会がジャカルタで開催",
-        "インドがFTA活用状況を公表し、活用重視への転換を示唆"
+        "日本企業31社がペット関連アジア展示会に出展、アジア市場開拓を推進",
+        "中国が商品消費の拡大・高度化実施意見を発表、4つの重点分野を示唆",
+        "タイの自動車生産が前年同月比6.1%増加、国内販売向けは22.4%増と好調",
+        "トランプ米政権がカナダ産品への追加関税対象を拡大、一部製品は輸入禁止",
+        "サッポロビールが米国関税措置対応としてノンアルコール飲料生産を米国へ移管"
       ],
       "subjects": [
         [
-          "2026-09-08",
-          "「ジェトロ・ビジネス短信」2026/09/08",
-          "data/pdfs/20260908_1806_「ジェトロ・ビジネス短信」2026_09_08.pdf"
+          "2026-09-09",
+          "「ジェトロ・ビジネス短信」2026/09/09",
+          "data/pdfs/20260909_1836_「ジェトロ・ビジネス短信」2026_09_09.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260908_1806_「ジェトロ・ビジネス短信」2026_09_08.pdf"
+        "data/pdfs/20260909_1836_「ジェトロ・ビジネス短信」2026_09_09.pdf"
       ]
     }
   ]
