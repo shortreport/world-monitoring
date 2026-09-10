@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-10 16:28 JST",
+  "updated_at": "2026-09-10 16:30 JST",
   "total": 50,
-  "toyota_summary": "Foreign automakers are facing tougher scrutiny in Europe as the bloc tightens rules on where cars can be made. The European Parliament's leading lawmakers are pushing the Industrial Accelerating Act to require more manufacturing inside the EU, while the Commission is rewriting public procurement rules to favor European suppliers over lowest-cost bidders. This reflects a broader shift toward protecting domestic production rather than competing on price alone.\n\nFor the industry, the rules mean higher costs for anyone assembling outside Europe or sourcing parts from cheaper suppliers abroad. Companies operating in Mexico and Vietnam face additional pressure: the Trump administration is strengthening a system to penalize transshipment of Chinese goods with 40 percent tariffs, forcing automakers to choose between higher tariffs or moving production closer to their final markets. The math is simple—build in Europe or pay more.\n\nWatch whether the Council adopts the Parliament's language on domestic manufacturing by year-end.",
+  "toyota_summary": "EU議員は「メイド・イン・ヨーロッパ」補助金規則を厳格化し、対象をEU・英国・EEA・EFTA域内で製造され現地付加価値比率が50%以上の車両に限定する方針である。これによりホンダ、トヨタ、現代自動車は対象から除外される見通しだが、外国自動車メーカー各社は条件緩和を求め欧州理事会へのロビー活動を展開するとみられる。\n\nEUのトラックメーカーは、電動化対応を加速させなければ、2030年までに電気大型トラック市場の4分の1超を中国および米国勢に奪われる恐れがある。\n\n参考として、タイの自動車生産動向および現代自動車のアルジェリア工場についても言及しておく。",
   "emails": [
     {
       "ts": "20260910_1618",
@@ -11,7 +11,12 @@
       "date_label": "SEP 10  16:18",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20260910_1618_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_1412",
@@ -21,7 +26,12 @@
       "date_label": "SEP 10  14:12",
       "read_min": 14,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Von der Leyen’s pitch to Paris",
+      "html": "data/pdfs/20260910_1412_Von_der_Leyen’s_pitch_to_Paris.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_1407",
@@ -31,7 +41,12 @@
       "date_label": "SEP 10  14:07",
       "read_min": 10,
       "toyota": true,
-      "excerpt": "外国の自動車メーカーがEU内での製造を義務付けるIAA（産業加速化法）に対して、欧州議会が"
+      "excerpt": "外国の自動車メーカーがEU内での製造を義務付けるIAA（産業加速化法）に対して、欧州議会が",
+      "subject_en": "IAA lobbying turns to Council",
+      "html": "data/pdfs/20260910_1407_IAA_lobbying_turns_to_Council.html",
+      "summary_en": "EU lawmakers are backing the Commission's plan to limit 'Made in Europe' subsidy eligibility to vehicles assembled within the bloc, dealing a setback to foreign automakers like Honda, Toyota and Hyundai who now hope member states will soften the rules in Council negotiations. UK manufacturers could get relief since EFTA and UK-made vehicles may still qualify, but non-European brands remain excluded under the draft criteria. Separately, EU truckmakers face pressure to accelerate electrification or risk losing over a quarter of the electric heavy-truck market to Chinese and U.S. rivals by 2030.",
+      "summary_ja": "EU議会は「欧州製」補助金対象をEU域内組立車両に限定する欧州委員会案を支持し、ホンダ、トヨタ、ヒュンダイなど域外自動車メーカーには打撃となっており、各社は加盟国を通じて理事会での緩和を期待している。英国製車両はEFTA・英国分類で対象に含まれる可能性がある一方、非欧州ブランドは草案基準から除外されたままとなる見通し。また、欧州のトラックメーカーが電動化を加速しなければ、2030年までに電動大型トラック市場の4分の1超を中国・米国メーカーに奪われる恐れがある。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_1355",
@@ -40,8 +55,13 @@
       "pdf": "data/pdfs/20260910_1355_ジェトロ地域・分析レポートの新着のご案内（2026年9月10日号）.pdf",
       "date_label": "SEP 10  13:55",
       "read_min": 1,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "New JETRO Regional and Analysis Report Announcement (September 10, 2026 Issue)",
+      "html": "data/pdfs/20260910_1355_ジェトロ地域・分析レポートの新着のご案内（2026年9月10日号）.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260910_1355_ジェトロ地域・分析レポートの新着のご案内（2026年9月10日号）_en.pdf"
     },
     {
       "ts": "20260910_0648",
@@ -51,7 +71,12 @@
       "date_label": "SEP 10  06:48",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Israel: Anti-Netanyahu bloc faces fragile mandate",
+      "html": "data/pdfs/20260910_0648_Israel__Anti-Netanyahu_bloc_faces_fragile_mandate.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_0436",
@@ -61,7 +86,12 @@
       "date_label": "SEP 10  04:36",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Transatlantic relations inch back from the precipice",
+      "html": "data/pdfs/20260910_0436_Transatlantic_relations_inch_back_from_the_precipi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_0425",
@@ -71,7 +101,12 @@
       "date_label": "SEP 10  04:25",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump says Iran war will end ‘immediately’ after midterms",
+      "html": "data/pdfs/20260910_0425_Trump_says_Iran_war_will_end_‘immediately’_after_m.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_0343",
@@ -81,7 +116,12 @@
       "date_label": "SEP 10  03:43",
       "read_min": 5,
       "toyota": true,
-      "excerpt": "トランプ政権は中国製品の迂回輸入に対する40%のペナルティ制度を強化する仕組みを整備し、8"
+      "excerpt": "トランプ政権は中国製品の迂回輸入に対する40%のペナルティ制度を強化する仕組みを整備し、8",
+      "subject_en": "Mexico and Vietnam face likely transshipment scrutiny",
+      "html": "data/pdfs/20260910_0343_Mexico_and_Vietnam_face_likely_transshipment_scrut.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_0214",
@@ -91,7 +131,12 @@
       "date_label": "SEP 10  02:14",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Saudi Arabia: Houthi strikes lift oil risks, not full war",
+      "html": "data/pdfs/20260910_0214_Saudi_Arabia__Houthi_strikes_lift_oil_risks,_not_f.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_0146",
@@ -101,7 +146,12 @@
       "date_label": "SEP 10  01:46",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Even Trump-friendly EU countries back Brussels’ pact with Canada",
+      "html": "data/pdfs/20260910_0146_Even_Trump-friendly_EU_countries_back_Brussels’_pa.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_0031",
@@ -121,7 +171,12 @@
       "date_label": "SEP 9  23:45",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe’s military mobility plans have a workforce problem",
+      "html": "data/pdfs/20260909_2345_Europe’s_military_mobility_plans_have_a_workforce_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_2343",
@@ -131,7 +186,12 @@
       "date_label": "SEP 9  23:43",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US-Canada trade stuck in trench warfare",
+      "html": "data/pdfs/20260909_2343_US-Canada_trade_stuck_in_trench_warfare.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_2315",
@@ -141,7 +201,12 @@
       "date_label": "SEP 9  23:15",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US, India in no hurry on trade deal",
+      "html": "data/pdfs/20260909_2315_US,_India_in_no_hurry_on_trade_deal.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_2246",
@@ -151,7 +216,12 @@
       "date_label": "SEP 9  22:46",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Ukraine: wartime unity will protect Zelensky even as domestic pressures mount",
+      "html": "data/pdfs/20260909_2246_Ukraine__wartime_unity_will_protect_Zelensky_even_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_2143",
@@ -160,8 +230,13 @@
       "pdf": "data/pdfs/20260909_2143_EU_seeks_to_turn_procurement_into_€600B_industrial.pdf",
       "date_label": "SEP 9  21:43",
       "read_min": 6,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EU seeks to turn procurement into €600B industrial policy tool",
+      "html": "data/pdfs/20260909_2143_EU_seeks_to_turn_procurement_into_€600B_industrial.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_2137",
@@ -171,7 +246,12 @@
       "date_label": "SEP 9  21:37",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "New EU Arctic strategy to release Oct. 20",
+      "html": "data/pdfs/20260909_2137_New_EU_Arctic_strategy_to_release_Oct._20.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_2111",
@@ -181,7 +261,12 @@
       "date_label": "SEP 9  21:11",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Republicans slim favorites in Senate race",
+      "html": "data/pdfs/20260909_2111_Republicans_slim_favorites_in_Senate_race.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_2021",
@@ -191,7 +276,12 @@
       "date_label": "SEP 9  20:21",
       "read_min": 4,
       "toyota": true,
-      "excerpt": "EU議会の主要議員3名（フランス社会党議員、ベルギー中道派議員、ドイツ緑の党議員）が、EU"
+      "excerpt": "EU議会の主要議員3名（フランス社会党議員、ベルギー中道派議員、ドイツ緑の党議員）が、EU",
+      "subject_en": "Document: Lead MEPs want tougher Made in Europe rules, investment curbs in industry act",
+      "html": "data/pdfs/20260909_2021_Document__Lead_MEPs_want_tougher_Made_in_Europe_ru.html",
+      "summary_en": "EU lawmakers are pushing to tighten the bloc's proposed Industrial Accelerator Act, favoring a stricter 'Made in Europe' club limited initially to EU members and close partners like the UK, EEA and EFTA countries, rather than a broad opt-out system. The draft report, with 199 amendments, also demands stronger screening of Chinese investment and tougher rules to prevent circumvention via re-exported components, requiring at least 50% of value added to originate within the club.",
+      "summary_ja": "EU議会の主導議員らは、産業促進法(IAA)案を強化し、当初はEU加盟国と英国、EEA・EFTA諸国など近接国に限定した厳格な「メイド・イン・ヨーロッパ」枠を求めている。199件の修正案を含む草案では、中国からの投資審査強化や、再輸出による規制回避を防ぐため付加価値の50%以上を域内産とする要件も提案されている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_2010",
@@ -201,7 +291,12 @@
       "date_label": "SEP 9  20:10",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Malaysia: Anwar likely to resist parties’ push for snap elections",
+      "html": "data/pdfs/20260909_2010_Malaysia__Anwar_likely_to_resist_parties’_push_for.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_1907",
@@ -211,17 +306,27 @@
       "date_label": "SEP 9  19:07",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "In Germany, Merz’s center-left partners rebel after far-right rout",
+      "html": "data/pdfs/20260909_1907_In_Germany,_Merz’s_center-left_partners_rebel_afte.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_1836",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/09/09",
       "pdf": "data/pdfs/20260909_1836_「ジェトロ・ビジネス短信」2026_09_09.pdf",
       "date_label": "SEP 9  18:36",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "日本企業31社がペット関連アジア展示会に出展し、アジア市場開拓を推進している。"
+      "excerpt": "日本企業31社がペット関連アジア展示会に出展し、アジア市場開拓を推進している。",
+      "subject_en": "\"JETRO Business Brief\" 2026/09/09",
+      "html": "data/pdfs/20260909_1836_「ジェトロ・ビジネス短信」2026_09_09.html",
+      "summary_en": "Thailand's automotive sector showed solid momentum in July, with vehicle production up 6.1% year-on-year and domestic sales climbing 22.4%, while motorcycle output rose a modest 0.5% with domestic sales up 5.1%. Separately, Hyundai Motor Group is moving forward with a new plant in Algeria under a cross-border assembly arrangement, signaling continued expansion into North African markets. These developments reflect resilient demand across Southeast Asian auto markets alongside strategic manufacturing diversification by global automakers.",
+      "summary_ja": "タイの7月の自動車生産台数は前年同月比6.1％増、国内販売は22.4％増と好調に推移し、二輪車も生産が0.5％増、国内販売は5.1％増となった。一方、現代自動車グループはアルジェリアで国境を越えた組み立て方式による新工場建設を進めており、北アフリカ市場への展開を強化している。東南アジアの自動車需要の堅調さと、グローバル完成車メーカーによる生産拠点の多様化戦略が浮き彫りとなった。",
+      "summary_pdf": "data/pdfs/20260909_1836_「ジェトロ・ビジネス短信」2026_09_09_en.pdf"
     },
     {
       "ts": "20260909_1736",
@@ -231,7 +336,12 @@
       "date_label": "SEP 9  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "French centrists struggle to find unity candidate as extremes surge in polls",
+      "html": "data/pdfs/20260909_1736_French_centrists_struggle_to_find_unity_candidate_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_1650",
@@ -241,7 +351,12 @@
       "date_label": "SEP 9  16:50",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "‘Gambling with our lives’: AI researcher quits Anthropic with dire warning about safety",
+      "html": "data/pdfs/20260909_1650_‘Gambling_with_our_lives’__AI_researcher_quits_Ant.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_1635",
@@ -251,7 +366,12 @@
       "date_label": "SEP 9  16:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "5 things to know from POLITICO’s interview with Teresa Ribera",
+      "html": "data/pdfs/20260909_1635_5_things_to_know_from_POLITICO’s_interview_with_Te.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_1405",
@@ -260,8 +380,13 @@
       "pdf": "data/pdfs/20260909_1405_Buy_Europe_push_hits_transport.pdf",
       "date_label": "SEP 9  14:05",
       "read_min": 9,
-      "toyota": true,
-      "excerpt": "EU委員会が公共調達改革案を発表し、欧州サプライヤーを優遇し、最低価格競争ではなく品質・"
+      "toyota": false,
+      "excerpt": "EU委員会が公共調達改革案を発表し、欧州サプライヤーを優遇し、最低価格競争ではなく品質・",
+      "subject_en": "Von der Leyen’s economic blind spot",
+      "html": "data/pdfs/20260909_1405_Von_der_Leyen’s_economic_blind_spot.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260909_0801",
@@ -537,7 +662,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/09/08",
+      "subject_en": "JETRO Business Brief 2026/09/08",
       "html": "data/pdfs/20260908_1806_「ジェトロ・ビジネス短信」2026_09_08.html",
       "summary_en": "",
       "summary_ja": "",
@@ -618,5 +743,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "EU lawmakers are hardening 'Made in Europe' subsidy rules, restricting eligibility to EU, UK, EEA and EFTA-built vehicles with 50% minimum local value added. This excludes Honda, Toyota and Hyundai, though foreign automakers will lobby Council to soften terms.\n\nEU truckmakers risk losing over a quarter of the electric heavy-truck market to Chinese and U.S. rivals by 2030 without faster electrification.\n\nThailand auto output and Hyundai's Algeria plant are provided for reference."
 }
