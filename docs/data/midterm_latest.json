@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T09:36:25.481549+09:00",
-  "article_count": 42,
+  "generated_at": "2026-09-11T18:24:22.279505+09:00",
+  "article_count": 40,
   "projections": {
     "senate": {
       "r": 50,
@@ -8,9 +8,9 @@
       "tossup": 2
     },
     "house": {
-      "r": 210,
-      "d": 190,
-      "tossup": 35
+      "r": 215,
+      "d": 217,
+      "tossup": 3
     },
     "governor": {
       "r": 22,
@@ -19,126 +19,119 @@
     }
   },
   "key_developments": [
-    "Democrats increasingly optimistic about recapturing Senate majority, with competitive races in Alaska, Iowa, Kansas, Ohio, and Texas—states Trump won by double digits in 2024.",
-    "Data center development and AI regulation emerge as major midterm issues, with Trump's support for data centers conflicting with Republican candidates' efforts to distance themselves from the issue in battleground races.",
-    "Trump's aggressive primary endorsements have unseated multiple GOP incumbents, but those Trump-backed candidates are underperforming in general election matchups, creating vulnerability for Republicans.",
-    "Michigan's 50-plus voters and older demographics in swing states show less loyalty to Republicans, with polls indicating El Sayed narrowly leads Rogers despite Democratic weakness nationally.",
-    "Texas Senate race unexpectedly competitive, with Democrat James Talarico leading Republican Ken Paxton in multiple polls, raising questions about Republican dominance in the state."
+    "Nate Silver's forecast shows Democrats ahead in nine of 12 competitive Senate races, signaling potential Republican losses of Senate control.",
+    "Trump's RNC midterm convention drew poor attendance with major GOP candidates opting out, signaling internal party tensions weeks before Election Day.",
+    "Democrats lead Republicans on generic ballot but with more modest advantage compared to 2018, suggesting headwinds despite Trump's collapsing approval ratings.",
+    "Data center development emerged as toxic midterm issue with Republican candidates distancing from Trump's pro-data center stance in battleground races.",
+    "Democrats mounted competitive campaigns in five states Trump won by double digits in 2024 (Alaska, Iowa, Kansas, Ohio, Texas)."
   ],
   "key_races": {
     "senate": [
       {
-        "state": "TX",
-        "incumbent": "Ken Paxton (R)",
+        "state": "NC",
+        "incumbent": "Unknown",
         "party": "D",
-        "rating": "toss",
-        "label": "TX Senate: Talarico (D) vs. Paxton (R)",
-        "note": "Democrat James Talarico has led Paxton in multiple polls; Texas hasn't elected a Democrat to Senate in nearly four decades but GOP insiders acknowledge the streak is in trouble."
+        "rating": "lean-d",
+        "label": "North Carolina",
+        "note": "Democrats ahead per Nate Silver forecast in competitive open or lean-R seat."
       },
       {
-        "state": "MI",
-        "incumbent": "Mike Rogers (R)",
+        "state": "GA",
+        "incumbent": "Jon Ossoff (D)",
         "party": "D",
-        "rating": "toss",
-        "label": "MI Senate: El Sayed (D) vs. Rogers (R)",
-        "note": "Abdul El Sayed narrowly leads Rogers 48-47 in AARP poll, but struggles with voters 50 and older, a key swing demographic."
+        "rating": "tossup",
+        "label": "Georgia",
+        "note": "Ossoff seeking reelection with strong fundraising despite Trump-backed Collins' faltering campaign."
+      },
+      {
+        "state": "MN",
+        "incumbent": "Unknown",
+        "party": "D",
+        "rating": "lean-d",
+        "label": "Minnesota",
+        "note": "Democrats ahead per Nate Silver forecast."
       },
       {
         "state": "IA",
-        "incumbent": null,
+        "incumbent": "Unknown",
         "party": "D",
-        "rating": "toss",
-        "label": "IA Senate: Open Seat",
-        "note": "Democrats testing whether Iowa is still a swing state; cancer and healthcare among top issues for voters alongside general Trump midterm concerns."
+        "rating": "tossup",
+        "label": "Iowa",
+        "note": "Major test of whether Iowa remains swing state as Democrats challenge Republican seat."
       },
       {
-        "state": "OH",
-        "incumbent": null,
+        "state": "NH",
+        "incumbent": "Unknown",
         "party": "D",
-        "rating": "lean-d",
-        "label": "OH Senate: Open Seat",
-        "note": "Democrats mounting competitive campaign in state Trump won by double digits; transgender athlete policy dividing Democratic messaging approach."
+        "rating": "tossup",
+        "label": "New Hampshire",
+        "note": "Competitive Democratic-Republican primary matchup with Pappas trailing Sununu in polls; must-win for Democrats."
       },
       {
-        "state": "KS",
-        "incumbent": null,
+        "state": "TX",
+        "incumbent": "Unknown",
         "party": "D",
         "rating": "lean-d",
-        "label": "KS Senate: Open Seat",
-        "note": "Democrats competitive in state Trump won by double digits in 2024."
+        "label": "Texas",
+        "note": "Talarico leads Paxton 48-44 in AARP poll; Texas emerging as major battleground in Trump-won state."
       },
       {
         "state": "AK",
-        "incumbent": null,
+        "incumbent": "Unknown",
         "party": "D",
         "rating": "lean-d",
-        "label": "AK Senate: Open Seat",
-        "note": "Democrats mounting competitive campaign in state Trump won by double digits."
+        "label": "Alaska",
+        "note": "Democrats competing in state Trump won by double digits."
+      },
+      {
+        "state": "KS",
+        "incumbent": "Unknown",
+        "party": "D",
+        "rating": "lean-d",
+        "label": "Kansas",
+        "note": "Democrats competing in state Trump won by double digits."
+      },
+      {
+        "state": "OH",
+        "incumbent": "Unknown",
+        "party": "D",
+        "rating": "lean-d",
+        "label": "Ohio",
+        "note": "Democrats competing in state Trump won by double digits."
       }
     ],
     "house": [
       {
-        "state": "PA-07",
-        "incumbent": null,
+        "state": "PA-DIST",
+        "incumbent": "Paige Cognetti (D)",
         "party": "D",
-        "rating": "toss",
-        "label": "PA-07: Cognetti (D) vs. Republican",
-        "note": "Democrat Paige Cognetti invoking state's industrial past against corporate interests, with AI and data centers emerging as central campaign issues."
-      },
-      {
-        "state": "WI-GOV",
-        "incumbent": "Tony Evers (D)",
-        "party": "D",
-        "rating": "toss",
-        "label": "WI Governor: Crowley (D) vs. Tiffany (R)",
-        "note": "Democrat David Crowley holds narrow lead over Trump-endorsed Republican Tom Tiffany in first post-primary poll; positioned as one of most competitive 2026 races."
+        "rating": "tossup",
+        "label": "Pennsylvania Competitive District",
+        "note": "Democrat invoking state's industrial past against big companies to compete in swing district."
       }
     ],
     "governor": [
       {
-        "state": "WI",
-        "incumbent": "Tony Evers (D)",
+        "state": "MI",
+        "incumbent": "Unknown",
         "party": "D",
-        "rating": "toss",
-        "label": "WI Governor: Crowley (D) vs. Tiffany (R)",
-        "note": "Democrat David Crowley holds narrow lead over Trump-endorsed Republican Tom Tiffany; one of most competitive gubernatorial contests in 2026."
+        "rating": "tossup",
+        "label": "Michigan",
+        "note": "Jocelyn Benson, Democratic Secretary of State, is nominee; 50+ voters critical swing demographic."
       },
       {
         "state": "TX",
-        "incumbent": "Greg Abbott (R)",
+        "incumbent": "Unknown",
         "party": "R",
-        "rating": "likely-r",
-        "label": "TX Governor: Abbott (R) vs. Hinojosa (D)",
-        "note": "Greg Abbott's lead over Democrat Gina Hinojosa grew in latest poll, contrasting with competitive Senate race in state."
-      },
-      {
-        "state": "MD",
-        "incumbent": "Wes Moore (D)",
-        "party": "D",
-        "rating": "likely-d",
-        "label": "MD Governor: Moore (D) Reelection",
-        "note": "Gov. Wes Moore running for reelection and leading Democratic initiative to elect more Black governors nationwide; rumored 2028 presidential contender."
+        "rating": "lean-r",
+        "label": "Texas",
+        "note": "Republican-held seat in emerging battleground with redistricting benefits now under threat."
       }
     ]
   },
   "upcoming_schedule": {
     "senate": [
       {
-        "date": "Sep 08",
-        "state": "Delaware (DE)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 08",
-        "state": "New Hampshire (NH)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 08",
-        "state": "Rhode Island (RI)",
-        "event": "Primary Election"
-      },
-      {
         "date": "Sep 15",
         "state": "New York (NY)",
         "event": "Primary Election"
@@ -157,25 +150,15 @@
         "date": "Sep 29",
         "state": "Louisiana (LA)",
         "event": "Jungle Primary"
+      },
+      {
+        "date": "Nov 03",
+        "state": "All States (ALL)",
+        "event": "2026 Midterm General Election"
       }
     ],
     "house": [
       {
-        "date": "Sep 08",
-        "state": "Delaware (DE)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 08",
-        "state": "New Hampshire (NH)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 08",
-        "state": "Rhode Island (RI)",
-        "event": "Primary Election"
-      },
-      {
         "date": "Sep 15",
         "state": "New York (NY)",
         "event": "Primary Election"
@@ -194,25 +177,15 @@
         "date": "Sep 29",
         "state": "Louisiana (LA)",
         "event": "Jungle Primary"
+      },
+      {
+        "date": "Nov 03",
+        "state": "All States (ALL)",
+        "event": "2026 Midterm General Election"
       }
     ],
     "governor": [
       {
-        "date": "Sep 08",
-        "state": "Delaware (DE)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 08",
-        "state": "New Hampshire (NH)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 08",
-        "state": "Rhode Island (RI)",
-        "event": "Primary Election"
-      },
-      {
         "date": "Sep 15",
         "state": "New York (NY)",
         "event": "Primary Election"
@@ -231,6 +204,11 @@
         "date": "Sep 29",
         "state": "Louisiana (LA)",
         "event": "Jungle Primary"
+      },
+      {
+        "date": "Nov 03",
+        "state": "All States (ALL)",
+        "event": "2026 Midterm General Election"
       }
     ]
   }

@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>US Midterms | World News</title>
   <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js">/* KEY DEVELOPMENTS
-   - Democrats increasingly optimistic about recapturing Senate majority, with competitive races in Alaska, Iowa, Kansas, Ohio, and Texas—states Trump won by double digits in 2024.
-   - Data center development and AI regulation emerge as major midterm issues, with Trump's support for data centers conflicting with Republican candidates' efforts to distance themselves from the issue in battleground races.
-   - Trump's aggressive primary endorsements have unseated multiple GOP incumbents, but those Trump-backed candidates are underperforming in general election matchups, creating vulnerability for Republicans.
-   - Michigan's 50-plus voters and older demographics in swing states show less loyalty to Republicans, with polls indicating El Sayed narrowly leads Rogers despite Democratic weakness nationally.
-   - Texas Senate race unexpectedly competitive, with Democrat James Talarico leading Republican Ken Paxton in multiple polls, raising questions about Republican dominance in the state.
+   - Nate Silver's forecast shows Democrats ahead in nine of 12 competitive Senate races, signaling potential Republican losses of Senate control.
+   - Trump's RNC midterm convention drew poor attendance with major GOP candidates opting out, signaling internal party tensions weeks before Election Day.
+   - Democrats lead Republicans on generic ballot but with more modest advantage compared to 2018, suggesting headwinds despite Trump's collapsing approval ratings.
+   - Data center development emerged as toxic midterm issue with Republican candidates distancing from Trump's pro-data center stance in battleground races.
+   - Democrats mounted competitive campaigns in five states Trump won by double digits in 2024 (Alaska, Iowa, Kansas, Ohio, Texas).
 */
 </script>
   <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
@@ -135,9 +135,9 @@
 
 <header class="site-header">
   <div class="logo" onclick="location.href='index.html'">World<em>News</em></div>
-  <div class="header-date">Wednesday</div>
+  <div class="header-date">Friday</div>
   <div class="header-spacer"></div>
-  <div class="update-time">Updated: 2026-09-02 JST</div>
+  <div class="update-time">Updated: 2026-09-11 JST</div>
   <div class="lang-toggle">
     <a href="../jp/midterm.html">JP</a>
     <a href="midterm.html" class="active">EN</a>
@@ -241,7 +241,7 @@
 </div>
 
 <footer class="site-footer">
-  Data: Cook Political Report / 270toWin &nbsp;|&nbsp; Updated: 2026-09-02
+  Data: Cook Political Report / 270toWin &nbsp;|&nbsp; Updated: 2026-09-11
 </footer>
 
 <script>
@@ -342,12 +342,15 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
-    { state: "TX", incumbent: "Ken Paxton (R)", party: "D", rating: "toss", label: "TX Senate: Talarico (D) vs. Paxton (R)" },
-    { state: "MI", incumbent: "Mike Rogers (R)", party: "D", rating: "toss", label: "MI Senate: El Sayed (D) vs. Rogers (R)" },
-    { state: "IA", incumbent: null, party: "D", rating: "toss", label: "IA Senate: Open Seat" },
-    { state: "OH", incumbent: null, party: "D", rating: "lean-d", label: "OH Senate: Open Seat" },
-    { state: "KS", incumbent: null, party: "D", rating: "lean-d", label: "KS Senate: Open Seat" },
-    { state: "AK", incumbent: null, party: "D", rating: "lean-d", label: "AK Senate: Open Seat" },
+    { state: "NC", incumbent: "Unknown", party: "D", rating: "lean-d", label: "North Carolina" },
+    { state: "GA", incumbent: "Jon Ossoff (D)", party: "D", rating: "toss", label: "Georgia" },
+    { state: "MN", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Minnesota" },
+    { state: "IA", incumbent: "Unknown", party: "D", rating: "toss", label: "Iowa" },
+    { state: "NH", incumbent: "Unknown", party: "D", rating: "toss", label: "New Hampshire" },
+    { state: "TX", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Texas" },
+    { state: "AK", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Alaska" },
+    { state: "KS", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Kansas" },
+    { state: "OH", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Ohio" },
   ],
   house: [
     { state:'NY-3', incumbent:'(Open)', party:'D', rating:'toss', label:'Toss-up' },
@@ -380,7 +383,7 @@ const seatCounts = {
 // 2026 predictions (rough)
 const predictions = {
   senate:   { r:50, d:48, toss:2, total:100 },
-  house:    { r:210, d:190, toss:35, total:435 },
+  house:    { r:215, d:217, toss:3, total:435 },
   governor: { r:22, d:14, toss:0, total:50 },
 };
 
@@ -4285,35 +4288,29 @@ function drawRaces() {
 }
 
 /* =====================================================
-   UPCOMING SCHEDULE (next 8 weeks from 2026-09-02 → 2026-10-28)
+   UPCOMING SCHEDULE (next 8 weeks from 2026-09-11 → 2026-11-06)
    ===================================================== */
 const upcomingSchedules = {
   senate: [
-    { date: "Sep 08", state: "Delaware (DE)", event: "Primary Election" },
-    { date: "Sep 08", state: "New Hampshire (NH)", event: "Primary Election" },
-    { date: "Sep 08", state: "Rhode Island (RI)", event: "Primary Election" },
     { date: "Sep 15", state: "New York (NY)", event: "Primary Election" },
     { date: "Sep 15", state: "Maine (ME)", event: "Primary Election" },
     { date: "Sep 22", state: "North Dakota (ND)", event: "Primary Election" },
     { date: "Sep 29", state: "Louisiana (LA)", event: "Jungle Primary" },
+    { date: "Nov 03", state: "All States (ALL)", event: "2026 Midterm General Election" },
   ],
   house: [
-    { date: "Sep 08", state: "Delaware (DE)", event: "Primary Election" },
-    { date: "Sep 08", state: "New Hampshire (NH)", event: "Primary Election" },
-    { date: "Sep 08", state: "Rhode Island (RI)", event: "Primary Election" },
     { date: "Sep 15", state: "New York (NY)", event: "Primary Election" },
     { date: "Sep 15", state: "Maine (ME)", event: "Primary Election" },
     { date: "Sep 22", state: "North Dakota (ND)", event: "Primary Election" },
     { date: "Sep 29", state: "Louisiana (LA)", event: "Jungle Primary" },
+    { date: "Nov 03", state: "All States (ALL)", event: "2026 Midterm General Election" },
   ],
   governor: [
-    { date: "Sep 08", state: "Delaware (DE)", event: "Primary Election" },
-    { date: "Sep 08", state: "New Hampshire (NH)", event: "Primary Election" },
-    { date: "Sep 08", state: "Rhode Island (RI)", event: "Primary Election" },
     { date: "Sep 15", state: "New York (NY)", event: "Primary Election" },
     { date: "Sep 15", state: "Maine (ME)", event: "Primary Election" },
     { date: "Sep 22", state: "North Dakota (ND)", event: "Primary Election" },
     { date: "Sep 29", state: "Louisiana (LA)", event: "Jungle Primary" },
+    { date: "Nov 03", state: "All States (ALL)", event: "2026 Midterm General Election" },
   ],
 };
 

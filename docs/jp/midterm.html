@@ -131,9 +131,9 @@
 
 <header class="site-header">
   <div class="logo" onclick="location.href='index.html'" title="ホームへ">World<em>News</em></div>
-  <div class="header-date">2026年09月02日</div>
+  <div class="header-date">2026年09月11日</div>
   <div class="header-spacer"></div>
-  <div class="update-time">最終更新: 2026年09月02日 09:36 JST</div>
+  <div class="update-time">最終更新: 2026年09月11日 18:24 JST</div>
   <div class="lang-toggle">
     <a href="midterm.html" class="active">JP</a>
     <a href="../en/midterm.html">EN</a>
@@ -237,7 +237,7 @@
 </div>
 
 <footer class="site-footer">
-  データ出典: Cook Political Report / 270toWin 参考 &nbsp;|&nbsp; 更新: 2026-09-02
+  データ出典: Cook Political Report / 270toWin 参考 &nbsp;|&nbsp; 更新: 2026-09-11
 </footer>
 
 <script>
@@ -338,12 +338,15 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
-    { state: "TX", incumbent: "Ken Paxton (R)", party: "D", rating: "toss", label: "TX Senate: Talarico (D) vs. Paxton (R)" },
-    { state: "MI", incumbent: "Mike Rogers (R)", party: "D", rating: "toss", label: "MI Senate: El Sayed (D) vs. Rogers (R)" },
-    { state: "IA", incumbent: null, party: "D", rating: "toss", label: "IA Senate: Open Seat" },
-    { state: "OH", incumbent: null, party: "D", rating: "lean-d", label: "OH Senate: Open Seat" },
-    { state: "KS", incumbent: null, party: "D", rating: "lean-d", label: "KS Senate: Open Seat" },
-    { state: "AK", incumbent: null, party: "D", rating: "lean-d", label: "AK Senate: Open Seat" },
+    { state: "NC", incumbent: "Unknown", party: "D", rating: "lean-d", label: "North Carolina" },
+    { state: "GA", incumbent: "Jon Ossoff (D)", party: "D", rating: "toss", label: "Georgia" },
+    { state: "MN", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Minnesota" },
+    { state: "IA", incumbent: "Unknown", party: "D", rating: "toss", label: "Iowa" },
+    { state: "NH", incumbent: "Unknown", party: "D", rating: "toss", label: "New Hampshire" },
+    { state: "TX", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Texas" },
+    { state: "AK", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Alaska" },
+    { state: "KS", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Kansas" },
+    { state: "OH", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Ohio" },
   ],
   house: [
     { state:'NY-3', incumbent:'(Open)', party:'D', rating:'toss', label:'Toss-up' },
@@ -376,7 +379,7 @@ const seatCounts = {
 // 2026 predictions (rough)
 const predictions = {
   senate:   { r:50, d:48, toss:2, total:100 },
-  house:    { r:210, d:190, toss:35, total:435 },
+  house:    { r:215, d:217, toss:3, total:435 },
   governor: { r:22, d:14, toss:0, total:50 },
 };
 
@@ -4599,31 +4602,25 @@ function drawRaces() {
    ===================================================== */
 const upcomingSchedules = {
   senate: [
-    { date: "Sep 08", state: "Delaware (DE)", event: "Primary Election" },
-    { date: "Sep 08", state: "New Hampshire (NH)", event: "Primary Election" },
-    { date: "Sep 08", state: "Rhode Island (RI)", event: "Primary Election" },
     { date: "Sep 15", state: "New York (NY)", event: "Primary Election" },
     { date: "Sep 15", state: "Maine (ME)", event: "Primary Election" },
     { date: "Sep 22", state: "North Dakota (ND)", event: "Primary Election" },
     { date: "Sep 29", state: "Louisiana (LA)", event: "Jungle Primary" },
+    { date: "Nov 03", state: "All States (ALL)", event: "2026 Midterm General Election" },
   ],
   house: [
-    { date: "Sep 08", state: "Delaware (DE)", event: "Primary Election" },
-    { date: "Sep 08", state: "New Hampshire (NH)", event: "Primary Election" },
-    { date: "Sep 08", state: "Rhode Island (RI)", event: "Primary Election" },
     { date: "Sep 15", state: "New York (NY)", event: "Primary Election" },
     { date: "Sep 15", state: "Maine (ME)", event: "Primary Election" },
     { date: "Sep 22", state: "North Dakota (ND)", event: "Primary Election" },
     { date: "Sep 29", state: "Louisiana (LA)", event: "Jungle Primary" },
+    { date: "Nov 03", state: "All States (ALL)", event: "2026 Midterm General Election" },
   ],
   governor: [
-    { date: "Sep 08", state: "Delaware (DE)", event: "Primary Election" },
-    { date: "Sep 08", state: "New Hampshire (NH)", event: "Primary Election" },
-    { date: "Sep 08", state: "Rhode Island (RI)", event: "Primary Election" },
     { date: "Sep 15", state: "New York (NY)", event: "Primary Election" },
     { date: "Sep 15", state: "Maine (ME)", event: "Primary Election" },
     { date: "Sep 22", state: "North Dakota (ND)", event: "Primary Election" },
     { date: "Sep 29", state: "Louisiana (LA)", event: "Jungle Primary" },
+    { date: "Nov 03", state: "All States (ALL)", event: "2026 Midterm General Election" },
   ],
 };
 
