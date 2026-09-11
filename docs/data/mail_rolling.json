@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-11 10:21 JST",
+  "updated_at": "2026-09-11 10:23 JST",
   "total": 50,
-  "toyota_summary": "米国は迂回輸出された中国製品に対し40%の制裁関税を課す計画であり、まずメキシコとベトナムを標的とする。長期的には、USMCA（米国・メキシコ・カナダ協定）の原産地規則改正により、中国関連部品に対する関税優遇が撤廃される可能性があることから、これら両国を経由して調達を行う自動車メーカーは、サプライチェーンにおけるリスク露出を今すぐ再評価すべきである。\n\nEUの「メイド・イン・ヨーロッパ」規則案は、補助金の対象を域内で組み立てられた車両に限定するもので、ホンダ、トヨタ、현대（ヒョンデ）には不利に働く一方、英国製車両は依然として対象となる可能性がある。域内調達率の義務付けをどこまで厳格にすべきかを巡っては議員間で意見が割れており、秋には理事会との間で紛糾必至の交渉が控えている。\n\nなお、EUによるトラック電動化圧力については参考情報として付記する。",
+  "toyota_summary": "米国は迂回輸出された中国製品に対して40%の制裁関税を課す方針で、まずはメキシコとベトナムを標的とする。これらの国を経由して部品を調達する自動車メーカーは、USMCA原産地規則の改革案によって一段と大きなリスクに直面する可能性がある。同改革案は、中国関連部品に対する関税優遇措置を撤廃し得るものである。\n\nEUの「産業アクセラレーター法」は、「メイド・イン・ヨーロッパ」補助金の対象を域内組立車両に限定する内容で、ホンダ、トヨタ、현代自動車（ヒュンダイ）に不利に働く一方、英国製車両は依然として対象となり得る。EPP（欧州人民党）所属議員は現地調達義務の法定化に反対しており、欧州議会と欧州理事会の間で秋にかけて紛糾必至の交渉が展開される見通しである。\n\nなお、EUのトラック電動化圧力については参考情報として付記する。",
   "emails": [
     {
       "ts": "20260911_0602",
@@ -292,7 +292,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "New JETRO Regional and Analysis Reports Announcement (September 10, 2026 Issue)",
+      "subject_en": "Notice of New JETRO Regional and Analysis Reports (September 10, 2026 Issue)",
       "html": "data/pdfs/20260910_1355_ジェトロ地域・分析レポートの新着のご案内（2026年9月10日号）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -557,7 +557,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "日本企業31社がペット関連アジア展示会に出展し、アジア市場開拓を推進している。",
-      "subject_en": "\"JETRO Business Brief\" 2026/09/09",
+      "subject_en": "JETRO Business Brief 2026/09/09",
       "html": "data/pdfs/20260909_1836_「ジェトロ・ビジネス短信」2026_09_09.html",
       "summary_en": "Thailand's automotive sector showed solid momentum in July, with vehicle production up 6.1% year-on-year and domestic sales climbing 22.4%, while motorcycle output rose a modest 0.5% with domestic sales up 5.1%. Separately, Hyundai Motor Group is moving forward with a new plant in Algeria under a cross-border assembly arrangement, signaling continued expansion into North African markets. These developments reflect resilient demand across Southeast Asian auto markets alongside strategic manufacturing diversification by global automakers.",
       "summary_ja": "タイの7月の自動車生産台数は前年同月比6.1％増、国内販売は22.4％増と好調に推移し、二輪車も生産が0.5％増、国内販売は5.1％増となった。一方、現代自動車グループはアルジェリアで国境を越えた組み立て方式による新工場建設を進めており、北アフリカ市場への展開を強化している。東南アジアの自動車需要の堅調さと、グローバル完成車メーカーによる生産拠点の多様化戦略が浮き彫りとなった。",
@@ -739,5 +739,5 @@
       "summary_pdf": ""
     }
   ],
-  "toyota_summary_en": "The US plans a 40% penalty on transshipped Chinese goods, targeting Mexico and Vietnam first. Longer term, USMCA rules-of-origin reform could strip tariff preferences from Chinese-linked components, so automakers sourcing through these countries should reassess supply chain exposure now.\n\nThe EU's 'Made in Europe' rules would limit subsidy eligibility to vehicles assembled in the bloc, disadvantaging Honda, Toyota and Hyundai while UK-made vehicles may still qualify. Lawmakers remain split on how strict local-content mandates should be, setting up a contested autumn negotiation with the Council.\n\nEU truck electrification pressure is provided for reference."
+  "toyota_summary_en": "The US plans to enforce a 40% penalty on transshipped Chinese goods, targeting Mexico and Vietnam first. Automakers sourcing parts through these countries face bigger risk from potential USMCA rules-of-origin reform, which could strip tariff preferences from Chinese-linked components.\n\nThe EU's Industrial Accelerator Act would limit 'Made in Europe' subsidies to vehicles assembled in the bloc, disadvantaging Honda, Toyota and Hyundai while UK-made vehicles may still qualify. EPP lawmakers oppose binding local-content mandates, setting up contentious autumn negotiations between Parliament and Council.\n\nEU truck electrification pressure is provided for reference."
 }
