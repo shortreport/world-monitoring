@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-11 10:20 JST",
+  "updated_at": "2026-09-11 10:21 JST",
   "total": 50,
-  "toyota_summary": "The Trump administration is preparing to crack down on Chinese goods flowing through Mexico and Vietnam, likely imposing additional penalties on products transshipped through these countries to evade tariffs. This marks a shift in enforcement strategy—the administration appears ready to tighten monitoring of indirect routes into the U.S. market rather than relying solely on direct tariffs on Chinese imports.\n\nFor automakers, this creates a two-front compliance problem. Companies that source components from China or manufacture in China for export face higher costs if they route goods through Mexico or Vietnam to avoid tariffs. At the same time, the EU is tightening its own rules in opposite directions: some member states are pushing back against strict local manufacturing requirements in the Industrial Acceleration Act, while key European Parliament members want those requirements strengthened. This leaves manufacturers caught between a U.S. crackdown on workarounds and European fragmentation over what \"made in Europe\" actually means.\n\nWatch whether the Trump administration moves to formally define transshipment penalties before taking office.",
+  "toyota_summary": "米国は迂回輸出された中国製品に対し40%の制裁関税を課す計画であり、まずメキシコとベトナムを標的とする。長期的には、USMCA（米国・メキシコ・カナダ協定）の原産地規則改正により、中国関連部品に対する関税優遇が撤廃される可能性があることから、これら両国を経由して調達を行う自動車メーカーは、サプライチェーンにおけるリスク露出を今すぐ再評価すべきである。\n\nEUの「メイド・イン・ヨーロッパ」規則案は、補助金の対象を域内で組み立てられた車両に限定するもので、ホンダ、トヨタ、현대（ヒョンデ）には不利に働く一方、英国製車両は依然として対象となる可能性がある。域内調達率の義務付けをどこまで厳格にすべきかを巡っては議員間で意見が割れており、秋には理事会との間で紛糾必至の交渉が控えている。\n\nなお、EUによるトラック電動化圧力については参考情報として付記する。",
   "emails": [
     {
       "ts": "20260911_0602",
@@ -11,7 +11,12 @@
       "date_label": "SEP 11  06:02",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "MENA Crisis and Oil Update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260911_0602_MENA_Crisis_and_Oil_Update_-_EG_Conference_Call,_R.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260911_0448",
@@ -21,7 +26,12 @@
       "date_label": "SEP 11  04:48",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Saudi Arabia: Houthi gains will force diplomatic response",
+      "html": "data/pdfs/20260911_0448_Saudi_Arabia__Houthi_gains_will_force_diplomatic_r.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260911_0359",
@@ -31,7 +41,12 @@
       "date_label": "SEP 11  03:59",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Summit will yield only a limited trade truce extension",
+      "html": "data/pdfs/20260911_0359_Summit_will_yield_only_a_limited_trade_truce_exten.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260911_0318",
@@ -41,7 +56,12 @@
       "date_label": "SEP 11  03:18",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "MENA Crisis and Oil Update",
+      "html": "data/pdfs/20260911_0318_MENA_Crisis_and_Oil_Update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260911_0102",
@@ -51,7 +71,12 @@
       "date_label": "SEP 11  01:02",
       "read_min": 6,
       "toyota": true,
-      "excerpt": "トランプ政権はメキシコとベトナムを中国製品の迂回輸出取り締まりの初期対象とする見込みであ"
+      "excerpt": "トランプ政権はメキシコとベトナムを中国製品の迂回輸出取り締まりの初期対象とする見込みであ",
+      "subject_en": "US to target Mexico, Vietnam on transshipment",
+      "html": "data/pdfs/20260911_0102_US_to_target_Mexico,_Vietnam_on_transshipment.html",
+      "summary_en": "The Trump administration is preparing to enforce a 40% penalty on transshipped Chinese goods, with Mexico and Vietnam expected to be the first targets due to their high trade volumes and deep ties to Chinese manufacturing supply chains. A bigger long-term threat for automakers and suppliers may come from USMCA rules-of-origin reform, which could strip preferential tariff treatment from currently compliant Chinese-linked components. Companies sourcing parts through these countries should reassess supply chain exposure ahead of stricter enforcement.",
+      "summary_ja": "トランプ政権は、中国製品の迂回輸出（積み替え）に対する40%の追加関税の執行体制を整えつつあり、貿易量が大きいメキシコと、中国の製造業と深く結びついたベトナムが最初の標的になるとみられる。自動車業界にとってより大きな長期的リスクは、USMCA見直しに伴う原産地規則の改定で、現在は優遇関税の対象となっている中国由来部品が対象外となる可能性がある。中国関連のサプライチェーンを持つ企業は、規制強化に備えて調達戦略の見直しを迫られそうだ。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260911_0031",
@@ -71,7 +96,12 @@
       "date_label": "SEP 11  00:27",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Document: Parliament’s draft ETS report  toughens spending rules for countries",
+      "html": "data/pdfs/20260911_0027_Document__Parliament’s_draft_ETS_report_toughens_s.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260911_0020",
@@ -81,7 +111,12 @@
       "date_label": "SEP 11  00:20",
       "read_min": 3,
       "toyota": true,
-      "excerpt": "欧州人民党（EPP）の国家代表団は、産業加速化法における製造業目標と地元産業要件の厳格さに"
+      "excerpt": "欧州人民党（EPP）の国家代表団は、産業加速化法における製造業目標と地元産業要件の厳格さに",
+      "subject_en": "Document: EPP delegations push back on EU’s ‘Made in Europe’ plans",
+      "html": "data/pdfs/20260911_0020_Document__EPP_delegations_push_back_on_EU’s_‘Made_.html",
+      "summary_en": "EU lawmakers are split over how strictly the Industrial Accelerator Act should enforce 'Made in Europe' rules, with EPP delegations from Belgium, Germany, the Netherlands and others opposing binding manufacturing targets or rigid local-content mandates. Meanwhile, three cross-party rapporteurs have pushed for strict local-content requirements tying public funding to EU-made goods, while Spain and Italy favor sector-specific rules—setting up a contentious autumn negotiation between Parliament and the Council.",
+      "summary_ja": "EUの「産業アクセラレーター法」を巡り、欧州人民党(EPP)内で意見が割れている。ベルギーやドイツ、オランダなどの代表団は、製造業をGDPの20%とする拘束力ある目標や厳格な現地調達要件の導入に反対している。一方、3人の超党派報告者は公的資金をEU域内製品に限定する厳しい現地調達要件を提案し、スペインとイタリアは産業分野ごとの規制強化を支持しており、欧州議会と理事会の間で今秋、激しい攻防が予想される。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_2258",
@@ -91,7 +126,12 @@
       "date_label": "SEP 10  22:58",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU finalizes deal to share traveler data with US border forces",
+      "html": "data/pdfs/20260910_2258_EU_finalizes_deal_to_share_traveler_data_with_US_b.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_2206",
@@ -101,7 +141,12 @@
       "date_label": "SEP 10  22:06",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Von der Leyen endorses European space deal that is under competition review",
+      "html": "data/pdfs/20260910_2206_Von_der_Leyen_endorses_European_space_deal_that_is.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_2127",
@@ -110,8 +155,13 @@
       "pdf": "data/pdfs/20260910_2127_Houthi-Saudi_standoff_raises_oil_price_risks.pdf",
       "date_label": "SEP 10  21:27",
       "read_min": 8,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Houthi-Saudi standoff raises oil price risks",
+      "html": "data/pdfs/20260910_2127_Houthi-Saudi_standoff_raises_oil_price_risks.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_2106",
@@ -121,7 +171,12 @@
       "date_label": "SEP 10  21:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US pressures NATO allies to destroy International Criminal Court",
+      "html": "data/pdfs/20260910_2106_US_pressures_NATO_allies_to_destroy_International_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_1905",
@@ -131,17 +186,27 @@
       "date_label": "SEP 10  19:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How Emmanuel Macron brought France’s AI darling to the world stage",
+      "html": "data/pdfs/20260910_1905_How_Emmanuel_Macron_brought_France’s_AI_darling_to.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_1807",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/09/10",
       "pdf": "data/pdfs/20260910_1807_「ジェトロ・ビジネス短信」2026_09_10.pdf",
       "date_label": "SEP 10  18:07",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" 2026/09/10",
+      "html": "data/pdfs/20260910_1807_「ジェトロ・ビジネス短信」2026_09_10.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260910_1807_「ジェトロ・ビジネス短信」2026_09_10_en.pdf"
     },
     {
       "ts": "20260910_1735",
@@ -151,7 +216,12 @@
       "date_label": "SEP 10  17:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Andy Burnham’s big new Brexit deal isn’t coming anytime soon",
+      "html": "data/pdfs/20260910_1735_Andy_Burnham’s_big_new_Brexit_deal_isn’t_coming_an.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_1656",
@@ -161,7 +231,12 @@
       "date_label": "SEP 10  16:56",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How ‘Made in Israel’ is powering European security ",
+      "html": "data/pdfs/20260910_1656_How_‘Made_in_Israel’_is_powering_European_security.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260910_1618",
@@ -217,7 +292,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "New JETRO Regional and Analysis Report Announcement (September 10, 2026 Issue)",
+      "subject_en": "New JETRO Regional and Analysis Reports Announcement (September 10, 2026 Issue)",
       "html": "data/pdfs/20260910_1355_ジェトロ地域・分析レポートの新着のご案内（2026年9月10日号）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -663,5 +738,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "The US plans a 40% penalty on transshipped Chinese goods, targeting Mexico and Vietnam first. Longer term, USMCA rules-of-origin reform could strip tariff preferences from Chinese-linked components, so automakers sourcing through these countries should reassess supply chain exposure now.\n\nThe EU's 'Made in Europe' rules would limit subsidy eligibility to vehicles assembled in the bloc, disadvantaging Honda, Toyota and Hyundai while UK-made vehicles may still qualify. Lawmakers remain split on how strict local-content mandates should be, setting up a contested autumn negotiation with the Council.\n\nEU truck electrification pressure is provided for reference."
 }
