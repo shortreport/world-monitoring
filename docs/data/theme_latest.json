@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12 18:06:04",
+  "generated_at": "2026-09-13 01:50:37",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-12 18:05:40",
+      "last_checked": "2026-09-13 01:50:04",
       "items": [
+        {
+          "uid": "5d58fee7d7c1",
+          "date": "2026-09-10",
+          "title": "Korea, EU seek stronger supply chain ties as industry rules evolve - The Korea Times",
+          "summary": "韓国とEUは、EUの産業規制が進化する中で、サプライチェーンの結びつきを強化することを目指しており、これは欧州産業加速法案による新たな産業基準への対応を含んでいる。両地域は相互の産業競争力強化と規制適応を通じた経済協力の拡大に向けて協議を進めている。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYi12ZmpkWjZCMTlwckZSd3hORklJdHF6b3E1am5lTTc1YVI2bWVrcWF1cmZLNnl6bzVMX1N1NFk2aXBnbWNHMXVBSmR3eDkxLXI4RGZjOEswbTk1dU1pT3I4X0xUaUdfdmtpNWhQOGJoUWVwZHU4MVNkX2IwVFI1ZElHTkNFZ1p1VFd4aVN4ZnpIeGc3V01hTUFLYkhOdi02YWRrUkZ2dXhjRE5ONnVKLWJXUnFtNmt6UTNTZ1dTWdIBvwFBVV95cUxNYi12ZmpkWjZCMTlwckZSd3hORklJdHF6b3E1am5lTTc1YVI2bWVrcWF1cmZLNnl6bzVMX1N1NFk2aXBnbWNHMXVBSmR3eDkxLXI4RGZjOEswbTk1dU1pT3I4X0xUaUdfdmtpNWhQOGJoUWVwZHU4MVNkX2IwVFI1ZElHTkNFZ1p1VFd4aVN4ZnpIeGc3V01hTUFLYkhOdi02YWRrUkZ2dXhjRE5ONnVKLWJXUnFtNmt6UTNTZ1dTWQ?oc=5",
+          "added_at": "2026-09-13 01:50:02"
+        },
         {
           "uid": "0d74b52134b2",
           "date": "2026-09-10",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHVkU3VGdDNHc1VoSTZESlNobVE0UkZWQ2VOQktwOGpnUmQwQlM1Q0tIY0Jqd3ZzdE5UVWxleUQxOWo0YnpNbE5rWW5zdjlwRndiY3ZIYkJ5MnlSdjBWN0prczZHWHVUVGF5clpxZ29wdGJfMWpoSVp0dHpka1hHVjRqTXAtT0dUcXBnWVZ5QzZxeURSYWxLczhON3lPZU9pWnVBQjE4Z9IBpwFBVV95cUxQZHVkU3VGdDNHc1VoSTZESlNobVE0UkZWQ2VOQktwOGpnUmQwQlM1Q0tIY0Jqd3ZzdE5UVWxleUQxOWo0YnpNbE5rWW5zdjlwRndiY3ZIYkJ5MnlSdjBWN0prczZHWHVUVGF5clpxZ29wdGJfMWpoSVp0dHpka1hHVjRqTXAtT0dUcXBnWVZ5QzZxeURSYWxLczhON3lPZU9pWnVBQjE4Zw?oc=5",
           "added_at": "2026-06-11 23:28:44"
-        },
-        {
-          "uid": "925c34d29957",
-          "date": "2026-06-11",
-          "title": "Toyota and JLR urge EU to include UK, Japan and Turkey in Industrial Accelerator Act - FleetPoint",
-          "summary": "トヨタとJLRはEUに対し、英国、日本、トルコを欧州産業加速法案（IAA）の対象国に含めるよう要請している。これは自動車産業の国際競争力強化と市場アクセスの拡大を目指す動きと考えられる。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOekpnTEVHek9kaklISDBLZE5ZNWhCZFQzUVFTUC1rQ2sycnlybzE5MzFWYW1nbzdtYnRKNXdIVnB6QncwaTdvdnhNVEFmUm9XeXQ1d19LamlqYzZ6bTFxVjlES1U5Zm9iQ2U3dU9Da1BIdHdVa01SSVI0ZGN6QTFnTWxPN19pVDNjbG9XbF9vbUxzSkwzZ1RvNU5YZFkzcExKSGVlb2x2SnZNWG42RWluLUF1RjZYdkZBNmUzaFcwWWwzTDg5T3dVRThxOHh3OW5JdVFrd2J6OA?oc=5",
-          "added_at": "2026-06-11 23:28:44"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-12 18:05:47",
+      "last_checked": "2026-09-13 01:50:15",
       "items": [
+        {
+          "uid": "e204bf0a8aa8",
+          "date": "2026-09-04",
+          "title": "US carmakers want a China ban. Waymo imported 3,200 Zeekrs - AutoNext.co",
+          "summary": "米国の自動車メーカーは中国車排除を求めているが、Waymoは中国のZeekrから3,200台の車両を輸入しており、S.4429の中国車両排除規定と矛盾する動きが実際に起きている状況を示している。",
+          "source": "業界団体（自動車）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVGxpZE5RWXBLVHpacFdua0l5MkdWWUJjTHl4RlR1SzV6bGhJVktjbUt1REk3d0swVlB5TWVRWjJ1VWJGUE03RG5VV2l1VjFURGMzQWdxSWNRek9Pa2RiZG9NYV9NSzhsUmRaVzE2OXpYbXR1bHlJc2ZYYTQ5cUIwTVhfeVBZMVhIenRJTVlKRVVCTEFzT0tpeXp5MUtOQQ?oc=5",
+          "added_at": "2026-09-13 01:50:14"
+        },
         {
           "uid": "61cc84d12f1a",
           "date": "2026-09-11",
@@ -4010,16 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUh1MXNpaWsxTTliT1VacG5BQjJQeWoxMzJhQnoxUlZzX0JGYlJoLUdLTGZxQ3gzNEc3WHdyZ0xmOVppdVF3WWx5V1JTRjVtSUhvdUFnR2ZNOXJROFdQb1d2MUE4eGVZX3ltMlVVbGcwR2MyOVQ1M01aUEpkZHJVU2tPdTN1THlrYkw1NS1JdWdqZUhoSEpvM1dkLVQzbXM4VmlqWVB5OXdVM0RpNjFGaTZ0RkRzUQ?oc=5",
           "added_at": "2026-07-24 00:57:18"
-        },
-        {
-          "uid": "9416ff2eb318",
-          "date": "2026-07-22",
-          "title": "Slotkin, Moreno Bill to Protect National & Economic Security from Chinese Vehicles Advances Unanimously - U.S. Senate (.gov)",
-          "summary": "S.4429は、中国製車両による国家安全保障とサイバーセキュリティの脅威に対抗するため、米国内で中国企業による車両製造や走行データ収集を制限する法案である。本法案は米国上院で全会一致で可決され、自動車産業における中国の影響力排除を目指している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON0RNcm5TYVFlOWUzc0V3eTkyLVJ2YjcyMlByUXAwTTd4VEhoWlZpVE1iaWJGUUtwU2lMa2lBcGhmVlE0ck12UmVPVDZNTkJyVUxfME1qNHR3MnhoU2pCZFE1Q0xST2MzWDFBR3NfQkYtZUtNcmdpME5ycjI3UGpBM1BreFA2dEtLM0lBZGVLV0lXX1ZzZmtQLWJaQXpHeGxMUzVYa3h3VE4xVlp6SWVFWkYzRWZER0pXb09aMjU1Q0xhUEhqMU16WGZNQ0xUejdkSFRHYlhXcHhhSms?oc=5",
-          "added_at": "2026-07-23 16:34:34"
         }
       ]
     },
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-12 18:06:04",
+      "last_checked": "2026-09-13 01:50:37",
       "items": [
+        {
+          "uid": "54daf4f9144a",
+          "date": "2026-06-25",
+          "title": "China targets US rare earth and defence-linked entities with dual-use export ban - Benchmark Mineral Intelligence",
+          "summary": "中国は米国のレアアース関連企業および防衛関連企業に対して、汎用技術・製品の輸出を禁止する措置を実施し、レアアース産業における対米制裁を強化している。この措置により、米国企業のレアアース調達やその加工技術へのアクセスが制限されることになる。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMEtnMWdIYV80b05mY1JKTmY3ODRnRW1CT3ZxN0ZNdjAzSGhaMjFOdE5vN0h5ZFNCbDRYRmwyQ0dSVWlIdFNCUTJJalBZZUhQQUlyTXVvc3E4RzMta1FnaVppSUNIcWhSazdFY2J5eFZzU2xPZEptam9uVllGNV90ZV9IYWZkSzM3aDU0akJwYUtoNXgzQ3VJVnJSZ09JeTRQMFBtOFJUajJyRlkyLWduc2E2ODBaYnhaaFlZb2lUM3BPeUk?oc=5",
+          "added_at": "2026-09-13 01:50:31"
+        },
+        {
+          "uid": "1f13131c51ed",
+          "date": "2026-09-12",
+          "title": "China Rare Earth Group HREE Processing Network Explained - Rare Earth Exchanges",
+          "summary": "中国は重希土類元素（HREE）の処理ネットワークを構築し、レアアース産業全体を統合することで、輸出管理を強化し、戦略的な資源支配を強化している。この体制により、中国は希土類のサプライチェーン全体にわたって供給量と価格をコントロール可能になっている。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHZjekZqUDNuZklkZkp0cE1tNFlvMlFCdWJkUGtZaHFoQmdzT2d3WG1SOVNyUWVEMUhoazNrQktreGZQQjlPQW1KcXZzMlpSbEtaOEM2M2QwWGN0QzRxeXcxNWdhTGdjQURHUHZYZ2JpRlc0dUxZbTF4Zkx2WXZ4TUo3YjRGOTB5UzJN?oc=5",
+          "added_at": "2026-09-13 01:50:31"
+        },
+        {
+          "uid": "2105ed2adbb8",
+          "date": "2026-06-22",
+          "title": "China Flexes Its Rare-Earth Muscle—Again - Foreign Policy",
+          "summary": "中国が戦略的武器としてレアアース輸出を制限し、地政学的な影響力を行使している状況が再び顕在化している。この措置は先進国の防衛・産業能力に対する中国の支配力を示す重要な事例である。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2FqUDhJbDRlTW5ueXNNTlo4MFJTanRmMHVIcktGNDNsZzY5WnFSdDlNc1A1X3BUZFd5Z082NFhVbFI1cFVQVTBxSlZrNFM1VC00QXhlOU9sRVdQZ3BtU3N4SzhNZFBpUDh0S29ZUDhLLXNJWVNZZWlxR0xBbXNETHloblg?oc=5",
+          "added_at": "2026-09-13 01:50:31"
+        },
+        {
+          "uid": "06a6c9518c0e",
+          "date": "2026-09-12",
+          "title": "Trump says he would allow Chinese automakers to build cars in US",
+          "summary": "トランプ大統領は中国の自動車メーカーの米国内での製造を許可すると発言しており、これは中国との経済関係の柔軟性を示すもので、レアアース等の重要鉱物を巡る米中間の貿易交渉における中国への譲歩圧力を減少させる可能性がある。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6085912-trump-permits-chinese-automakers-us-manufacturing/",
+          "added_at": "2026-09-13 01:50:31"
+        },
         {
           "uid": "300a03109431",
           "date": "2026-08-21",
@@ -5991,46 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3BoQnc5Y3FuOUVPMlh4QTVQY2dyMlo1UkFTUTlWbGdEMVVHYnduSy1jVmFCWnVVQS1RUTFHNUNudFpxcUlyWEZQMTNNaUE1dFNJdFRQWkRUMWZZOTZ2RXBjbG9pa05BUjE3NFM4QkRZcFJIMXpycU9aY01ndGNPS0xLUThEUGtENF95T01pWkRHZmk3blg1TzhBN0pKaHozdVJKX2FJQQ?oc=5",
           "added_at": "2026-08-23 23:26:34"
-        },
-        {
-          "uid": "86fa03656489",
-          "date": "2026-07-27",
-          "title": "Buying Time, Not Immunity: Japan's Rare Earth Dilemma - orfonline.org",
-          "summary": "日本はレアアースの調達先を多角化する戦略によって中国への依存度を低下させようとしていますが、中国が輸出管理を強化する状況下では完全な代替を実現することは困難です。日本は時間を稼ぐことはできても、中国のレアアース供給支配からの根本的な免除を得ることはできないという構造的ジレンマに直面しています。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWk5aW1TaE50WU94VnloTW00NmZGU0Q0NlpNQ1NTZDVrb3NMQlZSQ3RueUxjQm8zdVFxN193UFNYNUdzZ1ZFWklJTW12VEhVclNRcWVmcUdyQU1mb01NcUhiSzFlMlBuNFR5UzlqNTNwd0lvZU9ucG5jakV5dHdqYmZhU0tNUnVXc0tkejBtWndoOTla?oc=5",
-          "added_at": "2026-08-23 23:26:34"
-        },
-        {
-          "uid": "c7e2c1e88961",
-          "date": "2026-07-24",
-          "title": "China Wields Its Rare-Earths Leverage Over Europe With Export Controls - The New York Times",
-          "summary": "中国がレアアースの輸出管理を強化することで、ヨーロッパに対する経済的影響力を増大させており、エネルギー転換やハイテク産業に依存するEU諸国に圧力をかけている。中国はレアアース資源の採掘・精製で世界的支配力を持つため、輸出制限を通じた政治的・経済的な要求の手段として機能させている。",
-          "source": "中国輸出規制",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yMFc4djJlWG5WMVl3Yy14YWZENk1KUGJKUF9aYnc3Y3A4Y0sycnRXWkt3eTZ1U2U0ZkYtZmRqaUdYTm9UX2lKS2VOZFpvUjdPYTdGOEIxMDU3QlhrWjZPeXpjdTJMdTc3d1NWOWtraFVYRUhBT0RKdUlqMlNoQQ?oc=5",
-          "added_at": "2026-08-23 14:32:32"
-        },
-        {
-          "uid": "8ee5093bbed3",
-          "date": "2026-07-14",
-          "title": "China Northern Rare Earth: H1 Net Profit Expected to Increase 112.74%-121.33%; Rare Earth Prices Overall Strengthened and Consolidated - Shanghai Metals Market",
-          "summary": "中国北方稀土が2024年上半期の純利益を112.74～121.33%増加させると予想しており、これは稀土価格全体の強化と安定化を背景としています。中国の稀土価格上昇は、輸出規制強化による供給逼迫が市場を支えていることを示唆しています。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZWE5Y0Fyd0tLeXEyZlQtTVRjQUFhVm9fZVBMWDFER1N1SkFVOERkRVFNUWV1R3ZUdDZqX1JkTmxFb1Ztc0w3Nzg3dTFvS3pFUDF4ZGFsbUNiSHZySmpPZHpXMmlTTkpJRHJZVUo1WDE4Nm5zdFNtX1Z6UnQ2Ni15bGhjTU5QVTFKUlk3bVI3SU9zcTN4ZEdaZmwxT3JSY05kNVF1NDZYRnBtUEVUVjIyUEEtNk1wWk5zZ1lHX09iTlJGNklyeUQ2SWZISlJXaURMaFJGVktTY2k5WmRVUjRrUUtVNUFWWndYOVM0V3V6UWJIdXdiMlNWMA?oc=5",
-          "added_at": "2026-08-23 14:32:32"
-        },
-        {
-          "uid": "ca711b002d0a",
-          "date": "2026-08-06",
-          "title": "The Trump Administration’s Many Tools for Seizing Critical Minerals Abroad - Public Citizen",
-          "summary": "# 要約\n\nトランプ政権は外交的・経済的手段を駆使して海外の重要鉱物資源を確保しようとしており、中国のレアアースに対する依存度を低減させるため、アメリカが採取・加工能力の強化や代替供給源の開拓に力を入れる戦略を推し進めている。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzF5Q0otTE1NUlI2TFhUWEpnUVF6VFpKVmlDTW96YnotM0pBTDRIQjRvS0pfWjNvdDU2TlFSZ3hRd0ZCWnQ2cjZRNWp2R09FeE12M0ZUTFBveG9aYTFjSlh4SnpBbTdvaXlTVzEzdWlzaUxJV0pxUFpacmMtODdpV1N0Nmw3Znoyc1UtWGU4ZG5WeVNWNHVEb24zdGV4a0hZakNoOGltZjNQQQ?oc=5",
-          "added_at": "2026-08-23 14:32:32"
         }
       ]
     }
