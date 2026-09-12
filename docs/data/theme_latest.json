@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12 02:38:41",
+  "generated_at": "2026-09-12 18:06:04",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-12 02:37:57",
+      "last_checked": "2026-09-12 18:05:40",
       "items": [
         {
           "uid": "0d74b52134b2",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-12 02:38:17",
+      "last_checked": "2026-09-12 18:05:47",
       "items": [
         {
           "uid": "61cc84d12f1a",
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-12 02:38:41",
+      "last_checked": "2026-09-12 18:06:04",
       "items": [
+        {
+          "uid": "300a03109431",
+          "date": "2026-08-21",
+          "title": "Why the World’s Hedging Responses to China’s Rare Earth Dominance Have Failed - The Diplomat – Asia-Pacific Current Affairs Magazine",
+          "summary": "中国がレアアース市場を支配する中で、世界各国による採掘・精製技術の多角化やリサイクル促進などのヘッジ戦略が、中国の輸出管理政策に対抗する有効な手段となり得ていない。中国は依然として圧倒的な市場支配力を保持しており、各国の脱依存化の取り組みは十分な成果を上げられていない。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1FVSV9JNm1oU2tNVEdULVpvRmR0VHlxWmZJYkNhZU9jdkcxNGhzMldGZGhyRHVXSkxneGw0bVZoSFVqZmR0TXFROEpXaS15b0s5UFUyV3RjaWhWZGhUTXhseTNHVWtNZF9XdC0ybGdYMTFzeXp1N1JRci11OWUxUUlFOGRHZjNHQWg5WEVrTUpybTlxRHhMUzlzbHY3NmpZSFNQWFlDS0NJOHIz?oc=5",
+          "added_at": "2026-09-12 18:05:59"
+        },
+        {
+          "uid": "2ef6f58b7b9a",
+          "date": "2026-06-23",
+          "title": "China minerals control threatens EU rearmament, as bloc seeks new sources - asia.nikkei.com",
+          "summary": "# 中国のレアアース輸出管理に関する要約\n\n中国によるレアアース等鉱物資源の輸出管理強化が欧州連合（EU）の再軍備を脅かしており、EUは中国以外の新たな供給源確保を急いでいる。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmNlbHFoUnpmY05vRDVUMmpiYkpRYVd4WW1rUGhFaHRJUEViVFVoY1RabUVVTTRlanhJVllpQnhPLUt6MnoxdVQ3TkxzcXg0UEw2VlR5WXlOQVhZd3JZSENjUlQweWFEOHcxMDlObzVxNkdVbTFOMXlJbEhONEhUc0V4czd3QWpEaWVWWVNKb00wTWJuXzRUSG1xMkpWZzY0em1IcUFJTnAzc1h2US1Ob3pGSk9oWTFJVFhCN2Nfb2NlRHBjU3NuaFNwakdyU0k?oc=5",
+          "added_at": "2026-09-12 18:05:59"
+        },
+        {
+          "uid": "8367d7fcb64f",
+          "date": "2026-07-20",
+          "title": "China Isn't Just Guarding Rare Earths-It's Actively Managing the Magnet Economy - Rare Earth Exchanges",
+          "summary": "中国はレアアース輸出を単に制限するのではなく、レアアース磁石などの下流産業をコントロールすることで、グローバルなサプライチェーンを戦略的に支配している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVdwbmVYZHo5NmJ4OHczZlVrcndQU25sejh6Qkg5R1k0RW9jMXdQY0xQWXRRWjhWUUhsdDZDQld6cWRBVmZvWC1WUW4yQldBZXRxMnBpeEJDNkhwVThIbVR2NzRWS1dzQTRKcDg4V1pBSm9lcDFfWUhhWjVzS19BYjVXZ2dWWWlEeWQ2d2VEVFJ0YVZUWGdqNEVWa0F2TDlpVkZFekZTN3AyY3JNR0IzZVIwdW8?oc=5",
+          "added_at": "2026-09-12 18:05:59"
+        },
         {
           "uid": "e62f594d3649",
           "date": "2026-06-25",
@@ -6001,36 +6031,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzF5Q0otTE1NUlI2TFhUWEpnUVF6VFpKVmlDTW96YnotM0pBTDRIQjRvS0pfWjNvdDU2TlFSZ3hRd0ZCWnQ2cjZRNWp2R09FeE12M0ZUTFBveG9aYTFjSlh4SnpBbTdvaXlTVzEzdWlzaUxJV0pxUFpacmMtODdpV1N0Nmw3Znoyc1UtWGU4ZG5WeVNWNHVEb24zdGV4a0hZakNoOGltZjNQQQ?oc=5",
           "added_at": "2026-08-23 14:32:32"
-        },
-        {
-          "uid": "7f7c6c5e35ea",
-          "date": "2026-07-17",
-          "title": "Key Changes in China s Export Control Landscape - Taylor Wessing",
-          "summary": "中国は2020年から段階的に輸出管理規則を強化し、レアアース、タングステン、モリブデンなどの戦略的に重要な資源や関連技術の輸出に対する許可要件を厳格化している。これらの規制は国家安全保障と経済的利益を守るための措置として機能し、グローバル・サプライチェーンに影響を与えている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW9uNmYxaGZCcER0YS1WcmVabzVueEN0T0VwZTZBV2ladl9vNEg5ZWs4ZU1YS2RyRU8wR2V0eVIxbVB0VkxUb1J2UFl4NDFZZDdHV3YyQ2VVS0ttb18zYUFiM0w1SEMydHhHdmhiR1JhY01VajVzaDZ6cHRGNkJyazFVSlRiRjlXYklleEo2VWxsMDNRTmFWU09uRXhFZ29HNWZvMlNuX1FDZlNGRml0d004aXY5TnAx?oc=5",
-          "added_at": "2026-08-22 23:24:34"
-        },
-        {
-          "uid": "71a9e3567aea",
-          "date": "2026-06-11",
-          "title": "China's Rare Earth Price Index Holds Near Multi-Year Highs as Heavy Rare Earth Markets Remain Tight-Exponentially Higher Ex-China - Rare Earth Exchanges",
-          "summary": "中国のレアアース価格指数は過去数年で最高水準付近を維持しており、重希土類市場の逼迫が続く一方で、中国外での価格は指数関数的に上昇している。これは中国によるレアアース輸出管理が国際市場での供給逼迫と価格高騰をもたらしていることを示唆している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZjRJcjdSZVVHT1dQRXBGcTRVcm1Gams2VWhUR2xHc05fcHc2X1VwOXZEdmYzSWRpQTN1T0Q0U3pnZk1EbWEtWXI1TVJEVEJ3LThMTHJ2QnZLY0R2Ni15cHBiZkpSOUxxRjhwdWI2cE8wem8ybjBiLXowV2pJZjhTVm9oU2I1cC13eWZZMXhBbU1ib245bV9kS0g2SW1nUXlreWlDeFV4YWkxcjlwbVUzV05UaXVIMWI1dHJNYmx2Z3MwNFh2djR1RmZ0eE1STGRPSmdaS0Jfa1h4V2xfTXJVZXZuaVNqUnVHaXd0eERtcFdSVUxRcXpIRg?oc=5",
-          "added_at": "2026-08-22 23:24:34"
-        },
-        {
-          "uid": "2d00ef97cb11",
-          "date": "2026-07-21",
-          "title": "Rare Earth Export Controls: What Compliance Looks Like in Practice - Taylor Wessing",
-          "summary": "中国はレアアース輸出管理の一環として、鉱物資源の採掘・精錬・輸出段階での厳格な管理体制を構築しており、企業はこれに対応するために環境基準の遵守、輸出許可の取得、貿易相手国の確認などを含む包括的なコンプライアンス対策を実施する必要があります。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRjE5YzA4X25QazQ0RVI5M3ZPZUhfcG9YRC1zUmVIdXRtNlN3YXF1OVhsaTEwSkYwbFFRRXJIR3BFMnRFeUNqZnhIdWxCZ1ZCZ3N3RGNGWEQ1UnE1UWN0Y2J6THdWdjVwOWtodzl3MTJicDhuX085dU1qa3ZpbnloYkF4MUY2QXlKNF9xU3lKMXNqX1A0NFNMQ2dEemRLajBWWWtKRjYwcFFEV3p6S3QxYmxoa3lQNkI1M0E?oc=5",
-          "added_at": "2026-08-22 14:30:25"
         }
       ]
     }
