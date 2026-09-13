@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13 01:50:37",
+  "generated_at": "2026-09-13 19:03:45",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-13 01:50:04",
+      "last_checked": "2026-09-13 19:03:19",
       "items": [
         {
           "uid": "5d58fee7d7c1",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-13 01:50:15",
+      "last_checked": "2026-09-13 19:03:28",
       "items": [
+        {
+          "uid": "9416ff2eb318",
+          "date": "2026-07-22",
+          "title": "Slotkin, Moreno Bill to Protect National & Economic Security from Chinese Vehicles Advances Unanimously - U.S. Senate (.gov)",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国製車両が米国の国家安全保障と経済に及ぼすリスクから保護することを目的とした法案で、米国上院で全会一致で承認されました。本法案は、中国企業による米国自動車市場への浸透と接続車両技術を通じた国防上の脅威に対する規制枠組みを構築します。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON0RNcm5TYVFlOWUzc0V3eTkyLVJ2YjcyMlByUXAwTTd4VEhoWlZpVE1iaWJGUUtwU2lMa2lBcGhmVlE0ck12UmVPVDZNTkJyVUxfME1qNHR3MnhoU2pCZFE1Q0xST2MzWDFBR3NfQkYtZUtNcmdpME5ycjI3UGpBM1BreFA2dEtLM0lBZGVLV0lXX1ZzZmtQLWJaQXpHeGxMUzVYa3h3VE4xVlp6SWVFWkYzRWZER0pXb09aMjU1Q0xhUEhqMU16WGZNQ0xUejdkSFRHYlhXcHhhSms?oc=5",
+          "added_at": "2026-09-13 19:03:26"
+        },
         {
           "uid": "e204bf0a8aa8",
           "date": "2026-09-04",
@@ -4010,16 +4020,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWwtaEVxQmZlOXBQc2c1cElPU2R2VldyYjFnYWRKbk9WR0JqR1N5Yml1VEt2bU5BaTRQSVRVUWxHZ2xxdHZpMkQzZkJlVTlVQ2Y3b19mNzNzcDJRQUUzUy01cW5CX3dKanRZc1dSSnhJZUV3LUZKenNmMlk3S2R4Y2tKX3dhWlBTM1BOSnZYT3RHaHA5SFRiaUZvN3hoUjVzcXlnVFpzQW9QcUtxUGhKUnRsLW4xWGZEWmNKVQ?oc=5",
           "added_at": "2026-07-24 00:57:18"
-        },
-        {
-          "uid": "fae5d516d2b2",
-          "date": "2026-07-22",
-          "title": "Congress Targets Chinese Connected Vehicles With Sweeping Security Bill - visiontimes.com",
-          "summary": "米国議会が提出した「米国接続車両安全保障法（S.4429）」は、中国製の接続車両（コネクテッドカー）に対する安全保障上の脅威に対処するため、データ収集・送信の制限やセキュリティ基準の強化を目指す包括的な規制法案である。本法案は、中国企業による米国の重要インフラや個人情報へのアクセスリスクを排除することを目的としている。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUh1MXNpaWsxTTliT1VacG5BQjJQeWoxMzJhQnoxUlZzX0JGYlJoLUdLTGZxQ3gzNEc3WHdyZ0xmOVppdVF3WWx5V1JTRjVtSUhvdUFnR2ZNOXJROFdQb1d2MUE4eGVZX3ltMlVVbGcwR2MyOVQ1M01aUEpkZHJVU2tPdTN1THlrYkw1NS1JdWdqZUhoSEpvM1dkLVQzbXM4VmlqWVB5OXdVM0RpNjFGaTZ0RkRzUQ?oc=5",
-          "added_at": "2026-07-24 00:57:18"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-13 01:50:37",
+      "last_checked": "2026-09-13 19:03:45",
       "items": [
+        {
+          "uid": "5492fa73921c",
+          "date": "2026-09-11",
+          "title": "Stockpiling for uncertainty: Flexible response mechanisms for addressing today's and tomorrow's supply risks - thefuse.org",
+          "summary": "中国によるレアアース輸出管理の不確実性に対応するため、戦略的備蓄と柔軟な対応メカニズムの構築が、サプライチェーンリスク軽減の重要な手段として提唱されている。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMnd3dlFjSGZnUG5PVXJKbU9WRm00QkFzTnhfdE92M1JNbWJUNm9tZzRQaWZ4OVVnN1lRSjlkNDZHT3lNQWVTalZUNUVXMEV0T2xaOXQ2c1c4VUVYblBnQmdTOVVVTUZmcDJZb0tJQ2E2bUM3YXhBbXFpdDU4N0Z4R0ZCTTk?oc=5",
+          "added_at": "2026-09-13 19:03:40"
+        },
+        {
+          "uid": "ca711b002d0a",
+          "date": "2026-07-30",
+          "title": "The Trump Administration’s Many Tools for Seizing Critical Minerals Abroad - Public Citizen",
+          "summary": "# 要約\n\nトランプ政権はレアアース等の戦略的鉱物を確保するため、外国資産の没収や投資規制など複数の法的手段を駆使する可能性があり、これは中国がレアアース輸出を管理・制限する動きへの対抗措置として機能する可能性がある。米国が供給源の多角化や調達手段の拡大を進めることで、中国のレアアース輸出管理による影響力行使に対抗しようとしている。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzF5Q0otTE1NUlI2TFhUWEpnUVF6VFpKVmlDTW96YnotM0pBTDRIQjRvS0pfWjNvdDU2TlFSZ3hRd0ZCWnQ2cjZRNWp2R09FeE12M0ZUTFBveG9aYTFjSlh4SnpBbTdvaXlTVzEzdWlzaUxJV0pxUFpacmMtODdpV1N0Nmw3Znoyc1UtWGU4ZG5WeVNWNHVEb24zdGV4a0hZakNoOGltZjNQQQ?oc=5",
+          "added_at": "2026-09-13 19:03:40"
+        },
+        {
+          "uid": "86fa03656489",
+          "date": "2026-07-27",
+          "title": "Buying Time, Not Immunity: Japan's Rare Earth Dilemma - orfonline.org",
+          "summary": "日本はレアアースの中国への依存度を低減させるため、オーストラリアやベトナムなどの代替供給源の開発や備蓄の拡大に取り組んでいるが、完全な独立は困難であり、中国の輸出管理政策のリスク回避は時間稼ぎに過ぎない状況にある。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWk5aW1TaE50WU94VnloTW00NmZGU0Q0NlpNQ1NTZDVrb3NMQlZSQ3RueUxjQm8zdVFxN193UFNYNUdzZ1ZFWklJTW12VEhVclNRcWVmcUdyQU1mb01NcUhiSzFlMlBuNFR5UzlqNTNwd0lvZU9ucG5jakV5dHdqYmZhU0tNUnVXc0tkejBtWndoOTla?oc=5",
+          "added_at": "2026-09-13 19:03:40"
+        },
         {
           "uid": "54daf4f9144a",
           "date": "2026-06-25",
@@ -6001,36 +6031,6 @@
           "source_type": "media",
           "url": "https://thehill.com/policy/energy-environment/6045971-zeldin-warns-against-data-center-bans/",
           "added_at": "2026-08-24 14:40:49"
-        },
-        {
-          "uid": "10ad4d5accab",
-          "date": "2026-07-24",
-          "title": "China's Rare Earth Magnet Exports to Japan Remain Sluggish Amid Trade Tensions - JAPAN Forward",
-          "summary": "中国が対日レアアース磁石輸出を制限している中、日本はサプライチェーンの多角化を急ぎ、代替供給源の確保やレアアース材料の再利用技術の開発を強化している。貿易摩擦の長期化により、日本企業は中国依存度の低減を経営戦略の重要課題として位置付けている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0FTaEdWeG43WFNoTzdOOXZHb1BwaGNfQnh0UlkwbDY4Sk9xRjlIT0cySk1kb2Mza2tCQjZxZDNPeVV3b201YjdlazRTOXFBOXVrMVBRVGlkcEJ4OUlvLUFySmZ5M2dNbXFHSkd0cVRjMGtzWFJ0UXZjWUxCUmczZ05KYnJPMUFkanc?oc=5",
-          "added_at": "2026-08-23 23:26:34"
-        },
-        {
-          "uid": "ba2c4c2c74f9",
-          "date": "2026-07-22",
-          "title": "US government tightens rules on critical minerals, defense supply chain waivers - Fastmarkets",
-          "summary": "米国政府が重要鉱物と防衛サプライチェーンに関する規則を厳格化しており、これは中国のレアアース供給への依存を減らし、防衛産業の自給率を高める取り組みの一環である。この措置により、米国企業はレアアース調達先の多角化を迫られ、中国以外の供給国の重要性が増している。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSl9vQTdKTURQQW1aZ0p2YVNUeTlZRk1SVG9BZ3dvMi1DdmlJTzAtUTI3VVZ5WnhfZlRUX3o3bGZBaV9EQW1VQjlMUXMtM3NzNkxkU3VOdW16d3JIdnJOUXBhbWMzTkRmUTRDa1RYcHpZWk5kSG93d1NuYU1Nbm11SHAwNXBRelk1MmhMUmYzUDJwY3dsTWpqa0FLVzhCMTZsRDc0WnMzQVRiT0h1Q3dwTXBaOFJqNVk?oc=5",
-          "added_at": "2026-08-23 23:26:34"
-        },
-        {
-          "uid": "5d4ca567478e",
-          "date": "2026-08-23",
-          "title": "Sulfuric Acid Shortage From the Hormuz Crisis Sends Rare Earth Stocks Higher - Startup Fortune",
-          "summary": "ホルムズ海峡の危機による硫酸不足がレアアース関連銘柄の株価上昇をもたらしており、これは中国によるレアアース輸出管理がさらに厳格化する可能性を市場が反映していることを示しています。硫酸はレアアース精製に不可欠な原材料であるため、その供給不足は中国のレアアース供給能力に影響を与え、グローバル市場の懸念を増幅させています。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY3BoQnc5Y3FuOUVPMlh4QTVQY2dyMlo1UkFTUTlWbGdEMVVHYnduSy1jVmFCWnVVQS1RUTFHNUNudFpxcUlyWEZQMTNNaUE1dFNJdFRQWkRUMWZZOTZ2RXBjbG9pa05BUjE3NFM4QkRZcFJIMXpycU9aY01ndGNPS0xLUThEUGtENF95T01pWkRHZmk3blg1TzhBN0pKaHozdVJKX2FJQQ?oc=5",
-          "added_at": "2026-08-23 23:26:34"
         }
       ]
     }
