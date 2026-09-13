@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13 19:03:45",
+  "generated_at": "2026-09-14 02:20:53",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-13 19:03:19",
+      "last_checked": "2026-09-14 02:20:11",
       "items": [
         {
           "uid": "5d58fee7d7c1",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-13 19:03:28",
+      "last_checked": "2026-09-14 02:20:23",
       "items": [
+        {
+          "uid": "a06028f7c4da",
+          "date": "2026-09-05",
+          "title": "Cheap Chinese ‘surveillance machines’ cannot flood US car market at all costs - bizpacreview.com",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国製の低価格車両がデータ収集機能を通じて米国の安全保障上の脅威となることを懸念し、その市場流入を厳しく制限しようとするものです。本法案は、接続車両がもたらす情報収集リスクから米国を保護することを主眼としています。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3VBOGRIS1hKNVpLVHAtV2RWdXBoNFkzUVhoX1ZaeWhIZVJQcWs2TEh0UWJJTWpGcGp0dFJadTQ1NWRCWWpRZEFLVVZQT1BNS1AtaHBNQ1VPTFIwZXZSZ1lRYmlaeDBYQ2VSSTdwcGpEc0dNX293aWhtc1BOV21yZkEtbVJROE5yS3NXZEdlSzBuWDFhTC1qSktZcDZEWEdadVRiNHRlTTg2MnIxUy1nZGw3eXoyVFRiX0ppUmJFRHhtdw?oc=5",
+          "added_at": "2026-09-14 02:20:21"
+        },
         {
           "uid": "9416ff2eb318",
           "date": "2026-07-22",
@@ -4010,16 +4020,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPXzVWUUlIRzdRblVobG9XMDJ5cXBEYnY3NF9HdVlsckpZV1lsWXJvOFg1UENEcHBibGVNREFhbzBlRUc5UFNoWHZ2aDNlaHpjOWc1ZDhoY3NFd05wcWVQVXp3MzZrNHVsYXp0bGthVXowY3V4OXROcjRuZ3Rya19fVGFqcG9KTWJhaHBYbm0wWHpqV0pGdmx6eWJvZmFJTGNFUnR6VlhPb19jRW9uNGNldTNYeUV2R2ZmRGx4V2FzcTNKWTlzS0NNMkp3?oc=5",
           "added_at": "2026-07-24 00:57:18"
-        },
-        {
-          "uid": "8a293908e5d8",
-          "date": "2026-07-23",
-          "title": "Mercedes-Benz Could Have Until 2030 as U.S. Pushes Tougher Ban on Chinese-Linked Automakers - MotorBiscuit",
-          "summary": "メルセデス・ベンツは、S.4429法案により中国関連の自動車メーカーに対する規制が強化される中、2030年までの猶予期間を得る可能性があります。同法案は中国との関連性を持つ自動車メーカーの米国市場進出をより厳しく制限する狙いです。",
-          "source": "上院議員",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWwtaEVxQmZlOXBQc2c1cElPU2R2VldyYjFnYWRKbk9WR0JqR1N5Yml1VEt2bU5BaTRQSVRVUWxHZ2xxdHZpMkQzZkJlVTlVQ2Y3b19mNzNzcDJRQUUzUy01cW5CX3dKanRZc1dSSnhJZUV3LUZKenNmMlk3S2R4Y2tKX3dhWlBTM1BOSnZYT3RHaHA5SFRiaUZvN3hoUjVzcXlnVFpzQW9QcUtxUGhKUnRsLW4xWGZEWmNKVQ?oc=5",
-          "added_at": "2026-07-24 00:57:18"
         }
       ]
     },
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-13 19:03:45",
+      "last_checked": "2026-09-14 02:20:53",
       "items": [
+        {
+          "uid": "10ad4d5accab",
+          "date": "2026-07-24",
+          "title": "China's Rare Earth Magnet Exports to Japan Remain Sluggish Amid Trade Tensions - JAPAN Forward",
+          "summary": "中国は貿易摩擦の影響でレアアース磁石の対日輸出が停滞しており、日本の産業はサプライチェーンの多様化を迫られている。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0FTaEdWeG43WFNoTzdOOXZHb1BwaGNfQnh0UlkwbDY4Sk9xRjlIT0cySk1kb2Mza2tCQjZxZDNPeVV3b201YjdlazRTOXFBOXVrMVBRVGlkcEJ4OUlvLUFySmZ5M2dNbXFHSkd0cVRjMGtzWFJ0UXZjWUxCUmczZ05KYnJPMUFkanc?oc=5",
+          "added_at": "2026-09-14 02:20:47"
+        },
+        {
+          "uid": "ba2c4c2c74f9",
+          "date": "2026-07-22",
+          "title": "US government tightens rules on critical minerals, defense supply chain waivers - Fastmarkets",
+          "summary": "米国政府は重要鉱物及び防衛サプライチェーンに関する規制を強化し、ウェーハー例外措置の適用基準を厳格化することで、中国産レアアースへの依存低減と国内サプライチェーンの強靭化を進めている。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSl9vQTdKTURQQW1aZ0p2YVNUeTlZRk1SVG9BZ3dvMi1DdmlJTzAtUTI3VVZ5WnhfZlRUX3o3bGZBaV9EQW1VQjlMUXMtM3NzNkxkU3VOdW16d3JIdnJOUXBhbWMzTkRmUTRDa1RYcHpZWk5kSG93d1NuYU1Nbm11SHAwNXBRelk1MmhMUmYzUDJwY3dsTWpqa0FLVzhCMTZsRDc0WnMzQVRiT0h1Q3dwTXBaOFJqNVk?oc=5",
+          "added_at": "2026-09-14 02:20:47"
+        },
+        {
+          "uid": "b288d441dff6",
+          "date": "2026-09-13",
+          "title": "Trump downplays AI warnings, citing competition with China",
+          "summary": "トランプ大統領は、中国とのAI競争で米国が遅れることのないよう警告しながらも、AI開発の懸念を軽視する姿勢を示しており、これは中国のレアアース輸出管理同様に戦略的資源をめぐる米中競争が米国の政策判断に優先されていることを示唆している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6086739-trump-downplays-ai-risks/",
+          "added_at": "2026-09-14 02:20:47"
+        },
+        {
+          "uid": "70155898420d",
+          "date": "2026-09-13",
+          "title": "Johnson on AI regulation: ‘We don’t need everybody to panic right now’",
+          "summary": "中国レアアース輸出管理との直接的な関連はありませんが、この記事は米国の政策決定者がAI開発規制に慎重な姿勢を示しており、その背景には中国との競争優位性維持の懸念があることを示しています。これは、技術覇権をめぐる米中競争が、レアアース等の資源管理と同様に、戦略的に重要な分野であることを反映しています。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6086745-johnson-advocates-ai-regulation-balance/",
+          "added_at": "2026-09-14 02:20:47"
+        },
         {
           "uid": "5492fa73921c",
           "date": "2026-09-11",
@@ -5990,46 +6030,6 @@
           "source": "同盟国対応",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOGNtSWlmWkpPbmNwT2N1N0poc0RfQVZvbUFmOXYwd0V1RWllS3hsaG0tSHlWZWZRZ1ZQUWp6Y0hxMWllQWdfT1JSQm9UQ2xURF9nRUkzWENhOHBQUVU5ckpidTJNOHRVcVNYMTF5RXZHYkNaVEtnZjRtUjUtbHd1Ti1sbGZwYzNHZHpGTHpfczZtOXdzWFJieVp5VzNxY1RTUlJfSGxNRmpxMklfeTRF?oc=5",
-          "added_at": "2026-08-24 14:40:49"
-        },
-        {
-          "uid": "9722c0239e97",
-          "date": "2026-06-22",
-          "title": "China Rare Earth Index Hits 259.5-But This Is Not Free-Market Price Discovery - Rare Earth Exchanges",
-          "summary": "中国のレアアース指数が259.5に達したものの、これは政府による厳格な輸出管理と供給統制により、自由市場のメカニズムではなく計画経済的に形成された価格であることを示している。中国が戦略的に輸出を制限し市場価格を意図的にコントロールしている実態を反映している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamRsc1hFclk5VlFYeXFyWjd1X2FFSE5qMmFkbmVxRHVWQ0pVTkVPZ2FsdUpDM1ZFTXJpb0hqNGs2R3JRRllYRksyaXZDNDVxOHhkRWpqMGFmTXZWWmRtbWFOaEExRWJHVnNQYzR6cTk2WW9FS0hKX2JtLXVtWHB0SWwwdlgzTnRIQmRtam4xNEkyMDZITnVNc25MWmI2TnNfanVDSzdMY3czYzdfSzVaVkh2UW0?oc=5",
-          "added_at": "2026-08-24 14:40:49"
-        },
-        {
-          "uid": "cb290074dd9e",
-          "date": "2026-08-24",
-          "title": "China's tungsten export controls heighten AI supply chain vulnerabilities in 2026 - Global Sources",
-          "summary": "中国がタングステン輸出管理を強化することで、2026年のAI産業におけるサプライチェーンの脆弱性が高まり、AI半導体製造に必要な重要鉱物の供給リスクが増加する。この措置は、レアアース同様にAI技術発展に不可欠な資源の供給を中国が戦略的に管理する意図を示している。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa0R0WldfNll1c1dNN2xQWTBEZ0F1bjAwVFdWYmZPZk8tcUZVR09BbFBvODNRMEZzZlkwUk10bGJHYzAxbjJLTGl5LTJZV3Uzb3p6RHBlQmJHdTFGbWYtOTZidWlTOUREWm54eHZMSS1fSzgwUW44Y2wtRE8tSmFnRkNLYjhqODJVUU9NbklXUVZOZ2hqU2VDRjY3YnlDUFpkeGJPSk9fTmNfeUFMaDdZem5TUnpSdFJ3RXRiaUFla0xQWWVpSGVmUXExS2ZkU1VEQWpFSU0xODMyQ0xnLVpvcHNR?oc=5",
-          "added_at": "2026-08-24 14:40:49"
-        },
-        {
-          "uid": "4c0396a1ba44",
-          "date": "2026-06-22",
-          "title": "China Places Two US Rare Earths Producers on Export Control List - Bloomberg",
-          "summary": "中国は米国のレアアース生産企業2社を輸出規制リストに追加し、これらの企業への技術移転や投資を制限することで、米国のレアアース産業への圧力を強化した。この措置は米中の技術・経済競争の激化を反映している。",
-          "source": "欧米メディア",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHJwdlZ4MUdGR0ZWRzFndEhRbzRWYUxjcVllaURQcGt4bkpHWHE0OXNwaGZOVkRkNFFyWGVOOGdqSkUtelBQU19qWlNITlRwNXZoTnAzR3VFSE0ydnhvdnl1d1hjVkdKYUNPWmZkTC1pVEpVNV9PSU9FMFlNc01OODUwSE1ScjBMZ2ZtdEVnelQ5Z2diYzk2bVpSOElidmFsLTh5VDVwR2FySWt2dngzV1hjLWhfZw?oc=5",
-          "added_at": "2026-08-24 14:40:49"
-        },
-        {
-          "uid": "ae903356637a",
-          "date": "2026-08-23",
-          "title": "Zeldin warns against banning data centers in US, citing China",
-          "summary": "米国EPA長官ゼルディンは、中国とのAI競争での米国の優位性維持の必要性から、データセンターの禁止に警告を発している。一部州がデータセンターのモラトリアムを推し進めているが、国内のほとんどは米国の競争力強化を望んでいるという立場を示している。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/energy-environment/6045971-zeldin-warns-against-data-center-bans/",
           "added_at": "2026-08-24 14:40:49"
         }
       ]
