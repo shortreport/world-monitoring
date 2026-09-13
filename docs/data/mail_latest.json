@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11 10:20 JST",
-  "sender_count": 3,
-  "total_mails": 16,
+  "generated_at": "2026-09-14 00:40 JST",
+  "sender_count": 1,
+  "total_mails": 6,
   "summaries": [
     {
       "sender": "EG",
@@ -9,145 +9,51 @@
       "color": "CYAN",
       "count": 6,
       "bullets": [
-        "フーシ派とサウジアラビアの対立が激化し、バブ・エル・マンデブ海峡の支配がフーシ派に移行、石油価格が100ドルを超える水準に上昇",
-        "米国がメキシコとベトナムを中国製品の迂回輸出取り締まりの初期対象として、USMCA見直しによる原産地規則改革を検討中",
-        "米中首脳会談は6ヶ月間の限定的な貿易休戦延長のみの見通しで、AI協議の展望は悪化",
-        "中国はイデオロギーキャンペーンを強化し、BRICS加盟国との関係強化を図り、党大会に向けた体制強化を推進"
+        "米国の中東紛争により原油価格が高値を維持し、フーシ派による紅海要所の掌握でサウジアラビアの軍事選択肢が限定的に",
+        "ウクライナ情勢は両陣営の立場硬化により2027年春までの本格的な停戦交渉の可能性は低い見通し",
+        "トランプ政権が中国製品の迂回輸出に対する制裁関税を強化し、米中首脳会談では限定的な通商休戦延長にとどまる見通し",
+        "米上院選で民主党が主要選挙区で好調であり、共和党は選挙構図の不利さから回復を模索中",
+        "イスラエル野党によるネタニヤフ首相反対の連立樹立と米国の慎重な行動、ディーゼル価格高騰による生活圧迫に直面"
       ],
       "subjects": [
         [
-          "2026-09-10",
-          "Houthi-Saudi standoff raises oil price risks",
-          "data/pdfs/20260910_2127_Houthi-Saudi_standoff_raises_oil_price_risks.pdf"
+          "2026-09-11",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20260911_1233_EG_Research_Summary_in_Japanese.pdf"
         ],
         [
           "2026-09-11",
-          "US to target Mexico, Vietnam on transshipment",
-          "data/pdfs/20260911_0102_US_to_target_Mexico,_Vietnam_on_transshipment.pdf"
-        ],
-        [
-          "2026-09-11",
-          "MENA Crisis and Oil Update",
-          "data/pdfs/20260911_0318_MENA_Crisis_and_Oil_Update.pdf"
-        ],
-        [
-          "2026-09-11",
-          "Summit will yield only a limited trade truce extension",
-          "data/pdfs/20260911_0359_Summit_will_yield_only_a_limited_trade_truce_exten.pdf"
-        ],
-        [
-          "2026-09-11",
-          "Saudi Arabia: Houthi gains will force diplomatic response",
-          "data/pdfs/20260911_0448_Saudi_Arabia__Houthi_gains_will_force_diplomatic_r.pdf"
+          "Ukraine ceasefire talks unlikely through spring 2027",
+          "data/pdfs/20260911_1933_Ukraine_ceasefire_talks_unlikely_through_spring_20.pdf"
         ],
         [
           "2026-09-11",
           "MENA Crisis and Oil Update - EG Conference Call, REMINDER",
-          "data/pdfs/20260911_0602_MENA_Crisis_and_Oil_Update_-_EG_Conference_Call,_R.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260910_2127_Houthi-Saudi_standoff_raises_oil_price_risks.pdf",
-        "data/pdfs/20260911_0102_US_to_target_Mexico,_Vietnam_on_transshipment.pdf",
-        "data/pdfs/20260911_0318_MENA_Crisis_and_Oil_Update.pdf",
-        "data/pdfs/20260911_0359_Summit_will_yield_only_a_limited_trade_truce_exten.pdf",
-        "data/pdfs/20260911_0448_Saudi_Arabia__Houthi_gains_will_force_diplomatic_r.pdf",
-        "data/pdfs/20260911_0602_MENA_Crisis_and_Oil_Update_-_EG_Conference_Call,_R.pdf"
-      ]
-    },
-    {
-      "sender": "POLITICO",
-      "short": "POLIT",
-      "color": "YEL",
-      "count": 9,
-      "bullets": [
-        "EUの防衛産業戦略において、イスラエル企業への依存が高まる中、欧州主権推進の課題が浮上",
-        "英国の新首相の強硬姿勢により、EUとの急進的な関係再構築交渉の実現は困難化",
-        "仏マクロン大統領の支援を受けたAI企業ミストラルが、大統領の退任後も影響力を維持",
-        "米国がNATO同盟国に対し国際刑事裁判所の破壊を圧力によって推進",
-        "EU域内企業による宇宙事業合弁とEU・米国間の旅行者データ共有について、規制当局が進行中の承認手続きを進展"
-      ],
-      "subjects": [
-        [
-          "2026-09-10",
-          "How ‘Made in Israel’ is powering European security",
-          "data/pdfs/20260910_1656_How_‘Made_in_Israel’_is_powering_European_security.pdf"
-        ],
-        [
-          "2026-09-10",
-          "Andy Burnham’s big new Brexit deal isn’t coming anytime soon",
-          "data/pdfs/20260910_1735_Andy_Burnham’s_big_new_Brexit_deal_isn’t_coming_an.pdf"
-        ],
-        [
-          "2026-09-10",
-          "How Emmanuel Macron brought France’s AI darling to the world",
-          "data/pdfs/20260910_1905_How_Emmanuel_Macron_brought_France’s_AI_darling_to.pdf"
-        ],
-        [
-          "2026-09-10",
-          "US pressures NATO allies to destroy International Criminal Court",
-          "data/pdfs/20260910_2106_US_pressures_NATO_allies_to_destroy_International_.pdf"
-        ],
-        [
-          "2026-09-10",
-          "Von der Leyen endorses European space deal that is under",
-          "data/pdfs/20260910_2206_Von_der_Leyen_endorses_European_space_deal_that_is.pdf"
-        ],
-        [
-          "2026-09-10",
-          "EU finalizes deal to share traveler data with US border forces",
-          "data/pdfs/20260910_2258_EU_finalizes_deal_to_share_traveler_data_with_US_b.pdf"
+          "data/pdfs/20260911_2102_MENA_Crisis_and_Oil_Update_-_EG_Conference_Call,_R.pdf"
         ],
         [
           "2026-09-11",
-          "Document: EPP delegations push back on EU’s ‘Made in Europe’",
-          "data/pdfs/20260911_0020_Document__EPP_delegations_push_back_on_EU’s_‘Made_.pdf"
+          "Oil at risk as Houthis seize Red Sea chokepoint",
+          "data/pdfs/20260911_2141_Oil_at_risk_as_Houthis_seize_Red_Sea_chokepoint.pdf"
         ],
         [
-          "2026-09-11",
-          "Document: Parliament’s draft ETS report toughens spending rules",
-          "data/pdfs/20260911_0027_Document__Parliament’s_draft_ETS_report_toughens_s.pdf"
+          "2026-09-12",
+          "Republicans still waiting for a post-Labor Day recovery",
+          "data/pdfs/20260912_0101_Republicans_still_waiting_for_a_post-Labor_Day_rec.pdf"
         ],
         [
-          "2026-09-11",
-          "Pro Daily Headlines",
-          "data/pdfs/20260911_0031_Pro_Daily_Headlines.pdf"
+          "2026-09-12",
+          "Conference Call Notes: MENA Crisis and Oil Update",
+          "data/pdfs/20260912_0300_Conference_Call_Notes__MENA_Crisis_and_Oil_Update.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260910_1656_How_‘Made_in_Israel’_is_powering_European_security.pdf",
-        "data/pdfs/20260910_1735_Andy_Burnham’s_big_new_Brexit_deal_isn’t_coming_an.pdf",
-        "data/pdfs/20260910_1905_How_Emmanuel_Macron_brought_France’s_AI_darling_to.pdf",
-        "data/pdfs/20260910_2106_US_pressures_NATO_allies_to_destroy_International_.pdf",
-        "data/pdfs/20260910_2206_Von_der_Leyen_endorses_European_space_deal_that_is.pdf",
-        "data/pdfs/20260910_2258_EU_finalizes_deal_to_share_traveler_data_with_US_b.pdf",
-        "data/pdfs/20260911_0020_Document__EPP_delegations_push_back_on_EU’s_‘Made_.pdf",
-        "data/pdfs/20260911_0027_Document__Parliament’s_draft_ETS_report_toughens_s.pdf",
-        "data/pdfs/20260911_0031_Pro_Daily_Headlines.pdf"
-      ]
-    },
-    {
-      "sender": "ビジネス短信",
-      "short": "ビジネス短",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "華虹宏力が無錫市で69億ドル超の投資による第3期工場新設を発表",
-        "四川省で2026世界動力電池大会が開催",
-        "香港とペルー間のFTAが発効",
-        "シンガポール中銀がフィンテック支援に今後3年間で総額2億2,000万Sドル投入を発表",
-        "シンガポールとラオスが炭素クレジット実施協定を締結",
-        "ミャンマー大統領が就任後初のベトナム訪問で防衛・安全保障協力を推進"
-      ],
-      "subjects": [
-        [
-          "2026-09-10",
-          "「ジェトロ・ビジネス短信」2026/09/10",
-          "data/pdfs/20260910_1807_「ジェトロ・ビジネス短信」2026_09_10.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260910_1807_「ジェトロ・ビジネス短信」2026_09_10.pdf"
+        "data/pdfs/20260911_1233_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20260911_1933_Ukraine_ceasefire_talks_unlikely_through_spring_20.pdf",
+        "data/pdfs/20260911_2102_MENA_Crisis_and_Oil_Update_-_EG_Conference_Call,_R.pdf",
+        "data/pdfs/20260911_2141_Oil_at_risk_as_Houthis_seize_Red_Sea_chokepoint.pdf",
+        "data/pdfs/20260912_0101_Republicans_still_waiting_for_a_post-Labor_Day_rec.pdf",
+        "data/pdfs/20260912_0300_Conference_Call_Notes__MENA_Crisis_and_Oil_Update.pdf"
       ]
     }
   ]
