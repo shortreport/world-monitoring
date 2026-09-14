@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14 02:20:53",
+  "generated_at": "2026-09-14 16:36:20",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-14 02:20:11",
+      "last_checked": "2026-09-14 16:30:51",
       "items": [
         {
           "uid": "5d58fee7d7c1",
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-14 02:20:23",
+      "last_checked": "2026-09-14 16:31:24",
       "items": [
+        {
+          "uid": "7a6f4cd4f503",
+          "date": "2026-09-08",
+          "title": "Polestar Banned From US New-Car Sales as Data Routing Exposes Geely China Connection - Tech Times",
+          "summary": "Polestarsが米国での新車販売を禁止される可能性が高まっており、その理由は同社のデータルーティングがGeely（親会社）との中国とのつながりを露呈し、S.4429法案が懸念する中国関連企業による米国車市場への浸透を違反する恐れがあるため。本法案は外国（特に中国）の支配下にある自動車メーカーの米国市場参入を制限する厳格な規制を設けている。",
+          "source": "米商務省・BIS",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLWdBZXdVNUNrd3dIdUJxUGtqdzZxMjZMWkRnTmluSnhHVExjQ0Y1NVpKd1BXQkZGZW1obnhDMTNlaUFjZmVnMlNDQWFWeHotR0cwZ0VWTVNnSG9zQWxDX3FtR0tFLXdEZDhIcGVVenhobE1kWkExQmd6M1hwRUxrRGlQU0Zncm5Ia085TXA4d09KUzg0RldfWnIzTi1QaTRCNTBNd3puY3RKa3lobmVrZWduUEg0UGhHaDdwa0tfVnc0WU43SzUtZFRNaw?oc=5",
+          "added_at": "2026-09-14 16:31:19"
+        },
+        {
+          "uid": "c388a732f694",
+          "date": "2026-07-27",
+          "title": "Your Car Knows More About You Than You Think, And Washington Wants To Act - Men's Journal",
+          "summary": "申し訳ございませんが、提供いただいたのはタイトルのみで、記事の本文内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、S.4429に関連する要点を日本語1～2文で要約いたします。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmNhTF9NM2JUU2t1OGRsY1dUaExodG0zZnpLM1ZjUWVqR0NGRWFSek5IQnFfR0FqWjNFMkNsRmJJNlFxeHVOaElCYkFYYXNGSS1qVnF4RDlWcGlobXprM3RYLW9zT09Ud2wyUy1QalViQnREcGl0VGxtWHJBRnJxUHg3em4tQlR6dmMwdE5pT2J6X2k0aHRoRGRUUkZVTS0tODlINnd2TFc?oc=5",
+          "added_at": "2026-09-14 16:31:19"
+        },
         {
           "uid": "a06028f7c4da",
           "date": "2026-09-05",
@@ -4000,26 +4020,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa01CYUJBT0lIX3UyNTk0Tm5wU0Fod1owb2hZVjBhVEhPR0tRQTZTMkZnZGJRTEZXNmRmTU9md1pKRTdUOXBCLWhvVzlzQ0tHbHlLNkloZzB4WWZTWEJjbi1lbWFLbElqZFlZR0dtbmtMMmhXaFJRWEJibFp2WVhNVFNkOE1IU3l6cGp5dkQtNjRoQXQ4d1ZzX1hQZzFETDExc3ptNDNVR1FyM0FyZ00yR1NBd1RjOG9TNkZ1cHRial9haUd6Mm9ZSm5TMkZ1OTN6RXByeVRxLUY3Zw?oc=5",
           "added_at": "2026-07-24 00:57:18"
-        },
-        {
-          "uid": "b004e3b9cafe",
-          "date": "2026-07-22",
-          "title": "Article | Senate panel advances bill to expand ban on Chinese-linked vehicles - POLITICO Pro",
-          "summary": "米国上院委員会は、中国関連の自動車に対する禁止範囲を拡大するS.4429法案を承認し、中国企業が製造または重要部品を供給する車両をより広範に規制する動きを強化しました。この法案は国家安全保障上の懸念から、中国関連の接続車両技術の米国への進出を防ぐことを目的としています。",
-          "source": "上院議員",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTEpRbzJNMGF0cjU2YXllYmpPaUI0SHdlSDdEWmpXSUd2RjdHMVdUeTdBMGFJQjVXUjhRRW5CZzJQeGdPOWlxWDZieDEwWTFHTUtyeElhSjRuWXRZSExVaUNhU3ZTcWphTkV3emszamFuUDBBQWpfaWlvLW5RZDJ3SkhhaE81cUhWWnNRWU8tZlk4NktOWVFHcy0zRC03Y0p1ZnNmNUlNTmh1dy1fcTNjRldqOE5td0Z4TnJhVTlrMzFwM3R4ZFE?oc=5",
-          "added_at": "2026-07-24 00:57:18"
-        },
-        {
-          "uid": "b9ce18aef89b",
-          "date": "2026-07-23",
-          "title": "U.S. Senate Panel Advances Bill Targeting Chinese Automakers, Raises Questions Over Mercedes-Benz Ownership - Tekedia",
-          "summary": "米国上院委員会がS.4429を可決し、中国自動車メーカーを対象とした規制を強化する一方で、メルセデス・ベンツの所有構造に関する懸念も浮上している。",
-          "source": "上院議員",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPXzVWUUlIRzdRblVobG9XMDJ5cXBEYnY3NF9HdVlsckpZV1lsWXJvOFg1UENEcHBibGVNREFhbzBlRUc5UFNoWHZ2aDNlaHpjOWc1ZDhoY3NFd05wcWVQVXp3MzZrNHVsYXp0bGthVXowY3V4OXROcjRuZ3Rya19fVGFqcG9KTWJhaHBYbm0wWHpqV0pGdmx6eWJvZmFJTGNFUnR6VlhPb19jRW9uNGNldTNYeUV2R2ZmRGx4V2FzcTNKWTlzS0NNMkp3?oc=5",
-          "added_at": "2026-07-24 00:57:18"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-14 02:20:53",
+      "last_checked": "2026-09-14 16:32:12",
       "items": [
+        {
+          "uid": "78dfa1e5b64f",
+          "date": "2026-07-22",
+          "title": "Trump restricts supply chain waivers for US defense industrial base - Manufacturing Dive",
+          "summary": "トランプ政権が米国防産業基盤のサプライチェーン例外措置を制限することで、中国を含む外国からのレアアース等重要鉱物の調達が一層困難になり、日本を含む同盟国への調達の依存度が高まる可能性が考えられます。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSTZHSWhKM0htLTd1dHpXbUVLTFF1RE15WWUzUWxNWDlKY245cGQ2dWoyblpOOVFaUWstcEZkcEpEMVJXWXdwMmRwQ1VCOEZ3bEFvV0dvNDV0Wm84WGxPWjgzTWN3MDRUcS05SFFjd2hUdlFodDdDSXFQREd1eGJSZ0F3MmVJQWpEV0pseUZnT0hIZ0xhZ0NZanFKRnplQlBaMWZmS3oyM2I5LVZ5Tmc1R1RfUnM1Ym1o?oc=5",
+          "added_at": "2026-09-14 16:32:05"
+        },
+        {
+          "uid": "9722c0239e97",
+          "date": "2026-06-22",
+          "title": "China Rare Earth Index Hits 259.5-But This Is Not Free-Market Price Discovery - Rare Earth Exchanges",
+          "summary": "中国のレアアース指数が259.5に達しましたが、この価格は国家による輸出管理と統制が強化されているため、自由市場のメカニズムではなく政府の政策的介入を反映しています。中国はレアアースの輸出数量制限や価格統制を通じて、戦略的資源としてのコントロールを維持しています。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamRsc1hFclk5VlFYeXFyWjd1X2FFSE5qMmFkbmVxRHVWQ0pVTkVPZ2FsdUpDM1ZFTXJpb0hqNGs2R3JRRllYRksyaXZDNDVxOHhkRWpqMGFmTXZWWmRtbWFOaEExRWJHVnNQYzR6cTk2WW9FS0hKX2JtLXVtWHB0SWwwdlgzTnRIQmRtam4xNEkyMDZITnVNc25MWmI2TnNfanVDSzdMY3czYzdfSzVaVkh2UW0?oc=5",
+          "added_at": "2026-09-14 16:32:05"
+        },
+        {
+          "uid": "9406f8361b5c",
+          "date": "2026-06-22",
+          "title": "China Imposes Export Controls on US Rare Earth Companies MP Materials and USA Rare Earth - IndexBox",
+          "summary": "中国がMP MaterialsとUSA Rare Earthという米国のレアアース企業に対して輸出管理を課し、これらの企業の中国での鉱物資源へのアクセスを制限した。この措置は米国のレアアース産業に対する中国の影響力行使の一例である。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSHZvcGUzdDdGNW10d1BSc1lpNU1TbU82TC14TW1HTHNnUU5BcGpZSndmVlJ4WHNOVk9DaEdrZ2dtT1k4YnBmblJzSm1OVFIwLU93YmRSN3F6TEtJRzBVSkNrbDBMaDRXcmFkU3lCWHY0OE1LbXJ6eFZBR2FyUEJQWHpxWjU2MkQ4WXNFemFPTk00X0U2M2hQMG53Z054bldaLWF3d05UQ0ZHWWpTQUZGMWdzcVAzVlQ0ZGc?oc=5",
+          "added_at": "2026-09-14 16:32:05"
+        },
         {
           "uid": "10ad4d5accab",
           "date": "2026-07-24",
@@ -6001,36 +6031,467 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUW5qMjRTWVBMcl9zelgxOWI0SFMzSDJqb2l3VmlqYW5TN1A4WEtSNUdBdDVtSUYtdW11VUJtX0E1LVpfSDFPRG9KbFpkUkRmeFNYR05VbGNtb3RPYmJmRmdYTTNFbURyRXVXdHdhOXJsRzYyR3J6N0ZwV09RTEpPSURXX1YyOUlX?oc=5",
           "added_at": "2026-08-24 14:40:49"
-        },
+        }
+      ]
+    },
+    {
+      "id": "auto_china_scrutiny",
+      "name": "自動車メーカーの対中提携への政治的批判",
+      "name_en": "Political Scrutiny of Automakers' China Ties",
+      "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
+      "color": "#8e2de2",
+      "icon": "🚨",
+      "last_checked": "2026-09-14 16:36:20",
+      "items": [
         {
-          "uid": "b96c9198b501",
-          "date": "2026-07-23",
-          "title": "Mining for Europe's future: Critical raw materials, public attitudes and risks in enlargement partners - European Union Institute for Security Studies |",
-          "summary": "本記事は、EUの拡大加盟国におけるレアアース等の重要鉱物採掘と公衆の態度、関連リスクについて分析し、中国による鉱物資源供給支配への対抗策として、欧州域内での鉱物確保戦略の重要性を指摘しています。",
-          "source": "EU戦略的原材料法",
+          "uid": "62e85082f120",
+          "date": "2026-09-10",
+          "title": "Ford caught in escalating Washington clash over China deals - Reuters",
+          "summary": "フォード・モーターが、中国との事業提携をめぐるワシントンでの政治的対立に巻き込まれており、米国内で自動車メーカーの対中戦略に対する批判が高まっていることを示している。",
+          "source": "下院中国特別委員会",
           "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTHhjM28xRWEwTzZZZXdud1RWc0pfZWZnMFVERzFydXJJcWl4Zm1CaXNfZk9vWC1JaWFXUzhXeWFQc3NjR3NRSXI5OWJLLWtMVGl1ZWNHcFk0c2h5WEJSTEFWdjREdlhkRS1YME1yU2Q4SFZlajNBV3N2WWdReF9jdkYxOUh6QXRpYmI4SW5SMl8xelR0ZVFuZVUzRURJMUp6aExIMVA3TXBCTklkMHhYSlZlbldmeEc4?oc=5",
-          "added_at": "2026-08-24 14:40:49"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3JDbmVKX1hKWXk4ZHFIOTVldkZPTWUyaktXZ2ZlUUdTdTR4NXAzN3hxTjktN092bXl3aDFlVGVtV2RyWVVLWDJUblA0d0cxajlSOUJ6QmQwZHM3cXlmYmdZUDVUSmFuRGtzMHZ1b1lOSlNWQWZFb3BlbklQVllUUlJBazhNdWdXb1U3N1F4czVkSkJPNnp6M01meXRhbDZYRkVjN2x6aXJlLVV5dXBQUGh6SFk1UWxRUDF4UHlINA?oc=5",
+          "added_at": "2026-09-14 16:32:35"
         },
         {
-          "uid": "6496e6f8b9f9",
-          "date": "2026-06-23",
-          "title": "Visegrad’s critical minerals challenge: can Central Europe move up Europe’s strategic supply chain? - EUalive",
-          "summary": "中央ヨーロッパのヴィシェグラド諸国は、EUの戦略的鉱物サプライチェーンの上流に移動できるかという課題に直面しており、中国のレアアース輸出管理による供給依存からの脱却が急務となっている。ヨーロッパはレアアースの確保と国内加工能力の強化により、中国への依存度を低減する必要がある。",
-          "source": "EU戦略的原材料法",
+          "uid": "d8451543584d",
+          "date": "2026-09-10",
+          "title": "Ford Faces Trump Administration Clash Over China Partnerships - Forth.News",
+          "summary": "フォード・モーターがトランプ政権と中国との提携をめぐって対立しており、自動車メーカーの国際協業戦略が米国の政治的圧力の対象となっている。",
+          "source": "下院中国特別委員会",
           "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS3FmOERpM19PYXc0YXRCOWxKdFl0blU0cGV0MWF0WU9CWTV3UmtYQ21GVFdOd3BlT05sQnhQNVhrSG1CMXhJNzNNN3d0cGY4c0NqT0ktYklLeldJUnhnMjhuR2lIeTduWXI5dUQ0QVJwNnN1X041Z3pvT29aWUVINFIwdVFYQ1p2OTh3bVdRLW1VTHhKYlB0X0dFVnh3MGpuNTJTRVZhY3d3dThsTXJqM29OLU41TkE?oc=5",
-          "added_at": "2026-08-24 14:40:49"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KWDNGOVJCcENCa2R6elpQellHaEMwVElWZjRkNVFPQ3did2xOU252Ulozd2l4LUV2MnU1QXhXSXRKYndKVUpwZU1KNldRLTRMUmRXdzZnMTdWX3J0UF9SUExn?oc=5",
+          "added_at": "2026-09-14 16:32:35"
         },
         {
-          "uid": "b80494b16c76",
-          "date": "2026-06-10",
-          "title": "China’s Japan rare earth ban: supply chain risk notes for project teams - Geomechanics.io",
-          "summary": "中国が日本へのレアアース輸出を制限していることは、プロジェクトチームにとってサプライチェーンリスクとなるため、代替調達先の確保や備蓄の検討が必要である。",
-          "source": "同盟国対応",
+          "uid": "f56dbab4d478",
+          "date": "2026-09-09",
+          "title": "Trump administration blasts Ford’s business deals with Chinese firms - WKZO",
+          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判しており、自動車メーカーの対中ビジネスが米国政府の政治的スタンスと対立している。",
+          "source": "下院中国特別委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM01pbzNtYWtuWHU5SmhDd2ozMmhZT0tQQ0I2c3lacnRQR18xUTFEcndfa2kxR3JpVTJQbU1ta1hIUmxsZXA5eVpYTTJiYjdwVlN6V3pXNEV1Y3FYcTlncFBBRER3dERPYmc3Mjd2VkwzWHpVM19KVExmMWlRbXdEV185b0I0WkJsSWpKNUJldDhqcnBPYWs4V3pVdw?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "be7b26a70927",
+          "date": "2026-08-26",
+          "title": "Ford Makes Surprising Move by Partnering With Chinese Automaker Geely - MotorBiscuit",
+          "summary": "フォードが中国自動車メーカーの吉利汽車と提携したことは、米国の自動車産業における対中戦略の転換として注目されており、地政学的緊張の中での事業判断が政治的批判を招く可能性がある。この提携は、米国政府の中国産業への警戒と自動車メーカーの商業的利益のバランスについての議論を呼び起こしている。",
+          "source": "下院中国特別委員会委員長",
           "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOGNtSWlmWkpPbmNwT2N1N0poc0RfQVZvbUFmOXYwd0V1RWllS3hsaG0tSHlWZWZRZ1ZQUWp6Y0hxMWllQWdfT1JSQm9UQ2xURF9nRUkzWENhOHBQUVU5ckpidTJNOHRVcVNYMTF5RXZHYkNaVEtnZjRtUjUtbHd1Ti1sbGZwYzNHZHpGTHpfczZtOXdzWFJieVp5VzNxY1RTUlJfSGxNRmpxMklfeTRF?oc=5",
-          "added_at": "2026-08-24 14:40:49"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0NMb29aRkRCZ0RkdlpDeU9JTWhPUWdCdEtIRndfckVqdzdNeDZuNjQzUEg3X0k5U0M5N1hOMFJjaEhFZDRNUXp4VDBnd1YybG96QlhOczVUemRvam83VnNmb0ZIVFZoOFpFSzZOX2MzMVd6T0ZmWEZzeVZVQ0FRdlNHOHFKdUN2d1hYQ0VSUW44dw?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "6884a693371b",
+          "date": "2026-07-23",
+          "title": "Ford partners with Chinese automaker to make new cars in Europe - Detroit Free Press",
+          "summary": "フォード・モーターが中国の自動車メーカーと提携してヨーロッパで新車を製造する計画は、欧米の自動車産業における中国資本の影響力拡大に対する政治的懸念を招いており、技術流出や市場支配に関する批判の対象となっている。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVVlZ2l0SjIxRGM4MG10VElzdXY0LVlvNm5acnQ3NVVBVjJpVUwzcVVFY2d6WVcycXc5Sm9NYXRKb2NpX01MeDVha2FzTUJVZFE3V1dkaGk5dHcxSUN0SkswYTlqN1lUcEk4ZFREY3BwZndpejhfaFhtVzhjeEl3OTZaNjdVZzNYU05wZWpQUjdxemFROS1zX3ppLU1CX2hIdzhpb0VQblIybU1MODYtcFE2NzdnZw?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "6e51669c5180",
+          "date": "2026-07-23",
+          "title": "Ford, Geely to form JV that one Mich. rep says is 'incomprehensible' - The Detroit News",
+          "summary": "フォードと中国の吉利汽車の合弁会社設立について、ミシガン州の下院議員が「理解不可能」と批判し、米国内で自動車メーカーの対中提携に対する政治的反発が生じている。この批判は、米国の自動車産業空洞化や中国との経済的競争への懸念を背景としている。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdUxwaHdPVUNtNU5hRE5ydlBvYmxrRmE0Z2pLaHo4SlJxR2V4YmFuWkpqM1VJcGhVXzFzNWFyN21EU2Y3SEdXdno3M2JfMUw2ZXNmODN4alRpV3J2MHFHM1N5cXg0cGxpSTJJOEtzNzZYYzFQVG1iRmhsZ3VsMG1PWldmQWhMaXUwM1MtRU9TTERBaVBMeFFUcER4TUM5NnpKQnVCVEVaWnhtX1V5clU3WUxRV3k4T3JiR1FscE1wUkdMMTVYLTRoTlNKTUFVaFhBMUFFbUpZQk9TcnQ1Z3p5aHRNZ1dER21VRFE?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "efc879b0d278",
+          "date": "2026-07-23",
+          "title": "China's Geely to make electric SUVs at Ford Spain plant, jointly develop model for Europe - Reuters",
+          "summary": "中国の吉利自動車がフォードのスペイン工場で電動SUVを製造し、欧州向けモデルを共同開発することで、欧米自動車メーカーと中国メーカーの提携が進む中、こうした国際協力が地政学的懸念や競争力に関する議論を招いている。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcE95MnN4TFA1U1BxLXQ2QlB6VFY2Sm00Mm1yQ3hGYU9aWm5VeU9wSmlZN2k0eGNrWWxna2xETUtVWjZBYnJsZlNVNmgwY29KR1U3Umk1ci1mNWpxQ1A5QzM5ZUNHZ1FCZ2JLb0pDRzk4X053ZkJxREpGR1R0OUlEaDFsdVFtNW5US1pQck4zQ0dtbkh6ZHdMREJta1U5dHR5bHpFd2dJak9Sd2Fza3pXMV91MTluaG1ZYXlDS2tPVjhPMGN5QS1DcEZiWW4xbW1MU0hUbkwxRUNkWFU?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "9bee775e3846",
+          "date": "2026-07-24",
+          "title": "Ford, Geely Strike European Manufacturing Deal - Autoweek",
+          "summary": "フォードと吉利汽車（中国の自動車メーカー）がヨーロッパでの製造提携を発表したことで、西側自動車メーカーの対中提携に対する政治的な懸念や批判が高まる可能性があります。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON2lFNTJwUC1Ea0k4ZjRNYUhCU1lITjVUQnE1cHI1eDY2UjYwVkxFeU1PdEhMQUFDTFBzMTJGMTlkeWdPalV0TWlDTW5fZm9YLWxfM20zY05lM2FEdVRieDJrSGxMNWllZkNLeU9udEVUdHNTSjNDUmN2YXVEb09HS1N5eHlOdw?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "9ad43d9b8dc1",
+          "date": "2026-09-08",
+          "title": "Trump administration blasts Ford’s business deals with Chinese firms - 101 WIXX",
+          "summary": "トランプ政権はフォード・モーターが中国企業とのビジネス提携を進めていることを強く批判しており、米国の自動車メーカーが中国との関係強化を進める動きに対する政治的圧力が高まっている状況を示しています。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXJSbjBqYVpVdHAyZ1AxMHFRM2Y2MWZFWFdWcm11TC10T0ZUMGd2cGpCcmxIc2FtZ1R1c1ZSd1FsVm1laTdvc3VsYVU0amtMUHpSWEswdlBqUWttblZqa2NtY3NJVS1DYlJac3FFTUlOdVNyVlZiOXQ4RFhFakV3RDY1RU9SRWxBenJSSVpuMUtpZFhicUpQREd2Zw?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "6a7ee02651b1",
+          "date": "2026-09-08",
+          "title": "Trump admin takes aim at Ford and Farley for Chinese ties - Detroit Free Press",
+          "summary": "トランプ政権がフォードとファーレーCEOの中国との関係を批判しており、米自動車メーカーの対中提携が政治的な標的となっている。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnREWEhuUVVTY1Y1ZDdQWE9IaXZSYmlIb2RKcTFyOUxOY05WaEpKZzFoX20zamlfd0FHV3RzQ1RWWGN2MHp1WC1qOVdXVjlsaThzZl8wOF9Zbk1PYXRrTUI4cVhGMG53LXJSajRwdk81bk14Wjl2WTE5WDdXRDdZaEZkY2UtOE5Nc21jY3VtV1R0M0pFTktQRlF3SURUOER1VjdsVlRvakFCWWJ4QzFYSmtFcEJiV3Z4bGZ3akU1QnE5LXJtOVE?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "b3a4ca0056ff",
+          "date": "2026-09-03",
+          "title": "Auto companies call for ban on Chinese-made cars - The Hill",
+          "summary": "# 要約\n\n米国の自動車メーカーは、中国製電気自動車の米国市場への流入に対抗するため、中国製車の輸入禁止を求める声を上げており、これは米国の自動車産業を保護するという政治的・経済的な対抗措置として機能している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYlczY2hXZkpMLTl0UlpOZGZMUnZGNkU2czRDdWNJbmZCazJnWHVORGIwNVNibUtvMFhENndnS3I2VG5vbTlYQ2t6R0NJTHh3RXhWY3Z5Z3ZmRlBVa2tIUXhXc1VZeDZLaHpJWW9vSXdVNllUQmY3MzNiNm1iTlFpbkFKSmM5cEh1c0x6bXNmOWk0bW9TTzBFeVBFSTJ1Z9IBowFBVV95cUxQZF96MFBnaU5aQTgxMWZSRVEtUTA2QldOYUVSVTkxWFBYTlhJS3BlY3VkZEEyOVNGX0VnZHJkRTZ0c1hzRGlsY2FuMnhwSW4waWNWcEpRaXFKb0wyV2dSUDg3SkZndVFBWkVyZXVFVDVlZUdfTG81X1pUYU1wdTNtTHFPRklqbThaWFg2UVE0d1B0V0RYMUE1REZTNjhKTDdwb2VN?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "1adec55e2cbc",
+          "date": "2026-09-08",
+          "title": "Trump administration blasts Ford's business deals with Chinese firms - Reuters",
+          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を強く批判した。この批判は、米国の自動車メーカーが中国との関係を深めることに対する政治的懸念が高まっていることを示している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUxxT0xDWVRud1VVVzV3eXRFTDR2eXRmalJ4Uk1qTmNkWmRBYnl6LVBTTUdDMVFJWllPTVlPQm90Y3JMUE5lZF9MMHI1dG4xQ3dpWmhDblFQbUVRek1HYndoSlV6dXgwUEtFYXllb2xvUDZSTTRkLV9nU043bXlQQmozSlotNTExRGxmbUhHZUtMcDVjeTFlaU9hLTdKMktvc0FNSGZFUU9SMFJLRnBQV0dvOXo4T3A4OHlWSENPdU8yWUVkNTFYUWJtWVY?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "1bb92ba3487f",
+          "date": "2026-09-08",
+          "title": "Trump Administration Blasts Ford's Business Deals With Chinese Firms - U.S. News & World Report",
+          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判しており、米国の自動車メーカーが中国との関係を深めることに対する政治的な反発が強まっている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2J2bmhhTi1SckwwUGh3UXA2c3NweXZSa1FnZFpLaUtFelh0cnVyNVJIVjJ1ZW9nNGtqMkQ1dnYtYmFlVzBKVlB4emlpYzkwQkJrN2QzVlhZZ2djNVRZV1VpWExSUVdDR3lOLVQ0U1lfdnUtMTJtSXFmeXc1bFItanZsQVNyYWlpQVh5R0N3Mk9rRG02TUo0RGdfMi1ZRVo1UjYxb25vbl9SSHVVZ3h1Vk5BckNCeE5SU09WRkhaaWY?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "36b74d2c6287",
+          "date": "2026-09-09",
+          "title": "Trump administration challenges Ford’s partnerships with Chinese companies - CBT News",
+          "summary": "トランプ政権がフォード・モーターの中国企業との提携に対して異議を唱えており、自動車メーカーの対中ビジネス関係が米国の政治的スクラティニーの対象となっている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OS1dfc2RzN3Rkcm1CN29WV1llQm1mZkx6bmdORVQxQkQ2Z3hzUUh2MVVwRnJ4VHZ0ekdaMWctSDVjNnc1ZUhVUndlZk9sUC1RWXFnclZuYXp6UXZtR0xDSTlQX1hvdk9FeEpza1RCWlRMdVZmV2FpOHJCSndfWlE?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "8bbafa8951f2",
+          "date": "2026-09-03",
+          "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S. - CNBC",
+          "summary": "米国の自動車メーカーは、中国製のコネクテッドカー（インターネット接続機能を備えた車両）の米国市場への導入を議会に対して永続的に禁止するよう求めており、中国との提携による安全保障上のリスク懸念が政治的な批判につながっている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ILXF1MXFOQjRTdnUzcHdzbVh4ZHJHVHduYnBzd2ZmMGNtNVVDX29TOUJWMU8zZmUwYlB3SmU3X2phSGFrSjNBci1lRFJ6dWFNUy1qUi1EM2laSHd3czVaU1VfUzZyZXRiQTdmMVJ3QdIBdEFVX3lxTE9XcW0wVE5Icnk1QzJjSnU4MzFKdElfdzZ5VzlDN3Bfa2p2cnBwZ0VScVd6d3pRWjRTeENwZHB3Q2NHWmw2SWFpc1Z1dVJyUzJ0UFE4MmpLRUxPRU9fLWY4dFhiT1pHVVdGSkx5VlpGS1dJaVZk?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "a9190ca06f9a",
+          "date": "2026-09-03",
+          "title": "Automakers urge Congress to quickly pass law banning Chinese cars - whbl.com",
+          "summary": "Automakers urge Congress to quickly pass law banning Chinese cars whbl.com",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3JKOGxNc2ZWVXNtZE9La1hMV0JsVnJOcWZSTWpMWkRCamNBYVJmVjduTnU4eWNOOG84RmM1aVA5ZW93dzJubEVzNEd0Mkc3MUQ5SF91cURhdEprdVBkTEc4M0E2bHM2dXBTdk1sWDc4VWxTTjRmMncwMnp4YnRiLXF6Q21aRTEybkdTQnFEODlOY3NNbkEwWXBR?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "1133eea271d4",
+          "date": "2026-09-08",
+          "title": "US Transportation Secretary Slams Ford's Ties to Chinese Firms, Warns National Security Risk Is Unsustainable - finance.biggo.com",
+          "summary": "米国運輸長官がフォードと中国企業の提携関係を批判し、国家安全保障上のリスクが持続不可能であると警告した。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SNEdPWlprYTZGVE5BWVN0OWxZc2dwQ1MwdXdXRGJzSjItWnJnR0N1TmxCTkR1aHRHcDdsTXNOejdJRkU0ZUZzYlpnU3FOajJfdTctN2RyczFFeUU0WEh2cDEzbDVBVXZSbEg5UXI1MkI5eUFnNlE?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "b6fcf1f48d0e",
+          "date": "2026-09-08",
+          "title": "Automakers Seek U.S. Ban on Chinese Connected Cars, Software and Hardware - Motor Illustrated",
+          "summary": "米国の自動車メーカーが、中国製のコネクテッドカー技術およびソフトウェア・ハードウェアの米国市場への参入禁止を求めており、国家安全保障上の懸念から政府規制を要請しているものと考えられます。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTloMEZWUEhha2VyLWZjZ1BELXdaNHZFRVk2d0tvVDJyOGMtSGpKYlFqXzJOZWFla0E3RzFualJjZ0RYTklZMHpFWlhSdDNHZVM4YU55SjZmLXVJTVZHZjZWVC1ncTl4a1lDRG45QTBZREtpYWl4Z2ZkSGx1bUNkMlFtWU9nMW93ZWs5Rm9uM2tfRm42bUxIUmg4RU8xdTF3TXBFY3NRVmFTSmpu0gGyAUFVX3lxTFA4M2NmWE41SVNHdlkyNXJZaHJ1RHR6ekpjNFhIWnZUQ1FlMWloTl9Rd1JTQkM0ZWFjM0FtWjdBbUI1NFNzSk5PclFlblBvNDRUQ1hoYWE4c29tazJFQVVrU1lYTVRpRXBGY19EU0RvQ2MwZ1NEODFaUm5tUW1oODl6VUs3U3YyUm9DVzdub21YaTRaS2VIY3VpWmwzZW9GVlZCOHBZaEVtM2tNaEpVLTI0YVE?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "805d2c5c020e",
+          "date": "2026-09-08",
+          "title": "Ford responds to federal government telling it to cut back China ties - The Detroit News",
+          "summary": "フォード・モーターが米国政府から中国との関係を削減するよう指示されたことに対応しており、自動車メーカーと政府間の地政学的緊張が高まっていることを示している。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaWNTaDZBSTlBeTdPNm1nVno2c1BFWmlzNEtUY2Z5dVFoaGkxOFhxeHJyYlEydDJMTkNfcUtEV3ZCVkM0MHhhWlBDa1VkbmtoUlRPdFhMZDlobmVmMHJGbHVvYWZGWUs4VkhtaHpSLWVocm9xM1BpN2JLMzNhcWZManJUd0tfMEZZUi1tc1FUclRxUktIay0yUXpHZXF1UUVfY1NyYnNNcERzeDMwT1RCUGJUZ3hiNmRFMVM0c3FuLTZteTlPS1h0RnlaZGI2SjZId0htZU5XcGsxSU4ybzNBSi16dks?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "5b2e083d2ff5",
+          "date": "2026-09-08",
+          "title": "Duffy puts Ford on notice over China ties, warns of security concerns - Fox Business",
+          "summary": "フォード・モーターが中国との提携を進めていることに対し、米国の政策立案者であるダッフィーが安全保障上の懸念を理由に警告を発しており、自動車メーカーの対中ビジネス関係が政治的に批判されている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2RtcHlGVHowNm85NjBCQ3lfX2ZSMWlTVmc4azFFbDNBV3JVamljdG1ZRV9JMkh5YXFldl95VWxlaVFnWWUxbFl5blJ4YkMydzg4alhNbmItUnhrd184ckpLU1pHN2IwX2gwaXRlRVdNZ3hYZVBJWjV0VzI2UFlBekx3QXB4NFhnZHhhSnBtY3NFZTBFZ3QzcGNNeFd6SVHSAaQBQVVfeXFMTzhCeWx5TDZhMXllamJVb25CRkF4TnYtTnBsNU9jMjIyc3VQMkg0VmtYSk5KMUJ5ci03LVBiWnVWS0lLdUdqOHp4TXRfMkI0U29kLWhtZTFOejlYamxQdmdKTE1RMXBWT0VnVmpaX0wtR0l0T0RTUkxvX3ZmZ2ZyQm1FeW5DV2tWdERyNWZaelloREVlVEtoaTdCa2xyYjNybFhVN3M?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "2793be2d4ad2",
+          "date": "2026-09-08",
+          "title": "Trump administration expresses 'profound concern' over Ford's ties to China - CNBC",
+          "summary": "トランプ政権がフォード・モーターの対中提携に対して「深刻な懸念」を表明し、自動車メーカーの中国との関係に対する政治的圧力が強まっていることが示されている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NNIBdEFVX3lxTE1BYzFIa1p4MnpkQV9KR3c0SUNlbDkyRExQRjlRd2M0bS0zREJ3SEgxcnhvLXd6bEdYaFozbVQ0LXRhZjdIWHQ3ZUtSS0N0SGdmcHFQTkc2Y2d3S0puRkRCdGpwalphQ1RJVjJHRElHdGl3SGI4?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "ecfaa42fb00d",
+          "date": "2026-09-13",
+          "title": "Sean Duffy Says Cut Ties With China, Ford Pushes Back - motor1.com",
+          "summary": "トランプ政権下のショーン・ダフィ商務長官が中国との関係を断つよう自動車メーカーに圧力をかけているのに対し、フォードを含む自動車メーカーは、中国市場での事業継続と提携の重要性を理由に抵抗している。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82anZuTmxuWEFUOGpZQWRaUnF0RzZqWDhpZ3RtWVNlc2g2dDVjTnNkaUVLRUdkeHVqV25CdkdTNnJPb09zSjhXNm1md25aTmw2NE5UTEk2ekZYZ1ppMHAxUTNSRzJXVnowUW5MZlBtZmpDRGs0?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "cc68193f3ab9",
+          "date": "2026-09-13",
+          "title": "'Deeply Alarmed': Trump Administration Slams Ford's Deal With Chinese Battery Company - InsideEVs",
+          "summary": "トランプ政権がフォード・モーターと中国電池メーカーの提携に対して「深刻な懸念」を表明し、強く批判した。米国の対中政策が強硬化する中で、自動車メーカーの中国との事業協力が政治的なターゲットとなっていることが示されている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DVTc3VThFMGJEbVhlVDNQWHZkWDBDdkZhMkdRMEtkYjVIZHM4cWQ3bjVqN1NLQ09kUGF5ZDlXaEVqSXI5clZONl9Ob25EYkp1b0htRHdiMDQ2RzN3WUw4TTRWSFJBZGx1UHY3RHhhWlVFMnowSzRYTXZITQ?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "491192272cc2",
+          "date": "2026-09-10",
+          "title": "Ford leaders 'blindsided' by DOT's letter about China ties, exec says - Detroit Free Press",
+          "summary": "フォード幹部が、中国とのつながりについて米運輸省から突然警告書を受け取ったことに驚愕し、米国の自動車メーカーに対する政治的批判が強まっていることが示された。米政府は自動車メーカーの対中提携に対して、事前通知なく圧力をかける姿勢を示している。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUnJUakpteXVVU1ZqU0NnRDAyS0VpZW5ydVFKejVLSUpJTW5uMC1WYzVZNGdmSVNIMy1zbS1YdXFrVlh4a1RwR3N4VmRCSVhkNG1ReTI3MU5RNWdsRDdaaGpuQTNXNjA3MHRqcHdRc3pVVEEyZzJVQnpjVE1PQ0JzNWNZZjM1di1FNEVtUkl3LVhweTBkZzYzQThObUh2ZXZka2RDNk9XaXBGZVJGZXAwLUFYSEtad2I1emQ0SDhGWWlXbW5LQnFtbE40bklXZWhQ?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "dcdca333c418",
+          "date": "2026-09-09",
+          "title": "Ford: Duffy criticism over deals with China ‘wrongheaded attempt to capture headlines’ - The Hill",
+          "summary": "フォード・モーターは、中国との提携に対する政治家ダッフィーの批判を「見出しを狙った間違った試みだ」と反論し、自動車メーカーが国際的なビジネス戦略の正当性を主張している。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRUhOU1docF9hbU9qc1ZtMWRLS3pLbExBb2ZWY1FsbV9WeVA4SGFYZjJQWVlsQXQtRm5MT3NxSlZkMVZiNzdTMUxoNG9YbHZuR0xTVHNwMEdQSkFJVERMWU1HWURkbTNfUk51VmNYNjFkQkt0TGlNOdIBfkFVX3lxTE9QMFVHaUx6Rm4xWG5wY0FhT3VnVDNuNjFCT1BTN19uLUJkMTdZUUhTR2VFeEhxczRFWXozaDhWTUNBdkh4TXZjUHdlME5oa19kMmpkempSblFoZ2N6OEJiZjJ6SmNOdDc2Q3M1UkxLOC1lTGZhNmVCRlpKSXBqZw?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "eab330821a0a",
+          "date": "2026-09-09",
+          "title": "Republican lawmakers criticize Ford business ties to China - The Mighty 790 KFGO",
+          "summary": "米国の共和党議員がフォードの対中事業提携を批判しており、自動車メーカーの中国との経済的関係が政治的な争点となっている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM09aRTduZUM3d0hLX3g0cXdTSnVFWDNtNTBUNHRMNUh2aDhkeTlSZUcwN3RrakxVZ1hOM0VybXpjXzd1ZWV1Z3BuLUhQUF91aXFtTUNZbUUxY2xpODB4bzNkQzdLcFJSTlE5N2NicGh2QVBaMWRDOUpSNWJYZldhSWhfMEN4cm4wMnJDMUJiOHg?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "f91d9b2ac81b",
+          "date": "2026-09-09",
+          "title": "Trump Administration Urges Ford to Immediately Cut China Ties - Autoblog",
+          "summary": "トランプ政権がフォード・モーターに対し中国との関係を直ちに断つよう圧力をかけており、自動車メーカーの対中提携が米国政治の重要な懸案事項となっていることが示された。本件はトランプ政権の対中強硬姿勢と米国産業保護政策の一環として位置づけられる。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDBLcXpPWmMya0ZIbWpmM3pOcWFlcmNnekdjc2ViaEN3RnZZMmFnU1RTTFgyVjJDWVJUMkhBS01pX2NFV19mSjBlYlF2Y1pmX090T2p1ZjBrSzJMRGprb3kzSS1hN3NwemhvMDVvUmlWek1LUzhRZDh3NkZmdWZwSUJIOXktWVczd3FESXlmS3VSaklMOUE?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "1849d698434f",
+          "date": "2026-09-09",
+          "title": "Trump administration warns Ford over China ties - CarExpert",
+          "summary": "トランプ政権がフォード・モーターの中国との関係について警告を発しており、自動車メーカーの対中提携が米国の政治的・経済的安全保障上の懸念となっていることが示されている。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWWFmdXgtSW1INW5WX29iNTUtN0dZZ0dsajMzaVJTRFRzTzE1TnlYQkNmWUsxREJ3aU92N2lzOXlfaXVWNWRqY01CZTgwck4yOE1aejBiTmhjdjRaZ19uZXBlWFh5YXpXZHNGX2lnOWxCbjRzaVRXLTkxTWNMalBBQ1B6emh2RWVmajZKR2RR?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "36abfa6b39ce",
+          "date": "2026-09-09",
+          "title": "The Trump administration has criticised Ford for its collaboration with the Chinese firms CATL and Geely - Mezha",
+          "summary": "トランプ政権がフォード・モーターに対し、中国の電池大手CATLと自動車メーカーGeely Mezhaとの提携を批判している。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUZNTXVNTXM3bTJFVXhhTmpURE1YQlJHdFUta0ZfWUQ1RTJVRloyUV8tVGhMZDBfSTRoNDV3cWcwLU93T2NDcWRRTDU3cTd2aXc1WGVsTDJyVmhRLUFpN04yM0VxSDU1b0llTF9udkZxT0RUWTE0eHVDcEs1NzA4RHF6N1pkZW1jTFFiQm5EeU9iR3k1UUHSAZsBQVVfeXFMUEZrTzFXTVpUbmVPM241LVpjRHlwOTF1eElSXzA4VC1tbE1SYU9EQVBCT2dwRGZfbWE2emNITkhNNGl4c013WEZZVEMxN1NpbFo2bkVKNFF3dERnZGVENTdxcXJ1MnNWSXAtM1RyUVVtLUdCZDM5MlBVeExEdWtPLWpta2p0RV95RjFvWk9YS2pKSmRWRlU5TVhxcjA?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "0b38583dc268",
+          "date": "2026-09-08",
+          "title": "Trump administration blasts Ford’s business deals with Chinese firms - The Mighty 790 KFGO",
+          "summary": "トランプ政権がフォードの中国企業との事業提携を批判し、自動車メーカーの対中ビジネスが政治的な問題として浮上していることを示す事例である。",
+          "source": "フォード",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcW9YZ21CQ3hRYzd5YjlZdHFPeUJIdm82T2NTYjNETktNMHYyTnBQUExmcWFBcUIwMzZCbDlxUC1RNk9GdFU0ZU9kQncwNDFTWWdvMnY4YkxkbWtxZlJ2b25CRmFPSl9mSEFfSEhwX3FvbjJmbUVuM3BKUkZabi1KcHV6ZTFTalRwaGFDdFpNQkVYMzlid1lfQ1k1OA?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "cacbf9d7d4f6",
+          "date": "2026-09-09",
+          "title": "Republican lawmakers criticize Ford business ties to China - KELO-AM",
+          "summary": "共和党議員らがフォード・モーターの中国との事業提携を批判しており、自動車メーカーの対中ビジネス関係が米国の政治的議論の対象となっている。",
+          "source": "フォード",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTNGeHRHQjgwLVVUY0pnRmRibmhreHZvb1NERDNDNTFMQW5FQWQzTUFJREJNR2FBblloWFg3SnQ1WnRGNFcxR2NrM0JZTUN2Z2ltcDk1blFjVXlKenRHelJNOHlyT2hjQUlnTElDcWV5ZE5GV1R3NzhCV0RPTFRCdTZiSkhoSHkzd1c5a3JvYVA?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "6cbbeef5d8d7",
+          "date": "2026-09-09",
+          "title": "Ford Under Fire: Congress and Transportation Secretary Question Chinese Business Links - News and Statistics - IndexBox",
+          "summary": "フォード・モーターが中国企業との事業提携について米国議会と運輸長官から政治的な批判を受けており、自動車メーカーの対中ビジネス関係が国家安全保障と経済政策の観点から問題視されている。",
+          "source": "フォード",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEdnT1NmTGpxNTJGR3NvOFpaWnZVaWxFaUt0S1FPUHFLMTNBSFNXSEFGNzlDd3RZZkxHNUNEbFBuVzJ6WWZRcVNyQlRVNDRIMm9HbEdYWFkwQkExMDBhRkZwZTBaZmJfb2E2X0pVVTNWOC1EV0dhMzdZMFpGT3dTMXFodzZWVEU?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "07f92adbba35",
+          "date": "2026-09-09",
+          "title": "Republican lawmakers criticize Ford business ties to China By Reuters - Investing.com",
+          "summary": "共和党議員らは、フォード・モーターが中国との事業提携を継続していることに対し、政治的批判を展開している。これは、米国の自動車メーカーが中国市場への依存度を高めることへの国家安全保障上の懸念を反映している。",
+          "source": "フォード",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUt5ODlDVElLdFc3am5ocl8tTkhOTmp3S28xemtibGtGYVA2WFFIQ0FZMnMzaDZ1VmhjSFBYYzFoSFBQQjJRSUItcnJYZUZTYk9zQkdNbGFuUXlCYzBZY2ltc2l1VVhVWlByelFhelFJZlhqNld0Wkx1WE9uUVpRVHhVYWVZd3NMaVFyYklRZWJlZk95VDJNQXlFNDl5T2d2WDNWREI3WGtLSnlGRi1fTXVaYjR5dw?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "ea06622e1b49",
+          "date": "2026-09-09",
+          "title": "Republican lawmakers criticize Ford business ties to China - WSAU",
+          "summary": "共和党議員がフォード・モーターの中国とのビジネス関係を批判している。",
+          "source": "フォード",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHNNUkxoeWlCck1XaUh0bGp0OWN6bzNmZ0tUWUl3QUViMFh4LTZuSWJtdzluRlJkSWptczFyNlIyN2VnVVlrS1N5T1lhbjlrLXp3ZU5TXzUtRWN2aEUzOHFaeS1hYXQ3eEJrOWdHZTNuZl9lUzdJR1ZFN1VYVlFKYlBUZWZEU0I2RXg2RXJxRFg?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "0ae4e15f02c1",
+          "date": "2026-09-10",
+          "title": "Ford faces federal pressure to cut China ties as U.S. auto scrutiny intensifies - Car Dealership Guy News",
+          "summary": "米国政府がフォード・モーターに対し、米中対立の深刻化に伴い中国との提携関係を縮小するよう圧力をかけている。米国は自動車産業への政治的監視を強化する中で、自国メーカーの中国依存を戦略的な脅威と見なしている。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFVOUzNUUUlWd0NvU016UFd3RGpSR0ZPc2ZqbjNLZVFVTENrUjUyakE3c19ocy1PWFE2ZVdrR2ZTZ3h6ZzM1MmlQelk1Wjh2djU1alQ0YTV5QzFjQy15MnNZSEt0Q1ZUY0NHN2haNmVnc1FPajBZc2ZpYTdFdktEZC1nZk5hZGtnbjhjcmdVWW85SGRtTGJyb1laZUpvR2ZjeEh4WTBrR1VyN0twZkhjNTJGUnRWTTdJWm9QbU1MOA?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "0fb20cbdb9ef",
+          "date": "2026-09-09",
+          "title": "Ford’s China Ties Spark a Very Public Fight With the Trump Administration - Gizmodo",
+          "summary": "フォード・モーターがトランプ政権から中国との事業提携について公開で批判されており、自動車メーカーの対中ビジネスが政治的な争点として浮上している状況を示している。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREZfOVJYenQ5amJMRkdoaURHNG0xcE8wWFMzYl9YYTNqeEo4U1lveWNTX2xGX0FMSXRINHU5dU1wa3JoMTdxZmdlQWxHNnA1b3J2QjVCUDlvNVpqcWN6M05jSWU1Sy04UXBwTzVuS05HT1R5a3g4VTB3ejZDRHEzVHdqamZKUHJ0dmdLSTRkNFpoeEVWY1lQRU5zR2cyTnQyemJVOGVB?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "b17e96c37396",
+          "date": "2026-09-09",
+          "title": "Donald Trump administration flags Ford Motor’s China ties as security risk - ET Auto",
+          "summary": "トランプ政権がフォード・モーターの中国との提携を国家安全保障上のリスクとして問題視し、自動車メーカーの対中提携が米国政治で安全保障と結びつけられて批判される状況が生じている。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSDNhb21GS2pXSmxncXBwcWpYX2czVlBqT3h2VkdWUHc0MVprVlUyN3lzMkFDUXZOTEVydEFrcHE5RHp6WE9uZk5vNlJzODZRanM3WGxXajFUMUw4bXUzakRsY0ZnaXpfWk1UNEM3YkJtNTh4SnNNR0VrYXY3WnoxaWNjUC0wanhyNzJESUUwZmZWYXpndTBrTFcxcWFFNEN6ZGFnOTlKbTZ3V2ZFRHNVR0oxeVpPVE9RUUdRa0JDb2dpc3JvWDFjTUpWM3RjTlJqakl3ejBB0gHbAUFVX3lxTE44Z1FNS21YMkRPZHBjTVo0b25jVEdRbE1Qam5PaGc5eDhxSWxwYkJUWXZlOGFQdjRVSXNYQUxWU0x0em5XZmlQNy02MEViUlFsZ2d1TmQtY1NhbVVQbm9BWWxjYW5ZSmpxZzhZUTcyTW5tM2lwSFF0el92VmRQY1pwbzg2bnhVaGlGU05EWVp2TDEzeEl0ZGZVWnhVdUNQZ1Bobk5ULVZyU0NPb3MyWEhTSEc2Q0NkTU9Sb3lrUFdMS04xbWIzblJEUFhBTGNBdXhhcXlxRXNHekc3Yw?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "ff1773066b97",
+          "date": "2026-09-09",
+          "title": "Ford Motor Co. stock falls as Trump administration attacks China partnerships - ad-hoc-news.de",
+          "summary": "トランプ政権が中国との提携を攻撃する中、フォード・モーター・カンパニーの株価が下落した。自動車メーカーの対中提携が政治的な批判の対象となり、企業価値に悪影響を及ぼしている。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVhhVGdIVXBxWEd1eHFoSlNoTWF0Z1h0VmpjWmxfYTZzZkhFbjNub1dWVWNGM1g4X25BUEhQdXNDLVBvbXVJQ2p2UVlEcERWYVFuXy1URGRYOWRjenpjaERWNF9aMVdRY21TUTVsTkNieTMtWDVwck9EUUJtV19hZ041ZXhXX2UtZ3RJczNyZU1INUNuVW5nQUpMdjQ4dkpHNUZOdDRKbXFpc2h1RXVSeFdva0lhWi1weVdrQ2lRLW5NMmJO?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "bffa9d5b6a80",
+          "date": "2026-09-08",
+          "title": "Transportation Secretary Warns Ford Over China Ties Raising Security Risks - SuaraGarut.ID",
+          "summary": "米国運輸長官がフォード・モーターの中国との関係が安全保障上のリスクをもたらす可能性があると警告した。これは自動車メーカーの対中提携が米国政府から政治的・戦略的な懸念を招いていることを示している。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UVlA5WG5ibC1yS1ZqU2NtVjhaMTk3cDJSeDB2SzVBRWFsbU5WS2xuSVhYbFpHY19CM1c1S1U0LURLTDhNQnJSNktGODJHM05mbnV2MEk3a3BqZkVNYUVnQ3Bn?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "8cb403e49ab0",
+          "date": "2026-09-09",
+          "title": "Trump administration blasts Ford Motor’s China ties, warns of US national security risks - news.meaww.com",
+          "summary": "トランプ政権がフォード・モーターの中国との提携関係を非難し、米国の国家安全保障上のリスクがあると警告した。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFJHTThLNnh3ZVQ4ZWwtcnFmb2tEWXdjbGhsQmc5MGtXRnRUb09fMWt3N0tEMXdPNmlLc0YzTkUwaUhmR0gxMTBJYlY2bFZQNGtCR05QVWVSV2lGamx0V0p2YVVGSVFBaXEyTXVOWjZFRXRGZkxlQmJKYTNBbnRLYWtmb2hhUWhfWnpqUUZwcGJITm80Q29zVmZBbW9rTjgtcmRXeXJzMngxLU5RWEE?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "13fb8ad81c0d",
+          "date": "2026-09-09",
+          "title": "Republican lawmakers criticize Ford business ties to China - Reuters",
+          "summary": "フォード・モーターが中国との事業提携を続けていることに対し、共和党議員が政治的批判を展開している。これは米国の自動車メーカーが中国市場への依存を深めることへの懸念と、地政学的リスクに対する警戒心を反映している。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlBwY0xWY25vMW5KUmhIc3BjbVp0bUhyTnpXOGRuOXhKWVFVSlZrMWRXc2VsWHFRLWJ3UU14VmFrLWJTenNJa2NiNm52SWpTc2cyM0RrcG14el9TOVdFNkFDYkZKcGNPeWtqM19OYlZOTjFUaS1TYXJFZElMM0JHREo1SjhabVROTllGQzBnLXRuQml0cnZlWGRVOUFmX3IwN3lLNGpYSC11aEJmMFVqRWF3YUtDSHQ4amJueXhn?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "fa44002c7a9d",
+          "date": "2026-09-03",
+          "title": "Automakers urge Congress to quickly pass law banning Chinese cars - Reuters",
+          "summary": "米国の自動車メーカーが、中国製車の販売を禁止する法律の迅速な成立を議会に促している。これは、中国との提携や依存に対する政治的な懸念と規制強化の機運を反映している。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDVZZ0dqVmI3WTlWc0tiQTI4SzVMRXM4YjVlb0stNmFuX0dBYUFoZjBvQlBVMkFDMGd0U2NlbXBCN1NzMlEwT0tqbkpDdkZicmFRdFlvZXV1UjN6TUF3LWRzd2ZDbHhpNWdmb0VhOTRnWXg0RG5pRjhNeTdRcnVNbVVaZzNsQnFrUXlNR3Rfd0o3dlpfV0E1a0xaYTVXbWdaWm96YzZLWQ?oc=5",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "b288d441dff6",
+          "date": "2026-09-13",
+          "title": "Trump downplays AI warnings, citing competition with China",
+          "summary": "この記事は自動車メーカーの対中提携についての内容ではなく、トランプ大統領がAI開発における中国との競争を優先させるべきとして、AIの安全性への懸念を軽視する発言をしたものです。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6086739-trump-downplays-ai-risks/",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "70155898420d",
+          "date": "2026-09-13",
+          "title": "Johnson on AI regulation: ‘We don’t need everybody to panic right now’",
+          "summary": "この記事は自動車メーカーの対中提携への政治的批判に関する内容ではなく、AI規制についての米国下院議長の発言であるため、要約できません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6086745-johnson-advocates-ai-regulation-balance/",
+          "added_at": "2026-09-14 16:32:35"
+        },
+        {
+          "uid": "7d6b5d8dbe6b",
+          "date": "2026-08-25",
+          "title": "Amendment of Restricted Areas R-2505, R-2524, R-2508, and R-2515 in California",
+          "summary": "この記事はカリフォルニアの航空制限区域の座標修正に関する行政手続きについて述べており、「自動車メーカーの対中提携への政治的批判」という文脈とは無関係です。",
+          "source": "連邦官報（運輸省）",
+          "source_type": "official",
+          "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17339/amendment-of-restricted-areas-r-2505-r-2524-r-2508-and-r-2515-in-california",
+          "added_at": "2026-09-14 16:32:35"
         }
       ]
     }

@@ -112,13 +112,24 @@ def build_news_text() -> str:
         summary = item.get("summary", "")
         parts.append(f"【メール】{subject}\n  {summary[:300]}")
 
-    # theme_latest.jsonは大きいので上位テーマのsummaryのみ（短く）
+    # theme_latest.jsonは大きいので各テーマの直近アイテムのみ（短く）
+    # 注1: 上位3件に絞っていた時期があったが、テーマ追加時に新テーマが
+    #      漏れる事故があったため全テーマを対象にする（2026-09-14）
+    # 注2: テーマ辞書自体には "summary" キーが存在せず（要約は items 側の
+    #      各記事にしかない）、旧コードは t.get("summary","") が常に空文字列
+    #      になり実質何も渡していなかったバグを修正（2026-09-14）
     theme = load_json(DATA_DIR / "theme_latest.json")
-    for t in theme.get("themes", [])[:3]:
-        name    = t.get("name", "")
-        summary = t.get("summary", "")
-        if summary:
-            parts.append(f"【テーマ】{name}\n  {str(summary)[:150]}")
+    for t in theme.get("themes", []):
+        name  = t.get("name", "")
+        items = t.get("items", [])[:3]  # 直近3件（先頭が最新）
+        if not items:
+            continue
+        lines = []
+        for it in items:
+            title   = it.get("title", "")
+            summary = str(it.get("summary", ""))[:150]
+            lines.append(f"  ・{title}\n    {summary}" if summary else f"  ・{title}")
+        parts.append(f"【テーマ】{name}\n" + "\n".join(lines))
 
     return "\n\n".join(parts)
 

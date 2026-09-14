@@ -438,6 +438,98 @@ THEMES = [
             },
         ],
     },
+    # ──────────────────────────────────────────────────────────────────────
+    # テーマ④: 自動車メーカーの対中提携への政治的批判
+    # ──────────────────────────────────────────────────────────────────────
+    {
+        "id":          "auto_china_scrutiny",
+        "name":        "自動車メーカーの対中提携への政治的批判",
+        "name_en":     "Political Scrutiny of Automakers' China Ties",
+        "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
+        "color":       "#8e2de2",   # パープル（政治リスク系と区別）
+        "icon":        "🚨",
+        "gnews_queries": [
+            # ── 議会（下院中国特別委員会等） ──
+            {
+                "q":           '"Select Committee on the CCP" automaker OR "Ford" OR "General Motors" OR Stellantis China',
+                "source":      "下院中国特別委員会",
+                "source_type": "official",
+            },
+            {
+                "q":           '"House Select Committee" China automaker partnership hypocrisy OR criticize OR letter',
+                "source":      "下院中国特別委員会",
+                "source_type": "official",
+            },
+            {
+                "q":           '"John Moolenaar" China automaker OR Ford OR "auto industry" partnership',
+                "source":      "下院中国特別委員会委員長",
+                "source_type": "politician",
+            },
+            {
+                "q":           'Congress letter automaker China partnership national security concern 2026',
+                "source":      "米議会",
+                "source_type": "official",
+            },
+            # ── 政権高官 ──
+            {
+                "q":           '"Transportation Secretary" OR Duffy automaker China ties letter concern',
+                "source":      "運輸長官",
+                "source_type": "politician",
+            },
+            {
+                "q":           'Trump administration official automaker China partnership criticism national security',
+                "source":      "トランプ政権高官",
+                "source_type": "politician",
+            },
+            # ── 自動車メーカー個社（対応・反論含む） ──
+            {
+                "q":           'Ford China company partnership criticized Congress lawmakers response',
+                "source":      "フォード",
+                "source_type": "industry",
+            },
+            {
+                "q":           'Toyota OR Honda OR Nissan China joint venture partnership Congress scrutiny criticism',
+                "source":      "日系自動車メーカー",
+                "source_type": "industry",
+            },
+            {
+                "q":           '"General Motors" OR Stellantis OR "General Electric" China supplier partnership Congress criticism 2026',
+                "source":      "米系自動車メーカー",
+                "source_type": "industry",
+            },
+            {
+                "q":           'automaker "China ties" OR "Chinese partner" congressional criticism national security 2026',
+                "source":      "業界分析",
+                "source_type": "media",
+            },
+            # ── Reuters（RSSが死んでいるため Google News 経由で代替捕捉） ──
+            {
+                "q":           'site:reuters.com OR site:jp.reuters.com automaker China partnership Congress criticism',
+                "source":      "Reuters",
+                "source_type": "media",
+            },
+        ],
+        "rss_feeds": [
+            {
+                "url":         "https://thehill.com/feed/",
+                "source":      "The Hill",
+                "source_type": "media",
+                "keywords":    ["automaker", "China", "Ford", "Select Committee", "national security"],
+            },
+            {
+                "url":         "https://www.autonews.com/rss.xml",
+                "source":      "Automotive News",
+                "source_type": "media",
+                "keywords":    ["China", "Congress", "Select Committee", "criticism", "national security"],
+            },
+            {
+                "url":         "https://www.federalregister.gov/api/v1/documents.rss?conditions[agencies][]=transportation-department&conditions[term]=China",
+                "source":      "連邦官報（運輸省）",
+                "source_type": "official",
+                "keywords":    None,
+            },
+        ],
+    },
 ]
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

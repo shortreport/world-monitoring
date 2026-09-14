@@ -149,12 +149,21 @@ def load_themes():
     if not path.exists():
         return load_en_page(BASE / "docs" / "en" / "theme.html")
     data = json.loads(path.read_text(encoding="utf-8"))
-    themes = data.get("themes", [])[:4] if isinstance(data, dict) else []
+    themes = data.get("themes", []) if isinstance(data, dict) else []
     lines = []
     for t in themes:
-        title = t.get("title","")
-        body  = t.get("body","") or t.get("summary","")
-        if title: lines.append(f"[Theme] {title}: {body[:200]}")
+        # 注: テーマ辞書には "title"/"body" キーが存在しない（正しくは
+        #     "name" と items 内の各記事の "summary"）。旧コードは常に
+        #     何も出力しないバグだったため修正（2026-09-14）
+        name  = t.get("name","")
+        items = t.get("items", [])[:2]  # 直近2件（先頭が最新）
+        if not name or not items:
+            continue
+        for it in items:
+            it_title   = it.get("title","")
+            it_summary = it.get("summary","")
+            if it_title:
+                lines.append(f"[Theme/{name}] {it_title}: {it_summary[:200]}")
     return "\n".join(lines)
 
 def load_midterms():
@@ -245,6 +254,9 @@ def translate_sections_to_ja(sections: list, client) -> list:
         "- Thucydides Trap →「トゥキディデスの罠」\n"
         "- China/中国は必ず「中国」と表記し、「シナ」「支那」は絶対に使わない\n"
         "- 数字・固有名詞・組織名は正確に保持すること\n"
+        "- 「〜が譲歩を求める／を迫る」等、譲歩の方向性（誰が誰に対して求めているか）が原文で明確な場合は、"
+        "訳文でも主語・相手を省略せず明示すること（例:「北京は◯◯氏の拘束を交渉材料に、米国側に譲歩を求めている」）。"
+        "曖昧な直訳（例:「◯◯氏に関する譲歩を求めている」）は避ける\n"
         "- ぎこちない直訳を避け、意味を保ちながら自然な日本語の語順・表現に整えること\n"
         "JSONのみ返してください（前後の説明文不要）:\n"
         "[\n"

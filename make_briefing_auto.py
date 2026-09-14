@@ -118,11 +118,21 @@ def summarize_news() -> str:
         parts.append(f"【メール】{subject}\n  {summary[:200]}")
 
     # ── theme_latest.json ──
+    # 注: テーマ辞書には "summary" キーが存在せず（要約は items 側の各記事に
+    #     しかない）、旧コードは常に空文字列を渡すバグだったため items の
+    #     直近記事から構成するよう修正（2026-09-14）
     theme = load_json(DATA_DIR / "theme_latest.json")
-    for t in theme.get("themes", [])[:3]:
-        name    = t.get("name", "")
-        summary = t.get("summary", "")
-        parts.append(f"【テーマ】{name}\n  {summary[:200]}")
+    for t in theme.get("themes", []):
+        name  = t.get("name", "")
+        items = t.get("items", [])[:3]  # 直近3件（先頭が最新）
+        if not items:
+            continue
+        lines = []
+        for it in items:
+            title   = it.get("title", "")
+            summary = str(it.get("summary", ""))[:150]
+            lines.append(f"  ・{title}\n    {summary}" if summary else f"  ・{title}")
+        parts.append(f"【テーマ】{name}\n" + "\n".join(lines))
 
     return "\n\n".join(parts)
 
