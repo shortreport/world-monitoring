@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14 19:24:14",
+  "generated_at": "2026-09-15 04:07:03",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-14 19:23:33",
+      "last_checked": "2026-09-15 04:05:46",
       "items": [
         {
           "uid": "fc266b74d288",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-14 19:23:45",
+      "last_checked": "2026-09-15 04:06:07",
       "items": [
+        {
+          "uid": "95b4e3f54653",
+          "date": "2026-07-23",
+          "title": "‘We would never consider’ banning Mercedes from US, senator says, before approving bill that could - AL.com",
+          "summary": "申し訳ございませんが、提供いただいたタイトルのみで、記事の具体的な内容が不明確です。AL.comの記事本文が記載されていないため、S.4429との関連性を含めた正確な要約ができません。記事の本文をご提供いただければ、要約させていただきます。",
+          "source": "上院議員",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa01CYUJBT0lIX3UyNTk0Tm5wU0Fod1owb2hZVjBhVEhPR0tRQTZTMkZnZGJRTEZXNmRmTU9md1pKRTdUOXBCLWhvVzlzQ0tHbHlLNkloZzB4WWZTWEJjbi1lbWFLbElqZFlZR0dtbmtMMmhXaFJRWEJibFp2WVhNVFNkOE1IU3l6cGp5dkQtNjRoQXQ4d1ZzX1hQZzFETDExc3ptNDNVR1FyM0FyZ00yR1NBd1RjOG9TNkZ1cHRial9haUd6Mm9ZSm5TMkZ1OTN6RXByeVRxLUY3Zw?oc=5",
+          "added_at": "2026-09-15 04:06:05"
+        },
         {
           "uid": "b004e3b9cafe",
           "date": "2026-07-22",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVl9HU19ybGpmLVByQXhpTU1Yb3VJcHBXVXNyVGlaMjVOa2FfSEtyVVdKRGZ3Vzl6dHk5eGFRak1tajdSZ29SVlBwNU5ZLXg3em1EcDlLWUE2eWN4ejQ2Q3kyY1hLR0JsNDJjRWhpQkxUMkFBS3I1ZU5iUDN0MDJ6eDJyNnU0UzI3M3BrVzU0dndJbUNkZzdpa1Z5bWdldlhqMURGTnRybWRVd0JvblNzdGVQaUZVcHE0aWI4M3RuakpRRUhnWU1MdEowSEktb05YaDVoalNrS091SEUyRGFZSGlzX3dpZVY3QmNR?oc=5",
           "added_at": "2026-07-24 00:57:18"
-        },
-        {
-          "uid": "c34c92c23d6a",
-          "date": "2026-05-26",
-          "title": "Trump administration permits Volvo to keep selling connected cars in the US - TechCrunch",
-          "summary": "Trump政権がVolvoに対し、S.4429法案の規制対象外として米国での接続車両の販売継続を許可したことを報じています。この決定は、自動車メーカーが一定の条件下で接続車両技術の販売を継続できる可能性を示唆しています。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmx4OE1qRURCZ2lfNFdsbTNYRzJnUXk2My1Xbm05b2RuVExTMkJDTGZpRzBmRzFzdGxpeGlUODdPSHJHZXFLS19GNHZrRk1QNENlamstTmw5Y2kxNlYxc3dfcWJhWk85bkhER0VWdkdFN090NnU4X2NwZTFzalk5TjREZFZLMWhPWU9vZ0pJSUVJd01SdGxZQ1dUV2xoZ0FNMy02MGk0emc1anZvckhB?oc=5",
-          "added_at": "2026-07-24 00:57:18"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-14 19:24:06",
+      "last_checked": "2026-09-15 04:06:43",
       "items": [
+        {
+          "uid": "a29a5be6dafe",
+          "date": "2026-06-23",
+          "title": "US-China rare earth truce tested as tensions rise - South China Morning Post",
+          "summary": "米国と中国の関係緊張が高まる中、レアアース貿易に関する両国間の暫定的な合意が試されており、中国のレアアース輸出管理政策が米中紛争の重要な焦点となっている。中国がレアアース輸出規制を強化する可能性があり、これは米国の産業と技術競争力に直結する課題となっている。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY3NrNVR1anA3eVlCakc4aDNDam9VZnBnd2QycGJ6azBjNThuSDJVWGViR3NVdkhSMXVOWExhY1ZpcnFHMEFMYjUxRm44QXJ5dWRVS2FhdkV4UzQ0d190R0xfMnNZYTQ4cXNwQWt2b3J4UEFudkVMLVdWQzNncmZFR0ttajI5dDh3NTVhNzljTkdjZVhDN3M1aW1MVE5Hd1VKS1VnNXZKYTNQOWt2UHV3M092QlZnR0I2Q25aOWpqdUxkYkJ6VzFv0gHHAUFVX3lxTFB3bU5EdWdkTmZFR01vc2UxbXZEU213NGZCZlFyLXpHWkVVV0JTaVhEcm1QYnBCR1JLN0xILVJqdDZTdnlCX3lsbVkxcEVsYXFtTWV2eTRfT3lNNHRrLVVGb3VkUkJRcEFBazZ6MG14NVQtVmVPbFRoSjg3eFM2Y1dDN0w4UFlrU0R3SGR3SVRhcG9qYWNNODIzOE50LW1CZTVOWkFXbERELV9mSWN1U2daa3VnMVliRlZDbVRzalpaMEJMZGwxOTg?oc=5",
+          "added_at": "2026-09-15 04:06:40"
+        },
+        {
+          "uid": "91fd5e5a7fc0",
+          "date": "2026-09-14",
+          "title": "China Rare Earth Magnet Overcapacity and Supply Gaps 2026 - Rare Earth Exchanges",
+          "summary": "中国のレアアース磁石産業は2026年までに過剰生産能力を抱える一方で、特定の高性能磁石材料では供給不足が生じる見通しが示されている。これは中国が戦略的にレアアース輸出管理を強化する中で、国内需要と国際供給のバランスが不均衡になることを示唆している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONDlIOXN2V0M5N1BkY3NNa25DUTZBUEVUTjZiY0hWamh2WDE2WkVuNHRBNFpzUVJpYnp3Zjd1Q1hMbkhSZzF5dmktcnRmVHVodXZ0Wk0zVzVPOWFocThJbnBESU9tX2NsaUVMMU44Q1NOem9OUWFFbmM0Y21BM3ZXdTBfaE9TSmc?oc=5",
+          "added_at": "2026-09-15 04:06:40"
+        },
         {
           "uid": "b96c9198b501",
           "date": "2026-07-23",
@@ -6011,26 +6031,6 @@
           "source_type": "media",
           "url": "https://thehill.com/homenews/administration/6046040-live-updates-donald-trump-scott-bessent-iran-war-sanctions-tariffs/",
           "added_at": "2026-08-25 10:55:39"
-        },
-        {
-          "uid": "a346d2a1b6ef",
-          "date": "2026-08-24",
-          "title": "Knowledge is power: Why America needs economic security intelligence",
-          "summary": "中国などの権威主義国家による経済的威圧に対抗するため、米国国務省が年次「経済安全保障インテリジェンスレポート」を作成し、レアアースなどの戦略的に重要な物資の供給リスクを特定・軽減することが提案されている。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/national-security/6046309-national-security-trade-policy/",
-          "added_at": "2026-08-25 10:55:39"
-        },
-        {
-          "uid": "32a6c8541a3e",
-          "date": "2026-07-21",
-          "title": "As US works to end reliance on China for critical minerals, mining companies see opportunity - Small Wars Journal",
-          "summary": "米国が中国への重要鉱物依存からの脱却を進める中、鉱業企業はレアアースを含む重要鉱物の国内供給確保の機会を見出している。中国が従来占めてきた重要鉱物市場において、米国が代替供給源の構築を急速に進めることで、レアアース輸出管理の中心的役割を担う中国の地政学的影響力が減少する可能性がある。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHFRSnFQX2Z1LUtqRWQ0NnJURUhBdWZzNE8xRGQtTmJpZndEbUNzd0QwbTdaQWVUc2Q5bHRaQjgzaG9mU0ZPV0hjTm1obFlMMzBDeVYwNVVEUF9FZXBpTGF0a2FWSlBOemVxNWZKR0p6UlJkUXFmdW1ObWZXOXZOb0xKSGpHa28?oc=5",
-          "added_at": "2026-08-24 23:45:31"
         }
       ]
     },
@@ -6041,8 +6041,58 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-14 19:24:14",
+      "last_checked": "2026-09-15 04:07:03",
       "items": [
+        {
+          "uid": "1f411bc2b8f6",
+          "date": "2026-09-08",
+          "title": "Trump administration blasts Ford’s business deals with Chinese firms - KWSN",
+          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判しており、自動車メーカーの対中ビジネス活動が米政権から政治的な攻撃の対象となっていることを示している。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTnhZcDk3anpRN3pIN092MnpSczM5U2VwbjB1UEV3NXVRaS1LLUQxdTl0WVQ3cDZXVjF6VzZCeVUtM3RFY3gydkpPWUVJblhicjhmVFBjYlRmRWhyS1QzblhWbndBOEhscmd6RDNRd25UR2pDbWRBU2JGM1ZrVkZYUUNubnJvODBEMFRIYUl1aVJCaDNHanhka3BRTQ?oc=5",
+          "added_at": "2026-09-15 04:06:56"
+        },
+        {
+          "uid": "31b4e9a332ee",
+          "date": "2026-09-14",
+          "title": "Trump, Ford Clash Over China’s Role in Auto Industry - WJR-AM",
+          "summary": "フォード・モーターがEVバッテリー製造で中国企業との提携を進めようとしていることに対し、トランプ前大統領が米国産業の競争力喪失につながると批判し、自動車メーカーの対中提携戦略が政治的な争点となっている。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUGR3akRBUmVCSVFZLXk1NmQ3SkZ2MzJzT25rVlVHRTRxTEQtaU1SYnVLWUQxb211ZHp6QkJXcGhBblMwdlFRcWR4UE15d29FbVo3aHF1bFhDZEluZGVPcGZoOWxsd3BFM0NiWmFnS2R6UnZSMHNUeV82SV93YTZsYnc2UnhEYUFyUFE?oc=5",
+          "added_at": "2026-09-15 04:06:56"
+        },
+        {
+          "uid": "560defd43705",
+          "date": "2026-09-11",
+          "title": "Gasoline likely to boost US consumer prices in August - Reuters",
+          "summary": "本記事はガソリン価格が8月の米国消費者物価に与える影響についての報道であり、自動車メーカーの対中提携への政治的批判とは直接の関連がありません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNem1uNE5zeDZ0aDQ4c2dodkphSDNJUHpJMk81a0NhMFdVaFV4OS1mNk1mWDlEMjhENnZScVZHTTlZN2pWbFNmWlpfQ3YxWHI0TXduT2tnMDN1UmpubkJOQ1Nlcm1xV2thSFczZ3FjNGgzYjF1SW5vTHJWT0x6NllLUVdMMGk5VUJmTGpaMzhFamNQZ2ZqUW9n?oc=5",
+          "added_at": "2026-09-15 04:06:56"
+        },
+        {
+          "uid": "d066fd2e6764",
+          "date": "2026-09-09",
+          "title": "Porsche completes Bugatti Rimac exit, lifts 2026 cash flow outlook - Reuters",
+          "summary": "ポルシェがブガッティ・リマック事業から撤退を完了し2026年のキャッシュフロー見通しを引き上げたというニュースですが、これは自動車メーカーの対中提携への政治的批判という文脈とは直接的な関連性がありません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWWdhWXc0ZVNuWlRxRzVNRkRVQURaZHBpMzVlWXM5c1VEQVdUYTlVd2ZIekhVNkdWeHBzWk5xY0h0WEwzeTEzTUZKUHEyMEV5X1N4YmE2bHJhaWU1MjJjZE12UGZnNWZZUlZiQ3BTUFhCd054TzVMSnF5M2NpU3ZmWFZBRGhDUG1iNE1VTGRWaE1LREo0NEJ3VktQRlVFcFpHem1UUEJMZEprX0xFVnZUeHdOcmVKY3NhNnc?oc=5",
+          "added_at": "2026-09-15 04:06:56"
+        },
+        {
+          "uid": "034837f43e0a",
+          "date": "2026-09-14",
+          "title": "Deadly silence: The world can’t afford to ignore climate change much longer",
+          "summary": "この記事は気候変動対策を扱っており、自動車メーカーの対中提携への政治的批判との直接的な関連性はありません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/energy-environment/6085381-voters-want-climate-action/",
+          "added_at": "2026-09-15 04:06:56"
+        },
         {
           "uid": "73ebafb3f624",
           "date": "2026-09-12",
