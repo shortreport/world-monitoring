@@ -131,9 +131,9 @@
 
 <header class="site-header">
   <div class="logo" onclick="location.href='index.html'" title="ホームへ">World<em>News</em></div>
-  <div class="header-date">2026年09月14日</div>
+  <div class="header-date">2026年09月15日</div>
   <div class="header-spacer"></div>
-  <div class="update-time">最終更新: 2026年09月14日 16:37 JST</div>
+  <div class="update-time">最終更新: 2026年09月15日 14:11 JST</div>
   <div class="lang-toggle">
     <a href="midterm.html" class="active">JP</a>
     <a href="../en/midterm.html">EN</a>
@@ -237,7 +237,7 @@
 </div>
 
 <footer class="site-footer">
-  データ出典: Cook Political Report / 270toWin 参考 &nbsp;|&nbsp; 更新: 2026-09-14
+  データ出典: Cook Political Report / 270toWin 参考 &nbsp;|&nbsp; 更新: 2026-09-15
 </footer>
 
 <script>
@@ -338,15 +338,12 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
-    { state: "NC", incumbent: "Unknown", party: "D", rating: "lean-d", label: "North Carolina" },
-    { state: "GA", incumbent: "Jon Ossoff (D)", party: "D", rating: "toss", label: "Georgia" },
-    { state: "MN", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Minnesota" },
-    { state: "IA", incumbent: "Unknown", party: "D", rating: "toss", label: "Iowa" },
-    { state: "NH", incumbent: "Unknown", party: "D", rating: "toss", label: "New Hampshire" },
-    { state: "TX", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Texas" },
-    { state: "AK", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Alaska" },
-    { state: "KS", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Kansas" },
-    { state: "OH", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Ohio" },
+    { state: "TX", incumbent: "Ken Paxton (R)", party: "R", rating: "toss", label: "Texas Senate" },
+    { state: "NC", incumbent: "", party: "R", rating: "lean-d", label: "North Carolina Senate" },
+    { state: "GA", incumbent: "", party: "R", rating: "lean-d", label: "Georgia Senate" },
+    { state: "MN", incumbent: "", party: "D", rating: "lean-d", label: "Minnesota Senate" },
+    { state: "NH", incumbent: "", party: "R", rating: "toss", label: "New Hampshire Senate" },
+    { state: "MI", incumbent: "", party: "D", rating: "lean-d", label: "Michigan Senate" },
   ],
   house: [
     { state:'NY-3', incumbent:'(Open)', party:'D', rating:'toss', label:'Toss-up' },
@@ -378,8 +375,8 @@ const seatCounts = {
 
 // 2026 predictions (rough)
 const predictions = {
-  senate:   { r:50, d:48, toss:2, total:100 },
-  house:    { r:215, d:217, toss:3, total:435 },
+  senate:   { r:48, d:50, toss:2, total:100 },
+  house:    { r:215, d:220, toss:0, total:435 },
   governor: { r:22, d:14, toss:0, total:50 },
 };
 
