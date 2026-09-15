@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>US Midterms | World News</title>
   <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js">/* KEY DEVELOPMENTS
-   - Nate Silver's forecast shows Democrats ahead in nine of 12 competitive Senate races, signaling potential Republican losses of Senate control.
-   - Trump's RNC midterm convention drew poor attendance with major GOP candidates opting out, signaling internal party tensions weeks before Election Day.
-   - Democrats lead Republicans on generic ballot but with more modest advantage compared to 2018, suggesting headwinds despite Trump's collapsing approval ratings.
-   - Data center development emerged as toxic midterm issue with Republican candidates distancing from Trump's pro-data center stance in battleground races.
-   - Democrats mounted competitive campaigns in five states Trump won by double digits in 2024 (Alaska, Iowa, Kansas, Ohio, Texas).
+   - Democrats are favored to gain control of the House with approximately 50 competitive races, needing only 3 seats to flip the chamber.
+   - Senate control remains highly competitive with six toss-up races and Democrats leading in nine of twelve competitive Senate races according to Nate Silver's forecast.
+   - Trump's midterm convention in Dallas struggled to attract major candidates, with many GOP powerhouses opting out despite the president's central role in the campaign.
+   - Data center development has emerged as a significant campaign issue across multiple battleground races, with Republican candidates distancing themselves from Trump's support for data centers.
+   - Texas has emerged as a major battleground in the midterms, with Democrat James Talarico leading Republican Ken Paxton in the Senate race according to recent polling.
 */
 </script>
   <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
@@ -135,9 +135,9 @@
 
 <header class="site-header">
   <div class="logo" onclick="location.href='index.html'">World<em>News</em></div>
-  <div class="header-date">Friday</div>
+  <div class="header-date">Tuesday</div>
   <div class="header-spacer"></div>
-  <div class="update-time">Updated: 2026-09-11 JST</div>
+  <div class="update-time">Updated: 2026-09-15 JST</div>
   <div class="lang-toggle">
     <a href="../jp/midterm.html">JP</a>
     <a href="midterm.html" class="active">EN</a>
@@ -241,7 +241,7 @@
 </div>
 
 <footer class="site-footer">
-  Data: Cook Political Report / 270toWin &nbsp;|&nbsp; Updated: 2026-09-11
+  Data: Cook Political Report / 270toWin &nbsp;|&nbsp; Updated: 2026-09-15
 </footer>
 
 <script>
@@ -342,15 +342,12 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
-    { state: "NC", incumbent: "Unknown", party: "D", rating: "lean-d", label: "North Carolina" },
-    { state: "GA", incumbent: "Jon Ossoff (D)", party: "D", rating: "toss", label: "Georgia" },
-    { state: "MN", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Minnesota" },
-    { state: "IA", incumbent: "Unknown", party: "D", rating: "toss", label: "Iowa" },
-    { state: "NH", incumbent: "Unknown", party: "D", rating: "toss", label: "New Hampshire" },
-    { state: "TX", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Texas" },
-    { state: "AK", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Alaska" },
-    { state: "KS", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Kansas" },
-    { state: "OH", incumbent: "Unknown", party: "D", rating: "lean-d", label: "Ohio" },
+    { state: "TX", incumbent: "Ken Paxton (R)", party: "R", rating: "toss", label: "Texas Senate" },
+    { state: "NC", incumbent: "", party: "R", rating: "lean-d", label: "North Carolina Senate" },
+    { state: "GA", incumbent: "", party: "R", rating: "lean-d", label: "Georgia Senate" },
+    { state: "MN", incumbent: "", party: "D", rating: "lean-d", label: "Minnesota Senate" },
+    { state: "NH", incumbent: "", party: "R", rating: "toss", label: "New Hampshire Senate" },
+    { state: "MI", incumbent: "", party: "D", rating: "lean-d", label: "Michigan Senate" },
   ],
   house: [
     { state:'NY-3', incumbent:'(Open)', party:'D', rating:'toss', label:'Toss-up' },
@@ -382,8 +379,8 @@ const seatCounts = {
 
 // 2026 predictions (rough)
 const predictions = {
-  senate:   { r:50, d:48, toss:2, total:100 },
-  house:    { r:215, d:217, toss:3, total:435 },
+  senate:   { r:48, d:50, toss:2, total:100 },
+  house:    { r:215, d:220, toss:0, total:435 },
   governor: { r:22, d:14, toss:0, total:50 },
 };
 
@@ -4288,7 +4285,7 @@ function drawRaces() {
 }
 
 /* =====================================================
-   UPCOMING SCHEDULE (next 8 weeks from 2026-09-11 → 2026-11-06)
+   UPCOMING SCHEDULE (next 8 weeks from 2026-09-15 → 2026-11-10)
    ===================================================== */
 const upcomingSchedules = {
   senate: [
