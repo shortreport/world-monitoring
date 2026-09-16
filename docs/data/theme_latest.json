@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16 03:02:55",
+  "generated_at": "2026-09-16 09:18:48",
   "themes": [
     {
       "id": "iaa",
@@ -8,47 +8,47 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-16 03:02:08",
+      "last_checked": "2026-09-16 09:17:45",
       "items": [
+        {
+          "uid": "336bc334235f",
+          "date": "2026-09-15",
+          "title": "Draft Parliament report advances lead markets for clean industry in Europe - Clean Air Task Force",
+          "summary": "欧州議会の草案報告書は、欧州の清潔産業における主要市場の発展を推進しており、産業脱炭素化を加速させるための規制枠組みの強化に貢献している。この報告書は欧州産業加速法案（IAA）の目標である、クリーンテクノロジー産業の競争力向上と市場形成を支援する政策的基盤を整備している。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2UtTEhmbnN3S2RqNVI4dWpFU29PbWVkY0xfTkQ1T2JXTmd0QWxQTmNLbTVMTjBxcFF1TWl2QXFoY0Y1c0wwSEwyYmlMWHRTY2UtVlc2RW1PSER4bm53WUNjX0c2VzJsTnBTYkRCakQwQUprMVZfS0VvendGeWRNWE5ubHpUdFpZSTRiTzROeXRhQjhkUnFUVl8wOGJxZ3BUa2VQYjh3?oc=5",
+          "added_at": "2026-09-16 09:17:35"
+        },
         {
           "uid": "21d9dd181f65",
           "date": "2026-09-15",
           "title": "Parliament pushes competitiveness makeover for EU carbon market - EU Perspectives",
-          "summary": "欧州議会がEUの炭素市場の競争力強化を推し進めており、これは産業加速法案（IAA）の枠組みの中で、欧州産業の国際競争力を高め、グリーン技術産業の成長を促進するための重要な取り組みとなっています。具体的には、炭素市場の改革を通じて企業の投資インセンティブを強化し、脱炭素化と産業競争力の両立を目指しています。",
+          "summary": "# 欧州議会は、EU排出権取引制度（ETS）の国際競争力を強化するため、カーボンボーダー調整メカニズム（CBAM）の導入を進めており、産業空洞化を防ぎながら脱炭素化を実現する産業加速法案の重要な要素として位置付けている。",
           "source": "欧州議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FZ29ya2lfNkZBcEpVVnVnd3lQR2F2dWY5SUdXcGg1OHY5V3Q5LTZWTnN2bWJqQnJEaFdpNDBDeE0tVmM5UjJTQnlXSlE4ZWI4Vm9PeWdQcmhiZ1lBeDcwUmlKNXBvUTVwWi10cGZXbmx6U3RHd1Fybw?oc=5",
-          "added_at": "2026-09-16 03:02:01"
-        },
-        {
-          "uid": "41d52466fa94",
-          "date": "2026-09-15",
-          "title": "European Parliament votes on strengthening CBAM for steel-intensive products - EUROMETAL",
-          "summary": "欧州議会は、鋼鉄集約的製品に対するカーボン国境調整メカニズム（CBAM）を強化する投票を行い、産業の国際競争力維持と脱炭素化を両立させる措置を進めた。この強化は、欧州産業加速法案（IAA）の枠組み内で、EU産業の競争力確保と気候目標達成を目指すものである。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTUZqY0dOWGEwUVJaLUpDTF9Ec2xvQ0IxSWI2R1R0TG1TbnFncTZ2WGlUMkVNSUJ4TmZidnFLVTBvRlFJVEt4U3BaQ0s5TGRndEdOS0VYa2VpYW9uUG4wZnJBU01FdUYyVUZLTzlmQnE3NzEtbVFiT09mUldJajFUaU5uRGloSWxPdzFFeFVmTE5UcEFUaFJjTkxNVTVDMTQy?oc=5",
-          "added_at": "2026-09-16 03:02:01"
-        },
-        {
-          "uid": "7ae5be682e4c",
-          "date": "2026-09-15",
-          "title": "MEPs vote on wider CBAM as EU moves to protect manufacturers from carbon-cost loopholes - EU Today",
-          "summary": "欧州議会議員は、EU域内製造業者が炭素費用の抜け穴から保護されるよう、より幅広い炭素国境調整メカニズム（CBAM）導入に投票し、産業加速法案（IAA）の競争力強化という目標に合致した規制強化を進めている。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PSUdGTmtuUUctRmRIRldNZHVnZ1V5MjFRdlNZNVYzSktVM2dhX2lhZjNNSmQxRW1mbHlsVEpHR01MTUJibVB6cjFhOHF5enRxZjh1RFhkWnBBbzZVZkN3SHc1LVlyWjgwa3BHcVk4UmFpQzg?oc=5",
-          "added_at": "2026-09-16 03:02:01"
+          "added_at": "2026-09-16 09:17:35"
         },
         {
           "uid": "a49163bd23aa",
           "date": "2026-09-15",
           "title": "Day: 15 September 2026 - EUROMETAL",
-          "summary": "申し訳ございませんが、提供いただいたテキストには「Day: 15 September 2026 - EUROMETAL」というタイトルのみで、具体的な記事内容が含まれていません。要約を行うためには、記事の本文が必要です。記事の内容をご提供いただければ、IAAの文脈での日本語要約をさせていただきます。",
+          "summary": "申し訳ありませんが、提供いただいたテキストには「Day: 15 September 2026 - EUROMETAL」というタイトルのみで、具体的な記事内容が含まれていません。記事の本文がなければ、欧州産業加速法案（IAA）に関連した要約を作成することができません。記事の詳細内容をご提供いただければ、要約をいたします。",
           "source": "欧州議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ScGYyOGZVVURsRC1EWW05ZU1MS1VWU0ROc08tbm1vWE1TUWdIWXZMUkh4LTBvbXJiaUJkVF8zTGxkSV91LUhzSw?oc=5",
-          "added_at": "2026-09-16 03:02:01"
+          "added_at": "2026-09-16 09:17:35"
+        },
+        {
+          "uid": "7ae5be682e4c",
+          "date": "2026-09-15",
+          "title": "MEPs vote on wider CBAM as EU moves to protect manufacturers from carbon-cost loopholes - EU Today",
+          "summary": "欧州議会議員らは、炭素国境調整メカニズム（CBAM）の対象範囲を拡大する投票を行い、EU産業加速法案との連携の中で、製造業者を炭素コスト回避の抜け穴から保護しようとしている。この措置により、EUの産業競争力強化と環境基準の維持が図られている。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PSUdGTmtuUUctRmRIRldNZHVnZ1V5MjFRdlNZNVYzSktVM2dhX2lhZjNNSmQxRW1mbHlsVEpHR01MTUJibVB6cjFhOHF5enRxZjh1RFhkWnBBbzZVZkN3SHc1LVlyWjgwa3BHcVk4UmFpQzg?oc=5",
+          "added_at": "2026-09-16 09:17:35"
         },
         {
           "uid": "3988d0706bce",
@@ -2019,27 +2019,37 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-16 03:02:22",
+      "last_checked": "2026-09-16 09:18:03",
       "items": [
         {
           "uid": "f3e52c30e78d",
           "date": "2026-07-23",
-          "title": "Connected Vehicle Security Act aims to combat ‘automotive fentanyl’ - Land Line Media",
-          "summary": "米国接続車両安全保障法（S.4429）は、接続型自動車のサイバーセキュリティ脅威に対抗するため、自動車メーカーに対して車両通信システムのセキュリティ基準を強化し、サイバー攻撃による危険を防止することを目的としている。この法案は「自動車用フェンタニル」と呼ばれるサイバー脅威に対する規制的アプローチを確立しようとしている。",
+          "title": "Connected Vehicle Security Act aims to combat ‘automotive fentanyl’ - landline.media",
+          "summary": "米国接続車両安全保障法（S.4429）は、自動車のサイバーセキュリティ脅威を「自動車フェンタニル」に例えて、接続車両のデジタルセキュリティ規制を強化し、ハッキングやサイバー攻撃から車両を保護することを目的としている。",
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQWpVTWNiQ09HZVFCMllzTTNnRFFXZ0RXZGhnMkQxYWNSenlRdGQxMjZSbDVUZWYzcy1tSGRLcmQ2OFZkMXI4MHlUWUVrNFBiM2ZxSDMzSGsxWmwyWjlyNkozdEZzVkFGTnVKZkhxX1kyZmZEVEhaaWZVbS1Wd240SzdkSE9Fek1HWWpyRGVHckZLR0k?oc=5",
-          "added_at": "2026-09-16 03:02:17"
+          "added_at": "2026-09-16 09:17:58"
         },
         {
           "uid": "a9190ca06f9a",
           "date": "2026-09-03",
           "title": "Automakers urge Congress to quickly pass law banning Chinese cars - whbl.com",
-          "summary": "米国の自動車メーカーは、中国製電気自動車の米国市場への流入を防ぐため、S.4429法案の迅速な可決を议会に促しており、この法案は国家安全保障上の脅威とされる中国車の販売禁止を目指しています。",
+          "summary": "米国の自動車メーカーが議会に対し、中国製自動車を禁止する法案の迅速な可決を促している。この法案は、中国の自動車産業による米国市場への浸透を防ぎ、国家安全保障上の懸念に対応することを目的としている。",
           "source": "業界団体（自動車）",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3JKOGxNc2ZWVXNtZE9La1hMV0JsVnJOcWZSTWpMWkRCamNBYVJmVjduTnU4eWNOOG84RmM1aVA5ZW93dzJubEVzNEd0Mkc3MUQ5SF91cURhdEprdVBkTEc4M0E2bHM2dXBTdk1sWDc4VWxTTjRmMncwMnp4YnRiLXF6Q21aRTEybkdTQnFEODlOY3NNbkEwWXBR?oc=5",
-          "added_at": "2026-09-16 03:02:17"
+          "added_at": "2026-09-16 09:17:58"
+        },
+        {
+          "uid": "3eb66fab28b1",
+          "date": "2026-08-13",
+          "title": "The Connected Vehicle Security Act is about more than just security - The Hill",
+          "summary": "申し訳ありませんが、提供していただいたテキストには、タイトル以外の具体的な記事内容が含まれていないため、要約することができません。\n\n記事の本文をご提供いただければ、米国接続車両安全保障法（S.4429）に関連した1～2文の日本語要約を作成いたします。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdERmemlWT01tbEdybklObUVOM2IxWG51OGp4RWllRnhULUdkTFdWaEtpdllrTUVrVDNvY1ZEQkgtVDJmWTFLdEYtVWo1ZWhxbWRtbU00emo0RGF0VkdaNXVMSHdGQ3N3XzlpSHZrRTNMeUxHc1Q1c3QwZ0U0Rm9jbWtLby11b3NyRUxB0gGQAUFVX3lxTFBxb3Mtc0dEV1BXVXV4dWE3NTNEQVZIY2lIclExVm56WEpQbTNPWTFrRW9xLWE5VHNaVzJEYmpPbDVnemhUMXBzWU44Ukxqb0hzdGVsQkdoSXNBTFFrYjNVSkhsakNxcUZRa0ZfMzR1cDJ2eldaSmdaV1ZaMjBYbVp1Q1FGbFQxdTVNbDlSbjBRRw?oc=5",
+          "added_at": "2026-09-16 09:17:58"
         },
         {
           "uid": "95b4e3f54653",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGwtTFBfZmhmWU42RjZuZXdvN0RYSlppZTNnWHBSWUotcEppd3FkU0hDYXFidzlSZnFrT2NhN1RhNGpzSEpnalJ5THlwZ3JnVC00bXNWRGJENWlFUEtIUFBlNHRTYm1sVjU1TDZPc25ZSC1nUlpUdTFIZ0tuWHpWUDBORmtldno1dUJhWUtKWXZDMk5mOTVLMGN3WjlzZ092QjBvOXZiVHpQcThOa2lCQXMzNNIBswFBVV95cUxNaHdUOVlFRnhqX24yTW9HQVgtanN3MFQ3Sm1sSENIOTh5ZmZDUjl4Y1YxTVZzMlhPZjJEVHdIdHg5OXRuc2JPbzZwN0xqU19aVS1lRTBUU1RkNnNBQmhHX0R3dG1FZzVRNlFXUVVYLVg5VkZYZ3VyZmhUdi1ldTdzdXpaTGVLcTgtZks4YWJ1VEVDSXlJMkplVU9aX2hlMDFkSGo4SlJZODRXRjMyajIxc3F5cw?oc=5",
           "added_at": "2026-07-24 08:00:24"
-        },
-        {
-          "uid": "d769d0c7117c",
-          "date": "2026-07-23",
-          "title": "Ban on connected tech, auto investors advances in US Senate - Midland Daily News",
-          "summary": "米国接続車両安全保障法（S.4429）は、中国やロシアなどの敵対的国家による車両の遠隔操作やデータ盗取を防ぐため、これらの国の企業による接続車両技術への投資を禁止し、安全保障上の脅威を排除することを目的としている。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZm5Eb3JRV3FOenZINWd6a0U2LTR5VGpHa2l3ZE51LWVBUzRlWXg2WTZYQ2phb2VjTjM1OEgyb1VGSGU2SDRpYnFNMjMtR3JrdUhXVFVjVHFTRm9EZ1JKSE5qRDc3ZlRFTjk1Z0JoQWluMURFMlFjb05XMjJ5QmpNdkNwQ3NOOG8wSmJCcQ?oc=5",
-          "added_at": "2026-07-24 08:00:24"
         }
       ]
     },
@@ -4030,47 +4030,57 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-16 03:02:42",
+      "last_checked": "2026-09-16 09:18:33",
       "items": [
         {
           "uid": "c7e2c1e88961",
           "date": "2026-07-24",
-          "title": "China Wields Its Rare-Earths Leverage Over Europe With Export Controls - nytimes.com",
-          "summary": "中国がレアアースの輸出管理を強化し、ヨーロッパに対する経済的圧力として活用している。これにより、中国はEUに対する政治的影響力を高めようとしている。",
+          "title": "China Wields Its Rare-Earths Leverage Over Europe With Export Controls - The New York Times",
+          "summary": "中国がレアアース輸出規制を強化することで、電動車やクリーンエネルギー技術に依存するヨーロッパに対する影響力を行使している。中国は世界的なレアアース供給の大部分を支配しており、この戦略的資源を外交・経済的な圧力手段として活用している。",
           "source": "中国輸出規制",
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yMFc4djJlWG5WMVl3Yy14YWZENk1KUGJKUF9aYnc3Y3A4Y0sycnRXWkt3eTZ1U2U0ZkYtZmRqaUdYTm9UX2lKS2VOZFpvUjdPYTdGOEIxMDU3QlhrWjZPeXpjdTJMdTc3d1NWOWtraFVYRUhBT0RKdUlqMlNoQQ?oc=5",
-          "added_at": "2026-09-16 03:02:36"
+          "added_at": "2026-09-16 09:18:24"
         },
         {
           "uid": "ca2f6f7f1fe6",
           "date": "2026-09-15",
           "title": "China Exit Controls Rare Earth Industrial Policy Explained - Rare Earth Exchanges",
-          "summary": "中国はレアアースの戦略的重要性を認識し、輸出管理を強化することで国内産業の発展と国際的な影響力の確保を図っており、これは資源ナショナリズムと産業政策の典型的な事例である。",
+          "summary": "中国はレアアースの戦略的価値を認識し、輸出管理を通じて産業政策を実施しており、供給チェーンの支配と国際的な影響力の強化を目指しています。",
           "source": "業界団体",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOU90cGQyQjVNMDlNMXVVdXZnNlMxejhST2JOUWEyaG5NMnRqUTJ0cWtVNjMyWUJfbVpQX2RwdDBvRFZwNlV1Q2wzc3pyRkY4cjBmLS1IZGl3ajROZ2pKbVMxVk9sSlFHT2k5blBkbEV6OEptTm93aUZYY1F3bnE1SUFFX2xyNmNRUF9fZkJ3?oc=5",
-          "added_at": "2026-09-16 03:02:36"
+          "added_at": "2026-09-16 09:18:24"
         },
         {
           "uid": "f5693cfa36d2",
           "date": "2026-08-09",
           "title": "Breaking China's Rare Earth Grip: The 5-Year Path to Victory Runs Through Commercial Production - finance.biggo.com",
-          "summary": "中国のレアアース市場支配を打破するには、西側諸国が5年以内に商業規模での生産体制を確立することが重要であり、中国以外の供給源の多様化が急務となっている。",
+          "summary": "中国のレアアース独占に対抗するには、西側諸国が5年以内に商業規模での生産能力を確立することが重要な課題であり、単なる採掘だけでなく精製・加工能力の構築が勝利への道となる。",
           "source": "欧米レアアース企業",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45Ui1aM3dTVXdGLTNyOW90RkxvejhoMjFOYW9BWDNuallSSGQzV01SU0s1ZjBZbFhXWG84SVlXZlNlcDYtdUE0WXlqakxHUlJVRjVlWHJ5QU85VUpxNTVodlpleWRXUDdqdkY5SVA5RFh2cEc4UFE?oc=5",
-          "added_at": "2026-09-16 03:02:36"
+          "added_at": "2026-09-16 09:18:24"
         },
         {
           "uid": "73a84915543a",
           "date": "2026-07-13",
           "title": "A $5M startup claims rare earth-free electric motor breakthrough - Electrek",
-          "summary": "# 中国レアアース輸出管理に関する要約\n\nスタートアップ企業が、レアアースを使用しない電動モーター開発を発表しており、これは中国によるレアアース輸出管理の影響を受ける産業における代替技術開発の動きを示している。",
+          "summary": "レアアース不使用のモーター開発を掲げるスタートアップが登場し、中国によるレアアース輸出管理への依存脱却を目指す技術的な代替手段が注目されている。",
           "source": "自動車・EV大手",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HRVJIVnBWS1l1M1I5MlRkWVlGa0wzQW9ZWjRTOGtVZTM2bndDU3hTVDJFbVJPZFp2SGs4VW5VV3BTZnhFTTNwbnNiX1RSY3NlVU0tMHZDbVc4ZE9CbmJWR1JXaExuTURhOGQzZ0VDanZ3TDFiaVlyLVRR?oc=5",
-          "added_at": "2026-09-16 03:02:36"
+          "added_at": "2026-09-16 09:18:24"
+        },
+        {
+          "uid": "84555542571f",
+          "date": "2026-09-15",
+          "title": "Live updates: Blanche insists Trump will follow ballot ruling; Kennedy Center loses bid to add Trump’s name",
+          "summary": "申し訳ございませんが、提供いただいた記事の内容は米国の選挙制度や司法手続き、ケネディセンターに関するもので、「中国レアアース輸出管理」とは関連がないため、要約することができません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/state-watch/6089511-live-updates-trump-blanche-kash-patel-senate/",
+          "added_at": "2026-09-16 09:18:24"
         },
         {
           "uid": "2d00ef97cb11",
@@ -6021,16 +6031,6 @@
           "source_type": "media",
           "url": "https://thehill.com/policy/international/6054943-chinese-foreign-minister-wang-yi-us-relations-trump-xi-summit/",
           "added_at": "2026-08-28 01:13:45"
-        },
-        {
-          "uid": "e40fe2dcf2b5",
-          "date": "2026-08-27",
-          "title": "Trump’s ‘unique’ diplomacy gives hope to families detained in China",
-          "summary": "この記事はトランプ大統領の外交姿勢に関するものであり、中国レアアース輸出管理とは直接的な関連がありません。提供いただいたテキストは不完全であるため、要約作成が困難です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6053411-trump-jin-release-china/",
-          "added_at": "2026-08-28 01:13:45"
         }
       ]
     },
@@ -6041,47 +6041,37 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-16 03:02:55",
+      "last_checked": "2026-09-16 09:18:48",
       "items": [
         {
-          "uid": "1723b4d342be",
-          "date": "2026-07-30",
-          "title": "Ford turns to China's Geely to rescue Spanish plant - Carsales",
-          "summary": "フォードがスペイン工場の存続をめぐり中国の浙江吉利控股集団との提携を検討していることが、欧米での中国資本による自動車産業への影響拡大に対する政治的な懸念を招いている。西側自動車メーカーが経営難の解決策として中国企業との提携を進めることは、産業空洞化やサプライチェーン依存といった国家安全保障上の問題として批判されている。",
-          "source": "下院中国特別委員会委員長",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdW9pWi1kcnUtMGJpUmhKZ1ZVeDlwanZWUmhqWVdSd2kwRlFjbkM1d1VTZXBHWUJsUzByZVNvZWwyNm1DS1lQaVBCc3E0SGNtOFI0a2JRMnNCbTl5S194eFkzWG1TZEZDcjA1WV9JbS1jN0ZTUXhIRUNwaG9oS1oxLWtNbUtHdXZEd1c2QTg1UjVtc1NobElMRzF0VDJlMVpqZnhfRklGOA?oc=5",
-          "added_at": "2026-09-16 03:02:48"
-        },
-        {
-          "uid": "c41f237fdbaf",
-          "date": "2026-09-14",
-          "title": "Waymo to bring autonomous ride-hailing to Las Vegas - Reuters",
-          "summary": "この記事はWaymoの自動運転ライドシェアサービスのラスベガス展開に関するもので、「自動車メーカーの対中提携への政治的批判」という指定の文脈には直接該当する内容ではありません。",
+          "uid": "6b57565f27e3",
+          "date": "2026-09-11",
+          "title": "Mexico, Washington sprint toward bilateral trade deal before US elections - Reuters",
+          "summary": "メキシコとアメリカは11月の米大統領選挙前に二国間貿易協定の締結を急いでおり、これは保護主義的な米国政策の高まりに対応した動きであるが、自動車産業を含む重要産業での中国資本排除が交渉の中心となっている。",
           "source": "Reuters",
           "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUFPcmpkS0pfaEQ5Vlg2Qzd1eHIxMzlaV0FWVXlZVFMxWGozYTFUNmRhLUNIVklrLWtPRVFDZlNMdkJZVXU0OXhJTVlZZkFaTGRHUEV6OEd4enM4RS1uSnRwbXBkMldLLXBsaVBORUpWU0tPSldQdDBuZ1FqMm1oRXdTdnJINDRSUF9mVnN3QnViM29FNFVuMVZEY1FobTlCTTZwa2pwVkxSN05HejJ5cg?oc=5",
-          "added_at": "2026-09-16 03:02:48"
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeDdUSXMwLWNhY0JhRXAtUjVJamcyeFhTckRjbWNfelI0ajc1THAweTBRbW9faGR3cHVTeGI5RnNnbDhDSjZ3YzFQMEtzZnZaaGlBU1Y1UGFXSHE4NGwtRkFwV1VMWDlQSkpRakVHVlNVcU9qRHp6bm5JeDF2VlliM0VOeFNsaEwzX3FEWTMtUnM5d2lEUVRUdjZETzY1YXloWi1sbEt1dGRSTzNYM1VkaUtpcTZCcTZmNDFhYjd2bjdtQTNSeVlJMkZJR1A2Mm82WTVoNg?oc=5",
+          "added_at": "2026-09-16 09:18:42"
         },
         {
-          "uid": "885efb407b28",
+          "uid": "25613890ab75",
           "date": "2026-09-15",
-          "title": "Watch live: House Democrats speak amid AI, affordability battle",
-          "summary": "申し訳ございませんが、提供いただいた記事は「自動車メーカーの対中提携への政治的批判」とは関連がなく、むしろ民主党がトランプ政権に対してAI規制を求めている内容です。そのため、要求されたテーマでの要約は不可能です。",
+          "title": "Air Force Secretary confirms US deployed weapons in space",
+          "summary": "この記事は自動車メーカーの対中提携に関する内容ではなく、米空軍が宇宙に兵器を配備したことについての報道であるため、要約対象外です。",
           "source": "The Hill",
           "source_type": "media",
-          "url": "https://thehill.com/video-clips/6089902-watch-live-house-democrats-press-conference-ai-fears-midterms-affordability/",
-          "added_at": "2026-09-16 03:02:48"
+          "url": "https://thehill.com/homenews/6091851-air-force-secretary-weapons-space-newsletter/",
+          "added_at": "2026-09-16 09:18:42"
         },
         {
-          "uid": "c8c7760ea54b",
+          "uid": "84555542571f",
           "date": "2026-09-15",
-          "title": "Watch: Bessent faces House questions on economy",
-          "summary": "申し訳ございませんが、提供いただいた記事の内容は「自動車メーカーの対中提携への政治的批判」と関連がなく、米国の財務状況とトランプ政権の経済政策についての記事です。そのため、指定された文脈での要約は不可能です。",
+          "title": "Live updates: Blanche insists Trump will follow ballot ruling; Kennedy Center loses bid to add Trump’s name",
+          "summary": "申し訳ありませんが、提供いただいた記事の内容は、米国の選挙制度、最高裁判決、ケネディセンター、そして一般的なAIと中国に関する言及を含んでいますが、「自動車メーカーの対中提携への政治的批判」という文脈に直接関連する具体的な情報を含んでいません。そのため、要求された文脈での要約は作成できません。",
           "source": "The Hill",
           "source_type": "media",
-          "url": "https://thehill.com/video-clips/6089787-watch-live-scott-bessent-us-economy-house-financial-services-committee-hearing/",
-          "added_at": "2026-09-16 03:02:48"
+          "url": "https://thehill.com/homenews/state-watch/6089511-live-updates-trump-blanche-kash-patel-senate/",
+          "added_at": "2026-09-16 09:18:42"
         },
         {
           "uid": "f2b5340acc1e",
