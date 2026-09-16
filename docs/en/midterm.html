@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>US Midterms | World News</title>
   <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js">/* KEY DEVELOPMENTS
-   - Democrats are favored to gain control of the House with approximately 50 competitive races, needing only 3 seats to flip the chamber.
-   - Senate control remains highly competitive with six toss-up races and Democrats leading in nine of twelve competitive Senate races according to Nate Silver's forecast.
-   - Trump's midterm convention in Dallas struggled to attract major candidates, with many GOP powerhouses opting out despite the president's central role in the campaign.
-   - Data center development has emerged as a significant campaign issue across multiple battleground races, with Republican candidates distancing themselves from Trump's support for data centers.
-   - Texas has emerged as a major battleground in the midterms, with Democrat James Talarico leading Republican Ken Paxton in the Senate race according to recent polling.
+   - Democrats are favored to gain control of the House, needing only 3 seats with approximately 50 competitive races remaining.
+   - Nate Silver's forecast shows Democrats ahead in 9 of 12 competitive Senate races, including North Carolina, Georgia, and Minnesota.
+   - Trump's unpopular policies and sinking approval ratings are energizing Democratic activism, though a blue wave may be more modest than 2018.
+   - Economic headwinds including high gas prices, record diesel costs, and inflation are creating challenges for Republican candidates despite Trump's central role in campaigning.
+   - Republicans held their first-ever midterm convention in Dallas, though attendance from key candidates was lower than expected.
 */
 </script>
   <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
@@ -135,9 +135,9 @@
 
 <header class="site-header">
   <div class="logo" onclick="location.href='index.html'">World<em>News</em></div>
-  <div class="header-date">Tuesday</div>
+  <div class="header-date">Wednesday</div>
   <div class="header-spacer"></div>
-  <div class="update-time">Updated: 2026-09-15 JST</div>
+  <div class="update-time">Updated: 2026-09-16 JST</div>
   <div class="lang-toggle">
     <a href="../jp/midterm.html">JP</a>
     <a href="midterm.html" class="active">EN</a>
@@ -241,7 +241,7 @@
 </div>
 
 <footer class="site-footer">
-  Data: Cook Political Report / 270toWin &nbsp;|&nbsp; Updated: 2026-09-15
+  Data: Cook Political Report / 270toWin &nbsp;|&nbsp; Updated: 2026-09-16
 </footer>
 
 <script>
@@ -342,12 +342,11 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
-    { state: "TX", incumbent: "Ken Paxton (R)", party: "R", rating: "toss", label: "Texas Senate" },
-    { state: "NC", incumbent: "", party: "R", rating: "lean-d", label: "North Carolina Senate" },
-    { state: "GA", incumbent: "", party: "R", rating: "lean-d", label: "Georgia Senate" },
-    { state: "MN", incumbent: "", party: "D", rating: "lean-d", label: "Minnesota Senate" },
-    { state: "NH", incumbent: "", party: "R", rating: "toss", label: "New Hampshire Senate" },
-    { state: "MI", incumbent: "", party: "D", rating: "lean-d", label: "Michigan Senate" },
+    { state: "TX", incumbent: "Ken Paxton (R)", party: "R", rating: "lean-r", label: "TX-Sen: Paxton vs. Talarico" },
+    { state: "NH", incumbent: "Jeanne Shaheen (D-Retiring)", party: "D", rating: "toss", label: "NH-Sen: Pappas vs. Sununu" },
+    { state: "NC", incumbent: "", party: "D", rating: "lean-d", label: "NC-Sen" },
+    { state: "GA", incumbent: "", party: "D", rating: "lean-d", label: "GA-Sen" },
+    { state: "MN", incumbent: "", party: "D", rating: "lean-d", label: "MN-Sen" },
   ],
   house: [
     { state:'NY-3', incumbent:'(Open)', party:'D', rating:'toss', label:'Toss-up' },
@@ -379,8 +378,8 @@ const seatCounts = {
 
 // 2026 predictions (rough)
 const predictions = {
-  senate:   { r:48, d:50, toss:2, total:100 },
-  house:    { r:215, d:220, toss:0, total:435 },
+  senate:   { r:47, d:51, toss:2, total:100 },
+  house:    { r:212, d:221, toss:2, total:435 },
   governor: { r:22, d:14, toss:0, total:50 },
 };
 
@@ -4285,26 +4284,20 @@ function drawRaces() {
 }
 
 /* =====================================================
-   UPCOMING SCHEDULE (next 8 weeks from 2026-09-15 → 2026-11-10)
+   UPCOMING SCHEDULE (next 8 weeks from 2026-09-16 → 2026-11-11)
    ===================================================== */
 const upcomingSchedules = {
   senate: [
-    { date: "Sep 15", state: "New York (NY)", event: "Primary Election" },
-    { date: "Sep 15", state: "Maine (ME)", event: "Primary Election" },
     { date: "Sep 22", state: "North Dakota (ND)", event: "Primary Election" },
     { date: "Sep 29", state: "Louisiana (LA)", event: "Jungle Primary" },
     { date: "Nov 03", state: "All States (ALL)", event: "2026 Midterm General Election" },
   ],
   house: [
-    { date: "Sep 15", state: "New York (NY)", event: "Primary Election" },
-    { date: "Sep 15", state: "Maine (ME)", event: "Primary Election" },
     { date: "Sep 22", state: "North Dakota (ND)", event: "Primary Election" },
     { date: "Sep 29", state: "Louisiana (LA)", event: "Jungle Primary" },
     { date: "Nov 03", state: "All States (ALL)", event: "2026 Midterm General Election" },
   ],
   governor: [
-    { date: "Sep 15", state: "New York (NY)", event: "Primary Election" },
-    { date: "Sep 15", state: "Maine (ME)", event: "Primary Election" },
     { date: "Sep 22", state: "North Dakota (ND)", event: "Primary Election" },
     { date: "Sep 29", state: "Louisiana (LA)", event: "Jungle Primary" },
     { date: "Nov 03", state: "All States (ALL)", event: "2026 Midterm General Election" },

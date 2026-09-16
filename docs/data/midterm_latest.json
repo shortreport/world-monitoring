@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-15T14:11:09.068605+09:00",
-  "article_count": 39,
+  "generated_at": "2026-09-16T09:51:48.328414+09:00",
+  "article_count": 40,
   "projections": {
     "senate": {
-      "r": 48,
-      "d": 50,
+      "r": 47,
+      "d": 51,
       "tossup": 2
     },
     "house": {
-      "r": 215,
-      "d": 220,
-      "tossup": 0
+      "r": 212,
+      "d": 221,
+      "tossup": 2
     },
     "governor": {
       "r": 22,
@@ -19,11 +19,11 @@
     }
   },
   "key_developments": [
-    "Democrats are favored to gain control of the House with approximately 50 competitive races, needing only 3 seats to flip the chamber.",
-    "Senate control remains highly competitive with six toss-up races and Democrats leading in nine of twelve competitive Senate races according to Nate Silver's forecast.",
-    "Trump's midterm convention in Dallas struggled to attract major candidates, with many GOP powerhouses opting out despite the president's central role in the campaign.",
-    "Data center development has emerged as a significant campaign issue across multiple battleground races, with Republican candidates distancing themselves from Trump's support for data centers.",
-    "Texas has emerged as a major battleground in the midterms, with Democrat James Talarico leading Republican Ken Paxton in the Senate race according to recent polling."
+    "Democrats are favored to gain control of the House, needing only 3 seats with approximately 50 competitive races remaining.",
+    "Nate Silver's forecast shows Democrats ahead in 9 of 12 competitive Senate races, including North Carolina, Georgia, and Minnesota.",
+    "Trump's unpopular policies and sinking approval ratings are energizing Democratic activism, though a blue wave may be more modest than 2018.",
+    "Economic headwinds including high gas prices, record diesel costs, and inflation are creating challenges for Republican candidates despite Trump's central role in campaigning.",
+    "Republicans held their first-ever midterm convention in Dallas, though attendance from key candidates was lower than expected."
   ],
   "key_races": {
     "senate": [
@@ -31,67 +31,51 @@
         "state": "TX",
         "incumbent": "Ken Paxton (R)",
         "party": "R",
-        "rating": "toss",
-        "label": "Texas Senate",
-        "note": "Democrat James Talarico led by 4 points in AARP poll; major spending influx from Republican groups."
+        "rating": "lean-r",
+        "label": "TX-Sen: Paxton vs. Talarico",
+        "note": "Democrat James Talarico leads by 4 points in AARP/Trump pollster survey, forcing Republicans to pour tens of millions into defense."
+      },
+      {
+        "state": "NH",
+        "incumbent": "Jeanne Shaheen (D-Retiring)",
+        "party": "D",
+        "rating": "tossup",
+        "label": "NH-Sen: Pappas vs. Sununu",
+        "note": "Race shifted to tossup per Cook Political Report; Rep. Chris Pappas (D) facing former Sen. John Sununu (R) in open seat."
       },
       {
         "state": "NC",
         "incumbent": "",
-        "party": "R",
+        "party": "D",
         "rating": "lean-d",
-        "label": "North Carolina Senate",
-        "note": "Democrats leading in Nate Silver's forecast of competitive races."
+        "label": "NC-Sen",
+        "note": "Democrats ahead in Nate Silver forecast for this competitive seat."
       },
       {
         "state": "GA",
         "incumbent": "",
-        "party": "R",
+        "party": "D",
         "rating": "lean-d",
-        "label": "Georgia Senate",
-        "note": "Democrats leading in Nate Silver's forecast of competitive races."
+        "label": "GA-Sen",
+        "note": "Democrats ahead in Nate Silver forecast for this highly competitive race."
       },
       {
         "state": "MN",
         "incumbent": "",
         "party": "D",
         "rating": "lean-d",
-        "label": "Minnesota Senate",
-        "note": "Democrats leading in Nate Silver's forecast of competitive races."
-      },
-      {
-        "state": "NH",
-        "incumbent": "",
-        "party": "R",
-        "rating": "toss",
-        "label": "New Hampshire Senate",
-        "note": "Open seat with Democratic Rep. Chris Pappas trailing Republican John Sununu in polling; must-win for Democrats."
-      },
-      {
-        "state": "MI",
-        "incumbent": "",
-        "party": "D",
-        "rating": "lean-d",
-        "label": "Michigan Senate",
-        "note": "Democrat Abdul El-Sayed featured prominently in recent media coverage."
+        "label": "MN-Sen",
+        "note": "Democrats ahead in Nate Silver forecast in this swing state contest."
       }
     ],
     "house": [
       {
-        "state": "PA-COMP",
-        "incumbent": "",
+        "state": "PA-08",
+        "incumbent": "Unknown",
         "party": "R",
-        "rating": "toss",
-        "label": "Pennsylvania Competitive District",
-        "note": "Democrat Paige Cognetti invoking economic concerns and AI issues against incumbent."
-      },
-      {
-        "state": "WI-COMP",
-        "incumbent": "",
-        "party": "R",
-        "rating": "lean-r",
-        "label": "Wisconsin Competitive District",
-        "note": "Businesses endorsed rejection of democratic socialist candidate in primary; moderate Democrat now nominee."
+        "rating": "lean-d",
+        "label": "PA-08: Cognetti vs. Incumbent",
+        "note": "Democrat Paige Cognetti invoking economic messaging about corporate impact in one of Pennsylvania's most competitive districts."
       }
     ],
     "governor": [
@@ -100,23 +84,13 @@
         "incumbent": "Gretchen Whitmer (D)",
         "party": "D",
         "rating": "likely-d",
-        "label": "Michigan Governor",
-        "note": "Democratic Secretary of State Jocelyn Benson is nominee in competitive race."
+        "label": "MI-Gov: Benson",
+        "note": "Michigan Secretary of State Jocelyn Benson, Democratic nominee, featured prominently in midterm coverage."
       }
     ]
   },
   "upcoming_schedule": {
     "senate": [
-      {
-        "date": "Sep 15",
-        "state": "New York (NY)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 15",
-        "state": "Maine (ME)",
-        "event": "Primary Election"
-      },
       {
         "date": "Sep 22",
         "state": "North Dakota (ND)",
@@ -135,16 +109,6 @@
     ],
     "house": [
       {
-        "date": "Sep 15",
-        "state": "New York (NY)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 15",
-        "state": "Maine (ME)",
-        "event": "Primary Election"
-      },
-      {
         "date": "Sep 22",
         "state": "North Dakota (ND)",
         "event": "Primary Election"
@@ -161,16 +125,6 @@
       }
     ],
     "governor": [
-      {
-        "date": "Sep 15",
-        "state": "New York (NY)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 15",
-        "state": "Maine (ME)",
-        "event": "Primary Election"
-      },
       {
         "date": "Sep 22",
         "state": "North Dakota (ND)",
