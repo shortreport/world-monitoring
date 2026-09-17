@@ -1,308 +1,69 @@
 {
-  "generated_at": "2026-09-15 13:56 JST",
-  "sender_count": 5,
-  "total_mails": 37,
+  "generated_at": "2026-09-17 13:55 JST",
+  "sender_count": 1,
+  "total_mails": 8,
   "summaries": [
-    {
-      "sender": "EG",
-      "short": "EG",
-      "color": "CYAN",
-      "count": 16,
-      "bullets": [
-        "台湾の2026年11月地方選挙と2028年大統領選挙への影響、北京の機会についての分析・討論の開催",
-        "フーシ派とサウジアラビアの対立激化により、北海ブレント原油価格が1バレル100ドル超に上昇するリスク",
-        "米国による中国迂回輸出の取り締まり強化に伴い、メキシコとベトナムが最初の標的となる可能性",
-        "ロシアのハイブリッド戦争活動がNATO諸国に対してエスカレートするも、全面戦争の可能性は低い見通し",
-        "ウクライナ戦争に対する米国政策が欧州同盟国やキーウの政策と足並みをそろえ、米欧関係が回復傾向"
-      ],
-      "subjects": [
-        [
-          "2026-09-14",
-          "Taiwan elections and risk outlook",
-          "data/pdfs/20260914_1136_Taiwan_elections_and_risk_outlook_台湾統一地方選挙およびリスクの見.pdf"
-        ],
-        [
-          "2026-09-14",
-          "Taiwan elections and risk outlook",
-          "data/pdfs/20260914_1138_Taiwan_elections_and_risk_outlook.pdf"
-        ],
-        [
-          "2026-09-14",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20260914_1420_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-09-14",
-          "Hot war unlikely as Russia escalates hybrid activity",
-          "data/pdfs/20260914_1909_Hot_war_unlikely_as_Russia_escalates_hybrid_activi.pdf"
-        ],
-        [
-          "2026-09-14",
-          "Russia likely to escalate hybrid warfare against NATO countries",
-          "data/pdfs/20260914_2150_Russia_likely_to_escalate_hybrid_warfare_against_N.pdf"
-        ],
-        [
-          "2026-09-14",
-          "Indonesia: New finance head to bring continuity",
-          "data/pdfs/20260914_2237_Indonesia__New_finance_head_to_bring_continuity.pdf"
-        ],
-        [
-          "2026-09-15",
-          "Trump will be major obstacle to an AI slowdown",
-          "data/pdfs/20260915_0022_Trump_will_be_major_obstacle_to_an_AI_slowdown.pdf"
-        ],
-        [
-          "2026-09-15",
-          "France: Le Pen’s Bardella rift may dent her credibility",
-          "data/pdfs/20260915_0029_France__Le_Pen’s_Bardella_rift_may_dent_her_credib.pdf"
-        ],
-        [
-          "2026-09-15",
-          "Middle East’s deepening crisis will keep crude prices above $100",
-          "data/pdfs/20260915_0334_Middle_East’s_deepening_crisis_will_keep_crude_pri.pdf"
-        ],
-        [
-          "2026-09-15",
-          "Yen and Treasuries markets turmoil, the Global Geoeconomic",
-          "data/pdfs/20260915_0334_Yen_and_Treasuries_markets_turmoil,_the_Global_Geo.pdf"
-        ],
-        [
-          "2026-09-15",
-          "Yen and Treasuries markets turmoil, the Global Geoeconomic",
-          "data/pdfs/20260915_0338_Yen_and_Treasuries_markets_turmoil,_the_Global_Geo.pdf"
-        ],
-        [
-          "2026-09-15",
-          "Taiwan elections and risk outlook",
-          "data/pdfs/20260915_1001_Taiwan_elections_and_risk_outlook_台湾統一地方選挙およびリスクの見.pdf"
-        ],
-        [
-          "2026-09-15",
-          "Taiwan elections and risk outlook - EG Conference Call, REMINDER",
-          "data/pdfs/20260915_1002_Taiwan_elections_and_risk_outlook_-_EG_Conference_.pdf"
-        ],
-        [
-          "2026-09-15",
-          "Yen and Treasuries markets turmoil, the Global Geoeconomic",
-          "data/pdfs/20260915_1101_Yen_and_Treasuries_markets_turmoil,_the_Global_Geo.pdf"
-        ],
-        [
-          "2026-09-15",
-          "Yen and Treasuries markets turmoil, the Global Geoeconomic",
-          "data/pdfs/20260915_1102_Yen_and_Treasuries_markets_turmoil,_the_Global_Geo.pdf"
-        ],
-        [
-          "2026-09-15",
-          "BRICS summit sets stage for China’s digital push",
-          "data/pdfs/20260915_1331_BRICS_summit_sets_stage_for_China’s_digital_push.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260914_1136_Taiwan_elections_and_risk_outlook_台湾統一地方選挙およびリスクの見.pdf",
-        "data/pdfs/20260914_1138_Taiwan_elections_and_risk_outlook.pdf",
-        "data/pdfs/20260914_1420_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20260914_1909_Hot_war_unlikely_as_Russia_escalates_hybrid_activi.pdf",
-        "data/pdfs/20260914_2150_Russia_likely_to_escalate_hybrid_warfare_against_N.pdf",
-        "data/pdfs/20260914_2237_Indonesia__New_finance_head_to_bring_continuity.pdf",
-        "data/pdfs/20260915_0022_Trump_will_be_major_obstacle_to_an_AI_slowdown.pdf",
-        "data/pdfs/20260915_0029_France__Le_Pen’s_Bardella_rift_may_dent_her_credib.pdf",
-        "data/pdfs/20260915_0334_Middle_East’s_deepening_crisis_will_keep_crude_pri.pdf",
-        "data/pdfs/20260915_0334_Yen_and_Treasuries_markets_turmoil,_the_Global_Geo.pdf",
-        "data/pdfs/20260915_0338_Yen_and_Treasuries_markets_turmoil,_the_Global_Geo.pdf",
-        "data/pdfs/20260915_1001_Taiwan_elections_and_risk_outlook_台湾統一地方選挙およびリスクの見.pdf",
-        "data/pdfs/20260915_1002_Taiwan_elections_and_risk_outlook_-_EG_Conference_.pdf",
-        "data/pdfs/20260915_1101_Yen_and_Treasuries_markets_turmoil,_the_Global_Geo.pdf",
-        "data/pdfs/20260915_1102_Yen_and_Treasuries_markets_turmoil,_the_Global_Geo.pdf",
-        "data/pdfs/20260915_1331_BRICS_summit_sets_stage_for_China’s_digital_push.pdf"
-      ]
-    },
-    {
-      "sender": "Eurasia",
-      "short": "EURAS",
-      "color": "YEL",
-      "count": 1,
-      "bullets": [
-        "中東情勢の悪化とサウジアラビア東西パイプラインへのドローン攻撃により、原油価格が100ドルを超える水準で推移",
-        "中東地域の対立構図が継続することで、石油価格の高止まり"
-      ],
-      "subjects": [
-        [
-          "2026-09-15",
-          "Daily Research Summary - Sep 14th, 2026",
-          "data/pdfs/20260915_0834_Daily_Research_Summary_-_Sep_14th,_2026.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260915_0834_Daily_Research_Summary_-_Sep_14th,_2026.pdf"
-      ]
-    },
-    {
-      "sender": "Ian",
-      "short": "IAN",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "世界の二大紛争（米国・イラン、ロシア・ウクライナ）は解決の見通しが立たない状況",
-        "米国・イラン紛争の方がより深刻な懸念材料である可能性",
-        "米国と中国の関係における今後の課題",
-        "人工知能（AGI）とドイツのファイアウォール廃止に関する重要な動き"
-      ],
-      "subjects": [
-        [
-          "2026-09-14",
-          "eg update",
-          "data/pdfs/20260914_2053_eg_update.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260914_2053_eg_update.pdf"
-      ]
-    },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "ORG",
-      "count": 18,
+      "color": "CYAN",
+      "count": 8,
       "bullets": [
-        "ブリュッセルでのウルスラ・フォン・デア・ライエン欧州委員会委員長による国家演説に向けて、複数の部門から政策案が集約中",
-        "トランプ大統領の通商戦争によってカナダがアメリカ以外との同盟を模索する中、EUが重要鉱物やデジタル取引などを通じたカナダとの経済・安全保障面での関係強化を推進",
-        "スウェーデン総選挙でマグダレーナ・アンデション社会民主党党首の左翼連合とウルフ・クリステルソン首相の右翼同盟が接戦中",
-        "北極圏の戦略的重要性の向上とともに、同地域での海運ルート変化に対応"
+        "カナダをEUの「準加盟国」として初めて認める提案をフォン・デア・ライエン欧州委員会委員長が表明。ただし加盟国は事前通知なく驚き、貿易面での懸念も浮上",
+        "トランプ政権、AI、気候変動など複合的な脅威に対抗するため、ヨーロッパの権力と経済的地位強化を目指す複数の提案を国家の一般教書演説で提示",
+        "ウクライナ支援とロシア制裁について、フランスがロシア富豪アリシェル・ウスマノフの制裁解除を主張し、EU内で意見対立"
       ],
       "subjects": [
         [
-          "2026-09-14",
-          "How to write a State of the Union speech",
-          "data/pdfs/20260914_0100_How_to_write_a_State_of_the_Union_speech.pdf"
+          "2026-09-16",
+          "Ursula von der Leyen invites Canada to be first ‘associate member’",
+          "data/pdfs/20260916_1707_Ursula_von_der_Leyen_invites_Canada_to_be_first_‘a.pdf"
         ],
         [
-          "2026-09-14",
-          "The ideas shaping von der Leyen’s pitch to Carney",
-          "data/pdfs/20260914_0143_The_ideas_shaping_von_der_Leyen’s_pitch_to_Carney.pdf"
+          "2026-09-16",
+          "Von der Leyen tries to stem tide on global threats ― from Trump",
+          "data/pdfs/20260916_1757_Von_der_Leyen_tries_to_stem_tide_on_global_threats.pdf"
         ],
         [
-          "2026-09-14",
-          "Sweden exit poll: Left on course for election win in blow to far right",
-          "data/pdfs/20260914_0330_Sweden_exit_poll__Left_on_course_for_election_win_.pdf"
+          "2026-09-16",
+          "EU capitals caught off guard as von der Leyen announces",
+          "data/pdfs/20260916_1931_EU_capitals_caught_off_guard_as_von_der_Leyen_anno.pdf"
         ],
         [
-          "2026-09-14",
-          "Sweden election forecast says vote too close to call",
-          "data/pdfs/20260914_0534_Sweden_election_forecast_says_vote_too_close_to_ca.pdf"
+          "2026-09-16",
+          "12 takeaways from von der Leyen’s State of the Union",
+          "data/pdfs/20260916_2020_12_takeaways_from_von_der_Leyen’s_State_of_the_Uni.pdf"
         ],
         [
-          "2026-09-14",
-          "The EU’s new migration pitch",
-          "data/pdfs/20260914_1352_The_EU’s_new_migration_pitch.pdf"
+          "2026-09-16",
+          "EU demands answers as France pushes for billionaire’s Russia",
+          "data/pdfs/20260916_2105_EU_demands_answers_as_France_pushes_for_billionair.pdf"
         ],
         [
-          "2026-09-14",
-          "The Arctic is changing shipping",
-          "data/pdfs/20260914_1402_The_Arctic_is_changing_shipping.pdf"
-        ],
-        [
-          "2026-09-14",
-          "Inside Germany’s €3.4B Tomahawk missile plan",
-          "data/pdfs/20260914_1740_Inside_Germany’s_€3.4B_Tomahawk_missile_plan.pdf"
-        ],
-        [
-          "2026-09-14",
-          "7 things Ursula von der Leyen will say in her State of the Union",
-          "data/pdfs/20260914_1917_7_things_Ursula_von_der_Leyen_will_say_in_her_Stat.pdf"
-        ],
-        [
-          "2026-09-14",
-          "EU and Chinese trade chiefs to hold videoconference Thursday",
-          "data/pdfs/20260914_2105_EU_and_Chinese_trade_chiefs_to_hold_videoconferenc.pdf"
-        ],
-        [
-          "2026-09-14",
-          "Germany explores pharma proposal with team Trump as tariff",
-          "data/pdfs/20260914_2105_Germany_explores_pharma_proposal_with_team_Trump_a.pdf"
-        ],
-        [
-          "2026-09-14",
-          "Von der Leyen to skip Carney speech in EU Parliament",
-          "data/pdfs/20260914_2137_Von_der_Leyen_to_skip_Carney_speech_in_EU_Parliame.pdf"
-        ],
-        [
-          "2026-09-14",
-          "EU leaders back stronger Arctic role as ‘low tension’ era ends",
-          "data/pdfs/20260914_2242_EU_leaders_back_stronger_Arctic_role_as_‘low_tensi.pdf"
-        ],
-        [
-          "2026-09-14",
-          "Eurocrat salaries face cuts in next long-term budget",
-          "data/pdfs/20260914_2243_Eurocrat_salaries_face_cuts_in_next_long-term_budg.pdf"
-        ],
-        [
-          "2026-09-14",
-          "EU to limit access to social media before age of 15",
-          "data/pdfs/20260914_2246_EU_to_limit_access_to_social_media_before_age_of_1.pdf"
-        ],
-        [
-          "2026-09-14",
-          "‘SICK conspiracy going on against AI’: Trump bids to shut down",
-          "data/pdfs/20260914_2335_‘SICK_conspiracy_going_on_against_AI’__Trump_bids_.pdf"
-        ],
-        [
-          "2026-09-15",
+          "2026-09-17",
           "Pro Daily Headlines",
-          "data/pdfs/20260915_0031_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20260917_0031_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-09-15",
-          "Von der Leyen’s warring EU Parliament allies want her to pick a",
-          "data/pdfs/20260915_0328_Von_der_Leyen’s_warring_EU_Parliament_allies_want_.pdf"
+          "2026-09-17",
+          "Von der Leyen fleshes out Carney’s vision to paint Europe as leader",
+          "data/pdfs/20260917_0215_Von_der_Leyen_fleshes_out_Carney’s_vision_to_paint.pdf"
         ],
         [
-          "2026-09-15",
-          "‘A tightrope walk on a volcano’",
-          "data/pdfs/20260915_1349_‘A_tightrope_walk_on_a_volcano’.pdf"
+          "2026-09-17",
+          "Von der Leyen blindsides EU with Canada ‘associate member’ pitch",
+          "data/pdfs/20260917_0234_Von_der_Leyen_blindsides_EU_with_Canada_‘associate.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260914_0100_How_to_write_a_State_of_the_Union_speech.pdf",
-        "data/pdfs/20260914_0143_The_ideas_shaping_von_der_Leyen’s_pitch_to_Carney.pdf",
-        "data/pdfs/20260914_0330_Sweden_exit_poll__Left_on_course_for_election_win_.pdf",
-        "data/pdfs/20260914_0534_Sweden_election_forecast_says_vote_too_close_to_ca.pdf",
-        "data/pdfs/20260914_1352_The_EU’s_new_migration_pitch.pdf",
-        "data/pdfs/20260914_1402_The_Arctic_is_changing_shipping.pdf",
-        "data/pdfs/20260914_1740_Inside_Germany’s_€3.4B_Tomahawk_missile_plan.pdf",
-        "data/pdfs/20260914_1917_7_things_Ursula_von_der_Leyen_will_say_in_her_Stat.pdf",
-        "data/pdfs/20260914_2105_EU_and_Chinese_trade_chiefs_to_hold_videoconferenc.pdf",
-        "data/pdfs/20260914_2105_Germany_explores_pharma_proposal_with_team_Trump_a.pdf",
-        "data/pdfs/20260914_2137_Von_der_Leyen_to_skip_Carney_speech_in_EU_Parliame.pdf",
-        "data/pdfs/20260914_2242_EU_leaders_back_stronger_Arctic_role_as_‘low_tensi.pdf",
-        "data/pdfs/20260914_2243_Eurocrat_salaries_face_cuts_in_next_long-term_budg.pdf",
-        "data/pdfs/20260914_2246_EU_to_limit_access_to_social_media_before_age_of_1.pdf",
-        "data/pdfs/20260914_2335_‘SICK_conspiracy_going_on_against_AI’__Trump_bids_.pdf",
-        "data/pdfs/20260915_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260915_0328_Von_der_Leyen’s_warring_EU_Parliament_allies_want_.pdf",
-        "data/pdfs/20260915_1349_‘A_tightrope_walk_on_a_volcano’.pdf"
-      ]
-    },
-    {
-      "sender": "ビジネス短信",
-      "short": "ビジネス短",
-      "color": "GRN",
-      "count": 1,
-      "bullets": [
-        "広州国際美博会に3,800超の企業が出展",
-        "山東省がグリーン電力直接供給の対象を拡大",
-        "韓国で「START-UP KOREA INVESTMENT WEEK」開催、スタートアップの商談機会創出",
-        "マレーシアのアンワル首相が電子インボイス免除対象拡大など経済対策を発表",
-        "ホーチミン市が建国記念日に合わせ複数の大型事業を一斉着工、タミル・ナドゥ州がインド新空港建設用地の代替候補を選定"
-      ],
-      "subjects": [
-        [
-          "2026-09-14",
-          "「ジェトロ・ビジネス短信」2026/09/14",
-          "data/pdfs/20260914_1806_「ジェトロ・ビジネス短信」2026_09_14.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260914_1806_「ジェトロ・ビジネス短信」2026_09_14.pdf"
+        "data/pdfs/20260916_1707_Ursula_von_der_Leyen_invites_Canada_to_be_first_‘a.pdf",
+        "data/pdfs/20260916_1757_Von_der_Leyen_tries_to_stem_tide_on_global_threats.pdf",
+        "data/pdfs/20260916_1931_EU_capitals_caught_off_guard_as_von_der_Leyen_anno.pdf",
+        "data/pdfs/20260916_2020_12_takeaways_from_von_der_Leyen’s_State_of_the_Uni.pdf",
+        "data/pdfs/20260916_2105_EU_demands_answers_as_France_pushes_for_billionair.pdf",
+        "data/pdfs/20260917_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260917_0215_Von_der_Leyen_fleshes_out_Carney’s_vision_to_paint.pdf",
+        "data/pdfs/20260917_0234_Von_der_Leyen_blindsides_EU_with_Canada_‘associate.pdf"
       ]
     }
   ]
