@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-18 17:12 JST",
+  "updated_at": "2026-09-18 17:13 JST",
   "total": 50,
-  "toyota_summary": "China's auto parts imports into the EU hit 5 billion euros in the first half of 2026, up 23 percent year-over-year, marking a significant shift in where European carmakers source components. At the same time, Chinese automakers exported over 1 million vehicles for a third consecutive month, signaling sustained momentum in global market share gains. EU suppliers are losing pricing power and volume to Chinese competitors across batteries, semiconductors, and traditional powertrain parts.\n\nFor European and other global automakers, this creates a two-front squeeze. Rising exposure to Chinese parts raises geopolitical risk around supply chain security and tariff retaliation, while also pressuring margins as Chinese suppliers undercut on price. The faster Chinese makers move upmarket—some now competing in premium segments—the more direct the threat becomes to legacy carmakers' core business.\n\nWatch whether the EU's Industrial Accelerator Act will impose stricter local-content rules or tariffs on Chinese parts.",
+  "toyota_summary": "欧州自動車工業会（ACEA）はEUの産業加速化法（Industrial Accelerator Act）に関して共通の立場をまとめたが、「メイド・イン・ヨーロッパ」規定から英国製車両が除外されることで、英国が自国の自動車輸出の60％をEUに依存している実情に鑑みれば、英仏海峡両岸のサプライチェーンが脅かされる恐れがある。\n\n欧州の部品サプライヤーは中国からの構造的圧力を強めている。中国製部品の輸入は23％急増する一方、EUから中国への輸出は41％減少した。人員削減のペースは鈍化したものの、欧州部品工業会（CLEPA）は、不公正な競争によって中国が欧州の製造基盤を空洞化させつつあると警鐘を鳴らしている。\n\nなお参考として、中国の自動車輸出依存度の高まりと、豊田鉄工によるケンタッキー州への投資についても言及しておく。",
   "emails": [
     {
       "ts": "20260918_1636",
@@ -11,7 +11,12 @@
       "date_label": "SEP 18  16:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Germany and Spain go head-to-head in EU budget fight",
+      "html": "data/pdfs/20260918_1636_Germany_and_Spain_go_head-to-head_in_EU_budget_fig.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_1612",
@@ -21,7 +26,12 @@
       "date_label": "SEP 18  16:12",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Japan Conference Call: 円と米国債市場の混乱、世界の地経学的見通し",
+      "html": "data/pdfs/20260918_1612_Japan_Conference_Call__円と米国債市場の混乱、世界の地経学的見通し.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_1401",
@@ -31,7 +41,12 @@
       "date_label": "SEP 18  14:01",
       "read_min": 12,
       "toyota": true,
-      "excerpt": "EUの自動車業界団体AECAが産業加速化法（IAA）に関する統一見解に到達したが、「Made in"
+      "excerpt": "EUの自動車業界団体AECAが産業加速化法（IAA）に関する統一見解に到達したが、「Made in",
+      "subject_en": "EU car lobby reaches position on IAA",
+      "html": "data/pdfs/20260918_1401_EU_car_lobby_reaches_position_on_IAA.html",
+      "summary_en": "Europe's auto industry lobby ACEA has agreed a common position on the EU's Industrial Accelerator Act, which would impose 'Buy European' rules for subsidized vehicles and batteries. However, automakers remain split on which countries should count as 'Made in Europe,' with the UK's exclusion from the scheme worrying manufacturers on both sides of the Channel given it sends 60% of its car exports to the EU.",
+      "summary_ja": "欧州の自動車業界団体ACEAは、補助金付き車両や電池に「バイ・ヨーロピアン」規則を課すEUの産業加速化法（IAA）について統一見解をまとめた。しかし、どの国を「メイド・イン・ヨーロッパ」と認定するかを巡っては自動車メーカー間で依然対立があり、英国が対象から外れていることが英EU双方の企業に懸念を広げている。英国の自動車輸出の約6割がEU向けであるためだ。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_1357",
@@ -41,7 +56,12 @@
       "date_label": "SEP 18  13:57",
       "read_min": 14,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe’s Security Council plan hits a wall of skepticism",
+      "html": "data/pdfs/20260918_1357_Europe’s_Security_Council_plan_hits_a_wall_of_skep.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_1314",
@@ -51,7 +71,12 @@
       "date_label": "SEP 18  13:14",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Japan Conference Call: 台湾の選挙とリスク見通し",
+      "html": "data/pdfs/20260918_1314_Japan_Conference_Call__台湾の選挙とリスク見通し.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_0801",
@@ -61,7 +86,12 @@
       "date_label": "SEP 18  08:01",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20260918_0801_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_0542",
@@ -71,7 +101,12 @@
       "date_label": "SEP 18  05:42",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Summit likely to deliver limited tariff cuts beyond Busan scope",
+      "html": "data/pdfs/20260918_0542_Summit_likely_to_deliver_limited_tariff_cuts_beyon.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_0448",
@@ -80,8 +115,13 @@
       "pdf": "data/pdfs/20260918_0448_BJP_courts_women_voters_through_common_civil_code.pdf",
       "date_label": "SEP 18  04:48",
       "read_min": 9,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "BJP courts women voters through common civil code",
+      "html": "data/pdfs/20260918_0448_BJP_courts_women_voters_through_common_civil_code.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_0251",
@@ -90,8 +130,13 @@
       "pdf": "data/pdfs/20260918_0251_China_shifts_focus_to_next-generation_cleantech.pdf",
       "date_label": "SEP 18  02:51",
       "read_min": 5,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "China shifts focus to next-generation cleantech",
+      "html": "data/pdfs/20260918_0251_China_shifts_focus_to_next-generation_cleantech.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_0158",
@@ -101,7 +146,12 @@
       "date_label": "SEP 18  01:58",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU summit in October will deliver closer ties",
+      "html": "data/pdfs/20260918_0158_EU_summit_in_October_will_deliver_closer_ties.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_0145",
@@ -110,8 +160,13 @@
       "pdf": "data/pdfs/20260918_0145_CORRECTION__Trump_focuses_on_Fed_board_as_Warsh_su.pdf",
       "date_label": "SEP 18  01:45",
       "read_min": 6,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "CORRECTION: Trump focuses on Fed board as Warsh survives first test",
+      "html": "data/pdfs/20260918_0145_CORRECTION__Trump_focuses_on_Fed_board_as_Warsh_su.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_0100",
@@ -120,8 +175,13 @@
       "pdf": "data/pdfs/20260918_0100_Test_Email.pdf",
       "date_label": "SEP 18  01:00",
       "read_min": 6,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Test Email",
+      "html": "data/pdfs/20260918_0100_Test_Email.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_0031",
@@ -141,7 +201,12 @@
       "date_label": "SEP 18  00:29",
       "read_min": 12,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Energy and Environment Outlook",
+      "html": "data/pdfs/20260918_0029_Energy_and_Environment_Outlook.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_0021",
@@ -151,7 +216,12 @@
       "date_label": "SEP 18  00:21",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Spain: 2027 elections likely to produce right-wing government",
+      "html": "data/pdfs/20260918_0021_Spain__2027_elections_likely_to_produce_right-wing.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_0020",
@@ -161,7 +231,12 @@
       "date_label": "SEP 18  00:20",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Spain: 2027 elections likely to produce right-wing government",
+      "html": "data/pdfs/20260918_0020_Spain__2027_elections_likely_to_produce_right-wing.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260917_2327",
@@ -171,7 +246,12 @@
       "date_label": "SEP 17  23:27",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Russia hunts Ukraine’s trains",
+      "html": "data/pdfs/20260917_2327_Russia_hunts_Ukraine’s_trains.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260917_2325",
@@ -181,7 +261,12 @@
       "date_label": "SEP 17  23:25",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Commission trade chief to travel to China on Oct. 8-9",
+      "html": "data/pdfs/20260917_2325_Commission_trade_chief_to_travel_to_China_on_Oct._.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260917_2317",
@@ -191,7 +276,12 @@
       "date_label": "SEP 17  23:17",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Affordability concerns shape CEE’s energy transition",
+      "html": "data/pdfs/20260917_2317_Affordability_concerns_shape_CEE’s_energy_transiti.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260917_2302",
@@ -201,7 +291,12 @@
       "date_label": "SEP 17  23:02",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "2026 Israeli Election Update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260917_2302_2026_Israeli_Election_Update_-_EG_Conference_Call,.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260917_2202",
@@ -211,7 +306,12 @@
       "date_label": "SEP 17  22:02",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Oil Markets in Crisis: Navigating the Escalating Middle East Disruption - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260917_2202_Oil_Markets_in_Crisis__Navigating_the_Escalating_M.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260917_2138",
@@ -221,7 +321,12 @@
       "date_label": "SEP 17  21:38",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Bessent's tools unlikely to tame yields",
+      "html": "data/pdfs/20260917_2138_Bessent's_tools_unlikely_to_tame_yields.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260917_2031",
@@ -231,7 +336,12 @@
       "date_label": "SEP 17  20:31",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Sweden’s left wins razor-thin election victory ",
+      "html": "data/pdfs/20260917_2031_Sweden’s_left_wins_razor-thin_election_victory.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260917_1956",
@@ -241,7 +351,12 @@
       "date_label": "SEP 17  19:56",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Canada’s Carney stops short of endorsing von der Leyen’s associate member plan",
+      "html": "data/pdfs/20260917_1956_Canada’s_Carney_stops_short_of_endorsing_von_der_L.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260917_1849",
@@ -251,17 +366,27 @@
       "date_label": "SEP 17  18:49",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Canada’s Mark Carney addresses European Parliament — live updates",
+      "html": "data/pdfs/20260917_1849_Canada’s_Mark_Carney_addresses_European_Parliament.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260917_1818",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/09/17",
       "pdf": "data/pdfs/20260917_1818_「ジェトロ・ビジネス短信」2026_09_17.pdf",
       "date_label": "SEP 17  18:18",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中国の自動車輸出が3カ月連続で100万台を超え、深セン・香港・広州がWIPOのイノベーション"
+      "excerpt": "中国の自動車輸出が3カ月連続で100万台を超え、深セン・香港・広州がWIPOのイノベーション",
+      "subject_en": "JETRO Business Brief 2026/09/17",
+      "html": "data/pdfs/20260917_1818_「ジェトロ・ビジネス短信」2026_09_17.html",
+      "summary_en": "China's auto exports topped 1 million units for a third straight month in August, even as domestic sales remained sluggish, underscoring automakers' growing reliance on overseas markets. Separately, major Japanese auto parts maker Toyotetsu announced a $41 million expansion of its Kentucky plant, reflecting continued investment in U.S. manufacturing capacity despite trade policy uncertainty.",
+      "summary_ja": "中国の8月の自動車輸出は3カ月連続で100万台を超え、国内販売の低迷とは対照的に海外市場への依存が強まっている実態を示した。一方、自動車部品大手のトヨテツは米ケンタッキー州の工場拡張に4,100万ドルを投じると発表し、貿易政策の不確実性下でも米国での生産体制強化を進めている。",
+      "summary_pdf": "data/pdfs/20260917_1818_「ジェトロ・ビジネス短信」2026_09_17_en.pdf"
     },
     {
       "ts": "20260917_1759",
@@ -271,7 +396,12 @@
       "date_label": "SEP 17  17:59",
       "read_min": 2,
       "toyota": true,
-      "excerpt": "中国からの自動車部品輸入が2026年上半期に50億ユーロに達し、前年同期比23%増加している。"
+      "excerpt": "中国からの自動車部品輸入が2026年上半期に50億ユーロに達し、前年同期比23%増加している。",
+      "subject_en": "EU auto suppliers losing ground to China",
+      "html": "data/pdfs/20260917_1759_EU_auto_suppliers_losing_ground_to_China.html",
+      "summary_en": "European auto suppliers are cutting fewer jobs than before, but Chinese parts imports surged 23% to €5 billion in the first half of 2026, while EU exports to China plunged 41% to €3.2 billion. CLEPA's Benjamin Krieger warns China is capturing more of Europe's manufacturing base while blocking European exports, calling job losses a symptom of unfair competition. Nearly 19,000 layoffs were announced in H1 2026, down 35% from the prior half, even as far-right parties exploit the sector's turmoil politically.",
+      "summary_ja": "欧州の自動車サプライヤーによる人員削減は前期より減少したものの、中国製部品の輸入は2026年上半期に前年比23%増の50億ユーロに達し、一方で欧州から中国への輸出は41%減の32億ユーロに落ち込んだ。業界団体CLEPAのベンジャミン・クリーガー事務局長は、中国が欧州の製造基盤を奪いつつ自国市場への輸出を阻んでいると警告し、雇用減少は不公正な競争の表れだと指摘する。2026年上半期の人員削減発表は約1万9000人で前期比35%減となったが、この混乱を極右政党が政治的に利用する動きも広がっている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260917_1736",
@@ -281,7 +411,12 @@
       "date_label": "SEP 17  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Friedrich Merz’s endgame: All the scenarios, rated",
+      "html": "data/pdfs/20260917_1736_Friedrich_Merz’s_endgame__All_the_scenarios,_rated.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260917_1449",
@@ -291,7 +426,12 @@
       "date_label": "SEP 17  14:49",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump hit America’s allies on trade. Now he wants their help on Chinese steel.",
+      "html": "data/pdfs/20260917_1449_Trump_hit_America’s_allies_on_trade._Now_he_wants_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260917_1402",
@@ -327,7 +467,7 @@
       "ts": "20260917_1126",
       "sender_norm": "Jetro",
       "subject": "ジェトロ地域・分析レポートの新着のご案内（2026年9月17日号）",
-      "subject_en": "Notice of New JETRO Regional and Analysis Reports (September 17, 2026 Issue)",
+      "subject_en": "Notification of New JETRO Regional and Analysis Reports (September 17, 2026 Edition)",
       "html": "data/pdfs/20260917_1126_ジェトロ地域・分析レポートの新着のご案内（2026年9月17日号）.html",
       "pdf": "data/pdfs/20260917_1126_ジェトロ地域・分析レポートの新着のご案内（2026年9月17日号）.html",
       "summary_en": "",
@@ -603,5 +743,6 @@
       "toyota": false,
       "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "ACEA has agreed a common stance on the EU's Industrial Accelerator Act, but the exclusion of UK-made vehicles from 'Made in Europe' rules threatens supply chains on both sides of the Channel, given the UK sends 60% of its car exports to the EU.\n\nEuropean suppliers face mounting structural pressure from China: Chinese parts imports jumped 23% while EU exports to China fell 41%, and though layoffs slowed, CLEPA warns China is hollowing out Europe's manufacturing base through unfair competition.\n\nChina's rising auto export dependence and Toyotetsu's Kentucky investment are provided for reference."
 }
