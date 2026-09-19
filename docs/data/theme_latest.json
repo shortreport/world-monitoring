@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18 18:29:27",
+  "generated_at": "2026-09-19 02:35:46",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-18 18:28:34",
+      "last_checked": "2026-09-19 02:35:02",
       "items": [
+        {
+          "uid": "30cc2c7ca5a9",
+          "date": "2026-09-18",
+          "title": "Beijing tells EU to weaken ‘Made in Europe’ industrial bill ahead of October showdown - EUobserver",
+          "summary": "中国はEUに対し、10月の交渉の前に「Made in Europe」産業法案を弱化させるよう要求しており、これはIAAが中国企業を過度に制限することへの懸念を反映しています。IAAに対する中国の圧力は、EUが欧州産業の競争力強化と対中リスク低減のバランスをとる必要性を示しています。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVlOMm45Z0NUQVV2UXR5eG1xUlpJUll6MnRxUURvekxyYWg3NGFHZW5EV1BQX1dSb0M2WTRmTUJhZkwtT0tab1gwQm9YMUZsZ25KOUxYdDYxV1VhVlhUdHFDVDBrZ0lLb182OUd3U0ROTS1XN0VramJHOWh3QzNoN1FSQ3E3UFJncFJNV19oeEhQaGlCdU91VFkxX3czRlNicUpqWFJQOWdvcnlzcG85LWRxVkg?oc=5",
+          "added_at": "2026-09-19 02:35:00"
+        },
         {
           "uid": "f9359ee07569",
           "date": "2026-09-18",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vTVJVQnJFbGROQm9sVnRsMGdGN0JZZjEzZnJwYlZEeUc0ZXJobUhGN1pZb1d1VVVYUEs1X1BXM1doUmlXeU5COTRhU2RTbGRoaGh0SDRKUEdXX2IwNkF6dXI5LXhsdG9aV2FVNg?oc=5",
           "added_at": "2026-06-17 23:11:51"
-        },
-        {
-          "uid": "943c4910bd1e",
-          "date": "2026-06-16",
-          "title": "EU member states make bid to shape ECF priorities - Science|Business",
-          "summary": "EU加速基金（ECF）の優先事項をめぐり、EU加盟国が産業競争力強化のための意思決定に影響力を行使しようとしており、欧州産業加速法案（IAA）の実施における国家利益と欧州全体の産業戦略のバランスが課題となっている。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVWtVUEViTGtxMHhNWmZYck9VS3Rmd01EVmRXWlZURHNGYWhZQUt5TVE1TWZvZ2JJVDVrWHJHX1dVV205ZWJpLTlsNzdjSTNtNnpwMXphVUVsTE82bDFySWNybVMyczBJMjc1WEF2amFUQm9KeUlHT3JXUUZvUzBsVlFSNndOcmd5STIxano0cjdETGc?oc=5",
-          "added_at": "2026-06-17 08:55:46"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-18 18:28:47",
+      "last_checked": "2026-09-19 02:35:13",
       "items": [
+        {
+          "uid": "8462a4cc44e7",
+          "date": "2026-07-24",
+          "title": "China could hack your next car. The Senate has a chance to stop it - Washington Examiner",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国などの外国による自動車へのサイバー攻撃の脅威に対応するため、接続車両のセキュリティ強化を目的とした法案です。本法案は、自動車メーカーに対して接続機能を持つ車両に対する外国からのハッキング防止措置の実施を義務付けています。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmJyeWlFdE16ZkJXMVdjVW9pLVBtWE5fdmQtQkJaWFZsWWFBN2g4a1A0dUc5TVhYYTJ4eG83dGtybHY0Z1Y0ZGFtLWUzdzViWHY0UzQ5dko1OGkyQ2dsZ2c0Ql9IRnBwVHJxS2FLY2h1eDVVWEh1RkpHaExvWHl3OTVsYUdXbkNjZ3h0cUdORVV6X0tPZnNyQ2UxSDhzdUh4ZlN3?oc=5",
+          "added_at": "2026-09-19 02:35:12"
+        },
         {
           "uid": "28f1493e5e69",
           "date": "2026-07-24",
@@ -4010,16 +4020,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SdEo0cEJ4QmkwMm9oRUhOUDFzY01fTXVmYzdnMGN6b0ZVYnB2SDZOa3Fid3hiQWJDY1lGU01IYU9rbzlqUnNHaE1xUG5XSUFnSTU3cHBURGQ0MzNQQlB6aG5ES2RYTHRLYjdoamtxcDBYUQ?oc=5",
           "added_at": "2026-07-25 09:14:51"
-        },
-        {
-          "uid": "caef2a1d3556",
-          "date": "2026-07-24",
-          "title": "NADA Pres. cheers bill to block Chinese vehicles and tech - CBT News",
-          "summary": "米国接続車両安全保障法（S.4429）は、中国製車両と関連技術の市場参入を制限する法案であり、全米自動車ディーラー協会（NADA）会長がこの法案を支持している。本法案は、国家安全保障上の懸念から中国企業による米国への自動車および関連技術の提供を規制することを目的としている。",
-          "source": "議員発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tdDRpTWlnMFhuM3lYel9xU0c0djN1Y2FlT0hTUHpiaGcxYU81T1VaZHJMM3QtMy05d3hSS0pVZGdLTE9wMFB6ejEyMnF4eXItWkZ4SkY0UTZlWm95aUZsNzNYNDFlVTcxdW9kU1NtRnE2aG1GeDFYbXhMV2w?oc=5",
-          "added_at": "2026-07-25 09:14:51"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-18 18:29:12",
+      "last_checked": "2026-09-19 02:35:32",
       "items": [
+        {
+          "uid": "dcc985f6a41d",
+          "date": "2026-06-23",
+          "title": "China Strikes Back at the Pentagon’s Rare Earth Bet - Foreign Policy in Focus",
+          "summary": "中国は防衛産業向けレアアース供給における米国の依存に対抗し、戦略的なレアアース輸出管理を強化することで、地政学的な影響力を拡大しようとしている。米国の防衛・宇宙産業はレアアースの中国依存度が高く、中国がこれを輸出規制の手段として利用することで、米国の国防戦略に対する支配力を高めることを狙っている。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HTEpCamptNzA1QWY5cFhXcF9fdUZQNVVNZmtaSkREbGI0ZzFlMHMwUXE0X09INDBMOEFLRUlxcGduX19kSURDQWxGQlBsVnYxTVV3LUtOSl81N3hJdW1qaG9GcElHclZVU1lYSjRoVXFwWWVEaTlF?oc=5",
+          "added_at": "2026-09-19 02:35:29"
+        },
+        {
+          "uid": "29faf66ea2f7",
+          "date": "2026-06-23",
+          "title": "China tightens export controls on 10 U.S. defence and rare earth firms - 디지털투데이",
+          "summary": "中国がアメリカの防衛関連企業とレアアース関連企業計10社に対する輸出管理を強化し、これら企業への重要鉱物や技術の輸出を制限する措置を講じた。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODg0VUlzc2ZwR3VMOHkzSnFGRWtOOF8wUXMyTGRPTXNOSEZpZXN5cm1ra2xuRF94V2JTMmtzVmJrR1kxVS12N1hPZHRYb0Uxb25JbmlUXzhiMzRvNFE0SHV1Y2hJVWx1dk5ZMGNNVWV2THBLZFU2VkNTS1dUUTcyeHBYTnNNZVpKWmt3R2hPMnBKbW1GM1NjOU5aM3FZeXhKVTdiTlNuSTR6bXVCZmUxdkxidw?oc=5",
+          "added_at": "2026-09-19 02:35:29"
+        },
         {
           "uid": "37802551e344",
           "date": "2026-09-18",
@@ -6011,26 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1FkTlZIU3paeEI0aVB5ekZZTzE3UVh2UEN2aFgzbnRBUDluS0owYWRBaDhscXZtQXBHZGF5djhOVjRrWENDSmVyWWI4WEFGX09Xck5hUTZibG5nemZvc29XbTZ0S2MyM1pqNFpLQlhXWDgxZXd6WDc3MXFmTjl1aExsWlB1MEpZQ3NIMGZfSUZveVppVXFOS09OVUlNemt6dzdMMmZ5OThnT0tmcm5WaGV1OTk0ZU5BaDlfVWU5bkRFUUZ4VEZzNlVIU3pYNU9fTUxWOURB?oc=5",
           "added_at": "2026-09-01 18:49:25"
-        },
-        {
-          "uid": "70b54cf1102e",
-          "date": "2026-06-20",
-          "title": "China's Rare Earth Empire and the PLA: The Strategic Materials Architecture Behind Military Power - Rare Earth Exchanges",
-          "summary": "# 要約\n\n中国はレアアースの採掘・精製を独占し、その供給を戦略的に管理することで、人民解放軍（PLA）を含む軍事力強化と地政学的影響力の拡大を図っており、レアアースは中国の国防戦略における重要な物質的基盤となっている。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnVwdTN6RTFiZjEtaTVXbHJmSnpTeVJwZElWRWhmN0lBRmpkcXdZUFJsMTR5cEgxTC1IbmU5WkFmR1RpTjMyV1UwWWlKUTJoUnlRM0FYcEc3Z2VoNTFNRm1nSHpGMC15eEJ5bWxGblFHak5rY2dfUTRnNUZJdF9PLVhHUndRVVlsZ3ZjbURfRi1sa2RBeUk0LUZEWFdKeTNIZFlnY3kxQ2RCMjIwM3hSR2J6SGhORWstT2lxMk5mbXhzaE5UbVRNd1hxWUo?oc=5",
-          "added_at": "2026-09-01 18:49:25"
-        },
-        {
-          "uid": "19511e37cd26",
-          "date": "2026-07-13",
-          "title": "New joint stock rare-earth company set up in South China; move to enable more flexible operation: expert - Global Times",
-          "summary": "中国が南部にレアアース産業の新しい合弁会社を設立し、レアアース事業のより柔軟な運営を可能にする戦略的措置として機能することが期待されている。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WNkpfMnY3V2pGcWl0MGlBNTY3YmozbXR0SFd2MTNUWmxZcHJmQTUzdElNTjlkemVPbUluel9fYVVPNF9GUUJpSVZ1NUpSQ1M5TDFZaE1TU3YtRDloajNXeFVB?oc=5",
-          "added_at": "2026-09-01 18:49:25"
         }
       ]
     },
@@ -6041,8 +6041,58 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-18 18:29:27",
+      "last_checked": "2026-09-19 02:35:46",
       "items": [
+        {
+          "uid": "f77cccea8a95",
+          "date": "2026-09-18",
+          "title": "As Iran war grinds on, Trump to face skeptical world leaders at UN - Reuters",
+          "summary": "申し訳ございませんが、提供していただいたコンテンツが不完全です。タイトルのみで記事の本文がないため、「自動車メーカーの対中提携への政治的批判」に関する要約を作成することができません。記事の本文をご提供いただければ、要約いたします。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFROaUxKT0xTODBaOWZaNkx1anVfanoxaFVwYm5QQnlNY1QwZXEyaEY3QnR6QmNDMHlJX3gwWU5WRWN6VmdjdkxLSmEyX3dZeW9pVmJ2d3lEeVlPWVFQeDNwa2V5bnE0b3h0OGRIWmdMTUw4aDQ5UUZHX192bmcwNTNUeEJIU2YySU8yM3FxX3lCTFlJX1Y3bHRrd3g4MS1nNk5LNkJEZmlWREk?oc=5",
+          "added_at": "2026-09-19 02:35:39"
+        },
+        {
+          "uid": "c1192060f93e",
+          "date": "2026-09-18",
+          "title": "Tata Group's boardroom clash rocks India's most storied conglomerate - Reuters",
+          "summary": "インド最大手企業グループのタタ・グループで経営陣の対立が起きており、同グループの統治体制の問題が浮き彫りになっている。（ただしこの記事は自動車メーカーの対中提携への政治的批判とは無関係と思われます。）",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjd0Y1JXQjg3NUNsd2RjUmNMbkZuUlNSb3YxQncwcWtEa0M4X3NHbXd4SzJKUHR0SFB2ZEp2ek5vRVVQcnNKd0tZT0s0NWhtSVg3MS1LTWl4d19IdmtUMm9vM2RoQkk3OVZCTWhRS3VWcV9PQ1lHV2hjcm8yT0V0TEV5eWNILS04YS00NzBnUGdfN2xMVWM0SDZjQ3V3TXZmYUFYTUpDSnBFM3NRa3c0alM4X0k?oc=5",
+          "added_at": "2026-09-19 02:35:39"
+        },
+        {
+          "uid": "8096fe3c0106",
+          "date": "2026-09-16",
+          "title": "McLaren to invest $675 million to expand UK manufacturing, launch SUV model - Reuters",
+          "summary": "マクラーレンは英国の製造施設拡張に6億7500万ドルを投資してSUVモデルを発売する計画であり、自動車メーカーの国内製造投資の一例を示している。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWZOTmQyZVZhSXBwMDVHSUZ4RkVjMllaekVxX2liVjZDTDNJMnczVmhwMHF4NjJqbTJqei1xdFR6NDlfanpXR0dnUEY0U3hJNTZkbUM2U2dyeVVpMFliY1hwQS1FM0FFcTROZDJsLUxxdFlSVDY1RUZfZWV5Q3lic18yamI3bTh2X3R1MTVnS1ctWGdGYjlsSV9yS2NvNjJTT2laSkJOSWxtMkstR21UNURxUjZiTXl1cjFXQktVTzFUUGl1bFRr?oc=5",
+          "added_at": "2026-09-19 02:35:39"
+        },
+        {
+          "uid": "ace25e175ee0",
+          "date": "2026-09-18",
+          "title": "25 years later, President Trump has discarded the lessons of 9/11",
+          "summary": "トランプ大統領が対中提携への政治的批判の文脈とは異なる内容のため、適切な要約ができません。この記事は9/11後のテロ対策予算削減やTSA民営化などの国防政策批判に関するもので、自動車メーカーの対中提携には言及していません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6097273-trump-weakening-homeland-security/",
+          "added_at": "2026-09-19 02:35:39"
+        },
+        {
+          "uid": "6f4716019da0",
+          "date": "2026-09-18",
+          "title": "White House set to tout Medicaid ‘most favored nation’ drug pricing deals",
+          "summary": "この記事は医薬品価格設定に関するもので、自動車メーカーの対中提携への政治的批判という文脈では関連がありません。要約をお断りします。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/healthcare/6097691-trump-medicaid-drug-pricing/",
+          "added_at": "2026-09-19 02:35:39"
+        },
         {
           "uid": "78ddb8b6368b",
           "date": "2026-09-17",

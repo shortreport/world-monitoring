@@ -1,544 +1,115 @@
 {
-  "generated_at": "2026-09-18 17:12 JST",
-  "sender_count": 5,
-  "total_mails": 76,
+  "generated_at": "2026-09-19 11:56 JST",
+  "sender_count": 3,
+  "total_mails": 10,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 37,
+      "count": 6,
       "bullets": [
-        "米国とイランの対立およびサウジアラビアのエネルギーインフラへの攻撃リスクにより、原油価格が100ドルを上回る状態が継続される見通し",
-        "ドイツで極右政党AfDが州選挙で躍進し、ザクセン・アンハルト州での政権樹立可能性が55%、北東部での今後の選挙でメルツ首相の指導力が脅かされる見通し",
-        "ウクライナで腐敗スキャンダルが相次ぎ、国内外で制度への不信が深刻化",
-        "米共和党の2024年連立支持基盤の崩壊が進行中"
+        "イスラエル選挙ではネタニヤフ反対派の連立政権勝利が基本シナリオ（確率60%）だが短命な少数派政権に終わる可能性も存在",
+        "ブラジル大統領選は接戦で予測モデルは互角、ルラ大統領がわずかに有利な状況",
+        "スペイン2027年選挙は右派政権の誕生が見込まれ、カナダとEUは米国の関税脅迫にもかかわらず商業・安保関係を強化",
+        "中東情勢悪化によるサウジアラビア東西パイプライン閉鎖とフーシ派によるバブ・アル・マンデブ海峡掌握で石油市場が混乱",
+        "米イラン対立の継続により2026年を通じて油価が100ドル前後の高止まり状況が継続"
       ],
       "subjects": [
         [
-          "2026-09-15",
-          "Oil to stay above $100 on infrastructure risks",
-          "data/pdfs/20260915_2123_Oil_to_stay_above_$100_on_infrastructure_risks.pdf"
+          "2026-09-18",
+          "Conference call notes: Israeli election update",
+          "data/pdfs/20260918_2000_Conference_call_notes__Israeli_election_update.pdf"
         ],
         [
-          "2026-09-15",
-          "Germany: AfD is likely to rule after landslide victory",
-          "data/pdfs/20260915_2349_Germany__AfD_is_likely_to_rule_after_landslide_vic.pdf"
+          "2026-09-18",
+          "Brazil's toss-up election hinges on campaign",
+          "data/pdfs/20260918_2125_Brazil's_toss-up_election_hinges_on_campaign.pdf"
         ],
         [
-          "2026-09-15",
-          "Germany: State elections threaten Merz",
-          "data/pdfs/20260915_2349_Germany__State_elections_threaten_Merz.pdf"
+          "2026-09-18",
+          "Xi-Trump Summit Preview",
+          "data/pdfs/20260918_2125_Xi-Trump_Summit_Preview.pdf"
         ],
         [
-          "2026-09-16",
-          "Ukraine: Distrust in institutions grows domestically and abroad",
-          "data/pdfs/20260916_0035_Ukraine__Distrust_in_institutions_grows_domestical.pdf"
-        ],
-        [
-          "2026-09-16",
-          "The GOP’s 2024 coalition is collapsing",
-          "data/pdfs/20260916_0049_The_GOP’s_2024_coalition_is_collapsing.pdf"
-        ],
-        [
-          "2026-09-16",
-          "2026 Israeli Election Update",
-          "data/pdfs/20260916_0131_2026_Israeli_Election_Update.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Mounting US debt is the most overlooked long-term security threat",
-          "data/pdfs/20260916_0232_Mounting_US_debt_is_the_most_overlooked_long-term_.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Taiwan crisis risk will rise after 2028",
-          "data/pdfs/20260916_0537_Taiwan_crisis_risk_will_rise_after_2028.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Taiwan elections and risk outlook",
-          "data/pdfs/20260916_0901_Taiwan_elections_and_risk_outlook_台湾統一地方選挙およびリスクの見.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Taiwan elections and risk outlook - EG Conference Call, REMINDER",
-          "data/pdfs/20260916_0902_Taiwan_elections_and_risk_outlook_-_EG_Conference_.pdf"
-        ],
-        [
-          "2026-09-16",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20260916_1205_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Yen and Treasuries markets turmoil, the Global Geoeconomic",
-          "data/pdfs/20260916_1401_Yen_and_Treasuries_markets_turmoil,_the_Global_Geo.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Yen and Treasuries markets turmoil, the Global Geoeconomic",
-          "data/pdfs/20260916_1402_Yen_and_Treasuries_markets_turmoil,_the_Global_Geo.pdf"
-        ],
-        [
-          "2026-09-16",
-          "eg update in Japanese",
-          "data/pdfs/20260916_1809_eg_update_in_Japanese.pdf"
-        ],
-        [
-          "2026-09-16",
-          "2026 Israeli Election Update - EG Conference Call, REMINDER",
-          "data/pdfs/20260916_2102_2026_Israeli_Election_Update_-_EG_Conference_Call,.pdf"
-        ],
-        [
-          "2026-09-16",
-          "China's growing confidence will raise Taiwan risk",
-          "data/pdfs/20260916_2115_China's_growing_confidence_will_raise_Taiwan_risk.pdf"
-        ],
-        [
-          "2026-09-17",
+          "2026-09-18",
           "Oil Markets in Crisis: Navigating the Escalating Middle East",
-          "data/pdfs/20260917_0000_Oil_Markets_in_Crisis__Navigating_the_Escalating_M.pdf"
+          "data/pdfs/20260918_2202_Oil_Markets_in_Crisis__Navigating_the_Escalating_M.pdf"
         ],
         [
-          "2026-09-17",
-          "Refined product export restrictions likely if prices remain elevated",
-          "data/pdfs/20260917_0043_Refined_product_export_restrictions_likely_if_pric.pdf"
+          "2026-09-19",
+          "Oil likely stuck in $100 range for the rest of 2026",
+          "data/pdfs/20260919_0048_Oil_likely_stuck_in_$100_range_for_the_rest_of_202.pdf"
         ],
         [
-          "2026-09-17",
-          "Conference Call Notes: Yen and Treasuries market turmoil",
-          "data/pdfs/20260917_0152_Conference_Call_Notes__Yen_and_Treasuries_market_t.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Seoul plans US investment blitz amid Trump pressure",
-          "data/pdfs/20260917_0529_Seoul_plans_US_investment_blitz_amid_Trump_pressur.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Turkey: Equity rout tests lira savings strategy",
-          "data/pdfs/20260917_0758_Turkey__Equity_rout_tests_lira_savings_strategy.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Bessent's tools unlikely to tame yields",
-          "data/pdfs/20260917_2138_Bessent's_tools_unlikely_to_tame_yields.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Oil Markets in Crisis: Navigating the Escalating Middle East",
-          "data/pdfs/20260917_2202_Oil_Markets_in_Crisis__Navigating_the_Escalating_M.pdf"
-        ],
-        [
-          "2026-09-17",
-          "2026 Israeli Election Update - EG Conference Call, REMINDER",
-          "data/pdfs/20260917_2302_2026_Israeli_Election_Update_-_EG_Conference_Call,.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Affordability concerns shape CEE’s energy transition",
-          "data/pdfs/20260917_2317_Affordability_concerns_shape_CEE’s_energy_transiti.pdf"
-        ],
-        [
-          "2026-09-18",
-          "Spain: 2027 elections likely to produce right-wing government",
-          "data/pdfs/20260918_0020_Spain__2027_elections_likely_to_produce_right-wing.pdf"
-        ],
-        [
-          "2026-09-18",
-          "Spain: 2027 elections likely to produce right-wing government",
-          "data/pdfs/20260918_0021_Spain__2027_elections_likely_to_produce_right-wing.pdf"
-        ],
-        [
-          "2026-09-18",
-          "Energy and Environment Outlook",
-          "data/pdfs/20260918_0029_Energy_and_Environment_Outlook.pdf"
-        ],
-        [
-          "2026-09-18",
-          "Test Email",
-          "data/pdfs/20260918_0100_Test_Email.pdf"
-        ],
-        [
-          "2026-09-18",
-          "CORRECTION: Trump focuses on Fed board as Warsh survives first",
-          "data/pdfs/20260918_0145_CORRECTION__Trump_focuses_on_Fed_board_as_Warsh_su.pdf"
-        ],
-        [
-          "2026-09-18",
-          "EU summit in October will deliver closer ties",
-          "data/pdfs/20260918_0158_EU_summit_in_October_will_deliver_closer_ties.pdf"
-        ],
-        [
-          "2026-09-18",
-          "China shifts focus to next-generation cleantech",
-          "data/pdfs/20260918_0251_China_shifts_focus_to_next-generation_cleantech.pdf"
-        ],
-        [
-          "2026-09-18",
-          "BJP courts women voters through common civil code",
-          "data/pdfs/20260918_0448_BJP_courts_women_voters_through_common_civil_code.pdf"
-        ],
-        [
-          "2026-09-18",
-          "Summit likely to deliver limited tariff cuts beyond Busan scope",
-          "data/pdfs/20260918_0542_Summit_likely_to_deliver_limited_tariff_cuts_beyon.pdf"
-        ],
-        [
-          "2026-09-18",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20260918_0801_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-09-18",
-          "Japan Conference Call: 台湾の選挙とリスク見通し",
-          "data/pdfs/20260918_1314_Japan_Conference_Call__台湾の選挙とリスク見通し.pdf"
-        ],
-        [
-          "2026-09-18",
-          "Japan Conference Call: 円と米国債市場の混乱、世界の地経学的見通し",
-          "data/pdfs/20260918_1612_Japan_Conference_Call__円と米国債市場の混乱、世界の地経学的見通し.pdf"
+          "2026-09-19",
+          "GOP polling collapse puts larger Democratic Senate majority in",
+          "data/pdfs/20260919_0107_GOP_polling_collapse_puts_larger_Democratic_Senate.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260915_2123_Oil_to_stay_above_$100_on_infrastructure_risks.pdf",
-        "data/pdfs/20260915_2349_Germany__AfD_is_likely_to_rule_after_landslide_vic.pdf",
-        "data/pdfs/20260915_2349_Germany__State_elections_threaten_Merz.pdf",
-        "data/pdfs/20260916_0035_Ukraine__Distrust_in_institutions_grows_domestical.pdf",
-        "data/pdfs/20260916_0049_The_GOP’s_2024_coalition_is_collapsing.pdf",
-        "data/pdfs/20260916_0131_2026_Israeli_Election_Update.pdf",
-        "data/pdfs/20260916_0232_Mounting_US_debt_is_the_most_overlooked_long-term_.pdf",
-        "data/pdfs/20260916_0537_Taiwan_crisis_risk_will_rise_after_2028.pdf",
-        "data/pdfs/20260916_0901_Taiwan_elections_and_risk_outlook_台湾統一地方選挙およびリスクの見.pdf",
-        "data/pdfs/20260916_0902_Taiwan_elections_and_risk_outlook_-_EG_Conference_.pdf",
-        "data/pdfs/20260916_1205_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20260916_1401_Yen_and_Treasuries_markets_turmoil,_the_Global_Geo.pdf",
-        "data/pdfs/20260916_1402_Yen_and_Treasuries_markets_turmoil,_the_Global_Geo.pdf",
-        "data/pdfs/20260916_1809_eg_update_in_Japanese.pdf",
-        "data/pdfs/20260916_2102_2026_Israeli_Election_Update_-_EG_Conference_Call,.pdf",
-        "data/pdfs/20260916_2115_China's_growing_confidence_will_raise_Taiwan_risk.pdf",
-        "data/pdfs/20260917_0000_Oil_Markets_in_Crisis__Navigating_the_Escalating_M.pdf",
-        "data/pdfs/20260917_0043_Refined_product_export_restrictions_likely_if_pric.pdf",
-        "data/pdfs/20260917_0152_Conference_Call_Notes__Yen_and_Treasuries_market_t.pdf",
-        "data/pdfs/20260917_0529_Seoul_plans_US_investment_blitz_amid_Trump_pressur.pdf",
-        "data/pdfs/20260917_0758_Turkey__Equity_rout_tests_lira_savings_strategy.pdf",
-        "data/pdfs/20260917_2138_Bessent's_tools_unlikely_to_tame_yields.pdf",
-        "data/pdfs/20260917_2202_Oil_Markets_in_Crisis__Navigating_the_Escalating_M.pdf",
-        "data/pdfs/20260917_2302_2026_Israeli_Election_Update_-_EG_Conference_Call,.pdf",
-        "data/pdfs/20260917_2317_Affordability_concerns_shape_CEE’s_energy_transiti.pdf",
-        "data/pdfs/20260918_0020_Spain__2027_elections_likely_to_produce_right-wing.pdf",
-        "data/pdfs/20260918_0021_Spain__2027_elections_likely_to_produce_right-wing.pdf",
-        "data/pdfs/20260918_0029_Energy_and_Environment_Outlook.pdf",
-        "data/pdfs/20260918_0100_Test_Email.pdf",
-        "data/pdfs/20260918_0145_CORRECTION__Trump_focuses_on_Fed_board_as_Warsh_su.pdf",
-        "data/pdfs/20260918_0158_EU_summit_in_October_will_deliver_closer_ties.pdf",
-        "data/pdfs/20260918_0251_China_shifts_focus_to_next-generation_cleantech.pdf",
-        "data/pdfs/20260918_0448_BJP_courts_women_voters_through_common_civil_code.pdf",
-        "data/pdfs/20260918_0542_Summit_likely_to_deliver_limited_tariff_cuts_beyon.pdf",
-        "data/pdfs/20260918_0801_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20260918_1314_Japan_Conference_Call__台湾の選挙とリスク見通し.pdf",
-        "data/pdfs/20260918_1612_Japan_Conference_Call__円と米国債市場の混乱、世界の地経学的見通し.pdf"
-      ]
-    },
-    {
-      "sender": "Maziar",
-      "short": "MAZIA",
-      "color": "YEL",
-      "count": 1,
-      "bullets": [
-        "AI革命により、専門知識に依存するハリネズミ型人材は価値喪失の危機に直面、独自の人的ネットワーク構築が必須",
-        "AI時代においてキツネ型人材はAIを研究助手として活用し、複数分野の知見を統合する能力が強化される利点",
-        "Eurasia Groupのクライアントに対し、AIの到来を見据えた戦略的な人材ポジショニングの重要性を提示"
-      ],
-      "subjects": [
-        [
-          "2026-09-16",
-          "CEO Letter from Maziar Minovi | Q3 2026",
-          "data/pdfs/20260916_2306_CEO_Letter_from_Maziar_Minovi___Q3_2026.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260916_2306_CEO_Letter_from_Maziar_Minovi___Q3_2026.pdf"
+        "data/pdfs/20260918_2000_Conference_call_notes__Israeli_election_update.pdf",
+        "data/pdfs/20260918_2125_Brazil's_toss-up_election_hinges_on_campaign.pdf",
+        "data/pdfs/20260918_2125_Xi-Trump_Summit_Preview.pdf",
+        "data/pdfs/20260918_2202_Oil_Markets_in_Crisis__Navigating_the_Escalating_M.pdf",
+        "data/pdfs/20260919_0048_Oil_likely_stuck_in_$100_range_for_the_rest_of_202.pdf",
+        "data/pdfs/20260919_0107_GOP_polling_collapse_puts_larger_Democratic_Senate.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "RED",
-      "count": 34,
+      "color": "YEL",
+      "count": 3,
       "bullets": [
-        "欧州のトラック製造業界が2030年のCO2削減目標の引き下げと2033年への期限延長を要求、達成失敗時の罰金回避を目指している",
-        "ロシアのジェット推進型ドローンがウクライナの防空体制に深刻な脅威をもたらし、対策が急務",
-        "米国の民主主義の衰退がヨーロッパの政治的課題に拡大している",
-        "フーシ派がイエメン沿岸で勢力を強化し、紅海の戦略的要衝の支配権を確保、世界海運への懸念が増加",
-        "フォンデアライエン欧州委員会委員長が欧州議会の異なる派閥間の対立に直面しながら政策方針を設定"
+        "ドイツのメルツ保守指導者が地域選挙での敗北に直面し政治的生き残りをかけた戦い。CDUが地域選挙で議席を獲得できない場合、混乱が生じる可能性が指摘",
+        "EU委員長フォンデアライエンがカナダをEU準加盟国として承認する構想を提案し、欧州議会議長メツォラもオーストラリアとニュージーランドの参加を支持",
+        "EUの準加盟国制度という新たなアプローチで、カナダなどの国々をEU圏へ取り込む動き"
       ],
       "subjects": [
         [
-          "2026-09-15",
-          "Truckmakers want CO2 targets delay, too",
-          "data/pdfs/20260915_1403_Truckmakers_want_CO2_targets_delay,_too.pdf"
+          "2026-09-18",
+          "Germany’s Merz girds for a post-election fight for political survival",
+          "data/pdfs/20260918_1834_Germany’s_Merz_girds_for_a_post-election_fight_for.pdf"
         ],
         [
-          "2026-09-15",
-          "‘Horror in the sky’: Ukraine races for a solution to Russian",
-          "data/pdfs/20260915_1905_‘Horror_in_the_sky’__Ukraine_races_for_a_solution_.pdf"
+          "2026-09-19",
+          "Friends with benefits: EU associate membership explained",
+          "data/pdfs/20260919_0023_Friends_with_benefits__EU_associate_membership_exp.pdf"
         ],
         [
-          "2026-09-15",
-          "America’s democratic decline is becoming Europe’s problem, new",
-          "data/pdfs/20260915_2105_America’s_democratic_decline_is_becoming_Europe’s_.pdf"
-        ],
-        [
-          "2026-09-15",
-          "UN Security Council meets as Houthis tighten grip on Red Sea",
-          "data/pdfs/20260915_2142_UN_Security_Council_meets_as_Houthis_tighten_grip_.pdf"
-        ],
-        [
-          "2026-09-16",
+          "2026-09-19",
           "Pro Daily Headlines",
-          "data/pdfs/20260916_0031_Pro_Daily_Headlines.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Von der Leyen sets her course",
-          "data/pdfs/20260916_1401_Von_der_Leyen_sets_her_course.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Japan wants IAA deal for cars",
-          "data/pdfs/20260916_1404_Japan_wants_IAA_deal_for_cars.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Ursula von der Leyen to give State of the Union speech — live",
-          "data/pdfs/20260916_1552_Ursula_von_der_Leyen_to_give_State_of_the_Union_sp.pdf"
-        ],
-        [
-          "2026-09-16",
-          "EU-China trade deficit has hit ‘tipping point,’ warns von der Leyen",
-          "data/pdfs/20260916_1617_EU-China_trade_deficit_has_hit_‘tipping_point,’_wa.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Von der Leyen to launch new trade and freight routes",
-          "data/pdfs/20260916_1631_Von_der_Leyen_to_launch_new_trade_and_freight_rout.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Ursula von der Who? Polling shows many EU citizens don’t know",
-          "data/pdfs/20260916_1636_Ursula_von_der_Who__Polling_shows_many_EU_citizens.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Von der Leyen pitches Japan-style critical minerals vehicle to build",
-          "data/pdfs/20260916_1636_Von_der_Leyen_pitches_Japan-style_critical_mineral.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Ursula von der Leyen invites Canada to be first ‘associate member’",
-          "data/pdfs/20260916_1707_Ursula_von_der_Leyen_invites_Canada_to_be_first_‘a.pdf"
-        ],
-        [
-          "2026-09-16",
-          "Von der Leyen tries to stem tide on global threats ― from Trump",
-          "data/pdfs/20260916_1757_Von_der_Leyen_tries_to_stem_tide_on_global_threats.pdf"
-        ],
-        [
-          "2026-09-16",
-          "EU capitals caught off guard as von der Leyen announces",
-          "data/pdfs/20260916_1931_EU_capitals_caught_off_guard_as_von_der_Leyen_anno.pdf"
-        ],
-        [
-          "2026-09-16",
-          "12 takeaways from von der Leyen’s State of the Union",
-          "data/pdfs/20260916_2020_12_takeaways_from_von_der_Leyen’s_State_of_the_Uni.pdf"
-        ],
-        [
-          "2026-09-16",
-          "EU demands answers as France pushes for billionaire’s Russia",
-          "data/pdfs/20260916_2105_EU_demands_answers_as_France_pushes_for_billionair.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Pro Daily Headlines",
-          "data/pdfs/20260917_0031_Pro_Daily_Headlines.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Von der Leyen fleshes out Carney’s vision to paint Europe as leader",
-          "data/pdfs/20260917_0215_Von_der_Leyen_fleshes_out_Carney’s_vision_to_paint.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Von der Leyen blindsides EU with Canada ‘associate member’ pitch",
-          "data/pdfs/20260917_0234_Von_der_Leyen_blindsides_EU_with_Canada_‘associate.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Trump takes aim at the EU’s Canada pitch",
-          "data/pdfs/20260917_1359_Trump_takes_aim_at_the_EU’s_Canada_pitch.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Brussels defends its maritime ETS",
-          "data/pdfs/20260917_1402_Brussels_defends_its_maritime_ETS.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Trump hit America’s allies on trade. Now he wants their help on",
-          "data/pdfs/20260917_1449_Trump_hit_America’s_allies_on_trade._Now_he_wants_.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Friedrich Merz’s endgame: All the scenarios, rated",
-          "data/pdfs/20260917_1736_Friedrich_Merz’s_endgame__All_the_scenarios,_rated.pdf"
-        ],
-        [
-          "2026-09-17",
-          "EU auto suppliers losing ground to China",
-          "data/pdfs/20260917_1759_EU_auto_suppliers_losing_ground_to_China.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Canada’s Mark Carney addresses European Parliament — live",
-          "data/pdfs/20260917_1849_Canada’s_Mark_Carney_addresses_European_Parliament.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Canada’s Carney stops short of endorsing von der Leyen’s",
-          "data/pdfs/20260917_1956_Canada’s_Carney_stops_short_of_endorsing_von_der_L.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Sweden’s left wins razor-thin election victory",
-          "data/pdfs/20260917_2031_Sweden’s_left_wins_razor-thin_election_victory.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Commission trade chief to travel to China on Oct. 8-9",
-          "data/pdfs/20260917_2325_Commission_trade_chief_to_travel_to_China_on_Oct._.pdf"
-        ],
-        [
-          "2026-09-17",
-          "Russia hunts Ukraine’s trains",
-          "data/pdfs/20260917_2327_Russia_hunts_Ukraine’s_trains.pdf"
-        ],
-        [
-          "2026-09-18",
-          "Pro Daily Headlines",
-          "data/pdfs/20260918_0031_Pro_Daily_Headlines.pdf"
-        ],
-        [
-          "2026-09-18",
-          "Europe’s Security Council plan hits a wall of skepticism",
-          "data/pdfs/20260918_1357_Europe’s_Security_Council_plan_hits_a_wall_of_skep.pdf"
-        ],
-        [
-          "2026-09-18",
-          "EU car lobby reaches position on IAA",
-          "data/pdfs/20260918_1401_EU_car_lobby_reaches_position_on_IAA.pdf"
-        ],
-        [
-          "2026-09-18",
-          "Germany and Spain go head-to-head in EU budget fight",
-          "data/pdfs/20260918_1636_Germany_and_Spain_go_head-to-head_in_EU_budget_fig.pdf"
+          "data/pdfs/20260919_0031_Pro_Daily_Headlines.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260915_1403_Truckmakers_want_CO2_targets_delay,_too.pdf",
-        "data/pdfs/20260915_1905_‘Horror_in_the_sky’__Ukraine_races_for_a_solution_.pdf",
-        "data/pdfs/20260915_2105_America’s_democratic_decline_is_becoming_Europe’s_.pdf",
-        "data/pdfs/20260915_2142_UN_Security_Council_meets_as_Houthis_tighten_grip_.pdf",
-        "data/pdfs/20260916_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260916_1401_Von_der_Leyen_sets_her_course.pdf",
-        "data/pdfs/20260916_1404_Japan_wants_IAA_deal_for_cars.pdf",
-        "data/pdfs/20260916_1552_Ursula_von_der_Leyen_to_give_State_of_the_Union_sp.pdf",
-        "data/pdfs/20260916_1617_EU-China_trade_deficit_has_hit_‘tipping_point,’_wa.pdf",
-        "data/pdfs/20260916_1631_Von_der_Leyen_to_launch_new_trade_and_freight_rout.pdf",
-        "data/pdfs/20260916_1636_Ursula_von_der_Who__Polling_shows_many_EU_citizens.pdf",
-        "data/pdfs/20260916_1636_Von_der_Leyen_pitches_Japan-style_critical_mineral.pdf",
-        "data/pdfs/20260916_1707_Ursula_von_der_Leyen_invites_Canada_to_be_first_‘a.pdf",
-        "data/pdfs/20260916_1757_Von_der_Leyen_tries_to_stem_tide_on_global_threats.pdf",
-        "data/pdfs/20260916_1931_EU_capitals_caught_off_guard_as_von_der_Leyen_anno.pdf",
-        "data/pdfs/20260916_2020_12_takeaways_from_von_der_Leyen’s_State_of_the_Uni.pdf",
-        "data/pdfs/20260916_2105_EU_demands_answers_as_France_pushes_for_billionair.pdf",
-        "data/pdfs/20260917_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260917_0215_Von_der_Leyen_fleshes_out_Carney’s_vision_to_paint.pdf",
-        "data/pdfs/20260917_0234_Von_der_Leyen_blindsides_EU_with_Canada_‘associate.pdf",
-        "data/pdfs/20260917_1359_Trump_takes_aim_at_the_EU’s_Canada_pitch.pdf",
-        "data/pdfs/20260917_1402_Brussels_defends_its_maritime_ETS.pdf",
-        "data/pdfs/20260917_1449_Trump_hit_America’s_allies_on_trade._Now_he_wants_.pdf",
-        "data/pdfs/20260917_1736_Friedrich_Merz’s_endgame__All_the_scenarios,_rated.pdf",
-        "data/pdfs/20260917_1759_EU_auto_suppliers_losing_ground_to_China.pdf",
-        "data/pdfs/20260917_1849_Canada’s_Mark_Carney_addresses_European_Parliament.pdf",
-        "data/pdfs/20260917_1956_Canada’s_Carney_stops_short_of_endorsing_von_der_L.pdf",
-        "data/pdfs/20260917_2031_Sweden’s_left_wins_razor-thin_election_victory.pdf",
-        "data/pdfs/20260917_2325_Commission_trade_chief_to_travel_to_China_on_Oct._.pdf",
-        "data/pdfs/20260917_2327_Russia_hunts_Ukraine’s_trains.pdf",
-        "data/pdfs/20260918_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260918_1357_Europe’s_Security_Council_plan_hits_a_wall_of_skep.pdf",
-        "data/pdfs/20260918_1401_EU_car_lobby_reaches_position_on_IAA.pdf",
-        "data/pdfs/20260918_1636_Germany_and_Spain_go_head-to-head_in_EU_budget_fig.pdf"
-      ]
-    },
-    {
-      "sender": "ジェトロ",
-      "short": "ジェトロ",
-      "color": "ORG",
-      "count": 2,
-      "bullets": [
-        "会員割引コード「M078W76H」を保管し、有料セミナー/ウェビナーおよびマイページ/メンバーズスクエアの利用に活用",
-        "中国内陸部、中南米自動車産業、USMCA共同見直しに関するウェビナーを会員割引コード利用で割引または無料受講可能",
-        "マイページ/メンバーズ・スクエア無料登録で新着情報メール受信やセミナー検索など複数の会員特典利用可能",
-        "量子技術が2025年「国際量子科学技術年」を迎え、主要国が経済成長・安全保障における重要技術として戦略推進中",
-        "日本を含む世界での量子技術の社会実装に向けたイノベーティブな取り組みと産業展開に関する地域・分析レポート提供"
-      ],
-      "subjects": [
-        [
-          "2026-09-15",
-          "【ジェトロ・メンバーズ 重要なお知らせ】「会員割引コード」について",
-          "data/pdfs/20260915_1525_【ジェトロ・メンバーズ_重要なお知らせ】「会員割引コード」について.pdf"
-        ],
-        [
-          "2026-09-17",
-          "ジェトロ地域・分析レポートの新着のご案内（2026年9月17日号）",
-          "data/pdfs/20260917_1126_ジェトロ地域・分析レポートの新着のご案内（2026年9月17日号）.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260915_1525_【ジェトロ・メンバーズ_重要なお知らせ】「会員割引コード」について.pdf",
-        "data/pdfs/20260917_1126_ジェトロ地域・分析レポートの新着のご案内（2026年9月17日号）.pdf"
+        "data/pdfs/20260918_1834_Germany’s_Merz_girds_for_a_post-election_fight_for.pdf",
+        "data/pdfs/20260919_0023_Friends_with_benefits__EU_associate_membership_exp.pdf",
+        "data/pdfs/20260919_0031_Pro_Daily_Headlines.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "GRN",
-      "count": 2,
+      "color": "RED",
+      "count": 1,
       "bullets": [
-        "WTOが多角的貿易体制の改革の必要性を訴え、国際貿易体制が重要な岐路にある状況",
-        "中国の自動車輸出が3カ月連続で100万台超、アジア企業の競争力強化",
-        "米国は金融引き締めと産業投資の継続、量子技術などへの支援拡大",
-        "EU・ユーロ圏のGDP成長加速、コロンビアなど新興国での投資活動活発化",
-        "中南米諸国による財政改革と産業育成政策の推進、アフリカでの金融・エネルギーセクター発展"
+        "中国の小馬智行がドーハで完全無人運転技術を披露",
+        "北京市がデジタル経済の5カ年規画を発表し、2030年までにGDPシェア5割超を目指す",
+        "広汽集団が一汽集団との資産再編を計画",
+        "湖北省が起業による雇用促進を含む雇用促進に関する5カ年規画を発表",
+        "韓国と中央アジア5カ国が「ソウル宣言」を採択し、デジタル貿易協定DEPAにコスタリカが正式加入"
       ],
       "subjects": [
         [
-          "2026-09-16",
-          "「ジェトロ・ビジネス短信」2026/09/16",
-          "data/pdfs/20260916_1818_「ジェトロ・ビジネス短信」2026_09_16.pdf"
-        ],
-        [
-          "2026-09-17",
-          "「ジェトロ・ビジネス短信」2026/09/17",
-          "data/pdfs/20260917_1818_「ジェトロ・ビジネス短信」2026_09_17.pdf"
+          "2026-09-18",
+          "「ジェトロ・ビジネス短信」2026/09/18",
+          "data/pdfs/20260918_1806_「ジェトロ・ビジネス短信」2026_09_18.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260916_1818_「ジェトロ・ビジネス短信」2026_09_16.pdf",
-        "data/pdfs/20260917_1818_「ジェトロ・ビジネス短信」2026_09_17.pdf"
+        "data/pdfs/20260918_1806_「ジェトロ・ビジネス短信」2026_09_18.pdf"
       ]
     }
   ]
