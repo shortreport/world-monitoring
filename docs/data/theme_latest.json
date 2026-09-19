@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19 18:16:10",
+  "generated_at": "2026-09-20 02:04:03",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-19 18:15:32",
+      "last_checked": "2026-09-20 02:03:27",
       "items": [
         {
           "uid": "30cc2c7ca5a9",
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-19 18:15:46",
+      "last_checked": "2026-09-20 02:03:37",
       "items": [
+        {
+          "uid": "ddbe69fd4e06",
+          "date": "2026-07-22",
+          "title": "Bill to ban certain Chinese cars approved by Senate panel - Roll Call",
+          "summary": "米国上院委員会は中国製自動車の販売を禁止する法案を承認しました。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFZ2TUxmcncwYXY5S3Q0NWVvRS03Q2sxUWdQdE5BZXZwdXVMLUNJeVFIWEZTRk5lQ2VYOEw3cGVFd3Z5WVJNT1NvQnVXNTMzWUZQYTV5QzMxSU1zekptV0lPTFdGOUJpNVM0dldBakdvOTdYbkZuMkFRZmlEVFpvbGZ1eGl0TG9pcm5iZXo2ajVmOF9l?oc=5",
+          "added_at": "2026-09-20 02:03:35"
+        },
+        {
+          "uid": "e002305e3231",
+          "date": "2026-09-19",
+          "title": "A Xi-Trump summit deal can throw US carmakers under the China bus - The Economic Times",
+          "summary": "申し訳ありませんが、提供いただいたタイトルのみで記事の具体的な内容が記載されていないため、「米国接続車両安全保障法（S.4429）」に関連した正確な要約を作成することができません。記事の本文をご提供いただければ、要約を作成いたします。",
+          "source": "自動車メーカー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQelBHVlBOSmJocUdvMDFPMTRmekUyZVNKcFQ5dnBKaHE3SUhJYzRWZkc3RmswelpwNHRFOWt3ZWFkNGYzbjExSU8zWjBobVZUMDdsMnpGRGQ3Ry1ST2thNFRLbzlub1Q5WUEyWTN0MENIWWRGVmhRWkNXMW1MRHk4Wnd2TzljOWZ5algwR3FQa3VtSlFrcDNsZFBMQmFzWTRwVWVZWW1OZElFc05CSGJ6QlduZTdqU3MtVDZWZEFEUFJsdTVMLTBzbVJXZGQwRTJuTk1JSjk0MnhMakJObTRSa1pkQjhRUdIB5gFBVV95cUxQelBHVlBOSmJocUdvMDFPMTRmekUyZVNKcFQ5dnBKaHE3SUhJYzRWZkc3RmswelpwNHRFOWt3ZWFkNGYzbjExSU8zWjBobVZUMDdsMnpGRGQ3Ry1ST2thNFRLbzlub1Q5WUEyWTN0MENIWWRGVmhRWkNXMW1MRHk4Wnd2TzljOWZ5algwR3FQa3VtSlFrcDNsZFBMQmFzWTRwVWVZWW1OZElFc05CSGJ6QlduZTdqU3MtVDZWZEFEUFJsdTVMLTBzbVJXZGQwRTJuTk1JSjk0MnhMakJObTRSa1pkQjhRUQ?oc=5",
+          "added_at": "2026-09-20 02:03:35"
+        },
         {
           "uid": "d1e35eaf8506",
           "date": "2026-07-22",
@@ -4000,26 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xWkVSOHBRb2daWHZkUHFwWXlYNW13eG5JVXJSRGNWVVloc0xoWmU0RTJjejNGN1RfeklTYk9EcHlseFBkZFh0TGNMSEJaMUtVR0hBSEpuaENDcC1KNnhjVmJR?oc=5",
           "added_at": "2026-07-26 00:06:07"
-        },
-        {
-          "uid": "f5f7d87cee6f",
-          "date": "2026-06-25",
-          "title": "U.S. Bans Polestar, Chinese-Owned EV Maker, From Selling Cars in the U.S. - WSJ",
-          "summary": "米国政府はS.4429法に基づき、中国系の電動車メーカー・ポールスターの米国での自動車販売を禁止した。同法は中国所有の車両メーカーが米国市場に参入することを制限し、国家安全保障上の懸念から中国製車両の流入を防ぐことを目的としている。",
-          "source": "中国政府",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmVEcUJoaF9YWVFDaUVYVVJ5WDZTdE45R3RUT1J2eUs3YlVMTFRqWmJTRU9ZNzZhXzY0YWdnYldENG5YVTVIOV9HcjVEWnUwLVZmSHItSENueGNfSmswak1UbXVCMW5LUzB0OFVac09VNGw3ZTJJN1JlTGdoQkh5MTdTeDJWZ0QyYUlXTzBTZ1NhQmNoNzRYVkVyTkdGc0lEc2pBb3VCT3dfN2ZtaVc0dExJcw?oc=5",
-          "added_at": "2026-07-25 16:20:27"
-        },
-        {
-          "uid": "440632e5e507",
-          "date": "2026-06-12",
-          "title": "Michigan Democrats push to ban Chinese EVs in Canada from crossing border — trade watchers call it a 'fake problem' - National Post",
-          "summary": "ミシガン州の民主党議員がカナダから米国へ向かう中国製EVの国境通過を禁止しようとしていますが、貿易専門家はこれを「架空の問題」と批判しており、S.4429に反映される米国の対中国製EV規制の過度な拡大を示唆しています。この動きは、カナダ経由での中国製車両の迂回輸入を阻止する名目で進められていますが、現実には限定的な脅威であると指摘されています。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkFOOHQ0QnlyYndrZmVXcXVBdFNwWXhjaTdfeEhfendjVmxCOEFaWERWWUJfWVlZdENWUkxtZzlxWXVTQnhvRWV3aFBoTkhCNVpuT2NweUtZR0gtZWhrWXhaRVFBclRMZFVlQm1GdHhKbkRTMC1icE1RZzdHQUcwUXNOZ2ZCOXlmLWVVZkZ4WDVFeElJaG9wLWR3cVMwRHRyVGozSC14YktBazZwNTNERDNsSEY3ZkppNTg4cHkzYw?oc=5",
-          "added_at": "2026-07-25 16:20:27"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-19 18:16:03",
+      "last_checked": "2026-09-20 02:03:55",
       "items": [
+        {
+          "uid": "eb1b12717735",
+          "date": "2026-09-15",
+          "title": "Why did China abandon US-made Microsoft Word? - Kompas.id",
+          "summary": "中国はMicrosoft Wordなどの米国製ソフトウェアを段階的に国内製品に置き換えており、この動きはレアアース等の重要資源・技術の戦略的コントロールと同様に、米国への経済的依存を減らし、サプライチェーンの自立化を進める国家戦略の一環と考えられます。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3FvS2VoY00xR1JwenNNX090Z3pPZFJ0R3FvYlZNV1VGT0Fid1o4eS1KY0Vlb0tPRVhjMDhlQVdCaGdHbzlZV3dhVEJmVDFIeUFfWjUxamdod0ZpQklfdHFEMkxuYnljYzBQTERLeGtKOVRVdVdGUmZBM085VWJiVXV1bTZfU0JCUnVQb2JHOUJ4bDlUQ3h6d3B4cl81VlpGbk1xNi1LamZ3Zw?oc=5",
+          "added_at": "2026-09-20 02:03:51"
+        },
+        {
+          "uid": "8cbe97b23f17",
+          "date": "2026-07-22",
+          "title": "U.S. senator issues blunt appeal to trade czar as tourism tanks: Improve relations with Canada - CTV News",
+          "summary": "この記事は「中国レアアース輸出管理」とは関連性がなく、米国の議員がカナダとの関係改善を貿易担当官に訴える内容です。要約の対象外となります。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMG5FWkJoYVVRNU9LTmlmMi1FOHRaUzFiUTZucUZNbG1UNFlEeGpPY09RMGhjVDFXV19NSVFmVlVUei12c2RtR0RzVFNPbXZMNEFtX1EtNDdHZzJOOXlBWDYyTzJQdjJablItLW9zckIySkVlTnNnQ2RWMGhhRjF3a1VPMEwwdnRoQk1iaklNQjJSWWNyY0NuT3VXTjgyZk5jZ0YwdlZiZ1cwck1tQWpKaTg1bTFPZV9OQUQ2aTBkX2ltb1ZOam51TjltbnA?oc=5",
+          "added_at": "2026-09-20 02:03:51"
+        },
+        {
+          "uid": "1294aea4dd0f",
+          "date": "2026-09-19",
+          "title": "Why is the Trump administration targeting  foreign journalists?",
+          "summary": "この記事はトランプ政権のジャーナリスト規制政策についてであり、中国レアアース輸出管理とは関連がありません。要約対象外です。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/white-house/6093808-press-freedom-under-threat/",
+          "added_at": "2026-09-20 02:03:51"
+        },
         {
           "uid": "332646b982c8",
           "date": "2026-09-18",
@@ -6001,36 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQlk1ejJwa25HT3Eyc05lSTNNVUhLWHJCcWtQRGVaQ05PeDJDOGlFZGV3T0EtMFY0eTdJLU1XZWUxUUFnOHlOcWZEaW5hcTFCbXVzcFFqYk5DcGVBVk9vaVNxZWI3UWJVQWxqbi1vbGhlQmhkSFh2MnNFUXVSY2VlYjgyRmRpMzFuaXR5WGJzcm1Bbk11ZE9TczdpdzdCNVVjLW5Cbld1QkdHckxLSXBVeGV1dm5YR1VIZWx3MmJXLVg0T3ZvMUJMQg?oc=5",
           "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "78f0afa714c9",
-          "date": "2026-09-02",
-          "title": "Bessent: China not among countries agreeing ‘cheap exports’ are unsustainable",
-          "summary": "米国財務長官ベッセント氏は、G20会議で中国が低価格輸出の持続不可能性を認めず、特定の貿易問題への対処を拒否していることを指摘した。この発言は、中国の過度な輸出慣行に対する米国の懸念を反映している。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/business/6066584-bessent-calls-china-g20-dissenter/",
-          "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "07a308076278",
-          "date": "2026-08-24",
-          "title": "US-China Relations in the Trump 2.0 Era: A Timeline - China Briefing",
-          "summary": "申し訳ございませんが、提供いただいたテキストはタイトルのみで具体的な記事の内容が含まれていないため、「中国レアアース輸出管理」に関する要約を作成することができません。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9rOHkwQl9VYldidlJVajgtZzY4VE5TQmt6eEQ2czIxaTk5N3Ywd3diVXdCT3dKVmhUNmxMRjJ0UnJKdGE2TUtuNklrdWx4UTVGZG5kY1pvWnNEWUhkdmZ5WkV3R0plREV6aTlGc1JEUHVQeG02VzRsVE82OERteXhsMGNfTEVPMllnN0p3?oc=5",
-          "added_at": "2026-09-02 02:42:13"
-        },
-        {
-          "uid": "583ffd3f1bd7",
-          "date": "2026-09-01",
-          "title": "China's Rare Earths Duopoly - ChinaTalk | Jordan Schneider",
-          "summary": "中国はレアアース鉱物の採掘と精製の両段階で世界的な優位性を確保しており、この二重の支配力により戦略的な輸出管理を強化できる立場にあります。中国がレアアース輸出規制を活用することで、他国の産業競争力に直接的な影響を与え、地政学的な交渉力として機能する可能性があります。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WZV9rTExjU1JXeXlpc3FhLXB3RjA0bVZHZUJEYklucnlSb0R1TjZHZFhtR0czT1NaSlVYUzdhcWdLM2tpT0xCejliQ2Y1bzJqbENGazZNQ192QnZad2w3bkVLdDVrUWM?oc=5",
-          "added_at": "2026-09-02 02:42:13"
         }
       ]
     },
@@ -6041,8 +6041,28 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-19 18:16:10",
+      "last_checked": "2026-09-20 02:04:03",
       "items": [
+        {
+          "uid": "1294aea4dd0f",
+          "date": "2026-09-19",
+          "title": "Why is the Trump administration targeting  foreign journalists?",
+          "summary": "トランプ政権が外国人ジャーナリストを標的にする厳格なビザ規制政策は、中国やロシア、イランなどが批判的な報道をする媒体を抑圧する手法と同じであり、民主主義国家による権威主義的な圧力の懸念が生じている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/white-house/6093808-press-freedom-under-threat/",
+          "added_at": "2026-09-20 02:04:00"
+        },
+        {
+          "uid": "864b048ae378",
+          "date": "2026-09-19",
+          "title": "Healthy food is the missing piece in health savings and flexible spending accounts",
+          "summary": "この記事は健康食品に関する医療費節減制度についてのものであり、自動車メーカーの対中提携への政治的批判という文脈には該当しません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/healthcare/6098188-congress-expand-health-spending-produce/",
+          "added_at": "2026-09-20 02:04:00"
+        },
         {
           "uid": "739700355c09",
           "date": "2026-09-05",
