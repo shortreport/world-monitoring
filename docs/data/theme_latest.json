@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19 02:35:46",
+  "generated_at": "2026-09-19 11:57:41",
   "themes": [
     {
       "id": "iaa",
@@ -8,17 +8,17 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-19 02:35:02",
+      "last_checked": "2026-09-19 11:56:22",
       "items": [
         {
           "uid": "30cc2c7ca5a9",
           "date": "2026-09-18",
           "title": "Beijing tells EU to weaken ‘Made in Europe’ industrial bill ahead of October showdown - EUobserver",
-          "summary": "中国はEUに対し、10月の交渉の前に「Made in Europe」産業法案を弱化させるよう要求しており、これはIAAが中国企業を過度に制限することへの懸念を反映しています。IAAに対する中国の圧力は、EUが欧州産業の競争力強化と対中リスク低減のバランスをとる必要性を示しています。",
+          "summary": "中国がEUに対し、欧州産業加速法案（IAA）の「メイド・イン・ヨーロッパ」条項を弱めるよう要求しており、10月の協議に向けた圧力をかけている。この動きは、EUの産業保護主義的な規制が中国企業の市場アクセスを制限することへの反発である。",
           "source": "Google News",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVlOMm45Z0NUQVV2UXR5eG1xUlpJUll6MnRxUURvekxyYWg3NGFHZW5EV1BQX1dSb0M2WTRmTUJhZkwtT0tab1gwQm9YMUZsZ25KOUxYdDYxV1VhVlhUdHFDVDBrZ0lLb182OUd3U0ROTS1XN0VramJHOWh3QzNoN1FSQ3E3UFJncFJNV19oeEhQaGlCdU91VFkxX3czRlNicUpqWFJQOWdvcnlzcG85LWRxVkg?oc=5",
-          "added_at": "2026-09-19 02:35:00"
+          "added_at": "2026-09-19 11:56:19"
         },
         {
           "uid": "f9359ee07569",
@@ -2019,17 +2019,17 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-19 02:35:13",
+      "last_checked": "2026-09-19 11:56:44",
       "items": [
         {
-          "uid": "8462a4cc44e7",
-          "date": "2026-07-24",
-          "title": "China could hack your next car. The Senate has a chance to stop it - Washington Examiner",
-          "summary": "米国接続車両安全保障法（S.4429）は、中国などの外国による自動車へのサイバー攻撃の脅威に対応するため、接続車両のセキュリティ強化を目的とした法案です。本法案は、自動車メーカーに対して接続機能を持つ車両に対する外国からのハッキング防止措置の実施を義務付けています。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmJyeWlFdE16ZkJXMVdjVW9pLVBtWE5fdmQtQkJaWFZsWWFBN2g4a1A0dUc5TVhYYTJ4eG83dGtybHY0Z1Y0ZGFtLWUzdzViWHY0UzQ5dko1OGkyQ2dsZ2c0Ql9IRnBwVHJxS2FLY2h1eDVVWEh1RkpHaExvWHl3OTVsYUdXbkNjZ3h0cUdORVV6X0tPZnNyQ2UxSDhzdUh4ZlN3?oc=5",
-          "added_at": "2026-09-19 02:35:12"
+          "uid": "4e57a4c5c548",
+          "date": "2026-09-18",
+          "title": "US Auto Industry Urges Trump to Keep China Out Days Before Xi’s Visit - eletric-vehicles.com",
+          "summary": "米国自動車業界がトランプ大統領に対し、中国の自動車市場参入を阻止するよう要請しており、これはS.4429法案が目指す車両データセキュリティと供給チェーン保護の強化という政策意図と一致している。中国製電気自動車やコネクテッドカー技術の米国市場進出を制限することで、国家安全保障上の懸念に対応しようとする業界の立場が反映されている。",
+          "source": "自動車部品業界",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT01rZGJxVkczYkd3dnBxTGF0QnRiVWcwUXJJVWtOMk94R0hySVoxVGIxS3V0d182UFY4M3hkSmlXOFBhUXJ0MnhJRFhadEVZV2d6Z3FHS1B2TUpLMnFPdkNQT21FN3lSdFNiVXZ0Uk5Xek5ZT3M1TGthR2wtSTBRSk5mRjAyUlB1OTlhM244U2FFLWJRY3pyYUdIaGo4dnhkcWdFcHhlU19hZw?oc=5",
+          "added_at": "2026-09-19 11:56:40"
         },
         {
           "uid": "28f1493e5e69",
@@ -4030,27 +4030,47 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-19 02:35:32",
+      "last_checked": "2026-09-19 11:57:15",
       "items": [
+        {
+          "uid": "a29a5be6dafe",
+          "date": "2026-06-23",
+          "title": "US-China rare earth truce tested as tensions rise - South China Morning Post",
+          "summary": "米中貿易紛争の激化により、レアアース供給をめぐる米中間の休戦状態が揺らいでおり、中国がレアアース輸出規制を強化する可能性が高まっている。米国がハイテク産業での中国依存を減らそうとする一方で、中国はレアアース輸出管理を戦略的な交渉カードとして活用しようとしている。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY3NrNVR1anA3eVlCakc4aDNDam9VZnBnd2QycGJ6azBjNThuSDJVWGViR3NVdkhSMXVOWExhY1ZpcnFHMEFMYjUxRm44QXJ5dWRVS2FhdkV4UzQ0d190R0xfMnNZYTQ4cXNwQWt2b3J4UEFudkVMLVdWQzNncmZFR0ttajI5dDh3NTVhNzljTkdjZVhDN3M1aW1MVE5Hd1VKS1VnNXZKYTNQOWt2UHV3M092QlZnR0I2Q25aOWpqdUxkYkJ6VzFv0gHHAUFVX3lxTFB3bU5EdWdkTmZFR01vc2UxbXZEU213NGZCZlFyLXpHWkVVV0JTaVhEcm1QYnBCR1JLN0xILVJqdDZTdnlCX3lsbVkxcEVsYXFtTWV2eTRfT3lNNHRrLVVGb3VkUkJRcEFBazZ6MG14NVQtVmVPbFRoSjg3eFM2Y1dDN0w4UFlrU0R3SGR3SVRhcG9qYWNNODIzOE50LW1CZTVOWkFXbERELV9mSWN1U2daa3VnMVliRlZDbVRzalpaMEJMZGwxOTg?oc=5",
+          "added_at": "2026-09-19 11:57:06"
+        },
         {
           "uid": "dcc985f6a41d",
           "date": "2026-06-23",
           "title": "China Strikes Back at the Pentagon’s Rare Earth Bet - Foreign Policy in Focus",
-          "summary": "中国は防衛産業向けレアアース供給における米国の依存に対抗し、戦略的なレアアース輸出管理を強化することで、地政学的な影響力を拡大しようとしている。米国の防衛・宇宙産業はレアアースの中国依存度が高く、中国がこれを輸出規制の手段として利用することで、米国の国防戦略に対する支配力を高めることを狙っている。",
+          "summary": "中国は米国防総省のレアアース供給源多様化戦略に対抗し、レアアース輸出管理を強化することで、米国の防衛産業への供給を制限しようとしている。この措置は、米国が中国への依存を減らすための投資を進める中での中国の報復戦略を示している。",
           "source": "欧米レアアース企業",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HTEpCamptNzA1QWY5cFhXcF9fdUZQNVVNZmtaSkREbGI0ZzFlMHMwUXE0X09INDBMOEFLRUlxcGduX19kSURDQWxGQlBsVnYxTVV3LUtOSl81N3hJdW1qaG9GcElHclZVU1lYSjRoVXFwWWVEaTlF?oc=5",
-          "added_at": "2026-09-19 02:35:29"
+          "added_at": "2026-09-19 11:57:06"
         },
         {
           "uid": "29faf66ea2f7",
           "date": "2026-06-23",
           "title": "China tightens export controls on 10 U.S. defence and rare earth firms - 디지털투데이",
-          "summary": "中国がアメリカの防衛関連企業とレアアース関連企業計10社に対する輸出管理を強化し、これら企業への重要鉱物や技術の輸出を制限する措置を講じた。",
+          "summary": "中国が米国の防衛関連企業とレアアース企業10社に対する輸出規制を強化し、これらの企業によるレアアース製品の購入を制限する措置を講じた。この規制強化は米国との技術・防衛競争の中で、重要な戦略物資であるレアアースの供給をコントロールする中国の戦略的対抗手段である。",
           "source": "防衛産業",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODg0VUlzc2ZwR3VMOHkzSnFGRWtOOF8wUXMyTGRPTXNOSEZpZXN5cm1ra2xuRF94V2JTMmtzVmJrR1kxVS12N1hPZHRYb0Uxb25JbmlUXzhiMzRvNFE0SHV1Y2hJVWx1dk5ZMGNNVWV2THBLZFU2VkNTS1dUUTcyeHBYTnNNZVpKWmt3R2hPMnBKbW1GM1NjOU5aM3FZeXhKVTdiTlNuSTR6bXVCZmUxdkxidw?oc=5",
-          "added_at": "2026-09-19 02:35:29"
+          "added_at": "2026-09-19 11:57:06"
+        },
+        {
+          "uid": "4c0396a1ba44",
+          "date": "2026-06-22",
+          "title": "China Places Two US Rare Earths Producers on Export Control List - Bloomberg",
+          "summary": "中国は米国のレアアース生産企業2社を輸出管理リストに追加し、中国製レアアース材料の供給を制限する措置を講じた。この行動は米国による中国レアアース産業への規制強化に対する報復措置と見られている。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHJwdlZ4MUdGR0ZWRzFndEhRbzRWYUxjcVllaURQcGt4bkpHWHE0OXNwaGZOVkRkNFFyWGVOOGdqSkUtelBQU19qWlNITlRwNXZoTnAzR3VFSE0ydnhvdnl1d1hjVkdKYUNPWmZkTC1pVEpVNV9PSU9FMFlNc01OODUwSE1ScjBMZ2ZtdEVnelQ5Z2diYzk2bVpSOElidmFsLTh5VDVwR2FySWt2dngzV1hjLWhfZw?oc=5",
+          "added_at": "2026-09-19 11:57:06"
         },
         {
           "uid": "37802551e344",
@@ -6011,26 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSHFhSjQ2SGFLNXV5bE1sTVZ1QmN2WC10aURubFFRX1Y3NnQ3eTdKOVYxVV8ydTdRZHNZaGpWUHdfODdXY29zeTBKdWF3T0N4T05OQUlJVzd0VXlvRFhmc2xZR2swME5DUnR2amxTc09lMHZoZWpNMm1nVmxiOFNTS0k0OWtVUVlZZFV1cU5wV2xPcHhmeVBIMmJyeWRvZDdua2lyMHZkUjjSAa4BQVVfeXFMUEhFLVlvbHFkYmRYQW9CUHh2ekFMMHlJLW9FSVJDVHVuanVtVmphZVZnZVFrZGxTcURkaWQ3dk5WT3JKMXYxYnFvTEg2Y0VOMC0yWTlEX1l5SXVMdFQ0eU80QjluakFibmU3bmZMcTZmSk9ocHJrNl9tZllTSXdobzJ6Qk9laERTbkxKZGFhSUpuaHN6R19oTmN4NzU1aEVxeldkOU9NaWpEbUx3cGpR?oc=5",
           "added_at": "2026-09-02 02:42:13"
-        },
-        {
-          "uid": "b2ba735c8621",
-          "date": "2026-08-31",
-          "title": "Tinsel Magazine Publishes 'The Countries Looking Away' on Nations Without Child Online Safety Laws - EIN News",
-          "summary": "この記事は児童オンライン安全法に関するもので、中国レアアース輸出管理との直接的な関連はありません。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRzlNTWdqZmFZRzBzcmZ1U3RScWs1Mmt4YnhqekN5SjBSV0NvVHV6ODA1bGhDR2l1ZUZtdmRQdHVQZHdJU0NOU1pocUtsMFF5NS13YkRNdldlVUh3QWhhaWdnelVZYmhhOHBPdjBmNGdTODJIQmxqd3hHdDhWRnUzbjlDa0x0TWtPc2c0YmVjd3FJWHF4N1ZHdTN4NENmNHNITFhNS0wyN2FiVEltTElnYU1tOGpzX1B2THkxOVlJNjVxa3ZwakRmMlA1YVZMTkxlbGxmLQ?oc=5",
-          "added_at": "2026-09-02 02:42:13"
-        },
-        {
-          "uid": "6356bad8e7a0",
-          "date": "2026-08-31",
-          "title": "Tinsel Magazine Publishes 'The Countries Looking Away' on Nations Without Child Online Safety Laws - EIN News",
-          "summary": "申し訳ありませんが、提供いただいた記事のタイトルと内容は「中国レアアース輸出管理」とは無関係であり、児童のオンライン安全に関する内容です。そのため、ご指示の文脈での要約はできません。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1FkTlZIU3paeEI0aVB5ekZZTzE3UVh2UEN2aFgzbnRBUDluS0owYWRBaDhscXZtQXBHZGF5djhOVjRrWENDSmVyWWI4WEFGX09Xck5hUTZibG5nemZvc29XbTZ0S2MyM1pqNFpLQlhXWDgxZXd6WDc3MXFmTjl1aExsWlB1MEpZQ3NIMGZfSUZveVppVXFOS09OVUlNemt6dzdMMmZ5OThnT0tmcm5WaGV1OTk0ZU5BaDlfVWU5bkRFUUZ4VEZzNlVIU3pYNU9fTUxWOURB?oc=5",
-          "added_at": "2026-09-01 18:49:25"
         }
       ]
     },
@@ -6041,57 +6041,87 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-19 02:35:46",
+      "last_checked": "2026-09-19 11:57:41",
       "items": [
         {
-          "uid": "f77cccea8a95",
-          "date": "2026-09-18",
-          "title": "As Iran war grinds on, Trump to face skeptical world leaders at UN - Reuters",
-          "summary": "申し訳ございませんが、提供していただいたコンテンツが不完全です。タイトルのみで記事の本文がないため、「自動車メーカーの対中提携への政治的批判」に関する要約を作成することができません。記事の本文をご提供いただければ、要約いたします。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFROaUxKT0xTODBaOWZaNkx1anVfanoxaFVwYm5QQnlNY1QwZXEyaEY3QnR6QmNDMHlJX3gwWU5WRWN6VmdjdkxLSmEyX3dZeW9pVmJ2d3lEeVlPWVFQeDNwa2V5bnE0b3h0OGRIWmdMTUw4aDQ5UUZHX192bmcwNTNUeEJIU2YySU8yM3FxX3lCTFlJX1Y3bHRrd3g4MS1nNk5LNkJEZmlWREk?oc=5",
-          "added_at": "2026-09-19 02:35:39"
+          "uid": "739700355c09",
+          "date": "2026-09-05",
+          "title": "US automakers push Congress to permanently ban Chinese connected cars - CHOSUNBIZ - Chosunbiz",
+          "summary": "米国の自動車メーカーが議会に対し、中国製の接続車両の永久的な禁止を求めており、これは中国自動車産業との提携や技術協力に対する米国内の政治的警戒感が高まっていることを示しています。米国は国家安全保障上の懸念から、中国製コネクテッドカーのデータ収集・管理機能を制限しようとしています。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnZ1VXI4S2pJM2NNdFBmcW80VkU2OXVEZnJpenNjUGlRbFFRdXQ0ak82N3YyUjZKUVRsX3RkQXVWS0xTMGRPWHc2ZzM1Z2xsSG5uV3F3My1IOTJwVG1ubndtSElMTWlmT1JNTFRvRUJZakcya3RPWjhRSng4cWM1ZVFwNGQ5NXlC0gGcAUFVX3lxTFBKMjQ4TzU1d2J3OW9odjRZbkd4NVRwcS1nVmxKTGZOcE9XR3FSXzlxYlB5MWJBX3BHTXV1VWR2WF9ET25zU2ZLa0RPalJFWV9sT1FDamQ4X1RucGg3TnB0RFdBNzJpVlZ6LW5MREY5VjNJaFZ3enFKdktJVkU3blpmVm1SRkNvbFQ0UldrT1hKUlhFTXhxMnhEazNMTA?oc=5",
+          "added_at": "2026-09-19 11:57:25"
+        },
+        {
+          "uid": "69212b99cbb4",
+          "date": "2026-09-08",
+          "title": "The Trump administration slams Ford for its ties to China - CNN",
+          "summary": "トランプ政権がフォード・モーターの中国との関係を批判しており、自動車メーカーの対中提携が米国政府からの政治的な圧力の対象になっていることを示している。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTERLemdyM1dPQmx3RXlpOFFuS3VLNFdXRnJ0dFZJdG1CNURCc0FVN21FT1pTbnZydnp1SHdZVlBRcWlVYnJmalBMM1VqR0lBZ0VzUGpaUzRsTG5DYUxJdVl2OEJrc1NhMFgwcWZyMVJWdDJnMjlGQmY1ZXRDVU5OT0JR?oc=5",
+          "added_at": "2026-09-19 11:57:25"
+        },
+        {
+          "uid": "4471787d3fc6",
+          "date": "2026-09-10",
+          "title": "Ford caught in escalating Washington clash over China deals - WHTC",
+          "summary": "フォード・モーターが中国との事業提携をめぐってワシントンで政治的な対立に巻き込まれており、同社の対中戦略が米国の政策立案者から批判を受けている状況を報じている。",
+          "source": "フォード",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHN2aXlhcjkwOW5zdEVoMU5kbHI1YThhVmNwdHRMaC1COEZ0SGFKbFRVeVBCdG0xYjVPQURFUU1Nck0wNUcyV2wtdVlIb2RDUlB1bjVWZmFjbFExRy1XSjBIeTVxWmZ6ZHBmYjFnMHZqTzdILWtjZURjdmlmUS1lS0ZrRkJqYzg1RWxrR01ob0NYZw?oc=5",
+          "added_at": "2026-09-19 11:57:25"
         },
         {
           "uid": "c1192060f93e",
           "date": "2026-09-18",
           "title": "Tata Group's boardroom clash rocks India's most storied conglomerate - Reuters",
-          "summary": "インド最大手企業グループのタタ・グループで経営陣の対立が起きており、同グループの統治体制の問題が浮き彫りになっている。（ただしこの記事は自動車メーカーの対中提携への政治的批判とは無関係と思われます。）",
+          "summary": "インドの名門企業グループであるタタ・グループで経営陣の対立が生じていますが、この記事は自動車メーカーの対中提携への政治的批判とは関連していません。",
           "source": "Reuters",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjd0Y1JXQjg3NUNsd2RjUmNMbkZuUlNSb3YxQncwcWtEa0M4X3NHbXd4SzJKUHR0SFB2ZEp2ek5vRVVQcnNKd0tZT0s0NWhtSVg3MS1LTWl4d19IdmtUMm9vM2RoQkk3OVZCTWhRS3VWcV9PQ1lHV2hjcm8yT0V0TEV5eWNILS04YS00NzBnUGdfN2xMVWM0SDZjQ3V3TXZmYUFYTUpDSnBFM3NRa3c0alM4X0k?oc=5",
-          "added_at": "2026-09-19 02:35:39"
+          "added_at": "2026-09-19 11:57:25"
         },
         {
-          "uid": "8096fe3c0106",
-          "date": "2026-09-16",
-          "title": "McLaren to invest $675 million to expand UK manufacturing, launch SUV model - Reuters",
-          "summary": "マクラーレンは英国の製造施設拡張に6億7500万ドルを投資してSUVモデルを発売する計画であり、自動車メーカーの国内製造投資の一例を示している。",
-          "source": "Reuters",
+          "uid": "8c6f0ebeef34",
+          "date": "2026-09-19",
+          "title": "Hegseth backs Trump on banning media outlets",
+          "summary": "この記事は「自動車メーカーの対中提携への政治的批判」に関する文脈とは直接的な関連性がありません。本記事はトランプ大統領によるメディア機関への出入り禁止措置についてのもので、自動車産業や対中提携に関する内容を含んでいません。",
+          "source": "The Hill",
           "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWZOTmQyZVZhSXBwMDVHSUZ4RkVjMllaekVxX2liVjZDTDNJMnczVmhwMHF4NjJqbTJqei1xdFR6NDlfanpXR0dnUEY0U3hJNTZkbUM2U2dyeVVpMFliY1hwQS1FM0FFcTROZDJsLUxxdFlSVDY1RUZfZWV5Q3lic18yamI3bTh2X3R1MTVnS1ctWGdGYjlsSV9yS2NvNjJTT2laSkJOSWxtMkstR21UNURxUjZiTXl1cjFXQktVTzFUUGl1bFRr?oc=5",
-          "added_at": "2026-09-19 02:35:39"
+          "url": "https://thehill.com/newsletters/defense-national-security/6099382-hegseth-backs-trump-on-banning-media-outlets/",
+          "added_at": "2026-09-19 11:57:25"
+        },
+        {
+          "uid": "f59089aa6370",
+          "date": "2026-09-18",
+          "title": "43 percent say Trump responsible for current state of economy: Survey",
+          "summary": "申し訳ございませんが、提供いただいた記事は「自動車メーカーの対中提携への政治的批判」とは無関係な、トランプ大統領の経済政策責任に関する世論調査の内容です。このため、指定された文脈に沿った要約を作成することはできません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6098451-donald-trump-us-economy-affordability-voters-survey/",
+          "added_at": "2026-09-19 11:57:25"
         },
         {
           "uid": "ace25e175ee0",
           "date": "2026-09-18",
           "title": "25 years later, President Trump has discarded the lessons of 9/11",
-          "summary": "トランプ大統領が対中提携への政治的批判の文脈とは異なる内容のため、適切な要約ができません。この記事は9/11後のテロ対策予算削減やTSA民営化などの国防政策批判に関するもので、自動車メーカーの対中提携には言及していません。",
+          "summary": "トランプ大統領の国家安全保障政策に対する民主党の批判は、テロ対策資金やTSA民営化、人員削減が国防を弱体化させるという懸念を示しているが、この記事は自動車メーカーの対中提携に関する政治的批判の文脈とは無関係である。",
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/opinion/national-security/6097273-trump-weakening-homeland-security/",
-          "added_at": "2026-09-19 02:35:39"
+          "added_at": "2026-09-19 11:57:25"
         },
         {
           "uid": "6f4716019da0",
           "date": "2026-09-18",
           "title": "White House set to tout Medicaid ‘most favored nation’ drug pricing deals",
-          "summary": "この記事は医薬品価格設定に関するもので、自動車メーカーの対中提携への政治的批判という文脈では関連がありません。要約をお断りします。",
+          "summary": "この記事は医療関連の政策（メディケイド医薬品の価格設定）に関するものであり、自動車メーカーの対中提携への政治的批判という質問の文脈には該当していません。",
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/policy/healthcare/6097691-trump-medicaid-drug-pricing/",
-          "added_at": "2026-09-19 02:35:39"
+          "added_at": "2026-09-19 11:57:25"
         },
         {
           "uid": "78ddb8b6368b",
