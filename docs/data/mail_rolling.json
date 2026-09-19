@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-19 11:56 JST",
+  "updated_at": "2026-09-19 11:57 JST",
   "total": 50,
-  "toyota_summary": "Chinese auto parts imports into the EU hit €5 billion in the first half of 2026, up 23 percent year-over-year. Meanwhile, China shipped more than 1 million vehicles for three straight months, with manufacturing clusters in Shenzhen, Hong Kong, and Guangzhou gaining ground in global innovation rankings. The EU auto industry has unified its position on the Industrial Acceleration Act but faces pressure on the \"Made in Europe\" requirement that would protect local suppliers.\n\nFor automakers, this means squeezing margins in two directions at once. Chinese competitors are moving upmarket with better technology while undercutting on cost, and European suppliers—already losing market share on components—face stiffer competition for the contracts that keep factories running. The risk is structural: if EU rules force automakers to source from higher-cost local suppliers while Chinese rivals source globally, competitive disadvantage widens fast.\n\nWatch whether the EU dilutes or delays the Made in Europe provisions when the IAA comes to a vote.",
+  "toyota_summary": "欧州自動車工業会（ACEA）は「産業加速化法」に基づく「バイ・ヨーロピアン」規則の支持で足並みを揃えたものの、どの国を「メイド・イン・ヨーロッパ」と認定するかを巡っては、自動車メーカー各社の間で意見が分かれたままである。英国製自動車の輸出先の6割がEU向けである点を踏まえると、英国が対象から除外される可能性は大きな懸念材料となっている。",
   "emails": [
     {
       "ts": "20260919_0107",
@@ -11,7 +11,12 @@
       "date_label": "SEP 19  01:07",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "GOP polling collapse puts larger Democratic Senate majority in play",
+      "html": "data/pdfs/20260919_0107_GOP_polling_collapse_puts_larger_Democratic_Senate.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260919_0048",
@@ -21,7 +26,12 @@
       "date_label": "SEP 19  00:48",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Oil likely stuck in $100 range for the rest of 2026",
+      "html": "data/pdfs/20260919_0048_Oil_likely_stuck_in_$100_range_for_the_rest_of_202.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260919_0031",
@@ -41,7 +51,12 @@
       "date_label": "SEP 19  00:23",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Friends with benefits: EU associate membership explained",
+      "html": "data/pdfs/20260919_0023_Friends_with_benefits__EU_associate_membership_exp.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_2202",
@@ -51,7 +66,12 @@
       "date_label": "SEP 18  22:02",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Oil Markets in Crisis: Navigating the Escalating Middle East Disruption - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260918_2202_Oil_Markets_in_Crisis__Navigating_the_Escalating_M.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_2125",
@@ -61,7 +81,12 @@
       "date_label": "SEP 18  21:25",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Xi-Trump Summit Preview",
+      "html": "data/pdfs/20260918_2125_Xi-Trump_Summit_Preview.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_2000",
@@ -71,7 +96,12 @@
       "date_label": "SEP 18  20:00",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Conference call notes: Israeli election update",
+      "html": "data/pdfs/20260918_2000_Conference_call_notes__Israeli_election_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_1834",
@@ -81,17 +111,27 @@
       "date_label": "SEP 18  18:34",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Germany’s Merz girds for a post-election fight for political survival",
+      "html": "data/pdfs/20260918_1834_Germany’s_Merz_girds_for_a_post-election_fight_for.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260918_1806",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/09/18",
       "pdf": "data/pdfs/20260918_1806_「ジェトロ・ビジネス短信」2026_09_18.pdf",
       "date_label": "SEP 18  18:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" 2026/09/18",
+      "html": "data/pdfs/20260918_1806_「ジェトロ・ビジネス短信」2026_09_18.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260918_1806_「ジェトロ・ビジネス短信」2026_09_18_en.pdf"
     },
     {
       "ts": "20260918_1636",
@@ -472,7 +512,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "中国の自動車輸出が3カ月連続で100万台を超え、深セン・香港・広州がWIPOのイノベーション",
-      "subject_en": "JETRO Business Brief 2026/09/17",
+      "subject_en": "\"JETRO Business Newsletter\" 2026/09/17",
       "html": "data/pdfs/20260917_1818_「ジェトロ・ビジネス短信」2026_09_17.html",
       "summary_en": "China's auto exports topped 1 million units for a third straight month in August, even as domestic sales remained sluggish, underscoring automakers' growing reliance on overseas markets. Separately, major Japanese auto parts maker Toyotetsu announced a $41 million expansion of its Kentucky plant, reflecting continued investment in U.S. manufacturing capacity despite trade policy uncertainty.",
       "summary_ja": "中国の8月の自動車輸出は3カ月連続で100万台を超え、国内販売の低迷とは対照的に海外市場への依存が強まっている実態を示した。一方、自動車部品大手のトヨテツは米ケンタッキー州の工場拡張に4,100万ドルを投じると発表し、貿易政策の不確実性下でも米国での生産体制強化を進めている。",
@@ -557,7 +597,7 @@
       "ts": "20260917_1126",
       "sender_norm": "Jetro",
       "subject": "ジェトロ地域・分析レポートの新着のご案内（2026年9月17日号）",
-      "subject_en": "Notification of New JETRO Regional and Analysis Reports (September 17, 2026 Edition)",
+      "subject_en": "Notice of New JETRO Regional Analysis Report (September 17, 2026 Edition)",
       "html": "data/pdfs/20260917_1126_ジェトロ地域・分析レポートの新着のご案内（2026年9月17日号）.html",
       "pdf": "data/pdfs/20260917_1126_ジェトロ地域・分析レポートの新着のご案内（2026年9月17日号）.html",
       "summary_en": "",
@@ -703,5 +743,6 @@
       "toyota": false,
       "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "ACEA has aligned on backing 'Buy European' rules under the Industrial Accelerator Act, but automakers remain divided on which countries qualify as 'Made in Europe.' The UK's potential exclusion is a major concern, given 60% of its car exports go to the EU."
 }
