@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21 19:29:19",
+  "generated_at": "2026-09-22 04:08:58",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-21 19:28:45",
+      "last_checked": "2026-09-22 04:08:06",
       "items": [
         {
           "uid": "c0107d63c291",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-21 19:28:53",
+      "last_checked": "2026-09-22 04:08:15",
       "items": [
         {
           "uid": "d431c407c2c5",
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-21 19:29:12",
+      "last_checked": "2026-09-22 04:08:37",
       "items": [
+        {
+          "uid": "07dde6545ebc",
+          "date": "2026-07-21",
+          "title": "China’s rare earth clampdown backfired: CSIS analyst - Mining.com",
+          "summary": "中国のレアアース輸出規制は、他国のレアアース産業の発展を加速させる逆効果をもたらし、中国の市場支配力の低下につながったと専門家は分析している。この規制により、西側諸国はレアアース確保の多角化を進め、供給源の依存度を低下させることになった。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DZWZlSkxSal9qN2NOM1pOUHItU1hBN2JBdjZxbkR5SFJmNWRBVUpiT1dzaWFKVHpaYjdhUV9pVWVFOWU1aVpDUHFGbDJwZEY1UXlXTFhaTFpnalVUb2hBeWVjTkswam52ckpZeU03aEhxS21vZzE5b0drUFdWcGs?oc=5",
+          "added_at": "2026-09-22 04:08:30"
+        },
+        {
+          "uid": "68621c20fb82",
+          "date": "2026-09-21",
+          "title": "Bessent says US, Chinese officials considering lowering tariffs on ‘noncritical’ items",
+          "summary": "米国財務長官のベッセント氏は、米中両国が「非重要」製品に対する関税引き下げを検討していると述べており、これはトランプ大統領がシー・ジンピン中国主席とワシントンで会談する準備の一環として、レアアース等の重要鉱物資源を含む製品の関税政策において、両国が戦略的に優先順位をつけて交渉を進めていることを示唆している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6102128-us-china-lowering-tariffs/",
+          "added_at": "2026-09-22 04:08:30"
+        },
+        {
+          "uid": "cd37e72f7add",
+          "date": "2026-09-21",
+          "title": "Bessent: US suggesting AI alert system with China ahead of Trump-Xi talks",
+          "summary": "本記事は中国レアアース輸出管理とは直接的な関連がなく、米国と中国のAI監視システムに関するものであるため、要約対象外です。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6101437-bessent-proposes-ai-notification-system/",
+          "added_at": "2026-09-22 04:08:30"
+        },
+        {
+          "uid": "d2ca4f6ab469",
+          "date": "2026-09-21",
+          "title": "Bessent on talks with China ahead of Trump-Xi meeting: ‘Very successful engagement’",
+          "summary": "米国財務長官ベッセント氏が中国との最近の協議が良好であったと述べており、トランプ大統領と習近平主席の会談を控えて、貿易とAI分野での交渉が進展していることが示唆されている。ただし記事の内容からはレアアース輸出管理に関する具体的な言及は確認できない。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6101242-bessent-china-trade-board/",
+          "added_at": "2026-09-22 04:08:30"
+        },
         {
           "uid": "be3674ff2e12",
           "date": "2026-09-18",
@@ -5991,46 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ0tWT0h1MWxmZnRMUmtNRGcyMlhMM1VOenNfNTB0eWh6eExFQkdnMmxWbXRDRTBvaWdZbkZhWF9wbm9RN1p0ZDc1Q1JtVm43RVVFMG5MaXZOd1U3TU5FZ2hEZXNreWxROHdnVHgxNlcxdV9VV0hXcGRSMWtvT1JMaEdTNWtzci1FaGhxc3NYTmZYMFlEb2tjZTdzbEMxNzE3NG5DQndQa0RIbG9peDJF?oc=5",
           "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "73dfe87e8140",
-          "date": "2026-07-27",
-          "title": "Trump may need to allow Chinese minerals as US industry struggles to meet 2027 deadline - AOL.com",
-          "summary": "トランプ政権が電池やクリーンエネルギー産業の2027年供給期限達成に向けて国内レアアース産業の育成に失敗する可能性が高いため、中国産レアアースの輸入制限緩和を余儀なくされる可能性がある。米国がレアアース供給を中国に依存し続ける状況が続く中で、中国の輸出管理による影響力が維持される見込みである。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbTFONHhoOUtfX2ctZHhYdkduYlUzVVdZUVpWUTkybEJiWWV4VUtaVDMyUU02LXFsQkJwZTYtWGVIS19OVng2dU45U2FfYjZSUHlURU9yZ1JSdzNlUWhUU0NvMXY2RTNfeVlna25OODJRQjJDTkE0c2s5VlJ6N0pQdHl3?oc=5",
-          "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "7f486cb71858",
-          "date": "2026-06-22",
-          "title": "Rare Earth Supply Chain: Pentagon Loans $725M to Close Metallization Gap as China Hits Rivals - Tech Times",
-          "summary": "米国国防総省が中国のレアアース支配に対抗するため、レアアース精製・加工技術の国内産業基盤強化に7億2,500万ドルのローンを供給し、中国による輸出管理を回避する供給チェーン多角化を進めている。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2VzYWd6cXdpODdVeHAyYTN4MlBESkZPVk92OThHajRUZTUyYUZFMTdDYnZvczNuUm5STlYtQUZGYUhjU1p4TENPX2hqRzFTWHhrRE83NlpsMDVSSUc4RmY1RTN6V0V5cnFueExYVGtzaFdsMWVLMzdTeENwR0hKQUI2bjlXZDdjUFNTX2dMeE5FYTRwcFhNMXBWOC1tZjkzWjVBbjBKZElDR0ZTZ0R4MDFScmVoTDh6ZVQyZnRUV2NIVlVWTUNiSWlXc3JtTzh2SGJFZERXWQ?oc=5",
-          "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "f073bd82604b",
-          "date": "2026-07-09",
-          "title": "Washington's five-week rare earths funding surge: how the US is rebuilding a supply chain outside China - Fastmarkets",
-          "summary": "米国は過去5週間でレアアース関連プロジェクトへの資金投入を急増させており、中国への依存を減らすため国内およびパートナー国でのサプライチェーン再構築を進めている。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWW80YXdQenpNT3VjZmFqYlNBbE1fdDUzYlRHZEJHeW53ajhoR1BRUURGeF9ZS0xLWkJVN19Gczh3WjVRU2JIei1PbjVGN3YydHkzZGFJc0tkaVFQU0tWYjBTdWd0OE1Ya1VyVWtzSDBjdEZqcU4tbjVrWFN1OGxiNS1BZnRrRWh2TXZLbzJGSzdTYWsycmxWOGpObkg5S0FlaDZuWV83V3o4bFpVQ21mc3JUTHdLMlBlbGgtNDlWUnhJd0hTaHJPNWdfNzlmekZyclpRNk53?oc=5",
-          "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "c1e84bbf7e74",
-          "date": "2026-06-09",
-          "title": "US passes DOMINANCE Act for critical minerals security - Mining.com",
-          "summary": "米国は「DOMINANCE法」を可決し、中国に依存するレアアースなどの重要鉱物のサプライチェーン強化と国内産業の育成を目指しており、これは中国のレアアース輸出管理に対抗する戦略的な動きである。この法案は、レアアース産業において米国の戦略的自立性を高め、中国への依存度低下を推進している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb0paNWlfaWNXUHRjams1LUJfTVVBNDFyMktLOEoyX2pJVlJWM3MtRkJGUDdhSkZ2a3VjdE5mSXhCTDRVSEdKUnNXanBUZnhVZEt5a1dPMVlHLWRfTU8xME9GV1FwTUhNaXpVZlJxWExISUdSb3Z1T2MxOTc1YnRZazBBR2FJUGtlT0E?oc=5",
-          "added_at": "2026-09-03 14:03:33"
         }
       ]
     },
@@ -6041,8 +6041,88 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-21 19:29:19",
+      "last_checked": "2026-09-22 04:08:58",
       "items": [
+        {
+          "uid": "35e5ce226e4c",
+          "date": "2026-09-09",
+          "title": "Trump administration slams Ford, alleges ties to China - WMUR",
+          "summary": "トランプ政権がフォードを批判し、中国との関係を指摘しており、自動車メーカーの対中提携が政治的な争点となっていることが示されている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeWVUZHdISk9NNEJ5VnEwY3U2clRVdlJoZFZIem5HdTNaSFBNTFNtb19kaElnazByb1o2X2FGejBKSzB0dlF2VHNVNDJMNEYyU09BVUtmNWpRNXVyb0FJQk84R1g2LUM4em9oRGZJTk5YWm1yakR4V2xhRGdHcE8xUA?oc=5",
+          "added_at": "2026-09-22 04:08:45"
+        },
+        {
+          "uid": "77895102447c",
+          "date": "2026-09-18",
+          "title": "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting - Reuters",
+          "summary": "米国自動車業界がトランプ大統領に対し、習近平主席との会談を控えて中国自動車メーカーの米国市場参入を阻止するよう要請している。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdEhzVURsLWVhS1lkdmpyM1dlZ21yWC0yZTVWZDdwS2Ftc2JSWmdQekRKU3d0YmFWeGNGTU4yQ28wbFBnRDdFY0dWNTQ3TkVmVW1ld2c1TXotUXJIdzFVY1JUdmhGcXJRLXVlLV9vcXFHNUNlZFc4clp4Y3hUN1VIWTN1Z2tPT3k1WVlvbldMWDdlN0lxWk5YenNmWmhFbTZuRGpNTngzUFBTYnhsd3FnN1lNVk9Gbi1zcksxenJXSjJUbE9qT3FZM1NWWFBudExmeVE?oc=5",
+          "added_at": "2026-09-22 04:08:45"
+        },
+        {
+          "uid": "f74704c58f1b",
+          "date": "2026-09-18",
+          "title": "Report finds 'culture of risk aversion' hindered oversight of SVB, Fed official says - Reuters",
+          "summary": "シリコンバレー銀行(SVB)の経営危機に関する報告書は、米国の金融規制当局の監督機能の不備を指摘しており、これは政府による企業への事前監視の重要性を示唆しているが、自動車メーカーの対中提携の場合も同様に、リスク認識と規制当局による厳格な監視が不可欠であることを示唆している。金融機関の監視不足から学ぶべき教訓は、対中提携による国家安全保障上のリスクに対しても、政府による積極的な監視・評価体制の必要性を裏付けている。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0lrd1l3TVdweDJUSV8ybjRhbnhfTmhzWEcxUjZhNkNRaTRGN21Ob1VYT3Q4OVF2d2toWEdXM1dvTk5NenhHeUY0RjVidHVxQnZBS2RraGNOay1vN0ZQd3llUHRnVGV5a2hMMUtncm10ZWlqTG9UMk1CeGhWSzNQaGF1RTRWWEkxUmZMaGw4R0ZuRXh6UXBzOGN5Z19Hc2x2UVNfVVVpYW1ldlNMZnRvdkVQdnZMcW1McDczREVqWTdXM0JHRVBRaFlaWQ?oc=5",
+          "added_at": "2026-09-22 04:08:45"
+        },
+        {
+          "uid": "f3da1ce4bdaa",
+          "date": "2026-09-17",
+          "title": "Trump lashes out at Fed after Warsh backs rate hike - Reuters",
+          "summary": "申し訳ありませんが、提供いただいたテキストはトランプ前大統領とFRB（米連邦準備制度理事会）の金融政策に関する内容であり、「自動車メーカーの対中提携への政治的批判」とは無関係です。このため、要求された文脈での要約は作成できません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09wMmRRbG83OVR3anZpSGk2VGxLdFRXVFpiMHRDcVZTSldiNTNBNUZlckZlR2k2dEY0Q2F4TFVEdzJ1aC12Z3hacGoyWWkwZjlDNWE4ZGpPejU0V1hVazhVRktwampUZTlkdEpRZWhySlFMZnVTUEtlbVU3T3RUS1hjaFJGcHdMSXMwRERiazVqbTBxOXJlMkVR?oc=5",
+          "added_at": "2026-09-22 04:08:45"
+        },
+        {
+          "uid": "68621c20fb82",
+          "date": "2026-09-21",
+          "title": "Bessent says US, Chinese officials considering lowering tariffs on ‘noncritical’ items",
+          "summary": "米国と中国の両政府が「非重要」製品の関税引き下げを検討しており、自動車産業における対中提携は戦略的に重要な産業として関税交渉の対象外に位置づけられる可能性が示唆されている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6102128-us-china-lowering-tariffs/",
+          "added_at": "2026-09-22 04:08:45"
+        },
+        {
+          "uid": "8a973e9955b0",
+          "date": "2026-09-21",
+          "title": "Barrasso says ‘we need to do more’ on affordability as midterms near",
+          "summary": "この記事は自動車メーカーの対中提携に関する内容ではなく、米国共和党議員のバラッソ上院多数党主席がインフレ対策の必要性を述べたものです。\n\nそのため、要求された文脈での要約は適切に作成できません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/senate/6101578-john-barrasso-gop-midterms-messaging-us-economy-affordability/",
+          "added_at": "2026-09-22 04:08:45"
+        },
+        {
+          "uid": "cd37e72f7add",
+          "date": "2026-09-21",
+          "title": "Bessent: US suggesting AI alert system with China ahead of Trump-Xi talks",
+          "summary": "この記事は自動車メーカーの対中提携への政治的批判とは無関係です。米国財務長官が米中間の人工知能リスク管理に関する通知システムの構築を提案している内容であり、要約対象の文脈に合致していません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6101437-bessent-proposes-ai-notification-system/",
+          "added_at": "2026-09-22 04:08:45"
+        },
+        {
+          "uid": "d2ca4f6ab469",
+          "date": "2026-09-21",
+          "title": "Bessent on talks with China ahead of Trump-Xi meeting: ‘Very successful engagement’",
+          "summary": "米国財務長官ベセント氏は、トランプ大統領と習近平主席の首脳会談を控え、貿易とAI分野における中国との最近の協議が成功裏に進んだと述べた。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6101242-bessent-china-trade-board/",
+          "added_at": "2026-09-22 04:08:45"
+        },
         {
           "uid": "9a98962e4232",
           "date": "2026-09-20",
