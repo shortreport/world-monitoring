@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21 02:21:25",
+  "generated_at": "2026-09-21 19:29:19",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,48 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-21 02:20:33",
+      "last_checked": "2026-09-21 19:28:45",
       "items": [
+        {
+          "uid": "c0107d63c291",
+          "date": "2026-09-21",
+          "title": "What will make Europe's automotive sector more competitive? - Bruegel",
+          "summary": "欧州産業加速法案（IAA）は、電動車産業への投資促進と規制緩和を通じて、米国や中国との競争に対抗し、欧州の自動車セクターの競争力強化を目指す政策枠組みとして位置づけられている。具体的には、クリーンテック産業への資金動員、許認可手続きの迅速化、戦略的産業の保護などにより、欧州の産業基盤を強化することが重要とされている。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXBVZ2hxT2xLYm9mVHFyZlRtWnNfOVZza0cyaUlfenVkUUd6OUdyVnRUdWxMYVlTWDU2QVljaFFnZFNDX1U1UXQyNmF4TDBQbHhpdEN0UGlKMDh1RFBJcWE2X21hb1RyVjk0SHZTeTNUSEhjNkhPa3RzbWFoVlVGY2U2enJpRHdZQUFTUWc3ejdrMldwVEdv?oc=5",
+          "added_at": "2026-09-21 19:28:38"
+        },
+        {
+          "uid": "25caf50b042c",
+          "date": "2026-09-21",
+          "title": "THIS WEEK: Next budget and protectionist industrial policy on EU agenda as EPP chief visits Ceuta - EUobserver",
+          "summary": "欧州保守勢力連合（EPP）の指導者がセウタを訪問する中、EU は次期予算と保護主義的産業政策（欧州産業加速法案を含む）を議題として推進している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm9RNlJMTHhKcDNIck9KcVNuN0lnWnROMlRSZGx1WUxKaDRsVmVmMWF1d3ZqSDBjQlFvSV81QXUzTmZCQUkxNlNpVlQteWhSaXRTYmRfSkFkWmZCU1drSFdWaDF1cUFkeEdqV0s0SWlJblIxanRLbG9WOTlPY1ctVWFHODVORnNxazJTYUU4ZlFZSElqRWhBeFVFSlNTNFZGUVRULWVBem0ydGRDb3dORUxWSmU2clkzVXVnUVFBaVBFUVBGMUE?oc=5",
+          "added_at": "2026-09-21 19:28:38"
+        },
+        {
+          "uid": "cb99c5c84b8c",
+          "date": "2026-09-07",
+          "title": "Boosting Made-in-EU EVs and batteries with the Industrial Accelerator Act (IAA) - transportenvironment.org",
+          "summary": "欧州産業加速法案は、EU域内の電動車とバッテリー産業の競争力を強化するために、規制の簡素化や投資促進などの支援措置を実施する。本法案により、EUメーカーは中国や米国との競争に対抗し、クリーンエネルギー産業でのリーダーシップ確立を目指している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjY1NnQ2RDEyU3huaHE3RExpM1NvSkNtdVNxc21JN2N1bzByamptV19zZGs4c3E2Um9abEVCTlUwYWtXMWdwU2JiTklQRzlGdWJOenBTMmlmUGlYeVBKTDM5cWFsZEJtT2VUeU5SMllkb25yS1NqRXRzd1RQdTVBdm1oa3p1Um80YUFFYVdXOG5xVWlpRVdQUnBpMUQzUDFZVUdReE9hc1NCekxXeFVIUkFteXNWTmhjSWVaN0VFTnQ?oc=5",
+          "added_at": "2026-09-21 19:28:38"
+        },
+        {
+          "uid": "9f4ca40f6f14",
+          "date": "2026-09-16",
+          "title": "ETS: Council agrees targeted measure to protect energy-intensive sectors from carbon leakage - consilium.europa.eu",
+          "summary": "欧州理事会はETS（排出権取引制度）において、エネルギー多消費産業のカーボンリーケージ（炭素漏出）から保護するための的を絞った措置に合意し、これにより産業加速法案（IAA）の支援下で欧州産業の国際競争力維持と脱炭素化を両立させることを目指しています。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWGZyOGpHcEhGelc1V3hBUnh1U01tMTRsY1E1d0FueVM2cG0yRzlzMG5VMUp5SmVuSG9TRWJuWUlvaGtVMFNwWUdLS2owUTg2UnR0bnYybHdIS2RfeE5zTWtEajRxRVNLcnExVFBlcy1jNVNMVy1zUzJvRGlTamZVTUlOckpuV2J3b19ybDVVOExuLVBYeWh4WUNwM18xTGkyeWZWQjdOZ0dLMUhRdENoVTdMaHhlWGZ6MlBRTm1UTnRjS3RhbVAyb1dhN1hRcFdZaHpGQmhoQlZfamRRaEdoNmo0bl9LZ25VQmloSjhmb2M?oc=5",
+          "added_at": "2026-09-21 19:28:38"
+        },
         {
           "uid": "30cc2c7ca5a9",
           "date": "2026-09-18",
@@ -1969,46 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZXltNWFlUjloYjdBOEtzNDdtZVQydEt3cm1fSEYyODhDSFZ3VEV0Q0ZpMzV4c3ZRd09TemFWWjAyUXQ2My1GTzM3UjlCR2I2LW5UaTdEcWhESFN2WHBDdzE4WUVGSjZqZmsyaV9sZGd2YjlPWmt2VmpZXzNneDJ1cHQxbnZOSWYxeVV4SElIdVBKNEZQ?oc=5",
           "added_at": "2026-06-19 22:04:07"
-        },
-        {
-          "uid": "73d1c8186519",
-          "date": "2026-06-18",
-          "title": "EU Parliament's internal market committee requests to co-lead cloud sovereignty law - Euractiv",
-          "summary": "EU議会の内部市場委員会がクラウド主権法の共同主導を要請しており、これはEU産業加速法案（IAA）における戦略的自立性と技術主権の強化を目指す欧州の産業政策の一環である。同委員会の動きは、IAAが掲げるデジタル産業の競争力強化と米国や中国の技術覇権からの脱却という目標を支持するものである。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3hBcDRvVzVEYnVuVGl4MEhhbnBXNFVtZXZ3UDZaMXZEX3RxajVpMzlIcGlaVVNQWS1zVENJeTE4Qmdnd2ZnUHFlMDNSU09Ed0pjWk5XZlpVSGswTXgxZW5ESHV5SWVUQlJBMjdEUHZZcmp1T2NINUtJaUk4X25hNlk2bEhONnIzc3NEdEpPTC1uM3RRSENRM2JkMzBBbnJSc0NQUEdqWkdCYXRaZ2RUbzR4OA?oc=5",
-          "added_at": "2026-06-19 09:16:13"
-        },
-        {
-          "uid": "06280fe3a682",
-          "date": "2026-04-16",
-          "title": "EU Industrial Accelerator Act + Critical materials + Platform exports - Mercator Institute for China Studies (MERICS)",
-          "summary": "申し訳ありませんが、提供いただいたタイトルと内容が同じテキストで、具体的な記事の本文が含まれていないため、要約を作成することができません。記事の本文をご提供いただければ、欧州産業加速法案（IAA）の文脈での要約をお作りします。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLS1UTGhBVWRNRVdqNlJWYkw0ZExLRWdtbjQ1ZEg3bldMNFNhRUFlUm9mcFRYc3JScF94UHc1WlRSNHY2VDdyaENHaEhMUHFoM2V4MW5BLWFPeGJJcXFZNExHNFMwRTFHcFVvOXUtRzNWd2ZNNkNqMWc1ZXQwV0wxLURieDlSMXhuMDlYb01tZHF3UC1CVmhFdmtXVXNPRmROaHdN?oc=5",
-          "added_at": "2026-06-18 21:39:26"
-        },
-        {
-          "uid": "232a131fb882",
-          "date": "2026-06-02",
-          "title": "EU lawmakers push for tighter ‘Made in Europe’ scope in key industrial law - MLex",
-          "summary": "EU議員らは、欧州産業加速法案（IAA）における「欧州製」の定義範囲をより厳格にするよう求めており、これは欧州産業の保護と競争力強化を目的としています。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmd4Mmd5VjFhU2lDejdYNWlIWW9FekJfRTg5cXIwREp2Mnh4X0pTWldhYnpFUERvZmRleFAtTjMxMVN3OU9fclZvN18wXzc2Mm5kNVFDODZveWdONk5DSWNyQS12eFBKVmpHZnFMN2Q5WHAwWmtMNV9vSjFXUmFaVHEyNkpVY1dGOEE4MUwxc1BVdUtYNDZJVHBJWnl0TjBJNWJNam1hNjhtV2hjcF80VzlINUEzQdIBWkFVX3lxTFBmWk96MXJpa1liMWRYUGpMNTk4UW0xanRHbzMwQl9aMWNtT3RuNlpWaUtLNk9CaHRuOWd5ZmItaWVkc2xsTFRnR09fYmVxTzNzcU93bHZ5MUJqQQ?oc=5",
-          "added_at": "2026-06-17 23:11:51"
-        },
-        {
-          "uid": "38250ad52bbe",
-          "date": "2026-03-19",
-          "title": "GROWTH - European Competitiveness Fund Gains Momentum - European Commission",
-          "summary": "欧州委員会は欧州産業加速法案（IAA）に基づいて設立された欧州競争力基金により、EUの産業競争力強化に向けた投資を加速させている。この基金を通じて、重要産業部門への資金配分と産業基盤の構築が進められている。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vTVJVQnJFbGROQm9sVnRsMGdGN0JZZjEzZnJwYlZEeUc0ZXJobUhGN1pZb1d1VVVYUEs1X1BXM1doUmlXeU5COTRhU2RTbGRoaGh0SDRKUEdXX2IwNkF6dXI5LXhsdG9aV2FVNg?oc=5",
-          "added_at": "2026-06-17 23:11:51"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-21 02:20:44",
+      "last_checked": "2026-09-21 19:28:53",
       "items": [
+        {
+          "uid": "d431c407c2c5",
+          "date": "2026-09-21",
+          "title": "Banned Dahua Cameras Found in Leapmotor EVs [2026] - tech-insider.org",
+          "summary": "中国の大華技術製の禁止されたカメラがLeapmotor電動車両に搭載されていることが発見され、米国接続車両安全保障法（S.4429）で規制される中国製部品の使用禁止に違反しています。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CSl9iclF3anE2Rl8xN0poMEZKMWgybG53Rml0dTVVQmtoM0pyM2o2VlRIVm1sdjk3YWxNaFR2aHBCc3pEb05PZjFXY2V3ZEpBajNjbXVqOEdNVlRhMURuNUhxYWhaMWpKVFNBWHVVcWNsdG5Rc1UyWklWVXNDdk0?oc=5",
+          "added_at": "2026-09-21 19:28:52"
+        },
         {
           "uid": "52708d8270da",
           "date": "2026-07-24",
@@ -4010,16 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUFFQaEEybnJIUmxPTVJMM3VGcHNaQ1QxbzVzaHd5OEJDQ04ybkJhOUJPQ3V3UWlCREZCc1hwVnRXRm1UcFZCcVM5Z29sdWZuR25DZVNKNHFBNkRmajBXV1ZqaThzWm5nUTVEMjAta0FzdXREbERhVWtOWjNwWTdPbE1PNEVqTE1UUHNLYkVVU1pTN2xKcmU3UlQtLV9falBDUXFfcmM1ODdQSWR5RjVWZTJtUE1icVd3Z3JXMVFNdjF4cDlVV3VSZFhOT1QxbFdwZzdMd1REU19OLUN1YUJUX1RRRTc5SUdodm1OZG1hOExCU0V6Sm1lWnlzOXYwNmlkZmFFcFg2MkNwcjlSMFl2S3BjTQ?oc=5",
           "added_at": "2026-07-27 17:33:23"
-        },
-        {
-          "uid": "4fa508bd18e4",
-          "date": "2026-05-08",
-          "title": "Slotkin and U.S. Sen. Bernie Moreno, R-Ohio, recently introduced a bill banning the sale of Chinese vehicles. See link below ⬇️ 📸 Cody Scanlan / The Des Moines Register / USA TODAY NETWORK via Imagn Images - facebook.com",
-          "summary": "SlotkinとBernie Moreno上院議員（共和党、オハイオ州）は、中国製車両の販売を禁止する法案（S.4429）を最近導入した。この法案は国家安全保障上の懸念に対応するため、米国市場への中国車の流入を制限することを目的としている。",
-          "source": "自動車メーカー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQlR0V01xQVZRUlRfQzltUEF0anNKQm83THpvbXZUUjZoQXdTWG5EdGxNSlVpa2hIX2ZxTnVzc01obDRyaWlzVzVfbVNTTXNGc3FWYUNfck4zMnhkZlRVeFE1MTZhTV90WUFManpPY1YwZ0p3cmVrT29lODIxZnAzMUlVeHQyMGZPcE5udVhZbXZuZkZ5Nk5MYmlfMjRYMTJUWHBnY1ZyUzczNGdlSFRVNFBxVXVKWFlUU2JkekpDNlBnOUItX0toX0ZkV3diQmdQeHNzQ1loS0ZFNEpCbUhj?oc=5",
-          "added_at": "2026-07-26 00:06:07"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-21 02:21:09",
+      "last_checked": "2026-09-21 19:29:12",
       "items": [
+        {
+          "uid": "be3674ff2e12",
+          "date": "2026-09-18",
+          "title": "‘China Shock 2.0’ fuels EU push for united response to Beijing - Asia Times",
+          "summary": "中国がレアアースを含む重要鉱物の輸出管理を強化する「チャイナ・ショック2.0」に対抗して、EU は経済的依存を減らし、サプライチェーンの多様化を推進する統一的対応の構築を目指している。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0s5SFBKdDlTN21BSmRJc2FqS1pORHZhbWNpVDBVd2tUSlpvTGhEa1hNb0FQVFpERHpTM1ZnV3J5TV8zUlp5UjI5dmg5ZE9KdDB2QVptNVMxWWRZYjZmSW5ESDNBWEtTY2ZDb1R1b1Q2VTlmTzJzYnEtNVhJMUJoZDR5T0FUZEtxemJ2dE9UNXZvZjBmTGc?oc=5",
+          "added_at": "2026-09-21 19:29:07"
+        },
+        {
+          "uid": "cc0293f5b5d7",
+          "date": "2026-09-20",
+          "title": "China’s stranglehold on rare earths must be ended, says hopeful supplier to EU | Critical minerals - The Guardian",
+          "summary": "中国は世界のレアアース供給の大部分を支配しており、この支配力を終わらせるため、EUを含む国々が代替供給源の確保を模索している。西側諸国は中国への依存度を低減するため、自国内でのレアアース採掘・精製能力の強化や、オーストラリアなどの友好国との関係構築を急いでいる。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjM1QTJCUV8yVW85VFU5cEwtYnJaN2pzb3Iwdzl5UHFUWVMzYm54MmxxV0hHNnEwYmxxUjRyX0w3WHhtMU1BMkZTMFZKaWZxajJWelFYTWhldmhPQW03RVJJdU05QV95QnZOYWhKcmd6VUtrN1drU2c5ODdwdUNfa0t6TF9HXzVYQWwxcEo2NUV5NER2c2dfS05CQnJaa0M4ajBKVWUtV1prTGhEcUZR?oc=5",
+          "added_at": "2026-09-21 19:29:07"
+        },
+        {
+          "uid": "9a98962e4232",
+          "date": "2026-09-20",
+          "title": "AI fears burst onto Trump-Xi agenda, but challenges abound",
+          "summary": "トランプ大統領と習近平主席の会談ではAIの危険性が議題に加わっているものの、両国のAIに対する楽観的見方と相互不信により、実質的な協力合意は困難な状況にある。中国はレアアース輸出規制などの経済的手段を通じてAI産業における優位性を確保する戦略を維持する可能性が高い。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6099099-trump-xi-ai-talks-us-china/",
+          "added_at": "2026-09-21 19:29:07"
+        },
         {
           "uid": "0c4a58dd16bf",
           "date": "2026-09-20",
@@ -6001,36 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb0paNWlfaWNXUHRjams1LUJfTVVBNDFyMktLOEoyX2pJVlJWM3MtRkJGUDdhSkZ2a3VjdE5mSXhCTDRVSEdKUnNXanBUZnhVZEt5a1dPMVlHLWRfTU8xME9GV1FwTUhNaXpVZlJxWExISUdSb3Z1T2MxOTc1YnRZazBBR2FJUGtlT0E?oc=5",
           "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "1c39030821b8",
-          "date": "2026-06-05",
-          "title": "Washington Links TRIPP and Jackson-Vanik Repeal in Push Toward Central Asia - The Times Of Central Asia",
-          "summary": "申し訳ございませんが、提供していただいたタイトルと内容からは、「中国レアアース輸出管理」に関する具体的な情報が含まれていないため、適切な要約ができません。記事の本文内容をご提供いただければ、正確に要約させていただきます。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkYwcWFybXRhZUNUNEQyWFgwNl9YdUpaV2xXTm51SmpmTDdQTGhyeThsb25TY1NsZWthX3lDQVV5MUxqSDBSTXoyeHRkZmxHS05WcVBWRHdfZktwcklLeENSQXUwRjEtZW9uZUN0ZnRvekZMSmZKSmdPOXFuZjZFR21Nc2puaktzbjdwUnlVOXBsRTNDQXoydmZhZ3Y?oc=5",
-          "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "2b3453e2c70f",
-          "date": "2026-07-08",
-          "title": "Washington, Beijing should de-escalate from tit-for-tat actions, US senator says - The Star",
-          "summary": "米国上院議員が米中両国に対し、相互報復的な措置の応酬からの緊張緩和を呼びかけており、中国のレアアース輸出制限と米国の報復措置の悪循環を断つことが重要だと指摘しています。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTDMyMG9MLXh2ZlpKMzlZUVpIT2xuczFFb1NPUmoyTWRGeVZhQS1QQU8wYTUxckFDZWRhQlF4bEl1dEF5QUY5M3NDazlYVGZVb2hwS1dhU2xrVENrM0VkdVY0RThRbHh2OGdBb3dpOXZBWFFuWnQ0OFRjeW9YQWdBOF8tSENIV3V3MlJPT2lRZ0lCQURWeDRkSEdoQlJXdHd0OFJMM3lzM3BTTVBIX19rSVg2d3FjWVBPeEIwOGpxdXBCLXJDOEl3SERJb29lSlFYOE1wTnduUTQ?oc=5",
-          "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "af236883ef84",
-          "date": "2026-06-20",
-          "title": "EU prepares law to reduce dependence on China for critical goods - media - ukranews.com",
-          "summary": "EUは中国への依存を減らすため、レアアースなどの重要物資の供給チェーン多様化と国内産業育成を目指す法律を準備しており、中国による輸出管理への対抗措置として機能する。",
-          "source": "欧米要人発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0NpbDUtT01UYUR6UWtZbjI0cjVzclk5V1JwS29qaXBoRnpHN0pMMXNyeEM1YmJCV2psTm5pbmxWdnhXYWRydzRNdGI4UWlUdi1oVHlWekxaZ2UzYnZQQktkTUdHYjFhc1pkN0RQN0dTVXZwc2h0a0kyOHBNWnB4T3c3NW15ZV95LVNHbXc3NTB0YlQzN2NNOXRwa09IZUM3cmkzT19KOXhFSm_SAbABQVVfeXFMTjRGdl9JeTVKa3Q0cXJnRWZKczgyV19LclEySE9aUVJITEtSM183WXQyZXZBY21WRmNKWFhYVHpOLVBvQmdyQUlmRVF5d0Z3SnFsLVo5MzVvbV9NQ1ZsT1BaZTM0YndlTzRNc01KaWZSZmVfQWlvekFzeDJQd1ZDQ2RZVEZaQmZtZE5xbXFNU3NjdVo4Q0VvTW9xRUwwQ1NJem1EZGRMT1VqUXY1MjNOMkk?oc=5",
-          "added_at": "2026-09-03 14:03:33"
         }
       ]
     },
@@ -6041,8 +6041,18 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-21 02:21:25",
+      "last_checked": "2026-09-21 19:29:19",
       "items": [
+        {
+          "uid": "9a98962e4232",
+          "date": "2026-09-20",
+          "title": "AI fears burst onto Trump-Xi agenda, but challenges abound",
+          "summary": "トランプ大統領と習近平主席の会談ではAIの危険性が議題に加わるが、トランプ氏がAIの実存的脅威を「詐欺」と否定する姿勢は中国の見方と一致しており、両国間の相互不信と競争激化が対話を困難にしている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6099099-trump-xi-ai-talks-us-china/",
+          "added_at": "2026-09-21 19:29:18"
+        },
         {
           "uid": "af55386d847a",
           "date": "2026-09-09",
