@@ -1,115 +1,74 @@
 {
-  "generated_at": "2026-09-19 11:56 JST",
-  "sender_count": 3,
-  "total_mails": 10,
+  "generated_at": "2026-09-21 14:57 JST",
+  "sender_count": 2,
+  "total_mails": 6,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 6,
+      "count": 2,
       "bullets": [
-        "イスラエル選挙ではネタニヤフ反対派の連立政権勝利が基本シナリオ（確率60%）だが短命な少数派政権に終わる可能性も存在",
-        "ブラジル大統領選は接戦で予測モデルは互角、ルラ大統領がわずかに有利な状況",
-        "スペイン2027年選挙は右派政権の誕生が見込まれ、カナダとEUは米国の関税脅迫にもかかわらず商業・安保関係を強化",
-        "中東情勢悪化によるサウジアラビア東西パイプライン閉鎖とフーシ派によるバブ・アル・マンデブ海峡掌握で石油市場が混乱",
-        "米イラン対立の継続により2026年を通じて油価が100ドル前後の高止まり状況が継続"
+        "FRBの報告書がSVB崩壊の監督上の失敗を指摘し、ホワイトハウスがFRB議長人事を再編する口実を獲得",
+        "9月23～25日の習近平主席訪米はインクリメンタルな成果により米中関係の安定を実現予定",
+        "中国側の最優先課題は指導者個人の関係構築で、11月APEC、12月G20での首脳出席発表により実現"
       ],
       "subjects": [
         [
-          "2026-09-18",
-          "Conference call notes: Israeli election update",
-          "data/pdfs/20260918_2000_Conference_call_notes__Israeli_election_update.pdf"
-        ],
-        [
-          "2026-09-18",
-          "Brazil's toss-up election hinges on campaign",
-          "data/pdfs/20260918_2125_Brazil's_toss-up_election_hinges_on_campaign.pdf"
-        ],
-        [
-          "2026-09-18",
-          "Xi-Trump Summit Preview",
-          "data/pdfs/20260918_2125_Xi-Trump_Summit_Preview.pdf"
-        ],
-        [
-          "2026-09-18",
-          "Oil Markets in Crisis: Navigating the Escalating Middle East",
-          "data/pdfs/20260918_2202_Oil_Markets_in_Crisis__Navigating_the_Escalating_M.pdf"
-        ],
-        [
           "2026-09-19",
-          "Oil likely stuck in $100 range for the rest of 2026",
-          "data/pdfs/20260919_0048_Oil_likely_stuck_in_$100_range_for_the_rest_of_202.pdf"
+          "Fed report sets up pretext for White House to fire Barr",
+          "data/pdfs/20260919_2309_Fed_report_sets_up_pretext_for_White_House_to_fire.pdf"
         ],
         [
-          "2026-09-19",
-          "GOP polling collapse puts larger Democratic Senate majority in",
-          "data/pdfs/20260919_0107_GOP_polling_collapse_puts_larger_Democratic_Senate.pdf"
+          "2026-09-21",
+          "Incremental summit wins will keep US-China relations stable",
+          "data/pdfs/20260921_1018_Incremental_summit_wins_will_keep_US-China_relatio.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260918_2000_Conference_call_notes__Israeli_election_update.pdf",
-        "data/pdfs/20260918_2125_Brazil's_toss-up_election_hinges_on_campaign.pdf",
-        "data/pdfs/20260918_2125_Xi-Trump_Summit_Preview.pdf",
-        "data/pdfs/20260918_2202_Oil_Markets_in_Crisis__Navigating_the_Escalating_M.pdf",
-        "data/pdfs/20260919_0048_Oil_likely_stuck_in_$100_range_for_the_rest_of_202.pdf",
-        "data/pdfs/20260919_0107_GOP_polling_collapse_puts_larger_Democratic_Senate.pdf"
+        "data/pdfs/20260919_2309_Fed_report_sets_up_pretext_for_White_House_to_fire.pdf",
+        "data/pdfs/20260921_1018_Incremental_summit_wins_will_keep_US-China_relatio.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
       "color": "YEL",
-      "count": 3,
+      "count": 4,
       "bullets": [
-        "ドイツのメルツ保守指導者が地域選挙での敗北に直面し政治的生き残りをかけた戦い。CDUが地域選挙で議席を獲得できない場合、混乱が生じる可能性が指摘",
-        "EU委員長フォンデアライエンがカナダをEU準加盟国として承認する構想を提案し、欧州議会議長メツォラもオーストラリアとニュージーランドの参加を支持",
-        "EUの準加盟国制度という新たなアプローチで、カナダなどの国々をEU圏へ取り込む動き"
+        "ドイツの極右政党AfDが地域選挙で再び勝利を確保し、メクレンブルク西ポメラニア州では社会民主党が2位で阻止",
+        "米国がドイツの医薬品価格設定制度の不公正さを調査中で、非合意の場合は自動車産業を含む報復関税の実施を検討",
+        "ドイツはシステムが均衡していると反論し、米国企業への差別はないと主張",
+        "EU外相がロシアのハイブリッド攻撃によるEU・NATO市民の被害に対する対応策について協議",
+        "欧州委員会が鉄道信号システム(ERTMS)の新規取引を準備し、9月28日に発表予定"
       ],
       "subjects": [
         [
-          "2026-09-18",
-          "Germany’s Merz girds for a post-election fight for political survival",
-          "data/pdfs/20260918_1834_Germany’s_Merz_girds_for_a_post-election_fight_for.pdf"
+          "2026-09-21",
+          "Germany’s far right secures another win in key regional election,",
+          "data/pdfs/20260921_0134_Germany’s_far_right_secures_another_win_in_key_reg.pdf"
         ],
         [
-          "2026-09-19",
-          "Friends with benefits: EU associate membership explained",
-          "data/pdfs/20260919_0023_Friends_with_benefits__EU_associate_membership_exp.pdf"
+          "2026-09-21",
+          "As the US investigates German drug prices, here’s why Europe",
+          "data/pdfs/20260921_1200_As_the_US_investigates_German_drug_prices,_here’s_.pdf"
         ],
         [
-          "2026-09-19",
-          "Pro Daily Headlines",
-          "data/pdfs/20260919_0031_Pro_Daily_Headlines.pdf"
+          "2026-09-21",
+          "Exclusive: Costa’s budget fix",
+          "data/pdfs/20260921_1354_Exclusive__Costa’s_budget_fix.pdf"
+        ],
+        [
+          "2026-09-21",
+          "Scoop: Brussels preps new rail deal",
+          "data/pdfs/20260921_1401_Scoop__Brussels_preps_new_rail_deal.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260918_1834_Germany’s_Merz_girds_for_a_post-election_fight_for.pdf",
-        "data/pdfs/20260919_0023_Friends_with_benefits__EU_associate_membership_exp.pdf",
-        "data/pdfs/20260919_0031_Pro_Daily_Headlines.pdf"
-      ]
-    },
-    {
-      "sender": "ビジネス短信",
-      "short": "ビジネス短",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "中国の小馬智行がドーハで完全無人運転技術を披露",
-        "北京市がデジタル経済の5カ年規画を発表し、2030年までにGDPシェア5割超を目指す",
-        "広汽集団が一汽集団との資産再編を計画",
-        "湖北省が起業による雇用促進を含む雇用促進に関する5カ年規画を発表",
-        "韓国と中央アジア5カ国が「ソウル宣言」を採択し、デジタル貿易協定DEPAにコスタリカが正式加入"
-      ],
-      "subjects": [
-        [
-          "2026-09-18",
-          "「ジェトロ・ビジネス短信」2026/09/18",
-          "data/pdfs/20260918_1806_「ジェトロ・ビジネス短信」2026_09_18.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20260918_1806_「ジェトロ・ビジネス短信」2026_09_18.pdf"
+        "data/pdfs/20260921_0134_Germany’s_far_right_secures_another_win_in_key_reg.pdf",
+        "data/pdfs/20260921_1200_As_the_US_investigates_German_drug_prices,_here’s_.pdf",
+        "data/pdfs/20260921_1354_Exclusive__Costa’s_budget_fix.pdf",
+        "data/pdfs/20260921_1401_Scoop__Brussels_preps_new_rail_deal.pdf"
       ]
     }
   ]
