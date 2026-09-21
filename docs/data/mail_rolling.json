@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-09-21 14:57 JST",
   "total": 50,
-  "toyota_summary": "China's auto parts imports into Europe hit 5 billion euros in the first half of 2026, up 23 percent year-over-year, as Chinese suppliers gain share in battery components, semiconductors, and critical materials. European suppliers are losing ground fastest in EV-related parts, where Chinese manufacturers offer lower costs and faster production scales. This matters because European automakers depend on local supply chains for both cost competitiveness and regulatory compliance—if that sourcing shifts decisively to China, it reshapes margins, supply risk, and the industry's political standing at home. Watch whether the EU imposes tariffs or content rules on Chinese-sourced components in the next trade round.",
+  "toyota_summary": "米国によるドイツの薬価制度に対する調査は、より広範な貿易報復措置へと発展しかねない。米国がベルリンに不利な判断を下せば、関税は医薬品にとどまらず、貿易摩擦にすでに脆弱なドイツの自動車輸出にまで及ぶ可能性がある。",
   "emails": [
     {
       "ts": "20260921_1401",
@@ -10,8 +10,13 @@
       "pdf": "data/pdfs/20260921_1401_Scoop__Brussels_preps_new_rail_deal.pdf",
       "date_label": "SEP 21  14:01",
       "read_min": 9,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Scoop: Brussels preps new rail deal",
+      "html": "data/pdfs/20260921_1401_Scoop__Brussels_preps_new_rail_deal.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260921_1354",
@@ -21,7 +26,12 @@
       "date_label": "SEP 21  13:54",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Exclusive: Costa’s budget fix",
+      "html": "data/pdfs/20260921_1354_Exclusive__Costa’s_budget_fix.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260921_1200",
@@ -31,7 +41,12 @@
       "date_label": "SEP 21  12:00",
       "read_min": 6,
       "toyota": true,
-      "excerpt": "米国はドイツの医薬品価格設定制度が不公正な貿易慣行であるかどうかについて調査を開始し、同"
+      "excerpt": "米国はドイツの医薬品価格設定制度が不公正な貿易慣行であるかどうかについて調査を開始し、同",
+      "subject_en": "As the US investigates German drug prices, here’s why Europe should care",
+      "html": "data/pdfs/20260921_1200_As_the_US_investigates_German_drug_prices,_here’s_.html",
+      "summary_en": "Washington is investigating whether Germany's drug-pricing system constitutes an unfair trade practice, with a formal hearing set for Tuesday. Trade experts warn that if the U.S. rules against Berlin, retaliatory tariffs could extend beyond pharmaceuticals to other German exports, with the automotive sector seen as an obvious target. Germany denies any discrimination against U.S. drugmakers and says its pricing system remains balanced and necessary for ensuring access to innovation.",
+      "summary_ja": "米政府はドイツの薬価制度が不公正貿易慣行に当たるかどうかの調査を進めており、火曜日に公聴会が開かれる予定だ。貿易専門家は、米国がドイツに不利な判断を下した場合、報復関税が医薬品分野に留まらず、自動車産業など他の輸出品にも及ぶ可能性があると指摘している。ドイツ政府は米企業への差別はないとし、自国の薬価制度は技術革新への公平なアクセスを確保するための均衡の取れた仕組みだと反論している。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260921_1018",
@@ -40,8 +55,13 @@
       "pdf": "data/pdfs/20260921_1018_Incremental_summit_wins_will_keep_US-China_relatio.pdf",
       "date_label": "SEP 21  10:18",
       "read_min": 5,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Incremental summit wins will keep US-China relations stable",
+      "html": "data/pdfs/20260921_1018_Incremental_summit_wins_will_keep_US-China_relatio.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260921_0134",
@@ -51,7 +71,12 @@
       "date_label": "SEP 21  01:34",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Germany’s far right secures another win in key regional election, exit poll says",
+      "html": "data/pdfs/20260921_0134_Germany’s_far_right_secures_another_win_in_key_reg.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260919_2309",
@@ -61,7 +86,12 @@
       "date_label": "SEP 19  23:09",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Fed report sets up pretext for White House to fire Barr",
+      "html": "data/pdfs/20260919_2309_Fed_report_sets_up_pretext_for_White_House_to_fire.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260919_0107",
@@ -187,7 +217,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" 2026/09/18",
+      "subject_en": "JETRO Business Brief 2026/09/18",
       "html": "data/pdfs/20260918_1806_「ジェトロ・ビジネス短信」2026_09_18.html",
       "summary_en": "",
       "summary_ja": "",
@@ -572,7 +602,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "中国の自動車輸出が3カ月連続で100万台を超え、深セン・香港・広州がWIPOのイノベーション",
-      "subject_en": "\"JETRO Business Newsletter\" 2026/09/17",
+      "subject_en": "\"JETRO Business Brief\" 2026/09/17",
       "html": "data/pdfs/20260917_1818_「ジェトロ・ビジネス短信」2026_09_17.html",
       "summary_en": "China's auto exports topped 1 million units for a third straight month in August, even as domestic sales remained sluggish, underscoring automakers' growing reliance on overseas markets. Separately, major Japanese auto parts maker Toyotetsu announced a $41 million expansion of its Kentucky plant, reflecting continued investment in U.S. manufacturing capacity despite trade policy uncertainty.",
       "summary_ja": "中国の8月の自動車輸出は3カ月連続で100万台を超え、国内販売の低迷とは対照的に海外市場への依存が強まっている実態を示した。一方、自動車部品大手のトヨテツは米ケンタッキー州の工場拡張に4,100万ドルを投じると発表し、貿易政策の不確実性下でも米国での生産体制強化を進めている。",
@@ -713,5 +743,6 @@
       "toyota": false,
       "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "Washington's investigation into Germany's drug-pricing system could escalate into broader trade retaliation. If the US rules against Berlin, tariffs may extend beyond pharma to German auto exports, a sector already vulnerable to trade friction."
 }
