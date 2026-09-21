@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-21 14:57 JST",
+  "updated_at": "2026-09-21 14:59 JST",
   "total": 50,
-  "toyota_summary": "米国によるドイツの薬価制度に対する調査は、より広範な貿易報復措置へと発展しかねない。米国がベルリンに不利な判断を下せば、関税は医薬品にとどまらず、貿易摩擦にすでに脆弱なドイツの自動車輸出にまで及ぶ可能性がある。",
+  "toyota_summary": "米国はドイツの薬価制度を不公正な貿易慣行として調査しており、近く判断が下される見通しである。米国がドイツに不利な判断を下せば、報復関税が製薬分野を超えてドイツの輸出全体に及ぶ可能性があり、標的となるのは自動車が有力と見られている。\n\nドイツ側は自国の薬価制度は公正かつ必要なものであると主張し、差別的だとの指摘を否定している。自動車業界はこの動向を注視すべきであろう。製薬分野の紛争が、自らの事業にとって現実の関税リスクへと発展しかねないからである。",
   "emails": [
     {
       "ts": "20260921_1401",
@@ -217,7 +217,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "JETRO Business Brief 2026/09/18",
+      "subject_en": "\"JETRO Business Brief\" 2026/09/18",
       "html": "data/pdfs/20260918_1806_「ジェトロ・ビジネス短信」2026_09_18.html",
       "summary_en": "",
       "summary_ja": "",
@@ -602,7 +602,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "中国の自動車輸出が3カ月連続で100万台を超え、深セン・香港・広州がWIPOのイノベーション",
-      "subject_en": "\"JETRO Business Brief\" 2026/09/17",
+      "subject_en": "JETRO Business Brief 2026/09/17",
       "html": "data/pdfs/20260917_1818_「ジェトロ・ビジネス短信」2026_09_17.html",
       "summary_en": "China's auto exports topped 1 million units for a third straight month in August, even as domestic sales remained sluggish, underscoring automakers' growing reliance on overseas markets. Separately, major Japanese auto parts maker Toyotetsu announced a $41 million expansion of its Kentucky plant, reflecting continued investment in U.S. manufacturing capacity despite trade policy uncertainty.",
       "summary_ja": "中国の8月の自動車輸出は3カ月連続で100万台を超え、国内販売の低迷とは対照的に海外市場への依存が強まっている実態を示した。一方、自動車部品大手のトヨテツは米ケンタッキー州の工場拡張に4,100万ドルを投じると発表し、貿易政策の不確実性下でも米国での生産体制強化を進めている。",
@@ -744,5 +744,5 @@
       "excerpt": ""
     }
   ],
-  "toyota_summary_en": "Washington's investigation into Germany's drug-pricing system could escalate into broader trade retaliation. If the US rules against Berlin, tariffs may extend beyond pharma to German auto exports, a sector already vulnerable to trade friction."
+  "toyota_summary_en": "The US is investigating Germany's drug pricing as an unfair trade practice, with a ruling expected soon. If Washington rules against Berlin, retaliatory tariffs could hit German exports beyond pharma, and autos are seen as the likely target.\n\nGermany maintains its pricing system is fair and necessary, rejecting discrimination claims. Automakers should watch this closely, as a pharma dispute could become a real tariff threat to their business."
 }
