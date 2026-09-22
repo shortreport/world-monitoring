@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22 18:41:43",
+  "generated_at": "2026-09-23 03:00:48",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-22 18:41:13",
+      "last_checked": "2026-09-23 02:59:46",
       "items": [
+        {
+          "uid": "100a5842cab3",
+          "date": "2026-09-22",
+          "title": "What Does Europe’s Manufacturing Push Mean for Chinese Companies? - FTI Consulting",
+          "summary": "欧州産業加速法案は域内製造業の強化を目指すものであり、中国企業に対して欧州市場へのアクセス制限やサプライチェーン再編の圧力をもたらす可能性がある。この政策は欧州の産業自立性を高める一方で、中国を含む域外企業の事業展開環境を狭める結果となることが予想される。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbkNHQzBnanFIcUhDTUt0LVd4LUIxMXFnTWRfTWo3MkFWLXk2LXZVUHc4a3EzSGpFc3RMaGNJczNvSEtZTXBfa0hVcTN0SVpsSTNsdVhHb050cF8yWmFkLVBBRkJlTkVsTE5sU0tUNF9Fdi1QTDlsVmRsOUx6aXlfVWJwM1hOYmFVaXVXZzRibjlwTUdnVmc?oc=5",
+          "added_at": "2026-09-23 02:59:44"
+        },
         {
           "uid": "ea69eeb4c4db",
           "date": "2026-09-22",
@@ -1999,16 +2009,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdXJtS2hCenpVMjZnb0h5RUtFUFZsTFZraXBrLUI4eXlNdS01aElHMmFMaW5TVWtsNWtuSy1ickh6TDBSVnZQRzhoQzJzalAzY2tVMjJ3YXhHYk9uMnBwbE9SX3lmTERnR1NWeUJpV0JTb1NBbEJWUkZlX01zMnR5V0RkN1IyQlI0SGhzLVVlcW1FMGxpdVVvRnNNdVRqaVZuTkxrdnBucWRJWlFFUzZTdDNLalR0R2MwNUJUTl9YRm1KOWwxZ0FONC16VTdSTmRQWlQzQ0tUZVZ6aDBFemxzTGFuQnVnSHc?oc=5",
           "added_at": "2026-06-20 07:14:31"
-        },
-        {
-          "uid": "7e7df0377df0",
-          "date": "2026-04-27",
-          "title": "China slams ‘Made in Europe’ push, mulls retaliation - Yahoo! Finance Canada",
-          "summary": "中国が欧州産業加速法案（IAA）による「メイド・イン・ヨーロッパ」の推進を批判し、報復措置を検討していることを報じている。",
-          "source": "欧州委員会要人",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXdFdnEwRXgwTXlmMzZFSGJJQ1VSNnBUY0oxbktrSjd4NkJjWmkzMTVEdzNfZnBMNnFsX0tSR01YaWdEVWVEZnFaVlZwSzNDX1NqM1RjVlgtZmJ6UVNuY21GSUZJeUZ4SU5BcjBmeVA1d2RRV3ZFVElCYkJDQkZISkthYw?oc=5",
-          "added_at": "2026-06-20 07:14:31"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-22 18:41:22",
+      "last_checked": "2026-09-23 02:59:55",
       "items": [
         {
           "uid": "a04f78e0c918",
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-22 18:41:37",
+      "last_checked": "2026-09-23 03:00:21",
       "items": [
+        {
+          "uid": "ce844b34470a",
+          "date": "2026-09-21",
+          "title": "Dismantling China’s Supply-Chain Weapon - Council on Foreign Relations",
+          "summary": "# 中国のレアアース輸出管理に関する要約\n\n中国は戦略的資源としてのレアアースの輸出管理を通じて、依存国に対する供給チェーン上の影響力を武器として活用してきたが、先進国がサプライチェーンの多角化とレアアース採掘・加工技術の開発を進めることで、この支配力の解体が進行している。中国のレアアース輸出制限戦略に対抗するため、日本を含む各国は国内資源確保や同盟国との供給ネットワーク構築を強化する必要がある。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hQnhUelltZDhreHQ0bEJ6LXZPSGU5bFJKOWFwS0Z2RngwU0hVRmZONlNJWWE2b0NXUkRrWDA2em9oX2V3MHBfV3B4WW53aUNnbnd2MHZJakdwazM4VTNkSERpZF9LMEdWUzZlV2VmYmItcHpU?oc=5",
+          "added_at": "2026-09-23 03:00:14"
+        },
+        {
+          "uid": "abda9c862ae0",
+          "date": "2026-09-22",
+          "title": "Shenghe Resources denies control change; Tanzania rare earth mine still awaiting approval - finance.biggo.com",
+          "summary": "中国大手レアアース企業シェンゲ・リソーセズは経営権の変更を否定し、タンザニアのレアアース鉱山プロジェクトは政府承認待ちの状態にある。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LcDlFNnd1MnkyLTJzX3pXX0RBR29LdmRYcThJcURRUW5qOWJFbjczQ0JObFlsUjVLWHBhU3JsLXVrMUdmSGtjYmRLM1BwSUhiLU1odjc5NkUxMzJ4TlRSalczbl8tRC10cFJWUnNUMzh4V2RJaFE?oc=5",
+          "added_at": "2026-09-23 03:00:14"
+        },
+        {
+          "uid": "f2c1127a5c12",
+          "date": "2026-09-22",
+          "title": "Trump failing to block China’s access to American AI technology, say senior Senate Democrats",
+          "summary": "中国のレアアース輸出管理に関連して、米国上院民主党議員らは、トランプ大統領がAI開発に必要な米国の機密技術への中国のアクセスを遮断できていないと指摘し、米国の輸出禁止令の抜け穴を塞ぐことを求めている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/senate/6104468-senate-democrats-ai-china/",
+          "added_at": "2026-09-23 03:00:14"
+        },
         {
           "uid": "853b666607d6",
           "date": "2026-09-22",
@@ -6001,36 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU1RBN2wxQ2pTcDlfc1c0SzU5Qmhwd2p6Y2RQZk9uNXVKMWxfemRKSnFwMzRFVks2N3FmZVRwS3MtVkhBbmVsRHJoWkhvYkkySFlzanVpVUJ5cUIybE1XN0RaMkdTZ0lVRXMzMHF0d2dQWU5JNnFGVjhvZlNodWltN1VRdUdRWGM1Um5vMEhBSlZZWnluenpBVG9kTTVCUy1haGg1eTBLYk5PNHZtb3JwWnRXV3I1ZEtQYUVUdmc5Y2FoZEZtTEp3c3ZIR0pVaFhKMHFpWG02cjdqR3hLUXEzVUFzSnB2aG9SRlZNa2x1WW94cDM4YkVDSA?oc=5",
           "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "d29ca38e982c",
-          "date": "2026-06-22",
-          "title": "China Bans Exports of Dual-Use Items to 10 U.S. Entities - Caixin Global",
-          "summary": "中国は米国の10団体に対して軍民両用品の輸出を禁止する措置を講じており、これはレアアースを含む戦略的資源の輸出管理強化の一環として位置づけられている。この禁止措置は、米国による中国への技術規制に対する報復的な対抗措置と考えられる。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWllCOVJSX2tOUnZoeTBqX01YakJ1dWNmanQ0RUFRQTBlaEFZSXRCRTBUN0NsNVVTYmFPSEJHT1c4Vmx3MHB5X0FVWkpnNkcwd1dBZkJURnpxaElQY2tsOTA5eVl3Nmp5QWtHOWdPQlZyNUVySWotODlTUVZZMXpUM1F3bmx5YzJ1T2JYeWRESnNQTF9xeWI3NVpTODRoeXJ5c05IM3pNSDQ0ZkJfenc?oc=5",
-          "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "d65c6b4b8f11",
-          "date": "2026-09-02",
-          "title": "The U.S. Rare Earth Playbook Provides a Blueprint for Supply Chain Securitization - Foundation for Defense of Democracies",
-          "summary": "米国のレアアース戦略は、中国による供給支配に対抗するため、採掘・精製・加工の国内産業育成と同盟国との連携を強化する供給網安全保障モデルを示しており、日本を含む同盟国がこの枠組みを参考に中国への依存度低減を進める必要がある。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS0Etdi1WN0ZIZ0FWa2dwLVJiVVVEUkdmc3pRMVpfOXVMUkJ4MzZsWUtHVklId2pzLVFZdVpwQV9JanE4SXJhSVZaRDZ2MExYTzFCRGx5QXIwdFdjaGZTRE9faEcxcW1FRDdxajJlaWxBMDJWN09MUWdXeFZhUTgydC14SW8yZzFjT3ZOaTF6STJreUp1bGxPVnpSTXVxTFN4UmdCUlZMc0FkWE5RbzkxcTRIV1lNbUpsamlWVjlR?oc=5",
-          "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "70215c85a241",
-          "date": "2026-06-20",
-          "title": "Japan seeks G7 price floors to break China’s rare earth grip - Asia Times",
-          "summary": "日本はG7で希土類の価格下限設定を提案し、中国の市場支配を弱めようとしている。このアプローチにより、中国が価格操作を通じた輸出管理の影響を制限することを目指している。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa3FuV2JoWWpJcGJQbDZ2N19LcnFHSHZtdUMwSGRycmhjTTMtWk5XdlZ5VlQxQWZuSDNaYlFQRlRwQ3JZUlJrSFhrS21nS2x2NzlFaGxwc0VlRmRISnM1THN2SjRBVWF1V0hCSDdXaC1FVGZrbHE1dmlSNFpENlh2SjlwSWdYNVdBb1pJY3VuY0h4VFEt?oc=5",
-          "added_at": "2026-09-03 14:03:33"
         }
       ]
     },
@@ -6041,8 +6041,138 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-22 18:41:43",
+      "last_checked": "2026-09-23 03:00:48",
       "items": [
+        {
+          "uid": "53ea94403fd0",
+          "date": "2026-09-14",
+          "title": "Companies left China to dodge tariffs. Now some are heading back - Reuters",
+          "summary": "米国の高関税を回避するため中国から離れた企業の一部が、関税政策の変化や中国市場の魅力を背景に中国への回帰を検討し始めており、これが自動車メーカーを含む各業界で地政学的リスクと経済的利益のバランスに関する議論を生じさせている。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXZhYnM4LUVqMVptczRMSnVLLUp2YVVfRm9kNGh2MnZmWVlYUEtERkowb0xsb2drVG12aTd1SVlPNUFiRW9HQjJRNEhVR1hBWjZKem4xTjBaaVZ2anhqdTRscDYwcVZZUmp5V0FncDRPXzhhQ3BZWjc1ZlkyWXFaM0pDTFM0eUU2S0FYaUhvVzFVeUhyREZJZm85V0IzWTBnaGFFM2ZRam4wY1lkTlVTMnBYV2xVclBuTHJTSGZR?oc=5",
+          "added_at": "2026-09-23 03:00:27"
+        },
+        {
+          "uid": "a25aaaf211d6",
+          "date": "2026-09-16",
+          "title": "EU chief wants Canada to become an 'associate member'. What does that mean? - Reuters",
+          "summary": "記事の内容が提供されていないため、要約できません。タイトルのみではEUとカナダの関係に関する内容であり、「自動車メーカーの対中提携への政治的批判」という文脈との関連性が不明確です。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkN2VVBPTnB4ZS0zYmRGMzA3VVREbVE5LUQ1Qkdka2NUenpnUzVPc3NMWWlBWGJfR3oxOHdiVkptUzNzcWJjVjJNejQwQkhOV3N6TTdFY1Z6LTM3RDBoUXc5ZmhCOTlDVF80blRFdm1wYnVqeFN1aG94Mk8tdFo0LVVmWWE5VG9kTWk3a2R6WWg5NVI5cWptaFcydTJDMGVCTF9FUWF6aVZOR3pESkpR?oc=5",
+          "added_at": "2026-09-23 03:00:27"
+        },
+        {
+          "uid": "9f748824c45d",
+          "date": "2026-09-21",
+          "title": "New Zealand naval ships transit contested Taiwan Strait - Reuters",
+          "summary": "ニュージーランド海軍艦船が台湾海峡を通過したというニュースは、自動車メーカーの対中提携への政治的批判の文脈とは直接の関連がないため、要約対象外です。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaVVqaUxoUmlvVEN6Z3NJYjZrV1AtLW4tbXdsNjBHUHV5TzE0eDNtY0xBeFVzWE53c19wdDdEc011STNwM1g0bUlOMEtQMzVuX0RnY1lKTXA1RFFQZmRSb0FKVkZuN3NTRE95OVdSQjAxVDdhVjZqdTYta1I5eUY0MmFYNk13bl8wekRwSHF3NUJYOVRfMDRmQk1BREVPZGllVUN5ZFBB?oc=5",
+          "added_at": "2026-09-23 03:00:27"
+        },
+        {
+          "uid": "9281d5fe7994",
+          "date": "2026-09-17",
+          "title": "From quarantine boxes to luxury cabins, China's prefab home factories pivot to exports - Reuters",
+          "summary": "中国のプレハブ住宅メーカーが、COVID-19の隔離施設から高級キャビンまで多様な製品を生産し、輸出市場への転換を加速させている。これは中国製造業の多角化戦略と国際競争力強化の取り組みを示しており、先進国メーカーの市場侵食につながる可能性がある。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUjFlTHZzbnlfMGxOLVJEa213eVo2VHpkU19aQmNyVmVMdUoxWlIyLTFkc216eFRTb0lRdndXTks0LU1UWjNWNUh3a3RUSV9OR09XOEZENWNxajgxSlBKUklOWlc0NGJ3VVVsNURmVFBCdG1fM0ZrcGpxRE5Bd3JORGg5aWplZk9YVDhsV3hWZEFoODVGUktJTjVvT2x6d1FTVUpOX19kU2dZRVNkY1J5akNrc2x3ZDZoeUNkTm16a3NLUzZUSENn?oc=5",
+          "added_at": "2026-09-23 03:00:27"
+        },
+        {
+          "uid": "3bd4c7cc46a7",
+          "date": "2026-09-18",
+          "title": "US, China discuss cutting tariffs on US LNG ahead of Xi visit - Reuters",
+          "summary": "米国と中国は習近平主席の訪米を控えて米国産LNGの関税削減について協議しており、この経済的な協力姿勢は自動車産業を含む複数の業界における中国との提携に対する政治的批判の緩和を目的としていると考えられます。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHd3M3c3TzBSSEFYVUtqd1dwYVE2MHNkYzh2NlBzZkZCTzkyM0FaMTFobVo4Q19HSldIeGREU3BWSmNlTFJfLVNObVdYbFN3bFZrd2o0cl95WkZFM25lY1otSVB5Zl9YcVRCMDdaeE8zbUoxTWVrTU9pVnlZTWR3b1czakd1ZUFqM0RscUxta1ZrbkwwY0FUYUg4NFluNEtzclRBbzdITE15dw?oc=5",
+          "added_at": "2026-09-23 03:00:27"
+        },
+        {
+          "uid": "0d6cd548b6bd",
+          "date": "2026-09-18",
+          "title": "Trump signs Russia sanctions bill into law - Reuters",
+          "summary": "ロシアに対する制裁法案をトランプ大統領が署名法制化したというニュースですが、これは自動車メーカーの対中提携とは直接的な関連がないため、要求された文脈での要約はできません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWZ3NVV2eHJuOEVQcDhZX3BVSnh2aWxQcE0wWERtWGc3MG9ZS3VmN1lqemJPNS1NbE1pU3RDTlR5TUIteF9hMVdNY2NITDU2N3lva3hWelYydUQ1Nm9xWUZZUHN3R29QeXR3VzhIdFNyOXJ6T1FLNlNEU3JIbUx3Q1ZCVWxHdnI4ZmhJVjFfd0s?oc=5",
+          "added_at": "2026-09-23 03:00:27"
+        },
+        {
+          "uid": "7ebb354aff78",
+          "date": "2026-09-18",
+          "title": "Houthi blitz leaves Saudi Arabia exposed, Iran emboldened - Reuters",
+          "summary": "この記事は自動車メーカーの対中提携とは無関係のため、要約できません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU210dG1ONGRhN0FKOXF3WUpTLVowR3hJTGlsMVA2LVUtXzlacGVGbE5Hd3VLYktLOEgzYXdBZ3llMzFBdW1RMGJJaUxjRWJHSHRNZmh5T3l5RW9qTDE3Y1NRSFhnVjlEQXR0QzY4Ym0zdUc4MGxNdkZMT2NYVVU1eEtxcUtWYS0tdHpCcmJVXzdXRDZFQU1PeHVuc3I2bnUzb3NBR2pSN1V1YmhMSFFz?oc=5",
+          "added_at": "2026-09-23 03:00:27"
+        },
+        {
+          "uid": "bcf9695a5cea",
+          "date": "2026-09-22",
+          "title": "Trump officially makes Rubio national security adviser",
+          "summary": "トランプ大統領がマルコ・ルビオを国務長官兼国家安全保障補佐官に任命したことは、自動車メーカーの対中提携に対する米国側の政治的圧力が強まる可能性を示唆している。ルビオは中国に対して強硬姿勢を取ることで知られており、その影響力の強化は米国が同盟国の企業に対して中国とのビジネス関係を制限するよう求める圧力を高める可能性がある。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6104499-trump-makes-rubio-nsa/",
+          "added_at": "2026-09-23 03:00:27"
+        },
+        {
+          "uid": "f2c1127a5c12",
+          "date": "2026-09-22",
+          "title": "Trump failing to block China’s access to American AI technology, say senior Senate Democrats",
+          "summary": "トランプ大統領が中国のAI技術アクセスを適切に制限できていないと上院民主党議員らが批判しており、これは自動車メーカーを含む米国企業が中国との技術提携を通じて規制を迂回するリスクを示唆している。米国は輸出規制の抜け穴を塞ぎ、同盟国を含む中国への技術流出を防ぐ必要があると議員らは主張している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/senate/6104468-senate-democrats-ai-china/",
+          "added_at": "2026-09-23 03:00:27"
+        },
+        {
+          "uid": "ea78462ebe74",
+          "date": "2026-09-22",
+          "title": "Vance-led task force set to remove 750K Obamacare enrollees, citing fraud",
+          "summary": "この記事は自動車メーカーの対中提携と関係がなく、トランプ政権によるオバマケア加入者の削除についての内容であるため、要約することができません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/healthcare/6104381-vance-oz-aca-obamacare-crackdown/",
+          "added_at": "2026-09-23 03:00:27"
+        },
+        {
+          "uid": "7ef1b43c3500",
+          "date": "2026-09-22",
+          "title": "Watch live: Vance, Oz to announce crackdown on alleged Obamacare fraud",
+          "summary": "この記事は自動車メーカーの対中提携に関する政治的批判とは無関係です。記事の内容は米国副大統領ヴァンスとメディケア・メディケイド・サービスセンター長オズ医師による医療保険詐欺の取り締まりに関するものであり、要約できません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/video-clips/6103679-watch-live-jd-vance-mehmet-oz-obamacare-alleged-fraud-trump-admin/",
+          "added_at": "2026-09-23 03:00:27"
+        },
+        {
+          "uid": "bc252f392666",
+          "date": "2026-09-22",
+          "title": "O’Reilly: ‘Republicans can’t survive the anger that people are feeling’ on spending",
+          "summary": "この記事は自動車メーカーの対中提携に関する内容を含んでいないため、要約できません。記事の内容は米国の政治評論家ビル・オライリーが2026年中間選挙に向けてインフレーション危機への国民の怒りについて述べたものであり、自動車メーカーの対中提携に関する文脈とは無関係です。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/campaign/6103707-bill-oreilly-warns-gop-midterms/",
+          "added_at": "2026-09-23 03:00:27"
+        },
+        {
+          "uid": "959bd6a8a7cc",
+          "date": "2026-09-22",
+          "title": "Trump open to meeting Iran’s president on UN sidelines: Rubio",
+          "summary": "この記事は「自動車メーカーの対中提携への政治的批判」とは無関係です。トランプ大統領がイランとの会談の可能性について述べたもので、要約できません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6103612-trump-open-iran-meeting-rubio/",
+          "added_at": "2026-09-23 03:00:27"
+        },
         {
           "uid": "f27799b11055",
           "date": "2026-09-09",
