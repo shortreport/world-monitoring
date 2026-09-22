@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22 04:08:58",
+  "generated_at": "2026-09-22 13:37:58",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-22 04:08:06",
+      "last_checked": "2026-09-22 13:36:39",
       "items": [
         {
           "uid": "c0107d63c291",
@@ -2019,8 +2019,48 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-22 04:08:15",
+      "last_checked": "2026-09-22 13:37:01",
       "items": [
+        {
+          "uid": "faef5f96b459",
+          "date": "2026-09-17",
+          "title": "Ted Cruz rejects mandatory AI testing, citing competition with China - Houston Chronicle",
+          "summary": "テッド・クルーズ議員は、中国との競争を理由に、米国接続車両安全保障法（S.4429）に含まれるAIの強制テスト要件に反対の立場を示している。彼は、過度な規制がアメリカの自動運転技術開発の競争力を損なうと懸念している。",
+          "source": "上院議員",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON1dKaV9PN25wNnoxd05ETTMxenFaZnNHbXdfZ0x4bVdxOURoQVJtZGdwVFNhWXItR1J6d0tjQW1tSFJzaUF1NW1VRVVFcERmVUpLd3dCUXFUcEowYkZxOHdJYnk3SEdvUm5idlI5XzhyZU5XQTRFNFZLOWU5Vm9scTNodlpQdEtRalRUZGd0OGlNUDAyZ2lvSTkyaWxULVE?oc=5",
+          "added_at": "2026-09-22 13:36:52"
+        },
+        {
+          "uid": "90fa630d60a5",
+          "date": "2026-06-28",
+          "title": "Polestar to halt US sales as China-linked car rules tighten - indiagazette.com",
+          "summary": "中国系の自動車メーカーPolestorが、米国の厳格な規制強化に対応するため米国での販売を一時停止することを発表した。これは、S.4429法案などにより中国関連企業への規制が強化されている米国市場における事業継続の困難性を示している。",
+          "source": "半導体・Tier1サプライヤー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWk1IYXR6OU5vZjFYZG5iTDJMRW5BYVV3WEl5RnYydFgySDA4NjdlLXF4UU4yWUoxb2tYYnQxMUlKZE9fdnV0ZzM1UjlnMms4b0RXZ1pLVVppeTZjQlRrZFROQVNmakQtRnhJOExlRkxvYmxoZnUwVlJ0czJYQlNCMTJjcXdWU18zWUprSkpFbFVKN3NjWlRwa09zUGJwWlRzWDQ5Vg?oc=5",
+          "added_at": "2026-09-22 13:36:52"
+        },
+        {
+          "uid": "b9cd4a693192",
+          "date": "2026-09-21",
+          "title": "The race to be the next UN secretary-general is on. And placating Trump is a priority.",
+          "summary": "国連事務総長候補者たちは、トランプ政権に対応する能力を示す必要があり、同時に中国、ロシア、ヨーロッパとの関係を損なわないバランス感覚が求められている。これは米国の対外政策における影響力が増す中で、国連の独立性と多国間主義のあり方が問われる重要な課題となっている。",
+          "source": "POLITICO",
+          "source_type": "media",
+          "url": "https://www.politico.com/news/2026/09/21/un-leader-search-goldilocks-trump-01085532",
+          "added_at": "2026-09-22 13:36:52"
+        },
+        {
+          "uid": "4f55c6b6a2cc",
+          "date": "2026-09-18",
+          "title": "Hill investigates after F-35 parts diverted to Hong Kong",
+          "summary": "米国の下院議員が、F-35戦闘機の部品が香港に流用された事件を調査しており、この事件は中国を含む外国の敵対勢力に対して極秘兵器技術が露出した可能性を示唆していることから、S.4429法案が目指す接続車両などの防衛技術の外国への流出防止という目標の重要性が強調されている。",
+          "source": "POLITICO",
+          "source_type": "media",
+          "url": "https://www.politico.com/news/2026/09/18/congress-f-35-china-investigation-01083647",
+          "added_at": "2026-09-22 13:36:52"
+        },
         {
           "uid": "d431c407c2c5",
           "date": "2026-09-21",
@@ -3980,46 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdkRHMWVUZkRxMl9LREpCcnVJdTlTOHRzMHE0ZE4zMU96UG5yMFdQVEQxX3J1ZC1VZEhDOHEya3I3WlRUc0FJNk1uMnQwODN2a1dqS0prSHV1ODZOQ0tCT1k1YnBYQ0wtdzF1UFVIQmcxZTRLOWN5d1dVUzQtTmZieVMwcTRFdE0xUm42UVVkbUI1dGY3WDBCYTlxMGlrckVHanVqcGVLOVBoNjNEV2JSakNDZXlyV1pSalVRSi1pZXFucDgyY25VVnBvQ3p1X1VzTDMtMmpCRjhZRFk?oc=5",
           "added_at": "2026-07-28 01:23:52"
-        },
-        {
-          "uid": "5d46dbc09f8b",
-          "date": "2026-07-22",
-          "title": "Senate panel passes Chinese automaker ban bill that could affect Mercedes-Benz - Yahoo Finance",
-          "summary": "米国上院委員会は中国系自動メーカーを禁止する法案を可決し、これはメルセデス・ベンツを含む外国自動メーカーにも影響を及ぼす可能性がある。本法案は米国内での中国資本の自動車産業進出を制限し、国家安全保障上の懸念に対応することを目的としている。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGNKX0hJRWZzOHB0VlJ4aHVYY29nR2ZTalpLMi1sVEtXSDBWc0JmLWMxVkdWRDQ3bTc5Ykd6b0Z6UDk2aURPQmZJVWYtV2tiRHNxQXlDRTVDdFdSMnR1SldpdTRBZC05T1BUUmFNZUdzVXZPbnp1SVQtUGtWMFhUdWJtT2RmT1B6ZVNvSnpkT1pYT3ZTTVBKWkk4UDJVQU9rUVhSWQ?oc=5",
-          "added_at": "2026-07-27 17:33:23"
-        },
-        {
-          "uid": "a04f78e0c918",
-          "date": "2026-07-27",
-          "title": "“Japanese Auto Alliance to Challenge the US and China”: Honda and Nissan Expand SDV Cooperation as Toyota Seeks Unified Parts Standards - economy.ac",
-          "summary": "ホンダとニッサンがSDV（ソフトウェア定義車両）協力を拡大し、トヨタが統一部品基準を求めている動きは、S.4429のような米国の車両安全保障規制に対抗するため、日本自動車メーカーが米中との競争を念頭に技術統一と連携を強化しようとしていることを示している。",
-          "source": "自動車部品業界",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BX19JdGNfRUNLWm9GakkxQTg1cUIwc21hN3oyam15OF9iWFIyQkVTRXJVOUJVMlQ0VW4zSlVONzg1b19WaFhBUV9tWEFkRkQ2QkRFUTlnZw?oc=5",
-          "added_at": "2026-07-27 17:33:23"
-        },
-        {
-          "uid": "0f9efe69dbd0",
-          "date": "2026-07-24",
-          "title": "Could Mercedes Face a U.S. Ban? New Bill Targets Automakers With Chinese Ties - MotorTrend",
-          "summary": "米国接続車両安全保障法（S.4429）は、中国との関係を持つメルセデス・ベンツを含む自動車メーカーに対する米国での販売禁止を目指す法案であり、中国の影響下にある企業による接続車両技術の安全保障リスクを懸念している。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObF9FMEp4UmJ2TmZEbUVJSE5zYTZ0R3JicC1KMXR2enBSS182YUdzWVlSSjZ6QkpCYWhlZnpmTWFocUU0ak1VZXgwVGF3Mko4T2c3N2RMa29DS29rckM2Unp4SEM5ellMSFJDbTVxb3hjeGZoT1JZYWhPbkVidXZZZGdB?oc=5",
-          "added_at": "2026-07-27 17:33:23"
-        },
-        {
-          "uid": "29c0d0191dbd",
-          "date": "2026-07-25",
-          "title": "US auto industry races to purge Chinese connected-car hardware amid federal push - crossroadstoday.com",
-          "summary": "米国の自動車業界は、S.4429法案に基づく政府の圧力に対応して、接続車両から中国製ハードウェアの排除を急速に進めている。この動きは、国家安全保障上の懸念から、中国製のコネクテッドカー部品が米国の車両に使用されることを制限する法的要件に対応するものである。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUFFQaEEybnJIUmxPTVJMM3VGcHNaQ1QxbzVzaHd5OEJDQ04ybkJhOUJPQ3V3UWlCREZCc1hwVnRXRm1UcFZCcVM5Z29sdWZuR25DZVNKNHFBNkRmajBXV1ZqaThzWm5nUTVEMjAta0FzdXREbERhVWtOWjNwWTdPbE1PNEVqTE1UUHNLYkVVU1pTN2xKcmU3UlQtLV9falBDUXFfcmM1ODdQSWR5RjVWZTJtUE1icVd3Z3JXMVFNdjF4cDlVV3VSZFhOT1QxbFdwZzdMd1REU19OLUN1YUJUX1RRRTc5SUdodm1OZG1hOExCU0V6Sm1lWnlzOXYwNmlkZmFFcFg2MkNwcjlSMFl2S3BjTQ?oc=5",
-          "added_at": "2026-07-27 17:33:23"
         }
       ]
     },
@@ -4030,47 +4030,47 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-22 04:08:37",
+      "last_checked": "2026-09-22 13:37:28",
       "items": [
+        {
+          "uid": "a240165b7435",
+          "date": "2026-09-22",
+          "title": "China’s Continued Control of Rare Earths Looms Over Trump-Xi Meeting - The New York Times",
+          "summary": "申し訳ありませんが、提供していただいたのはタイトルのみで、記事の本文内容が含まれていません。具体的な記事内容がないため、正確な要約ができません。記事の本文をご提供いただければ、中国レアアース輸出管理に関する要約を作成させていただきます。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mcXRJc2xBY045VThocndCdDFubHNKOV84WFRyR0hBNlE5TjZtZ3AtMHR5R0NCNVM1MnpPV3Z1UE0xcWFyYjRqcDRQWW1RSEhwbHBXV0RJTGxUdFFjTjhiSFFWdHVTNG9hM3pSMjhEQ3ktVUU5NTJQNktiSjY?oc=5",
+          "added_at": "2026-09-22 13:37:21"
+        },
+        {
+          "uid": "0e516b51f6d3",
+          "date": "2026-07-29",
+          "title": "China Puts EU Entities in Export Control Watchlist, Targeting Rare-Earth Supply Chains【SMM Analysis】 - Shanghai Metals Market",
+          "summary": "中国がEU企業をレアアース等の輸出管理対象の監視リストに追加し、レアアース供給チェーンを標的にした輸出規制を強化している。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZkRDSUJfSEllNk1ma2oxY3QyRFZTeFdqQ3FoclI2UEhtbFU2UnllMV9xWDNNNFlkYmt3SDczSWlVUFFZMm92bXIwTDIxSXVWNGY3MzhlSnBPaldueHlodzFpVWxpTU5pVUJFN05hdlRGQ2F3S1hULUstcWZJbVUxdF9mR1R5R3VVRUticjd2V2ptZjhiMWxuN0NhbVZZSXV6SnhrMkM3dVA0WGJneVRyRWc1NUowQkg5NW5DRFlFSnZ4SDFPWWdJWTlCTklPa0FibEt5NFNWYWphdw?oc=5",
+          "added_at": "2026-09-22 13:37:21"
+        },
         {
           "uid": "07dde6545ebc",
           "date": "2026-07-21",
-          "title": "China’s rare earth clampdown backfired: CSIS analyst - Mining.com",
-          "summary": "中国のレアアース輸出規制は、他国のレアアース産業の発展を加速させる逆効果をもたらし、中国の市場支配力の低下につながったと専門家は分析している。この規制により、西側諸国はレアアース確保の多角化を進め、供給源の依存度を低下させることになった。",
+          "title": "China’s rare earth clampdown backfired: CSIS analyst - mining.com",
+          "summary": "中国は過去にレアアースの輸出管理を強化して戦略的優位性を獲得しようとしましたが、この措置は他国の代替供給源開発やリサイクル技術の進展を促進させたため、逆効果となりました。結果として、中国のレアアース市場における支配力は弱まり、国際的な供給チェーンの多様化が進みました。",
           "source": "欧米メディア",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DZWZlSkxSal9qN2NOM1pOUHItU1hBN2JBdjZxbkR5SFJmNWRBVUpiT1dzaWFKVHpaYjdhUV9pVWVFOWU1aVpDUHFGbDJwZEY1UXlXTFhaTFpnalVUb2hBeWVjTkswam52ckpZeU03aEhxS21vZzE5b0drUFdWcGs?oc=5",
-          "added_at": "2026-09-22 04:08:30"
+          "added_at": "2026-09-22 13:37:21"
         },
         {
           "uid": "68621c20fb82",
           "date": "2026-09-21",
           "title": "Bessent says US, Chinese officials considering lowering tariffs on ‘noncritical’ items",
-          "summary": "米国財務長官のベッセント氏は、米中両国が「非重要」製品に対する関税引き下げを検討していると述べており、これはトランプ大統領がシー・ジンピン中国主席とワシントンで会談する準備の一環として、レアアース等の重要鉱物資源を含む製品の関税政策において、両国が戦略的に優先順位をつけて交渉を進めていることを示唆している。",
+          "summary": "米国と中国の当局者が「重要でない」製品の関税引き下げを検討しており、これが両国間の経済関係緩和の一環として進められています。この交渉は、トランプ大統領がシー・ジンピン中国国家主席とワシントンで会談する前に行われているもので、約300億ドル規模の関税削減案が浮上しています。",
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/homenews/administration/6102128-us-china-lowering-tariffs/",
-          "added_at": "2026-09-22 04:08:30"
-        },
-        {
-          "uid": "cd37e72f7add",
-          "date": "2026-09-21",
-          "title": "Bessent: US suggesting AI alert system with China ahead of Trump-Xi talks",
-          "summary": "本記事は中国レアアース輸出管理とは直接的な関連がなく、米国と中国のAI監視システムに関するものであるため、要約対象外です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/technology/6101437-bessent-proposes-ai-notification-system/",
-          "added_at": "2026-09-22 04:08:30"
-        },
-        {
-          "uid": "d2ca4f6ab469",
-          "date": "2026-09-21",
-          "title": "Bessent on talks with China ahead of Trump-Xi meeting: ‘Very successful engagement’",
-          "summary": "米国財務長官ベッセント氏が中国との最近の協議が良好であったと述べており、トランプ大統領と習近平主席の会談を控えて、貿易とAI分野での交渉が進展していることが示唆されている。ただし記事の内容からはレアアース輸出管理に関する具体的な言及は確認できない。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/international/6101242-bessent-china-trade-board/",
-          "added_at": "2026-09-22 04:08:30"
+          "added_at": "2026-09-22 13:37:21"
         },
         {
           "uid": "be3674ff2e12",
@@ -6041,87 +6041,117 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-22 04:08:58",
+      "last_checked": "2026-09-22 13:37:58",
       "items": [
         {
-          "uid": "35e5ce226e4c",
+          "uid": "f27799b11055",
           "date": "2026-09-09",
-          "title": "Trump administration slams Ford, alleges ties to China - WMUR",
-          "summary": "トランプ政権がフォードを批判し、中国との関係を指摘しており、自動車メーカーの対中提携が政治的な争点となっていることが示されている。",
+          "title": "Trump's Transportation Department warned Ford to cut ties with Chinese battery and auto partners - qz.com",
+          "summary": "トランプ政権の運輸省がフォードに対し、中国の電池・自動車メーカーとの提携を解消するよう警告を発したもので、米国の政治指導部が自動車メーカーの対中提携に対して直接的な圧力をかけていることを示している。",
           "source": "運輸長官",
           "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeWVUZHdISk9NNEJ5VnEwY3U2clRVdlJoZFZIem5HdTNaSFBNTFNtb19kaElnazByb1o2X2FGejBKSzB0dlF2VHNVNDJMNEYyU09BVUtmNWpRNXVyb0FJQk84R1g2LUM4em9oRGZJTk5YWm1yakR4V2xhRGdHcE8xUA?oc=5",
-          "added_at": "2026-09-22 04:08:45"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRMTBUVldtSFVCVTVEWVpqcmV4T2VDQzBwcHBkMTlQVVo2VEx5WGFCSWhJOXFIU2E3QVEzN0RsUXQ3UGJqd3pVQmt1QkNZbGpVUzVTZnpOZDZzQ29jSUVQampOdy1CQ1cwRmNHMFJR?oc=5",
+          "added_at": "2026-09-22 13:37:37"
+        },
+        {
+          "uid": "8870c6362f53",
+          "date": "2026-08-19",
+          "title": "Defense Department Orders 30 Universities to Audit China Ties - Time Magazine",
+          "summary": "米国防総省が30大学に中国との関係を監査するよう命じたことは、西側民主主義国家が中国との経済・技術的な結びつきに対して安全保障上の懸念から厳格な監視を強化していることを示唆している。このような政府レベルの警戒姿勢は、自動車メーカーを含む企業セクターにおいても、中国との提携に対する政治的批判や規制の強化につながる可能性がある。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR2R0cWlJUmZpMzV0Z3Q1UkNWbzBoYzJCMlhPMkF1QUt2MmJybGlyako4Z1hVWWRtS1otNS04ejBfeTE4R2Q5WGNuUzRsMmpWWFpCNE4tMDNkZWdmazRHSm9KWEdkMmc3eW9CYi1mekpzM3YtNFo3aG5nUndJbnNtQ0lNcVRHVUR3R1VpUzA0MW1fNURNY1JQVXlBVlNUbVYxeFBLQnJrMl9UVEtyc1lLNk5R?oc=5",
+          "added_at": "2026-09-22 13:37:37"
         },
         {
           "uid": "77895102447c",
           "date": "2026-09-18",
           "title": "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting - Reuters",
-          "summary": "米国自動車業界がトランプ大統領に対し、習近平主席との会談を控えて中国自動車メーカーの米国市場参入を阻止するよう要請している。",
+          "summary": "米国自動車業界はトランプ大統領に対し、習近平主席との会談を控えて中国自動車メーカーの市場参入を阻止するよう働きかけており、対中提携よりも市場保護を優先するよう求めている。",
           "source": "Reuters",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdEhzVURsLWVhS1lkdmpyM1dlZ21yWC0yZTVWZDdwS2Ftc2JSWmdQekRKU3d0YmFWeGNGTU4yQ28wbFBnRDdFY0dWNTQ3TkVmVW1ld2c1TXotUXJIdzFVY1JUdmhGcXJRLXVlLV9vcXFHNUNlZFc4clp4Y3hUN1VIWTN1Z2tPT3k1WVlvbldMWDdlN0lxWk5YenNmWmhFbTZuRGpNTngzUFBTYnhsd3FnN1lNVk9Gbi1zcksxenJXSjJUbE9qT3FZM1NWWFBudExmeVE?oc=5",
-          "added_at": "2026-09-22 04:08:45"
+          "added_at": "2026-09-22 13:37:37"
+        },
+        {
+          "uid": "4deaf98f90b2",
+          "date": "2026-09-15",
+          "title": "US Senate fails to advance sweeping cryptocurrency bill in blow for industry - Reuters",
+          "summary": "この記事は暗号資産規制に関するもので、自動車メーカーの対中提携への政治的批判という文脈には該当しません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUU1MGZBRTU0UUZMWkhzdWlzbVNvV2tSeFBVVnFSczhrM0VSdHd6cFhBRFY0UWxZcmxXZU81MGprbzBvUlFpV2E3TXUxSFExRXFxYnhXSkN0ZHVOb28tVmdKTm0xTGNlNWZLOWV3UGpKSFlnbTI5QnBuRmZKNnNsUF9KMXdHY2FMS3lhdU5vTUFsQVo0ZFUzV0ZoSGVZWmc?oc=5",
+          "added_at": "2026-09-22 13:37:37"
+        },
+        {
+          "uid": "2474161b43dd",
+          "date": "2026-09-18",
+          "title": "France says Russian hybrid attacks are intensifying - Reuters",
+          "summary": "フランスはロシアによるハイブリッド攻撃が激化していると述べており、これはサイバー攻撃や情報操作など多層的な脅威が増加していることを示唆しているが、自動車メーカーの対中提携への政治的批判とは直接の関連がない。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSHV2TTRxUXBMbWZ0ZDRSUjlKWHZMcGRpLThCNGdTbEJYQkNOSGp0RllHekdFdTFvZEtZcVZhbnVjQkdqb1RGbWVHeDRZUHRHQ29TN2dlVDFOenNhbUtMdGIwZFBKZTZFSktuRXZ4Qm91VU1qYVJLazdQY0dXMkVPZzR5ZHQwQ2dLQW9LVmxSMkpVVUpVMnRTWHFjT2haSzBkQzJlNVVR?oc=5",
+          "added_at": "2026-09-22 13:37:37"
+        },
+        {
+          "uid": "f69d4872804c",
+          "date": "2026-09-16",
+          "title": "Crypto bill's defeat shows limits of industry's political machine - Reuters",
+          "summary": "この記事は暗号資産業界の政治的影響力に関するもので、自動車メーカーの対中提携への政治的批判とは直接的な関連性がありません。申し訳ございませんが、提示いただいた記事の内容が指定された文脈に合致していないため、要約できません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHphX25vNHpSYXNOQVlwZDdwc1ZxbW81RkN1V0hTdzRoeGx5MGY2b3k0alhVRkVtYjN0ZHBLWEFZVDdZUGs0NWJ3dkVUUk9qc3hvbFpoY3F1WUdLc0tzd25ySWNCeHlWZFlYd0piek41a3ZBUGtnaFI3bVV4RTM2OEtJREZYN2FJclRvTXViQ0hXOUlwWDJtLVotWXRzSm1KeHB4cjZwbUw2bUwtQ0p4UHlOTTRjbWc?oc=5",
+          "added_at": "2026-09-22 13:37:37"
+        },
+        {
+          "uid": "5a1e0b0a17af",
+          "date": "2026-09-18",
+          "title": "Zelenskiy launches 'Carpathian Eight' initiative on trade, security - Reuters",
+          "summary": "ウクライナのゼレンスキー大統領がカルパティア8カ国による貿易・安全保障イニシアティブを立ち上げたというニュースであり、自動車メーカーの対中提携への政治的批判とは直接的な関連がない記事です。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0pJYVZLX3poanZqbVNDbGl2SXkycG9MYVhKNVNpU1g0YTlKaTZieUNCbm5rLTkzMGpfc29fb0FfY3lKUVEyZXFwbXhwSzRLeV82dGVtSFpsby1uUDRsYW4zSjF3VHBYLUd1Z25JdEdONUpxN0tuejhVSGJnSl9ucFNxZURkTnhyNkptV3ZlcnlsYkoxQ3FRbzlSMzF3Q1d0TkZZMk44bnhFME5uY1hJ?oc=5",
+          "added_at": "2026-09-22 13:37:37"
         },
         {
           "uid": "f74704c58f1b",
           "date": "2026-09-18",
           "title": "Report finds 'culture of risk aversion' hindered oversight of SVB, Fed official says - Reuters",
-          "summary": "シリコンバレー銀行(SVB)の経営危機に関する報告書は、米国の金融規制当局の監督機能の不備を指摘しており、これは政府による企業への事前監視の重要性を示唆しているが、自動車メーカーの対中提携の場合も同様に、リスク認識と規制当局による厳格な監視が不可欠であることを示唆している。金融機関の監視不足から学ぶべき教訓は、対中提携による国家安全保障上のリスクに対しても、政府による積極的な監視・評価体制の必要性を裏付けている。",
+          "summary": "シリコンバレー銀行(SVB)の経営危機は、連邦準備制度理事会(FED)が「リスク回避の文化」により十分な監督を実施できなかったことが原因であったと報告書が指摘しており、この事例は金融規制の課題を示唆している。",
           "source": "Reuters",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0lrd1l3TVdweDJUSV8ybjRhbnhfTmhzWEcxUjZhNkNRaTRGN21Ob1VYT3Q4OVF2d2toWEdXM1dvTk5NenhHeUY0RjVidHVxQnZBS2RraGNOay1vN0ZQd3llUHRnVGV5a2hMMUtncm10ZWlqTG9UMk1CeGhWSzNQaGF1RTRWWEkxUmZMaGw4R0ZuRXh6UXBzOGN5Z19Hc2x2UVNfVVVpYW1ldlNMZnRvdkVQdnZMcW1McDczREVqWTdXM0JHRVBRaFlaWQ?oc=5",
-          "added_at": "2026-09-22 04:08:45"
+          "added_at": "2026-09-22 13:37:37"
         },
         {
-          "uid": "f3da1ce4bdaa",
-          "date": "2026-09-17",
-          "title": "Trump lashes out at Fed after Warsh backs rate hike - Reuters",
-          "summary": "申し訳ありませんが、提供いただいたテキストはトランプ前大統領とFRB（米連邦準備制度理事会）の金融政策に関する内容であり、「自動車メーカーの対中提携への政治的批判」とは無関係です。このため、要求された文脈での要約は作成できません。",
-          "source": "Reuters",
+          "uid": "113937483a94",
+          "date": "2026-09-21",
+          "title": "Rogers calls for end to war in Iran: ‘Michigan families can’t afford to wait’",
+          "summary": "申し訳ありませんが、提供いただいた記事は「イランの戦争終結」をテーマにしており、「自動車メーカーの対中提携への政治的批判」とは関連がありません。そのため、指定された文脈での要約は対応できません。",
+          "source": "The Hill",
           "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09wMmRRbG83OVR3anZpSGk2VGxLdFRXVFpiMHRDcVZTSldiNTNBNUZlckZlR2k2dEY0Q2F4TFVEdzJ1aC12Z3hacGoyWWkwZjlDNWE4ZGpPejU0V1hVazhVRktwampUZTlkdEpRZWhySlFMZnVTUEtlbVU3T3RUS1hjaFJGcHdMSXMwRERiazVqbTBxOXJlMkVR?oc=5",
-          "added_at": "2026-09-22 04:08:45"
+          "url": "https://thehill.com/homenews/campaign/6102630-rogers-iran-war-gas-tax/",
+          "added_at": "2026-09-22 13:37:37"
+        },
+        {
+          "uid": "e18243cf328a",
+          "date": "2026-09-21",
+          "title": "Death of Presley Gerber, Cindy Crawford’s son, investigated as suspected overdose, reports say",
+          "summary": "この記事は有名モデルの息子の死亡事件についての内容であり、自動車メーカーの対中提携への政治的批判とは無関係です。したがって、要約することはできません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/blogs/in-the-know/6102393-presley-gerber-death-cindy-crawford/",
+          "added_at": "2026-09-22 13:37:37"
         },
         {
           "uid": "68621c20fb82",
           "date": "2026-09-21",
           "title": "Bessent says US, Chinese officials considering lowering tariffs on ‘noncritical’ items",
-          "summary": "米国と中国の両政府が「非重要」製品の関税引き下げを検討しており、自動車産業における対中提携は戦略的に重要な産業として関税交渉の対象外に位置づけられる可能性が示唆されている。",
+          "summary": "米国財務長官ベッセント氏は、米中両国が「非重要」製品の関税引き下げを検討していると述べており、これは自動車産業における中国との提携に対する米国の政治的圧力が関税交渉の形で展開されていることを示唆している。米中間の経済的緊張緩和の交渉が進む中で、自動車メーカーの対中事業戦略も政治的な関税政策の影響を受ける可能性がある。",
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/homenews/administration/6102128-us-china-lowering-tariffs/",
-          "added_at": "2026-09-22 04:08:45"
-        },
-        {
-          "uid": "8a973e9955b0",
-          "date": "2026-09-21",
-          "title": "Barrasso says ‘we need to do more’ on affordability as midterms near",
-          "summary": "この記事は自動車メーカーの対中提携に関する内容ではなく、米国共和党議員のバラッソ上院多数党主席がインフレ対策の必要性を述べたものです。\n\nそのため、要求された文脈での要約は適切に作成できません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/senate/6101578-john-barrasso-gop-midterms-messaging-us-economy-affordability/",
-          "added_at": "2026-09-22 04:08:45"
-        },
-        {
-          "uid": "cd37e72f7add",
-          "date": "2026-09-21",
-          "title": "Bessent: US suggesting AI alert system with China ahead of Trump-Xi talks",
-          "summary": "この記事は自動車メーカーの対中提携への政治的批判とは無関係です。米国財務長官が米中間の人工知能リスク管理に関する通知システムの構築を提案している内容であり、要約対象の文脈に合致していません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/technology/6101437-bessent-proposes-ai-notification-system/",
-          "added_at": "2026-09-22 04:08:45"
-        },
-        {
-          "uid": "d2ca4f6ab469",
-          "date": "2026-09-21",
-          "title": "Bessent on talks with China ahead of Trump-Xi meeting: ‘Very successful engagement’",
-          "summary": "米国財務長官ベセント氏は、トランプ大統領と習近平主席の首脳会談を控え、貿易とAI分野における中国との最近の協議が成功裏に進んだと述べた。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/international/6101242-bessent-china-trade-board/",
-          "added_at": "2026-09-22 04:08:45"
+          "added_at": "2026-09-22 13:37:37"
         },
         {
           "uid": "9a98962e4232",
