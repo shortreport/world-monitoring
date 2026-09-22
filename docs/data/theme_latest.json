@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22 13:37:58",
+  "generated_at": "2026-09-22 18:41:43",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-22 13:36:39",
+      "last_checked": "2026-09-22 18:41:13",
       "items": [
+        {
+          "uid": "ea69eeb4c4db",
+          "date": "2026-09-22",
+          "title": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale - EU Today",
+          "summary": "EUは競争ルールを見直し、グローバルな規模での競争力強化に向けた「チップス法2.0」を準備しており、これはIAA（欧州産業加速法案）の文脈で、ブリュッセルが従来の厳格な競争規制を緩和し、戦略的産業での大型投資や企業統合を認める方向へシフトしていることを示している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hRFVqWThGMlpsRzgtMlEzMTE4R2RadHdsWnJPX3ZXUWUwVXM5LWt0ajhWVnJTWG1ZNFZyUWJvc2dRTHMyd24yUjUyQWZlbTRYb3dYaHAwaG1sRWliVGc4clRoVG1VaThkR3FWTzhR?oc=5",
+          "added_at": "2026-09-22 18:41:11"
+        },
         {
           "uid": "c0107d63c291",
           "date": "2026-09-21",
@@ -1999,16 +2009,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSXdFdnEwRXgwTXlmMzZFSGJJQ1VSNnBUY0oxbktrSjd4NkJjWmkzMTVEdzNfZnBMNnFsX0tSR01YaWdEVWVEZnFaVlZwSzNDX1NqM1RjVlgtZmJ6UVNuY21GSUZJeUZ4SU5BcjBmeVA1d2RRV3ZFVElCYkJDQkZISkthYw?oc=5",
           "added_at": "2026-06-20 07:14:31"
-        },
-        {
-          "uid": "07fd3fae65eb",
-          "date": "2026-06-17",
-          "title": "Commission proposes Industrial Accelerator Act - RECYCLING magazin",
-          "summary": "欧州委員会が提案した「産業加速法案（IAA）」は、欧州の産業競争力強化を目的とした規制改革であり、許認可手続きの簡素化やリサイクル産業を含む重要産業の成長促進を図るものです。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZXltNWFlUjloYjdBOEtzNDdtZVQydEt3cm1fSEYyODhDSFZ3VEV0Q0ZpMzV4c3ZRd09TemFWWjAyUXQ2My1GTzM3UjlCR2I2LW5UaTdEcWhESFN2WHBDdzE4WUVGSjZqZmsyaV9sZGd2YjlPWmt2VmpZXzNneDJ1cHQxbnZOSWYxeVV4SElIdVBKNEZQ?oc=5",
-          "added_at": "2026-06-19 22:04:07"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-22 13:37:01",
+      "last_checked": "2026-09-22 18:41:22",
       "items": [
+        {
+          "uid": "a04f78e0c918",
+          "date": "2026-07-27",
+          "title": "“Japanese Auto Alliance to Challenge the US and China”: Honda and Nissan Expand SDV Cooperation as Toyota Seeks Unified Parts Standards - economy.ac",
+          "summary": "ホンダとニッサンがソフトウェア定義車両（SDV）での協力を拡大し、トヨタが統一部品基準を推進することで、日本の自動車メーカーが米国と中国の競争に対抗する体制を整備している。これはS.4429によって強化される可能性のある米国の接続車両セキュリティ要件への対応戦略と位置付けられる。",
+          "source": "自動車部品業界",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BX19JdGNfRUNLWm9GakkxQTg1cUIwc21hN3oyam15OF9iWFIyQkVTRXJVOUJVMlQ0VW4zSlVONzg1b19WaFhBUV9tWEFkRkQ2QkRFUTlnZw?oc=5",
+          "added_at": "2026-09-22 18:41:20"
+        },
         {
           "uid": "faef5f96b459",
           "date": "2026-09-17",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TeUNxV08zTzUtN0dxY3dCZ0RmUWZPRXFIVDQ4RVNrR3VYMUo4SktJMFpkQmZoWEJadldSRnBJejA2UzRLOVViOHVkWGlkNGstS3Q0Ti1taWdLZXp0RlhxR1AwQm9pc2RKMFI5TWl4d014dw?oc=5",
           "added_at": "2026-07-28 01:23:52"
-        },
-        {
-          "uid": "44d99ff36bdb",
-          "date": "2026-06-15",
-          "title": "US connected-car rule prompts Ford, other automakers to seek licenses for China-built models - Reuters",
-          "summary": "フォードなどの自動車メーカーが中国製モデルの米国販売に向けてライセンス申請を進めており、これは米国の接続車両安全保障規制への対応である。この動きは、中国製自動車の米国市場参入に伴うサイバーセキュリティ上の懸念に対する規制枠組みの形成を示唆している。",
-          "source": "自動車部品業界",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdkRHMWVUZkRxMl9LREpCcnVJdTlTOHRzMHE0ZE4zMU96UG5yMFdQVEQxX3J1ZC1VZEhDOHEya3I3WlRUc0FJNk1uMnQwODN2a1dqS0prSHV1ODZOQ0tCT1k1YnBYQ0wtdzF1UFVIQmcxZTRLOWN5d1dVUzQtTmZieVMwcTRFdE0xUm42UVVkbUI1dGY3WDBCYTlxMGlrckVHanVqcGVLOVBoNjNEV2JSakNDZXlyV1pSalVRSi1pZXFucDgyY25VVnBvQ3p1X1VzTDMtMmpCRjhZRFk?oc=5",
-          "added_at": "2026-07-28 01:23:52"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-22 13:37:28",
+      "last_checked": "2026-09-22 18:41:37",
       "items": [
+        {
+          "uid": "853b666607d6",
+          "date": "2026-09-22",
+          "title": "Key issues for this week's Trump-Xi summit in Washington - The Economic Times",
+          "summary": "申し訳ありませんが、提供いただいたテキストには実際の記事内容が含まれておらず、タイトルのみとなっているため、「中国レアアース輸出管理」に関する具体的な要約を作成することができません。記事の本文をご提供いただければ、要約させていただきます。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjMwOHppcjhPcWNlQ2pzUjNBV1BaRlJBdEJNUEhBdlR1U3lUc0JLdU5PYXhZSFZDU1V6WGdnaXFQZHVnRTVVYlVqdzZibWpfemZzempheXRhUUNYTXQydGJxN1BEclQ4bVZDWlZybFJVLS1ISlpYLW1TSloyNmZzaG5kUE9yR1VaeHlPS0U0YTZaMzZWSWJycnlsUkpSWHVENEU5UV91T0I0Z2xWS2hSVWVMdzFnb0FJWmNRbDJGNXFJOE01LXEwM1BnTDYwQlNYbGh6QjVkcnNXa3PSAdsBQVVfeXFMTlozMDh6aXI4T3FjZUNqc1IzQVdQWkZSQXRCTVBIQXZUdVN5VHNCS3VOT2F4WUhWQ1NVelhnZ2lxUGR1Z0U1VWJVanc2Ym1qX3pmc3pqYXl0YVFDWE10MnRicTdQRHJUOG1WQ1pWcmxSVS0tSEpaWC1tU0paMjZmc2huZFBPckdVWnh5T0tFNGE2WjM2VklicnJ5bFJKUlh1RDRFOVFfdU9CNGdsVktoUlVlTHcxZ29BSVpjUWwyRjVxSThNNS1xMDNQZ0w2MEJTWGxoekI1ZHJzV2tz?oc=5",
+          "added_at": "2026-09-22 18:41:34"
+        },
+        {
+          "uid": "c685243f7d5b",
+          "date": "2026-09-14",
+          "title": "Elemental Leverage: How the United States Can Stop China’s Rare-Earths Squeeze Before the Next Crisis - Center for International Maritime Security",
+          "summary": "中国はレアアースの世界市場支配を活用した戦略的な輸出制限により、米国や同盟国に対する経済的・技術的優位を確保しており、米国はこの「レアアース圧力」に対抗するため供給チェーンの多様化やリサイクル技術の強化などを急速に進める必要がある。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRWNiZUNxSkN0dWc2X0NRem91M2NrdDF6XzY5S2p3OVFqUXV2YkZyRXJiQjlZRFV2SlB6RVl2UjNmc0RpZm8yMW1KdUhVM294RmF5OENYaXotX0hMajFfZFROeTZqT2dtcUVROEZZTEJJS2Z1TDR4Nlo2V1RQZ0FiOUI1cHdqRm5GeWx4dXJNbE1DdTV2WjVtZWQwcVI3aHlDUlpWVkdXTjh0V21rZE9xWFZoa1RNVWplZnQw?oc=5",
+          "added_at": "2026-09-22 18:41:34"
+        },
         {
           "uid": "a240165b7435",
           "date": "2026-09-22",
@@ -6011,26 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa3FuV2JoWWpJcGJQbDZ2N19LcnFHSHZtdUMwSGRycmhjTTMtWk5XdlZ5VlQxQWZuSDNaYlFQRlRwQ3JZUlJrSFhrS21nS2x2NzlFaGxwc0VlRmRISnM1THN2SjRBVWF1V0hCSDdXaC1FVGZrbHE1dmlSNFpENlh2SjlwSWdYNVdBb1pJY3VuY0h4VFEt?oc=5",
           "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "b6ff6ccc9955",
-          "date": "2026-06-22",
-          "title": "Beijing's Calibrated Response to the 1260H Designations - Geopolitechs",
-          "summary": "中国政府は米国による特定技術企業への制裁に対抗し、レアアース等の戦略物資の輸出管理を強化することで、米国の対中技術規制に対する報復措置を講じている。この措置は中国が半導体・AI産業での優位性維持と米国との技術競争における交渉力を確保するための戦略的対抗手段となっている。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yX3B5MG5oMldOejNEekNSTGo5eFY4SFdaT19CdFh3R1FUTUFraG1vM2pYSG54Sk9wbEtvdXZ2WVJ4RjEzZHRKaTlhdWVmcmFQY0NGN2l0UEswU09vRHBWZmphTlVUbUkzT054MGFjLTJOWklP?oc=5",
-          "added_at": "2026-09-03 14:03:33"
-        },
-        {
-          "uid": "ac9b6028005b",
-          "date": "2026-06-25",
-          "title": "China targets U.S. rare earth firms with new export controls - Indonesia Business Post",
-          "summary": "中国が米国のレアアース企業を対象とした新たな輸出管理を実施する計画があり、これは米中の経済的対立の一環としてレアアース産業における規制強化が進められていることを示している。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ0tWT0h1MWxmZnRMUmtNRGcyMlhMM1VOenNfNTB0eWh6eExFQkdnMmxWbXRDRTBvaWdZbkZhWF9wbm9RN1p0ZDc1Q1JtVm43RVVFMG5MaXZOd1U3TU5FZ2hEZXNreWxROHdnVHgxNlcxdV9VV0hXcGRSMWtvT1JMaEdTNWtzci1FaGhxc3NYTmZYMFlEb2tjZTdzbEMxNzE3NG5DQndQa0RIbG9peDJF?oc=5",
-          "added_at": "2026-09-03 14:03:33"
         }
       ]
     },
@@ -6041,7 +6041,7 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-22 13:37:58",
+      "last_checked": "2026-09-22 18:41:43",
       "items": [
         {
           "uid": "f27799b11055",
