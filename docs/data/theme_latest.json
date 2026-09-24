@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24 03:19:31",
+  "generated_at": "2026-09-24 18:46:06",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,28 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-24 03:18:34",
+      "last_checked": "2026-09-24 18:45:29",
       "items": [
+        {
+          "uid": "5f74f1925d98",
+          "date": "2026-09-24",
+          "title": "Industrial Accelerator Act could expose battery shortage - Bodyshop Magazine",
+          "summary": "欧州産業加速法案（IAA）はEUのバッテリー産業の急速な発展を目指しているが、急速な需要増加によってバッテリー供給不足が露呈される可能性がある。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlFoOFRUUXB5NTBMVXNEWF9QWWN3dVBwNl95N1E2NkctNGZTR2RXemhpSWtvaDMwaGVTSmctT0NGektUcjAtNGtlcVlPTU1JWWl5YmJnWGZtS0xSenJfNy1LOHF2QUx3VXl0alJ4MnRObktlUmJIdnVIcFRmS2tRSDBOeDA4ckYzaEZvMWhFVVZoMjVERHZxQ1RpTQ?oc=5",
+          "added_at": "2026-09-24 18:45:26"
+        },
+        {
+          "uid": "cbeb6863a697",
+          "date": "2026-09-24",
+          "title": "Briefing: How the EU is simplifying permitting - ENDS Europe",
+          "summary": "申し訳ありませんが、提供いただいたタイトルのみで記事の本文内容が示されていないため、正確な要約ができません。記事の本文をご提供いただければ、「欧州産業加速法案（IAA）」の文脈に沿って日本語1～2文で要約いたします。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFlNbjVuZktlNmdoRDlJRkRFeDFsblJhX1JFMUFxXzdhYkczSEg3NWdvYXhYNlJpTUZqUjIzLVJ1bE1ZS3Yxai1ILXJxTmNoSFQzU1RqMzJFejU0LUJGT3hUZVRSelJnbkR0bzQxV1dsLS1pYlZhMEdtcnBteGt3ZkZsYw?oc=5",
+          "added_at": "2026-09-24 18:45:26"
+        },
         {
           "uid": "21831767e2bc",
           "date": "2026-09-22",
@@ -1989,26 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaHoyVEFnOVp4MGVJMjc0amlsMlF5emFDZk5KSWxHa3dHbzZSd0JvckJTdnM0blJ4YlJBTUlPclZ4REE5U3R2Y3p1ZzRGMEdCbEhDRTJYc1hEN3pWRmlJOU5EX3MyT1V0ckFkbTJmRUlWQS1NUy1rSW45Nk5JNVcwcnlsUmxOSWtPVF9rYmthcHJINFdGUHF0RFBDbjZHa05Ga3FFcFBvLUFwTWl3OGF2QXlrUlZUdEg4UjBhODBNZDkyQkFrS3dydWhkaw?oc=5",
           "added_at": "2026-06-22 03:10:24"
-        },
-        {
-          "uid": "6e8102e8d327",
-          "date": "2026-05-07",
-          "title": "ECF must focus limited budget on key priorities, lead MEPs warn - Science|Business",
-          "summary": "EUの産業加速基金（ECF）の限定的な予算配分については、主要なEU議員らが戦略的な優先順位付けの重要性を強調し、欧州産業加速法案（IAA）の目標達成に向けて資源の効率的な集中を促しています。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOWFXeEZYQ0NLZUJQYVVKMFJ0RWF0OEgzUGhlSWg1cGcwUzJxalUzR1FreWY3T1BhbDUyVWZPM0lOckd2eHl3TThCcnZuNTBMOUZCallVbzgzckoxQTdOSUVFa1NQNmZXUmJvR0ptSEVwVGtjSlZWSEJCcFFHUWFQVkpYM0JEcWRMMlRyNmxWS1ZXWUtTMmxXSU16Y3YzRjJpX1NPQQ?oc=5",
-          "added_at": "2026-06-21 20:36:32"
-        },
-        {
-          "uid": "e61032e4aa07",
-          "date": "2026-06-18",
-          "title": "Parliamentary committee and lobbies push for green R&D in Competitiveness Fund - Science|Business",
-          "summary": "欧州議会委員会と業界ロビイストは、欧州産業競争力基金（競争力ファンド）における緑色技術研究開発（R&D）の強化を推進しており、これは産業加速法案（IAA）の枠組みの中で、EUの産業競争力向上と気候目標達成の両立を目指す取り組みとなっている。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGQyS3ZZNXg2Q04yZ0x3dDFfVnduMEt1YU1YbWpkTklYV0tyRmZWLWc4TTNvZ0NDN0FIdVBkVHdyRHdvMU5LeDNiUl9pd1VPaUZiLW1qMnZVdXNlekRYX2RMd0Zad29CNzhfMGJvbW1fV2ZiOXVqOVpqZEVkeTh4NGVGRkIzVUJJeHhYQzNtbmk5YmlwaFY4T0VqVDRQNGdzZE1US3M4SlVCdnBnQVVDVDJyTQ?oc=5",
-          "added_at": "2026-06-21 07:47:42"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-24 03:18:44",
+      "last_checked": "2026-09-24 18:45:38",
       "items": [
+        {
+          "uid": "01d07870cf5c",
+          "date": "2026-09-22",
+          "title": "As Trump and Xi meet, TD Cowen says the auto stock selloff on Chinese car fears is 'overdone' - AOL.ca",
+          "summary": "TD Cowen は、中国車への懸念による自動車株の売却は過剰反応であると述べており、トランプ前大統領とXi主席の会談を背景に、S.4429のような規制措置への市場の過度な懸念を警告している。",
+          "source": "自動車部品業界",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pWDFIQXpDUDRoN3AwVVU0bDNXYUE3Z3hYMHVPRXlITEkxUXN0WUVFRWdWX1RiZzI5SUo5NnplSzJOU01fOUozZnRleEdsbHd3LXllbXZEamszOHpJZEhKcURjRU9jbU8tRHVLYjlRRTJuRGs?oc=5",
+          "added_at": "2026-09-24 18:45:37"
+        },
         {
           "uid": "a04f78e0c918",
           "date": "2026-07-27",
@@ -4010,16 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnA2QlFjZUFNTWl1MEpFQmpqbGtrNmZrY2dSV2lVdk5RZ21vRG1vVFJFdXJGbFNoSkpULV9TM0Z3VnJ6aGdzYTg3U2ZoakxfeVFVOUl1OHhmbFlTWnlsa1dUdWN4UUc5RmU2bUw2R0Q2OGRHQm5ESEh2UUNTb0VZd2FKQmlrSUE?oc=5",
           "added_at": "2026-07-28 08:00:24"
-        },
-        {
-          "uid": "dd58e65933ea",
-          "date": "2026-07-27",
-          "title": "Connected Vehicle Security Act advances as dealers rally behind legislation - CBT News",
-          "summary": "米国接続車両安全保障法（S.4429）は、自動車ディーラーがその可決を支持する中で法案化が進展しており、業界の統一的な支援により接続車両のサイバーセキュリティ基準の強化が推進されている。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TeUNxV08zTzUtN0dxY3dCZ0RmUWZPRXFIVDQ4RVNrR3VYMUo4SktJMFpkQmZoWEJadldSRnBJejA2UzRLOVViOHVkWGlkNGstS3Q0Ti1taWdLZXp0RlhxR1AwQm9pc2RKMFI5TWl4d014dw?oc=5",
-          "added_at": "2026-07-28 01:23:52"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-24 03:19:03",
+      "last_checked": "2026-09-24 18:45:56",
       "items": [
+        {
+          "uid": "c74076f9373b",
+          "date": "2026-09-22",
+          "title": "Controlling rare earth elements: A difficult issue in the Donald Trump - Xi Jinping meeting. - Vietnam.vn",
+          "summary": "中国はレアアース資源の供給優位性を利用して米国への圧力手段とし、米中貿易交渉における主要な争点となっているが、両国間での解決は困難な課題となっている。米国は中国のレアアース輸出管理に対する懸念から、国内のレアアース産業育成と輸入源の多様化を図らざるを得ない状況にある。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUll1ck44MktLUzdlNG1UVHhmWkRSbEMwU3RRM2dyUzBYYWRfYk5fS0hUVF9oVDYzUk9lbVRmQTZaOW42U3BFM1dxYkNZYUVKempUSGdHV1pxOGNJWFlJOUo0OTAwS01BbGdVZTd0MFRmaERwOXd1dWZXNVBtOGV4aVp0b2N3c2xoLTlYVkFCbEQxangyVzUydlh0LU96OGc?oc=5",
+          "added_at": "2026-09-24 18:45:52"
+        },
+        {
+          "uid": "fb55145c2982",
+          "date": "2026-08-03",
+          "title": "U.S. faces new pressure to build weapons without China’s rare-earth magnets - washingtontimes.com",
+          "summary": "中国がレアアース磁石の輸出を制限する可能性があるため、米国は中国に依存しない防衛兵器システムの開発を急速に進める圧力に直面している。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOWZEdXpDV2szaEtfd2FwSEdJcUlTRUg0RFJlSnlPYUdONmRXd2xET1Z1RS16Mm9hOEVIZ04wdzQwNnFHVjlXYUVlRGlUZ0pxbWdQSkFMdzVQY0FXWlA5S01vbTg2RUhJMGdXRjVKSUFqZ0lDM3NqMWhCUmN5M0dxV29zR3k2SFhNczFnd0M1SE1ib0ZkejlwM2NDTXV4Y1RBU0FGWVhndzNIUGxGZWd5QzFR?oc=5",
+          "added_at": "2026-09-24 18:45:52"
+        },
+        {
+          "uid": "969c1c3f0af6",
+          "date": "2026-09-23",
+          "title": "Schumer, Senate Democrats push for stricter rules on AI chip sales ahead of Xi visit",
+          "summary": "この記事は中国レアアース輸出管理の文脈とは異なり、米国上院民主党がAIチップの対中輸出規制を強化する法案の成立を推し進めている動きについて報じています。レアアース関連ではなく、先端半導体技術の輸出管理に焦点が当てられています。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6106883-senate-democrats-ai-chip-bills/",
+          "added_at": "2026-09-24 18:45:52"
+        },
         {
           "uid": "daf2916f89f4",
           "date": "2026-09-16",
@@ -6001,36 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYnp2T0syUThIRmRKMmdFOUxSNkFMR2xkTHBZVXJvTFVhc3pSa0tPT3hmSVdiTEhQY0QyYnZ5WVJwQXlIelNCNE0yQXFZdTUyc3p0MExFM3RxaTIyUnVWS21JNE91VmNuTE82LTdsM0VzNHkwbkE4blRialRoUjFiMF9Ybk5vSzQ5NEJFQ2hnZmlyWVFhNWVBLWlpaE8yOVhJTExzbjlqNDAtZE5YaHRIRW8xZzdXR0U?oc=5",
           "added_at": "2026-09-03 18:32:11"
-        },
-        {
-          "uid": "588ede1d7a3a",
-          "date": "2026-06-08",
-          "title": "Senate To Take on More Than 30 Energy, Natural Resources Legislation - Legis1",
-          "summary": "米国上院は30以上のエネルギー・天然資源関連法案に取り組む予定であり、これは中国のレアアース供給への依存を削減し、米国内のレアアース採掘・加工能力の強化を目指した政策の一部と考えられます。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCMkNjR0JLcVZydy0wSjRQam9YeEhCejNoSkJFcFlqMHZfZFI3Y3NHenl3dTZPWnh0dk41V3VLQ0FwRkR3MHhqRUpESHQ3S29HVnVOTE1sa0w3c2pIdWFja2k3RzN3U2x1RGZxZ24wazZVbXVGWExUaHdob2Ytdw?oc=5",
-          "added_at": "2026-09-03 18:32:11"
-        },
-        {
-          "uid": "8d4bcea63dd4",
-          "date": "2026-06-23",
-          "title": "China hits US rare earth companies with export bans - Taipei Times",
-          "summary": "中国がレアアース産業における米国企業への輸出制限を実施したもので、米中間の技術・資源競争が一層激化していることを示している。この措置は、米国の中国に対する規制強化への対抗手段として機能している。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44REpYSTJIZEYwbFZsUEkxYnBjelRHTlVKTkRxc0g1YlMzOGczRGhwak1wckJLYlRReDd5aTJwRlpjcVpyNHFfanBZN3JvN3BLdWF1S0hSTEhyOHhDYS1mZmZCak5CLUlTZXcyUndFWEg3U05HSkE?oc=5",
-          "added_at": "2026-09-03 18:32:11"
-        },
-        {
-          "uid": "7eddebe26b79",
-          "date": "2026-07-27",
-          "title": "Lynas’ latest Korean deal reveals the bigger strategy taking shape - australianresourcesandinvestment.com.au",
-          "summary": "オーストラリアのレアアース企業ライナスが韓国との取引を拡大することで、中国に依存しない供給チェーン構築という地政学的戦略が進展している。西側民主主義国家がレアアース調達を多角化させ、中国による輸出管理のリスク回避を目指している。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWZVVW1TRTY2MDhHYmQxSXh1ZXlRRHBpUkwyRS1WTnlVVElQSVBRVjg3TlVFVlVBczhHdF9EX1VjbEhQWi1tbmFLOXE0Y0FLNWNBT3VkUVBrRjMwaXFzQll5cVNhVmRaX2F0ektoOHlaTUphQUpLNFlKbUVfZVdicWxXNk5jOWVMZDlNWV9YUW5PcGNIYnBMb3JCZEV3T0k3WWtKTGppWk9idGV3MVE5SDNkV2JLMDNiSUpJbktTQmI2THBLOGxLOA?oc=5",
-          "added_at": "2026-09-03 18:32:11"
         }
       ]
     },
@@ -6041,8 +6041,28 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-24 03:19:31",
+      "last_checked": "2026-09-24 18:46:06",
       "items": [
+        {
+          "uid": "6ef8a8afdc8c",
+          "date": "2026-09-17",
+          "title": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards - Reuters",
+          "summary": "この記事はAmazonがAI安全性に関する議論に参入し、厳格なテスト体制とセーフガードの実装を求めていることを報じており、自動車メーカーの対中提携と直接的な関連性はありません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlc0aEIyZmgxVURSZXZnVWNic05GQW9SVmI1Y1JvbGVtYzR6RmFvMTFKUTBFNWNOaENqckFIdjY3NXh2dWNkZF9UUUY3VXpNbEVPYnZhZnk0N2kwWFNfWS1lNzlEdXNvTlkzRXFmM1dpTHMyOG9GTVdwZ3FkZGt1UXUwUklrWEtaeUdSdVR0WWxCTHdYNi00WFVKbmZRMWJXRFhDblNNM01HQXpGVHVrVFhUUlpHUDRiT1pVbHMyVlc?oc=5",
+          "added_at": "2026-09-24 18:46:04"
+        },
+        {
+          "uid": "2908c76e8c6a",
+          "date": "2026-09-23",
+          "title": "Watch live: Jeffries talks midterms as battle for House intensifies",
+          "summary": "申し訳ございませんが、提供いただいた記事の内容は、米国の下院少数党指導者がメディアに対して中間選挙について語る政治的なニュースであり、「自動車メーカーの対中提携への政治的批判」とは関連がありません。記事の要約をご希望の場合は、異なる記事をご提供いただくか、別の文脈でのご依頼をお願いします。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/video-clips/6106766-watch-live-hakeem-jeffries-midterms-democrats-iran-war-trump-agenda/",
+          "added_at": "2026-09-24 18:46:04"
+        },
         {
           "uid": "7cf67006808f",
           "date": "2026-09-23",
