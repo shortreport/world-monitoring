@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-24 16:00 JST",
+  "updated_at": "2026-09-24 16:02 JST",
   "total": 50,
-  "toyota_summary": "The European Union is tightening its grip on where carmakers can source components and materials. The Industrial Policy Act pushes manufacturers to source green-transition products from within the EU rather than China, while Germany is now pushing for explicit \"made in Europe\" requirements in the framework. Starting January 2026, the carbon border adjustment mechanism will impose costs on imported parts based on their production emissions, effectively penalizing non-EU suppliers. These measures are fragmenting the global supply chain at a moment when the industry needs scale to compete.\n\nThe risk is stark: automakers face a choice between accepting higher costs to localize production in Europe, or accepting tariffs and market access complications. The EU is betting it can protect its manufacturers while accelerating the green transition, but the policy is already straining trade relations with the UK and raising costs for Japanese and other foreign suppliers. Germany's push for explicit regional content requirements suggests the protectionism will deepen, not ease.\n\nWatch whether carmakers begin announcing new European battery or semiconductor plants in response, or whether they start shifting investment to lower-cost regions entirely.",
+  "toyota_summary": "EUの産業加速化法（Industrial Accelerator Act）は最大のリスク要因である。欧州の製造業振興を目的とした本法は、英国の自動車関連企業を政府調達や補助金の対象から除外しかねず、報復関税を招く恐れがある。ドイツは輸出依存という自国事情を反映し、より緩やかな「メイド・ウィズ・EU（Made with EU）」基準の採用をブリュッセルに働きかけており、この動向が最終的な規則が非EU系サプライヤーにどの程度の打撃を与えるかを左右することになろう。\n\nトランプ・習会談は、EV（電気自動車）や半導体のサプライチェーンに不可欠なレアアース輸出規制の緩和が、11月10日の休戦期限を越えて維持されるかどうかを試す試金石となる。",
   "emails": [
     {
       "ts": "20260924_1532",
@@ -11,7 +11,12 @@
       "date_label": "SEP 24  15:32",
       "read_min": 5,
       "toyota": true,
-      "excerpt": "EUの産業加速化法（IAA）は、欧州のグリーン化に必要な製品を中国ではなくEU内で製造するこ"
+      "excerpt": "EUの産業加速化法（IAA）は、欧州のグリーン化に必要な製品を中国ではなくEU内で製造するこ",
+      "subject_en": "‘Made in Europe’ agenda puts UK-EU trade relations at risk",
+      "html": "data/pdfs/20260924_1532_‘Made_in_Europe’_agenda_puts_UK-EU_trade_relations.html",
+      "summary_en": "The EU's proposed Industrial Accelerator Act, meant to boost European manufacturing over Chinese imports, could inadvertently shut UK automotive, nuclear, and hydrogen firms out of EU procurement and funding. British officials warn this may prompt retaliatory tariffs under the Trade and Cooperation Agreement, straining UK-EU relations further. Because the UK must lobby individual member states and the European Parliament rather than negotiate directly with the Commission, securing exemptions will be difficult.",
+      "summary_ja": "EUが提案する「産業加速化法」は、中国製品に対抗し欧州製造業を強化する狙いだが、英国の自動車・原子力・水素分野がEUの調達や資金支援から排除される恐れがある。英当局は、これが英EU貿易協力協定の下での報復関税につながりかねないと警戒している。英国は欧州委員会と直接交渉できず、加盟国や欧州議会の支持を得る必要があるため、妥協点を見出すのは容易ではない。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260924_1405",
@@ -21,7 +26,12 @@
       "date_label": "SEP 24  14:05",
       "read_min": 9,
       "toyota": true,
-      "excerpt": "ドイツはEUの産業加速法（IAA）において「EU製」アプローチの採用を推進しており、貿易相手"
+      "excerpt": "ドイツはEUの産業加速法（IAA）において「EU製」アプローチの採用を推進しており、貿易相手",
+      "subject_en": "Scoop: Germany sets its position on IAA",
+      "html": "data/pdfs/20260924_1405_Scoop__Germany_sets_its_position_on_IAA.html",
+      "summary_en": "Germany is lobbying Brussels to soften the EU's Industrial Accelerator Act by favoring a 'Made with EU' standard over stricter local-content rules, reflecting Berlin's reliance on auto and machinery exports and its wariness of provoking trade partners like China. The position paper also seeks exemptions from proposed foreign investment restrictions for 'critical industries,' even as Chancellor Merz's coalition weighs tougher measures on Chinese plug-in hybrids.",
+      "summary_ja": "ドイツ政府は、EUの「産業アクセラレーター法」において厳格な現地調達要件ではなく「Made with EU」方式を採用するようEUに働きかけている。これは自動車や機械輸出への依存と、中国など貿易相手国を刺激したくないという思惑を反映している。同時にベルリンは「重要産業」を守るため対内直接投資規制の適用除外を求めており、メルツ政権が中国製プラグインハイブリッド車への規制強化を検討する中での動きとなっている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260924_1402",
@@ -31,7 +41,12 @@
       "date_label": "SEP 24  14:02",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Merz’s EU budget squeeze faces a test at home",
+      "html": "data/pdfs/20260924_1402_Merz’s_EU_budget_squeeze_faces_a_test_at_home.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260924_1300",
@@ -40,8 +55,13 @@
       "pdf": "data/pdfs/20260924_1300_German_industry_hoards_rare_earths_as_Brussels_squ.pdf",
       "date_label": "SEP 24  13:00",
       "read_min": 7,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "German industry hoards rare earths as Brussels squares up to China",
+      "html": "data/pdfs/20260924_1300_German_industry_hoards_rare_earths_as_Brussels_squ.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260924_1214",
@@ -50,8 +70,13 @@
       "pdf": "data/pdfs/20260924_1214_ジェトロ・メンバーズニュース第475号.pdf",
       "date_label": "SEP 24  12:14",
       "read_min": 2,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "JETRO Members News No. 475",
+      "html": "data/pdfs/20260924_1214_ジェトロ・メンバーズニュース第475号.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260924_1214_ジェトロ・メンバーズニュース第475号_en.pdf"
     },
     {
       "ts": "20260924_1213",
@@ -61,7 +86,12 @@
       "date_label": "SEP 24  12:13",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20260924_1213_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260924_1212",
@@ -71,7 +101,12 @@
       "date_label": "SEP 24  12:12",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "EU炭素国境調整メカニズム（CBAM）が2026年1月に本格適用され、日本企業は域外輸入製品に"
+      "excerpt": "EU炭素国境調整メカニズム（CBAM）が2026年1月に本格適用され、日本企業は域外輸入製品に",
+      "subject_en": "Notice of New JETRO Regional and Analysis Reports (September 24, 2026 Issue)",
+      "html": "data/pdfs/20260924_1212_ジェトロ地域・分析レポートの新着のご案内（2026年9月24日号）.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260924_1212_ジェトロ地域・分析レポートの新着のご案内（2026年9月24日号）_en.pdf"
     },
     {
       "ts": "20260924_0722",
@@ -81,7 +116,12 @@
       "date_label": "SEP 24  07:22",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US-GCC update",
+      "html": "data/pdfs/20260924_0722_US-GCC_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260924_0529",
@@ -91,7 +131,12 @@
       "date_label": "SEP 24  05:29",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US likely to restrict diesel exports",
+      "html": "data/pdfs/20260924_0529_US_likely_to_restrict_diesel_exports.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260924_0251",
@@ -101,7 +146,12 @@
       "date_label": "SEP 24  02:51",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "India: New nuclear rules will boost domestic reactors",
+      "html": "data/pdfs/20260924_0251_India__New_nuclear_rules_will_boost_domestic_react.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260924_0058",
@@ -111,7 +161,12 @@
       "date_label": "SEP 24  00:58",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Conference call notes: Xi-Trump Summit Preview",
+      "html": "data/pdfs/20260924_0058_Conference_call_notes__Xi-Trump_Summit_Preview.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260924_0045",
@@ -121,7 +176,12 @@
       "date_label": "SEP 24  00:45",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Bessent-He AI \"notification mechanism\" leaves much to be desired",
+      "html": "data/pdfs/20260924_0045_Bessent-He_AI__notification_mechanism__leaves_much.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260924_0031",
@@ -141,7 +201,12 @@
       "date_label": "SEP 23  23:02",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US Midterm Update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260923_2302_US_Midterm_Update_-_EG_Conference_Call,_REMINDER.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_2235",
@@ -151,7 +216,12 @@
       "date_label": "SEP 23  22:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Romania’s political deadlock risks handing power to far right, PM nominee warns",
+      "html": "data/pdfs/20260923_2235_Romania’s_political_deadlock_risks_handing_power_t.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_2202",
@@ -161,7 +231,12 @@
       "date_label": "SEP 23  22:02",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Xi-Trump Summit Preview - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260923_2202_Xi-Trump_Summit_Preview_-_EG_Conference_Call,_REMI.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_2116",
@@ -171,7 +246,12 @@
       "date_label": "SEP 23  21:16",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "AI restraint would need antitrust waiver few want",
+      "html": "data/pdfs/20260923_2116_AI_restraint_would_need_antitrust_waiver_few_want.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_2106",
@@ -181,7 +261,12 @@
       "date_label": "SEP 23  21:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Friedrich Merz has a Friedrich Merz problem",
+      "html": "data/pdfs/20260923_2106_Friedrich_Merz_has_a_Friedrich_Merz_problem.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_2006",
@@ -191,7 +276,12 @@
       "date_label": "SEP 23  20:06",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Brazil on track to top US in agricultural exports from 2028",
+      "html": "data/pdfs/20260923_2006_Brazil_on_track_to_top_US_in_agricultural_exports_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_1954",
@@ -201,7 +291,12 @@
       "date_label": "SEP 23  19:54",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Global growth is resilient as headwinds intensify",
+      "html": "data/pdfs/20260923_1954_Global_growth_is_resilient_as_headwinds_intensify.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_1907",
@@ -211,7 +306,12 @@
       "date_label": "SEP 23  19:07",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "‘Sweden is back’: Magdalena Andersson has big plans for Europe ",
+      "html": "data/pdfs/20260923_1907_‘Sweden_is_back’__Magdalena_Andersson_has_big_plan.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_1815",
@@ -221,7 +321,12 @@
       "date_label": "SEP 23  18:15",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Philippines: EU trade agreement will help attract supply chain investment",
+      "html": "data/pdfs/20260923_1815_Philippines__EU_trade_agreement_will_help_attract_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_1754",
@@ -231,7 +336,12 @@
       "date_label": "SEP 23  17:54",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update in Japanese",
+      "html": "data/pdfs/20260923_1754_eg_update_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_1735",
@@ -241,7 +351,12 @@
       "date_label": "SEP 23  17:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump’s Greenland deal, explained ",
+      "html": "data/pdfs/20260923_1735_Trump’s_Greenland_deal,_explained.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_1657",
@@ -251,7 +366,12 @@
       "date_label": "SEP 23  16:57",
       "read_min": 7,
       "toyota": true,
-      "excerpt": "トランプ大統領と習近平主席の会談で、中国による希土類輸出制限が主要議題となり、米国の自動"
+      "excerpt": "トランプ大統領と習近平主席の会談で、中国による希土類輸出制限が主要議題となり、米国の自動",
+      "subject_en": "Trump-Xi meeting puts rare earth truce to the test",
+      "html": "data/pdfs/20260923_1657_Trump-Xi_meeting_puts_rare_earth_truce_to_the_test.html",
+      "summary_en": "Presidents Trump and Xi meet in Washington Thursday to test a fragile truce over Chinese rare earth export curbs that have squeezed U.S. automakers, defense firms and tech companies. The Trump administration says it won't trade away semiconductor export controls to secure smoother rare earth flows, even as a one-year truce nears its Nov. 10 expiration. Auto and tech executives attending a related state dinner underscore how central these materials remain to supply chains for EVs, chips and AI hardware.",
+      "summary_ja": "トランプ米大統領と習近平中国国家主席は木曜日にワシントンで会談し、米国の自動車・防衛・ハイテク産業を圧迫している中国のレアアース輸出規制をめぐる不安定な休戦の行方が試される。米政権は、11月10日に期限を迎える1年間の休戦が近づく中でも、レアアースの安定供給と半導体輸出規制の緩和を引き換えにしない方針を示している。関連する晩餐会に自動車・ハイテク企業の幹部らが出席することは、EVや半導体、AI関連機器の供給網にとってレアアースがいかに重要かを物語っている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_1635",
@@ -261,7 +381,12 @@
       "date_label": "SEP 23  16:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "AI anxiety is sweeping the globe — and cutting across party lines",
+      "html": "data/pdfs/20260923_1635_AI_anxiety_is_sweeping_the_globe_—_and_cutting_acr.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_1404",
@@ -271,7 +396,12 @@
       "date_label": "SEP 23  14:04",
       "read_min": 9,
       "toyota": true,
-      "excerpt": "欧州は民間鉄道網を有事の際に軍隊と軍事装備の輸送に活用する方法を検討しており、インフラの"
+      "excerpt": "欧州は民間鉄道網を有事の際に軍隊と軍事装備の輸送に活用する方法を検討しており、インフラの",
+      "subject_en": "Europe’s rail system prepares for war",
+      "html": "data/pdfs/20260923_1404_Europe’s_rail_system_prepares_for_war.html",
+      "summary_en": "European officials, NATO and rail industry leaders met at Berlin's InnoTrans show to address how the continent's civilian rail network could rapidly move troops and military equipment during a crisis. Key obstacles include weak bridges, slow border clearance procedures, and a shortage of suitable wagons, with the EU Commission working on both infrastructure upgrades and streamlined rules for cross-border military transport. The Commission's military mobility proposal, now in trilogue negotiations, still faces political hurdles over emergency mechanisms and burden-sharing among member states.",
+      "summary_ja": "ベルリンのInnoTrans展示会で、欧州委員会、NATO、鉄道業界関係者らが、有事の際に民間鉄道網で兵員や軍事装備をどう輸送するかについて協議した。脆弱な橋梁、国境通過手続きの遅さ、適切な貨車の不足などが課題として挙げられ、欧州委員会はインフラ整備とルール簡素化の両面で対応を進めている。軍事機動性に関する提案は現在三者協議中だが、緊急時対応メカニズムや負担分担を巡り政治的な対立点が残っている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_1359",
@@ -280,8 +410,13 @@
       "pdf": "data/pdfs/20260923_1359_Brussels’_rising_Spanish_power_player.pdf",
       "date_label": "SEP 23  13:59",
       "read_min": 15,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Brussels’ rising Spanish power player",
+      "html": "data/pdfs/20260923_1359_Brussels’_rising_Spanish_power_player.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_1130",
@@ -291,7 +426,12 @@
       "date_label": "SEP 23  11:30",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20260923_1130_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_0833",
@@ -301,7 +441,12 @@
       "date_label": "SEP 23  08:33",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Sep 22nd, 2026",
+      "html": "data/pdfs/20260923_0833_Daily_Research_Summary_-_Sep_22nd,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_0613",
@@ -311,7 +456,12 @@
       "date_label": "SEP 23  06:13",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Mutual AI restraint requires antitrust waiver no one supports",
+      "html": "data/pdfs/20260923_0613_Mutual_AI_restraint_requires_antitrust_waiver_no_o.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_0041",
@@ -321,7 +471,12 @@
       "date_label": "SEP 23  00:41",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Diesel export controls likely if prices remain elevated",
+      "html": "data/pdfs/20260923_0041_Diesel_export_controls_likely_if_prices_remain_ele.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_0031",
@@ -340,8 +495,13 @@
       "pdf": "data/pdfs/20260923_0016_Global_pushback_won’t_substantially_slow_China’s_e.pdf",
       "date_label": "SEP 23  00:16",
       "read_min": 5,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Global pushback won’t substantially slow China’s export growth",
+      "html": "data/pdfs/20260923_0016_Global_pushback_won’t_substantially_slow_China’s_e.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260923_0013",
@@ -351,7 +511,12 @@
       "date_label": "SEP 23  00:13",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU removes two Russian billionaires from sanctions list",
+      "html": "data/pdfs/20260923_0013_EU_removes_two_Russian_billionaires_from_sanctions.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_2356",
@@ -360,8 +525,13 @@
       "pdf": "data/pdfs/20260922_2356_Businesses_‘frozen_out’_of_Trump’s_tariff_channel_.pdf",
       "date_label": "SEP 22  23:56",
       "read_min": 9,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Businesses ‘frozen out’ of Trump’s tariff channel with China",
+      "html": "data/pdfs/20260922_2356_Businesses_‘frozen_out’_of_Trump’s_tariff_channel_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_2320",
@@ -371,7 +541,12 @@
       "date_label": "SEP 22  23:20",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US Midterm Update",
+      "html": "data/pdfs/20260922_2320_US_Midterm_Update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_2251",
@@ -381,7 +556,12 @@
       "date_label": "SEP 22  22:51",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "European gas prices to stay elevated",
+      "html": "data/pdfs/20260922_2251_European_gas_prices_to_stay_elevated.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_2213",
@@ -391,7 +571,12 @@
       "date_label": "SEP 22  22:13",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Ukraine open to grain truce with Russia, deputy PM says",
+      "html": "data/pdfs/20260922_2213_Ukraine_open_to_grain_truce_with_Russia,_deputy_PM.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_2202",
@@ -401,7 +586,12 @@
       "date_label": "SEP 22  22:02",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Xi-Trump Summit Preview - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20260922_2202_Xi-Trump_Summit_Preview_-_EG_Conference_Call,_REMI.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_2142",
@@ -411,7 +601,12 @@
       "date_label": "SEP 22  21:42",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "French budget risks toppling yet another government",
+      "html": "data/pdfs/20260922_2142_French_budget_risks_toppling_yet_another_governmen.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_2105",
@@ -421,7 +616,12 @@
       "date_label": "SEP 22  21:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Merz’s dilemma: Redraft German economic reforms, or go down defending them",
+      "html": "data/pdfs/20260922_2105_Merz’s_dilemma__Redraft_German_economic_reforms,_o.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_2012",
@@ -431,7 +631,12 @@
       "date_label": "SEP 22  20:12",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Chinese hackers targeted shipping in at least seven EU countries, cyber agency warns",
+      "html": "data/pdfs/20260922_2012_Chinese_hackers_targeted_shipping_in_at_least_seve.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_1906",
@@ -441,7 +646,12 @@
       "date_label": "SEP 22  19:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How Western tech helps funnel recruits into Russia’s war",
+      "html": "data/pdfs/20260922_1906_How_Western_tech_helps_funnel_recruits_into_Russia.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_1746",
@@ -451,7 +661,12 @@
       "date_label": "SEP 22  17:46",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "ASEAN: Little budget room to offset high oil prices",
+      "html": "data/pdfs/20260922_1746_ASEAN__Little_budget_room_to_offset_high_oil_price.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_1737",
@@ -461,7 +676,12 @@
       "date_label": "SEP 22  17:37",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The 17 European Parliament lawmakers you should watch",
+      "html": "data/pdfs/20260922_1737_The_17_European_Parliament_lawmakers_you_should_wa.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_1638",
@@ -471,7 +691,12 @@
       "date_label": "SEP 22  16:38",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Meloni’s EU lieutenant urges Brussels to work with Le Pen",
+      "html": "data/pdfs/20260922_1638_Meloni’s_EU_lieutenant_urges_Brussels_to_work_with.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_1401",
@@ -481,7 +706,12 @@
       "date_label": "SEP 22  14:01",
       "read_min": 9,
       "toyota": true,
-      "excerpt": "EUの自動車産業保護政策は「誤った方針」であり、排出基準の緩和や中国製EVへの関税、地域内"
+      "excerpt": "EUの自動車産業保護政策は「誤った方針」であり、排出基準の緩和や中国製EVへの関税、地域内",
+      "subject_en": "Report slams EU auto policy as ‘misguided’",
+      "html": "data/pdfs/20260922_1401_Report_slams_EU_auto_policy_as_‘misguided’.html",
+      "summary_en": "A new Bruegel report calls the EU's efforts to protect its automotive sector—including eased emissions targets, tariffs on Chinese EVs, and local content rules—misguided and likely to backfire. It urges Brussels to negotiate with Beijing over the wave of Chinese hybrid imports rather than impose more tariffs, as car sales remain below pre-pandemic levels and layoffs mount, with Mercedes-Benz confirming potential plant closures. The think tank warns that slowing the EV transition to shield legacy carmakers would ultimately harm the industry's long-term competitiveness.",
+      "summary_ja": "シンクタンクBruegelの新報告書は、排出目標の緩和や中国製EVへの関税、地元調達要件などEUの自動車産業保護策を「誤った方向」だと批判している。同報告書は、追加関税を課すのではなく中国政府と交渉して中国製ハイブリッド車の流入に対応すべきだと提言しており、自動車販売がコロナ前の水準を下回る中、メルセデス・ベンツが工場閉鎖の可能性を認めるなど人員削減が相次いでいる。同シンクタンクは、既存メーカーを守るためにEVへの移行を遅らせることは、業界の長期的な競争力をかえって損なうと警告している。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_1351",
@@ -491,7 +721,12 @@
       "date_label": "SEP 22  13:51",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How the budget fight could hit the EU’s global reach",
+      "html": "data/pdfs/20260922_1351_How_the_budget_fight_could_hit_the_EU’s_global_rea.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260922_0834",
@@ -508,5 +743,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "The EU's Industrial Accelerator Act is the central risk: designed to boost European manufacturing, it could exclude UK automotive firms from procurement and funding, inviting retaliatory tariffs. Germany is pushing Brussels toward a softer 'Made with EU' standard, reflecting its export dependence, which will shape how damaging the final rules are for non-EU suppliers.\n\nThe Trump-Xi meeting will test whether rare earth export curbs easing, critical for EV and chip supply chains, holds past the November 10 truce deadline."
 }
