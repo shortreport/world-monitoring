@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25 13:31:53",
+  "generated_at": "2026-09-25 19:04:08",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-25 13:30:02",
+      "last_checked": "2026-09-25 19:03:37",
       "items": [
+        {
+          "uid": "bbbe889a18d7",
+          "date": "2026-09-24",
+          "title": "Germany and Spain clash over who gets into ‘Made in Europe’ - politico.eu",
+          "summary": "ドイツとスペインが、欧州産業加速法案（IAA）で想定される「ヨーロッパ製」の定義や認定基準をめぐって対立しており、域内産業競争力強化の名目での規制設計に各国利益が反映されるかが問題となっている。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakFpUnJ6Vm9haXhNM1EydUtBTDZyYzBrSVpqZkdrSk5VbUxENl9CZDNmNUpNSGdRNVd2ZFpWQWFDeWlJSnlMQ3ZJdnB2TmpTVjFuWFRVZ2F1eGpoYjV0S3k1a3JiOUthRUdheGp3V202QXRtX3pFZGJxaTUxelRHN3ZjUGJZZ0hoVDNyaA?oc=5",
+          "added_at": "2026-09-25 19:03:35"
+        },
         {
           "uid": "700c5470edd3",
           "date": "2026-09-24",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT19zSkdnc3MtXzJDRXhCMlpPT2pFSU1SV3JiUVJrUG5manFRM2ctTzdBLW9iTVExUFlrTm9LNXM2b0s2c1ljWmd2bU03cXJvaXBFUWVtZUMyYlNMWkZ4UEFpaGo2RjF6bGFrQ2RDNDdCdHpaV25vTFhRRHlCMFB4NzhaZmZnV0JSbThIRUp6WGRFS3g0a3g5TWdFcTlmSTNVVFpxYlNqRHp5M29HVWlNUTNKWmJsc1hvR043aGpKRzBmdw?oc=5",
           "added_at": "2026-06-23 20:51:02"
-        },
-        {
-          "uid": "4581262b6171",
-          "date": "2026-04-07",
-          "title": "2040 climate target - climate.ec.europa.eu",
-          "summary": "欧州委員会は2040年までにEUの温室効果ガス排出量を1990年比で55%削減することを目指しており、この目標達成のための産業競争力強化と脱炭素化を同時に推進する戦略が欧州産業加速法案（IAA）に組み込まれています。",
-          "source": "欧州産業政策",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFdaSGhWbHE0TkVNT2phX0RfcHo1dW1GU3JWekNUc2dSMVhvUDdXb2RlejVicDlxNGI5Y1lHMnRIaGJXM0pBeTZGamg3d2lxdXZpN2Z4VkdvWHEwR1p0YWdlY3JtWk9TY052VnhicktTS2JLNGN6Q2UzTXV6Zk5CODVpWHhSbDlDVmZwTUxVdzNDQQ?oc=5",
-          "added_at": "2026-06-23 20:51:02"
         }
       ]
     },
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-25 13:30:28",
+      "last_checked": "2026-09-25 19:03:48",
       "items": [
+        {
+          "uid": "08f6da4dae53",
+          "date": "2026-09-22",
+          "title": "EVWORLD.COM - EVWORLD.COM",
+          "summary": "申し訳ございませんが、提供いただいたテキストは「EVWORLD.COM」というタイトルのみで、具体的な記事内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、S.4429に関する文脈での日本語要約をいたします。",
+          "source": "自動車部品業界",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84TFNUSHJpbEJnRDBZTUhEUDhvbGlvS21NeThhdHNiVVA0dlhXVTRKX1g1NE1NQnNuVTVfSEVvc18tOGpscWFWWW1TNlAwQVdjcURqc2Z0SQ?oc=5",
+          "added_at": "2026-09-25 19:03:45"
+        },
+        {
+          "uid": "e4b2ad410d48",
+          "date": "2026-09-21",
+          "title": "Chinese-made cameras banned from government buildings show up in EVs - ABC News & Headlines – Australian Broadcasting Corporation",
+          "summary": "米国の政府建物で禁止されている中国製カメラが電動車（EV）に搭載されていることが発覚し、S.4429法案でこうしたサプライチェーンのセキュリティリスクに対する規制強化が求められている。同法案は、政府施設での使用禁止対象と同様の安全保障上の懸念がある中国製部品のEV搭載を制限することを目指している。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdTZIM3d6cXpPaGRQS05ITnhpOXJQclZrMHQwY3oya3U1cmM1X3VxcHZyd1RjTFpiNlloTjdoT013YU9CNXkxdzk1aWdDdEd3eE4wTlJFT1Y1eVdraGhveVdIY3NhcVEtQ1FPTFdPSld3akptdm00QVFENmdjSHFCMnRiQ3FwUjBpa0hDNGtIY0pnZHJhSkV1X0Yxbjc1WndiWVBLNXBJUVVCbVBPVE1VVG9B?oc=5",
+          "added_at": "2026-09-25 19:03:45"
+        },
         {
           "uid": "01d07870cf5c",
           "date": "2026-09-22",
@@ -4000,26 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlNRRnRnaWpWUlFGbjU3aEtqYV9TbGNPc2pHMXc1VWJ2VWM4ckMxNklvYldOS3VKVXFTMkY1YjQwR09BUWJpYXBVcXpQVW9NbUJOcE1BbjlEei1oY3d3VHowWEdhMXQ3T28yd2dxMjdLQzZNYktWQXF2MFFiZmF4cmw0LWpReXZQMFZyLW5CWEEwR0RjeGJvQTNB?oc=5",
           "added_at": "2026-07-28 08:00:24"
-        },
-        {
-          "uid": "c6817afced85",
-          "date": "2026-05-15",
-          "title": "Connected and Autonomous Cars: Security Risks from Chinese Components - American Enterprise Institute - AEI",
-          "summary": "中国製コンポーネントが搭載されたコネクテッド・自動運転車は、サイバーセキュリティと国家安全保障上の重大なリスクをもたらすため、S.4429はこうした脅威から米国の自動車産業を守ることを目的としています。本報告書は、中国企業による米国の車両データへのアクセスと制御が、プライバシー侵害や国防上の脅威につながる可能性を指摘しています。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVE3QkpkTXlFVHR1eW1WSUI3Q2N0TS1jTnlBUmpzeFFGdVVqMFloWUVUR0NqdGRINk5GaXQ5MkJlWlI2T1FWN3VfbzI3bDVOcmZfS0hhNzloYXpLVmNqenJpbHowWm43ZjlpcEtGWlJSQzRZY1FCQWE3SGtxSVc0eTdmek02bEZ4b041clMwSGNkb1lZZm1RdEdJVFhKSU44d19tb2d5N1J5QWJPc2RJX2Y2LWE?oc=5",
-          "added_at": "2026-07-28 08:00:24"
-        },
-        {
-          "uid": "ce8b5e1ef835",
-          "date": "2026-07-22",
-          "title": "Bill Banning Chinese-Made Automobiles Gaining Momentum In The Senate - AOL.ca",
-          "summary": "米国上院で中国製自動車を禁止する法案（S.4429）が勢いを増しており、これは中国の自動車メーカーが米国市場への進出を制限することを目的としています。本法案は国家安全保障上の懸念を理由に、中国製またはその部品を含む車両の販売を禁止することを検討しています。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSnA2QlFjZUFNTWl1MEpFQmpqbGtrNmZrY2dSV2lVdk5RZ21vRG1vVFJFdXJGbFNoSkpULV9TM0Z3VnJ6aGdzYTg3U2ZoakxfeVFVOUl1OHhmbFlTWnlsa1dUdWN4UUc5RmU2bUw2R0Q2OGRHQm5ESEh2UUNTb0VZd2FKQmlrSUE?oc=5",
-          "added_at": "2026-07-28 08:00:24"
         }
       ]
     },
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-25 13:31:20",
+      "last_checked": "2026-09-25 19:04:01",
       "items": [
         {
           "uid": "c74076f9373b",
@@ -6041,8 +6041,18 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-25 13:31:53",
+      "last_checked": "2026-09-25 19:04:08",
       "items": [
+        {
+          "uid": "5365faf5df9e",
+          "date": "2026-09-23",
+          "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry - CNBC",
+          "summary": "トランプ前大統領と習近平主席の会談を背景に、中国自動車メーカーの台頭が米国自動車産業にとって政治的リスクとなり、米国メーカーの対中提携が国内産業保護の観点から厳しい政治的批判を招く可能性がある。",
+          "source": "米系自動車メーカー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UGVvdF90R0ZDLWpCSno0UGEzaXRfUzJ3ZEhjY3hxZTlOcW5EZmlUZzRjbWM0WUM1dnZGbFFBUjN6dll2MkFwSHNKQnU1R0pheGxISURtU3ZSUEpGZ1VidEp4Q2t3WUJmNUpnb08wcnFlZlZNWW1zSUVmU2ZiMDTSAYQBQVVfeXFMUGNFZ09pcUdNc2hJLW1EdS03OGVzTmktSnpUU1F0b3E5UTNxWk45Y0hwWE1YaDVob2lWRWw4aUlzLUhINTI4WWtPVkJZU1BnQ2FxN2dkMDhORklPX2M2TndfcV80UjVlcmEtSDVOZUExdm1VSmhTQTM1MDNFWDJ3dmdNQkln?oc=5",
+          "added_at": "2026-09-25 19:04:07"
+        },
         {
           "uid": "e19fd4bcfd76",
           "date": "2026-09-09",
