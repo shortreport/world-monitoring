@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26 18:45:43",
+  "generated_at": "2026-09-27 02:40:18",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-26 18:44:50",
+      "last_checked": "2026-09-27 02:39:38",
       "items": [
+        {
+          "uid": "05c5e9efd51f",
+          "date": "2026-09-24",
+          "title": "Spain proposes three-layer solution to define geography for 'Made in EU' act - Yahoo Finance UK",
+          "summary": "スペインは、欧州産業加速法案における「EU製」の定義に関して、地理的範囲を3段階で区分する案を提案しており、これによりEU域内産業の保護と国際競争力のバランスを図ろうとしている。この提案は、原産地規則の明確化を通じてサプライチェーンの透明性を高め、EU製品の競争優位性を確保することを目指している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRXF2b0RCdl9IeU01TnNBWm04aDNfd3ljcVNXMW9yR1dYVHN2My1qUEZKaEVRQVhPUnlGeDFZV0lzZ0xIYzZJbmo3bzB4ZzNveDlmNkY5NkVEUEdRcmxlemtqRTY1NUduTDllUVlWNm43TDhaQXVzMnkybGdLaDd1TEw1SnJPTHVSdjg0eA?oc=5",
+          "added_at": "2026-09-27 02:39:35"
+        },
         {
           "uid": "a14b2f90009e",
           "date": "2026-09-24",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc2UxMGtWSElYSlotcmVDUGh6dkFzYUJDS1BOVWtLd2M4V3hpZzJvOGlqc2FNck81VHFDXzZvYmx5OW9Udm1VX19tOVpNVk5YSjhfaWlkUmQ4aGt3MENMZl93Z3VSaEgxalZuQlJLT1BWYTgwbFp6UVJYcTdod2dMaG5UdDhocGE3Q0JzZnJaLXFfZzJnWTdaenRQY2FGc1YyZms3d1diTFFyeUszTGM5b2R5RzdlSXVHRm9vV3EzUVNTWGFrcUZTUW1BcEltZFQyaDNfSnZqcHRiS2hsaGU3THR4aS0yU1FTREtyM3dEQjItUDRNTElUcVVR?oc=5",
           "added_at": "2026-06-24 04:32:59"
-        },
-        {
-          "uid": "51cab836adf5",
-          "date": "2026-06-23",
-          "title": "Industrial Accelerator Act, AI and the spectre of Europe’s twin sovereignty gap - Energy Connects",
-          "summary": "欧州産業加速法案（IAA）は、欧州がAI分野での技術主権と産業競争力を確保するための重要な政策であるが、米国や中国との技術格差および資本格差という「二重の主権ギャップ」に直面しており、この課題を克服することが欧州産業の加速化の鍵となる。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRkw4cm9OUEJuWkx6UEVBb19JM2hxa3hjdXhmMzhOMVkyMUw3enM3WFlUUDVSR1loYXhDdEVhRjZDUGlTTUJ4amdfb2Z2RG5QNzJwUFFFa2hWMy1JTWhReGwxaFVsdGVLMUFsUy0zOEIwWndKNVpaRGxtU2ItcnNrak1BN0E4S0owLWZaakMzQ3VkUkFkbjVYVUlmdmJ6WVh5Wl9YZlplaEZjRTFOQUktV0RWakNiRFZ0dGV4Sld2SHEwOG5vcjExdWs0V1NqZkc4b05nbDdsZGpjREFmSFdHQQ?oc=5",
-          "added_at": "2026-06-23 20:51:02"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-26 18:45:01",
+      "last_checked": "2026-09-27 02:39:47",
       "items": [
+        {
+          "uid": "5d3c92f5e707",
+          "date": "2026-07-27",
+          "title": "'Polestar Has Already Been Banned. Lotus And Mercedes Could Be Next' - Brands At Risk In The USA - CarBuzz",
+          "summary": "ポールスターは既に米国での販売が制限されており、S.4429に基づく外国製車両の規制強化により、ロータスやメルセデス・ベンツなど他の外国ブランドも将来的に販売禁止のリスクに直面している可能性がある。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlNRRnRnaWpWUlFGbjU3aEtqYV9TbGNPc2pHMXc1VWJ2VWM4ckMxNklvYldOS3VKVXFTMkY1YjQwR09BUWJpYXBVcXpQVW9NbUJOcE1BbjlEei1oY3d3VHowWEdhMXQ3T28yd2dxMjdLQzZNYktWQXF2MFFiZmF4cmw0LWpReXZQMFZyLW5CWEEwR0RjeGJvQTNB?oc=5",
+          "added_at": "2026-09-27 02:39:46"
+        },
         {
           "uid": "b580d48e5a52",
           "date": "2026-09-25",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yR0E0MGdQd3haS3dPWm9ZdHF4eWJlZG5oTm9kck5Ia1lIT2tDWTJwUDlvc1BGV2RuTXZHSVJNUUY3amZzS21wNVdmcWJtbWFnbFBkcHZ6b3N6OUk2WEhHTndTMjNnWHpJdC1ocHVwNnJyVFZuXzE1Sw?oc=5",
           "added_at": "2026-07-28 16:41:12"
-        },
-        {
-          "uid": "185a990560f9",
-          "date": "2026-05-26",
-          "title": "As the (Customs and Trade) World Turns: May 2026 - ArentFox Schiff",
-          "summary": "申し訳ございませんが、提供いただいたテキストには「米国接続車両安全保障法（S.4429）」に関する具体的な内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、ご依頼の内容に沿って対応させていただきます。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTRYN2VFMXgwUEpsZHFYdTJ1MWlNdjZSLUF1WDZ4aWlQYWdfQkx6djRJYWd0MHpNTExJRmdhSzBWTnoyQTZ2bUNIUVE5NGtrRDRUUXZrdVpWMXVCalZQa3Q1TkR4UGdSaE9sUzdhTl9ZeWdnci1MbXFpVjd4V0RvZ184ZGN2WnUzTUZPaTgyaWVqVnZiWnM3Si1TOU04Y2xIYUtnNmJnTEVYMkcyNnc?oc=5",
-          "added_at": "2026-07-28 16:41:12"
         }
       ]
     },
@@ -4030,8 +4030,58 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-26 18:45:27",
+      "last_checked": "2026-09-27 02:40:06",
       "items": [
+        {
+          "uid": "ffc147ff1891",
+          "date": "2026-06-29",
+          "title": "Trump, Lutnick’s sons stand to gain big profits from billion-dollar mining deal: report - New York Post",
+          "summary": "トランプ前大統領とルトニック氏の息子たちが、数十億ドル規模の鉱業取引から多額の利益を得る立場にあるという報告であり、これはレアアース採掘などの戦略的鉱物資源確保に関連する可能性がある。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMUcyenB2b1c4Slp5TlVPQ00yVlU3WnNGLUlWang3X2ctWnlseEUwNHotOTR1ZktTdXRtTGlETXlMU2p6WHNuUGJ2RkRyNTJYR0FURVc0QmdoSlpaYzFrWFRUZXlTRHI5UDE0d05ROEZPaF9UdjZLUjloNnJvNzhsNjMtYkV1TnhoTUpjSlozSHdHNEFvUHRZbDZ1WC1SU0JzbURzWHpoOWthSGdTTkNRelY0Y2d4Z0g2VU5LcU1YNjY?oc=5",
+          "added_at": "2026-09-27 02:40:00"
+        },
+        {
+          "uid": "5d043181f539",
+          "date": "2026-07-07",
+          "title": "Lynas and JS Link Build Malaysia’s First Major Rare Earth Magnet Hub - ChemAnalyst",
+          "summary": "Lynas社とJS Link社がマレーシアに初の大規模レアアース磁石ハブを構築することで、中国以外でのレアアース加工・製造能力の強化が進み、中国のレアアース輸出管理に対する依存度低減が可能になる。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb2R5Rm5BclhxM2Exa3ViZERyUFAtMXQ2R1pZQTN5bExQU1F4NndaNldyc0YtbGtsZUZGc0VGS1I4Mlk4aUs0SFlNdm9sZVQyeXJZVWowR0phdnlMWGFlU3ZsQVdMRE9XeEtrY3ZBVFBpaEhMR1dNa1paXzZIaXJaOTU0Z1RTWlZkM2lGdllVLWJnMHdrX2Q5WkxFNVlpYWNUaU1UZXZZeWtDSkh6dFBUTDc3dy1YdENtR2J5Q0Rudw?oc=5",
+          "added_at": "2026-09-27 02:40:00"
+        },
+        {
+          "uid": "76e89c9bdb5d",
+          "date": "2026-07-26",
+          "title": "China’s Rare Earth Strategy Is Forcing a U.S. Manufacturing Revolution - Yahoo Finance",
+          "summary": "中国がレアアース輸出を戦略的に制限していることで、米国は国内でのレアアース採掘・加工能力の強化を余儀なくされており、米国の製造業における構造的な転換が進行している。",
+          "source": "防衛産業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDRrdkZSbUFIdElwTlhTSFpaMHBUSTU0THltR2V3bElQVk1ZZGVzXzZDWDlLemJaV3BtbzVudkRfTDhRcXV4Y3gxa3VfRTJvYTlmT2ZSeTg0UldMVzhha2IwZXJJUEVvaGdtZ0FoQVB1M2ZkRU1OXzk5RzZVQ3QybXlvaGRDN1gyVjBxMmxNWnZXYTZL?oc=5",
+          "added_at": "2026-09-27 02:40:00"
+        },
+        {
+          "uid": "145cee482d2a",
+          "date": "2026-09-26",
+          "title": "‘America First’ means evaluating real cost of our wars — and who pays the ultimate price",
+          "summary": "この記事は中国レアアース輸出管理とは直接的な関連がなく、米国の対外政策と一般市民に対する姿勢についての論説であるため、要約は適切ではありません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6111713-cost-human-life-wars-choice/",
+          "added_at": "2026-09-27 02:40:00"
+        },
+        {
+          "uid": "1e77cf88f2d7",
+          "date": "2026-09-26",
+          "title": "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
+          "summary": "米国と中国が関税引き下げとAI協議の開始で合意したが、記事ではレアアース輸出管理に関する具体的な言及がないため、要約対象の情報が不足しています。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6112947-donald-trump-xi-jinping-tariffs/",
+          "added_at": "2026-09-27 02:40:00"
+        },
         {
           "uid": "4e2a886d5930",
           "date": "2026-09-11",
@@ -5981,56 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0ZUem9YczQxUkFWbzhjQVhQVkdfVHNoWDJ5dUJhVHZLRmotTllfckJVR1BpUTdYWVJwS3V1ZXNfQjNURUhybTFmRnVsb2xrdmJ2RUVLOEZOMXlud240bklQdEFXeUhEZk96S1U3NjROdlJqYjJBbUVmUVZZaS1UbGJrRHk2djFKVUlXaFFoLXFnVXRna0w0SF83MlBSWDZ0S0YxYUJsd0MtQ0RVeGUycUJENU9OanFaMkHSAboBQVVfeXFMTTRJMUNYR3NCOC1KUEtoQnVIQ1pxZWVZTWI5QVNWN1VFYVZRNTRiendaY2ZOUjZQbFVycW1CLVd1QUp5ZmFmNmctN0h0QTV3dXdrNmVDMGxkbDBreEp1UGxCMlFOR0hPLVE2MFA2ajFhWHhuQ1pieTlibUdTU2hRR0o3eWthWm02aUV3eDZGZS01UjktWXRaek83cHZzWTJ1a1FUUjRfNm5YWDN2cmhfeWpvVEpRZVZWNVVn?oc=5",
           "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "6e1eef7355c7",
-          "date": "2026-06-24",
-          "title": "China’s mineral squeeze testing Japan’s military buildup - The Japan Times",
-          "summary": "中国がレアアースなどの鉱物輸出を制限することで、日本の防衛力強化に必要な資源確保に対する圧力となっており、日本の軍事的な能力向上が中国の鉱物供給政策による制約を受ける状況が生じている。",
-          "source": "同盟国対応",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0VhY09TVzBRZ2h6RHJtbmdGSHp1LTBlX3BKRnhNUmxnUVFTSUhTelctcWpFR2Q2d05FcHFKWnppWV9pdl9JQ3NHajV6MzZaUzg1d3FESjYxUW5vbnNFUVZMRzFLcE1zbzBXcDd0T05LVVh1SnRJd0pUM2Vwa25PeHItbW9hcHU1eWtBRjlUeThxdVVsZDNsemtsQXM?oc=5",
-          "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "47266c0e81b6",
-          "date": "2026-07-24",
-          "title": "China’s tungsten export controls on Japan are backfiring - 9DashLine",
-          "summary": "中国が日本へのタングステン輸出を制限していますが、この措置は中国側の意図に反して逆効果となっており、日本はサプライチェーンの多様化やレアアース代替技術の開発を加速させています。",
-          "source": "同盟国対応",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3hjNXBZNHV2ZFo5Ulp1OGgyZG96aVQybF93VVFCckhYRUlKd1BScjRRV0l4UDJORUVoX1dDOS1PVndzTXppeWRoVE05aHl0QlY3WnhrVEViUjAtUG1VYWJWVERNbnNEdmJ1Q2hqdE9rWWRZNTY3SE5zM0x2ZUhpWlRlRGh4cmdfX0YzVmNYZ0o3MDA?oc=5",
-          "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "fd1f3e8a4b02",
-          "date": "2026-06-10",
-          "title": "China curbs rare earth exports. Now the minerals behind EVs, chips and missiles are getting pricier - Firstpost",
-          "summary": "中国がレアアース輸出を制限した結果、電気自動車・半導体・ミサイルなどの製造に必要なレアアース鉱物の価格が上昇している。",
-          "source": "同盟国対応",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZU9uMjhQVGRTSXdvRTNBZ2lEZXp0VlZqY3dKMXc5UERMMXZRTWhUb25TVHoxOXlIRm43MDVlWmxpaFZmakthN05MdEluZWpRWlg5dEV1Zzd3ajAzMFBhNkNvd3B6Y1FCOThGZlllWGpuYXBmMnlzSFMxQ284bnRLa0JnNVVJZF9fanFUdGtwS0stbEtyUGZEYVBQMjFKUEFIQlVnNzRnVDFEc2NpNlBJWDJna1d3QzDSAbwBQVVfeXFMUHVndVJWR0JlQzg4YnJWZmRKdDBNTFRwTWZWUndwelFHSGJ6RFB1T19JNFQ1d2ZKRTdZdm9fNkMxNE1mcHJwLUFEUGVwRWc0NFZ3bnA2Z0JpajQ4RUVQRFZmd21fNElaTG9RUVoydlJIT1l3b2NPb1ZObGNwaldKSHd0UDlPeXh0M2gtWmxySWVacVFLSlRKRUZqcENHcVpmRmlFa3ZvcU15QkJxaDJFeGd4bXlnLWRFbTh5b0s?oc=5",
-          "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "886876bcd56c",
-          "date": "2026-09-02",
-          "title": "Conservative host corners Trump secretary on glaring conflict-of-interest - Alternet",
-          "summary": "申し訳ございませんが、提供いただいたテキストは「Conservative host corners Trump secretary on glaring conflict-of-interest」というタイトルのみで、具体的な記事の内容が含まれていないため、中国レアアース輸出管理に関する要約を作成することができません。記事の本文をご提供ください。",
-          "source": "米閣僚発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vY3I2RXdEMVZHUUZBMTlKeTVjRGhfTVBVam90T2hFLVlxcFlvejk2OTZxQUNXWlkzbGlKVktUa3NSa3gyNUhUczBLd1MyOG1qRzJ0NmtrMl9ESnFCQ0tLTkZKd2pWMnJZS0lQbUNzaXVIM2c?oc=5",
-          "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "f3f7990ae178",
-          "date": "2026-08-03",
-          "title": "Opinion | The hidden cost of the government’s corporate buying spree - The Washington Post",
-          "summary": "申し訳ございませんが、提供いただいたテキストには実際の記事内容が含まれておらず、タイトルのみとなっているため、「中国レアアース輸出管理」に関する要約を作成することができません。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "米閣僚発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQk5KVGdBUHNxZFo5WTV5Q2JSQjNDd0xZaHNBbjVFX2VCSXhIR0pDTFZNbktVTS1tM19tWC1LeFJyWEhzTG9WRlNLQWNYbU5SXzVTSGlZT0ZCLVNXZnNibS1tZG9Ka2tzLVFHYTI4eXlrdG5kZk9TYkE3UFgzZG5sVUw4RXM0SnRXS25SUGVhZlRKUUtkSkthRzV1RF8tYnRaMTdDdzVNRXFPbklyR25VNmxuSEJxamd3a3NDUVpR?oc=5",
-          "added_at": "2026-09-04 09:48:01"
         }
       ]
     },
@@ -6041,8 +6041,48 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-26 18:45:43",
+      "last_checked": "2026-09-27 02:40:18",
       "items": [
+        {
+          "uid": "145cee482d2a",
+          "date": "2026-09-26",
+          "title": "‘America First’ means evaluating real cost of our wars — and who pays the ultimate price",
+          "summary": "この記事は「アメリカ・ファースト」政策について論じていますが、自動車メーカーの対中提携に関する政治的批判とは直接的な関連がないため、提供いただいた内容では要約が困難です。記事の全文やより関連性のある資料をご確認ください。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6111713-cost-human-life-wars-choice/",
+          "added_at": "2026-09-27 02:40:12"
+        },
+        {
+          "uid": "401dba3ee381",
+          "date": "2026-09-26",
+          "title": "National security becomes Trump’s buzzword for legal fights",
+          "summary": "トランプ大統領が報道機関を差し止めた際に「国家安全保障」を正当化の根拠として用いた事例から、政治指導者が政敵や批判者に対して「国家安全保障」を名目に規制や制限を加える傾向が示唆されており、自動車メーカーの対中提携批判でも同様の論理が適用される可能性がある。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/regulation/court-battles/6112509-trump-national-security-media-ban/",
+          "added_at": "2026-09-27 02:40:12"
+        },
+        {
+          "uid": "bf20fc4b5e3e",
+          "date": "2026-09-26",
+          "title": "To make energy affordable again, end green mandates before the midterms",
+          "summary": "民主党は「手頃な価格」を掲げているが、彼らのエネルギー政策はエネルギー価格全体を引き上げており、このアプローチは消費者の負担増加につながっている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/congress-blog/energy-environment/6111870-dc-green-mandates-electricity-costs/",
+          "added_at": "2026-09-27 02:40:12"
+        },
+        {
+          "uid": "1e77cf88f2d7",
+          "date": "2026-09-26",
+          "title": "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
+          "summary": "米中間の通商関係の改善が進む中、自動車メーカーの対中提携は政治的な懸念が軽減される可能性がある一方で、AI規制の枠組み構築により、データ共有や技術移転に関する新たな制約が生じる可能性がある。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6112947-donald-trump-xi-jinping-tariffs/",
+          "added_at": "2026-09-27 02:40:12"
+        },
         {
           "uid": "63f979562f0a",
           "date": "2026-09-09",
