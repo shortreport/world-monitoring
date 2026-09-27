@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27 19:25:10",
+  "generated_at": "2026-09-28 03:07:53",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-27 19:24:31",
+      "last_checked": "2026-09-28 03:07:20",
       "items": [
         {
           "uid": "05c5e9efd51f",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-27 19:24:39",
+      "last_checked": "2026-09-28 03:07:29",
       "items": [
         {
           "uid": "5d3c92f5e707",
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-27 19:24:57",
+      "last_checked": "2026-09-28 03:07:45",
       "items": [
+        {
+          "uid": "243e96af73f5",
+          "date": "2026-07-05",
+          "title": "China dominates the rare earth elements industry, but this American company hopes to challenge China's grip - CBS News",
+          "summary": "中国はレアアース産業を支配しているが、米国企業がこの支配に対抗しようとしており、供給チェーンの多様化と中国への依存低減が進められている。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkhpZllZUHRkTTRQS3kxR0VWMXJUY204QlJfaUpTbWVXOEJiY21icm8xbENLOFRuaEEzZjEzNTlSc0ZHOVdEam5NV0NtUDBFaHd0V1cwYkR6WURjZUZCbVd5aTJkdU9VbG1WOU9XUEJNeVhWQ3hETTZ4akZBQS1rellTVl9XY2NiS1lDTkNNUHl0M2FkdnpHekJ5Q3JtSklDcmRMVlhLRlRpS0pybTgyeDJEZkJndw?oc=5",
+          "added_at": "2026-09-28 03:07:43"
+        },
         {
           "uid": "e4ef2d9fb574",
           "date": "2026-09-25",
@@ -6021,16 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONWNOUGt1YnJTZl9VRnNJaDByTjd2NXdJemdyS1JUT1Q0bG8yX1RpcUhnejJVdmJjSlZxUEdoeTlOblZJY3NPQlVfejlBbHptRUF4TkUtV0s2RGNJaTBKOTJwV2k3OHlDelVqQ2tkRy1pMzN2NnpjbENHTDRnbnVodnB3?oc=5",
           "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "01cad41a2195",
-          "date": "2026-07-09",
-          "title": "Policy Backgrounder: Critical Minerals: Impact of Export Regulations - The Conference Board",
-          "summary": "中国はレアアースなどの戦略的に重要な鉱物の輸出規制を強化することで、グローバルサプライチェーンに影響を与え、先進国の産業競争力と国家安全保障上の脆弱性を露呈させている。このため、各国はレアアース資源の確保とサプライチェーン多様化の必要性に直面している。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjk0cXdtWTk5Z0J4VDFuUHczTkhyUk1OSlhVSGVObi1jRGhkSzk0cVdHMGw1VmFNWFNsRkJuZGtyQk9ESzg4aTYxOWk4ME4wNGJiRElvbXo3Q0p1eXBRXzRVeFJwcFVaX3JQeXFTUHIzVkVyNzBwcERkODUwRHJOWXRDWE04UHNnUkllTnZxcUtuZFIxa2xXVFJVajFVeTF0S1FDNXBCVVBkcTJYb1E?oc=5",
-          "added_at": "2026-09-04 09:48:01"
         }
       ]
     },
@@ -6041,8 +6041,28 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-27 19:25:10",
+      "last_checked": "2026-09-28 03:07:53",
       "items": [
+        {
+          "uid": "b56b1b5ab313",
+          "date": "2026-09-24",
+          "title": "Mother of man wounded by ICE in Texas describes video call moments after shooting - Reuters",
+          "summary": "この記事は米国の移民取締局（ICE）による銃撃事件に関するもので、自動車メーカーの対中提携への政治的批判という文脈では関連性がありません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbERIY0taNUFhU0pyLV9aLVJHTzg3ODZCVHlmc0V5T282WE5TeDRJWUs2a3BJejRGdlRINlVVV3hTYWtELWw1UjdBNThKUEJ2TXJPX01yVHhOMGJhZkM5Rnl4SG5VUVRDNVpxcVo2VWRfYkhJT1BXeVFhbWhRTml2dDB4OFM2OVZjNnczUDNKQzJpcG5nLWdzc0FPRlhMbUthZTZLMUo0cFNPNmJZaEJIUkZnd1BuU2pCZ1JTRw?oc=5",
+          "added_at": "2026-09-28 03:07:51"
+        },
+        {
+          "uid": "4515bc7a4d93",
+          "date": "2026-09-27",
+          "title": "The vital vaccine shield America cannot afford to lose",
+          "summary": "本記事は、ワクチン有害事象補償プログラムなど米国の公衆衛生制度に関する内容であり、自動車メーカーの対中提携への政治的批判との文脈的な関連性はありません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/healthcare/6111550-rfk-jr-autism-conspiracy-claims/",
+          "added_at": "2026-09-28 03:07:51"
+        },
         {
           "uid": "4aee69d44bcc",
           "date": "2026-09-18",
