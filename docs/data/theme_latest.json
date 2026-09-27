@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27 02:40:18",
+  "generated_at": "2026-09-27 19:25:10",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-27 02:39:38",
+      "last_checked": "2026-09-27 19:24:31",
       "items": [
         {
           "uid": "05c5e9efd51f",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-27 02:39:47",
+      "last_checked": "2026-09-27 19:24:39",
       "items": [
         {
           "uid": "5d3c92f5e707",
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-27 02:40:06",
+      "last_checked": "2026-09-27 19:24:57",
       "items": [
+        {
+          "uid": "e4ef2d9fb574",
+          "date": "2026-09-25",
+          "title": "North America is building rare earth plants faster than it is building rare earth engineers - Mining.com",
+          "summary": "北米ではレアアース処理施設の建設速度が技術者の育成速度を上回っており、中国の輸出管理に対抗するため供給チェーン構築を急ぐ一方で、熟練労働力の不足が課題となっている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTVhqMTRKWmoxbURrVklkMVR2U2U1bkJ2c0Zva05PaEU1UkFxZ2o5MXNNZzZPNjFZNU9TN0hUQ1huSHo4TFc4MFhUNVpBSmR5Z09Tc1JrUC1pd0laM0ZKNU1ta0pMZ0p4LWpKcmUyMDRHUC01Y25LNzlfS3NBcE1HSjd1NGFteG85MENYZnctYzl5cHZGS1dmVHNET0hubklUZG9PTFhlZVEwdlhKelpsSWVJSUwzdw?oc=5",
+          "added_at": "2026-09-27 19:24:52"
+        },
+        {
+          "uid": "f3f7990ae178",
+          "date": "2026-08-03",
+          "title": "Opinion | The hidden cost of the government’s corporate buying spree - The Washington Post",
+          "summary": "申し訳ございませんが、提供いただいたテキストには、記事のタイトルのみが記載されており、具体的な記事の内容が含まれていません。中国レアアース輸出管理に関連した要約を作成するには、記事本文が必要です。記事の本文をご提供ください。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQk5KVGdBUHNxZFo5WTV5Q2JSQjNDd0xZaHNBbjVFX2VCSXhIR0pDTFZNbktVTS1tM19tWC1LeFJyWEhzTG9WRlNLQWNYbU5SXzVTSGlZT0ZCLVNXZnNibS1tZG9Ka2tzLVFHYTI4eXlrdG5kZk9TYkE3UFgzZG5sVUw4RXM0SnRXS25SUGVhZlRKUUtkSkthRzV1RF8tYnRaMTdDdzVNRXFPbklyR25VNmxuSEJxamd3a3NDUVpR?oc=5",
+          "added_at": "2026-09-27 19:24:52"
+        },
+        {
+          "uid": "9c485660f304",
+          "date": "2026-09-26",
+          "title": "Managing Asymmetric Supply Vulnerability: Bilateral Bargaining and Strategic Stockpiling in Sino-American Economic Relations - debuglies.com",
+          "summary": "中国がレアアース輸出を戦略的に制限することで米国との経済交渉における非対称的な供給依存を活用し、米国はこれに対抗して戦略的備蓄を進めることで供給脆弱性を管理しようとしている。",
+          "source": "需要産業（防衛・EV・航空）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd0stNnA1OUJ5RmZBc2hXc2s0ODdPdTgyQmhmMmlWdl9WdDNOcjhsbU9ldDRnLXBQQWVsRTlMdnoyb3VfczBKc3EyT1F3SlVzSWZjd2NZRFRaaFdNazJDamx0TVdDS0trRTRxbTQwaFExS1k1eWdRS19BMkZta3hDMnBWWjh4QUtkT25WZGNtUVZ0RlpVMHM0OVdaZmdTTk9ZaXVEOTlFM0tKWGV5MmE0UXM1LVhORlZod2tYM1BJMF83UlI3bmpqV0hLTlllaFVrUXFHaHJVSDMxaFNfS3FXaWxpemV2el9wUURxMjBn?oc=5",
+          "added_at": "2026-09-27 19:24:52"
+        },
         {
           "uid": "ffc147ff1891",
           "date": "2026-06-29",
@@ -6001,36 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjk0cXdtWTk5Z0J4VDFuUHczTkhyUk1OSlhVSGVObi1jRGhkSzk0cVdHMGw1VmFNWFNsRkJuZGtyQk9ESzg4aTYxOWk4ME4wNGJiRElvbXo3Q0p1eXBRXzRVeFJwcFVaX3JQeXFTUHIzVkVyNzBwcERkODUwRHJOWXRDWE04UHNnUkllTnZxcUtuZFIxa2xXVFJVajFVeTF0S1FDNXBCVVBkcTJYb1E?oc=5",
           "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "9b30876d0120",
-          "date": "2026-08-07",
-          "title": "Trump administration to invest $3 billion in minerals projects to boost US defense supply chains - Reuters",
-          "summary": "トランプ政権が米国の防衛サプライチェーン強化のため鉱物事業に30億ドル投資することで、中国が支配するレアアース市場への依存を低減し、米国の戦略的鉱物の自給能力向上を目指している。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOC1sWW4tTHpEM1NiQWVIbnZMRVlvcVcyNTl2UE1QU1lqSlBVaTlNai1UUm1yR0htazhtZjA1N3Jtb2dEaHhnWklPREdWdG52a0FrTjBMamVaM1FlR1JmSzZycUpWY3pKUzA4V3pRTk9FRzRsTklOMEhvQlRybVVjTHRNbjByQ3ZHY25ja2JERjBXdDUzNXo1WDNFeEFGa3hZTnZUR2lxWTZIQ2p5M01qV0lnUXBFQm1JRVdlZk90MkZhTWplb3RZdVJ0ZktrNmFKM0dr?oc=5",
-          "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "243e96af73f5",
-          "date": "2026-07-05",
-          "title": "China dominates the rare earth elements industry, but this American company hopes to challenge China's grip - CBS News",
-          "summary": "中国はレアアース産業を支配しているが、米国企業がこの支配に対抗することを目指しており、中国のレアアース輸出管理に対する競争圧力が高まっている。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkhpZllZUHRkTTRQS3kxR0VWMXJUY204QlJfaUpTbWVXOEJiY21icm8xbENLOFRuaEEzZjEzNTlSc0ZHOVdEam5NV0NtUDBFaHd0V1cwYkR6WURjZUZCbVd5aTJkdU9VbG1WOU9XUEJNeVhWQ3hETTZ4akZBQS1rellTVl9XY2NiS1lDTkNNUHl0M2FkdnpHekJ5Q3JtSklDcmRMVlhLRlRpS0pybTgyeDJEZkJndw?oc=5",
-          "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "2c87eba16a2c",
-          "date": "2026-07-01",
-          "title": "Washington, Beijing should de-escalate from tit-for-tat actions, US senator says - South China Morning Post",
-          "summary": "米国上院議員は、米中間の報復的措置のエスカレーションを避けるべきだと主張しており、これはレアアース等の戦略的資源を巡る米中対立の緊張緩和の必要性を示唆している。中国がレアアース輸出規制で対抗する可能性がある中、米国側も同様の措置を講じるという悪循環を断つべきだというメッセージと解釈できる。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0ZUem9YczQxUkFWbzhjQVhQVkdfVHNoWDJ5dUJhVHZLRmotTllfckJVR1BpUTdYWVJwS3V1ZXNfQjNURUhybTFmRnVsb2xrdmJ2RUVLOEZOMXlud240bklQdEFXeUhEZk96S1U3NjROdlJqYjJBbUVmUVZZaS1UbGJrRHk2djFKVUlXaFFoLXFnVXRna0w0SF83MlBSWDZ0S0YxYUJsd0MtQ0RVeGUycUJENU9OanFaMkHSAboBQVVfeXFMTTRJMUNYR3NCOC1KUEtoQnVIQ1pxZWVZTWI5QVNWN1VFYVZRNTRiendaY2ZOUjZQbFVycW1CLVd1QUp5ZmFmNmctN0h0QTV3dXdrNmVDMGxkbDBreEp1UGxCMlFOR0hPLVE2MFA2ajFhWHhuQ1pieTlibUdTU2hRR0o3eWthWm02aUV3eDZGZS01UjktWXRaek83cHZzWTJ1a1FUUjRfNm5YWDN2cmhfeWpvVEpRZVZWNVVn?oc=5",
-          "added_at": "2026-09-04 09:48:01"
         }
       ]
     },
@@ -6041,8 +6041,58 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-27 02:40:18",
+      "last_checked": "2026-09-27 19:25:10",
       "items": [
+        {
+          "uid": "4aee69d44bcc",
+          "date": "2026-09-18",
+          "title": "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting - The Mighty 790 KFGO",
+          "summary": "申し訳ございませんが、提供いただいたテキストは記事のタイトルのみで、本文の内容が含まれていません。タイトルのみでは「自動車メーカーの対中提携への政治的批判」に関する具体的な要点を要約することができません。記事の本文をご提供いただければ、要約させていただきます。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHNOOTVFNGVJQlJheWhTMmd2cTNDZ3RIcjZPa1lkMnpCdHpsUDAyMmNzUTk3alJOTVRfa3RFZWVZVlYtaGdaczQ1NHZ4aXhyNHVyTlVITGV0MGRwTHdTOUtNV2NZaUZhNTRiZ1Jaal9ZekdWeW9BZ3g3TmQ5ek5sQ3RLWGJzdm9mZjZtaFJvVWYyM0prcUszLXVhMHBqeU93TlVyREdjUVQ?oc=5",
+          "added_at": "2026-09-27 19:25:02"
+        },
+        {
+          "uid": "66252be5fead",
+          "date": "2026-09-19",
+          "title": "China central bank adviser says AI could deepen supply-demand imbalance - Reuters",
+          "summary": "中国中央銀行の顧問がAIが需給不均衡を深刻化させる可能性を指摘しており、これは中国経済の構造的問題への懸念を示すもので、自動車メーカーの中国市場への過度な依存が地政学的リスクとなる可能性を示唆している。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0tLMmJKRDNNUW1lc0ZmOGhTNF9QZWdLdDBxcktJRzk5VGRBSk9PU2FyaVpMcW5NNFNaakpaNXROczBGTk1GR1pvQzdKdTVZNUJvTG9YbjRPdXFRV190VmNVa3ZQaTY1R2E2X3BTcTJiLWlYMGtrbVBEdXNreWtpWVZfVlBJcjAtZnFHTUN5RjRLZTN1WDZUTXgyX0ZTeFl3bXJZYlU5b1l5N296UHBzZjlLUTFjck5KY1llaWdEWk1yakZm?oc=5",
+          "added_at": "2026-09-27 19:25:02"
+        },
+        {
+          "uid": "d275cd7835ca",
+          "date": "2026-09-22",
+          "title": "EXCLUSIVE: DeepSeek to brief UN Security Council on AI this week, sources say - Reuters",
+          "summary": "中国のAI企業DeepSeekが国連安全保障理事会でAIについてブリーフィングを行う予定であり、このような中国企業の国際的な影響力拡大は、技術覇権を巡る地政学的競争の中で西側民主主義国家からの警戒を招いている。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2ZLc3FkMFBGdGM0Mno4QmV0ZFJtVWZ2X3RyLUp6SmFUX0tQQ0FPRHlLRmdJVmU5dy11SlE3SXFJUVlySDNQOXlmZTFkV3JNc19nSDlyUlhJZzgyMDY1d0VRaV9IT054T2stSTd5VWNOVVJNa0w3VHctTW9GdUJjYkRkQXdmSW1pOWllUVV4OVdOU003ckJBaWloZ0JKUmdtVTFiLVRhajY2N2pKUHhiYXV1Z3Y?oc=5",
+          "added_at": "2026-09-27 19:25:02"
+        },
+        {
+          "uid": "e32276d30ce1",
+          "date": "2026-09-24",
+          "title": "NEWSLETTER: Tech and world leaders split over AI - Reuters",
+          "summary": "申し訳ありませんが、提供いただいたテキストはタイトルのみで具体的な記事内容が含まれていないため、要約することができません。記事の本文をご提供ください。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU1hUNktJQzkxQXU2aHhjZTVGX3A5VjdTLVNjOFR0R2lLSjFiTGczVVc5R2lodHhnZHppV3B5blQwSTRGUThwS09oTVNjRXduNGRvUXV2V3ZQNTVRUGpsZjdtc2JpaXNleEdMTndYc0xpQ0VKUUNmT0k4b2FnU245WE9RWEhJblJ6NFEw?oc=5",
+          "added_at": "2026-09-27 19:25:02"
+        },
+        {
+          "uid": "3f5f696c3a70",
+          "date": "2026-09-26",
+          "title": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards",
+          "summary": "トランプ大統領はバイデン政権のEV義務化ルールを廃止し、新しい燃費基準を承認したと発表したもので、この政策転換は中国電池メーカーへの依存を減らしたいという米国側の思惑と、対中競争戦略の一環として位置付けられている。EV推進から後退することで、米国の自動車メーカーが中国との提携や中国製部品への依存を強めることになる可能性がある一方、対中政策の観点からは矛盾した判断として批判される余地がある。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/",
+          "added_at": "2026-09-27 19:25:02"
+        },
         {
           "uid": "145cee482d2a",
           "date": "2026-09-26",
