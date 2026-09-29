@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29 20:12:29",
+  "generated_at": "2026-09-30 04:12:53",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-29 20:11:49",
+      "last_checked": "2026-09-30 04:12:03",
       "items": [
         {
           "uid": "f84c3bf6aeaa",
@@ -2019,8 +2019,38 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-29 20:11:59",
+      "last_checked": "2026-09-30 04:12:17",
       "items": [
+        {
+          "uid": "d4834d0a9e15",
+          "date": "2026-09-29",
+          "title": "Guest commentary: Why Chinese brands could capture 14% of U.S. market in 5 years - Automotive News",
+          "summary": "I appreciate your request, but I notice that the article content provided is only the title repeated without actual substantive text. To provide an accurate summary in the context of the Connected Vehicle Security Act (S.4429), I would need the full article content.\n\nCould you please provide the complete article text? Once you do, I'll provide a 1-2 sentence Japanese summary focused on how it relates to S.4429's concerns about Chinese vehicle brands and U.S. market security.",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTRIcGlFeTlQODBWZnlLbnNpQ19Bczd0WVdsQ1FMZUF6TmF1QUJWVnpEcmFibm4tazVVZndtTVJIV0pveTd2WnJjcFJYZVY0dWNGVkRaOVVGQ2NfRG5TNmplcklnMm5wX3hGdW4xWTZOR1RGdHRLNWpPNDA3V2NscjNaRV9XNVRfUmdhSFBHSlVFYl9peHNTQnotaHFFU1ZPdUlMNVNaemZodGwxSFBN?oc=5",
+          "added_at": "2026-09-30 04:12:12"
+        },
+        {
+          "uid": "7d113fd05651",
+          "date": "2026-09-12",
+          "title": "Trump is open to China building cars in US as Xi visit looms - straitstimes.com",
+          "summary": "トランプ前大統領が中国の米国内での自動車製造を容認する姿勢を示していることは、S.4429が中国車メーカーの米国進出規制を強化する方向性と対立する可能性があります。この動きは、米国の自動車産業保護と中国との経済関係のバランスをめぐる政治的な葛藤を反映しています。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQazB6ZWZLeWRpTVhOdHBXcDc0LThNOXBkR1F1cTJXQ2hUYnNxNHN1Y2hqZ2l1RTBfVXRTYV9LT05uVnVjR3YyblpyVUVwMDhzMldMdlpac0tEeWJmZEtkYkw3UWw4MDhFY3J4dDl4LVIyY3FWNUdHTFlGSW54UWJMa1VXb2V0a2NOeHlwb2kzeHU3cUVWYzV4c1ZCanRYXzJJeEdHcWZEUVVIMzlYY2NrQQ?oc=5",
+          "added_at": "2026-09-30 04:12:12"
+        },
+        {
+          "uid": "255df1302cf4",
+          "date": "2026-09-21",
+          "title": "CHAD WOLF: Congress has a chance to stop China from turning your car into a Chinese spy - Fox News",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国製の自動運転システムやコネクテッドカー技術が米国の車両に組み込まれることを制限し、中国による個人データ収集やスパイ活動のリスクを防ぐことを目的とした法案である。議会はこの法案を通じて、国家安全保障上の脅威となる可能性のある外国技術の浸透を防止する機会を有している。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdTlRLUx3MGstaUxDZ0VNNzdHbkFORGpWM0V5SnlUWlZFRHUxem4xWlQ3bjgtRnluVzNRbE1sa293dVhnTkRZWTY0aXVkT2FMUTZocFdKOWstaDVEMktTNlJVQWwwbG95Q2U5SllLejdRSG9NVjhRTDIzdlBOdWZLWlN0LTRrc2pYczdSNFBFaWM2bHBYN2dZ0gGcAUFVX3lxTFBKZGF1enkzd2VSTjlqTzE1Nl9weUJKNERwaVJJMXBmYXFSalY4WUdua0RSS21JOVlsbHF2TVdZYjUtWGEtbjZJazlTQXNBUjhwRllpMUw0MnRyTjlzcmwwVjl1TWRyWXY5NjY4SW9oTjJVRzU1RDNWQndFRnpza2J3YnRTYWtZdTY4ZEd4UG5zVDF6a1pUR2UybjFqYg?oc=5",
+          "added_at": "2026-09-30 04:12:12"
+        },
         {
           "uid": "2de3335d1053",
           "date": "2026-09-24",
@@ -3990,36 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUo2YjRtaW5Na3NVSnV1aU81dTMwbDR1dmd5NURZaGg1S05hWTFzV2tDMmFXLVBMM2FWTWRqM24tanJWMi1JT2lLdW15UWRUeFFXTU5IWG1YNE02OURGT0lPTDEtaXhlYlcxVkNIUEFseUJHdlR6UG1yVmJDOGZmLU9nMDBlTHY1NHpkMUR0N2pPVTVuWXNxZHV1S2JibUlxaXdoNVM0dHhHUUJHVW9jSDF1RHU0cWpTRUZGLUNsNldMTWc?oc=5",
           "added_at": "2026-07-29 16:45:20"
-        },
-        {
-          "uid": "5d6c46f78dc3",
-          "date": "2026-05-13",
-          "title": "US Automakers Urge Trump to Block Chinese Car Imports - Mexico Business News",
-          "summary": "米国自動車メーカーはトランプ前大統領に対し中国製自動車の輸入阻止を求めており、これはS.4429法案が規制しようとしている中国関連の車両セキュリティリスクへの対抗措置として、国家安全保障と産業保護の双方を目的としている。同法案は中国製通信機器や遠隔制御技術を搭載した車両の販売を制限することで、米国の自動車産業を保護しながら潜在的なサイバー脅威から国防を守ろうとしている。",
-          "source": "業界団体（自動車）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXRQVEllRllJM25EUXJXMjlRVndjVDRMR2RrbDBzZld4NVVxQ3BrNXRFSmd5WTFGOVlpUlpLN1k1Nnd5N1dBSVIwY3I2Z013ckxCLW1pWFNjQndjWlVvbDk4eXRpZjAtdG1ZVi1pUUQtSHFnUEYzUWJnZFByN0tzUndHS0tkZ2kyMmdCWnVfTzc4YXRCMVBNa0tB?oc=5",
-          "added_at": "2026-07-29 01:06:42"
-        },
-        {
-          "uid": "b0fb015bfb8e",
-          "date": "2026-07-27",
-          "title": "Sen. Bernie Moreno pushes Connected Vehicle Security Act, says bill protects dealers and U.S. auto industry - CBT News",
-          "summary": "セン・バーニー・モレノ議員が提案する接続車両安全保障法（S.4429）は、自動車ディーラーと米国の自動車産業を保護することを目的としており、接続車両のセキュリティ脅威から業界を守ることを重視しています。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yR0E0MGdQd3haS3dPWm9ZdHF4eWJlZG5oTm9kck5Ia1lIT2tDWTJwUDlvc1BGV2RuTXZHSVJNUUY3amZzS21wNVdmcWJtbWFnbFBkcHZ6b3N6OUk2WEhHTndTMjNnWHpJdC1ocHVwNnJyVFZuXzE1Sw?oc=5",
-          "added_at": "2026-07-28 16:41:12"
-        },
-        {
-          "uid": "185a990560f9",
-          "date": "2026-05-26",
-          "title": "As the (Customs and Trade) World Turns: May 2026 - ArentFox Schiff",
-          "summary": "申し訳ございませんが、提供いただいたテキストには「米国接続車両安全保障法（S.4429）」に関する具体的な内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、ご依頼の内容に沿って対応させていただきます。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTRYN2VFMXgwUEpsZHFYdTJ1MWlNdjZSLUF1WDZ4aWlQYWdfQkx6djRJYWd0MHpNTExJRmdhSzBWTnoyQTZ2bUNIUVE5NGtrRDRUUXZrdVpWMXVCalZQa3Q1TkR4UGdSaE9sUzdhTl9ZeWdnci1MbXFpVjd4V0RvZ184ZGN2WnUzTUZPaTgyaWVqVnZiWnM3Si1TOU04Y2xIYUtnNmJnTEVYMkcyNnc?oc=5",
-          "added_at": "2026-07-28 16:41:12"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-29 20:12:16",
+      "last_checked": "2026-09-30 04:12:37",
       "items": [
+        {
+          "uid": "6502f475a625",
+          "date": "2026-09-15",
+          "title": "China Heavy Rare Earth Prices vs Ex-China Reality - Rare Earth Exchanges",
+          "summary": "中国のレアアース価格設定は国内市場と国外市場で大きく異なり、中国の輸出管理政策により国際市場でのレアアース供給と価格形成に影響を与えています。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfS3hzV0xmQ1NwUFJWeGRDTFhvSVg5bWpVbFFmQmI0ZlU1UlNmc0RKZTJHSHBQNWFDZ1VmV0lEZlBIWmVkdXZmdElfUW5kUkRlRmhES1RIMnNzLUtnTnlLTWFhSm1jSFZfVF9wbUpTRDBmbjlVWFpkSg?oc=5",
+          "added_at": "2026-09-30 04:12:33"
+        },
+        {
+          "uid": "29ff49520ae9",
+          "date": "2026-09-29",
+          "title": "What Congress can do about AI safety — with China — now",
+          "summary": "米国議員サム・リッカード下院議員は、AI安全保障の懸念に対処するため超党派的な「フロンティア法」などの法制化と中国との専門家対話を促進すべきだと主張しており、これは地政学的緊張にもかかわらず技術分野での協力枠組みの必要性を示唆している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/congress-blog/technology/6116752-congressional-action-ai-regulations/",
+          "added_at": "2026-09-30 04:12:33"
+        },
+        {
+          "uid": "238e74057133",
+          "date": "2026-09-29",
+          "title": "Beijing blackout: Why we may never know what happened between Trump and Xi",
+          "summary": "トランプ大統領と習近平主席の最近の首脳会談について、その具体的な内容が公開されていないため、中国がレアアース輸出管理を含む交渉でどのような譲歩を得たのか、その詳細は不明なままである。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/white-house/6116144-trump-xi-summit-taiwan/",
+          "added_at": "2026-09-30 04:12:33"
+        },
         {
           "uid": "76e89c9bdb5d",
           "date": "2026-07-26",
@@ -6001,36 +6031,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZU9uMjhQVGRTSXdvRTNBZ2lEZXp0VlZqY3dKMXc5UERMMXZRTWhUb25TVHoxOXlIRm43MDVlWmxpaFZmakthN05MdEluZWpRWlg5dEV1Zzd3ajAzMFBhNkNvd3B6Y1FCOThGZlllWGpuYXBmMnlzSFMxQ284bnRLa0JnNVVJZF9fanFUdGtwS0stbEtyUGZEYVBQMjFKUEFIQlVnNzRnVDFEc2NpNlBJWDJna1d3QzDSAbwBQVVfeXFMUHVndVJWR0JlQzg4YnJWZmRKdDBNTFRwTWZWUndwelFHSGJ6RFB1T19JNFQ1d2ZKRTdZdm9fNkMxNE1mcHJwLUFEUGVwRWc0NFZ3bnA2Z0JpajQ4RUVQRFZmd21fNElaTG9RUVoydlJIT1l3b2NPb1ZObGNwaldKSHd0UDlPeXh0M2gtWmxySWVacVFLSlRKRUZqcENHcVpmRmlFa3ZvcU15QkJxaDJFeGd4bXlnLWRFbTh5b0s?oc=5",
           "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "886876bcd56c",
-          "date": "2026-09-02",
-          "title": "Conservative host corners Trump secretary on glaring conflict-of-interest - Alternet",
-          "summary": "申し訳ございませんが、提供いただいたテキストは「Conservative host corners Trump secretary on glaring conflict-of-interest」というタイトルのみで、具体的な記事の内容が含まれていないため、中国レアアース輸出管理に関する要約を作成することができません。記事の本文をご提供ください。",
-          "source": "米閣僚発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vY3I2RXdEMVZHUUZBMTlKeTVjRGhfTVBVam90T2hFLVlxcFlvejk2OTZxQUNXWlkzbGlKVktUa3NSa3gyNUhUczBLd1MyOG1qRzJ0NmtrMl9ESnFCQ0tLTkZKd2pWMnJZS0lQbUNzaXVIM2c?oc=5",
-          "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "f3f7990ae178",
-          "date": "2026-08-03",
-          "title": "Opinion | The hidden cost of the government’s corporate buying spree - The Washington Post",
-          "summary": "申し訳ございませんが、提供いただいたテキストには実際の記事内容が含まれておらず、タイトルのみとなっているため、「中国レアアース輸出管理」に関する要約を作成することができません。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "米閣僚発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQk5KVGdBUHNxZFo5WTV5Q2JSQjNDd0xZaHNBbjVFX2VCSXhIR0pDTFZNbktVTS1tM19tWC1LeFJyWEhzTG9WRlNLQWNYbU5SXzVTSGlZT0ZCLVNXZnNibS1tZG9Ka2tzLVFHYTI4eXlrdG5kZk9TYkE3UFgzZG5sVUw4RXM0SnRXS25SUGVhZlRKUUtkSkthRzV1RF8tYnRaMTdDdzVNRXFPbklyR25VNmxuSEJxamd3a3NDUVpR?oc=5",
-          "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "ffc147ff1891",
-          "date": "2026-06-29",
-          "title": "Trump, Lutnick’s sons stand to gain big profits from billion-dollar mining deal: report - nypost.com",
-          "summary": "申し訳ございませんが、提供いただいたタイトルのみで具体的な記事内容が記載されていないため、「中国レアアース輸出管理」に関する文脈での正確な要約ができません。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "米閣僚発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMUcyenB2b1c4Slp5TlVPQ00yVlU3WnNGLUlWang3X2ctWnlseEUwNHotOTR1ZktTdXRtTGlETXlMU2p6WHNuUGJ2RkRyNTJYR0FURVc0QmdoSlpaYzFrWFRUZXlTRHI5UDE0d05ROEZPaF9UdjZLUjloNnJvNzhsNjMtYkV1TnhoTUpjSlozSHdHNEFvUHRZbDZ1WC1SU0JzbURzWHpoOWthSGdTTkNRelY0Y2d4Z0g2VU5LcU1YNjY?oc=5",
-          "added_at": "2026-09-04 09:48:01"
         }
       ]
     },
@@ -6041,8 +6041,58 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-29 20:12:29",
+      "last_checked": "2026-09-30 04:12:53",
       "items": [
+        {
+          "uid": "4aee69d44bcc",
+          "date": "2026-09-18",
+          "title": "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting - The Mighty 790 KFGO",
+          "summary": "申し訳ありませんが、提供いただいたテキストにはタイトルのみで本文内容が含まれていないため、正確な要約ができません。記事の本文内容をご提供ください。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHNOOTVFNGVJQlJheWhTMmd2cTNDZ3RIcjZPa1lkMnpCdHpsUDAyMmNzUTk3alJOTVRfa3RFZWVZVlYtaGdaczQ1NHZ4aXhyNHVyTlVITGV0MGRwTHdTOUtNV2NZaUZhNTRiZ1Jaal9ZekdWeW9BZ3g3TmQ5ek5sQ3RLWGJzdm9mZjZtaFJvVWYyM0prcUszLXVhMHBqeU93TlVyREdjUVQ?oc=5",
+          "added_at": "2026-09-30 04:12:45"
+        },
+        {
+          "uid": "d065f9c571ea",
+          "date": "2026-09-25",
+          "title": "Tata dispute sends India Inc scrambling to shore up shareholder rights - Reuters",
+          "summary": "インド財閥タタの経営権をめぐる紛争により、インド企業全体が株主権の保護強化を迫られており、これは企業ガバナンス改革の必要性を浮き彫りにしています。本記事は自動車メーカーの対中提携への政治的批判とは直接的な関連性がありません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUJuanJnZG52NkJSMkVyRFZWQXJqX2JsSlZpMENIdFdlVEdYZlZrNGVzcVJvcWNKR0ZDcnExM3BvdjRQSHdEcVNDTDFxc0hPQ1JRWHdnY2dkZXdZOTFCVEFQVnYzX0hQaGtMQ01CXzJNT2ZxcVhwb042bjZhRWJkdy05bjdZZGZiWGo4RWxScGJsMDRnS3E0ZWNjaUFzQ0Jlek9LV01nQkU5T0h3T0otRFZscFNoZw?oc=5",
+          "added_at": "2026-09-30 04:12:45"
+        },
+        {
+          "uid": "29ff49520ae9",
+          "date": "2026-09-29",
+          "title": "What Congress can do about AI safety — with China — now",
+          "summary": "米国下院議員サム・リカルド氏は、地政学的緊張が続く中でも、超党派的な「フロンティア法」などの立法を通じてAI安全保障に対処し、中国との専門家対話を促進するようと議会に促している。この提案は、対中競争と技術安全協力のバランスを取ろうとするものであり、自動車メーカーなどの産業が中国との提携を推し進める中での政治的な議論を反映している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/congress-blog/technology/6116752-congressional-action-ai-regulations/",
+          "added_at": "2026-09-30 04:12:45"
+        },
+        {
+          "uid": "238e74057133",
+          "date": "2026-09-29",
+          "title": "Beijing blackout: Why we may never know what happened between Trump and Xi",
+          "summary": "トランプ大統領と習近平主席の最近の首脳会談は中国にとって有利に働いたと見られるが、詳細は不透明なままであり、自動車産業を含む対中提携の透明性と政治的正当性に対する懸念が生じている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/white-house/6116144-trump-xi-summit-taiwan/",
+          "added_at": "2026-09-30 04:12:45"
+        },
+        {
+          "uid": "d66afa6c8e4c",
+          "date": "2026-09-29",
+          "title": "Incident at US air base in UK involved foreign state, Rubio says",
+          "summary": "この記事は自動車メーカーの対中提携とは関連がなく、米国務長官による英国の米空軍基地への攻撃計画に関する発言についてのものであるため、要約できません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6117435-marco-rubio-foreign-state-threat-uk-air-base-attack/",
+          "added_at": "2026-09-30 04:12:45"
+        },
         {
           "uid": "0d2b96a97227",
           "date": "2026-09-03",
