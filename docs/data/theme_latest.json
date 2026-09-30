@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30 20:00:19",
+  "generated_at": "2026-10-01 03:54:55",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-09-30 19:59:36",
+      "last_checked": "2026-10-01 03:54:08",
       "items": [
         {
           "uid": "55cdc7fdd8ec",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-09-30 19:59:49",
+      "last_checked": "2026-10-01 03:54:17",
       "items": [
+        {
+          "uid": "b0fb015bfb8e",
+          "date": "2026-07-27",
+          "title": "Sen. Bernie Moreno pushes Connected Vehicle Security Act, says bill protects dealers and U.S. auto industry - CBT News",
+          "summary": "上院議員バーニー・モレノ氏は、接続車両のサイバーセキュリティを強化し、ディーラーと米国自動車産業を保護するために、米国接続車両安全保障法（S.4429）を推進しており、この法案が国内産業の競争力維持に重要な役割を果たすと主張しています。",
+          "source": "議員発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yR0E0MGdQd3haS3dPWm9ZdHF4eWJlZG5oTm9kck5Ia1lIT2tDWTJwUDlvc1BGV2RuTXZHSVJNUUY3amZzS21wNVdmcWJtbWFnbFBkcHZ6b3N6OUk2WEhHTndTMjNnWHpJdC1ocHVwNnJyVFZuXzE1Sw?oc=5",
+          "added_at": "2026-10-01 03:54:16"
+        },
         {
           "uid": "255df1302cf4",
           "date": "2026-09-21",
@@ -4010,16 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0NLU1N0c212QW80OE94NVBEdUtEaXFkM0R1NENBcE1DQ1NWRDE0eVVyUFZTNDRLS1Ntejh1ZkRFajRtS1F2T3FlWHNjRjg3NEFIczJmVWNJenNoT190bE9WWWhzdk90S0pTTlBZS0ZVX0JVU0xxRW5jUENaa1RsX0hFWTk3eGh3YzZVbGp0a3BFQ283?oc=5",
           "added_at": "2026-07-29 16:45:20"
-        },
-        {
-          "uid": "4e3ab64eff9e",
-          "date": "2026-06-25",
-          "title": "Polestar shut out of US market from 2027 as China tech ban claims Geely-linked brand - investingLive",
-          "summary": "S.4429は中国の自動車メーカーやその傘下ブランド（ボルボ傘下のPolestar含む）が2027年から米国市場から排除される中国技術禁止法であり、Polestarも同法の対象となって米市場での販売継続が困難になる見通しです。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUo2YjRtaW5Na3NVSnV1aU81dTMwbDR1dmd5NURZaGg1S05hWTFzV2tDMmFXLVBMM2FWTWRqM24tanJWMi1JT2lLdW15UWRUeFFXTU5IWG1YNE02OURGT0lPTDEtaXhlYlcxVkNIUEFseUJHdlR6UG1yVmJDOGZmLU9nMDBlTHY1NHpkMUR0N2pPVTVuWXNxZHV1S2JibUlxaXdoNVM0dHhHUUJHVW9jSDF1RHU0cWpTRUZGLUNsNldMTWc?oc=5",
-          "added_at": "2026-07-29 16:45:20"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-09-30 20:00:10",
+      "last_checked": "2026-10-01 03:54:35",
       "items": [
+        {
+          "uid": "6b295913e942",
+          "date": "2026-09-30",
+          "title": "LS Eco Energy to Build Samarium Metal Plant in Vietnam for Defense Applications, Establishing First Non-China Supply Chain - finance.biggo.com",
+          "summary": "LS Eco Energyがベトナムにサマリウム金属工場を建設し、防衛用途向けの中国以外の供給チェーンを初めて確立する計画である。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CdWtoa0pndFQxUFJjOXBoUWVZblU1LURYUkh2am1NTmlRblBjUVpaU1hiU2hlYmNyZ0Z1d3JFOU1ESWJ0S1pMU0p2Wng0QTJDT2NnYVZpVkVFNXRWbTI3RzVMUEFmdEthbVZHanQteTdELWdxb2c?oc=5",
+          "added_at": "2026-10-01 03:54:31"
+        },
+        {
+          "uid": "ece7af20c189",
+          "date": "2026-09-30",
+          "title": "Leave your politics behind: Greenland is a historic US victory",
+          "summary": "グリーンランドへの米国の軍事アクセス拡大は、中国との戦略的競争において重要であり、レアアース等の重要資源を含む北極圏での影響力確保につながる可能性がある。これは中国のレアアース輸出管理による影響力行使に対抗する米国の地政学的戦略の一環と考えられる。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6119029-us-denmark-greenland-military-deal/",
+          "added_at": "2026-10-01 03:54:31"
+        },
+        {
+          "uid": "6769d092347d",
+          "date": "2026-09-30",
+          "title": "Bessent is wrong: China armed Iran’s nuclear weapons ambitions",
+          "summary": "中国がイラン核兵器開発を支援してきたことが、イランを危険な存在にしたとされており、これはレアアースを含む戦略物資の供給を通じた中国の地政学的影響力の拡大と関連している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/6118290-china-supplied-iran-nuclear-tech/",
+          "added_at": "2026-10-01 03:54:31"
+        },
         {
           "uid": "f3f7990ae178",
           "date": "2026-08-03",
@@ -6001,36 +6031,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOC1sWW4tTHpEM1NiQWVIbnZMRVlvcVcyNTl2UE1QU1lqSlBVaTlNai1UUm1yR0htazhtZjA1N3Jtb2dEaHhnWklPREdWdG52a0FrTjBMamVaM1FlR1JmSzZycUpWY3pKUzA4V3pRTk9FRzRsTklOMEhvQlRybVVjTHRNbjByQ3ZHY25ja2JERjBXdDUzNXo1WDNFeEFGa3hZTnZUR2lxWTZIQ2p5M01qV0lnUXBFQm1JRVdlZk90MkZhTWplb3RZdVJ0ZktrNmFKM0dr?oc=5",
           "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "243e96af73f5",
-          "date": "2026-07-05",
-          "title": "China dominates the rare earth elements industry, but this American company hopes to challenge China's grip - CBS News",
-          "summary": "中国はレアアース産業を支配しているが、米国企業がこの支配に対抗することを目指しており、中国のレアアース輸出管理に対する競争圧力が高まっている。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkhpZllZUHRkTTRQS3kxR0VWMXJUY204QlJfaUpTbWVXOEJiY21icm8xbENLOFRuaEEzZjEzNTlSc0ZHOVdEam5NV0NtUDBFaHd0V1cwYkR6WURjZUZCbVd5aTJkdU9VbG1WOU9XUEJNeVhWQ3hETTZ4akZBQS1rellTVl9XY2NiS1lDTkNNUHl0M2FkdnpHekJ5Q3JtSklDcmRMVlhLRlRpS0pybTgyeDJEZkJndw?oc=5",
-          "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "2c87eba16a2c",
-          "date": "2026-07-01",
-          "title": "Washington, Beijing should de-escalate from tit-for-tat actions, US senator says - South China Morning Post",
-          "summary": "米国上院議員は、米中間の報復的措置のエスカレーションを避けるべきだと主張しており、これはレアアース等の戦略的資源を巡る米中対立の緊張緩和の必要性を示唆している。中国がレアアース輸出規制で対抗する可能性がある中、米国側も同様の措置を講じるという悪循環を断つべきだというメッセージと解釈できる。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0ZUem9YczQxUkFWbzhjQVhQVkdfVHNoWDJ5dUJhVHZLRmotTllfckJVR1BpUTdYWVJwS3V1ZXNfQjNURUhybTFmRnVsb2xrdmJ2RUVLOEZOMXlud240bklQdEFXeUhEZk96S1U3NjROdlJqYjJBbUVmUVZZaS1UbGJrRHk2djFKVUlXaFFoLXFnVXRna0w0SF83MlBSWDZ0S0YxYUJsd0MtQ0RVeGUycUJENU9OanFaMkHSAboBQVVfeXFMTTRJMUNYR3NCOC1KUEtoQnVIQ1pxZWVZTWI5QVNWN1VFYVZRNTRiendaY2ZOUjZQbFVycW1CLVd1QUp5ZmFmNmctN0h0QTV3dXdrNmVDMGxkbDBreEp1UGxCMlFOR0hPLVE2MFA2ajFhWHhuQ1pieTlibUdTU2hRR0o3eWthWm02aUV3eDZGZS01UjktWXRaek83cHZzWTJ1a1FUUjRfNm5YWDN2cmhfeWpvVEpRZVZWNVVn?oc=5",
-          "added_at": "2026-09-04 09:48:01"
-        },
-        {
-          "uid": "6e1eef7355c7",
-          "date": "2026-06-24",
-          "title": "China’s mineral squeeze testing Japan’s military buildup - The Japan Times",
-          "summary": "中国がレアアースなどの鉱物輸出を制限することで、日本の防衛力強化に必要な資源確保に対する圧力となっており、日本の軍事的な能力向上が中国の鉱物供給政策による制約を受ける状況が生じている。",
-          "source": "同盟国対応",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0VhY09TVzBRZ2h6RHJtbmdGSHp1LTBlX3BKRnhNUmxnUVFTSUhTelctcWpFR2Q2d05FcHFKWnppWV9pdl9JQ3NHajV6MzZaUzg1d3FESjYxUW5vbnNFUVZMRzFLcE1zbzBXcDd0T05LVVh1SnRJd0pUM2Vwa25PeHItbW9hcHU1eWtBRjlUeThxdVVsZDNsemtsQXM?oc=5",
-          "added_at": "2026-09-04 09:48:01"
         }
       ]
     },
@@ -6041,8 +6041,118 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-09-30 20:00:19",
+      "last_checked": "2026-10-01 03:54:55",
       "items": [
+        {
+          "uid": "63f979562f0a",
+          "date": "2026-09-09",
+          "title": "Ford under fire from GOP, Trump administration over China ties - New York Post",
+          "summary": "フォード・モーターが共和党やトランプ政権から中国との提携関係を理由に批判を受けており、自動車メーカーの対中政策が米国の政治的な争点になっている。",
+          "source": "下院中国特別委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkV1MTdDd0VTcm83Q2d3VnplTWVPaDhkVE5wX29WcjFZd3M4a1BVOU9wcUc4UWpCZkNSQlZVajBuQ01mUEY3dTRDUHhFNG41THFISUtGMkI0b201cG5WTFFuZms0ZU5oUV9Qd1BXZ2g2cTRVU3NxT0ExWGR2SDRJM2VyZ3pOZlB0RTFsRnJvWUpaVDlKTy1tUW5yc1MzZTBNTUgw?oc=5",
+          "added_at": "2026-10-01 03:54:40"
+        },
+        {
+          "uid": "ed612b164b90",
+          "date": "2026-09-30",
+          "title": "Ford's CEO warned the U.S. not to repeat Europe's mistake on Chinese automakers - qz.com",
+          "summary": "フォードのCEOは、中国の自動車メーカーに対する規制で欧州が失敗したのと同じ誤りを米国が繰り返さないよう警告している。欧州の過度に寛容な政策が中国勢の市場浸透を招いたとして、米国による厳格な対中戦略の必要性を主張している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CWDJRallGN1EzcWdBUHQ1VUNKVnVfX1pBWTRHMUVCWng1YW5qMUxTY3ctRk5jVVl5eEFESFFSVm83UHo1VDRQaldacW9QRzRLZDdQaW54dUtMblZjb1ZZS25VeUVKQWZaVXV1LXAtRzEyUWpyZzBaag?oc=5",
+          "added_at": "2026-10-01 03:54:40"
+        },
+        {
+          "uid": "9f39d0c09c87",
+          "date": "2026-09-29",
+          "title": "China automaker FAW to explore broader cooperation with GAC after JV stake deal - Reuters",
+          "summary": "中国自動車メーカーのFAWがGACとの合弁会社の株式取得後、協力関係を拡大することで、中国企業間の提携強化が進む一方で、西側諸国による対中経済的規制や技術流出への懸念がより顕在化する可能性がある。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVFdERHRMNHkxX3N6M1d4VXA0aXlHOW96MXlKUXRtQmgzSmZhRmxLVWUwM25xRHVic0FpTV8xNlBpZG41QkxfRmFUQjZ2SVJYdHc2Y2JDZThrMV9uazlNMjN4eU5rX1h2bV9oSjJFMEZmdzQtT2dHek5WaU92dU40QW0zTmpiMWdua1U1TE5ETEVleHFtUFNfQk90UnZxTzV4TGZaY3pBZks0Zi1oRnNFWlFjdng4MUZBQy1JN3Y5Qm5uT0l3ak5NX2hyOA?oc=5",
+          "added_at": "2026-10-01 03:54:40"
+        },
+        {
+          "uid": "a7d5189802ce",
+          "date": "2026-09-24",
+          "title": "US senators delay effort to permanently ban Chinese cars - Reuters",
+          "summary": "米国上院議員は、中国製自動車の恒久的禁止を目指す法案の可決を遅延させており、これは自動車メーカーが中国との提携に対して政治的な圧力を受けていることを示しています。この遅延は、米国内での中国製自動車排除への政治的意思の不確実性と、業界内での利益相反を反映しています。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaENSMVJIRkFMV2ZDN01WR3R6SjZwY1BnQzhndHp6NlhLMEtORUliZUVBYmI0SWJiMlY5ckg3Z1c4a1lmYlhLUm13dy05Q2RfaDZPeHFhUElUeUNIYkZpTGExLWhaMHRlTWtIZFBOSnI4bXNESmZmN3cxR1ZqUHpPUFFRZ1diNkJyR1YtYWFGaUdvRWtWZ28tQ2dYNnpwTVY2NUNHRQ?oc=5",
+          "added_at": "2026-10-01 03:54:40"
+        },
+        {
+          "uid": "6e319312069a",
+          "date": "2026-09-29",
+          "title": "EXCLUSIVE: AI researchers warn companies rushing self-improving systems despite safety risks - Reuters",
+          "summary": "AI研究者が自動運転技術などの自己改善型システムの急速な展開に対して安全性リスクの懸念を表明しており、この警告は自動車メーカーが中国企業との提携で先進AI技術を導入する際の潜在的なリスク評価の不十分性を示唆している。安全性検証を十分に経ないまま新技術を採用することは、政治的批判の対象となる可能性がある。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWXBiMU9va2F1QUVhR0RCUk1DQm10d2g3MFJiblhXa2JuTHBEZG04TjMtUVpqeldtbW9LcVZ4SVdhMzBlcllVNEtsTVE3OGJZMVpYWTZtYUtfLXBkOFlEWHpZNDFFQTBnc3J1QXl3Q3k1ZWNvU1JNZ0hSUXo1aGJVY2J1YUItZ1MzVXNqYzNrM20xTWtsYWJQSmxxbC1WNkRIdVFmVGtTZmZFNGtIMURxa0w0dVV5ZC1m?oc=5",
+          "added_at": "2026-10-01 03:54:40"
+        },
+        {
+          "uid": "c97339ca221e",
+          "date": "2026-09-22",
+          "title": "Wheat buyers brace for higher costs as Russia-Ukraine war drags on - Reuters",
+          "summary": "この記事はロシア・ウクライナ戦争の長期化に伴う小麦価格上昇についての内容であり、自動車メーカーの対中提携への政治的批判とは関連がありません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUswVEozejNqc18tLUlqcnBVXzNDVDNkZHQyN25BdDhqYTVBN2NTNnVoODNxLTI0bXg3d00wWXY1NW1yUVpuM1FDLWFsZVYzVFVwbkNqbzdBd0JHaDk1UGg5NXVFQ2g2MFZwalBpYW9GRURiMVB4cnd5RWd3cXpmcktIalFsNFBxTU1YNTRBakx1NXRBaEJJWlo0Q280X1FIcFR3cWxfTTVsV2ZIUlBmX25na0E2U0JhdTF6M2dQMA?oc=5",
+          "added_at": "2026-10-01 03:54:40"
+        },
+        {
+          "uid": "89b0c4d2f368",
+          "date": "2026-09-30",
+          "title": "UK believes Iran ‘played a part’ in foiled attack, Burnham says",
+          "summary": "この記事は自動車メーカーの対中提携への政治的批判とは無関係です。記事の内容はイランがイギリスの米軍基地への攻撃に関与したという英国首相の発表についてであり、要約できません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6120983-uk-us-air-base-incident-andy-burnham-iran-conflict/",
+          "added_at": "2026-10-01 03:54:40"
+        },
+        {
+          "uid": "18f82d9359a6",
+          "date": "2026-09-30",
+          "title": "Watch live: Senate panel weighs national security risks of rogue AI",
+          "summary": "本記事は自動車メーカーの対中提携とは無関係であり、AI技術の国家安全保障上のリスクに関する米国上院の公聴会について扱っているため、要約対象の文脈に該当しません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/senate/6120658-watch-live-senate-homeland-security-panel-rogue-ai/",
+          "added_at": "2026-10-01 03:54:40"
+        },
+        {
+          "uid": "ece7af20c189",
+          "date": "2026-09-30",
+          "title": "Leave your politics behind: Greenland is a historic US victory",
+          "summary": "グリーンランドへの米国の軍事的アクセス確保に関する米国・デンマーク・グリーンランド間の協定は、安全保障上の地政学的競争を背景としており、中国への対抗という国家安全保障上の関心が政治的判断を優先させる事例を示している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6119029-us-denmark-greenland-military-deal/",
+          "added_at": "2026-10-01 03:54:40"
+        },
+        {
+          "uid": "6769d092347d",
+          "date": "2026-09-30",
+          "title": "Bessent is wrong: China armed Iran’s nuclear weapons ambitions",
+          "summary": "中国がイランの核兵器開発を支援することで地域の脅威を増大させているため、自動車メーカーなどの企業が中国との提携を深める動きは、こうした地政学的リスクを軽視する危険がある。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/6118290-china-supplied-iran-nuclear-tech/",
+          "added_at": "2026-10-01 03:54:40"
+        },
+        {
+          "uid": "1192fe0048cb",
+          "date": "2026-09-30",
+          "title": "The affordability illusion",
+          "summary": "2026年8月の年間インフレ率3.4%は一見低く見えるが、実際の生活費は大幅に上昇しており、見かけの物価安定が実態と乖離していることが問題である。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/finance/6118764-inflation-vs-affordability-gap/",
+          "added_at": "2026-10-01 03:54:40"
+        },
         {
           "uid": "373f83aab5ca",
           "date": "2026-09-30",
