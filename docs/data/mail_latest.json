@@ -1,77 +1,131 @@
 {
-  "generated_at": "2026-09-28 11:33 JST",
-  "sender_count": 4,
-  "total_mails": 19,
+  "generated_at": "2026-09-30 13:20 JST",
+  "sender_count": 5,
+  "total_mails": 46,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 9,
+      "count": 18,
       "bullets": [
-        "AI産業の急速な成長には米国政府による反トラスト法適用免除が必要だが、その実現可能性は極めて低い",
-        "欧州のガス価格は在庫低迷とカタールからの供給途絶により冬期間の高止まり継続、米国はディーゼル価格高騰時に輸出規制を検討",
-        "米中首脳会談は実質的な成果に乏しいが象徴的には重要で、両国間で関税引き下げとAI対話の刷新を実現",
-        "米国民主党が中間選挙で上院多数派獲得の優位性（55%確率）を獲得し、重要州での投票支持を拡大",
-        "AI基盤施設への投資ブームが進む一方、米国の規制怠慢により金融リスクが蓄積"
+        "トランプ大統領と習近平国家主席の首脳会談で関税引き下げで合意、AIは脇役に留まる見通し",
+        "米国のディーゼル燃料輸出規制の可能性が65%から40%に低下、市場反応を反映",
+        "米中間選挙で民主党の上院奪還可能性が高く、南部での議席獲得には全国的な民主化環境が必要",
+        "米国防調達におけるチャイニーズ材料排除に向けて、1月1日の期限を活用した長期的なサプライチェーン改革を推進",
+        "中東からの石油流量増加にもかかわらず、地政学的リスクと市場構造により原油価格は高止まり見通し"
       ],
       "subjects": [
         [
-          "2026-09-25",
+          "2026-09-28",
           "EG Research Summary in Japanese",
-          "data/pdfs/20260925_1723_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-09-25",
-          "Flash Call - US Diesel Export Restrictions - EG Conference Call,",
-          "data/pdfs/20260925_2047_Flash_Call_-_US_Diesel_Export_Restrictions_-_EG_Co.pdf"
-        ],
-        [
-          "2026-09-25",
-          "Democrats now have edge to flip Senate",
-          "data/pdfs/20260925_2138_Democrats_now_have_edge_to_flip_Senate.pdf"
-        ],
-        [
-          "2026-09-25",
-          "US regulatory complacency allows financial risks to build in AI",
-          "data/pdfs/20260925_2304_US_regulatory_complacency_allows_financial_risks_t.pdf"
-        ],
-        [
-          "2026-09-26",
-          "The blue tide is becoming a wave",
-          "data/pdfs/20260926_0027_The_blue_tide_is_becoming_a_wave.pdf"
-        ],
-        [
-          "2026-09-26",
-          "US-China breakdown odds cut to 15%",
-          "data/pdfs/20260926_0149_US-China_breakdown_odds_cut_to_15%.pdf"
-        ],
-        [
-          "2026-09-26",
-          "Conference Call Notes: Likely US diesel export curb still a live",
-          "data/pdfs/20260926_0156_Conference_Call_Notes__Likely_US_diesel_export_cur.pdf"
-        ],
-        [
-          "2026-09-27",
-          "Diesel export restrictions now unlikely",
-          "data/pdfs/20260927_2352_Diesel_export_restrictions_now_unlikely.pdf"
+          "data/pdfs/20260928_1745_EG_Research_Summary_in_Japanese.pdf"
         ],
         [
           "2026-09-28",
-          "Likely Saudi-Houthi escalation raises risk of oil disruptions",
-          "data/pdfs/20260928_0645_Likely_Saudi-Houthi_escalation_raises_risk_of_oil_.pdf"
+          "US diesel export curb odds fall to 40%",
+          "data/pdfs/20260928_2144_US_diesel_export_curb_odds_fall_to_40%.pdf"
+        ],
+        [
+          "2026-09-29",
+          "Democrats need a bluer national environment to flip South",
+          "data/pdfs/20260929_0023_Democrats_need_a_bluer_national_environment_to_fli.pdf"
+        ],
+        [
+          "2026-09-29",
+          "Rules on Chinese materials to force defense procurement reform",
+          "data/pdfs/20260929_0155_Rules_on_Chinese_materials_to_force_defense_procur.pdf"
+        ],
+        [
+          "2026-09-29",
+          "Rising Middle East flows won’t bring prices down",
+          "data/pdfs/20260929_0200_Rising_Middle_East_flows_won’t_bring_prices_down.pdf"
+        ],
+        [
+          "2026-09-29",
+          "US-GCC Update",
+          "data/pdfs/20260929_1027_US-GCC_Update.pdf"
+        ],
+        [
+          "2026-09-29",
+          "US-GCC Update",
+          "data/pdfs/20260929_1046_US-GCC_Update_「米国・GCC諸国の最新アップデート」（同時通訳なし）.pdf"
+        ],
+        [
+          "2026-09-29",
+          "EG Japan Angle - English",
+          "data/pdfs/20260929_1752_EG_Japan_Angle_-_English.pdf"
+        ],
+        [
+          "2026-09-29",
+          "EG Japan Angle - Japanese",
+          "data/pdfs/20260929_1804_EG_Japan_Angle_-_Japanese.pdf"
+        ],
+        [
+          "2026-09-29",
+          "Turkey: US likely to keep Iranian gas offline",
+          "data/pdfs/20260929_1847_Turkey__US_likely_to_keep_Iranian_gas_offline.pdf"
+        ],
+        [
+          "2026-09-29",
+          "US defense supply shift from China will be gradual",
+          "data/pdfs/20260929_2144_US_defense_supply_shift_from_China_will_be_gradual.pdf"
+        ],
+        [
+          "2026-09-29",
+          "Mexico Update",
+          "data/pdfs/20260929_2309_Mexico_Update.pdf"
+        ],
+        [
+          "2026-09-30",
+          "Permitting deal faces better odds in lame duck",
+          "data/pdfs/20260930_0115_Permitting_deal_faces_better_odds_in_lame_duck.pdf"
+        ],
+        [
+          "2026-09-30",
+          "UK: care funding gamble risks voter backlash",
+          "data/pdfs/20260930_0335_UK__care_funding_gamble_risks_voter_backlash.pdf"
+        ],
+        [
+          "2026-09-30",
+          "UK: care funding gamble risks voter backlash",
+          "data/pdfs/20260930_0456_UK__care_funding_gamble_risks_voter_backlash.pdf"
+        ],
+        [
+          "2026-09-30",
+          "US-GCC Update",
+          "data/pdfs/20260930_0801_US-GCC_Update_「米国・GCC諸国の最新アップデート」（同時通訳なし）_-_EG_Con.pdf"
+        ],
+        [
+          "2026-09-30",
+          "US-GCC Update - EG Conference Call, REMINDER",
+          "data/pdfs/20260930_0802_US-GCC_Update_-_EG_Conference_Call,_REMINDER.pdf"
+        ],
+        [
+          "2026-09-30",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20260930_1003_EG_Research_Summary_in_Japanese.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260925_1723_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20260925_2047_Flash_Call_-_US_Diesel_Export_Restrictions_-_EG_Co.pdf",
-        "data/pdfs/20260925_2138_Democrats_now_have_edge_to_flip_Senate.pdf",
-        "data/pdfs/20260925_2304_US_regulatory_complacency_allows_financial_risks_t.pdf",
-        "data/pdfs/20260926_0027_The_blue_tide_is_becoming_a_wave.pdf",
-        "data/pdfs/20260926_0149_US-China_breakdown_odds_cut_to_15%.pdf",
-        "data/pdfs/20260926_0156_Conference_Call_Notes__Likely_US_diesel_export_cur.pdf",
-        "data/pdfs/20260927_2352_Diesel_export_restrictions_now_unlikely.pdf",
-        "data/pdfs/20260928_0645_Likely_Saudi-Houthi_escalation_raises_risk_of_oil_.pdf"
+        "data/pdfs/20260928_1745_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20260928_2144_US_diesel_export_curb_odds_fall_to_40%.pdf",
+        "data/pdfs/20260929_0023_Democrats_need_a_bluer_national_environment_to_fli.pdf",
+        "data/pdfs/20260929_0155_Rules_on_Chinese_materials_to_force_defense_procur.pdf",
+        "data/pdfs/20260929_0200_Rising_Middle_East_flows_won’t_bring_prices_down.pdf",
+        "data/pdfs/20260929_1027_US-GCC_Update.pdf",
+        "data/pdfs/20260929_1046_US-GCC_Update_「米国・GCC諸国の最新アップデート」（同時通訳なし）.pdf",
+        "data/pdfs/20260929_1752_EG_Japan_Angle_-_English.pdf",
+        "data/pdfs/20260929_1804_EG_Japan_Angle_-_Japanese.pdf",
+        "data/pdfs/20260929_1847_Turkey__US_likely_to_keep_Iranian_gas_offline.pdf",
+        "data/pdfs/20260929_2144_US_defense_supply_shift_from_China_will_be_gradual.pdf",
+        "data/pdfs/20260929_2309_Mexico_Update.pdf",
+        "data/pdfs/20260930_0115_Permitting_deal_faces_better_odds_in_lame_duck.pdf",
+        "data/pdfs/20260930_0335_UK__care_funding_gamble_risks_voter_backlash.pdf",
+        "data/pdfs/20260930_0456_UK__care_funding_gamble_risks_voter_backlash.pdf",
+        "data/pdfs/20260930_0801_US-GCC_Update_「米国・GCC諸国の最新アップデート」（同時通訳なし）_-_EG_Con.pdf",
+        "data/pdfs/20260930_0802_US-GCC_Update_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20260930_1003_EG_Research_Summary_in_Japanese.pdf"
       ]
     },
     {
@@ -80,107 +134,228 @@
       "color": "YEL",
       "count": 1,
       "bullets": [
-        "米国の規制当局の監視不足により、AI産業ブームの中で金融セクター全体にリスク蓄積の可能性",
-        "AI関連インフラへの過度な資本流入に対する連邦政府の監督が限定的で、金融介入コストの増加リスク",
-        "AI企業への社会的反発の高まりが、大手テクノロジー企業のコーポレートガバナンス強化を促進"
+        "中東からの石油供給増加にもかかわらず、油価は1バレル90～110ドルの現在の価格帯に留まる見通し"
       ],
       "subjects": [
         [
-          "2026-09-26",
-          "Daily Research Summary - Sep 25th, 2026",
-          "data/pdfs/20260926_0834_Daily_Research_Summary_-_Sep_25th,_2026.pdf"
+          "2026-09-29",
+          "Daily Research Summary - Sep 28th, 2026",
+          "data/pdfs/20260929_0834_Daily_Research_Summary_-_Sep_28th,_2026.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260926_0834_Daily_Research_Summary_-_Sep_25th,_2026.pdf"
+        "data/pdfs/20260929_0834_Daily_Research_Summary_-_Sep_28th,_2026.pdf"
+      ]
+    },
+    {
+      "sender": "Ian",
+      "short": "IAN",
+      "color": "RED",
+      "count": 1,
+      "bullets": [
+        "国連総会での各国首脳・外相との会談（約40名）を実施",
+        "地政学と人工知能が主要テーマに組み込まれた会合の開催",
+        "トランプ大統領と中国の習近平主席との首脳会談を開催",
+        "年次イベント「funga」をウエストビレッジで開催し、各国要人が参加"
+      ],
+      "subjects": [
+        [
+          "2026-09-28",
+          "eg update",
+          "data/pdfs/20260928_2149_eg_update.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20260928_2149_eg_update.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "RED",
-      "count": 8,
+      "color": "ORG",
+      "count": 24,
       "bullets": [
-        "ブリュッセルが安全保障を重視し、加盟国がより慎重な姿勢を強化",
-        "ドイツとスペインが産業加速化法の地域内容規則について対立し、EU域外国との貿易アクセス範囲で相違",
-        "EU最高AI顧問が、米国・中国モデルの追従ではなく、生産性向上を通じたEU経済の改革にAI活用を促進するよう勧告",
-        "米国によるバルカン半島へのガス供給拡大が、EU候補国のガス依存度を高めEUの気候目標を脅かす懸念",
-        "スイスの国民投票で中立性の法的拘束力強化が議論され、ロシア制裁の維持が問題に"
+        "EU委員会が自動車CO2排出規制の弱体化に関する内部助言を無視し、自動車メーカーと加盟国からの政治的圧力に屈した事実が判明",
+        "欧州保守派勢力が2029年の選挙に向けて統一プラットフォーム構築を開始し、極右勢力に対抗する戦略を展開",
+        "EU域外の有望加盟候補国（モンテネグロ、ウクライナ、モルドバ、アルバニア）に対して初めて加盟交渉の達成期限設定を検討",
+        "ロシアがノルウェーの北極圏領土で活動を活発化させ、NATO第5条の相互防衛義務を試す可能性が懸念"
       ],
       "subjects": [
         [
-          "2026-09-25",
-          "The Berlaymont’s battle plans",
-          "data/pdfs/20260925_1400_The_Berlaymont’s_battle_plans.pdf"
-        ],
-        [
-          "2026-09-25",
-          "Germany and Spain clash over the IAA",
-          "data/pdfs/20260925_1403_Germany_and_Spain_clash_over_the_IAA.pdf"
-        ],
-        [
-          "2026-09-25",
-          "EU’s top AI adviser urges commissioners to use the technology to",
-          "data/pdfs/20260925_1737_EU’s_top_AI_adviser_urges_commissioners_to_use_the.pdf"
-        ],
-        [
-          "2026-09-25",
-          "US push to flood Balkans with American gas sparks concerns in",
-          "data/pdfs/20260925_2106_US_push_to_flood_Balkans_with_American_gas_sparks_.pdf"
-        ],
-        [
-          "2026-09-25",
-          "Switzerland’s neutrality vote puts Russia sanctions on the line",
-          "data/pdfs/20260925_2235_Switzerland’s_neutrality_vote_puts_Russia_sanction.pdf"
-        ],
-        [
-          "2026-09-26",
-          "Pro Daily Headlines",
-          "data/pdfs/20260926_0031_Pro_Daily_Headlines.pdf"
-        ],
-        [
-          "2026-09-26",
-          "How a diesel ban could burn US credibility",
-          "data/pdfs/20260926_2254_How_a_diesel_ban_could_burn_US_credibility.pdf"
+          "2026-09-28",
+          "Inside Europe’s deadlocked budget talks",
+          "data/pdfs/20260928_1359_Inside_Europe’s_deadlocked_budget_talks.pdf"
         ],
         [
           "2026-09-28",
-          "Britain to keep tariffs on Chinese EVs ‘under review,’ UK business",
-          "data/pdfs/20260928_0430_Britain_to_keep_tariffs_on_Chinese_EVs_‘under_revi.pdf"
+          "EU Commission ignored its own advice before weakening car CO2",
+          "data/pdfs/20260928_1401_EU_Commission_ignored_its_own_advice_before_weaken.pdf"
+        ],
+        [
+          "2026-09-28",
+          "Exclusive: Commission ignored own advice on CO2 standards",
+          "data/pdfs/20260928_1402_Exclusive__Commission_ignored_own_advice_on_CO2_st.pdf"
+        ],
+        [
+          "2026-09-28",
+          "Europe’s divided conservatives launch 2029 plan to beat far right",
+          "data/pdfs/20260928_1637_Europe’s_divided_conservatives_launch_2029_plan_to.pdf"
+        ],
+        [
+          "2026-09-28",
+          "EU is drawing up membership action plans for most promising",
+          "data/pdfs/20260928_1741_EU_is_drawing_up_membership_action_plans_for_most_.pdf"
+        ],
+        [
+          "2026-09-28",
+          "Putin is testing NATO on Norway’s remote Arctic islands",
+          "data/pdfs/20260928_1907_Putin_is_testing_NATO_on_Norway’s_remote_Arctic_is.pdf"
+        ],
+        [
+          "2026-09-28",
+          "UK voters believe Burnham can win the next election",
+          "data/pdfs/20260928_2052_UK_voters_believe_Burnham_can_win_the_next_electio.pdf"
+        ],
+        [
+          "2026-09-28",
+          "Russian tech surveillance company infiltrated Europe’s law",
+          "data/pdfs/20260928_2105_Russian_tech_surveillance_company_infiltrated_Euro.pdf"
+        ],
+        [
+          "2026-09-29",
+          "Pro Daily Headlines",
+          "data/pdfs/20260929_0031_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-09-29",
+          "EU sets December deadline for military mobility deal",
+          "data/pdfs/20260929_0249_EU_sets_December_deadline_for_military_mobility_de.pdf"
+        ],
+        [
+          "2026-09-29",
+          "CORRECTION: EU sets December deadline for military mobility",
+          "data/pdfs/20260929_0346_CORRECTION__EU_sets_December_deadline_for_military.pdf"
+        ],
+        [
+          "2026-09-29",
+          "Europe’s scramble for energy",
+          "data/pdfs/20260929_1350_Europe’s_scramble_for_energy.pdf"
+        ],
+        [
+          "2026-09-29",
+          "German-French bargain on cars deadlocked",
+          "data/pdfs/20260929_1403_German-French_bargain_on_cars_deadlocked.pdf"
+        ],
+        [
+          "2026-09-29",
+          "Mélenchon’s plan to beat the far right: Grab the first-time voters",
+          "data/pdfs/20260929_1736_Mélenchon’s_plan_to_beat_the_far_right__Grab_the_f.pdf"
+        ],
+        [
+          "2026-09-29",
+          "EU officials confident Trump will drop plan to ban diesel exports",
+          "data/pdfs/20260929_1827_EU_officials_confident_Trump_will_drop_plan_to_ban.pdf"
+        ],
+        [
+          "2026-09-29",
+          "Send rejected asylum-seekers out of EU ASAP, urges Greek",
+          "data/pdfs/20260929_1905_Send_rejected_asylum-seekers_out_of_EU_ASAP,_urges.pdf"
+        ],
+        [
+          "2026-09-29",
+          "No country for old women: Pressure builds on Spain’s Sánchez",
+          "data/pdfs/20260929_2105_No_country_for_old_women__Pressure_builds_on_Spain.pdf"
+        ],
+        [
+          "2026-09-29",
+          "5 battles that will decide EU’s ‘Made in Europe’ push",
+          "data/pdfs/20260929_2325_5_battles_that_will_decide_EU’s_‘Made_in_Europe’_p.pdf"
+        ],
+        [
+          "2026-09-29",
+          "Document: MEPs want to increase corporate fleet targets",
+          "data/pdfs/20260929_2325_Document__MEPs_want_to_increase_corporate_fleet_ta.pdf"
+        ],
+        [
+          "2026-09-30",
+          "Commission plans new China trade measures by year’s end",
+          "data/pdfs/20260930_0018_Commission_plans_new_China_trade_measures_by_year’.pdf"
+        ],
+        [
+          "2026-09-30",
+          "Pro Daily Headlines",
+          "data/pdfs/20260930_0031_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-09-30",
+          "EU to deepen ties with Canada as ‘trusted supplier’ of energy and",
+          "data/pdfs/20260930_0127_EU_to_deepen_ties_with_Canada_as_‘trusted_supplier.pdf"
+        ],
+        [
+          "2026-09-30",
+          "Andy Burnham keeps his options open on Brexit",
+          "data/pdfs/20260930_0140_Andy_Burnham_keeps_his_options_open_on_Brexit.pdf"
+        ],
+        [
+          "2026-09-30",
+          "Burnham tried to plot the next seven years of UK politics in one",
+          "data/pdfs/20260930_0324_Burnham_tried_to_plot_the_next_seven_years_of_UK_p.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260925_1400_The_Berlaymont’s_battle_plans.pdf",
-        "data/pdfs/20260925_1403_Germany_and_Spain_clash_over_the_IAA.pdf",
-        "data/pdfs/20260925_1737_EU’s_top_AI_adviser_urges_commissioners_to_use_the.pdf",
-        "data/pdfs/20260925_2106_US_push_to_flood_Balkans_with_American_gas_sparks_.pdf",
-        "data/pdfs/20260925_2235_Switzerland’s_neutrality_vote_puts_Russia_sanction.pdf",
-        "data/pdfs/20260926_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20260926_2254_How_a_diesel_ban_could_burn_US_credibility.pdf",
-        "data/pdfs/20260928_0430_Britain_to_keep_tariffs_on_Chinese_EVs_‘under_revi.pdf"
+        "data/pdfs/20260928_1359_Inside_Europe’s_deadlocked_budget_talks.pdf",
+        "data/pdfs/20260928_1401_EU_Commission_ignored_its_own_advice_before_weaken.pdf",
+        "data/pdfs/20260928_1402_Exclusive__Commission_ignored_own_advice_on_CO2_st.pdf",
+        "data/pdfs/20260928_1637_Europe’s_divided_conservatives_launch_2029_plan_to.pdf",
+        "data/pdfs/20260928_1741_EU_is_drawing_up_membership_action_plans_for_most_.pdf",
+        "data/pdfs/20260928_1907_Putin_is_testing_NATO_on_Norway’s_remote_Arctic_is.pdf",
+        "data/pdfs/20260928_2052_UK_voters_believe_Burnham_can_win_the_next_electio.pdf",
+        "data/pdfs/20260928_2105_Russian_tech_surveillance_company_infiltrated_Euro.pdf",
+        "data/pdfs/20260929_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260929_0249_EU_sets_December_deadline_for_military_mobility_de.pdf",
+        "data/pdfs/20260929_0346_CORRECTION__EU_sets_December_deadline_for_military.pdf",
+        "data/pdfs/20260929_1350_Europe’s_scramble_for_energy.pdf",
+        "data/pdfs/20260929_1403_German-French_bargain_on_cars_deadlocked.pdf",
+        "data/pdfs/20260929_1736_Mélenchon’s_plan_to_beat_the_far_right__Grab_the_f.pdf",
+        "data/pdfs/20260929_1827_EU_officials_confident_Trump_will_drop_plan_to_ban.pdf",
+        "data/pdfs/20260929_1905_Send_rejected_asylum-seekers_out_of_EU_ASAP,_urges.pdf",
+        "data/pdfs/20260929_2105_No_country_for_old_women__Pressure_builds_on_Spain.pdf",
+        "data/pdfs/20260929_2325_5_battles_that_will_decide_EU’s_‘Made_in_Europe’_p.pdf",
+        "data/pdfs/20260929_2325_Document__MEPs_want_to_increase_corporate_fleet_ta.pdf",
+        "data/pdfs/20260930_0018_Commission_plans_new_China_trade_measures_by_year’.pdf",
+        "data/pdfs/20260930_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20260930_0127_EU_to_deepen_ties_with_Canada_as_‘trusted_supplier.pdf",
+        "data/pdfs/20260930_0140_Andy_Burnham_keeps_his_options_open_on_Brexit.pdf",
+        "data/pdfs/20260930_0324_Burnham_tried_to_plot_the_next_seven_years_of_UK_p.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "ORG",
-      "count": 1,
+      "color": "GRN",
+      "count": 2,
       "bullets": [
-        "ジェトロが中国国際サービス貿易交易会でジャパンパビリオンを出展し、中国市場開拓を支援",
-        "台湾経済部が電気料金引き上げをいったん見送り、12月に再検討を決定",
-        "米中が首都ワシントンで首脳会談を実施（トランプ政権2期目では3回目）",
-        "米商務省がポリシリコン製品の備蓄防止規則を発表し、232条に基づく措置を講実施",
-        "キッコーマンがウィスコンシン州に米国第3工場を開設し、北米でのしょうゆ生産体制を強化"
+        "中国が2030年までに新型通信網の全面構築を目指す5カ年規画を発表",
+        "中国がスマートコネクテッドNEV産業発展に関する5カ年規画を発表",
+        "インド・ニュージーランド自由貿易協定が10月20日に発効",
+        "米グーグルがジョージア州の原発増強を支援、AI時代の新たな電源投資モデルとして注目",
+        "中国の上汽通用五菱がアブダビ現地企業と販売代理店契約を締結"
       ],
       "subjects": [
         [
-          "2026-09-25",
-          "「ジェトロ・ビジネス短信」2026/09/25",
-          "data/pdfs/20260925_1806_「ジェトロ・ビジネス短信」2026_09_25.pdf"
+          "2026-09-28",
+          "「ジェトロ・ビジネス短信」2026/09/28",
+          "data/pdfs/20260928_1813_「ジェトロ・ビジネス短信」2026_09_28.pdf"
+        ],
+        [
+          "2026-09-29",
+          "「ジェトロ・ビジネス短信」2026/09/29",
+          "data/pdfs/20260929_1806_「ジェトロ・ビジネス短信」2026_09_29.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260925_1806_「ジェトロ・ビジネス短信」2026_09_25.pdf"
+        "data/pdfs/20260928_1813_「ジェトロ・ビジネス短信」2026_09_28.pdf",
+        "data/pdfs/20260929_1806_「ジェトロ・ビジネス短信」2026_09_29.pdf"
       ]
     }
   ]
