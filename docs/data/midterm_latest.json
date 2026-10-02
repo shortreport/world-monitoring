@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-16T09:51:48.328414+09:00",
-  "article_count": 40,
+  "generated_at": "2026-10-02T10:51:12.522073+09:00",
+  "article_count": 53,
   "projections": {
     "senate": {
-      "r": 47,
-      "d": 51,
+      "r": 51,
+      "d": 47,
       "tossup": 2
     },
     "house": {
-      "r": 212,
-      "d": 221,
-      "tossup": 2
+      "r": 215,
+      "d": 185,
+      "tossup": 35
     },
     "governor": {
       "r": 22,
@@ -19,89 +19,103 @@
     }
   },
   "key_developments": [
-    "Democrats are favored to gain control of the House, needing only 3 seats with approximately 50 competitive races remaining.",
-    "Nate Silver's forecast shows Democrats ahead in 9 of 12 competitive Senate races, including North Carolina, Georgia, and Minnesota.",
-    "Trump's unpopular policies and sinking approval ratings are energizing Democratic activism, though a blue wave may be more modest than 2018.",
-    "Economic headwinds including high gas prices, record diesel costs, and inflation are creating challenges for Republican candidates despite Trump's central role in campaigning.",
-    "Republicans held their first-ever midterm convention in Dallas, though attendance from key candidates was lower than expected."
+    "Trump's net approval rating hit -27 points in latest Quinnipiac poll, his lowest of second term, creating headwinds for Republicans in midterms.",
+    "Data centers emerged as unexpected wedge issue benefiting Democrats in key red states (Ohio, Texas, Iowa) critical for Senate control.",
+    "Democrats projected to take House control while Senate remains highly competitive with control potentially hinging on just a handful of races.",
+    "Trump deliberately made 2026 midterms a personal referendum by holding first-ever Republican midterm convention and urging voters to vote as if his name is on ballot.",
+    "FBI anti-corruption investigation into Senator Susan Collins was scrapped during Trump's first term, now surfacing amid her 2026 reelection bid."
   ],
   "key_races": {
     "senate": [
       {
-        "state": "TX",
-        "incumbent": "Ken Paxton (R)",
+        "state": "OH",
+        "incumbent": "Jon Husted (R)",
         "party": "R",
         "rating": "lean-r",
-        "label": "TX-Sen: Paxton vs. Talarico",
-        "note": "Democrat James Talarico leads by 4 points in AARP/Trump pollster survey, forcing Republicans to pour tens of millions into defense."
+        "label": "Ohio Senate",
+        "note": "Democrat Sherrod Brown and Republican Husted clash over data center regulation, with Democrats blocking Husted's bill as key issue."
       },
       {
-        "state": "NH",
-        "incumbent": "Jeanne Shaheen (D-Retiring)",
+        "state": "ME",
+        "incumbent": "Susan Collins (R)",
+        "party": "R",
+        "rating": "lean-r",
+        "label": "Maine Senate",
+        "note": "Collins faces rising home heating oil costs and resurfaced FBI corruption investigation allegations from Trump's first term."
+      },
+      {
+        "state": "MI",
+        "incumbent": "Debbie Stabenow (D)",
         "party": "D",
         "rating": "tossup",
-        "label": "NH-Sen: Pappas vs. Sununu",
-        "note": "Race shifted to tossup per Cook Political Report; Rep. Chris Pappas (D) facing former Sen. John Sununu (R) in open seat."
+        "label": "Michigan Senate",
+        "note": "Democrat Abdul El-Sayed's campaign messaging on Medicare for All reportedly falling flat with voters focused on cost-of-living."
       },
       {
         "state": "NC",
-        "incumbent": "",
-        "party": "D",
+        "incumbent": "Thom Tillis (R)",
+        "party": "R",
         "rating": "lean-d",
-        "label": "NC-Sen",
-        "note": "Democrats ahead in Nate Silver forecast for this competitive seat."
+        "label": "North Carolina Senate",
+        "note": "Democrat Roy Cooper leads Republican Michael Whatley by 25 points among independents, reversing Trump's 4-point 2024 margin."
       },
       {
-        "state": "GA",
-        "incumbent": "",
-        "party": "D",
-        "rating": "lean-d",
-        "label": "GA-Sen",
-        "note": "Democrats ahead in Nate Silver forecast for this highly competitive race."
+        "state": "TX",
+        "incumbent": "Ted Cruz (R)",
+        "party": "R",
+        "rating": "lean-r",
+        "label": "Texas Senate",
+        "note": "Vice President Vance campaigning to shore up support despite Trump's strong 2024 performance in state."
       },
       {
-        "state": "MN",
-        "incumbent": "",
+        "state": "WI",
+        "incumbent": "Tammy Baldwin (D)",
         "party": "D",
-        "rating": "lean-d",
-        "label": "MN-Sen",
-        "note": "Democrats ahead in Nate Silver forecast in this swing state contest."
+        "rating": "tossup",
+        "label": "Wisconsin Governor",
+        "note": "Marquette poll shows statistical tie between Republican Tom Tiffany and Democrat David Crowley after Tiffany broke with Trump on trade."
       }
     ],
     "house": [
       {
-        "state": "PA-08",
-        "incumbent": "Unknown",
+        "state": "US",
+        "incumbent": "Multiple Republicans",
         "party": "R",
-        "rating": "lean-d",
-        "label": "PA-08: Cognetti vs. Incumbent",
-        "note": "Democrat Paige Cognetti invoking economic messaging about corporate impact in one of Pennsylvania's most competitive districts."
+        "rating": "likely-d",
+        "label": "House Control",
+        "note": "Democrats projected to take House control; Republicans face historical headwinds as party in power plus high gas prices and Iran war costs."
       }
     ],
     "governor": [
       {
+        "state": "OH",
+        "incumbent": "Mike DeWine (R)",
+        "party": "R",
+        "rating": "lean-r",
+        "label": "Ohio Governor",
+        "note": "Republican Vivek Ramaswamy falls behind Democrat Amy Acton in poll released less than 50 days before Election Day."
+      },
+      {
         "state": "MI",
         "incumbent": "Gretchen Whitmer (D)",
         "party": "D",
-        "rating": "likely-d",
-        "label": "MI-Gov: Benson",
-        "note": "Michigan Secretary of State Jocelyn Benson, Democratic nominee, featured prominently in midterm coverage."
+        "rating": "safe-d",
+        "label": "Michigan Governor",
+        "note": "Democratic nominee Jocelyn Benson, Michigan Secretary of State, running in state trending Democratic."
+      },
+      {
+        "state": "NC",
+        "incumbent": "Roy Cooper (D)",
+        "party": "D",
+        "rating": "lean-d",
+        "label": "North Carolina Governor",
+        "note": "Democrat Roy Cooper demonstrates strong independent voter appeal with 25-point lead among that critical bloc."
       }
     ]
   },
   "upcoming_schedule": {
     "senate": [
       {
-        "date": "Sep 22",
-        "state": "North Dakota (ND)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 29",
-        "state": "Louisiana (LA)",
-        "event": "Jungle Primary"
-      },
-      {
         "date": "Nov 03",
         "state": "All States (ALL)",
         "event": "2026 Midterm General Election"
@@ -109,32 +123,12 @@
     ],
     "house": [
       {
-        "date": "Sep 22",
-        "state": "North Dakota (ND)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 29",
-        "state": "Louisiana (LA)",
-        "event": "Jungle Primary"
-      },
-      {
         "date": "Nov 03",
         "state": "All States (ALL)",
         "event": "2026 Midterm General Election"
       }
     ],
     "governor": [
-      {
-        "date": "Sep 22",
-        "state": "North Dakota (ND)",
-        "event": "Primary Election"
-      },
-      {
-        "date": "Sep 29",
-        "state": "Louisiana (LA)",
-        "event": "Jungle Primary"
-      },
       {
         "date": "Nov 03",
         "state": "All States (ALL)",
