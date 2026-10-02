@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02 19:57:27",
+  "generated_at": "2026-10-03 04:03:27",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-02 19:56:43",
+      "last_checked": "2026-10-03 04:02:52",
       "items": [
         {
           "uid": "ce0854084ecf",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-02 19:56:53",
+      "last_checked": "2026-10-03 04:03:00",
       "items": [
         {
           "uid": "33ed5f811930",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-02 19:57:12",
+      "last_checked": "2026-10-03 04:03:17",
       "items": [
+        {
+          "uid": "55521f0b79e7",
+          "date": "2026-07-09",
+          "title": "Billions in US-funded rare earths flowing to Asian markets: report - Mining.com",
+          "summary": "米国が資金提供したレアアース事業から産出されるレアアースが、中国への対抗策として意図されていたにもかかわらず、アジア市場（特に中国を含む地域）へ流出しており、米国のレアアース供給チェーン多角化戦略の有効性が問われている状況を報告している。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNHJRMXdibG1TZ0h6OWtTY1Y5TUtfa3FjSDdrTXg1Q2YwUzVMRmlzM01oRmYxUUxpanUzMXAwZU5NdU9kWHN3NlBINnd1ZnVBTDJvNGRGQUxqbF9tei11WVMtTEdJbzl0Rm9yZ21SbmRfS0FkZE5hRU1DWmRMWUJyYjBtOGhwdVVlRWVTMGpSUndXa2c?oc=5",
+          "added_at": "2026-10-03 04:03:14"
+        },
+        {
+          "uid": "a693d6b0d33a",
+          "date": "2026-10-02",
+          "title": "If America wants to prosper, we must lead",
+          "summary": "米国の上院議員Rick Scottとハドソン研究所のRebeccah Heinrichsは、中国とロシアが主導する権威主義的同盟に対抗するために米国が世界的リーダーシップを維持する必要があると主張しており、これはレアアース等の戦略的資源の供給チェーン確保において米国が中国への依存を減らし、自立した体制を構築する必要性を示唆している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6124896-trump-un-global-leadership/",
+          "added_at": "2026-10-03 04:03:14"
+        },
         {
           "uid": "8d859402e7df",
           "date": "2026-09-28",
@@ -6011,26 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nVHM1SU9ONzdyUUJBOFN2QzNJZFBxLUhWcmtfUE41dUJ4VFFwT3hCZjJ2VmZkU2pJeS1telU3U0VSb3M4ZjRvejNOSE1JTExwU2ZvdWY2S1FpTU9sam9GMzN3?oc=5",
           "added_at": "2026-09-04 18:23:56"
-        },
-        {
-          "uid": "294a0c1b5bf1",
-          "date": "2026-08-10",
-          "title": "Why the Pentagon is suddenly interested in a tiny town in NSW - The Conversation",
-          "summary": "ペンタゴンがオーストラリア・NSW州の小規模町に関心を示している理由は、中国のレアアース輸出管理に対抗するため米国がレアアース供給源の多角化を急速に進めており、オーストラリアの鉱産資源がその戦略的供給源として重要性を高めているからである。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3EtbWtWdk04WHJkSVhXeTVGcVJNVFlSenA3enFnT0RXY2FFajlmbko0blRYX1BNMUNuQ3ZaTEZMbTVRVnVqSEw4VWY0OUo1dEJRMkIwcWZ0eVNKUWlKQXpQNnBmSUJBejNMRW5GT2dQTmNSbnl4MTJzendLaDFrcGJIWTlIdElWQ2YwMU9JZHZMbllab0hYdkNHbHE?oc=5",
-          "added_at": "2026-09-04 18:23:56"
-        },
-        {
-          "uid": "67087a17303e",
-          "date": "2026-08-11",
-          "title": "Trump tariffs fallout: Bill to end duties introduced in US Senate - Undercurrent News",
-          "summary": "# 中国レアアース輸出管理に関連する要約\n\nトランプ関税政策の影響を受けて、米国上院で関税廃止法案が提出されたもので、この動きは中国が報復措置としてレアアース輸出を制限する可能性を高め、米国のレアアース供給チェーンの脆弱性が改めて浮き彫りになっている。米国が関税政策を緩和しない場合、中国によるレアアース輸出管理の強化がさらに進む可能性がある。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lbDBwSXYtSDBMaGNCMXNiVm1QU0htVGlHU1FDVi1NVE5zai11TmpKc2hydkt1elpKVjZTOVhLNW56clZEZmNmRWtCb1hFYzdIWWdkOFFfeEZVUml0Vm1EaFllV1ZubjJrcUVuLVE5dkVVSEdG?oc=5",
-          "added_at": "2026-09-04 18:23:56"
         }
       ]
     },
@@ -6041,8 +6041,38 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-02 19:57:27",
+      "last_checked": "2026-10-03 04:03:27",
       "items": [
+        {
+          "uid": "0e098d96ffac",
+          "date": "2026-10-02",
+          "title": "Hundreds from India's Gen Z-led 'cockroach' party protest, seek election chief's resignation - Reuters",
+          "summary": "インドの若い世代が主導する新興政党が数百人規模で抗議デモを行い、選挙委員長の辞任を要求した。この記事は自動車メーカーの対中提携への政治的批判とは関連がない。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPekRpbGVJR0F5ZURMVElTWW96TTg2c05la2hpang1Tkd6VEtXMTRFSVl4ZHd3eExmM1dmSEFzN2hXWVJ0bFhrVHZDZUd0MzZIdkg4NGt3YmJnRVBObm9LZTlMa1lrMU4zSXlZRk1BWW9GQmEydGM5ai1JSkZqa2hvWXB5SzI4TWUtYUQ4QlR6ZmNudlR6VlhjTVBxeHJpT1lRNEJpOU1yMmVkZE1rWlkydlB5a0c0QXJWb1dZ?oc=5",
+          "added_at": "2026-10-03 04:03:23"
+        },
+        {
+          "uid": "2b0bc1a10d5b",
+          "date": "2026-09-28",
+          "title": "Momenta and Stellantis' China JV with Dongfeng to co-develop intelligent driving technology - Reuters",
+          "summary": "ステランティスが中国の自動運転技術開発企業モメンタおよび東風自動車とのジョイントベンチャーを通じて、中国での自動運転技術の共同開発を進めることが、欧米自動車メーカーの対中技術提携に対する政治的批判が高まるなか、西側の競争力喪失への懸念を招いている。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzByVUtHMHlIWGhiUzl5Vzd0YXhiWnZ6R25pMzVUTjlLSW1SaDFnRy1fSnAwd1BlUWwzb0dBa3ljWnZLRWlKNmdIYXpXUTM3QUg3MjByLVZSd042VkZZT2F1LXVaM2xaZzN1X01WWWE1LS1wVG9hNlY4TjE1MmtKb1YzR1NoTTBhRHNwSzMzYW9LSDhTMlFjQ3g2NWtNYWdfSmFpX3c5bHlBSkxPUnFnbDBpb1ppS2ZQNHM3NQ?oc=5",
+          "added_at": "2026-10-03 04:03:23"
+        },
+        {
+          "uid": "a693d6b0d33a",
+          "date": "2026-10-02",
+          "title": "If America wants to prosper, we must lead",
+          "summary": "米国の上院議員リック・スコットとハドソン研究所の研究員レベッカ・ハインリクスは、中国とロシアが主導する権威主義的同盟に対抗するため、米国は世界的リーダーシップを維持する必要があると主張している。この議論は、自動車メーカーなどの米国企業が中国との提携を強化することが、米国の地政学的優位性と国家安全保障を損なう恐れがあるという懸念の文脈で位置づけられる。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6124896-trump-un-global-leadership/",
+          "added_at": "2026-10-03 04:03:23"
+        },
         {
           "uid": "ed691e31c928",
           "date": "2026-09-08",
