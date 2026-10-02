@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-02 14:24 JST",
+  "updated_at": "2026-10-02 14:26 JST",
   "total": 50,
-  "toyota_summary": "Germany's largest labor union is threatening strikes after a major automaker announced it will terminate multiple wage agreements starting January 1, 2027. The company cited competitive pressure and rising costs. Union leaders have already begun mobilizing, signaling they will not accept the move without a fight.\n\nFor the industry, this signals a broader collision between legacy automakers' need to cut costs amid the transition to electric vehicles and European labor's determination to protect wages. Germany accounts for roughly a quarter of European auto production, and labor unrest there can ripple across supply chains. A prolonged dispute could disrupt manufacturing at a moment when the sector can least afford it.\n\nWatch whether other German manufacturers follow suit or try to negotiate differently, which will signal how far companies are willing to push labor in 2025.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20261002_1406",
@@ -10,8 +10,13 @@
       "pdf": "data/pdfs/20261002_1406_SAF_gains_ground_as_a_dual-use_fuel.pdf",
       "date_label": "OCT 2  14:06",
       "read_min": 10,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "SAF gains ground as a dual-use fuel ",
+      "html": "data/pdfs/20261002_1406_SAF_gains_ground_as_a_dual-use_fuel.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261002_1351",
@@ -21,7 +26,12 @@
       "date_label": "OCT 2  13:51",
       "read_min": 14,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "We need to talk about Friedrich",
+      "html": "data/pdfs/20261002_1351_We_need_to_talk_about_Friedrich.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261002_0834",
@@ -31,7 +41,12 @@
       "date_label": "OCT 2  08:34",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Oct 1st, 2026",
+      "html": "data/pdfs/20261002_0834_Daily_Research_Summary_-_Oct_1st,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261002_0800",
@@ -41,7 +56,12 @@
       "date_label": "OCT 2  08:00",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "• バーナム英首相の社会介護計画は、短期的な増税が必要となるため、有権者の反発とヒーリー財務"
+      "excerpt": "• バーナム英首相の社会介護計画は、短期的な増税が必要となるため、有権者の反発とヒーリー財務",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261002_0800_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261002_0601",
@@ -51,7 +71,12 @@
       "date_label": "OCT 2  06:01",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Lebanon: IMF deal out of reach in 2026",
+      "html": "data/pdfs/20261002_0601_Lebanon__IMF_deal_out_of_reach_in_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261002_0543",
@@ -61,7 +86,12 @@
       "date_label": "OCT 2  05:43",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "European diesel release may be last offramp to avoid US export curb",
+      "html": "data/pdfs/20261002_0543_European_diesel_release_may_be_last_offramp_to_avo.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261002_0509",
@@ -71,7 +101,12 @@
       "date_label": "OCT 2  05:09",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump-Xi summit shores up managed stability",
+      "html": "data/pdfs/20261002_0509_Trump-Xi_summit_shores_up_managed_stability.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261002_0217",
@@ -81,7 +116,12 @@
       "date_label": "OCT 2  02:17",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Energy and Environment Outlook",
+      "html": "data/pdfs/20261002_0217_Energy_and_Environment_Outlook.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261002_0147",
@@ -91,7 +131,12 @@
       "date_label": "OCT 2  01:47",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "AI accord leaves labs exposed to regulators",
+      "html": "data/pdfs/20261002_0147_AI_accord_leaves_labs_exposed_to_regulators.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261002_0031",
@@ -111,7 +156,12 @@
       "date_label": "OCT 2  00:29",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump’s diesel threat risks hurting European truckers — and raising prices for consumers",
+      "html": "data/pdfs/20261002_0029_Trump’s_diesel_threat_risks_hurting_European_truck.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261002_0028",
@@ -121,7 +171,12 @@
       "date_label": "OCT 2  00:28",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Senate's permitting package would be net positive for data centers",
+      "html": "data/pdfs/20261002_0028_Senate's_permitting_package_would_be_net_positive_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261002_0002",
@@ -131,7 +186,12 @@
       "date_label": "OCT 2  00:02",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "European countries agree on ‘assertive’ response to US pressure on diesel",
+      "html": "data/pdfs/20261002_0002_European_countries_agree_on_‘assertive’_response_t.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261001_2213",
@@ -141,7 +201,12 @@
       "date_label": "OCT 1  22:13",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Permitting package would stabilize policy environment for data center power procurement",
+      "html": "data/pdfs/20261001_2213_Permitting_package_would_stabilize_policy_environm.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261001_2124",
@@ -151,17 +216,27 @@
       "date_label": "OCT 1  21:24",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Brazil polls show fragility of Lula's momentum",
+      "html": "data/pdfs/20261001_2124_Brazil_polls_show_fragility_of_Lula's_momentum.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261001_1807",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/10/01",
       "pdf": "data/pdfs/20261001_1807_「ジェトロ・ビジネス短信」2026_10_01.pdf",
       "date_label": "OCT 1  18:07",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "JETRO Business Brief 2026/10/01",
+      "html": "data/pdfs/20261001_1807_「ジェトロ・ビジネス短信」2026_10_01.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261001_1807_「ジェトロ・ビジネス短信」2026_10_01_en.pdf"
     },
     {
       "ts": "20261001_1735",
@@ -171,7 +246,12 @@
       "date_label": "OCT 1  17:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Ukraine’s war chest is running low at the worst possible moment",
+      "html": "data/pdfs/20261001_1735_Ukraine’s_war_chest_is_running_low_at_the_worst_po.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261001_1636",
@@ -181,7 +261,12 @@
       "date_label": "OCT 1  16:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "‘Absolute s–t’: EU’s Microsoft Teams alternative draws bad reviews from officials",
+      "html": "data/pdfs/20261001_1636_‘Absolute_s–t’__EU’s_Microsoft_Teams_alternative_d.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261001_1404",
@@ -191,7 +276,12 @@
       "date_label": "OCT 1  14:04",
       "read_min": 9,
       "toyota": true,
-      "excerpt": "ロビイスト連合がEU委員会に対し、ブレグジット後の通商協定における地域産業部品要件の規制"
+      "excerpt": "ロビイスト連合がEU委員会に対し、ブレグジット後の通商協定における地域産業部品要件の規制",
+      "subject_en": "Commission credibility on the line",
+      "html": "data/pdfs/20261001_1404_Commission_credibility_on_the_line.html",
+      "summary_en": "A coalition of chemical, environmental and metals lobbying groups has warned European Commission President Ursula von der Leyen that further delaying EU-U.K. local content rules for electric vehicles would damage the Commission's credibility. The rules, part of the post-Brexit Trade and Cooperation Agreement, require a minimum share of EU or U.K.-made parts to qualify for tariff-free trade starting in January. While automakers are pushing for another postponement after a prior three-year pause, critics argue caving in could undermine the broader Industrial Accelerator Act.",
+      "summary_ja": "化学、環境、金属関連のロビー団体連合は、欧州委員会のフォン・デア・ライエン委員長に対し、EUと英国間の電気自動車に関する現地調達要件をこれ以上延期すれば委員会の信頼性が損なわれると警告した。このルールはブレグジット後の貿易協力協定(TCA)の一部で、来年1月から関税免除の条件としてEUまたは英国製部品の一定割合を義務付けている。自動車業界は3年間の猶予期間後にさらなる延期を求めているが、批判派はこれに屈すればより広範な産業加速化法(IAA)の実施にも悪影響を及ぼしかねないと指摘している。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261001_1402",
@@ -201,7 +291,12 @@
       "date_label": "OCT 1  14:02",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The fight to control the EU’s purse strings",
+      "html": "data/pdfs/20261001_1402_The_fight_to_control_the_EU’s_purse_strings.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261001_1315",
@@ -210,8 +305,13 @@
       "pdf": "data/pdfs/20261001_1315_ジェトロ地域・分析レポートの新着のご案内（2026年10月1日号）.pdf",
       "date_label": "OCT 1  13:15",
       "read_min": 1,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "New JETRO Regional and Analysis Report Notification (October 1, 2026 Issue)",
+      "html": "data/pdfs/20261001_1315_ジェトロ地域・分析レポートの新着のご案内（2026年10月1日号）.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261001_1315_ジェトロ地域・分析レポートの新着のご案内（2026年10月1日号）_en.pdf"
     },
     {
       "ts": "20261001_1303",
@@ -221,7 +321,12 @@
       "date_label": "OCT 1  13:03",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "FlyDubai suspends flights to and from Israel after pilot stabbing",
+      "html": "data/pdfs/20261001_1303_FlyDubai_suspends_flights_to_and_from_Israel_after.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261001_1249",
@@ -231,7 +336,12 @@
       "date_label": "OCT 1  12:49",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "米国は1月1日の期限を利用して、防衛サプライチェーンを中国から段階的に切り離す長期的な再"
+      "excerpt": "米国は1月1日の期限を利用して、防衛サプライチェーンを中国から段階的に切り離す長期的な再",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261001_1249_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261001_0834",
@@ -241,7 +351,12 @@
       "date_label": "OCT 1  08:34",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Sep 30th, 2026",
+      "html": "data/pdfs/20261001_0834_Daily_Research_Summary_-_Sep_30th,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261001_0619",
@@ -251,7 +366,12 @@
       "date_label": "OCT 1  06:19",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "State data center restrictions won't slow US buildout",
+      "html": "data/pdfs/20261001_0619_State_data_center_restrictions_won't_slow_US_build.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261001_0140",
@@ -261,7 +381,12 @@
       "date_label": "OCT 1  01:40",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "What to watch on diesel export restriction odds",
+      "html": "data/pdfs/20261001_0140_What_to_watch_on_diesel_export_restriction_odds.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261001_0031",
@@ -280,8 +405,13 @@
       "pdf": "data/pdfs/20261001_0009_Germany__Industry_pain_likely_to_further_fuel_AfD.pdf",
       "date_label": "OCT 1  00:09",
       "read_min": 5,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Germany: Industry pain likely to further fuel AfD",
+      "html": "data/pdfs/20261001_0009_Germany__Industry_pain_likely_to_further_fuel_AfD.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_2321",
@@ -291,7 +421,12 @@
       "date_label": "SEP 30  23:21",
       "read_min": 2,
       "toyota": true,
-      "excerpt": "フォルクスワーゲンが複数の労働協約を2027年1月1日から終了すると発表し、ドイツ最大の産業"
+      "excerpt": "フォルクスワーゲンが複数の労働協約を2027年1月1日から終了すると発表し、ドイツ最大の産業",
+      "subject_en": "Volkswagen faces union threat over termination of wage agreements",
+      "html": "data/pdfs/20260930_2321_Volkswagen_faces_union_threat_over_termination_of_.html",
+      "summary_en": "Volkswagen has told workers it is terminating multiple collective wage agreements covering bonuses, training and social protections set to take effect in 2027, prompting IG Metall to warn of a 'fierce dispute' at year's end. The move adds pressure to Volkswagen's existing crisis, which already includes plans for 100,000 job cuts and factory closures by 2030 amid tough competition from Chinese automakers. The clash underscores deepening labor tensions across Germany's struggling auto industry.",
+      "summary_ja": "フォルクスワーゲンは2027年発効予定だったボーナスや研修、社会保障に関する複数の労使協定を破棄すると労働者側に通告し、ドイツ最大の産業別労働組合IGメタルは年末にかけて「激しい争い」になると警告した。同社はすでに2030年までに10万人の人員削減と工場閉鎖を含む大規模なコスト削減策を発表しており、中国メーカーとの競争激化による危機が一層深刻化する形となる。この対立は、苦境にあるドイツ自動車産業全体の労使関係の緊張を浮き彫りにしている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_2207",
@@ -301,7 +436,12 @@
       "date_label": "SEP 30  22:07",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Romanian political crisis deepens as parliament rejects PM nominee",
+      "html": "data/pdfs/20260930_2207_Romanian_political_crisis_deepens_as_parliament_re.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_2205",
@@ -311,7 +451,12 @@
       "date_label": "SEP 30  22:05",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU and Canada to announce sweeping new partnership pact",
+      "html": "data/pdfs/20260930_2205_EU_and_Canada_to_announce_sweeping_new_partnership.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_2159",
@@ -321,7 +466,12 @@
       "date_label": "SEP 30  21:59",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "UK's Burnham risks voter backlash with care plan",
+      "html": "data/pdfs/20260930_2159_UK's_Burnham_risks_voter_backlash_with_care_plan.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_2106",
@@ -331,7 +481,12 @@
       "date_label": "SEP 30  21:06",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Document: EU negotiators make headway on military mobility’s emergency mechanism",
+      "html": "data/pdfs/20260930_2106_Document__EU_negotiators_make_headway_on_military_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_2105",
@@ -341,7 +496,12 @@
       "date_label": "SEP 30  21:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Labour picks a side on Gaza — and cheers the party faithful",
+      "html": "data/pdfs/20260930_2105_Labour_picks_a_side_on_Gaza_—_and_cheers_the_party.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_1907",
@@ -351,7 +511,12 @@
       "date_label": "SEP 30  19:07",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Governments brace for €100B cut to EU budget proposal",
+      "html": "data/pdfs/20260930_1907_Governments_brace_for_€100B_cut_to_EU_budget_propo.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_1855",
@@ -361,7 +526,12 @@
       "date_label": "SEP 30  18:55",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "A new Bolsonaro could pull Brazil away from Europe — and toward Trump",
+      "html": "data/pdfs/20260930_1855_A_new_Bolsonaro_could_pull_Brazil_away_from_Europe.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_1841",
@@ -371,17 +541,27 @@
       "date_label": "SEP 30  18:41",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update in Japanese",
+      "html": "data/pdfs/20260930_1841_eg_update_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_1807",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/09/30",
       "pdf": "data/pdfs/20260930_1807_「ジェトロ・ビジネス短信」2026_09_30.pdf",
       "date_label": "SEP 30  18:07",
       "read_min": 1,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "JETRO Business Brief 2026/09/30",
+      "html": "data/pdfs/20260930_1807_「ジェトロ・ビジネス短信」2026_09_30.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20260930_1807_「ジェトロ・ビジネス短信」2026_09_30_en.pdf"
     },
     {
       "ts": "20260930_1747",
@@ -391,7 +571,12 @@
       "date_label": "SEP 30  17:47",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU to offer single-market access to candidate countries",
+      "html": "data/pdfs/20260930_1747_EU_to_offer_single-market_access_to_candidate_coun.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_1636",
@@ -401,7 +586,12 @@
       "date_label": "SEP 30  16:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Family first: Le Pen clan tightens its grip as Bardella hits trouble",
+      "html": "data/pdfs/20260930_1636_Family_first__Le_Pen_clan_tightens_its_grip_as_Bar.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_1401",
@@ -411,7 +601,12 @@
       "date_label": "SEP 30  14:01",
       "read_min": 10,
       "toyota": true,
-      "excerpt": "EUの新たな航空戦略は、サプライチェーンの強化と外国への依存削減を通じて、欧州の産業的リ"
+      "excerpt": "EUの新たな航空戦略は、サプライチェーンの強化と外国への依存削減を通じて、欧州の産業的リ",
+      "subject_en": "EU strategy to tackle aviation’s ‘automotive moment’",
+      "html": "data/pdfs/20260930_1401_EU_strategy_to_tackle_aviation’s_‘automotive_momen.html",
+      "summary_en": "EU Transport Commissioner Apostolos Tzitzikostas says Brussels' upcoming aviation strategy will aim to secure supply chains and protect the bloc's industrial leadership, as the sector warns it risks a crisis similar to the one facing automakers. Airbus executive Bruno Fichefeux cautioned that European aviation faces its own 'automotive moment,' citing mounting competition from both U.S. firms and state-backed Chinese manufacturers. Originally expected this quarter, the strategy's release now appears delayed until early 2027, according to industry sources.",
+      "summary_ja": "EUのチツィコスタス運輸担当委員は、欧州委員会が近く発表する航空戦略が、サプライチェーンの強化と域内産業の主導権維持を目指すものになると述べた。一方、業界関係者は自動車業界が直面するのと同様の危機が航空分野にも迫っていると警告している。エアバス幹部のブルーノ・フィシュフー氏は、米国企業や国家支援を受ける中国メーカーとの競争激化を挙げ、欧州航空業界が「自動車業界と同じ転換点」を迎えていると指摘した。当初は今四半期中の発表が見込まれていたが、業界筋によると2027年初頭までずれ込む可能性があるという。",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_1359",
@@ -421,7 +616,12 @@
       "date_label": "SEP 30  13:59",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Western Balkan hopefuls press their case",
+      "html": "data/pdfs/20260930_1359_Western_Balkan_hopefuls_press_their_case.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20260930_1003",
@@ -543,5 +743,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
