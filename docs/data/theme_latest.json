@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03 04:03:27",
+  "generated_at": "2026-10-03 19:16:50",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-03 04:02:52",
+      "last_checked": "2026-10-03 19:16:14",
       "items": [
         {
           "uid": "ce0854084ecf",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-03 04:03:00",
+      "last_checked": "2026-10-03 19:16:22",
       "items": [
         {
           "uid": "33ed5f811930",
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-03 04:03:17",
+      "last_checked": "2026-10-03 19:16:39",
       "items": [
+        {
+          "uid": "294a0c1b5bf1",
+          "date": "2026-08-10",
+          "title": "Why the Pentagon is suddenly interested in a tiny town in NSW - The Conversation",
+          "summary": "# 中国レアアース輸出管理に関する要約\n\n申し訳ございませんが、提供いただいた記事の内容が「Why the Pentagon is suddenly interested in a tiny town in NSW」というタイトルのみで、本文が記載されていないため、正確な要約ができません。記事の本文をご提供いただければ、中国レアアース輸出管理との関連性を踏まえて要約させていただきます。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3EtbWtWdk04WHJkSVhXeTVGcVJNVFlSenA3enFnT0RXY2FFajlmbko0blRYX1BNMUNuQ3ZaTEZMbTVRVnVqSEw4VWY0OUo1dEJRMkIwcWZ0eVNKUWlKQXpQNnBmSUJBejNMRW5GT2dQTmNSbnl4MTJzendLaDFrcGJIWTlIdElWQ2YwMU9JZHZMbllab0hYdkNHbHE?oc=5",
+          "added_at": "2026-10-03 19:16:34"
+        },
+        {
+          "uid": "e77ec61a36ac",
+          "date": "2026-08-17",
+          "title": "Does Congress Even Have a Critical Minerals Strategy? - The Breakthrough Institute",
+          "summary": "申し訳ございませんが、提供いただいたタイトルのみで記事の具体的な内容が不明であるため、「中国レアアース輸出管理」に関する文脈での正確な要約ができません。記事本文の内容をご提供いただければ、要約させていただきます。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMi1DUHhUTUFKQ1ZpNFVBUnZnUTFsWWJxYklFY0JGcEtNOWc5ZHplWmxYTExCTlUyeEV5MWNMZmQxZjU5dTVOck9HUVM0OUxXeFBmeHA4QjJEZTNkN1d5a1hkNDBOcnQ5MEV0X3R4cXE4LUVpUVdZS0k0b2E5ZU1HN2lSQzZ0Q082OUJ5dkFZWFhhd29JMi15Smd3?oc=5",
+          "added_at": "2026-10-03 19:16:34"
+        },
+        {
+          "uid": "9c7abda96037",
+          "date": "2026-08-20",
+          "title": "Critical Minerals Institute Marks Five Years with a Warning That Government Funding Alone Is Not a Strategy - InvestorNews",
+          "summary": "重要鉱物機関(CMI)は設立5周年を迎え、政府資金のみではレアアース等の重要鉱物サプライチェーン構築を実現できず、民間セクターとの連携が不可欠であることを警告している。この警告は、中国によるレアアース輸出管理強化への対抗策として、単なる公的支援ではなく、包括的な産業戦略が必要であることを示唆している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVG9lLWFSR2IzeTE0b3RVZWphb24xRkY4SGlZMF9vdERpZXkyUHhlc3FZOU8yekNHN3JjaWQ1bGE5eEdQZXVMV0h6bDBydEVLemR5SDRRT09RSXpaWHJmLXE1bDd1eVVZVC03dVVaaUUwTnhUeGkxN2VLMVliUHRDU1ByS2kzaC1FYThBZXQ5ajR1eWExTktLemxvbEstaERITEtKdTdkMkJpNDJjdFAzREJXWnVXbnlMelJ1QW5GMkh0MHotdVd6bFY2azFmRncxRkNBZXpEUUh0aE5vbll5bjk0VVY1bGloaHFka1BfOFg1RWoyN2c?oc=5",
+          "added_at": "2026-10-03 19:16:34"
+        },
         {
           "uid": "55521f0b79e7",
           "date": "2026-07-09",
@@ -6001,36 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTRtTkxOMjd0ZGlkNS1jT191OGxfWWdxSC1uZTdRa1J2dzRyWHZEMmxodkRNUXNfQ0JJY2hTOU04MkpYakYzODRtUkYtamFqUTZ0X2lLNm9xWWFLa2dhMW95WE1mblB4alVNTUZCYlpUcFpaOXhVaGt6b3JQMjFIb1N1bC01cmFHX3dQTTdZcllVNXMxTGxOa1JzaEhGcXJPYnFOWHR6b2FZMGJCbXpfWXFZRmY?oc=5",
           "added_at": "2026-09-05 02:27:27"
-        },
-        {
-          "uid": "d4565aeb127e",
-          "date": "2026-09-04",
-          "title": "Europe’s digital agenda is a gift to China",
-          "summary": "EUのデジタル規制がアメリカ企業に不利であるとしてトランプ大統領が調査を発表したことで、規制を回避する中国企業が利益を得る可能性があり、結果として中国のレアアースなど重要鉱物の市場支配力が強化される懸念がある。アメリカとEUの対立によって、中国がレアアース輸出管理を通じた戦略的優位性をさらに拡大できる環境が生まれつつある。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/international/6070296-eu-regulation-hurts-us-ai-leadership/",
-          "added_at": "2026-09-05 02:27:27"
-        },
-        {
-          "uid": "37efce76d256",
-          "date": "2026-09-04",
-          "title": "China rare earth firms halt some U.S. shipments, sources say - 朝日新聞",
-          "summary": "中国のレアアース企業が米国向けの一部出荷を停止しており、これは米中貿易摩擦の激化と中国による戦略的な輸出管理強化の一環と見られます。中国がレアアースの輸出制限を通じて米国への圧力を強化している状況が示唆されています。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5WmxRcm5ZV05kelloVDJJWkVVUkZ0Y2o4bXRfMm5FWXpwOUFwUlh5c1hJR1JRb2tUUHdzU0ZqVzVCbUxqeVBiem51azVvN3hiaGJkYjFn?oc=5",
-          "added_at": "2026-09-04 18:23:56"
-        },
-        {
-          "uid": "f8b34d054956",
-          "date": "2026-08-07",
-          "title": "China’s Jan-July rare-earth exports fall 10%; China Rare Earth Group sees ‘upward’ market conditions - Global Times",
-          "summary": "中国の1月～7月のレアアース輸出量が前年同期比で10%低下した一方で、中国レアアース集団は市場が「上昇傾向」にあると評価していることから、輸出管理の厳格化と市場需要の回復が同時に進行している。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nVHM1SU9ONzdyUUJBOFN2QzNJZFBxLUhWcmtfUE41dUJ4VFFwT3hCZjJ2VmZkU2pJeS1telU3U0VSb3M4ZjRvejNOSE1JTExwU2ZvdWY2S1FpTU9sam9GMzN3?oc=5",
-          "added_at": "2026-09-04 18:23:56"
         }
       ]
     },
@@ -6041,8 +6041,48 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-03 04:03:27",
+      "last_checked": "2026-10-03 19:16:50",
       "items": [
+        {
+          "uid": "4aee69d44bcc",
+          "date": "2026-09-18",
+          "title": "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting - The Mighty 790 KFGO",
+          "summary": "申し訳ありませんが、提供いただいたテキストにはタイトルのみで、記事の具体的な内容が含まれていません。要約を作成するには、記事本文の詳細な内容が必要です。記事の本文をご提供いただければ、要約させていただきます。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHNOOTVFNGVJQlJheWhTMmd2cTNDZ3RIcjZPa1lkMnpCdHpsUDAyMmNzUTk3alJOTVRfa3RFZWVZVlYtaGdaczQ1NHZ4aXhyNHVyTlVITGV0MGRwTHdTOUtNV2NZaUZhNTRiZ1Jaal9ZekdWeW9BZ3g3TmQ5ek5sQ3RLWGJzdm9mZjZtaFJvVWYyM0prcUszLXVhMHBqeU93TlVyREdjUVQ?oc=5",
+          "added_at": "2026-10-03 19:16:45"
+        },
+        {
+          "uid": "663386ba11a9",
+          "date": "2026-07-30",
+          "title": "EXCLUSIVE: Ford CEO tells employees Chinese automakers could enter US market in next decade - Reuters",
+          "summary": "フォード最高経営責任者が従業員に対し、中国自動車メーカーが今後10年以内に米国市場に参入する可能性があることを警告しており、これは中国との提携や競争をめぐる米国内の政治的懸念を反映している。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUlVCU095SmhKbUZSYnJnU1NKLVFoRGFBMmlZdnJodHNna3hVTXFGTVhXZ2NnVTFqMS13cS1qeEU0eDBoUGlfc2UtbDZmcHMtOUVvMmVOQ2liWGFmV0ZXMm5faW1jd0VsZUQ0LUpjeHJDZ0V2WWRHQnRGN3BlV29GeGpWcDhYazlWQWxsNVBSakdRT1poWGd4dTJvalVVZHByNGk4b0FzMW9oSFF2c3I5d0ZvZXNER2FsOExZb055emFvMkZJaHJfWXM1YXFSOHpvaXVIZ0NfUERLUm8?oc=5",
+          "added_at": "2026-10-03 19:16:45"
+        },
+        {
+          "uid": "9865b305d737",
+          "date": "2026-10-02",
+          "title": "Alito: ‘I thought about’ retiring at end of last term",
+          "summary": "この記事は自動車メーカーの対中提携に関する内容ではなく、米国最高裁判事サミュエル・アリート氏の退職に関する記事であるため、要求された文脈での要約はできません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/regulation/court-battles/6127267-alito-considered-supreme-court-retirement/",
+          "added_at": "2026-10-03 19:16:45"
+        },
+        {
+          "uid": "a56303871cf4",
+          "date": "2026-10-02",
+          "title": "Marines exceed 2026 recruiting goals",
+          "summary": "この記事は米海兵隊の2026年度募兵目標達成に関するもので、「自動車メーカーの対中提携への政治的批判」という文脈とは無関係です。そのため、要求された文脈での要約は不可能です。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/newsletters/defense-national-security/6127172-marines-exceed-2026-recruiting-goals/",
+          "added_at": "2026-10-03 19:16:45"
+        },
         {
           "uid": "0e098d96ffac",
           "date": "2026-10-02",
