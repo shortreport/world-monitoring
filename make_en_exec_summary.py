@@ -53,6 +53,9 @@ EN_SUMMARY    = BASE / "docs" / "en" / "summary.html"
 JP_C_SUMMARY  = BASE / "docs" / "jp" / "summary.html"
 PDF_LATEST    = BASE / "docs" / "briefing_latest.pdf"
 MODEL         = "claude-sonnet-5"
+# Sonnet 5 は回答前に thinking を行い、その分も max_tokens に含まれる。
+# 2000 では thinking だけで上限に達して本文が空になり、白紙 PDF が公開された（2026-09〜10）。
+MAX_TOKENS    = 16000
 JST           = timezone(timedelta(hours=9))
 
 FONT_PATH     = r"C:\Windows\Fonts\YuGothM.ttc"
@@ -223,11 +226,13 @@ def generate_en_summary(source_text: str, client, date_en: str) -> dict:
     )
     for attempt in range(3):
         resp = client.messages.create(
-            model=MODEL, max_tokens=2000,
+            model=MODEL, max_tokens=MAX_TOKENS,
             system=SYSTEM_PROMPT,
             messages=[{"role": "user", "content": prompt}]
         )
         text = next((b.text for b in resp.content if hasattr(b, "text")), "{}")
+        if resp.stop_reason == "max_tokens":
+            print(f"  [WARN] max_tokens に到達（出力 {resp.usage.output_tokens} tokens）。応答が途中で切れている可能性あり")
         try:
             result = parse_json_safe(text)
             validate_en_sections(result)
@@ -302,11 +307,13 @@ def translate_sections_to_ja(sections: list, client,
     )
     for attempt in range(3):
         resp = client.messages.create(
-            model=TRANSLATE_MODEL, max_tokens=2000,
+            model=TRANSLATE_MODEL, max_tokens=MAX_TOKENS,
             system=TRANSLATE_SYSTEM,
             messages=[{"role": "user", "content": prompt}]
         )
         text = next((b.text for b in resp.content if hasattr(b, "text")), "[]")
+        if resp.stop_reason == "max_tokens":
+            print(f"  [WARN] max_tokens に到達（出力 {resp.usage.output_tokens} tokens）。応答が途中で切れている可能性あり")
         try:
             return normalize_ja_sections(parse_json_safe(text), len(sections))
         except (json.JSONDecodeError, ValueError) as e:
