@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05 21:07:36",
+  "generated_at": "2026-10-06 06:24:50",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-05 21:07:03",
+      "last_checked": "2026-10-06 06:24:08",
       "items": [
         {
           "uid": "4dae54c628d3",
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-05 21:07:14",
+      "last_checked": "2026-10-06 06:24:21",
       "items": [
+        {
+          "uid": "22ed188e18aa",
+          "date": "2026-07-22",
+          "title": "Congress's New Chinese Car Ban Would Even Outlaw a Waymo - theautowire.com",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国企業による車両技術の搭載を禁止するもので、その厳格な規制によってWaymoなどの自動運転車も規制対象に含まれる可能性がある。この法案は国家安全保障上の懸念から、中国関連の車両技術に対する包括的な規制を目指しているが、その対象が過度に広い可能性が指摘されている。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDlaaF95cnRjcUJvaWFySnpYNFVuUnZVZlNDNU1GWEpmemtVeGc2N1ZOS0hsNkVfV0FPcUpWTlVLcW10aTF1UnZQUEluVmVWLXZqalhlbUVjbktRaEpNTFJTczdaZnpNUTNSMGxKdGpxTFJoclMwVXRYUFBjbW8yX2pTWXdrek8wZGpJd2FHbnJkYzdFVUQtc3ZPU3hJXzlVYlFfRTcwSTh0OElueGRaVHg1Q1VNZUduNDBhNGNETGo2N3RpdUVEV2k1a2VLTWcxZkdtQV9sdzRKdHRmR1lUTGJ3?oc=5",
+          "added_at": "2026-10-06 06:24:16"
+        },
+        {
+          "uid": "711451c34ba7",
+          "date": "2026-07-29",
+          "title": "The Connected Vehicle Crisis Idling Just Outside of America’s Borders - Alliance for American Manufacturing",
+          "summary": "米国の自動車産業は、中国やロシアなどの敵対的国家が接続車両（コネクテッドカー）を通じてシステムやドライバー情報にアクセスする脅威に直面しており、S.4429はこうした国家安全保障上のリスクに対応するため、接続車両の通信システムおよびソフトウェアに対する外国製品の使用制限を求める法案である。本法案は米国の自動車産業保護と消費者データセキュリティの強化を目指している。",
+          "source": "業界団体（自動車）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkpRRnoxMTJ2NlFLSnRwd2xCcnlTM0Rsa29YUEVYelRmdl8tQkhMeXN4dWUwZVFqR0pLdXowbi1Pa3d2SnUydkxReWZsdndBZTd4VkFuQ3ZUVm5UeGRqZ0VfNjNoWG5RT2ZhTVp2UGZyYlVkdVBCam0xelRjNEtVb1lPaUpwdW5UZFNYdy10a3BjS09KXzRBbHhSbzB2T2k3MUlHbGVXSHI4UG9jd0JqMGln?oc=5",
+          "added_at": "2026-10-06 06:24:16"
+        },
         {
           "uid": "5efa084beecb",
           "date": "2026-09-23",
@@ -4000,26 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMHo2R3BRa3k4UWRFZUVydFZBV2hpdzhBM0szUmJwNnE3dW1WMkxDc0VRVHR2RHZJWFdZOWwyOUhWa1R5RnNVOFdsRjNpLWc5UmV1Tml4UmxMcHZaM19qbTBoeTFkR2w1eGRsTUMxUFc?oc=5",
           "added_at": "2026-07-30 16:35:29"
-        },
-        {
-          "uid": "4de701042296",
-          "date": "2026-06-25",
-          "title": "Polestar exits US market after government bans sales due to connected vehicle tech - Yahoo Finance",
-          "summary": "# 要約\n\nポールスター（Polestar）は、接続車両技術に関する米国政府の規制により米国市場から撤退を余儀なくされており、これはS.4429法による接続車両安全保障規制の実施例を示しています。同法は車両の接続技術に対する安全保障上の懸念から販売禁止措置を導入するものです。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeGFURElyWlViNkJTQTFBUy1LNzRkQVV6alFpNU5ETmtRaEdWY1RfRjk4d1FPQ1JtTnRDRUc2elE3Q3oxSHRnRXY2Q1BYZHJyZkRvM0x1Y0dweVp4Vi1ySVVVRjMxQU0taVRVdV9FLW40cjJWUnVRNVJqeG9uV09HaDVBMVJoMVJUX0JKcWtBVzdiY3QwZGJfS2xJN3FwUHd1MlV2bmVXOTlQSXdCLUh0eEE1RjI5UmFGd3Vubm1BUS1QOTR0X0ZuNmx5X1FveXlNQVIyUUZmUTZraE11YTJv?oc=5",
-          "added_at": "2026-07-30 16:35:29"
-        },
-        {
-          "uid": "f3f22bb06de4",
-          "date": "2026-07-29",
-          "title": "MichAuto and the Detroit Regional Chamber Applaud Senate Committee Advancement of Connected Vehicle Security Act - MichAuto",
-          "summary": "ミシガン自動車工業会とデトロイト地域商工会議所は、コネクテッドカーのサイバーセキュリティ基準を定める米国接続車両安全保障法（S.4429）の上院委員会での可決を支持しており、これは自動車産業の安全性向上と国家安全保障強化に貢献するものと評価している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2xuOWhnT216M1hJQk9ISjk2RHVHMzZVM3FBdjJYYVVYbHRxNGpLdUZHdHhHTTZqN0ZkSUkwLWJWMHo1STBldUdVdTNvUjVlNlFvYndFOUFjdjh6N2hnM0xqSlhuSlRxdWUyaFZyVklFbmQ2TWk1V0FuUE02RTAzbzZ5bWxVNEREejZZZkFMckJYQnA3c05DQVFTX2ZPWDJBUlBZSUFhSEEwV0dxS0FuU21vd1lLbXl3cHZhcjZEWXlPTUxveC1QSUU2WTFtT1E?oc=5",
-          "added_at": "2026-07-30 08:00:28"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-05 21:07:30",
+      "last_checked": "2026-10-06 06:24:38",
       "items": [
+        {
+          "uid": "27da4ed1f27e",
+          "date": "2026-08-13",
+          "title": "Critical raw materials explained - consilium.europa.eu",
+          "summary": "申し訳ございませんが、提供いただいたテキストにはタイトルのみで具体的な記事内容が含まれていないため、要約することができません。記事の本文をご提供ください。",
+          "source": "EU戦略的原材料法",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUW5qMjRTWVBMcl9zelgxOWI0SFMzSDJqb2l3VmlqYW5TN1A4WEtSNUdBdDVtSUYtdW11VUJtX0E1LVpfSDFPRG9KbFpkUkRmeFNYR05VbGNtb3RPYmJmRmdYTTNFbURyRXVXdHdhOXJsRzYyR3J6N0ZwV09RTEpPSURXX1YyOUlX?oc=5",
+          "added_at": "2026-10-06 06:24:35"
+        },
+        {
+          "uid": "1769afd27b55",
+          "date": "2026-10-05",
+          "title": "How Rare Earth Users Can Navigate The U.S.'S Mine-To-Magnet Strategy - Seeking Alpha",
+          "summary": "申し訳ございませんが、提供いただいたタイトルのみで、実際の記事内容が示されていないため、正確な要約ができません。記事の本文をご提供いただければ、「中国レアアース輸出管理」の文脈における1～2文の要約を作成いたします。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVBQM25RZE9KMy1EU1hJLU1ySXNQcFFuNUJXWjRCTWtxUUpUUjhqLTVTWVVsSzBlOWZnYXd6VExEZ3lvaDVrejY2ekEyNjQtekx4bk9OMG83UERhMHRZOVIzUm12dld2V3B3a1RQdmh4dERwNTBYbTBmeE92WFhzVDNiXzd1aVpheEhIVXM4SU5jY2J2bHZjeS1kZWVCRzFYQmlR?oc=5",
+          "added_at": "2026-10-06 06:24:35"
+        },
+        {
+          "uid": "89d8663a63eb",
+          "date": "2026-10-05",
+          "title": "Jones Act waiver period disproves China fearmongering, shows benefits of reform",
+          "summary": "米国のジョーンズ法の適用免除期間における実績は、供給制限がなければ米国企業がより多くの国内産品を購入することを示しており、これは中国のレアアース輸出管理に関する脅威論を弱める一方で、規制改革の利点を実証している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/finance/6118593-jones-act-reform-benefits/",
+          "added_at": "2026-10-06 06:24:35"
+        },
         {
           "uid": "335d717a78b4",
           "date": "2026-08-08",
@@ -6001,36 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSXFHcWZGSGdLR0lNY2ZQVWdwczN1aHphdUo1NUg0dDYtcjlPc0FOSHNSdVNfb1JLRExkRkY2WHpTZEUwS3BuMDJ1QnJRQk90b3otR3NzUEtCamxVSDQtSUc3a1RNWThBeWY2eGl0QVVTdXZnZ09vcWl4LXVRUDJyTmVTS3YwbFV5WmdsVy1YSEhKVndpX3ZfUXZCUDBoT1lQWWo1R2RMcGZwcVdZM1l3WGxOc3NRV0dsZmZUSFdhSnJ4MEFGWFVtYWp6RDF6bTFZaTRTR21XQXV1ajFOeHc3aWw4T2g1TWp1Wm8zZ2dwdHhjR0NTa2tiTlpSOWF1TFBv?oc=5",
           "added_at": "2026-09-05 17:52:37"
-        },
-        {
-          "uid": "5f6e5fadb180",
-          "date": "2026-06-22",
-          "title": "Critical Minerals Report (06.21.2026): Allies, Competitors, and Critical Minerals - InvestorNews",
-          "summary": "申し訳ありませんが、提供いただいたテキストにはタイトルのみで、具体的な記事の内容が含まれていません。中国レアアース輸出管理に関する文脈で要約を作成するには、記事本文の詳細な内容が必要です。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMVJCQUpRUDVMVVhqbzB6amlWY25kakpUQjJGc09NZ1o3TW9qVDI2MjlxaUdGRGsydXI5azhWbl90R0tOUjNheFFzUVV1Vk82eW1lM19CWFdKZnhwX190WHh0N0NsOG9Fel95QmNMaDZwZmNrcEZKWkx1cHBDQVhTNkxaMlFOMFQ1NlU4ZGdXa3FISG9fUVBpRVRRZDY4X0x4Ykw0RTh1ckgwQ2RjNDQwTTZNSnV0TXllWjl1a2lIZ2tZSDFzU2YtT21zX1RaRGFhSE5mVFRR?oc=5",
-          "added_at": "2026-09-05 17:52:37"
-        },
-        {
-          "uid": "e7fd6bf235df",
-          "date": "2026-06-22",
-          "title": "China adds 10 US firms, including rare-earth miner, to export control list - Al Jazeera",
-          "summary": "中国は米国の企業10社をレアアース採掘企業を含めて輸出管理リストに追加し、米国に対する技術・資源の輸出制限を強化した。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnkxelBpRHVwRWNKbmZPMVM4Si1FQlZRVHh5MHZxRlFSWU9paHBVTmZBSW5uR0ZEcnlJeFM1WTNpR1pZMEJ3am1YN3NEVzRZdkZMV2ZibjJqaXZVVU1RNFZINHR1NnVwbnVSWVJxbVJxejRSbDVjZ3E5MFhVUEcwcFVBUFlfeWlfVXJNWjNQOWItNXdCR0J4azhqcTBPZEhOakpaU0p4WElyLW9tQjF0bTdhY9IBuAFBVV95cUxOVHVRVWs4LVJlN1h6cS1ndFVDUE1qU1FNbWtBdHJtS2Z6MUlnYU5ZaUdla202N1FTUVpucDBWd0pxSnJ6c21tQmpsQjloeTNMbHR0MHNReVpwX2lqQmFueU5DdndzR2pzcExZcE5QdEkybFNwdktoMEg3RDdMcE9OZkEyd3hiQ3NBSmFxMUxxbS1UUEplaUU2a0gyQjFXMnpabHl1TzU2dWtwUFMtU0dRQldySVBBZ2Zt?oc=5",
-          "added_at": "2026-09-05 17:52:37"
-        },
-        {
-          "uid": "f8f298c0cc06",
-          "date": "2026-06-23",
-          "title": "China Imposes Export Controls on U.S. Minerals, Defense Firms - National Association of Manufacturers - NAM",
-          "summary": "中国は米国のミネラル産業と防衛関連企業に対する輸出管理を強化し、レアアースなどの戦略的鉱物の供給制限を通じて米国への圧力を高めている。この措置は、米国が中国に対する技術制限や輸出規制を強化したことへの報復として機能している。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTMxVEpmbHY4U0R6S3R1aHBSQkJGanlBaTExQ3haTDZidnVLMmVYUzk1N1kxb091VXBEbDk3b1FKMm1CWU9LaWRNb0g2ZUVjNzFuejlfc1d5SVY2UGNTRlVSbkYwbnFJZ2h0SkcybVl5RlNDRll3cjAxZlBfNjE3dUxR?oc=5",
-          "added_at": "2026-09-05 17:52:37"
         }
       ]
     },
@@ -6041,8 +6041,48 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-05 21:07:36",
+      "last_checked": "2026-10-06 06:24:50",
       "items": [
+        {
+          "uid": "376074f0214e",
+          "date": "2026-09-30",
+          "title": "What is red-dyed diesel and can it help lower prices, as Trump wants? - Reuters",
+          "summary": "トランプが提案する赤色着色軽油の規制緩和は燃料価格低下を狙いとしたものですが、この記事は主に燃料政策に関するもので、自動車メーカーの対中提携への政治的批判とは直接の関連性がありません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGNBOHFnRTAzOVBWcVhfSEhfcWRHbFNBZzRVZzJtQ0twTi03QTloRmhLWTNrVzZzeE9jLWROWlBsNUwzNTlrdlZRaGU5SWJXTFJleEV2a2Y3VWx4dVNLMkRRV1NDNS1jRkdnVFZ4bmNUUjhUaU52NTI3aHVmV1RMRlhJb0tVdkRBUjMwYWg3dXhOWkwwdjNHbWZDOVpPQnNFRzhNdm52LV9XamotRlFHR2V3?oc=5",
+          "added_at": "2026-10-06 06:24:44"
+        },
+        {
+          "uid": "74c79ad521b4",
+          "date": "2026-09-28",
+          "title": "US says GM tech costs to drop by $20 billion through 2031 due to new emissions rules - Reuters",
+          "summary": "米国の新排出ガス規制により、GM（ゼネラルモーターズ）は2031年までに電動化技術コストを200億ドル削減できると見込まれており、これは米国内での技術開発促進を通じて競争力強化を狙う政策を反映している。この動きは、中国との技術提携よりも国内産業の自給能力向上を優先する米国政府の姿勢を示している。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTVNGMnNGZVI2RG1rMVlsaUhacllsSFBtN0hvNnEyREViTjBaRjE4TUVrNnUyQkliWGRWSXlMdWQzSnNVSE1pR0cyQ1JqN0FtNW1pTzNoa2JpblJndkpzeVNYQUFURXNWanlzdi1seTRpTWoxUERxZHhOdW40a29uNDJpYXVmaFhfd2x5OTNWOWxQejc4bWR4cGhmcWhmNzN0REtZLTN3b3Y0VlZ2bVMtaTdoTVlLNTVseFFiQ3NSZ3lGWEpNTURtSUNRRlg1ckhTdGp5NFV0RjRVQQ?oc=5",
+          "added_at": "2026-10-06 06:24:44"
+        },
+        {
+          "uid": "eb33bea24de6",
+          "date": "2026-09-08",
+          "title": "NEWSLETTER: VW goes for broke - Reuters",
+          "summary": "フォルクスワーゲンが中国での電気自動車事業に大規模投資を実行していることが、西側諸国での中国への経済依存を巡る政治的懸念を招いている状況を報道している記事である。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjQ5Z0ktM3RfYjMwTXZzQVp5WUc0NE1iMEZKTHhRRGpMMHlwOEpaRVNISmt6eE5BNE1VcHpaRkxuN0h4VjFnTm9HUGlST3FiRUpXZ1BFb3VKX3Z1UU1pNmV4WHNqeWdsTjhfNUFzX3dBTFFrVFpGVjEzVXhYUllzNjBSQmxRZw?oc=5",
+          "added_at": "2026-10-06 06:24:44"
+        },
+        {
+          "uid": "89d8663a63eb",
+          "date": "2026-10-05",
+          "title": "Jones Act waiver period disproves China fearmongering, shows benefits of reform",
+          "summary": "米国の Jones Act の一時的な適用除外期間の結果は、供給制限がなければ米国企業がより多くの国内製品を購入することを示しており、規制改革の利点を実証している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/finance/6118593-jones-act-reform-benefits/",
+          "added_at": "2026-10-06 06:24:44"
+        },
         {
           "uid": "f21c1e00e9eb",
           "date": "2026-09-03",
@@ -8001,46 +8041,6 @@
           "source": "業界分析",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UVlA5WG5ibC1yS1ZqU2NtVjhaMTk3cDJSeDB2SzVBRWFsbU5WS2xuSVhYbFpHY19CM1c1S1U0LURLTDhNQnJSNktGODJHM05mbnV2MEk3a3BqZkVNYUVnQ3Bn?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "8cb403e49ab0",
-          "date": "2026-09-09",
-          "title": "Trump administration blasts Ford Motor’s China ties, warns of US national security risks - news.meaww.com",
-          "summary": "トランプ政権がフォード・モーターの中国との提携関係を非難し、米国の国家安全保障上のリスクがあると警告した。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFJHTThLNnh3ZVQ4ZWwtcnFmb2tEWXdjbGhsQmc5MGtXRnRUb09fMWt3N0tEMXdPNmlLc0YzTkUwaUhmR0gxMTBJYlY2bFZQNGtCR05QVWVSV2lGamx0V0p2YVVGSVFBaXEyTXVOWjZFRXRGZkxlQmJKYTNBbnRLYWtmb2hhUWhfWnpqUUZwcGJITm80Q29zVmZBbW9rTjgtcmRXeXJzMngxLU5RWEE?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "13fb8ad81c0d",
-          "date": "2026-09-09",
-          "title": "Republican lawmakers criticize Ford business ties to China - Reuters",
-          "summary": "フォード・モーターが中国との事業提携を続けていることに対し、共和党議員が政治的批判を展開している。これは米国の自動車メーカーが中国市場への依存を深めることへの懸念と、地政学的リスクに対する警戒心を反映している。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlBwY0xWY25vMW5KUmhIc3BjbVp0bUhyTnpXOGRuOXhKWVFVSlZrMWRXc2VsWHFRLWJ3UU14VmFrLWJTenNJa2NiNm52SWpTc2cyM0RrcG14el9TOVdFNkFDYkZKcGNPeWtqM19OYlZOTjFUaS1TYXJFZElMM0JHREo1SjhabVROTllGQzBnLXRuQml0cnZlWGRVOUFmX3IwN3lLNGpYSC11aEJmMFVqRWF3YUtDSHQ4amJueXhn?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "fa44002c7a9d",
-          "date": "2026-09-03",
-          "title": "Automakers urge Congress to quickly pass law banning Chinese cars - Reuters",
-          "summary": "米国の自動車メーカーが、中国製車の販売を禁止する法律の迅速な成立を議会に促している。これは、中国との提携や依存に対する政治的な懸念と規制強化の機運を反映している。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDVZZ0dqVmI3WTlWc0tiQTI4SzVMRXM4YjVlb0stNmFuX0dBYUFoZjBvQlBVMkFDMGd0U2NlbXBCN1NzMlEwT0tqbkpDdkZicmFRdFlvZXV1UjN6TUF3LWRzd2ZDbHhpNWdmb0VhOTRnWXg0RG5pRjhNeTdRcnVNbVVaZzNsQnFrUXlNR3Rfd0o3dlpfV0E1a0xaYTVXbWdaWm96YzZLWQ?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "b288d441dff6",
-          "date": "2026-09-13",
-          "title": "Trump downplays AI warnings, citing competition with China",
-          "summary": "この記事は自動車メーカーの対中提携についての内容ではなく、トランプ大統領がAI開発における中国との競争を優先させるべきとして、AIの安全性への懸念を軽視する発言をしたものです。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/technology/6086739-trump-downplays-ai-risks/",
           "added_at": "2026-09-14 16:32:35"
         }
       ]
