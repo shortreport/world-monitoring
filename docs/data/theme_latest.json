@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05 03:02:51",
+  "generated_at": "2026-10-05 10:52:10",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-05 03:02:20",
+      "last_checked": "2026-10-05 10:51:15",
       "items": [
         {
           "uid": "f786364e2ffc",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-05 03:02:31",
+      "last_checked": "2026-10-05 10:51:30",
       "items": [
+        {
+          "uid": "82e3fbfe4a1f",
+          "date": "2026-09-30",
+          "title": "Moreno spearheads bipartisan push to ban Chinese vehicles - Spectrum News",
+          "summary": "米国の議員モレノ氏が超党派的支援により、中国製車両の米国市場への参入を禁止する法案を推進しており、これは国家安全保障と競争力の懸念に基づいた取り組みです。この法案は、中国製自動車が米国の通信インフラに対する潜在的なサイバーセキュリティ脅威となる可能性を懸念する議会の動きを反映しています。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ1dzMF84XzNSb21EdFJkNk9sMGVXaW5HU05fYzRjcmttY0JrV04wOTR6QkFGTW9PN0lLNGVSRVNIcXVpYTRsZi1OeTFsdHZOY1EteG1QSjA2cnhSLTBZRmZrS0xYbUFhX3dFRUVnbnNUc29vSl9VYWVyQU02dGJwTWQ1ekhmZk0?oc=5",
+          "added_at": "2026-10-05 10:51:27"
+        },
         {
           "uid": "87990153463b",
           "date": "2026-09-30",
@@ -4010,16 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkpRRnoxMTJ2NlFLSnRwd2xCcnlTM0Rsa29YUEVYelRmdl8tQkhMeXN4dWUwZVFqR0pLdXowbi1Pa3d2SnUydkxReWZsdndBZTd4VkFuQ3ZUVm5UeGRqZ0VfNjNoWG5RT2ZhTVp2UGZyYlVkdVBCam0xelRjNEtVb1lPaUpwdW5UZFNYdy10a3BjS09KXzRBbHhSbzB2T2k3MUlHbGVXSHI4UG9jd0JqMGln?oc=5",
           "added_at": "2026-07-30 08:00:28"
-        },
-        {
-          "uid": "81e9c78ac49e",
-          "date": "2026-07-29",
-          "title": "Foley Automotive Update: July 29, 2026 - The National Law Review",
-          "summary": "申し訳ありませんが、提供いただいた内容には記事本文がなく、タイトルのみとなっているため、「米国接続車両安全保障法（S.4429）」に関する具体的な情報を抽出して要約することができません。記事の本文をご提供いただければ、要約させていただけます。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYazBjT09ZcU5QLXhFN2RnTU9kQ0JzaGRyQ1lNcnl2Q1F4S1dYbUdoYTQ4X3M2czlERVI2T19NZEg4S0t6WVZDRmtFbWpqcmtYUDdiT29xTFRybnByNXVta0dJQlk0aC1taEtZcnozbjB3VFk5ZHRtQWQ4a2dRUdIBfkFVX3lxTFBYazBjT09ZcU5QLXhFN2RnTU9kQ0JzaGRyQ1lNcnl2Q1F4S1dYbUdoYTQ4X3M2czlERVI2T19NZEg4S0t6WVZDRmtFbWpqcmtYUDdiT29xTFRybnByNXVta0dJQlk0aC1taEtZcnozbjB3VFk5ZHRtQWQ4a2dRUQ?oc=5",
-          "added_at": "2026-07-30 08:00:28"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-05 03:02:45",
+      "last_checked": "2026-10-05 10:51:56",
       "items": [
+        {
+          "uid": "7587df94d112",
+          "date": "2026-09-04",
+          "title": "US, Japan race to secure chip-grade minerals as China curbs exports - Asia Times",
+          "summary": "中国がレアアース等の戦略的鉱物の輸出規制を強化する中、米国と日本は半導体製造に必要なチップグレード鉱物の安定供給確保に向けて競争している。両国はサプライチェーンの脱中国依存化と代替供給源の開拓を急速に進めている。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2YwSEt3NmlHNnpBNGxZYXRPdEFrQ080NzhQa29EWGx5WTVVVlMzTl84NmZwYXZTVFRrWEwyalhlSGdJNlI4ZnQySzZISXJWQzdVRmhTX0RnaHdrTnozNTU0NjlBbnlNdzFueExsRC1ZelUzRkpqdjRaYzZXWEFZT25xWjEtZkNUUDc1U0lrZVNZRFNwRkZXS1VxVGd0dw?oc=5",
+          "added_at": "2026-10-05 10:51:48"
+        },
+        {
+          "uid": "b4aea8d79da3",
+          "date": "2026-08-07",
+          "title": "Trump announces $180M in grants to boost American mining amid push for critical minerals - KSNV",
+          "summary": "トランプ前大統領が米国の鉱業振興に1億8000万ドルの助成金を発表し、レアアース等の重要鉱物の国内生産強化を進めており、中国への鉱物資源依存を低減させる意図が明確である。米国が自給率向上を目指す動きは、中国のレアアース輸出管理に対抗するための戦略的な対応といえる。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTzNZdVRacE5SNWNwbDZIOE5lblNRRkZjdFJxX1BYbWYzWTdKUVVKTXhfc3h0dVdHUm9QX0dYWGxVV1c0RGFGN1ZnT2pJdFFUbXA2NFk2R0dFbEtmNkRHYm1COXN5QW55TVdjSGhuTFJvYTBrSzlaRkV4SlZTWkw1WW9WRGJZazdzQlNjTWVxN1V3cEtCN1F1dEZpdGhrS2NvNVhPUVF1YjZld2U3SldyaW0wdjhNMEhqbFZ5UEItZFFDalE1?oc=5",
+          "added_at": "2026-10-05 10:51:48"
+        },
+        {
+          "uid": "1a25a45c04d5",
+          "date": "2026-08-24",
+          "title": "Heavy Rare Earth Prices China vs Ex-China 2025 - Rare Earth Exchanges",
+          "summary": "2025年における中国国内と中国外のヘビーレアアース価格の乖離は、中国による輸出管理政策が国際市場に対して大きな価格プレミアムをもたらしていることを示しており、中国が戦略的資源としてレアアース供給を厳格に管理していることが価格構造に反映されている。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT0w2NVJwLVh6TjFLMHNsTHcyd3ppcnFEcVJZaS04bHlobUQ4b1pRNDFFamtDY0tPbWYtOVBralZLQ1lOUUZubWUzaGZjbjJFWEQyaDZkMXRVWHpmRmNQUS1ZalFtY2hnbTVocnVCLTMwUVl1VDc0NTlGb01NRjJFelJn?oc=5",
+          "added_at": "2026-10-05 10:51:48"
+        },
         {
           "uid": "f8ee6f150195",
           "date": "2026-08-12",
@@ -6001,36 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkpQby1SMVB0WFN1clctRlVuTFZDRnBuNnVHZnFkMGZCOWNqWE1Id01zSl9OZ3JQeUMyeXRUZUpqWDV5UWtSekNiUUlFMHk5VWptOWYxZEM3Rk5IM2xaUnZtVTVZMi1ORTFBcTJqV080dmExQ09YTlJlSU50Q1dmaFgxQXZsVjdMQ0M3RllLUFB6YmF2UzZPR1NpMXJMc3ZyWHJHc1FLMEM1enk5UXR6cVFxd29KVW8?oc=5",
           "added_at": "2026-09-05 17:52:37"
-        },
-        {
-          "uid": "e4c39bc05b3f",
-          "date": "2026-06-24",
-          "title": "China Targets US Rare Earth Firms: Export Controls Escalate Trade War June 2026 - Intellectia AI",
-          "summary": "中国は2026年6月、米国のレアアース企業を標的とした輸出規制を強化し、米中貿易戦争をエスカレートさせた。この措置は米国による対中規制に対する報復であり、レアアース市場における中国の支配力を活用した経済的圧力戦略である。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yeGxUUXZybjBVWjJHbjVmVksxb1ppcHdNOGstZ2NjcHUtcTFfU0YteFVZdXFnYzE5NEdfRlpOQTdiV3B2MWg1RlF3QTJOZU56SDB6TG5FR3FDUTlla2IxVzBRcTZKa2NyS1VBdWVLTXFHRFVUeVVXMUhB?oc=5",
-          "added_at": "2026-09-05 17:52:37"
-        },
-        {
-          "uid": "ddfbbcd55732",
-          "date": "2026-09-04",
-          "title": "Fearing Beijing's Retribution, Chinese Rare Earth Suppliers Reportedly Halt Shipments to U.S. - finance.biggo.com",
-          "summary": "中国のレアアース供給企業が北京政府の報復を懸念し、米国への出荷を停止していると報じられています。これは中国がレアアース輸出を戦略的な政治手段として使用していることを示唆しています。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UekJ4eWI4bUFpOGdEMFd6NDJJeE41dzhMOXNVdTJNLWMxTWZTM3U2VFIyeEhPWmx4Wk0yY1pXTEw3LVpxVzhtNUNiaVR5dUpkSzY0MUYybXBMekdOTlNRS3ViZE9CMWhrVXpPLXpZbzJRNnk3NVE?oc=5",
-          "added_at": "2026-09-05 02:27:27"
-        },
-        {
-          "uid": "b8c876cda14f",
-          "date": "2026-07-20",
-          "title": "China’s Heavy Rare Earth Tap Stays Closed for Japan in June - The China-Global South Project",
-          "summary": "中国は2024年6月もジャパンに対する重レアアース輸出を継続して制限しており、これは日本へのレアアース供給管理を通じた中国の戦略的な圧力の一環として機能している。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORElOQV9JczNTdVo1clJlRk9KMkluR09CbFh5VEVVRGlveHdmOUFCNkdTN0pUOUpmZkw1ZnN5ZkV2T25nQlJIV1RXc2tNbmwxbFRYVzNLdk12d2duY0paMjg2QnFiR1dBa1A3bEJlWnFkNWRHQWd0M21DeHpOdzhNZGtJY3hGOGZlbjl3U3ZFZ2JzZWRi?oc=5",
-          "added_at": "2026-09-05 02:27:27"
         }
       ]
     },
@@ -6041,8 +6041,38 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-05 03:02:51",
+      "last_checked": "2026-10-05 10:52:10",
       "items": [
+        {
+          "uid": "f21c1e00e9eb",
+          "date": "2026-09-03",
+          "title": "Automakers urge Congress to quickly pass law banning Chinese cars - WTVB",
+          "summary": "米国の自動車メーカーが、中国製自動車の市場参入を禁止する法律の迅速な成立をアメリカ議会に促しており、これは中国資本の自動車企業に対する保護主義的な政治的対応を示している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdV9GTGh3Y3UzTHkyTEZnWWtIMEVFcnpxbldlZHlCSTRSSEVGbkN1eUZ4VmRDTTRrYndPNWVGel95MDJLZVRGTjhseEszVk9SU3ZQMUZUbTRiaVRjV0kwejdJMENzdWg2RFlQelowaWRmN011U19WcXZ0VnRHV3g2OUpoRmY3dm9ITlJWekhSQVZ4YUp2cVRZSGI4Z0Q?oc=5",
+          "added_at": "2026-10-05 10:52:04"
+        },
+        {
+          "uid": "04a156752872",
+          "date": "2026-09-09",
+          "title": "Trump administration slams Ford, alleges ties to China - KOAT",
+          "summary": "トランプ政権がフォード・モーターに対し中国との関係を理由に批判を展開しており、米国の自動車メーカーが中国資本や技術提携によって国家安全保障上のリスクをもたらすという懸念が政治的な争点となっている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVmlJWm1hSG9vdGV4NFNsWE5tZDRHNUUzS21xZ2ZaeEhMUVNiM3l2b3lyU0N6NXJkTFAtNVBRLVZ6a0tHMnFVWVZFVW1YcjJBUmFqRnpmSlNOeDZkLWl5QU9jVFJ6MjhvbERlZUI3ZC1HSjNIQVJWcjRFVVd4djEweg?oc=5",
+          "added_at": "2026-10-05 10:52:04"
+        },
+        {
+          "uid": "121105c1926b",
+          "date": "2026-10-04",
+          "title": "Pentagon pulls B-1 bombers from UK base following alleged terror threat",
+          "summary": "この記事は自動車メーカーの対中提携への政治的批判とは無関係です。ペンタゴンが英国のRAF Fairford基地からB-1爆撃機12機をテロ脅威を理由に米国に撤退させた軍事的な内容であり、要約提供はできません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6128663-us-bombers-withdraw-uk-base/",
+          "added_at": "2026-10-05 10:52:04"
+        },
         {
           "uid": "192278e9b976",
           "date": "2026-09-08",
@@ -8011,26 +8041,6 @@
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/policy/technology/6086739-trump-downplays-ai-risks/",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "70155898420d",
-          "date": "2026-09-13",
-          "title": "Johnson on AI regulation: ‘We don’t need everybody to panic right now’",
-          "summary": "この記事は自動車メーカーの対中提携への政治的批判に関する内容ではなく、AI規制についての米国下院議長の発言であるため、要約できません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/technology/6086745-johnson-advocates-ai-regulation-balance/",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "7d6b5d8dbe6b",
-          "date": "2026-08-25",
-          "title": "Amendment of Restricted Areas R-2505, R-2524, R-2508, and R-2515 in California",
-          "summary": "この記事はカリフォルニアの航空制限区域の座標修正に関する行政手続きについて述べており、「自動車メーカーの対中提携への政治的批判」という文脈とは無関係です。",
-          "source": "連邦官報（運輸省）",
-          "source_type": "official",
-          "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17339/amendment-of-restricted-areas-r-2505-r-2524-r-2508-and-r-2515-in-california",
           "added_at": "2026-09-14 16:32:35"
         }
       ]
