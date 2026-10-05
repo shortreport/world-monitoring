@@ -77,8 +77,12 @@ def parse_json_safe(text):
         return json.loads(text)
     except json.JSONDecodeError:
         pass
-    # 試行2: 最外の { ... } を正規表現で抽出
-    m = re.search(r'\{[\s\S]*\}', text)
+    # 試行2: 最外の { ... } または [ ... ] を正規表現で抽出（翻訳は配列で返る）
+    i_obj, i_arr = text.find("{"), text.find("[")
+    if i_arr != -1 and (i_obj == -1 or i_arr < i_obj):
+        m = re.search(r'\[[\s\S]*\]', text)
+    else:
+        m = re.search(r'\{[\s\S]*\}', text)
     if m:
         try:
             return json.loads(m.group())
@@ -225,7 +229,9 @@ def generate_en_summary(source_text: str, client, date_en: str) -> dict:
         )
         text = next((b.text for b in resp.content if hasattr(b, "text")), "{}")
         try:
-            return parse_json_safe(text)
+            result = parse_json_safe(text)
+            validate_en_sections(result)
+            return result
         except (json.JSONDecodeError, ValueError) as e:
             print(f"  [JSON retry {attempt+1}/3] {e}")
             if attempt == 2:
@@ -233,15 +239,40 @@ def generate_en_summary(source_text: str, client, date_en: str) -> dict:
     raise RuntimeError("generate_en_summary: all retries failed")
 
 
+# ── 出力検証（空・欠落のまま白紙ページを公開しないため） ─────────────────────────
+def validate_en_sections(result) -> None:
+    sections = result.get("sections") if isinstance(result, dict) else None
+    if not isinstance(sections, list) or len(sections) != 4:
+        raise ValueError(f"EN sections が4件ではない: {type(sections).__name__} {len(sections) if isinstance(sections, list) else ''}")
+    for i, s in enumerate(sections):
+        if not isinstance(s, dict) or not all(str(s.get(k, "")).strip() for k in ("tag", "headline", "body")):
+            raise ValueError(f"EN section[{i}] に tag/headline/body の欠落あり")
+
+def normalize_ja_sections(data, expected: int) -> list:
+    # {"translations": [...]} のようなラッパー付き応答も受け付ける
+    if isinstance(data, dict):
+        data = next((v for v in data.values() if isinstance(v, list)), None)
+    if not isinstance(data, list) or len(data) != expected:
+        raise ValueError(f"JP 翻訳が{expected}件ではない: {type(data).__name__} {len(data) if isinstance(data, list) else ''}")
+    for i, s in enumerate(data):
+        if not isinstance(s, dict) or not str(s.get("headline_ja", "")).strip() or not str(s.get("body_ja", "")).strip():
+            raise ValueError(f"JP section[{i}] に headline_ja/body_ja の欠落あり")
+    return data
+
+
 # ── Claude: 日本語翻訳 ─────────────────────────────────────────────────────────
 TRANSLATE_MODEL   = "claude-sonnet-5"
 TRANSLATE_SYSTEM  = """\
 あなたはエグゼクティブ向けインテリジェンス・ブリーフィングを専門とするプロの翻訳者です。
 英語の原文を、経営幹部が読む格調ある自然な日本語に翻訳します。
-文体は「〜である」調（体言止め可）。硬すぎず、平易すぎず、ビジネス誌（週刊東洋経済・日経ビジネス）レベルを目安にしてください。
+文体は「〜である」調で、体言止めを積極的に使い、簡潔で歯切れの良い文章にすること。
+硬すぎず、平易すぎず、ビジネス誌（週刊東洋経済・日経ビジネス）レベルを目安にしてください。
+このブリーフィングはA4用紙1枚に4項目を収める前提で作られており、翻訳でも簡潔さを最優先すること。
 """
 
-def translate_sections_to_ja(sections: list, client) -> list:
+def translate_sections_to_ja(sections: list, client,
+                              max_body_chars: int = 150,
+                              max_headline_chars: int = 34) -> list:
     items = "\n".join(
         f'[{i}] headline: {s["headline"]}\nbody: {s["body"]}'
         for i, s in enumerate(sections)
@@ -258,6 +289,10 @@ def translate_sections_to_ja(sections: list, client) -> list:
         "訳文でも主語・相手を省略せず明示すること（例:「北京は◯◯氏の拘束を交渉材料に、米国側に譲歩を求めている」）。"
         "曖昧な直訳（例:「◯◯氏に関する譲歩を求めている」）は避ける\n"
         "- ぎこちない直訳を避け、意味を保ちながら自然な日本語の語順・表現に整えること\n"
+        "【分量ルール（最重要・A4 1枚に収めるため厳守）】\n"
+        f"- headline_ja は{max_headline_chars}字以内。体言止めで要点だけを述べること\n"
+        f"- body_ja は{max_body_chars}字以内。2〜3文に圧縮し、体言止めを活用して重複説明・接続表現を削ること\n"
+        "- 原文の3〜5文をすべて訳す必要はない。最も重要な事実だけを残し、背景説明は思い切って削ること\n"
         "JSONのみ返してください（前後の説明文不要）:\n"
         "[\n"
         '  {"headline_ja": "...", "body_ja": "..."},\n'
@@ -273,7 +308,7 @@ def translate_sections_to_ja(sections: list, client) -> list:
         )
         text = next((b.text for b in resp.content if hasattr(b, "text")), "[]")
         try:
-            return parse_json_safe(text)
+            return normalize_ja_sections(parse_json_safe(text), len(sections))
         except (json.JSONDecodeError, ValueError) as e:
             print(f"  [翻訳 JSON retry {attempt+1}/3] {e}")
             if attempt == 2:
@@ -450,8 +485,8 @@ def build_jp_pdf(sections_ja: list, sections_en: list, date_jp: str):
 
     S_TITLE = S('title',  fontName='JPN-B', fontSize=16, alignment=TA_CENTER)
     S_META  = S('meta',   fontName='JPN',   fontSize=13, textColor=GRY, alignment=TA_CENTER)
-    S_LABEL = S('label',  fontName='JPN-B', fontSize=12, leading=18)
-    S_BODY  = S('body',   fontName='JPN',   fontSize=11, leading=19, alignment=TA_JUSTIFY)
+    S_LABEL = S('label',  fontName='JPN-B', fontSize=12, leading=17)
+    S_BODY  = S('body',   fontName='JPN',   fontSize=11, leading=18, alignment=TA_JUSTIFY)
 
     TAG_MAP = {
         "Heads Up":    "【Heads up】",
@@ -460,87 +495,68 @@ def build_jp_pdf(sections_ja: list, sections_en: list, date_jp: str):
         "Medium Term": "【中長期】",
     }
 
+    TOP_MARGIN = 9*mm
+    BOT_MARGIN = 10*mm
+    SIDE_MARGIN = 22*mm
+    GAP = 9*mm
+
+    def build_story():
+        story = [
+            Paragraph("エグゼクティブ・ブリーフィング", S_TITLE),
+            Spacer(1, 2*mm),
+            Paragraph(date_jp, S_META),
+            Spacer(1, 6*mm),
+            HRFlowable(width="100%", thickness=3, color=BLK),
+            Spacer(1, 4*mm),
+        ]
+        for i, (sec_ja, sec_en) in enumerate(zip(sections_ja, sections_en)):
+            tag_en  = sec_en.get("tag","")
+            tag_jp  = TAG_MAP.get(tag_en, f"【{tag_en}】")
+            hl_ja   = sec_ja.get("headline_ja","")
+            body_ja = sec_ja.get("body_ja","")
+            body_ja = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", body_ja)
+
+            story.append(KeepTogether([
+                HRFlowable(width="100%", thickness=1.5, color=BLK, spaceAfter=2.5*mm),
+                Paragraph(f'<b>{tag_jp}</b>　{hl_ja}', S_LABEL),
+                Spacer(1, 3*mm),
+                Paragraph(body_ja, S_BODY),
+            ]))
+            if i < len(sections_ja) - 1:
+                story.append(Spacer(1, GAP))
+
+        story += [Spacer(1, 3*mm), HRFlowable(width="100%", thickness=1.5, color=BLK)]
+        return story
+
     doc = SimpleDocTemplate(
         str(PDF_LATEST), pagesize=A4,
-        topMargin=11*mm, bottomMargin=13*mm,
-        leftMargin=22*mm, rightMargin=22*mm,
+        topMargin=TOP_MARGIN, bottomMargin=BOT_MARGIN,
+        leftMargin=SIDE_MARGIN, rightMargin=SIDE_MARGIN,
         title=f"エグゼクティブ・ブリーフィング {date_jp}",
         author="World Intelligence Monitor",
     )
-
-    story = [
-        Paragraph("エグゼクティブ・ブリーフィング", S_TITLE),
-        Spacer(1, 2*mm),
-        Paragraph(date_jp, S_META),
-        Spacer(1, 11*mm),
-        HRFlowable(width="100%", thickness=3, color=BLK),
-        Spacer(1, 6*mm),
-    ]
-
-    GAP = 14*mm
-    for i, (sec_ja, sec_en) in enumerate(zip(sections_ja, sections_en)):
-        tag_en  = sec_en.get("tag","")
-        tag_jp  = TAG_MAP.get(tag_en, f"【{tag_en}】")
-        hl_ja   = sec_ja.get("headline_ja","")
-        body_ja = sec_ja.get("body_ja","")
-        body_ja = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", body_ja)
-
-        story.append(KeepTogether([
-            HRFlowable(width="100%", thickness=1.5, color=BLK, spaceAfter=3*mm),
-            Paragraph(f'<b>{tag_jp}</b>　{hl_ja}', S_LABEL),
-            Spacer(1, 4*mm),
-            Paragraph(body_ja, S_BODY),
-        ]))
-        if i < len(sections_ja) - 1:
-            story.append(Spacer(1, GAP))
-
-    story += [Spacer(1, 4*mm), HRFlowable(width="100%", thickness=1.5, color=BLK)]
 
     # 1パス目: 総ページ数を取得
     buf = io.BytesIO()
     doc_count = SimpleDocTemplate(
         buf, pagesize=A4,
-        topMargin=11*mm, bottomMargin=13*mm,
-        leftMargin=22*mm, rightMargin=22*mm,
+        topMargin=TOP_MARGIN, bottomMargin=BOT_MARGIN,
+        leftMargin=SIDE_MARGIN, rightMargin=SIDE_MARGIN,
     )
-    doc_count.build(story)
+    doc_count.build(build_story())
     total_pages = doc_count.page
 
-    # ストーリーを再構築（build後はフローアブルが消費されるため）
-    story = [
-        Paragraph("エグゼクティブ・ブリーフィング", S_TITLE),
-        Spacer(1, 2*mm),
-        Paragraph(date_jp, S_META),
-        Spacer(1, 11*mm),
-        HRFlowable(width="100%", thickness=3, color=BLK),
-        Spacer(1, 6*mm),
-    ]
-    for i, (sec_ja, sec_en) in enumerate(zip(sections_ja, sections_en)):
-        tag_en  = sec_en.get("tag","")
-        tag_jp  = TAG_MAP.get(tag_en, f"【{tag_en}】")
-        hl_ja   = sec_ja.get("headline_ja","")
-        body_ja = sec_ja.get("body_ja","")
-        body_ja = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", body_ja)
-        story.append(KeepTogether([
-            HRFlowable(width="100%", thickness=1.5, color=BLK, spaceAfter=3*mm),
-            Paragraph(f'<b>{tag_jp}</b>　{hl_ja}', S_LABEL),
-            Spacer(1, 4*mm),
-            Paragraph(body_ja, S_BODY),
-        ]))
-        if i < len(sections_ja) - 1:
-            story.append(Spacer(1, GAP))
-    story += [Spacer(1, 4*mm), HRFlowable(width="100%", thickness=1.5, color=BLK)]
-
-    # 2パス目: 最終ページのみ「以上」を描画
+    # 2パス目: 最終ページのみ「以上」を描画（build後はフローアブルが消費されるため再構築）
     def draw_footer(canvas, doc):
         if canvas.getPageNumber() == total_pages:
             canvas.saveState()
             canvas.setFont('JPN', 11)
-            canvas.drawRightString(A4[0] - 22*mm, 8*mm, "以　　上")
+            canvas.drawRightString(A4[0] - SIDE_MARGIN, 8*mm, "以　　上")
             canvas.restoreState()
 
-    doc.build(story, onFirstPage=draw_footer, onLaterPages=draw_footer)
-    print(f"[PDF] 生成完了: {PDF_LATEST}")
+    doc.build(build_story(), onFirstPage=draw_footer, onLaterPages=draw_footer)
+    print(f"[PDF] 生成完了: {PDF_LATEST} ({total_pages}ページ)")
+    return total_pages
 
 
 # ── Type C JP summary.html 更新 ───────────────────────────────────────────────
@@ -640,15 +656,26 @@ def main():
     EN_SUMMARY.write_text(html_content, encoding="utf-8")
     print(f"[OK] EN Summary -> {EN_SUMMARY}")
 
-    # ── 4. JP 翻訳 ─────────────────────────────────────────────────────────
-    print("日本語翻訳中...")
-    sections_ja = translate_sections_to_ja(sections, client)
-    print(f"  翻訳完了: {len(sections_ja)} セクション")
-
-    # ── 5. JP PDF 生成 ──────────────────────────────────────────────────────
-    print("日本語 PDF 生成中...")
+    # ── 4-5. JP 翻訳 + PDF 生成（A4 1枚に収まるまで圧縮して再試行） ────────────
     BRIEFINGS_DIR.mkdir(parents=True, exist_ok=True)
-    build_jp_pdf(sections_ja, sections, date_jp)
+    max_body_chars, max_headline_chars = 150, 34
+    for attempt in range(3):
+        print(f"日本語翻訳中... (目標: body {max_body_chars}字以内)")
+        sections_ja = translate_sections_to_ja(
+            sections, client,
+            max_body_chars=max_body_chars, max_headline_chars=max_headline_chars,
+        )
+        print(f"  翻訳完了: {len(sections_ja)} セクション")
+
+        print("日本語 PDF 生成中...")
+        total_pages = build_jp_pdf(sections_ja, sections, date_jp)
+        if total_pages <= 1:
+            break
+        print(f"  [PDF] {total_pages}ページになったため本文を圧縮して再生成します")
+        max_body_chars = int(max_body_chars * 0.7)
+        max_headline_chars = int(max_headline_chars * 0.85)
+    else:
+        print(f"  [WARN] 3回試行しても1枚に収まらず（{total_pages}ページ）。最終結果を採用します。")
     archive_path = BRIEFINGS_DIR / archive_name
     shutil.copy2(PDF_LATEST, archive_path)
     print(f"[PDF] アーカイブ: {archive_path}")

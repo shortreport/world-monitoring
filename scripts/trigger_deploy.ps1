@@ -1,4 +1,4 @@
-# trigger_deploy.ps1
+﻿# trigger_deploy.ps1
 # GitHub Pages デプロイトリガー（update.yml workflow_dispatch）
 # git credential store からトークンを取得して API を呼び出す
 
