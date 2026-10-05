@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05 10:52:10",
+  "generated_at": "2026-10-05 21:07:36",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-05 10:51:15",
+      "last_checked": "2026-10-05 21:07:03",
       "items": [
+        {
+          "uid": "4dae54c628d3",
+          "date": "2026-09-14",
+          "title": "INTERVIEW: Aluminium industry frustrated by EU carbon permit conditions - rapporteur.com",
+          "summary": "アルミニウム産業は、欧州産業加速法案に含まれるEUの炭素許可制度の条件が過度に厳しく、産業の競争力を損なうと不満を表明している。業界は許可取得の簡素化と炭素コスト負担の軽減を求めており、法案の実行段階での調整が課題となっている。",
+          "source": "EURACTIV",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb19TYVNRZE5NOEM0VGZBTXJLWGFQQzNzTkxCNjBVMzI2Mks1OVRISzdyd1BhSEd3OEQ1WWhlUko0TGN2UXQ1T3NVSmVrSGw4d1ByMFZ1azduaFlLOHc1YldnVFVwLVZ0dVN2NDBkV1dYREtRT2hJc3A4dXpzOVo1cVJqZzF1aGY0dUVpdkJSSmIyN0kyQjk1NlVwQXQycXUyQWRN?oc=5",
+          "added_at": "2026-10-05 21:07:02"
+        },
         {
           "uid": "f786364e2ffc",
           "date": "2026-09-08",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3h3aUpHcmRRQ1BHUmRVaGsxUGVCNFlrcnpObDVwekFZTVBkci1vMnZkZnlrWDVsNkQ4VGdnQzhVZ0h1cExuc3FwbWYxcGVua2NHV0FCQWU4VXBzVXM5dGY3VTk2MzlpTlNTT1RzVnNlWHl0aFNXLUp3VlhPbU9HXzJvdDBTdUdFWlNUM1BoTUZlMkh6bzd0bHMzRk56Q2t2ZmVQUUp0S0k?oc=5",
           "added_at": "2026-06-30 13:42:23"
-        },
-        {
-          "uid": "5d92b80dd1a5",
-          "date": "2026-06-16",
-          "title": "EU committee approves draft 2026 ETS benchmarks - ClearBlue Markets",
-          "summary": "EUの委員会は2026年の排出権取引制度（ETS）ベンチマークを承認し、これは欧州産業加速法案における産業部門の脱炭素化目標達成と競争力強化に向けた具体的な排出基準を設定するものです。この承認により、EUの産業企業は2026年以降の炭素価格制度下での対応戦略を明確にすることができます。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSExwVjRPTUQ0SnlYSnZ1X3lfeXpZT3Bmb2JqUndOai1jVkxfY3I1RXhpWk52MGJURi1FWlgyXzNzdHlJTkJnYjAydHZvUGsyYmU2eFoyVjRva2hQR1NFSjFQcnE0dndQYS02WTVZUFZ5Y0NibUFFYUFXWVhyXzhjd0Q3RVpYampqbnVSQmFjb3dQV1UwUTFzb3kxQdIBqwFBVV95cUxNdU50LTBHenZzZ0NMYnBLS2NfTjA1LUg1YU9CRHM1eC1OcDZnbTVQVHk3UF9NVGphbjl5bGVIa1VsLVNTaG9vN3czY0gtYUpKRGJmR0NiRjE4QWNEQ1Bab0ZTUXNiajJIeXJ3UmFCNmFYTHJkR2U1WDJTb3ZDUWZEdmVpdzJ1TDBVZGtweE5XRVk4UnNJWVVCUWMxYXQtQTR2X05DREdQaXpuQW8?oc=5",
-          "added_at": "2026-06-30 05:21:24"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-05 10:51:30",
+      "last_checked": "2026-10-05 21:07:14",
       "items": [
+        {
+          "uid": "5efa084beecb",
+          "date": "2026-09-23",
+          "title": "Senators Push for Ban on Chinese Automakers Ahead of Trump‑Xi Summit - Forth.News",
+          "summary": "米国の上院議員らは、トランプ大統領と習国家主席の首脳会談を控え、中国自動車メーカーの米国市場参入を禁止する法案を推し進めており、これは国家安全保障への懸念と自動車産業保護の観点から支持を得ています。",
+          "source": "議員発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ELXRtSUswV1puV3VKdF93c0xQSWw1UEJDNVcxQWRhUThiOU9pNDNFcXVqbi1VVmF6ZTBrM1c1OUc4X1l5YXZIREx4UjNwWEhyUXZCUWoyWnZfZ213LXR3aWln?oc=5",
+          "added_at": "2026-10-05 21:07:13"
+        },
         {
           "uid": "82e3fbfe4a1f",
           "date": "2026-09-30",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2xuOWhnT216M1hJQk9ISjk2RHVHMzZVM3FBdjJYYVVYbHRxNGpLdUZHdHhHTTZqN0ZkSUkwLWJWMHo1STBldUdVdTNvUjVlNlFvYndFOUFjdjh6N2hnM0xqSlhuSlRxdWUyaFZyVklFbmQ2TWk1V0FuUE02RTAzbzZ5bWxVNEREejZZZkFMckJYQnA3c05DQVFTX2ZPWDJBUlBZSUFhSEEwV0dxS0FuU21vd1lLbXl3cHZhcjZEWXlPTUxveC1QSUU2WTFtT1E?oc=5",
           "added_at": "2026-07-30 08:00:28"
-        },
-        {
-          "uid": "711451c34ba7",
-          "date": "2026-07-29",
-          "title": "The Connected Vehicle Crisis Idling Just Outside of America’s Borders - Alliance for American Manufacturing",
-          "summary": "申し訳ございませんが、提供いただいたテキストには、「米国接続車両安全保障法（S.4429）」に関する実質的な記事内容が含まれていません。タイトルのみで、具体的な記事本文がないため、要約することができません。記事の本文を提供していただければ、日本語1〜2文で要約させていただきます。",
-          "source": "業界団体（自動車）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkpRRnoxMTJ2NlFLSnRwd2xCcnlTM0Rsa29YUEVYelRmdl8tQkhMeXN4dWUwZVFqR0pLdXowbi1Pa3d2SnUydkxReWZsdndBZTd4VkFuQ3ZUVm5UeGRqZ0VfNjNoWG5RT2ZhTVp2UGZyYlVkdVBCam0xelRjNEtVb1lPaUpwdW5UZFNYdy10a3BjS09KXzRBbHhSbzB2T2k3MUlHbGVXSHI4UG9jd0JqMGln?oc=5",
-          "added_at": "2026-07-30 08:00:28"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-05 10:51:56",
+      "last_checked": "2026-10-05 21:07:30",
       "items": [
+        {
+          "uid": "335d717a78b4",
+          "date": "2026-08-08",
+          "title": "US unveils critical minerals deals in latest push to counter China - South China Morning Post",
+          "summary": "米国は中国のレアアース・重要鉱物に対する依存を低減するため、オーストラリアやカナダなどとの重要鉱物供給協力協定を新たに発表し、サプライチェーンの多角化を進めている。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkJOOFpjSEI1bHNpMFRVX28tdUEzd013dEZBZGRzUnIyODNiYU9BRmd2V2hOQjFQeDM4MnpZZVdFUUEweGJnRDhkWVRVRlJXdnpNWXFsMTAzb3AzZHZJV1RON3I2ZHBpRmxMNFItZElQOE1KQnkzYnRMc3ZoMGhkMjBMMW1pRUxaNkVlMlhYTnVVNUdxQURyTjZzWHNfUFNBX1lGZkJYaTHSAagBQVVfeXFMTVJQR1JFaXB4U2d6TUZZYUFfanNpTnlLanExZUdyS0NaVC13MDBIYUNaaDVCTWg2WjhOMDY1alBpZV9YMkV5OUg5UnRTMExpZWQwWXZ1dGp3V2Z0dkhGMXRxeGYySGZIVUVUWHRaM3pUOUpDNWp0Y0U3SFZTZVU0UEFILTNwWDVDWXZGaFRDOHd5bjRBcXFZQ2RaMHhVak9pTnBhZldocnhz?oc=5",
+          "added_at": "2026-10-05 21:07:29"
+        },
         {
           "uid": "7587df94d112",
           "date": "2026-09-04",
@@ -6021,16 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNTMxVEpmbHY4U0R6S3R1aHBSQkJGanlBaTExQ3haTDZidnVLMmVYUzk1N1kxb091VXBEbDk3b1FKMm1CWU9LaWRNb0g2ZUVjNzFuejlfc1d5SVY2UGNTRlVSbkYwbnFJZ2h0SkcybVl5RlNDRll3cjAxZlBfNjE3dUxR?oc=5",
           "added_at": "2026-09-05 17:52:37"
-        },
-        {
-          "uid": "218933abbf89",
-          "date": "2026-09-05",
-          "title": "Tesla unveils rare earth-free Cybercab motor; doubts remain over supply chain shift - 디지털투데이",
-          "summary": "テスラが希土類を使用しないサイバーキャブ用モーターを発表し、中国のレアアース輸出管理への依存脱却を目指しているが、サプライチェーンの転換実現には依然として課題が残っている。",
-          "source": "自動車・EV大手",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkpQby1SMVB0WFN1clctRlVuTFZDRnBuNnVHZnFkMGZCOWNqWE1Id01zSl9OZ3JQeUMyeXRUZUpqWDV5UWtSekNiUUlFMHk5VWptOWYxZEM3Rk5IM2xaUnZtVTVZMi1ORTFBcTJqV080dmExQ09YTlJlSU50Q1dmaFgxQXZsVjdMQ0M3RllLUFB6YmF2UzZPR1NpMXJMc3ZyWHJHc1FLMEM1enk5UXR6cVFxd29KVW8?oc=5",
-          "added_at": "2026-09-05 17:52:37"
         }
       ]
     },
@@ -6041,7 +6041,7 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-05 10:52:10",
+      "last_checked": "2026-10-05 21:07:36",
       "items": [
         {
           "uid": "f21c1e00e9eb",
