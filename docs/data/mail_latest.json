@@ -1,340 +1,240 @@
 {
-  "generated_at": "2026-10-02 14:24 JST",
-  "sender_count": 5,
-  "total_mails": 42,
+  "generated_at": "2026-10-05 10:51 JST",
+  "sender_count": 7,
+  "total_mails": 20,
   "summaries": [
     {
-      "sender": "EG",
-      "short": "EG",
+      "sender": "Alexander",
+      "short": "ALEXA",
       "color": "CYAN",
-      "count": 15,
+      "count": 1,
       "bullets": [
-        "英国のバーナム首相の社会保障改革計画が、近い将来の増税をめぐり有権者の反発と財務相との緊張を招く懸念",
-        "フランスの債券利回りがイタリアを上回る上昇を続けており、4月の選挙に向けた財政・政治不確実性が拡大",
-        "ドイツの産業再編は従来の脱工業化ではなく痛みを伴う産業転換となり、自動車・エネルギー集約的産業の政治的ダメージが経済的影響を上回る可能性",
-        "米国のディーゼル輸出規制が10月上旬での導入は低い確率（40%）であり、セクション301関税は2027年に法的リスクに直面",
-        "米国のデータセンター拡大は州レベルの条件付き規制（55%の確度で実施見込み）によっても減速しない見通し"
+        "米国財務省がロシアの決済ネットワークA7を多国籍犯罪組織として指定",
+        "FinCENが米国企業によるA7の下位代理人との取引禁止を提案",
+        "ロシアの制裁回避決済システムを支援する仲介業者が新たな制裁対象",
+        "銀行と欧米輸出業者がリスク回避のため取引削減",
+        "ロシア防衛産業への打撃が必至"
       ],
       "subjects": [
         [
-          "2026-09-30",
-          "eg update in Japanese",
-          "data/pdfs/20260930_1841_eg_update_in_Japanese.pdf"
-        ],
-        [
-          "2026-09-30",
-          "UK's Burnham risks voter backlash with care plan",
-          "data/pdfs/20260930_2159_UK's_Burnham_risks_voter_backlash_with_care_plan.pdf"
-        ],
-        [
-          "2026-10-01",
-          "Germany: Industry pain likely to further fuel AfD",
-          "data/pdfs/20261001_0009_Germany__Industry_pain_likely_to_further_fuel_AfD.pdf"
-        ],
-        [
-          "2026-10-01",
-          "What to watch on diesel export restriction odds",
-          "data/pdfs/20261001_0140_What_to_watch_on_diesel_export_restriction_odds.pdf"
-        ],
-        [
-          "2026-10-01",
-          "State data center restrictions won't slow US buildout",
-          "data/pdfs/20261001_0619_State_data_center_restrictions_won't_slow_US_build.pdf"
-        ],
-        [
-          "2026-10-01",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20261001_1249_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-10-01",
-          "Brazil polls show fragility of Lula's momentum",
-          "data/pdfs/20261001_2124_Brazil_polls_show_fragility_of_Lula's_momentum.pdf"
-        ],
-        [
-          "2026-10-01",
-          "Permitting package would stabilize policy environment for data",
-          "data/pdfs/20261001_2213_Permitting_package_would_stabilize_policy_environm.pdf"
-        ],
-        [
-          "2026-10-02",
-          "Senate's permitting package would be net positive for data centers",
-          "data/pdfs/20261002_0028_Senate's_permitting_package_would_be_net_positive_.pdf"
-        ],
-        [
-          "2026-10-02",
-          "AI accord leaves labs exposed to regulators",
-          "data/pdfs/20261002_0147_AI_accord_leaves_labs_exposed_to_regulators.pdf"
-        ],
-        [
-          "2026-10-02",
-          "Energy and Environment Outlook",
-          "data/pdfs/20261002_0217_Energy_and_Environment_Outlook.pdf"
-        ],
-        [
-          "2026-10-02",
-          "Trump-Xi summit shores up managed stability",
-          "data/pdfs/20261002_0509_Trump-Xi_summit_shores_up_managed_stability.pdf"
-        ],
-        [
-          "2026-10-02",
-          "European diesel release may be last offramp to avoid US export",
-          "data/pdfs/20261002_0543_European_diesel_release_may_be_last_offramp_to_avo.pdf"
-        ],
-        [
-          "2026-10-02",
-          "Lebanon: IMF deal out of reach in 2026",
-          "data/pdfs/20261002_0601_Lebanon__IMF_deal_out_of_reach_in_2026.pdf"
-        ],
-        [
-          "2026-10-02",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20261002_0800_EG_Research_Summary_in_Japanese.pdf"
+          "2026-10-03",
+          "Russia: Defense producers hurt by US payment system sanctions",
+          "data/pdfs/20261003_0412_Russia__Defense_producers_hurt_by_US_payment_syste.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260930_1841_eg_update_in_Japanese.pdf",
-        "data/pdfs/20260930_2159_UK's_Burnham_risks_voter_backlash_with_care_plan.pdf",
-        "data/pdfs/20261001_0009_Germany__Industry_pain_likely_to_further_fuel_AfD.pdf",
-        "data/pdfs/20261001_0140_What_to_watch_on_diesel_export_restriction_odds.pdf",
-        "data/pdfs/20261001_0619_State_data_center_restrictions_won't_slow_US_build.pdf",
-        "data/pdfs/20261001_1249_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20261001_2124_Brazil_polls_show_fragility_of_Lula's_momentum.pdf",
-        "data/pdfs/20261001_2213_Permitting_package_would_stabilize_policy_environm.pdf",
-        "data/pdfs/20261002_0028_Senate's_permitting_package_would_be_net_positive_.pdf",
-        "data/pdfs/20261002_0147_AI_accord_leaves_labs_exposed_to_regulators.pdf",
-        "data/pdfs/20261002_0217_Energy_and_Environment_Outlook.pdf",
-        "data/pdfs/20261002_0509_Trump-Xi_summit_shores_up_managed_stability.pdf",
-        "data/pdfs/20261002_0543_European_diesel_release_may_be_last_offramp_to_avo.pdf",
-        "data/pdfs/20261002_0601_Lebanon__IMF_deal_out_of_reach_in_2026.pdf",
-        "data/pdfs/20261002_0800_EG_Research_Summary_in_Japanese.pdf"
+        "data/pdfs/20261003_0412_Russia__Defense_producers_hurt_by_US_payment_syste.pdf"
+      ]
+    },
+    {
+      "sender": "EG",
+      "short": "EG",
+      "color": "YEL",
+      "count": 8,
+      "bullets": [
+        "EU の重要鉱物戦略が資金不足と規制の遅さにより、米国や中国などの競合国に対する競争力を喪失",
+        "ディーゼル緊急備蓄の放出がEUの米国への輸出規制回避の最後の選択肢",
+        "中国のデータセンター構想が半導体不足と地域計画の不整合により、多くの施設が稼働不足に陥着",
+        "米国による先端チップ輸出規制が中国のAI能力発展を阻害"
+      ],
+      "subjects": [
+        [
+          "2026-10-02",
+          "EG Energy, Climate & Resources, Europe: EU critical minerals",
+          "data/pdfs/20261002_1502_EG_Energy,_Climate_&_Resources,_Europe__EU_critica.pdf"
+        ],
+        [
+          "2026-10-02",
+          "European diesel release may be only way to avoid US export",
+          "data/pdfs/20261002_2107_European_diesel_release_may_be_only_way_to_avoid_U.pdf"
+        ],
+        [
+          "2026-10-02",
+          "European diesel release may be only way to avoid US export",
+          "data/pdfs/20261002_2108_European_diesel_release_may_be_only_way_to_avoid_U.pdf"
+        ],
+        [
+          "2026-10-02",
+          "China: Data centers hobbled by chips and planning gaps",
+          "data/pdfs/20261002_2354_China__Data_centers_hobbled_by_chips_and_planning_.pdf"
+        ],
+        [
+          "2026-10-03",
+          "Democrats' Senate leads are stable",
+          "data/pdfs/20261003_0037_Democrats'_Senate_leads_are_stable.pdf"
+        ],
+        [
+          "2026-10-04",
+          "France update",
+          "data/pdfs/20261004_0553_France_update.pdf"
+        ],
+        [
+          "2026-10-05",
+          "French election campaign will be buffeted by multiple crises this",
+          "data/pdfs/20261005_0101_French_election_campaign_will_be_buffeted_by_multi.pdf"
+        ],
+        [
+          "2026-10-05",
+          "France update - EG Conference Call, REMINDER",
+          "data/pdfs/20261005_0602_France_update_-_EG_Conference_Call,_REMINDER.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261002_1502_EG_Energy,_Climate_&_Resources,_Europe__EU_critica.pdf",
+        "data/pdfs/20261002_2107_European_diesel_release_may_be_only_way_to_avoid_U.pdf",
+        "data/pdfs/20261002_2108_European_diesel_release_may_be_only_way_to_avoid_U.pdf",
+        "data/pdfs/20261002_2354_China__Data_centers_hobbled_by_chips_and_planning_.pdf",
+        "data/pdfs/20261003_0037_Democrats'_Senate_leads_are_stable.pdf",
+        "data/pdfs/20261004_0553_France_update.pdf",
+        "data/pdfs/20261005_0101_French_election_campaign_will_be_buffeted_by_multi.pdf",
+        "data/pdfs/20261005_0602_France_update_-_EG_Conference_Call,_REMINDER.pdf"
       ]
     },
     {
       "sender": "Eurasia",
       "short": "EURAS",
-      "color": "YEL",
-      "count": 2,
+      "color": "RED",
+      "count": 1,
       "bullets": [
-        "米国の州によるデータセンター建設制限は条件付きに留まり、AI構想の推進と中国に対する競争力に支障なし",
-        "ホワイトハウスのAI協定は、ラボ企業を消費者保護およびアンチトラスト当局の規制から保護せず",
-        "データセンター電力調達の許認可パッケージは手続き期間の短縮と費用の上昇をもたらす可能性"
+        "中国のデータセンター整備が、チップ不足と計画の失誤により停滞",
+        "北京の介入により計画性を欠いたデータセンターが建設され、稼働率が低い状況",
+        "米国の輸出規制がコンピュート能力を制限",
+        "国内チップの技術突破があれば、中国のデータセンター投資戦略は急速に変わる可能性"
       ],
       "subjects": [
         [
-          "2026-10-01",
-          "Daily Research Summary - Sep 30th, 2026",
-          "data/pdfs/20261001_0834_Daily_Research_Summary_-_Sep_30th,_2026.pdf"
-        ],
-        [
-          "2026-10-02",
-          "Daily Research Summary - Oct 1st, 2026",
-          "data/pdfs/20261002_0834_Daily_Research_Summary_-_Oct_1st,_2026.pdf"
+          "2026-10-03",
+          "Daily Research Summary - Oct 2nd, 2026",
+          "data/pdfs/20261003_0833_Daily_Research_Summary_-_Oct_2nd,_2026.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261001_0834_Daily_Research_Summary_-_Sep_30th,_2026.pdf",
-        "data/pdfs/20261002_0834_Daily_Research_Summary_-_Oct_1st,_2026.pdf"
+        "data/pdfs/20261003_0833_Daily_Research_Summary_-_Oct_2nd,_2026.pdf"
+      ]
+    },
+    {
+      "sender": "Mujtaba",
+      "short": "MUJTA",
+      "color": "ORG",
+      "count": 2,
+      "bullets": [
+        "EU内でロシアのハイブリッド戦争とチャイナのオーバーキャパシティが政策論議の中心課題",
+        "ブリュッセルと各EU首脳陣で関心を集めている課題はマリーヌ・ルペンが国内経済プログラムを調整するかどうか",
+        "ルペンが来週市場懸念に対処することを目指す見通し"
+      ],
+      "subjects": [
+        [
+          "2026-10-02",
+          "PRACTICE LETTER: Dispatch from Brussels—Russia’s hybrid war",
+          "data/pdfs/20261002_1533_PRACTICE_LETTER__Dispatch_from_Brussels—Russia’s_h.pdf"
+        ],
+        [
+          "2026-10-03",
+          "France: Le Pen will aim to address market fears",
+          "data/pdfs/20261003_0210_France__Le_Pen_will_aim_to_address_market_fears.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261002_1533_PRACTICE_LETTER__Dispatch_from_Brussels—Russia’s_h.pdf",
+        "data/pdfs/20261003_0210_France__Le_Pen_will_aim_to_address_market_fears.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "RED",
-      "count": 22,
+      "color": "GRN",
+      "count": 6,
       "bullets": [
-        "西バルカン諸国がEU加盟に向けた売り込みを強化",
-        "EU航空産業戦略が米中競争への対抗とサプライチェーン強化を目指す方針",
-        "フランス極右政党の党首がバルデラ党首の問題に対応して家族と側近による体制強化",
-        "EU候補国に対し民主主義の後退やセンシティブ技術の不友好国への共有がなければ単一市場へのアクセス提供",
-        "ブラジル大統領選挙でボルソナロ派が勝利する場合、EUとメルコスル間の通商合意が危機に陥る可能性と、EU予算案の100億ユーロ削減が見込まれる展開"
+        "ドイツのメルツ首相の政治的失脚をめぐりヨーロッパが対応を検討。国内の政敵は喜ぶ一方、ブリュッセルは懸念の状況",
+        "米国の圧力を受けてフランスを含むG7諸国が石油・軽油備蓄の大量放出に合意。EUがディーゼル輸出禁止の脅威を回避",
+        "ロシア情報機関による無人機爆弾、焼夷弾、放火などを使用した広範なキャンペーンがドイツで発覚",
+        "ウクライナが周辺EU諸国に対して穀物輸出解禁を呼びかけたが応じられず"
       ],
       "subjects": [
         [
-          "2026-09-30",
-          "Western Balkan hopefuls press their case",
-          "data/pdfs/20260930_1359_Western_Balkan_hopefuls_press_their_case.pdf"
+          "2026-10-02",
+          "Europe war-games life after Merz",
+          "data/pdfs/20261002_1635_Europe_war-games_life_after_Merz.pdf"
         ],
         [
-          "2026-09-30",
-          "EU strategy to tackle aviation’s ‘automotive moment’",
-          "data/pdfs/20260930_1401_EU_strategy_to_tackle_aviation’s_‘automotive_momen.pdf"
+          "2026-10-02",
+          "France floats major release of oil and diesel reserves in response to",
+          "data/pdfs/20261002_1824_France_floats_major_release_of_oil_and_diesel_rese.pdf"
         ],
         [
-          "2026-09-30",
-          "Family first: Le Pen clan tightens its grip as Bardella hits trouble",
-          "data/pdfs/20260930_1636_Family_first__Le_Pen_clan_tightens_its_grip_as_Bar.pdf"
+          "2026-10-02",
+          "How a failed attack in Leipzig revealed a wider Russian campaign",
+          "data/pdfs/20261002_1907_How_a_failed_attack_in_Leipzig_revealed_a_wider_Ru.pdf"
         ],
         [
-          "2026-09-30",
-          "EU to offer single-market access to candidate countries",
-          "data/pdfs/20260930_1747_EU_to_offer_single-market_access_to_candidate_coun.pdf"
+          "2026-10-02",
+          "Trump says Europe agrees to release ‘massive amount’ of diesel",
+          "data/pdfs/20261002_2317_Trump_says_Europe_agrees_to_release_‘massive_amoun.pdf"
         ],
         [
-          "2026-09-30",
-          "A new Bolsonaro could pull Brazil away from Europe — and toward",
-          "data/pdfs/20260930_1855_A_new_Bolsonaro_could_pull_Brazil_away_from_Europe.pdf"
-        ],
-        [
-          "2026-09-30",
-          "Governments brace for €100B cut to EU budget proposal",
-          "data/pdfs/20260930_1907_Governments_brace_for_€100B_cut_to_EU_budget_propo.pdf"
-        ],
-        [
-          "2026-09-30",
-          "Labour picks a side on Gaza — and cheers the party faithful",
-          "data/pdfs/20260930_2105_Labour_picks_a_side_on_Gaza_—_and_cheers_the_party.pdf"
-        ],
-        [
-          "2026-09-30",
-          "Document: EU negotiators make headway on military mobility’s",
-          "data/pdfs/20260930_2106_Document__EU_negotiators_make_headway_on_military_.pdf"
-        ],
-        [
-          "2026-09-30",
-          "EU and Canada to announce sweeping new partnership pact",
-          "data/pdfs/20260930_2205_EU_and_Canada_to_announce_sweeping_new_partnership.pdf"
-        ],
-        [
-          "2026-09-30",
-          "Romanian political crisis deepens as parliament rejects PM",
-          "data/pdfs/20260930_2207_Romanian_political_crisis_deepens_as_parliament_re.pdf"
-        ],
-        [
-          "2026-09-30",
-          "Volkswagen faces union threat over termination of wage",
-          "data/pdfs/20260930_2321_Volkswagen_faces_union_threat_over_termination_of_.pdf"
-        ],
-        [
-          "2026-10-01",
+          "2026-10-03",
           "Pro Daily Headlines",
-          "data/pdfs/20261001_0031_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20261003_0031_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-10-01",
-          "FlyDubai suspends flights to and from Israel after pilot stabbing",
-          "data/pdfs/20261001_1303_FlyDubai_suspends_flights_to_and_from_Israel_after.pdf"
-        ],
-        [
-          "2026-10-01",
-          "The fight to control the EU’s purse strings",
-          "data/pdfs/20261001_1402_The_fight_to_control_the_EU’s_purse_strings.pdf"
-        ],
-        [
-          "2026-10-01",
-          "Commission credibility on the line",
-          "data/pdfs/20261001_1404_Commission_credibility_on_the_line.pdf"
-        ],
-        [
-          "2026-10-01",
-          "‘Absolute s–t’: EU’s Microsoft Teams alternative draws bad reviews",
-          "data/pdfs/20261001_1636_‘Absolute_s–t’__EU’s_Microsoft_Teams_alternative_d.pdf"
-        ],
-        [
-          "2026-10-01",
-          "Ukraine’s war chest is running low at the worst possible moment",
-          "data/pdfs/20261001_1735_Ukraine’s_war_chest_is_running_low_at_the_worst_po.pdf"
-        ],
-        [
-          "2026-10-02",
-          "European countries agree on ‘assertive’ response to US pressure",
-          "data/pdfs/20261002_0002_European_countries_agree_on_‘assertive’_response_t.pdf"
-        ],
-        [
-          "2026-10-02",
-          "Trump’s diesel threat risks hurting European truckers — and",
-          "data/pdfs/20261002_0029_Trump’s_diesel_threat_risks_hurting_European_truck.pdf"
-        ],
-        [
-          "2026-10-02",
-          "Pro Daily Headlines",
-          "data/pdfs/20261002_0031_Pro_Daily_Headlines.pdf"
-        ],
-        [
-          "2026-10-02",
-          "We need to talk about Friedrich",
-          "data/pdfs/20261002_1351_We_need_to_talk_about_Friedrich.pdf"
-        ],
-        [
-          "2026-10-02",
-          "SAF gains ground as a dual-use fuel",
-          "data/pdfs/20261002_1406_SAF_gains_ground_as_a_dual-use_fuel.pdf"
+          "2026-10-04",
+          "EU neighbors shun Kyiv’s plea to free trapped grain",
+          "data/pdfs/20261004_1400_EU_neighbors_shun_Kyiv’s_plea_to_free_trapped_grai.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260930_1359_Western_Balkan_hopefuls_press_their_case.pdf",
-        "data/pdfs/20260930_1401_EU_strategy_to_tackle_aviation’s_‘automotive_momen.pdf",
-        "data/pdfs/20260930_1636_Family_first__Le_Pen_clan_tightens_its_grip_as_Bar.pdf",
-        "data/pdfs/20260930_1747_EU_to_offer_single-market_access_to_candidate_coun.pdf",
-        "data/pdfs/20260930_1855_A_new_Bolsonaro_could_pull_Brazil_away_from_Europe.pdf",
-        "data/pdfs/20260930_1907_Governments_brace_for_€100B_cut_to_EU_budget_propo.pdf",
-        "data/pdfs/20260930_2105_Labour_picks_a_side_on_Gaza_—_and_cheers_the_party.pdf",
-        "data/pdfs/20260930_2106_Document__EU_negotiators_make_headway_on_military_.pdf",
-        "data/pdfs/20260930_2205_EU_and_Canada_to_announce_sweeping_new_partnership.pdf",
-        "data/pdfs/20260930_2207_Romanian_political_crisis_deepens_as_parliament_re.pdf",
-        "data/pdfs/20260930_2321_Volkswagen_faces_union_threat_over_termination_of_.pdf",
-        "data/pdfs/20261001_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20261001_1303_FlyDubai_suspends_flights_to_and_from_Israel_after.pdf",
-        "data/pdfs/20261001_1402_The_fight_to_control_the_EU’s_purse_strings.pdf",
-        "data/pdfs/20261001_1404_Commission_credibility_on_the_line.pdf",
-        "data/pdfs/20261001_1636_‘Absolute_s–t’__EU’s_Microsoft_Teams_alternative_d.pdf",
-        "data/pdfs/20261001_1735_Ukraine’s_war_chest_is_running_low_at_the_worst_po.pdf",
-        "data/pdfs/20261002_0002_European_countries_agree_on_‘assertive’_response_t.pdf",
-        "data/pdfs/20261002_0029_Trump’s_diesel_threat_risks_hurting_European_truck.pdf",
-        "data/pdfs/20261002_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20261002_1351_We_need_to_talk_about_Friedrich.pdf",
-        "data/pdfs/20261002_1406_SAF_gains_ground_as_a_dual-use_fuel.pdf"
+        "data/pdfs/20261002_1635_Europe_war-games_life_after_Merz.pdf",
+        "data/pdfs/20261002_1824_France_floats_major_release_of_oil_and_diesel_rese.pdf",
+        "data/pdfs/20261002_1907_How_a_failed_attack_in_Leipzig_revealed_a_wider_Ru.pdf",
+        "data/pdfs/20261002_2317_Trump_says_Europe_agrees_to_release_‘massive_amoun.pdf",
+        "data/pdfs/20261003_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20261004_1400_EU_neighbors_shun_Kyiv’s_plea_to_free_trapped_grai.pdf"
       ]
     },
     {
-      "sender": "ジェトロ",
-      "short": "ジェトロ",
-      "color": "ORG",
+      "sender": "ジェトロ調査企画課・デジタルメディア班",
+      "short": "ジェトロ調",
+      "color": "PRP",
       "count": 1,
       "bullets": [
-        "ジェトロが世界主要国・地域の政治・経済動向について独自の視点で分析したレポートを新着情報として配信",
-        "中南米主要6カ国のGDP合計額は約5.6兆ドルでASEANを上回る有望市場で、1人当たりGDPが1万ドルを超えており購買力拡大の機会あり",
-        "これまで高い関税や非関税障壁により日系企業の進出が限定的だったが、Eコマース・Mコマースの拡大と規制緩和により商機が拡大",
-        "中南米は日本文化への受容性が高く多様な文化背景が強みで、今後の消費や産業動向、政策、企業への影響を分析して紹介する予定"
+        "EPA活用時の協定選択やRCEP累積規定、三国間貿易などの実務的なつまずきポイントを、実際の相談事例から解説するウェビナーを開催",
+        "日バングラデシュEPAと日UAE CEPAについて、経済産業省から最新動向を紹介",
+        "中堅・中小企業を対象に、EPA活用方法への理解を深める機会を提供",
+        "10月14日14時から15時45分のライブ配信で、無料で参加可能",
+        "事前申し込み時にEPA関連の質問を募集し、ウェビナー内で対応"
       ],
       "subjects": [
         [
-          "2026-10-01",
-          "ジェトロ地域・分析レポートの新着のご案内（2026年10月1日号）",
-          "data/pdfs/20261001_1315_ジェトロ地域・分析レポートの新着のご案内（2026年10月1日号）.pdf"
+          "2026-10-02",
+          "《好評受付中》ジェトロ【ウェビナー】EPA相談事例から考える協定活",
+          "data/pdfs/20261002_1903_《好評受付中》ジェトロ【ウェビナー】EPA相談事例から考える協定活用のポイントと最新動向.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261001_1315_ジェトロ地域・分析レポートの新着のご案内（2026年10月1日号）.pdf"
+        "data/pdfs/20261002_1903_《好評受付中》ジェトロ【ウェビナー】EPA相談事例から考える協定活用のポイントと最新動向.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "GRN",
-      "count": 2,
+      "color": "CYAN",
+      "count": 1,
       "bullets": [
-        "中国・ASEAN博覧会やASEAN経済連携の強化により、アジア域内の経済統合が進展",
-        "米中経済貿易協議で関税引き下げなどの枠組み合意、経済関係の改善に向けた動き",
-        "香港が国際金融・知財取引センター構想など、国際競争力強化と北部都会区開発を推進",
-        "中国でのホテル外の外国人宿泊登記のオンライン導入やタイの外国人向けデジタルゲートアプリ発表など、デジタル化の進展",
-        "マレーシアの投資認可総額が増加する一方、模倣品対策強化など知的財産保護の取り組みが並行"
+        "中国の米国商会が調査報告書を公表し、事業見通しは大幅改善したが国内競争激化が最大課題",
+        "香港政府がたばこの無地包装義務化と納税済みラベル制度を導入し、規制強化",
+        "シンガポール政府が先端半導体産業の誘致に向けて国家ブランド「SGセミコンダクター」を発表し、研究・製造活動促進",
+        "ASEAN地域のクリエーティブ経済に関するビジネス対話でベンチャー投資不足とIP保護が主要課題として議論",
+        "トヨタ・アルゼンチンの電動車生産事業がアルゼンチンの大型投資奨励制度（RIGI）に認定"
       ],
       "subjects": [
         [
-          "2026-09-30",
-          "「ジェトロ・ビジネス短信」2026/09/30",
-          "data/pdfs/20260930_1807_「ジェトロ・ビジネス短信」2026_09_30.pdf"
-        ],
-        [
-          "2026-10-01",
-          "「ジェトロ・ビジネス短信」2026/10/01",
-          "data/pdfs/20261001_1807_「ジェトロ・ビジネス短信」2026_10_01.pdf"
+          "2026-10-02",
+          "「ジェトロ・ビジネス短信」2026/10/02",
+          "data/pdfs/20261002_1824_「ジェトロ・ビジネス短信」2026_10_02.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20260930_1807_「ジェトロ・ビジネス短信」2026_09_30.pdf",
-        "data/pdfs/20261001_1807_「ジェトロ・ビジネス短信」2026_10_01.pdf"
+        "data/pdfs/20261002_1824_「ジェトロ・ビジネス短信」2026_10_02.pdf"
       ]
     }
   ]
