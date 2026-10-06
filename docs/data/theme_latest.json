@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06 09:48:06",
+  "generated_at": "2026-10-06 20:52:10",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-06 09:47:03",
+      "last_checked": "2026-10-06 20:51:24",
       "items": [
+        {
+          "uid": "ec9194f1d00b",
+          "date": "2026-09-10",
+          "title": "Lead MEPs would exclude US goods from made-in-Europe quotas - rapporteur.com",
+          "summary": "欧州議会の主要議員らが、米国製品をEU産業加速法案の「欧州製」割当枠から除外する方針を示唆しており、これはEU域内産業保護と米国製品の差別化を狙った措置である。",
+          "source": "EURACTIV",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFFWYU54ZlNMNXF3TkoxalBrdkFzQnc3cWNkT1dVb1BDRWpCMVJwTF9FWHNSOWVndDF4a2pLMllROHZfWlVFY3hZdUZIOVBHWlY0bVRwcG9IcnNUZnN2c2NwaDYzRjhibFdtbkVVZHhMN0tvekduUnpHWjJoNE9YQlRNRnVxT2NVbjN5Q3dYaGMzQmZC?oc=5",
+          "added_at": "2026-10-06 20:51:22"
+        },
         {
           "uid": "4dae54c628d3",
           "date": "2026-09-14",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNUd5NXV0azZ0TVJlZmJMYXU5bXRMOFdSZFRMQTdYRVdfMVVhOTdPS0pDdnZBNTUxbkJjTmtVXzNHLS1CX3Jsbkp2Wko4SXc2N3dtZVkyQTVPcXdlWVlRVm9OWVloX2NRNi1hcjh6a21wWmY0cHYzRmlpVng2VzFlX2FWLWFHZVo3MFh2U2EwYlhtaHNZZlBkaXRrX1lvN2ozOU80R21BRHZPNHB5NVBycEtzWDE3VU5tUFkwbGt6dzBFWV95Q1E?oc=5",
           "added_at": "2026-06-30 13:42:23"
-        },
-        {
-          "uid": "9f03f159970d",
-          "date": "2026-06-29",
-          "title": "EU Industrial Accelerator Act reshapes Türkiye supply chain role - Yeni Safak English",
-          "summary": "欧州産業加速法案（IAA）がトルコのサプライチェーンにおける役割を再構築しており、トルコは欧州の産業戦略における重要なパートナーとしての地位が変わることを示唆している。この法案を通じた欧州の産業政策の転換により、トルコの供給チェーンポジションが戦略的に再編される可能性がある。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3h3aUpHcmRRQ1BHUmRVaGsxUGVCNFlrcnpObDVwekFZTVBkci1vMnZkZnlrWDVsNkQ4VGdnQzhVZ0h1cExuc3FwbWYxcGVua2NHV0FCQWU4VXBzVXM5dGY3VTk2MzlpTlNTT1RzVnNlWHl0aFNXLUp3VlhPbU9HXzJvdDBTdUdFWlNUM1BoTUZlMkh6bzd0bHMzRk56Q2t2ZmVQUUp0S0k?oc=5",
-          "added_at": "2026-06-30 13:42:23"
         }
       ]
     },
@@ -2019,8 +2019,48 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-06 09:47:20",
+      "last_checked": "2026-10-06 20:51:47",
       "items": [
+        {
+          "uid": "c249890a8895",
+          "date": "2026-08-19",
+          "title": "America Didn’t Ban Polestar’s Factory. It Banned Its Owner. - The Auto Wire",
+          "summary": "申し訳ありませんが、提供していただいたテキストは記事のタイトルのみで、本文の具体的な内容が含まれていないため、S.4429に関連した要約を作成することができません。記事の本文をお提供ください。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPekNWUk5Tb2lESWE3LXhlU2xWelFIOEIyUFRELXpMeVRoZDd4WkN6aXdTR2lRcC1VWU1WLUhSdmZ5MVphdGRNakp2Z3ZSSXlkUWs0N0M1c243b3U5Nm52RHlEWkhXOS1zWDNFVFJwMmR1OEtlRHN2bmItQm9KeEt5WVplN2lFVER2TFVDSVNOWkliRDduTVE?oc=5",
+          "added_at": "2026-10-06 20:51:32"
+        },
+        {
+          "uid": "5efa084beecb",
+          "date": "2026-09-23",
+          "title": "Senators Push for Ban on Chinese Automakers Ahead of Trump‑Xi Summit - Forth.News",
+          "summary": "# 米国の上院議員たちは、トランプ・習近平首脳会談を前に、中国自動車メーカーの米国市場参入禁止を推し進めており、これは S.4429 による安全保障上の懸念に基づいた規制強化の一環である。",
+          "source": "議員発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ELXRtSUswV1puV3VKdF93c0xQSWw1UEJDNVcxQWRhUThiOU9pNDNFcXVqbi1VVmF6ZTBrM1c1OUc4X1l5YXZIREx4UjNwWEhyUXZCUWoyWnZfZ213LXR3aWln?oc=5",
+          "added_at": "2026-10-06 20:51:32"
+        },
+        {
+          "uid": "711451c34ba7",
+          "date": "2026-07-29",
+          "title": "The Connected Vehicle Crisis Idling Just Outside of America’s Borders - Alliance for American Manufacturing",
+          "summary": "I appreciate your request, but I don't have access to the specific article content from the Alliance for American Manufacturing that you're referencing. You've provided the title, but not the actual article text.\n\n記事の具体的な内容を提供していただければ、「米国接続車両安全保障法（S.4429）」の文脈での日本語要約をお作りできます。",
+          "source": "業界団体（自動車）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkpRRnoxMTJ2NlFLSnRwd2xCcnlTM0Rsa29YUEVYelRmdl8tQkhMeXN4dWUwZVFqR0pLdXowbi1Pa3d2SnUydkxReWZsdndBZTd4VkFuQ3ZUVm5UeGRqZ0VfNjNoWG5RT2ZhTVp2UGZyYlVkdVBCam0xelRjNEtVb1lPaUpwdW5UZFNYdy10a3BjS09KXzRBbHhSbzB2T2k3MUlHbGVXSHI4UG9jd0JqMGln?oc=5",
+          "added_at": "2026-10-06 20:51:32"
+        },
+        {
+          "uid": "e4f2e2eb2daa",
+          "date": "2026-09-18",
+          "title": "U.S. auto industry pleads with Trump to ban Chinese vehicles - Axios",
+          "summary": "米国の自動車産業がトランプ前大統領に対して、中国製車両の米国市場への流入を禁止するよう要請しており、S.4429法案はこうした業界の懸念に対応する形で、中国製EV等からの国家安全保障上の脅威を理由に車両規制を強化する内容となっています。",
+          "source": "自動車部品業界",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41WFVXWVRXUXZ5WTZ6d0hraDB3QnFibDRaaWFLMXRjNGdnVGNrdjZzQ1BpeFFOOThNUE9JTmIwQnR5WFFHdWw3WF9mY2l5WXdQcHZvQTNOdGhsWVVFbmVzcVFBSlR0cnNVN0g0b2RQSQ?oc=5",
+          "added_at": "2026-10-06 20:51:32"
+        },
         {
           "uid": "22ed188e18aa",
           "date": "2026-07-22",
@@ -3980,46 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1IzOXJHQUxBWW5lamNLZnJ0bmowR0NweG9VXzZ0dDBZelZDdzM4ei1lbEFQTFphMFJ4Y3MwdlAya0xsSFY2dXhIMlJqbnowRGpUY2g1a0pFaGFWZ1VEcXYtWmVMMk1teXhEdFVHeDVITXA2YU5LclVKbVJXbGFuZGw1TlQ?oc=5",
           "added_at": "2026-07-31 00:53:01"
-        },
-        {
-          "uid": "55d083672457",
-          "date": "2026-07-29",
-          "title": "While the bill was written to keep Chinese automakers out of America, the company it caught employs more than 10,000 Americans, assembles cars in Alabama and South Carolina, and just posted its best year ever with an SUV built in Tuscaloosa - Autonocion.com",
-          "summary": "S.4429は中国の自動車メーカーを排除することを目的としていますが、規制対象となった企業は米国内で10,000人以上を雇用し、アラバマ州とサウスカロライナ州で自動車を組立て、タスカルーサで製造したSUVで過去最高の成績を記録しています。",
-          "source": "上院議員",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fRWJScG1kd0hKbXlmNV8tXzE1Y3pqQ1NjZWhiaFFvY2VtMkNqZW9KeE80a1N1SDI4eGlaYks0VElEWEFfXzhpZll1VkZhbGx2YjBuc3hXc1VWMUlmd1VtbkVjQ2dDeU03M2hockRhQ2lGNi1lNHpZ?oc=5",
-          "added_at": "2026-07-30 16:35:29"
-        },
-        {
-          "uid": "87b4d68abe8b",
-          "date": "2026-06-01",
-          "title": "Mercedes-Benz dealers face uncertainty as Congress weighs ownership restrictions - CBT News",
-          "summary": "メルセデス・ベンツのディーラーが、米国接続車両安全保障法（S.4429）による外国資本の所有制限の検討に直面し、経営の不確実性が増している。この法案は、国家安全保障上の懸念から中国やロシアなどの外国投資家によるディーラー所有を制限しようとしている。",
-          "source": "業界団体（自動車）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGMHo2R3BRa3k4UWRFZUVydFZBV2hpdzhBM0szUmJwNnE3dW1WMkxDc0VRVHR2RHZJWFdZOWwyOUhWa1R5RnNVOFdsRjNpLWc5UmV1Tml4UmxMcHZaM19qbTBoeTFkR2w1eGRsTUMxUFc?oc=5",
-          "added_at": "2026-07-30 16:35:29"
-        },
-        {
-          "uid": "4de701042296",
-          "date": "2026-06-25",
-          "title": "Polestar exits US market after government bans sales due to connected vehicle tech - Yahoo Finance",
-          "summary": "# 要約\n\nポールスター（Polestar）は、接続車両技術に関する米国政府の規制により米国市場から撤退を余儀なくされており、これはS.4429法による接続車両安全保障規制の実施例を示しています。同法は車両の接続技術に対する安全保障上の懸念から販売禁止措置を導入するものです。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeGFURElyWlViNkJTQTFBUy1LNzRkQVV6alFpNU5ETmtRaEdWY1RfRjk4d1FPQ1JtTnRDRUc2elE3Q3oxSHRnRXY2Q1BYZHJyZkRvM0x1Y0dweVp4Vi1ySVVVRjMxQU0taVRVdV9FLW40cjJWUnVRNVJqeG9uV09HaDVBMVJoMVJUX0JKcWtBVzdiY3QwZGJfS2xJN3FwUHd1MlV2bmVXOTlQSXdCLUh0eEE1RjI5UmFGd3Vubm1BUS1QOTR0X0ZuNmx5X1FveXlNQVIyUUZmUTZraE11YTJv?oc=5",
-          "added_at": "2026-07-30 16:35:29"
-        },
-        {
-          "uid": "f3f22bb06de4",
-          "date": "2026-07-29",
-          "title": "MichAuto and the Detroit Regional Chamber Applaud Senate Committee Advancement of Connected Vehicle Security Act - MichAuto",
-          "summary": "ミシガン自動車工業会とデトロイト地域商工会議所は、コネクテッドカーのサイバーセキュリティ基準を定める米国接続車両安全保障法（S.4429）の上院委員会での可決を支持しており、これは自動車産業の安全性向上と国家安全保障強化に貢献するものと評価している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV2xuOWhnT216M1hJQk9ISjk2RHVHMzZVM3FBdjJYYVVYbHRxNGpLdUZHdHhHTTZqN0ZkSUkwLWJWMHo1STBldUdVdTNvUjVlNlFvYndFOUFjdjh6N2hnM0xqSlhuSlRxdWUyaFZyVklFbmQ2TWk1V0FuUE02RTAzbzZ5bWxVNEREejZZZkFMckJYQnA3c05DQVFTX2ZPWDJBUlBZSUFhSEEwV0dxS0FuU21vd1lLbXl3cHZhcjZEWXlPTUxveC1QSUU2WTFtT1E?oc=5",
-          "added_at": "2026-07-30 08:00:28"
         }
       ]
     },
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-06 09:47:50",
+      "last_checked": "2026-10-06 20:52:02",
       "items": [
         {
           "uid": "27da4ed1f27e",
@@ -6041,8 +6041,28 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-06 09:48:06",
+      "last_checked": "2026-10-06 20:52:10",
       "items": [
+        {
+          "uid": "13fb8ad81c0d",
+          "date": "2026-09-09",
+          "title": "Republican lawmakers criticize Ford business ties to China - Reuters",
+          "summary": "共和党議員がフォード・モーターの中国との事業提携を批判しており、自動車メーカーの対中関係が米国の政治的議論の対象となっている。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlBwY0xWY25vMW5KUmhIc3BjbVp0bUhyTnpXOGRuOXhKWVFVSlZrMWRXc2VsWHFRLWJ3UU14VmFrLWJTenNJa2NiNm52SWpTc2cyM0RrcG14el9TOVdFNkFDYkZKcGNPeWtqM19OYlZOTjFUaS1TYXJFZElMM0JHREo1SjhabVROTllGQzBnLXRuQml0cnZlWGRVOUFmX3IwN3lLNGpYSC11aEJmMFVqRWF3YUtDSHQ4amJueXhn?oc=5",
+          "added_at": "2026-10-06 20:52:08"
+        },
+        {
+          "uid": "0ac0de892d97",
+          "date": "2026-10-06",
+          "title": "Poll: Democrats hold major advantage on health care costs",
+          "summary": "申し訳ございませんが、提供いただいた記事は「自動車メーカーの対中提携への政治的批判」とは全く関連のない、米国の医療費問題に関する世論調査についてのものです。文脈が一致していないため、要約することができません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/healthcare/6130630-voters-trust-democrats-health-costs/",
+          "added_at": "2026-10-06 20:52:08"
+        },
         {
           "uid": "c59808b8d4af",
           "date": "2026-09-30",
@@ -8021,26 +8041,6 @@
           "source": "業界分析",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSDNhb21GS2pXSmxncXBwcWpYX2czVlBqT3h2VkdWUHc0MVprVlUyN3lzMkFDUXZOTEVydEFrcHE5RHp6WE9uZk5vNlJzODZRanM3WGxXajFUMUw4bXUzakRsY0ZnaXpfWk1UNEM3YkJtNTh4SnNNR0VrYXY3WnoxaWNjUC0wanhyNzJESUUwZmZWYXpndTBrTFcxcWFFNEN6ZGFnOTlKbTZ3V2ZFRHNVR0oxeVpPVE9RUUdRa0JDb2dpc3JvWDFjTUpWM3RjTlJqakl3ejBB0gHbAUFVX3lxTE44Z1FNS21YMkRPZHBjTVo0b25jVEdRbE1Qam5PaGc5eDhxSWxwYkJUWXZlOGFQdjRVSXNYQUxWU0x0em5XZmlQNy02MEViUlFsZ2d1TmQtY1NhbVVQbm9BWWxjYW5ZSmpxZzhZUTcyTW5tM2lwSFF0el92VmRQY1pwbzg2bnhVaGlGU05EWVp2TDEzeEl0ZGZVWnhVdUNQZ1Bobk5ULVZyU0NPb3MyWEhTSEc2Q0NkTU9Sb3lrUFdMS04xbWIzblJEUFhBTGNBdXhhcXlxRXNHekc3Yw?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "ff1773066b97",
-          "date": "2026-09-09",
-          "title": "Ford Motor Co. stock falls as Trump administration attacks China partnerships - ad-hoc-news.de",
-          "summary": "トランプ政権が中国との提携を攻撃する中、フォード・モーター・カンパニーの株価が下落した。自動車メーカーの対中提携が政治的な批判の対象となり、企業価値に悪影響を及ぼしている。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVhhVGdIVXBxWEd1eHFoSlNoTWF0Z1h0VmpjWmxfYTZzZkhFbjNub1dWVWNGM1g4X25BUEhQdXNDLVBvbXVJQ2p2UVlEcERWYVFuXy1URGRYOWRjenpjaERWNF9aMVdRY21TUTVsTkNieTMtWDVwck9EUUJtV19hZ041ZXhXX2UtZ3RJczNyZU1INUNuVW5nQUpMdjQ4dkpHNUZOdDRKbXFpc2h1RXVSeFdva0lhWi1weVdrQ2lRLW5NMmJO?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "bffa9d5b6a80",
-          "date": "2026-09-08",
-          "title": "Transportation Secretary Warns Ford Over China Ties Raising Security Risks - SuaraGarut.ID",
-          "summary": "米国運輸長官がフォード・モーターの中国との関係が安全保障上のリスクをもたらす可能性があると警告した。これは自動車メーカーの対中提携が米国政府から政治的・戦略的な懸念を招いていることを示している。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UVlA5WG5ibC1yS1ZqU2NtVjhaMTk3cDJSeDB2SzVBRWFsbU5WS2xuSVhYbFpHY19CM1c1S1U0LURLTDhNQnJSNktGODJHM05mbnV2MEk3a3BqZkVNYUVnQ3Bn?oc=5",
           "added_at": "2026-09-14 16:32:35"
         }
       ]
