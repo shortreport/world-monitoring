@@ -1,240 +1,103 @@
 {
-  "generated_at": "2026-10-05 10:51 JST",
-  "sender_count": 7,
-  "total_mails": 20,
+  "generated_at": "2026-10-06 09:47 JST",
+  "sender_count": 3,
+  "total_mails": 8,
   "summaries": [
-    {
-      "sender": "Alexander",
-      "short": "ALEXA",
-      "color": "CYAN",
-      "count": 1,
-      "bullets": [
-        "米国財務省がロシアの決済ネットワークA7を多国籍犯罪組織として指定",
-        "FinCENが米国企業によるA7の下位代理人との取引禁止を提案",
-        "ロシアの制裁回避決済システムを支援する仲介業者が新たな制裁対象",
-        "銀行と欧米輸出業者がリスク回避のため取引削減",
-        "ロシア防衛産業への打撃が必至"
-      ],
-      "subjects": [
-        [
-          "2026-10-03",
-          "Russia: Defense producers hurt by US payment system sanctions",
-          "data/pdfs/20261003_0412_Russia__Defense_producers_hurt_by_US_payment_syste.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261003_0412_Russia__Defense_producers_hurt_by_US_payment_syste.pdf"
-      ]
-    },
     {
       "sender": "EG",
       "short": "EG",
-      "color": "YEL",
-      "count": 8,
+      "color": "CYAN",
+      "count": 3,
       "bullets": [
-        "EU の重要鉱物戦略が資金不足と規制の遅さにより、米国や中国などの競合国に対する競争力を喪失",
-        "ディーゼル緊急備蓄の放出がEUの米国への輸出規制回避の最後の選択肢",
-        "中国のデータセンター構想が半導体不足と地域計画の不整合により、多くの施設が稼働不足に陥着",
-        "米国による先端チップ輸出規制が中国のAI能力発展を阻害"
+        "ブラジル大統領選ではルラの勢いの弱まりと情勢の不透明化が指摘される一方、メキシコではメール内容が途中で切断されて詳細は確認不可",
+        "ドイツの産業再編に伴う政治的打撃がマクロ経済への影響を上回る可能性",
+        "欧州の軽油備蓄放出が米国の輸出規制を回避する手段となる可能性",
+        "ASEANが米国への輸出依存削減に苦戦",
+        "インドがFDI流入減少に対応すべく新しい二国間投資協定の枠組みを導入予定"
       ],
       "subjects": [
         [
-          "2026-10-02",
-          "EG Energy, Climate & Resources, Europe: EU critical minerals",
-          "data/pdfs/20261002_1502_EG_Energy,_Climate_&_Resources,_Europe__EU_critica.pdf"
-        ],
-        [
-          "2026-10-02",
-          "European diesel release may be only way to avoid US export",
-          "data/pdfs/20261002_2107_European_diesel_release_may_be_only_way_to_avoid_U.pdf"
-        ],
-        [
-          "2026-10-02",
-          "European diesel release may be only way to avoid US export",
-          "data/pdfs/20261002_2108_European_diesel_release_may_be_only_way_to_avoid_U.pdf"
-        ],
-        [
-          "2026-10-02",
-          "China: Data centers hobbled by chips and planning gaps",
-          "data/pdfs/20261002_2354_China__Data_centers_hobbled_by_chips_and_planning_.pdf"
-        ],
-        [
-          "2026-10-03",
-          "Democrats' Senate leads are stable",
-          "data/pdfs/20261003_0037_Democrats'_Senate_leads_are_stable.pdf"
-        ],
-        [
-          "2026-10-04",
-          "France update",
-          "data/pdfs/20261004_0553_France_update.pdf"
+          "2026-10-05",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20261005_1652_EG_Research_Summary_in_Japanese.pdf"
         ],
         [
           "2026-10-05",
-          "French election campaign will be buffeted by multiple crises this",
-          "data/pdfs/20261005_0101_French_election_campaign_will_be_buffeted_by_multi.pdf"
+          "ASEAN struggling to reduce export dependency on US",
+          "data/pdfs/20261005_1716_ASEAN_struggling_to_reduce_export_dependency_on_US.pdf"
         ],
         [
           "2026-10-05",
-          "France update - EG Conference Call, REMINDER",
-          "data/pdfs/20261005_0602_France_update_-_EG_Conference_Call,_REMINDER.pdf"
+          "Investment treaties return on New Delhi’s terms",
+          "data/pdfs/20261005_1735_Investment_treaties_return_on_New_Delhi’s_terms.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261002_1502_EG_Energy,_Climate_&_Resources,_Europe__EU_critica.pdf",
-        "data/pdfs/20261002_2107_European_diesel_release_may_be_only_way_to_avoid_U.pdf",
-        "data/pdfs/20261002_2108_European_diesel_release_may_be_only_way_to_avoid_U.pdf",
-        "data/pdfs/20261002_2354_China__Data_centers_hobbled_by_chips_and_planning_.pdf",
-        "data/pdfs/20261003_0037_Democrats'_Senate_leads_are_stable.pdf",
-        "data/pdfs/20261004_0553_France_update.pdf",
-        "data/pdfs/20261005_0101_French_election_campaign_will_be_buffeted_by_multi.pdf",
-        "data/pdfs/20261005_0602_France_update_-_EG_Conference_Call,_REMINDER.pdf"
-      ]
-    },
-    {
-      "sender": "Eurasia",
-      "short": "EURAS",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "中国のデータセンター整備が、チップ不足と計画の失誤により停滞",
-        "北京の介入により計画性を欠いたデータセンターが建設され、稼働率が低い状況",
-        "米国の輸出規制がコンピュート能力を制限",
-        "国内チップの技術突破があれば、中国のデータセンター投資戦略は急速に変わる可能性"
-      ],
-      "subjects": [
-        [
-          "2026-10-03",
-          "Daily Research Summary - Oct 2nd, 2026",
-          "data/pdfs/20261003_0833_Daily_Research_Summary_-_Oct_2nd,_2026.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261003_0833_Daily_Research_Summary_-_Oct_2nd,_2026.pdf"
-      ]
-    },
-    {
-      "sender": "Mujtaba",
-      "short": "MUJTA",
-      "color": "ORG",
-      "count": 2,
-      "bullets": [
-        "EU内でロシアのハイブリッド戦争とチャイナのオーバーキャパシティが政策論議の中心課題",
-        "ブリュッセルと各EU首脳陣で関心を集めている課題はマリーヌ・ルペンが国内経済プログラムを調整するかどうか",
-        "ルペンが来週市場懸念に対処することを目指す見通し"
-      ],
-      "subjects": [
-        [
-          "2026-10-02",
-          "PRACTICE LETTER: Dispatch from Brussels—Russia’s hybrid war",
-          "data/pdfs/20261002_1533_PRACTICE_LETTER__Dispatch_from_Brussels—Russia’s_h.pdf"
-        ],
-        [
-          "2026-10-03",
-          "France: Le Pen will aim to address market fears",
-          "data/pdfs/20261003_0210_France__Le_Pen_will_aim_to_address_market_fears.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261002_1533_PRACTICE_LETTER__Dispatch_from_Brussels—Russia’s_h.pdf",
-        "data/pdfs/20261003_0210_France__Le_Pen_will_aim_to_address_market_fears.pdf"
+        "data/pdfs/20261005_1652_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20261005_1716_ASEAN_struggling_to_reduce_export_dependency_on_US.pdf",
+        "data/pdfs/20261005_1735_Investment_treaties_return_on_New_Delhi’s_terms.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "GRN",
-      "count": 6,
+      "color": "YEL",
+      "count": 4,
       "bullets": [
-        "ドイツのメルツ首相の政治的失脚をめぐりヨーロッパが対応を検討。国内の政敵は喜ぶ一方、ブリュッセルは懸念の状況",
-        "米国の圧力を受けてフランスを含むG7諸国が石油・軽油備蓄の大量放出に合意。EUがディーゼル輸出禁止の脅威を回避",
-        "ロシア情報機関による無人機爆弾、焼夷弾、放火などを使用した広範なキャンペーンがドイツで発覚",
-        "ウクライナが周辺EU諸国に対して穀物輸出解禁を呼びかけたが応じられず"
+        "欧州議会でのウルスラ・フォン・デル・ライエン連立がガザ資金をめぐって分裂",
+        "EUの自動車政策をめぐる交渉が加速",
+        "スペインのサンチェス首相が11月29日の総選挙を召集、住宅危機対策で政権延長を目指す",
+        "大西洋の海流減速による気候危機がヨーロッパに深刻な影響をもたらす懸念"
       ],
       "subjects": [
         [
-          "2026-10-02",
-          "Europe war-games life after Merz",
-          "data/pdfs/20261002_1635_Europe_war-games_life_after_Merz.pdf"
+          "2026-10-05",
+          "The diplomatic gold rush",
+          "data/pdfs/20261005_1400_The_diplomatic_gold_rush.pdf"
         ],
         [
-          "2026-10-02",
-          "France floats major release of oil and diesel reserves in response to",
-          "data/pdfs/20261002_1824_France_floats_major_release_of_oil_and_diesel_rese.pdf"
+          "2026-10-05",
+          "Negotiations heat up on auto files",
+          "data/pdfs/20261005_1406_Negotiations_heat_up_on_auto_files.pdf"
         ],
         [
-          "2026-10-02",
-          "How a failed attack in Leipzig revealed a wider Russian campaign",
-          "data/pdfs/20261002_1907_How_a_failed_attack_in_Leipzig_revealed_a_wider_Ru.pdf"
+          "2026-10-05",
+          "Spain’s Sánchez calls snap elections for Nov. 29",
+          "data/pdfs/20261005_1630_Spain’s_Sánchez_calls_snap_elections_for_Nov._29.pdf"
         ],
         [
-          "2026-10-02",
-          "Trump says Europe agrees to release ‘massive amount’ of diesel",
-          "data/pdfs/20261002_2317_Trump_says_Europe_agrees_to_release_‘massive_amoun.pdf"
-        ],
-        [
-          "2026-10-03",
-          "Pro Daily Headlines",
-          "data/pdfs/20261003_0031_Pro_Daily_Headlines.pdf"
-        ],
-        [
-          "2026-10-04",
-          "EU neighbors shun Kyiv’s plea to free trapped grain",
-          "data/pdfs/20261004_1400_EU_neighbors_shun_Kyiv’s_plea_to_free_trapped_grai.pdf"
+          "2026-10-05",
+          "A climate nightmare lurks in the Atlantic. Europe is starting to pay",
+          "data/pdfs/20261005_1744_A_climate_nightmare_lurks_in_the_Atlantic._Europe_.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261002_1635_Europe_war-games_life_after_Merz.pdf",
-        "data/pdfs/20261002_1824_France_floats_major_release_of_oil_and_diesel_rese.pdf",
-        "data/pdfs/20261002_1907_How_a_failed_attack_in_Leipzig_revealed_a_wider_Ru.pdf",
-        "data/pdfs/20261002_2317_Trump_says_Europe_agrees_to_release_‘massive_amoun.pdf",
-        "data/pdfs/20261003_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20261004_1400_EU_neighbors_shun_Kyiv’s_plea_to_free_trapped_grai.pdf"
+        "data/pdfs/20261005_1400_The_diplomatic_gold_rush.pdf",
+        "data/pdfs/20261005_1406_Negotiations_heat_up_on_auto_files.pdf",
+        "data/pdfs/20261005_1630_Spain’s_Sánchez_calls_snap_elections_for_Nov._29.pdf",
+        "data/pdfs/20261005_1744_A_climate_nightmare_lurks_in_the_Atlantic._Europe_.pdf"
       ]
     },
     {
-      "sender": "ジェトロ調査企画課・デジタルメディア班",
-      "short": "ジェトロ調",
-      "color": "PRP",
+      "sender": "ジェトロ",
+      "short": "ジェトロ",
+      "color": "RED",
       "count": 1,
       "bullets": [
-        "EPA活用時の協定選択やRCEP累積規定、三国間貿易などの実務的なつまずきポイントを、実際の相談事例から解説するウェビナーを開催",
-        "日バングラデシュEPAと日UAE CEPAについて、経済産業省から最新動向を紹介",
-        "中堅・中小企業を対象に、EPA活用方法への理解を深める機会を提供",
-        "10月14日14時から15時45分のライブ配信で、無料で参加可能",
-        "事前申し込み時にEPA関連の質問を募集し、ウェビナー内で対応"
+        "ジェトロ・メンバーズ向けにWEB講座やイベント、展示会・商談会、WEBセミナーなど多数の情報提供と参加機会の提供",
+        "イスラエル・米国とイランの衝突に関する中東情勢情報および第2次トランプ政権の動向に関する最新ニュース配信",
+        "世界貿易投資報告の2027年以降の公開方法検討にあたり、会員企業の活用状況をアンケートで調査",
+        "国際取引におけるリスク対応と実務的なトラブル事例を学ぶ貿易実務講座第3回（10月26日～2027年3月31日）の募集"
       ],
       "subjects": [
         [
-          "2026-10-02",
-          "《好評受付中》ジェトロ【ウェビナー】EPA相談事例から考える協定活",
-          "data/pdfs/20261002_1903_《好評受付中》ジェトロ【ウェビナー】EPA相談事例から考える協定活用のポイントと最新動向.pdf"
+          "2026-10-05",
+          "ジェトロ・メンバーズ ニュース第476号",
+          "data/pdfs/20261005_1336_ジェトロ・メンバーズ_ニュース第476号.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261002_1903_《好評受付中》ジェトロ【ウェビナー】EPA相談事例から考える協定活用のポイントと最新動向.pdf"
-      ]
-    },
-    {
-      "sender": "ビジネス短信",
-      "short": "ビジネス短",
-      "color": "CYAN",
-      "count": 1,
-      "bullets": [
-        "中国の米国商会が調査報告書を公表し、事業見通しは大幅改善したが国内競争激化が最大課題",
-        "香港政府がたばこの無地包装義務化と納税済みラベル制度を導入し、規制強化",
-        "シンガポール政府が先端半導体産業の誘致に向けて国家ブランド「SGセミコンダクター」を発表し、研究・製造活動促進",
-        "ASEAN地域のクリエーティブ経済に関するビジネス対話でベンチャー投資不足とIP保護が主要課題として議論",
-        "トヨタ・アルゼンチンの電動車生産事業がアルゼンチンの大型投資奨励制度（RIGI）に認定"
-      ],
-      "subjects": [
-        [
-          "2026-10-02",
-          "「ジェトロ・ビジネス短信」2026/10/02",
-          "data/pdfs/20261002_1824_「ジェトロ・ビジネス短信」2026_10_02.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261002_1824_「ジェトロ・ビジネス短信」2026_10_02.pdf"
+        "data/pdfs/20261005_1336_ジェトロ・メンバーズ_ニュース第476号.pdf"
       ]
     }
   ]
