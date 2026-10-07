@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-07 11:09 JST",
+  "updated_at": "2026-10-07 11:10 JST",
   "total": 50,
-  "toyota_summary": "Europe's center-right bloc stopped pushing to kill the EU's 2035 combustion engine ban. The European People's Party, which controls significant EU legislative power, had previously campaigned to overturn the rule but reversed course and is now only seeking more flexibility for automakers to meet emissions targets. This removes a major political threat to one of the industry's most consequential regulations, though negotiations over implementation details continue.\n\nThe shift matters because it signals the ban will likely hold. Automakers had spent years lobbying to either kill the rule outright or delay it, betting on political pressure from conservative parties. That strategy has failed. The industry now faces a hard deadline for ending combustion engine sales across Europe and must accelerate electrification investments accordingly.\n\nWatch whether automakers pivot their lobbying to securing easier credit rules or extension periods within the existing framework rather than challenging the ban itself.",
+  "toyota_summary": "欧州人民党（EPP）は、EUの2035年ガソリン車禁止規定の撤回を求める動きを断念し、代わって欧州委員会が掲げる排出量90％削減案を支持する姿勢に転じた。その一方で、ドイツの自動車産業の雇用を守るべく、削減目標をさらに引き下げ（73％程度へ）させようと働きかけを強めている。本会議採決は11月23日に予定されており、EPP党首ウェーバー氏はこれに先立ちメルセデス・ベンツおよびシェフラーの経営陣と会談する。\n\nなお、広汽（GAC）の欧州展開およびUSMCA（米国・メキシコ・カナダ協定）の2027年見直しについては参考情報として付記する。",
   "emails": [
     {
       "ts": "20261007_0801",
@@ -11,7 +11,12 @@
       "date_label": "OCT 7  08:01",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261007_0801_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261007_0532",
@@ -21,7 +26,12 @@
       "date_label": "OCT 7  05:32",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU: Governments will blunt plans for more EU investment spending",
+      "html": "data/pdfs/20261007_0532_EU__Governments_will_blunt_plans_for_more_EU_inves.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261007_0334",
@@ -31,7 +41,12 @@
       "date_label": "OCT 7  03:34",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Polls boost Democratic odds in House, Senate",
+      "html": "data/pdfs/20261007_0334_Polls_boost_Democratic_odds_in_House,_Senate.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261007_0147",
@@ -41,7 +56,12 @@
       "date_label": "OCT 7  01:47",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Document: Socialists side with Greens on ETS, setting up battle with EPP",
+      "html": "data/pdfs/20261007_0147_Document__Socialists_side_with_Greens_on_ETS,_sett.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261007_0103",
@@ -50,8 +70,13 @@
       "pdf": "data/pdfs/20261007_0103_EU-China_trade_talks_zero_in_on_cars.pdf",
       "date_label": "OCT 7  01:03",
       "read_min": 4,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EU-China trade talks zero in on cars ",
+      "html": "data/pdfs/20261007_0103_EU-China_trade_talks_zero_in_on_cars.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261007_0057",
@@ -61,7 +86,12 @@
       "date_label": "OCT 7  00:57",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "North Carolina looks more like a done deal for Democrats",
+      "html": "data/pdfs/20261007_0057_North_Carolina_looks_more_like_a_done_deal_for_Dem.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261007_0031",
@@ -81,7 +111,12 @@
       "date_label": "OCT 6  23:21",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Saudi Arabia & Yemen conflict update",
+      "html": "data/pdfs/20261006_2321_Saudi_Arabia_&_Yemen_conflict_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_2205",
@@ -91,7 +126,12 @@
       "date_label": "OCT 6  22:05",
       "read_min": 3,
       "toyota": true,
-      "excerpt": "欧州人民党（EPP）は、自動車メーカーのEU排出目標についてさらなる柔軟性を求める立場文書"
+      "excerpt": "欧州人民党（EPP）は、自動車メーカーのEU排出目標についてさらなる柔軟性を求める立場文書",
+      "subject_en": "CORRECTED: Document: EPP drops push to overturn combustion engine ban",
+      "html": "data/pdfs/20261006_2205_CORRECTED__Document__EPP_drops_push_to_overturn_co.html",
+      "summary_en": "The European People's Party has softened its stance on the EU's 2035 combustion engine ban, now backing the European Commission's approach of a 90% emissions cut with flexibility for alternative fuels rather than an outright overturn. The party is pushing to effectively lower the target to 73% through offsets like green steel investments, citing the need to protect jobs amid Germany's auto industry crisis. EPP leader Manfred Weber is set to meet with Mercedes-Benz CEO Ola Källenius and other industry figures at a car summit in France this week.",
+      "summary_ja": "欧州人民党(EPP)は、2035年の内燃機関禁止を完全に撤回する従来の方針を軟化させ、欧州委員会が提案する排出量90%削減とグリーン鉄鋼など代替燃料への投資を考慮した柔軟性を支持する姿勢に転じた。同党は相殺措置を通じて実質的な目標を73%まで引き下げることを推進しており、ドイツの自動車産業危機の中で雇用を守る必要性を強調している。EPP党首マンフレート・ヴェーバー氏は今週フランスで開催される自動車サミットで、メルセデス・ベンツのオラ・ケレニウスCEOら業界関係者と会談する予定だ。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_2202",
@@ -100,8 +140,13 @@
       "pdf": "data/pdfs/20261006_2202_Mexico_Update_-_EG_Conference_Call,_REMINDER.pdf",
       "date_label": "OCT 6  22:02",
       "read_min": 2,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Mexico Update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261006_2202_Mexico_Update_-_EG_Conference_Call,_REMINDER.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_2137",
@@ -111,7 +156,12 @@
       "date_label": "OCT 6  21:37",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Document: ETS fight heats up in Parliament as Greens counter EPP proposal",
+      "html": "data/pdfs/20261006_2137_Document__ETS_fight_heats_up_in_Parliament_as_Gree.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_2133",
@@ -121,7 +171,12 @@
       "date_label": "OCT 6  21:33",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Houthi escalation risk rises as Saudi push widens",
+      "html": "data/pdfs/20261006_2133_Houthi_escalation_risk_rises_as_Saudi_push_widens.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_2126",
@@ -131,7 +186,12 @@
       "date_label": "OCT 6  21:26",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Responsible investing trends report: Now, next, later | Q3 2026 edition",
+      "html": "data/pdfs/20261006_2126_Responsible_investing_trends_report__Now,_next,_la.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_1959",
@@ -141,7 +201,12 @@
       "date_label": "OCT 6  19:59",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Document: Parliament pushes to defend green rules in next EU budget",
+      "html": "data/pdfs/20261006_1959_Document__Parliament_pushes_to_defend_green_rules_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_1926",
@@ -151,7 +216,12 @@
       "date_label": "OCT 6  19:26",
       "read_min": 2,
       "toyota": true,
-      "excerpt": "欧州人民党（EPP）は、2035年のEU排ガスゼロ目標を廃止するという公約から方針転換し、欧州"
+      "excerpt": "欧州人民党（EPP）は、2035年のEU排ガスゼロ目標を廃止するという公約から方針転換し、欧州",
+      "subject_en": "Document: EPP drops push to overturn combustion engine ban",
+      "html": "data/pdfs/20261006_1926_Document__EPP_drops_push_to_overturn_combustion_en.html",
+      "summary_en": "The European People's Party has dropped its campaign pledge to fully overturn the EU's 2035 zero-emission mandate, instead backing the European Commission's revised plan for a 90% emissions cut on new cars sold after that date. The EPP still wants the targets further weakened to protect jobs, as Germany's auto industry sheds thousands of positions amid factory closures. A plenary vote on the package is set for Nov. 23, with EPP leader Manfred Weber meeting industry executives including Mercedes-Benz's Ola Källenius and Schaeffler's Matthias Zink this week.",
+      "summary_ja": "欧州人民党(EPP)は、EUの2035年ゼロエミッション規制を完全に撤回するという選挙公約を取り下げ、欧州委員会が提案した2035年以降の新車販売において排出量を90%削減する修正案を支持する方針に転じた。ドイツの自動車産業で工場閉鎖と大量の雇用削減が続く中、EPPは雇用を守るため目標のさらなる緩和を引き続き求めている。11月23日には本会議で採決が予定されており、EPP党首マンフレート・ウェーバー氏は今週、メルセデス・ベンツのオラ・ケレニウスCEOやシェフラーのマティアス・ツィンクCEOら業界幹部と会談する。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_1845",
@@ -161,17 +231,27 @@
       "date_label": "OCT 6  18:45",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Former German spy chief arrested for treason and espionage",
+      "html": "data/pdfs/20261006_1845_Former_German_spy_chief_arrested_for_treason_and_e.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_1832",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/10/06",
       "pdf": "data/pdfs/20261006_1832_「ジェトロ・ビジネス短信」2026_10_06.pdf",
       "date_label": "OCT 6  18:32",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中国の広汽集団がフランスでブランド発表会を開催し、ジェトロが西安市で日本・日系食品関連商"
+      "excerpt": "中国の広汽集団がフランスでブランド発表会を開催し、ジェトロが西安市で日本・日系食品関連商",
+      "subject_en": "\"JETRO Business Brief\" 2026/10/06",
+      "html": "data/pdfs/20261006_1832_「ジェトロ・ビジネス短信」2026_10_06.html",
+      "summary_en": "China's GAC Group held a brand launch event in France, marking its latest push to expand passenger vehicle sales in the European market. Separately, the U.S. Trade Representative opened public comment on the 2027 USMCA review, a process closely watched by automakers given the pact's impact on North American vehicle and parts trade rules.",
+      "summary_ja": "中国の広汽集団がフランスでブランド発表会を開催し、欧州市場での乗用車販売拡大に向けた取り組みを強化した。一方、米USTRは2027年のUSMCA見直し会合に向けた意見公募を開始しており、北米の自動車・部品貿易ルールに影響する協定として自動車業界から注目されている。",
+      "summary_pdf": "data/pdfs/20261006_1832_「ジェトロ・ビジネス短信」2026_10_06_en.pdf"
     },
     {
       "ts": "20261006_1739",
@@ -181,7 +261,12 @@
       "date_label": "OCT 6  17:39",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "France’s Mélenchon doubles down on student protests despite violent clashes",
+      "html": "data/pdfs/20261006_1739_France’s_Mélenchon_doubles_down_on_student_protest.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_1706",
@@ -191,7 +276,12 @@
       "date_label": "OCT 6  17:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Spanish election threatens to blow up Brussels’ political balance",
+      "html": "data/pdfs/20261006_1706_Spanish_election_threatens_to_blow_up_Brussels’_po.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_1403",
@@ -200,8 +290,13 @@
       "pdf": "data/pdfs/20261006_1403_German-French_detente_on_Chinese_PHEVs.pdf",
       "date_label": "OCT 6  14:03",
       "read_min": 9,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "German-French detente on Chinese PHEVs",
+      "html": "data/pdfs/20261006_1403_German-French_detente_on_Chinese_PHEVs.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_1358",
@@ -211,7 +306,12 @@
       "date_label": "OCT 6  13:58",
       "read_min": 14,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "The big name who could be leaving Brussels",
+      "html": "data/pdfs/20261006_1358_The_big_name_who_could_be_leaving_Brussels.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_1226",
@@ -221,7 +321,12 @@
       "date_label": "OCT 6  12:26",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "New Quebec government will constrain Carney's decision-making",
+      "html": "data/pdfs/20261006_1226_New_Quebec_government_will_constrain_Carney's_deci.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261006_0834",
@@ -638,5 +743,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "The EPP has abandoned its push to overturn the EU's 2035 combustion engine ban, instead backing the Commission's 90% emissions-cut plan while lobbying to weaken it further (toward 73%) to protect German auto jobs. A plenary vote is set for Nov. 23, with EPP leader Weber meeting Mercedes-Benz and Schaeffler executives beforehand.\n\nGAC's European expansion and the USMCA 2027 review are provided for reference."
 }
