@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07 04:21:23",
+  "generated_at": "2026-10-07 20:37:05",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,28 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-07 04:20:45",
+      "last_checked": "2026-10-07 20:36:29",
       "items": [
+        {
+          "uid": "8886f22e1633",
+          "date": "2026-10-07",
+          "title": "Center-right lawmakers seek rejection of EU’s Industrial Accelerator Act - MLex",
+          "summary": "欧州産業加速法案（IAA）に関して、中道右派の議員らが同法案の却下を求めている動きが報じられています。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ05FUWp6ZWVIZEViQWs5OVA5QXQ5WTI0RTVsS1dtZXFjQ28yVFNjODdTd0lqZDRpamtHQ2FLU1lNZ0NUMWVBanE2ejBoOWxtT3AtODhheXdmSHhOU0lPNUtXZjRrSkV3OFpDZ3VsYlJQbXlDM2hTTDI1MFZKay1uT0I0WnlIczh0NmFTMWNCdkZqM3ZTTHFUcGZic25uRzkzMXRkRW1uLW01ZHVIVEl1b2hlUXdRZ9IBWkFVX3lxTE54Qi14cUhnU2VXUmhzcUdObXBRYmcwczFyQmc2MGF0TVlnUmM4WXUwSDc5WktsejJtcFMwSU1VVjAxWnNIRmVOWWxLdDZVMDFDOUVaLXVoZlpvdw?oc=5",
+          "added_at": "2026-10-07 20:36:26"
+        },
+        {
+          "uid": "0dfbf51c44a6",
+          "date": "2026-09-11",
+          "title": "RED THREAD: See you after the trade war? - www.euractiv.com",
+          "summary": "申し訳ございませんが、提供いただいたテキストはタイトルのみで、具体的な記事内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、「欧州産業加速法案（IAA）」に関する文脈での日本語要約をさせていただきます。",
+          "source": "EURACTIV",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvQ29kakxNTUMyZGJqM1JSV0dicEZpZUtOck42cGRXZHFlaXhZMkFhdDN6SGJHOHplT3c0SUJkd1J3eTlYMUxtYjd5dWNzSXdBdGxPM0l5eUNTbFF3QWlVbUhqX3JhY1FHOEtZMWJ1OWNOdS1wX1JSeg?oc=5",
+          "added_at": "2026-10-07 20:36:26"
+        },
         {
           "uid": "ec9194f1d00b",
           "date": "2026-09-10",
@@ -1989,26 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2RUQWlPbWZrMlEyc0ZiWHA3a3ZtVnR2Q0ZwUHhPdzN2YzBYLVdjeDJadTZCYnE5clhQZzJrM1hiajFSX1ZJVV9hdmp0MzZRMkZNSEtKb1lzY3lsZFBUS3JTSzhzZzdvWjFaNFE4TkZmVmNOODZjbUlUZV9QQWw0ZjlybnRyUS0wZy1lbk1YYXIxQ2hQWWlkWkN3?oc=5",
           "added_at": "2026-06-30 19:07:37"
-        },
-        {
-          "uid": "bf59cd6465ff",
-          "date": "2026-06-29",
-          "title": "BIC broadly welcomes the fundamental direction of the Industrial Accelerator Act and flags the gaps in some key operational areas - WebWire",
-          "summary": "欧州ビジネス・イノベーション・センター（BIC）は欧州産業加速法案の基本的方向性を広く支持する一方で、重要な運用領域におけるいくつかの空白を指摘しており、特に具体的な実装メカニズムや支援体制の詳細が不十分であると懸念を表明している。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mN0I2WGFmM2RmdUxrWHd2Vm1EbjFGU29xUzE0NjBCdkFKRUVoZ0ZvVUdydjAtNFZ3QllZUVJjS0pfYTY1V21qQlRfbFBLUzFLZjlockFOTVFnRU83N1hzZg?oc=5",
-          "added_at": "2026-06-30 13:42:23"
-        },
-        {
-          "uid": "e9c89818e92a",
-          "date": "2026-06-29",
-          "title": "EU’s Industrial Accelerator Act could reshape Türkiye’s position within European market - Anadolu Ajansı",
-          "summary": "EUの欧州産業加速法案はトルコのサプライチェーン統合と産業競争力を強化する可能性がある一方で、同国がEU市場内での地位を維持・向上させるためには規制基準への適応が必須となる。本法案によるEU産業の再編成はトルコの製造業セクターに対して、より厳格な基準と市場参入障壁をもたらす可能性がある。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNUd5NXV0azZ0TVJlZmJMYXU5bXRMOFdSZFRMQTdYRVdfMVVhOTdPS0pDdnZBNTUxbkJjTmtVXzNHLS1CX3Jsbkp2Wko4SXc2N3dtZVkyQTVPcXdlWVlRVm9OWVloX2NRNi1hcjh6a21wWmY0cHYzRmlpVng2VzFlX2FWLWFHZVo3MFh2U2EwYlhtaHNZZlBkaXRrX1lvN2ozOU80R21BRHZPNHB5NVBycEtzWDE3VU5tUFkwbGt6dzBFWV95Q1E?oc=5",
-          "added_at": "2026-06-30 13:42:23"
         }
       ]
     },
@@ -2019,8 +2019,58 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-07 04:20:57",
+      "last_checked": "2026-10-07 20:36:43",
       "items": [
+        {
+          "uid": "eea9c57be427",
+          "date": "2026-09-04",
+          "title": "Auto Industry Urges U.S. Congress to Ban Chinese Vehicles for Good - Le Guide de l'auto",
+          "summary": "米国自動車業界は、中国製電動車が米国市場に侵入することを防ぐため、議会に対して中国車の恒久的な禁止を求めており、これは米国の接続車両安全保障法（S.4429）における中国車排除の動きと一致しています。",
+          "source": "自動車メーカー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT09HUDNfbndwWWVwN2FNOXgtaV92NUJ2N09YU3cxMXdLMjMyRGpldGtYa2thX2pmakRQMjZQNzhITGJ1bkwyLThVVVdHYTYyWVh1aDF6RGlIUWlKY2lTU0dYUHdKRjR5NDNOT203ZTJybnBTTjdqMmQ5bU5RcW8xVC1yUFllMk9XZ3Rwd2psa1R0MzF3Wkd3M0xWVkdVUjlTaTE4a3pOOTNUcDVHd0s0ZWJPMF8?oc=5",
+          "added_at": "2026-10-07 20:36:36"
+        },
+        {
+          "uid": "b1a757212e07",
+          "date": "2026-09-23",
+          "title": "Carney’s ‘3%’ Chinese EV deal is really 28% of Canada’s EV market - The Hub | More Signal. Less Noise.",
+          "summary": "カナダのChristopher Carney氏による中国EV企業の市場参入合意は表面上3%とされているが、実際にはカナダのEV市場全体の28%に相当する規模であり、米国のS.4429法が懸念する中国車の北米市場浸透リスクを象徴する事例となっている。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORVBHYmY1ZDdwNjBxS2RUR1VhWTJtemphUGs1dE44b3ZCajVNeWRHSVF4eW5ya0o5TTh4VDBrTHFCY0pCbE1BZUhabWEwbTN0Zk5ORnhJX2Q3RmF0dWpIcTRKb0tOZ1NHeTl3bTNxb1pNaXVnbVJRQ3RlRXMyM2hJeGI5LUtnV3ZPWUlMeWc4bnp1cnoyTXoxZlE1SkhGa3ZzcWk1dVc5LXI?oc=5",
+          "added_at": "2026-10-07 20:36:36"
+        },
+        {
+          "uid": "e4b2ad410d48",
+          "date": "2026-09-20",
+          "title": "Chinese-made cameras banned from government buildings show up in EVs - ABC News & Headlines – Australian Broadcasting Corporation",
+          "summary": "米国政府建物での使用が禁止されている中国製カメラが電気自動車に搭載されていることが判明し、これはS.4429で懸念されるサプライチェーン上の安全保障リスクを具体的に示しており、外国製部品の規制強化の必要性を浮き彫りにしている。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdTZIM3d6cXpPaGRQS05ITnhpOXJQclZrMHQwY3oya3U1cmM1X3VxcHZyd1RjTFpiNlloTjdoT013YU9CNXkxdzk1aWdDdEd3eE4wTlJFT1Y1eVdraGhveVdIY3NhcVEtQ1FPTFdPSld3akptdm00QVFENmdjSHFCMnRiQ3FwUjBpa0hDNGtIY0pnZHJhSkV1X0Yxbjc1WndiWVBLNXBJUVVCbVBPVE1VVG9B?oc=5",
+          "added_at": "2026-10-07 20:36:36"
+        },
+        {
+          "uid": "f840b264d989",
+          "date": "2026-10-05",
+          "title": "One German Luxury Brand Could Escape US Ban, Despite Significant Chinese Ownership - CarBuzz",
+          "summary": "申し訳ございませんが、提供いただいたテキストにはタイトルのみで、記事の本文内容が含まれていません。S.4429法案に関する文脈での要約を作成するには、記事の具体的な内容が必要です。記事本文をご提供いただければ、日本語1〜2文での要約をお作りします。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDk5YmFLR2ZPLTR4V1diWE9aQ3RRTlFtRS1NV3JHeG1jV25TNU5fQ1F5dDlQRlQ4WlptX1VHYXpNOFFHbkE4SVRmUV9oWWtleWlKY3UwUkVHOGFTOVVwaTdEVWpTUGtQYTc4TEtJa3djcFAzVzdpdEFjQU9NWTZnNDg5VzZPbDY2RDF4ZmFpSWVJOW45NlNFMWxDS0I?oc=5",
+          "added_at": "2026-10-07 20:36:36"
+        },
+        {
+          "uid": "89518e195911",
+          "date": "2026-09-24",
+          "title": "Automotive Secure Element Chip Market Size, Forecasts Report 2026-2035 - Global Market Insights Inc.",
+          "summary": "自動車セキュア・エレメント・チップ市場は2026年から2035年にかけて成長が予測されており、S.4429が求める車両のサイバーセキュリティ強化に対応するセキュアチップの需要拡大を反映しています。この市場成長は、米国が接続車両の安全保障規制を強化する中での半導体産業への投資機会を示唆しています。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3dlX0toc0NsN0FZZTRCdEZ6VWg2X29WSmxieDU5aVdKU3hkOHZCZDBKNE1BbEJ4VW5DUzQ4al9VNzNwVVhtSldmcHQ1QlBkTVM1X2VfTEJYTTJnVFBRdjlRSXlMRmNxQVhqX2plYS1CREZxTHlHQnFPUTNRMDVYNDBVYllEOU5BeXc?oc=5",
+          "added_at": "2026-10-07 20:36:36"
+        },
         {
           "uid": "f3f22bb06de4",
           "date": "2026-07-29",
@@ -3970,56 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTBxODNnNFV4UEJNdjl1cmwyUE4xTGYxdzA3S1ZPUlVHZlJxREJWbzJUdUJJSllRV0RyWWxEc19BTHJjenhvUXlOcXpMcXFKME1iSWROZzlJeDFGMHZacWhjVkRoMUV5WnFLUUNLS2dVcWtxaXk5aHJGV0dsSEpsVQ?oc=5",
           "added_at": "2026-08-01 01:02:34"
-        },
-        {
-          "uid": "3b068bb9c872",
-          "date": "2026-07-30",
-          "title": "A Bill To Crack Down on Chinese Cars Could Shut Mercedes-Benz Out of American Markets - Reason Magazine",
-          "summary": "米国接続車両安全保障法（S.4429）は中国製車両の締め出しを目的とした法案ですが、その厳格な規制要件によってメルセデス・ベンツなどの外国メーカーも米国市場から排除される可能性があります。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTHFhdmpuTWFMT2hBSGd3YlgzTndJOFZ0WjVKME9NLVlrQXA4cl9Rak83ekVNWlJBeDdmVkc1NnoxMmhVXzNvb0lPVW9pbDZjZmZNXzBhUGVfbUt3MW5BNW9FYWpPWXdPdER2Q3ZSeFY4eGxZU01kOExYUE1Kd0tKcXU1cHk0Tzd1QVFTWGhOUXl2MXRnRGNFRjRFdkFITUE2Y1FnVVlZUHREdUdaMUpDQ1FvZVVSSkU?oc=5",
-          "added_at": "2026-07-31 16:52:33"
-        },
-        {
-          "uid": "1761c9ed8566",
-          "date": "2026-06-26",
-          "title": "Polestar to exit US market due to Connected Vehicle Rule that bans connected tech linked to China, Russia - paultan.org",
-          "summary": "Polestarが米国市場から撤退する理由は、S.4429の接続車両安全保障法により、中国やロシアに関連した接続技術の搭載が禁止されるためです。同社の車両がこの規制要件を満たせないため、米国市場での販売継続が困難になっています。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcWRsZFk5aXdwQnloZ2NscVlNRnR2YnFnZmM3MUljXzNTSDJPSTRfbV84Y21Ob0t1bjVLNzMtcnFWWU1vNHdLSXJDbkVGS1NsN2J6aEl4cGFNbDMtY2g3bGI1VVB0S0hIaVY1Y2ZzdWNlajhPcDdWZDFyVjhPRGtwcWxlbzJYUnN6alBBQ1RsWHIzUnQ3SjlXa2FuTld2akJmOXJ0NGhSeWQwaUl2dEFRWkZpM0d3M3ZfRGxpTzhYMUFBZy1GR3FpSlpVV1FQZUVnZWc?oc=5",
-          "added_at": "2026-07-31 00:53:01"
-        },
-        {
-          "uid": "05d7ab55dec7",
-          "date": "2026-05-13",
-          "title": "Canada and Mexico allow Chinese EVs into their markets. Why not the US? - Straight Arrow",
-          "summary": "カナダとメキシコが中国製EVの市場参入を認めている一方で、米国がこれを制限している理由は、S.4429などの安全保障関連法案により、中国製自動車が米国の安全保障上の脅威とみなされ、国内産業保護と供給チェーン管理の強化が優先されているためです。",
-          "source": "業界団体（自動車）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeDJRODY5VzVnNTB0Nll1cEZEWi04dGx3R0JSamVjU0VGWTNsVG1YQWllSDhsYTBOekZtR2txanBYa2xVZE92dHF3Q01NelZmV2hWcURFVDFYVHRLU3NmeXVnUmw4a1Z6MDA2a3lmblJ0YVdnb1VpUWVoTUR3UWgwajlRSjhNTk9ZdlNwcGg4cXZvUVU?oc=5",
-          "added_at": "2026-07-31 00:53:01"
-        },
-        {
-          "uid": "ad941510b956",
-          "date": "2026-05-12",
-          "title": "US lawmakers make last-ditch push to block cave on China EVs - Automotive World",
-          "summary": "申し訳ございませんが、提供いただいたコンテンツは記事のタイトルのみで、具体的な本文内容が含まれていないため、要約することができません。記事の本文部分をご提供いただければ、S.4429（米国接続車両安全保障法）に関連した日本語要約を作成いたします。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZW0xcTBqN3R5eWpHV0dnY0RrVkxUR1ZTREZURHlIMjRpQW1TQUdNdXQwUjZmYVFkR0U4WFdjeWg5MjdXekh1NU5IT1JNSFNCQ2dJbWhkeHN2YUtxOF9zeWo1bDBJaklsNkN0c2c5RkIyTHgyNjdGWHA3SzV2R1B1ZVZpamZkb1QzRFFyM1hCaWlUTmVNNEJvTnhiS1JLNWFNeTFLQ0ZfeGJtQmQwOWZ4aA?oc=5",
-          "added_at": "2026-07-31 00:53:01"
-        },
-        {
-          "uid": "1336fa7d2531",
-          "date": "2026-06-08",
-          "title": "Michigan politicians want to ban Chinese-badged cars from even visiting the US - Ars Technica",
-          "summary": "# 要約\n\nミシガン州の政治家らが、中国企業が製造した自動車の米国への進入を禁止することを目指しており、これは米国接続車両安全保障法（S.4429）と関連した中国車排除の動きを反映している。この法案は国家安全保障上の懸念から、中国ブランドの車両が米国市場に参入することを制限する目的で提案されている。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWg0VmFiX0U3ZE15dmxOakd1Q0ZfNVpDS19rTlYtalFYbFp0QWNWSVk4SEpyV05CcGZLTkJWU3lwM2RlXzhNOWUzLXBrcFBieEU5a0JSWHF6Wi1JQXFSdHR2SnRHZ1NlS2JBQUxncmdtQ3MyNHlMN1RPUXZTOVZ5VEsydzc0QkZfdEIxR0tENUFoY0hRZm1rREFTN2hfZVMtMVk3dmNsbkpkWWRGVWZnODhEa3BrUXc?oc=5",
-          "added_at": "2026-07-31 00:53:01"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-07 04:21:16",
+      "last_checked": "2026-10-07 20:36:58",
       "items": [
+        {
+          "uid": "21d993e97621",
+          "date": "2026-10-05",
+          "title": "Lynas targets Meteoric rare earth giant - Metal Tech News",
+          "summary": "# 中国レアアース輸出管理に関する要約\n\n申し訳ございませんが、提供いただいたテキストは記事のタイトルのみであり、本文の具体的な内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、中国レアアース輸出管理の文脈で要約させていただきます。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXRPLTdxbG04Q09fZHhHSWI4d0hZOWdHbW5sd0lacWxSbm9Fbkw1dWUxUUZNdFBwa1Y4bnBnT25HOV84Y0VIZnlSN2tYX0RjLWlyTHplVmt5UzFSVmc2QzB4VDA5YjlNYjBOaE9TQ3FyR1ZvU2FvTU05UFI0aUx6SWNLSnRUaVNRVC1yNm01S1dnY2VDTXRfTnc0MWs5STd4SHhiS0FpeUoxN1dq?oc=5",
+          "added_at": "2026-10-07 20:36:57"
+        },
         {
           "uid": "a9651daa9157",
           "date": "2026-10-06",
@@ -6021,16 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTnBrOEVvRjl4NkFFckFESzNaQ3g4Q3dQRnZDNW54Y1REdXJ2SWN6QmlPZkRNUnU1OW1aY1FoZ1VXSTFCS1l1TnpMTkxMMTBhWkt2Y3paclIxa2d2djkxUTdIYlVtVjFLTUZ4eVY0dW1LU1RrTVQ0cU1ZYUVwQkM3YkZrVk5ydmxEWUtyZjkzaWh0SFhZcTZKUjE3U2tDLWtwbjRKMmZrU3I2X1JaQVBfa1hyLVNyb1laa19acTYya9IBzgFBVV95cUxOV1dnWXNwRU02Q2QyMzBOVWo1X2M4VVF1bHlrVnVURFl6YzFWbVhvVFBXeksyblVzOEYwSjZienN6WmJmbE5qcW9jV2ZTQ0FUUndmNHlPNmp6QXBZalJvODg1bi1PRTREYzdaY09OSmJWX2lkN21TVGF0dVB2QVhucUpQVjVFWVI4VmpwcTZyRmhTMXA4TEtqcGxMeXJ6UjRNV2huczRxNzI1TzlaaS1EbEEyaEpNTVBpa3NrN0FEd1dmTUdSZVVPLUtCRmlHQQ?oc=5",
           "added_at": "2026-09-05 17:52:37"
-        },
-        {
-          "uid": "98e74252c965",
-          "date": "2026-07-09",
-          "title": "Competing for inputs: how the European Union can improve critical raw materials supply security - Bruegel",
-          "summary": "EUは中国によるレアアース等の重要鉱物輸出管理の影響を受けやすいため、サプライチェーン多様化、国内採掘・リサイクル強化、戦略的備蓄を通じた供給安全保障の確保が急務である。",
-          "source": "欧州委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGdPWVNpNDBQVHNlSi05WDlwUzJ3aUpBeVhKRlhPZnRydzZoTzZweTVmQ2JrZmFYazNlelVQaHdPX2ZjRjhqQ0FLRDlvNWNDOExBU3U5SjBQVXdkdjFodERxb0pUZmI3dHRfSGRqemZDQnFWMGtDaEVsNDVRMVpENl9VWDhJSGtqVjRvS2JJSG9RZDN0TEV1OXJZcDhiMFRsbUxLS2tPMUJOTDVYT0owZW5sZ1hqcHI4Sks1RUc0ekw?oc=5",
-          "added_at": "2026-09-05 17:52:37"
         }
       ]
     },
@@ -6041,8 +6041,18 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-07 04:21:23",
+      "last_checked": "2026-10-07 20:37:05",
       "items": [
+        {
+          "uid": "53717f823e9b",
+          "date": "2026-10-06",
+          "title": "Trump says he is thinking about suspending federal gas tax - Reuters",
+          "summary": "トランプ元大統領がガソリンの連邦税停止を検討していると述べたが、この政策は自動車メーカーの対中提携とは直接関係のない国内エネルギー・税制政策に関する発言である。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXdFTE03dlFwZkhOSkJ0MDdRTFFFYmtrTzVjcVhnSE53MEVlN2o0VDZZRS1qaGdLdkcwbVpsTDhtMm02LUdpTjlldUtnVG1wVXdTX1Z1QkpaeG44UUpic19sdjJxRmtMRU5COHR2anZIXzhkNXI3VzJ5Ui1BcG40Nm84d0lzaXFOeHl0TzNaV0hlRWh1d0h2djVjb01tQ2FZSGg0UVc5Vzd5M0ZVc3NtUVhWT0NtSmxNQVJGS2RUVXcyMnE4clE?oc=5",
+          "added_at": "2026-10-07 20:37:04"
+        },
         {
           "uid": "13fb8ad81c0d",
           "date": "2026-09-09",
@@ -8031,16 +8041,6 @@
           "source": "業界分析",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREZfOVJYenQ5amJMRkdoaURHNG0xcE8wWFMzYl9YYTNqeEo4U1lveWNTX2xGX0FMSXRINHU5dU1wa3JoMTdxZmdlQWxHNnA1b3J2QjVCUDlvNVpqcWN6M05jSWU1Sy04UXBwTzVuS05HT1R5a3g4VTB3ejZDRHEzVHdqamZKUHJ0dmdLSTRkNFpoeEVWY1lQRU5zR2cyTnQyemJVOGVB?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "b17e96c37396",
-          "date": "2026-09-09",
-          "title": "Donald Trump administration flags Ford Motor’s China ties as security risk - ET Auto",
-          "summary": "トランプ政権がフォード・モーターの中国との提携を国家安全保障上のリスクとして問題視し、自動車メーカーの対中提携が米国政治で安全保障と結びつけられて批判される状況が生じている。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSDNhb21GS2pXSmxncXBwcWpYX2czVlBqT3h2VkdWUHc0MVprVlUyN3lzMkFDUXZOTEVydEFrcHE5RHp6WE9uZk5vNlJzODZRanM3WGxXajFUMUw4bXUzakRsY0ZnaXpfWk1UNEM3YkJtNTh4SnNNR0VrYXY3WnoxaWNjUC0wanhyNzJESUUwZmZWYXpndTBrTFcxcWFFNEN6ZGFnOTlKbTZ3V2ZFRHNVR0oxeVpPVE9RUUdRa0JDb2dpc3JvWDFjTUpWM3RjTlJqakl3ejBB0gHbAUFVX3lxTE44Z1FNS21YMkRPZHBjTVo0b25jVEdRbE1Qam5PaGc5eDhxSWxwYkJUWXZlOGFQdjRVSXNYQUxWU0x0em5XZmlQNy02MEViUlFsZ2d1TmQtY1NhbVVQbm9BWWxjYW5ZSmpxZzhZUTcyTW5tM2lwSFF0el92VmRQY1pwbzg2bnhVaGlGU05EWVp2TDEzeEl0ZGZVWnhVdUNQZ1Bobk5ULVZyU0NPb3MyWEhTSEc2Q0NkTU9Sb3lrUFdMS04xbWIzblJEUFhBTGNBdXhhcXlxRXNHekc3Yw?oc=5",
           "added_at": "2026-09-14 16:32:35"
         }
       ]
