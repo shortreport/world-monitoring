@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07 20:37:05",
+  "generated_at": "2026-10-08 04:48:29",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,28 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-07 20:36:29",
+      "last_checked": "2026-10-08 04:47:52",
       "items": [
+        {
+          "uid": "90dd53d61ba1",
+          "date": "2026-10-07",
+          "title": "Center-right lawmakers seek rejection of EU’s Industrial Accelerator Act - MLex",
+          "summary": "欧州中道右派議員らがEUの産業加速法案に対する反対姿勢を示しており、この法案の採択に向けた議論が複雑化している状況を示唆しています。同議員グループは、同法案が欧州産業の競争力強化という目標に対して不十分または過度な規制をもたらす可能性があると懸念しているものとみられます。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54Qi14cUhnU2VXUmhzcUdObXBRYmcwczFyQmc2MGF0TVlnUmM4WXUwSDc5WktsejJtcFMwSU1VVjAxWnNIRmVOWWxLdDZVMDFDOUVaLXVoZlpvd9IBWkFVX3lxTE54Qi14cUhnU2VXUmhzcUdObXBRYmcwczFyQmc2MGF0TVlnUmM4WXUwSDc5WktsejJtcFMwSU1VVjAxWnNIRmVOWWxLdDZVMDFDOUVaLXVoZlpvdw?oc=5",
+          "added_at": "2026-10-08 04:47:49"
+        },
+        {
+          "uid": "2fbc91ca0e80",
+          "date": "2026-10-06",
+          "title": "Industrial Accelerator: Electric cars need to be this European - Table.Briefings",
+          "summary": "申し訳ございませんが、提供いただいたテキストは「Industrial Accelerator: Electric cars need to be this European - Table.Briefings」というタイトルのみで、具体的な記事の内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、欧州産業加速法案（IAA）の文脈での日本語要約を作成いたします。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFBVdVowbmZIWDhPN1NjSjJDdkNkam9xZkFMZVVaMTMtamEwenZwMVdRRm9KNzNlbzNMZ28xWlNtX0dMaEx3cXlHdnQxRm8xOU55ZXVIV2VqR2VwVHBBTy1qYTFVRWhNTngzUTZaeUx6emtHSTZXMkpRek5xaVIza2dBNElydG1Mam9iT0pWQXJSODNuQy14eVVPNTBWLXc1WlBOQnZaUk5wZw?oc=5",
+          "added_at": "2026-10-08 04:47:49"
+        },
         {
           "uid": "8886f22e1633",
           "date": "2026-10-07",
@@ -1989,26 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0RMM1lYTDI1MlVEaS16bnpXSnhvbGZiTk8yU0hfNGY1RW43NGRuc3dtX0libHNHbUw3NnRYM2pQTXRIUGF6X1lJcExmTXRPYXhwZHJpOS13dEhjUUJ0eTY2WFNqNUJDcHQ2V0ZmdDVRckVKYlFtaGJITE9VdGpGUS1QcEhIUUEzSGFabTJBaUVaVVV0ZHBEQzRDLTNjZmxfYkdFVG1JRWZqVlRf?oc=5",
           "added_at": "2026-07-01 14:01:45"
-        },
-        {
-          "uid": "ecdecbafa51e",
-          "date": "2026-06-30",
-          "title": "'Made in EU' could revamp Türkiye's position within European market | Daily Sabah - Daily Sabah",
-          "summary": "トルコはEU産業加速法案（IAA）により、欧州市場内でのサプライチェーンパートナーとしての地位を強化し、「Made in EU」認証を通じて産業競争力を高める機会を得ている。同法案はEU域内産業の自給率向上を目指すもので、トルコの製造業基盤がこの目標達成に貢献する可能性がある。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2lWYzBKUk84TkRzbElWZ08yQlg3aW9PMzNHb2lqNmFmaHF1U2NUUTdEbklnNlk5LVk5Q1FEUmF1WnRLN1NGRHZqTjVuNkRIT2NkVmZwVHZRWTBadk52OWRzS2MxajFGTkVLQXRlM0ZfZG9HNVBCYUo0eFBrVTdvbTNheHg0MkVPMGdkc1NXWHBWYXFncFYzdnRTWE5LTjNvQkRBazM2ajFoUGNGN0V4UnVB0gGyAUFVX3lxTE9naVZjMEpSTzhORHNsSVZnTzJCWDdpb08zM0dvaWo2YWZocXVTY1RRN0RuSWc2WTktWTlDUURSYXVadEs3U0ZEdmpONW42REhPY2RWZnBUdlFZMFp2TnY5ZHNLYzFqMUZORUtBdGUzRl9kb0c1UEJhSjR4UGtVN29tM2F4eDQyRU8wZ2RzU1dYcFZhcWdwVjN2dFNYTktOM29CREFrMzZqMWhQY0Y3RXhSdUE?oc=5",
-          "added_at": "2026-07-01 00:08:30"
-        },
-        {
-          "uid": "2e4368f28992",
-          "date": "2026-06-30",
-          "title": "Made in EU plan raises concerns for Turkish suppliers - Hürriyet Daily News",
-          "summary": "# 欧州産業加速法案に関する日本語要約\n\n欧州の「メイド・イン・EU」計画は、EU域内の産業強化を目指すものであり、トルコを含む非EU諸国のサプライヤーが調達先から外される可能性があることから、トルコの産業界に懸念をもたらしている。この政策により、トルコの欧州向け輸出や産業連携の機会が制限される恐れがある。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2RUQWlPbWZrMlEyc0ZiWHA3a3ZtVnR2Q0ZwUHhPdzN2YzBYLVdjeDJadTZCYnE5clhQZzJrM1hiajFSX1ZJVV9hdmp0MzZRMkZNSEtKb1lzY3lsZFBUS3JTSzhzZzdvWjFaNFE4TkZmVmNOODZjbUlUZV9QQWw0ZjlybnRyUS0wZy1lbk1YYXIxQ2hQWWlkWkN3?oc=5",
-          "added_at": "2026-06-30 19:07:37"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-07 20:36:43",
+      "last_checked": "2026-10-08 04:48:03",
       "items": [
         {
           "uid": "eea9c57be427",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-07 20:36:58",
+      "last_checked": "2026-10-08 04:48:21",
       "items": [
+        {
+          "uid": "0cbedd876e4a",
+          "date": "2026-10-03",
+          "title": "Yttrium Supply Chain Shortage and China Export Controls - Rare Earth Exchanges",
+          "summary": "中国がレアアースの輸出管理を強化する中、イットリウムの供給チェーンが逼迫しており、特に電子機器や防衛産業での需要に対して供給不足が深刻化している。中国の輸出制限政策がイットリウムなどの重要レアアースの国際的な調達を困難にしている。",
+          "source": "米国防・エネルギー省",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbDFzX08zdDRHVVV1amFBZWExc253aU1ZQUdDWWp0aEl0ZWhjTG8tNHdNTldrWk5DVjhYYkJ0eU5FaURkSVhObURoNmFGUzF2d0ZQanJCRDhoWlZETVp6U2R1MDFGSGdMcEY0WUxabEN2Y1RTUHhEU25GSklWV05rYnZ2bUg4dw?oc=5",
+          "added_at": "2026-10-08 04:48:18"
+        },
+        {
+          "uid": "98e74252c965",
+          "date": "2026-07-09",
+          "title": "Competing for inputs: how the European Union can improve critical raw materials supply security - Bruegel",
+          "summary": "EUは中国のレアアース輸出管理による供給リスクに対抗するため、戦略的備蓄の構築、採掘・精錬産業の国内強化、サプライチェーン多角化を通じた供給安定化が必要とされている。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGdPWVNpNDBQVHNlSi05WDlwUzJ3aUpBeVhKRlhPZnRydzZoTzZweTVmQ2JrZmFYazNlelVQaHdPX2ZjRjhqQ0FLRDlvNWNDOExBU3U5SjBQVXdkdjFodERxb0pUZmI3dHRfSGRqemZDQnFWMGtDaEVsNDVRMVpENl9VWDhJSGtqVjRvS2JJSG9RZDN0TEV1OXJZcDhiMFRsbUxLS2tPMUJOTDVYT0owZW5sZ1hqcHI4Sks1RUc0ekw?oc=5",
+          "added_at": "2026-10-08 04:48:18"
+        },
         {
           "uid": "21d993e97621",
           "date": "2026-10-05",
@@ -6011,26 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeElkNjlaQUVhTWdjX29pU18tbXFaTFdwN1IzV0thQllVZEhaYnlYS3Q0U25OOU5ILUpPeWo2bWFoS1VaRDd0YS1GNDhkUlhUa2JKVmtNcnRJeEdNekszUmFmYmV3LXhlcGppMUVFUGpFWUhsR3ZFdjRHV1FPWmZzX2lwWU0zUnBv0gGcAUFVX3lxTE5LQWZwQmFsdk9la3lEWW14OV9nQjJ4SW1wOVhzRjRKQTVkRVFwb2UxYXEzMHo1VnMtWTcyOHVYTGNXam5RZHZmMk9zYkV1dnZQd21VU0FBdmJUWmEtVXN5SVpGX1poeGJjOXN3eVBPMmJGR3FlekNwVV9DdFpBSG14Tkh3OGg3LTVCRGVaenFib1pRRi00a1VHdl9xdw?oc=5",
           "added_at": "2026-09-05 17:52:37"
-        },
-        {
-          "uid": "4093e18a3185",
-          "date": "2026-07-27",
-          "title": "Trump may need to allow Chinese minerals as US industry struggles to meet 2027 deadline - reuters.com",
-          "summary": "トランプ政権は2027年の期限までに国内産業がレアアースなどの鉱物確保に対応できない可能性があるため、中国産鉱物の輸入許可を余儀なくされる可能性がある。米国の産業競争力維持と供給チェーン自給化の目標達成が困難になりつつあることを示している。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmZzZWxMYmx5WGZmdEFHVm9oenVXVHFDNG8yanVHLXRWRTltUGRiV2lIMk1RbGdsUXdwaU5rUi1MdWdSb192elMzX0xmTERYV0xqOENlVVRONGhtSHRoRXJzTGVIRUZqakFaWk5CcndEWEhLMzVLeTY5UEVHb1JZNlhsNnpfZUdlVkd5ZW10WThUTEVPUkMtT2d3dXlodkVzb3ktVTNicG1uYkI4czYxaFdrekxHMEFWUmZUM2JtOXFKVG1CYTJMWjNrRQ?oc=5",
-          "added_at": "2026-09-05 17:52:37"
-        },
-        {
-          "uid": "f1a83b589c09",
-          "date": "2026-08-27",
-          "title": "Lula, Congress chiefs agree on pre-election voting push - Valor International",
-          "summary": "申し訳ございませんが、提供いただいた記事の内容が「Lula, Congress chiefs agree on pre-election voting push」というブラジルの政治に関する題目であり、中国レアアース輸出管理とは無関係であるため、要約することができません。\n\n別の記事をご提供いただければ、中国レアアース輸出管理の文脈で要約いたします。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTnBrOEVvRjl4NkFFckFESzNaQ3g4Q3dQRnZDNW54Y1REdXJ2SWN6QmlPZkRNUnU1OW1aY1FoZ1VXSTFCS1l1TnpMTkxMMTBhWkt2Y3paclIxa2d2djkxUTdIYlVtVjFLTUZ4eVY0dW1LU1RrTVQ0cU1ZYUVwQkM3YkZrVk5ydmxEWUtyZjkzaWh0SFhZcTZKUjE3U2tDLWtwbjRKMmZrU3I2X1JaQVBfa1hyLVNyb1laa19acTYya9IBzgFBVV95cUxOV1dnWXNwRU02Q2QyMzBOVWo1X2M4VVF1bHlrVnVURFl6YzFWbVhvVFBXeksyblVzOEYwSjZienN6WmJmbE5qcW9jV2ZTQ0FUUndmNHlPNmp6QXBZalJvODg1bi1PRTREYzdaY09OSmJWX2lkN21TVGF0dVB2QVhucUpQVjVFWVI4VmpwcTZyRmhTMXA4TEtqcGxMeXJ6UjRNV2huczRxNzI1TzlaaS1EbEEyaEpNTVBpa3NrN0FEd1dmTUdSZVVPLUtCRmlHQQ?oc=5",
-          "added_at": "2026-09-05 17:52:37"
         }
       ]
     },
@@ -6041,8 +6041,28 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-07 20:37:05",
+      "last_checked": "2026-10-08 04:48:29",
       "items": [
+        {
+          "uid": "fc91332d8d85",
+          "date": "2026-09-09",
+          "title": "Trump administration slams Ford, alleges ties to China - WDSU",
+          "summary": "トランプ政権はフォード・モーターに対し、中国との関係を理由に批判を加えており、自動車メーカーの対中提携が米国政治において厳しい目にさらされていることを示している。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2dDaG1hUWpYZzg3Q1BUTDN3LV85TnR1Wk1xU2phM3d5MVRqamltcXRSWjhqOTJLeEhSYmR5YUJfNlo5X2NsR1BCa0JadDBuZUZ3YWJUU1h1OVhxTU9TRUptb1ZmdTdNYjdqRXY1RHZ2V09ic2RyQ3YxTEVQTFBUZg?oc=5",
+          "added_at": "2026-10-08 04:48:27"
+        },
+        {
+          "uid": "4e1af9544e3f",
+          "date": "2026-09-29",
+          "title": "Carmaker Stellantis to pause production at French factories over battery shortage - Reuters",
+          "summary": "ステランティスがフランス工場の生産を一時停止するのはバッテリー不足が原因であり、これは欧州自動車メーカーが中国のバッテリーサプライチェーンへの依存度の高さと、対中提携の脆弱性に直面していることを示唆している。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNWVlYlZac2YtUnlxN21PdmI3dW5kbEo2bFNwTTNOZGpTWFlYYVZtNkwzVGlVdDFUZnRoYzJKb3JadDNNX0pFbHNqN1JEaDhPY3RUZ0lzLUI1ZzBnZlJTY2ZWa3BXUjE0WUhma2NaYVQ5dmN3RTlEc0lvaFFDS3JzU1FKNDhrampHTFJLR2hzc2xMVEVNdHAtS2ozcTBqbzBoOUJ6RDExdjhtdmRkY2IxMnJPN0hrWV9EUDVxQw?oc=5",
+          "added_at": "2026-10-08 04:48:27"
+        },
         {
           "uid": "53717f823e9b",
           "date": "2026-10-06",
@@ -8021,26 +8041,6 @@
           "source": "フォード",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHNNUkxoeWlCck1XaUh0bGp0OWN6bzNmZ0tUWUl3QUViMFh4LTZuSWJtdzluRlJkSWptczFyNlIyN2VnVVlrS1N5T1lhbjlrLXp3ZU5TXzUtRWN2aEUzOHFaeS1hYXQ3eEJrOWdHZTNuZl9lUzdJR1ZFN1VYVlFKYlBUZWZEU0I2RXg2RXJxRFg?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "0ae4e15f02c1",
-          "date": "2026-09-10",
-          "title": "Ford faces federal pressure to cut China ties as U.S. auto scrutiny intensifies - Car Dealership Guy News",
-          "summary": "米国政府がフォード・モーターに対し、米中対立の深刻化に伴い中国との提携関係を縮小するよう圧力をかけている。米国は自動車産業への政治的監視を強化する中で、自国メーカーの中国依存を戦略的な脅威と見なしている。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFVOUzNUUUlWd0NvU016UFd3RGpSR0ZPc2ZqbjNLZVFVTENrUjUyakE3c19ocy1PWFE2ZVdrR2ZTZ3h6ZzM1MmlQelk1Wjh2djU1alQ0YTV5QzFjQy15MnNZSEt0Q1ZUY0NHN2haNmVnc1FPajBZc2ZpYTdFdktEZC1nZk5hZGtnbjhjcmdVWW85SGRtTGJyb1laZUpvR2ZjeEh4WTBrR1VyN0twZkhjNTJGUnRWTTdJWm9QbU1MOA?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "0fb20cbdb9ef",
-          "date": "2026-09-09",
-          "title": "Ford’s China Ties Spark a Very Public Fight With the Trump Administration - Gizmodo",
-          "summary": "フォード・モーターがトランプ政権から中国との事業提携について公開で批判されており、自動車メーカーの対中ビジネスが政治的な争点として浮上している状況を示している。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREZfOVJYenQ5amJMRkdoaURHNG0xcE8wWFMzYl9YYTNqeEo4U1lveWNTX2xGX0FMSXRINHU5dU1wa3JoMTdxZmdlQWxHNnA1b3J2QjVCUDlvNVpqcWN6M05jSWU1Sy04UXBwTzVuS05HT1R5a3g4VTB3ejZDRHEzVHdqamZKUHJ0dmdLSTRkNFpoeEVWY1lQRU5zR2cyTnQyemJVOGVB?oc=5",
           "added_at": "2026-09-14 16:32:35"
         }
       ]
