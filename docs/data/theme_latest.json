@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08 04:48:29",
+  "generated_at": "2026-10-08 14:18:38",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,48 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-08 04:47:52",
+      "last_checked": "2026-10-08 14:17:32",
       "items": [
+        {
+          "uid": "ece40c575dc8",
+          "date": "2026-10-07",
+          "title": "‘Interesting gamble’: EPP split by faction rejecting Industrial Accelerator Act - ENDS Europe",
+          "summary": "ドイツの保守派勢力がEU産業加速法案（IAA）に反発し、欧州人民党（EPP）内での分裂が深刻化している。この法案は環境規制と産業競争力のバランスを巡る政治的対立の焦点となっている。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMzBIVjVHanVwbzdMM1FGM2k0ZHRWMjc0emJWLUlma0FPX3FINnBXWVk1aEVOdkplUGNhQmV5WHpaQmFFNF9zdGotZmtzdHlhZExxeVBNU05GR2hsNVBxVDdvT1I0RkRWaUJ5aDZKS25KdW5EVkcxSUZIYVNDWTZVcmJrOHRvc1JyN0E3d01Wa3BqbXhIbl9JMExOWWZhSjVSQ2hueExheWItckNLbUhPZnNieGttNjA?oc=5",
+          "added_at": "2026-10-08 14:17:25"
+        },
+        {
+          "uid": "e3da1c439874",
+          "date": "2026-10-06",
+          "title": "Industrial Accelerator Act: Commission scraps plans for green steel - Table.Briefings",
+          "summary": "欧州委員会は産業加速法案（IAA）の一環として掲げていたグリーンスチール（環境配慮型鋼鉄）の計画を撤回した。これにより、EU産業の脱炭素化推進における重点戦略が修正されることになった。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcU13YTBPU2xXUDN3T0pRd0dabms4YlBkM0tMT1ZqaUlOV1g3N0N4cHdoY2RheWltNFZyeGYwRjhSbWlGSFdjdUtDVTNTZjJJR3U3UmpLLWlQSlp6Vk9wczl2dFRaczlzMUxHWEhkNDl2d19UcFg2Vl9KZjUxVF9wM0YwTXpIcVZqSzhTcTBxNHpnTXRXcGRCblhnaXJPdTVVQXpqZmMxNm9ISjlVd0llSw?oc=5",
+          "added_at": "2026-10-08 14:17:25"
+        },
+        {
+          "uid": "e53e9aec061d",
+          "date": "2026-10-07",
+          "title": "Industrial Accelerator Act: EPP divided over ‘Buy European’ clauses - Table.Briefings",
+          "summary": "欧州産業加速法案（IAA）をめぐり、欧州人民党（EPP）内では「ヨーロッパ製品購入」条項の導入について意見が分かれており、保護主義的なアプローチと自由市場原理のバランスに関する議論が続いている。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcmduMkRmY2w1YTd6LUozSW5BRHg2WHpaOHJXdXdzNjhCQ3pnZFdONFVNWTZRS3Y0NjFfOVhtOVRteHltbHhWY2d3SEdjdVg0aGdsV0JZVVNlNjlaQllmdkN3Njl2bkpDbzZNQ3Y4Q1RlbUVWM05POTd5bnlyYWgtU213VDZMU204aGtiMDlPa0E3OGZGR0pZTG1HdzdqVzN3?oc=5",
+          "added_at": "2026-10-08 14:17:25"
+        },
+        {
+          "uid": "3a5d6347e27c",
+          "date": "2026-10-02",
+          "title": "EU Transport Committee postpones ‘Auto Package’ vote - electrive.com",
+          "summary": "EUの運輸委員会は、電動車や充電インフラに関する「オートパッケージ」の投票を延期し、欧州産業加速法案（IAA）との整合性確認やステークホルダーとの協議をさらに進める必要があると判断した。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWh3SjJKOTVqQ280VllFdzN5MHV3Z0pUREIyUzBKS2l4b2g1YVp0VWhTRUkxS1Y4ZDdzSVpEaEwwWUtwV2NMMXg5TzRhT25wNDdjeEg5a0NYWkN6dTJPY0E1V3VvaWxQbEJBMTNUYmVIdktiOTR2ci1NTUtIVTJFS2Q4d3ZqemNrTURIMDFSM044Zw?oc=5",
+          "added_at": "2026-10-08 14:17:25"
+        },
         {
           "uid": "90dd53d61ba1",
           "date": "2026-10-07",
@@ -1969,46 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUpEOWZyTEM3REEwRXRNUERadnhRMXhmZ2hqQ3VoSmJNOUZ2THFXYWEwUXNoRjJRYTZSZkVfWFVLRkJCX0NveVJETUZnWXUtbjVTeHIzZ096UjlMV2dCYS1oRWl5ckNYd1Y5M0NjcG9ScU5ITDlCdk40MEJuWFk3bkZuQmtmODJfVUpac3JWWFBoVDk3cmozbHYxck11Q2h3M0xqdjlqSFR4cDhJZnlYT2o2R3BpZG9YSGNHVg?oc=5",
           "added_at": "2026-07-02 00:18:57"
-        },
-        {
-          "uid": "024c57e9eece",
-          "date": "2026-07-01",
-          "title": "How EU is strengthening protection of its market and what Ukraine should do - Європейська правда",
-          "summary": "欧州産業加速法案（IAA）は、EUが戦略的産業を保護し競争力を強化するための市場防衛メカニズムを導入し、ウクライナを含む第三国との経済関係に影響を与えるものである。IAAはEUの産業自立性を実現するため、重要産業への投資促進と外国資本の過度な流入制限を組み合わせた政策枠組みである。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4cDlPZkRObHFfLS1TRXNQMXU3a3VnMEJtVjRldjNfNjV6ODg0ZEUxbnpZd3JwZlozVnJlZXFnNkNrb001aWxFTWNVTGh2LUtXSXBXZ1VRSU5OY2l4OUVPZWZRNjBidGtrcjR4M1NNUQ?oc=5",
-          "added_at": "2026-07-02 00:18:57"
-        },
-        {
-          "uid": "7c9a0ea07809",
-          "date": "2026-07-01",
-          "title": "ACEA publishes position on the Industrial Accelerator Act - ACEA - European Automobile Manufacturers' Association - ACEA - European Automobile Manufacturers' Association",
-          "summary": "申し訳ありませんが、提供いただいたテキストにはタイトルのみで具体的な記事内容が含まれていないため、要約できません。記事の本文をご提供いただければ、欧州産業加速法案に関する日本語要約を作成いたします。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXNkaUlSODRZLUVTU2UydVgyR3d3NjZJZHU2WjBCdW1tZVdsR2ZVVG85N21vNWg2OVh1YnJoLWxLUHFmZ3NvOHVfZmhMeVZMRldxVWQwWE5lQ08zRTVxUHlxSms1aTBlZXp0RVdfZjEtZHNRTW5mZnB2eExBa0drV2RjOGVZT3plTXZEMV9OQlQ2dlIzUFY1cTRR?oc=5",
-          "added_at": "2026-07-01 19:29:01"
-        },
-        {
-          "uid": "c240dbb592d4",
-          "date": "2026-06-30",
-          "title": "Europe wants to save its industry. It still can’t agree how. - politico.eu",
-          "summary": "申し訳ございませんが、提供いただいた記事内容が、タイトルのみで本文が含まれていないため、要約することができません。記事の本文をご提供いただければ、欧州産業加速法案に関する文脈での日本語要約をお作りします。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04SUQ4cTM2WDRlSEtyMEVsV3daOTNzU01uVGhtbXZ1cnFDSDhjUXlPYy11Sm9wR1Juc2NFTlBQTmpLMmFGVHEyTkNneURrY2syOHk5Q2NlYXA0akhfVXJfWldzOFhlbW41TmU4VFVtcjVSRkZLd0dhVHI5QzBoUUk?oc=5",
-          "added_at": "2026-07-01 19:29:01"
-        },
-        {
-          "uid": "968f6350c111",
-          "date": "2026-07-01",
-          "title": "T&E, EIES and RECHARGE Joint Statement on the Industrial Accelerator Act - CleanTechnica",
-          "summary": "欧州産業加速法案（IAA）に関する共同声明では、T&E、EIES、RECHARGEなどの団体が、欧州の産業競争力強化と脱炭素化を同時に推進するための政策枠組みに対する見解を示している。この法案は、クリーンテクノロジーおよび再生可能エネルギー産業への投資加速と規制簡素化を通じて、欧州経済の競争力向上を目指している。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0RMM1lYTDI1MlVEaS16bnpXSnhvbGZiTk8yU0hfNGY1RW43NGRuc3dtX0libHNHbUw3NnRYM2pQTXRIUGF6X1lJcExmTXRPYXhwZHJpOS13dEhjUUJ0eTY2WFNqNUJDcHQ2V0ZmdDVRckVKYlFtaGJITE9VdGpGUS1QcEhIUUEzSGFabTJBaUVaVVV0ZHBEQzRDLTNjZmxfYkdFVG1JRWZqVlRf?oc=5",
-          "added_at": "2026-07-01 14:01:45"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-08 04:48:03",
+      "last_checked": "2026-10-08 14:17:48",
       "items": [
         {
           "uid": "eea9c57be427",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-08 04:48:21",
+      "last_checked": "2026-10-08 14:18:20",
       "items": [
+        {
+          "uid": "d65c6b4b8f11",
+          "date": "2026-09-02",
+          "title": "The U.S. Rare Earth Playbook Provides a Blueprint for Supply Chain Securitization - Foundation for Defense of Democracies",
+          "summary": "# 要約\n\n米国のレアアース戦略は、中国の輸出管理に対抗するため、供給チェーンの多元化と国内産業の育成を通じた経済的安全保障の確立をモデルとして示している。米国が実践する脱中国依存の取り組みは、他国がレアアース調達リスクに対応するための重要な指針となっている。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS0Etdi1WN0ZIZ0FWa2dwLVJiVVVEUkdmc3pRMVpfOXVMUkJ4MzZsWUtHVklId2pzLVFZdVpwQV9JanE4SXJhSVZaRDZ2MExYTzFCRGx5QXIwdFdjaGZTRE9faEcxcW1FRDdxajJlaWxBMDJWN09MUWdXeFZhUTgydC14SW8yZzFjT3ZOaTF6STJreUp1bGxPVnpSTXVxTFN4UmdCUlZMc0FkWE5RbzkxcTRIV1lNbUpsamlWVjlR?oc=5",
+          "added_at": "2026-10-08 14:18:15"
+        },
+        {
+          "uid": "4093e18a3185",
+          "date": "2026-07-27",
+          "title": "Trump may need to allow Chinese minerals as US industry struggles to meet 2027 deadline - Reuters",
+          "summary": "米国産業が2027年の期限までに国内レアアース供給体制を整備できない見通しから、トランプ政権は中国産レアアースの輸入許可を余儀なくされる可能性がある。米国のレアアース産業の発展遅れにより、中国への依存脱却という政策目標と現実的な産業ニーズのジレンマが生じている。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmZzZWxMYmx5WGZmdEFHVm9oenVXVHFDNG8yanVHLXRWRTltUGRiV2lIMk1RbGdsUXdwaU5rUi1MdWdSb192elMzX0xmTERYV0xqOENlVVRONGhtSHRoRXJzTGVIRUZqakFaWk5CcndEWEhLMzVLeTY5UEVHb1JZNlhsNnpfZUdlVkd5ZW10WThUTEVPUkMtT2d3dXlodkVzb3ktVTNicG1uYkI4czYxaFdrekxHMEFWUmZUM2JtOXFKVG1CYTJMWjNrRQ?oc=5",
+          "added_at": "2026-10-08 14:18:15"
+        },
         {
           "uid": "0cbedd876e4a",
           "date": "2026-10-03",
@@ -6011,26 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vcHFDY1c1d1BiVmp6X3RVSEwwT29YWjZNc1YtUWdDS1NSNl84UXVoZGVWUnZ2TDByOEdKLU41cThYVjFhazNBWTE3X3hldDQ3V0VKYUVWemU2N3k4NGg5N29QcWFZNDQtVzVzVEdKaXA1QzZpYkI4SkxXYVY1UQ?oc=5",
           "added_at": "2026-09-05 17:52:37"
-        },
-        {
-          "uid": "4443af57972b",
-          "date": "2026-06-28",
-          "title": "China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes - CNBC",
-          "summary": "中国がレアアース等の戦略物資に対する日本への輸出規制を拡大し、ドローンメーカー、原子力企業、防衛研究機関を対象に制裁を強化している。この措置は日本の防衛力強化や安全保障政策に対する中国の報復手段として機能している。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzZEcWhjZTNpNDNtOU9PcDZPQkxHWXd1cDR2RFRrSllMM09YWlZrVUdmYnVZMXM5Wi1tVW5pXzlkSHg3UUNscERSRVRNTlZwNEFGaHRzZTNMMFZqc1NIRVhyNG50NU92QXhzMS1kblRYSmJweFZ4NUc2cW9icGJ4NDBrc2UtWEEzeUM0RDZIVWpNaW9DQWJR0gGcAUFVX3lxTE0xdGJZQ21EbUc1M2JXam5hREhkU3NweVJxbUZ1VnJkVmRQbGJRWEVXMHBTSHlqU3ZYTmtrVnZtUmlkZ2l4ekNMeUVWZnhFYVhiUGdLQmRnOEFhaURpSEZJQXJoM01yeXZVdW5rT3BobDdxS1RKZHdELW42Q250X3hlMFkwREE5SXFXcVdVMmI3NXlleTZlQ20tRHM5YQ?oc=5",
-          "added_at": "2026-09-05 17:52:37"
-        },
-        {
-          "uid": "73fab53549ec",
-          "date": "2026-07-14",
-          "title": "China tightens rare earth controls, boosts corporate profits and global grip - CHOSUNBIZ - Chosunbiz",
-          "summary": "中国がレアアース輸出管理を強化することで、国内企業の利益拡大と世界的な影響力の強化を同時に実現している。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeElkNjlaQUVhTWdjX29pU18tbXFaTFdwN1IzV0thQllVZEhaYnlYS3Q0U25OOU5ILUpPeWo2bWFoS1VaRDd0YS1GNDhkUlhUa2JKVmtNcnRJeEdNekszUmFmYmV3LXhlcGppMUVFUGpFWUhsR3ZFdjRHV1FPWmZzX2lwWU0zUnBv0gGcAUFVX3lxTE5LQWZwQmFsdk9la3lEWW14OV9nQjJ4SW1wOVhzRjRKQTVkRVFwb2UxYXEzMHo1VnMtWTcyOHVYTGNXam5RZHZmMk9zYkV1dnZQd21VU0FBdmJUWmEtVXN5SVpGX1poeGJjOXN3eVBPMmJGR3FlekNwVV9DdFpBSG14Tkh3OGg3LTVCRGVaenFib1pRRi00a1VHdl9xdw?oc=5",
-          "added_at": "2026-09-05 17:52:37"
         }
       ]
     },
@@ -6041,8 +6041,28 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-08 04:48:29",
+      "last_checked": "2026-10-08 14:18:38",
       "items": [
+        {
+          "uid": "78bce26c1d4e",
+          "date": "2026-10-06",
+          "title": "Ford CEO Shrugs Off Concerns Over Chinese CATL Battery Partnership: “Stop the Drama” - Yahoo",
+          "summary": "フォード最高経営責任者は、中国の電池大手CATLとの提携に対する政治的批判を「ドラマをやめろ」と一蹴し、ビジネス上の必要性から中国企業との協業を継続する方針を示した。同発言は、米国内での中国企業との提携に対する懸念を軽視する姿勢として批判を招く可能性がある。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNENXS1JZSUhYS1dNRzBJZHhSVHpmVU9NR2NWRVNTOW80YWNTMUdwSkxuV29JQ0V4WVdLdm81RnhBNWRpVnBSSXowV1UtNHBadWlZYWRvb053NktRME54LVM2TGZyTHlNR1BoQVM3a1FQTGREbmY5YWowalphNlN0V2dDVUUzV2hFTVJqTDdseDZ5QQ?oc=5",
+          "added_at": "2026-10-08 14:18:34"
+        },
+        {
+          "uid": "0fb20cbdb9ef",
+          "date": "2026-09-09",
+          "title": "Ford’s China Ties Spark a Very Public Fight With the Trump Administration - Gizmodo",
+          "summary": "フォード・モーターがシナ関連事業で米国の対中政策に抵触するとして、トランプ政権から公開的に批判されている状況を報道している。自動車メーカーの中国との提携が米政府の対外政策と対立する政治的紛争へ発展している。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREZfOVJYenQ5amJMRkdoaURHNG0xcE8wWFMzYl9YYTNqeEo4U1lveWNTX2xGX0FMSXRINHU5dU1wa3JoMTdxZmdlQWxHNnA1b3J2QjVCUDlvNVpqcWN6M05jSWU1Sy04UXBwTzVuS05HT1R5a3g4VTB3ejZDRHEzVHdqamZKUHJ0dmdLSTRkNFpoeEVWY1lQRU5zR2cyTnQyemJVOGVB?oc=5",
+          "added_at": "2026-10-08 14:18:34"
+        },
         {
           "uid": "fc91332d8d85",
           "date": "2026-09-09",
@@ -8021,26 +8041,6 @@
           "source": "フォード",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEdnT1NmTGpxNTJGR3NvOFpaWnZVaWxFaUt0S1FPUHFLMTNBSFNXSEFGNzlDd3RZZkxHNUNEbFBuVzJ6WWZRcVNyQlRVNDRIMm9HbEdYWFkwQkExMDBhRkZwZTBaZmJfb2E2X0pVVTNWOC1EV0dhMzdZMFpGT3dTMXFodzZWVEU?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "07f92adbba35",
-          "date": "2026-09-09",
-          "title": "Republican lawmakers criticize Ford business ties to China By Reuters - Investing.com",
-          "summary": "共和党議員らは、フォード・モーターが中国との事業提携を継続していることに対し、政治的批判を展開している。これは、米国の自動車メーカーが中国市場への依存度を高めることへの国家安全保障上の懸念を反映している。",
-          "source": "フォード",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUt5ODlDVElLdFc3am5ocl8tTkhOTmp3S28xemtibGtGYVA2WFFIQ0FZMnMzaDZ1VmhjSFBYYzFoSFBQQjJRSUItcnJYZUZTYk9zQkdNbGFuUXlCYzBZY2ltc2l1VVhVWlByelFhelFJZlhqNld0Wkx1WE9uUVpRVHhVYWVZd3NMaVFyYklRZWJlZk95VDJNQXlFNDl5T2d2WDNWREI3WGtLSnlGRi1fTXVaYjR5dw?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "ea06622e1b49",
-          "date": "2026-09-09",
-          "title": "Republican lawmakers criticize Ford business ties to China - WSAU",
-          "summary": "共和党議員がフォード・モーターの中国とのビジネス関係を批判している。",
-          "source": "フォード",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHNNUkxoeWlCck1XaUh0bGp0OWN6bzNmZ0tUWUl3QUViMFh4LTZuSWJtdzluRlJkSWptczFyNlIyN2VnVVlrS1N5T1lhbjlrLXp3ZU5TXzUtRWN2aEUzOHFaeS1hYXQ3eEJrOWdHZTNuZl9lUzdJR1ZFN1VYVlFKYlBUZWZEU0I2RXg2RXJxRFg?oc=5",
           "added_at": "2026-09-14 16:32:35"
         }
       ]
