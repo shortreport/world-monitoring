@@ -1,186 +1,186 @@
 {
-  "generated_at": "2026-10-08 14:17 JST",
-  "article_count": 54,
+  "generated_at": "2026-10-08 18:30 JST",
+  "article_count": 76,
   "segments": [
     {
-      "badge": "① 米イラン対立",
-      "color": "RED",
-      "title": "米国、対イラン大規模攻撃準備",
-      "subtitle": "中間選挙前の実施も検討、外交交渉は膠着",
-      "search_en": "US Iran military strike preparation Pentagon Central Command 2026",
+      "badge": "① 米中関係",
+      "color": "YEL",
+      "title": "トランプ・習近平会談で米中関係が新段階へ",
+      "subtitle": "核施設相互訪問協議、日本との関係改善提案も",
+      "search_en": "Trump Xi summit China US nuclear facilities mutual inspection",
       "bullets": [
         {
-          "text": "米国防総省が中央軍に対イラン大規模攻撃を指示、中間選挙前の実施検討",
+          "text": "トランプ大統領が9月の首脳会談で習近平主席に高市首相との対話を提案",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZVlVBYUV1b1VYOHNncUJBQVR6clU0SEVxUEFtZ3hVVmtYUTdOaURLUUlhRzFxbGlNRElKLVBSZUpaWFBmR2g1N2pWVllyajFsT3oyU1BaNnZVN2tpWXRZWWxTZzhVdXNpdTBWSUJHZXVFeU81RWc?oc=5",
+          "source": "産経"
+        },
+        {
+          "text": "米中両国が核施設の相互訪問を協議、米側は核実験施設受け入れの構え",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YNVYyTWVZOW90clBVeVFUazVrY3JGTVdkTmhaQ0ZkY0FWWXVSQm5ROG5Ublc0QV9nSFIweGNDajZxZHo3NFlkMEd5UGwwVUNqb29XYWlGZ1VwWEtjZ2dPZVdfdEFMcG5jZlFMTg?oc=5",
+          "source": "日経"
+        },
+        {
+          "text": "EU中国貿易交渉がベルギーのシェフチョヴィッチ副会長により北京で開始",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSEtLcWcxdmQycFBfNGYxZXV6UjFoYU0xcVp3cFZvMGlhalVsS3dwZEpadklvdWdwLWtTSDNSN0V3TXZFS0JHd05OT3FUN1VORkVVVjdEb0p4ZVg1TjgtZkFzSnhPSUdINUYxeTRsT2JsTndHckE?oc=5",
+          "source": "産経"
+        },
+        {
+          "text": "米中AI・超知能開発協力合意がアセアン諸国に警戒感を招起",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEJRVjRiaWI2eTNQNW1jZWVQblpuQ08zUExYVUJIT1hYc3hMUGJxdGVIdzl2Mkg4OXZhTmRNT2Zibmd5ajI2clhVZjQwX1l3UlJUR1poczhmTU9xVVQ2a01HdnM5NGdYVFhQRXR4b3ZSQjZZRTYtQ3FGUTNHNVJQTThjUU0?oc=5",
+          "source": "Financial Times"
+        },
+        {
+          "text": "Xi-トランプ会談後の米中関係が依然として不安定化リスク内包",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORlFZWmVwSWVrWWc0bVd1Q3hxWlp3TERaS2pMa0JsT05heGg4Qm14al9BWXpEcDVYbW5GNTFuOThtS2cxMzFKX3BTdEozdm83N3VYYnVhQkluZ1BwbExxMzMwLUFiRFFSbG5BMzdyZ0FkWjhXXzlHSk5nY0dzd1N6QjFyYXB5NjluU0Zpa3lYQkdfVjlwU2lERERDUFVka2x6WGsyeFB1UTlvUDFjQ01HUl9SWXZad9IBtgFBVV95cUxQV0luRFZvUmZYTzhrUEU3OEZkRE8ybUYtQWtlcmU5akFra0JtbTNaVUVHdEhPTmFSbXVPU0VSd0ktTmd0VE84LUpCdW5Fc0xZWE5LLXRwbElhSkFZa1MwcDZXMUs0em4wQ1UtNUNQRzFzVkFqM0I0RWcwdFhsRW5BSUZtWVhkVlplcGJIUE9UR1o5bkw2WGlvSURWTWJVWkw0SFV1M2NvTU1CYjIwVXQ0eXV5alpCQQ?oc=5",
+          "source": "South China Morning Post"
+        }
+      ],
+      "risk": "▲リスク：米中間選挙前の急展開が対台湾政策の不透明性増加、AI・超知能の軍事転用を巡る検証体制が不十分。11月中間選挙までの対イラン政策との連動も不確定（2〜4週間以内）",
+      "context": "背景：トランプ政権の対中政策が対話重視へシフト。核施設相互訪問は冷戦期の米ソ間での先例踏襲だが、台湾問題や知的財産権を巡る対立は未解決"
+    },
+    {
+      "badge": "② 米イラン関係",
+      "color": "RED",
+      "title": "米国がイラン大規模攻撃を準備中",
+      "subtitle": "国防総省が中央軍に指示、中間選前実施の可能性",
+      "search_en": "US Iran military operation Pentagon CENTCOM preparations 2026",
+      "bullets": [
+        {
+          "text": "米国防総省がイラン大規模攻撃準備を中央軍に指示、米メディア報道",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Xdkxja1l3QVhqbG5iZ05DQVdnekRmLUsxTC1tWGFnTU11MDZvbkdGTTdpNWxkZF9SMXhxVkpuSXI2Uk9ZRFpNRlFTdWQtMTNiWEpPaWYxLVBnR2JiZUYxVWlOajNvQWdhZEhQU2JYM193TDVCSXc?oc=5",
           "source": "産経"
         },
         {
-          "text": "イランと米国の外交交渉が膠着状態、『ゼロからの出発』状態に",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSmlYZWZSRkdJc21yVHBxdlZxYXQwZkQ5d0RhdkJ2WjdTMzI0cmRGSXlrQVFhSHJQTmN1ZnRmdElUT2g1SktPTGxQV20wZHhnWUI5dllFamhtdFNEV1pWRnJ6YU9vQlRHMUlKU0NrQ3NDdlRrX3hIZElsZkVQLTVCWVd5Z3J0WXhvUzNpS19GMkFiSVhjSDhlQ05zSmw3RU16TlAzTzJ4MFRrU3JkcVFVN3ZoOWJBRktPQVE?oc=5",
-          "source": "Troy University"
+          "text": "米国がイラン核合意に対し新たな要求提示、ウラン濃縮の削減が条件",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1ZQRjU0eUpuQ2c2ZFE4MjJEazVwWWMyai1SMWFlWVRBYURTYmlqblVhZFJTa0xxQlNKWEtRNEFXU3RCUnU1ZzRXc1FxdmcxaWcybl9ISzZfWUNtS2JaUUxuNXNSWmhpdzdETXQ4R1MyUS03c25waS1UTVNid1czdUlKSlRsYUtZTkJsb3l1QXl3Z9IBlwFBVV95cUxPSEZpRE83aEJSR2dxaC10MTBJMTBELUEzOXdFWHRmVmE3LWhmMWJWN1FiVGgtMktyb1YyQU9OWEFpMmc5WVJVR2NWVjJtUnUzZS1iTU45WkNPQl9Nb3ZOTzBDbS1qOHBOSmJHdG1pYzIxeEo2eXdHRzR5LWl4VXVVQmE0eV9oRlVfOFd4UU8yWkRCcnBWeGNn?oc=5",
+          "source": "Al Jazeera"
         },
         {
-          "text": "米国が外国銀行にイラン金融部門との関係遮断を警告、違反時は即座に制裁",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yNjRYcWtoOFpDMk5zclo4YzM4dFdxRlNUc2VQQmpWYjBvU3FqWFcyYzZzbzN6T3ctME04LXZDWkQ2WnJVdUpWRG11bXpvRGdjMGc?oc=5",
-          "source": "Iran International"
+          "text": "イラン石油相が辞任、経済的圧力と米国の制裁強化を反映",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTGpCREdCTW5qZnNsLU5wbEllYUkzM1dZM0MtU3NaVUpZWWdnQzhfQmlNcURZNWx0SEtZUnFzUDhhWVRqcUVlQmNYQ3RmNWZTaGFMYmh2NUxWTjRfU2FTMDV0MGt1YkNQbHRmclpSbUxoRjBXM2k3cHpONGFPRS1TRDM1TFRacjY3Y1lDRDUyaVpjemRJYjhLNDgwd0hKUHVXLTFSNFh1cVJ3Y3k2Z2xyUDJtVmVKUlNDWmc?oc=5",
+          "source": "BizPac Review"
         },
         {
-          "text": "カタールの仲介で米イラン対話チャネル維持、エスカレーション回避模索",
+          "text": "カタールがイラン・米国間仲介協議継続を表明も進展なし",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2k5Mk1XbUpobmNmYW5kZ1huaXcxbVVqVGhydnlXMGNrdlMxU3dEc1NVTVZqZ0tDSm9nSC1wblpPRS1FYmFWcWV0VW5IZUFTNlhqX0Y1YUtUUF9uTEV6Tl8wOEtMNjZNeDZjQnJjaTlQTzU4aGVTendmOWJVdll4anJVREs0S2NuVHkyTUpNUEIwV3RyTnfSAZsBQVVfeXFMTmVaLV9INXRNSmpOTXVPMGhVV21KWnFIelNwb0Q1dE51YV95RFpUYzA3S0RxbmgzQmRTcHlfVjgtRjdHTEdNZG5XZE91eHFRT21raHF1OEpFeHFhSzVlT2JWYVhTNmFhNklta05jRnBBMzh6MVNLUlIyQUx6N0FaWlNPLTNkRngyNzRPaFktamlkOHk3Ukk3OTJOU0E?oc=5",
           "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
-          "text": "パキスタンがアラビア湾地域紛争への巻き込まれを懸念、地域不安定化を警戒",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbW9XY1RIS0dyRHREWmRIQThiVmp4RklrTmJlOXhoMHVPcFhMOUNqVzBWY2NqY24xVjh0TTM0YmZDZXJzNDF1WHFkTTdEZHlzTzVuWlRGUHNRNG4zY3NZcnMwQkQ2MlRQMFhCLUY0eG9UVl9VQ245d3d0LVZGMmFzb29mVWJnU3dCREF6azlmbi1IaldNVHZqTFBXWTRrd2hIbUtfTktORE4?oc=5",
-          "source": "EnergyNow.com"
+          "text": "パキスタンがイラン情勢激化による地域紛争への巻き込みを懸念",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnVSSDdOMDhiUEh3cHZ0NU5lTEc4M3F0SjNPNVNOUWljU2dfazFoYW5OSFVTR0U2RUV2ZFFfeWUyZnQ0eENwZmhxU0UyS2Z1dWdfM3NFVUQ4VTQ1V2pSS3hoTF9QN1lQWTUwTmRPS0hOSGZ4OGY2MHNWZDl0LXBQVTR4YVJDWkZPcVYwTnRGWTBtZVp4NkdMcmk2MndVcHfSAaIBQVVfeXFMTWZ5SmpzNF9JREVvVHNvTF8wVkplekJwY3lSZUhLTlJQWkc5YWJOMjVFQW91WnNWc1JGbVY4ZEhPeVFiMXZHTGw5Z0YtVHJPUzdPLTE5MUY4eXhEcmRKQlFBTzZRT3JaRVcwc2hMdlFId1lmbXBrZm1VZmIwZURiZFB0ZHkzdW1sREVvOUxsaDM3N0ZIMW5NalVSY1hHZ3VwSWNn?oc=5",
+          "source": "VOA - Voice of America English News"
         }
       ],
-      "risk": "▲リスク：米中間選挙（2026年11月）前のホルムズ海峡での軍事衝突勃発。イランのヒズボラ・フーシ派への支援強化で中東全域へ波及、世界石油供給危機の可能性は2026年10月中旬～11月が臨界点",
-      "context": "背景：トランプ前政権下の核合意離脱以来、米イラン関係は対立継続。2026年米中間選挙を控え、米政権の強硬姿勢が加速。イランは地域代理勢力強化で対抗"
+      "risk": "▲リスク：米中間選挙前（11月中旬）の軍事行動実施で中東全域に波及、ホルムズ海峡封鎖による石油価格急騰、湾岸諸国と米国の関係緊迫化。11月選挙までの数週間が決定的",
+      "context": "背景：トランプ政権が前政権の核合意離脱方針を継続。イランの地域代理勢力（フーシ派など）による対サウジ攻撃が米国の報復を激化"
     },
     {
-      "badge": "② 米中関係改善",
-      "color": "YEL",
-      "title": "トランプ・習近平首脳会談",
-      "subtitle": "核施設相互訪問協議、対イラン牽制の可能性",
-      "search_en": "Trump Xi summit nuclear facilities mutual visits 2026",
+      "badge": "③ 台湾問題",
+      "color": "ORG",
+      "title": "蔡英文前総統が米で台湾の対中圧力を訴求",
+      "subtitle": "スタンフォード大講演、インド太平洋安定強化を強調",
+      "search_en": "Tsai Stanford University Taiwan US partnership China pressure",
       "bullets": [
         {
-          "text": "米中が核施設の相互訪問を協議、米国は核実験施設の受け入れ構え",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSEtLcWcxdmQycFBfNGYxZXV6UjFoYU0xcVp3cFZvMGlhalVsS3dwZEpadklvdWdwLWtTSDNSN0V3TXZFS0JHd05OT3FUN1VORkVVVjdEb0p4ZVg1TjgtZkFzSnhPSUdINUYxeTRsT2JsTndHckE?oc=5",
+          "text": "蔡英文前総統が米到着、退任後初めてスタンフォード大で講演予定",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3RGYkR0Wkw2TzI2T3ZsYW5YanYzeHZJOUZPUnZCLTd1ZWQwSmZpbTZZcXFsQm1aQjFNenZ2YUNyM2V1cWVEU2RseVh4azF3RmhhZjdGdUhaeGRsdWlTc2s1SWtYQXV6VG5CVkdvUWd3dFdjcllGSTc4ano0QUIxaDM4MkxTODBlWHRkd1RnOVIyaUc2UWU1QnlDZ2VGUk0tYzFMRFVlYzN1WFJJTXY2QjNkNlVmRTRJNEx4NVpmeXhJaHVLRjQ3ZExOY0FMNkVtSmNvcVpUOFNEWVdLdnc?oc=5",
+          "source": "Nikkei Asia"
+        },
+        {
+          "text": "台湾前総統がアジア大学観客に対し中国圧力下での経済成長を強調",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1YTh0cDlReDllMWtDNXFxUGFuLXNmZzZ4T2JEaWFPczRkYnJvRDdwcWhKYnRVZWFlS2lJSlZPY3BIQ0VhVDVoU1NnWGdtNU5BS2N5QjVZTENfTW9wMWhqcElrYXYtZ21HYUtSaXkyT1RtV25sUHc?oc=5",
           "source": "産経"
         },
         {
-          "text": "台湾の米国駐在代表が『米台関係は堅牢』と発表、首脳会談後も関係安定化",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOWd5d2tFX21MaXFTTGZuTDR4cnR6aWw5ZGFSeTNpc05Wb0Rpd0MyWjU1MW5nVDJXSmxWUUdlSjV5WFkwdEdvRjZ2RzFySjIzeWM3NHdtSXBJYlZBWUtpR3o0Yk1tOUNmdnNwaTZId3FxQ29SeUpMVlVFcFA3MWttdllLSmRLX0pvN2h1REJXblFzaW1rSEZGdU5SNWhuODFLWVVxQjFUWXdTVzRCM2VwZjlidEJld0FiMEJRdlJqZ0FoZ9IBwgFBVV95cUxQOWd5d2tFX21MaXFTTGZuTDR4cnR6aWw5ZGFSeTNpc05Wb0Rpd0MyWjU1MW5nVDJXSmxWUUdlSjV5WFkwdEdvRjZ2RzFySjIzeWM3NHdtSXBJYlZBWUtpR3o0Yk1tOUNmdnNwaTZId3FxQ29SeUpMVlVFcFA3MWttdllLSmRLX0pvN2h1REJXblFzaW1rSEZGdU5SNWhuODFLWVVxQjFUWXdTVzRCM2VwZjlidEJld0FiMEJRdlJqZ0FoZw?oc=5",
-          "source": "The Korea Times"
-        },
-        {
-          "text": "米中和解がイランに有利に作用する可能性、米国の対イラン資源集中が困難化へ",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV0luRFZvUmZYTzhrUEU3OEZkRE8ybUYtQWtlcmU5akFra0JtbTNaVUVHdEhPTmFSbXVPU0VSd0ktTmd0VE84LUpCdW5Fc0xZWE5LLXRwbElhSkFZa1MwcDZXMUs0em4wQ1UtNUNQRzFzVkFqM0I0RWcwdFhsRW5BSUZtWVhkVlplcGJIUE9UR1o5bkw2WGlvSURWTWJVWkw0SFV1M2NvTU1CYjIwVXQ0eXV5alpCQdIBtgFBVV95cUxQV0luRFZvUmZYTzhrUEU3OEZkRE8ybUYtQWtlcmU5akFra0JtbTNaVUVHdEhPTmFSbXVPU0VSd0ktTmd0VE84LUpCdW5Fc0xZWE5LLXRwbElhSkFZa1MwcDZXMUs0em4wQ1UtNUNQRzFzVkFqM0I0RWcwdFhsRW5BSUZtWVhkVlplcGJIUE9UR1o5bkw2WGlvSURWTWJVWkw0SFV1M2NvTU1CYjIwVXQ0eXV5alpCQQ?oc=5",
-          "source": "South China Morning Post"
-        },
-        {
-          "text": "EU・中国が貿易交渉を開始、米国との貿易対立激化の背景に米中接近",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJakc3NURCZVRfWEtZOGx6UXRZeDN4QWVxTEVmTjZkMjlYS1c4REhYTjVhSndoZjBfSUlkVmhvVC1zMzZ0dFA2cEdlR05jb0N0OVZZdnBmNEtkN093eEFqOF8tQmh1cGY5?oc=5",
-          "source": "Sinocism | Bill Bishop"
-        },
-        {
-          "text": "米中関係は依然不確実性残存、AI・半導体規制での対立継続可能性",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGRZbVVocTNrZUNwTU1qcm9wSmc0U3h0Z2dJOXlDOXRhbmt3dE05TFJkNUllVVFQTFpVemlLNW1BcWFxeldNOVdKX1YtLXhzUXprUVUzT2ZBTVItMjQyWnlaLWVHbENIbnVRU0tRd3o4akZsSzFUNTNZOU53eF9XQ2twN2FwNzNrSlFFaUtR0gGUAUFVX3lxTE1jUGROaVRucjFqS2J0c0wxZWVwZHVMVW5MdDlsMnhIVFc1akhUSHhPSmJEZDllblUyWEtNSlhsRVpIMnVvVmlnZ1hxNmJTYi1UTnhoOExOZ1A0MFNFbXlUOFkxRmpoZWtGZUdKcFkwRXJnUWZvMmhfUWprbzNsdDN1YmZzTW9peURkZHlPVVFncFFVYWg?oc=5",
-          "source": "The Hindu"
-        }
-      ],
-      "risk": "▲リスク：首脳会談後の米中関係改善が瓦解する場合、台湾海峡での軍事衝突再燃が2026年11月～2027年初頭に顕在化。EUの取り込みで米国の対中包囲網が崩壊",
-      "context": "背景：2026年米中間選挙を控え、トランプ政権が中国との関係改善模索。核透明性強化で信頼醸成試行。一方、米中経済・技術競争は依然激烈"
-    },
-    {
-      "badge": "③ 台湾政治動向",
-      "color": "ORG",
-      "title": "蔡英文前総統が米訪問",
-      "subtitle": "退任後初、1週間滞在しスタンフォード大で講演",
-      "search_en": "Tsai Ing-wen Taiwan former president US visit Stanford 2026",
-      "bullets": [
-        {
-          "text": "蔡英文前総統が退任後初めて米国に到着、1週間滞在予定",
+          "text": "台湾駐日代表が東京で双十節式典で対中圧力下での輸出躍進をアピール",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53TlVnMDlXaFJxWUg4V2VBb2tqQnNzSC1wN0JLUjdmZkh0bkdTemdFS2RuT051RWZRaG5yV3hOQndNVUE5THQyMEFVMzc5ZU5PYWpWcXNTb1pnY01rbzdrUGtkZ3dfQUdXc1pvUGNjcUtvUDR1N0E?oc=5",
           "source": "産経"
         },
         {
-          "text": "台湾が中国圧力下で輸出躍進、経済成長を強調し国力アピール",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjRYTVRCREdVdVFNSW5STC1RdVB4czZMVnpSQmFfV3hwRU1tdkVUaUpncGVhNHFUazd6VWV5Qk1LRm81YXl2X2hfSEdVa3lUellBUmUwNkhvNVVndU5nZXkwVDk1bmNSM2FQWUFUZUxEWnJaZW1uYXhERTZHOTZISHdxM0JLbmhpSG96V3lTRTFfS2huQnpZbk9Yckt0dzEz?oc=5",
-          "source": "The Straits Times"
-        },
-        {
-          "text": "台湾の李駐日代表が都内双十節式典で中台関係の安定訴求",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORzR6ODZoWk9GQXdDc0RGYXFBb1FJLXVzTmQya09jc1ptMlRzWFJseHFCb1RERnRtbjMtZEZPWHN1eGNzZkFoWGRsaEFqMGRvTXhjaEt3SnZlR2lyRzI0YTM2ZnN2YU0xU2tfeHBkYXh2dHB2dVRycmg4MDFEWm83eDNjR2pOY2puRDhpdHhCSHhJR3lmLTB0clNQckNBaVU4Vk9XVnNjNXI3Ukk0SlRiYnpOSzhSYlNRNHd3dDNpdWFGQkNnU0gxeVZtek5wckdxX3NkUTlCR3g?oc=5",
-          "source": "Awani International"
-        },
-        {
-          "text": "名古屋アジア大会で台湾関連の運営トラブル相次ぐ",
+          "text": "台湾の米国駐在代表がトランプ・習会談後も米台関係は堅牢と表明",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMdHZZOGZVdEhYaDBKcVR3d0puLUVkRHJmdkdUXzNJU192ZG8tZ1RoVVQxa3R6OG9mVmdtaWFQVVl5T01MM0NZZERKdXVJRXFqcU9WYlczcnpUc0lxcnBJQ2dsRmllRlAzWXdxX1B5WllkV01meGc?oc=5",
           "source": "産経"
         },
         {
-          "text": "北朝鮮がロシア支持で米国の台湾武器供与を警告",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdndrOGhxcUM2YmJyM2ZqS2hNbDRScUNRT2pGci04U3lvMmZWZHpDdEw3ekd5djZTVUJfWDlYTk9kM0E3U1htRXBJMmNvU0hqbF9XbVRxR0tNSU1VUU9MZnFRdzdraEdScGpZZHRpUzBDdWFxUXV1OXdWY2VwS0h3SkVuUXdDSjdrRlAxQ0Ixbw?oc=5",
-          "source": "Minute Mirror"
+          "text": "北朝鮮が米国に対し台湾武器供与で警告を発出",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qMUFyMWlzQXdPMG1teGR4UzNaRS04S0FjREdPdWtFVzIxQU93VnVKMlY4OTI4c3BPbjhNd2dqNE13bnNDeURJWm5tZmkzaWctbDgzWmUzYm5JYk1CQjNvMVo1TmRXLVk?oc=5",
+          "source": "天下雜誌"
         }
       ],
-      "risk": "▲リスク：蔡英文の米国講演活動が中国の『分裂主義者』認定につながり、対台湾軍事的圧力が2026年10月～11月に急升。米中核施設交渉と台湾政策の矛盾露呈時に軍事衝突可能性",
-      "context": "背景：台湾の現政権（民進党）は中国の圧力継続下で経済成長達成。前総統の米国での政治活動は台湾の政治影響力維持の手段。中台関係緊張の潜在化続く"
+      "risk": "▲リスク：蔡英文の米国活動がトランプ政権の対台湾政策不透明化（武器提供の交渉カード化）により複雑化。北朝鮮の警告が露・朝・中の対台湾包囲を反映。11月選挙後の米国政策転換の可能性（4週間以内）",
+      "context": "背景：トランプ・習会談で台湾問題が議題化したが詳細は不明。蔡英文が米国で対中抵抗の正統性確保と国際支援獲得を目指す"
     },
     {
-      "badge": "④ EV・自動車産業",
+      "badge": "④ 自動車産業",
       "color": "GRN",
-      "title": "トランプ関税で自動車産業圧迫",
-      "subtitle": "英自動車企業人員削減、EV市場拡大と矛盾",
-      "search_en": "Trump tariffs automotive industry UK workforce EV sales 2026",
+      "title": "EV市場が冷え込み、産業再編が加速",
+      "subtitle": "税制優遇廃止1年、タイ企業が英国拠点を大幅縮小",
+      "search_en": "EV sales decline Lotus UK tariffs automotive market 2026",
       "bullets": [
         {
-          "text": "ロータス（英国）がトランプ関税影響でスポーツカー売上減、英国労働力を半減",
+          "text": "米国のEV税制優遇廃止から1年、販売が大幅に減少し業界に激変",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVV4a2ZBdjJEZDV2c09nb0pHZlpoekVrY0ZZQVFKN0YzcDBHeUx4bnVyNndBZ0JMY25zM0hQZllfR2lXR1ZVd1Q4ZFdwVFlKRDBJajhSTXNJN1F4NzRpX0dvS1dJdUVFWWR6QUREaVNrTnhPUFVzSGQtaURTWEotSjlXdHB5VDJneFBtRGwyTW40eEk2Q0pXM183UzVEQ3NycUtRMy14a3p3Z0hrQzVtSmdMM0g2WkUwdjcw?oc=5",
+          "source": "USA Today"
+        },
+        {
+          "text": "ロータスが米国関税の影響でスポーツカー販売不振により英国拠点の従業員を半減",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnQ4MU9nSmRuMHRYZHhjbGxEN3BFSTBRZHRYVUlCa2xQZk9fY28zVzhVQnhVQzZRWDZFSWFfUTVvN0NzTDhwUUtJV0ZSRDVwNDRTdEhsbFBYcHN4T3l2R1lrNVJtZUR2Tk53dDVPTDFYTXN6QU8tamVobDNUN0E1NktCYmtmMl80RWpQZlJzb3hRLTBYZExPTm930gGfAUFVX3lxTE1hbE1BZFZUcFQ1Vk9JOExLM3JBY1lLZFNMOTRVR1hJZEVjT0Myenc2dnZOcDBYTU9XNm5uVXUxemtHY0JURnlrbjU0NWZlVVJ2aXZ2VFk1SURhRHBZaDVFaGVjV3dKWFp5Vlowc3BZeHN5QldqNG1jWTNmOE52enB1V2gta1lJcV9ZSmhYVmdVcWhvWGFVUklJNldMRVFtRQ?oc=5",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        },
+        {
+          "text": "EU・英国がEV関税10%回避へ協力協議を開始",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbDZYRkZVMDJLSzlMbDVFY0hVYnNCeU1Bb3RlYmFwd0pKcTQ2Y1NMUHVqUmxJODlfWE5aRnVPUjNnZlVxaldfTmxBNGlvbXp4ZVRTMGowU1llbkRNaENmdXZzMDhyTTlza2NudTNCa21MaFVpVXBnUHRjWG9pX0NkV25vVnlZS01VNVA3NzIwRWR1NUFVUmJyazg2NE50TkVjeE1PYlpuTFA4V3NIZFBpTmxzcFdUSDhjdEpuS3JlMlpmczFw?oc=5",
           "source": "This is Money"
         },
         {
-          "text": "EUと英国がEV関税10％回避で共同対応、EU・中国貿易交渉と並行",
+          "text": "インドのEV販売が9月に36,108台と前年同月比でほぼ2倍に急増",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kLVBMdHVJcVRlbjA1VlZaOFJ3TnVLeXAxb1FybUtZNXlCMW9BR3V4ZHh4bmNXaVFLNC1ra0ZaSDRUMXhZamNCRU1iRFI3Tm5PMUd6RklGbEM2NVJ4RmhIQng5VV83QTBnODF1RnFHdnJiRTdqUU9B?oc=5",
           "source": "POLITICO.eu"
         },
         {
-          "text": "ホンダが北米の次世代ハイブリッド量産開始を延期、2027年4月以降に",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNFp3YVpZYWtmbTkzTGlMR3JDNUdmNlM5YUJVczZYa2xBcVhpQWR5dzV3bVdFeEZuV2dXdm5BcGZ0aVpjYmpzU2Q1eVlkSzVDUzhwNUpLbnl6dzRoRFphdTVoRlVaOHhBaTREcnVjWktLSF9zekRMNEdDNzhIOGlvNHRuUGZzODFaRXZSSnFSMW1hRkFNQ2s1TlNvQTVoLVFPMXR0cnJVNU50X0hYY3A2V215dF9Ma1Fr?oc=5",
-          "source": "Kalkine Media"
-        },
-        {
-          "text": "アルゼンチンで中国自動車メーカーが輸入枠拡大で市場シェア12％到達",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT1ZvN1hWYVJxN0drY09TZldvVlJKWXpwUTVXM0RGaWpZRnJtRVlqWG82X0h0TTFpQmtwSzhZRWhYckJNdkZfdmdOeERjeXNOdS1FbGxlT3VHU2lTOTVfdVNGb1V2dldjX2c1RXpuaGJvRWhZWXVYX3BKM2REekZadnJIVTljeDh6aGcwNndWM0x1cVlIY3hVcQ?oc=5",
-          "source": "Fleet News"
-        },
-        {
-          "text": "EV市場は過去10年で45倍拡大、ガソリン車販売は停滞傾向",
+          "text": "ホンダが北米次世代ハイブリッド車の量産開始を数カ月延期",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5Y2huaDhvYnZ6djZJMEFwT2VMSXJtMzctT0Z3NGc0TmxYazROamtLSkx3aFI4NGItWW1XRU82dGxqcGNqZENjdTVLN2YtLXJ1d0d2cTc0Z0dVdWJ3V2tCZ1U1V2dObFpGOVdSSA?oc=5",
           "source": "日経"
         }
       ],
-      "risk": "▲リスク：トランプ関税継続（中間選挙後の2026年11月以降）で欧州・日本の自動車メーカーの事業縮小加速。EV市場拡大目標と相反する産業空洞化が2027年初頭に深刻化",
-      "context": "背景：米国の中国・EV関連輸入品への保護主義的関税政策が自動車産業再編を加速。一方で世界的EV化トレンドは継続、産業内での構造転換が急速化"
+      "risk": "▲リスク：トランプ関税政策によるEV業界の淘汰加速、英国・EU域内の生産空洞化。新興市場（インド）への生産シフト完了までの産業空白が1〜2年継続（2〜3カ月以内に経営判断）",
+      "context": "背景：米国EV税制優遇終了後、市場が価格競争力で劣る中高級EV中心に縮小。一方、インドなどアジア新興市場でのEV需要は急増"
     },
     {
-      "badge": "⑤ 日米安保問題",
+      "badge": "⑤ 日米関係",
       "color": "CYAN",
-      "title": "米海兵隊員の殺人事件で抗議",
-      "subtitle": "米国防省基地不要の声、日米同盟に亀裂",
-      "search_en": "US Marine murder Japan Okinawa base protests 2026",
+      "title": "沖縄米軍犯罪と日米防衛協力のぎくしゃく",
+      "subtitle": "外務省堀井副大臣とランドー国務副長官が協議",
+      "search_en": "Japan US military Okinawa incident Horii Landau talks",
       "bullets": [
         {
-          "text": "米海兵隊員が殺人容疑で逮捕、米軍基地必要性を問う日本国内の抗議活動発生",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1aNGstUGFBR1hZZjNfYVNoSlBWVTJKZlE5S0Y1TWV6V2dJR3RmVnF1TXpJRHVWMWlhNHBuWk9Mczl5U1phRVREQThXaw?oc=5",
-          "source": "AFP.com"
+          "text": "沖縄における米軍関連の殺人事件を受け、日本の対米軍体制見直しが議題化",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXFnZ045TEc3NTVXZVE0ZlhIWklpN1lnbW9qdkNfTVRRX01pci1pQUZLVHEyOTJZQ1ZKbFJNeDBWN3Z6V2xOVlI4Wm5jVWNERVJmS3c1SWhweERrTVpGeng1TEVWRzMyWFc5dGQ4Z2JPRmIxYWVCRWk4NDdGOHZJUU1vTll1WTZfUUpKRnIwRXk5Zw?oc=5",
+          "source": "The Japan Times"
         },
         {
-          "text": "日本国内で『米国防基地は不要』との声が拡大、日米関係に影響",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53RXc4ZzFZc2w4eGJ6QS1HbVpRWlRMRk5MSEwzQmowcjh2dHA5cjFLV21qZjllQnQxTlA1NFJGQnVLMUh0NWZWZ1ZWckV6SWVRU0JFeFd3ZktmRHlBZU9FZ2JHQ1pMdTlJRVR3?oc=5",
-          "source": "Geopolitical Monitor"
+          "text": "外務省堀井副大臣が米国国務副長官ランドーと会談、防衛協力を協議",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NREc3aU1qZWFpMlZYdXhvMENzS2xabGtPRXl1TzBxMGJReHEwVFQ4aFNEdHZWQ0ZmckdJUU4wZzY1N2twdkNmaGYzNmlza0pFQzBEbXhmUVVZbk1DSEdvUE9UaHZJTjRjWTFHTFVweG8?oc=5",
+          "source": "Ministry of Foreign Affairs of Japan"
         },
         {
-          "text": "海自とPLA海軍の力関係が2012年以降大きく変化、海洋防衛戦略の再検討課題化",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSEtLcWcxdmQycFBfNGYxZXV6UjFoYU0xcVp3cFZvMGlhalVsS3dwZEpadklvdWdwLWtTSDNSN0V3TXZFS0JHd05OT3FUN1VORkVVVjdEb0p4ZVg1TjgtZkFzSnhPSUdINUYxeTRsT2JsTndHckE?oc=5",
-          "source": "産経"
+          "text": "トランプ大統領がXi主席に高市首相との関係修復を提案（日中関係改善志向を標榜）",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeDhhb0NhaVJzWTgyZEx2ZUF6a0pmZ2FxUkZUdkJiMzFWYVpFY0pRb0ZEYjNLR0tURXczWi1pU05rQVoyM3ExNl91VzRCVXlsSUZBdXZoUU9yb0RFS1hXek1fLWtta0FXWVhuTEJIOUFZd0htbW5KeU1pR1ZIeGZzLVdUUDVDS1NkLW9sNUozSFAzRTQ5R0xncGVEOEhkaE5lVzd0MzYyeWotdG5fOFhRZ1RTOVN5VGhSOHRBS2Y4YnI5d1Za0gHEAUFVX3lxTE5hNFYzUXpKdkZvYkRKWnhKbGxNOC04Q1pLQzYtZnF5MXB3bndkOTVheEFKNmdtR1k1c3M0TUtxSUVEV0ZocmhjcDhQQnFzb1EtNG02ZFg5TjItNU5XcnY1WC1qeklrSHZnV25fOHNKXzdIV3pmRGNPYUhKMGtocjR6eU9wNzBzV05VM2cyX1NxZ3FkMVM1NHcxYVRYanZFSllsWVlXaXBsczQxUVRTN1lqWDZqM0NyOFYzOFQ2X2VaVUZicGw?oc=5",
+          "source": "South China Morning Post"
         },
         {
-          "text": "日本が『自動運転で米中に負けない』と官民連携推進、防衛・産業両面の自立化模索",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43aFdUSXh6bFJMNDJidnhNVDVyVDlKOFNRRmFJODJwQlp3d3I0YTk5aXdvWXhjMU5wSHpEaWN5dUN3bEJRU2NMdkUzVDM2MFlvMnp2aS01YlRXbXQybFdzSGNCNjlHbXpkOUpncEpaOUFoU0lRaVE?oc=5",
-          "source": "産経"
-        },
-        {
-          "text": "日本の対米防衛依存の持続可能性が政治課題化",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5Y2huaDhvYnZ6djZJMEFwT2VMSXJtMzctT0Z3NGc0TmxYazROamtLSkx3aFI4NGItWW1XRU82dGxqcGNqZENjdTVLN2YtLXJ1d0d2cTc0Z0dVdWJ3V2tCZ1U1V2dObFpGOVdSSA?oc=5",
+          "text": "ベトナム沖の出光ガス田採掘で日米ロが資源開発競争、地政学的重要性増加",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KSG1GemxCR3ZjRzRjeW5YWmRnR29nOFZJbW1GNEtIbTdUYVREOXNWMTJVQmtrZkdMV0wwRE91NGpkV0NHelZ3emZBN29sMTlwNU9GZWQ1cUR6YWlQeXZBU2x6VnNWUHptMXBsRg?oc=5",
           "source": "日経"
+        },
+        {
+          "text": "日本大使館がワシントンで花外交を実施、対米関係修復を象徴的に展開",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZVJoSlRoV3E0NWl3d3VocmNucnhrQTdxLTdQZEJ5ajJuejZYTXEtTmZDbUMtMjg2S2pDSGNJMzZ5VFBzY2VFZC1BbEdPdVpIdHVidWExaGdHbHExTXJKOElfYzlHWkNBTEZoUmFVcEZ5TGljLTdUT3l5ZF91cTRSMg?oc=5",
+          "source": "The Zebra"
         }
       ],
-      "risk": "▲リスク：米軍人犯罪による反米感情高揚が日本の防衛政策独立化につながり、米日同盟の軍事的結合の弱化が2026年末～2027年初頭に顕在化。中国の海洋進出に対する抑止力低下",
-      "context": "背景：沖縄の米軍基地問題は日本国内で長年の懸案。米軍駐留の正当性が個別事件で問い直される構図。同時に中国海軍力の急速な拡大で日本の防衛自立論が浮上"
+      "risk": "▲リスク：米軍人による犯罪が日本国内の対米感情を悪化させ、防衛協力の基盤が動揺。トランプ政権による対日規制撤回要求が実現しない場合、日中対話圧力が高まる可能性（4〜8週間以内）",
+      "context": "背景：沖縄駐留米軍の綱紀粛正問題が日本政府の負担軽減要求と絡み合い、ベトナム沖での三国競争がインド太平洋戦略の新焦点化"
     }
   ]
 }
