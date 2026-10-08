@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08 14:18:38",
+  "generated_at": "2026-10-08 20:51:35",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,38 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-08 14:17:32",
+      "last_checked": "2026-10-08 20:51:00",
       "items": [
+        {
+          "uid": "bc7f2dd09ad2",
+          "date": "2026-10-08",
+          "title": "France and Germany Split Over Who Should Qualify as ‘Made in Europe’ - EU Today",
+          "summary": "欧州産業加速法案（IAA）の下での「欧州製」の定義をめぐり、フランスとドイツが対立しており、フランスはより厳格な基準を求める一方、ドイツはより広範な対象国の包含を主張しているとみられます。この規定の相違は、欧州内の産業競争力強化という共通目標の実現に向けた加盟国間の利害対立を示唆しています。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11STVFU0x0eGpjLTdZanJTYkU1a3gxa0ZaQ1NDRFpQTm5SWUd6bkxxV2lETWxWUnhDbTc2YUNsVVVmNUFTWERFVnlaancwMHQ5VkFMQUVEMUpNQ3FMRU45QVNYcnY?oc=5",
+          "added_at": "2026-10-08 20:50:55"
+        },
+        {
+          "uid": "005551092716",
+          "date": "2026-10-08",
+          "title": "Bid to scrap ‘Made in Europe’ law sparks backlash over industrial jobs - EU Perspectives",
+          "summary": "欧州産業加速法案（IAA）の廃止に向けた動きは、欧州の産業雇用と競争力維持に対する懸念から反発を招いており、法案の撤廃が欧州の産業基盤と雇用に悪影響をもたらす可能性があると指摘されています。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQamdfaFRSWFpwalVTQl90cG5UMmxjU3hMMlpTbW1iUlZBa1Ewb1A2ZFlieVpsNDRGYzVWT2NzSFVITGZ2YVpxenhIRVB3Y2JXaGM2Tm1kRURKUDFFdEdqakhHeHhacDM1NTlEQTFXMi1NaUlnR21lQl9VSjRabHJwb0NmZjY4M1VUal9FNA?oc=5",
+          "added_at": "2026-10-08 20:50:55"
+        },
+        {
+          "uid": "ed72deb0b016",
+          "date": "2026-10-07",
+          "title": "France set to follow Germany in softening CO2 targets - electrive.com",
+          "summary": "フランスがドイツに続いてCO2削減目標を緩和する方針を示しており、これはEUの産業競争力強化を目指す欧州産業加速法案（IAA）の推進の一環として、厳格な環境規制が産業競争力を阻害するという認識が広がっていることを示唆している。EUは米国やアジアの競争に対抗するため、産業界への規制緩和と支援を優先させる戦略を転換しつつある。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSnotTnlLdlBVNXliZ0xlVUxOS0lvNEJSMEhFaWN4dUxXYUlaRnZEeTJXSG1lNVRKVXctUVd4bnlFdHFBUlZ5a2t3d21TendrWmNXUkl6SXY1cmRRSG5VUVhmU0hHZkN3MktCSkpoelJYZWRXVjhLd2tZNTd3OFZXblNFOVNnZU9Nb04zYWpzSXdrTXV3RHc?oc=5",
+          "added_at": "2026-10-08 20:50:55"
+        },
         {
           "uid": "ece40c575dc8",
           "date": "2026-10-07",
@@ -1979,36 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2lYVE8wRDNJTTlPVnJuT0NUZ1ZRcEE2SGlMbDVHNXFYTkZlNHFfNVA2aWt3N3diOGhSVHNxcEloVkFac0NMaXRFUkF2ZWp4ODBsX3NyRUtYS1l4UFpUY3JPejRIYVVpNXpRcTdWdDI4RV95cHpLaXMwNVV0X1FBYnpjOEM1UVBSNWVSLVpIX2VJVVBHZ01XUTB1b3VVWjJablE0WG9uWQ?oc=5",
           "added_at": "2026-07-03 13:16:41"
-        },
-        {
-          "uid": "35534b96220b",
-          "date": "2026-07-01",
-          "title": "BYD nears decision on 2nd European plant as Chinese make moves ahead of tough EU investment rules - Automotive News",
-          "summary": "BYDが欧州での2番目の製造拠点の設立決定を迫られているのは、欧州産業加速法案（IAA）による厳格な投資規制が迫る中、中国企業が先手を打つ必要があるためである。中国メーカーは新たな規制環境への対応を急ぐことで、欧州市場での競争力維持を図っている。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTkxUTUzT1E3c09rajUwMVRQZjRoMGxXSUh3d0s4ajVPV3B2SUFWT0xGczNkWGJxd1pLak00TTVLbE9sLWY2TEJfVHFMWmZmZ1hFNlJXSHliN1MwVVlxSVdJWFdoMlVaOEd0alg4aDBQT2hKYmxORTgwdzNJd3RkMHAtTFA?oc=5",
-          "added_at": "2026-07-02 05:22:58"
-        },
-        {
-          "uid": "337f97c4708b",
-          "date": "2026-07-01",
-          "title": "European automakers urge EU to protect Türkiye investments under ‘Made in EU’ rules - Anadolu Ajansı",
-          "summary": "欧州自動車メーカーがEUの「EUメイド」ルールの下でトルコへの投資保護をEUに要求しており、これは産業加速法案が域内産業の競争力強化を目指す中で、トルコなどの周辺国への生産拠点の扱いが重要な争点となっていることを示している。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU2tEUndTQU0wczE5MXFvUzAxeTlsczBnMWV1c2N6UWphSXNjVnFJZC1YQlJrSVY1WnhGOElnQU1FWXFNb2k3THZSeGUxN0p3S3BKYlR4ck9jaVpaR3NVWk91N1lnNktUdEllZFBIdElqM051SGJ0OGFwMmtSVHQyVk1LVzlHRHFCUDBDYXB0MHM3UmpRQ2FKaFgzWFBFOHJlUTU1OVdETjBQUEVmcnRkVGN3N19jNkNXWTgzTEpR?oc=5",
-          "added_at": "2026-07-02 05:22:58"
-        },
-        {
-          "uid": "2f1c47314fd4",
-          "date": "2026-07-01",
-          "title": "European automakers call for limited Türkiye role to prevent non-EU access - Türkiye Today",
-          "summary": "欧州の自動車メーカーは、非EU企業によるEU市場へのアクセスを防ぐため、産業加速法案の枠組みにおけるトルコの役割を制限するよう呼びかけている。これは、EU域外からの競争圧力、特に中国などの自動車産業に対する懸念を反映している。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUpEOWZyTEM3REEwRXRNUERadnhRMXhmZ2hqQ3VoSmJNOUZ2THFXYWEwUXNoRjJRYTZSZkVfWFVLRkJCX0NveVJETUZnWXUtbjVTeHIzZ096UjlMV2dCYS1oRWl5ckNYd1Y5M0NjcG9ScU5ITDlCdk40MEJuWFk3bkZuQmtmODJfVUpac3JWWFBoVDk3cmozbHYxck11Q2h3M0xqdjlqSFR4cDhJZnlYT2o2R3BpZG9YSGNHVg?oc=5",
-          "added_at": "2026-07-02 00:18:57"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-08 14:17:48",
+      "last_checked": "2026-10-08 20:51:09",
       "items": [
         {
           "uid": "eea9c57be427",
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-08 14:18:20",
+      "last_checked": "2026-10-08 20:51:25",
       "items": [
+        {
+          "uid": "b2ba735c8621",
+          "date": "2026-08-31",
+          "title": "Tinsel Magazine Publishes 'The Countries Looking Away' on Nations Without Child Online Safety Laws - EIN News",
+          "summary": "申し訳ございませんが、提供いただいたテキストは「中国レアアース輸出管理」とは全く関連のない、児童のオンライン安全法に関する記事であり、要求された文脈での要約は不可能です。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRzlNTWdqZmFZRzBzcmZ1U3RScWs1Mmt4YnhqekN5SjBSV0NvVHV6ODA1bGhDR2l1ZUZtdmRQdHVQZHdJU0NOU1pocUtsMFF5NS13YkRNdldlVUh3QWhhaWdnelVZYmhhOHBPdjBmNGdTODJIQmxqd3hHdDhWRnUzbjlDa0x0TWtPc2c0YmVjd3FJWHF4N1ZHdTN4NENmNHNITFhNS0wyN2FiVEltTElnYU1tOGpzX1B2THkxOVlJNjVxa3ZwakRmMlA1YVZMTkxlbGxmLQ?oc=5",
+          "added_at": "2026-10-08 20:51:24"
+        },
         {
           "uid": "d65c6b4b8f11",
           "date": "2026-09-02",
@@ -6021,16 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTFRNGkzaENWU2dUd0hseGlKUjVhT0NlVVAwRUVlcFRPQW5BdEZhWVdwSFQ0ZGJaaTlYcXFScEdkUGFRcWdyUFpyZHhVU1dCdzE0bUk3RHQwdU5TVnZGa25IUGN1X01qRXo4SU9Nd2hKT0pEYVJNM1VLdXdaaHdrSHh6R2MySFp1RTdwc3YxUC1mN2ZrbVBLYkg2LUg1N3BOZk84TGRDX2NQcWM3M1BOSlc0eFZZZw?oc=5",
           "added_at": "2026-09-05 17:52:37"
-        },
-        {
-          "uid": "46011a75d2fd",
-          "date": "2026-08-13",
-          "title": "Rules-based critical mineral export oversight enhanced - China Daily",
-          "summary": "中国は重要鉱物（レアアースを含む）の輸出管理を強化し、ルールに基づいた監視体制を整備することで、戦略的に重要な資源の供給を統制している。この措置は、国家安全保障と産業競争力の維持を目的とした中国の資源外交戦略の一環である。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vcHFDY1c1d1BiVmp6X3RVSEwwT29YWjZNc1YtUWdDS1NSNl84UXVoZGVWUnZ2TDByOEdKLU41cThYVjFhazNBWTE3X3hldDQ3V0VKYUVWemU2N3k4NGg5N29QcWFZNDQtVzVzVEdKaXA1QzZpYkI4SkxXYVY1UQ?oc=5",
-          "added_at": "2026-09-05 17:52:37"
         }
       ]
     },
@@ -6041,8 +6041,28 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-08 14:18:38",
+      "last_checked": "2026-10-08 20:51:35",
       "items": [
+        {
+          "uid": "b17e96c37396",
+          "date": "2026-09-09",
+          "title": "Donald Trump administration flags Ford Motor’s China ties as security risk - ET Auto",
+          "summary": "トランプ政権がフォード・モーターの中国との関係を国家安全保障上のリスクとして問題視しており、自動車メーカーの対中提携が米国政府から政治的批判の対象となっていることが示されている。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSDNhb21GS2pXSmxncXBwcWpYX2czVlBqT3h2VkdWUHc0MVprVlUyN3lzMkFDUXZOTEVydEFrcHE5RHp6WE9uZk5vNlJzODZRanM3WGxXajFUMUw4bXUzakRsY0ZnaXpfWk1UNEM3YkJtNTh4SnNNR0VrYXY3WnoxaWNjUC0wanhyNzJESUUwZmZWYXpndTBrTFcxcWFFNEN6ZGFnOTlKbTZ3V2ZFRHNVR0oxeVpPVE9RUUdRa0JDb2dpc3JvWDFjTUpWM3RjTlJqakl3ejBB0gHbAUFVX3lxTE44Z1FNS21YMkRPZHBjTVo0b25jVEdRbE1Qam5PaGc5eDhxSWxwYkJUWXZlOGFQdjRVSXNYQUxWU0x0em5XZmlQNy02MEViUlFsZ2d1TmQtY1NhbVVQbm9BWWxjYW5ZSmpxZzhZUTcyTW5tM2lwSFF0el92VmRQY1pwbzg2bnhVaGlGU05EWVp2TDEzeEl0ZGZVWnhVdUNQZ1Bobk5ULVZyU0NPb3MyWEhTSEc2Q0NkTU9Sb3lrUFdMS04xbWIzblJEUFhBTGNBdXhhcXlxRXNHekc3Yw?oc=5",
+          "added_at": "2026-10-08 20:51:32"
+        },
+        {
+          "uid": "d1887f55c440",
+          "date": "2026-08-18",
+          "title": "Pentagon threatens to cut federal funding to 30 universities over foreign academic partnerships - The Guardian",
+          "summary": "米国防総省が外国との学術提携を理由に30の大学への連邦資金削減を脅しており、これは自動車メーカーを含む企業が中国との提携を進める際の政治的リスクを示している。米国では安全保障上の懸念から対中協力に対する政府の締め付けが強まっており、自動車業界も同様の政治的批判に直面する可能性がある。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDlTYXE0ZU14cmlfV1JQUk42Sk1ELTltWFA3Mm1SYl8xQXJIWDZoT1NqakdFZU1jRldlbHZhMTBiZlFTYVp0UWEzUlk5T0NlT19vT19TbENrSmJnMkFGYkJ2SjFnOWlMb2pmYWhxejJMNnRDUXFrZ2lkaGU2SF83bnJoMGlBZ3Bu?oc=5",
+          "added_at": "2026-10-08 20:51:32"
+        },
         {
           "uid": "78bce26c1d4e",
           "date": "2026-10-06",
@@ -8021,26 +8041,6 @@
           "source": "フォード",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcW9YZ21CQ3hRYzd5YjlZdHFPeUJIdm82T2NTYjNETktNMHYyTnBQUExmcWFBcUIwMzZCbDlxUC1RNk9GdFU0ZU9kQncwNDFTWWdvMnY4YkxkbWtxZlJ2b25CRmFPSl9mSEFfSEhwX3FvbjJmbUVuM3BKUkZabi1KcHV6ZTFTalRwaGFDdFpNQkVYMzlid1lfQ1k1OA?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "cacbf9d7d4f6",
-          "date": "2026-09-09",
-          "title": "Republican lawmakers criticize Ford business ties to China - KELO-AM",
-          "summary": "共和党議員らがフォード・モーターの中国との事業提携を批判しており、自動車メーカーの対中ビジネス関係が米国の政治的議論の対象となっている。",
-          "source": "フォード",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTNGeHRHQjgwLVVUY0pnRmRibmhreHZvb1NERDNDNTFMQW5FQWQzTUFJREJNR2FBblloWFg3SnQ1WnRGNFcxR2NrM0JZTUN2Z2ltcDk1blFjVXlKenRHelJNOHlyT2hjQUlnTElDcWV5ZE5GV1R3NzhCV0RPTFRCdTZiSkhoSHkzd1c5a3JvYVA?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "6cbbeef5d8d7",
-          "date": "2026-09-09",
-          "title": "Ford Under Fire: Congress and Transportation Secretary Question Chinese Business Links - News and Statistics - IndexBox",
-          "summary": "フォード・モーターが中国企業との事業提携について米国議会と運輸長官から政治的な批判を受けており、自動車メーカーの対中ビジネス関係が国家安全保障と経済政策の観点から問題視されている。",
-          "source": "フォード",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEdnT1NmTGpxNTJGR3NvOFpaWnZVaWxFaUt0S1FPUHFLMTNBSFNXSEFGNzlDd3RZZkxHNUNEbFBuVzJ6WWZRcVNyQlRVNDRIMm9HbEdYWFkwQkExMDBhRkZwZTBaZmJfb2E2X0pVVTNWOC1EV0dhMzdZMFpGT3dTMXFodzZWVEU?oc=5",
           "added_at": "2026-09-14 16:32:35"
         }
       ]
