@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08 20:51:35",
+  "generated_at": "2026-10-09 04:43:43",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-08 20:51:00",
+      "last_checked": "2026-10-09 04:42:58",
       "items": [
         {
           "uid": "bc7f2dd09ad2",
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-08 20:51:09",
+      "last_checked": "2026-10-09 04:43:11",
       "items": [
+        {
+          "uid": "2b93e7848708",
+          "date": "2026-10-08",
+          "title": "China plots major move south of the border as auto exec shares grim outlook for industry - New York Post",
+          "summary": "申し訳ございませんが、提供いただいた記事の内容が不完全です。タイトルのみで本文が含まれていないため、S.4429（米国接続車両安全保障法）との関連性を踏まえた要約を作成することができません。記事の本文をご提供いただければ、正確な要約を提供させていただきます。",
+          "source": "議員発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEhCZ01hdnZyS3N1ZVMyemowdldfVEg1b2x3dDVwbFFDYjlqWWo4VXBpR1RWbl9RMGh0LVpsc2kzMTQ0LVZsREFRVUhtRWxQemhFbDdpMzZUVEdlOUJtOWR2OU9GQ2hzMV84RERnSnc1Qk5ySE92ZmZWbUhFSTVmdWFDMW5jYXJYNF82MTBTeDIyUkU0b19IUlU4bEVkX3o1?oc=5",
+          "added_at": "2026-10-09 04:43:08"
+        },
+        {
+          "uid": "6cf2eaa83814",
+          "date": "2026-09-03",
+          "title": "Alliance for Automotive Innovation urges Congress to ban Chinese vehicles before year-end adjournment - Automotive News",
+          "summary": "米国の自動車業界団体Alliance for Automotive Innovationは、S.4429法の成立を促進するため、議会に年内の休会前に中国製車両の禁止措置を可決するよう促しています。同団体は中国系企業による米国の自動車市場進出がもたらすセキュリティ上のリスクを懸念としており、この法案を通じて国家安全保障と自国産業保護の両立を目指しています。",
+          "source": "業界団体（自動車）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnNoOXl4NFVMZGZBbmUzSTJOYUJBWTBrN2FRTEhQSEoyVFpnSjdhY1g4X2JRaXp0NVZ3djF6M1RMenVZSmdZaVE0ZUpKQ29SdHo5UGZURVVxM2NzSnJJTTVnQ1ZtbkJJaWZLOFRvQkFXODNiZUhHa2xCcktPY3BsWlFlN3VMZExJaEFKVUhZNHlVVTZBSVNuRGNSd296bmQ3VTB0Vy1R?oc=5",
+          "added_at": "2026-10-09 04:43:08"
+        },
         {
           "uid": "eea9c57be427",
           "date": "2026-09-04",
@@ -4000,26 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRmR2alh4WjZraXJzQWp1OVdTX25VTUZKU2FnNUp4VG9hU01mV2tMd3RCMTRDVzE1YUtzdkF4WFh0WnA1bGdwbVR0X3V0UjQ1VURXUTNqeG56RGdoVEU1RTRsT3VFaGVwX3kxTk9Zcm1mMXRnRi1MMWRuR09WaEsxeWVDemRwRjlnYVUzUEVad0M?oc=5",
           "added_at": "2026-08-01 16:29:19"
-        },
-        {
-          "uid": "411b368a1b80",
-          "date": "2026-06-26",
-          "title": "Polestar Exits US Market: Chinese Ownership Triggers Connected Vehicle Rule Ban - Tech Times",
-          "summary": "ポールスター社は中国資本の所有が米国接続車両安全保障法（S.4429）に基づく接続車両ルール禁止の対象となったため、米国市場から撤退しました。本法は外国（特に中国）の所有企業による接続機能搭載車両の販売を制限する規制です。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2tIblUwaUU0SDlnVUlial9yTE40ZkZycXhGMjBwTkktZXVmT0QycVlldnM0anRndzM1UVIwOHhkU2ZPcTI4S00wWlpYV3U4dnpDVTcwQmZqZlM0U3FISERUckhPd0NiUEpfMy1TeGcyZ3JPdWNEWmZXQ3MzNmR6Nl9YNTB4ZzRLLUdIb08xWWZUOXdGRERfdnYyaHdjbnhVemtkcFFvU0VaeFlwVjg1ZzlCajVkWnBRQ3pwZzFWTFZRMkxiSXdBZ1B4RGhjZw?oc=5",
-          "added_at": "2026-08-01 16:29:19"
-        },
-        {
-          "uid": "7e9013ee9c2f",
-          "date": "2026-05-05",
-          "title": "Foley Automotive Update - May 2026 - JD Supra",
-          "summary": "申し訳ございませんが、提供いただいたのはタイトルのみで、実際の記事内容が含まれていません。S.4429に関連する具体的な内容が記載された記事本文をご提供いただければ、日本語で1〜2文に要約いたします。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTBxODNnNFV4UEJNdjl1cmwyUE4xTGYxdzA3S1ZPUlVHZlJxREJWbzJUdUJJSllRV0RyWWxEc19BTHJjenhvUXlOcXpMcXFKME1iSWROZzlJeDFGMHZacWhjVkRoMUV5WnFLUUNLS2dVcWtxaXk5aHJGV0dsSEpsVQ?oc=5",
-          "added_at": "2026-08-01 01:02:34"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-08 20:51:25",
+      "last_checked": "2026-10-09 04:43:29",
       "items": [
+        {
+          "uid": "02f50563e0bf",
+          "date": "2026-08-24",
+          "title": "China tightens rare earth exports — and the squeeze lands on magnets, not paperwork - Astute Group",
+          "summary": "中国はレアアース輸出の管理を強化しており、輸出規制の影響は主に書類手続きではなく、実際の磁石などの製品供給に直結している。この措置により、レアアースに依存する産業は磁石の入手難と価格上昇に直面することになる。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTXJ5OGlYRGNIZjNFX1dZUzFPSFIzeVZONEdQNE1WQlR0VEZqb2ppS1kycGEzUlJvYmo0NGRzd3hBZk1HaFZ1TC1XdFM4M3lXdEhJNnRuSnlCbFNPQVNPd0xYMThOdjBqTTJSc2hFazctQW1ER0xfY0hiMnN0TzdKQk1zQXg4QURCUEREZ3NDVVU2NWVIcWpFdW5RZzFrQi02RHBBTXNSS1dPXzlKbHFSdl9FQm1DOU90Wi1BU3JfZw?oc=5",
+          "added_at": "2026-10-09 04:43:27"
+        },
+        {
+          "uid": "46011a75d2fd",
+          "date": "2026-08-13",
+          "title": "Rules-based critical mineral export oversight enhanced - China Daily",
+          "summary": "中国が重要鉱物の輸出管理を強化し、国際ルールに基づいた監視体制を整備したことが報じられている。これは中国が戦略的に重要な資源の流出管理を厳格化し、国家利益を保護する姿勢を示すものである。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vcHFDY1c1d1BiVmp6X3RVSEwwT29YWjZNc1YtUWdDS1NSNl84UXVoZGVWUnZ2TDByOEdKLU41cThYVjFhazNBWTE3X3hldDQ3V0VKYUVWemU2N3k4NGg5N29QcWFZNDQtVzVzVEdKaXA1QzZpYkI4SkxXYVY1UQ?oc=5",
+          "added_at": "2026-10-09 04:43:27"
+        },
         {
           "uid": "b2ba735c8621",
           "date": "2026-08-31",
@@ -6011,26 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLUdUdXF6dWRuMFVHNURVNWgtME9GeTQ4amJPc3V5c3JIZWhMSVBzbUJLSUFOb3FTNnpHQ2dleXVYYWIyckEtZlEwWnJsSzJzREh6OS1RUWNWVDJ5OUI3dEFQam1Gd2lpTjR3NGdNQU1FanNlMEhxWkhEVlhYMWU4bjVQSy1QT0x1dlpTQlc4QmpCNllNeFd0d1o5SEF2OG9qdWxlS0FvMjZuXzlSMHE5UlVuQVZFWUtScldOOWREdEdKb3o4eFZvd05nNkgxX0dVR3c?oc=5",
           "added_at": "2026-09-06 01:38:41"
-        },
-        {
-          "uid": "40ed417c1063",
-          "date": "2026-07-30",
-          "title": "China’s Rare Earth Curbs Put $6.5T of Tech at Risk [2026] - tech-insider.org",
-          "summary": "中国がレアアース輸出を制限していることにより、2026年までに世界のテクノロジー産業全体で6.5兆ドル相当が危機にさらされている。この措置は、電子機器・再生可能エネルギー・防衛技術など、レアアースに依存する幅広い産業に深刻な供給リスクをもたらしている。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBQVRWMUM5MnhKanFjQy10aXFZOGVlZ2ZfWHNaTjQ0bDZqaVVOclRaWHczeFVjbHEtRVpzTDJKcHRrTlN6TkVneXBQTE9lTXlLMGQ3Z3lPUmw0WEJKZkNKNzBNU1FVRTlQM19UUGRmNWJzQU9TM0VaQWhFdDc?oc=5",
-          "added_at": "2026-09-05 17:52:37"
-        },
-        {
-          "uid": "28655cfe6ca6",
-          "date": "2026-06-22",
-          "title": "China targets US rare earth and other firms with export controls - reuters.com",
-          "summary": "中国は米国企業に対するレアアース関連製品や技術の輸出管理を強化し、米国による中国への経済制裁に対抗する措置を講じている。この措置により、米国企業は中国からのレアアース調達が困難になり、サプライチェーン戦略の見直しを余儀なくされている。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTFRNGkzaENWU2dUd0hseGlKUjVhT0NlVVAwRUVlcFRPQW5BdEZhWVdwSFQ0ZGJaaTlYcXFScEdkUGFRcWdyUFpyZHhVU1dCdzE0bUk3RHQwdU5TVnZGa25IUGN1X01qRXo4SU9Nd2hKT0pEYVJNM1VLdXdaaHdrSHh6R2MySFp1RTdwc3YxUC1mN2ZrbVBLYkg2LUg1N3BOZk84TGRDX2NQcWM3M1BOSlc0eFZZZw?oc=5",
-          "added_at": "2026-09-05 17:52:37"
         }
       ]
     },
@@ -6041,8 +6041,48 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-08 20:51:35",
+      "last_checked": "2026-10-09 04:43:43",
       "items": [
+        {
+          "uid": "6cf2eaa83814",
+          "date": "2026-09-03",
+          "title": "Alliance for Automotive Innovation urges Congress to ban Chinese vehicles before year-end adjournment - Automotive News",
+          "summary": "米国の自動車業界団体が中国車の販売禁止をバイデン政権下の議会に促進するよう求めており、これは中国との提携や技術移転に対する米国内の政治的警戒感の高まりを示している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnNoOXl4NFVMZGZBbmUzSTJOYUJBWTBrN2FRTEhQSEoyVFpnSjdhY1g4X2JRaXp0NVZ3djF6M1RMenVZSmdZaVE0ZUpKQ29SdHo5UGZURVVxM2NzSnJJTTVnQ1ZtbkJJaWZLOFRvQkFXODNiZUhHa2xCcktPY3BsWlFlN3VMZExJaEFKVUhZNHlVVTZBSVNuRGNSd296bmQ3VTB0Vy1R?oc=5",
+          "added_at": "2026-10-09 04:43:38"
+        },
+        {
+          "uid": "cacbf9d7d4f6",
+          "date": "2026-09-09",
+          "title": "Republican lawmakers criticize Ford business ties to China - KELO-AM",
+          "summary": "共和党議員がフォード・モーターの中国ビジネス提携を政治的に批判している状況を報じた記事であり、米国の自動車メーカーと中国との経済関係が国内政治の争点化していることを示している。",
+          "source": "フォード",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTNGeHRHQjgwLVVUY0pnRmRibmhreHZvb1NERDNDNTFMQW5FQWQzTUFJREJNR2FBblloWFg3SnQ1WnRGNFcxR2NrM0JZTUN2Z2ltcDk1blFjVXlKenRHelJNOHlyT2hjQUlnTElDcWV5ZE5GV1R3NzhCV0RPTFRCdTZiSkhoSHkzd1c5a3JvYVA?oc=5",
+          "added_at": "2026-10-09 04:43:38"
+        },
+        {
+          "uid": "82ba05e90ab5",
+          "date": "2026-09-25",
+          "title": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters",
+          "summary": "この記事はOpenAIのユーザーデータ漏洩に関するもので、「自動車メーカーの対中提携への政治的批判」というご質問の文脈には該当しません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
+          "added_at": "2026-10-09 04:43:38"
+        },
+        {
+          "uid": "326f7501765d",
+          "date": "2026-10-08",
+          "title": "Judge extends temporary block on Trump’s media ban",
+          "summary": "この記事は自動車メーカーの対中提携への政治的批判とは無関係で、トランプ大統領によるメディア報道規制に関する司法判断についての内容であるため、要約できません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/regulation/court-battles/6136734-judge-timothy-kelly-briefly-extends-trump-media-ban-block/",
+          "added_at": "2026-10-09 04:43:38"
+        },
         {
           "uid": "b17e96c37396",
           "date": "2026-09-09",
@@ -8001,46 +8041,6 @@
           "source": "運輸長官",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM09aRTduZUM3d0hLX3g0cXdTSnVFWDNtNTBUNHRMNUh2aDhkeTlSZUcwN3RrakxVZ1hOM0VybXpjXzd1ZWV1Z3BuLUhQUF91aXFtTUNZbUUxY2xpODB4bzNkQzdLcFJSTlE5N2NicGh2QVBaMWRDOUpSNWJYZldhSWhfMEN4cm4wMnJDMUJiOHg?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "f91d9b2ac81b",
-          "date": "2026-09-09",
-          "title": "Trump Administration Urges Ford to Immediately Cut China Ties - Autoblog",
-          "summary": "トランプ政権がフォード・モーターに対し中国との関係を直ちに断つよう圧力をかけており、自動車メーカーの対中提携が米国政治の重要な懸案事項となっていることが示された。本件はトランプ政権の対中強硬姿勢と米国産業保護政策の一環として位置づけられる。",
-          "source": "トランプ政権高官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDBLcXpPWmMya0ZIbWpmM3pOcWFlcmNnekdjc2ViaEN3RnZZMmFnU1RTTFgyVjJDWVJUMkhBS01pX2NFV19mSjBlYlF2Y1pmX090T2p1ZjBrSzJMRGprb3kzSS1hN3NwemhvMDVvUmlWek1LUzhRZDh3NkZmdWZwSUJIOXktWVczd3FESXlmS3VSaklMOUE?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "1849d698434f",
-          "date": "2026-09-09",
-          "title": "Trump administration warns Ford over China ties - CarExpert",
-          "summary": "トランプ政権がフォード・モーターの中国との関係について警告を発しており、自動車メーカーの対中提携が米国の政治的・経済的安全保障上の懸念となっていることが示されている。",
-          "source": "トランプ政権高官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWWFmdXgtSW1INW5WX29iNTUtN0dZZ0dsajMzaVJTRFRzTzE1TnlYQkNmWUsxREJ3aU92N2lzOXlfaXVWNWRqY01CZTgwck4yOE1aejBiTmhjdjRaZ19uZXBlWFh5YXpXZHNGX2lnOWxCbjRzaVRXLTkxTWNMalBBQ1B6emh2RWVmajZKR2RR?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "36abfa6b39ce",
-          "date": "2026-09-09",
-          "title": "The Trump administration has criticised Ford for its collaboration with the Chinese firms CATL and Geely - Mezha",
-          "summary": "トランプ政権がフォード・モーターに対し、中国の電池大手CATLと自動車メーカーGeely Mezhaとの提携を批判している。",
-          "source": "トランプ政権高官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUZNTXVNTXM3bTJFVXhhTmpURE1YQlJHdFUta0ZfWUQ1RTJVRloyUV8tVGhMZDBfSTRoNDV3cWcwLU93T2NDcWRRTDU3cTd2aXc1WGVsTDJyVmhRLUFpN04yM0VxSDU1b0llTF9udkZxT0RUWTE0eHVDcEs1NzA4RHF6N1pkZW1jTFFiQm5EeU9iR3k1UUHSAZsBQVVfeXFMUEZrTzFXTVpUbmVPM241LVpjRHlwOTF1eElSXzA4VC1tbE1SYU9EQVBCT2dwRGZfbWE2emNITkhNNGl4c013WEZZVEMxN1NpbFo2bkVKNFF3dERnZGVENTdxcXJ1MnNWSXAtM1RyUVVtLUdCZDM5MlBVeExEdWtPLWpta2p0RV95RjFvWk9YS2pKSmRWRlU5TVhxcjA?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "0b38583dc268",
-          "date": "2026-09-08",
-          "title": "Trump administration blasts Ford’s business deals with Chinese firms - The Mighty 790 KFGO",
-          "summary": "トランプ政権がフォードの中国企業との事業提携を批判し、自動車メーカーの対中ビジネスが政治的な問題として浮上していることを示す事例である。",
-          "source": "フォード",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcW9YZ21CQ3hRYzd5YjlZdHFPeUJIdm82T2NTYjNETktNMHYyTnBQUExmcWFBcUIwMzZCbDlxUC1RNk9GdFU0ZU9kQncwNDFTWWdvMnY4YkxkbWtxZlJ2b25CRmFPSl9mSEFfSEhwX3FvbjJmbUVuM3BKUkZabi1KcHV6ZTFTalRwaGFDdFpNQkVYMzlid1lfQ1k1OA?oc=5",
           "added_at": "2026-09-14 16:32:35"
         }
       ]
