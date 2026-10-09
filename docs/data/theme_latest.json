@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09 04:43:43",
+  "generated_at": "2026-10-09 20:43:38",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-09 04:42:58",
+      "last_checked": "2026-10-09 20:42:47",
       "items": [
         {
           "uid": "bc7f2dd09ad2",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-09 04:43:11",
+      "last_checked": "2026-10-09 20:43:00",
       "items": [
+        {
+          "uid": "c6fb13d87607",
+          "date": "2026-07-28",
+          "title": "Mercedes-Benz CEO vows to protect U.S. investment as Congress targets Chinese ownership - Automotive News",
+          "summary": "# 要約\n\nメルセデス・ベンツのCEOは、S.4429法案が中国資本の自動車企業による米国への投資規制を目指す中で、同社の米国投資を保護すると表明した。この法案は、米国の自動車産業とサプライチェーンを外国勢力の支配から守ることを意図している。",
+          "source": "議員発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTlmeDdFb2JZQ2t6Z2UzUGx5Wi1TUTFoaHU4QkJiQTB3OXA2czh4REpuYkR1czVQYm1xQVhyTzBhTmVmanZRQ2ROeG9vMjE5WFdXc1FUUW1BRm1rRG5XbFRwSm5BZDU0SW1sOXdhczc2eFh2NG15N1pnY1BTYllSSEhWNHhVSzJJSnN3eEkxaXQ?oc=5",
+          "added_at": "2026-10-09 20:42:59"
+        },
         {
           "uid": "2b93e7848708",
           "date": "2026-10-08",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZHNoWW5tU1kzNHR5emVZeFUwNEgwMU5tOXg0eEdOTXAzcl9QalpETGd0di0zWGlDeDRlcF9mUF9JNmxWNjB0ampjLVo5Z1V2N3pTNHlDVjZySVZTXzVsUGozV24zMjkxbUI3YXo4MnN1eUJpdkJZOTdoOUxVcGpvcy1MNnJmSVBiQ0VqbjBaeTNDc1VpTm96NjFYR2tnaU9NcHo5MzRGR3hsVktzN010LWc2ekxxZEl2eVlUZHBQcVozOVYtZVd0cmRmcTlENUdHUTNVMzJDb2V2OUFmYWc?oc=5",
           "added_at": "2026-08-01 16:29:19"
-        },
-        {
-          "uid": "13b5eb696775",
-          "date": "2026-07-31",
-          "title": "Opinion | Our Legislation Is Against China, Not Mercedes Benz - WSJ",
-          "summary": "申し訳ございませんが、提供いただいたテキストが記事のタイトルのみで、具体的な本文内容がないため、S.4429に関する正確な要約を作成することができません。記事の本文をご提供ください。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRmR2alh4WjZraXJzQWp1OVdTX25VTUZKU2FnNUp4VG9hU01mV2tMd3RCMTRDVzE1YUtzdkF4WFh0WnA1bGdwbVR0X3V0UjQ1VURXUTNqeG56RGdoVEU1RTRsT3VFaGVwX3kxTk9Zcm1mMXRnRi1MMWRuR09WaEsxeWVDemRwRjlnYVUzUEVad0M?oc=5",
-          "added_at": "2026-08-01 16:29:19"
         }
       ]
     },
@@ -4030,8 +4030,68 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-09 04:43:29",
+      "last_checked": "2026-10-09 20:43:26",
       "items": [
+        {
+          "uid": "40ed417c1063",
+          "date": "2026-07-30",
+          "title": "China’s Rare Earth Curbs Put $6.5T of Tech at Risk [2026] - https://tech-insider.org/",
+          "summary": "中国のレアアース輸出制限により、半導体やEV、防衛技術など6.5兆ドル規模のテクノロジー産業が2026年までにリスクにさらされている。中国がレアアース供給を戦略的に制御することで、世界中の技術産業チェーンが大きな影響を受ける可能性がある。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBQVRWMUM5MnhKanFjQy10aXFZOGVlZ2ZfWHNaTjQ0bDZqaVVOclRaWHczeFVjbHEtRVpzTDJKcHRrTlN6TkVneXBQTE9lTXlLMGQ3Z3lPUmw0WEJKZkNKNzBNU1FVRTlQM19UUGRmNWJzQU9TM0VaQWhFdDc?oc=5",
+          "added_at": "2026-10-09 20:43:16"
+        },
+        {
+          "uid": "73fab53549ec",
+          "date": "2026-07-14",
+          "title": "China tightens rare earth controls, boosts corporate profits and global grip - CHOSUNBIZ - Chosunbiz",
+          "summary": "中国はレアアース輸出管理を強化することで、国内企業の利益拡大と世界市場における支配力の強化を同時に実現している。この政策により、中国はレアアース産業における自らの優位性をさらに確固たるものにしている。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeElkNjlaQUVhTWdjX29pU18tbXFaTFdwN1IzV0thQllVZEhaYnlYS3Q0U25OOU5ILUpPeWo2bWFoS1VaRDd0YS1GNDhkUlhUa2JKVmtNcnRJeEdNekszUmFmYmV3LXhlcGppMUVFUGpFWUhsR3ZFdjRHV1FPWmZzX2lwWU0zUnBv0gGcAUFVX3lxTE5LQWZwQmFsdk9la3lEWW14OV9nQjJ4SW1wOVhzRjRKQTVkRVFwb2UxYXEzMHo1VnMtWTcyOHVYTGNXam5RZHZmMk9zYkV1dnZQd21VU0FBdmJUWmEtVXN5SVpGX1poeGJjOXN3eVBPMmJGR3FlekNwVV9DdFpBSG14Tkh3OGg3LTVCRGVaenFib1pRRi00a1VHdl9xdw?oc=5",
+          "added_at": "2026-10-09 20:43:16"
+        },
+        {
+          "uid": "4979d266254f",
+          "date": "2026-10-08",
+          "title": "US critical minerals stockpile could drive prices higher, industry warns - Mining.com.au",
+          "summary": "米国が戦略備蓄としてレアアースなどの重要鉱物を大量買い付けする計画は、市場供給を逼迫させて価格上昇を招く可能性があり、業界が懸念を表明している。この動きは中国によるレアアース輸出管理への対抗策として米国が進める鉱物自給戦略の一環であるが、結果的に調達コスト増大につながるリスクがある。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHVXbV9nV05YMjVxbExNNzhVQlIydzJvZ1VlREFVd0JQbTRqZUlVOERCY1VBbFF5eDFjS0FXOU5HUnBvekFhc2tQYzJ5SUpIWmdVZUQyMnF1T0hWODRyb2F4MDE4by1UZkpoTURzcGl3UWk1WlBVYUpMSmJTVUxSbTlkdm9mZnJNNnRINGcxbm9TSEpoM2RWYl9n?oc=5",
+          "added_at": "2026-10-09 20:43:16"
+        },
+        {
+          "uid": "00b9ba806e6e",
+          "date": "2026-10-08",
+          "title": "US critical minerals stockpile risks driving up prices, defence groups warn - Financial Times",
+          "summary": "米国防産業団体は、米国の重要鉱物備蓄戦略の不備により、レアアースを含む重要鉱物の価格上昇が懸念されると警告しており、これは中国のレアアース輸出管理が供給不安定性を引き起こす中で、米国の鉱物自給能力の強化が急務であることを示唆している。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVNEZWh1dkFVQ3JnanVScHpkWTZnTnBuenYycDFjdGxwbF82ZklBM05uTDU1LXM3dWZWdzBMTE5lR0lIcTljOHZIQ0ROWXZFSUozb0NLbVFwRWxvUF9xa1NFQVRzUkNaUEV4WkpCWjBQY2VySS1NZUVmeXZOOUE0Q1lYNmU?oc=5",
+          "added_at": "2026-10-09 20:43:16"
+        },
+        {
+          "uid": "baabc680e2dc",
+          "date": "2026-08-28",
+          "title": "Chris Wright Highlights Energy Constraints Facing Alaska's Mining Sector - energynews.pro",
+          "summary": "アラスカの鉱業セクターがエネルギー不足に直面しており、レアアース採掘など戦略的に重要な鉱物資源の開発が制限されている状況を指摘している。中国のレアアース輸出管理が進む中、米国がアラスカでのレアアース生産を拡大する際にはエネルギーインフラの整備が不可欠な課題となっている。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPczhiQ3BjR0szWFRyeEUxX0thNGctc1ZTZlVZR25BZG9YdlR6XzV0d3dPS0VOM1otWmJIdV9QaUhHRUszYlhwZnVlY0dUUGQ1T0dDd3dCajY3YnFiZGZSV2UyNEdJRHpDdkZ0UHhINHo1SEo0RzlBNFVUeU9YLVBLc1d4S09LWFlUTkItbDJVNlJhaXVKNFp3OWtydlpPdw?oc=5",
+          "added_at": "2026-10-09 20:43:16"
+        },
+        {
+          "uid": "4b387b7ccbdf",
+          "date": "2026-07-20",
+          "title": "Collateral damage of US–China competition: South Korea’s defence industry - The International Institute for Strategic Studies",
+          "summary": "米中競争の副作用として、中国がレアアースなどの戦略的資源の輸出管理を強化することで、韓国の防衛産業が影響を受ける可能性がある。米国と中国の対立に巻き込まれる形で、韓国は重要な資源確保の課題に直面している。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX2l4YUJUM2pka3AtSXczc0tKMENIUWlQNVhQazNpYVNMNS1GdFFVTWpDWldtMkk2cloteGpVb3ZoTHZNbzd2OWlXcnR4cDlyU3V6Z3gzTHd5TFI1MnlYOTI2cEJXc1RuQlo1ZG1ELTZVaDA2VElUN21YSEt2cGFTQVFSUEVtNWtPSnVlZGZuUUs2MzNvRm1Fa1ZqN29VbHZmS3RlcEcyVFlPWHR5WnVxYU50OUl6SlZ6dGdfYUVkVkFJdU9Pb1pIVngtX0Zydw?oc=5",
+          "added_at": "2026-10-09 20:43:16"
+        },
         {
           "uid": "02f50563e0bf",
           "date": "2026-08-24",
@@ -5971,66 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaktXeEdTcTdPVGFZVVZwYlNkOFVvS1dDSHU3YmktMWtZMG1pbUhNdzhydmgxa2NqZGR6Z0swUEJ1dlhMeldzUjh1TUNoVHhDWUtlSkpjeVlvOC0wMVlRVDROUmFZUmZIRm1ZT0NtVUsyakRSUFBIeWRiMFkyZWhERzJkMHE1X19jTEs2Y1VIRG83a2twclN5WUE1akZabHRWODYyZ1Mwc3U?oc=5",
           "added_at": "2026-09-06 01:38:41"
-        },
-        {
-          "uid": "1b3996c405e6",
-          "date": "2026-06-24",
-          "title": "China’s new front in rare earth export violations: rewarding tip-offs - South China Morning Post",
-          "summary": "中国はレアアース輸出規制の強化の一環として、違反行為の告発者に対する報奨金制度を導入し、不法な密輸や過度な輸出を摘発する新たな監視体制を構築している。このアプローチにより、中国政府は国内のレアアース資源保護と戦略的供給管理を強化しようとしている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPXzdTU0RubE5aX2xLNF9rUnVLd1loaUZvRjJYUEo4MFpkMTFJYlR1ZnVZTjlTVERQOHBNUDFIRU1KWkhQMnZTbl93UDV6enlmRUk4ZjRJUk1WYnExUnhsRUdGNDFpVW1FalFfT2xZSGhrSTBZcm9KbFdqSlFYTUFLRUtockFpV0pLeXhkUHptQXJMMU1SMUpMTy1FZDFwM1dadVYybHFULXV0aFhsaHJHNmYxN0QxTEV1NktvX3R6Qmpqblhj0gHEAUFVX3lxTE9TTXZoREZlTkthSlJ6TTVQNUs4TG12RGh2QzZEbnB6M0FneERzYndncVRVSjRLb3I4WHRzd29BY2IxOFdwNjROLTB6NVpiU2VUQ3laWUlNbVY2VGxHWUxPMVZVYllVSzRNaXJhc0JWeHEzSzJLWEY5RzdzUUZoRWxCaklpZ2k3dmFOSHRKT1ZZTXctODJwZEZpbERCbE1pNkdxVW0zNXBsaENEd2pXb29KSnY3RTVaY19ReDI2Y3VyM3JSbDA?oc=5",
-          "added_at": "2026-09-06 01:38:41"
-        },
-        {
-          "uid": "333e0930b82c",
-          "date": "2026-07-15",
-          "title": "China's rare earth curbs endanger $6.5 trillion of Western industry, IEA says - Reuters",
-          "summary": "中国のレアアース輸出制限により、西側産業の6.5兆ドル規模が危機にさらされていると国際エネルギー機関（IEA）が警告しており、これは電動車やクリーンエネルギー産業を含む広範な産業セクターに深刻な影響を及ぼす可能性がある。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ1JvOGNOVF9NekpFQlJZLWowNkRlZkpZa2JjcnBSalhndDhwb09Gel9TdnNwYUctMlc3VXlHTjlzV0hwMkdBWGdGS04zSUpxdmhnX0JVeU9rRFFMVXFTVkRLaHR4b21NTTFONGVVR1U4VVZ3ZmlUQmRHcHphczdnWExMNFNVS0tWLTE1OEwzakl2VmJZMC1qS2c2YlhxaGNkbi03RjVjbzNRcWhzWkZITjhMR3VrNXB2eU0xaDlCWFN1TThDUkJjVTRDRkI4UkV1T1E?oc=5",
-          "added_at": "2026-09-06 01:38:41"
-        },
-        {
-          "uid": "79a452c657cf",
-          "date": "2026-06-16",
-          "title": "China Launches New Precision Strike Against Pentagon Rare Earth Supply Chains - NioCorp Developments",
-          "summary": "中国がレアアース輸出管理を強化し、米国防総省のレアアース供給チェーンに対する戦略的圧力を高めているとNioCorp Developmentsが報告しており、米国のレアアース調達の脆弱性が改めて浮き彫りになっている。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGVtUDhpX1lkMWppbTlHRXRSa0swVVZhS0pqUTBUQ191MDB6LVNIa05xQjVPN1hwSVVpZnZsTURfWjBPdUl0N1lXME9TSklFUWl5QWZiX3MtTW1QS3dPYnJFcGF4aE4teXNFT3hxTGNEeTJtT2E1NTRkNVZzQWJmRHR0WHpqdnRSRlpuWlAxRGoyX3U0c20xT2hsYV9iNHM?oc=5",
-          "added_at": "2026-09-06 01:38:41"
-        },
-        {
-          "uid": "664bc699e51f",
-          "date": "2026-08-06",
-          "title": "China-Sub-Saharan Africa Ties and U.S. Policy - EveryCRSReport.com",
-          "summary": "中国とサブサハラ・アフリカの関係強化により、中国がレアアースを含む鉱物資源の供給源確保を進め、グローバルサプライチェーンにおける影響力を拡大させているため、レアアース輸出管理を通じた戦略的優位性の確立を図っている。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmRk1TUjd6ekplN2t5TW9XdkhCMHNzbThpYllLWWdFV2lpeXdFaTZQMWlwMmJEbE1MUW1BcV9BUmwzMnYtdFE0SHBTVGc2Ymp5V3NZYU1ZQnpJZ2FhRGw0?oc=5",
-          "added_at": "2026-09-06 01:38:41"
-        },
-        {
-          "uid": "2bb29e63fa74",
-          "date": "2026-06-24",
-          "title": "MP Materials, USA Rare Earth Hit by China Export Controls - Mexico Business News",
-          "summary": "中国がレアアースの輸出管理を強化したことにより、米国のレアアース企業であるMP Materialsが打撃を受けており、これはメキシコを含む国際的なレアアース供給チェーンに影響を与えている。中国の輸出規制は米国のレアアース産業の競争力を弱め、グローバルなサプライチェーンの再構築を促進している。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVR1T1p3NFhNMDUwV2NkWHN4dDhIYUJnajRzbXItX25raW02dmpZS2VwWlJJMkdJeHcwS2ZWOENlT25MNlEteGtkaXpTV2ZyaDQtbmFocFhqNHBDZE5IWVFRcVJRc2IzNUQ2akwzdW5fTDNBT290aGpEaDhLd1FheUNFdm9McE1yakt4aE13WExSM040N3NvZw?oc=5",
-          "added_at": "2026-09-06 01:38:41"
-        },
-        {
-          "uid": "158288afdfde",
-          "date": "2026-06-22",
-          "title": "China moves against US rare earth, defence firms in ‘calibrated’ response to Pentagon blacklist - The Straits Times",
-          "summary": "中国はペンタゴンのブラックリスト指定に対する報復として、米国のレアアース関連企業および防衛関連企業に対して「段階的」な措置を講じることで、戦略的かつ限定的な対抗姿勢を示している。この措置は、米国との技術競争の激化に対し、中国が重要鉱物資源の供給制限を通じた圧力をかけるアプローチを採用していることを示唆している。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLUdUdXF6dWRuMFVHNURVNWgtME9GeTQ4amJPc3V5c3JIZWhMSVBzbUJLSUFOb3FTNnpHQ2dleXVYYWIyckEtZlEwWnJsSzJzREh6OS1RUWNWVDJ5OUI3dEFQam1Gd2lpTjR3NGdNQU1FanNlMEhxWkhEVlhYMWU4bjVQSy1QT0x1dlpTQlc4QmpCNllNeFd0d1o5SEF2OG9qdWxlS0FvMjZuXzlSMHE5UlVuQVZFWUtScldOOWREdEdKb3o4eFZvd05nNkgxX0dVR3c?oc=5",
-          "added_at": "2026-09-06 01:38:41"
         }
       ]
     },
@@ -6041,8 +6041,48 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-09 04:43:43",
+      "last_checked": "2026-10-09 20:43:38",
       "items": [
+        {
+          "uid": "0b38583dc268",
+          "date": "2026-09-08",
+          "title": "Trump administration blasts Ford’s business deals with Chinese firms - The Mighty 790 KFGO",
+          "summary": "トランプ政権がフォードの中国企業との事業提携を批判しており、自動車メーカーの対中ビジネスに対する政治的圧力が高まっていることを示している。",
+          "source": "下院中国特別委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcW9YZ21CQ3hRYzd5YjlZdHFPeUJIdm82T2NTYjNETktNMHYyTnBQUExmcWFBcUIwMzZCbDlxUC1RNk9GdFU0ZU9kQncwNDFTWWdvMnY4YkxkbWtxZlJ2b25CRmFPSl9mSEFfSEhwX3FvbjJmbUVuM3BKUkZabi1KcHV6ZTFTalRwaGFDdFpNQkVYMzlid1lfQ1k1OA?oc=5",
+          "added_at": "2026-10-09 20:43:33"
+        },
+        {
+          "uid": "70362cdbe72c",
+          "date": "2026-07-23",
+          "title": "Ford, Geely team up on Spain plant to build new electrified vehicles - Automotive News",
+          "summary": "フォードと中国のジーリーが、スペインの工場で電動車を共同生産する提携を発表したもので、欧米の自動車メーカーが中国企業との提携を強化する動きが政治的な懸念を招く可能性を示している。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM3M2SnF6TXBXTHhPTEQzR0loVGtfS0VmbDV6dEh3LVI1Mzh3VVZmM0lwRUFLcnRhYzJDNzl2S20tTFJMWG44X2NTcldxUTZTQzdicmNtZzd0ajM0blhObXdPT0Q0TTEzeEJhdElaTnI0U3VhdXZfSmlwa3lKeWhUV0hn?oc=5",
+          "added_at": "2026-10-09 20:43:33"
+        },
+        {
+          "uid": "f91d9b2ac81b",
+          "date": "2026-09-09",
+          "title": "Trump Administration Urges Ford to Immediately Cut China Ties - Autoblog",
+          "summary": "トランプ政権がフォード・モーターに対して中国との関係を直ちに断つよう促しており、自動車メーカーの対中提携が政治的な圧力の対象となっている。この動きは、米国政府による自動車産業の地政学的リスク管理と保護主義政策の表れである。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDBLcXpPWmMya0ZIbWpmM3pOcWFlcmNnekdjc2ViaEN3RnZZMmFnU1RTTFgyVjJDWVJUMkhBS01pX2NFV19mSjBlYlF2Y1pmX090T2p1ZjBrSzJMRGprb3kzSS1hN3NwemhvMDVvUmlWek1LUzhRZDh3NkZmdWZwSUJIOXktWVczd3FESXlmS3VSaklMOUE?oc=5",
+          "added_at": "2026-10-09 20:43:33"
+        },
+        {
+          "uid": "0fed986fd9cf",
+          "date": "2026-10-08",
+          "title": "Lawmakers concerned over Google’s plan to acquire AI models from Spirit Airlines data",
+          "summary": "この記事は自動車メーカーの対中提携に関する内容ではなく、Googleが航空会社のデータを取得してAIモデルの訓練に使用することに対する議員らの懸念についてのものであるため、要約できません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/house/6137595-horsford-warren-lawmakers-google-spirit-data-ai/",
+          "added_at": "2026-10-09 20:43:33"
+        },
         {
           "uid": "6cf2eaa83814",
           "date": "2026-09-03",
@@ -8001,46 +8041,6 @@
           "source": "運輸長官",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82anZuTmxuWEFUOGpZQWRaUnF0RzZqWDhpZ3RtWVNlc2g2dDVjTnNkaUVLRUdkeHVqV25CdkdTNnJPb09zSjhXNm1md25aTmw2NE5UTEk2ekZYZ1ppMHAxUTNSRzJXVnowUW5MZlBtZmpDRGs0?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "cc68193f3ab9",
-          "date": "2026-09-13",
-          "title": "'Deeply Alarmed': Trump Administration Slams Ford's Deal With Chinese Battery Company - InsideEVs",
-          "summary": "トランプ政権がフォード・モーターと中国電池メーカーの提携に対して「深刻な懸念」を表明し、強く批判した。米国の対中政策が強硬化する中で、自動車メーカーの中国との事業協力が政治的なターゲットとなっていることが示されている。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DVTc3VThFMGJEbVhlVDNQWHZkWDBDdkZhMkdRMEtkYjVIZHM4cWQ3bjVqN1NLQ09kUGF5ZDlXaEVqSXI5clZONl9Ob25EYkp1b0htRHdiMDQ2RzN3WUw4TTRWSFJBZGx1UHY3RHhhWlVFMnowSzRYTXZITQ?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "491192272cc2",
-          "date": "2026-09-10",
-          "title": "Ford leaders 'blindsided' by DOT's letter about China ties, exec says - Detroit Free Press",
-          "summary": "フォード幹部が、中国とのつながりについて米運輸省から突然警告書を受け取ったことに驚愕し、米国の自動車メーカーに対する政治的批判が強まっていることが示された。米政府は自動車メーカーの対中提携に対して、事前通知なく圧力をかける姿勢を示している。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUnJUakpteXVVU1ZqU0NnRDAyS0VpZW5ydVFKejVLSUpJTW5uMC1WYzVZNGdmSVNIMy1zbS1YdXFrVlh4a1RwR3N4VmRCSVhkNG1ReTI3MU5RNWdsRDdaaGpuQTNXNjA3MHRqcHdRc3pVVEEyZzJVQnpjVE1PQ0JzNWNZZjM1di1FNEVtUkl3LVhweTBkZzYzQThObUh2ZXZka2RDNk9XaXBGZVJGZXAwLUFYSEtad2I1emQ0SDhGWWlXbW5LQnFtbE40bklXZWhQ?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "dcdca333c418",
-          "date": "2026-09-09",
-          "title": "Ford: Duffy criticism over deals with China ‘wrongheaded attempt to capture headlines’ - The Hill",
-          "summary": "フォード・モーターは、中国との提携に対する政治家ダッフィーの批判を「見出しを狙った間違った試みだ」と反論し、自動車メーカーが国際的なビジネス戦略の正当性を主張している。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRUhOU1docF9hbU9qc1ZtMWRLS3pLbExBb2ZWY1FsbV9WeVA4SGFYZjJQWVlsQXQtRm5MT3NxSlZkMVZiNzdTMUxoNG9YbHZuR0xTVHNwMEdQSkFJVERMWU1HWURkbTNfUk51VmNYNjFkQkt0TGlNOdIBfkFVX3lxTE9QMFVHaUx6Rm4xWG5wY0FhT3VnVDNuNjFCT1BTN19uLUJkMTdZUUhTR2VFeEhxczRFWXozaDhWTUNBdkh4TXZjUHdlME5oa19kMmpkempSblFoZ2N6OEJiZjJ6SmNOdDc2Q3M1UkxLOC1lTGZhNmVCRlpKSXBqZw?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "eab330821a0a",
-          "date": "2026-09-09",
-          "title": "Republican lawmakers criticize Ford business ties to China - The Mighty 790 KFGO",
-          "summary": "米国の共和党議員がフォードの対中事業提携を批判しており、自動車メーカーの中国との経済的関係が政治的な争点となっている。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM09aRTduZUM3d0hLX3g0cXdTSnVFWDNtNTBUNHRMNUh2aDhkeTlSZUcwN3RrakxVZ1hOM0VybXpjXzd1ZWV1Z3BuLUhQUF91aXFtTUNZbUUxY2xpODB4bzNkQzdLcFJSTlE5N2NicGh2QVBaMWRDOUpSNWJYZldhSWhfMEN4cm4wMnJDMUJiOHg?oc=5",
           "added_at": "2026-09-14 16:32:35"
         }
       ]
