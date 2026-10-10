@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10 20:01:47",
+  "generated_at": "2026-10-11 03:18:30",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-10 20:01:07",
+      "last_checked": "2026-10-11 03:17:51",
       "items": [
         {
           "uid": "bc7f2dd09ad2",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-10 20:01:17",
+      "last_checked": "2026-10-11 03:18:00",
       "items": [
         {
           "uid": "bea935a25652",
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-10 20:01:35",
+      "last_checked": "2026-10-11 03:18:20",
       "items": [
+        {
+          "uid": "56007c501783",
+          "date": "2026-10-10",
+          "title": "China Northern Rare Earth Holiday Production Explained - Rare Earth Exchanges",
+          "summary": "中国北方稀土集団が長期間の生産停止を実施しており、これは中国のレアアース輸出管理政策の一環として供給を制限する戦略的措置と考えられます。このような生産調整は国内のレアアース資源を保護し、国際市場での中国の優位性を維持する目的で行われています。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT3Z6LUNHUEVTMUJxQndWY3lneDhZX3hwY3ljelV5SHZxOFJ5clFscDJ2bzlqclhCRkhUcXQ4b1hpZjA1d0Nja01MVUNRVGVSelZFVmFzdENhdlhneHpobTBMVE03NDcyN0tXWlFBUTFDUlRkTWZ0X2tBd0ZEMmhIazdzUzd3LVVr?oc=5",
+          "added_at": "2026-10-11 03:18:15"
+        },
+        {
+          "uid": "a076fd263ccb",
+          "date": "2026-07-16",
+          "title": "Brussels Prepares Emergency Response to Renewed Chinese Rare-Earth Controls - EU Today",
+          "summary": "EUはブラッシェルにおいて、中国がレアアース輸出管理を強化している事態に対応するため緊急対策を準備しており、供給チェーンの脆弱性に対する戦略的対抗措置を検討している。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWbFdibkVSYmw3cUhvUlBWWWdmLUdpMEpscU45WGVkTzhra2ZTT2RMbUp4cGU5NnF2c01Wd0xfbjFzVFV6VUtHSDRQQnpQdlo2RTdaOVl6eVA0VFFHV2lTTkczRDlFM2NDRFcxQ3ZqMlJ3dDY3U09j?oc=5",
+          "added_at": "2026-10-11 03:18:15"
+        },
+        {
+          "uid": "530f2cc50671",
+          "date": "2026-07-16",
+          "title": "Executive summary - Global Critical Minerals Outlook 2026 - IEA - International Energy Agency",
+          "summary": "2026年の世界的な重要鉱物需要は再生可能エネルギーと電気自動車の拡大により急速に増加する一方で、中国がレアアースを含む重要鉱物の精製・加工で圧倒的優位性を保有しており、供給チェーン集中のリスク回避が各国の課題となっている。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFNpdzloN056aHJMNWlmbng1YWZ0VnhkUEpjaUNFZUZlVkpJRXd5TDVWOE9iMlEtZ2dZS0t3aEZtWEJQNHk5ajlPRHZIb1FJRWE3TE5LYmpzVXNUX0pwem9Ndk4tZ3J6VThEMXRLeTNaZUx6bndEU2RrWmRWX1Q1NkJfTVBNOHdFX19j?oc=5",
+          "added_at": "2026-10-11 03:18:15"
+        },
         {
           "uid": "f66b31e80de3",
           "date": "2026-08-08",
@@ -6001,36 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzR1MC1oR2dYdTZvd1g0YW5uTTlnakN5SHpvdndvajlrdzk5OU1adHotRHpBNmpPSDBzLVdiQm92clZMZzdJYW5LSGhyUG4yZWxiYmRCaVY2dU91SDFic1QzdXdZT0x3c3g2bnU3UkZBWFgtRHdUX2JVVnkxdTJOZElkS3k2V3B5VFdwVEFnNTViRjY3OHFENGY5S3FENm9BdDVQTmk4eXBBZWEwY1Q3YW1yVmw4SU9wZWQ4M3Jub2hnNnduYk1zU0FoMG5XOFBrRlVMdDhYVGVOMW1QaG1F?oc=5",
           "added_at": "2026-09-07 01:46:39"
-        },
-        {
-          "uid": "f38b6b36664a",
-          "date": "2026-06-09",
-          "title": "Are Critical Minerals Catalysing the Second Scramble for Africa? - Modern Diplomacy",
-          "summary": "申し訳ございませんが、提供いただいたタイトルのみで、記事の具体的な内容が含まれていないため、「中国レアアース輸出管理」の文脈での要約ができません。記事の本文をご提供ください。",
-          "source": "欧米メディア",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX09aNUdnSDdxQ192N2JOT2RQd3NueEVsVTBqa2FOc2p4dUt6VzdRVjE0V2JNeWxPUldndk44c0Yzb0ZSOG9KVUx2V2NYUGI3WjhzZTZ0dU92LTVmR0JyMVRKRFFzemtMbDEtNGpKaWRMRkhKRE9Ed1lRVzV6c0FIemRmQjBmNFlYNHZxckZQUkxkZC1PRkp3TkdBVVpNQ3lIbXE3Xw?oc=5",
-          "added_at": "2026-09-07 01:46:39"
-        },
-        {
-          "uid": "8c76e253f5f0",
-          "date": "2026-07-15",
-          "title": "‘Chokepoint Politics’: China’s Rare-Earth Statecraft and India’s Search for Strategic Autonomy - orfonline.org",
-          "summary": "中国はレアアース産業を戦略的に支配して外交的影響力を行使する「チョークポイント政治」を展開しており、インドはこの依存から脱却するための戦略的自律性を模索している。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlRDdXNFUjBlTkFaMi1UYjZ3cGI2eHowNnhkRmZQR3l6NFdvRDlqSWppU0RwbV9nQ0xPcjljY3NhUGhtMUtzQ0ZuUHA3djFjOU05amJKVFhPTWhyX3VSN2c4V2JkdHVpMGVXak1OM0puMF9GSDlualJYN25WNFlmb2xCM0l6d3NNS0ZMdkJqb2Y3N0dnaU5pX01kdHVjbzJZVUppMTFFa1JuRjV4SnNLbjVzMDJZQ1VEdk5DRzRWNVJNS1FheVE?oc=5",
-          "added_at": "2026-09-06 18:12:37"
-        },
-        {
-          "uid": "a1a92d405dd9",
-          "date": "2026-08-18",
-          "title": "Japan's Chinese Critical Mineral Imports Fall 80% - 조선일보",
-          "summary": "日本の中国からのレアアース等重要鉱物輸入が80%減少したことが報じられており、これは中国による輸出管理強化と日本の脱依存戦略が進行していることを示唆している。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGF0TGdXZFk3WlVEd2ZueVpCU3ZNWXJydlBhSkV2bG53ZFhsTzR6S01qU0d1S2tvS2xMZUxzR2Q4THJjbjBZaHlCZHFDZ1NjZXkxallFNGd1X3VPcGxFb2N0V1hZZi1ycTNRYVduaG9qUVhWMDBYbzFmY1pCc2R3SW5HbWxNWFox?oc=5",
-          "added_at": "2026-09-06 18:12:37"
         }
       ]
     },
@@ -6041,8 +6041,38 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-10 20:01:47",
+      "last_checked": "2026-10-11 03:18:30",
       "items": [
+        {
+          "uid": "2793be2d4ad2",
+          "date": "2026-09-08",
+          "title": "Trump administration expresses 'profound concern' over Ford's ties to China - CNBC",
+          "summary": "トランプ政権がフォード・モーターの対中提携に「深刻な懸念」を表明し、自動車メーカーの中国との関係が米国の政治的・経済的利益と相反するものとして批判されている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NNIBdEFVX3lxTE1BYzFIa1p4MnpkQV9KR3c0SUNlbDkyRExQRjlRd2M0bS0zREJ3SEgxcnhvLXd6bEdYaFozbVQ0LXRhZjdIWHQ3ZUtSS0N0SGdmcHFQTkc2Y2d3S0puRkRCdGpwalphQ1RJVjJHRElHdGl3SGI4?oc=5",
+          "added_at": "2026-10-11 03:18:26"
+        },
+        {
+          "uid": "805d2c5c020e",
+          "date": "2026-09-08",
+          "title": "Ford responds to federal government telling it to cut back China ties - The Detroit News",
+          "summary": "フォード・モーターは米国連邦政府から中国との関係縮小を求められており、自動車メーカーが地政学的な政治圧力に直面していることが示されている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaWNTaDZBSTlBeTdPNm1nVno2c1BFWmlzNEtUY2Z5dVFoaGkxOFhxeHJyYlEydDJMTkNfcUtEV3ZCVkM0MHhhWlBDa1VkbmtoUlRPdFhMZDlobmVmMHJGbHVvYWZGWUs4VkhtaHpSLWVocm9xM1BpN2JLMzNhcWZManJUd0tfMEZZUi1tc1FUclRxUktIay0yUXpHZXF1UUVfY1NyYnNNcERzeDMwT1RCUGJUZ3hiNmRFMVM0c3FuLTZteTlPS1h0RnlaZGI2SjZId0htZU5XcGsxSU4ybzNBSi16dks?oc=5",
+          "added_at": "2026-10-11 03:18:26"
+        },
+        {
+          "uid": "5b2e083d2ff5",
+          "date": "2026-09-08",
+          "title": "Duffy puts Ford on notice over China ties, warns of security concerns - Fox Business",
+          "summary": "フォード・モーター・カンパニーがBYDなど中国企業との電動車開発での提携を進めていることについて、米国の政治家が安全保障上の懸念を理由に警告を発しており、自動車メーカーの対中提携が政治的な批判の対象となっている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2RtcHlGVHowNm85NjBCQ3lfX2ZSMWlTVmc4azFFbDNBV3JVamljdG1ZRV9JMkh5YXFldl95VWxlaVFnWWUxbFl5blJ4YkMydzg4alhNbmItUnhrd184ckpLU1pHN2IwX2gwaXRlRVdNZ3hYZVBJWjV0VzI2UFlBekx3QXB4NFhnZHhhSnBtY3NFZTBFZ3QzcGNNeFd6SVHSAaQBQVVfeXFMTzhCeWx5TDZhMXllamJVb25CRkF4TnYtTnBsNU9jMjIyc3VQMkg0VmtYSk5KMUJ5ci03LVBiWnVWS0lLdUdqOHp4TXRfMkI0U29kLWhtZTFOejlYamxQdmdKTE1RMXBWT0VnVmpaX0wtR0l0T0RTUkxvX3ZmZ2ZyQm1FeW5DV2tWdERyNWZaelloREVlVEtoaTdCa2xyYjNybFhVN3M?oc=5",
+          "added_at": "2026-10-11 03:18:26"
+        },
         {
           "uid": "eab330821a0a",
           "date": "2026-09-09",
@@ -8011,36 +8041,6 @@
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OS1dfc2RzN3Rkcm1CN29WV1llQm1mZkx6bmdORVQxQkQ2Z3hzUUh2MVVwRnJ4VHZ0ekdaMWctSDVjNnc1ZUhVUndlZk9sUC1RWXFnclZuYXp6UXZtR0xDSTlQX1hvdk9FeEpza1RCWlRMdVZmV2FpOHJCSndfWlE?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "8bbafa8951f2",
-          "date": "2026-09-03",
-          "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S. - CNBC",
-          "summary": "米国の自動車メーカーは、中国製のコネクテッドカー（インターネット接続機能を備えた車両）の米国市場への導入を議会に対して永続的に禁止するよう求めており、中国との提携による安全保障上のリスク懸念が政治的な批判につながっている。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ILXF1MXFOQjRTdnUzcHdzbVh4ZHJHVHduYnBzd2ZmMGNtNVVDX29TOUJWMU8zZmUwYlB3SmU3X2phSGFrSjNBci1lRFJ6dWFNUy1qUi1EM2laSHd3czVaU1VfUzZyZXRiQTdmMVJ3QdIBdEFVX3lxTE9XcW0wVE5Icnk1QzJjSnU4MzFKdElfdzZ5VzlDN3Bfa2p2cnBwZ0VScVd6d3pRWjRTeENwZHB3Q2NHWmw2SWFpc1Z1dVJyUzJ0UFE4MmpLRUxPRU9fLWY4dFhiT1pHVVdGSkx5VlpGS1dJaVZk?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "a9190ca06f9a",
-          "date": "2026-09-03",
-          "title": "Automakers urge Congress to quickly pass law banning Chinese cars - whbl.com",
-          "summary": "Automakers urge Congress to quickly pass law banning Chinese cars whbl.com",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3JKOGxNc2ZWVXNtZE9La1hMV0JsVnJOcWZSTWpMWkRCamNBYVJmVjduTnU4eWNOOG84RmM1aVA5ZW93dzJubEVzNEd0Mkc3MUQ5SF91cURhdEprdVBkTEc4M0E2bHM2dXBTdk1sWDc4VWxTTjRmMncwMnp4YnRiLXF6Q21aRTEybkdTQnFEODlOY3NNbkEwWXBR?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "1133eea271d4",
-          "date": "2026-09-08",
-          "title": "US Transportation Secretary Slams Ford's Ties to Chinese Firms, Warns National Security Risk Is Unsustainable - finance.biggo.com",
-          "summary": "米国運輸長官がフォードと中国企業の提携関係を批判し、国家安全保障上のリスクが持続不可能であると警告した。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SNEdPWlprYTZGVE5BWVN0OWxZc2dwQ1MwdXdXRGJzSjItWnJnR0N1TmxCTkR1aHRHcDdsTXNOejdJRkU0ZUZzYlpnU3FOajJfdTctN2RyczFFeUU0WEh2cDEzbDVBVXZSbEg5UXI1MkI5eUFnNlE?oc=5",
           "added_at": "2026-09-14 16:32:35"
         }
       ]
