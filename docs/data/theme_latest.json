@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10 04:20:34",
+  "generated_at": "2026-10-10 20:01:47",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-10 04:19:53",
+      "last_checked": "2026-10-10 20:01:07",
       "items": [
         {
           "uid": "bc7f2dd09ad2",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-10 04:20:04",
+      "last_checked": "2026-10-10 20:01:17",
       "items": [
+        {
+          "uid": "bea935a25652",
+          "date": "2026-07-31",
+          "title": "Moreno, Slotkin Win Broad Support to Defend American Auto Industry from CCP-Linked Vehicles - U.S. Senate (.gov)",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国共産党と関連のある車両から米国自動車産業を守るため、MorenovとSlotkinが超党派的な広範な支持を得ている立法であり、米国の自動車セクターの安全保障と競争力を強化することを目的としています。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZHNoWW5tU1kzNHR5emVZeFUwNEgwMU5tOXg0eEdOTXAzcl9QalpETGd0di0zWGlDeDRlcF9mUF9JNmxWNjB0ampjLVo5Z1V2N3pTNHlDVjZySVZTXzVsUGozV24zMjkxbUI3YXo4MnN1eUJpdkJZOTdoOUxVcGpvcy1MNnJmSVBiQ0VqbjBaeTNDc1VpTm96NjFYR2tnaU9NcHo5MzRGR3hsVktzN010LWc2ekxxZEl2eVlUZHBQcVozOVYtZVd0cmRmcTlENUdHUTNVMzJDb2V2OUFmYWc?oc=5",
+          "added_at": "2026-10-10 20:01:15"
+        },
         {
           "uid": "13b5eb696775",
           "date": "2026-07-31",
@@ -4010,16 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHFJN2ZKbTdmUzgwcDFVbHBKcVlKNkNacGllbXB6QjB3QWV3MWp2THJ2OF96YmtrS3NyNDAtekZ5bl9NVVUzZkRGb2ZpSW9UQnBVbmFsZUQ4dER0anU0OExRUm1qTnRfdjh4UnFlSmVQak9aVTFmQVZwNlA2R0NDNjNjM3RlTVB0MkNSb3Q3U1NxYXFSUFJjODRPYXczekl4dVVtRFBLQTRHTHB5VkZuU3plSUfSAboBQVVfeXFMTndKNWNnLWNyR0Z4UFpWdmhIT2NIbWh5Si05Y2hWcW1oVEFvNnh3aU5CTjZ1MElZNW9vUUlSMUtaZU5YNFVUNndKLVRrd3d0Wm5UUTRkamQwZ1A2SlF5UGk4dVowby1GbHlxblNfMEVtNXV3aGthZjlhaXRZbFhWa0dEXy0tX0xJV0I2bWJxczAyeHl4WGxTbjExS3E0SmVGVzEyWE5Ua3J6Q3RIcENvMWFMRXpVRFNnSWpR?oc=5",
           "added_at": "2026-08-02 00:02:59"
-        },
-        {
-          "uid": "dc0b04e72d18",
-          "date": "2026-06-27",
-          "title": "Blocked in US, Chinese EV Makers Pivot to Canada - Seoul Economic Daily",
-          "summary": "米国がS.4429による規制強化で中国系EV企業の市場参入を制限する中、これらのメーカーがカナダへの進出をシフトさせており、北米市場での競争構図が変わりつつあります。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcE1YUTRzTGJoQ0N4QldmMkVrN0VZTUhScGFPbkIyc2ZJUUJBSmNJYlRtRE1xb1Njb0REMDJxMHpsbFV4OV9kZzJHVmhIT09LaW9Ycm9JNVhmaUNDSUdFU1pqTWpLQjJfa25penI4TFR3Nmd2ZnBuNmpOMlp6bVhQam9wVEhJaHE4QlJYNjlSbzFFa0VLSVdLd2ZwWQ?oc=5",
-          "added_at": "2026-08-02 00:02:59"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-10 04:20:26",
+      "last_checked": "2026-10-10 20:01:35",
       "items": [
+        {
+          "uid": "f66b31e80de3",
+          "date": "2026-08-08",
+          "title": "China rare-earth exports to Japan, US plunge after restrictions - Nikkei Asia",
+          "summary": "中国は2023年8月にレアアース輸出の管理を強化し、日本と米国への輸出が大幅に減少しました。この措置は、中国が先端技術やエネルギー産業に必要なレアアース資源の戦略的コントロールを強めようとする動きの一環です。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaktXeEdTcTdPVGFZVVZwYlNkOFVvS1dDSHU3YmktMWtZMG1pbUhNdzhydmgxa2NqZGR6Z0swUEJ1dlhMeldzUjh1TUNoVHhDWUtlSkpjeVlvOC0wMVlRVDROUmFZUmZIRm1ZT0NtVUsyakRSUFBIeWRiMFkyZWhERzJkMHE1X19jTEs2Y1VIRG83a2twclN5WUE1akZabHRWODYyZ1Mwc3U?oc=5",
+          "added_at": "2026-10-10 20:01:33"
+        },
+        {
+          "uid": "50ef3f9d9b88",
+          "date": "2026-07-16",
+          "title": "Supply concentration, export restrictions and declining investment put critical mineral security at risk - IEA - International Energy Agency",
+          "summary": "中国によるレアアース輸出規制と供給集中が進む中、投資の減少が重要鉱物のサプライチェーンセキュリティを脅かしており、国際的なエネルギー転換に対する重大なリスクとなっている。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHI1dzJIMlRlRGJpRWl3ZEZsYm5WZEZYa1BWWVJOU0czSlYtaHVITGNYQWJSMXNacU1WQzMwc3ktN3JrS1dwMFhyMkJBY2pVYnNieXlaUkhLbFJXRktRbk1xR2lIcjZEc21MZFRhQno4YmktZEtKUWRTMU1pNzZZZ2xEbU9KSGFsWGl2ZFRFUWotbnNYS3pEbk13SlpodVFjRS1qaXJmRW5pRVI4Q3pLbGJ6bUljUGhnQlMzSXpkaklEOUpXSV80?oc=5",
+          "added_at": "2026-10-10 20:01:33"
+        },
         {
           "uid": "333e0930b82c",
           "date": "2026-07-15",
@@ -6011,26 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGF0TGdXZFk3WlVEd2ZueVpCU3ZNWXJydlBhSkV2bG53ZFhsTzR6S01qU0d1S2tvS2xMZUxzR2Q4THJjbjBZaHlCZHFDZ1NjZXkxallFNGd1X3VPcGxFb2N0V1hZZi1ycTNRYVduaG9qUVhWMDBYbzFmY1pCc2R3SW5HbWxNWFox?oc=5",
           "added_at": "2026-09-06 18:12:37"
-        },
-        {
-          "uid": "a076fd263ccb",
-          "date": "2026-07-16",
-          "title": "Brussels Prepares Emergency Response to Renewed Chinese Rare-Earth Controls - EU Today",
-          "summary": "中国がレアアース輸出を再び制限する動きに対し、ブリュッセル（EU）は緊急対応策の準備を進めており、これはEUのサプライチェーン強化と中国への依存低減を目指すものである。",
-          "source": "欧州委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWbFdibkVSYmw3cUhvUlBWWWdmLUdpMEpscU45WGVkTzhra2ZTT2RMbUp4cGU5NnF2c01Wd0xfbjFzVFV6VUtHSDRQQnpQdlo2RTdaOVl6eVA0VFFHV2lTTkczRDlFM2NDRFcxQ3ZqMlJ3dDY3U09j?oc=5",
-          "added_at": "2026-09-06 18:12:37"
-        },
-        {
-          "uid": "7c3590498e39",
-          "date": "2026-06-22",
-          "title": "China places two US rare earths producers on export control list - Mining Weekly",
-          "summary": "中国は米国のレアアース生産企業2社を輸出管理リストに追加し、これらの企業への技術移転や投資を制限する措置を講じた。この対抗措置は米国の対中規制強化に対する報復として実施されたものである。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQW5FMzBxamc5ZlByM0VrbF9VVFdvd09FTFNfRlYyYzlTWFVjaHl3VEc3WVdzaWlTLUpFN0laQjdqZmJCbWFNdDNUMDRBekQwM3k5SkZ3V1Q0LU9EWUxETlU5M045QmpQLUZjeF9qWDExUjRBN2QyTXp4cGs2SWRIQkY3MHBQUXdGcXdhT1Z3YmJqNlcxY1NydGF3R05SQXlnWTB4STV0S19LVHRiM0ZPNVR3?oc=5",
-          "added_at": "2026-09-06 18:12:37"
         }
       ]
     },
@@ -6041,8 +6041,48 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-10 04:20:34",
+      "last_checked": "2026-10-10 20:01:47",
       "items": [
+        {
+          "uid": "eab330821a0a",
+          "date": "2026-09-09",
+          "title": "Republican lawmakers criticize Ford business ties to China - The Mighty 790 KFGO",
+          "summary": "フォード・モーターが中国とのビジネス提携を続けていることに対し、共和党議員らが政治的批判を展開している。",
+          "source": "下院中国特別委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM09aRTduZUM3d0hLX3g0cXdTSnVFWDNtNTBUNHRMNUh2aDhkeTlSZUcwN3RrakxVZ1hOM0VybXpjXzd1ZWV1Z3BuLUhQUF91aXFtTUNZbUUxY2xpODB4bzNkQzdLcFJSTlE5N2NicGh2QVBaMWRDOUpSNWJYZldhSWhfMEN4cm4wMnJDMUJiOHg?oc=5",
+          "added_at": "2026-10-10 20:01:41"
+        },
+        {
+          "uid": "ecfaa42fb00d",
+          "date": "2026-09-10",
+          "title": "Sean Duffy Says Cut Ties With China, Ford Pushes Back - Motor1.com",
+          "summary": "フォードは、中国との関係を断つよう求めるショーン・ダフィー議員の批判に対して、中国市場での事業継続の必要性を主張して反論している。自動車メーカーが地政学的な圧力の中で、経済的利益と政治的要求のバランスを取ろうとする葛藤が浮き彫りになっている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82anZuTmxuWEFUOGpZQWRaUnF0RzZqWDhpZ3RtWVNlc2g2dDVjTnNkaUVLRUdkeHVqV25CdkdTNnJPb09zSjhXNm1md25aTmw2NE5UTEk2ekZYZ1ppMHAxUTNSRzJXVnowUW5MZlBtZmpDRGs0?oc=5",
+          "added_at": "2026-10-10 20:01:41"
+        },
+        {
+          "uid": "7060ff373616",
+          "date": "2026-08-21",
+          "title": "As battery needs shift, automakers rethink supplier partnerships in search of long-term benefits - Automotive News",
+          "summary": "申し訳ありませんが、提供いただいたのはタイトルのみで記事の本文内容がありません。記事本体の内容を教えていただければ、「自動車メーカーの対中提携への政治的批判」に関する文脈での要約を提供できます。",
+          "source": "米系自動車メーカー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMnNFVnMzdVZoOGVBNnRLWEx4aHpDdGFaZ19kbG85S1g0aThhbUJ0cXpJZm4xX0Y4d1ZOUHhaazFURWZvNDk5aTNhZkY0Nmo5M2VMSXZZQmU5b2UyMTQ2MDNzQ01KRWtPZFdKN2NyaV9XYjV3UmM0MTNGUm1tRlFRU3VpeHpEdw?oc=5",
+          "added_at": "2026-10-10 20:01:41"
+        },
+        {
+          "uid": "3ec6c41142c4",
+          "date": "2026-10-09",
+          "title": "Fierce, bipartisan pushback over Hegseth’s plan for livestream execution",
+          "summary": "この記事は自動車メーカーの対中提携に関するものではなく、米国防長官Pete Hegsethによる軍事銃撃刑の公開ライブ配信計画に対する両党からの批判について扱っています。そのため、ご指示の文脈での要約はできません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/newsletters/defense-national-security/6139878-fierce-bipartisan-pushback-over-hegseths-plan-for-livestream-execution/",
+          "added_at": "2026-10-10 20:01:41"
+        },
         {
           "uid": "dcdca333c418",
           "date": "2026-09-09",
@@ -8001,46 +8041,6 @@
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SNEdPWlprYTZGVE5BWVN0OWxZc2dwQ1MwdXdXRGJzSjItWnJnR0N1TmxCTkR1aHRHcDdsTXNOejdJRkU0ZUZzYlpnU3FOajJfdTctN2RyczFFeUU0WEh2cDEzbDVBVXZSbEg5UXI1MkI5eUFnNlE?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "b6fcf1f48d0e",
-          "date": "2026-09-08",
-          "title": "Automakers Seek U.S. Ban on Chinese Connected Cars, Software and Hardware - Motor Illustrated",
-          "summary": "米国の自動車メーカーが、中国製のコネクテッドカー技術およびソフトウェア・ハードウェアの米国市場への参入禁止を求めており、国家安全保障上の懸念から政府規制を要請しているものと考えられます。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTloMEZWUEhha2VyLWZjZ1BELXdaNHZFRVk2d0tvVDJyOGMtSGpKYlFqXzJOZWFla0E3RzFualJjZ0RYTklZMHpFWlhSdDNHZVM4YU55SjZmLXVJTVZHZjZWVC1ncTl4a1lDRG45QTBZREtpYWl4Z2ZkSGx1bUNkMlFtWU9nMW93ZWs5Rm9uM2tfRm42bUxIUmg4RU8xdTF3TXBFY3NRVmFTSmpu0gGyAUFVX3lxTFA4M2NmWE41SVNHdlkyNXJZaHJ1RHR6ekpjNFhIWnZUQ1FlMWloTl9Rd1JTQkM0ZWFjM0FtWjdBbUI1NFNzSk5PclFlblBvNDRUQ1hoYWE4c29tazJFQVVrU1lYTVRpRXBGY19EU0RvQ2MwZ1NEODFaUm5tUW1oODl6VUs3U3YyUm9DVzdub21YaTRaS2VIY3VpWmwzZW9GVlZCOHBZaEVtM2tNaEpVLTI0YVE?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "805d2c5c020e",
-          "date": "2026-09-08",
-          "title": "Ford responds to federal government telling it to cut back China ties - The Detroit News",
-          "summary": "フォード・モーターが米国政府から中国との関係を削減するよう指示されたことに対応しており、自動車メーカーと政府間の地政学的緊張が高まっていることを示している。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaWNTaDZBSTlBeTdPNm1nVno2c1BFWmlzNEtUY2Z5dVFoaGkxOFhxeHJyYlEydDJMTkNfcUtEV3ZCVkM0MHhhWlBDa1VkbmtoUlRPdFhMZDlobmVmMHJGbHVvYWZGWUs4VkhtaHpSLWVocm9xM1BpN2JLMzNhcWZManJUd0tfMEZZUi1tc1FUclRxUktIay0yUXpHZXF1UUVfY1NyYnNNcERzeDMwT1RCUGJUZ3hiNmRFMVM0c3FuLTZteTlPS1h0RnlaZGI2SjZId0htZU5XcGsxSU4ybzNBSi16dks?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "5b2e083d2ff5",
-          "date": "2026-09-08",
-          "title": "Duffy puts Ford on notice over China ties, warns of security concerns - Fox Business",
-          "summary": "フォード・モーターが中国との提携を進めていることに対し、米国の政策立案者であるダッフィーが安全保障上の懸念を理由に警告を発しており、自動車メーカーの対中ビジネス関係が政治的に批判されている。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2RtcHlGVHowNm85NjBCQ3lfX2ZSMWlTVmc4azFFbDNBV3JVamljdG1ZRV9JMkh5YXFldl95VWxlaVFnWWUxbFl5blJ4YkMydzg4alhNbmItUnhrd184ckpLU1pHN2IwX2gwaXRlRVdNZ3hYZVBJWjV0VzI2UFlBekx3QXB4NFhnZHhhSnBtY3NFZTBFZ3QzcGNNeFd6SVHSAaQBQVVfeXFMTzhCeWx5TDZhMXllamJVb25CRkF4TnYtTnBsNU9jMjIyc3VQMkg0VmtYSk5KMUJ5ci03LVBiWnVWS0lLdUdqOHp4TXRfMkI0U29kLWhtZTFOejlYamxQdmdKTE1RMXBWT0VnVmpaX0wtR0l0T0RTUkxvX3ZmZ2ZyQm1FeW5DV2tWdERyNWZaelloREVlVEtoaTdCa2xyYjNybFhVN3M?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "2793be2d4ad2",
-          "date": "2026-09-08",
-          "title": "Trump administration expresses 'profound concern' over Ford's ties to China - CNBC",
-          "summary": "トランプ政権がフォード・モーターの対中提携に対して「深刻な懸念」を表明し、自動車メーカーの中国との関係に対する政治的圧力が強まっていることが示されている。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NNIBdEFVX3lxTE1BYzFIa1p4MnpkQV9KR3c0SUNlbDkyRExQRjlRd2M0bS0zREJ3SEgxcnhvLXd6bEdYaFozbVQ0LXRhZjdIWHQ3ZUtSS0N0SGdmcHFQTkc2Y2d3S0puRkRCdGpwalphQ1RJVjJHRElHdGl3SGI4?oc=5",
           "added_at": "2026-09-14 16:32:35"
         }
       ]
