@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 03:18:30",
+  "generated_at": "2026-10-11 20:18:41",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-11 03:17:51",
+      "last_checked": "2026-10-11 20:18:09",
       "items": [
+        {
+          "uid": "97c77baac941",
+          "date": "2026-10-11",
+          "title": "European ambition, regional specialisation: Europe's industrial future will be shaped locally - Agenda Pública",
+          "summary": "欧州産業加速法案（IAA）は、欧州全体の産業戦略を推進する一方で、地域の特性や比較優位性を活かした分散型の産業発展を重視する枠組みであり、ローカルレベルでの産業政策決定が欧州全体の競争力向上の鍵となることを示唆している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0RUa3JtaldfV2FhZVQwSUxNeFM0MDBlVzkwVUFweDdwMm9tSG9zRk1QUWJvTE1sUndCRXNTdHQ3R3FUYUZKSUZLY21ZLUN5TEE1bFdRNnU4OFFmY0pBM0w2a0RSRjFjdjdDSldtOVBMSTZkU0JQTGhLYlJGb09VMUFLWml2UkNiOXZFOUFRUG8xUHhkZzBBaXlYSmhuUHJBazR1bEJxTVZ5T2I2ZHB0ZTdKcWxydGNOdmgzVEs3TVBLM0xtWnNF?oc=5",
+          "added_at": "2026-10-11 20:18:07"
+        },
         {
           "uid": "bc7f2dd09ad2",
           "date": "2026-10-08",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ndXN1ZHdKWFlHcnlKaUlJRms4bE9heGdOZldydm9OS2NIU0xNZ1Z2eUVzQVNZUzQwR0d5bGpMYzd6OFI2a1VqbU9zNWp2ME5FTmRMOFRCSUxZWU9lNi05SE5iRTFCR0xuUzVwVUxIWXpZcHg5NUZwend2R3V3dw?oc=5",
           "added_at": "2026-07-04 13:10:06"
-        },
-        {
-          "uid": "22e16e1254fa",
-          "date": "2026-07-02",
-          "title": "European carmakers urge EU to protect investments in Türkiye and Morocco - AnewZ",
-          "summary": "欧州の自動車メーカーはEUに対し、トルコとモロッコへの投資保護を求めており、これは欧州産業加速法案（IAA）による産業再構成の中で、域外への製造拠点維持の重要性を示唆している。IAAは域内産業強化を目指す一方で、既存の域外投資との関係調整が課題となっている。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2lYVE8wRDNJTTlPVnJuT0NUZ1ZRcEE2SGlMbDVHNXFYTkZlNHFfNVA2aWt3N3diOGhSVHNxcEloVkFac0NMaXRFUkF2ZWp4ODBsX3NyRUtYS1l4UFpUY3JPejRIYVVpNXpRcTdWdDI4RV95cHpLaXMwNVV0X1FBYnpjOEM1UVBSNWVSLVpIX2VJVVBHZ01XUTB1b3VVWjJablE0WG9uWQ?oc=5",
-          "added_at": "2026-07-03 13:16:41"
         }
       ]
     },
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-11 03:18:00",
+      "last_checked": "2026-10-11 20:18:20",
       "items": [
+        {
+          "uid": "08eb2ad387e7",
+          "date": "2026-07-22",
+          "title": "Bill Risking Mercedes Ban Over China Ties Advances in US Senate - Bloomberg.com",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国との関係を理由にメルセデス・ベンツなど外国自動車メーカーの販売禁止を危険にさらす可能性がある法案として、米国上院で進展している。この法案は、接続車両技術における中国の影響力を制限し、米国の自動車産業のサプライチェーンセキュリティを強化することを目的としている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGRQRUxkV3FOREFRWWsyX09RbEFfbFBmalpZeUR1UHBMUENHc0NRNUNqN1FTNFptQkFuY1J3TklpbWZNTk9MbXpaT3lZUnAzaGw0SjJkVFVXdEVPcnVYSk9zOERSNXlPM0MtMDhOY1pzbFl1dmptMUdla1BDbUhlaHZ4cWZMNlFidDRwZkh4Y1FmQ2NfdEVKZ3dTeE5zVlVmSzBKZjhmV2hBSXNmVjVsLXR6Ung?oc=5",
+          "added_at": "2026-10-11 20:18:16"
+        },
+        {
+          "uid": "5d46dbc09f8b",
+          "date": "2026-07-22",
+          "title": "Senate panel passes Chinese automaker ban bill that could affect Mercedes-Benz - Yahoo Finance",
+          "summary": "米国上院委員会は中国系自動車メーカーの禁止法案を可決し、メルセデス・ベンツなど外国の自動車メーカーも影響を受ける可能性がある。この法案は接続車両における国家安全保障上の懸念に対処することを目的としている。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGNKX0hJRWZzOHB0VlJ4aHVYY29nR2ZTalpLMi1sVEtXSDBWc0JmLWMxVkdWRDQ3bTc5Ykd6b0Z6UDk2aURPQmZJVWYtV2tiRHNxQXlDRTVDdFdSMnR1SldpdTRBZC05T1BUUmFNZUdzVXZPbnp1SVQtUGtWMFhUdWJtT2RmT1B6ZVNvSnpkT1pYT3ZTTVBKWkk4UDJVQU9rUVhSWQ?oc=5",
+          "added_at": "2026-10-11 20:18:16"
+        },
         {
           "uid": "bea935a25652",
           "date": "2026-07-31",
@@ -4000,26 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT3VjMEJ6SU9NNHhOemNrYjVQbkJHTzZTRjBIalRVN1dpTU1ieGxaYVpiTUx1Y3kyNnVsTkhlNnVEMXhzcVB5Zk13OUtsNnNLcF9pSU92UlI5aE1wOE1EelZfNGRFV2FYR1V3cjBEQjJVckJJY1pxMmRKVHJpZzhuWXJyMGc2LU5TVDkwMHJWV0lpNGJDRndmZFhSSU5Wcktya0wtb2xsMW5QWmJPUXJxVE9hU1FQenhDRXRnMjhNbVR0eXhjYU5WQzhULUpCdHpsbTd1WE5uMA?oc=5",
           "added_at": "2026-08-04 18:15:00"
-        },
-        {
-          "uid": "c3a68006bff9",
-          "date": "2026-05-16",
-          "title": "US Wants to Ban All Chinese Cars With New Bill - ProPakistani",
-          "summary": "米国の新法案（S.4429）は中国製自動車の国内販売を禁止し、中国企業による米国自動車企業の買収も制限することで、自動車サプライチェーンのセキュリティを強化し、中国の技術流出を防ぐことを目的としています。",
-          "source": "中国政府",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUERsMjFFUUpJLXYyZUFnREIza1dTTEYzLWNEd3lpc2ZCUFFWdUxRQ2hlMXJoTWtENFN5NmQ2bUszeFoxVmNhaS00TlE2bnhLZ25jSG5xOHp1SWk3QmtJMnR2UXIzbXNySk1mVWVNOU5nQ2ZhUFNZM0RyV1VzbWJCel9ELTlXSnVxWkHSAY8BQVVfeXFMTnpiNWNPdXc3Ml9fcWk2aEkxWFpMY0l1WnBuS2FMaUJtcGRLaU5FaF9FTk5PWXdoUndMODZ1LXQwZnVLenZMOGtqbVQ2cDY1bVNfRFlBNjFSbDNucmVvYl96bWZhODFXUU83VGMwRjRGQ2plVDl2RFJvNDRiMGtZYlVyb0FzY1Jxd2NjYW01dDg?oc=5",
-          "added_at": "2026-08-03 17:31:48"
-        },
-        {
-          "uid": "0e6bd06bebb6",
-          "date": "2026-06-26",
-          "title": "Polestar Wants to Strengthen its Presence in Europe Following New US Regulations - Phandroid",
-          "summary": "申し訳ございませんが、提供いただいたタイトルと「内容」の部分が同じテキストになっており、記事の実質的な内容が記載されていません。S.4429に関する文脈での要約作成には、Polestarの欧州展開計画と米国規制の具体的な関係性を示す記事本文が必要です。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHFJN2ZKbTdmUzgwcDFVbHBKcVlKNkNacGllbXB6QjB3QWV3MWp2THJ2OF96YmtrS3NyNDAtekZ5bl9NVVUzZkRGb2ZpSW9UQnBVbmFsZUQ4dER0anU0OExRUm1qTnRfdjh4UnFlSmVQak9aVTFmQVZwNlA2R0NDNjNjM3RlTVB0MkNSb3Q3U1NxYXFSUFJjODRPYXczekl4dVVtRFBLQTRHTHB5VkZuU3plSUfSAboBQVVfeXFMTndKNWNnLWNyR0Z4UFpWdmhIT2NIbWh5Si05Y2hWcW1oVEFvNnh3aU5CTjZ1MElZNW9vUUlSMUtaZU5YNFVUNndKLVRrd3d0Wm5UUTRkamQwZ1A2SlF5UGk4dVowby1GbHlxblNfMEVtNXV3aGthZjlhaXRZbFhWa0dEXy0tX0xJV0I2bWJxczAyeHl4WGxTbjExS3E0SmVGVzEyWE5Ua3J6Q3RIcENvMWFMRXpVRFNnSWpR?oc=5",
-          "added_at": "2026-08-02 00:02:59"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-11 03:18:20",
+      "last_checked": "2026-10-11 20:18:35",
       "items": [
+        {
+          "uid": "8c76e253f5f0",
+          "date": "2026-07-15",
+          "title": "‘Chokepoint Politics’: China’s Rare-Earth Statecraft and India’s Search for Strategic Autonomy - orfonline.org",
+          "summary": "中国はレアアース産業を戦略的に支配することで国際政治に影響力を行使しており、インドはこうした中国への依存から脱却し、レアアース供給チェーンの多様化と国内産業育成を通じて戦略的自主性を確保しようとしている。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlRDdXNFUjBlTkFaMi1UYjZ3cGI2eHowNnhkRmZQR3l6NFdvRDlqSWppU0RwbV9nQ0xPcjljY3NhUGhtMUtzQ0ZuUHA3djFjOU05amJKVFhPTWhyX3VSN2c4V2JkdHVpMGVXak1OM0puMF9GSDlualJYN25WNFlmb2xCM0l6d3NNS0ZMdkJqb2Y3N0dnaU5pX01kdHVjbzJZVUppMTFFa1JuRjV4SnNLbjVzMDJZQ1VEdk5DRzRWNVJNS1FheVE?oc=5",
+          "added_at": "2026-10-11 20:18:32"
+        },
+        {
+          "uid": "88db0696175d",
+          "date": "2026-09-23",
+          "title": "How the US gave up its edge to China in processing vital rare earth minerals – and what that’s costing - The Conversation",
+          "summary": "米国はかつてレアアース鉱物の処理で優位性を持っていたが、コスト削減を理由に生産を中国にシフトさせた結果、現在では中国がレアアース処理の大部分を支配し、米国の戦略的脆弱性となっている。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPckJDa2Z3aUpVb2Y1a0ZEbThuODI3dFBNX00xa2ROZUl2WE1fQWJNRk1UWWFrdXEtQXJsaWlCaWtiRHJ5V3E4RHVmdjZTX194OURCdU5BaHlDdjh4U2FRZ0pLc2tQS1hZQVdINk50SUFfTFltQ2lSNFBYeHBhclIzdEo1NXh2RVppTlozbDZ4WFZCT19BLW44UmkwZnE5Y0ZEeTVpVnBCd3ZjYUtWMzNxc1pKNnotMXJONGNQRFdZRXQ3RG1Cc1d6TFR5Z1RMRk0?oc=5",
+          "added_at": "2026-10-11 20:18:32"
+        },
         {
           "uid": "56007c501783",
           "date": "2026-10-10",
@@ -6011,26 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTdUNDQyUXBDbHpTdjYtNWJpdmxwdlZwOGZhbnhrOFdPLS1ydkE2SmNXUmxuWVR1MnMzcThYRGQwU0pMU1lTX18xa1F5RWpkb210djhqbUdCYTAydkxySDNiaE92ckhHc2JDc2hVdjdTbHFVTkVVN28tbk5VTVlsTDdKeEw4eVZ6cVktWWVNcmxxMWFWNnhEelkyckpuSllwRHVLbFJRQU5Zc1NJTmZXYnY1Tm9menhmT1JiUlBxcy1YQ1Q5X2FjTnZpZHg?oc=5",
           "added_at": "2026-09-07 19:01:03"
-        },
-        {
-          "uid": "37f83cef0093",
-          "date": "2026-07-14",
-          "title": "China Northern Rare Earth: H1 Net Profit Expected to Increase 112.74%-121.33%; Rare Earth Prices Overall Strengthened and Consolidated - Shanghai Metals Market",
-          "summary": "中国北方稀土は2024年上半期の純利益が112.74～121.33％増加する見込みであり、これは稀土価格全体の強化と堅調な推移を反映している。中国の稀土輸出管理政策により国内価格が上昇し、主要生産企業の収益が大幅に改善されている。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQcGcycWpTV1JFNlA5eUJ3eXdUbU9YM09TakVwN1I2amNSWVczd3RiLW9SN2tibGFJR3NsOVJ6LVJEMkhQVFJuanlXY3A5T1ZhMk5aU1VuaGxTUDdlUm9MaTVZZXl4OUNUamNydTRsQWpzazNEdnBLdVlBYjB4TjVfQTJMT0szQmdnaU9hV3lueGl1N3pyX0hRai05Z1lHS0hWX3kxZWxoelF4R19GT3FUd2tmX2I4cG43MC1wLUdlOC00MmZseGU1bWo3T2NPdG5mcFJ3Q2h1bEhPeG5lbFdGbVJ3aGNjR1hORlZnZE5lRlNOQU5ESU5KUF9jRzB0V2pjNGNr?oc=5",
-          "added_at": "2026-09-07 01:46:39"
-        },
-        {
-          "uid": "20f989a4fbfb",
-          "date": "2026-08-07",
-          "title": "China Rare Earth Industry Association Reports 263.6 Index as Ex-China Heavy Rare Earth Prices Diverge Sharply - Rare Earth Exchanges",
-          "summary": "中国レアアース産業協会が263.6のインデックスを報告する中、中国外の重希土類価格が大きく変動しており、中国のレアアース市場における価格形成と輸出管理の影響が顕在化している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzR1MC1oR2dYdTZvd1g0YW5uTTlnakN5SHpvdndvajlrdzk5OU1adHotRHpBNmpPSDBzLVdiQm92clZMZzdJYW5LSGhyUG4yZWxiYmRCaVY2dU91SDFic1QzdXdZT0x3c3g2bnU3UkZBWFgtRHdUX2JVVnkxdTJOZElkS3k2V3B5VFdwVEFnNTViRjY3OHFENGY5S3FENm9BdDVQTmk4eXBBZWEwY1Q3YW1yVmw4SU9wZWQ4M3Jub2hnNnduYk1zU0FoMG5XOFBrRlVMdDhYVGVOMW1QaG1F?oc=5",
-          "added_at": "2026-09-07 01:46:39"
         }
       ]
     },
@@ -6041,8 +6041,18 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-11 03:18:30",
+      "last_checked": "2026-10-11 20:18:41",
       "items": [
+        {
+          "uid": "c6fb13d87607",
+          "date": "2026-07-28",
+          "title": "Mercedes-Benz CEO vows to protect U.S. investment as Congress targets Chinese ownership - Automotive News",
+          "summary": "メルセデス・ベンツのCEOが米国議会による中国資本の規制強化に対応し、米国への投資保護を誓約した。これは自動車メーカーが地政学的緊張の中で中国とのビジネス関係と米国の政治的要求のバランスを取る必要性を示している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTlmeDdFb2JZQ2t6Z2UzUGx5Wi1TUTFoaHU4QkJiQTB3OXA2czh4REpuYkR1czVQYm1xQVhyTzBhTmVmanZRQ2ROeG9vMjE5WFdXc1FUUW1BRm1rRG5XbFRwSm5BZDU0SW1sOXdhczc2eFh2NG15N1pnY1BTYllSSEhWNHhVSzJJSnN3eEkxaXQ?oc=5",
+          "added_at": "2026-10-11 20:18:40"
+        },
         {
           "uid": "2793be2d4ad2",
           "date": "2026-09-08",
@@ -8031,16 +8041,6 @@
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2J2bmhhTi1SckwwUGh3UXA2c3NweXZSa1FnZFpLaUtFelh0cnVyNVJIVjJ1ZW9nNGtqMkQ1dnYtYmFlVzBKVlB4emlpYzkwQkJrN2QzVlhZZ2djNVRZV1VpWExSUVdDR3lOLVQ0U1lfdnUtMTJtSXFmeXc1bFItanZsQVNyYWlpQVh5R0N3Mk9rRG02TUo0RGdfMi1ZRVo1UjYxb25vbl9SSHVVZ3h1Vk5BckNCeE5SU09WRkhaaWY?oc=5",
-          "added_at": "2026-09-14 16:32:35"
-        },
-        {
-          "uid": "36b74d2c6287",
-          "date": "2026-09-09",
-          "title": "Trump administration challenges Ford’s partnerships with Chinese companies - CBT News",
-          "summary": "トランプ政権がフォード・モーターの中国企業との提携に対して異議を唱えており、自動車メーカーの対中ビジネス関係が米国の政治的スクラティニーの対象となっている。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OS1dfc2RzN3Rkcm1CN29WV1llQm1mZkx6bmdORVQxQkQ2Z3hzUUh2MVVwRnJ4VHZ0ekdaMWctSDVjNnc1ZUhVUndlZk9sUC1RWXFnclZuYXp6UXZtR0xDSTlQX1hvdk9FeEpza1RCWlRMdVZmV2FpOHJCSndfWlE?oc=5",
           "added_at": "2026-09-14 16:32:35"
         }
       ]
