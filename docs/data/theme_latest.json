@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 20:18:41",
+  "generated_at": "2026-10-12 03:42:09",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-11 20:18:09",
+      "last_checked": "2026-10-12 03:41:34",
       "items": [
         {
           "uid": "97c77baac941",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-11 20:18:20",
+      "last_checked": "2026-10-12 03:41:45",
       "items": [
+        {
+          "uid": "4134623e03d9",
+          "date": "2026-09-29",
+          "title": "Guest commentary: Why Chinese brands could capture 14% of U.S. market in 5 years - Automotive News",
+          "summary": "申し訳ございませんが、提供いただいたタイトルのみで記事の本文内容がないため、具体的な要約ができません。S.4429（米国接続車両安全保障法）に関連する文脈での要約を作成するには、記事の本文を提供していただく必要があります。",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORjlSSHhsLUpjajFaT2M2UjFicVBYalZHUTN1ZE1aZkJ3aFoxMG1mYks1ckd2OEJLTmFmaHdna3g0a1dwVTRxQW1OMEY4c3czbHV2WVhHOGJhWXFwTkNYTk1HSHN2Rm13ak93ZjZrdG5TRFdEcUw1b01hU21ZaC0wd0RZWTFJS2hhMlNzYXJsYXdobmQ1bm9hM1VodUJ5eERXVGdtUGF5WjdNSEU?oc=5",
+          "added_at": "2026-10-12 03:41:43"
+        },
         {
           "uid": "08eb2ad387e7",
           "date": "2026-07-22",
@@ -4010,16 +4020,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmhBTktfbWdZbVRWT3h3dWpLM0pyVlp5R09SckFoQngtUTkwTXh6M1F5UkhZVTJHemthTUlrSUhrTjk0UVZZYUFkekw2dUlEYXBXVUZPMzhMMGliNDhVYkU0cGhKNGZ4aWhyVk5UZnlBNmpvdC1Ha0I5Wll2UWNuT1dnbDJBUzR2cGxDMXYxTHY1aXlUcVZHdmdiczZodmpleTZrREYtblpYalBVX09UNUNwTWtpdw?oc=5",
           "added_at": "2026-08-04 18:15:00"
-        },
-        {
-          "uid": "ab6ea8b2c75c",
-          "date": "2026-07-21",
-          "title": "US auto industry races to purge Chinese connected-car hardware - The Detroit News",
-          "summary": "米国の自動車産業は、S.4429法への対応として、コネクテッドカーに使用されている中国製ハードウェアを排除するために急速に取り組んでおり、これは国家安全保障上の懸念に基づいた規制要件への適応を示しています。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT3VjMEJ6SU9NNHhOemNrYjVQbkJHTzZTRjBIalRVN1dpTU1ieGxaYVpiTUx1Y3kyNnVsTkhlNnVEMXhzcVB5Zk13OUtsNnNLcF9pSU92UlI5aE1wOE1EelZfNGRFV2FYR1V3cjBEQjJVckJJY1pxMmRKVHJpZzhuWXJyMGc2LU5TVDkwMHJWV0lpNGJDRndmZFhSSU5Wcktya0wtb2xsMW5QWmJPUXJxVE9hU1FQenhDRXRnMjhNbVR0eXhjYU5WQzhULUpCdHpsbTd1WE5uMA?oc=5",
-          "added_at": "2026-08-04 18:15:00"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-11 20:18:35",
+      "last_checked": "2026-10-12 03:42:02",
       "items": [
+        {
+          "uid": "cd900009af8c",
+          "date": "2026-09-24",
+          "title": "Rare Earths at the Trump-Xi Summit: Relief Without a Resolution - The Diplomat – Asia-Pacific Current Affairs Magazine",
+          "summary": "トランプ前大統領と習近平主席の首脳会談ではレアアースの貿易問題が議論されたが、中国の輸出規制に対する根本的な解決には至らず、一時的な緩和にとどまった。中国は戦略的資源としてのレアアースの輸出管理を維持する方針を変えず、米国との対立が継続している。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0NscWE4MER6aGRIemhHQ1JJVWMtWkxPOWg3Q0JkWk51WEcyZ0J5Nl9uRXE0WVZmTmNna3lZQTFoN3N5OTE3cHVXb0tlUmZyelIxN1hUUzNQTXFQWWNCdDgtMjh5c0ozVG9SQWR4Yzg3RjhMOEZfSFhRaVVHRVU4ZE5lTzZZc2NoemtsTVRMeF9aYVBSYzFRdUNfYw?oc=5",
+          "added_at": "2026-10-12 03:42:01"
+        },
         {
           "uid": "8c76e253f5f0",
           "date": "2026-07-15",
@@ -6021,16 +6031,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVjVsT3ZzbFZJR2dzcVRxdk45NElpQVdKb2pndHhVU0UwQlpTRW1tR2oyQzRuSGVGOXE3R3Bud21PamNKQUxnTHBGUmtQelQ2NlZvWm0yWXI2OVgxZUVTYTc5MWp6TkVLS1c0YVlBNVo5VzJhV3BwNmk0MHBVbHhvek5IbHJubzF6OWNZLVEyQjMxWWVQV0RjbzVVb2ZPdGZxQld4UnVucGVDa1BYeHI1QmFVWkc?oc=5",
           "added_at": "2026-09-07 19:01:03"
-        },
-        {
-          "uid": "a0415ffcaa81",
-          "date": "2026-08-14",
-          "title": "USA Rare Earth Gains 7%, MP Materials Jumps 8%: Here's Why Critical Minerals Are Moving Today - 24/7 Wall St.",
-          "summary": "申し訳ございませんが、提供いただいたタイトル以外の記事本文が不完全なため、「中国レアアース輸出管理」に関する具体的な要点を抽出することができません。記事の本文内容をご提供いただければ、正確な日本語要約を作成させていただきます。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUTdUNDQyUXBDbHpTdjYtNWJpdmxwdlZwOGZhbnhrOFdPLS1ydkE2SmNXUmxuWVR1MnMzcThYRGQwU0pMU1lTX18xa1F5RWpkb210djhqbUdCYTAydkxySDNiaE92ckhHc2JDc2hVdjdTbHFVTkVVN28tbk5VTVlsTDdKeEw4eVZ6cVktWWVNcmxxMWFWNnhEelkyckpuSllwRHVLbFJRQU5Zc1NJTmZXYnY1Tm9menhmT1JiUlBxcy1YQ1Q5X2FjTnZpZHg?oc=5",
-          "added_at": "2026-09-07 19:01:03"
         }
       ]
     },
@@ -6041,7 +6041,7 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-11 20:18:41",
+      "last_checked": "2026-10-12 03:42:09",
       "items": [
         {
           "uid": "c6fb13d87607",
