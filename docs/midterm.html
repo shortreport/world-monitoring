@@ -206,9 +206,9 @@
           <!-- filled by JS -->
         </div>
         <div style="display:flex;justify-content:space-between;font-size:10px;color:var(--text-sub);margin-top:3px;">
-          <span id="pred-r-label">R: 56</span>
+          <span id="pred-r-label">R: 46</span>
           <span style="color:#888;">過半数: 51</span>
-          <span id="pred-d-label">D: 42　不確 2</span>
+          <span id="pred-d-label">D: 47　不確: 7</span>
         </div>
       </div>
     </div>
@@ -228,7 +228,7 @@
 </div>
 
 <footer class="site-footer">
-  データ出典: Cook Political Report / 270toWin 参考 &nbsp;|&nbsp; 更新: 2026-09-02
+  データ出典: Cook Political Report / 270toWin 参考 &nbsp;|&nbsp; 更新: 2026-10-13
 </footer>
 
 <script>
@@ -329,16 +329,17 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
-    { state:'OH', incumbent:'Jon Husted (R空席・特別選挙)', party:'R', rating:'toss',    label:'接戦' },
+    { state:'OH', incumbent:'Jon Husted (R・特別選挙)', party:'R', rating:'toss',    label:'接戦' },
     { state:'MI', incumbent:'Gary Peters (D空席)', party:'D', rating:'toss',    label:'接戦' },
-    { state:'NC', incumbent:'Thom Tillis (R空席)', party:'R', rating:'lean-d',  label:'Lean D' },
+    { state:'ME', incumbent:'Susan Collins (R)', party:'R', rating:'toss',  label:'接戦' },
     { state:'AK', incumbent:'Dan Sullivan (R)', party:'R', rating:'toss',  label:'接戦' },
+    { state:'TX', incumbent:'John Cornyn (R空席)', party:'R', rating:'toss',  label:'接戦' },
+    { state:'IA', incumbent:'Joni Ernst (R空席)', party:'R', rating:'toss',  label:'接戦' },
+    { state:'KS', incumbent:'Roger Marshall (R)', party:'R', rating:'toss',  label:'接戦' },
+    { state:'NH', incumbent:'Jeanne Shaheen (D空席)', party:'D', rating:'lean-d', label:'Lean D' },
+    { state:'NC', incumbent:'Thom Tillis (R空席)', party:'R', rating:'likely-d',  label:'Likely D' },
+    { state:'GA', incumbent:'Jon Ossoff (D)', party:'D', rating:'likely-d',  label:'Likely D' },
     { state:'MT', incumbent:'Steve Daines (R)', party:'R', rating:'safe-r',  label:'Safe R' },
-    { state:'GA', incumbent:'Jon Ossoff (D)', party:'D', rating:'lean-d',  label:'Lean D' },
-    { state:'ME', incumbent:'Susan Collins (R)', party:'R', rating:'likely-r',  label:'Likely R' },
-    { state:'NH', incumbent:'Jeanne Shaheen (D空席)', party:'D', rating:'likely-d', label:'Likely D' },
-    { state:'VA', incumbent:'Mark Warner (D)', party:'D', rating:'likely-d', label:'Likely D' },
-    { state:'TX', incumbent:'Ken Paxton (R)', party:'R', rating:'toss',  label:'接戦' },
   ],
   house: [
     { state:'NY-3', incumbent:'(空席)', party:'D', rating:'toss', label:'接戦' },
@@ -368,9 +369,11 @@ const seatCounts = {
 };
 
 // 2026 predictions (rough)
+// senate: Cook 10/6評価ベース（Toss Up 7州 = OH/ME/AK/IA/MI/TX/KS、それ以外は現評価の側に計上）
+// house: Cook 10/9 最有力シナリオ（民主党 +9〜+19）の中間値
 const predictions = {
-  senate:   { r:56, d:42, toss:2, total:100 },
-  house:    { r:210, d:225, toss:0, total:435 },
+  senate:   { r:46, d:47, toss:7, total:100 },
+  house:    { r:206, d:229, toss:0, total:435 },
   governor: { r:26, d:22, toss:2, total:50 },
 };
 
@@ -659,10 +662,10 @@ ${_sched([['2026年3月3日','予備選','終了'],['2026年5月26日','予備�
   </tbody>
 </table>
 <p style="font-size:11px;color:var(--text-sub);margin:-8px 0 12px;">※ パクストンはトランプ大統領の直接支持を受けて逆転</p>
-<h4 style="margin:0 0 8px;font-size:13px;">本選の候補者と最新支持率（2026年6月12日調査）</h4>
-${_pollTable([['ケン・パクストン','R','var(--rep)','43%'],['ジェームズ・タラリコ（州議会議員）','D','var(--dem)','42%']],'※ 誤差±3.5%。テキサス大学テキサス・ポリティクス・プロジェクト調査（1,200人）')}
+<h4 style="margin:0 0 8px;font-size:13px;">本選の候補者と最新支持率（2026年10月初旬）</h4>
+${_pollTable([['ジェームズ・タラリコ（州議会議員）','D','var(--dem)','51%'],['ケン・パクストン','R','var(--rep)','49%']],'※ Fox News調査（10/2公表・投票見込み層）。誤差±3%で統計的に同点。好感度はタラリコ +8（52%対44%）、パクストン −18（40%対58%）。')}
 <h4 style="margin:0 0 6px;font-size:13px;">分析</h4>
-<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">パクストンは4月時点34%→43%に回復（共和党内融和が進む）。タラリコは一貫して42%で横ばい。統計的に事実上の同点。テキサス州上院議席がこれほど競争的なのは異例。</p>
+<p style="font-size:12px;margin:0 0 14px;line-height:1.6;"><strong>評価：接戦（Toss-up・Cook）</strong><br>6月時点ではパクストン43%対タラリコ42%だったが、夏以降タラリコ優位の調査が続き、10月のFox News調査でもタラリコが僅差リード。パクストンの好感度の低さが重荷。期日前投票は10月19日開始。テキサス州上院議席がこれほど競争的なのは異例。</p>
 ${_photoRow([
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ken_Paxton_by_Gage_Skidmore.jpg/330px-Ken_Paxton_by_Gage_Skidmore.jpg', name:'ケン・パクストン', party:'共和党', color:'var(--rep)'},
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg/330px-James_Talarico_Press_Conference_%28cropped%29.jpg', name:'ジェームズ・タラリコ', party:'民主党', color:'var(--dem)'}
@@ -725,10 +728,10 @@ ${_sched([['2026年8月4日','予備選（両党）','終了'],['2026年11月3�
     <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);font-weight:600;">アブドゥル・エル=サイード</td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元ウェイン郡保健局長（民主党予備選勝者）</td></tr>
   </tbody>
 </table>
-<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年8月下旬）</h4>
-${_pollTable([['アブドゥル・エル=サイード（民主）','D','var(--dem)','45〜48%'],['マイク・ロジャース（共和）','R','var(--rep)','39〜47%']],'※ AARP調査(8/29)は48%対47%、Susquehanna調査は46%対39%、TIPP調査は45%対42%とエル=サイードが僅差〜小差でリード。事実上の接戦。')}
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年9月下旬〜10月上旬）</h4>
+${_pollTable([['アブドゥル・エル=サイード（民主）','D','var(--dem)','46〜49%'],['マイク・ロジャース（共和）','R','var(--rep)','41〜48%']],'※ YouGov（9/22-10/4、投票見込み層3,949人）は49%対48%、Quantus Insightsは48%対47%、Mitchell Research（CBSデトロイト）は46%対41%。10月の調査はいずれもエル=サイードがリードするが、多くは誤差内。')}
 <h4 style="margin:0 0 6px;font-size:13px;">分析</h4>
-<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">ロジャースは2024年にスロットキン（民主）に0.34%差で敗れた後の再挑戦。民主党はマクモロー州上院議員が撤退・エル=サイード支持に回り、進歩派が本選出馬。複数調査でエル=サイードが小差リードするが誤差内が多く、全国最大の激戦区の一つであることに変わりなし。</p>
+<p style="font-size:12px;margin:0 0 14px;line-height:1.6;"><strong>評価：接戦（Toss-up・Cook）</strong><br>ロジャースは2024年にスロットキン（民主）に0.34%差で敗れた後の再挑戦。7月にはロジャース優位の調査もあったが、9月下旬以降はエル=サイードが1〜5ポイント差でリードする調査が続く。ただし誤差内が多く、全国最大の激戦区の一つであることに変わりなし。</p>
 ${_photoRow([
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Mike-Rogers-Head-Shot-2_%283x4_cropped%29.jpg/330px-Mike-Rogers-Head-Shot-2_%283x4_cropped%29.jpg', name:'マイク・ロジャース', party:'共和党', color:'var(--rep)'}
 ])}
@@ -916,10 +919,10 @@ ${_sched([['2026年3月（予備選）','予備選（両党）','終了'],['2026
   </tbody>
 </table>
 <p style="font-size:11px;color:var(--text-sub);margin:-8px 0 12px;">※ ワットリーはトランプ大統領の直接支持を受けて圧勝</p>
-<h4 style="margin:0 0 8px;font-size:13px;">本選の候補者と最新支持率（2026年6月1〜10日調査）</h4>
-${_pollTable([['ロイ・クーパー（元知事）','D','var(--dem)','48%'],['マイケル・ワットリー（RNC委員長）','R','var(--rep)','34%']],'※ Catawba College/YouGov調査。クーパー+14。2025年8月Emerson調査では+6。')}
+<h4 style="margin:0 0 8px;font-size:13px;">本選の候補者と最新支持率（2026年9〜10月）</h4>
+${_pollTable([['ロイ・クーパー（元知事）','D','var(--dem)','47〜50%'],['マイケル・ワットリー（RNC委員長）','R','var(--rep)','35〜43%']],'※ イーストカロライナ大学調査はクーパー50%対ワットリー43%、Trafalgar Group調査は49%対41%、YouGov/Catawba College調査は47%対35%。いずれもクーパーが7ポイント以上リード。')}
 <h4 style="margin:0 0 6px;font-size:13px;">分析</h4>
-<p style="font-size:12px;margin:0 0 14px;line-height:1.6;">クーパーは2016〜2024年まで知事を2期務めた高知名度の候補。ワットリーはRNC委員長として組織力はあるものの個人知名度が低く（有利36%不明）、直近で差が拡大傾向。NCは激戦州だが、2026年時点では民主党が優位。上院支配権を左右する全国最注目レースの一つ。</p>
+<p style="font-size:12px;margin:0 0 14px;line-height:1.6;"><strong>評価：民主党優位（Likely D・Cook 10/6に Lean D から変更）</strong><br>クーパーは2016〜2024年まで知事を2期務めた高知名度の候補。ワットリーはRNC委員長として組織力はあるものの個人知名度が低い。共和党系のTrafalgarを含む各調査でクーパーが安定してリードし、Cookは10月6日に評価を民主党側へ一段階引き上げた。民主党の議席奪取が最も有力視される州。</p>
 ${_photoRow([
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Michael_Whatley_%2854670563614%29_%28cropped%29.jpg/330px-Michael_Whatley_%2854670563614%29_%28cropped%29.jpg', name:'マイケル・ワットリー', party:'共和党', color:'var(--rep)'},
   {url:'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Roy_Cooper_in_November_2023_%28cropped2%29.jpg/330px-Roy_Cooper_in_November_2023_%28cropped2%29.jpg', name:'ロイ・クーパー', party:'民主党', color:'var(--dem)'}
@@ -948,10 +951,10 @@ ${_sched([['2026年5月19日','予備選（両党）','終了'],['2026年7月','
     <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">マイク・コリンズ（連邦下院議員）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">トランプ氏支持で決選投票を制し共和党候補に確定（ケンプ知事は不出馬）</td></tr>
   </tbody>
 </table>
-<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年8月）</h4>
-${_pollTable([['ジョン・オソフ（民主・現職）','D','var(--dem)','50〜56%'],['マイク・コリンズ（共和）','R','var(--rep)','43%']],'※ InsiderAdvantage（8/16-17）はオソフ50%対コリンズ43%。Fox Newsはオソフ56%対43%。複数調査でオソフが7〜13ポイントの安定したリード。')}
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年9月下旬〜10月上旬）</h4>
+${_pollTable([['ジョン・オソフ（民主・現職）','D','var(--dem)','51%'],['マイク・コリンズ（共和）','R','var(--rep)','41〜43%']],'※ Trafalgar Group（10/7-9、投票見込み層1,101人）はオソフ51%対コリンズ43%（9月調査の+6から拡大）。9月下旬のYouGov調査は51%対41%。AARP調査もオソフ+9。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党やや優位（Lean D）</strong><br>オソフは2021年1月の決選投票で当選した民主党の若手議員。ケンプ知事が出馬を見送り、トランプ氏の支持を得たマイク・コリンズ下院議員が決選投票で共和党候補に。8月の複数調査でオソフが一貫して2桁近いリードを保っており、当初のToss-up評価からLean Dへ上方修正。上院支配権を左右する全国最注目レースの一つ。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党優位（Likely D・Cook 9/23に Lean D から変更）</strong><br>オソフは2021年1月の決選投票で当選した民主党の若手議員。ケンプ知事が出馬を見送り、トランプ氏の支持を得たマイク・コリンズ下院議員が決選投票で共和党候補に。8月には同点や僅差の調査もあったが、9月以降はオソフが8〜10ポイント差でリードする調査が続き、Cookは9月23日にLikely Dへ変更。過半数割れの場合は12月1日に決選投票。</p>
 </div>`,
 
     NH: () => `
@@ -970,12 +973,14 @@ ${_sched([['2026年9月8日','予備選（両党）','終了'],['2026年11月3�
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ケリー・アヨット（現知事）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元上院議員・2024年知事当選・出馬検討</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">民主党候補（複数検討中）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">9月予備選で決定</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">クリス・パパス（連邦下院議員）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">NH第1区選出・9月予備選で民主党候補に</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジョン・E・スヌヌ（元上院議員）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">2003〜2009年に上院議員・9月予備選で共和党候補に</td></tr>
   </tbody>
 </table>
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年9月下旬〜10月上旬）</h4>
+${_pollTable([['クリス・パパス（民主）','D','var(--dem)','51%'],['ジョン・E・スヌヌ（共和）','R','var(--rep)','43〜44%']],'※ セント・アンセルム大学/AARP調査（9/28-29、投票見込み層1,042人）は51%対44%、YouGov調査は51%対43%。いずれもパパスが誤差を超えるリード。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up）</strong><br>シャヒーン引退によるオープンシート。NHは大統領選でも僅差となる典型的スウィング州。元上院議員のアヨット現知事が共和党の有力候補。民主党は人気高いハッサン議員の地盤を引き継ぐ候補を探す。予備選は9月と遅い。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党やや優位（Lean D・Cook 10/6に Toss-up から変更）</strong><br>シャヒーン引退によるオープンシート。共和党は知名度の高いスヌヌ元上院議員（元知事クリス・スヌヌの兄）を擁立し接戦が予想されたが、9月予備選後の調査ではパパスが7〜8ポイント差でリード。Cookは10月6日にLean Dへ変更した。</p>
 </div>`,
 
     MN: () => `
@@ -1068,18 +1073,20 @@ ${_sched([['2026年6月9日','予備選（両党）','終了'],['2026年11月3�
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
   </tr></thead><tbody>
     <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">スーザン・コリンズ（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">5期目を目指す・超党派で高支持率</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">民主党候補（予備選終了）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">挑戦者・コリンズ打倒は困難</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">トロイ・ジャクソン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元メイン州上院議長・6月予備選で民主党候補に</td></tr>
   </tbody>
 </table>
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年9月下旬〜10月上旬）</h4>
+${_pollTable([['トロイ・ジャクソン（民主）','D','var(--dem)','46〜51%'],['スーザン・コリンズ（共和・現職）','R','var(--rep)','46〜49%']],'※ ワシントン・ポスト/シャー・スクール調査（9/30-10/5、投票見込み層800人）はジャクソン50%対コリンズ46%、Marist調査は51%対47%、Rasmussen調査は49%対47%。一方NYタイムズ/シエナ調査はコリンズ49%対ジャクソン46%。いずれも誤差内。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党優位（Likely R）</strong><br>コリンズは民主党傾向のメイン州で5期当選を目指す超党派ベテラン。2020年にも厳しい選挙を制した実績がある。独自の政治スタイルで民主党支持者からも一定の支持を受けており安定した地位を保つ。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up・Cook）</strong><br>コリンズは民主党傾向のメイン州で5期当選を目指す超党派ベテラン。2020年にも劣勢予想を覆した実績がある。今回はジャクソンが多くの調査で僅差リードし、ワシントン・ポスト調査では58%が「コリンズはトランプ氏を支持しすぎ」と回答。ただしコリンズ優位の調査もあり、全国屈指の接戦。</p>
 </div>`,
 
     IA: () => `
 <div class="state-info-name">アイオワ州（IA） — 2026年上院選挙あり</div>
 <div class="state-info-body">
 ${_seatsTable([
-  ['ジョニ・アーンスト（現職）','R','var(--rep)','2026年（2020年に再選）',true],
+  ['ジョニ・アーンスト（退任）','R','var(--rep)','2026年（2020年に再選）',true],
   ['チャック・グラスリー','R','var(--rep)','2028年（2022年に再選）',false],
 ])}
 <hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
@@ -1091,12 +1098,14 @@ ${_sched([['2026年6月2日','予備選（両党）','終了'],['2026年11月3�
     <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
     <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
   </tr></thead><tbody>
-    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジョニ・アーンスト（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">陸軍退役軍人・3期目を目指す</td></tr>
-    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">民主党候補</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">共和党の強固な地盤で苦戦必至</td></tr>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">アシュリー・ヒンソン（連邦下院議員）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">トランプ氏支持・予備選でジム・カーリン元州上院議員を破る</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジョシュ・ターク（州下院議員）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">予備選でザック・ウォールズ州上院議員を破る</td></tr>
   </tbody>
 </table>
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年9月下旬〜10月上旬）</h4>
+${_pollTable([['アシュリー・ヒンソン（共和）','R','var(--rep)','44〜48%'],['ジョシュ・ターク（民主）','D','var(--dem)','43〜49%']],'※ Emerson College（10/5-6）はヒンソン47%対ターク45%、NYタイムズ/シエナは48%対47%、CNNは45%対43%。一方Suffolk大学（10/1-4）はターク48%対44%、Fox News（9/24-28）はターク49%対47%。すべて誤差内。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党優位（Lean R）</strong><br>アイオワは2010年代以降急速に共和党優位が拡大。アーンスト現職は農業・軍事委員会での実績を持つ。民主党は上院奪回ターゲットとして注目するが現職への挑戦は困難な情勢。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up・Cook）</strong><br>アーンスト現職の不出馬によるオープンシート。アイオワは2024年大統領選でトランプ氏が13ポイント超の差で勝利した共和党優位の州だが、調査ではヒンソンとタークが互いにリードを奪い合う大接戦。好感度ではタークが上回る（Fox調査：ターク好感48%対非好感40%、ヒンソン42%対50%）。</p>
 </div>`,
 
     AK: () => `
@@ -1124,7 +1133,7 @@ ${_sched([['2026年8月18日','予備選（順位選択・全候補一括）','�
   </tbody>
 </table>
 <h4 style="margin:0 0 8px;font-size:13px;">最新世論調査</h4>
-${_pollTable([['メアリー・ペルトラ（民主）','D','var(--dem)','50.8〜51%'],['ダン・S・サリバン（共和・現職）','R','var(--rep)','49〜49.2%']],'※ Alaska Survey Research調査（8/5、順位選択最終ラウンド想定）。誤差内の事実上の同点。')}
+${_pollTable([['メアリー・ペルトラ（民主）','D','var(--dem)','46〜51%'],['ダン・S・サリバン（共和・現職）','R','var(--rep)','43〜49%']],'※ 10月の調査（順位選択最終ラウンド）：InsiderAdvantage（10/11公表）はペルトラ50%対サリバン48%、Alaska Survey Research（10/7）は51%対49%、NYタイムズ/シエナ（9/24-10/1）は50%対43%、Quantus Insightsは46%対46%。ペルトラが概ね僅差リード。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up）</strong><br>アラスカは伝統的に共和党優位の州だが、ペルトラは知名度と過去の州全体での当選歴を武器に善戦。同姓同名の共和党候補が本選に加わったことで一部有権者の混乱・票の分散が懸念され、共和党陣営に不利に働く可能性が指摘される。順位選択投票の集計次第で結果が変わりうる全国最注目レースの一つに浮上。</p>
 </div>`,
@@ -1214,8 +1223,21 @@ ${_seatsTable([
 ])}
 <hr style="border:none;border-top:3px solid var(--border);margin:0 0 16px;">
 ${_sched([['2026年8月4日','予備選（共和党）','終了'],['2026年11月3日','本選（一般選挙）','future']])}
+<h4 style="margin:0 0 8px;font-size:13px;">本選対決の候補者</h4>
+<table style="width:100%;border-collapse:collapse;font-size:12px;margin-bottom:12px;">
+  <thead><tr style="background:var(--surface-2);">
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">候補者</th>
+    <th style="text-align:center;padding:4px 8px;border-bottom:2px solid var(--border);">党</th>
+    <th style="text-align:left;padding:4px 8px;border-bottom:2px solid var(--border);">備考</th>
+  </tr></thead><tbody>
+    <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ロジャー・マーシャル（現職）</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元産婦人科医・2期目を目指す</td></tr>
+    <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">アダム・ハミルトン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">民主党候補</td></tr>
+  </tbody>
+</table>
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年9月下旬〜10月上旬）</h4>
+${_pollTable([['アダム・ハミルトン（民主）','D','var(--dem)','48〜50%'],['ロジャー・マーシャル（共和・現職）','R','var(--rep)','45〜48%']],'※ Wedgewood Polls（9月下旬、誤差±4.4%）はハミルトン50%対マーシャル48%、YouGov調査は48%対45%。いずれも誤差内。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党安全圏（Safe R）</strong><br>マーシャルは元産婦人科医で保守強硬派。カンザスは一時民主党の知事が誕生したこともあるが上院では共和党が盤石。農業・医療政策で地元との繋がりを保つ。再選はほぼ確実。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up・Cook 10/6に Lean R から変更）</strong><br>カンザスは約90年にわたり上院で民主党が勝っていない共和党の牙城だが、Cookは9月23日にLikely R→Lean R、10月6日にToss-upへと立て続けに評価を変更。ハミルトン陣営はマーシャルの医院の診療費請求・債権回収を攻撃する広告を展開し、肥料・燃料価格の上昇など農業経済への不満も追い風に。Cookは「ハミルトンはますます力強い選挙戦を展開」と評価。</p>
 </div>`,
 
     LA: () => `
@@ -1513,10 +1535,10 @@ ${_sched([['2026年5月','予備選（両党）','終了'],['2026年11月3日','
     <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">シェロッド・ブラウン</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元連邦上院議員（2024年落選・返り咲きを狙う）</td></tr>
   </tbody>
 </table>
-<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年8月）</h4>
-${_pollTable([['シェロッド・ブラウン（民主）','D','var(--dem)','45〜48%'],['ジョン・ハステッド（共和・現職）','R','var(--rep)','44〜47%']],'※ Fox News調査（8/6-10）はブラウン+8。Wedgewood Polls（8/13）はブラウン48%対ハステッド44%。世論調査平均ではハステッドが僅差リード（47.1%対45.3%）とばらつきが大きい事実上の接戦。')}
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年9月下旬〜10月上旬）</h4>
+${_pollTable([['シェロッド・ブラウン（民主）','D','var(--dem)','45〜49%'],['ジョン・ハステッド（共和・現職）','R','var(--rep)','43〜46%']],'※ CNN調査（10/8頃公表、投票見込み層、誤差±4.5%）はブラウン49%対ハステッド43%、NYタイムズ/シエナ（616人）は49%対46%、Marist（9/24-27、登録有権者）はブラウン+8。一方co/efficient調査はハステッド46%対ブラウン45%。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up）</strong><br>オハイオは近年スイング州から共和党優位の州へ変容しつつあったが、民主党の重鎮ブラウンの返り咲き挑戦により全国屈指の接戦区に。調査によってブラウンとハステッドどちらもリードしており、上院支配権を左右しうる最重要レースの一つ。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：接戦（Toss-up・Cook）</strong><br>オハイオは近年スイング州から共和党優位の州へ変容しつつあったが、民主党の重鎮ブラウンの返り咲き挑戦により全国屈指の接戦区に。9月下旬以降はブラウンがリードする調査が多数を占めるが、ハステッド優位の調査もあり予断を許さない。同時実施の知事選でもCNN調査で民主党エイミー・アクトンがラマスワミを50%対42%でリード。</p>
 </div>`,
 
     PA: () => `
@@ -3200,10 +3222,10 @@ ${_sched([['2026年8月4日','予備選（両党）','終了'],['2026年11月3�
     <tr style="background:#fff5f5;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">ジョン・ジェームズ</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--rep);">R</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">連邦下院議員・トランプ支持で予備選制覇（対ペリー・ジョンソン 49%対35%）</td></tr>
   </tbody>
 </table>
-<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年8月下旬）</h4>
-${_pollTable([['ジョスリン・ベンソン（民主）','D','var(--dem)','45〜47%'],['ジョン・ジェームズ（共和）','R','var(--rep)','41〜47%']],'※ 8/22-28調査はベンソン45%対ジェームズ41%（4ポイント差）。世論調査平均ではベンソンが約6.5ポイントリード。')}
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年10月上旬）</h4>
+${_pollTable([['ジョスリン・ベンソン（民主）','D','var(--dem)','46%'],['ジョン・ジェームズ（共和）','R','var(--rep)','39%']],'※ Mitchell Research調査（10/1、投票見込み層682人）はベンソン46%対ジェームズ39%、未定9%。8月下旬の調査（45%対41%）からリードが拡大。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
-<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党やや優位（Lean D）</strong><br>ミシガンは最大の激戦州の一つ。ウィットマー知事後のオープンシートで、州務長官ベンソン（民主）と下院議員ジェームズ（共和）の対決に。予備選ではガーリン・ギルクリスト副知事が2026年1月に撤退し州務長官選へ転向、ネッセル司法長官も出馬せず、ベンソンが本命候補として勝ち上がった。8月の調査ではベンソンが4〜6ポイント台のリードを維持。上院・下院と並ぶ全国注目の最重要レース。</p>
+<p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：民主党やや優位（Lean D）</strong><br>ミシガンは最大の激戦州の一つ。ウィットマー知事後のオープンシートで、州務長官ベンソン（民主）と下院議員ジェームズ（共和）の対決に。予備選ではガーリン・ギルクリスト副知事が2026年1月に撤退し州務長官選へ転向、ネッセル司法長官も出馬せず、ベンソンが本命候補として勝ち上がった。8月の調査では4〜6ポイント台だったベンソンのリードは、10月のMitchell調査で7ポイントに拡大（Cook評価もLean D）。上院・下院と並ぶ全国注目の最重要レース。</p>
 </div>`,
 
     CA: () => `
@@ -3336,8 +3358,8 @@ ${_sched([['2026年8月18日','予備選（両党）','終了'],['2026年11月3�
     <tr style="background:#f5f5ff;"><td style="padding:4px 8px;border-bottom:1px solid var(--border);">デイビッド・ジョリー</td><td style="text-align:center;padding:4px 8px;border-bottom:1px solid var(--border);"><span class="party-tag" style="background:var(--dem);">D</span></td><td style="padding:4px 8px;border-bottom:1px solid var(--border);">元共和党連邦下院議員・民主党へ転じ予備選勝利（61%）</td></tr>
   </tbody>
 </table>
-<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年8月）</h4>
-${_pollTable([['バイロン・ドナルズ（共和）','R','var(--rep)','44〜47%'],['デイビッド・ジョリー（民主）','D','var(--dem)','38〜46%']],'※ 世論調査平均ではドナルズが約4ポイントリード（44.2%対40.3%）。Hart Research（民主系、8/13）はジョリー46%対ドナルズ45%と逆転を示すなど調査間でばらつきあり。')}
+<h4 style="margin:0 0 8px;font-size:13px;">最新世論調査（2026年9月下旬）</h4>
+${_pollTable([['バイロン・ドナルズ（共和）','R','var(--rep)','46〜51%'],['デイビッド・ジョリー（民主）','D','var(--dem)','39〜48%']],'※ ステットソン大学調査（9/24）はドナルズ51%対ジョリー39%、NBC6/Mason-Dixon調査はドナルズ+7。一方Change Research調査（9/28）はジョリー48%対ドナルズ46%。270toWin平均（3調査）はドナルズ47.0%対ジョリー43.3%。')}
 <h4 style="margin:0 0 6px;font-size:13px;">見通し</h4>
 <p style="font-size:12px;margin:0 0 10px;line-height:1.6;"><strong>評価：共和党やや優位（Lean R）</strong><br>デサンティスの任期満了により2期ぶりのオープン席。共和党はトランプ支持のドナルズ下院議員、民主党は元共和党下院議員から転じたジョリーが本選出馬。FLは2024年大統領選でトランプが13ポイント差で圧勝するなど共和党地盤化が進んだが、8月の調査ではドナルズのリードが1桁台に留まり、当初のLikely Rからやや接戦寄りに修正。</p>
 </div>`,
@@ -4494,22 +4516,24 @@ function drawRaces() {
 }
 
 /* =====================================================
-   UPCOMING SCHEDULE (next 8 weeks from 2026-09-02 → 2026-10-27)
+   UPCOMING SCHEDULE (next 8 weeks from 2026-10-13 → 2026-12-08)
+   ※ 9月の予備選（NH 9/8・RI 9/9・DE 9/15）はすべて終了
    ===================================================== */
 const upcomingSchedules = {
   senate: [
-    { date: '9月8日', state: 'ニューハンプシャー（NH）', event: '上院予備選（両党）— J・シャヒーン D 引退によるオープン席' },
-    { date: '9月9日', state: 'ロードアイランド（RI）', event: '上院予備選（両党）— J・リード D 改選' },
-    { date: '9月15日', state: 'デラウェア（DE）', event: '上院予備選（両党）— C・クーンズ D 改選' },
+    { date: '10月19日', state: 'テキサス（TX）', event: '期日前投票開始 — パクストン R 対 タラリコ D' },
+    { date: '11月3日', state: '全米35議席', event: '本選（一般選挙）— 通常33議席＋OH・FLの特別選挙' },
+    { date: '12月1日', state: 'ジョージア（GA）', event: '決選投票（本選で過半数候補がいない場合のみ）' },
   ],
   house: [
-    { date: '9月8日', state: 'ニューハンプシャー（NH）', event: '下院予備選（両党・全2議席）' },
-    { date: '9月9日', state: 'ロードアイランド（RI）', event: '下院予備選（両党・全2議席）' },
-    { date: '9月15日', state: 'デラウェア（DE）', event: '下院予備選（両党・全1議席・全州区）' },
+    { date: '10月19日', state: 'テキサス（TX）', event: '期日前投票開始（全38議席）' },
+    { date: '11月3日', state: '全米435議席', event: '本選（一般選挙）— 全議席改選' },
+    { date: '12月1日', state: 'ジョージア（GA）', event: '決選投票（本選で過半数候補がいない場合のみ）' },
   ],
   governor: [
-    { date: '9月8日', state: 'ニューハンプシャー（NH）', event: '知事選予備選（両党）— アヨッテ R 再選挑戦' },
-    { date: '9月9日', state: 'ロードアイランド（RI）', event: '知事選予備選（両党）— マッキー D 再選挑戦' },
+    { date: '10月19日', state: 'テキサス（TX）', event: '期日前投票開始 — アボット R 4選挑戦' },
+    { date: '11月3日', state: '全米36州', event: '知事選 本選（一般選挙）' },
+    { date: '12月1日', state: 'ジョージア（GA）', event: '決選投票（本選で過半数候補がいない場合のみ）' },
   ],
 };
 
@@ -4622,6 +4646,9 @@ function getDefaultPanel(chamber) {
     </tr>
   </tbody>
 </table>
+<h4 style="margin:12px 0 6px;font-size:13px;">2026年本選の見通し（2026年10月中旬時点）</h4>
+<p style="font-size:12px;margin:0 0 6px;line-height:1.6;">Cook Political Reportは10月9日に18選挙区の評価を民主党寄りに変更（共和党現職4議席がToss-up→Lean Dなど）。接戦（Toss-up）は21議席（共和党保有15・民主党保有6）。Cookの最有力シナリオは<strong>民主党の純増9〜19議席</strong>（224〜234議席）で、民主党は「Toss-upの2割を取れば過半数に届く」と分析。</p>
+<p style="font-size:12px;margin:0 0 6px;line-height:1.6;">政党別支持（ジェネリック・バロット）でも民主党がリード：Silver Bulletin平均で民主党+8.9（今サイクル最大）、Decision Desk HQ平均（10/11）で+7.5。</p>
 <p style="font-size:11px;color:var(--text-sub);margin-top:8px;">州をクリックすると代表団の詳細を表示します</p>
 </div>`;
   }
@@ -4747,6 +4774,8 @@ function getDefaultPanel(chamber) {
     </tr>
   </tbody>
 </table>
+<h4 style="margin:12px 0 6px;font-size:13px;">2026年本選の見通し（2026年10月中旬時点）</h4>
+<p style="font-size:12px;margin:0 0 6px;line-height:1.6;">民主党が多数派を奪還するには<strong>純増4議席</strong>が必要。Cook Political Reportは10月6日にKS（Lean R→Toss-up）、NH（Toss-up→Lean D）、NC（Lean D→Likely D）の3州を民主党寄りに変更し、「上院過半数は民主党の射程に入った」と分析。Toss-upはOH・ME・AK・IA・MI・TX・KSの7州で、うち6州が共和党保有（MIのみ民主党保有）。民主党が奪取しうる議席は2〜6と見込まれる。</p>
 <p style="font-size:11px;color:var(--text-sub);margin-top:8px;">州をクリックすると選挙情報を表示します</p>
 </div>`;
   }
