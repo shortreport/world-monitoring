@@ -1,186 +1,186 @@
 {
-  "generated_at": "2026-10-15 02:23 JST",
-  "article_count": 72,
+  "generated_at": "2026-10-15 18:22 JST",
+  "article_count": 62,
   "segments": [
     {
-      "badge": "① 米イラン紛争",
+      "badge": "① 米イラン危機",
       "color": "RED",
-      "title": "米イラン戦争の緊張激化",
-      "subtitle": "ホルムズ海峡での攻撃継続、停戦交渉の並行進行",
-      "search_en": "US Iran war Hormuz strait tensions October 2026",
+      "title": "ホルムズ海峡で緊張激化",
+      "subtitle": "船舶沈没・機雷接触でUS-イラン関係が悪化",
+      "search_en": "US Iran Hormuz strait ship sinking tensions 2026",
       "bullets": [
         {
-          "text": "イラン革命防衛隊がホルムズ海峡の米艦艇撃沈を威嚇",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BSVFhLTk0cmt2SXIxeWgtUHR1eENLanJJdFdoZ3lLVUhhcGFqUWlxa3RVQ2hfSUp3OTR1NlB2QkwzQXVHeGtMU2ktcG5MSnRDMkZaTHBFRUppYzA?oc=5",
+          "text": "ホルムズ海峡で船舶沈没、イランが機雷接触を主張し危険な航路通航を指摘",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pMjdVdlZtUV9XY2lobEVteUpqb0ZPV0U1TFFVWTRMUExNWjdGN3g0b0o5R3NfOEYzbER2M1d4bEFGYl9uYTVpdWlmU1lkSDhFTS1WajcxV3ZaTUNsTEZ3SEhwXzB3d1QtSDJXWA?oc=5",
+          "source": "日経"
+        },
+        {
+          "text": "米軍とイラン革命防衛隊が相互に威嚇、イラン海軍司令官が米艦沈没を脅迫",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TTmViamhiWENiS2MtQzRDOWh4VFktNkgzZjEtd2lUZm4xdkxKZ1JfVXFUOS1VZ1V5dmJ2TVl3VGZScmMxNDFHZTliVzBJQ2RVU21Qam1wOTY3WXNa?oc=5",
           "source": "The Jerusalem Post"
         },
         {
-          "text": "米国務省がイランの沈没貨物船攻撃を非難",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbFJYVlRCVUpiNW00eWZRRGtySW9QdzhwUC1YcVIxQ0ZYUUlzUDEtdFhsVlA1V0t1dHpOMHcxdnBoYkNwdnlmeUFFWXpHWjQ5WFBVUWxSdEFCbXN0SUpydGxEamVfWEFFZ3dKVHBvVElkZzZob1hQUksyOTBkZTBjeDQ4b0N3b2x3LUl2NkktbjJuSmQ2MFJxT0p0S0NNY3kwS0N2YW5mWjUzVUF2QmxXNjlKLVNQWmJrb1JlbzNpaS1IaGROVkhXOFNrbC1NQkJJc0VjSFEzZUc4U2g2bl9zX0dPdF9OcG9nWVhVTkI4RmNlX1hFWnVfUNIB_gFBVV95cUxQdktpTGhlVXViRjhfczRXUVhqOElUaUZkV1ZBd1RPaDRENFF0S1NlWENuTzhlaTZyUWdGWHdFbk4yaWVNYml2bzlrZGphUVotVllFSWF2Smp5b2ZDaEREUXQ2NTg5UGtRdHQ3YTNsY1lydU9OeUNLS3l0bHpWMGZ6ajlmNkpDbTVuMVB1dnQ2end2WERnWERYbjBmQ1gzV1FBNkJCMzU2OTFQMFNWQnh1RUhOQVkwQjBwYm8yZkZaVkR4eG5lMm1wMnFXZnFlY1FwRVdvU3NJMkVhYUFjeHI0OEtoU1JneGdKOFJMLUdnaG4xMEFValBMR0lEdjhkdw?oc=5",
-          "source": "ET Now"
+          "text": "仲介者が米イラン会談前に軍事衝突緩和チャネルを構築、外交的対話継続の動き",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGVDQmZ3RHJmLVhMekkySnE3Ujl4MzVIMm92cElTb2lfMGl5dnFXbWJ2VGFzem9tWG5NbVRDR201YWFLcGZlckExZkZBbGtETXVDUzgxZC1oX09wSEtUbHl4TXBXU3lhV1RvbERUOXR3Q1V4VnJXMWIyZDMwMWJ5ZjdLTXhVdmxsUHo5VnBXUzNkcVRLTzJmcDdNMzIxWG_SAa8BQVVfeXFMT3RQbUZxRlduOXUyQTRjT2h5czNnQ0g0ZjFPQkx1WXFkaVNmNkxHNVAxb25mNGFlMkZfTXNCSEZDRmVvNE92dFBNSzlXZl9Mbm9aWEdneG1mZnVTbTZfTDhlVEF2Q2dxSUlRX2dhY3RWeU8tYnRxNmtWM3VXMDBqSzdKaVozQWE0WUR1b3lraUpHNU8zY3NrZVQ3UHhpbWgwRUI0MExTUl9UZFVhSVZWWQ?oc=5",
+          "source": "Gulf News"
         },
         {
-          "text": "仲介者が米イラン停戦協議の前に緩和チャネル設置",
+          "text": "米中間選挙後の戦争再燃可能性を懸念、市場心理悪化で株価・先物が下落",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXNIa2U1UUR0LWlycWxPSmJ6c2FpUmlWWVRzekdSRzBRQWFYZEhPY19fWW9WNGxIQVFFRzhJakFvcXFWWEc5eFpfb1NJLUR0U3drS01SU3BrSTFWa2tsZzE4QlRPZ0kzZFlvSmYtbGQ2NDRYRTdnNHJBSjNoTWxwWmRFRXlmMnVfRVI3NTZiaUgxYlpxWnByWQ?oc=5",
           "source": "Yeni Şafak English"
         },
         {
-          "text": "トランプ大統領が紛争を「近々終了」と表明",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbW9XY1RIS0dyRHREWmRIQThiVmp4RklrTmJlOXhoMHVPcFhMOUNqVzBWY2NqY24xVjh0TTM0YmZDZXJzNDF1WHFkTTdEZHlzTzVuWlRGUHNRNG4zY3NZcnMwQkQ2MlRQMFhCLUY0eG9UVl9VQ245d3d0LVZGMmFzb29mVWJnU3dCREF6azlmbi1IaldNVHZqTFBXWTRrd2hIbUtfTktORE4?oc=5",
-          "source": "EnergyNow.com"
-        },
-        {
-          "text": "米中間選挙後の紛争再燃懸念と金融市場への影響",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuNFJQVk91b1VMdUtZZ3MtN2JiWjVuUjNhRG5jOVdzOWl0QV9Yb3Z2X2E5QTFiZHUtSUM2S0dXUWt6dHFDQjcxOUFZWkw5OEFVQWl2RTJrMVpMMGZvTXNWU3ZFblhqR3BiakE?oc=5",
-          "source": "The Jerusalem Post"
+          "text": "イラン中央銀行総裁が経済崩壊報道を否定、米の経済封鎖下での抵抗姿勢を表明",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3R2bmdjb1lPQ19oRnlZQTR0T0dfZ1hVUXFkNU1xVUhpdmEydXVUdXA0aU5fTW9QT2VGZHZ2Qzl5OFplOEpySEd3Snh5bndPQ0gwa1NLT0xYUlhDeTdJdGVoSXM5VVJzTlVuaUl1eGkwa3hfeHMtSjI2VXkwN1FLN0Rrbk1TdER1cHF2dzdaRmdXVzRKVkF1Wl9EY0d4enM?oc=5",
+          "source": "UA.NEWS"
         }
       ],
-      "risk": "▲リスク：ホルムズ海峡での軍事衝突激化による原油価格急騰と世界経済への波及。停戦交渉難航時は11月中旬の米中間選挙後の軍事エスカレーション。",
-      "context": "背景：米イラン間の経済制裁と報復の応酬が数か月継続。イランの経済破綻主張とUK空軍基地問題も同時進行し、紛争構造が複雑化。"
+      "risk": "▲リスク：軍事衝突がエスカレートして中東全域に波及、原油価格急騰による世界経済への影響。タイムライン：数週間以内に米イラン会談が実施されず対話が破裂した場合",
+      "context": "背景：米イラン間の緊張は2020年代後半を通じて繰り返し高まっており、ホルムズ海峡での海上交通が重要な世界的リスク要因となっている"
     },
     {
-      "badge": "② 台湾防衛政策",
-      "color": "ORG",
-      "title": "米軍新部隊と台湾防衛態勢",
-      "subtitle": "米陸軍新部隊の人民解放軍対抗戦略と台湾の防衛強化",
-      "search_en": "US Army unit Taiwan PLA strategy conflict 2026",
+      "badge": "② 米中デタント",
+      "color": "YEL",
+      "title": "習近平訪米前のAI協力交渉",
+      "subtitle": "深圳でのサミット開催に向け両国が歩み寄り",
+      "search_en": "Xi Trump summit Shenzhen AI agreement talks 2026",
       "bullets": [
         {
-          "text": "米陸軍新部隊が台湾紛争での人民解放軍戦略に対抗",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOenBFNS1xblM4aHJ1dDNmUjc5MXhCbG1JM2pJSzNDcXY4ek1OV3h5NGR4QkVIQjBmc0MwNklxRkdLOWF0aDR5cks4a3ZtblJjLVZYYXFpaG1YNTBWT2lmWW1COU01WEdrUTBlTjZwLW9xNndDVGczbGFYMVFLWlY5eGlfMElRckZ5MjVDQmsyYkxMQ2NOUWhXU2VkdVJQbTlMeTc0WVpYLW0wUldTWTZjZjZzckFaeVUtckxTM0k5dXJseUhraHVsRll5TlZYV1FF0gHQAUFVX3lxTE05YlpoT2J6dllyMkFFZlhieTRsb0JuVFZNVFJzS0c5WGJvTmxCZ2FnckJ0RlZEczFMdVlubFhlc1NRbElmRnRxbFJ6UHJlNEZWT25iR18tbFdNbm94V0hMXzNFamM1c0p0eXRKWHVqSVlMcjRodGFmbS15QmFsXzZ3RThXY2swM2hGbU5ibnRLLUhhMGRXckhuWWNyWUNFYWxScEsxLUhjQnRidDFuNXhUX3AtYUtCbXNyLUcwTk5VZnlOZmlkWDhCVy1TSDZxZUY?oc=5",
+          "text": "中国とUS間でAI分野の協力協定交渉が進展、深圳でのサミット開催が予定される",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR0xtLXo3bVF4SXd1V2Zqb1NtQkxhbUt4ZWJ3djdwRmcyRUE0RnMxOG5idk1YcER0TVRtZVYwLTdIMkdkeVpqS2lfU09XS1pSdGpDOEVOVHE0V2NINnJmRmpQbV9ZeTNvSHpJQlhEelgxSy1oeElfVXljNDdER0dxeXFlRUY4LWU4X3hfZ2pjaVFlYTUxWEg1YVVVam5HSTZVZl9HWUE0R2JHMW5wLUxBWGZRVzg4ajczeXJVM3JCOF9MOFR1bHRBMy12MjZTVWNoUW9pNzJuRGZrYUYtTl92b3N5ZFY4eUU?oc=5",
+          "source": "Agenzia Nova"
+        },
+        {
+          "text": "米中貿易が第3四半期で4.1%増加、両国関係安定化の兆候が見られる",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2ppYjVTdzRNQ0QtWlVlUGdRTTFTTUEtNWtLT3FvWWNQRW1oWVJudXpueU1jdzgxZF9KZkI2LXZWNDB1aXh0d2NocUpfbkh4bXBNaEpOUkl5d3hDeC1OTXFWNVU3Y3NhRWdmWnlieW02Tzd2MDVveFVSSTlzc0pRUnV1dmdhT2c3SV9FU1RYaXVWZ0NYYUMxUHJWMUtuUDZiak02V2NB?oc=5",
+          "source": "The Diplomat – Asia-Pacific Current Affairs Magazine"
+        },
+        {
+          "text": "中国の貿易黒字が過去最高の133.5億ドルに達し、米国・欧州への輸出が急増",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT1hCRDdxMHhSOENpRm1pUzcweG5oME9IdUJZbU5LZnFlazRjbTdrbmt3VUxycHNtbV82c2JwM2VnVWJTdHZJblhiaUQzSjI1RXRuRGRqYjNweTh4WUtxdkhHN3dYMGZJMDhieHJZM2VxOGY3Ui00c19FOEZKcHlGX3llX3o4NDNjZFI2YTJ5Uy12WFpoTlkwb0tvRVZnd3d6T0VWOFpEQXUzbUx4T0pLLTVpN19hYUZRT2hCQnkxUmc4Uy11cFNHbUlrZknSAcwBQVVfeXFMT0JJMHRvcUFqbHFtMWRSRnF1T1htT3Z0TkJzWTN1RV9kZlFMQlBvelVxNWNiLXotamxOMWdJOFVIcXV1Y2ZUdmROcjNGeUlMU3dqVXAtc2J2VlR3bldFbGU0cEFYWUhPT2RpSUk5YzNOaHV4UGh5dlVBdDRVYzNmbGQ4VkgxQ1llZHFuRnd6ZGtYTXBuUWZYaVktWWhiWUFBRUdhSEhsYUxpSVR2LVZael8wTmRQTi1TT28tVVdSUC1EODQ5YzRTOGJKcU1s?oc=5",
           "source": "South China Morning Post"
         },
         {
-          "text": "台湾が中国侵攻困難化のため防衛力強化を推進中",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YN0k2b0hVVFNPUHNYY0FvZUF4U2t5TkZkNTlkSElxaVVxWllXaElmcEljRVpBWVVxdTB4WWplX01kS2R4QU5waElxRlRkWDFmZjRXUUFYclQ?oc=5",
-          "source": "Taiwan News"
+          "text": "危機管理メカニズムの不備がサミット後の課題として指摘、風船問題の再発防止の検討",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ob29uZ3RWenpMcXMtQlJfdUY4dWtZRm0yRDRBeU9hWHY5QThSVUhuNkxjTmY1Zm53QnJzUmhWV3JnVjdsUW10ajNOMHpOT3g2eG04UUlVTTZnc2FzTUJ3T0d3?oc=5",
+          "source": "Global Times"
         },
         {
-          "text": "台湾とトランプ政権がアラスカ液化天然ガス協力を確認",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSVFzUmNUYUUwYWRSUFZ6TkNSQWd1Y1JMLUczcVd5U1B2OTN5enFiS2JoMlVXWENiamhzdGZIdGEwRkg3dk1INzdWOW5venN4c2ZOWDhLY0FnQVduWFdPSzdud3lpMmdNN1J6SkVJbUxROEd6VklNQl9yR3lFTi1lQmxhN1NxQ2ZXTXFMcjZYYWhOeGJTUE83cFBobEJ6YXlfRjl3M0RuUDN2UTZ4VnFURG1nd2hlSFFsbFB0c3d0ajRNV0hyN0tDMXB3?oc=5",
-          "source": "Nikkei Asia"
-        },
-        {
-          "text": "中国が台湾への公式な米国交流を非難",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85bV9IcmE4dF9PVm9rTXRsdVZxSHIzUHM0MDZSdGtvMjV0X3lSdmpYd0Y2akYwY0F0dnhYMjBRMERDd204MlBIYzRCMVlUZlhudlJYNjR4SlVIQ3BHcWIydkI0QlpyT3VXLXE2TkJiNk5waWtWaXRJ?oc=5",
-          "source": "Taipei Times"
-        },
-        {
-          "text": "台湾チップ産業のサプライチェーン寸断リスク警告",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2dPbTNhamhPT3c5dkJ6T0tCYTJIRmNfRFVIRjA0aTJQaVJOZkc5Q29SYk5JLXZjT1kxbVNIX1pxb2ZiMjJDdXZhSXB3V0NtaXFhUWV4elI2UXpVUk15YTBLWkIyeklnbFkzc0tUR2lZQVdJMWlXcHN2ZjFqYjdUSm02ckstS0xtdk5pQUxXS0NfUHFVNUpJYnRfM2hidWNuRmI0M3FfMmkzX0ZKZkg1Y1pQZV9GREY3OXRzUVUxa3cwQmxneWJpRg?oc=5",
-          "source": "CGTN"
+          "text": "米国の対中追加関税による報復措置が検討段階にある一方で協議継続の可能性",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PRncwbFlDR01WZWdmWjZiV0tYdmlRVjdHSG5xX0c4YXR1R0dsSWx5UW8tbVZuMGk5QnFkbTVWUW9OYV9mNEU4dHYtenQzQ0ZkYWI3d1dkOXlLZkFKeURMMmtYRklVRUEwTGtvSUlwZw?oc=5",
+          "source": "The Diplomat – Asia-Pacific Current Affairs Magazine"
         }
       ],
-      "risk": "▲リスク：米国の防衛態勢構築が中国を軍事的に刺激、2027年以降の台湾海峡での偶発的衝突が懸念。欧州議会の台湾支持表明もこれを加速。",
-      "context": "背景：中国がパラグアイとベリーズの台湾承認関係者に経済制裁を実施。米国がこれに対抗し、米台実質関係の強化を加速。台湾半導体産業の戦略的重要性を背景に。"
+      "risk": "▲リスク：AI規制をめぐる両国の利益相反が解消されず交渉が決裂、トランプ政権の強硬路線転換により関税戦争が再燃。タイムライン：11月中間選挙後の米国政治変化が影響",
+      "context": "背景：2024年の関係改善後、2026年は初の首脳サミット開催で象徴される米中デタントが継続しているが、構造的な競争対立は根深い"
     },
     {
-      "badge": "③ 中国制裁外交",
-      "color": "YEL",
-      "title": "中国がラテンアメリカ官僚に制裁",
-      "subtitle": "台湾承認国に対する経済・外交圧力で米国と対立",
-      "search_en": "China sanctions Paraguay Belize Taiwan diplomacy 2026",
+      "badge": "③ 日米半導体投資",
+      "color": "GRN",
+      "title": "対米投融資で5.6兆円規模",
+      "subtitle": "日本政府が半導体工場建設に大規模支援決定",
+      "search_en": "Japan US semiconductor investment Texas New York 2026",
       "bullets": [
         {
-          "text": "中国がパラグアイとベリーズの台湾関係官僚に経済制裁実施",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbTd5U19HRnp1dUhkb2hqaV9wcmV3YkIyMEhONWc3YzVscG9SdWQtS01pX0JOV2NQVDZ2QzhQRHFrMlE5eVVrbFNuNmV2TVRnM29nUnI4bXNmVWd2SThXS1pISVZ1S1dVNW9PdTBHWXRld0tzekpSRERiUjZhM0NMYm5WNnVsZHVhS2FQNU9iWnVEX2JqUHdCVVhEX3M4VHl4UjBiXy04a2ZwR0w5blZMbW5PZnFIbGV1UmdRZTFCbHAweDRwZndB?oc=5",
-          "source": "Latin Times"
+          "text": "日米両政府が半導体工場建設に2兆円規模の対米投融資を発表、米ニューヨーク州では3兆円投資による新工場を決定",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Zb0paeFhFSFVXcm5oanNKbURIbXh5VFVTdUtMRnp0THVKaEhXYjlkZERGYmxUaGlGVkUyc0tUNkFDcTBEOFVpTUUyNTFOZkxCdzNnSTBjYWxfNXJGeFBWX1o4WDhxVE9VdTlqSg?oc=5",
+          "source": "日経"
         },
         {
-          "text": "米国が両国への支持声明を発表し対抗姿勢を示唆",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVNRejl6Sm8zcnJCRHU2WlNyQy1nVzU3RkpQTWlBeTBGX2JhT1N4cTBNbzIwS01DOFU4S2d2bXUtaWk3WThpcnlvdjk0REZvTTVyaGVxamFXOTJGNFpGMU5uZDlKRkdpVlpCdlNDMlowc3RjSERZZFZuRTdvQ2ROS3ZHQzdhMDlObHVSLURfbzNjYTVNVE5uYlRoakhkQ2VNU0NzLTdSakdOdHFTTGtFSWZ1cnU?oc=5",
-          "source": "Modern Diplomacy"
+          "text": "第3弾として1.6兆円の追加投融資を確定、東京エレクトロン・東京応化工業が参画予定",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82LVZmSG54U3Q0aHhKck52UHdoYUFGUERLb2c0V0hLMlVkdEZ5U1k1VHFmV1dOdm11ZHBwbHYxTzFvVnQ4VEc5V3puTEVVY2hTS1VBNnFaY0pscXZwemYxRy1vc3UzRmNsLWZBdw?oc=5",
+          "source": "日経"
         },
         {
-          "text": "パラグアイとベリーズが中国制裁を正式に非難",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hVzV3UHRZa2pmdGZUWWFDa0Y5Y2hoSFRzR1BiWWg0MWF6UUFzS09qLUlqSXlLN2hjdk1YX1RfLVQzUjZBV3NwNTExNzhLX2k2d2NBN2pGd3JYRldaOTNuZVJKYkt1U3M?oc=5",
-          "source": "天下雜誌"
-        },
-        {
-          "text": "米中台湾外交の信号送信の齟齬を指摘",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwZGhEaTR3aktuaGtMcnRWN1R0bVZQS2lmejh0NVlBOGdtRE5xZDJNclVXb2tJNUJDWTVKQ1NldnNYUk42LUFfS1o2Uzdrc0ZKM2QzNldWY1hMdHdmT0o1NjMxZmRVbzJYRjZVUFF2VGh2ZDRobHBXaw?oc=5",
-          "source": "Taipei Times"
-        },
-        {
-          "text": "米国のラテンアメリカでの影響力維持戦略が対立軸に",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbm5zWEM5WVpLNkxSUDN6alBqRnBBYzJvYzFPRGJrZVY2VmZjZW9lcll1X1RGSmRGWl8yR1JxSzFHNTkyVDcydkZIZkhTR0JUeTZSYWZKTnRDN0tGaU05aGNqOW5PUXlibnhOV2JDeUlLSXdod3oyRDIwbDluX2RmZW1oSnFMdGhpYzRNeFczR3lWc0hMcmFQbEdpTkZINDBrbmJMTGhqTG52QTFZN2h0UUtNcFhtQW5sYThuYUhSODFBUy1OeHhhTC1VcUJQWmM?oc=5",
-          "source": "The Washington Post"
-        }
-      ],
-      "risk": "▲リスク：中国のラテンアメリカ制裁が台湾の国交国をさらに減少させ、国際的孤立が加速。2026年中の新たな国交破棄リスク。",
-      "context": "背景：台湾が中米地域で残存する数少ない国交国を維持。米国も台湾支持を外交的優先課題に位置付け、中国との台湾問題での直接対立が深刻化。"
-    },
-    {
-      "badge": "④ 日米半導体投資",
-      "color": "CYAN",
-      "title": "日米が2兆円規模の半導体投資",
-      "subtitle": "日本の対米投融資で米国内工場建設計画を発表予定",
-      "search_en": "Japan US semiconductor factory investment 2 trillion yen",
-      "bullets": [
-        {
-          "text": "日米両政府が2兆円規模の半導体工場建設を近く発表予定",
+          "text": "テキサス州への工場進出をTSMCが検討中、マスク氏のテラファブ構想との協議も進行中",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JVUZGWFZFallnM1hRUzBMSlhsb2NEaHliRTZZZGhsTEpHWG40NkJpVm5lVERlTml5WUJZUzBlR1dfdEh5MnU5Y2piRUcyZlFwNWVSWEJKSGJLZy1PR2RmMThPVzhGdE1nU1gzTQ?oc=5",
           "source": "日経"
         },
         {
-          "text": "対米投融資スキームを活用した米国内での先端製造拠点化",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3JPakJFUFIxcjhYNnJqSFNscXpBeXkyRVl2MEZNN3RUM01vTmJhdDRJSV9IckdFQ21PNG5SRVh3TDJyQzZzQXJrVy1iQWxjenMzWDZmajlsekdRdTJueHQzVksxSlV3RGk1bzAyUmxMWC1ZNDhmalY0VDRkQ2dJUkQySjJqNklVUXJXYllwaFhJNXNiYkhZMjhDZ3FvVE5sNndycTM5UFhyLWUwMHFXMW54S2MxaEFCQ2JRTHVR?oc=5",
-          "source": "Freeman Spogli Institute for International Studies"
+          "text": "日本企業による米国への大規模半導体投資は米国の産業基盤強化とインド太平洋戦略の一環",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JVUZGWFZFallnM1hRUzBMSlhsb2NEaHliRTZZZGhsTEpHWG40NkJpVm5lVERlTml5WUJZUzBlR1dfdEh5MnU5Y2piRUcyZlFwNWVSWEJKSGJLZy1PR2RmMThPVzhGdE1nU1gzTQ?oc=5",
+          "source": "日経"
         },
         {
-          "text": "米国の自国半導体産業強化戦略と日本の技術基盤統合",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tVWpCNm9GdXpMTXV1aUtDNS1icU9LaVlXN0oyMnloTjlBZmQzVDAtdUZXanRRVklKYVFtOGg5R0RROUJHRldUTFFzVng3MVJLNmhHVXZBUXVRVjBYUGxV?oc=5",
-          "source": "笹川平和財団"
-        },
-        {
-          "text": "スタンフォード大学での日米学生交流プログラム拡大継続",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tVWpCNm9GdXpMTXV1aUtDNS1icU9LaVlXN0oyMnloTjlBZmQzVDAtdUZXanRRVklKYVFtOGg5R0RROUJHRldUTFFzVng3MVJLNmhHVXZBUXVRVjBYUGxV?oc=5",
-          "source": "笹川平和財団"
-        },
-        {
-          "text": "トランプ政権による同盟国へのCEO脅迫戦術への日本の対抗",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tVWpCNm9GdXpMTXV1aUtDNS1icU9LaVlXN0oyMnloTjlBZmQzVDAtdUZXanRRVklKYVFtOGg5R0RROUJHRldUTFFzVng3MVJLNmhHVXZBUXVRVjBYUGxV?oc=5",
-          "source": "笹川平和財団"
+          "text": "対米投融資の継続により日本は米国依存度を高め、台湾有事時の供給チェーン多元化を実現",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JVUZGWFZFallnM1hRUzBMSlhsb2NEaHliRTZZZGhsTEpHWG40NkJpVm5lVERlTml5WUJZUzBlR1dfdEh5MnU5Y2piRUcyZlFwNWVSWEJKSGJLZy1PR2RmMThPVzhGdE1nU1gzTQ?oc=5",
+          "source": "日経"
         }
       ],
-      "risk": "▲リスク：トランプ政権の保護主義的関税政策により、米国の半導体投資政策が政権交代で方針転換の可能性。2026年末の中間選挙結果に依存。",
-      "context": "背景：米国が中国との半導体技術競争で劣位克服を急務と認識。日本の先端技術と投資能力への期待が高まり、日米同盟の経済的結合強化が進展。"
+      "risk": "▲リスク：米国政治の変化による投融資条件の見直し、中国による報復的規制措置。タイムライン：2027年中の工場着工段階での政治的・規制的障害の発生可能性",
+      "context": "背景：台湾有事の危機感とインド太平洋での米国の経済・安保重視により、日本の対米投資が戦略的に拡大している状況"
     },
     {
-      "badge": "⑤ 中国EV・自動車戦争",
-      "color": "GRN",
-      "title": "中国EV勢が欧州・カナダに攻勢",
-      "subtitle": "比亜迪のフランス進出計画と各地での関税対立",
-      "search_en": "China BYD France electric vehicle Europe tariff 2026",
+      "badge": "④ TSMC決算・戦略転換",
+      "color": "ORG",
+      "title": "TSMC純利益68.7%増で最高益",
+      "subtitle": "AI需要好調、米テキサス州進出も検討開始",
+      "search_en": "TSMC earnings profit AI demand Texas expansion 2026",
       "bullets": [
         {
-          "text": "比亜迪（ビヤディ）がフランスの新工場建設を検討中",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUDhBQ1dJVmx1a0xDeWtaVG9WSlhqUE5WYmlYRVNnTzZoUUdRX3BacElJWTN0Q3owMW96WEdqSmQyalhyOF8zQTJXQWZCc2pGUXFkbWs1bzJKV19MdnBtNlZGeUYyMzBDc1Z4YzBlQzVDV2Z3SFpEMTE0cEhBV2dqTVpPaEVLV3NJSm5OQXpPWlRKeVpPQkFnNUVSSVhyc0VxLW9XeFpyY1ZrQdIBqgFBVV95cUxQUDhBQ1dJVmx1a0xDeWtaVG9WSlhqUE5WYmlYRVNnTzZoUUdRX3BacElJWTN0Q3owMW96WEdqSmQyalhyOF8zQTJXQWZCc2pGUXFkbWs1bzJKV19MdnBtNlZGeUYyMzBDc1Z4YzBlQzVDV2Z3SFpEMTE0cEhBV2dqTVpPaEVLV3NJSm5OQXpPWlRKeVpPQkFnNUVSSVhyc0VxLW9XeFpyY1ZrQQ?oc=5",
-          "source": "Qatar Tribune"
+          "text": "TSMCが7〜9月期決算で純利益68.7%増を報告、AI需要旺盛で過去最高益を更新",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EM2l5blNlZUxvY0lWT05LaUZaS2JzLXBTNGFCeTNseEpRQTdiZEYzMWFpa1VCQ09WWnpqeVo2UDZwV3ZSTGZWYTZuNEtzQmJhdXdNdG9QanBsSW94cDdYdDFOUFI1cWl1eUl1Vw?oc=5",
+          "source": "日経"
         },
         {
-          "text": "英国が欧州の中国車関税引き上げ圧力に異議を唱え",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR21lUXc0OTl6ZDBjQUViZW9oV1FqWUdrVlFoWU0yMWloOTlPNUZlc0YycDh1bXlqYnc0eUhnbklmaWZVS0w2SzRLaHE5VVJtNU9na0JXa2NiRW5JcjFwN0hERWI0LXoyeGN6SG1DYVZuX0NCQkNNUm5HZHNKR0pqcmRtNHlJYS1DNlo0TlpXSjRCeGZNeXFoeEY3Z3ZNSVhmRnJBVFZn?oc=5",
-          "source": "The Telegraph"
+          "text": "テキサス州への進出をTSMCが検討中、米国リスク軽減と対中国牽制の戦略的転換",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5OE5VbEhHM1BSMDB0TzIyMVEyTmVRM01zaFROOS1uS05nVzI5eTFFdWRsRzktT1RUcjhxNzMzYWhodWF0S2p2WFRmZXloMjg4TEp6ckdjMkx4LTF3T1pnNnU2N1c0a3NoLUtJVA?oc=5",
+          "source": "日経"
         },
         {
-          "text": "欧州メーカーがパリモーターショーで中国EVと競争激化",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR09mTVhjWWEtLU9ZbmRPZmdLcE81LThWdF9tT3YwUG5Xb0JNMWFoUW9KTUUwamZ1elhwVWdGemc4eE5XTXY5ZlRNSGt6bDlrR3VKSnRnVUd2VzB1Q291OFFKVWIyX0FKRHFiWG1HTmxrYmJLZGRTNS0wcGZmR3hlUlZxTU9lbEhMbjI3emhjODktdDlITDBKVmx5ZzdZdEZ5NERqZzN4YTRQWFJGaXNwS1R0RVNLaGNxZnZiUXhR?oc=5",
+          "text": "中国は台湾国慶日後に5つの海域で軍事演習を実施、台湾への圧力を継続",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTcWRrSHd4TDRvVzctQ0o2STFPT2FDaExCSzlPQnpzNkZiVGpoaU92d1VKUTBIZ1otenB4R1FvejRRd3h5QXpnakk3N1VjZFpiWWNDMFJ2OWRVWWdDRWlNeGtaaXMya2luNGZfTw?oc=5",
+          "source": "日経"
+        },
+        {
+          "text": "台湾株が5日ぶりに反発、TSMC決算控えでAI関連銘柄に押し目買いが入る",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbzZWSGhvRW5NeWVVSjVoRUp1MW5Qa3lqVXRqWDJMcE9DcUVhaGJXYnNRLS1yN0syWUlJRURmZFZndXVwSlhPdXM4LXhhMU1Wa1FGT1oxcElXeWpYazJrUWZ6RmFlV3FfR1MtRE0wREw1SVg5aUlvekJPTmdfSUN1RUtUdmFSZkc1VjhzaDMyRVdsZ0lvcHNZQ21RWQ?oc=5",
+          "source": "NTD News"
+        },
+        {
+          "text": "米半導体株の下落が日経平均株価の重荷になる一方、TSMC株は機関投資家による買いが継続",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbzZWSGhvRW5NeWVVSjVoRUp1MW5Qa3lqVXRqWDJMcE9DcUVhaGJXYnNRLS1yN0syWUlJRURmZFZndXVwSlhPdXM4LXhhMU1Wa1FGT1oxcElXeWpYazJrUWZ6RmFlV3FfR1MtRE0wREw1SVg5aUlvekJPTmdfSUN1RUtUdmFSZkc1VjhzaDMyRVdsZ0lvcHNZQ21RWQ?oc=5",
+          "source": "NTD News"
+        }
+      ],
+      "risk": "▲リスク：米国への進出が中国による報復的制裁を招く、AI市場の需要鈍化による利益減速。タイムライン：2027年以降のAI投資サイクルの調整局面で影響",
+      "context": "背景：台湾有事の可能性と米国による台湾半導体企業への地政学的圧力が、TSMCの経営戦略・生産拠点多元化を急速に進めている"
+    },
+    {
+      "badge": "⑤ 台湾の地政学的孤立化",
+      "color": "ORG",
+      "title": "米撤退懸念と中国圧力の両面化",
+      "subtitle": "台湾が米国のインド太平洋関与縮小を警戒",
+      "search_en": "Taiwan US retreat Indo-Pacific China pressure 2026",
+      "bullets": [
+        {
+          "text": "台湾がUS撤退によるインド太平洋での影響力低下を危機感を持って警戒、地域の安全保障に懸念",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOenBFNS1xblM4aHJ1dDNmUjc5MXhCbG1JM2pJSzNDcXY4ek1OV3h5NGR4QkVIQjBmc0MwNklxRkdLOWF0aDR5cks4a3ZtblJjLVZYYXFpaG1YNTBWT2lmWW1COU01WEdrUTBlTjZwLW9xNndDVGczbGFYMVFLWlY5eGlfMElRckZ5MjVDQmsyYkxMQ2NOUWhXU2VkdVJQbTlMeTc0WVpYLW0wUldTWTZjZjZzckFaeVUtckxTM0k5dXJseUhraHVsRll5TlZYV1FF0gHQAUFVX3lxTE05YlpoT2J6dllyMkFFZlhieTRsb0JuVFZNVFJzS0c5WGJvTmxCZ2FnckJ0RlZEczFMdVlubFhlc1NRbElmRnRxbFJ6UHJlNEZWT25iR18tbFdNbm94V0hMXzNFamM1c0p0eXRKWHVqSVlMcjRodGFmbS15QmFsXzZ3RThXY2swM2hGbU5ibnRLLUhhMGRXckhuWWNyWUNFYWxScEsxLUhjQnRidDFuNXhUX3AtYUtCbXNyLUcwTk5VZnlOZmlkWDhCVy1TSDZxZUY?oc=5",
           "source": "South China Morning Post"
         },
         {
-          "text": "中国が欧州とのハイブリッド・EV貿易合意を支持表示",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hRVM4TG5uUjdUTkxhbUZyeTk5dWdCc201QmF3UGltYkdyN1dwS2pfUFpIaVRDSmIwU056NVRrVUtCb1J3QzY0T1g1NWhGdmt5SkwxdkR5TnI3cHFjZ0RFSUF3?oc=5",
-          "source": "Global Times"
+          "text": "米軍の新しい陸軍部隊が人民解放軍の台湾作戦能力に対抗する可能性が報道される",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkRhYlJJZnZQb1lFdmJjMlRTRHFWN0NfS0FJS1FGdl9wWlB0ZFZua3pIXzJMMm53M1pLbUNYRjI3Y05SQ2NFRi1ld3p6NE15cEZsSmFaYVJFQTlBeUdPeXl3bDJaTGJvMWFIR1hNT1RfNGdXQS1NSWdHUm1IdFJGOWdFNzMyNWdYaFdmNVZ5UUlzblJFLV83QTlXa2xLUHVJVzhFNjVBMkhGQdIBqgFBVV95cUxONFZFNDBrZ3UyTnBTY1JRUWxpN0pnM0lLZVQtYm1rSEl0RDBWcTNFR3VpTzBLNW1LTzVQdVl2aGRyaTVMOWlodjQ5NEotVGpuUWh6YlJqbE1WaF9ZanRhZmFsWmxUWEFkSFgzX1ZGSFRGZzBBMVEwOEhIdmJCSG9KNWg5Q1hndVgwYUYyU3VmbVN5UW4zYTZzNExKQmlYVDRfaDBEOWVzZUVkQQ?oc=5",
+          "source": "South China Morning Post"
         },
         {
-          "text": "カナダがEV規制廃止でEV市場競争の緩和へ転換",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CV2tVVTJYZmh1c2RLT1JPbkgwWlY1WFVVQ1VqWnVvMlBXdGdwV2s3akZrR2VJR0UwSEpvcktvRm5pVmU2MldHVlFlNkFESjdLM0Fn?oc=5",
-          "source": "36Kr"
+          "text": "若い日本人がトランプの米国を中国以上に脅威と認識、米国内向き傾向への不安",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xWlliekpkLUNLb253MmxpRkMweUZXNWFDbkRRdzA5MFZOd2xYSWZ1WGd0dC1GdTJzT214cWhlVG15dUFWamtuTk8yR19fbloyTGlNMVA2MkE?oc=5",
+          "source": "Taiwan News"
+        },
+        {
+          "text": "中国が台湾国慶日後に多数海域での軍事演習で軍事包囲姿勢を強化、経済封鎖と軍事圧力の二重戦略",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbzZWSGhvRW5NeWVVSjVoRUp1MW5Qa3lqVXRqWDJMcE9DcUVhaGJXYnNRLS1yN0syWUlJRURmZFZndXVwSlhPdXM4LXhhMU1Wa1FGT1oxcElXeWpYazJrUWZ6RmFlV3FfR1MtRE0wREw1SVg5aUlvekJPTmdfSUN1RUtUdmFSZkc1VjhzaDMyRVdsZ0lvcHNZQ21RWQ?oc=5",
+          "source": "NTD News"
+        },
+        {
+          "text": "米国がパラグアイ・ベリーズへの中国制裁に対抗、台湾の外交パートナーの支持維持に苦心",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbzZWSGhvRW5NeWVVSjVoRUp1MW5Qa3lqVXRqWDJMcE9DcUVhaGJXYnNRLS1yN0syWUlJRURmZFZndXVwSlhPdXM4LXhhMU1Wa1FGT1oxcElXeWpYazJrUWZ6RmFlV3FfR1MtRE0wREw1SVg5aUlvekJPTmdfSUN1RUtUdmFSZkc1VjhzaDMyRVdsZ0lvcHNZQ21RWQ?oc=5",
+          "source": "NTD News"
         }
       ],
-      "risk": "▲リスク：比亜迪のフランス進出が実現すれば欧州内での関税紛争激化。英国の独自対応がEU統一戦略を分断、報復措置の可能性は2026年末以降。",
-      "context": "背景：中国のEV産業が価格競争力で欧米メーカーを圧迫。保護主義と自由貿易の対立が激化し、各国が個別対応を進める混乱状態が継続中。"
+      "risk": "▲リスク：米政府のコミットメント信頼性喪失により台湾の独立派活動が活性化・中国による軍事侵攻のハードルが低下。タイムライン：米中首脳会談後のシグナル内容如何で2027年中の軍事衝突リスク高まる可能性",
+      "context": "背景：トランプ政権の不確実な対台湾姿勢とAI・半導体産業の戦略的重要性により、台湾は米国依存と中国圧力のジレンマに直面している"
     }
   ]
 }
