@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-10-15 14:14 JST",
+  "updated_at": "2026-10-15 14:17 JST",
   "total": 50,
-  "toyota_summary": "The EU and China reached a deal on October 9 restricting Chinese hybrid vehicle imports to roughly half their 2026 levels, but European officials signaled this is a tactical move rather than a shift in broader trade posture. The agreement buys time while Brussels pursues deeper industrial policy changes, suggesting tariffs and market access barriers will remain contentious. This matters because the auto industry faces a fracturing global trade landscape: the EU is tightening rules on what qualifies as European-made vehicles while the incoming Trump administration is expected to reshape the USMCA, and center-right EU lawmakers are already revolting against the bloc's flagship industrial accelerator law. Watch whether the EU's Industrial Accelerator expands to include Turkey, which would signal how far Brussels will go to build manufacturing coalitions outside China.",
+  "toyota_summary": "EUと中国は12月より、中国製ハイブリッド車およびPHEVの輸入を2026年水準のおよそ半分に抑制することで合意し、欧州自動車メーカーへの圧力を緩和した。しかし欧州委員会は貿易政策全般の引き締めを依然として進めており、新たな関税や調達制限が導入される公算が大きいことから、今回の緩和措置は限定的かつ一時的なものにとどまる。\n\n欧州委員会は、航空会社や燃料生産者からの反発にもかかわらず、2030年のe-SAF義務化方針を堅持している。一方、自動車業界のロビー団体はIAA（国際モビリティショー）前に排出目標をめぐる早期妥協を求めており、業界への規制圧力が今後も続くことを示唆している。\n\n参考情報として、USMCAに関するシナリオ分析、吉利（ジーリー）のカナダ市場参入、トヨタの中国における提携、そしてEU産業加速化法をめぐる対立についても併せて提供する。",
   "emails": [
+    {
+      "ts": "20261015_1400",
+      "sender_norm": "POLITICO",
+      "subject": "Commission shields e-SAF ahead of ReFuelEU revision",
+      "subject_en": "Commission shields e-SAF ahead of ReFuelEU revision",
+      "html": "data/pdfs/20261015_1400_Commission_shields_e-SAF_ahead_of_ReFuelEU_revisio.html",
+      "pdf": "data/pdfs/20261015_1400_Commission_shields_e-SAF_ahead_of_ReFuelEU_revisio.html",
+      "summary_en": "The European Commission has rejected airline industry pressure to delay or weaken the ReFuelEU mandate requiring synthetic sustainable aviation fuel (e-SAF) by 2030, insisting penalties for missed targets remain in place even as fuel producers warn of supply shortfalls. Separately, the U.S. is threatening penalties against Spain over port access for U.S.-flagged vessels, while Europe's auto industry lobby is pressing EU policymakers for a swift compromise on emissions targets ahead of the IAA.",
+      "summary_ja": "欧州委員会は、合成由来の持続可能な航空燃料（e-SAF）に関するReFuelEU規制の目標を2030年に向けて緩和・延期するよう求める航空業界の要請を却下し、燃料供給不足への懸念にもかかわらず未達成時の罰則を維持する方針を示した。また、米国はスペインの港湾が米国籍船の入港を拒否したとして制裁措置を提案しており、欧州の自動車業界団体はIAAを前に排出目標をめぐる早期の妥協をEUの政策担当者に求めている。",
+      "summary_pdf": "",
+      "date_label": "OCT 15  14:00",
+      "read_min": 11,
+      "toyota": true,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261015_1333",
+      "sender_norm": "POLITICO",
+      "subject": "Costa’s moment of truth",
+      "subject_en": "Costa’s moment of truth",
+      "html": "data/pdfs/20261015_1333_Costa’s_moment_of_truth.html",
+      "pdf": "data/pdfs/20261015_1333_Costa’s_moment_of_truth.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 15  13:33",
+      "read_min": 15,
+      "toyota": false,
+      "excerpt": ""
+    },
     {
       "ts": "20261015_1317",
       "sender_norm": "Jetro",
@@ -11,7 +41,12 @@
       "date_label": "OCT 15  13:17",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Announcement of New JETRO Regional and Analysis Reports (October 15, 2026 Issue)",
+      "html": "data/pdfs/20261015_1317_ジェトロ地域・分析レポートの新着のご案内（2026年10月15日号）.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261015_1317_ジェトロ地域・分析レポートの新着のご案内（2026年10月15日号）_en.pdf"
     },
     {
       "ts": "20261015_0834",
@@ -21,7 +56,12 @@
       "date_label": "OCT 15  08:34",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Oct 14th, 2026",
+      "html": "data/pdfs/20261015_0834_Daily_Research_Summary_-_Oct_14th,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_0723",
@@ -31,7 +71,12 @@
       "date_label": "OCT 15  07:23",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Israeli election outlook",
+      "html": "data/pdfs/20261015_0723_Israeli_election_outlook.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_0433",
@@ -40,6 +85,26 @@
       "pdf": "data/pdfs/20261015_0433_AI_will_accelerate_biotech_development_as_regulati.pdf",
       "date_label": "OCT 15  04:33",
       "read_min": 13,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "AI will accelerate biotech development as regulation lags",
+      "html": "data/pdfs/20261015_0433_AI_will_accelerate_biotech_development_as_regulati.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261015_0430",
+      "sender_norm": "POLITICO",
+      "subject": "US weighs $200,000 fine on Spanish vessels following Israel cargo ban",
+      "subject_en": "US weighs $200,000 fine on Spanish vessels following Israel cargo ban",
+      "html": "data/pdfs/20261015_0430_US_weighs_$200,000_fine_on_Spanish_vessels_followi.html",
+      "pdf": "data/pdfs/20261015_0430_US_weighs_$200,000_fine_on_Spanish_vessels_followi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 15  04:30",
+      "read_min": 2,
       "toyota": false,
       "excerpt": ""
     },
@@ -51,7 +116,12 @@
       "date_label": "OCT 15  01:56",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Costlier debt, less room for the next shock",
+      "html": "data/pdfs/20261015_0156_Costlier_debt,_less_room_for_the_next_shock.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_0143",
@@ -61,7 +131,12 @@
       "date_label": "OCT 15  01:43",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How to watch the EU leaders’ summit like a pro",
+      "html": "data/pdfs/20261015_0143_How_to_watch_the_EU_leaders’_summit_like_a_pro.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_0138",
@@ -71,7 +146,12 @@
       "date_label": "OCT 15  01:38",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Saudi Arabia: Major Houthi oil strike unlikely",
+      "html": "data/pdfs/20261015_0138_Saudi_Arabia__Major_Houthi_oil_strike_unlikely.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_0055",
@@ -81,17 +161,27 @@
       "date_label": "OCT 15  00:55",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Strong inflation numbers leave Democrats in the driver's seat",
+      "html": "data/pdfs/20261015_0055_Strong_inflation_numbers_leave_Democrats_in_the_dr.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_0038",
-      "sender_norm": "Timothy",
+      "sender_norm": "Timothy Puko",
       "subject": "Minerals race: Even Australia feeling the squeeze",
       "pdf": "data/pdfs/20261015_0038_Minerals_race__Even_Australia_feeling_the_squeeze.pdf",
       "date_label": "OCT 15  00:38",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Minerals race: Even Australia feeling the squeeze",
+      "html": "data/pdfs/20261015_0038_Minerals_race__Even_Australia_feeling_the_squeeze.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_0032",
@@ -101,7 +191,12 @@
       "date_label": "OCT 15  00:32",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US Politics Update with Former Treasury Deputy Secretary Derek Theurer - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261015_0032_US_Politics_Update_with_Former_Treasury_Deputy_Sec.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_0031",
@@ -121,7 +216,12 @@
       "date_label": "OCT 15  00:29",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Deadly drone strikes in NATO waters raise stakes for Black Sea trade",
+      "html": "data/pdfs/20261015_0029_Deadly_drone_strikes_in_NATO_waters_raise_stakes_f.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_0005",
@@ -131,7 +231,12 @@
       "date_label": "OCT 15  00:05",
       "read_min": 6,
       "toyota": true,
-      "excerpt": "10月9日の合意により、EU は中国からのハイブリッド車輸入を2026年レベルの約半分に制限する"
+      "excerpt": "10月9日の合意により、EU は中国からのハイブリッド車輸入を2026年レベルの約半分に制限する",
+      "subject_en": "EU, CHINA: Hybrids deal won’t stop gradual EU trade policy tightening",
+      "html": "data/pdfs/20261015_0005_EU,_CHINA__Hybrids_deal_won’t_stop_gradual_EU_trad.html",
+      "summary_en": "The EU and China have agreed to cap Chinese hybrid and plug-in hybrid vehicle imports at roughly half of 2026 levels, effective December, offering some relief to European automakers after a surge in shipments this year. However, the deal addresses only one narrow segment and won't halt Brussels' broader push to tighten trade policy, including likely new tariffs on machinery and chemicals and curbs on Chinese access to EU procurement and state aid. Beijing's willingness to accept the cap reflects its desire to avoid a wider trade dispute with the EU, even as European firms continue losing ground in China and other markets.",
+      "summary_ja": "EUと中国は、今年急増した中国製ハイブリッド車・プラグインハイブリッド車の輸入について、2026年水準の約半分を上限とする合意に12月から達し、欧州の自動車メーカーに一定の猶予を与えた。しかしこの合意は限定的な分野に留まり、EUが進める機械・化学分野への関税拡大や、調達・補助金制度における中国企業排除といった通商政策の段階的強化を止めるには至らない。北京がこの上限受け入れに応じた背景には、EUとのより大きな貿易摩擦を避けたいとの思惑があるとみられ、一方で欧州企業は中国など他市場でシェアを失い続けている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_2327",
@@ -141,7 +246,12 @@
       "date_label": "OCT 14  23:27",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Lufthansa beats Air France-KLM in bid for TAP stake",
+      "html": "data/pdfs/20261014_2327_Lufthansa_beats_Air_France-KLM_in_bid_for_TAP_stak.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_2134",
@@ -151,7 +261,12 @@
       "date_label": "OCT 14  21:34",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Big Oil persuaded EU to delay methane rules. It’s not stopping there.",
+      "html": "data/pdfs/20261014_2134_Big_Oil_persuaded_EU_to_delay_methane_rules._It’s_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_2132",
@@ -161,7 +276,12 @@
       "date_label": "OCT 14  21:32",
       "read_min": 3,
       "toyota": true,
-      "excerpt": "トランプ政権第2期におけるUSMCA（米国・メキシコ・カナダ協定）の見通しと、米国とメキシ"
+      "excerpt": "トランプ政権第2期におけるUSMCA（米国・メキシコ・カナダ協定）の見通しと、米国とメキシ",
+      "subject_en": "USMCA update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261014_2132_USMCA_update_-_EG_Conference_Call,_REMINDER.html",
+      "summary_en": "Eurasia Group will host a call on October 15 to outline updated USMCA scenarios through 2028, the prospects for narrower US trade deals with Mexico and Canada, and the domestic politics shaping tariffs in all three countries. For automakers reliant on North American supply chains, the discussion will offer early signals on tariff risk and regulatory direction under Trump's second term. Analysts covering the US, Mexico, and Canada will field questions on how negotiations could affect cross-border production and investment planning.",
+      "summary_ja": "ユーラシア・グループは10月15日、トランプ政権2期目を見据えた2028年までのUSMCA見通しや、米国とメキシコ・カナダとの限定的な貿易合意の行方、各国の関税を巡る国内政治について議論する電話会議を開催する。北米のサプライチェーンに依存する自動車業界にとって、関税リスクや規制動向を早期に把握する機会となる。米国・メキシコ・カナダ担当アナリストが、交渉が国境を越えた生産や投資計画に与える影響について質問に応じる。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_2128",
@@ -170,8 +290,13 @@
       "pdf": "data/pdfs/20261014_2128_EU-China_trade_progress_welcomed,_yet_trust_issues.pdf",
       "date_label": "OCT 14  21:28",
       "read_min": 3,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EU-China trade progress welcomed, yet trust issues linger",
+      "html": "data/pdfs/20261014_2128_EU-China_trade_progress_welcomed,_yet_trust_issues.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_2118",
@@ -181,7 +306,12 @@
       "date_label": "OCT 14  21:18",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Global Minerals Update Ahead of LME Week",
+      "html": "data/pdfs/20261014_2118_Global_Minerals_Update_Ahead_of_LME_Week.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_2107",
@@ -190,8 +320,13 @@
       "pdf": "data/pdfs/20261014_2107_Peak_Chinese_oil_demand_is_behind_us.pdf",
       "date_label": "OCT 14  21:07",
       "read_min": 6,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Peak Chinese oil demand is behind us",
+      "html": "data/pdfs/20261014_2107_Peak_Chinese_oil_demand_is_behind_us.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_2106",
@@ -201,7 +336,12 @@
       "date_label": "OCT 14  21:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe’s leaders abandon the race for frontier AI",
+      "html": "data/pdfs/20261014_2106_Europe’s_leaders_abandon_the_race_for_frontier_AI.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_2102",
@@ -211,7 +351,12 @@
       "date_label": "OCT 14  21:02",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Israeli Election Outlook with Ambassador Daniel Shapiro - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261014_2102_Israeli_Election_Outlook_with_Ambassador_Daniel_Sh.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_2100",
@@ -221,7 +366,12 @@
       "date_label": "OCT 14  21:00",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Wie Maroš Šefčovič der Durchbruch im Handel mit China gelang",
+      "html": "data/pdfs/20261014_2100_Wie_Maroš_Šefčovič_der_Durchbruch_im_Handel_mit_Ch.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_2006",
@@ -231,7 +381,12 @@
       "date_label": "OCT 14  20:06",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "India’s Modi to visit Brussels as trade deal signing beckons",
+      "html": "data/pdfs/20261014_2006_India’s_Modi_to_visit_Brussels_as_trade_deal_signi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_1908",
@@ -241,17 +396,27 @@
       "date_label": "OCT 14  19:08",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Corruption could become harder to catch under new EU budget, watchdog warns",
+      "html": "data/pdfs/20261014_1908_Corruption_could_become_harder_to_catch_under_new_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_1811",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/10/14",
       "pdf": "data/pdfs/20261014_1811_「ジェトロ・ビジネス短信」2026_10_14.pdf",
       "date_label": "OCT 14  18:11",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "IMFが2026年の世界成長率を小幅上方修正し、AI投資が下支え要因となるものの、成長が地域・"
+      "excerpt": "IMFが2026年の世界成長率を小幅上方修正し、AI投資が下支え要因となるものの、成長が地域・",
+      "subject_en": "JETRO Business Brief 2026/10/14",
+      "html": "data/pdfs/20261014_1811_「ジェトロ・ビジネス短信」2026_10_14.html",
+      "summary_en": "Chinese automaker Geely announced plans to formally enter the Canadian market, launching its first vehicle in 2027 as it builds out a dealer network amid softening demand forecasts. Separately, Toyota signed a new strategic partnership agreement with China's FAW Group and GAC Group, deepening its cooperative ties with local manufacturers as competition in the Chinese EV market intensifies.",
+      "summary_ja": "中国の吉利汽車はカナダ市場への本格参入を発表し、需要見通しが悪化する中でも販売網構築を進め、2027年に第1弾の車両を投入する計画だ。一方、トヨタ自動車は中国の一汽集団・広汽集団と新たな戦略提携協定を締結し、中国EV市場での競争が激化する中、現地メーカーとの協力関係を強化する。",
+      "summary_pdf": "data/pdfs/20261014_1811_「ジェトロ・ビジネス短信」2026_10_14_en.pdf"
     },
     {
       "ts": "20261014_1755",
@@ -261,7 +426,12 @@
       "date_label": "OCT 14  17:55",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update in Japanese",
+      "html": "data/pdfs/20261014_1755_eg_update_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_1737",
@@ -271,7 +441,12 @@
       "date_label": "OCT 14  17:37",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "EUの重要産業法である産業促進法（Industrial Accelerator"
+      "excerpt": "EUの重要産業法である産業促進法（Industrial Accelerator",
+      "subject_en": "Center-right revolt threatens to unravel EU’s flagship industry law",
+      "html": "data/pdfs/20261014_1737_Center-right_revolt_threatens_to_unravel_EU’s_flag.html",
+      "summary_en": "A center-right rebellion in the European Parliament is threatening to derail the EU's Industrial Accelerator Act, a flagship law meant to boost European manufacturing under a 'Made in Europe' push. While an outright rejection of the bill appears unlikely, growing political divisions could force significant delays or weaken its scope and ambition. The dispute underscores deepening tensions within the EU over how aggressively to support domestic industry, including automakers, amid global competition.",
+      "summary_ja": "欧州議会で中道右派の反発が強まり、欧州産業を後押しする看板法案「産業アクセラレーター法」が頓挫する恐れが出ている。法案自体が否決される可能性は低いとみられるものの、「メイド・イン・ヨーロッパ」路線をめぐる対立の深まりが、採択の遅れや内容の骨抜きを招きかねない。この対立は、自動車産業を含む域内産業保護をどこまで強化すべきかをめぐり、EU内部で緊張が高まっていることを浮き彫りにしている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_1404",
@@ -281,7 +456,12 @@
       "date_label": "OCT 14  14:04",
       "read_min": 10,
       "toyota": true,
-      "excerpt": "トルコの通商相が、EU製造品の定義に基づく産業加速法（IAA）にトルコを含めるようEU議員に"
+      "excerpt": "トルコの通商相が、EU製造品の定義に基づく産業加速法（IAA）にトルコを含めるようEU議員に",
+      "subject_en": "Turkey lobbies for IAA inclusion",
+      "html": "data/pdfs/20261014_1404_Turkey_lobbies_for_IAA_inclusion.html",
+      "summary_en": "Turkey is pressing Brussels to include it under the EU's proposed Industrial Accelerator Act, warning that exclusion from the 'Made in Europe' content rules would hurt its automotive sector and disrupt European manufacturers with Turkish factories. Trade Commissioner Maroš Šefčovič offered no concrete assurances, emphasizing instead deeper trade ties, even as Turkey remains the EU's third-largest export market with over 800,000 vehicles traded in 2025.",
+      "summary_ja": "トルコはEUの「欧州製造業加速化法」において自国を除外しないよう働きかけており、除外されれば自動車産業やトルコに工場を持つ欧州メーカーに打撃となると警告している。シェフチョビッチ欧州委員（通商担当）は具体的な譲歩を示さず、貿易関係の深化を強調するにとどまった。トルコは2025年に80万台以上の車両取引があり、EUにとって第3位の輸出市場となっている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_1332",
@@ -290,8 +470,13 @@
       "pdf": "data/pdfs/20261014_1332_Sánchez_brings_his_migration_fight_to_Brussels.pdf",
       "date_label": "OCT 14  13:32",
       "read_min": 15,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Sánchez brings his migration fight to Brussels",
+      "html": "data/pdfs/20261014_1332_Sánchez_brings_his_migration_fight_to_Brussels.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_1157",
@@ -301,7 +486,12 @@
       "date_label": "OCT 14  11:57",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "トランプ大統領とプーチン大統領の軽油合意にもかかわらず、ロシア・ウクライナ間のエスカレー"
+      "excerpt": "トランプ大統領とプーチン大統領の軽油合意にもかかわらず、ロシア・ウクライナ間のエスカレー",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261014_1157_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_0144",
@@ -310,8 +500,13 @@
       "pdf": "data/pdfs/20261014_0144_How_Maroš_Šefčovič_talked_his_way_to_a_China_trade.pdf",
       "date_label": "OCT 14  01:44",
       "read_min": 8,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "How Maroš Šefčovič talked his way to a China trade breakthrough",
+      "html": "data/pdfs/20261014_0144_How_Maroš_Šefčovič_talked_his_way_to_a_China_trade.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_0132",
@@ -321,7 +516,12 @@
       "date_label": "OCT 14  01:32",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Republicans' lame duck priorities won't fly",
+      "html": "data/pdfs/20261014_0132_Republicans'_lame_duck_priorities_won't_fly.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261014_0031",
@@ -340,8 +540,13 @@
       "pdf": "data/pdfs/20261014_0025_China’s_oil_demand_has_peaked.pdf",
       "date_label": "OCT 14  00:25",
       "read_min": 5,
-      "toyota": false,
-      "excerpt": ""
+      "toyota": true,
+      "excerpt": "",
+      "subject_en": "China’s oil demand has peaked",
+      "html": "data/pdfs/20261014_0025_China’s_oil_demand_has_peaked.html",
+      "summary_en": "China's oil demand has structurally peaked, with weak domestic activity, rapid electrification, and coal-based feedstock substitution capping consumption even as geopolitical tensions ease. Beijing is prioritizing energy security over market efficiency, using commercial stockpiles to avoid costly crude purchases and pushing diversified sourcing while shielding consumers from price shocks. As China was the main engine of global oil demand growth, its plateau will likely hasten a broader slowdown in worldwide consumption that other emerging markets cannot fully offset.",
+      "summary_ja": "中国の石油需要はすでにピークを迎えており、国内経済の低迷や急速な電動化、石炭化学による代替が進むことで、地政学的緊張が緩和しても需要が回復する可能性は低い。北京政府は市場効率よりもエネルギー安全保障を優先し、商業備蓄を活用して割高な原油購入を避けつつ、調達先の多様化を進め、消費者を価格高騰から守っている。中国はこれまで世界の石油需要拡大を牽引してきた最大の要因であり、その頭打ちは他の新興市場では補いきれず、世界全体の需要の伸び悩みを早める見通しだ。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261013_2127",
@@ -350,8 +555,13 @@
       "pdf": "data/pdfs/20261013_2127_US_action_against_Houthis_will_likely_fall_short_o.pdf",
       "date_label": "OCT 13  21:27",
       "read_min": 6,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "US action against Houthis will likely fall short of direct intervention",
+      "html": "data/pdfs/20261013_2127_US_action_against_Houthis_will_likely_fall_short_o.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261013_2108",
@@ -361,7 +571,12 @@
       "date_label": "OCT 13  21:08",
       "read_min": 2,
       "toyota": true,
-      "excerpt": "EUのStéphane Séjourné産業政策担当委員は、英国がEU産業促進法の「Made in"
+      "excerpt": "EUのStéphane Séjourné産業政策担当委員は、英国がEU産業促進法の「Made in",
+      "subject_en": "UK meets ‘Made in Europe’ criteria, says EU industry chief",
+      "html": "data/pdfs/20261013_2108_UK_meets_‘Made_in_Europe’_criteria,_says_EU_indust.html",
+      "summary_en": "EU industry commissioner Stéphane Séjourné said the UK satisfies the reciprocity requirements under the bloc's proposed Industrial Accelerator Act, which would favor European manufacturers in sectors like autos, steel, and renewables in public procurement. By contrast, he criticized Canada's 'Buy Canadian' policy as protectionist, signaling it may not qualify for the same preferential access. The legislation remains contentious, with Germany pushing for a broad 'Made in Europe' definition while France favors a narrower scope.",
+      "summary_ja": "EU産業担当委員のステファン・セジュルネ氏は、自動車や鉄鋼、再生可能エネルギーなどの分野で欧州メーカーを優遇するEUの産業加速化法案において、英国が「相互主義」の基準を満たしていると述べた。一方でカナダの「バイ・カナディアン」政策については保護主義的だと批判し、同様の優遇対象にはならない可能性を示唆した。同法案を巡っては、ドイツが「メイド・イン・ヨーロッパ」の対象を広く定義することを求める一方、フランスはより狭い範囲を主張しており、依然として意見が対立している。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261013_2106",
@@ -371,7 +586,12 @@
       "date_label": "OCT 13  21:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How Europe plans to squeeze out Starlink",
+      "html": "data/pdfs/20261013_2106_How_Europe_plans_to_squeeze_out_Starlink.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261013_2010",
@@ -381,7 +601,12 @@
       "date_label": "OCT 13  20:10",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Document: Germany, Italy request ‘emergency brake’ power to stop new EU laws",
+      "html": "data/pdfs/20261013_2010_Document__Germany,_Italy_request_‘emergency_brake’.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261013_1943",
@@ -391,17 +616,27 @@
       "date_label": "OCT 13  19:43",
       "read_min": 3,
       "toyota": true,
-      "excerpt": "フランスとドイツ間で産業加速法の保護強化と内燃機関規制緩和を交換する取引が数日以内に妥結"
+      "excerpt": "フランスとドイツ間で産業加速法の保護強化と内燃機関規制緩和を交換する取引が数日以内に妥結",
+      "subject_en": "Franco–German deal on cars and ‘Made in Europe’ is ‘hours or days’ away, says EU industry boss",
+      "html": "data/pdfs/20261013_1943_Franco–German_deal_on_cars_and_‘Made_in_Europe’_is.html",
+      "summary_en": "France and Germany are close to a deal—expected within hours or days—that would strengthen 'Made in Europe' protections under the Industrial Accelerator Act in exchange for easing combustion engine rules, EU industry chief Stéphane Séjourné said. The agreement aims to break a deadlock in the European Parliament, where German EPP lawmakers have pushed back against the IAA's proposed opt-in trade system. Séjourné emphasized reciprocity with trading partners and keeping EU public procurement funds focused on European manufacturing.",
+      "summary_ja": "EU産業担当委員のステファン・セジュルネ氏によると、独仏間で「産業アクセラレーター法」における「メイド・イン・ヨーロッパ」保護強化と内燃機関規制緩和を交換条件とする合意が、数時間から数日以内にまとまる見通しだ。この合意は、ドイツのEPP所属議員らがオプトイン方式の貿易制度に反発し行き詰まっていた欧州議会での審議打開を狙う。セジュルネ氏は貿易相手国との相互主義と、EUの公共調達資金を欧州製造業に集中させる重要性を強調した。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261013_1905",
-      "sender_norm": "POLITICO",
+      "sender_norm": "Jetro",
       "subject": "France’s Glucksmann notched a crushing primary victory. But he",
       "pdf": "data/pdfs/20261013_1905_France’s_Glucksmann_notched_a_crushing_primary_vic.pdf",
       "date_label": "OCT 13  19:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" 2026/10/13",
+      "html": "data/pdfs/20261013_1905_「ジェトロ・ビジネス短信」2026_10_13.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261013_1905_「ジェトロ・ビジネス短信」2026_10_13_en.pdf"
     },
     {
       "ts": "20261013_1740",
@@ -411,7 +646,12 @@
       "date_label": "OCT 13  17:40",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Poll: Spaniards say Ceuta crisis could spark armed conflict with Morocco",
+      "html": "data/pdfs/20261013_1740_Poll__Spaniards_say_Ceuta_crisis_could_spark_armed.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261013_1639",
@@ -421,7 +661,12 @@
       "date_label": "OCT 13  16:39",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe pushes tougher line on Russia in growing split with Trump",
+      "html": "data/pdfs/20261013_1639_Europe_pushes_tougher_line_on_Russia_in_growing_sp.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261013_1407",
@@ -497,46 +742,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20261013_0142",
-      "sender_norm": "POLITICO",
-      "subject": "5 things to know about the EU-China deal",
-      "pdf": "data/pdfs/20261013_0142_5_things_to_know_about_the_EU-China_deal.pdf",
-      "date_label": "OCT 13  01:42",
-      "read_min": 6,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "5 things to know about the EU-China deal",
-      "html": "data/pdfs/20261013_0142_5_things_to_know_about_the_EU-China_deal.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261013_0043",
-      "sender_norm": "Eurasia Group",
-      "subject": "US support for Saudis against Houthis likely to remain indirect",
-      "pdf": "data/pdfs/20261013_0043_US_support_for_Saudis_against_Houthis_likely_to_re.pdf",
-      "date_label": "OCT 13  00:43",
-      "read_min": 6,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "US support for Saudis against Houthis likely to remain indirect",
-      "html": "data/pdfs/20261013_0043_US_support_for_Saudis_against_Houthis_likely_to_re.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261013_0031",
-      "sender_norm": "POLITICO",
-      "subject": "Pro Daily Headlines",
-      "pdf": "data/pdfs/20261013_0031_Pro_Daily_Headlines.pdf",
-      "date_label": "OCT 13  00:31",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "EU-China agreed to cap Chinese hybrid and PHEV imports at roughly half of 2026 levels starting December, easing pressure on European automakers. But Brussels is still tightening trade policy more broadly, with new tariffs and procurement curbs likely, so the relief is narrow and temporary.\n\nThe European Commission is holding firm on the 2030 e-SAF mandate despite airline and fuel-producer pushback, while auto lobbyists push for a quick compromise on emissions targets before the IAA, signaling continued regulatory pressure on the industry.\n\nUSMCA scenario planning, Geely's Canada entry, Toyota's China partnership, and the EU Industrial Accelerator Act dispute are provided for reference."
 }
