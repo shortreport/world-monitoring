@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16 18:34:27",
+  "generated_at": "2026-10-17 02:51:55",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-16 18:33:46",
+      "last_checked": "2026-10-17 02:51:05",
       "items": [
         {
           "uid": "cec99b1ccadf",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-16 18:33:56",
+      "last_checked": "2026-10-17 02:51:16",
       "items": [
+        {
+          "uid": "20fb184c1dc5",
+          "date": "2026-07-28",
+          "title": "Beijing Draws Its Line on \"Overcapacity\" - Inside China | Fred Gao",
+          "summary": "中国政府は国内産業の過剰生産能力問題に対して、国外への輸出による市場拡大を優先方針としており、米国がS.4429などで中国車の輸入規制を強化することは、中国の産業政策と直接的に対立する構図を示している。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oaVZrdnVHUkQ2X1k5NVNLNUtVWUstT0RVbDBjb0pNX2hGMzhJMU9FLU1OMXVKNWdlMzZRbEEtb2paVU51R1cwLTVZamM5N0dqYXpfTjNDazV6RGh0c0JreDdMNFNNZWJSWEtwWThQdW1OUQ?oc=5",
+          "added_at": "2026-10-17 02:51:14"
+        },
         {
           "uid": "27637de2ebfc",
           "date": "2026-09-04",
@@ -4010,16 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdWI4cXUtS2VsczBNTnVvTHh5c1pLdEVCLWY5d3hLZGk0UW51NW9tZzlvTXlqVzFQNDk5OThQSm5qdnJFQVdKc3dTRFJwQkEyZFJUSURXelcyYnB6MlNuREw2SGFfczB6M3BVUmZOR2dBTmd6QmI1Q0w2YkdGcVlmeTVRcC1FalMxSVNxM2pwM3ZPcUpPWGlFVzNZWXg4ZDlobWxYenpEN0t5eC1XSTNGektaWnZ2THZaRDhUcUR4MDZVVURaZXRqV3RTVk8xdm52?oc=5",
           "added_at": "2026-08-05 16:42:05"
-        },
-        {
-          "uid": "5e040dea14e6",
-          "date": "2026-06-27",
-          "title": "Polestar US Sales Ban: Commerce Department Blocks Chinese-Owned EV Brand From 2027 Market - Tech My Money",
-          "summary": "米国商務省はS.4429に基づき、中国系所有の電気自動車メーカーPolestarの2027年以降の米国販売を禁止する措置を講じたもので、これは同法が外国（特に中国）資本による自動車メーカーの米国市場進出を制限する国家安全保障戦略の実行例である。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR2tUWUx2cUVLQ0Vtb0d5eElWX1FyeXNBODdGMllUalZmUXFrS0Z2dXpCX0Z6M09Pc2Y1YXRpZGxxWDhZUlZ0RjNkYUtxcnhScmRFM3dZdDd6RDlDYVdxNVNTcVJmaWtMRnR3OE1hRWJVUmZleGF0cWZNeWlrOHdkeVRvSV9yQTlqd2fSAYoBQVVfeXFMTkdrVFlMdnFFS0NFbW9HeXhJVl9RcnlzQTg3RjJZVGpWZlFxa0tGdnV6Ql9GejNPT3NmNWF0aWRscVg4WVJWdEYzZGFLcXJ4UnJkRTN3WXQ3ekQ5Q2FXcTVTU3FSZmlrTEZ0dzhNYUViVVJmZXhhdHFmTXlpazh3ZHlUb0lfckE5andn?oc=5",
-          "added_at": "2026-08-05 13:52:03"
         }
       ]
     },
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-16 18:34:15",
+      "last_checked": "2026-10-17 02:51:37",
       "items": [
+        {
+          "uid": "8367d7fcb64f",
+          "date": "2026-07-20",
+          "title": "China Isn't Just Guarding Rare Earths-It's Actively Managing the Magnet Economy - Rare Earth Exchanges",
+          "summary": "中国はレアアースの単なる供給管理にとどまらず、レアアース磁石の製造・加工・販売といった産業全体を戦略的に支配することで、グローバルな磁石経済を主導していることを示唆している。この統合的な支配戦略により、中国はレアアース資源の輸出管理を通じて国際市場全体に影響力を行使している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVdwbmVYZHo5NmJ4OHczZlVrcndQU25sejh6Qkg5R1k0RW9jMXdQY0xQWXRRWjhWUUhsdDZDQld6cWRBVmZvWC1WUW4yQldBZXRxMnBpeEJDNkhwVThIbVR2NzRWS1dzQTRKcDg4V1pBSm9lcDFfWUhhWjVzS19BYjVXZ2dWWWlEeWQ2d2VEVFJ0YVZUWGdqNEVWa0F2TDlpVkZFekZTN3AyY3JNR0IzZVIwdW8?oc=5",
+          "added_at": "2026-10-17 02:51:31"
+        },
+        {
+          "uid": "a757bf6a67a9",
+          "date": "2026-07-18",
+          "title": "Malaysia and Indonesia: Test Cases for China’s Global Rare Earth Control - InvestorNews",
+          "summary": "中国はマレーシアとインドネシアにおけるレアアース処理・加工能力の支配を通じて、グローバルなレアアース産業チェーン全体をコントロールしようとしており、これら両国が中国の戦略的な支配下にあるかどうかが、世界的なレアアース供給の独立性を左右する重要なテストケースとなっている。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU280cktDX0dsXzJkTXlzclB3c28tRG84WHFQVGxtODJ2UEVHRkVIRDdfaWFnLS1zRWtLcko5YTVyUmt3MmtySnlVQnU3eUh0Yjc3b1daSGJ4eElFTGhmYzl1SEhWX3VORVEzOXItZy1UQjl6ZDJuYUpqb2pFejhsMWp5aWZaT0RSdFNxX01IZDBicHJYY2swOVMtZXo0elM0MVNKcXlaZTlOSjhUdnhPMFRLVnVBa3h4cGJHb3VNOTFfZ3I2?oc=5",
+          "added_at": "2026-10-17 02:51:31"
+        },
+        {
+          "uid": "524656bb1e05",
+          "date": "2026-10-16",
+          "title": "AI safety group pushes for tighter export controls, limits on ‘vastly superhuman AI’",
+          "summary": "本記事は中国レアアース輸出管理と直接的な関連がなく、むしろ米国の先端チップ輸出制限とAI安全保障に関するものです。中国レアアース輸出管理に関する記事ではないため、要約することはできません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6154117-humans-first-ai-policy/",
+          "added_at": "2026-10-17 02:51:31"
+        },
+        {
+          "uid": "81a8ddfbca44",
+          "date": "2026-10-16",
+          "title": "Zacharia on China: ‘They don’t even have proper toilets’",
+          "summary": "申し訳ありませんが、提供いただいた記事は中国レアアース輸出管理とは無関係の、ホワイトハウス報道官の中国に対する批評的な発言についての内容であり、レアアース輸出管理に関する情報を含んでいないため、要約することができません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6153270-zacharia-on-china-they-dont-even-have-proper-toilets/",
+          "added_at": "2026-10-17 02:51:31"
+        },
         {
           "uid": "68860299e6e4",
           "date": "2026-10-16",
@@ -5991,46 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHZjekZqUDNuZklkZkp0cE1tNFlvMlFCdWJkUGtZaHFoQmdzT2d3WG1SOVNyUWVEMUhoazNrQktreGZQQjlPQW1KcXZzMlpSbEtaOEM2M2QwWGN0QzRxeXcxNWdhTGdjQURHUHZYZ2JpRlc0dUxZbTF4Zkx2WXZ4TUo3YjRGOTB5UzJN?oc=5",
           "added_at": "2026-09-13 01:50:31"
-        },
-        {
-          "uid": "2105ed2adbb8",
-          "date": "2026-06-22",
-          "title": "China Flexes Its Rare-Earth Muscle—Again - Foreign Policy",
-          "summary": "中国が戦略的武器としてレアアース輸出を制限し、地政学的な影響力を行使している状況が再び顕在化している。この措置は先進国の防衛・産業能力に対する中国の支配力を示す重要な事例である。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2FqUDhJbDRlTW5ueXNNTlo4MFJTanRmMHVIcktGNDNsZzY5WnFSdDlNc1A1X3BUZFd5Z082NFhVbFI1cFVQVTBxSlZrNFM1VC00QXhlOU9sRVdQZ3BtU3N4SzhNZFBpUDh0S29ZUDhLLXNJWVNZZWlxR0xBbXNETHloblg?oc=5",
-          "added_at": "2026-09-13 01:50:31"
-        },
-        {
-          "uid": "06a6c9518c0e",
-          "date": "2026-09-12",
-          "title": "Trump says he would allow Chinese automakers to build cars in US",
-          "summary": "トランプ大統領は中国の自動車メーカーの米国内での製造を許可すると発言しており、これは中国との経済関係の柔軟性を示すもので、レアアース等の重要鉱物を巡る米中間の貿易交渉における中国への譲歩圧力を減少させる可能性がある。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6085912-trump-permits-chinese-automakers-us-manufacturing/",
-          "added_at": "2026-09-13 01:50:31"
-        },
-        {
-          "uid": "300a03109431",
-          "date": "2026-08-21",
-          "title": "Why the World’s Hedging Responses to China’s Rare Earth Dominance Have Failed - The Diplomat – Asia-Pacific Current Affairs Magazine",
-          "summary": "中国がレアアース市場を支配する中で、世界各国による採掘・精製技術の多角化やリサイクル促進などのヘッジ戦略が、中国の輸出管理政策に対抗する有効な手段となり得ていない。中国は依然として圧倒的な市場支配力を保持しており、各国の脱依存化の取り組みは十分な成果を上げられていない。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1FVSV9JNm1oU2tNVEdULVpvRmR0VHlxWmZJYkNhZU9jdkcxNGhzMldGZGhyRHVXSkxneGw0bVZoSFVqZmR0TXFROEpXaS15b0s5UFUyV3RjaWhWZGhUTXhseTNHVWtNZF9XdC0ybGdYMTFzeXp1N1JRci11OWUxUUlFOGRHZjNHQWg5WEVrTUpybTlxRHhMUzlzbHY3NmpZSFNQWFlDS0NJOHIz?oc=5",
-          "added_at": "2026-09-12 18:05:59"
-        },
-        {
-          "uid": "2ef6f58b7b9a",
-          "date": "2026-06-23",
-          "title": "China minerals control threatens EU rearmament, as bloc seeks new sources - asia.nikkei.com",
-          "summary": "# 中国のレアアース輸出管理に関する要約\n\n中国によるレアアース等鉱物資源の輸出管理強化が欧州連合（EU）の再軍備を脅かしており、EUは中国以外の新たな供給源確保を急いでいる。",
-          "source": "欧州委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmNlbHFoUnpmY05vRDVUMmpiYkpRYVd4WW1rUGhFaHRJUEViVFVoY1RabUVVTTRlanhJVllpQnhPLUt6MnoxdVQ3TkxzcXg0UEw2VlR5WXlOQVhZd3JZSENjUlQweWFEOHcxMDlObzVxNkdVbTFOMXlJbEhONEhUc0V4czd3QWpEaWVWWVNKb00wTWJuXzRUSG1xMkpWZzY0em1IcUFJTnAzc1h2US1Ob3pGSk9oWTFJVFhCN2Nfb2NlRHBjU3NuaFNwakdyU0k?oc=5",
-          "added_at": "2026-09-12 18:05:59"
         }
       ]
     },
@@ -6041,8 +6041,98 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-16 18:34:27",
+      "last_checked": "2026-10-17 02:51:55",
       "items": [
+        {
+          "uid": "a46c6850fdd1",
+          "date": "2026-10-01",
+          "title": "‘D-Day’ on China autos: Ford, GM, Hyundai, Mercedes-Benz execs warn on allowing access to U.S. market - Automotive News",
+          "summary": "フォード、GM、ヒュンダイ、メルセデス・ベンツなどの自動車メーカー幹部は、中国系自動車メーカーに米国市場へのアクセスを許可することに対して警告を発している。これは中国との提携や技術移転が米国の自動車産業に脅威をもたらす可能性があるという懸念に基づいている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRzJoYXdlVG9hOG90RGZyQlB0UENkdExWLTRMajUzSmdiMHd4V0tIV0JOMW5GRHVna2JrMWdmc0dQOVhRbF9wLVYzbENsbnJQdXJTNEJBdlYtc2s2N2tlWmhyZU0?oc=5",
+          "added_at": "2026-10-17 02:51:44"
+        },
+        {
+          "uid": "4471787d3fc6",
+          "date": "2026-09-09",
+          "title": "Ford caught in escalating Washington clash over China deals - WHTC",
+          "summary": "フォード・モーターが中国との提携事業をめぐってワシントンの政治的対立に巻き込まれ、米政府内での批判が高まっている状況を報じている。",
+          "source": "フォード",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHN2aXlhcjkwOW5zdEVoMU5kbHI1YThhVmNwdHRMaC1COEZ0SGFKbFRVeVBCdG0xYjVPQURFUU1Nck0wNUcyV2wtdVlIb2RDUlB1bjVWZmFjbFExRy1XSjBIeTVxWmZ6ZHBmYjFnMHZqTzdILWtjZURjdmlmUS1lS0ZrRkJqYzg1RWxrR01ob0NYZw?oc=5",
+          "added_at": "2026-10-17 02:51:44"
+        },
+        {
+          "uid": "9cb825354b74",
+          "date": "2026-10-12",
+          "title": "Ukraine says EU set to open next accession stages after Kyiv passes minority rights law - Reuters",
+          "summary": "ウクライナがEU加盟に向けた少数民族権利法を可決したため、EUが次段階の加盟手続きを開始する見通しが示されている。この記事は自動車メーカーの対中提携への政治的批判の文脈とは関連がない。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFd0OGVCZ2xTSjNGLUtuVGh6ZV94cmVSYjFlbm9qZERZcE9wM3RNZE1xQjdJaVpHSzgyM05OSUZydVU0OFpqUnJPanMwUmc4RkdzVkE0bW1nNEFKNTl4TE5jVXhPbkV1ekFHWm45aWJxQmNxY2psWDJncTZjVzlBRXNZV2lZMHNsblh4WHZGN1ZUMDF5MTBMLURjdHdyWGVtaXRmbGhqdVh6d0FSVDI4MWtHWGY?oc=5",
+          "added_at": "2026-10-17 02:51:44"
+        },
+        {
+          "uid": "7ea56d0679f9",
+          "date": "2026-10-09",
+          "title": "Moroccan king says migration cooperation model with Spain hit limit - Reuters",
+          "summary": "この記事はモロッコとスペイン間の移民協力に関するもので、自動車メーカーの対中提携への政治的批判とは無関係です。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkxrWWdQRGRkSDkwX05xNzlTMzAxLWtHbkRNZ2J0VGZLcm5hV0FqVGhReW5Pa1JZTl9SRWIxeHRyaElRTG54WWYwU054ZW4wd0gzTFBaRnhFYmNwRE51N2ZzS2duTUVBSHRiWmlRZGpJaTdnS1JrYk1vQ1dKN2F6VGxKY0s2cWFvdEx4OTFFeEpYM2hERmJSVmJLTDhZLXpQRkN6Ul9Bd2JjT0ZBSEN0dzBSZkl1cmc?oc=5",
+          "added_at": "2026-10-17 02:51:44"
+        },
+        {
+          "uid": "fa44002c7a9d",
+          "date": "2026-09-03",
+          "title": "Automakers urge Congress to quickly pass law banning Chinese cars - Reuters",
+          "summary": "米国の自動車メーカーが、中国車を禁止する法律の迅速な成立を議会に促しており、中国車の市場進出に対する警戒感が業界内で高まっていることが示されている。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDVZZ0dqVmI3WTlWc0tiQTI4SzVMRXM4YjVlb0stNmFuX0dBYUFoZjBvQlBVMkFDMGd0U2NlbXBCN1NzMlEwT0tqbkpDdkZicmFRdFlvZXV1UjN6TUF3LWRzd2ZDbHhpNWdmb0VhOTRnWXg0RG5pRjhNeTdRcnVNbVVaZzNsQnFrUXlNR3Rfd0o3dlpfV0E1a0xaYTVXbWdaWm96YzZLWQ?oc=5",
+          "added_at": "2026-10-17 02:51:44"
+        },
+        {
+          "uid": "524656bb1e05",
+          "date": "2026-10-16",
+          "title": "AI safety group pushes for tighter export controls, limits on ‘vastly superhuman AI’",
+          "summary": "保守系のAI安全団体が、中国への先端チップ販売の制限と「圧倒的に超人的AI」の開発制限を求める新しいAI政策枠組みを米国に提案している。この動きは、技術覇権をめぐる米中競争の中で、戦略的な技術統制の強化を目指すものである。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6154117-humans-first-ai-policy/",
+          "added_at": "2026-10-17 02:51:44"
+        },
+        {
+          "uid": "2dcbe779aa59",
+          "date": "2026-10-16",
+          "title": "Bolton: Zelensky lecturing Trump won’t end well",
+          "summary": "この記事は自動車メーカーの対中提携への政治的批判に関する内容ではなく、ウクライナ大統領ゼレンスキーがトランプ大統領を批判することについてのコメントを扱っているため、要約対象外です。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6153675-bolton-criticizes-zelensky-trump/",
+          "added_at": "2026-10-17 02:51:44"
+        },
+        {
+          "uid": "81a8ddfbca44",
+          "date": "2026-10-16",
+          "title": "Zacharia on China: ‘They don’t even have proper toilets’",
+          "summary": "ホワイトハウスの報道官がトイレの不備を理由に中国を批判したコメントは、自動車メーカーの対中提携に対する米国の政治的な敵対姿勢を示すもので、経済競争が地政学的緊張と結びついていることを示唆している。このような高官による中国批判は、米国企業の対中投資や提携に対する政治的圧力となり得る。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6153270-zacharia-on-china-they-dont-even-have-proper-toilets/",
+          "added_at": "2026-10-17 02:51:44"
+        },
+        {
+          "uid": "985c3d7d5b82",
+          "date": "2026-10-16",
+          "title": "Rahm Emanuel says Democrats can do a better job linking 2 key issues",
+          "summary": "レーム・エマニュエルは、中間選挙に向けて民主党が腐敗と生活費問題を結びつけることをより効果的に行えると指摘している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/campaign/6152889-rahm-emanuel-democrats-midterm-messaging-affordability-corruption-ethics/",
+          "added_at": "2026-10-17 02:51:44"
+        },
         {
           "uid": "e6f691e551c5",
           "date": "2026-09-09",
@@ -7952,96 +8042,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLXM2Tk1uVng3VENvQXFwd2NMeFBxTEpLTFRHcjZpQjNpUk1hT0xkeGxJWTFMY0pkS3U1RHNGMlM5c2V1bHFLc0s4eTMzWi0yVW0tNTZqbWZLbEZLWGJ5T193YkV2b3JocW9EWDVYNWlzd3ZQN0pzY0pIdl9aOV91NXJxckJXeGhhWEJHTFlnYmhZTTBsNHBWcXJFVGw5SHQwX0U5cU9yUnJwUWx1UUhqZg?oc=5",
           "added_at": "2026-09-21 02:21:17"
-        },
-        {
-          "uid": "6684a5de169b",
-          "date": "2026-09-09",
-          "title": "Trump administration slams Ford, alleges ties to China - WMTW",
-          "summary": "トランプ政権がフォードモーター社に対し中国との関係を理由に批判を展開しており、自動車メーカーの対中提携が政治的な争点となっていることを示している。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMDlLejBnZFg4aVBsd0JtRDRfTURzVlpKN2k0cWJyUC14WkJ0aVRpUFljN0MxT2xzV1dPMDlkMTNUYUdMQi0tQzVkVl9kM2Q0by02MlhXYXFFUGRhS3hEX3FsNWtfdUZMS0JkZnJyOXF1VTlidWFxb1RSRHN4LW5uOQ?oc=5",
-          "added_at": "2026-09-21 02:21:17"
-        },
-        {
-          "uid": "16cbf962bad3",
-          "date": "2026-09-08",
-          "title": "Trump administration blasts Ford’s business deals with Chinese firms - 102.7 WBOW",
-          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判しており、自動車メーカーの対中連携に対する政治的な圧力が高まっている。米国政府は国内産業保護の観点から、自動車業界の中国との経済的結びつきに対して公然と異議を唱えている。",
-          "source": "フォード",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTDhQenVJVlZWRzhBYmRVMVVQWWllZ3Z3SmlLdXFRTjRIdmZmNWdjR2ptYWhQOE5Gc0FEZFY5ZDlhbmJVU3RuMFZOZEFJUUtmMnF3YVREdTVuajNYdnJHSWU1TVYyYWpvTEpyc21xVnUwTWlMV1lQT2N6TDRJeHBDc1BuTWZCNTh6djAxUWNZb1g4RUJ3cjZubndhVlFjY1RG?oc=5",
-          "added_at": "2026-09-21 02:21:17"
-        },
-        {
-          "uid": "50cece443eff",
-          "date": "2026-09-20",
-          "title": "Live updates: Trump tweaks DC arch plans; tensions run high in Middle East",
-          "summary": "申し訳ありませんが、提供いただいた記事は「トランプ大統領のワシントンDCの凱旋門計画」と「中東の緊張」に関する内容であり、「自動車メーカーの対中提携への政治的批判」とは無関係です。そのため、要求された文脈での要約は不可能です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6100134-live-updates-trump-arch-military-complex-middle-east/",
-          "added_at": "2026-09-21 02:21:17"
-        },
-        {
-          "uid": "066cabd6f874",
-          "date": "2026-09-20",
-          "title": "Trump says triumphal arch to be used for snipers, drones",
-          "summary": "この記事は、トランプ大統領によるトライアンフアーチの軍事施設化に関するもので、自動車メーカーの対中提携への政治的批判という文脈には該当しません。\n\n要約対象として適切な記事ではないため、要約提供はできません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6100264-trump-triumphal-arch-military-complex/",
-          "added_at": "2026-09-21 02:21:17"
-        },
-        {
-          "uid": "189fabf9bb8a",
-          "date": "2026-09-08",
-          "title": "US warns Ford over ties with Chinese firms amid tensions - Al Jazeera",
-          "summary": "米国は米中関係の緊張化を背景に、中国企業との提携を深めるフォード・モーターに対して警告を発し、自動車メーカーの対中提携が地政学的リスクの対象となっていることを示した。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQazBKeVJhWHhUZExyUS01clF0ZlFJdVloR01yTlE0NkFmT2M2YmJBa2pfcDhWWEtTM2ZhU0k4M3Y4WWM5R1dYUkFvNWJiT0JEWUJTdzdIeUlyNlV5RTJYRThVV2lkaTVtZEtXNHlnTVFFdmswbElJOXQtT1pzb1FrTEdrZGdkeVNuWmJOR200WTdwWml4dXNjMkpOZVFERTdj0gGmAUFVX3lxTE1WNk9wVlVyX2pwWmhfY3dYM2hIS0JVR1phbUQ2emJMQ0V6OWdJQUlLNUN2Njc2RWZKSExwbWw0UDU0S3ZrNUIyMEFWLXJ0WlVxQ0pPQXk3U0Y1d0ZfamJwbGVRSF9FU0o3NnFUdGpBdXlyczh3WkNfdmk3SlA5UXRWMHNBeWpjTVRLWWFaWkVaT3hIbDY3MzZsOUE4MGxDSzZSS0NXMHc?oc=5",
-          "added_at": "2026-09-20 18:39:31"
-        },
-        {
-          "uid": "6ce58e305f82",
-          "date": "2026-09-10",
-          "title": "Republican Lawmakers Criticize Ford Business Ties to China - NTD News",
-          "summary": "共和党議員がフォード・モーターの中国とのビジネス関係を批判しており、自動車メーカーの対中提携が米国の政治的な議論の対象となっていることが示されている。",
-          "source": "フォード",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNlRGWnJEUkowZmpocE5xcERLLWFUcWlIcEFHcUVVUVRlMUFXcEdONnlwRnZQTjRpOHZHTTVITGMxOHJvMzRncE02ZmNoaHVjWjRNT01qTllRaFZfRGROZ0hOR0FUSER2d0kyYXczbUFHdWRraVlBdFZYajZlakJCZm9IdUVYTTlCUF9RUWpIdUg5cFRORnc?oc=5",
-          "added_at": "2026-09-20 18:39:31"
-        },
-        {
-          "uid": "68d7d7ebb7d9",
-          "date": "2026-09-18",
-          "title": "Transcript - Reuters - Reuters",
-          "summary": "申し訳ございませんが、記事の内容が「Transcript - Reuters」としか記載されておらず、具体的な本文が提供されていないため、「自動車メーカーの対中提携への政治的批判」に関する要約ができません。\n\n記事の本文をお提供いただければ、ご要望通り要約させていただきます。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWJrSVBEQnFoMVNMMGxudklPejlSVWxSZlRkeE5XdzNjZTFKOV9nc2RFV0Q0Y3EtanNIUlRjNEVKS0lVQVQ4NWY0TGxZOHMyZGs5QTRCdmtMYWZGYWtmLVdWdWpVWUNuanR0eDlmdGY3SUZ6VFd5TGNOWTh4UTc5NzJxWENBUzhoMkZZ?oc=5",
-          "added_at": "2026-09-20 18:39:31"
-        },
-        {
-          "uid": "1294aea4dd0f",
-          "date": "2026-09-19",
-          "title": "Why is the Trump administration targeting  foreign journalists?",
-          "summary": "トランプ政権が外国人ジャーナリストを標的にする厳格なビザ規制政策は、中国やロシア、イランなどが批判的な報道をする媒体を抑圧する手法と同じであり、民主主義国家による権威主義的な圧力の懸念が生じている。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/white-house/6093808-press-freedom-under-threat/",
-          "added_at": "2026-09-20 02:04:00"
-        },
-        {
-          "uid": "864b048ae378",
-          "date": "2026-09-19",
-          "title": "Healthy food is the missing piece in health savings and flexible spending accounts",
-          "summary": "この記事は健康食品に関する医療費節減制度についてのものであり、自動車メーカーの対中提携への政治的批判という文脈には該当しません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/healthcare/6098188-congress-expand-health-spending-produce/",
-          "added_at": "2026-09-20 02:04:00"
         }
       ]
     }
