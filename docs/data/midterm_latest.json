@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-02T10:51:12.522073+09:00",
-  "article_count": 53,
+  "generated_at": "2026-10-16T09:51:05.785305+09:00",
+  "article_count": 50,
   "projections": {
     "senate": {
-      "r": 51,
-      "d": 47,
+      "r": 48,
+      "d": 50,
       "tossup": 2
     },
     "house": {
-      "r": 215,
-      "d": 185,
-      "tossup": 35
+      "r": 210,
+      "d": 220,
+      "tossup": 5
     },
     "governor": {
       "r": 22,
@@ -19,97 +19,89 @@
     }
   },
   "key_developments": [
-    "Trump's net approval rating hit -27 points in latest Quinnipiac poll, his lowest of second term, creating headwinds for Republicans in midterms.",
-    "Data centers emerged as unexpected wedge issue benefiting Democrats in key red states (Ohio, Texas, Iowa) critical for Senate control.",
-    "Democrats projected to take House control while Senate remains highly competitive with control potentially hinging on just a handful of races.",
-    "Trump deliberately made 2026 midterms a personal referendum by holding first-ever Republican midterm convention and urging voters to vote as if his name is on ballot.",
-    "FBI anti-corruption investigation into Senator Susan Collins was scrapped during Trump's first term, now surfacing amid her 2026 reelection bid."
+    "Trump's low approval ratings and unpopular Iran war are driving Republican losses, with party insiders privately expressing fears of losing House control and multiple GOP-held Senate seats.",
+    "Forecasters have shifted multiple Senate races toward Democrats, including Kansas (Marshall) and Alaska (Sullivan), with Democrats now positioned to potentially flip the Senate for the first time.",
+    "Elon Musk has invested $366 million in the midterms (primarily supporting Republicans), while Sabato's Crystal Ball has moved the House forecast to favor Democrats for the first time this cycle.",
+    "Trump's threat of election interference and FEMA disaster aid delays have become campaign liabilities, with concerns about voting restrictions and federal law enforcement at polling places dominating late-cycle coverage.",
+    "Comparisons to 2006 (Bush's unpopular second midterm) are widespread, with Democrats successfully campaigning in traditionally Republican districts amid economic anxiety and voter frustration."
   ],
   "key_races": {
     "senate": [
       {
-        "state": "OH",
-        "incumbent": "Jon Husted (R)",
+        "state": "AK",
+        "incumbent": "Dan Sullivan (R)",
         "party": "R",
-        "rating": "lean-r",
-        "label": "Ohio Senate",
-        "note": "Democrat Sherrod Brown and Republican Husted clash over data center regulation, with Democrats blocking Husted's bill as key issue."
+        "rating": "lean-d",
+        "label": "Sullivan vs. Peltola",
+        "note": "Democrat Mary Peltola widening lead; Trump invested time here indicating GOP concern; Democrats see opportunity to flip GOP seat."
+      },
+      {
+        "state": "GA",
+        "incumbent": "Jon Ossoff (D)",
+        "party": "D",
+        "rating": "lean-d",
+        "label": "Ossoff vs. Collins",
+        "note": "Democratic incumbent defended seat with fundraising advantage over Republican challenger Mike Collins despite unfavorable polling context."
+      },
+      {
+        "state": "KS",
+        "incumbent": "Roger Marshall (R)",
+        "party": "R",
+        "rating": "tossup",
+        "label": "Marshall vs. Hamilton",
+        "note": "Sabato's Crystal Ball shifted from Leans Republican to Toss-Up, signaling unexpected Democratic competitiveness in traditionally safe red state."
+      },
+      {
+        "state": "NH",
+        "incumbent": "Chuck Morse (R)",
+        "party": "R",
+        "rating": "lean-d",
+        "label": "Morse vs. Pappas",
+        "note": "Democrat Chris Pappas running in competitive race flagged as under-the-radar contest with potential for upset."
       },
       {
         "state": "ME",
         "incumbent": "Susan Collins (R)",
         "party": "R",
-        "rating": "lean-r",
-        "label": "Maine Senate",
-        "note": "Collins faces rising home heating oil costs and resurfaced FBI corruption investigation allegations from Trump's first term."
-      },
-      {
-        "state": "MI",
-        "incumbent": "Debbie Stabenow (D)",
-        "party": "D",
-        "rating": "tossup",
-        "label": "Michigan Senate",
-        "note": "Democrat Abdul El-Sayed's campaign messaging on Medicare for All reportedly falling flat with voters focused on cost-of-living."
-      },
-      {
-        "state": "NC",
-        "incumbent": "Thom Tillis (R)",
-        "party": "R",
         "rating": "lean-d",
-        "label": "North Carolina Senate",
-        "note": "Democrat Roy Cooper leads Republican Michael Whatley by 25 points among independents, reversing Trump's 4-point 2024 margin."
-      },
-      {
-        "state": "TX",
-        "incumbent": "Ted Cruz (R)",
-        "party": "R",
-        "rating": "lean-r",
-        "label": "Texas Senate",
-        "note": "Vice President Vance campaigning to shore up support despite Trump's strong 2024 performance in state."
-      },
-      {
-        "state": "WI",
-        "incumbent": "Tammy Baldwin (D)",
-        "party": "D",
-        "rating": "tossup",
-        "label": "Wisconsin Governor",
-        "note": "Marquette poll shows statistical tie between Republican Tom Tiffany and Democrat David Crowley after Tiffany broke with Trump on trade."
+        "label": "Collins Reelection",
+        "note": "FBI corruption investigation involvement and Trump administration interference concerns have created unprecedented vulnerability for two-decade incumbent."
       }
     ],
     "house": [
       {
-        "state": "US",
-        "incumbent": "Multiple Republicans",
+        "state": "TX-10",
+        "incumbent": "Chris Gober (R)",
         "party": "R",
-        "rating": "likely-d",
-        "label": "House Control",
-        "note": "Democrats projected to take House control; Republicans face historical headwinds as party in power plus high gas prices and Iran war costs."
+        "rating": "lean-r",
+        "label": "Gober (Newly Gerrymandered)",
+        "note": "Former America PAC lawyer in district created through GOP redistricting; flagged as WIRED race to watch due to DOGE/Musk involvement."
+      },
+      {
+        "state": "WI-01",
+        "incumbent": "Unknown (R)",
+        "party": "R",
+        "rating": "tossup",
+        "label": "Wisconsin 1st District",
+        "note": "Under-the-radar competitive race with potential for Democratic pickup in Trump country."
+      },
+      {
+        "state": "IA-03",
+        "incumbent": "Unknown",
+        "party": "R",
+        "rating": "tossup",
+        "label": "Turek (Dem candidate)",
+        "note": "Josh Turek, Paralympic gold medalist, running in Iowa Senate race with grassroots energy despite Republican-leaning state."
       }
     ],
     "governor": [
       {
-        "state": "OH",
-        "incumbent": "Mike DeWine (R)",
-        "party": "R",
-        "rating": "lean-r",
-        "label": "Ohio Governor",
-        "note": "Republican Vivek Ramaswamy falls behind Democrat Amy Acton in poll released less than 50 days before Election Day."
-      },
-      {
-        "state": "MI",
-        "incumbent": "Gretchen Whitmer (D)",
+        "state": "PA",
+        "incumbent": "Josh Shapiro (D)",
         "party": "D",
-        "rating": "safe-d",
-        "label": "Michigan Governor",
-        "note": "Democratic nominee Jocelyn Benson, Michigan Secretary of State, running in state trending Democratic."
-      },
-      {
-        "state": "NC",
-        "incumbent": "Roy Cooper (D)",
-        "party": "D",
-        "rating": "lean-d",
-        "label": "North Carolina Governor",
-        "note": "Democrat Roy Cooper demonstrates strong independent voter appeal with 25-point lead among that critical bloc."
+        "rating": "likely-d",
+        "label": "Shapiro Reelection",
+        "note": "Former President Obama endorsed Shapiro's reelection, boosting his political prospects as potential 2028 presidential candidate."
       }
     ]
   },
