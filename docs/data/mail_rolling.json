@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16 14:31 JST",
+  "updated_at": "2026-10-16 14:34 JST",
   "total": 50,
-  "toyota_summary": "France and Germany are negotiating a deal that would loosen the definition of \"Made in Europe\" components while relaxing CO2 emissions targets, but disagreements over the specifics have delayed a final agreement. The talks hinge on how much automotive production can shift outside the EU while still qualifying as European-made, and how much flexibility automakers get on 2035 zero-emissions mandates.\n\nThis matters because the rules directly affect where and how cars are built across Europe. Looser local-content rules could push production toward cheaper labor outside the bloc, while weaker emissions standards could delay the transition to electric vehicles that European automakers have already committed billions to build. A deal that bends on both fronts would reshape the competitive landscape for every manufacturer with European plants.\n\nWatch whether the UK joins these negotiations—British officials are publicly calling for Europe and the EU to act together against Chinese automakers, signaling appetite for a wider alignment on production and trade rules.",
+  "toyota_summary": "EUの2035年内燃機関禁止規制が軟化しつつある。フランスとドイツは、実質的なCO2目標を80%に引き下げ、クレジットの繰越を認める内容で調整を進めているが、気候変動問題を懸念するドイツ社民党（SPD）の反対により、最終合意は遅れている。\n\nUSMCA（米国・メキシコ・カナダ協定）は、トランプ政権の任期中、弱体化した枠組みとして存続する公算が大きく、自動車への分野別関税も維持される見通しである。二国間協議を通じて救済措置を取り付けられる可能性は、カナダよりもメキシコの方が高い。\n\n参考情報として、中国製EVへの関税をめぐる英国とEUの協調動向を付記する。",
   "emails": [
     {
       "ts": "20261016_1403",
@@ -11,7 +11,12 @@
       "date_label": "OCT 16  14:03",
       "read_min": 12,
       "toyota": true,
-      "excerpt": "フランスとドイツが「ヨーロッパ製」の定義緩和と自動車排出基準の柔軟化を交換条件とする取引"
+      "excerpt": "フランスとドイツが「ヨーロッパ製」の定義緩和と自動車排出基準の柔軟化を交換条件とする取引",
+      "subject_en": "French-German deal on cars close",
+      "html": "data/pdfs/20261016_1403_French-German_deal_on_cars_close.html",
+      "summary_en": "France and Germany are nearing a deal linking the EU's Industrial Accelerator Act to looser CO2 rules for automakers, though no final agreement was reached as of Thursday night. The draft would set an effective 2035 emissions cut of 80% instead of the Commission's original 100% target, while dropping green steel investment requirements that industry lobbyists say undermine the sector. It would also let automakers bank 2029 CO2 credits for use in years they miss targets, addressing a longstanding industry request.",
+      "summary_ja": "フランスとドイツは、EUの「産業加速化法」と自動車メーカー向けCO2規制の緩和を結びつける取引の合意に近づいているが、木曜夜の時点ではまだ最終合意には至っていない。草案では2035年の実質的な排出削減目標を、欧州委員会が当初提案した100%ではなく80%に設定する一方、グリーン鉄鋼への投資要件を撤廃する方針で、鉄鋼業界のロビイストはこれが業界を損なうと懸念を示している。また、自動車メーカーが目標達成年に備えて2029年分のCO2クレジットを繰り越せる仕組みも盛り込まれ、業界の長年の要望に応える内容となっている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261016_1339",
@@ -21,7 +26,12 @@
       "date_label": "OCT 16  13:39",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Zelenskyy fights for Europe’s attention",
+      "html": "data/pdfs/20261016_1339_Zelenskyy_fights_for_Europe’s_attention.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261016_0801",
@@ -31,7 +41,12 @@
       "date_label": "OCT 16  08:01",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "バーナム英首相の介護計画は短期的な増税を伴うため、有権者の反発とヒーリー財務相との緊張を"
+      "excerpt": "バーナム英首相の介護計画は短期的な増税を伴うため、有権者の反発とヒーリー財務相との緊張を",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261016_0801_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261016_0622",
@@ -41,7 +56,12 @@
       "date_label": "OCT 16  06:22",
       "read_min": 5,
       "toyota": true,
-      "excerpt": "フランスとドイツは「メイド・イン・ヨーロッパ」ルールとCO2排出削減目標、2035年のガソリ"
+      "excerpt": "フランスとドイツは「メイド・イン・ヨーロッパ」ルールとCO2排出削減目標、2035年のガソリ",
+      "subject_en": "Late discord delays Franco-German deal on Made in Europe, car emissions",
+      "html": "data/pdfs/20261016_0622_Late_discord_delays_Franco-German_deal_on_Made_in_.html",
+      "summary_en": "France and Germany have stalled on a planned deal linking stricter 'Made in Europe' content rules for autos to easing the EU's 2035 combustion engine ban, after Germany's Social Democrats objected over climate concerns. The draft agreement, first reported in July, would have had Berlin accept tougher local-content criteria in exchange for more flexibility on CO2 targets, a longstanding German demand. Officials on both sides say talks continue, but the delay underscores how fragile the Franco-German compromise on EU auto policy remains.",
+      "summary_ja": "独仏両国は、自動車の「メイド・イン・ヨーロッパ」規制強化と2035年の内燃機関禁止緩和を取引する合意案で、ドイツ社民党が環境目標の後退を懸念して反対したため、合意が遅れている。7月に報じられたこの草案では、ドイツがフランスの求める厳格な域内調達基準を受け入れる代わりに、CO2削減目標に柔軟性を持たせるというドイツの長年の要求を反映する内容だった。両政府は協議継続を強調しているが、今回の遅延はEU自動車政策をめぐる独仏妥協がいかに不安定かを浮き彫りにしている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261016_0607",
@@ -51,7 +71,12 @@
       "date_label": "OCT 16  06:07",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "MENA Crisis Update",
+      "html": "data/pdfs/20261016_0607_MENA_Crisis_Update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261016_0601",
@@ -61,7 +86,12 @@
       "date_label": "OCT 16  06:01",
       "read_min": 9,
       "toyota": true,
-      "excerpt": "USMCAは形式上は存在し続けるが機能しない「ゾンビUSMCA」が2029年1月まで続く可能性が8"
+      "excerpt": "USMCAは形式上は存在し続けるが機能しない「ゾンビUSMCA」が2029年1月まで続く可能性が8",
+      "subject_en": "Conference Call Notes: USMCA Update",
+      "html": "data/pdfs/20261016_0601_Conference_Call_Notes__USMCA_Update.html",
+      "summary_en": "Eurasia Group expects USMCA to survive in name only through Trump's term, with 80% odds of a 'Zombie USMCA' where broad exemptions remain but sectoral tariffs on autos, steel, and aluminum persist. Mexico has better odds (65% vs. 40%) than Canada of winning Section 232 tariff relief via a limited bilateral deal, while a full agreement collapse remains unlikely. Auto tariffs will stay the top source of trade friction, though Washington is unlikely to follow through on threatened 50% tariffs on Canadian vehicles.",
+      "summary_ja": "ユーラシア・グループは、トランプ政権任期中はUSMCAが実質的に機能しない「ゾンビUSMCA」状態が続く可能性を80%とみている。多くの適合品目の免税は維持される一方、自動車・鉄鋼・アルミなどへのセクター別232条関税は存続する見通し。メキシコ(65%)はカナダ(40%)より、限定的な二国間合意を通じて232条関税の緩和を得る可能性が高く、自動車関税が今後も貿易摩擦の主因となる一方、カナダ製自動車への50%関税実施の可能性は低いとされる。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261016_0428",
@@ -71,7 +101,12 @@
       "date_label": "OCT 16  04:28",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Strong export surge to dampen scale of fiscal support",
+      "html": "data/pdfs/20261016_0428_Strong_export_surge_to_dampen_scale_of_fiscal_supp.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261016_0328",
@@ -81,7 +116,12 @@
       "date_label": "OCT 16  03:28",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "New protests further strain Modi's electoral coalition",
+      "html": "data/pdfs/20261016_0328_New_protests_further_strain_Modi's_electoral_coali.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261016_0227",
@@ -91,7 +131,12 @@
       "date_label": "OCT 16  02:27",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Ukraine: Zelensky holds firm despite US pressure",
+      "html": "data/pdfs/20261016_0227_Ukraine__Zelensky_holds_firm_despite_US_pressure.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261016_0217",
@@ -101,7 +146,12 @@
       "date_label": "OCT 16  02:17",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US likely to escalate against Iran after midterms",
+      "html": "data/pdfs/20261016_0217_US_likely_to_escalate_against_Iran_after_midterms.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261016_0213",
@@ -111,7 +161,12 @@
       "date_label": "OCT 16  02:13",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU leaders’ summit descends into 3-hour argument over taxing car emissions",
+      "html": "data/pdfs/20261016_0213_EU_leaders’_summit_descends_into_3-hour_argument_o.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261016_0115",
@@ -121,7 +176,12 @@
       "date_label": "OCT 16  01:15",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "UK is prepared to align with EU tariffs on Chinese EVs, minister indicates",
+      "html": "data/pdfs/20261016_0115_UK_is_prepared_to_align_with_EU_tariffs_on_Chinese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261016_0031",
@@ -141,7 +201,12 @@
       "date_label": "OCT 16  00:08",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump seeks to maintain GOP influence with red-state campaigning",
+      "html": "data/pdfs/20261016_0008_Trump_seeks_to_maintain_GOP_influence_with_red-sta.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_2256",
@@ -150,8 +215,13 @@
       "pdf": "data/pdfs/20261015_2256_Von_der_Leyen_eyes_curbs_on_Chinese_chemicals,_mac.pdf",
       "date_label": "OCT 15  22:56",
       "read_min": 2,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Von der Leyen eyes curbs on Chinese chemicals, machinery next",
+      "html": "data/pdfs/20261015_2256_Von_der_Leyen_eyes_curbs_on_Chinese_chemicals,_mac.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_2247",
@@ -161,7 +231,12 @@
       "date_label": "OCT 15  22:47",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "NATO allies to meet over Black Sea drone attacks on shipping ",
+      "html": "data/pdfs/20261015_2247_NATO_allies_to_meet_over_Black_Sea_drone_attacks_o.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_2237",
@@ -171,7 +246,12 @@
       "date_label": "OCT 15  22:37",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Romania: Niculescu nears government deal",
+      "html": "data/pdfs/20261015_2237_Romania__Niculescu_nears_government_deal.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_2235",
@@ -181,7 +261,12 @@
       "date_label": "OCT 15  22:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Why Ukrainian strikes on data centers are a real problem for Russia — and beyond",
+      "html": "data/pdfs/20261015_2235_Why_Ukrainian_strikes_on_data_centers_are_a_real_p.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_2202",
@@ -191,7 +276,12 @@
       "date_label": "OCT 15  22:02",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Global Minerals Update Ahead of LME Week - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261015_2202_Global_Minerals_Update_Ahead_of_LME_Week_-_EG_Conf.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_2126",
@@ -200,8 +290,13 @@
       "pdf": "data/pdfs/20261015_2126_Hungary__Euro_adoption_likely_by_2032.pdf",
       "date_label": "OCT 15  21:26",
       "read_min": 6,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Hungary: Euro adoption likely by 2032",
+      "html": "data/pdfs/20261015_2126_Hungary__Euro_adoption_likely_by_2032.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_2125",
@@ -210,8 +305,13 @@
       "pdf": "data/pdfs/20261015_2125_Fiscal_pressures_narrow_room_to_respond_to_the_nex.pdf",
       "date_label": "OCT 15  21:25",
       "read_min": 7,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Fiscal pressures narrow room to respond to the next recession",
+      "html": "data/pdfs/20261015_2125_Fiscal_pressures_narrow_room_to_respond_to_the_nex.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_2105",
@@ -221,7 +321,12 @@
       "date_label": "OCT 15  21:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How Putin’s favorite sport reopened the door to international contests",
+      "html": "data/pdfs/20261015_2105_How_Putin’s_favorite_sport_reopened_the_door_to_in.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_2102",
@@ -231,7 +336,12 @@
       "date_label": "OCT 15  21:02",
       "read_min": 3,
       "toyota": true,
-      "excerpt": "トランプ第2期政権下でのUSMCA（米国・メキシコ・カナダ協定）の見通しと米国とメキシコ、"
+      "excerpt": "トランプ第2期政権下でのUSMCA（米国・メキシコ・カナダ協定）の見通しと米国とメキシコ、",
+      "subject_en": "USMCA update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261015_2102_USMCA_update_-_EG_Conference_Call,_REMINDER.html",
+      "summary_en": "Eurasia Group analysts will host a call on October 15 to outline USMCA scenarios through 2028 and the prospects for US trade deals with Mexico and Canada, topics directly relevant to automakers reliant on North American supply chains. The discussion will also cover domestic political dynamics around tariffs in the US, Mexico, and Canada, which could affect auto production costs and cross-border parts flows. Automotive industry stakeholders may want to submit questions in advance given the sector's exposure to trade policy shifts.",
+      "summary_ja": "ユーラシア・グループのアナリストが10月15日、2028年までのUSMCAの見通しと米国・メキシコ・カナダ間の貿易交渉の最新状況について電話会議を開催する。北米のサプライチェーンに依存する自動車業界にとって、関税を巡る3カ国それぞれの国内政治情勢も焦点となる見込みで、生産コストや部品の国境を越えた流通に影響を与える可能性がある。貿易政策の変化に敏感な自動車業界関係者は、事前に質問を提出することが推奨されている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_2051",
@@ -241,7 +351,12 @@
       "date_label": "OCT 15  20:51",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Six more countries demand halt to EU’s new emissions trading scheme",
+      "html": "data/pdfs/20261015_2051_Six_more_countries_demand_halt_to_EU’s_new_emissio.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_2025",
@@ -251,7 +366,12 @@
       "date_label": "OCT 15  20:25",
       "read_min": 3,
       "toyota": true,
-      "excerpt": "英国のサワール貿易相は、中国の自動車産業での優位性に対抗するため、英国とEUが協力して「"
+      "excerpt": "英国のサワール貿易相は、中国の自動車産業での優位性に対抗するため、英国とEUが協力して「",
+      "subject_en": "UK minister: Brits and EU must ‘act in lockstep’ to counter Chinese carmaking dominance",
+      "html": "data/pdfs/20261015_2025_UK_minister__Brits_and_EU_must_‘act_in_lockstep’_t.html",
+      "summary_en": "UK Trade Minister Anas Sarwar called for Britain and the EU to coordinate closely on countering China's dominance in electric vehicles, including possible alignment on tariffs. The push comes as tightening Brexit rules of origin threaten to impose a 10% EV tariff starting next year unless more parts are sourced from the UK or EU. Britain is also seeking inclusion in the EU's industrial policy programs, though its reluctance to match EU tariffs on Chinese EVs has drawn criticism from German officials.",
+      "summary_ja": "英国のアナス・サーワー貿易相は、電気自動車（EV）分野における中国の優位に対抗するため、英国とEUが関税政策などで緊密に連携すべきだと述べた。来年から発効する原産地規則の厳格化により、英国・EU産部品の比率が基準を満たさなければ10%の関税が課される可能性があり、これが協調を急ぐ背景にある。英国はEUの産業政策プログラムへの参加も求めているが、中国製EVへの関税で足並みを揃えていないことがドイツ側から批判されている。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_1906",
@@ -261,17 +381,27 @@
       "date_label": "OCT 15  19:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Frontex suspends reintegration program after blowing through its budget ",
+      "html": "data/pdfs/20261015_1906_Frontex_suspends_reintegration_program_after_blowi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_1806",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/10/15",
       "pdf": "data/pdfs/20261015_1806_「ジェトロ・ビジネス短信」2026_10_15.pdf",
       "date_label": "OCT 15  18:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" 2026/10/15",
+      "html": "data/pdfs/20261015_1806_「ジェトロ・ビジネス短信」2026_10_15.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261015_1806_「ジェトロ・ビジネス短信」2026_10_15_en.pdf"
     },
     {
       "ts": "20261015_1805",
@@ -281,7 +411,12 @@
       "date_label": "OCT 15  18:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How Russia plans to revive its ties with Slovakia",
+      "html": "data/pdfs/20261015_1805_How_Russia_plans_to_revive_its_ties_with_Slovakia.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_1756",
@@ -291,7 +426,12 @@
       "date_label": "OCT 15  17:56",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261015_1756_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_1743",
@@ -301,7 +441,12 @@
       "date_label": "OCT 15  17:43",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe is preparing a more robust response to Russia's hybrid war",
+      "html": "data/pdfs/20261015_1743_Europe_is_preparing_a_more_robust_response_to_Russ.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_1722",
@@ -311,7 +456,12 @@
       "date_label": "OCT 15  17:22",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Macron and Merz hold keys to an EU budget deal — but may be too weak to use them",
+      "html": "data/pdfs/20261015_1722_Macron_and_Merz_hold_keys_to_an_EU_budget_deal_—_b.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_1643",
@@ -320,8 +470,13 @@
       "pdf": "data/pdfs/20261015_1643_EU__Draghi_agenda_enters_critical_window_ahead_of_.pdf",
       "date_label": "OCT 15  16:43",
       "read_min": 6,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EU: Draghi agenda enters critical window ahead of 2027 election cycle",
+      "html": "data/pdfs/20261015_1643_EU__Draghi_agenda_enters_critical_window_ahead_of_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_1625",
@@ -331,7 +486,12 @@
       "date_label": "OCT 15  16:25",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU leaders gather to talk energy crisis, China and budget — live updates",
+      "html": "data/pdfs/20261015_1625_EU_leaders_gather_to_talk_energy_crisis,_China_and.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261015_1400",
@@ -372,7 +532,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "Announcement of New JETRO Regional and Analysis Reports (October 15, 2026 Issue)",
+      "subject_en": "Notification of New JETRO Regional and Analysis Reports (October 15, 2026 Issue)",
       "html": "data/pdfs/20261015_1317_ジェトロ地域・分析レポートの新着のご案内（2026年10月15日号）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -583,5 +743,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "The EU's 2035 combustion engine ban is softening: France and Germany are negotiating a deal cutting the effective CO2 target to 80% and allowing credit banking, though German SPD objections over climate concerns have delayed final agreement.\n\nUSMCA will likely persist as a weakened framework through Trump's term, with sectoral tariffs on autos staying in place; Mexico has better odds than Canada of securing relief via a bilateral deal.\n\nUK-EU coordination on Chinese EV tariffs is provided for reference."
 }
