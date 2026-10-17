@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17 18:05:02",
+  "generated_at": "2026-10-18 01:55:14",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-17 18:04:23",
+      "last_checked": "2026-10-18 01:54:36",
       "items": [
+        {
+          "uid": "e96caa318dad",
+          "date": "2026-10-12",
+          "title": "Buy European need not break the bank – Why the EU can afford stronger Buy European and low-carbon requirements - Jacques Delors Centre",
+          "summary": "EU産業加速法案（IAA）の文脈では、欧州産業の競争力強化と低炭素化を目指す「Buy European（欧州産の購入促進）」および低炭素要件の強化が、追加的な財政負担を招くことなく実現可能であることが、本分析により示されている。これは、戦略的な産業投資と規制枠組みの最適化を通じて、欧州経済全体の長期的な成長と国際競争力を両立できることを意味している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUThhVXlkc2wyZk1BLVNuR2RJNlNTSkNqbmp1OUlSQW05ZVBRbldzLTBHRkZWSTBEZThaMldvRFBzQWUzdFNsZEliR2JNaDlodEI5TjdacHpEZU1tR3h3T2doSGZfNHRCMFZGTG5ES2lJYWhZZHJJcm9hQmFIdTRVVGc3TmZNZUs1Qk91NW5NdTQ2bVZSZU1GOG0zbS1kd1RX?oc=5",
+          "added_at": "2026-10-18 01:54:34"
+        },
         {
           "uid": "4d1cb0315756",
           "date": "2026-10-16",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXM5MjR2ekQ1WWdZdlM1VEZJU3ZGUkU5NHBIWnRMOHNwdUtjVFZUWFlORnF5RzFVLUVRRExlNGhhOEM3QU9JUVVhaFhXeUcwT0oxdUNUTEZWV0lrSWVERm14c3NmTGFMT2hfdUstNWE5SjZ3T2lkN0xkN2lUNmQ2REVYSWNaRW9uUkNwOEJCZw?oc=5",
           "added_at": "2026-07-17 00:40:42"
-        },
-        {
-          "uid": "5e4c5daeefd1",
-          "date": "2026-07-14",
-          "title": "Policy brief: What’s in the Industrial Accelerator Act? - ENDS Europe",
-          "summary": "欧州産業加速法案（IAA）は、クリーンテクノロジー産業の迅速な展開を促進し、規制手続きの簡素化・加速化、許認可期間の短縮、および重要インフラプロジェクトの優遇措置を通じて、欧州の産業競争力強化と脱炭素化を目指す法案である。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1NzamhPRDhRS3lvY0d0SXZzMTZUakd3MTR3SjdOTUZWdTZLRlpobEJITDhGenlSTHdDdm5mS1o5NUVWQ21jWU1hUG1LTUF0cWR6bFd0RFJnVWFrR2Z6V2lyT1NpSFpXR3V5ZlMxci16dHVCMU9ZekFlOEVPQlNuZDludk1oRGdseWhrSnRKT0RtZw?oc=5",
-          "added_at": "2026-07-17 00:40:42"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-17 18:04:34",
+      "last_checked": "2026-10-18 01:54:45",
       "items": [
         {
           "uid": "cbb820a2761c",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-17 18:04:51",
+      "last_checked": "2026-10-18 01:55:03",
       "items": [
+        {
+          "uid": "1f13131c51ed",
+          "date": "2026-09-12",
+          "title": "China Rare Earth Group HREE Processing Network Explained - Rare Earth Exchanges",
+          "summary": "中国のレアアース企業グループがHREE（重希土類元素）の処理ネットワークを構築しており、この統合されたサプライチェーンが中国によるレアアース輸出管理の重要な基盤となっています。このネットワークを通じた処理・精製能力の集約により、中国は世界的なレアアース供給の支配力を強化しています。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHZjekZqUDNuZklkZkp0cE1tNFlvMlFCdWJkUGtZaHFoQmdzT2d3WG1SOVNyUWVEMUhoazNrQktreGZQQjlPQW1KcXZzMlpSbEtaOEM2M2QwWGN0QzRxeXcxNWdhTGdjQURHUHZYZ2JpRlc0dUxZbTF4Zkx2WXZ4TUo3YjRGOTB5UzJN?oc=5",
+          "added_at": "2026-10-18 01:54:59"
+        },
+        {
+          "uid": "4092d067c8a5",
+          "date": "2026-09-02",
+          "title": "Brazil’s Congress approves bill establishing national policy on critical minerals - Mining.com",
+          "summary": "ブラジル議会は重要鉱物の国家政策を確立する法案を承認し、中国が支配するレアアースやレアメタルなどの重要鉱物の供給源多様化を進める動きが国際的に広がっています。これは中国によるレアアース輸出管理に対抗する各国の戦略的な対応の一例となっています。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZW1wMzFOZVZISGw0TmdSNmRMVlVLVTBtNkJzeUhneUlEUF9hTUpNNmZmQnNqQlE2cmZiSWNKNWk1Nlh2aHBfcGdyM3dnb2FSQkVNb3VmVnBoSXZGM2ZDaS00SURablUyNFY4cjR6THUyZ3k3eUxvWnNMal80Z05VWDlXNjhwWDRXQU1qYWw3ekNLeC1HYmFVN1Y3UzJuZzhqYjI5ZV9fS3ZoSzJ0?oc=5",
+          "added_at": "2026-10-18 01:54:59"
+        },
         {
           "uid": "300a03109431",
           "date": "2026-08-21",
@@ -6011,26 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMnd3dlFjSGZnUG5PVXJKbU9WRm00QkFzTnhfdE92M1JNbWJUNm9tZzRQaWZ4OVVnN1lRSjlkNDZHT3lNQWVTalZUNUVXMEV0T2xaOXQ2c1c4VUVYblBnQmdTOVVVTUZmcDJZb0tJQ2E2bUM3YXhBbXFpdDU4N0Z4R0ZCTTk?oc=5",
           "added_at": "2026-09-13 19:03:40"
-        },
-        {
-          "uid": "ca711b002d0a",
-          "date": "2026-07-30",
-          "title": "The Trump Administration’s Many Tools for Seizing Critical Minerals Abroad - Public Citizen",
-          "summary": "# 要約\n\nトランプ政権はレアアース等の戦略的鉱物を確保するため、外国資産の没収や投資規制など複数の法的手段を駆使する可能性があり、これは中国がレアアース輸出を管理・制限する動きへの対抗措置として機能する可能性がある。米国が供給源の多角化や調達手段の拡大を進めることで、中国のレアアース輸出管理による影響力行使に対抗しようとしている。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzF5Q0otTE1NUlI2TFhUWEpnUVF6VFpKVmlDTW96YnotM0pBTDRIQjRvS0pfWjNvdDU2TlFSZ3hRd0ZCWnQ2cjZRNWp2R09FeE12M0ZUTFBveG9aYTFjSlh4SnpBbTdvaXlTVzEzdWlzaUxJV0pxUFpacmMtODdpV1N0Nmw3Znoyc1UtWGU4ZG5WeVNWNHVEb24zdGV4a0hZakNoOGltZjNQQQ?oc=5",
-          "added_at": "2026-09-13 19:03:40"
-        },
-        {
-          "uid": "86fa03656489",
-          "date": "2026-07-27",
-          "title": "Buying Time, Not Immunity: Japan's Rare Earth Dilemma - orfonline.org",
-          "summary": "日本はレアアースの中国への依存度を低減させるため、オーストラリアやベトナムなどの代替供給源の開発や備蓄の拡大に取り組んでいるが、完全な独立は困難であり、中国の輸出管理政策のリスク回避は時間稼ぎに過ぎない状況にある。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWk5aW1TaE50WU94VnloTW00NmZGU0Q0NlpNQ1NTZDVrb3NMQlZSQ3RueUxjQm8zdVFxN193UFNYNUdzZ1ZFWklJTW12VEhVclNRcWVmcUdyQU1mb01NcUhiSzFlMlBuNFR5UzlqNTNwd0lvZU9ucG5jakV5dHdqYmZhU0tNUnVXc0tkejBtWndoOTla?oc=5",
-          "added_at": "2026-09-13 19:03:40"
         }
       ]
     },
@@ -6041,8 +6041,48 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-17 18:05:02",
+      "last_checked": "2026-10-18 01:55:14",
       "items": [
+        {
+          "uid": "6f3fb621c652",
+          "date": "2026-09-09",
+          "title": "Trump administration blasts Ford’s business deals with Chinese firms - Newswav",
+          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判しており、自動車メーカーの対中ビジネスが政治的な標的となっている。",
+          "source": "下院中国特別委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN0pYak5lUFA2ZkxqQ2VkRFRCUDNyaER6N0lEZEx6SUJlVkdENUJrUzBkSm8ycmszWkgtZmxEZVFfemZsR3FiZ2t6MHBFRDd3SkpJbk9yTUVkYVh6NVZNc3dwcDZ1TndCZWNGQlk1RkNxVzQ4ZnJRaHdERkt1d0ZSWW5xZzNTZjJNdTNVSkExcHlleDFxejNNeDEwbExjSWdGdVNXTEluTDVPMm1ydEE?oc=5",
+          "added_at": "2026-10-18 01:55:09"
+        },
+        {
+          "uid": "226fcf4eb93a",
+          "date": "2026-10-16",
+          "title": "China ready to cooperate with EU in tackling global imbalances - Reuters",
+          "summary": "中国はEUとの協力を表明しているが、自動車産業における中国との深い提携は、西側民主主義国家の地政学的リスク懸念や経済安全保障の観点から政治的批判の対象となっている。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTI0SWJwQ0RXZkZjS1VGLXpYZWIxQnZLdmFWZlVyWlJQRXhpTlR6djVseEZEb2dzOTJVZXd2ZVh3dkRYNFZIUmx2cEZNR1NOQXZyUzBLTTB2TmFUN2ZQbThHeE90eHk4RW1rcFlHdHVxUHpnVTZxbDB0d29BVS1vSUgtdWVDdHJJbktQbFVMSE9MT1dLZFVtLW9wWHlNQlNmYTRaOVJ5TQ?oc=5",
+          "added_at": "2026-10-18 01:55:09"
+        },
+        {
+          "uid": "4b27f777ea24",
+          "date": "2026-10-08",
+          "title": "European industry groups call for urgent EU action on China trade - Reuters",
+          "summary": "# 要約\n\n欧州の産業団体が、中国との貿易問題に対して欧州連合（EU）の緊急対応を求めており、これは自動車メーカーを含む産業界が中国との提携戦略について政治的圧力を受けていることを示唆している。EUは中国との競争激化と技術流出への懸念に対応するため、産業保護政策の強化が求められている。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2lOVm5tWG83Uzl6OHA2UGlPN1M2OHM1aHJXTGlkTjU1YUY4S1BodWhERHZXcl9nRGdOVV9tallCdF9EbTM0TGdUbU1rVzgyN3Z4QVQ0cDhJWkJ6ZG51amk1aTBDN3ZsRzZLUnFqRjVSVlNaWF90RF9ON0dzNHpnekh0ZXRmMVNyNzBVeWdqbHp0WFJydHRuYmdpTHlfRWc5bElaTXVBeU1MZw?oc=5",
+          "added_at": "2026-10-18 01:55:09"
+        },
+        {
+          "uid": "fc6cbd5f543d",
+          "date": "2026-10-17",
+          "title": "Divided we fall: Violent partisanship and the threat to national security",
+          "summary": "政治的分断と暴力的な党派対立が国家安全保障を脅かす中で、軍や政府の愛国心あるメンバーは個人の偏見を乗り越え、国益のために行動することが求められている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6154838-political-distractions-national-security/",
+          "added_at": "2026-10-18 01:55:09"
+        },
         {
           "uid": "66e0411d6eaf",
           "date": "2026-10-01",
@@ -8001,46 +8041,6 @@
           "source": "Reuters",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa0pJYVZLX3poanZqbVNDbGl2SXkycG9MYVhKNVNpU1g0YTlKaTZieUNCbm5rLTkzMGpfc29fb0FfY3lKUVEyZXFwbXhwSzRLeV82dGVtSFpsby1uUDRsYW4zSjF3VHBYLUd1Z25JdEdONUpxN0tuejhVSGJnSl9ucFNxZURkTnhyNkptV3ZlcnlsYkoxQ3FRbzlSMzF3Q1d0TkZZMk44bnhFME5uY1hJ?oc=5",
-          "added_at": "2026-09-22 13:37:37"
-        },
-        {
-          "uid": "f74704c58f1b",
-          "date": "2026-09-18",
-          "title": "Report finds 'culture of risk aversion' hindered oversight of SVB, Fed official says - Reuters",
-          "summary": "シリコンバレー銀行(SVB)の経営危機は、連邦準備制度理事会(FED)が「リスク回避の文化」により十分な監督を実施できなかったことが原因であったと報告書が指摘しており、この事例は金融規制の課題を示唆している。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0lrd1l3TVdweDJUSV8ybjRhbnhfTmhzWEcxUjZhNkNRaTRGN21Ob1VYT3Q4OVF2d2toWEdXM1dvTk5NenhHeUY0RjVidHVxQnZBS2RraGNOay1vN0ZQd3llUHRnVGV5a2hMMUtncm10ZWlqTG9UMk1CeGhWSzNQaGF1RTRWWEkxUmZMaGw4R0ZuRXh6UXBzOGN5Z19Hc2x2UVNfVVVpYW1ldlNMZnRvdkVQdnZMcW1McDczREVqWTdXM0JHRVBRaFlaWQ?oc=5",
-          "added_at": "2026-09-22 13:37:37"
-        },
-        {
-          "uid": "113937483a94",
-          "date": "2026-09-21",
-          "title": "Rogers calls for end to war in Iran: ‘Michigan families can’t afford to wait’",
-          "summary": "申し訳ありませんが、提供いただいた記事は「イランの戦争終結」をテーマにしており、「自動車メーカーの対中提携への政治的批判」とは関連がありません。そのため、指定された文脈での要約は対応できません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/campaign/6102630-rogers-iran-war-gas-tax/",
-          "added_at": "2026-09-22 13:37:37"
-        },
-        {
-          "uid": "e18243cf328a",
-          "date": "2026-09-21",
-          "title": "Death of Presley Gerber, Cindy Crawford’s son, investigated as suspected overdose, reports say",
-          "summary": "この記事は有名モデルの息子の死亡事件についての内容であり、自動車メーカーの対中提携への政治的批判とは無関係です。したがって、要約することはできません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/blogs/in-the-know/6102393-presley-gerber-death-cindy-crawford/",
-          "added_at": "2026-09-22 13:37:37"
-        },
-        {
-          "uid": "68621c20fb82",
-          "date": "2026-09-21",
-          "title": "Bessent says US, Chinese officials considering lowering tariffs on ‘noncritical’ items",
-          "summary": "米国財務長官ベッセント氏は、米中両国が「非重要」製品の関税引き下げを検討していると述べており、これは自動車産業における中国との提携に対する米国の政治的圧力が関税交渉の形で展開されていることを示唆している。米中間の経済的緊張緩和の交渉が進む中で、自動車メーカーの対中事業戦略も政治的な関税政策の影響を受ける可能性がある。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6102128-us-china-lowering-tariffs/",
           "added_at": "2026-09-22 13:37:37"
         }
       ]
