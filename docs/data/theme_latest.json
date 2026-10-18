@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 18:23:38",
+  "generated_at": "2026-10-19 02:09:50",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-18 18:22:56",
+      "last_checked": "2026-10-19 02:09:15",
       "items": [
         {
           "uid": "fc272cc2c71a",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-18 18:23:05",
+      "last_checked": "2026-10-19 02:09:27",
       "items": [
+        {
+          "uid": "d8fd427ed5d4",
+          "date": "2026-09-14",
+          "title": "President Donald Trump is Now \"Okay\" with Chinese Automakers Coming to the U.S., But Brands Like Ford Are Begging Him Not To, Which is Quite Ironic - Autonocion.com",
+          "summary": "トランプ大統領は中国自動車メーカーの米国参入を容認する姿勢を示す一方で、フォードなどの米国自動車大手はこれに反対するよう要請しており、米国接続車両安全保障法（S.4429）はこうした相反する利益のなか、中国製自動車の安全保障上のリスクに対する規制の必要性を背景としている。",
+          "source": "自動車メーカー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NWWpWNDVPU3VIMVdsai0tTWo1ZXFvRFQwWmVlR1RKRVdPUGtMZk81cU5iWGVpWFh2cXNWRnVQM3Z0RE5aUWNMV2JVM0NQWjJGMlA3YVRvZzdsUzNVLVdNRWtjNDhmT3FDUHpZUUdSSnhkLXQ3?oc=5",
+          "added_at": "2026-10-19 02:09:24"
+        },
         {
           "uid": "cbb820a2761c",
           "date": "2026-08-03",
@@ -4010,16 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94aHMzQ0NaYVpjS1cyWVo3eFYwdUlKOWZwb1oyZ2UtZGlrRDE0SGk1OGVuTEVIcVkyLWNaN21sbHp5d2VWb2IwSEZweXJPUFNJa1ZvZTdxUTl1YzBDYnBweU5mQXBqS3ZjNXB4MkpKcjZZb0FENFU4bFNEeUVadw?oc=5",
           "added_at": "2026-08-06 01:02:33"
-        },
-        {
-          "uid": "6ef1f7e24824",
-          "date": "2026-05-11",
-          "title": "Lawmakers Push Donald Trump to Maintain Ban on Chinese Vehicles Before Xi Jinping Meeting - Yahoo",
-          "summary": "米国の議員らが、習近平主席との会談を控えるドナルド・トランプ前大統領に対し、S.4429法案に基づく中国車への禁止措置の維持を促しており、国家安全保障上の懸念から中国製車両の米国市場参入を阻止する圧力が高まっている。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ0dkd3pCVE1ETUhsS2daR1ZqbjA5V0ZjZ1pQalRZNDNFbzY1R01HdzJwVzgtYk9hd3NWY2FjbDJoXzV4WUVjUy1vd0I0cy1zMkoyZU5NOEREcWpCS2hrYUlMU2o3eU96N3FGRXdNRkRwTXJDaTdXTDFOQmd6anFuNVYzZXVmMllrZnYzQTQ3dTM?oc=5",
-          "added_at": "2026-08-05 16:42:05"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-18 18:23:27",
+      "last_checked": "2026-10-19 02:09:43",
       "items": [
+        {
+          "uid": "ba2c4c2c74f9",
+          "date": "2026-07-22",
+          "title": "US government tightens rules on critical minerals, defense supply chain waivers - Fastmarkets",
+          "summary": "米国政府は防衛サプライチェーンの脆弱性に対応するため、レアアース等の戦略的鉱物に関する規制を強化し、ワイバー(適用除外)制度を厳格化している。この動きは、中国のレアアース輸出管理に対抗し、米国の供給チェーンの自立性を確保する狙いがある。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSl9vQTdKTURQQW1aZ0p2YVNUeTlZRk1SVG9BZ3dvMi1DdmlJTzAtUTI3VVZ5WnhfZlRUX3o3bGZBaV9EQW1VQjlMUXMtM3NzNkxkU3VOdW16d3JIdnJOUXBhbWMzTkRmUTRDa1RYcHpZWk5kSG93d1NuYU1Nbm11SHAwNXBRelk1MmhMUmYzUDJwY3dsTWpqa0FLVzhCMTZsRDc0WnMzQVRiT0h1Q3dwTXBaOFJqNVk?oc=5",
+          "added_at": "2026-10-19 02:09:41"
+        },
         {
           "uid": "ca711b002d0a",
           "date": "2026-07-30",
@@ -6021,16 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSHZvcGUzdDdGNW10d1BSc1lpNU1TbU82TC14TW1HTHNnUU5BcGpZSndmVlJ4WHNOVk9DaEdrZ2dtT1k4YnBmblJzSm1OVFIwLU93YmRSN3F6TEtJRzBVSkNrbDBMaDRXcmFkU3lCWHY0OE1LbXJ6eFZBR2FyUEJQWHpxWjU2MkQ4WXNFemFPTk00X0U2M2hQMG53Z054bldaLWF3d05UQ0ZHWWpTQUZGMWdzcVAzVlQ0ZGc?oc=5",
           "added_at": "2026-09-14 16:32:05"
-        },
-        {
-          "uid": "10ad4d5accab",
-          "date": "2026-07-24",
-          "title": "China's Rare Earth Magnet Exports to Japan Remain Sluggish Amid Trade Tensions - JAPAN Forward",
-          "summary": "中国は貿易摩擦の影響でレアアース磁石の対日輸出が停滞しており、日本の産業はサプライチェーンの多様化を迫られている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0FTaEdWeG43WFNoTzdOOXZHb1BwaGNfQnh0UlkwbDY4Sk9xRjlIT0cySk1kb2Mza2tCQjZxZDNPeVV3b201YjdlazRTOXFBOXVrMVBRVGlkcEJ4OUlvLUFySmZ5M2dNbXFHSkd0cVRjMGtzWFJ0UXZjWUxCUmczZ05KYnJPMUFkanc?oc=5",
-          "added_at": "2026-09-14 02:20:47"
         }
       ]
     },
@@ -6041,7 +6041,7 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-18 18:23:38",
+      "last_checked": "2026-10-19 02:09:50",
       "items": [
         {
           "uid": "d8451543584d",
