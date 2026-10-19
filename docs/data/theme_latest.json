@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16 14:31:50",
+  "generated_at": "2026-10-16 18:34:27",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-16 14:30:33",
+      "last_checked": "2026-10-16 18:33:46",
       "items": [
+        {
+          "uid": "cec99b1ccadf",
+          "date": "2026-10-14",
+          "title": "Industrial Accelerator Act – with over 5,000 amendments, European Parliament groups sharpen arguments ahead of examination of text - Agence Europe",
+          "summary": "欧州産業加速法案（IAA）に関して、欧州議会の各会派が5,000件以上の修正案を提出し、テキスト検討に向けて主張を鮮明にしている。この多数の修正案は、EU産業競争力強化に向けた法案の詳細内容について、議会内での議論が活発化していることを示している。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRzNpT3VUNnQ0TTg0Yl9RWWZ1ZDZsNjRHemdaWFFjMXItY2MxNFd6T09jUy1YMEFjajlob1FWTThKd2pjVzVWb3RhTEc3a1BNLVpoUWRhbFR1OHJ6NU1BNHFsamhaMXNTWFpXT0lFMkdnNzVmc0tkNFdpRFpieWNfQm5IQjJ4YWJ5LTZDQlhVQmc2WDJqQzE5ejlNV016RFZhQkZtSXJrbm42djB6cTZ6MDdtZWo0VFJkdUM0RjdIbmdBR3B5dEEybUNZU1BuMmRBN0NlclFJS2lfMmltTGRTNXppcmxEQk5DY0NuSkk2dVlqTENIUS0tcF9vZVMzazdNMUNjd21UM1M?oc=5",
+          "added_at": "2026-10-16 18:33:44"
+        },
         {
           "uid": "628d922d5b2d",
           "date": "2026-10-15",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZGs4SEFoR09UaTZVclBJWFFocmdmYVZiM2NBbGFGSkM4ai1qcHhLNXVGTU9jRWJ2aEUzdFpWdnNTd1UzOTc3SnhsZ2lHT3NwQzlfTG1wTXNMZGZDckhVeFE2YWY0bGRScE5FUWdCVXJ0czk3TEgyamlIaTNwQ3VSLWhsMHhaSEpJOXNxT1NCUEZxaVFfbzRtY2k1cmluYmVPMzVUek83OA?oc=5",
           "added_at": "2026-07-14 01:37:16"
-        },
-        {
-          "uid": "fe4856b1c93e",
-          "date": "2026-07-02",
-          "title": "What’s next in Europe? – Agenda of European climate and energy policy - Clean Energy Wire",
-          "summary": "欧州産業加速法案（IAA）は、欧州のグリーン産業競争力を強化するために、クリーンエネルギー技術と産業の急速な展開を加速させることを目的としています。この法案は、EU域内での再生可能エネルギーおよびクリーンテック産業の拡大を支援し、気候目標達成と経済成長を両立させるための重要な政策枠組みとなります。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWFRlVnBwbTV2TVZUM0hPaTZ0S09SMFp3TXJNM3hIenp6M1lDN2RkTmVuQmNWLWhqUEJwbWRqRmVyNVVkVURhYzFEalU5SFY2WTRLdmRiS183WGtITk5WQnpEc1Y4akRDTzluMnRyZWlOZUFTd1FmejMyNDZoVWxpSGZMQktRcDZrdjdkSTJzOU9VZGN3N0pTNjJtTlZUUFlkelh0LTdsQQ?oc=5",
-          "added_at": "2026-07-11 16:12:55"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-16 14:30:47",
+      "last_checked": "2026-10-16 18:33:56",
       "items": [
+        {
+          "uid": "27637de2ebfc",
+          "date": "2026-09-04",
+          "title": "American Automakers Have Asked Congress To Ban Chinese-Made Cars; Is This Something We Want? - The Autopian",
+          "summary": "米国自動車メーカーが中国製自動車の禁止をアメリカ議会に要請しており、S.4429法案はこうした産業界の圧力を背景に、国家安全保障の名目で中国製車両の米国市場への流入を制限する措置を含んでいます。本法案は米国自動車産業の競争力を守るとともに、サプライチェーンのセキュリティと国防関連技術の保護を目的としています。",
+          "source": "自動車メーカー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMmNmVW5pYjh3d3hZQ3RTZ1NIdnUycHItdVliMjhaUFd5OUhxay0yTnM5bER4U004VWNINlVqZ2Z6NnJHUHVZNnpIZXpvS043YnNoY0ZJN1Q1cFdmM3lFNmk4dUVjT0NNR21Bb0pIaVRibzd5b1BzRm5jNkJoMDVJX0NKREdwWEQyamt3WFlvbExub3RvTzlfeHY2Y1FUQVNuelI4dzgzSmEyS2VHNTY2WFBvNGV4OXBxUGZr?oc=5",
+          "added_at": "2026-10-16 18:33:55"
+        },
         {
           "uid": "431d848437f0",
           "date": "2026-09-21",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR2tUWUx2cUVLQ0Vtb0d5eElWX1FyeXNBODdGMllUalZmUXFrS0Z2dXpCX0Z6M09Pc2Y1YXRpZGxxWDhZUlZ0RjNkYUtxcnhScmRFM3dZdDd6RDlDYVdxNVNTcVJmaWtMRnR3OE1hRWJVUmZleGF0cWZNeWlrOHdkeVRvSV9yQTlqd2fSAYoBQVVfeXFMTkdrVFlMdnFFS0NFbW9HeXhJVl9RcnlzQTg3RjJZVGpWZlFxa0tGdnV6Ql9GejNPT3NmNWF0aWRscVg4WVJWdEYzZGFLcXJ4UnJkRTN3WXQ3ekQ5Q2FXcTVTU3FSZmlrTEZ0dzhNYUViVVJmZXhhdHFmTXlpazh3ZHlUb0lfckE5andn?oc=5",
           "added_at": "2026-08-05 13:52:03"
-        },
-        {
-          "uid": "a135670f5918",
-          "date": "2026-05-29",
-          "title": "Mercedes-Benz may be shut out of U.S. market under bill aimed at Chinese automaker ownership - CNBC",
-          "summary": "メルセデス・ベンツが中国資本の所有制限を目的とした米国接続車両安全保障法（S.4429）の対象となり、米国市場から排除される可能性がある。本法案は中国の自動車メーカー所有を制限することで米国の自動車産業と安全保障を保護することを目指している。",
-          "source": "業界団体（自動車）",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3BvdkF3cFJuTklYclR0VDEwaEtJa3VTYnA3a3pTNWFaeGU5NHkzWDhjRlpodC1DTVRwZHowUUxSZW1zcmVvemtsX3A2SEExdlJwQmVmbVZKVFVnNUhGbkRmVDhBR0ZVZGN6VDQ2UG05V3hUMVUzZy1iVzZ6MUh5ZEMxNEI3ejdQcGRvRXBSY3E5Um_SAZgBQVVfeXFMTU9VRXp0WGEzNG1CZ2Q0d3MwNzE5N0J2Z3VvYWZCX1d6ZlM4UHh0dDM4VEZjVWlaTU56UWNBZGNsckNLWUFKUncwTXR6N1lMM1VMXy1YRE93QzhNalI0aUw1RWQ0dHlvY2ZDaXhWclA4cExEWFZmR2QzNmdSTWN1czhwZUJNNVZpc1o0d3pZZktWdzJwRkhoZ1g?oc=5",
-          "added_at": "2026-08-05 13:52:03"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-16 14:31:28",
+      "last_checked": "2026-10-16 18:34:15",
       "items": [
+        {
+          "uid": "68860299e6e4",
+          "date": "2026-10-16",
+          "title": "China adds 40 technologies in AI, biomedicine and PV for export controls in draft revised catalog - Global Times",
+          "summary": "中国は人工知能、バイオメディシン、太陽光発電分野の40の技術を輸出管理規制対象に追加する改正カタログ案を公表し、戦略的に重要な技術の輸出統制を強化している。この措置は、レアアース等の重要資源に続く、中国の技術覇権確保と経済的影響力を拡大するための包括的な輸出管理戦略の一環である。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WTjZEOW1PZXVKN0RORWdyYVppQmd0alMwUjZJMUFoeEJabFRTckpLRzM4aFB0TTdOSmhpTGNwQnhTcjZTekFOeW1vbGVJZjNNaS1PU0VzbHR2QVJycGRRYmVn?oc=5",
+          "added_at": "2026-10-16 18:34:11"
+        },
+        {
+          "uid": "8e90d6391d5d",
+          "date": "2026-10-14",
+          "title": "EXCLUSIVE: EU seeks closer Vietnam ties on critical minerals in China hedge, documents show - Reuters",
+          "summary": "EU(欧州連合)は、中国のレアアース支配に対する代替供給源として、ベトナムとの重要鉱物に関する関係強化を模索している。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1NFMUNzVk1sZ0RKYUJDSjZPdFh3eTRzMUhrSDVCR1NJM0dOWWlKWWJvUzhPem9YRHhNdWFDeFhKTmVFYXc4WXEtQ3E4OWxUZnlvanVRelloT3N6TUl0U2VheVBrYWVxOEZqLVI1WlRjbmlWQktJODJlLWN4dmZmcE12Q3dMeU1JYnZud0tvT0gtOG1YTTBWN3A1VGpjNGhIZFJXeUw4V3VwdzByLTBfUWRVQVVETzJGMEhSU2NB?oc=5",
+          "added_at": "2026-10-16 18:34:11"
+        },
+        {
+          "uid": "9f70371c5a32",
+          "date": "2026-09-10",
+          "title": "China's upcoming rare earth export controls could reshape global supply chains - Global Sources",
+          "summary": "中国はレアアース輸出管理を強化する方針で、これにより世界的なサプライチェーンの再構築が迫られる可能性がある。中国が世界のレアアース供給の大部分を占めているため、輸出規制は先端産業や防衛分野に依存する国々に大きな影響を与えることになる。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZTJCUEEySmU4eWRTUFQyd0ZYT21nY2JOUHlvUmw3dld3TG82cldpTHkya0NGMlJ6LVhOT3c1cTdSaW9JSWE3bWlxbkJtd3cxQ05FdE9NNlVlOEdLSU8wOGJzSU1UNTNSU0NSSnBFc01MT2Z1VEgwMTNrZTdFSFhEUUJFYmJLckdDeWlCcjN1RklkRmFJNVdCcmRLQzJHelhVOW16cFFWWEhxR0g1S0FTdENJUXRaaHdXOEx5Wl9DVjZRakU?oc=5",
+          "added_at": "2026-10-16 18:34:11"
+        },
         {
           "uid": "1139072b5903",
           "date": "2026-10-15",
@@ -6001,36 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSmNlbHFoUnpmY05vRDVUMmpiYkpRYVd4WW1rUGhFaHRJUEViVFVoY1RabUVVTTRlanhJVllpQnhPLUt6MnoxdVQ3TkxzcXg0UEw2VlR5WXlOQVhZd3JZSENjUlQweWFEOHcxMDlObzVxNkdVbTFOMXlJbEhONEhUc0V4czd3QWpEaWVWWVNKb00wTWJuXzRUSG1xMkpWZzY0em1IcUFJTnAzc1h2US1Ob3pGSk9oWTFJVFhCN2Nfb2NlRHBjU3NuaFNwakdyU0k?oc=5",
           "added_at": "2026-09-12 18:05:59"
-        },
-        {
-          "uid": "8367d7fcb64f",
-          "date": "2026-07-20",
-          "title": "China Isn't Just Guarding Rare Earths-It's Actively Managing the Magnet Economy - Rare Earth Exchanges",
-          "summary": "中国はレアアース輸出を単に制限するのではなく、レアアース磁石などの下流産業をコントロールすることで、グローバルなサプライチェーンを戦略的に支配している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVdwbmVYZHo5NmJ4OHczZlVrcndQU25sejh6Qkg5R1k0RW9jMXdQY0xQWXRRWjhWUUhsdDZDQld6cWRBVmZvWC1WUW4yQldBZXRxMnBpeEJDNkhwVThIbVR2NzRWS1dzQTRKcDg4V1pBSm9lcDFfWUhhWjVzS19BYjVXZ2dWWWlEeWQ2d2VEVFJ0YVZUWGdqNEVWa0F2TDlpVkZFekZTN3AyY3JNR0IzZVIwdW8?oc=5",
-          "added_at": "2026-09-12 18:05:59"
-        },
-        {
-          "uid": "e62f594d3649",
-          "date": "2026-06-25",
-          "title": "US army bases to host critical minerals plants in onshoring push - Mining.com",
-          "summary": "米国は国防基地内に重要鉱物加工施設の建設を進め、中国への依存を減らすレアアースなどの国内調達体制を強化している。この取り組みは、中国のレアアース輸出管理に対抗するため、サプライチェーンの脆弱性を補う戦略的な施策である。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlgyS0NxT3pFdGVrc3Rsbjk2Mjc3VDJGeUh0LW8zOE0xcnhWM2RsTExVNHU0VzVCRzM5aWRjZExER3hSNmZ3c1I5UjdJX25NM25EVDBWcmRweHZXZEdDMW5xTnV1ZG1XZUxtb2ZMblhyeXN5R2QyMkZ3TDQ0eXN4RjVSVWxHTlliQnRrcEJxX0dlWXBNZjBN?oc=5",
-          "added_at": "2026-09-12 02:38:36"
-        },
-        {
-          "uid": "7e6e3bdc03f7",
-          "date": "2026-09-07",
-          "title": "Brazil targets bigger role in critical minerals rush - Mining.com",
-          "summary": "ブラジルはレアアースを含む重要鉱物の供給において、中国の支配力に対抗するため、採掘・加工産業の拡大を目指している。これにより、グローバルサプライチェーンの多様化と中国への依存度低減が期待される。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjd6NXdvMmp0a2FHLTNUWnRiUHEwQW5rLUE1QnZBWlNWOV9zN1ZvVWE5dWhWQlhxOXNwakFmNnV3WWg1QUdrR3o5WUlLSUZKZTR2eG5KNXZZbUJKNnJjZktLSlZBUV9yYlNsVWdmeGVPYWhPeWhxcjdHVF9LM2tieXpR?oc=5",
-          "added_at": "2026-09-12 02:38:36"
         }
       ]
     },
@@ -6041,8 +6041,48 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-16 14:31:50",
+      "last_checked": "2026-10-16 18:34:27",
       "items": [
+        {
+          "uid": "e6f691e551c5",
+          "date": "2026-09-09",
+          "title": "Ford caught in escalating Washington clash over China deals - WTAQ",
+          "summary": "フォード・モーターが中国との提携をめぐってワシントンの政治的対立に巻き込まれており、米国内で自動車メーカーの対中戦略に対する批判が高まっている。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY1JCcDZzREdHZXp3bXBWQzA1VHJqOG9lV2pZTVRKTnI1M1psVi1peUFjbVJxUGlrNE5VU1h0cFE3VWVRNGozYVY3ajNDVkV1YTUtcC0zT040UmVPc3czbWo0WXVNeUx5b05JcXVvTUNPbzZWbUV6c05LblM2dy0yWVkwaWhnZlpaZUxSYmFxXzVPZw?oc=5",
+          "added_at": "2026-10-16 18:34:22"
+        },
+        {
+          "uid": "f400447c1ab8",
+          "date": "2026-09-17",
+          "title": "Washington Tells Ford (F) its Chinese Partnerships are a National Security Problem - Yahoo Finance",
+          "summary": "米国政府がフォード・モーターの中国とのパートナーシップを国家安全保障上の問題として批判しており、自動車メーカーの対中提携が政治的圧力の対象になっていることを示している。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLXNQYl9vVG1WaHhJUEViRWZvbXVzS2tGQ0k2NmloUmdYVTQ5OFRlUTBlOG9RemREUG1CajRQWlExVnlPeUZYQ0dPWF9oaktMNlA2WGJSN0hra1c3VWZ5MFk3TDFzNUk3Y1dta1EwRzN3YlVUeUgwX0RLdUpWcHRESFdvT2ZnMWVVZG9KODhxX0JaZDJWTHp5UHVwWWg?oc=5",
+          "added_at": "2026-10-16 18:34:22"
+        },
+        {
+          "uid": "d7964cac9e6e",
+          "date": "2026-10-08",
+          "title": "Why EV sales are lukewarm in America, but hot in Europe - Reuters",
+          "summary": "米国ではEV販売が低迷する一方、欧州ではEV需要が堅調な背景には、各地域の政策支援、充電インフラ整備、消費者の購買意欲の違いがあり、これらの要因は自動車メーカーの対中提携戦略にも影響を与えている。特に欧州ではEVシフトが急速であるため、メーカーが中国企業との提携を強化する動きが増加し、政治的な批判の対象となっている。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajRUTl9xbW4wSDZYc1hpcEZZczJfa3ZXWXN2UF94THlDNVNvWlYwUTBqOTI5YUp6V2hhWUZHaHU0NXJFMkNkMXkxS1F4WjY3Z1gyU3FZQUctUnVQeDUyMy1BTG02WThsMlQ0eXVHazFZOEpLUW52cmVfTlZSSkdsTVJFLV84M3Q0VTN6VWExXzQ5bU1FWVkwUUlkSTQxMGhmSDVkN2tHWGVUZlFBM2ZZ?oc=5",
+          "added_at": "2026-10-16 18:34:22"
+        },
+        {
+          "uid": "ad979e09c8c7",
+          "date": "2026-10-05",
+          "title": "The US said China was priming a trade superweapon. Then it vanished. - Reuters",
+          "summary": "米国は中国が通商上の超兵器を準備していると警告していたが、その後その脅威は消滅した。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNk53NVpHdGRlQmhXNmdsVE1zTXcxOWpUSU82S3FZVm83M0g3RWx6R0JJV3QxNS1PZkNTNXVoam1sd1dUVFl4dm9fSlpXQ1N3WkJNa0FuSjRwd19KRWdqbDhDLWRwMEUyUmlva19hblVDLTBrTk9DSV8wNXdhaDB3eEpiTGRUSmgzYTRpRksyd3F5YnpKeGJxYjc0dzlYNXNHU0ZkRGZYX1hVTGZJNktKYTBIQUdZTXpWdl9Z?oc=5",
+          "added_at": "2026-10-16 18:34:22"
+        },
         {
           "uid": "6be696b50426",
           "date": "2026-09-09",
@@ -8002,46 +8042,6 @@
           "source_type": "media",
           "url": "https://thehill.com/opinion/healthcare/6098188-congress-expand-health-spending-produce/",
           "added_at": "2026-09-20 02:04:00"
-        },
-        {
-          "uid": "739700355c09",
-          "date": "2026-09-05",
-          "title": "US automakers push Congress to permanently ban Chinese connected cars - CHOSUNBIZ - Chosunbiz",
-          "summary": "米国の自動車メーカーが議会に対し、中国製の接続車両の永久的な禁止を求めており、これは中国自動車産業との提携や技術協力に対する米国内の政治的警戒感が高まっていることを示しています。米国は国家安全保障上の懸念から、中国製コネクテッドカーのデータ収集・管理機能を制限しようとしています。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnZ1VXI4S2pJM2NNdFBmcW80VkU2OXVEZnJpenNjUGlRbFFRdXQ0ak82N3YyUjZKUVRsX3RkQXVWS0xTMGRPWHc2ZzM1Z2xsSG5uV3F3My1IOTJwVG1ubndtSElMTWlmT1JNTFRvRUJZakcya3RPWjhRSng4cWM1ZVFwNGQ5NXlC0gGcAUFVX3lxTFBKMjQ4TzU1d2J3OW9odjRZbkd4NVRwcS1nVmxKTGZOcE9XR3FSXzlxYlB5MWJBX3BHTXV1VWR2WF9ET25zU2ZLa0RPalJFWV9sT1FDamQ4X1RucGg3TnB0RFdBNzJpVlZ6LW5MREY5VjNJaFZ3enFKdktJVkU3blpmVm1SRkNvbFQ0UldrT1hKUlhFTXhxMnhEazNMTA?oc=5",
-          "added_at": "2026-09-19 11:57:25"
-        },
-        {
-          "uid": "69212b99cbb4",
-          "date": "2026-09-08",
-          "title": "The Trump administration slams Ford for its ties to China - CNN",
-          "summary": "トランプ政権がフォード・モーターの中国との関係を批判しており、自動車メーカーの対中提携が米国政府からの政治的な圧力の対象になっていることを示している。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTERLemdyM1dPQmx3RXlpOFFuS3VLNFdXRnJ0dFZJdG1CNURCc0FVN21FT1pTbnZydnp1SHdZVlBRcWlVYnJmalBMM1VqR0lBZ0VzUGpaUzRsTG5DYUxJdVl2OEJrc1NhMFgwcWZyMVJWdDJnMjlGQmY1ZXRDVU5OT0JR?oc=5",
-          "added_at": "2026-09-19 11:57:25"
-        },
-        {
-          "uid": "4471787d3fc6",
-          "date": "2026-09-10",
-          "title": "Ford caught in escalating Washington clash over China deals - WHTC",
-          "summary": "フォード・モーターが中国との事業提携をめぐってワシントンで政治的な対立に巻き込まれており、同社の対中戦略が米国の政策立案者から批判を受けている状況を報じている。",
-          "source": "フォード",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHN2aXlhcjkwOW5zdEVoMU5kbHI1YThhVmNwdHRMaC1COEZ0SGFKbFRVeVBCdG0xYjVPQURFUU1Nck0wNUcyV2wtdVlIb2RDUlB1bjVWZmFjbFExRy1XSjBIeTVxWmZ6ZHBmYjFnMHZqTzdILWtjZURjdmlmUS1lS0ZrRkJqYzg1RWxrR01ob0NYZw?oc=5",
-          "added_at": "2026-09-19 11:57:25"
-        },
-        {
-          "uid": "c1192060f93e",
-          "date": "2026-09-18",
-          "title": "Tata Group's boardroom clash rocks India's most storied conglomerate - Reuters",
-          "summary": "インドの名門企業グループであるタタ・グループで経営陣の対立が生じていますが、この記事は自動車メーカーの対中提携への政治的批判とは関連していません。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjd0Y1JXQjg3NUNsd2RjUmNMbkZuUlNSb3YxQncwcWtEa0M4X3NHbXd4SzJKUHR0SFB2ZEp2ek5vRVVQcnNKd0tZT0s0NWhtSVg3MS1LTWl4d19IdmtUMm9vM2RoQkk3OVZCTWhRS3VWcV9PQ1lHV2hjcm8yT0V0TEV5eWNILS04YS00NzBnUGdfN2xMVWM0SDZjQ3V3TXZmYUFYTUpDSnBFM3NRa3c0alM4X0k?oc=5",
-          "added_at": "2026-09-19 11:57:25"
         }
       ]
     }
