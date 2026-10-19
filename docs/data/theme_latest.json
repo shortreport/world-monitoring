@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19 15:42:53",
+  "generated_at": "2026-10-19 19:35:14",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-19 15:41:15",
+      "last_checked": "2026-10-19 19:34:37",
       "items": [
         {
           "uid": "4d1cb0315756",
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-19 15:41:55",
+      "last_checked": "2026-10-19 19:34:50",
       "items": [
+        {
+          "uid": "e659c89de0e0",
+          "date": "2026-10-19",
+          "title": "Waymo has ordered thousands of Chinese-made cars to expand its US robotaxi fleet - New York Post",
+          "summary": "Waymoが米国のロボタクシー事業拡大のため、中国製車両を大量発注していることが報じられており、これは同法が懸念する中国製自動運転車の米国市場への浸透と、国家安全保障上のリスク（データ収集・遠隔制御など）を象徴する事例となっています。同法はこうした中国系企業による自動運転技術の米国展開を規制・制限することを目的としています。",
+          "source": "米商務省・BIS",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUIwUjFUdDNua29ET2NIcl9tZjVIY1RTcjdUOWREd25ybzNVcHozSDlFVFVyNWdhclZ1UWJxaEk0bXJBaUFBMWo3THNkaXQ0S2V6YmVSSDNfelUwTGxTUGhPVExzaUtHZm1fakN2Z3JFY2M0QkJ4Qng4Mzlla3ZBUU16allzMW9rVG9ZeVFvSmZ2cGZnVENha0JaVW1JYThtZkFJYUFfRXJfQWVUX003S0dJMGwwUGNkemY3Vw?oc=5",
+          "added_at": "2026-10-19 19:34:46"
+        },
+        {
+          "uid": "d8fd427ed5d4",
+          "date": "2026-09-14",
+          "title": "President Donald Trump is Now \"Okay\" with Chinese Automakers Coming to the U.S., But Brands Like Ford Are Begging Him Not To, Which is Quite Ironic - Autonocion.com",
+          "summary": "トランプ大統領は中国自動車メーカーの米国進出を容認する姿勢に転じているが、フォードなどの米国メーカーはこれに反対を求めており、S.4429などの規制強化法案との緊張関係が生じている。この状況は、国家安全保障を名目とした保護主義と産業競争のバランスをめぐる米国内の相反する利益を象徴している。",
+          "source": "自動車メーカー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NWWpWNDVPU3VIMVdsai0tTWo1ZXFvRFQwWmVlR1RKRVdPUGtMZk81cU5iWGVpWFh2cXNWRnVQM3Z0RE5aUWNMV2JVM0NQWjJGMlA3YVRvZzdsUzNVLVdNRWtjNDhmT3FDUHpZUUdSSnhkLXQ3?oc=5",
+          "added_at": "2026-10-19 19:34:46"
+        },
         {
           "uid": "caef2a1d3556",
           "date": "2026-07-24",
@@ -4000,26 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtd0hQNldtNFpLZ1NUNTd6Zm1CYjFPenpaVEdyNjRrTFJVYzlwZERIQkdrUXI2OFMzWlVLZV9xYjViR1BfZGg3U0kyc2lOa0VnaGk3WWJ3TU80VktxRDRDcG9tT1ZheGd0YS1oVkdUOWNpa2NLcWQ5blVTeE0tZ9IBgwFBVV95cUxQNXpiUmNDbmdiRjQ1VDdrMmhVaGpOdEZXZ1NpTnpRY0hTeXZRZXgwQkRyUTd0M2RJS0dPZld2V2liZVhMY1JZMzBqQWNLbnBpTDBFTXVkRm5FbnQzbWhJRXRZNi1ib0lfME0xX0s5bm1LRk9qbTdNT2lSQkVBT0RpR2U5Yw?oc=5",
           "added_at": "2026-08-06 01:02:33"
-        },
-        {
-          "uid": "d95036cdb067",
-          "date": "2026-06-07",
-          "title": "Liz Cannon on How the U.S. Government Considers Chinese Tech - thewirechina.com",
-          "summary": "申し訳ありませんが、提供いただいたタイトルと「内容」欄に記事本文がないため、S.4429に関連する具体的な要約を作成することができません。記事の本文をご提供いただければ、米国接続車両安全保障法との関連で日本語1〜2文に要約いたします。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSk5pVC15MWdKT1dOT0QzY2RBZ3JmVUgySFZWV2JVejE4Qk1MczJNaHJ1MENveDRwT2MwaXFqU2p4YnBRdFhuSTlIeDdibXFLUUFRS1FYWnY3N2JXbDJvSmhtbk14U0UtODNhMmZBUzh2endmWlZ0cDYtN25HSXl4ZlpXaFFsbFV6Y05YVDd2dXBnOTBRd29uejhXQVZNM0pNZnc?oc=5",
-          "added_at": "2026-08-06 01:02:33"
-        },
-        {
-          "uid": "60c37a52efa2",
-          "date": "2026-06-25",
-          "title": "Polestar barred from US over the Chinese connected vehicle rule, a dangerous precedent - Electrek",
-          "summary": "Volvo傘下のPolestarが米国接続車両安全保障法（S.4429）により中国資本の関係で米国市場から排除されることは、外資系自動車メーカーに対する過度な規制の危険な先例となっている。本法案の厳格な実施は、技術面での正当な懸念を超えて、市場競争を阻害する保護主義的政策として機能しており、国際的な自動車業界に悪影響を及ぼす可能性がある。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94aHMzQ0NaYVpjS1cyWVo3eFYwdUlKOWZwb1oyZ2UtZGlrRDE0SGk1OGVuTEVIcVkyLWNaN21sbHp5d2VWb2IwSEZweXJPUFNJa1ZvZTdxUTl1YzBDYnBweU5mQXBqS3ZjNXB4MkpKcjZZb0FENFU4bFNEeUVadw?oc=5",
-          "added_at": "2026-08-06 01:02:33"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-19 15:42:36",
+      "last_checked": "2026-10-19 19:35:06",
       "items": [
+        {
+          "uid": "300a03109431",
+          "date": "2026-08-21",
+          "title": "Why the World’s Hedging Responses to China’s Rare Earth Dominance Have Failed - The Diplomat – Asia-Pacific Current Affairs Magazine",
+          "summary": "# 中国レアアース輸出管理に関する要約\n\n世界各国が中国のレアアース支配に対抗するために講じてきたヘッジング戦略（代替供給源の開発や備蓄など）は、中国の圧倒的な生産能力と市場支配力により十分な効果を発揮できず、依然として各国は中国への依存から脱却できていない。中国は戦略的にレアアース輸出を制限することで、地政学的な影響力を強化し続けている。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1FVSV9JNm1oU2tNVEdULVpvRmR0VHlxWmZJYkNhZU9jdkcxNGhzMldGZGhyRHVXSkxneGw0bVZoSFVqZmR0TXFROEpXaS15b0s5UFUyV3RjaWhWZGhUTXhseTNHVWtNZF9XdC0ybGdYMTFzeXp1N1JRci11OWUxUUlFOGRHZjNHQWg5WEVrTUpybTlxRHhMUzlzbHY3NmpZSFNQWFlDS0NJOHIz?oc=5",
+          "added_at": "2026-10-19 19:35:04"
+        },
         {
           "uid": "4092d067c8a5",
           "date": "2026-09-02",
@@ -6021,16 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2FqUDhJbDRlTW5ueXNNTlo4MFJTanRmMHVIcktGNDNsZzY5WnFSdDlNc1A1X3BUZFd5Z082NFhVbFI1cFVQVTBxSlZrNFM1VC00QXhlOU9sRVdQZ3BtU3N4SzhNZFBpUDh0S29ZUDhLLXNJWVNZZWlxR0xBbXNETHloblg?oc=5",
           "added_at": "2026-09-13 01:50:31"
-        },
-        {
-          "uid": "06a6c9518c0e",
-          "date": "2026-09-12",
-          "title": "Trump says he would allow Chinese automakers to build cars in US",
-          "summary": "トランプ大統領は中国の自動車メーカーの米国内での製造を許可すると発言しており、これは中国との経済関係の柔軟性を示すもので、レアアース等の重要鉱物を巡る米中間の貿易交渉における中国への譲歩圧力を減少させる可能性がある。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6085912-trump-permits-chinese-automakers-us-manufacturing/",
-          "added_at": "2026-09-13 01:50:31"
         }
       ]
     },
@@ -6041,8 +6041,18 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-19 15:42:53",
+      "last_checked": "2026-10-19 19:35:14",
       "items": [
+        {
+          "uid": "cc68193f3ab9",
+          "date": "2026-10-18",
+          "title": "'Deeply Alarmed': Trump Administration Slams Ford's Deal With Chinese Battery Company - InsideEVs",
+          "summary": "フォード・モーターが中国電池メーカーとの提携を発表したことに対し、トランプ政権が「深刻な懸念」を表明し、米国自動車メーカーの対中提携が政治的批判の対象になっていることを示している。この批判は、国家安全保障や産業競争力の観点から、米国がサプライチェーンの中国依存を懸念していることを反映している。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DVTc3VThFMGJEbVhlVDNQWHZkWDBDdkZhMkdRMEtkYjVIZHM4cWQ3bjVqN1NLQ09kUGF5ZDlXaEVqSXI5clZONl9Ob25EYkp1b0htRHdiMDQ2RzN3WUw4TTRWSFJBZGx1UHY3RHhhWlVFMnowSzRYTXZITQ?oc=5",
+          "added_at": "2026-10-19 19:35:13"
+        },
         {
           "uid": "d8451543584d",
           "date": "2026-09-10",
@@ -8031,16 +8041,6 @@
           "source": "フォード",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNlRGWnJEUkowZmpocE5xcERLLWFUcWlIcEFHcUVVUVRlMUFXcEdONnlwRnZQTjRpOHZHTTVITGMxOHJvMzRncE02ZmNoaHVjWjRNT01qTllRaFZfRGROZ0hOR0FUSER2d0kyYXczbUFHdWRraVlBdFZYajZlakJCZm9IdUVYTTlCUF9RUWpIdUg5cFRORnc?oc=5",
-          "added_at": "2026-09-20 18:39:31"
-        },
-        {
-          "uid": "68d7d7ebb7d9",
-          "date": "2026-09-18",
-          "title": "Transcript - Reuters - Reuters",
-          "summary": "申し訳ございませんが、記事の内容が「Transcript - Reuters」としか記載されておらず、具体的な本文が提供されていないため、「自動車メーカーの対中提携への政治的批判」に関する要約ができません。\n\n記事の本文をお提供いただければ、ご要望通り要約させていただきます。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWJrSVBEQnFoMVNMMGxudklPejlSVWxSZlRkeE5XdzNjZTFKOV9nc2RFV0Q0Y3EtanNIUlRjNEVKS0lVQVQ4NWY0TGxZOHMyZGs5QTRCdmtMYWZGYWtmLVdWdWpVWUNuanR0eDlmdGY3SUZ6VFd5TGNOWTh4UTc5NzJxWENBUzhoMkZZ?oc=5",
           "added_at": "2026-09-20 18:39:31"
         }
       ]
