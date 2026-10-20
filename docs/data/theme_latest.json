@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20 18:51:42",
+  "generated_at": "2026-10-21 03:24:42",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-20 18:51:06",
+      "last_checked": "2026-10-21 03:23:50",
       "items": [
+        {
+          "uid": "f02e8c47c3ad",
+          "date": "2026-10-20",
+          "title": "Türkiye to keep pressing for automakers' inclusion in EU industrial law | Daily Sabah - Daily Sabah",
+          "summary": "トルコは、欧州産業加速法案（IAA）に自動車メーカーを含めるよう欧州連合に対して引き続き圧力をかけていく方針である。トルコは自国の自動車産業がIAAの対象から除外されることに反発しており、EU内での産業競争力強化の枠組みに自動車セクターを組み込むことを求めている。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFR0VXBLQlE4MVV1aDZkVTFEZ191V2tPY0JhZG1aZjFRY0RhcjZCSVZpa1BiSkFUUGp2cldEWDlmTDNGcnNVYUl5UW92R2lwbjFUYXJUR3pJWXVkNFlWQ1liSGNNa0tzcVNzcHMycWM5WmxXaFZ4clc4UEY5bkNNbmJLcVRobC1ZZEFOUHo4STM5ei15aGU2bFB3SDV4UGFfR3hXNmxLSlAzZU5FMVhlRktlYm56ZG9wa2fSAboBQVVfeXFMT3RUdFVwS0JRODFVdWg2ZFUxRGdfdVdrT2NCYWRtWmYxUWNEYXI2QklWaWtQYkpBVFBqdnJXRFg5ZkwzRnJzVWFJeVFvdkdpcG4xVGFyVEd6SVl1ZDRZVkNZYkhjTWtLc3FTc3BzMnFjOVpsV2hWeHJXOFBGOW5DTW5iS3FUaGwtWWRBTlB6OEkzOXoteWhlNmxQd0g1eFBhX0d4VzZsS0pQM2VORTFYZUZLZWJuemRvcGtn?oc=5",
+          "added_at": "2026-10-21 03:23:48"
+        },
         {
           "uid": "e60028baa8bb",
           "date": "2026-10-19",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Z2RsNHVJcG80NlFqX3hLa3dyeHhGT3QySlVCVG94bGpaWUtTR2VTeDZHamN2cTlnOHlxS3FUc2x1UHVEVTBxZGN6cUVnYzMxTkZkRVVGSzZvSUczem4zUXZuSVlBemxnRXc?oc=5",
           "added_at": "2026-07-18 23:56:41"
-        },
-        {
-          "uid": "6801a182116b",
-          "date": "2026-07-16",
-          "title": "EU sets up biggest climate fight of 2026 by slamming brakes on carbon market - politico.eu",
-          "summary": "EUは2026年の炭素市場改革を通じて気候政策の大きな転換を図るもので、産業競争力強化を掲げる欧州産業加速法案（IAA）との間で、炭素価格上昇による産業負担と気候目標達成のバランスをめぐる激しい対立が予想されている。IAAは産業の国際競争力維持を重視する一方、EU気候政策はより厳格な炭素規制を推し進めようとしており、この葛藤が2026年の主要な政治課題となる見通しである。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMC1BNTVfX3I3NXFhVGJLNTBfaXU2dncwRm9HVzJ5dWJXWGFjWGZURWdSMkMtNDhuT0k1dndGU2tJcVBqYkc5Y180SjhfSXBHcXNBVW81dC1XeXlmNlc3R2RuYnB1YnB2WmxOWFdGNDZyQXNtU0V6SDlzd0toYmpqaWMySTlqb3hZS0s1bEdqaGF0SERDVXJXVzdFVQ?oc=5",
-          "added_at": "2026-07-18 00:16:49"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-20 18:51:13",
+      "last_checked": "2026-10-21 03:24:04",
       "items": [
         {
           "uid": "e659c89de0e0",
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-20 18:51:35",
+      "last_checked": "2026-10-21 03:24:27",
       "items": [
+        {
+          "uid": "ca711b002d0a",
+          "date": "2026-07-30",
+          "title": "The Trump Administration’s Many Tools for Seizing Critical Minerals Abroad - Public Citizen",
+          "summary": "# 要約\n\nトランプ政権は海外の重要鉱物・レアアースを確保するため、通商交渉や投資規制、さらには直接的な没収権まで含む複数の手段を活用する準備を進めており、これは中国が支配するレアアース市場に対抗する米国の戦略的対応として位置付けられています。こうした米国の攻勢は、中国によるレアアース輸出管理と並行して、世界的なレアアース供給チェーン再編を加速させる要因となっています。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzF5Q0otTE1NUlI2TFhUWEpnUVF6VFpKVmlDTW96YnotM0pBTDRIQjRvS0pfWjNvdDU2TlFSZ3hRd0ZCWnQ2cjZRNWp2R09FeE12M0ZUTFBveG9aYTFjSlh4SnpBbTdvaXlTVzEzdWlzaUxJV0pxUFpacmMtODdpV1N0Nmw3Znoyc1UtWGU4ZG5WeVNWNHVEb24zdGV4a0hZakNoOGltZjNQQQ?oc=5",
+          "added_at": "2026-10-21 03:24:20"
+        },
+        {
+          "uid": "86fa03656489",
+          "date": "2026-07-27",
+          "title": "Buying Time, Not Immunity: Japan's Rare Earth Dilemma - orfonline.org",
+          "summary": "日本はレアアースの中国への依存度を低減するため、オーストラリアやベトナムなどからの輸入多角化やリサイクル技術の開発を進めているが、これらは短期的な対策に過ぎず、中国による輸出管理強化の脅威から完全に回避することはできない状況にある。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWk5aW1TaE50WU94VnloTW00NmZGU0Q0NlpNQ1NTZDVrb3NMQlZSQ3RueUxjQm8zdVFxN193UFNYNUdzZ1ZFWklJTW12VEhVclNRcWVmcUdyQU1mb01NcUhiSzFlMlBuNFR5UzlqNTNwd0lvZU9ucG5jakV5dHdqYmZhU0tNUnVXc0tkejBtWndoOTla?oc=5",
+          "added_at": "2026-10-21 03:24:20"
+        },
+        {
+          "uid": "5a8883b0215b",
+          "date": "2026-10-20",
+          "title": "China defends DeepSeek after US ban",
+          "summary": "中国はDeepSeekの米政府システムからの削除命令に反発し報復の可能性を警告しているが、この動きはレアアース等の戦略的資源の輸出制限を含む対抗措置につながる可能性がある。米国によるAI技術規制強化に対し、中国がレアアース輸出管理を報復手段として活用する懸念が高まっている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6160255-china-retaliation-deepseek-ban/",
+          "added_at": "2026-10-21 03:24:20"
+        },
+        {
+          "uid": "53382ef6f938",
+          "date": "2026-10-20",
+          "title": "Beijing monitoring US warship near disputed shoal in South China Sea",
+          "summary": "中国は南シナ海の領有権争いに関連して米国との緊張関係を深めており、こうした地政学的対立がレアアース輸出の制限や経済的報復手段としての活用につながる背景となっています。中国は戦略的に重要な資源の輸出管理を強化することで、米国との紛争地域での影響力維持をはかっています。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/defense/6160286-uss-charleston-sabina-shoal-dispute/",
+          "added_at": "2026-10-21 03:24:20"
+        },
         {
           "uid": "a89b1b960dd7",
           "date": "2026-10-10",
@@ -5991,46 +6031,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSTZHSWhKM0htLTd1dHpXbUVLTFF1RE15WWUzUWxNWDlKY245cGQ2dWoyblpOOVFaUWstcEZkcEpEMVJXWXdwMmRwQ1VCOEZ3bEFvV0dvNDV0Wm84WGxPWjgzTWN3MDRUcS05SFFjd2hUdlFodDdDSXFQREd1eGJSZ0F3MmVJQWpEV0pseUZnT0hIZ0xhZ0NZanFKRnplQlBaMWZmS3oyM2I5LVZ5Tmc1R1RfUnM1Ym1o?oc=5",
           "added_at": "2026-09-14 16:32:05"
-        },
-        {
-          "uid": "9722c0239e97",
-          "date": "2026-06-22",
-          "title": "China Rare Earth Index Hits 259.5-But This Is Not Free-Market Price Discovery - Rare Earth Exchanges",
-          "summary": "中国のレアアース指数が259.5に達しましたが、この価格は国家による輸出管理と統制が強化されているため、自由市場のメカニズムではなく政府の政策的介入を反映しています。中国はレアアースの輸出数量制限や価格統制を通じて、戦略的資源としてのコントロールを維持しています。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamRsc1hFclk5VlFYeXFyWjd1X2FFSE5qMmFkbmVxRHVWQ0pVTkVPZ2FsdUpDM1ZFTXJpb0hqNGs2R3JRRllYRksyaXZDNDVxOHhkRWpqMGFmTXZWWmRtbWFOaEExRWJHVnNQYzR6cTk2WW9FS0hKX2JtLXVtWHB0SWwwdlgzTnRIQmRtam4xNEkyMDZITnVNc25MWmI2TnNfanVDSzdMY3czYzdfSzVaVkh2UW0?oc=5",
-          "added_at": "2026-09-14 16:32:05"
-        },
-        {
-          "uid": "9406f8361b5c",
-          "date": "2026-06-22",
-          "title": "China Imposes Export Controls on US Rare Earth Companies MP Materials and USA Rare Earth - IndexBox",
-          "summary": "中国がMP MaterialsとUSA Rare Earthという米国のレアアース企業に対して輸出管理を課し、これらの企業の中国での鉱物資源へのアクセスを制限した。この措置は米国のレアアース産業に対する中国の影響力行使の一例である。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSHZvcGUzdDdGNW10d1BSc1lpNU1TbU82TC14TW1HTHNnUU5BcGpZSndmVlJ4WHNOVk9DaEdrZ2dtT1k4YnBmblJzSm1OVFIwLU93YmRSN3F6TEtJRzBVSkNrbDBMaDRXcmFkU3lCWHY0OE1LbXJ6eFZBR2FyUEJQWHpxWjU2MkQ4WXNFemFPTk00X0U2M2hQMG53Z054bldaLWF3d05UQ0ZHWWpTQUZGMWdzcVAzVlQ0ZGc?oc=5",
-          "added_at": "2026-09-14 16:32:05"
-        },
-        {
-          "uid": "10ad4d5accab",
-          "date": "2026-07-24",
-          "title": "China's Rare Earth Magnet Exports to Japan Remain Sluggish Amid Trade Tensions - JAPAN Forward",
-          "summary": "中国は貿易摩擦の影響でレアアース磁石の対日輸出が停滞しており、日本の産業はサプライチェーンの多様化を迫られている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0FTaEdWeG43WFNoTzdOOXZHb1BwaGNfQnh0UlkwbDY4Sk9xRjlIT0cySk1kb2Mza2tCQjZxZDNPeVV3b201YjdlazRTOXFBOXVrMVBRVGlkcEJ4OUlvLUFySmZ5M2dNbXFHSkd0cVRjMGtzWFJ0UXZjWUxCUmczZ05KYnJPMUFkanc?oc=5",
-          "added_at": "2026-09-14 02:20:47"
-        },
-        {
-          "uid": "ba2c4c2c74f9",
-          "date": "2026-07-22",
-          "title": "US government tightens rules on critical minerals, defense supply chain waivers - Fastmarkets",
-          "summary": "米国政府は重要鉱物及び防衛サプライチェーンに関する規制を強化し、ウェーハー例外措置の適用基準を厳格化することで、中国産レアアースへの依存低減と国内サプライチェーンの強靭化を進めている。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSl9vQTdKTURQQW1aZ0p2YVNUeTlZRk1SVG9BZ3dvMi1DdmlJTzAtUTI3VVZ5WnhfZlRUX3o3bGZBaV9EQW1VQjlMUXMtM3NzNkxkU3VOdW16d3JIdnJOUXBhbWMzTkRmUTRDa1RYcHpZWk5kSG93d1NuYU1Nbm11SHAwNXBRelk1MmhMUmYzUDJwY3dsTWpqa0FLVzhCMTZsRDc0WnMzQVRiT0h1Q3dwTXBaOFJqNVk?oc=5",
-          "added_at": "2026-09-14 02:20:47"
         }
       ]
     },
@@ -6041,8 +6041,68 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-20 18:51:42",
+      "last_checked": "2026-10-21 03:24:42",
       "items": [
+        {
+          "uid": "f2ba5ef729ec",
+          "date": "2026-09-09",
+          "title": "Ford: Duffy criticism over deals with China ‘wrongheaded attempt to capture headlines’ - The Hill",
+          "summary": "フォード・モーターは、中国との提携を巡る政治家ダフィーの批判に対し、それは見出しを稼ぐための的外れな試みであると反発している。同社は、中国との事業展開が戦略的に重要であり、政治的な圧力に屈しない姿勢を示している。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRUhOU1docF9hbU9qc1ZtMWRLS3pLbExBb2ZWY1FsbV9WeVA4SGFYZjJQWVlsQXQtRm5MT3NxSlZkMVZiNzdTMUxoNG9YbHZuR0xTVHNwMEdQSkFJVERMWU1HWURkbTNfUk51VmNYNjFkQkt0TGlNOQ?oc=5",
+          "added_at": "2026-10-21 03:24:35"
+        },
+        {
+          "uid": "ea1894934988",
+          "date": "2026-10-20",
+          "title": "Without private capital, we will miss our small window to rebuild our military",
+          "summary": "米国陸軍の財務責任者は、民間資本と先端技術を活用した国防産業基盤の近代化戦略の必要性を主張しており、これは自動車メーカーなどの民間企業が対中提携を通じて防衛関連技術や産業基盤に影響を及ぼす可能性への懸念と関連している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6159419-military-innovation-private-capital/",
+          "added_at": "2026-10-21 03:24:35"
+        },
+        {
+          "uid": "9cbce1832de9",
+          "date": "2026-10-20",
+          "title": "Celebs focus on Dems winning House in 11th hour midterms fundraising",
+          "summary": "この記事は米国の中間選挙に関する民主党の資金調達キャンペーンについて述べたもので、自動車メーカーの対中提携への政治的批判とは関連がありません。そのため、要求された文脈での要約はできません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/blogs/in-the-know/6160437-celebrity-midterms-fundraising-dems-house-gop/",
+          "added_at": "2026-10-21 03:24:35"
+        },
+        {
+          "uid": "5a8883b0215b",
+          "date": "2026-10-20",
+          "title": "China defends DeepSeek after US ban",
+          "summary": "中国はDeepSeekのAIモデルを政府システムから削除するよう命じたDHSの措置に反発し、報復の可能性を警告している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6160255-china-retaliation-deepseek-ban/",
+          "added_at": "2026-10-21 03:24:35"
+        },
+        {
+          "uid": "53382ef6f938",
+          "date": "2026-10-20",
+          "title": "Beijing monitoring US warship near disputed shoal in South China Sea",
+          "summary": "この記事は自動車メーカーの対中提携と直接的な関連がないため、要約できません。記事は米国海軍艦艇と南シナ海の領土紛争に関するもので、自動車産業の政治的批判とは異なるテーマです。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/defense/6160286-uss-charleston-sabina-shoal-dispute/",
+          "added_at": "2026-10-21 03:24:35"
+        },
+        {
+          "uid": "1bf1c00348d6",
+          "date": "2026-10-20",
+          "title": "The Affordable Care Act has proven unaffordable",
+          "summary": "この記事は医療保険制度に関するもので、自動車メーカーの対中提携への政治的批判という指定されたテーマとは無関係です。要約対象外です。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/healthcare/6159129-obamacare-premium-price-spiral/",
+          "added_at": "2026-10-21 03:24:35"
+        },
         {
           "uid": "9aee95d812ed",
           "date": "2026-10-19",
@@ -7982,66 +8042,6 @@
           "source_type": "media",
           "url": "https://thehill.com/blogs/in-the-know/6102393-presley-gerber-death-cindy-crawford/",
           "added_at": "2026-09-22 13:37:37"
-        },
-        {
-          "uid": "68621c20fb82",
-          "date": "2026-09-21",
-          "title": "Bessent says US, Chinese officials considering lowering tariffs on ‘noncritical’ items",
-          "summary": "米国財務長官ベッセント氏は、米中両国が「非重要」製品の関税引き下げを検討していると述べており、これは自動車産業における中国との提携に対する米国の政治的圧力が関税交渉の形で展開されていることを示唆している。米中間の経済的緊張緩和の交渉が進む中で、自動車メーカーの対中事業戦略も政治的な関税政策の影響を受ける可能性がある。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6102128-us-china-lowering-tariffs/",
-          "added_at": "2026-09-22 13:37:37"
-        },
-        {
-          "uid": "9a98962e4232",
-          "date": "2026-09-20",
-          "title": "AI fears burst onto Trump-Xi agenda, but challenges abound",
-          "summary": "トランプ大統領と習近平主席の会談ではAIの危険性が議題に加わるが、トランプ氏がAIの実存的脅威を「詐欺」と否定する姿勢は中国の見方と一致しており、両国間の相互不信と競争激化が対話を困難にしている。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/international/6099099-trump-xi-ai-talks-us-china/",
-          "added_at": "2026-09-21 19:29:18"
-        },
-        {
-          "uid": "af55386d847a",
-          "date": "2026-09-09",
-          "title": "Republican lawmakers criticize Ford business ties to China - WTVB",
-          "summary": "共和党議員はフォード・モーターの中国とのビジネス提携を批判しており、これは米国の自動車メーカーが中国との関係深化に対する政治的な反発が高まっていることを示している。",
-          "source": "下院中国特別委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVWdVaDJiU1A4bGM2VE5fZmRDUTltb1dDSl9QajJqX3Y0SGl1OGNKckt0SlJudFBuZU5RZ3h6b0VPR2tQb1VkYWpzZHpMdG9VNlVzRjZQWlI5eFhnOTItVXpYN0RmU2FZM3FlWC1YdVhmdWR1VUF2RFVaZVJtdWJfdnpQeDFXVmc0X050a3QwcWhJbEE?oc=5",
-          "added_at": "2026-09-21 02:21:17"
-        },
-        {
-          "uid": "4b537072278b",
-          "date": "2026-09-09",
-          "title": "Trump administration blasts Ford’s business deals with Chinese firms - Bilyonaryo Business",
-          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判しており、自動車メーカーの対中ビジネス展開が米国政府の政治的圧力の対象となっていることを示唆している。",
-          "source": "下院中国特別委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLXM2Tk1uVng3VENvQXFwd2NMeFBxTEpLTFRHcjZpQjNpUk1hT0xkeGxJWTFMY0pkS3U1RHNGMlM5c2V1bHFLc0s4eTMzWi0yVW0tNTZqbWZLbEZLWGJ5T193YkV2b3JocW9EWDVYNWlzd3ZQN0pzY0pIdl9aOV91NXJxckJXeGhhWEJHTFlnYmhZTTBsNHBWcXJFVGw5SHQwX0U5cU9yUnJwUWx1UUhqZg?oc=5",
-          "added_at": "2026-09-21 02:21:17"
-        },
-        {
-          "uid": "6684a5de169b",
-          "date": "2026-09-09",
-          "title": "Trump administration slams Ford, alleges ties to China - WMTW",
-          "summary": "トランプ政権がフォードモーター社に対し中国との関係を理由に批判を展開しており、自動車メーカーの対中提携が政治的な争点となっていることを示している。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMDlLejBnZFg4aVBsd0JtRDRfTURzVlpKN2k0cWJyUC14WkJ0aVRpUFljN0MxT2xzV1dPMDlkMTNUYUdMQi0tQzVkVl9kM2Q0by02MlhXYXFFUGRhS3hEX3FsNWtfdUZMS0JkZnJyOXF1VTlidWFxb1RSRHN4LW5uOQ?oc=5",
-          "added_at": "2026-09-21 02:21:17"
-        },
-        {
-          "uid": "16cbf962bad3",
-          "date": "2026-09-08",
-          "title": "Trump administration blasts Ford’s business deals with Chinese firms - 102.7 WBOW",
-          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判しており、自動車メーカーの対中連携に対する政治的な圧力が高まっている。米国政府は国内産業保護の観点から、自動車業界の中国との経済的結びつきに対して公然と異議を唱えている。",
-          "source": "フォード",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTDhQenVJVlZWRzhBYmRVMVVQWWllZ3Z3SmlLdXFRTjRIdmZmNWdjR2ptYWhQOE5Gc0FEZFY5ZDlhbmJVU3RuMFZOZEFJUUtmMnF3YVREdTVuajNYdnJHSWU1TVYyYWpvTEpyc21xVnUwTWlMV1lQT2N6TDRJeHBDc1BuTWZCNTh6djAxUWNZb1g4RUJ3cjZubndhVlFjY1RG?oc=5",
-          "added_at": "2026-09-21 02:21:17"
         }
       ]
     }
