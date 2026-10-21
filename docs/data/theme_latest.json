@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21 03:24:42",
+  "generated_at": "2026-10-21 10:46:06",
   "themes": [
     {
       "id": "iaa",
@@ -8,17 +8,37 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-21 03:23:50",
+      "last_checked": "2026-10-21 10:45:02",
       "items": [
         {
           "uid": "f02e8c47c3ad",
           "date": "2026-10-20",
           "title": "Türkiye to keep pressing for automakers' inclusion in EU industrial law | Daily Sabah - Daily Sabah",
-          "summary": "トルコは、欧州産業加速法案（IAA）に自動車メーカーを含めるよう欧州連合に対して引き続き圧力をかけていく方針である。トルコは自国の自動車産業がIAAの対象から除外されることに反発しており、EU内での産業競争力強化の枠組みに自動車セクターを組み込むことを求めている。",
+          "summary": "トルコは、欧州産業加速法案（IAA）における自動車メーカーの包含を求める圧力を継続する方針を示しており、EU産業政策におけるトルコ企業の役割拡大を目指している。",
           "source": "Google News",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFR0VXBLQlE4MVV1aDZkVTFEZ191V2tPY0JhZG1aZjFRY0RhcjZCSVZpa1BiSkFUUGp2cldEWDlmTDNGcnNVYUl5UW92R2lwbjFUYXJUR3pJWXVkNFlWQ1liSGNNa0tzcVNzcHMycWM5WmxXaFZ4clc4UEY5bkNNbmJLcVRobC1ZZEFOUHo4STM5ei15aGU2bFB3SDV4UGFfR3hXNmxLSlAzZU5FMVhlRktlYm56ZG9wa2fSAboBQVVfeXFMT3RUdFVwS0JRODFVdWg2ZFUxRGdfdVdrT2NCYWRtWmYxUWNEYXI2QklWaWtQYkpBVFBqdnJXRFg5ZkwzRnJzVWFJeVFvdkdpcG4xVGFyVEd6SVl1ZDRZVkNZYkhjTWtLc3FTc3BzMnFjOVpsV2hWeHJXOFBGOW5DTW5iS3FUaGwtWWRBTlB6OEkzOXoteWhlNmxQd0g1eFBhX0d4VzZsS0pQM2VORTFYZUZLZWJuemRvcGtn?oc=5",
-          "added_at": "2026-10-21 03:23:48"
+          "added_at": "2026-10-21 10:44:54"
+        },
+        {
+          "uid": "783dc3d58e58",
+          "date": "2026-10-20",
+          "title": "The EU Clean Corporate Vehicles Regulation: the industrial and… - Transport & Environment",
+          "summary": "EU清潔企業車両規制は、企業車両の排出削減を通じて自動車産業の脱炭素化を促進し、欧州産業加速法案（IAA）が掲げる産業競争力強化と環境目標の達成に貢献する。この規制により、大型車両フリートの電動化が加速され、欧州自動車メーカーの革新的クリーンテクノロジー開発が促進される。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTzBJMlZmaUFEZ1F5RFJPbzkwaEZMS2p3NDdOT3JwaHhfR0VYbGlHS0lNd09pN0ZaMkpIZTlLZ1dZOFZMMkhMQXNvR0tVVnZ0RFFlVlFGdXRKczNPZ013eDI4WTlVTmhXN044Y2JRRzZoeEFPdWRLcDU0Uld0TUV1aEp2V1JMdnZnQlNYblpMNE1rQ1BzQkJaUXVKYXM2Y1FfeVpiczBpVGlkc1NDR05ZZDFIOE4taUVUbTlTNll2NWxYMUVwX0dpdmhaNDRlejUxaklYbXVRNUR2QVNHRnpHS0s2V1JPX3g3aHpGemxndVlyajQ?oc=5",
+          "added_at": "2026-10-21 10:44:54"
+        },
+        {
+          "uid": "e71e5c733a07",
+          "date": "2026-10-16",
+          "title": "Franco-German agreement points the way: technology openness and European value creation must now go hand in hand - CLEPA | European Association of Automotive Suppliers",
+          "summary": "欧州産業加速法案に関して、フランス・ドイツ間の合意は、欧州の自動車サプライヤーが技術開放性と欧州内での価値創造の両立を実現する必要があることを示唆している。CLEPAは、この方針が欧州産業の競争力強化と産業加速に向けた重要なアプローチであると指摘している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbHBvcDl1dTZqUG9paGJOcE9JRF9sallFcEdQRFhWOWYwUk1sUE5BUzQxbWUzX0FZQ2RnTEpVTmRoNGxiaFdiQWpzVkxjNXY3VjNUZ2gyaUdYd2tpUExodF9mWWJIWWcwRld0RDdVSmFLZmRpNm1GUjNiUU5SaEU2Uldic3hBLXJ6Nl9kejExUERXNFJ3S01UQ3RvLVdXTGZfSWZFQ2dQT3N6NTRiVk85YXFKTFctb2JKSGFESmpmWk83V1VfdERpcXlBejNweW96b1ViNzYyR0VpSHF3cm92LTNrNVViV0cwczRzUU40X2pzb2s1dEZtTQ?oc=5",
+          "added_at": "2026-10-21 10:44:54"
         },
         {
           "uid": "e60028baa8bb",
@@ -1989,26 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUjNWX3BUOXdVRGVOVG5mRHNTTWlQOXVRdVJXcldHNEpYbWlsWm13NlNvTjltcFFzU3dYbWJiY3JzNVVISjFSQURFbXh5Ulp2cmIyYktWX1JSRnE1eW9kRFdnMlRLUWdZUjZZNVhRV2l5ZldqUEF4MmtVWDNkLU53SXV5NWc0MmhOX0hZQUIxT3BxVHdIbTBJSUVvV3Axd9IBVkFVX3lxTE9ZaWhzaHZDMGozakFmSGVHMjZvY1gyek5lQzBzNmVYQk5HemFMaHhiakhYNF9FQlgtZHBDUjJXNWtQTlNWWTNIejBxLTU3aldfV3dNb3hR?oc=5",
           "added_at": "2026-07-21 16:34:14"
-        },
-        {
-          "uid": "77f54fbd99c5",
-          "date": "2026-07-11",
-          "title": "No tougher line on China + Kallas under pressure + Dispute over UWWTD - Table.Briefings",
-          "summary": "申し訳ありませんが、提供いただいた記事の内容が「タイトル」と「内容」として表示されているものの、実質的なテキスト本文が含まれていないため、欧州産業加速法案（IAA）に関する具体的な要約を作成することができません。\n\n記事の本文をご提供いただければ、お答えいたします。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY1Z5Q1FtNHpqVjBrSUZCVjJ2eFNJRzBtaG5BcUp2OTVpT0dtYUtqbTlnbjV6TWkwNHRWREVKSVJST3ZXLUNpbjZvTlFkN1FMRkl6N21qTzJLTUF5c0hGd0pLZ09WTzIxNjUtY0FvMDM1NW11SDFuZXdnR3lOa3E5bHJsWXRFbEdmbzFMSHJmQ2tOSlRHNWJWcWREbFdRMEZfeEc2NVg4YXFYNEtkellTWWZZNzBQMG9GTkN1dWpTSQ?oc=5",
-          "added_at": "2026-07-19 16:28:45"
-        },
-        {
-          "uid": "5bf93921da11",
-          "date": "2026-04-21",
-          "title": "H2 Talk: Is the Industrial Accelerator Act enough for Europe’s clean industry? - Hydrogen Europe",
-          "summary": "欧州産業加速法案は欧州のクリーン産業育成の重要な施策だが、水素産業の発展を支えるための投資や規制緩和が十分かについて業界関係者の間で議論が続いている。",
-          "source": "EU産業政策",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Z2RsNHVJcG80NlFqX3hLa3dyeHhGT3QySlVCVG94bGpaWUtTR2VTeDZHamN2cTlnOHlxS3FUc2x1UHVEVTBxZGN6cUVnYzMxTkZkRVVGSzZvSUczem4zUXZuSVlBemxnRXc?oc=5",
-          "added_at": "2026-07-18 23:56:41"
         }
       ]
     },
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-21 03:24:04",
+      "last_checked": "2026-10-21 10:45:20",
       "items": [
+        {
+          "uid": "3b068bb9c872",
+          "date": "2026-07-30",
+          "title": "A Bill To Crack Down on Chinese Cars Could Shut Mercedes-Benz Out of American Markets - Reason Magazine",
+          "summary": "米国接続車両安全保障法（S.4429）は中国製車両を規制することを目的としていますが、その規制内容が過度に広範であるため、メルセデス・ベンツなどの外国の大手自動車メーカーも米国市場から排除される可能性があります。",
+          "source": "上院商業委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTHFhdmpuTWFMT2hBSGd3YlgzTndJOFZ0WjVKME9NLVlrQXA4cl9Rak83ekVNWlJBeDdmVkc1NnoxMmhVXzNvb0lPVW9pbDZjZmZNXzBhUGVfbUt3MW5BNW9FYWpPWXdPdER2Q3ZSeFY4eGxZU01kOExYUE1Kd0tKcXU1cHk0Tzd1QVFTWGhOUXl2MXRnRGNFRjRFdkFITUE2Y1FnVVlZUHREdUdaMUpDQ1FvZVVSSkU?oc=5",
+          "added_at": "2026-10-21 10:45:15"
+        },
+        {
+          "uid": "12698ba49518",
+          "date": "2026-09-08",
+          "title": "Reports, calls for action show concerns about Chinese vehicle surveillance growing louder - Automotive News",
+          "summary": "中国製車両による監視機能に対する懸念が高まる中、米国はS.4429法案を通じて中国企業による車両データ収集と通信インフラ統合を制限し、国家安全保障上の脅威に対処しようとしている。本記事は、中国車の監視機能がもたらすセキュリティリスクについての報告と対策の必要性が増していることを示している。",
+          "source": "業界団体（自動車）",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONndrSFNTWDJDYTEtV2dmcjBMNW12WFk1LUpKVTdGVU9oUnNfUVBEVHhTNHh3RDY5UGRkQWhJVE9UNVdqSTlwRnY4SGM2RDkwanFDWGhEdmw0UVdiRVQ0ZEtMVnZCYTZFRHRoWk9MM2VsTEpYQW5pa3ZJaEgteWY1NlVBUFZ5VHVRVGt0OQ?oc=5",
+          "added_at": "2026-10-21 10:45:15"
+        },
         {
           "uid": "e659c89de0e0",
           "date": "2026-10-19",
@@ -4000,26 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONTNtejR4c3pPWTJyX3BYbjk0Ql9RdXkxZFYwZ1ZoLXd3bFVrRFU4ZzB1bGllVWtqUGU3OVo5SHJiZFFxbEJsdl9Yc0NrSWZTVmYtUDZqZ2pnclZfUzlWQUZjX3ZCdUlWRXVWbFVrWFdOZ0RmTXR2VVFOOFEyMEM3aXA2RkswdV9CeVBJNFRjNU42WThWU1Q0UWZfcnF1Z9IBlAFBVV95cUxPUjFYdVc4eXhyWWFicEhYVG9GNzJ2STB5VDBWTUVCVUU4VFlqcHN0YUs5dmlTN0VWV3d6amd6Z2dzLUlFVjVvdFdTZUdrNVF3SVpMRkNFaEdueEh3dkQ4OTdfZzR1ZlRiWVhmb2t1eV9OVEZCZUVIbW4tMDZFb0haVnVneHdtdVhlVDlKbV9qX3ViSjJx?oc=5",
           "added_at": "2026-08-11 12:20:12"
-        },
-        {
-          "uid": "212374ea355f",
-          "date": "2026-08-06",
-          "title": "Pentagon policy chief can’t get invited to Beijing",
-          "summary": "米国が台湾への武器売却を続けることで中国が反発し、ペンタゴン政策責任者の北京招待が実現していない状況は、S.4429が懸念する中国による報復措置や安全保障上の対抗戦略を示す事例である。",
-          "source": "POLITICO",
-          "source_type": "media",
-          "url": "https://www.politico.com/news/2026/08/06/china-pentagon-colby-dissed-01025966",
-          "added_at": "2026-08-07 13:36:32"
-        },
-        {
-          "uid": "2fc21d97ae08",
-          "date": "2026-07-22",
-          "title": "Should America Permanently Ban Chinese Cars? - FOX40",
-          "summary": "申し訳ございませんが、記事の具体的な内容が提示されていないため、S.4429に関連した要約を作成することができません。記事本文をご提供いただければ、日本語1〜2文での要約を提供させていただきます。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtd0hQNldtNFpLZ1NUNTd6Zm1CYjFPenpaVEdyNjRrTFJVYzlwZERIQkdrUXI2OFMzWlVLZV9xYjViR1BfZGg3U0kyc2lOa0VnaGk3WWJ3TU80VktxRDRDcG9tT1ZheGd0YS1oVkdUOWNpa2NLcWQ5blVTeE0tZ9IBgwFBVV95cUxQNXpiUmNDbmdiRjQ1VDdrMmhVaGpOdEZXZ1NpTnpRY0hTeXZRZXgwQkRyUTd0M2RJS0dPZld2V2liZVhMY1JZMzBqQWNLbnBpTDBFTXVkRm5FbnQzbWhJRXRZNi1ib0lfME0xX0s5bm1LRk9qbTdNT2lSQkVBT0RpR2U5Yw?oc=5",
-          "added_at": "2026-08-06 01:02:33"
         }
       ]
     },
@@ -4030,47 +4030,47 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-21 03:24:27",
+      "last_checked": "2026-10-21 10:45:50",
       "items": [
         {
           "uid": "ca711b002d0a",
           "date": "2026-07-30",
           "title": "The Trump Administration’s Many Tools for Seizing Critical Minerals Abroad - Public Citizen",
-          "summary": "# 要約\n\nトランプ政権は海外の重要鉱物・レアアースを確保するため、通商交渉や投資規制、さらには直接的な没収権まで含む複数の手段を活用する準備を進めており、これは中国が支配するレアアース市場に対抗する米国の戦略的対応として位置付けられています。こうした米国の攻勢は、中国によるレアアース輸出管理と並行して、世界的なレアアース供給チェーン再編を加速させる要因となっています。",
+          "summary": "# 要約\n\nトランプ政権は、戦略的に重要なレアアース等を確保するため、海外の鉱物資源に対して経済制裁やFDIUS法の活用など複数の政策手段を有しており、こうした措置は中国によるレアアース輸出管理への対抗手段として機能する可能性がある。",
           "source": "トランプ政権",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzF5Q0otTE1NUlI2TFhUWEpnUVF6VFpKVmlDTW96YnotM0pBTDRIQjRvS0pfWjNvdDU2TlFSZ3hRd0ZCWnQ2cjZRNWp2R09FeE12M0ZUTFBveG9aYTFjSlh4SnpBbTdvaXlTVzEzdWlzaUxJV0pxUFpacmMtODdpV1N0Nmw3Znoyc1UtWGU4ZG5WeVNWNHVEb24zdGV4a0hZakNoOGltZjNQQQ?oc=5",
-          "added_at": "2026-10-21 03:24:20"
+          "added_at": "2026-10-21 10:45:40"
+        },
+        {
+          "uid": "d05c55612fcc",
+          "date": "2026-09-17",
+          "title": "Key issues for this week's Trump-Xi summit in Washington - Reuters",
+          "summary": "トランプ大統領と習近平国家主席のワシントン首脳会談では、中国によるレアアース輸出管理と米国の防衛産業への影響が重要な議題として取り上げられる見通しである。米国はレアアース供給の中国依存からの脱却を求め、対話を通じた解決策の模索が期待されている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHdmMERXdzJrTFFzNkJOSXZhblo3Tkp1YXctZHBVQU9jdHR0TTZhUmFiYjVMRmsxaGhhbHFEMUdMd2daWVJzcnU0NUZGQTd0bGk0WjBIa0xWRkdGaHRWa2doWU11dGlTRW44ZFRhdmhFYm1ad3NDVV9ndTZQd1VoWXdUcXB1N0JZZ1FGWkJ0b2plUHJTVGk3dnowWQ?oc=5",
+          "added_at": "2026-10-21 10:45:40"
         },
         {
           "uid": "86fa03656489",
           "date": "2026-07-27",
           "title": "Buying Time, Not Immunity: Japan's Rare Earth Dilemma - orfonline.org",
-          "summary": "日本はレアアースの中国への依存度を低減するため、オーストラリアやベトナムなどからの輸入多角化やリサイクル技術の開発を進めているが、これらは短期的な対策に過ぎず、中国による輸出管理強化の脅威から完全に回避することはできない状況にある。",
+          "summary": "中国がレアアースの輸出管理を強化する中、日本は東南アジアやオーストラリアからの調達多様化やレアアース備蓄の増加により短期的な対応は可能だが、中国への根本的な依存構造からの脱却には技術開発や長期的な供給網再構築が不可欠である。",
           "source": "欧米レアアース企業",
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWk5aW1TaE50WU94VnloTW00NmZGU0Q0NlpNQ1NTZDVrb3NMQlZSQ3RueUxjQm8zdVFxN193UFNYNUdzZ1ZFWklJTW12VEhVclNRcWVmcUdyQU1mb01NcUhiSzFlMlBuNFR5UzlqNTNwd0lvZU9ucG5jakV5dHdqYmZhU0tNUnVXc0tkejBtWndoOTla?oc=5",
-          "added_at": "2026-10-21 03:24:20"
+          "added_at": "2026-10-21 10:45:40"
         },
         {
           "uid": "5a8883b0215b",
           "date": "2026-10-20",
           "title": "China defends DeepSeek after US ban",
-          "summary": "中国はDeepSeekの米政府システムからの削除命令に反発し報復の可能性を警告しているが、この動きはレアアース等の戦略的資源の輸出制限を含む対抗措置につながる可能性がある。米国によるAI技術規制強化に対し、中国がレアアース輸出管理を報復手段として活用する懸念が高まっている。",
+          "summary": "中国がDeepSeekに対する米国の禁止措置に反発し、報復の可能性を示唆しているが、これは先端技術の輸出管理をめぐる米中対立の一環として、中国がレアアースなどの戦略的資源の輸出規制で対抗する可能性を示唆している。米国の技術制限に対して中国が報復手段として重要資源の輸出管理を強化する構図が浮かび上がっている。",
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/policy/technology/6160255-china-retaliation-deepseek-ban/",
-          "added_at": "2026-10-21 03:24:20"
-        },
-        {
-          "uid": "53382ef6f938",
-          "date": "2026-10-20",
-          "title": "Beijing monitoring US warship near disputed shoal in South China Sea",
-          "summary": "中国は南シナ海の領有権争いに関連して米国との緊張関係を深めており、こうした地政学的対立がレアアース輸出の制限や経済的報復手段としての活用につながる背景となっています。中国は戦略的に重要な資源の輸出管理を強化することで、米国との紛争地域での影響力維持をはかっています。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/defense/6160286-uss-charleston-sabina-shoal-dispute/",
-          "added_at": "2026-10-21 03:24:20"
+          "added_at": "2026-10-21 10:45:40"
         },
         {
           "uid": "a89b1b960dd7",
@@ -6041,67 +6041,37 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-21 03:24:42",
+      "last_checked": "2026-10-21 10:46:06",
       "items": [
-        {
-          "uid": "f2ba5ef729ec",
-          "date": "2026-09-09",
-          "title": "Ford: Duffy criticism over deals with China ‘wrongheaded attempt to capture headlines’ - The Hill",
-          "summary": "フォード・モーターは、中国との提携を巡る政治家ダフィーの批判に対し、それは見出しを稼ぐための的外れな試みであると反発している。同社は、中国との事業展開が戦略的に重要であり、政治的な圧力に屈しない姿勢を示している。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRUhOU1docF9hbU9qc1ZtMWRLS3pLbExBb2ZWY1FsbV9WeVA4SGFYZjJQWVlsQXQtRm5MT3NxSlZkMVZiNzdTMUxoNG9YbHZuR0xTVHNwMEdQSkFJVERMWU1HWURkbTNfUk51VmNYNjFkQkt0TGlNOQ?oc=5",
-          "added_at": "2026-10-21 03:24:35"
-        },
         {
           "uid": "ea1894934988",
           "date": "2026-10-20",
           "title": "Without private capital, we will miss our small window to rebuild our military",
-          "summary": "米国陸軍の財務責任者は、民間資本と先端技術を活用した国防産業基盤の近代化戦略の必要性を主張しており、これは自動車メーカーなどの民間企業が対中提携を通じて防衛関連技術や産業基盤に影響を及ぼす可能性への懸念と関連している。",
+          "summary": "米国陸軍最高財務責任者マーク・アンダーソンは、民間資本を活用して防衛産業基盤を再構築する必要があると主張しており、この論理は自動車メーカーなど民間企業が中国との提携を進める際の国家安全保障上の懸念と対比される。防衛と経済のバランスを取る中で、戦略的に重要な産業への民間投資の方向性が政治的な議論の対象となっている。",
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/opinion/national-security/6159419-military-innovation-private-capital/",
-          "added_at": "2026-10-21 03:24:35"
+          "added_at": "2026-10-21 10:46:00"
         },
         {
           "uid": "9cbce1832de9",
           "date": "2026-10-20",
-          "title": "Celebs focus on Dems winning House in 11th hour midterms fundraising",
-          "summary": "この記事は米国の中間選挙に関する民主党の資金調達キャンペーンについて述べたもので、自動車メーカーの対中提携への政治的批判とは関連がありません。そのため、要求された文脈での要約はできません。",
+          "title": "Celebs focus on Dems winning House in eleventh hour midterms fundraising",
+          "summary": "この記事は米国の中間選挙に関する民主党の選挙資金集めについて述べたもので、自動車メーカーの対中提携への政治的批判とは関連がありません。",
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/blogs/in-the-know/6160437-celebrity-midterms-fundraising-dems-house-gop/",
-          "added_at": "2026-10-21 03:24:35"
+          "added_at": "2026-10-21 10:46:00"
         },
         {
           "uid": "5a8883b0215b",
           "date": "2026-10-20",
           "title": "China defends DeepSeek after US ban",
-          "summary": "中国はDeepSeekのAIモデルを政府システムから削除するよう命じたDHSの措置に反発し、報復の可能性を警告している。",
+          "summary": "中国の生成AI企業DeepSeekが米国防省から排除されたことに対し、中国が報復の可能性を警告しながら反発しており、この技術規制をめぐる米中対立が激化している。",
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/policy/technology/6160255-china-retaliation-deepseek-ban/",
-          "added_at": "2026-10-21 03:24:35"
-        },
-        {
-          "uid": "53382ef6f938",
-          "date": "2026-10-20",
-          "title": "Beijing monitoring US warship near disputed shoal in South China Sea",
-          "summary": "この記事は自動車メーカーの対中提携と直接的な関連がないため、要約できません。記事は米国海軍艦艇と南シナ海の領土紛争に関するもので、自動車産業の政治的批判とは異なるテーマです。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/defense/6160286-uss-charleston-sabina-shoal-dispute/",
-          "added_at": "2026-10-21 03:24:35"
-        },
-        {
-          "uid": "1bf1c00348d6",
-          "date": "2026-10-20",
-          "title": "The Affordable Care Act has proven unaffordable",
-          "summary": "この記事は医療保険制度に関するもので、自動車メーカーの対中提携への政治的批判という指定されたテーマとは無関係です。要約対象外です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/healthcare/6159129-obamacare-premium-price-spiral/",
-          "added_at": "2026-10-21 03:24:35"
+          "added_at": "2026-10-21 10:46:00"
         },
         {
           "uid": "9aee95d812ed",
@@ -8042,6 +8012,36 @@
           "source_type": "media",
           "url": "https://thehill.com/blogs/in-the-know/6102393-presley-gerber-death-cindy-crawford/",
           "added_at": "2026-09-22 13:37:37"
+        },
+        {
+          "uid": "68621c20fb82",
+          "date": "2026-09-21",
+          "title": "Bessent says US, Chinese officials considering lowering tariffs on ‘noncritical’ items",
+          "summary": "米国財務長官ベッセント氏は、米中両国が「非重要」製品の関税引き下げを検討していると述べており、これは自動車産業における中国との提携に対する米国の政治的圧力が関税交渉の形で展開されていることを示唆している。米中間の経済的緊張緩和の交渉が進む中で、自動車メーカーの対中事業戦略も政治的な関税政策の影響を受ける可能性がある。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6102128-us-china-lowering-tariffs/",
+          "added_at": "2026-09-22 13:37:37"
+        },
+        {
+          "uid": "9a98962e4232",
+          "date": "2026-09-20",
+          "title": "AI fears burst onto Trump-Xi agenda, but challenges abound",
+          "summary": "トランプ大統領と習近平主席の会談ではAIの危険性が議題に加わるが、トランプ氏がAIの実存的脅威を「詐欺」と否定する姿勢は中国の見方と一致しており、両国間の相互不信と競争激化が対話を困難にしている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6099099-trump-xi-ai-talks-us-china/",
+          "added_at": "2026-09-21 19:29:18"
+        },
+        {
+          "uid": "af55386d847a",
+          "date": "2026-09-09",
+          "title": "Republican lawmakers criticize Ford business ties to China - WTVB",
+          "summary": "共和党議員はフォード・モーターの中国とのビジネス提携を批判しており、これは米国の自動車メーカーが中国との関係深化に対する政治的な反発が高まっていることを示している。",
+          "source": "下院中国特別委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVWdVaDJiU1A4bGM2VE5fZmRDUTltb1dDSl9QajJqX3Y0SGl1OGNKckt0SlJudFBuZU5RZ3h6b0VPR2tQb1VkYWpzZHpMdG9VNlVzRjZQWlI5eFhnOTItVXpYN0RmU2FZM3FlWC1YdVhmdWR1VUF2RFVaZVJtdWJfdnpQeDFXVmc0X050a3QwcWhJbEE?oc=5",
+          "added_at": "2026-09-21 02:21:17"
         }
       ]
     }
