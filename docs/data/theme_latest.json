@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22 18:54:49",
+  "generated_at": "2026-10-23 03:25:03",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-22 18:53:46",
+      "last_checked": "2026-10-23 03:24:25",
       "items": [
         {
           "uid": "80fdf47be456",
@@ -2019,8 +2019,38 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-22 18:54:00",
+      "last_checked": "2026-10-23 03:24:38",
       "items": [
+        {
+          "uid": "a241cbef821c",
+          "date": "2026-08-13",
+          "title": "GM, Ford secure Army truck contracts under new national security rules - The Detroit News",
+          "summary": "# 要約\n\nGMとフォードは米国接続車両安全保障法（S.4429）に基づく新しい国防安全保障ルールの下で、米陸軍向けトラック契約を確保した。本法は外国資本の影響下にある企業による防衛関連車両の製造を制限することで、米国の安全保障を強化するものである。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTTE2cXRCb3ZsT1MxMzRsZ1hLbXlHN0NsOEpKOXdxcDJhZVZoNjZ5OV9WTVN3Rl9TalJra2tOaEw4LXIxZmFBemVBVHhGS1dPM0c1X3JyTjVOVHUyRHl6bHVqQTkwZHBvSE9aRW5QRkNlSGwyc2lHc2dYaU16OThwQUxCelhGYzBPV0txZk5lelJvVURyaW92WXRxUU9fWk5sdlVpZU51MUJFYUNSRFRtWEZNU0NqT3FKeDk4c0ZlUW1RNDV1WXRxR2prWDVCa3BjX29HQ09ocUtKYk9Bbk5TNVo0QU1faXZ2QW9WZkFlU0E4Y2RrcE9zZW9wajRiMC15Ync?oc=5",
+          "added_at": "2026-10-23 03:24:34"
+        },
+        {
+          "uid": "007c5fc3d7f2",
+          "date": "2026-10-21",
+          "title": "Qualcomm to add Japanese V2X frequency to Snapdragon auto chips - Telecompaper",
+          "summary": "# 要約\n\nQualcommは、日本のV2X周波数に対応するSnapdragonの自動車向けチップを開発することで、米国の接続車両安全保障法（S.4429）が求める国際的な相互運用性と通信標準化への対応を進めている。このような対応により、自動運転車両や接続車両の安全性向上と各国の通信規格の統一化が実現される。",
+          "source": "半導体・Tier1サプライヤー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2w4aFpiTjFMLUl2Tkp5SWVKb08yejdjM00xSFFJSEM2MUxDZ3ZqUTlwbUx6UEdaeU1EdkJmV1BHa09IVmszNHhqODBZTnNNQTNvS1JmWHBYc3E1bG02VkRXYXFSLWR3cnEzREoySzNvUkR3VWhSeTB3bndPdUFoZVdsOHN5ei03UlBTOW16bEpxa3pEQTBxUmdSbTVMb0ctbTRFQ1BZaHAyQQ?oc=5",
+          "added_at": "2026-10-23 03:24:34"
+        },
+        {
+          "uid": "c5c35b9dc11e",
+          "date": "2026-09-09",
+          "title": "US Senator Cites 'Rumors' of Chinese Cars in a Trump-Xi Deal, Names No Source | EV - Electric Vehicles",
+          "summary": "I'm unable to access external links or the specific article content you're referencing. To provide an accurate summary in Japanese regarding S.4429（米国接続車両安全保障法）の文脈での記事内容については、記事のテキストを直接提供していただけますでしょうか？",
+          "source": "中国自動車・IT企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWnY3bmViclFNUDh2STRXYVAwZjV3SUJ2a3RnYlRuTlBlOXpXSVVXTXRrSHo4QXBDcldjWEhMRV9iOGlfXzVZVGJPQ1QzcjlGV1E1NkhPVnVDSERLY05hVEZTbXRfUG0wX2QtTXZRMEc5YXFDZXVuc3Nfa0NJclI1TXd0NTlkWUhrQjhJakxPc1FDSzdCOTNXUEwzQ3NjcUNDcms1Q1p6aXkwT1ct?oc=5",
+          "added_at": "2026-10-23 03:24:34"
+        },
         {
           "uid": "fd3fe6515122",
           "date": "2026-10-13",
@@ -3990,36 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekxzVmQ1WVpYdUhpUHhGdU9xbFRudlExT0c4ampjczVjX3dIU2lOeHRhRGJpdkt0WXJNTUY3b2E1SWtJaGZ5dG51eDl2azZoM1RBbXFOYVprSlFkanN4QXVhRV9sbWxQemJtRXZrS0RuUGUtamZvVmZ6MTBTbS1fSGlwcWljYXU1aUlHd2x6NTAxZXNnNWx0UURXTGxsUQ?oc=5",
           "added_at": "2026-08-15 14:27:21"
-        },
-        {
-          "uid": "349946efd8a0",
-          "date": "2026-08-11",
-          "title": "Asia-Pacific Connected Car Security Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
-          "summary": "本報告書はアジア太平洋地域の接続車両セキュリティ市場の2030年までの規模、シェア、トレンド、成長を分析しており、米国接続車両安全保障法（S.4429）で規制対象となる接続車両のサイバーセキュリティ需要がアジア太平洋地域でも急速に拡大していることを示唆しています。このデータは、S.4429に準拠するための企業のセキュリティ投資戦略の策定にあたり、地域別市場動向の把握が重要であることを示唆しています。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT04wOUZXaU5DelRoZmRNSlNRVXdhLXA1M1d0dWRkS3FRU3RIdXZBc2wwQUUwc1MzVC1fX01JLWppRE5BclNlQnhQOXViWnlXT1NSdllVRHhyZVlSQ0wzS0VtWVphSGRqaWkyemZWU1RlSUJ4TUtxM1JuckRlSFFlcE9zWW54bGpkclJaclczT3YtSGRFNGZ3dVQ0NUdISlIwNjNZ?oc=5",
-          "added_at": "2026-08-14 23:54:24"
-        },
-        {
-          "uid": "a1f00d51032d",
-          "date": "2026-06-25",
-          "title": "Polestar forced to stop US sales due to new ban on Chinese software, Australia unaffected - CarExpert",
-          "summary": "米国接続車両安全保障法（S.4429）により、Polestarは中国製ソフトウェアを搭載した車両の米国販売を停止することを余儀なくされた。一方、オーストラリアなど他国での販売は影響を受けていない。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNG4wYWdYMWk4cnVCd0V6QXZPSUZtanBxQUhTbnRPUDBoNDdvYTBKSmdQVW53U291X2VFaTQtQzlLVnhUcEhNYWFaLW5yM3dlT0hQNlFVMi1SejdsUGZvTmFJMjF6Q3dFWmxBQWh3Q1I5REZmTEpTVl9ZVHFEZjZsRW14R2FPanlmZWcxTHVLeWZjR1YzOFZzTzZtQmJYSTVMalFIUHhvOUNkODg2TjJMQ1NQNXNJRVp1blFIRUFNR2hkWm5Q?oc=5",
-          "added_at": "2026-08-14 15:16:16"
-        },
-        {
-          "uid": "f1f647ad06cd",
-          "date": "2026-06-26",
-          "title": "Polestar banned from US market under rule targeting China-linked connected vehicles - Fox Business",
-          "summary": "# 要約\n\n米国は中国関連の接続車両を対象とした規制により、中国系自動車メーカーのポールスター（Polestar）の米国市場参入を禁止した。この措置は、外国の潜在的な脅威から米国の自動車通信システムを保護することを目的としている。",
-          "source": "米商務省・BIS",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjZWSjBpSWRhSC13RFU4T3J6cDV5YmFNdXhwZHJNaUNZVElLU21jb2l0azBOUHlBQkMySkI3QjF5ZnZRb1FjMmRuUmZCbE9lMm1fZ3Z5Zml5VGxuTGkwLTJwcUdmdUVjNkJyTGVHRlByMW9QYXNJU3d3azZ5UkNFdnFXcENjOUkzSjRoUWQ5RU8wRklTWGZTWWtZc1ItMmtJYTB1R0lwSG00Z2NUREdOTjQ4NnhJM0QtZGJF0gHAAUFVX3lxTFA1dFBlOUtzRmZ6SmY0WmJSQ01QMmkxWHlSSEdDOFVIeTRlcE94TWhTTC1LU056SnE5Ym8tSHVDNTNJeHNCU00xTFd2eW5Lb2xuZm1BMVhzdm14MXFZYlFJY0xaVGF0ZjVPQVlWVmxoLUR4cVN6RHItUnM5eWlNT2NTRTdUZlhNeDlXbDR1VEFuSnY2ZlNEMlJKZHNzbTBJTlVQc1dQVDBwYWZFMDJyUWtHT1ZvVmYyeGJ0VXZ5c2ZUXw?oc=5",
-          "added_at": "2026-08-14 09:46:34"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-22 18:54:36",
+      "last_checked": "2026-10-23 03:24:56",
       "items": [
+        {
+          "uid": "954a4c3e16ee",
+          "date": "2026-07-24",
+          "title": "Beijing's Export Control Counterpunch: 14 EU Entities Added to China's Controlled List - Geopolitechs",
+          "summary": "中国政府はEU企業14社を輸出管理規制リストに追加し、レアアース関連技術を含む特定物資の輸出制限による対抗措置を実施した。この措置は、米国とEUによる中国への経済制裁やハイテク規制に対する報復として機能している。",
+          "source": "中国商務省（MOFCOM）",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lUEd4cTdMa1UxZFJaTFBBamhkR0NaelFhVGNxQ2x5T1JCMENJUUxqS20yTGJUY0xIXzZDZGZ2Q1hQc0NHNHhDX3dsNDYtUGxNam55Q3ZjcmNTVTQ3R2Vwazl0d3J6cmxhRmFXX1NLTDFMN3M4U3c?oc=5",
+          "added_at": "2026-10-23 03:24:51"
+        },
+        {
+          "uid": "5459f6786ef9",
+          "date": "2026-09-23",
+          "title": "The Tiny Magnet Maker That Attracted $1.6 Billion From Lutnick - Bloomberg.com",
+          "summary": "MP Materials（米国レアアース企業）がスティーブ・ルトニック率いる投資家グループから16億ドルの投資を獲得し、中国に依存しないレアアース磁石供給チェーンの構築を加速させる。中国のレアアース輸出管理に対抗する米国の戦略的取り組みの一環として、国内産業基盤の強化を目指している。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRnNiZmJjQWkxYTlUMEV4NmxGcjV6WEhrS24yeWRCSVVsV044cUhNUDN6dEtuVjgxalJkMUJ3RkI0ZlFhVWhYdXpNbmc4MUhEaGttUGEwWnktZ1BnQzJRX2h3ZnljZUpkN21IYWpQS3UtT2UtR3NWYjAxb0VfSFVQSnRJTWtwX2lBbFp3OGx1X2NxUFVKYXFJUllRbEcxOGF1RURKU1pycUpwV0FKNDU1c3ZSY2x5akVyMWNn?oc=5",
+          "added_at": "2026-10-23 03:24:51"
+        },
+        {
+          "uid": "461ec9865890",
+          "date": "2026-10-22",
+          "title": "Russia and Iran are making copycats of China’s Great Firewall",
+          "summary": "イランとロシアが中国の「グレート・ファイアウォール」を模倣してインターネット検閲体制を構築しているが、この記事は中国のレアアース輸出管理とは直接的な関連がありません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/technology/6162153-iran-russia-internet-blackout/",
+          "added_at": "2026-10-23 03:24:51"
+        },
         {
           "uid": "52e4f30b5f27",
           "date": "2026-10-22",
@@ -6001,36 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbXZNdnNDTUptOTBMQ1FxSWpKTnJSRXF2R1drM2x5Z1FQRDlVUzN4VVQ3TE94SnJXZGZUckxxeVppZG4yNkpVeFpnbnMzQ01RN2FBV2gyakV6bjJsTHFhLXdrc1lzZWhicFZIaVRoc2J0dGJDakJJVlJncDNELXZvNVdiaFRBa0RBOERGMHZ2MG1Rb3ZpZ0thbUNBZ2dOaTdNZURWa2l2eklYVkFWU0ZZb3N4QWNEU1ZKZnZQLWJfMlVEaFFuYWhONVRUMjk?oc=5",
           "added_at": "2026-09-18 18:29:05"
-        },
-        {
-          "uid": "a0866f337848",
-          "date": "2026-08-02",
-          "title": "INSIGHT - Trump may need to allow Chinese minerals as US industry struggles to meet 2027 deadline - Awani International",
-          "summary": "# 要約\n\nトランプ政権は2027年の期限までに米国産レアアースで国内需要を満たすことが困難なため、中国産レアアース・鉱物の輸入を認める必要に迫られる可能性がある。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONHkxakxYVlNSdmJYcE0xdk9ERzFfMnVieDJpNHM3NG40aUs1UXpER2Q3cDZxS2VwWHlkMl9RbklBTFZ3aXNTM1g4dmxmNzU1MmxLYzlvXzdBMjY4SXpBSGFjazZQRjN3eURlTVFwaEtGd0NxenNEVEwyeE4xYTk1cUc4UGF4a3ZFa01jMDFXQ2NBSlBheVVRdmI5Z0ZxaTlobUgzQkVnNzhwX01YQmVEa3pTRHhzVWoxRlZHREVjNUh1aWhNc0tmRkItbnhKZU8z?oc=5",
-          "added_at": "2026-09-18 18:29:05"
-        },
-        {
-          "uid": "bdd71d19ebc6",
-          "date": "2026-07-29",
-          "title": "House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party Recorded Stream: 03/24/2026 at 8:25 a.m. Recorded Video - Congress.gov",
-          "summary": "申し訳ありませんが、提供いただいたテキストは議会公聴会の記録へのリンク情報のみで、実際の内容や具体的な討論内容が含まれていないため、中国レアアース輸出管理に関する要約を作成することができません。\n\n記事の本文をご提供いただければ、要約いたします。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdWFDeHNFRUFoR2Rla2d3bFlCWHE5RTV5Vy1JYWF5cVZmUFVGVExRZUVNR1BDa2t2dDlBNjJiMnVKMUZkWFlzV1hLc2N4QklDMXhhTHJ1TzVnVVlRbm1tRFp0YXliTHRKdVJzQmZQb2dVN2dOWnI0R0xUcDNoMnRleS1tY2VOVV9jU1Fab2tHaEI0TzhQN2RWS2IxVU9vSUpQdWNyYUpydEdnOHBiTXRhNEZmSVQwZXp6Nl9zeHBOSFNTNFUzdV9VNjJMUkJwMVgtcmpWLWJkajJJTlVtUjBaQjdUdWVwNEVyb3RFeXBhR2RkTFROdHV0b1JETmpZY3M?oc=5",
-          "added_at": "2026-09-18 18:29:05"
-        },
-        {
-          "uid": "87ed2e4389d5",
-          "date": "2026-09-09",
-          "title": "Eric Ham: Republican senators break ranks to defend Canadian companies from Trump - BNN Bloomberg",
-          "summary": "申し訳ございませんが、提供していただいた記事の内容が「Eric Ham: Republican senators break ranks to defend Canadian companies from Trump」というタイトルのみで、実際の本文が不足しており、「中国レアアース輸出管理」に関する具体的な情報が含まれていないため、正確な要約ができません。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1NOUTJRUUlzZUhsYmpiYnNKVGNxQWxkajdqQkN4RUNDYlAxa09MX1VsOGI0RjdkVktJZW10cEplYkFIYWRXRjhQWDV5dUhqRXgwR3lfS2tEdk9Sbm1kRDY3U2pONVB0SXlMNVM4OUloOU9oVW9saDgtZVFKVnpWbHNHQ1IwQnFLc2NQemlPTmZCZXBpTGtoWDBBOS1qWkJJay02d2RzTldCQ2lqbnhSbHhJMHlyc20tSGU1NFBPSmpKckU?oc=5",
-          "added_at": "2026-09-18 18:29:05"
         }
       ]
     },
@@ -6041,8 +6041,18 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-22 18:54:49",
+      "last_checked": "2026-10-23 03:25:03",
       "items": [
+        {
+          "uid": "461ec9865890",
+          "date": "2026-10-22",
+          "title": "Russia and Iran are making copycats of China’s Great Firewall",
+          "summary": "イランとロシアの独裁的指導者が、権力維持のため中国の「グレート・ファイアウォール」をモデルに国民をインターネットから遮断しようとしている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/technology/6162153-iran-russia-internet-blackout/",
+          "added_at": "2026-10-23 03:25:02"
+        },
         {
           "uid": "f27799b11055",
           "date": "2026-09-09",
@@ -8031,16 +8041,6 @@
           "source": "Reuters",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWZ3NVV2eHJuOEVQcDhZX3BVSnh2aWxQcE0wWERtWGc3MG9ZS3VmN1lqemJPNS1NbE1pU3RDTlR5TUIteF9hMVdNY2NITDU2N3lva3hWelYydUQ1Nm9xWUZZUHN3R29QeXR3VzhIdFNyOXJ6T1FLNlNEU3JIbUx3Q1ZCVWxHdnI4ZmhJVjFfd0s?oc=5",
-          "added_at": "2026-09-23 03:00:27"
-        },
-        {
-          "uid": "7ebb354aff78",
-          "date": "2026-09-18",
-          "title": "Houthi blitz leaves Saudi Arabia exposed, Iran emboldened - Reuters",
-          "summary": "この記事は自動車メーカーの対中提携とは無関係のため、要約できません。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU210dG1ONGRhN0FKOXF3WUpTLVowR3hJTGlsMVA2LVUtXzlacGVGbE5Hd3VLYktLOEgzYXdBZ3llMzFBdW1RMGJJaUxjRWJHSHRNZmh5T3l5RW9qTDE3Y1NRSFhnVjlEQXR0QzY4Ym0zdUc4MGxNdkZMT2NYVVU1eEtxcUtWYS0tdHpCcmJVXzdXRDZFQU1PeHVuc3I2bnUzb3NBR2pSN1V1YmhMSFFz?oc=5",
           "added_at": "2026-09-23 03:00:27"
         }
       ]
