@@ -1,8 +1,218 @@
 {
-  "updated_at": "2026-10-23 09:05 JST",
+  "updated_at": "2026-10-23 09:07 JST",
   "total": 50,
-  "toyota_summary": "The European Parliament's three largest political groups agreed today on stricter CO2 emissions standards that will require automakers to meet near-zero emissions by 2035. The deal locks in what was already expected policy, but the unified backing from conservative, socialist, and Green parties means the regulation will almost certainly pass the full Parliament and become law. This represents the most aggressive timeline for combustion engine phase-out among major markets.\n\nFor global automakers, this tightens the vise on product planning. Europe accounts for roughly a quarter of worldwide vehicle sales, and a 2035 deadline forces investment decisions now on battery supply chains, factory retooling, and EV model lineups that won't reach showrooms for years. Competitors who haven't already locked in EV production capacity will face compressed timelines and higher costs to comply.\n\nWatch whether other major markets—particularly China and the U.S.—follow with similar or faster timelines over the next 12 months.",
+  "toyota_summary": "欧州議会による自動車メーカーのCO2目標をめぐる取り組みが前進しており、TRAN（運輸観光委員会）およびITRE（産業・研究・エネルギー委員会）が、ENVI（環境・公衆衛生・食品安全委員会）による11月4日の採決を前に、2035年までの87.5%排出削減を支持する姿勢を示した。本会議での採決は12月にずれ込み、産業加速化法（Industrial Accelerator Act）の進捗と連動する形となっており、自動車メーカーにとっての規制上の確実性はなお先送りされている状況である。",
   "emails": [
+    {
+      "ts": "20261023_0815",
+      "sender_norm": "POLITICO",
+      "subject": "The Democrats’ looming trade battle",
+      "subject_en": "The Democrats’ looming trade battle",
+      "html": "data/pdfs/20261023_0815_The_Democrats’_looming_trade_battle.html",
+      "pdf": "data/pdfs/20261023_0815_The_Democrats’_looming_trade_battle.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 23  08:15",
+      "read_min": 9,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261023_0546",
+      "sender_norm": "Eurasia Group",
+      "subject": "Conference Call Notes: US Politics Update with Derek Theurer",
+      "subject_en": "Conference Call Notes: US Politics Update with Derek Theurer",
+      "html": "data/pdfs/20261023_0546_Conference_Call_Notes__US_Politics_Update_with_Der.html",
+      "pdf": "data/pdfs/20261023_0546_Conference_Call_Notes__US_Politics_Update_with_Der.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 23  05:46",
+      "read_min": 8,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261023_0535",
+      "sender_norm": "Eurasia Group",
+      "subject": "Exports sustain growth as domestic demand lags",
+      "subject_en": "Exports sustain growth as domestic demand lags",
+      "html": "data/pdfs/20261023_0535_Exports_sustain_growth_as_domestic_demand_lags.html",
+      "pdf": "data/pdfs/20261023_0535_Exports_sustain_growth_as_domestic_demand_lags.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 23  05:35",
+      "read_min": 9,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261023_0238",
+      "sender_norm": "Eurasia Group",
+      "subject": "Lebanon: IMF deal will be further delayed",
+      "subject_en": "Lebanon: IMF deal will be further delayed",
+      "html": "data/pdfs/20261023_0238_Lebanon__IMF_deal_will_be_further_delayed.html",
+      "pdf": "data/pdfs/20261023_0238_Lebanon__IMF_deal_will_be_further_delayed.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 23  02:38",
+      "read_min": 6,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261023_0228",
+      "sender_norm": "POLITICO",
+      "subject": "A dangerous winter of discontent is coming for Europe",
+      "subject_en": "A dangerous winter of discontent is coming for Europe",
+      "html": "data/pdfs/20261023_0228_A_dangerous_winter_of_discontent_is_coming_for_Eur.html",
+      "pdf": "data/pdfs/20261023_0228_A_dangerous_winter_of_discontent_is_coming_for_Eur.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 23  02:28",
+      "read_min": 9,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261023_0152",
+      "sender_norm": "POLITICO",
+      "subject": "Trucker blockades in southern Italy ramp up pressure on Meloni",
+      "subject_en": "Trucker blockades in southern Italy ramp up pressure on Meloni",
+      "html": "data/pdfs/20261023_0152_Trucker_blockades_in_southern_Italy_ramp_up_pressu.html",
+      "pdf": "data/pdfs/20261023_0152_Trucker_blockades_in_southern_Italy_ramp_up_pressu.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 23  01:52",
+      "read_min": 5,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261023_0139",
+      "sender_norm": "Eurasia Group",
+      "subject": "Xi heads for fourth term as centralization deepens",
+      "subject_en": "Xi heads for fourth term as centralization deepens",
+      "html": "data/pdfs/20261023_0139_Xi_heads_for_fourth_term_as_centralization_deepens.html",
+      "pdf": "data/pdfs/20261023_0139_Xi_heads_for_fourth_term_as_centralization_deepens.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 23  01:39",
+      "read_min": 5,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261023_0138",
+      "sender_norm": "Eurasia Group",
+      "subject": "Prospects dimming for permitting deal",
+      "subject_en": "Prospects dimming for permitting deal",
+      "html": "data/pdfs/20261023_0138_Prospects_dimming_for_permitting_deal.html",
+      "pdf": "data/pdfs/20261023_0138_Prospects_dimming_for_permitting_deal.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 23  01:38",
+      "read_min": 5,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261023_0106",
+      "sender_norm": "Eurasia Group",
+      "subject": "France: Le Pen is now the basecase",
+      "subject_en": "France: Le Pen is now the basecase",
+      "html": "data/pdfs/20261023_0106_France__Le_Pen_is_now_the_basecase.html",
+      "pdf": "data/pdfs/20261023_0106_France__Le_Pen_is_now_the_basecase.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 23  01:06",
+      "read_min": 5,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261023_0010",
+      "sender_norm": "Eurasia Group",
+      "subject": "Practice Letter: China recalibrates",
+      "subject_en": "Practice Letter: China recalibrates",
+      "html": "data/pdfs/20261023_0010_Practice_Letter__China_recalibrates.html",
+      "pdf": "data/pdfs/20261023_0010_Practice_Letter__China_recalibrates.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 23  00:10",
+      "read_min": 7,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261022_2202",
+      "sender_norm": "Eurasia Group",
+      "subject": "India update - EG Conference Call, REMINDER",
+      "subject_en": "India update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261022_2202_India_update_-_EG_Conference_Call,_REMINDER.html",
+      "pdf": "data/pdfs/20261022_2202_India_update_-_EG_Conference_Call,_REMINDER.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 22  22:02",
+      "read_min": 2,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261022_2200",
+      "sender_norm": "Eurasia Group",
+      "subject": "Brazil, India, United States, Israel, Iran, Oil, Sustainability, and Daily Brief: Lula still likely to lose Brazil runoff as gains stall",
+      "subject_en": "Brazil, India, United States, Israel, Iran, Oil, Sustainability, and Daily Brief: Lula still likely to lose Brazil runoff as gains stall",
+      "html": "data/pdfs/20261022_2200_Brazil,_India,_United_States,_Israel,_Iran,_Oil,_S.html",
+      "pdf": "data/pdfs/20261022_2200_Brazil,_India,_United_States,_Israel,_Iran,_Oil,_S.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 22  22:00",
+      "read_min": 7,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261022_2106",
+      "sender_norm": "POLITICO",
+      "subject": "Pick Sweden over British fighter jet offer, urge German defense officials",
+      "subject_en": "Pick Sweden over British fighter jet offer, urge German defense officials",
+      "html": "data/pdfs/20261022_2106_Pick_Sweden_over_British_fighter_jet_offer,_urge_G.html",
+      "pdf": "data/pdfs/20261022_2106_Pick_Sweden_over_British_fighter_jet_offer,_urge_G.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 22  21:06",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261022_2102",
+      "sender_norm": "Eurasia Group",
+      "subject": "US Politics Update with Former Treasury Deputy Secretary Derek Theurer - EG Conference Call, REMINDER",
+      "subject_en": "US Politics Update with Former Treasury Deputy Secretary Derek Theurer - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261022_2102_US_Politics_Update_with_Former_Treasury_Deputy_Sec.html",
+      "pdf": "data/pdfs/20261022_2102_US_Politics_Update_with_Former_Treasury_Deputy_Sec.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 22  21:02",
+      "read_min": 3,
+      "toyota": false,
+      "excerpt": ""
+    },
     {
       "ts": "20261022_1953",
       "sender_norm": "POLITICO",
@@ -11,7 +221,12 @@
       "date_label": "OCT 22  19:53",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU Parliament reaches deal on competitiveness fund",
+      "html": "data/pdfs/20261022_1953_EU_Parliament_reaches_deal_on_competitiveness_fund.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261022_1927",
@@ -21,7 +236,12 @@
       "date_label": "OCT 22  19:27",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "French budget bill sets aside €2.3M for Macron’s future offices",
+      "html": "data/pdfs/20261022_1927_French_budget_bill_sets_aside_€2.3M_for_Macron’s_f.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261022_1834",
@@ -31,17 +251,27 @@
       "date_label": "OCT 22  18:34",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump-sanctioned ICC wins EU Parliament’s human rights prize",
+      "html": "data/pdfs/20261022_1834_Trump-sanctioned_ICC_wins_EU_Parliament’s_human_ri.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261022_1808",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/10/22",
       "pdf": "data/pdfs/20261022_1808_「ジェトロ・ビジネス短信」2026_10_22.pdf",
       "date_label": "OCT 22  18:08",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" 2026/10/22",
+      "html": "data/pdfs/20261022_1808_「ジェトロ・ビジネス短信」2026_10_22.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261022_1808_「ジェトロ・ビジネス短信」2026_10_22_en.pdf"
     },
     {
       "ts": "20261022_1737",
@@ -51,7 +281,12 @@
       "date_label": "OCT 22  17:37",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Far-right Italian general hunts the manosphere vote",
+      "html": "data/pdfs/20261022_1737_Far-right_Italian_general_hunts_the_manosphere_vot.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261022_1632",
@@ -61,7 +296,12 @@
       "date_label": "OCT 22  16:32",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Talking to Putin: Europe seeks a negotiator-in-chief for Ukraine ",
+      "html": "data/pdfs/20261022_1632_Talking_to_Putin__Europe_seeks_a_negotiator-in-chi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261022_1423",
@@ -71,17 +311,57 @@
       "date_label": "OCT 22  14:23",
       "read_min": 1,
       "toyota": false,
+      "excerpt": "",
+      "subject_en": "Notice of New JETRO Regional and Analysis Reports (October 22, 2026 Issue)",
+      "html": "data/pdfs/20261022_1423_ジェトロ地域・分析レポートの新着のご案内（2026年10月22日号）.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261022_1423_ジェトロ地域・分析レポートの新着のご案内（2026年10月22日号）_en.pdf"
+    },
+    {
+      "ts": "20261022_1403",
+      "sender_norm": "POLITICO",
+      "subject": "Parliament votes on Automotive Package",
+      "subject_en": "Parliament votes on Automotive Package",
+      "html": "data/pdfs/20261022_1403_Parliament_votes_on_Automotive_Package.html",
+      "pdf": "data/pdfs/20261022_1403_Parliament_votes_on_Automotive_Package.html",
+      "summary_en": "EU lawmakers are weighing changes to automaker CO2 targets, but a full plenary vote on the Automotive Package has slipped to December pending progress on a related Industrial Accelerator Act. Meanwhile, the Parliament's TRAN and ITRE committees moved ahead today with their own compromise positions, including a proposed 87.5% emissions cut by 2035, feeding into the lead ENVI committee's vote set for Nov. 4.",
+      "summary_ja": "EU議会は自動車メーカーのCO2目標見直しを審議しているが、「自動車パッケージ」の本会議採決は、関連する産業加速化法(IAA)の進展待ちで12月に延期された。一方、TRAN(運輸)・ITRE(産業・エネルギー)両委員会は本日、2035年までに87.5%の排出削減を柱とする妥協案を採択し、主導委員会であるENVI(環境)が11月4日に採決する予定の審議に反映される。",
+      "summary_pdf": "",
+      "date_label": "OCT 22  14:03",
+      "read_min": 9,
+      "toyota": true,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261022_1340",
+      "sender_norm": "POLITICO",
+      "subject": "The EU’s cash-delivery clash",
+      "subject_en": "The EU’s cash-delivery clash",
+      "html": "data/pdfs/20261022_1340_The_EU’s_cash-delivery_clash.html",
+      "pdf": "data/pdfs/20261022_1340_The_EU’s_cash-delivery_clash.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 22  13:40",
+      "read_min": 15,
+      "toyota": false,
       "excerpt": ""
     },
     {
       "ts": "20261022_1140",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "【再送】「ジェトロ・ビジネス短信」2026/10/21",
       "pdf": "data/pdfs/20261022_1140_【再送】「ジェトロ・ビジネス短信」2026_10_21.pdf",
       "date_label": "OCT 22  11:40",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "[Resend] \"JETRO Business Brief\" 2026/10/21",
+      "html": "data/pdfs/20261022_1140_【再送】「ジェトロ・ビジネス短信」2026_10_21.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261022_1140_【再送】「ジェトロ・ビジネス短信」2026_10_21_en.pdf"
     },
     {
       "ts": "20261022_1111",
@@ -91,7 +371,12 @@
       "date_label": "OCT 22  11:11",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261022_1111_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261022_0941",
@@ -101,7 +386,12 @@
       "date_label": "OCT 22  09:41",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: MENA Crisis Update Call",
+      "html": "data/pdfs/20261022_0941_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_C.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261022_0938",
@@ -111,7 +401,12 @@
       "date_label": "OCT 22  09:38",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: MENA Crisis Update Call「中東危機最新アップデート」(同時通訳あり)",
+      "html": "data/pdfs/20261022_0938_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_C.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261022_0914",
@@ -121,7 +416,12 @@
       "date_label": "OCT 22  09:14",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: Southeast Asia update「東南アジア最新アップデート」",
+      "html": "data/pdfs/20261022_0914_APAC_&_Japan_Conference_Call__Southeast_Asia_updat.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261022_0907",
@@ -131,7 +431,12 @@
       "date_label": "OCT 22  09:07",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: Southeast Asia update",
+      "html": "data/pdfs/20261022_0907_APAC_&_Japan_Conference_Call__Southeast_Asia_updat.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261022_0511",
@@ -141,17 +446,27 @@
       "date_label": "OCT 22  05:11",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Pragmatism displaces ambition at the COPs",
+      "html": "data/pdfs/20261022_0511_Pragmatism_displaces_ambition_at_the_COPs.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261022_0322",
-      "sender_norm": "Cliff",
+      "sender_norm": "Cliff Kupchan",
       "subject": "Practice Letter: Dispatch from India",
       "pdf": "data/pdfs/20261022_0322_Practice_Letter__Dispatch_from_India.pdf",
       "date_label": "OCT 22  03:22",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Practice Letter: Dispatch from India",
+      "html": "data/pdfs/20261022_0322_Practice_Letter__Dispatch_from_India.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261022_0049",
@@ -161,7 +476,12 @@
       "date_label": "OCT 22  00:49",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump's farmer bailouts are a day late, a dollar short",
+      "html": "data/pdfs/20261022_0049_Trump's_farmer_bailouts_are_a_day_late,_a_dollar_s.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261022_0031",
@@ -180,8 +500,13 @@
       "pdf": "data/pdfs/20261021_2131_Democratic_midterm_sweep_would_bring_limited_polic.pdf",
       "date_label": "OCT 21  21:31",
       "read_min": 9,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Democratic midterm sweep would bring limited policy changes",
+      "html": "data/pdfs/20261021_2131_Democratic_midterm_sweep_would_bring_limited_polic.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261021_2106",
@@ -191,7 +516,12 @@
       "date_label": "OCT 21  21:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Socialists push for EU law on deepfakes",
+      "html": "data/pdfs/20261021_2106_Socialists_push_for_EU_law_on_deepfakes.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261021_2102",
@@ -201,17 +531,27 @@
       "date_label": "OCT 21  21:02",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "India update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261021_2102_India_update_-_EG_Conference_Call,_REMINDER.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261021_2036",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/10/21",
       "pdf": "data/pdfs/20261021_2036_「ジェトロ・ビジネス短信」2026_10_21.pdf",
       "date_label": "OCT 21  20:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" 2026/10/21",
+      "html": "data/pdfs/20261021_2036_「ジェトロ・ビジネス短信」2026_10_21.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261021_2036_「ジェトロ・ビジネス短信」2026_10_21_en.pdf"
     },
     {
       "ts": "20261021_1906",
@@ -221,7 +561,12 @@
       "date_label": "OCT 21  19:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Burnham needs public consent for his EU reset, says Brexit negotiator Barnier",
+      "html": "data/pdfs/20261021_1906_Burnham_needs_public_consent_for_his_EU_reset,_say.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261021_1817",
@@ -231,7 +576,12 @@
       "date_label": "OCT 21  18:17",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Indonesia: MSCI downgrade threat intensifies pressure for market reforms",
+      "html": "data/pdfs/20261021_1817_Indonesia__MSCI_downgrade_threat_intensifies_press.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261021_1736",
@@ -241,7 +591,12 @@
       "date_label": "OCT 21  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe’s conservatives have 2 new targets in their campaign to weaken EU climate laws",
+      "html": "data/pdfs/20261021_1736_Europe’s_conservatives_have_2_new_targets_in_their.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261021_1637",
@@ -251,7 +606,12 @@
       "date_label": "OCT 21  16:37",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU to press Canada and UK for more Ukraine funding",
+      "html": "data/pdfs/20261021_1637_EU_to_press_Canada_and_UK_for_more_Ukraine_funding.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261021_1623",
@@ -260,8 +620,13 @@
       "pdf": "data/pdfs/20261021_1623_EG_Research_Summary_in_Japanese.pdf",
       "date_label": "OCT 21  16:23",
       "read_min": 2,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261021_1623_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261021_1404",
@@ -271,7 +636,12 @@
       "date_label": "OCT 21  14:04",
       "read_min": 10,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Ryanair backs ETS extension to all flights to and from the EU",
+      "html": "data/pdfs/20261021_1404_Ryanair_backs_ETS_extension_to_all_flights_to_and_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261021_1346",
@@ -280,8 +650,13 @@
       "pdf": "data/pdfs/20261021_1346_Europe_passes_the_Ukraine_hat.pdf",
       "date_label": "OCT 21  13:46",
       "read_min": 15,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Europe passes the Ukraine hat",
+      "html": "data/pdfs/20261021_1346_Europe_passes_the_Ukraine_hat.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261021_1202",
@@ -291,7 +666,12 @@
       "date_label": "OCT 21  12:02",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "JETRO Members News No. 477 (Regarding Unauthorized Access to Our Organization's Website and Temporary Resumption)",
+      "html": "data/pdfs/20261021_1202_ジェトロ・メンバーズ_ニュース第477号（当機構ウェブサイトへの不正アクセスと暫定再開について）.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261021_1202_ジェトロ・メンバーズ_ニュース第477号（当機構ウェブサイトへの不正アクセスと暫定再開について）_en.pdf"
     },
     {
       "ts": "20261021_0834",
@@ -367,241 +747,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": ""
-    },
-    {
-      "ts": "20261021_0506",
-      "sender_norm": "Eurasia Group",
-      "subject": "India update",
-      "subject_en": "India update",
-      "html": "data/pdfs/20261021_0506_India_update.html",
-      "pdf": "data/pdfs/20261021_0506_India_update.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": "",
-      "date_label": "OCT 21  05:06",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": ""
-    },
-    {
-      "ts": "20261021_0459",
-      "sender_norm": "Eurasia Group",
-      "subject": "CONFERENCE CALL NOTES: Global Minerals Update Ahead of LME Week",
-      "subject_en": "CONFERENCE CALL NOTES: Global Minerals Update Ahead of LME Week",
-      "html": "data/pdfs/20261021_0459_CONFERENCE_CALL_NOTES__Global_Minerals_Update_Ahea.html",
-      "pdf": "data/pdfs/20261021_0459_CONFERENCE_CALL_NOTES__Global_Minerals_Update_Ahea.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": "",
-      "date_label": "OCT 21  04:59",
-      "read_min": 7,
-      "toyota": false,
-      "excerpt": ""
-    },
-    {
-      "ts": "20261021_0458",
-      "sender_norm": "Eurasia Group",
-      "subject": "Defending Saudi Arabia preserves geopolitical alignment",
-      "subject_en": "Defending Saudi Arabia preserves geopolitical alignment",
-      "html": "data/pdfs/20261021_0458_Defending_Saudi_Arabia_preserves_geopolitical_alig.html",
-      "pdf": "data/pdfs/20261021_0458_Defending_Saudi_Arabia_preserves_geopolitical_alig.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": "",
-      "date_label": "OCT 21  04:58",
-      "read_min": 5,
-      "toyota": false,
-      "excerpt": ""
-    },
-    {
-      "ts": "20261021_0415",
-      "sender_norm": "POLITICO",
-      "subject": "Europe’s conservatives have 2 new targets in their campaign to weaken EU climate laws",
-      "subject_en": "Europe’s conservatives have 2 new targets in their campaign to weaken EU climate laws",
-      "html": "data/pdfs/20261021_0415_Europe’s_conservatives_have_2_new_targets_in_their.html",
-      "pdf": "data/pdfs/20261021_0415_Europe’s_conservatives_have_2_new_targets_in_their.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": "",
-      "date_label": "OCT 21  04:15",
-      "read_min": 6,
-      "toyota": false,
-      "excerpt": ""
-    },
-    {
-      "ts": "20261021_0359",
-      "sender_norm": "Eurasia Group",
-      "subject": "Democratic sweep would bring limited policy changes",
-      "subject_en": "Democratic sweep would bring limited policy changes",
-      "html": "data/pdfs/20261021_0359_Democratic_sweep_would_bring_limited_policy_change.html",
-      "pdf": "data/pdfs/20261021_0359_Democratic_sweep_would_bring_limited_policy_change.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": "",
-      "date_label": "OCT 21  03:59",
-      "read_min": 6,
-      "toyota": false,
-      "excerpt": ""
-    },
-    {
-      "ts": "20261021_0150",
-      "sender_norm": "POLITICO",
-      "subject": "5 things the EU wants to change about its Arctic policy",
-      "pdf": "data/pdfs/20261021_0150_5_things_the_EU_wants_to_change_about_its_Arctic_p.pdf",
-      "date_label": "OCT 21  01:50",
-      "read_min": 8,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "5 things the EU wants to change about its Arctic policy",
-      "html": "data/pdfs/20261021_0150_5_things_the_EU_wants_to_change_about_its_Arctic_p.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261021_0044",
-      "sender_norm": "Eurasia Group",
-      "subject": "Democrats would use majority to push AI guardrails",
-      "pdf": "data/pdfs/20261021_0044_Democrats_would_use_majority_to_push_AI_guardrails.pdf",
-      "date_label": "OCT 21  00:44",
-      "read_min": 5,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Democrats would use majority to push AI guardrails",
-      "html": "data/pdfs/20261021_0044_Democrats_would_use_majority_to_push_AI_guardrails.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261021_0034",
-      "sender_norm": "Eurasia Group",
-      "subject": "Geopolitics has broken shipping with 2027 outlook just as bleak",
-      "pdf": "data/pdfs/20261021_0034_Geopolitics_has_broken_shipping_with_2027_outlook_.pdf",
-      "date_label": "OCT 21  00:34",
-      "read_min": 5,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Geopolitics has broken shipping with 2027 outlook just as bleak",
-      "html": "data/pdfs/20261021_0034_Geopolitics_has_broken_shipping_with_2027_outlook_.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261021_0031",
-      "sender_norm": "POLITICO",
-      "subject": "Pro Daily Headlines",
-      "pdf": "data/pdfs/20261021_0031_Pro_Daily_Headlines.pdf",
-      "date_label": "OCT 21  00:31",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": ""
-    },
-    {
-      "ts": "20261020_2116",
-      "sender_norm": "Eurasia Group",
-      "subject": "Post-midterm US-Iran escalation likely to drive Brent higher",
-      "pdf": "data/pdfs/20261020_2116_Post-midterm_US-Iran_escalation_likely_to_drive_Br.pdf",
-      "date_label": "OCT 20  21:16",
-      "read_min": 6,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Post-midterm US-Iran escalation likely to drive Brent higher",
-      "html": "data/pdfs/20261020_2116_Post-midterm_US-Iran_escalation_likely_to_drive_Br.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261020_2106",
-      "sender_norm": "POLITICO",
-      "subject": "EU’s ‘trust’ and ‘leverage’ at stake over development cuts, UN food",
-      "pdf": "data/pdfs/20261020_2106_EU’s_‘trust’_and_‘leverage’_at_stake_over_developm.pdf",
-      "date_label": "OCT 20  21:06",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EU’s ‘trust’ and ‘leverage’ at stake over development cuts, UN food aid boss warns",
-      "html": "data/pdfs/20261020_2106_EU’s_‘trust’_and_‘leverage’_at_stake_over_developm.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261020_2059",
-      "sender_norm": "POLITICO",
-      "subject": "Ryanair’s O’Leary warns of ‘biggest increase’ in EU airfares next",
-      "pdf": "data/pdfs/20261020_2059_Ryanair’s_O’Leary_warns_of_‘biggest_increase’_in_E.pdf",
-      "date_label": "OCT 20  20:59",
-      "read_min": 3,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Ryanair’s O’Leary warns of ‘biggest increase’ in EU airfares next year",
-      "html": "data/pdfs/20261020_2059_Ryanair’s_O’Leary_warns_of_‘biggest_increase’_in_E.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261020_1922",
-      "sender_norm": "POLITICO",
-      "subject": "Document: Conservative lawmakers move to kill ETS2",
-      "pdf": "data/pdfs/20261020_1922_Document__Conservative_lawmakers_move_to_kill_ETS2.pdf",
-      "date_label": "OCT 20  19:22",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Document: Conservative lawmakers move to kill ETS2",
-      "html": "data/pdfs/20261020_1922_Document__Conservative_lawmakers_move_to_kill_ETS2.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261020_1857",
-      "sender_norm": "POLITICO",
-      "subject": "Parliament groups reach agreement on CO2 standards for cars",
-      "pdf": "data/pdfs/20261020_1857_Parliament_groups_reach_agreement_on_CO2_standards.pdf",
-      "date_label": "OCT 20  18:57",
-      "read_min": 3,
-      "toyota": true,
-      "excerpt": "欧州議会の主要3会派（欧州人民党、社会民主進歩同盟、再生同盟）が2035年の自動車CO2排出",
-      "subject_en": "Parliament groups reach agreement on CO2 standards for cars",
-      "html": "data/pdfs/20261020_1857_Parliament_groups_reach_agreement_on_CO2_standards.html",
-      "summary_en": "EU lawmakers from the EPP, S&D and Renew have agreed to soften the bloc's 2035 CO2 target for new cars to an effective 87.5% cut from 2021 levels, with part of that reduction offset by green steel investments rather than achieved solely through tailpipe cuts. The deal also freezes the plug-in hybrid utility factor at lab-test levels through 2030 for vehicles with at least 120km electric range, and extends EV super-credits to larger 'Made in Europe' models, easing pressure on automakers while diluting the original near-total combustion ban.",
-      "summary_ja": "欧州議会のEPP、S&D、Renewの各会派は、2035年のCO2排出目標を2021年比87.5%削減へと事実上緩和することで合意し、一部は実質削減ではなくグリーンスチール投資による相殺を認める内容となった。合意では、電動走行距離120km以上のプラグインハイブリッド車について2030年まで実験室データに基づく効用係数を据え置くほか、「欧州製」要件を満たす大型EVにもスーパークレジットを拡大し、当初のほぼ完全な内燃機関禁止方針を緩和して自動車メーカーの負担を軽減する内容となっている。",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261020_1738",
-      "sender_norm": "POLITICO",
-      "subject": "Spanish left-wing chaos dampens Sánchez’s hopes of election miracle",
-      "subject_en": "Spanish left-wing chaos dampens Sánchez’s hopes of election miracle",
-      "html": "data/pdfs/20261020_1738_Spanish_left-wing_chaos_dampens_Sánchez’s_hopes_of.html",
-      "pdf": "data/pdfs/20261020_1738_Spanish_left-wing_chaos_dampens_Sánchez’s_hopes_of.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": "",
-      "date_label": "OCT 20  17:38",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": ""
-    },
-    {
-      "ts": "20261020_1701",
-      "sender_norm": "Eurasia Group",
-      "subject": "APAC & Japan カンファレンスコール「AI・サイバーパワー・競争・グローバルリスク最新動向」同時通訳あり - EG Conference Call, REMINDER",
-      "subject_en": "APAC & Japan カンファレンスコール「AI・サイバーパワー・競争・グローバルリスク最新動向」同時通訳あり - EG Conference Call, REMINDER",
-      "html": "data/pdfs/20261020_1701_APAC_&_Japan_カンファレンスコール「AI・サイバーパワー・競争・グローバルリスク最新動向.html",
-      "pdf": "data/pdfs/20261020_1701_APAC_&_Japan_カンファレンスコール「AI・サイバーパワー・競争・グローバルリスク最新動向.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": "",
-      "date_label": "OCT 20  17:01",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "The EU Parliament's push on automaker CO2 targets is advancing, with TRAN and ITRE committees backing an 87.5% emissions cut by 2035 ahead of ENVI's Nov. 4 vote. The full plenary vote has slipped to December, tied to progress on the Industrial Accelerator Act, meaning regulatory certainty for automakers remains delayed."
 }
