@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24 03:11:36",
+  "generated_at": "2026-10-24 18:21:32",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-24 03:10:49",
+      "last_checked": "2026-10-24 18:20:49",
       "items": [
+        {
+          "uid": "610b685b5cca",
+          "date": "2026-09-03",
+          "title": "EU executive plans energy price relief for struggling industries - Euronews.com",
+          "summary": "EU執行部は、欧州産業加速法案（IAA）の一環として、エネルギー価格の上昇に苦しむ産業に対する価格救済措置の実施を計画している。この施策は、EU産業の競争力強化とグリーン転換の両立を目指すものである。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVzJiLVNzMU9nM2R0NkRwTFhxT0MxakE4dC1NRHh3Ukh5NDlUSVNnYzM4RGhLSnRnT1ZyZWJ5RW50SVZENHQ2RUgzU1BDR29pcHhUR1AwNWdia1l5eG00ZkRuajEzOXlHT0YwanZrNEROSlcwd3VqRWJ1S0t5T2pIQ2ZGNWM0cEFGMnJKZC0zMUt4Nm1pZlZwc2RmcjNVZEpDUEtDQUdERk9sTmM?oc=5",
+          "added_at": "2026-10-24 18:20:48"
+        },
         {
           "uid": "276be5ab2562",
           "date": "2026-10-22",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nZEF5UGV2c0c0UERoOTJiVWRQRjZUc3h3bzNsNzR2QS1lMVEwUjdnYlBiNmM0QTdfSVdPTEdTY2xmYUsybTQ3SXQxamZncG5kMFBIQkMxanFWd1hWS0ZmOW13?oc=5",
           "added_at": "2026-07-31 16:52:22"
-        },
-        {
-          "uid": "7ca669e8c44e",
-          "date": "2026-07-14",
-          "title": "Clean energy technologies in the European Union – Implications for quality jobs, skills and a just transition - European Environment Agency (EEA)",
-          "summary": "クリーンエネルギー技術産業の拡大に伴い、EUは高度なスキルを持つ労働力の育成と地域格差の是正が必要であり、これは欧州産業加速法案の産業競争力強化と雇用創出目標を支持する施策である。IAA推進下でのグリーン産業転換には、質の高い雇用機会創出と公正な地域移行を両立させることが重要な課題となる。",
-          "source": "EU産業政策",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdVcyb2YyNEtkVlNpaE9FUE55dTM2dEgwVUMxbzQzLTRkdFZzeXVQcktNQWxFdVFYbHI2d1RJcHFtc2tXbEJHZ0NHLS0zb0ZhSVQtTTNqd1JQU1BEdHFPbC1BbUM3SUJLdVVDVEFVUHJUMV9iM19IZ2d6eU9kX05kOVFiVkIwQQ?oc=5",
-          "added_at": "2026-07-30 08:00:15"
         }
       ]
     },
@@ -2019,8 +2019,48 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-24 03:11:05",
+      "last_checked": "2026-10-24 18:21:04",
       "items": [
+        {
+          "uid": "a241cbef821c",
+          "date": "2026-08-13",
+          "title": "GM, Ford secure Army truck contracts under new national security rules - The Detroit News",
+          "summary": "# 要約\n\n米国のGMとフォードが、新しい国家安全保障規則に基づいて米陸軍トラック契約を獲得したことが報じられており、これはS.4429（米国接続車両安全保障法）のような国防調達における国内産業保護規則の実装例を示しています。この規則は、外国製または外国資本の参入から米国防衛サプライチェーンを保護することを目的としています。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTTE2cXRCb3ZsT1MxMzRsZ1hLbXlHN0NsOEpKOXdxcDJhZVZoNjZ5OV9WTVN3Rl9TalJra2tOaEw4LXIxZmFBemVBVHhGS1dPM0c1X3JyTjVOVHUyRHl6bHVqQTkwZHBvSE9aRW5QRkNlSGwyc2lHc2dYaU16OThwQUxCelhGYzBPV0txZk5lelJvVURyaW92WXRxUU9fWk5sdlVpZU51MUJFYUNSRFRtWEZNU0NqT3FKeDk4c0ZlUW1RNDV1WXRxR2prWDVCa3BjX29HQ09ocUtKYk9Bbk5TNVo0QU1faXZ2QW9WZkFlU0E4Y2RrcE9zZW9wajRiMC15Ync?oc=5",
+          "added_at": "2026-10-24 18:20:58"
+        },
+        {
+          "uid": "55d083672457",
+          "date": "2026-07-29",
+          "title": "While the bill was written to keep Chinese automakers out of America, the company it caught employs more than 10,000 Americans, assembles cars in Alabama and South Carolina, and just posted its best year ever with an SUV built in Tuscaloosa - Autonocion.com",
+          "summary": "S.4429は中国自動車メーカーの排除を目的としていたが、実際には米国内で10,000人以上を雇用し、アラバマ州とサウスカロライナ州で自動車を組み立てている企業を対象にしてしまい、その企業はタスカルーサで製造されたSUVにより過去最高の業績を上げている。",
+          "source": "上院議員",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fRWJScG1kd0hKbXlmNV8tXzE1Y3pqQ1NjZWhiaFFvY2VtMkNqZW9KeE80a1N1SDI4eGlaYks0VElEWEFfXzhpZll1VkZhbGx2YjBuc3hXc1VWMUlmd1VtbkVjQ2dDeU03M2hockRhQ2lGNi1lNHpZ?oc=5",
+          "added_at": "2026-10-24 18:20:58"
+        },
+        {
+          "uid": "0dc42ec733c5",
+          "date": "2026-10-23",
+          "title": "Volkswagen Lobbying Jumps Amid Connected Vehicle, Repair Bills - Legis1",
+          "summary": "フォルクスワーゲンが接続車両安全保障法（S.4429）を含む接続車両関連法案への対応として、ロビー活動支出を大幅に増加させており、同法案が接続車両のセキュリティ基準を強化する規制を進める中で、自動車メーカーの規制対応が活発化していることを示している。",
+          "source": "自動車部品業界",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpcGpXdldWSGJhU1ZLci1xSzlPdUJMMGlaZk1mSmpwZjAwd0VDbUZpdXJ0X2VMbENBREhCdWRDemxaNVlhSHBsazNqLXFhT0JxQkNxRGFCQWI1NnlsTS1yd21zR1lTZGVidVpncmE2TGtEb0tVczY4Ug?oc=5",
+          "added_at": "2026-10-24 18:20:58"
+        },
+        {
+          "uid": "a83c1fbe83c1",
+          "date": "2026-08-12",
+          "title": "Guest commentary: I’ve spent my career defending import brands. Here’s why I’m fighting to keep Chinese autos out - Automotive News",
+          "summary": "申し訳ございませんが、提供いただいたテキストは記事のタイトルのみで、本文の具体的な内容が記載されていません。S.4429に関する文脈での正確な要約を作成するには、記事の本文が必要です。本文をご提供いただければ、日本語1～2文で要点を要約いたします。",
+          "source": "中国政府",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlc0Y1Flb2trZEwwWXVWaFh4WEt2V2hzNnpLRjE0ZFV3NnNKVk9JcVhvcDA0Vk9qUXNFbzl3NmtHeHpsN0l2bExsRnYwNVdaNXB4a0FOcTVmbjFUZDRpMUc0Y3JrUmtkU0JpNkQwRE03Z0hna3FGZHZadDNNZEV0S1NvSDFTNXkzQmVzazRpYjd0YUdmUTh6VkR5OA?oc=5",
+          "added_at": "2026-10-24 18:20:58"
+        },
         {
           "uid": "7e175521a63f",
           "date": "2026-09-27",
@@ -3980,46 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWZ1SklWS1lZUVR2anVrT2E1SDFiQkJuQXJUdV8xT1pERFBCUUlrTVZKd2RyalhTelpSQzBQb21oeFJuR1ZkZE14MnVkYWNpVnpBMzRyLTVsZk1NNk8tMFhzQnd3V3NnVVNaZU5pcHRQeEM2UzhTQk9fQmR0VmZPN3ZkVExFdnlDVHhHT2lRc09UU2hFVXc4djZUT3hNX0s3Y2xGV1Q2dw?oc=5",
           "added_at": "2026-08-17 23:31:12"
-        },
-        {
-          "uid": "5868595cf900",
-          "date": "2026-06-22",
-          "title": "Lorraine Explains: Will your Chinese-made Tesla be banned at the U.S. border? - driving.ca",
-          "summary": "# 要約\n\n米国接続車両安全保障法（S.4429）は、中国製テスラを含む中国製電気自動車の米国への輸入および販売を禁止する包括的な規制を目指しており、国家安全保障上の懸念から外国製通信技術やデータ収集機能を備えた車両を制限することを主な目的としています。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TS1RPd1dRdlRvTUxBNy1aSE02cTdOY0sySk1mZnFNTHVRZnNpdmpoRzQ5OWVFNERpSm04OHJBRXowTWZ1d0hGQlNsc090S2JoX0pnUC05cU9XVGd2Z2ltd1FiVGx4cDVtV2s0Y1ZiRHdfZW1QVDV2LW9n?oc=5",
-          "added_at": "2026-08-17 14:47:21"
-        },
-        {
-          "uid": "f7ae5f3cb997",
-          "date": "2026-07-12",
-          "title": "It Was The Best Of Times, It Was The Worst Of Times For Electric Car Sales In America - cleantechnica.com",
-          "summary": "申し訳ございませんが、提供いただいた記事の内容が「タイトルのみ」となっており、本文が記載されていません。S.4429（米国接続車両安全保障法）との関連性を踏まえて要約するには、記事の具体的な内容が必要です。記事の本文をお教えいただければ、要約させていただきます。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02WFBFSTlFU1p4N25vZEE5ZnJYVi03Q3RkeEFncnoxYjF3VDVWODdHQnRBRi1YNy11aktRUmFqS3ZhTVhXUVIxMGZSQQ?oc=5",
-          "added_at": "2026-08-17 14:37:29"
-        },
-        {
-          "uid": "8fe18530c178",
-          "date": "2026-08-15",
-          "title": "GM to Halt Chevrolet Sales in China, Ford Shifts Lincoln Output to US - finance.biggo.com",
-          "summary": "GMが中国でのシボレー販売を中止し、フォードがリンカーン生産を米国にシフトする動きは、米国接続車両安全保障法（S.4429）が求める国内サプライチェーン強化と中国との経済的分離の圧力を反映している。これらの企業の戦略転換は、同法が意図する中国製部品排除と米国内での自動車生産・販売の集約化を実現する方向性を示している。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tU0JfZ3ZFcDZfMGdvUUZTYWRJY1hMSVlzS1lEVGM0YmZIZzg3U0dXanA4SkRod0RfZmVPbjB6VW95OXhwWHdXd1NGa1UyTzJUZVpnbFpBWm5CS1JOX1lOUnZ5ZlNUU1NjNzMzMlVHRGR2Rl9BcHc?oc=5",
-          "added_at": "2026-08-16 14:30:51"
-        },
-        {
-          "uid": "60808fb3cc0a",
-          "date": "2026-05-26",
-          "title": "Dashboard Camera Market Size to Hit USD 17.63 Billion by 2035 - Precedence Research",
-          "summary": "ドライブレコーダー市場は2035年までに173億ドルに達すると予測されており、これは接続車両のセキュリティ強化やデータ保護を求める米国接続車両安全保障法（S.4429）の要件に対応した車両安全技術の需要増加を反映している。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wVThTRV9peFI2UklrOEI4WmlPVVYzRUdUeGxUbGFXWlFoTnNDR096eC05YmVCZ0VJUjFuZURzaUs1aU5YUzFYUFVIVlQxVHRWVnZ3ZnFfazdXdXBtZnZKRl9zRkZhZGhxZUE?oc=5",
-          "added_at": "2026-08-16 14:30:51"
         }
       ]
     },
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-24 03:11:25",
+      "last_checked": "2026-10-24 18:21:19",
       "items": [
         {
           "uid": "c6e9d268a695",
@@ -6041,8 +6041,58 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-24 03:11:36",
+      "last_checked": "2026-10-24 18:21:32",
       "items": [
+        {
+          "uid": "5562d4355029",
+          "date": "2026-10-23",
+          "title": "In Florida, Trump vows to deal with Cuba after Iran gets settled - Reuters",
+          "summary": "この記事は自動車メーカーの対中提携についての内容ではなく、トランプ氏がフロリダでキューバとイランに関する政策を述べたニュースであるため、要求された文脈に基づく要約は不可能です。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaW1UZUdScXEwTWVUNUJxcDkyWmV1TDREckM1RnRCTFR4VjBuVmk2Vm9OVF83d2FLdTdnSGN2N0FGNURpVXJKbzR4bWI3b05TY3pPWGgzRnZvX2N4SEQ4cmw3blpTZktVMXd4UDlFeWpFcG9jX1FJcTN3OW1WVW5UTnFfQ3BqdHRwNFAzOGRsc1Nyc0N6TENyVDJaeW9ZSExlSl9adExjYmQ?oc=5",
+          "added_at": "2026-10-24 18:21:25"
+        },
+        {
+          "uid": "457d6a35cb9a",
+          "date": "2026-10-21",
+          "title": "New Mexico sues to stop payouts to Jeffrey Epstein's lawyer, accountant - Reuters",
+          "summary": "この記事はジェフリー・エプスタインの弁護士と会計士への支払いを巡る訴訟に関するもので、「自動車メーカーの対中提携への政治的批判」という指定された文脈と直接的な関連性がないため、要約できません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlFNc2V2YVRPNHBBM0xYLUxXdjd2MnFjVV9NUnA1Vk5QODV5Z2tiMEVJV1drUXZSMFdzOUFGYV8yQkx3WUYwejRYM2FyNzFTc0E0SVV6UFd3TEh5MlpNQWxrNWJXMHc1OXhfb2k4VUlBamgtS0lwdGY4TVU2dWdDVHAxT0dNYkEwalhsVjNlUUlJNGwySUoyRmQ0NmtfY2lIX3hCYzFZd2FrVnlFNGRn?oc=5",
+          "added_at": "2026-10-24 18:21:25"
+        },
+        {
+          "uid": "b880811485dc",
+          "date": "2026-10-15",
+          "title": "US delays small imports rule that raised alarm over prescription drug costs - Reuters",
+          "summary": "米国が医薬品の小口輸入規則の実施を延期したというこの報道は、自動車メーカーの対中提携に関する政治的批判とは直接の関連がなく、医薬品政策に関する異なる領域の内容です。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZFlLVlQzV21wOE9BTDhIblpaNDlOdlY4M0NFc0lWZkM0Z1prdTJxODVaS3RCUV9nRW8tNDV4cm4zZS1ncElKOV92VXpjYmlnWUMxd3lIcklpbGlUY3dMNlhaeXFVUlpOeUFxd29LNjNfTl9PTXJYNGMxWndQN3JCTU1sa3lTd1J2MUpQOC1Gbk9RcTJUUG1vRV9OUzlfY29yMk5GQmg0X1pkVFRydUczaG10R1dielV1NWgxSk9RTUF2WnUyZWNn?oc=5",
+          "added_at": "2026-10-24 18:21:25"
+        },
+        {
+          "uid": "26639151884e",
+          "date": "2026-10-23",
+          "title": "Trump says wind turbine part imports cause national security issue, but doesn’t impose tariffs",
+          "summary": "トランプ政権は風力タービン部品の輸入が国家安全保障上の脅威と判断したが、関税措置は講じない方針を示しており、自動車メーカーの対中提携についても同様に政治的な懸念は表明しつつも、具体的な規制手段を限定する可能性を示唆している。国防上の理由づけによる産業保護と実際の措置の間に乖離が生じている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/energy-environment/6169061-trump-wind-turbine-parts-national-security/",
+          "added_at": "2026-10-24 18:21:25"
+        },
+        {
+          "uid": "ecfca8c5627b",
+          "date": "2026-10-26",
+          "title": "Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 108 To Accommodate ADS-Equipped Vehicles",
+          "summary": "本記事は自動車メーカーの対中提携への政治的批判とは無関係であり、米国NHTSAによる自動運転システム搭載車両に対応するため前照灯などの安全基準を現代化する技術的な規制改正提案に関するものです。",
+          "source": "連邦官報（運輸省）",
+          "source_type": "official",
+          "url": "https://www.federalregister.gov/documents/2026/10/26/2026-21794/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-108-to-accommodate-ads-equipped",
+          "added_at": "2026-10-24 18:21:25"
+        },
         {
           "uid": "79e0e22f27b5",
           "date": "2026-10-23",
@@ -7992,56 +8042,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
           "added_at": "2026-09-23 18:49:06"
-        },
-        {
-          "uid": "9c1504c3b72f",
-          "date": "2026-09-21",
-          "title": "Ten days that changed the course of AI - Reuters",
-          "summary": "申し訳ございませんが、提供していただいたタイトル「Ten days that changed the course of AI - Reuters」のみでは、記事の具体的な内容が不明なため、「自動車メーカーの対中提携への政治的批判」に関する文脈での要約はできません。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5",
-          "added_at": "2026-09-23 18:49:06"
-        },
-        {
-          "uid": "2c2f8467cee7",
-          "date": "2026-09-22",
-          "title": "Lawmakers across Americas urge US to end drug boat strike campaign",
-          "summary": "申し訳ありませんが、提供いただいた記事は「自動車メーカーの対中提携への政治的批判」とは無関係の、米国の麻薬密売船に対する攻撃キャンペーン終了を求める内容です。要約対象の記事と指定されたテーマが一致していないため、適切な要約ができません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/6105496-trump-administration-drone-strike-controversy/",
-          "added_at": "2026-09-23 18:49:06"
-        },
-        {
-          "uid": "53ea94403fd0",
-          "date": "2026-09-14",
-          "title": "Companies left China to dodge tariffs. Now some are heading back - Reuters",
-          "summary": "米国の高関税を回避するため中国から離れた企業の一部が、関税政策の変化や中国市場の魅力を背景に中国への回帰を検討し始めており、これが自動車メーカーを含む各業界で地政学的リスクと経済的利益のバランスに関する議論を生じさせている。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcXZhYnM4LUVqMVptczRMSnVLLUp2YVVfRm9kNGh2MnZmWVlYUEtERkowb0xsb2drVG12aTd1SVlPNUFiRW9HQjJRNEhVR1hBWjZKem4xTjBaaVZ2anhqdTRscDYwcVZZUmp5V0FncDRPXzhhQ3BZWjc1ZlkyWXFaM0pDTFM0eUU2S0FYaUhvVzFVeUhyREZJZm85V0IzWTBnaGFFM2ZRam4wY1lkTlVTMnBYV2xVclBuTHJTSGZR?oc=5",
-          "added_at": "2026-09-23 03:00:27"
-        },
-        {
-          "uid": "a25aaaf211d6",
-          "date": "2026-09-16",
-          "title": "EU chief wants Canada to become an 'associate member'. What does that mean? - Reuters",
-          "summary": "記事の内容が提供されていないため、要約できません。タイトルのみではEUとカナダの関係に関する内容であり、「自動車メーカーの対中提携への政治的批判」という文脈との関連性が不明確です。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkN2VVBPTnB4ZS0zYmRGMzA3VVREbVE5LUQ1Qkdka2NUenpnUzVPc3NMWWlBWGJfR3oxOHdiVkptUzNzcWJjVjJNejQwQkhOV3N6TTdFY1Z6LTM3RDBoUXc5ZmhCOTlDVF80blRFdm1wYnVqeFN1aG94Mk8tdFo0LVVmWWE5VG9kTWk3a2R6WWg5NVI5cWptaFcydTJDMGVCTF9FUWF6aVZOR3pESkpR?oc=5",
-          "added_at": "2026-09-23 03:00:27"
-        },
-        {
-          "uid": "9f748824c45d",
-          "date": "2026-09-21",
-          "title": "New Zealand naval ships transit contested Taiwan Strait - Reuters",
-          "summary": "ニュージーランド海軍艦船が台湾海峡を通過したというニュースは、自動車メーカーの対中提携への政治的批判の文脈とは直接の関連がないため、要約対象外です。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaVVqaUxoUmlvVEN6Z3NJYjZrV1AtLW4tbXdsNjBHUHV5TzE0eDNtY0xBeFVzWE53c19wdDdEc011STNwM1g0bUlOMEtQMzVuX0RnY1lKTXA1RFFQZmRSb0FKVkZuN3NTRE95OVdSQjAxVDdhVjZqdTYta1I5eUY0MmFYNk13bl8wekRwSHF3NUJYOVRfMDRmQk1BREVPZGllVUN5ZFBB?oc=5",
-          "added_at": "2026-09-23 03:00:27"
         }
       ]
     }
