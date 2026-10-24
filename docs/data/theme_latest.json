@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24 18:21:32",
+  "generated_at": "2026-10-25 02:15:51",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-24 18:20:49",
+      "last_checked": "2026-10-25 02:15:21",
       "items": [
         {
           "uid": "610b685b5cca",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-24 18:21:04",
+      "last_checked": "2026-10-25 02:15:29",
       "items": [
         {
           "uid": "a241cbef821c",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-24 18:21:19",
+      "last_checked": "2026-10-25 02:15:45",
       "items": [
+        {
+          "uid": "698c76bd0cb1",
+          "date": "2026-09-08",
+          "title": "Tesla's Rare-Earth-Free Cybercab Motor Challenges China's Supply Chain Leverage - BigGo Finance",
+          "summary": "テスラがレアアース不使用のサイバーキャブ用モーターを開発することで、中国のレアアース供給における市場支配力が低下する可能性を示唆している。これは、レアアース輸出管理を通じた中国の供給チェーン支配戦略に対抗する重要な技術的進展となる。",
+          "source": "自動車・EV大手",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1VjFVR21pbkU1UEh3aHlST3dLV0p3dVlfdFliQWZpSzVRcDRiT1FXcm1JUS14S09iaUE3dFNKWDE5TkF0X0FzUDg0Mm1CMmVmYmFMemtMZ3NnczVKWllqZmpNWDIyRmdNRm93UDJMTW5iS0pfMEE?oc=5",
+          "added_at": "2026-10-25 02:15:42"
+        },
+        {
+          "uid": "785c4931d1e0",
+          "date": "2026-08-17",
+          "title": "Just How Dependent Is the World on Chinese Supply Chains? - Resources Magazine",
+          "summary": "中国はレアアース、レアメタル、重要な鉱物の世界的な供給において支配的な地位を占めており、各国の産業競争力や技術革新が中国の輸出管理政策に大きく依存している状況にあります。特に半導体、電池、防衛技術などの戦略的に重要な産業分野において、中国の供給チェーン支配は地政学的なリスクとなっています。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUxOTFBnN2cxcUFPYV9fWjBOOWZxZHNtUFU3RmU5aWYteFMzTFh3b3c2cjh3d0hxVUYydElqQUR6QUlYM0x3a1FXbnBGQnRoSVpzcUg5cHltLXRZUjNaeS1WVldWb0Q4RlFJZWpVa2Y2MTJvUUhhSmMtT21FcGREdE14V1RaVFE0ODFJaVpJQTU1Snp5X19NRHZmbldhZDNDUnc?oc=5",
+          "added_at": "2026-10-25 02:15:42"
+        },
         {
           "uid": "c6e9d268a695",
           "date": "2026-10-21",
@@ -6011,26 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRURZWEFEMGRfSmVoTHJXNm5QSzlYRTB3T0xxOG52Zjk2Wk9ZbkFwYzRFVElmcmx0S01wQklkVDgzUUU2WVR4Z0pkYTBxWUluSDZrSmUtcGFUeFZDWG9wZWY0eUpBdWVKakNWSC1kV29NY1Vmd0d0cV94bHJtdVRhQjhqVkJFbzB2YTBsYkpnWXZuU2JzNmJKTVBXRXFabWM?oc=5",
           "added_at": "2026-09-20 18:39:18"
-        },
-        {
-          "uid": "eb1b12717735",
-          "date": "2026-09-15",
-          "title": "Why did China abandon US-made Microsoft Word? - Kompas.id",
-          "summary": "中国はMicrosoft Wordなどの米国製ソフトウェアを段階的に国内製品に置き換えており、この動きはレアアース等の重要資源・技術の戦略的コントロールと同様に、米国への経済的依存を減らし、サプライチェーンの自立化を進める国家戦略の一環と考えられます。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3FvS2VoY00xR1JwenNNX090Z3pPZFJ0R3FvYlZNV1VGT0Fid1o4eS1KY0Vlb0tPRVhjMDhlQVdCaGdHbzlZV3dhVEJmVDFIeUFfWjUxamdod0ZpQklfdHFEMkxuYnljYzBQTERLeGtKOVRVdVdGUmZBM085VWJiVXV1bTZfU0JCUnVQb2JHOUJ4bDlUQ3h6d3B4cl81VlpGbk1xNi1LamZ3Zw?oc=5",
-          "added_at": "2026-09-20 02:03:51"
-        },
-        {
-          "uid": "8cbe97b23f17",
-          "date": "2026-07-22",
-          "title": "U.S. senator issues blunt appeal to trade czar as tourism tanks: Improve relations with Canada - CTV News",
-          "summary": "この記事は「中国レアアース輸出管理」とは関連性がなく、米国の議員がカナダとの関係改善を貿易担当官に訴える内容です。要約の対象外となります。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMG5FWkJoYVVRNU9LTmlmMi1FOHRaUzFiUTZucUZNbG1UNFlEeGpPY09RMGhjVDFXV19NSVFmVlVUei12c2RtR0RzVFNPbXZMNEFtX1EtNDdHZzJOOXlBWDYyTzJQdjJablItLW9zckIySkVlTnNnQ2RWMGhhRjF3a1VPMEwwdnRoQk1iaklNQjJSWWNyY0NuT3VXTjgyZk5jZ0YwdlZiZ1cwck1tQWpKaTg1bTFPZV9OQUQ2aTBkX2ltb1ZOam51TjltbnA?oc=5",
-          "added_at": "2026-09-20 02:03:51"
         }
       ]
     },
@@ -6041,7 +6041,7 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-24 18:21:32",
+      "last_checked": "2026-10-25 02:15:51",
       "items": [
         {
           "uid": "5562d4355029",
