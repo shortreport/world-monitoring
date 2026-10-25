@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25 18:38:18",
+  "generated_at": "2026-10-26 02:29:33",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-25 18:37:46",
+      "last_checked": "2026-10-26 02:29:00",
       "items": [
         {
           "uid": "ccba30834258",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-25 18:37:56",
+      "last_checked": "2026-10-26 02:29:10",
       "items": [
+        {
+          "uid": "70af1ff2d78f",
+          "date": "2026-08-20",
+          "title": "Ford Is Moving Lincoln Production Out of China. - Road Ethos",
+          "summary": "フォードが中国からのリンカーン生産を米国に移転することは、S.4429法案が懸念する中国製自動車部品やシステムへの依存を減らし、米国の自動車サプライチェーンの安全保障強化に貢献するものと言えます。この動きは、米国接続車両の安全と国家安全保障を確保するという同法案の目的と一致しています。",
+          "source": "米商務省・BIS",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWamh6LUttcGJpSHk2VGJ4UXR0cUhNRlk0ajZqbktXWGloWWFybVlPOGJQUHZKZUlNc3NRZUhZRDlQS2laS0hteHNSOEN5XzhVYkd6SlJtOWgxNGwwV055eWxDQUt0MDlNSnhvX3VPdGwyeER3TUNrRlNDWjlFZw?oc=5",
+          "added_at": "2026-10-26 02:29:08"
+        },
         {
           "uid": "07a6de54e375",
           "date": "2026-09-30",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazItdGtHaU83bXNLVHhoOXZjYUFRMjZBamhlVTZ5Ti1IVno4c1h1N1pFLVpHU0tJZGhheU5OY2cxYldKbHQxb0FwOTFpbG1mcF84UksyOUJ3RHJSbVFXdzl1aDB0NmYwc2UtYXpaNFI3OFAxZzZidmFYWU1VSEgtV2xlYmViZ3pf?oc=5",
           "added_at": "2026-08-20 14:33:51"
-        },
-        {
-          "uid": "2228aebd1492",
-          "date": "2026-07-16",
-          "title": "Foley Automotive Update - Foley & Lardner LLP",
-          "summary": "申し訳ございませんが、提供いただいたテキストには「米国接続車両安全保障法（S.4429）」に関する具体的な内容が含まれておらず、タイトルのみの記載となっています。要約に必要な詳細な記事本文をご提供いただければ、要件に沿った日本語1～2文の要約をお作りすることができます。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN3JpajVfSnZKZndISVBmYnR1SDlvVDZLaDJwSjhGeW1oNm05a192aEdxRF9ERko4S3NoVFRxWm4xbV9aRXdQT2d5aEgzSFQtWUJHSGo0MW9FdzRxcVpsQzZzd0RMM2pzUGZpOFZzMWdydzdiNUpaU1Fkd0ZCdHRIZ2phR2xLUQ?oc=5",
-          "added_at": "2026-08-18 14:32:19"
         }
       ]
     },
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-25 18:38:11",
+      "last_checked": "2026-10-26 02:29:24",
       "items": [
         {
           "uid": "f7151a45267d",
@@ -6041,8 +6041,38 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-25 18:38:18",
+      "last_checked": "2026-10-26 02:29:33",
       "items": [
+        {
+          "uid": "2e0d16f4e289",
+          "date": "2026-09-10",
+          "title": "Ford blasted by Trump administration over deals with Chinese companies including CATL, Geely, BYD - report - Paul Tan",
+          "summary": "フォード・モーターがトランプ政権から、CATL、吉利汽車、BYDなどの中国企業との提携を理由に批判を受けている。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdXZLWmlLUFVDM2RrdFozN3NQTnFQcTZqb19CM0JOME1ybDVzcHo1STY3c3dCTjJobmVCUEZ3R1NqR0NmUGVzS2hSaGhfUGlIbkJNQXJDWnU3cWMtLTRoeEtVRmM4Z0NoRFBDT3phVV9oUy1jeHRvY2VUSkthZjQyWkhNWFU2SU9lUkFic3VQUkVuTUtMSUlDblV2ZWd3RVhlcmZPdnlhZEpRbGo5NVpuQmo0cEs1c0JLQzZ0SV9GR20wdjZueDhnV011bGNiUjQ?oc=5",
+          "added_at": "2026-10-26 02:29:29"
+        },
+        {
+          "uid": "de4bbb96ae3b",
+          "date": "2026-10-13",
+          "title": "Articles sitemap of 2026-10-13 - Reuters",
+          "summary": "申し訳ございませんが、提供いただいた記事はサイトマップのみで具体的な内容がないため、「自動車メーカーの対中提携への政治的批判」に関する要約を作成することができません。記事本文をご提供ください。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qbWxrajNSOUV4cUhGQV95cWtHWGktZWpyZ2ZCMEt5UkF4cGtmN1UwYUVERW9xTEc2WDVKRWN5QnI5djAxRWsxY2VCNDhLRTBJLTctV1VrdHU?oc=5",
+          "added_at": "2026-10-26 02:29:29"
+        },
+        {
+          "uid": "f2a59e65ef5d",
+          "date": "2026-10-25",
+          "title": "Bill Ackman urges Israelis to exclude far-right ministers ahead of elections",
+          "summary": "この記事はイスラエルの政治に関するもので、自動車メーカーの対中提携への政治的批判という質問の文脈とは無関係です。要約対象の記事が指定テーマと合致していないため、要約は適切に行えません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6170670-israel-ackman-ben-gvir-smotrich/",
+          "added_at": "2026-10-26 02:29:29"
+        },
         {
           "uid": "8cb403e49ab0",
           "date": "2026-09-09",
@@ -8012,36 +8042,6 @@
           "source_type": "media",
           "url": "https://thehill.com/opinion/campaign/6105462-principles-trusted-elections/",
           "added_at": "2026-09-24 03:19:11"
-        },
-        {
-          "uid": "9c669caa4d77",
-          "date": "2026-09-23",
-          "title": "McConnell leads 4 GOP senators in calling for Trump to release Taiwan arms funding",
-          "summary": "申し訳ございませんが、提供いただいた記事の内容は「自動車メーカーの対中提携への政治的批判」とは関連がなく、むしろ米国共和党議員がトランプ政権に対してtaiwanへの防衛支援資金の放出を求めているというものです。要約対象として指定されたテーマと記事内容が一致していないため、正確な要約が難しい状況です。\n\n記事内容をそのまま要約する場合は、以下の通りです：\n\nマコネル上院議員ら共和党議員4名が、台湾の主権防衛を支援する姿勢を示していた国防長官・国務長官に対し、滞っている台湾への数十億ドル規模の国家安全保障支援資金の放出を求める書簡を送付した。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/senate/6106280-gop-senators-demand-taiwan-aid/",
-          "added_at": "2026-09-24 03:19:11"
-        },
-        {
-          "uid": "ef3a2936bca4",
-          "date": "2026-09-23",
-          "title": "DOJ fights lawsuit challenging Trump’s White House media ban: Access is a ‘privilege’",
-          "summary": "トランプ政権がCNNなどメディアのホワイトハウスアクセスを「特権」として制限できるとの司法省の主張は、自動車メーカーの対中提携に対する政治的批判においても、政府が経済活動への規制権を「国家安全保障」名目で正当化する先例となる可能性を示唆している。政府による産業活動への介入が政治的判断で強化される傾向を反映している。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6105819-doj-trump-administration-defense-white-house-media-ban/",
-          "added_at": "2026-09-24 03:19:11"
-        },
-        {
-          "uid": "130b91fe116a",
-          "date": "2026-07-20",
-          "title": "Mercedes seeks changes to U.S. bill targeting automakers with China ties (MBGAF:OTCMKTS) - Seeking Alpha",
-          "summary": "メルセデス・ベンツは、中国との関係を持つ自動車メーカーを対象とした米国の法案に対して変更を求めており、対中提携に関する政治的規制の強化に対する自動車業界の抵抗を示唆している。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVBFSXYxUjFwR3k5UTJUdmRlUmNDeUJ4cWwxeWJoTmUzNFpjbUNjYmxrbFlfeGVSaW1CekRpNmF6U1p2Rm5fSjFBOG9WdkNjZHZ0dTc3RXVqZTJDMGRtc0UwbkdsV25HcEtxdXprTVdIWXhqYW1NekxLNVNVUnAteVVCNWxMWEhZTUlETUpVWnpFVVJGLVpQaGxmWmk4T2FzeVRFQmpwakQwa2M4?oc=5",
-          "added_at": "2026-09-23 18:49:06"
         }
       ]
     }
