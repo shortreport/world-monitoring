@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25 02:15:51",
+  "generated_at": "2026-10-25 18:38:18",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-25 02:15:21",
+      "last_checked": "2026-10-25 18:37:46",
       "items": [
+        {
+          "uid": "ccba30834258",
+          "date": "2026-10-21",
+          "title": "Korean concern over proposed 'Made in EU' act's impact on nuclear power projects - World Nuclear News",
+          "summary": "欧州産業加速法案（IAA）の「域内製造」要件がEU域外の原子力企業を排除する可能性があるため、韓国はこの法案がEU内での原子力プロジェクトへの参入機会を制限されることを懸念している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEg5NEx3VmNLZEdwNEZ5WXlJWThxdHVnNk5PcVpzMnItVkFYZUM0R1lkaWE3WlRNdEF3TDVvbEh4eWcwYlZVdjI0elJGdGtOakdTUXVnZ1VyZjJlQVpMMUdvS1ZmZTNuZDZfei1ScFBJMDdCMXFmZ054VTNMYUdfbExxNVZkSjFxUXF0dERRY2lvSENRdVFIQ090djZxZ2tJZ1hSZWhvUGwzN3RtcDd3a2ZQczFidw?oc=5",
+          "added_at": "2026-10-25 18:37:45"
+        },
         {
           "uid": "610b685b5cca",
           "date": "2026-09-03",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcDVpZ3RVRkd3YUN0MFZNclBZMjN6NXFtUXg0bzA3WjRicWdvNFlpZFJ2RU83WHdLN19JWVA0R1N6VkVJamlMS29WTUs4b3YxWC1KVXZVQk5UMmFXSmZGRWhkRG1nb2h2ZFJvZzlwTThCR01TYWV5bE51b2N6Tlgzd296Vm94RlBiT1ZoSTRBaktiZHQ2dlpWYkUwMXhWMzNyWGNqdjEzTTdmS0FhRDJ6d25WTmp3ZHlzODNnamU0NU9tQ1F2VzJacEdXUC04UGRCM1JIcVozb0NRUQ?oc=5",
           "added_at": "2026-08-01 16:29:10"
-        },
-        {
-          "uid": "dd76b235cd0f",
-          "date": "2026-07-31",
-          "title": "Chinese businesses warn EU's proposed cybersecurity and industrial bills violate WTO rules - Global Times",
-          "summary": "中国企業は、EUの提案する産業加速法案（IAA）がWTO規則に違反する可能性があると警告している。同法案が域内産業保護主義を強化し、中国を含む非EU企業への差別的措置をもたらす懸念を示している。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nZEF5UGV2c0c0UERoOTJiVWRQRjZUc3h3bzNsNzR2QS1lMVEwUjdnYlBiNmM0QTdfSVdPTEdTY2xmYUsybTQ3SXQxamZncG5kMFBIQkMxanFWd1hWS0ZmOW13?oc=5",
-          "added_at": "2026-07-31 16:52:22"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-25 02:15:29",
+      "last_checked": "2026-10-25 18:37:56",
       "items": [
+        {
+          "uid": "07a6de54e375",
+          "date": "2026-09-30",
+          "title": "Senate punts bill to permanently ban Chinese cars until after midterm elections - News4JAX",
+          "summary": "米国上院は、中国製自動車の永久的な禁止法案（S.4429）の投票を中間選挙後に延期することを決定した。これは、中間選挙前の政治的な影響を避けるための戦略的な判断と考えられる。",
+          "source": "議員発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZlF3bGp4ZzFQTjhqeFBWWnRzVUdWSk51NVQzeWRTb0FPTzNWcVB0YTNxbjFiaDl3X2FnRm9EdEhWd1hhMXJPWTJ5aDk4bTVQbVVTMDZHcjQzMy1OaUJkU2NvUmI0VHRROXZ0bmVxZTJzVjl2bkRnRWlYZ0VNVFdnOTBudGIyY0dDSER4dHF2cGRwczRsNmxISHBQM2p2WmFzM19jMUMxYzR1ZTlWTy14R3ZpUG9TYWlob1ZNNFZoaE84ck0?oc=5",
+          "added_at": "2026-10-25 18:37:54"
+        },
         {
           "uid": "a241cbef821c",
           "date": "2026-08-13",
@@ -4010,16 +4020,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN3JpajVfSnZKZndISVBmYnR1SDlvVDZLaDJwSjhGeW1oNm05a192aEdxRF9ERko4S3NoVFRxWm4xbV9aRXdQT2d5aEgzSFQtWUJHSGo0MW9FdzRxcVpsQzZzd0RMM2pzUGZpOFZzMWdydzdiNUpaU1Fkd0ZCdHRIZ2phR2xLUQ?oc=5",
           "added_at": "2026-08-18 14:32:19"
-        },
-        {
-          "uid": "399f80add7c8",
-          "date": "2026-07-22",
-          "title": "Mercedes Faces Potential US Sales Ban Due to 20% Chinese Ownership - eletric-vehicles.com",
-          "summary": "メルセデス・ベンツが中国資本20%の所有比率により、米国接続車両安全保障法（S.4429）の規制対象となり、米国での販売禁止の可能性に直面している。同法は中国資本の過度な所有を制限し、車両のサイバーセキュリティと国家安全保障を強化することを目的としている。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWZ1SklWS1lZUVR2anVrT2E1SDFiQkJuQXJUdV8xT1pERFBCUUlrTVZKd2RyalhTelpSQzBQb21oeFJuR1ZkZE14MnVkYWNpVnpBMzRyLTVsZk1NNk8tMFhzQnd3V3NnVVNaZU5pcHRQeEM2UzhTQk9fQmR0VmZPN3ZkVExFdnlDVHhHT2lRc09UU2hFVXc4djZUT3hNX0s3Y2xGV1Q2dw?oc=5",
-          "added_at": "2026-08-17 23:31:12"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-25 02:15:45",
+      "last_checked": "2026-10-25 18:38:11",
       "items": [
+        {
+          "uid": "f7151a45267d",
+          "date": "2026-08-07",
+          "title": "Chinese Academy of Sciences Study Exposes China's Rare Earth Vulnerabilities-But the West Should Not Misread the Signal - Rare Earth Exchanges",
+          "summary": "中国科学院の研究により中国のレアアース産業における脆弱性が露呈しているが、西側諸国はこれを中国が輸出管理を緩和する信号と誤解すべきではなく、むしろ中国が戦略的に重要な資源の支配を強化する可能性がある。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNi03UDUtM0x2UEFubkM3YjBHUWh4Z082R29IcDNYM2o4THhmelhyX2xTa19hcUthS2xMeHg5S3lMUnZxeGpUaUN3WE4tOHBxM1hTQXlob2ZVZXZTX2RBVkg1NGxjOGlocURHangyUk9oMzQzQ0RZd0pRbjRrckJkSVphcEw4eTluMzdYTTk4UGNGclgtVHNGYlk4b282VXZrdmFMcTd0MlFpQ3o2dmhONEMzOVJUbWxubGFkSUFnQlkxOU5ZVVdYSVFQUEM4V2p1dW1RQi1yM0JTLWhVbjFjeHVmT3Z5eEdkVnVz?oc=5",
+          "added_at": "2026-10-25 18:38:09"
+        },
+        {
+          "uid": "c2cbe1c5c4d4",
+          "date": "2026-10-24",
+          "title": "China urges US Treasury to stop proposed restrictions on tech investments",
+          "summary": "本記事は中国の技術産業への米国投資制限提案に関するもので、レアアース輸出管理とは直接的な関連がありません。レアアース輸出管理に関する記事ではないため、要約することができません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6170202-china-opposes-us-tech-investment-rules/",
+          "added_at": "2026-10-25 18:38:09"
+        },
         {
           "uid": "698c76bd0cb1",
           "date": "2026-09-08",
@@ -6011,26 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQ3dScWIxek5yUU1sbU8xdzFadkZpZ0UxcDQ0VDd0aEZ5YzN0TS1HdlA5OThPMm13cjJYVFlSekV3WUQ2OTdNeFF4NHA3NFdGRXJhZGtpUzJ5OGZ5eGFBZEdQLThKME9nTjRtOG9SVHFWRlBXNjVmdFJlQV9ZVnlpdHhxZEtKODcza1gxNEZvcUx1TndwZWwxaGJ0OUctU1dTaFUwUmVUV0Fsc0hSTGN4SU9HSG5MalVwUHZsYWVrcWd1RUxhOVYwZWhSTXpmM1lrTE1ieFpiTlRZaEx4N0xIbmY2S1lHRWpqTG5jWHZMcFk?oc=5",
           "added_at": "2026-09-20 18:39:18"
-        },
-        {
-          "uid": "691a1f291de7",
-          "date": "2026-08-04",
-          "title": "EXCLUSIVE: Trump administration drafting ban on Chinese data center devices, sources say - Reuters",
-          "summary": "トランプ政権は中国製データセンター機器の禁止を検討しており、これは中国の先端技術輸出規制と同様に、米国が重要な技術領域での中国への依存を減らそうとする戦略の一環と考えられます。このような米中間の技術規制競争は、中国レアアース等の戦略物資の輸出管理をめぐる対抗措置として機能する可能性があります。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZEFjZDdmMzAxM2tTaHIwTWpFMHVCUldHdGs3Y3hTejI2ajRQeTVWUFU4RThDRGlIUmhXM0duczgySG5xUExONFhPMmtZR2liTVVJR19JcVhBYndwTjBURk1qM0lvOU1sTnlGYVd3VUxLQTJBQklmZjlsSmdUd0p1bVpGRElVSlp5NHl3YTBnSmhrMUpfSl9ld0NmLVhDdTF0MXg1enZIcXE0aEpFQTJDRWxYUUdRdw?oc=5",
-          "added_at": "2026-09-20 18:39:18"
-        },
-        {
-          "uid": "d6ed1cfede04",
-          "date": "2026-06-25",
-          "title": "China Rare Earth Index Slips, But the Real Market Is Elsewhere - rareearthexchanges.com",
-          "summary": "中国のレアアース公式指数は下落を示しているが、実際の取引市場は公式指数に反映されない場所で展開されており、中国の輸出管理政策と市場実態にはギャップが存在することを示唆している。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRURZWEFEMGRfSmVoTHJXNm5QSzlYRTB3T0xxOG52Zjk2Wk9ZbkFwYzRFVElmcmx0S01wQklkVDgzUUU2WVR4Z0pkYTBxWUluSDZrSmUtcGFUeFZDWG9wZWY0eUpBdWVKakNWSC1kV29NY1Vmd0d0cV94bHJtdVRhQjhqVkJFbzB2YTBsYkpnWXZuU2JzNmJKTVBXRXFabWM?oc=5",
-          "added_at": "2026-09-20 18:39:18"
         }
       ]
     },
@@ -6041,8 +6041,28 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-25 02:15:51",
+      "last_checked": "2026-10-25 18:38:18",
       "items": [
+        {
+          "uid": "8cb403e49ab0",
+          "date": "2026-09-09",
+          "title": "Trump administration blasts Ford Motor’s China ties, warns of US national security risks - MEAWW News",
+          "summary": "トランプ政権はフォード・モーターの中国との提携関係を厳しく批判し、米国の国家安全保障に対するリスクがあると警告している。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFJHTThLNnh3ZVQ4ZWwtcnFmb2tEWXdjbGhsQmc5MGtXRnRUb09fMWt3N0tEMXdPNmlLc0YzTkUwaUhmR0gxMTBJYlY2bFZQNGtCR05QVWVSV2lGamx0V0p2YVVGSVFBaXEyTXVOWjZFRXRGZkxlQmJKYTNBbnRLYWtmb2hhUWhfWnpqUUZwcGJITm80Q29zVmZBbW9rTjgtcmRXeXJzMngxLU5RWEE?oc=5",
+          "added_at": "2026-10-25 18:38:17"
+        },
+        {
+          "uid": "c2cbe1c5c4d4",
+          "date": "2026-10-24",
+          "title": "China urges US Treasury to stop proposed restrictions on tech investments",
+          "summary": "中国は米国の技術産業への投資制限強化に反対し、米財務省に撤回を求めており、この規制は両国の貿易関係を悪化させると警告している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6170202-china-opposes-us-tech-investment-rules/",
+          "added_at": "2026-10-25 18:38:17"
+        },
         {
           "uid": "5562d4355029",
           "date": "2026-10-23",
@@ -8021,26 +8041,6 @@
           "source": "業界分析",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVBFSXYxUjFwR3k5UTJUdmRlUmNDeUJ4cWwxeWJoTmUzNFpjbUNjYmxrbFlfeGVSaW1CekRpNmF6U1p2Rm5fSjFBOG9WdkNjZHZ0dTc3RXVqZTJDMGRtc0UwbkdsV25HcEtxdXprTVdIWXhqYW1NekxLNVNVUnAteVVCNWxMWEhZTUlETUpVWnpFVVJGLVpQaGxmWmk4T2FzeVRFQmpwakQwa2M4?oc=5",
-          "added_at": "2026-09-23 18:49:06"
-        },
-        {
-          "uid": "b54e8d33e6a9",
-          "date": "2026-09-13",
-          "title": "Trump says he would be OK with China building cars in US - Reuters",
-          "summary": "トランプ氏は中国企業による米国での自動車製造を容認する姿勢を示しており、これまでの対中強硬策から自動車産業での提携に対する政治的障壁が低下する可能性がある。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjhVd0d5RXllWXU0eVIyWEpPOURjZjlFTmRxVlJDRjIxZk9qY1Jzbkh2VVNJd3NOb1puR3dhdDNZMFVSVEJBa1lsWTFOQ085ZXZhZ25hRk95dkE2WTJwU3BfajlIZzd6TjV5T0lBdFFxcmVHUnBEb2lnQWhRUW5GcXVrRHNQZzBjUE1pckp0akVNbVZuMWpnaG9SQ0RlTTQ?oc=5",
-          "added_at": "2026-09-23 18:49:06"
-        },
-        {
-          "uid": "717b32f18c02",
-          "date": "2026-09-22",
-          "title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal - Reuters",
-          "summary": "トランプ前大統領が国連演説でイランとの平和協定がなければ「殲滅」可能と警告したことは、米国の強硬な外交姿勢を示すものであり、自動車メーカーが中国との提携を進める際に米国の政治的圧力が高まる可能性を示唆しています。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
           "added_at": "2026-09-23 18:49:06"
         }
       ]
