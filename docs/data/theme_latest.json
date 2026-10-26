@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26 09:34:10",
+  "generated_at": "2026-10-26 19:50:27",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-26 09:33:14",
+      "last_checked": "2026-10-26 19:49:57",
       "items": [
+        {
+          "uid": "9680284400a5",
+          "date": "2026-07-29",
+          "title": "EU Inc.: A new harmonised corporate legal regime - European Commission",
+          "summary": "EU Inc.は、EU域内での企業設立・運営を簡素化するための統一的な企業法制度であり、欧州産業加速法案（IAA）の一環として、EU企業のグローバル競争力を強化し、規制負担を軽減することを目指しています。",
+          "source": "欧州産業政策",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcDVpZ3RVRkd3YUN0MFZNclBZMjN6NXFtUXg0bzA3WjRicWdvNFlpZFJ2RU83WHdLN19JWVA0R1N6VkVJamlMS29WTUs4b3YxWC1KVXZVQk5UMmFXSmZGRWhkRG1nb2h2ZFJvZzlwTThCR01TYWV5bE51b2N6Tlgzd296Vm94RlBiT1ZoSTRBaktiZHQ2dlpWYkUwMXhWMzNyWGNqdjEzTTdmS0FhRDJ6d25WTmp3ZHlzODNnamU0NU9tQ1F2VzJacEdXUC04UGRCM1JIcVozb0NRUQ?oc=5",
+          "added_at": "2026-10-26 19:49:56"
+        },
         {
           "uid": "026a15adcadb",
           "date": "2026-10-23",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUc3VzlpejhuaV9rX1llaERFM1pYTmxEU0EwQUNKQXJLM2Q3ekd5REM2TlQ0d3gxMG9Fbk4ySnBZZ21fMW0wdnpFLWVpcDJEdHJMWS1qZ25pV2RBQ29KMmdwVlF2M2RyMDc0SDJpcmU5eC1pNXRJNl9NU0tldXVvVnUxTEU4WkRoLXJxLXNvMDllTXBTSDZ1OUhyVzJBQQ?oc=5",
           "added_at": "2026-08-06 16:42:08"
-        },
-        {
-          "uid": "64437785539c",
-          "date": "2026-08-05",
-          "title": "Türkiye tells EU its industrial policy must include Ankara to boost competitiveness - Türkiye Today",
-          "summary": "トルコはEUの産業加速法案が欧州の競争力を強化するにはトルコを含める必要があると主張しており、EUの産業政策にトルコの参加・統合が不可欠だと訴えています。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdTNTRVNxSTZNQlY3OHdfbXlnS1hZVTdBUzFNOTlXMDdYMUltTHNDQmZ0azRzbktqWVBpU1lTOUp5VTB6MWlLX0VGOHhTTnRLT3NaRmh2VUh0S0t4OXZIdmJhQXd6Tkp3WEo5NnpWT2Vud0xybmtaNUpzMHBNQldGN0Y1SzZOUHVjVV9OTEh5bk9pdWJncFhvcWJwTE1CaDBocHlfMk0zR1dkUGF3a2VmcWxMUnhpbHJNTS1FamVYTEZJMXNqR3BYMA?oc=5",
-          "added_at": "2026-08-06 16:42:08"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-26 09:33:33",
+      "last_checked": "2026-10-26 19:50:05",
       "items": [
         {
           "uid": "5359f507bb31",
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-26 09:33:55",
+      "last_checked": "2026-10-26 19:50:20",
       "items": [
+        {
+          "uid": "1734d7dac700",
+          "date": "2026-08-07",
+          "title": "The Latest: GOP Sen. Cassidy Says He Supports Blanche, Likely Paving Way for AG Confirmation - U.S. News & World Report",
+          "summary": "この記事は中国レアアース輸出管理とは関連がないため、要約できません。記事の内容は米国の司法長官確認人事に関するものであり、中国レアアース輸出管理に関する具体的な情報を含んでいません。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ19FdWJBVXIyUjlxZ3ZXbHY1eVpudFZUZXg1eG56SlROZFE0UjBWZFZna0xhbFF0b2FsUmEwVzl5d0ZNQ1FwNW4tbEF0Q3dFOWN1UU41MkNEcXF0eEpWUjNXRmVhNzM2Yk1XZDhTcFQ4LXN2cXBSRFhXRHFLNHhNQ1d5ZS1mZnJHLXpiNmtDOElSZi1zWFFiajVneWs4b3pCLUpmbWdjb0NrTWFTTGRNSE5XTFBWUGlVZE1waVd3VQ?oc=5",
+          "added_at": "2026-10-26 19:50:19"
+        },
         {
           "uid": "dafc260bcca3",
           "date": "2026-10-25",
@@ -6021,16 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9rOHkwQl9VYldidlJVajgtZzY4VE5TQmt6eEQ2czIxaTk5N3Ywd3diVXdCT3dKVmhUNmxMRjJ0UnJKdGE2TUtuNklrdWx4UTVGZG5kY1pvWnNEWUhkdmZ5WkV3R0plREV6aTlGc1JEUHVQeG02VzRsVE82OERteXhsMGNfTEVPMllnN0p3?oc=5",
           "added_at": "2026-09-20 18:39:18"
-        },
-        {
-          "uid": "38a4c22f7ca3",
-          "date": "2026-09-19",
-          "title": "China Rare Earth Group tightens control over rare earth metals - IDNFinancials",
-          "summary": "中国レアアース集団が希土類金属の管理を強化しており、中国政府による戦略的資源としての希土類の統制がさらに厳しくなっていることを示している。この措置は、希土類の輸出管理と供給チェーンの支配を通じて、中国の国際交渉における影響力を強化する狙いと考えられる。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaXk4YUpQRHZNZWpqY3FFcGhWSWhwZzRobVhfOENicXJnTnVqNmhXSy1aYXdmb3c3ek9QSXp3djVJcW02OU00Z0Y5SGhwdXJkNG56dEUtbk5XMjJ2M2JERTRFV1FCVzhfczdhS3preVY1eWJqQlpsemowbUlTcDV0Uzl5UlFZUDNLNlB5MENwSVpBdGhSeGxyQnczSVBVX1hUdGxIb3dR?oc=5",
-          "added_at": "2026-09-20 18:39:18"
         }
       ]
     },
@@ -6041,8 +6041,18 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-26 09:34:10",
+      "last_checked": "2026-10-26 19:50:27",
       "items": [
+        {
+          "uid": "cd872b27f2c6",
+          "date": "2026-09-09",
+          "title": "Trump Administration Urges Ford to Immediately Cut China Ties - Yahoo Finance",
+          "summary": "トランプ政権がフォード・モーターに対し、中国との関係を即座に断つよう促している。この動きは、自動車メーカーの対中提携が国家安全保障上の懸念として政治的に批判されていることを示している。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnJtNkJGN2Q1ZnVkc0pJUHNSeDBLNUlva2hiU0lVbHdzMmlPalF5MHZIZVZJZThzcDZlV0FxWjN2M0p6MEY0WnFoUkFEbEJkdHM3VXRHczhZakl1THFDUnpnc2U1U2xvcnpSOEc5TTBPcVEzdVltbTdqVW9pMW1aRGE3aXhOVC1oSHBjaHUtWkNlRDd0Q3N6dUxvOUQxVGZYWC1CaXlwZnpoLUZn?oc=5",
+          "added_at": "2026-10-26 19:50:26"
+        },
         {
           "uid": "93ffad0bb073",
           "date": "2026-09-09",
@@ -8031,16 +8041,6 @@
           "source": "Reuters",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUF9SeGVseHhHVVRoOE0zb3BRZ1UwdzBTd0FjMkNsY2VrYzFKZWM1QzIwNU1pUVhwUVRqR0E0VTNfMGcxa1psWkY2RXJKMnlMekFseVFUOXg2dkhxSUZUaG5oSTgtMHJtQjdSa1V1aElWLVJnRklreFlfOE90RmhROXVWZ09vWktoNXZiSlhhWGExMnZxRlByWXViNHdBRW9XSU5OTEZ0cDI?oc=5",
-          "added_at": "2026-09-24 03:19:11"
-        },
-        {
-          "uid": "a473d420efa6",
-          "date": "2026-09-15",
-          "title": "Attempted Trump assassin ordered packages using Bob Dole's name, new records show - Reuters",
-          "summary": "この記事は「自動車メーカーの対中提携への政治的批判」とは無関係であり、トランプ前大統領の暗殺未遂事件の容疑者が他人名義で荷物を発注していたという内容のため、要求された文脈での要約は適切ではありません。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWU3b0h3MzNsWHJzOHdiUEhobEZwTUtsalVJVTh6Wkhac25EZXVfZF91cE5LVDBnc3lBVW42WjEzWTRxanM5X00tQzFHaGt0VTRnNC1Qbldzc0hvVXVYZ0xQbWg3TWNnNG43RDBHR3dnV3BaOVJ1aFRHLW1qOTZhUlUzclVrUUhPVG40WWVqYV9hTWpNcXk4UWRtbEZTd29vUlM2ajBYeWxHVjJmWGlqMzNZQkI5Mnhl?oc=5",
           "added_at": "2026-09-24 03:19:11"
         }
       ]
