@@ -77,6 +77,8 @@ def translate_home(segments: list, client: anthropic.Anthropic) -> list:
 
 def translate_economist(bullets: list, section: str, client: anthropic.Anthropic) -> list:
     """Economist 要約（日本語）を自然な英語に戻す"""
+    if not bullets:
+        return []
     payload = "\n".join(f"- {b}" for b in bullets)
     prompt = (
         f"The following are Japanese summaries of The Economist's '{section}' section.\n"
