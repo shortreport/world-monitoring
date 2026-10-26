@@ -1,335 +1,214 @@
 {
-  "generated_at": "2026-10-23 09:05 JST",
-  "sender_count": 6,
-  "total_mails": 39,
+  "generated_at": "2026-10-26 09:33 JST",
+  "sender_count": 2,
+  "total_mails": 29,
   "summaries": [
-    {
-      "sender": "Cliff",
-      "short": "CLIFF",
-      "color": "CYAN",
-      "count": 1,
-      "bullets": [
-        "インドは外交政策をアメリカに焦点を当てており、ヘッジングを行う場合は先進国の中堅国家に限定",
-        "トランプ大統領就任後の22ヶ月間は困難な時期であったものの、インドの関係者はアメリカとの関係継続の意志を表明"
-      ],
-      "subjects": [
-        [
-          "2026-10-22",
-          "Practice Letter: Dispatch from India",
-          "data/pdfs/20261022_0322_Practice_Letter__Dispatch_from_India.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261022_0322_Practice_Letter__Dispatch_from_India.pdf"
-      ]
-    },
     {
       "sender": "EG",
       "short": "EG",
-      "color": "YEL",
+      "color": "CYAN",
       "count": 18,
       "bullets": [
-        "民主党が中間選挙で勝利しても政策方向の大きな変化をもたらさず、議会の立法agenda を制限する見通し",
-        "エジプトがサウジアラビアへの防衛支援を拡大する一方、地域紛争への深刻な関与は回避する方針",
-        "米国の鉱物調達パイプラインは拡大するも、中国への依存削減にはすぐには結びつかない課題",
-        "インドの国内政治と外交関係に関する最新動向について専門家による解説会議の開催予定"
+        "Trump政権の財政政策と中間選挙後の見通しに関する専門家による分析と質疑応答の実施",
+        "ブラジル大統領選決選投票でLulaの勢いが鈍化し、Bolsonaroへの逆転勝利が困難な情勢",
+        "インドの国内政治動向とModiに対する抗議活動の政治的影響に関する解説と討議の開催",
+        "中国がアメリカなど先進国との生産的な関係構築を優先する方針への転換",
+        "フランスでLe Penの大統領当選が基本シナリオとして位置付けられる状況への変化"
       ],
       "subjects": [
         [
-          "2026-10-21",
-          "Democratic sweep would bring limited policy changes",
-          "data/pdfs/20261021_0359_Democratic_sweep_would_bring_limited_policy_change.pdf"
+          "2026-10-22",
+          "US Politics Update with Former Treasury Deputy Secretary Derek",
+          "data/pdfs/20261022_2102_US_Politics_Update_with_Former_Treasury_Deputy_Sec.pdf"
         ],
         [
-          "2026-10-21",
-          "Defending Saudi Arabia preserves geopolitical alignment",
-          "data/pdfs/20261021_0458_Defending_Saudi_Arabia_preserves_geopolitical_alig.pdf"
+          "2026-10-22",
+          "Brazil, India, United States, Israel, Iran, Oil, Sustainability, and",
+          "data/pdfs/20261022_2200_Brazil,_India,_United_States,_Israel,_Iran,_Oil,_S.pdf"
         ],
         [
-          "2026-10-21",
-          "CONFERENCE CALL NOTES: Global Minerals Update Ahead of LME",
-          "data/pdfs/20261021_0459_CONFERENCE_CALL_NOTES__Global_Minerals_Update_Ahea.pdf"
-        ],
-        [
-          "2026-10-21",
-          "India update",
-          "data/pdfs/20261021_0506_India_update.pdf"
-        ],
-        [
-          "2026-10-21",
-          "eg update in Japanese",
-          "data/pdfs/20261021_0800_eg_update_in_Japanese.pdf"
-        ],
-        [
-          "2026-10-21",
-          "APAC & Japan カンファレンスコール「AI・サイバーパワー・競争・グ",
-          "data/pdfs/20261021_0801_APAC_&_Japan_カンファレンスコール「AI・サイバーパワー・競争・グローバルリスク最新動向.pdf"
-        ],
-        [
-          "2026-10-21",
-          "AI, Cyber Power, Competition, and Global Risk Update - EG",
-          "data/pdfs/20261021_0802_AI,_Cyber_Power,_Competition,_and_Global_Risk_Upda.pdf"
-        ],
-        [
-          "2026-10-21",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20261021_1623_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-10-21",
-          "Indonesia: MSCI downgrade threat intensifies pressure for market",
-          "data/pdfs/20261021_1817_Indonesia__MSCI_downgrade_threat_intensifies_press.pdf"
-        ],
-        [
-          "2026-10-21",
+          "2026-10-22",
           "India update - EG Conference Call, REMINDER",
-          "data/pdfs/20261021_2102_India_update_-_EG_Conference_Call,_REMINDER.pdf"
+          "data/pdfs/20261022_2202_India_update_-_EG_Conference_Call,_REMINDER.pdf"
         ],
         [
-          "2026-10-21",
-          "Democratic midterm sweep would bring limited policy changes",
-          "data/pdfs/20261021_2131_Democratic_midterm_sweep_would_bring_limited_polic.pdf"
+          "2026-10-23",
+          "Practice Letter: China recalibrates",
+          "data/pdfs/20261023_0010_Practice_Letter__China_recalibrates.pdf"
         ],
         [
-          "2026-10-22",
-          "Trump's farmer bailouts are a day late, a dollar short",
-          "data/pdfs/20261022_0049_Trump's_farmer_bailouts_are_a_day_late,_a_dollar_s.pdf"
+          "2026-10-23",
+          "France: Le Pen is now the basecase",
+          "data/pdfs/20261023_0106_France__Le_Pen_is_now_the_basecase.pdf"
         ],
         [
-          "2026-10-22",
-          "Pragmatism displaces ambition at the COPs",
-          "data/pdfs/20261022_0511_Pragmatism_displaces_ambition_at_the_COPs.pdf"
+          "2026-10-23",
+          "Prospects dimming for permitting deal",
+          "data/pdfs/20261023_0138_Prospects_dimming_for_permitting_deal.pdf"
         ],
         [
-          "2026-10-22",
-          "APAC & Japan Conference Call: Southeast Asia update",
-          "data/pdfs/20261022_0907_APAC_&_Japan_Conference_Call__Southeast_Asia_updat.pdf"
+          "2026-10-23",
+          "Xi heads for fourth term as centralization deepens",
+          "data/pdfs/20261023_0139_Xi_heads_for_fourth_term_as_centralization_deepens.pdf"
         ],
         [
-          "2026-10-22",
-          "APAC & Japan Conference Call: Southeast Asia",
-          "data/pdfs/20261022_0914_APAC_&_Japan_Conference_Call__Southeast_Asia_updat.pdf"
+          "2026-10-23",
+          "Lebanon: IMF deal will be further delayed",
+          "data/pdfs/20261023_0238_Lebanon__IMF_deal_will_be_further_delayed.pdf"
         ],
         [
-          "2026-10-22",
-          "APAC & Japan Conference Call: MENA Crisis Update",
-          "data/pdfs/20261022_0938_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_C.pdf"
+          "2026-10-23",
+          "Exports sustain growth as domestic demand lags",
+          "data/pdfs/20261023_0535_Exports_sustain_growth_as_domestic_demand_lags.pdf"
         ],
         [
-          "2026-10-22",
-          "APAC & Japan Conference Call: MENA Crisis Update Call",
-          "data/pdfs/20261022_0941_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_C.pdf"
+          "2026-10-23",
+          "Conference Call Notes: US Politics Update with Derek Theurer",
+          "data/pdfs/20261023_0546_Conference_Call_Notes__US_Politics_Update_with_Der.pdf"
         ],
         [
-          "2026-10-22",
+          "2026-10-23",
           "EG Research Summary in Japanese",
-          "data/pdfs/20261022_1111_EG_Research_Summary_in_Japanese.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261021_0359_Democratic_sweep_would_bring_limited_policy_change.pdf",
-        "data/pdfs/20261021_0458_Defending_Saudi_Arabia_preserves_geopolitical_alig.pdf",
-        "data/pdfs/20261021_0459_CONFERENCE_CALL_NOTES__Global_Minerals_Update_Ahea.pdf",
-        "data/pdfs/20261021_0506_India_update.pdf",
-        "data/pdfs/20261021_0800_eg_update_in_Japanese.pdf",
-        "data/pdfs/20261021_0801_APAC_&_Japan_カンファレンスコール「AI・サイバーパワー・競争・グローバルリスク最新動向.pdf",
-        "data/pdfs/20261021_0802_AI,_Cyber_Power,_Competition,_and_Global_Risk_Upda.pdf",
-        "data/pdfs/20261021_1623_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20261021_1817_Indonesia__MSCI_downgrade_threat_intensifies_press.pdf",
-        "data/pdfs/20261021_2102_India_update_-_EG_Conference_Call,_REMINDER.pdf",
-        "data/pdfs/20261021_2131_Democratic_midterm_sweep_would_bring_limited_polic.pdf",
-        "data/pdfs/20261022_0049_Trump's_farmer_bailouts_are_a_day_late,_a_dollar_s.pdf",
-        "data/pdfs/20261022_0511_Pragmatism_displaces_ambition_at_the_COPs.pdf",
-        "data/pdfs/20261022_0907_APAC_&_Japan_Conference_Call__Southeast_Asia_updat.pdf",
-        "data/pdfs/20261022_0914_APAC_&_Japan_Conference_Call__Southeast_Asia_updat.pdf",
-        "data/pdfs/20261022_0938_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_C.pdf",
-        "data/pdfs/20261022_0941_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_C.pdf",
-        "data/pdfs/20261022_1111_EG_Research_Summary_in_Japanese.pdf"
-      ]
-    },
-    {
-      "sender": "Eurasia",
-      "short": "EURAS",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "AI、サイバーセキュリティ、国際競争、グローバルリスクに関する会議を開催",
-        "10月の変化と地域の企業・政府への影響について討議",
-        "米中AI競争、モデル・コンピュート関連の新規輸出規制、最新サイバー事件が主要議題"
-      ],
-      "subjects": [
+          "data/pdfs/20261023_1210_EG_Research_Summary_in_Japanese.pdf"
+        ],
         [
-          "2026-10-21",
-          "Daily Research Summary - Oct 20th, 2026",
-          "data/pdfs/20261021_0834_Daily_Research_Summary_-_Oct_20th,_2026.pdf"
+          "2026-10-23",
+          "Le Pen now presidential favorite",
+          "data/pdfs/20261023_2122_Le_Pen_now_presidential_favorite.pdf"
+        ],
+        [
+          "2026-10-23",
+          "India update - EG Conference Call, REMINDER",
+          "data/pdfs/20261023_2202_India_update_-_EG_Conference_Call,_REMINDER.pdf"
+        ],
+        [
+          "2026-10-23",
+          "Midterm update with Kyle Kondik",
+          "data/pdfs/20261023_2301_Midterm_update_with_Kyle_Kondik.pdf"
+        ],
+        [
+          "2026-10-24",
+          "US-Ukraine rift will outlast resumed intel-sharing",
+          "data/pdfs/20261024_0024_US-Ukraine_rift_will_outlast_resumed_intel-sharing.pdf"
+        ],
+        [
+          "2026-10-24",
+          "Senate race still too close for comfort for Democrats",
+          "data/pdfs/20261024_0111_Senate_race_still_too_close_for_comfort_for_Democr.pdf"
+        ],
+        [
+          "2026-10-24",
+          "Israel: Opposition has more government formation options",
+          "data/pdfs/20261024_0619_Israel__Opposition_has_more_government_formation_o.pdf"
+        ],
+        [
+          "2026-10-24",
+          "Energy and Environment Outlook",
+          "data/pdfs/20261024_0649_Energy_and_Environment_Outlook.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261021_0834_Daily_Research_Summary_-_Oct_20th,_2026.pdf"
+        "data/pdfs/20261022_2102_US_Politics_Update_with_Former_Treasury_Deputy_Sec.pdf",
+        "data/pdfs/20261022_2200_Brazil,_India,_United_States,_Israel,_Iran,_Oil,_S.pdf",
+        "data/pdfs/20261022_2202_India_update_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20261023_0010_Practice_Letter__China_recalibrates.pdf",
+        "data/pdfs/20261023_0106_France__Le_Pen_is_now_the_basecase.pdf",
+        "data/pdfs/20261023_0138_Prospects_dimming_for_permitting_deal.pdf",
+        "data/pdfs/20261023_0139_Xi_heads_for_fourth_term_as_centralization_deepens.pdf",
+        "data/pdfs/20261023_0238_Lebanon__IMF_deal_will_be_further_delayed.pdf",
+        "data/pdfs/20261023_0535_Exports_sustain_growth_as_domestic_demand_lags.pdf",
+        "data/pdfs/20261023_0546_Conference_Call_Notes__US_Politics_Update_with_Der.pdf",
+        "data/pdfs/20261023_1210_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20261023_2122_Le_Pen_now_presidential_favorite.pdf",
+        "data/pdfs/20261023_2202_India_update_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20261023_2301_Midterm_update_with_Kyle_Kondik.pdf",
+        "data/pdfs/20261024_0024_US-Ukraine_rift_will_outlast_resumed_intel-sharing.pdf",
+        "data/pdfs/20261024_0111_Senate_race_still_too_close_for_comfort_for_Democr.pdf",
+        "data/pdfs/20261024_0619_Israel__Opposition_has_more_government_formation_o.pdf",
+        "data/pdfs/20261024_0649_Energy_and_Environment_Outlook.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "ORG",
-      "count": 14,
+      "color": "YEL",
+      "count": 11,
       "bullets": [
-        "欧州の中道右派議員がEUの気候法2つを弱める方針を推し進め、ブロック全体の温暖化ガス削減目標を危機に",
-        "米国大統領がプーチン大統領をウクライナ指導者より好む可能性が懸念され、公正な平和交渉が難しくなる懸念",
-        "EUがウクライナ支援資金拡大をめぐり、カナダと英国にさらなる負担を要求",
-        "ライアンエアーが航空業界ロビーA4Eと異なり、EU発着全便へのETS拡大支持を表明",
-        "EUがアークティック戦略新展開と軍事動員規制の最終交渉決着に向けて進展"
+        "ドイツ国防当局がスウェーデン・スペインとの新型戦闘機共同開発プロジェクトの追求を推奨し、イギリス製戦闘機の代替案ではドイツの影響力が不十分になる懸念を提示",
+        "EU議会が競争力基金に関する合意を達成",
+        "イタリア南部のトラック運転手による道路封鎖がメローニ首相の厳強姿勢の限界を露呈し、燃料高騰に苦しむ デモ参加者への妥協と強硬手段の両面アプローチ必要性",
+        "エネルギー価格上昇、インフレ進行、経済停滞、住宅賃金急騰、借入金利上昇によるヨーロッパの深刻な生活費危機と社会的不安",
+        "米国の民主党候補者がトランプ大統領の関税政策に対する反発を掲げる一方で、党内での通商政策をめぐる亀裂が顕在化"
       ],
       "subjects": [
         [
-          "2026-10-21",
-          "Europe’s conservatives have 2 new targets in their campaign to",
-          "data/pdfs/20261021_0415_Europe’s_conservatives_have_2_new_targets_in_their.pdf"
-        ],
-        [
-          "2026-10-21",
-          "Maybe it’s personal: Europeans worry Trump just likes Putin more",
-          "data/pdfs/20261021_0638_Maybe_it’s_personal__Europeans_worry_Trump_just_li.pdf"
-        ],
-        [
-          "2026-10-21",
-          "Europe passes the Ukraine hat",
-          "data/pdfs/20261021_1346_Europe_passes_the_Ukraine_hat.pdf"
-        ],
-        [
-          "2026-10-21",
-          "Ryanair backs ETS extension to all flights to and from the EU",
-          "data/pdfs/20261021_1404_Ryanair_backs_ETS_extension_to_all_flights_to_and_.pdf"
-        ],
-        [
-          "2026-10-21",
-          "EU to press Canada and UK for more Ukraine funding",
-          "data/pdfs/20261021_1637_EU_to_press_Canada_and_UK_for_more_Ukraine_funding.pdf"
-        ],
-        [
-          "2026-10-21",
-          "Europe’s conservatives have 2 new targets in their campaign to",
-          "data/pdfs/20261021_1736_Europe’s_conservatives_have_2_new_targets_in_their.pdf"
-        ],
-        [
-          "2026-10-21",
-          "Burnham needs public consent for his EU reset, says Brexit",
-          "data/pdfs/20261021_1906_Burnham_needs_public_consent_for_his_EU_reset,_say.pdf"
-        ],
-        [
-          "2026-10-21",
-          "Socialists push for EU law on deepfakes",
-          "data/pdfs/20261021_2106_Socialists_push_for_EU_law_on_deepfakes.pdf"
-        ],
-        [
           "2026-10-22",
+          "Pick Sweden over British fighter jet offer, urge German defense",
+          "data/pdfs/20261022_2106_Pick_Sweden_over_British_fighter_jet_offer,_urge_G.pdf"
+        ],
+        [
+          "2026-10-23",
           "Pro Daily Headlines",
-          "data/pdfs/20261022_0031_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20261023_0031_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-10-22",
-          "Talking to Putin: Europe seeks a negotiator-in-chief for Ukraine",
-          "data/pdfs/20261022_1632_Talking_to_Putin__Europe_seeks_a_negotiator-in-chi.pdf"
+          "2026-10-23",
+          "Trucker blockades in southern Italy ramp up pressure on Meloni",
+          "data/pdfs/20261023_0152_Trucker_blockades_in_southern_Italy_ramp_up_pressu.pdf"
         ],
         [
-          "2026-10-22",
-          "Far-right Italian general hunts the manosphere vote",
-          "data/pdfs/20261022_1737_Far-right_Italian_general_hunts_the_manosphere_vot.pdf"
+          "2026-10-23",
+          "A dangerous winter of discontent is coming for Europe",
+          "data/pdfs/20261023_0228_A_dangerous_winter_of_discontent_is_coming_for_Eur.pdf"
         ],
         [
-          "2026-10-22",
-          "Trump-sanctioned ICC wins EU Parliament’s human rights prize",
-          "data/pdfs/20261022_1834_Trump-sanctioned_ICC_wins_EU_Parliament’s_human_ri.pdf"
+          "2026-10-23",
+          "The Democrats’ looming trade battle",
+          "data/pdfs/20261023_0815_The_Democrats’_looming_trade_battle.pdf"
         ],
         [
-          "2026-10-22",
-          "French budget bill sets aside €2.3M for Macron’s future offices",
-          "data/pdfs/20261022_1927_French_budget_bill_sets_aside_€2.3M_for_Macron’s_f.pdf"
+          "2026-10-23",
+          "Brussels goes to Budapest",
+          "data/pdfs/20261023_1335_Brussels_goes_to_Budapest.pdf"
         ],
         [
-          "2026-10-22",
-          "EU Parliament reaches deal on competitiveness fund",
-          "data/pdfs/20261022_1953_EU_Parliament_reaches_deal_on_competitiveness_fund.pdf"
+          "2026-10-23",
+          "Aviation, maritime transport take center stage in ETS talks",
+          "data/pdfs/20261023_1402_Aviation,_maritime_transport_take_center_stage_in_.pdf"
+        ],
+        [
+          "2026-10-23",
+          "Europe’s satellite merger tests push for space independence",
+          "data/pdfs/20261023_1535_Europe’s_satellite_merger_tests_push_for_space_ind.pdf"
+        ],
+        [
+          "2026-10-23",
+          "Germany leads push against EU’s ‘associate membership’ label for",
+          "data/pdfs/20261023_2000_Germany_leads_push_against_EU’s_‘associate_members.pdf"
+        ],
+        [
+          "2026-10-23",
+          "Why the EU avoids tackling Big Soccer",
+          "data/pdfs/20261023_2106_Why_the_EU_avoids_tackling_Big_Soccer.pdf"
+        ],
+        [
+          "2026-10-23",
+          "Serbia’s protesting students mount serious challenge to Vučić’s",
+          "data/pdfs/20261023_2209_Serbia’s_protesting_students_mount_serious_challen.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261021_0415_Europe’s_conservatives_have_2_new_targets_in_their.pdf",
-        "data/pdfs/20261021_0638_Maybe_it’s_personal__Europeans_worry_Trump_just_li.pdf",
-        "data/pdfs/20261021_1346_Europe_passes_the_Ukraine_hat.pdf",
-        "data/pdfs/20261021_1404_Ryanair_backs_ETS_extension_to_all_flights_to_and_.pdf",
-        "data/pdfs/20261021_1637_EU_to_press_Canada_and_UK_for_more_Ukraine_funding.pdf",
-        "data/pdfs/20261021_1736_Europe’s_conservatives_have_2_new_targets_in_their.pdf",
-        "data/pdfs/20261021_1906_Burnham_needs_public_consent_for_his_EU_reset,_say.pdf",
-        "data/pdfs/20261021_2106_Socialists_push_for_EU_law_on_deepfakes.pdf",
-        "data/pdfs/20261022_0031_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20261022_1632_Talking_to_Putin__Europe_seeks_a_negotiator-in-chi.pdf",
-        "data/pdfs/20261022_1737_Far-right_Italian_general_hunts_the_manosphere_vot.pdf",
-        "data/pdfs/20261022_1834_Trump-sanctioned_ICC_wins_EU_Parliament’s_human_ri.pdf",
-        "data/pdfs/20261022_1927_French_budget_bill_sets_aside_€2.3M_for_Macron’s_f.pdf",
-        "data/pdfs/20261022_1953_EU_Parliament_reaches_deal_on_competitiveness_fund.pdf"
-      ]
-    },
-    {
-      "sender": "ジェトロ",
-      "short": "ジェトロ",
-      "color": "GRN",
-      "count": 2,
-      "bullets": [
-        "10月14日からジェトロウェブサイトへの不正アクセスが発生し、743件の個人情報漏洩を確認",
-        "10月17日より安全性確保のためウェブサイトを一時停止し、10月20日から一部機能制限での暫定再開",
-        "メンバーズ専用ページ、マイページ、記事データベースなど一部コンテンツは引き続き利用制限中",
-        "ウェブサイト復旧に伴い、地域・分析レポートなど3種類のメールマガジン配信を順次再開",
-        "ビジネス短信に不具合があったため改めて配信を実施"
-      ],
-      "subjects": [
-        [
-          "2026-10-21",
-          "ジェトロ・メンバーズ ニュース第477号（当機構ウェブサイトへの不正",
-          "data/pdfs/20261021_1202_ジェトロ・メンバーズ_ニュース第477号（当機構ウェブサイトへの不正アクセスと暫定再開について）.pdf"
-        ],
-        [
-          "2026-10-22",
-          "ジェトロ地域・分析レポートの新着のご案内（2026年10月22日号）",
-          "data/pdfs/20261022_1423_ジェトロ地域・分析レポートの新着のご案内（2026年10月22日号）.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261021_1202_ジェトロ・メンバーズ_ニュース第477号（当機構ウェブサイトへの不正アクセスと暫定再開について）.pdf",
-        "data/pdfs/20261022_1423_ジェトロ地域・分析レポートの新着のご案内（2026年10月22日号）.pdf"
-      ]
-    },
-    {
-      "sender": "ビジネス短信",
-      "short": "ビジネス短",
-      "color": "PRP",
-      "count": 3,
-      "bullets": [
-        "ジェトロのウェブサイトへの不正アクセスによる個人情報漏えい事案が発生し、安全性確保のため一時閉鎖後、10月20日より暫定的に運営を再開",
-        "ビジネス短信メルマガの配信再開に伴い、初回配信時のリンク不備が判明し、正しいURLに修正して再送信",
-        "アジア地域では中国がAI関連技術を輸出制限対象に追加、韓国の半導体輸出が前年同期比約3倍に増加するなど産業動向に変化",
-        "ビジネス短信メルマガの配信日を当面の間、翌営業日に変更"
-      ],
-      "subjects": [
-        [
-          "2026-10-21",
-          "「ジェトロ・ビジネス短信」2026/10/21",
-          "data/pdfs/20261021_2036_「ジェトロ・ビジネス短信」2026_10_21.pdf"
-        ],
-        [
-          "2026-10-22",
-          "【再送】「ジェトロ・ビジネス短信」2026/10/21",
-          "data/pdfs/20261022_1140_【再送】「ジェトロ・ビジネス短信」2026_10_21.pdf"
-        ],
-        [
-          "2026-10-22",
-          "「ジェトロ・ビジネス短信」2026/10/22",
-          "data/pdfs/20261022_1808_「ジェトロ・ビジネス短信」2026_10_22.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261021_2036_「ジェトロ・ビジネス短信」2026_10_21.pdf",
-        "data/pdfs/20261022_1140_【再送】「ジェトロ・ビジネス短信」2026_10_21.pdf",
-        "data/pdfs/20261022_1808_「ジェトロ・ビジネス短信」2026_10_22.pdf"
+        "data/pdfs/20261022_2106_Pick_Sweden_over_British_fighter_jet_offer,_urge_G.pdf",
+        "data/pdfs/20261023_0031_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20261023_0152_Trucker_blockades_in_southern_Italy_ramp_up_pressu.pdf",
+        "data/pdfs/20261023_0228_A_dangerous_winter_of_discontent_is_coming_for_Eur.pdf",
+        "data/pdfs/20261023_0815_The_Democrats’_looming_trade_battle.pdf",
+        "data/pdfs/20261023_1335_Brussels_goes_to_Budapest.pdf",
+        "data/pdfs/20261023_1402_Aviation,_maritime_transport_take_center_stage_in_.pdf",
+        "data/pdfs/20261023_1535_Europe’s_satellite_merger_tests_push_for_space_ind.pdf",
+        "data/pdfs/20261023_2000_Germany_leads_push_against_EU’s_‘associate_members.pdf",
+        "data/pdfs/20261023_2106_Why_the_EU_avoids_tackling_Big_Soccer.pdf",
+        "data/pdfs/20261023_2209_Serbia’s_protesting_students_mount_serious_challen.pdf"
       ]
     }
   ]
