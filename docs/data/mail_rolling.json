@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-10-26 09:33 JST",
+  "updated_at": "2026-10-26 09:34 JST",
   "total": 50,
   "toyota_summary": "",
   "emails": [
+    {
+      "ts": "20261026_0634",
+      "sender_norm": "POLITICO",
+      "subject": "Serbia’s Vučić concedes defeat after tense parliamentary elections",
+      "subject_en": "Serbia’s Vučić concedes defeat after tense parliamentary elections",
+      "html": "data/pdfs/20261026_0634_Serbia’s_Vučić_concedes_defeat_after_tense_parliam.html",
+      "pdf": "data/pdfs/20261026_0634_Serbia’s_Vučić_concedes_defeat_after_tense_parliam.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 26  06:34",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261026_0201",
+      "sender_norm": "POLITICO",
+      "subject": "Canada and Europe want to reshape the global order. But whose vision will prevail?",
+      "subject_en": "Canada and Europe want to reshape the global order. But whose vision will prevail?",
+      "html": "data/pdfs/20261026_0201_Canada_and_Europe_want_to_reshape_the_global_order.html",
+      "pdf": "data/pdfs/20261026_0201_Canada_and_Europe_want_to_reshape_the_global_order.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 26  02:01",
+      "read_min": 8,
+      "toyota": false,
+      "excerpt": ""
+    },
     {
       "ts": "20261024_0649",
       "sender_norm": "Eurasia Group",
@@ -10,8 +40,13 @@
       "pdf": "data/pdfs/20261024_0649_Energy_and_Environment_Outlook.pdf",
       "date_label": "OCT 24  06:49",
       "read_min": 14,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Energy and Environment Outlook",
+      "html": "data/pdfs/20261024_0649_Energy_and_Environment_Outlook.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261024_0619",
@@ -20,6 +55,41 @@
       "pdf": "data/pdfs/20261024_0619_Israel__Opposition_has_more_government_formation_o.pdf",
       "date_label": "OCT 24  06:19",
       "read_min": 6,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Israel: Opposition has more government formation options",
+      "html": "data/pdfs/20261024_0619_Israel__Opposition_has_more_government_formation_o.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261024_0442",
+      "sender_norm": "POLITICO",
+      "subject": "EU and China weigh next sectors for trade curbs ",
+      "subject_en": "EU and China weigh next sectors for trade curbs ",
+      "html": "data/pdfs/20261024_0442_EU_and_China_weigh_next_sectors_for_trade_curbs.html",
+      "pdf": "data/pdfs/20261024_0442_EU_and_China_weigh_next_sectors_for_trade_curbs.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 24  04:42",
+      "read_min": 4,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261024_0211",
+      "sender_norm": "POLITICO",
+      "subject": "Ireland to invite Trump’s trade chief to Brussels for November talks",
+      "subject_en": "Ireland to invite Trump’s trade chief to Brussels for November talks",
+      "html": "data/pdfs/20261024_0211_Ireland_to_invite_Trump’s_trade_chief_to_Brussels_.html",
+      "pdf": "data/pdfs/20261024_0211_Ireland_to_invite_Trump’s_trade_chief_to_Brussels_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 24  02:11",
+      "read_min": 3,
       "toyota": false,
       "excerpt": ""
     },
@@ -31,7 +101,12 @@
       "date_label": "OCT 24  01:11",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Senate race still too close for comfort for Democrats",
+      "html": "data/pdfs/20261024_0111_Senate_race_still_too_close_for_comfort_for_Democr.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261024_0024",
@@ -41,6 +116,26 @@
       "date_label": "OCT 24  00:24",
       "read_min": 5,
       "toyota": false,
+      "excerpt": "",
+      "subject_en": "US-Ukraine rift will outlast resumed intel-sharing",
+      "html": "data/pdfs/20261024_0024_US-Ukraine_rift_will_outlast_resumed_intel-sharing.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261023_2351",
+      "sender_norm": "POLITICO",
+      "subject": "Franco-German deal won’t rescue Europe’s auto industry",
+      "subject_en": "Franco-German deal won’t rescue Europe’s auto industry",
+      "html": "data/pdfs/20261023_2351_Franco-German_deal_won’t_rescue_Europe’s_auto_indu.html",
+      "pdf": "data/pdfs/20261023_2351_Franco-German_deal_won’t_rescue_Europe’s_auto_indu.html",
+      "summary_en": "France and Germany struck a deal easing EU emissions targets for automakers while tightening 'Made in Europe' content rules, helping unblock two stalled industry bills in Brussels. Critics argue the softened 2035 target—now 90% emissions cuts instead of full elimination—gives European carmakers less incentive to invest in EV technology just as Chinese rivals like Leapmotor surge ahead. Meanwhile, German automakers continue cutting jobs and closing plants, raising fears the compromise favors political expediency over competitiveness.",
+      "summary_ja": "フランスとドイツは、EUの自動車排出目標を緩和する一方で「欧州製」部品比率の規制を強化する合意に達し、ブリュッセルで停滞していた2つの産業政策法案の打開につながった。批評家は、2035年目標が完全排出ゼロから90%削減へと緩和されたことで、欧州メーカーのEV技術投資への意欲が弱まり、急成長する中国メーカー(Leapmotorなど)にさらに後れを取る恐れがあると指摘する。その間にもドイツの自動車メーカーは人員削減や工場閉鎖を続けており、今回の妥協が産業競争力よりも政治的便宜を優先したとの懸念が広がっている。",
+      "summary_pdf": "",
+      "date_label": "OCT 23  23:51",
+      "read_min": 6,
+      "toyota": true,
       "excerpt": ""
     },
     {
@@ -51,7 +146,12 @@
       "date_label": "OCT 23  23:01",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Midterm update with Kyle Kondik",
+      "html": "data/pdfs/20261023_2301_Midterm_update_with_Kyle_Kondik.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261023_2209",
@@ -61,7 +161,12 @@
       "date_label": "OCT 23  22:09",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Serbia’s protesting students mount serious challenge to Vučić’s power",
+      "html": "data/pdfs/20261023_2209_Serbia’s_protesting_students_mount_serious_challen.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261023_2202",
@@ -71,7 +176,12 @@
       "date_label": "OCT 23  22:02",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "India update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261023_2202_India_update_-_EG_Conference_Call,_REMINDER.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261023_2122",
@@ -81,7 +191,12 @@
       "date_label": "OCT 23  21:22",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Le Pen now presidential favorite",
+      "html": "data/pdfs/20261023_2122_Le_Pen_now_presidential_favorite.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261023_2106",
@@ -91,7 +206,12 @@
       "date_label": "OCT 23  21:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Why the EU avoids tackling Big Soccer",
+      "html": "data/pdfs/20261023_2106_Why_the_EU_avoids_tackling_Big_Soccer.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261023_2000",
@@ -101,7 +221,12 @@
       "date_label": "OCT 23  20:00",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Germany leads push against EU’s ‘associate membership’ label for Canada",
+      "html": "data/pdfs/20261023_2000_Germany_leads_push_against_EU’s_‘associate_members.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261023_1535",
@@ -111,7 +236,12 @@
       "date_label": "OCT 23  15:35",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe’s satellite merger tests push for space independence",
+      "html": "data/pdfs/20261023_1535_Europe’s_satellite_merger_tests_push_for_space_ind.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261023_1402",
@@ -120,8 +250,13 @@
       "pdf": "data/pdfs/20261023_1402_Aviation,_maritime_transport_take_center_stage_in_.pdf",
       "date_label": "OCT 23  14:02",
       "read_min": 10,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Aviation, maritime transport take center stage in ETS talks ",
+      "html": "data/pdfs/20261023_1402_Aviation,_maritime_transport_take_center_stage_in_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261023_1335",
@@ -131,7 +266,12 @@
       "date_label": "OCT 23  13:35",
       "read_min": 14,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Brussels goes to Budapest",
+      "html": "data/pdfs/20261023_1335_Brussels_goes_to_Budapest.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261023_1210",
@@ -141,6 +281,26 @@
       "date_label": "OCT 23  12:10",
       "read_min": 1,
       "toyota": false,
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261023_1210_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261023_1037",
+      "sender_norm": "Jetro",
+      "subject": "「ジェトロ・ビジネス短信」2026/10/22付",
+      "subject_en": "\"JETRO Business Brief\" 2026/10/22",
+      "html": "data/pdfs/20261023_1037_「ジェトロ・ビジネス短信」2026_10_22付.html",
+      "pdf": "data/pdfs/20261023_1037_「ジェトロ・ビジネス短信」2026_10_22付.html",
+      "summary_en": "Chinese automakers voiced support for the outcome of EU-China trade talks on autos and signaled plans to deepen their European operations, even as broader US-China trade friction persists. The move underscores Chinese manufacturers' strategy to secure market access in Europe through negotiation rather than confrontation, following earlier EU tariff disputes over Chinese EV exports. The development highlights continued efforts by Chinese automakers to balance geopolitical tensions with expansion ambitions in the European market.",
+      "summary_ja": "中国の自動車各社は、EUと中国間の自動車貿易協議の成果を支持する姿勢を示し、欧州事業の強化を進める方針を明らかにした。これは、EUによる中国製EVへの関税措置などを巡る摩擦が続く中、対話を通じて欧州市場での地位を確保しようとする動きとみられる。中国メーカーは地政学的な緊張とのバランスを取りながら、欧州展開を加速させる構えだ。",
+      "summary_pdf": "data/pdfs/20261023_1037_「ジェトロ・ビジネス短信」2026_10_22付_en.pdf",
+      "date_label": "OCT 23  10:37",
+      "read_min": 1,
+      "toyota": true,
       "excerpt": ""
     },
     {
@@ -462,7 +622,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "Notice of New JETRO Regional and Analysis Reports (October 22, 2026 Issue)",
+      "subject_en": "JETRO Regional and Analysis Report New Arrival Notice (October 22, 2026 Issue)",
       "html": "data/pdfs/20261022_1423_ジェトロ地域・分析レポートの新着のご案内（2026年10月22日号）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -587,91 +747,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20261022_0511",
-      "sender_norm": "Eurasia Group",
-      "subject": "Pragmatism displaces ambition at the COPs",
-      "pdf": "data/pdfs/20261022_0511_Pragmatism_displaces_ambition_at_the_COPs.pdf",
-      "date_label": "OCT 22  05:11",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Pragmatism displaces ambition at the COPs",
-      "html": "data/pdfs/20261022_0511_Pragmatism_displaces_ambition_at_the_COPs.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261022_0322",
-      "sender_norm": "Cliff Kupchan",
-      "subject": "Practice Letter: Dispatch from India",
-      "pdf": "data/pdfs/20261022_0322_Practice_Letter__Dispatch_from_India.pdf",
-      "date_label": "OCT 22  03:22",
-      "read_min": 5,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Practice Letter: Dispatch from India",
-      "html": "data/pdfs/20261022_0322_Practice_Letter__Dispatch_from_India.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261022_0049",
-      "sender_norm": "Eurasia Group",
-      "subject": "Trump's farmer bailouts are a day late, a dollar short",
-      "pdf": "data/pdfs/20261022_0049_Trump's_farmer_bailouts_are_a_day_late,_a_dollar_s.pdf",
-      "date_label": "OCT 22  00:49",
-      "read_min": 5,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Trump's farmer bailouts are a day late, a dollar short",
-      "html": "data/pdfs/20261022_0049_Trump's_farmer_bailouts_are_a_day_late,_a_dollar_s.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261022_0031",
-      "sender_norm": "POLITICO",
-      "subject": "Pro Daily Headlines",
-      "pdf": "data/pdfs/20261022_0031_Pro_Daily_Headlines.pdf",
-      "date_label": "OCT 22  00:31",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": ""
-    },
-    {
-      "ts": "20261021_2131",
-      "sender_norm": "Eurasia Group",
-      "subject": "Democratic midterm sweep would bring limited policy changes",
-      "pdf": "data/pdfs/20261021_2131_Democratic_midterm_sweep_would_bring_limited_polic.pdf",
-      "date_label": "OCT 21  21:31",
-      "read_min": 9,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Democratic midterm sweep would bring limited policy changes",
-      "html": "data/pdfs/20261021_2131_Democratic_midterm_sweep_would_bring_limited_polic.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261021_2106",
-      "sender_norm": "POLITICO",
-      "subject": "Socialists push for EU law on deepfakes",
-      "pdf": "data/pdfs/20261021_2106_Socialists_push_for_EU_law_on_deepfakes.pdf",
-      "date_label": "OCT 21  21:06",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Socialists push for EU law on deepfakes",
-      "html": "data/pdfs/20261021_2106_Socialists_push_for_EU_law_on_deepfakes.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
