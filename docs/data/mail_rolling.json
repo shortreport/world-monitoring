@@ -1,17 +1,22 @@
 {
-  "updated_at": "2026-10-27 10:38 JST",
+  "updated_at": "2026-10-27 13:59 JST",
   "total": 50,
-  "toyota_summary": "China's largest battery maker CATL is accelerating production capacity in partnership with a local producer, signaling confidence that Chinese EV makers will capture more of the global market even as Western automakers struggle with profitability in that region. The expansion comes as China doubles down on battery technology as a strategic priority, embedding supply chain control into its industrial policy.\n\nThis matters because battery costs determine EV margins everywhere. If CATL expands faster than Western competitors can match, Chinese automakers gain a structural cost advantage that compounds over time. European and American manufacturers already face tighter emissions rules and slower EV adoption at home—losing the battery cost race would squeeze them from both ends.\n\nWatch whether European automakers use this week's earnings calls to signal price cuts or production cuts in response to Chinese competition.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20261027_1013",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/10/26付",
       "pdf": "data/pdfs/20261027_1013_「ジェトロ・ビジネス短信」2026_10_26付.pdf",
       "date_label": "OCT 27  10:13",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中国のCATLがセレスと協力し、バッテリー生産ラインの建設を加速している。また、中国は新質"
+      "excerpt": "中国のCATLがセレスと協力し、バッテリー生産ラインの建設を加速している。また、中国は新質",
+      "subject_en": "\"JETRO Business Brief\" dated 2026/10/26",
+      "html": "data/pdfs/20261027_1013_「ジェトロ・ビジネス短信」2026_10_26付.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261027_1013_「ジェトロ・ビジネス短信」2026_10_26付_en.pdf"
     },
     {
       "ts": "20261027_1002",
@@ -21,7 +26,12 @@
       "date_label": "OCT 27  10:02",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: MENA Crisis Update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261027_1002_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_-.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_1001",
@@ -31,7 +41,12 @@
       "date_label": "OCT 27  10:01",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: Southeast Asia update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261027_1001_APAC_&_Japan_Conference_Call__Southeast_Asia_updat.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_0901",
@@ -41,7 +56,12 @@
       "date_label": "OCT 27  09:01",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: Southeast Asia update「東南アジア最新アップデート」（同時通訳なし） - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261027_0901_APAC_&_Japan_Conference_Call__Southeast_Asia_updat.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_0835",
@@ -51,7 +71,12 @@
       "date_label": "OCT 27  08:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Oct 26th, 2026",
+      "html": "data/pdfs/20261027_0835_Daily_Research_Summary_-_Oct_26th,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_0525",
@@ -61,7 +86,12 @@
       "date_label": "OCT 27  05:25",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Conference Call Notes: US midterms update with Kyle Kondik",
+      "html": "data/pdfs/20261027_0525_Conference_Call_Notes__US_midterms_update_with_Kyl.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_0517",
@@ -71,7 +101,12 @@
       "date_label": "OCT 27  05:17",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Israeli post-election update with Ambassador Daniel Shapiro",
+      "html": "data/pdfs/20261027_0517_Israeli_post-election_update_with_Ambassador_Danie.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_0255",
@@ -81,7 +116,12 @@
       "date_label": "OCT 27  02:55",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Quebec’s new separatist government wants a bigger role in EU ties",
+      "html": "data/pdfs/20261027_0255_Quebec’s_new_separatist_government_wants_a_bigger_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_0137",
@@ -91,7 +131,12 @@
       "date_label": "OCT 27  01:37",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Beijing tightens grip on AI exports without closing the diffusion door",
+      "html": "data/pdfs/20261027_0137_Beijing_tightens_grip_on_AI_exports_without_closin.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_0131",
@@ -111,7 +156,12 @@
       "date_label": "OCT 27  01:02",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Escalation risk will keep prices elevated",
+      "html": "data/pdfs/20261027_0102_Escalation_risk_will_keep_prices_elevated.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_0050",
@@ -121,7 +171,12 @@
       "date_label": "OCT 27  00:50",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "DOJ election suits aim to create illegitimacy narrative",
+      "html": "data/pdfs/20261027_0050_DOJ_election_suits_aim_to_create_illegitimacy_narr.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261026_2345",
@@ -130,8 +185,13 @@
       "pdf": "data/pdfs/20261026_2345_Conference_Call_Notes__India_Update.pdf",
       "date_label": "OCT 26  23:45",
       "read_min": 7,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Conference Call Notes: India Update",
+      "html": "data/pdfs/20261026_2345_Conference_Call_Notes__India_Update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261026_2247",
@@ -141,7 +201,12 @@
       "date_label": "OCT 26  22:47",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Political Risk Monitor - October 2026",
+      "html": "data/pdfs/20261026_2247_Political_Risk_Monitor_-_October_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261026_2205",
@@ -151,7 +216,12 @@
       "date_label": "OCT 26  22:05",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "CORRECTION: Lula's surprise win set to trigger substantial market reaction",
+      "html": "data/pdfs/20261026_2205_CORRECTION__Lula's_surprise_win_set_to_trigger_sub.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261026_2202",
@@ -161,7 +231,12 @@
       "date_label": "OCT 26  22:02",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Midterm update with Kyle Kondik - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261026_2202_Midterm_update_with_Kyle_Kondik_-_EG_Conference_Ca.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261026_2137",
@@ -171,7 +246,12 @@
       "date_label": "OCT 26  21:37",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Lula's surprise win set to trigger substantial market reaction",
+      "html": "data/pdfs/20261026_2137_Lula's_surprise_win_set_to_trigger_substantial_mar.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261026_2103",
@@ -181,17 +261,27 @@
       "date_label": "OCT 26  21:03",
       "read_min": 3,
       "toyota": true,
-      "excerpt": "アウディのゲルノット・デルナー最高経営責任者がトランプ米大統領のキャンペーン集会に登場し"
+      "excerpt": "アウディのゲルノット・デルナー最高経営責任者がトランプ米大統領のキャンペーン集会に登場し",
+      "subject_en": "‘Disturbing and pathetic’: German politicians slam Audi CEO’s appearance at Trump rally",
+      "html": "data/pdfs/20261026_2103_‘Disturbing_and_pathetic’__German_politicians_slam.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261026_2052",
-      "sender_norm": "Ian",
+      "sender_norm": "Ian Bremmer",
       "subject": "eg update",
       "pdf": "data/pdfs/20261026_2052_eg_update.pdf",
       "date_label": "OCT 26  20:52",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update",
+      "html": "data/pdfs/20261026_2052_eg_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261026_1912",
@@ -201,7 +291,12 @@
       "date_label": "OCT 26  19:12",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Japan Conference Call: AI・サイバーパワー・競争・グローバルリスク最新動向",
+      "html": "data/pdfs/20261026_1912_Japan_Conference_Call__AI・サイバーパワー・競争・グローバルリスク最新動向.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261026_1838",
@@ -211,7 +306,12 @@
       "date_label": "OCT 26  18:38",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "French presidential hopeful Philippe slips in new poll",
+      "html": "data/pdfs/20261026_1838_French_presidential_hopeful_Philippe_slips_in_new_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261026_1736",
@@ -221,7 +321,12 @@
       "date_label": "OCT 26  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "France: The sickest man of Europe",
+      "html": "data/pdfs/20261026_1736_France__The_sickest_man_of_Europe.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261026_1734",
@@ -231,7 +336,12 @@
       "date_label": "OCT 26  17:34",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe vs. Elon: 5 ways the EU is trying to squeeze out Musk’s Starlink",
+      "html": "data/pdfs/20261026_1734_Europe_vs._Elon__5_ways_the_EU_is_trying_to_squeez.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261026_1610",
@@ -241,7 +351,12 @@
       "date_label": "OCT 26  16:10",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Notice of Special Issue [Japan-Vietnam Economic, Science and Technology Public-Private Partnership Forum - Building Future Value Chains through Technology Co-creation -]",
+      "html": "data/pdfs/20261026_1610_臨時号【日本・ベトナム_経済・科学技術_官民連携フォーラム_ー技術共創による未来価値連鎖の構築ー】の.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261026_1610_臨時号【日本・ベトナム_経済・科学技術_官民連携フォーラム_ー技術共創による未来価値連鎖の構築ー】の_en.pdf"
     },
     {
       "ts": "20261026_1503",
@@ -251,7 +366,12 @@
       "date_label": "OCT 26  15:03",
       "read_min": 9,
       "toyota": true,
-      "excerpt": "欧州の自動車メーカーが今週決算説明会を開催し、排出ガス基準の妥協案やEU政策の影響につい"
+      "excerpt": "欧州の自動車メーカーが今週決算説明会を開催し、排出ガス基準の妥協案やEU政策の影響につい",
+      "subject_en": "Welcome to automakers’ earnings week",
+      "html": "data/pdfs/20261026_1503_Welcome_to_automakers’_earnings_week.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261026_1440",
@@ -302,7 +422,7 @@
       "ts": "20261026_1006",
       "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/10/23付",
-      "subject_en": "JETRO Business Brief October 23, 2026",
+      "subject_en": "JETRO Business Brief dated 2026/10/23",
       "html": "data/pdfs/20261026_1006_「ジェトロ・ビジネス短信」2026_10_23付.html",
       "pdf": "data/pdfs/20261026_1006_「ジェトロ・ビジネス短信」2026_10_23付.html",
       "summary_en": "Toyota announced plans to invest in Thailand to produce a fuel-cell electric pickup truck, with operations slated to begin in December 2027. The move underscores automakers' continued bets on hydrogen-based powertrains for commercial vehicles even as battery EVs dominate near-term adoption. Thailand's growing role as a regional hub for next-generation vehicle manufacturing is reinforced by the investment.",
@@ -623,5 +743,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
