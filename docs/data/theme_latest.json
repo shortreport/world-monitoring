@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27 04:48:00",
+  "generated_at": "2026-10-27 10:43:28",
   "themes": [
     {
       "id": "iaa",
@@ -8,37 +8,47 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-27 04:47:19",
+      "last_checked": "2026-10-27 10:37:47",
       "items": [
         {
           "uid": "43e986860d5e",
           "date": "2026-10-26",
           "title": "UK Urged to Reset EU Ties to Protect Auto Supply Chains - ETMM",
-          "summary": "英国は自動車サプライチェーンを保護するためにEU関係をリセットするよう促されており、これは欧州産業加速法案（IAA）による競争力強化の動きに対抗する必要があるためである。英国がEUとの協力関係を強化しなければ、IAAによるグリーン産業への投資と規制の統一化によって、EU域外の英国企業が競争上の不利に置かれるリスクがある。",
+          "summary": "英国は欧州産業加速法案（IAA）に対応するため、EU との関係をリセットして自動車サプライチェーンを保護する必要があると求められており、これは英国の自動車産業が EU の規制・政策変化の影響を受けやすい状況を反映しています。",
           "source": "Google News",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzVzSjFOMmRqcVhwYnRnd24yZjJCQlhfU3J6MVJXa3p5ZnFRSi1jNFdvR0dBdnRCUHFJcUZ2NGFTZUlYWlhRMl92RFYwYWxiZVJEcFk0bFNSVFFuN0puWDlBdFlRako5SUd2MkxaZHBKWVhROUFKZmlwNmxkNmVzelZVQTBkQ3V0SzVibnFyOWVCQTJwdkN5QVIyRmQzeGxOcENuUlhjSUxlZHM3SEIw?oc=5",
-          "added_at": "2026-10-27 04:47:14"
-        },
-        {
-          "uid": "9deff45ee862",
-          "date": "2026-10-26",
-          "title": "The European Competitiveness Fund: a new logic for the EU budget? - Real Instituto Elcano",
-          "summary": "# 要約\n\n欧州産業加速法案は、EU予算の配分ロジックを従来の地域開発支援から産業競争力強化へシフトさせ、特定の戦略的産業セクターに集中投資する新しい予算編成アプローチを導入している。この変更は、米国やアジアとの競争激化に対応するため、欧州の産業基盤強化と技術革新への重点的な資金配分を実現させるものである。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHZwemt4ZzZRQWpITmVqcUhFRENJSTM2OWdPOF8ybXRCVnFUQkZWc01WMF9KUmVDNTA0NkNJbEs0QllYeTZUcUJ6Q29NUGRubHloMWFGZUo1YnBON0FYM0pFQVFyWHpXcTQ0aDBxclFLME81UjlubWhHRGttMzVSMDFTaWw4TlJkU2FMNlUwemZzbmdobVVTbnB6eTRyNXJKbmhPbE5lcU9nbVdkN0FtR1ZR?oc=5",
-          "added_at": "2026-10-27 04:47:14"
+          "added_at": "2026-10-27 10:37:37"
         },
         {
           "uid": "9680284400a5",
           "date": "2026-07-29",
           "title": "EU Inc.: A new harmonised corporate legal regime - European Commission",
-          "summary": "EU Inc.は、EU域内での企業設立・運営を簡素化するための統一的な企業法制度であり、欧州産業加速法案（IAA）の一環として、EU企業のグローバル競争力を強化し、規制負担を軽減することを目指しています。",
+          "summary": "EU委員会は企業法制を統一化する「EU Inc.」という新たな企業法体制を提案しており、これはEU域内での企業設立・運営の手続きを簡素化し、産業の競争力強化を目指す欧州産業加速法案（IAA）の重要な柱となっています。本施策により、企業のコンプライアンス負担を軽減し、スタートアップや成長企業がEU市場でより迅速に事業展開できる環境を整備することで、米国や中国に対するEUの産業競争力の向上に貢献するとされています。",
           "source": "欧州産業政策",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcDVpZ3RVRkd3YUN0MFZNclBZMjN6NXFtUXg0bzA3WjRicWdvNFlpZFJ2RU83WHdLN19JWVA0R1N6VkVJamlMS29WTUs4b3YxWC1KVXZVQk5UMmFXSmZGRWhkRG1nb2h2ZFJvZzlwTThCR01TYWV5bE51b2N6Tlgzd296Vm94RlBiT1ZoSTRBaktiZHQ2dlpWYkUwMXhWMzNyWGNqdjEzTTdmS0FhRDJ6d25WTmp3ZHlzODNnamU0NU9tQ1F2VzJacEdXUC04UGRCM1JIcVozb0NRUQ?oc=5",
-          "added_at": "2026-10-26 19:49:56"
+          "added_at": "2026-10-27 10:37:37"
+        },
+        {
+          "uid": "9deff45ee862",
+          "date": "2026-10-26",
+          "title": "The European Competitiveness Fund: a new logic for the EU budget? - Real Instituto Elcano",
+          "summary": "欧州産業加速法案（IAA）に関連して、欧州競争力基金は従来の共同予算配分ロジックを超え、戦略的産業への集中投資を通じてEUの競争力強化と産業主権確保を目指す新たなEU予算メカニズムを提示している。本基金は、グリーン技術・半導体・防衛産業など重要戦略分野における欧州統一の投資戦略により、米国や中国との競争に対抗する産業基盤の構築を実現しようとしている。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHZwemt4ZzZRQWpITmVqcUhFRENJSTM2OWdPOF8ybXRCVnFUQkZWc01WMF9KUmVDNTA0NkNJbEs0QllYeTZUcUJ6Q29NUGRubHloMWFGZUo1YnBON0FYM0pFQVFyWHpXcTQ0aDBxclFLME81UjlubWhHRGttMzVSMDFTaWw4TlJkU2FMNlUwemZzbmdobVVTbnB6eTRyNXJKbmhPbE5lcU9nbVdkN0FtR1ZR?oc=5",
+          "added_at": "2026-10-27 10:37:37"
+        },
+        {
+          "uid": "5d5fb4b0d52c",
+          "date": "2026-10-26",
+          "title": "Brussels Targets Electricity Network Charges as EU Seeks to Bring Down Energy Bills - EU Today",
+          "summary": "EU は電気ネットワーク料金を削減することで、企業のエネルギーコストを低下させ、産業競争力を強化する狙いで、欧州産業加速法案に基づくエネルギーコスト削減策を推進している。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2c0t6clBXRDBucHhENURaSTMzMDJMWkRrNUxsUGdVUG84bWd5S0FQb1g2Ny1tMnU3TUtHSzVDWFI3eTVFRXBXTUU1TlBaMmY0SmVyTEZwcFgxNGhKTGNOZTBOZFJRVjFvNDEtZXAxV1B3Z0J5MDJxNg?oc=5",
+          "added_at": "2026-10-27 10:37:37"
         },
         {
           "uid": "026a15adcadb",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLTdROU83WlJYaDZveTdzSW5kZFFpcHZTaEt3cTdjaUpWUG9sb2RkSHVDU293X094dXdOTXU5RnJBQTVhT1BDczVCT0lKcEhVSUJaLWh6ZE11dnVhX3NyYUdRUUFoblVsbVFhaGUwYVdBZ0UzdGNVNm9XYzlXdHFXTzBXbjBwaXlvMEpGWWxBQWdCbC1QbmItNTVxSDVibE5OVEpmYjNEVTJqd3NHcjU4UUJuczR1c3lfa19iUGhhRXRtUG94RXl3cDE1UFY?oc=5",
           "added_at": "2026-08-11 12:19:57"
-        },
-        {
-          "uid": "8a1051da7277",
-          "date": "2026-07-06",
-          "title": "The EU's proposed Industrial Accelerator Act (IAA): \"Made in EU\" requirements and new foreign investment restrictions - www.hlc.com",
-          "summary": "欧州産業加速法案（IAA）は、「EU製」要件を設定し、外国投資に対する新たな制限を導入することで、欧州の産業競争力強化を目指すものである。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR0MxMXhxMWkwemM1M04xTGxuRy1EeTJ0b2JtN1VaazZXUmIwaWpmOWRVZHgtajBRZjJMTTk3QmxidmJwVXNXejg3Mmd3MmpMMkVSR3ZtUHJHYXNSSEVpRlAwdG5uYlFpSEVBRDNXR1ZWLWx3ZWVOVlppZEdNU1U1S242UWx2c3gwNWF4eUQ2U2NEdXlFdXdqeGNzYWdydHc4YmNmSmlQT2p5OWZNUTN6Z1IzT3B0WHBUcWM5Z1Rjb0oxbkJGMWx2RTNvZUctR2s?oc=5",
-          "added_at": "2026-08-11 12:19:57"
         }
       ]
     },
@@ -2019,27 +2019,37 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-27 04:47:31",
+      "last_checked": "2026-10-27 10:38:09",
       "items": [
         {
           "uid": "3a2fa83c286f",
           "date": "2026-10-26",
           "title": "General Motors Lobbies Connected Vehicle Security Act - Legis1",
-          "summary": "General Motors（GM）は、接続車両のサイバーセキュリティ基準を規定する米国接続車両安全保障法（S.4429）のロビー活動を行っており、この法案が自動車業界のセキュリティ要件に与える影響について関心を示しています。GMはこの法案の具体的な規制内容や業界への適用方法について議会に働きかけていることが報告されています。",
+          "summary": "申し訳ございませんが、提供いただいた記事の内容が「General Motors Lobbies Connected Vehicle Security Act Legis1」というタイトルのみで、具体的な本文が記載されていないため、要約を作成することができません。記事の本文をご提供いただければ、S.4429に関連した日本語要約を作成させていただきます。",
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXWDVlNjVZVVFDNkFUNm9LQ3VWNG9xaWJieUlCbkxaeGY4cFE5aTNCV3ZzTlRYXzg2N3huOTJ4aDlqNXlrOWl5T0tHcDFFN3I3c1RTMTlna3VGeUVodS10Qmo0aE5nWTRuVHRiSkp6N3ZYRlBYT3J5anRR?oc=5",
-          "added_at": "2026-10-27 04:47:28"
+          "added_at": "2026-10-27 10:38:02"
         },
         {
           "uid": "3259b82fc3b1",
           "date": "2026-10-17",
           "title": "Don’t Weaken the China Auto Ban Legislation with Carveouts - Alliance for American Manufacturing",
-          "summary": "米国接続車両安全保障法（S.4429）に関して、米国製造業同盟は中国製自動車に対する禁止措置を弱体化させる例外規定（カーブアウト）の導入に反対し、同法の厳格な実施を求めています。",
+          "summary": "米国接続車両安全保障法（S.4429）について、米国製造業同盟は中国製自動車部品に対する禁止措置の例外規定（カーブアウト）設定に反対し、法制化の実効性を損なわないよう主張しています。",
           "source": "議員発言",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVi1JMUhQZ0hDeEcwVzczMHZ2Ty02Mkk4Umw2S3l0cWtvM3ZHblRhRXMyWUd0VUZVTHp2ZGpQbS1QTHVxOVcwbkVMTm9VcU5JM3JCcjlsM1FTTWVob1NxOTlLalpRUHFXaUVpWGlXTFotUDVYTmpocDVGbzh4OUNfT2lIN0x1WDNiajFiVURMNXFDeENRLWRWeDNYZUhyd3YwaGFj?oc=5",
-          "added_at": "2026-10-27 04:47:28"
+          "added_at": "2026-10-27 10:38:02"
+        },
+        {
+          "uid": "6adcae2f619e",
+          "date": "2026-09-15",
+          "title": "From admiration to anxiety: auto alliance urges US Congress to fast-track laws banning Chinese cars - AutoBuzz.my",
+          "summary": "米国の自動車業界団体が、中国製自動車の市場参入を規制するS.4429法案の迅速な成立をUS議会に促しており、中国の自動車技術進展に対する警戒感が高まっていることが示されています。",
+          "source": "自動車部品業界",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVTZ2UzBHMTRubGtzRU5TbkUtUzM1YU9vYUtMcEhta1pXMGRLeWVNLXY1VWktdXN1d0hTUFJoLXF4TGFyaWpQVnZ3a3lvY2toM2JMcjlXSWJ5S2pYSExaVjZIQlVDbUhVNnQzV185bklZOHByV1ktTHZGZ29DZWpvZl9iUjNJOGNMdk9kb2RZQ2d6ZEpuX0k1SXlzZVZaU0xEQ3BYNzF5OEdZMlV5bE5PNVNJeVp3bjZVZnFiLVVMLW5YWU1TTTMtNzBn?oc=5",
+          "added_at": "2026-10-27 10:38:02"
         },
         {
           "uid": "5359f507bb31",
@@ -4010,16 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWR5R3J0bFN4eFoxMzVrNGtiaXluM1FDUmU2aVFqd3MwQTRGTFJTQmJzZXBrOUhNWXh6VnRoU2VhNkVyb092Z0xxMEgzYTJBODBHRG9JNWFaalpyeFJQWllaeTkxUUJvOWVTcEJFMkx1Z0cwVnZuQVdyX2FmajVqSA?oc=5",
           "added_at": "2026-08-23 14:32:14"
-        },
-        {
-          "uid": "895f8cf1dc1c",
-          "date": "2026-07-23",
-          "title": "Slotkin bill banning Chinese autos moves out of U.S. Senate committee with bipartisan support - The Oakland Press",
-          "summary": "米国の上院委員会は、中国製自動車の市場参入を禁止するSlotkin議員の法案（S.4429）を超党派的支持で可決し、本会議での採決に向けて進めました。本法案は中国メーカーの米国内での自動車販売を制限し、米国の自動車産業と国家安全保障を保護することを目的としています。",
-          "source": "議員発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXYyQVAxMnZBbEt4UkR4YUNmaGxrYjlRb1FRX3pmcjNNZ1Rtd2VnaW5GT3BHYzBGUTVEd2pURThwZ1FxaFFHYXlXWEFDR2h6TFVoemFpekZLdmxURW9XSVJaMHZ3M2h0ZUVIbzFGMFlNaWJKV2paNERDY1NvNHpneS11TU5lMmhOUWdtQmtMeXlYbWx2QkJlZTF1YXpvOC1taTd5ZkdMY1dnbFgyblUwVWk1QVEzbXZWX2R6YjZSeFhFcVRSZF9VdUxEQlRBeUpGZXc?oc=5",
-          "added_at": "2026-08-21 14:35:12"
         }
       ]
     },
@@ -4030,27 +4030,27 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-27 04:47:50",
+      "last_checked": "2026-10-27 10:38:34",
       "items": [
+        {
+          "uid": "9265c5199c43",
+          "date": "2026-10-06",
+          "title": "Congress Moves to Break China Rare Earth Grip Before November Deadline - Tech Times",
+          "summary": "米国議会は11月の期限前に中国のレアアース独占状態を打破するための立法措置を進めており、これは米国のサプライチェーン強化とレアアース産業の国内育成を目指した動きである。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWDA3M0Q5R3ZkVEl3bl9iZlRlSGxjVDFQX05HWGpaWHVXUHJiM2xyY3llVjJjdHVLczYwaWZQdUJOaGxSUHQwVjNlY2RLcFlsV1EtdzFGV2YzeGRNNjBEWXNQSWJvb1hNN2NVTjJtRFJ6SXZPZ0E5c2g1cEVzQXRvUVdYNHZLMUNZVHFXczhqcDN5ekN6SG16Wk1XUjdaQW1wbHU3SXlZelNidm00VFUyMkFmNTZIbjJOS0Vpa1dwWQ?oc=5",
+          "added_at": "2026-10-27 10:38:30"
+        },
         {
           "uid": "5be51fe6ef76",
           "date": "2026-10-26",
           "title": "Unleash the Export-Import Bank to outcompete China",
-          "summary": "米国上院議員ケビン・クレイマーは、中国がグローバルエネルギー市場を支配することを防ぎ、米国の雇用を保護するため、議会に対して2023年12月31日までに輸出入銀行の再認可と現代化を求めている。",
+          "summary": "米国上院議員ケビン・クレイマー氏は、中国のグローバル・エネルギー市場支配を阻止し米国雇用を保護するため、輸出入銀行の再認可・現代化を12月31日までに実現するよう議会に要求している。この取り組みは、レアアース等を含む戦略的資源に関わる貿易競争で中国に対抗する米国の戦略の一部である。",
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/opinion/finance/6171472-exim-bank-expires-december/",
-          "added_at": "2026-10-27 04:47:49"
-        },
-        {
-          "uid": "1734d7dac700",
-          "date": "2026-08-07",
-          "title": "The Latest: GOP Sen. Cassidy Says He Supports Blanche, Likely Paving Way for AG Confirmation - U.S. News & World Report",
-          "summary": "この記事は中国レアアース輸出管理とは関連がないため、要約できません。記事の内容は米国の司法長官確認人事に関するものであり、中国レアアース輸出管理に関する具体的な情報を含んでいません。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ19FdWJBVXIyUjlxZ3ZXbHY1eVpudFZUZXg1eG56SlROZFE0UjBWZFZna0xhbFF0b2FsUmEwVzl5d0ZNQ1FwNW4tbEF0Q3dFOWN1UU41MkNEcXF0eEpWUjNXRmVhNzM2Yk1XZDhTcFQ4LXN2cXBSRFhXRHFLNHhNQ1d5ZS1mZnJHLXpiNmtDOElSZi1zWFFiajVneWs4b3pCLUpmbWdjb0NrTWFTTGRNSE5XTFBWUGlVZE1waVd3VQ?oc=5",
-          "added_at": "2026-10-26 19:50:19"
+          "added_at": "2026-10-27 10:38:30"
         },
         {
           "uid": "dafc260bcca3",
@@ -6041,47 +6041,57 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-27 04:48:00",
+      "last_checked": "2026-10-27 10:43:28",
       "items": [
+        {
+          "uid": "ad5e7e56279c",
+          "date": "2026-09-03",
+          "title": "Top Automakers Urge Congress to Permanently Ban Chinese Cars - Bloomberg.com",
+          "summary": "米国の自動車大手メーカーが議会に対し中国車の永久的な禁止を求めており、これは自動車業界における対中政策をめぐる政治的な緊張と、中国企業との提携に対する米国側の警戒感を反映している。米国自動車メーカーは、中国車の市場参入に対する規制強化によって、国内産業保護と対中戦略の優先度が高まっていることを示唆している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONXJmdzB4RV9HRTBxWEV2NUExaklZRGRpVzVxajVZZmpMUkdGYXBIeF9rZTNLSGttU0t1RWVfbGR6MEF2S05BSUtwdHdzbXZwM2JnaWRvX1V1Q0o1QWxKbzFQOElSbGhvMUl2NTFHTWdqSjg1bzh5VzFTYTZKM3Y4NGc4eWoyb0ROU29fVm5jUkoxTmw4ZlRJUWFHMG9QNHM1cDd1Sm15aFloSFkxdThiUV9MM1g?oc=5",
+          "added_at": "2026-10-27 10:38:43"
+        },
+        {
+          "uid": "168133fa5f04",
+          "date": "2026-10-26",
+          "title": "On borrowed time? Massie vows move to impeach Hegseth if not already out after midterms",
+          "summary": "この記事は自動車メーカーの対中提携への政治的批判とは関連がなく、むしろ米国防長官Pete Hegsethの弾劾に関する政治的な動向について述べています。そのため、指定された文脈での要約は不可能です。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/newsletters/defense-national-security/6173641-massie-vows-impeach-hegseth/",
+          "added_at": "2026-10-27 10:38:43"
+        },
         {
           "uid": "6f08dfef6cd7",
           "date": "2026-10-26",
           "title": "California has become unaffordable — but Congress can do something about it",
-          "summary": "カリフォルニア州の下院議員らが環境規制による消費者負担増加に反対する決議を提出した事例であり、環境・気候政策と経済的負担のバランスをめぐる政治的対立を示すものである。",
+          "summary": "カリフォルニア州の議員が州の大気資源委員会による環境規制は隠れた気候税であり消費者負担を増加させると批判しており、このような経済的負担を理由とした政治的反発は、対中提携を含む自動車・産業政策においても同様の保護主義的主張の根拠となる傾向を示している。",
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/opinion/congress-blog/6171529-vessel-at-berth-rule-cost-relief/",
-          "added_at": "2026-10-27 04:47:57"
+          "added_at": "2026-10-27 10:38:43"
         },
         {
           "uid": "5be51fe6ef76",
           "date": "2026-10-26",
           "title": "Unleash the Export-Import Bank to outcompete China",
-          "summary": "米国上院議員ケビン・クレーマーは、中国の世界的なエネルギー市場支配を防ぎ45,000人以上の米国雇用を守るため、議会に対して12月31日までに輸出入銀行の再認可と現代化を求めている。",
+          "summary": "米国の上院議員クレイマーは、中国が世界のエネルギー市場を支配するのを防ぎ、米国の雇用45,000人以上を守るため、Export-Import Bankを12月31日までに再認可・現代化するよう議会に呼びかけている。",
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/opinion/finance/6171472-exim-bank-expires-december/",
-          "added_at": "2026-10-27 04:47:57"
+          "added_at": "2026-10-27 10:38:43"
         },
         {
           "uid": "938da82613c3",
           "date": "2026-10-26",
           "title": "Anti-Zionism isn’t always antisemitism, but don’t ignore the red flags",
-          "summary": "この記事は、キャンパスの反シオニズム運動が反ユダヤ主義に転化する危険性について警告するもので、自動車メーカーの対中提携への政治的批判とは無関係です。",
+          "summary": "提供いただいた記事の内容は、自動車メーカーの対中提携への政治的批判とは無関係であり、反シオニズムと反ユダヤ主義に関する大学キャンパスの問題を扱っています。そのため、ご要望の文脈に沿った要約は作成できません。",
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/opinion/civil-rights/6169358-haverford-professor-antisemitism-arrest/",
-          "added_at": "2026-10-27 04:47:57"
-        },
-        {
-          "uid": "cd872b27f2c6",
-          "date": "2026-09-09",
-          "title": "Trump Administration Urges Ford to Immediately Cut China Ties - Yahoo Finance",
-          "summary": "トランプ政権がフォード・モーターに対し、中国との関係を即座に断つよう促している。この動きは、自動車メーカーの対中提携が国家安全保障上の懸念として政治的に批判されていることを示している。",
-          "source": "トランプ政権高官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbnJtNkJGN2Q1ZnVkc0pJUHNSeDBLNUlva2hiU0lVbHdzMmlPalF5MHZIZVZJZThzcDZlV0FxWjN2M0p6MEY0WnFoUkFEbEJkdHM3VXRHczhZakl1THFDUnpnc2U1U2xvcnpSOEc5TTBPcVEzdVltbTdqVW9pMW1aRGE3aXhOVC1oSHBjaHUtWkNlRDd0Q3N6dUxvOUQxVGZYWC1CaXlwZnpoLUZn?oc=5",
-          "added_at": "2026-10-26 19:50:26"
+          "added_at": "2026-10-27 10:38:43"
         },
         {
           "uid": "93ffad0bb073",
@@ -8031,16 +8041,6 @@
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObmdPR3JWYzNrcTJ5VFlLSTE4SG9STW1ITEJuUXZwMzBQWDBiMTcwX1RBdUVwdm5jX2RtWjJDU2g4cThWYklnLUVjcGtlazJkUkVGSkRyUERMRW5jRm5QZW5abnMxRzMzRmlQNVIyWlNmUG9RalBhaldtb3htbkE1S2hPLThFd2M0MnplNUVPb0ZMbTBWOGUxVExKMGtSMHBSampDTUtUY3JrSzBoc2dWTTRSdmI5bnFyeDc1V2lWUVBzeF9wVG9vOTR5RjnSAcwBQVVfeXFMUEhQTk1zbEg1UVJybFNUZE1sUV9nYTBkOXA1cVpPVXVfaHY3X3VNbVo3dThvbFo3ZFAtUmxmc21SRFRYT3JLcjNqS25COTMxLVR3allKbzlNTnpjZ0lyUTJ1akZIUlFCNWNNWHh1a0dBVDlCaU5wdXVpd3JyWVFGQi1SWEVWSjZIQWcwUXd4TW5wVFdKQjY5ejZvQ2NYWHVMVFFDc25IQk9JVkZ5bHd5ZEl1dU8zZEtEYktZTnM3NDAwcC1LOXpCQTExVTZs?oc=5",
-          "added_at": "2026-09-24 03:19:11"
-        },
-        {
-          "uid": "047cf68f559b",
-          "date": "2026-09-03",
-          "title": "Automakers urge Congress to quickly pass law banning Chinese cars - WSAU",
-          "summary": "米国の自動車メーカーが中国車を禁止する法案の迅速な成立を議会に促しており、中国との提携に対する政治的圧力が強まっていることを示唆している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVVEOFc0YjRrUFZRUVF4MXhKR2ZyV19Bamd6TzF4ak9wZGVONDYzVW02WmhLeW4zdFNuYS1sTS1XeERaUlo5SlNUeG44TGpDZFJOcEZhaHZtRjZITEU3bDBBWDhJNnd6VEFhZFRXX0VyRFJzc3o5cjlFNHdIR1RPTTJYNzhCdjNJRUJDLUw4b3NkQkxWWktCUjh3?oc=5",
           "added_at": "2026-09-24 03:19:11"
         }
       ]
