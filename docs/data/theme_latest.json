@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28 20:06:26",
+  "generated_at": "2026-10-29 04:24:01",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,28 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-28 20:05:57",
+      "last_checked": "2026-10-29 04:23:25",
       "items": [
+        {
+          "uid": "f0f720d7df73",
+          "date": "2026-09-11",
+          "title": "The new report Von der Leyen should announce at SOTEU - The Parliament Magazine",
+          "summary": "申し訳ございませんが、提供いただいたコンテンツが非常に限定的であり、記事の実質的な内容がタイトルのみとなっているため、「欧州産業加速法案（IAA）」に関する具体的な要約を作成することができません。記事本文の詳細な内容をご提供ください。",
+          "source": "欧州委員会要人",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEg5aEtYM1I1X0hWTFA2TnFLc2VkVDRmZFdiOFZJQVdqWk5kaXNtSzlLOV9jUF9pc0plRnp0UUhCOG5aVk5RRUR4MUkyU2tPMkNsWTR3eFlPdloydFE3UDQ0NlNMLTRNV3VWeWZsNEhfQk1OMHV6VjBXZkNLSEozQXVLLTIyS2ZkUjBHM2pZR09oalZZcE5KaHlndXE0RnBiVzlBaXRR?oc=5",
+          "added_at": "2026-10-29 04:23:22"
+        },
+        {
+          "uid": "1ad8cbd1400e",
+          "date": "2026-09-09",
+          "title": "How is the Commission tracking against its commitments under the 2026 work programme? - ENDS Europe",
+          "summary": "申し訳ございませんが、記事の具体的な内容が提供されていないため、要約することができません。タイトルのみでは、欧州産業加速法案（IAA）との関連性を判断する十分な情報がありません。\n\n記事の本文をご提供いただければ、IAAの文脈での要約をお作りできます。",
+          "source": "欧州委員会要人",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0EwMURjalhVd1h1Vy0yQmljZVgtR0tYeENWRzBKVEFaVXh6THN5Nk1HN2hUdEEyOFpXWWJYdTA5aWZ4Q2RHQ3E4X1cxdjM5cGo0bmdTQ3hDbjdKOXBhSHV1U0NfY191N0hnTlUybkQ0aXJvMWxxSjcxVTR2bHNrRmFrRHlvNGNZOHNWSmJkUkVaaThaeFJ6a2s2NGl1aXRtNkh6M3lRUldhUQ?oc=5",
+          "added_at": "2026-10-29 04:23:22"
+        },
         {
           "uid": "b025800b4002",
           "date": "2026-10-28",
@@ -1989,26 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjZSZDNIbUFBYmxqaEJRZGZVU2VFZ3ppbGNRSk85WlIzN0FsV0p3WDRrVUlhVTNQd2hWUmkxRk5oMDJLNW5YV2FVX1Q0UXBMN1dXUmlEUmpPNkliWDUzbjNXWlJjVHVpSXdpWDZjeE5wRlVhOUMxc0l2bEpqb0ZIbkdPS0xVYUJyczBzVG5ZaEo4VW9HTV85ZXVCbFVjS0x4Qm16R1dqMWQ0Mm9FWnE3dGU0NEwtdXRsOUhNVzRqWGZURVBvVVNOTA?oc=5",
           "added_at": "2026-08-22 14:30:00"
-        },
-        {
-          "uid": "fd054aad4962",
-          "date": "2026-08-19",
-          "title": "“Beyond Tariffs to Local-Content Rules”: EU Tightens Pressure on Chinese EVs, but Effectiveness Questioned as Chinese Brands Expand European Production - economy.ac",
-          "summary": "EUは関税に加えて現地調達ルールを導入してChinese EVsへの圧力を強化していますが、中国ブランドがヨーロッパでの生産を拡大する中でその実効性が疑問視されており、IAA下での産業保護政策の限界が浮き彫りになっています。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44aURzOUxtblZSalhkU3NDMzdNTnZ2bjJraHFfV2dLM2VlOWliTlRwNTNJaHIybFlLdDRGYWViRGRrdGZsOEkySVNMM3IxQmN6bzRNRklBSQ?oc=5",
-          "added_at": "2026-08-22 14:30:00"
-        },
-        {
-          "uid": "112aa4a2b3da",
-          "date": "2026-07-30",
-          "title": "European Commission Publishes EU ETS Review, Proposing Significant Reforms - globalelr.com",
-          "summary": "EU排出権取引制度（ETS）の大幅な改革案が公表され、欧州産業の競争力強化と脱炭素化の両立を目指す欧州産業加速法案（IAA）の一環として、産業部門の炭素価格の調整やカーボンリーケージ対策が提案されている。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLTZaek9qVEtlbzVwVFkxb2NBMndQSnpYWmo5T1BlMThEMVBzNU5LakpmallocVFYS3BwaTNXN1dweURzYm5rZDVjX0dXWVZvYy1oTUJwSzFWakNKVm1qdk9PQThmSEFWbWpLRl9KU0ZrYzJpYU5oci12Q1B2ODJQRlNiZTY2NHJndjRvbTBxT1VhX1pITVpLdWJMM09Qck10S2d4M0o0bGZmaWJW?oc=5",
-          "added_at": "2026-08-22 14:30:00"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-28 20:06:05",
+      "last_checked": "2026-10-29 04:23:33",
       "items": [
         {
           "uid": "45aeaf4a917e",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-28 20:06:19",
+      "last_checked": "2026-10-29 04:23:53",
       "items": [
+        {
+          "uid": "790e7010749e",
+          "date": "2026-10-28",
+          "title": "Ex-Google CEO: China is 6 months behind US on AI and has ‘infinite energy’",
+          "summary": "中国がAI開発で米国に6ヶ月遅れているとの指摘は、レアアース等の重要鉱物資源を豊富に保有する中国の供給管理戦略と関連し、AI産業に必要な半導体・GPUの製造に中国のレアアース資源がもたらす競争優位性を示唆しています。中国が「無限のエネルギー」を持つとの発言は、レアアース輸出制限を通じた産業統制力と、AI競争における資源供給の支配権を背景とした中国の戦略的優位性を反映しています。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6178666-schmidt-china-ai-gap/",
+          "added_at": "2026-10-29 04:23:49"
+        },
+        {
+          "uid": "efc616ec5595",
+          "date": "2026-10-28",
+          "title": "A bipartisan watchdog on China may go dark — that would be a mistake.",
+          "summary": "米国下院は中期選挙を控えて、中国との戦略的競争に関する超党派委員会を再認可するかどうかを決定する必要があり、これは半導体輸出規制の進展を阻止しないために重要である。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6176747-house-select-china-committee-fate/",
+          "added_at": "2026-10-29 04:23:49"
+        },
         {
           "uid": "c36be73de183",
           "date": "2026-10-27",
@@ -6011,26 +6031,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZkRDSUJfSEllNk1ma2oxY3QyRFZTeFdqQ3FoclI2UEhtbFU2UnllMV9xWDNNNFlkYmt3SDczSWlVUFFZMm92bXIwTDIxSXVWNGY3MzhlSnBPaldueHlodzFpVWxpTU5pVUJFN05hdlRGQ2F3S1hULUstcWZJbVUxdF9mR1R5R3VVRUticjd2V2ptZjhiMWxuN0NhbVZZSXV6SnhrMkM3dVA0WGJneVRyRWc1NUowQkg5NW5DRFlFSnZ4SDFPWWdJWTlCTklPa0FibEt5NFNWYWphdw?oc=5",
           "added_at": "2026-09-22 13:37:21"
-        },
-        {
-          "uid": "07dde6545ebc",
-          "date": "2026-07-21",
-          "title": "China’s rare earth clampdown backfired: CSIS analyst - mining.com",
-          "summary": "中国は過去にレアアースの輸出管理を強化して戦略的優位性を獲得しようとしましたが、この措置は他国の代替供給源開発やリサイクル技術の進展を促進させたため、逆効果となりました。結果として、中国のレアアース市場における支配力は弱まり、国際的な供給チェーンの多様化が進みました。",
-          "source": "欧米メディア",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DZWZlSkxSal9qN2NOM1pOUHItU1hBN2JBdjZxbkR5SFJmNWRBVUpiT1dzaWFKVHpaYjdhUV9pVWVFOWU1aVpDUHFGbDJwZEY1UXlXTFhaTFpnalVUb2hBeWVjTkswam52ckpZeU03aEhxS21vZzE5b0drUFdWcGs?oc=5",
-          "added_at": "2026-09-22 13:37:21"
-        },
-        {
-          "uid": "68621c20fb82",
-          "date": "2026-09-21",
-          "title": "Bessent says US, Chinese officials considering lowering tariffs on ‘noncritical’ items",
-          "summary": "米国と中国の当局者が「重要でない」製品の関税引き下げを検討しており、これが両国間の経済関係緩和の一環として進められています。この交渉は、トランプ大統領がシー・ジンピン中国国家主席とワシントンで会談する前に行われているもので、約300億ドル規模の関税削減案が浮上しています。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6102128-us-china-lowering-tariffs/",
-          "added_at": "2026-09-22 13:37:21"
         }
       ]
     },
@@ -6041,8 +6041,28 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-28 20:06:26",
+      "last_checked": "2026-10-29 04:24:01",
       "items": [
+        {
+          "uid": "790e7010749e",
+          "date": "2026-10-28",
+          "title": "Ex-Google CEO: China is 6 months behind US on AI and has ‘infinite energy’",
+          "summary": "元Google CEOのエリック・シュミット氏は、中国がAI開発の競争で米国に6ヶ月遅れており、エネルギー面での大きな優位性を持つと述べた。両国間の技術格差が急速に縮小していることが、中国との提携を巡る政治的議論の背景にある。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6178666-schmidt-china-ai-gap/",
+          "added_at": "2026-10-29 04:23:58"
+        },
+        {
+          "uid": "efc616ec5595",
+          "date": "2026-10-28",
+          "title": "A bipartisan watchdog on China may go dark — that would be a mistake.",
+          "summary": "米国下院が中国戦略競争特別委員会の再認可を決定する必要があり、その動向は自動車メーカーを含む産業界における対中提携への政治的監視体制に影響を与える可能性がある。同委員会の継続は、半導体輸出規制など対中政策の進展を維持する上で重要である。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6176747-house-select-china-committee-fate/",
+          "added_at": "2026-10-29 04:23:58"
+        },
         {
           "uid": "75c393d084d7",
           "date": "2026-10-24",
@@ -8022,26 +8042,6 @@
           "source_type": "media",
           "url": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/",
           "added_at": "2026-09-28 11:34:02"
-        },
-        {
-          "uid": "e19fd4bcfd76",
-          "date": "2026-09-09",
-          "title": "Motoring: Trump administration blasts Ford's business deals with Chinese firms - GDNOnline",
-          "summary": "トランプ政権がフォードと中国企業の事業提携を批判しており、米国の自動車メーカーの対中ビジネスに対する政治的圧力が高まっている状況を示している。",
-          "source": "下院中国特別委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmItZjlDZmxaMTRPcFU2eVNIU3llcm1VRXZOVXE5OUVCRG5WbkJ2UjZMMi01Wm1wUjRUdG9WNThRcTh0bkxvRHQyc0tWbWtsakQ3U2ctRlo5MXJnWUlLQ05HMW9XamlVMXgzZTJEcVhXTjd4ZVlyc3RQZkRZSDVVbzhrVWpiWmRtOWtLT1FjRFZfVm1aeXNkU3BwUDFKVmNtNUZYZ2hPcUVnT29ZOXc?oc=5",
-          "added_at": "2026-09-25 13:31:34"
-        },
-        {
-          "uid": "ac3206f7b034",
-          "date": "2026-07-24",
-          "title": "China’s Geely to make electric SUVs at Ford Spain plant, jointly develop model for Europe - The Straits Times",
-          "summary": "中国の吉利自動車がフォードのスペイン工場で電動SUVを製造し、ヨーロッパ向けモデルを共同開発することから、西側自動車メーカーが中国企業との提携を深める動きが政治的な懸念を招いている。このような提携は、中国の産業進出とそれに伴う雇用・技術流出への批判を招きやすい傾向がある。",
-          "source": "下院中国特別委員会委員長",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHBHOUwwMTJmQ2NkeURLV1Z4T3FaVElkUDd2Y2JOM1VQeWtmVFJqY05RalpLRkpIemdMaVpibzJKWEZCdUNtekxpbVBrdG5zTFZBNDBkYXo2Sjg5M0w0Y2dGNnA3TmgzUnJXOXdDZG1CSTNkUDc5WUFhMG5JQVRzaDdhZ0VzUmFQY3VzcDFUdVB5eGtYaGJ4aGVkTnp6Mjk2b3dETjNfeE9hdjZHSHVPNlJqeTlnVFJRMjgxUlQwREdfMms?oc=5",
-          "added_at": "2026-09-25 13:31:34"
         }
       ]
     }
