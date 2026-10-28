@@ -1,17 +1,22 @@
 {
-  "updated_at": "2026-10-28 11:31 JST",
+  "updated_at": "2026-10-28 11:32 JST",
   "total": 50,
-  "toyota_summary": "European automakers are reporting earnings this week amid mounting pressure from tightening emissions rules and political backlash over CEO involvement in U.S. politics. The industry is banking on a compromise over exhaust standards to ease regulatory burden, though the outcome remains uncertain. Meanwhile, Chinese battery makers—specifically CATL—are accelerating production capacity with new partnerships, threatening to widen the cost gap between Western and Asian EV makers.\n\nThe stakes are rising on two fronts. Stricter emissions compliance will force higher spending on electrification just as Chinese competitors gain ground with cheaper battery supplies. At the same time, the industry faces reputational risk from political controversy, which could complicate relationships with regulators at a moment when automakers need regulatory flexibility most.\n\nWatch whether this week's earnings calls reveal any concrete cost-cutting plans or supply chain shifts away from European battery dependency.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20261028_1013",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/10/27付",
       "pdf": "data/pdfs/20261028_1013_「ジェトロ・ビジネス短信」2026_10_27付.pdf",
       "date_label": "OCT 28  10:13",
       "read_min": 1,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" dated 2026/10/27",
+      "html": "data/pdfs/20261028_1013_「ジェトロ・ビジネス短信」2026_10_27付.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261028_1013_「ジェトロ・ビジネス短信」2026_10_27付_en.pdf"
     },
     {
       "ts": "20261028_0902",
@@ -21,7 +26,12 @@
       "date_label": "OCT 28  09:02",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: MENA Crisis Update - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261028_0902_APAC_&_Japan_Conference_Call__MENA_Crisis_Update_-.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_0901",
@@ -31,7 +41,12 @@
       "date_label": "OCT 28  09:01",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: MENA Crisis Update「中東危機最新アップデート」(同時通訳あり) - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261028_0901_APAC_&_Japan_Conference_Call__MENA_Crisis_Update「中.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_0801",
@@ -41,7 +56,12 @@
       "date_label": "OCT 28  08:01",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Japan Angle - Japanese",
+      "html": "data/pdfs/20261028_0801_EG_Japan_Angle_-_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_0701",
@@ -51,7 +71,12 @@
       "date_label": "OCT 28  07:01",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261028_0701_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_0502",
@@ -61,7 +86,12 @@
       "date_label": "OCT 28  05:02",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "White House has no good midterm disruption options",
+      "html": "data/pdfs/20261028_0502_White_House_has_no_good_midterm_disruption_options.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_0131",
@@ -81,7 +111,12 @@
       "date_label": "OCT 28  01:26",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Resumed US-Canada talks aim to bolster vulnerable Republicans",
+      "html": "data/pdfs/20261028_0126_Resumed_US-Canada_talks_aim_to_bolster_vulnerable_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_0040",
@@ -91,7 +126,12 @@
       "date_label": "OCT 28  00:40",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Japan Angle - English",
+      "html": "data/pdfs/20261028_0040_EG_Japan_Angle_-_English.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_0036",
@@ -101,7 +141,12 @@
       "date_label": "OCT 28  00:36",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US likely to strike Iran in mid-November",
+      "html": "data/pdfs/20261028_0036_US_likely_to_strike_Iran_in_mid-November.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_0019",
@@ -111,17 +156,27 @@
       "date_label": "OCT 28  00:19",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Who’s who at the EU-Canada summit",
+      "html": "data/pdfs/20261028_0019_Who’s_who_at_the_EU-Canada_summit.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_0009",
-      "sender_norm": "Orsolya",
+      "sender_norm": "Orsolya Raczova",
       "subject": "Practice Letter: A renewed Visegrad Four’s limits",
       "pdf": "data/pdfs/20261028_0009_Practice_Letter__A_renewed_Visegrad_Four’s_limits.pdf",
       "date_label": "OCT 28  00:09",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Practice Letter: A renewed Visegrad Four’s limits",
+      "html": "data/pdfs/20261028_0009_Practice_Letter__A_renewed_Visegrad_Four’s_limits.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_2256",
@@ -130,8 +185,13 @@
       "pdf": "data/pdfs/20261027_2256_Merz_calls_for_trade_deal_with_Asia-Pacific_CPTPP_.pdf",
       "date_label": "OCT 27  22:56",
       "read_min": 3,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Merz calls for trade deal with Asia-Pacific CPTPP group",
+      "html": "data/pdfs/20261027_2256_Merz_calls_for_trade_deal_with_Asia-Pacific_CPTPP_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_2126",
@@ -141,7 +201,12 @@
       "date_label": "OCT 27  21:26",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "China tightens control over AI exports",
+      "html": "data/pdfs/20261027_2126_China_tightens_control_over_AI_exports.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_2124",
@@ -151,7 +216,12 @@
       "date_label": "OCT 27  21:24",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Greer issues warning to Europe over Airbus loan",
+      "html": "data/pdfs/20261027_2124_Greer_issues_warning_to_Europe_over_Airbus_loan.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_2102",
@@ -161,7 +231,12 @@
       "date_label": "OCT 27  21:02",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Israeli post-election update with Ambassador Daniel Shapiro - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261027_2102_Israeli_post-election_update_with_Ambassador_Danie.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_1905",
@@ -171,7 +246,12 @@
       "date_label": "OCT 27  19:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Leaders of Finland and Norway talk to Putin",
+      "html": "data/pdfs/20261027_1905_Leaders_of_Finland_and_Norway_talk_to_Putin.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_1736",
@@ -181,7 +261,12 @@
       "date_label": "OCT 27  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "It’s hard breaking up with Washington: Why Canada’s European defense turn has limits",
+      "html": "data/pdfs/20261027_1736_It’s_hard_breaking_up_with_Washington__Why_Canada’.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_1503",
@@ -191,7 +276,12 @@
       "date_label": "OCT 27  15:03",
       "read_min": 10,
       "toyota": true,
-      "excerpt": "欧州コックピット協会が、パイロットの3分の1以上が十分な休息を取っていないという調査結果"
+      "excerpt": "欧州コックピット協会が、パイロットの3分の1以上が十分な休息を取っていないという調査結果",
+      "subject_en": "Pilots declare emergency over fatigue reporting",
+      "html": "data/pdfs/20261027_1503_Pilots_declare_emergency_over_fatigue_reporting.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_1451",
@@ -201,7 +291,12 @@
       "date_label": "OCT 27  14:51",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Greer issues warning to Europe over Airbus loan",
+      "html": "data/pdfs/20261027_1451_Greer_issues_warning_to_Europe_over_Airbus_loan.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_1448",
@@ -211,7 +306,12 @@
       "date_label": "OCT 27  14:48",
       "read_min": 14,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU wavers on ‘associate membership’ for Canada",
+      "html": "data/pdfs/20261027_1448_EU_wavers_on_‘associate_membership’_for_Canada.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261027_1013",
@@ -224,8 +324,8 @@
       "excerpt": "中国のCATLがセレスと協力し、バッテリー生産ラインの建設を加速している。また、中国は新質",
       "subject_en": "\"JETRO Business Brief\" dated 2026/10/26",
       "html": "data/pdfs/20261027_1013_「ジェトロ・ビジネス短信」2026_10_26付.html",
-      "summary_en": "",
-      "summary_ja": "",
+      "summary_en": "China's BYD opened a new assembly plant in Indonesia, with attention now on whether it will spur local parts sourcing, while battery giant CATL signed a cooperation deal with EV maker Seres to accelerate a second production line inside Seres' factory. Separately, Canada and Ontario unveiled a C$8.7 billion support package for the steel, automotive, and critical minerals sectors as trade talks with Washington remain stalled.",
+      "summary_ja": "中国BYDがインドネシアに新工場を開所し、部品の現地調達が進むかが注目される一方、CATLはセレスと提携し同社工場内で第2期生産ラインの建設を加速する。また、カナダ連邦政府とオンタリオ州政府は対米通商交渉が停滞する中、鉄鋼・自動車・重要鉱物分野に87億カナダドル規模の支援策を打ち出した。",
       "summary_pdf": "data/pdfs/20261027_1013_「ジェトロ・ビジネス短信」2026_10_26付_en.pdf"
     },
     {
@@ -474,8 +574,8 @@
       "excerpt": "アウディのゲルノット・デルナー最高経営責任者がトランプ米大統領のキャンペーン集会に登場し",
       "subject_en": "‘Disturbing and pathetic’: German politicians slam Audi CEO’s appearance at Trump rally",
       "html": "data/pdfs/20261026_2103_‘Disturbing_and_pathetic’__German_politicians_slam.html",
-      "summary_en": "",
-      "summary_ja": "",
+      "summary_en": "Audi CEO Gernot Döllner drew sharp criticism from German politicians and union leaders after appearing alongside President Trump at a campaign rally, where Trump announced Audi's roughly $4 billion plan to build its first U.S. production plant. Critics, including SPD and CDU lawmakers and IG Metall chief Christiane Benner, called the move politically inappropriate and embarrassing, especially as Volkswagen—Audi's parent—faces factory closures and layoffs at home amid a major restructuring. They argue the gesture validates Trump's trade-war strategy of shifting jobs from Europe to the U.S.",
+      "summary_ja": "アウディのゲルノット・デルナーCEOが、トランプ大統領の選挙集会に同席したことでドイツの政治家や労働組合幹部から強い批判を浴びている。この集会でトランプ氏は、アウディが約40億ドルを投じて米国初の生産工場を建設すると発表した。親会社フォルクスワーゲンがドイツ国内で工場閉鎖や人員削減を伴う大規模な再編を進める中での出来事であり、SPDやCDUの議員、金属労組(IG Metall)のベナー委員長らは、この行為が政治的に不適切で、トランプ氏の貿易戦争戦略を正当化するものだと非難している。",
       "summary_pdf": ""
     },
     {
@@ -562,7 +662,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "Notice of Special Issue [Japan-Vietnam Economic, Science and Technology Public-Private Partnership Forum - Building Future Value Chains through Technology Co-creation -]",
+      "subject_en": "Special Issue Notice: Japan-Vietnam Economic, Scientific and Technological Public-Private Partnership Forum - Building Future Value Chains through Co-creation of Technology",
       "html": "data/pdfs/20261026_1610_臨時号【日本・ベトナム_経済・科学技術_官民連携フォーラム_ー技術共創による未来価値連鎖の構築ー】の.html",
       "summary_en": "",
       "summary_ja": "",
@@ -579,8 +679,8 @@
       "excerpt": "欧州の自動車メーカーが今週決算説明会を開催し、排出ガス基準の妥協案やEU政策の影響につい",
       "subject_en": "Welcome to automakers’ earnings week",
       "html": "data/pdfs/20261026_1503_Welcome_to_automakers’_earnings_week.html",
-      "summary_en": "",
-      "summary_ja": "",
+      "summary_en": "Europe's automakers report earnings this week, giving executives their first chance to react to Brussels' emission-standards compromise and the French-German deal on auto policy. Volvo set a downbeat tone on Friday, announcing €449 million in cost cuts and 2,500 job losses as it grapples with weak China sales and U.S. tariffs, with similar pressures expected to weigh on Mercedes-Benz, Stellantis, Renault and Volkswagen when they report this week.",
+      "summary_ja": "今週は欧州自動車大手の決算発表が相次ぎ、経営陣がブリュッセルでの排出基準妥協案や独仏間の自動車政策合意について初めて見解を示す機会となる。ボルボは金曜日、中国での販売不振と米国の関税を背景に4億4900万ユーロのコスト削減と2500人の人員削減を発表し、業界に先立って厳しい業績見通しを示した。メルセデス・ベンツ、ステランティス、ルノー、フォルクスワーゲンも同様の逆風に直面するとみられる。",
       "summary_pdf": ""
     },
     {
@@ -632,7 +732,7 @@
       "ts": "20261026_1006",
       "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/10/23付",
-      "subject_en": "JETRO Business Brief dated 2026/10/23",
+      "subject_en": "JETRO Business Brief dated October 23, 2026",
       "html": "data/pdfs/20261026_1006_「ジェトロ・ビジネス短信」2026_10_23付.html",
       "pdf": "data/pdfs/20261026_1006_「ジェトロ・ビジネス短信」2026_10_23付.html",
       "summary_en": "Toyota announced plans to invest in Thailand to produce a fuel-cell electric pickup truck, with operations slated to begin in December 2027. The move underscores automakers' continued bets on hydrogen-based powertrains for commercial vehicles even as battery EVs dominate near-term adoption. Thailand's growing role as a regional hub for next-generation vehicle manufacturing is reinforced by the investment.",
@@ -643,5 +743,6 @@
       "toyota": true,
       "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
