@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28 11:35:48",
+  "generated_at": "2026-10-28 11:38:52",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-28 11:34:52",
+      "last_checked": "2026-10-28 11:38:09",
       "items": [
+        {
+          "uid": "8a55d313d1c1",
+          "date": "2026-10-06",
+          "title": "Parliament and Council split on how non-EU countries get access to defense cash - POLITICO.eu",
+          "summary": "欧州産業加速法案（IAA）に関連して、EU議会と理事会が非EU諸国による防衛基金へのアクセス条件をめぐって対立しており、特にアクセス基準や条件の設定方法について意見が分かれている。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3hZSVFpV29DNTR4UkgxRHEtcXd0OWZjOUVsTFYxQ0lrVExYZUpxaEJvdGtwTGNfSHduVVl3d3NSVy1NcnlxUkE5aDZodkgyLXp1RDNPOHcyYkdfTUpQM1k0X0JzTVVMOXYtOWZ6ODIzTmw1eFFsYmdHaGhUVUZxNU8xM09MMnNIR01YaDQxVWdya09DUGZXcWVlTmRwZ0kzeDc5V3lFejhXem51QnhTX1dB?oc=5",
+          "added_at": "2026-10-28 11:38:07"
+        },
         {
           "uid": "209cd396abb2",
           "date": "2026-10-27",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUFlUDN3MG9seHB2Vkd1ZHdxTnY5U1dHX1hPdHhLd1ptVWVfOXI0c3Y3SWdQV1FXRTczdVhWMXNIZ0ZPQ0JWY0JXZmFsQW83d2lpdHlaSlRnQU9UV3Z1Wk1KWGxGbndVM0JLajh4dmlMLWN4Q3RnTEdob1ZvWGdsb3BpSTk?oc=5",
           "added_at": "2026-08-20 23:38:31"
-        },
-        {
-          "uid": "41764a890913",
-          "date": "2026-07-27",
-          "title": "Japan and Europe: Partners in Automotive Competitiveness and Clean Mobility - The Parliament Magazine",
-          "summary": "# 日本とEUの自動車産業における協力関係に関する要約\n\nEUの欧州産業加速法案（IAA）は、クリーンモビリティと自動車競争力の強化を目指しており、日本はこの分野で重要なパートナーとなる可能性を持っています。日本の先進的な自動車技術と環境対応技術がEUの産業政策目標と相互補完的な役割を果たすことで、両地域の競争力向上と脱炭素化の実現が期待されます。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdExGMDd1TThhZXFzamp0blBMd0lwTWg1cGpmTERMT2x1OHBUaXRab25BTjhCSnRpQ2w4c0hOcDk4RXNqdjBYcjBSQTNwZ1VzQm42c2liWTBJajVKdldJdmNoTmRDclFYczg2VDNaQkRubUFPa1c0bFRGal9ac19HMVpudmJIX2o1RmtINlloRkpWSzRtcVFiaERfdWRfNDIwTFBwazh6Wjg3RG9qcmM2V0hhdjVKLTRqMU5tTVJB?oc=5",
-          "added_at": "2026-08-20 09:22:23"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-28 11:35:09",
+      "last_checked": "2026-10-28 11:38:22",
       "items": [
         {
           "uid": "45aeaf4a917e",
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-28 11:35:32",
+      "last_checked": "2026-10-28 11:38:42",
       "items": [
         {
           "uid": "f6519ae32035",
@@ -6041,8 +6041,18 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-28 11:35:48",
+      "last_checked": "2026-10-28 11:38:52",
       "items": [
+        {
+          "uid": "77895102447c",
+          "date": "2026-09-18",
+          "title": "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting - Reuters",
+          "summary": "米国自動車業界がトランプ前大統領に対し、習近平主席との会談を前に中国自動車メーカーの米国市場参入を阻止するよう要請している。この動きは、中国自動車メーカーとの競争を懸念する業界の政治的ロビイ活動を反映している。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdEhzVURsLWVhS1lkdmpyM1dlZ21yWC0yZTVWZDdwS2Ftc2JSWmdQekRKU3d0YmFWeGNGTU4yQ28wbFBnRDdFY0dWNTQ3TkVmVW1ld2c1TXotUXJIdzFVY1JUdmhGcXJRLXVlLV9vcXFHNUNlZFc4clp4Y3hUN1VIWTN1Z2tPT3k1WVlvbldMWDdlN0lxWk5YenNmWmhFbTZuRGpNTngzUFBTYnhsd3FnN1lNVk9Gbi1zcksxenJXSjJUbE9qT3FZM1NWWFBudExmeVE?oc=5",
+          "added_at": "2026-10-28 11:38:50"
+        },
         {
           "uid": "3a690fb1e268",
           "date": "2026-09-09",
@@ -8031,16 +8041,6 @@
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmJYU0RlWHhmaWZ2NndoU1IycC1xaTM1WmlTV0gzNTl4eFkyeFJWV2t3QTVyaFZvYlVvLURZd2JpLXg3Ny1vd3BKcy10LVFTSjZ5NGQ0YWdiNlFibm1QZnJDdVE2RXRHY2FmMkJjLW1kX1RVQzQxbmhLS0s5QkRMR1BweE9ibDEzR3ZiTlpmU0dXX0pBaUF4SnlKMA?oc=5",
-          "added_at": "2026-09-25 13:31:34"
-        },
-        {
-          "uid": "5eb27564ccc8",
-          "date": "2026-09-08",
-          "title": "Ford Motor Company Reportedly Faces Trump Administration Criticism Over China Ties - finance.yahoo.com",
-          "summary": "フォード・モーター・カンパニーが中国との関係をめぐってトランプ政権から批判を受けており、自動車メーカーの対中提携が政治的な問題となっていることを示している。米国の自動車大手が中国とのビジネス関係に対して政治的圧力に直面する状況が生じている。",
-          "source": "トランプ政権高官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOempOandWUlBXbnVfZ3l4Z3lUVE9zbHNfX0ZqSDlFSmlIcmw5dW5pS1JyWFBiTUo1cHpRV2dkd3pJZW01clFjWlVOMkZDV05MWXNQcHQyNXBMM0E5cHd4eG5RS29WWHpmS2F6WUZKQmxVeUlRazN4UnBkeE1iTEdPUFNIMFI1c3p4eU43Y2hLX19xNEZMNkprMWUwMjhrRkQ2aXc?oc=5",
           "added_at": "2026-09-25 13:31:34"
         }
       ]
