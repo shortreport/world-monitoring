@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-29 13:23 JST",
+  "updated_at": "2026-10-29 13:24 JST",
   "total": 50,
-  "toyota_summary": "A major European pilots' union found that more than one-third of pilots are not getting adequate rest, raising safety concerns across the continent's aviation sector. The survey underscores growing fatigue problems in an industry already stretched thin by post-pandemic demand. This matters for automakers because supply chain disruptions from aviation delays or safety incidents would ripple through manufacturing, especially for companies reliant on air freight for critical parts and components. Watch whether European regulators tighten duty-time rules, which could slow logistics further.\n\nChina's CATL, the world's largest battery maker, is accelerating production line construction in partnership with Celenese as Beijing doubles down on advanced battery technology. The move signals intensifying competition in EV battery supply just as automakers globally are locking in battery sourcing deals for the next decade. The risk is real: if Chinese producers establish dominant manufacturing scale before Western competitors ramp up domestic capacity, pricing power and supply security could shift decisively eastward.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20261029_1115",
@@ -11,17 +11,27 @@
       "date_label": "OCT 29  11:15",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261029_1115_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261029_1006",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/10/28付",
       "pdf": "data/pdfs/20261029_1006_「ジェトロ・ビジネス短信」2026_10_28付.pdf",
       "date_label": "OCT 29  10:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "JETRO Business Brief dated 2026/10/28",
+      "html": "data/pdfs/20261029_1006_「ジェトロ・ビジネス短信」2026_10_28付.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261029_1006_「ジェトロ・ビジネス短信」2026_10_28付_en.pdf"
     },
     {
       "ts": "20261029_0711",
@@ -31,7 +41,12 @@
       "date_label": "OCT 29  07:11",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Israel post-election outlook",
+      "html": "data/pdfs/20261029_0711_Israel_post-election_outlook.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261029_0511",
@@ -41,17 +56,27 @@
       "date_label": "OCT 29  05:11",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Spanish train disaster deals new blow to Sánchez’s long-shot election bid ",
+      "html": "data/pdfs/20261029_0511_Spanish_train_disaster_deals_new_blow_to_Sánchez’s.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261029_0340",
-      "sender_norm": "Laura",
+      "sender_norm": "Laura Yasaitis",
       "subject": "US-China restrictions drive biomedical decoupling",
       "pdf": "data/pdfs/20261029_0340_US-China_restrictions_drive_biomedical_decoupling.pdf",
       "date_label": "OCT 29  03:40",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US-China restrictions drive biomedical decoupling",
+      "html": "data/pdfs/20261029_0340_US-China_restrictions_drive_biomedical_decoupling.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261029_0317",
@@ -61,7 +86,12 @@
       "date_label": "OCT 29  03:17",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "UK: Budget delays key spending decisions",
+      "html": "data/pdfs/20261029_0317_UK__Budget_delays_key_spending_decisions.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261029_0131",
@@ -81,7 +111,12 @@
       "date_label": "OCT 29  00:24",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Times/Siena poll points to a good night for Democrats",
+      "html": "data/pdfs/20261029_0024_Times_Siena_poll_points_to_a_good_night_for_Democr.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_2359",
@@ -91,7 +126,12 @@
       "date_label": "OCT 28  23:59",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU set to scrap ‘associate member’ status offer for Canada",
+      "html": "data/pdfs/20261028_2359_EU_set_to_scrap_‘associate_member’_status_offer_fo.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_2321",
@@ -101,7 +141,12 @@
       "date_label": "OCT 28  23:21",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "ECB stands ready to act on contagion, cautious on France",
+      "html": "data/pdfs/20261028_2321_ECB_stands_ready_to_act_on_contagion,_cautious_on_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_2159",
@@ -111,7 +156,12 @@
       "date_label": "OCT 28  21:59",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iran will likely retaliate aggressively to US strikes",
+      "html": "data/pdfs/20261028_2159_Iran_will_likely_retaliate_aggressively_to_US_stri.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_2157",
@@ -121,7 +171,12 @@
       "date_label": "OCT 28  21:57",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EPP divided on expansion of aviation ETS, Parliament rapporteur says",
+      "html": "data/pdfs/20261028_2157_EPP_divided_on_expansion_of_aviation_ETS,_Parliame.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_2117",
@@ -131,7 +186,12 @@
       "date_label": "OCT 28  21:17",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Israeli post-election update with Ambassador Daniel Shapiro - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261028_2117_Israeli_post-election_update_with_Ambassador_Danie.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_2006",
@@ -141,7 +201,12 @@
       "date_label": "OCT 28  20:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Impatient with Brussels, European capitals forge ahead with social media bans ",
+      "html": "data/pdfs/20261028_2006_Impatient_with_Brussels,_European_capitals_forge_a.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_1939",
@@ -151,7 +216,12 @@
       "date_label": "OCT 28  19:39",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "At least 30 people die in major Spanish train crash",
+      "html": "data/pdfs/20261028_1939_At_least_30_people_die_in_major_Spanish_train_cras.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_1836",
@@ -161,7 +231,12 @@
       "date_label": "OCT 28  18:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "UK budget 2026: What to watch for as Healey vows ‘breathing space’ for Brits",
+      "html": "data/pdfs/20261028_1836_UK_budget_2026__What_to_watch_for_as_Healey_vows_‘.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_1735",
@@ -171,7 +246,12 @@
       "date_label": "OCT 28  17:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU prosecutors still have questions for von der Leyen over Pfizergate",
+      "html": "data/pdfs/20261028_1735_EU_prosecutors_still_have_questions_for_von_der_Le.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_1646",
@@ -181,7 +261,12 @@
       "date_label": "OCT 28  16:46",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Conference Call Notes: Southeast Asia update",
+      "html": "data/pdfs/20261028_1646_Conference_Call_Notes__Southeast_Asia_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_1637",
@@ -190,6 +275,41 @@
       "pdf": "data/pdfs/20261028_1637_eg_update_in_Japanese.pdf",
       "date_label": "OCT 28  16:37",
       "read_min": 3,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "eg update in Japanese",
+      "html": "data/pdfs/20261028_1637_eg_update_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261028_1505",
+      "sender_norm": "POLITICO",
+      "subject": "Aviation industry sounds alarm over EASA funding",
+      "subject_en": "Aviation industry sounds alarm over EASA funding",
+      "html": "data/pdfs/20261028_1505_Aviation_industry_sounds_alarm_over_EASA_funding.html",
+      "pdf": "data/pdfs/20261028_1505_Aviation_industry_sounds_alarm_over_EASA_funding.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 28  15:05",
+      "read_min": 9,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261028_1447",
+      "sender_norm": "POLITICO",
+      "subject": "Serbia’s EU bid gets a second chance",
+      "subject_en": "Serbia’s EU bid gets a second chance",
+      "html": "data/pdfs/20261028_1447_Serbia’s_EU_bid_gets_a_second_chance.html",
+      "pdf": "data/pdfs/20261028_1447_Serbia’s_EU_bid_gets_a_second_chance.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 28  14:47",
+      "read_min": 15,
       "toyota": false,
       "excerpt": ""
     },
@@ -201,7 +321,12 @@
       "date_label": "OCT 28  12:50",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: Implications of the US midterms",
+      "html": "data/pdfs/20261028_1250_APAC_&_Japan_Conference_Call__Implications_of_the_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_1248",
@@ -211,7 +336,12 @@
       "date_label": "OCT 28  12:48",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call :「米国中間選挙の影響」(同時通訳あり）",
+      "html": "data/pdfs/20261028_1248_APAC_&_Japan_Conference_Call__「米国中間選挙の影響」(同時通訳あり）.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_1243",
@@ -221,7 +351,12 @@
       "date_label": "OCT 28  12:43",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: Implications of the US midterms",
+      "html": "data/pdfs/20261028_1243_APAC_&_Japan_Conference_Call__Implications_of_the_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_1239",
@@ -231,7 +366,12 @@
       "date_label": "OCT 28  12:39",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call :「米国中間選挙の影響」(同時通訳あり）",
+      "html": "data/pdfs/20261028_1239_APAC_&_Japan_Conference_Call__「米国中間選挙の影響」(同時通訳あり）.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261028_1013",
@@ -242,7 +382,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "JETRO Business Brief dated 2026/10/27",
+      "subject_en": "\"JETRO Business Brief\" dated 2026/10/27",
       "html": "data/pdfs/20261028_1013_「ジェトロ・ビジネス短信」2026_10_27付.html",
       "summary_en": "",
       "summary_ja": "",
@@ -552,7 +692,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "中国のCATLがセレスと協力し、バッテリー生産ラインの建設を加速している。また、中国は新質",
-      "subject_en": "\"JETRO Business Brief\" dated 2026/10/26",
+      "subject_en": "\"JETRO Business Brief\" October 26, 2026",
       "html": "data/pdfs/20261027_1013_「ジェトロ・ビジネス短信」2026_10_26付.html",
       "summary_en": "China's BYD opened a new assembly plant in Indonesia, with attention now on whether it will spur local parts sourcing, while battery giant CATL signed a cooperation deal with EV maker Seres to accelerate a second production line inside Seres' factory. Separately, Canada and Ontario unveiled a C$8.7 billion support package for the steel, automotive, and critical minerals sectors as trade talks with Washington remain stalled.",
       "summary_ja": "中国BYDがインドネシアに新工場を開所し、部品の現地調達が進むかが注目される一方、CATLはセレスと提携し同社工場内で第2期生産ラインの建設を加速する。また、カナダ連邦政府とオンタリオ州政府は対米通商交渉が停滞する中、鉄鋼・自動車・重要鉱物分野に87億カナダドル規模の支援策を打ち出した。",
@@ -602,36 +742,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20261027_0835",
-      "sender_norm": "Eurasia Group",
-      "subject": "Daily Research Summary - Oct 26th, 2026",
-      "pdf": "data/pdfs/20261027_0835_Daily_Research_Summary_-_Oct_26th,_2026.pdf",
-      "date_label": "OCT 27  08:35",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Daily Research Summary - Oct 26th, 2026",
-      "html": "data/pdfs/20261027_0835_Daily_Research_Summary_-_Oct_26th,_2026.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261027_0525",
-      "sender_norm": "Eurasia Group",
-      "subject": "Conference Call Notes: US midterms update with Kyle Kondik",
-      "pdf": "data/pdfs/20261027_0525_Conference_Call_Notes__US_midterms_update_with_Kyl.pdf",
-      "date_label": "OCT 27  05:25",
-      "read_min": 7,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Conference Call Notes: US midterms update with Kyle Kondik",
-      "html": "data/pdfs/20261027_0525_Conference_Call_Notes__US_midterms_update_with_Kyl.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
