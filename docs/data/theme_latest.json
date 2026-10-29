@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29 13:28:53",
+  "generated_at": "2026-10-29 20:22:02",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-29 13:28:04",
+      "last_checked": "2026-10-29 20:21:29",
       "items": [
+        {
+          "uid": "01dbfa8f394c",
+          "date": "2026-10-29",
+          "title": "Japan Urges EU to Adjust EV Preferential Policies While Facing Significant Resistance - 36Kr",
+          "summary": "日本はEU産業加速法案（IAA）における電動車（EV）への優遇政策の見直しをEUに求めているが、EU域内での産業保護主義の抵抗により実現が難しい状況にある。日本の自動車メーカーは、このEU独自の支援策が市場競争を歪め、日本製EVの競争力を損なうと懸念している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aLVUwMzhnaDl6aTBVZVBLaUR6cFBuU3RZVnl1aHlESmNXamtUZUZ5bHlUUVJEZzNua01kZDlDRy01bTJaa0hMNW5mTmY3NVFKVUVr?oc=5",
+          "added_at": "2026-10-29 20:21:27"
+        },
         {
           "uid": "0c53f6511955",
           "date": "2026-10-28",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdl95NFVOV3JYanljZVo1TnhkV0lXeXBkTWpaNFFlVC1qWWtCa0NCbnRZd2xyWjM3MFVVMFJ3YXEzdnMzRFZiQkFuS1lIclhmLXFqN2JfV1BuNlZqMDJNemJZRWppZ2ZyeHBneWNrUXBGT3gtUGZURkMzUFBGOFllUG9JcF90NFU?oc=5",
           "added_at": "2026-08-22 23:24:07"
-        },
-        {
-          "uid": "a0252188c93f",
-          "date": "2026-06-19",
-          "title": "EU-US tariffs: tensions, trade deal and what could change - European Parliament",
-          "summary": "申し訳ありませんが、提供いただいた記事の内容が「タイトル: EU-US tariffs: tensions, trade deal and what could change - European Parliament」と「内容: EU-US tariffs: tensions, trade deal and what could change European Parliament」のみで、具体的な本文が記載されていません。記事の詳細な内容を提供していただければ、「欧州産業加速法案（IAA）」に関する文脈での要約が可能です。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYmZXMHYxREluX3lobG5BUG95R2xFU3dURHd1WWR4RE9PTzFtSWVqTF85WWxDNC1YVUxxNS1GNXhCYy1iYVh2aGVDRzdmcERZY1dab0ZGNnhxdWlnYXROWHNMd3RTZXNPaEhjdmIxZ25IUTFhSEYwbmZCeWxlcGNLZnhBajNPZlBwUlRadmdzZlNjSlBOUUhjclZfMkIxcVJWTGFiWGVHQTRFcmhKYlFCZ3RlWUw4cmNTWk13UzN3?oc=5",
-          "added_at": "2026-08-22 23:24:07"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-29 13:28:17",
+      "last_checked": "2026-10-29 20:21:39",
       "items": [
         {
           "uid": "45aeaf4a917e",
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-29 13:28:43",
+      "last_checked": "2026-10-29 20:21:54",
       "items": [
         {
           "uid": "be3674ff2e12",
@@ -6041,8 +6041,18 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-29 13:28:53",
+      "last_checked": "2026-10-29 20:22:02",
       "items": [
+        {
+          "uid": "b9dda9af1a6e",
+          "date": "2026-10-29",
+          "title": "Trump says imported robotics pose national security risks but does not impose tariffs - The Straits Times",
+          "summary": "トランプ前大統領は輸入ロボットが国家安全保障上のリスクであると主張しているが、実際には関税を課していない状況が、自動車メーカーが中国企業との提携を推し進める際の政治的批判の文脈で、安全保障懸念と実際の規制措置のギャップを示している。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObDdOeU9wNkJZWng5dWQybldDcERCRHhPRXJPNWNlVUx1ckVGS3JITlhXMVNJaFBLZURSTWpwTnNZMG5ZMnM2ZTNkYUhkMEhuTDZEemktMUxuN0V2bzQ3MGZaNzZoMm9nRkVMZGxYOTF1LUF5NFFvbWZjZXE1ZkFTS2dENS1FRmZmbWc2dUVNVFhvUEEwdE5OaGJ3cTZKa192WjVyTzhXcmVScDZTczAzUmR6MVh4NjRqTzd6V01VWDVUMF81QmU2cmdVUmdKZEU?oc=5",
+          "added_at": "2026-10-29 20:22:01"
+        },
         {
           "uid": "790e7010749e",
           "date": "2026-10-28",
@@ -8031,16 +8041,6 @@
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/opinion/healthcare/6111550-rfk-jr-autism-conspiracy-claims/",
-          "added_at": "2026-09-28 11:34:02"
-        },
-        {
-          "uid": "3f5f696c3a70",
-          "date": "2026-09-26",
-          "title": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards",
-          "summary": "トランプ大統領がバイデン政権のEV義務化ルールを廃止し、新たな燃費基準を承認したもので、自動車メーカーに対する環境規制の大幅な後退を示している。この政策転換は、中国との自動車産業における競争構図の変化や、米国の自動車メーカーの戦略的選択肢の拡大につながる可能性がある。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/",
           "added_at": "2026-09-28 11:34:02"
         }
       ]
