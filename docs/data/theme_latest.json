@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30 10:05:13",
+  "generated_at": "2026-10-30 20:14:17",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-30 10:03:48",
+      "last_checked": "2026-10-30 20:13:44",
       "items": [
         {
           "uid": "b30b0dab784f",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-30 10:04:12",
+      "last_checked": "2026-10-30 20:13:53",
       "items": [
+        {
+          "uid": "0f6c006cc13d",
+          "date": "2026-09-30",
+          "title": "Legislation on permanently banning Chinese vehicles in the U.S. stalls in the Senate (F:NYSE) - Seeking Alpha",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国製車両の米国市場への参入を永続的に禁止する法案ですが、上院での可決が停滞しています。この法案は国家安全保障上の懸念から提案されたものです。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNG16UldaU3BxQlJNMFcxdHFBdTJmZmxmZVV4UWRGdTEzMTNLaGZkb1prYWlIdGZjbzdqRk9CZkFLaGdITGFldDFuRFFIMHc5LWNRYXBJdVJvQWxvUV9CaFNCX0treUhDZl92LWVFYm1vcjd2ZURGbEZSSDBNQ3VBNVg3bTQwYS1nS051Ym1yVFY5NHJQRURNZTlhQjluejZxMm9TWFdhYlBiN0lyLXlqblcxelRpTWw0djI4Ynd3?oc=5",
+          "added_at": "2026-10-30 20:13:52"
+        },
         {
           "uid": "7eb201200802",
           "date": "2026-10-29",
@@ -4010,16 +4020,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdWVjM25GOWhRcDMzbW0zSHNTamo3YTAyUXN4QjdydjZVcTVvbEFseTl1M0VqOVN5UHNGbk1MN09LLXNGdE5PZFdGb0c0RGJsWUk1c0F1VzdHR3VKSHpCNlhtX201dFJ0djFiQmlTajNjdkt1eWVrNWJ5cUZKT0dCWlhDaEhCTHg3VWEzS9IBoAFBVV95cUxQRWE4b204cWgyVmRhbE1uY296NU1xWWhSdDJWa2E1dUZUYmlMU1FSOUdjV3pOSGlyVlFaSG5VM2ZNVThFNHNtWkFMRi15dFd2dFhRelVXUXZJa19KaFZoYW9Gcl9CWEJ1cnl1Rlp0RHVxTDdHTk5PbEJLc2YyQnB1YzJNUXExcG9SVnM5QUJNYTlfRldlSlpxdHNUai0yVC00?oc=5",
           "added_at": "2026-08-29 20:31:03"
-        },
-        {
-          "uid": "2b3c78fe8979",
-          "date": "2026-06-25",
-          "title": "US cranks up pressure on China EVs with Polestar ban - Reuters",
-          "summary": "米国がポールスター（Polestar）を含む中国系電動車に対する規制を強化する動きは、S.4429法案が目指す外国勢力による自動車産業への浸透防止という安全保障上の懸念に基づいており、対中圧力の一環として機能している。本措置は中国系EV企業の米国市場進出を制限し、国内自動車産業の保護と国家安全保障の両立を図る政策的対応である。",
-          "source": "中国政府",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLW1SMWdEUXp3ODA1STNZaXRMZVNWek9QRVRRMHpvdmJIRm8zYWhrVHJwOTFUWm9nSEVrVzVGYTFjR1JIMGYycHZwLXNqWVBKLUpIYkgtY1djSEJwb0hOTkdNSGpXSXByRlVUYnZnbVJLcm1BTGc2OUtSU2M3UzFzcGdYeU5yUnBydFgyZUdyMXcwY0RXRFMzWlZEOEYtSVdCakdLajRXb25rRGFEV295Z01iN0N1S0F4dTg2OVNQczJRV3A4UTFyMW14SWxUbXlrQ2pRUzNZUXhQcEh4WkE?oc=5",
-          "added_at": "2026-08-29 02:12:21"
         }
       ]
     },
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-30 10:04:50",
+      "last_checked": "2026-10-30 20:14:09",
       "items": [
+        {
+          "uid": "0f1beec9afc2",
+          "date": "2026-10-27",
+          "title": "What the Bipartisan American Affordability and Jobs Act Means for the U.S. Energy System - CGEP",
+          "summary": "この記事は米国のエネルギーシステムに関する法案についてのものであり、中国レアアース輸出管理に直接関連する内容は含まれていません。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcmxlQmhwOHJXbkoxbzhBdGJqZ1JGTEIxbFk1WWswbWdjaEpmRktTYWRBRVk3QXoxTWdaaFRYVnJyWVpsTXY0UGNwSjNHUXQ0M2RFZGFleXJkanJ6Y3J4SVBYQzdGcG1SMHJ6dnZIRXl4MW1GYV9OUnZWQ3pqNFhWRUVteFJsLTBuUHBTNWhJc29NVUxSVmI0c20zWW8xbWZod3NGcXZ5Vm11Slo2X0ktUUwwWjlrYU9FbjJ5Mld3WDN2MnJPbnhCRk9sR2hZS0xLbEdQZzl3?oc=5",
+          "added_at": "2026-10-30 20:14:05"
+        },
+        {
+          "uid": "49243a3a38b1",
+          "date": "2026-09-23",
+          "title": "Dysprosium Terbium China vs North America Prices 2026 - Rare Earth Exchanges",
+          "summary": "中国は希土類元素のジスプロシウムとテルビウムの輸出管理を通じて国際市場価格に影響力を行使しており、2026年には中国と北米間で顕著な価格差が生じることが予想されている。中国による輸出制限は希土類の供給逼迫と価格上昇をもたらし、北米を含む先進国への資源確保圧力を高めている。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd3FrWS1fV2VTWk5uRUM1OVJybkwwY2ZtX0NqaExYdTRGYkd3Z1dRLS1qM2wtVkt2Z0lUQ2t6Qlk3bUZ6YXFYc2FFQ1VnR2g1T3BXeHNYQ2VqVXJBczZUUWNWUGJnVUFocmUtcWJYelhHSTdjSnc0d3dIWW5FZHZybmswVVJTVjA?oc=5",
+          "added_at": "2026-10-30 20:14:05"
+        },
+        {
+          "uid": "42aae963f6c1",
+          "date": "2026-10-29",
+          "title": "Japan China Military Tensions Critical Mineral Supply Risk - Rare Earth Exchanges",
+          "summary": "日本と中国の軍事的緊張が高まる中、中国によるレアアース等の重要鉱物輸出管理が強化され、日本のサプライチェーン脆弱性が露呈している。日本は中国への依存度低下と代替供給源確保を急務とする必要がある。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RbkUtSlptSDlsREF4Ti1BZ1NWME52OHlKVnl2UVdpdUdTeHZ2RXQwdWlJd1lKbTNVZ3lmenJIUHlnMVNSSDhVRm4tYmk3dnUxaEFoVVRjSlE5alhReElaYlNWaFRLTGVWQ0M1NzhqaU1CTW0yU3lKTDJtVnAydw?oc=5",
+          "added_at": "2026-10-30 20:14:05"
+        },
         {
           "uid": "ce844b34470a",
           "date": "2026-09-21",
@@ -6001,36 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMGhFNmg2ZmkzMGJBdHRJdzJ0QlhEMmx1UHQtSkUxSUVIM0g2M3drOUc2RER3VnpHblpENGpaRUJwd09uekR4b1VrN3lEdHh2SFNvUG1SZndZUGRRNlIyYklSNHpkelI4UnRtRUZzMGNObzd6OFJjaUdfa0JCUEV6WF94MXZxalBPMVdrbmpQOG12Y2NLQ2djU2RJOWY3cDhPeGZMalNyOEdObks0LTlDdTQ3SUFCeFFGejA5SWZUSlp6dw?oc=5",
           "added_at": "2026-09-25 13:31:02"
-        },
-        {
-          "uid": "fb55145c2982",
-          "date": "2026-08-03",
-          "title": "U.S. faces new pressure to build weapons without China’s rare-earth magnets - Washington Times",
-          "summary": "中国がレアアース輸出を制限する可能性が高まる中、米国は中国産レアアース磁石に依存しない兵器システムの開発を急速に進める必要に迫られている。米国防総省はサプライチェーン多様化と国内レアアース生産能力の強化を通じて、中国による輸出管理リスクへの対抗戦略を構築している。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOWZEdXpDV2szaEtfd2FwSEdJcUlTRUg0RFJlSnlPYUdONmRXd2xET1Z1RS16Mm9hOEVIZ04wdzQwNnFHVjlXYUVlRGlUZ0pxbWdQSkFMdzVQY0FXWlA5S01vbTg2RUhJMGdXRjVKSUFqZ0lDM3NqMWhCUmN5M0dxV29zR3k2SFhNczFnd0M1SE1ib0ZkejlwM2NDTXV4Y1RBU0FGWVhndzNIUGxGZWd5QzFR?oc=5",
-          "added_at": "2026-09-25 13:31:02"
-        },
-        {
-          "uid": "df566aa1dd8f",
-          "date": "2026-07-27",
-          "title": "House committees advance critical mineral bills - Resource Recycling",
-          "summary": "米国下院委員会がレアアースを含む重要鉱物に関する法案を進めている動きは、中国が現在、レアアース輸出を厳格に管理・制限しており、それへの対抗策として米国が国内産業と供給チェーンの強化を図る意図を反映している。このような米国の取り組みは、中国のレアアース輸出管理に対する戦略的な対抗措置の一環と言える。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ201TGYxbV93WUozMkJaX2REaXpHcEZwVDhKaVdSd2tVQ3VjWjVjeFBkU2VwUnhoTUV0ZUVmYlBydHp6SzlScTdzdnBUYXlNdGRLUTFzUnNZdmFIQWpEdnBsZjNNdWJud1NuUkh1ZjBxcmhhUUJtTWpsR2xDelF5WFhEOXp2RjF3czlBUnBOVFBZVDNwemF0OFdWRVhTblU?oc=5",
-          "added_at": "2026-09-25 13:31:02"
-        },
-        {
-          "uid": "5a28ff79134f",
-          "date": "2026-09-24",
-          "title": "GOP lawmakers concerned after F-35 equipment ended up in China",
-          "summary": "共和党議員が、F-35戦闘機の機密部品がホンコンに迂回輸出され中国に流入したことを受けて、国防総省に対して情報公開を要求している。本件は、米国の防衛技術流出に関わる中国への迂回輸出ルートの存在を示唆するもので、レアアースなど戦略的に重要な資源・技術の輸出管理強化の必要性を浮き彫りにしている。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/newsletters/defense-national-security/6110708-gop-lawmakers-concerned-after-f-35-equipment-ended-up-in-china/",
-          "added_at": "2026-09-25 13:31:02"
         }
       ]
     },
@@ -6041,8 +6041,28 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-30 10:05:13",
+      "last_checked": "2026-10-30 20:14:17",
       "items": [
+        {
+          "uid": "5b7584006e44",
+          "date": "2026-09-09",
+          "title": "Trump administration blasts Ford’s business deals with Chinese firms - The Sun Malaysia",
+          "summary": "トランプ政権はフォードが中国企業との事業提携を進めることを厳しく批判しており、自動車メーカーの対中ビジネスに対する米国政治の警戒感が強まっていることを示している。",
+          "source": "下院中国特別委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFBJNXFXWTRTUkJzbDJiZ2YwSjdWWjRfUVI0SzRkendSWkxyclBabG5sTEhNZWNHWUVkRDRmaVZqaWlxOWVSQm50RW1DaVJBd3Y1UnNjUE54WnhPWkpVelJyRXlLS29yMHNMN2VTNDZXbDBreEZTZkpmVnB2TnhLVkV2aXM4ejlPWmVscDFJUXpYaGRORzhUZUx5QQ?oc=5",
+          "added_at": "2026-10-30 20:14:14"
+        },
+        {
+          "uid": "ae5189c2d93e",
+          "date": "2026-10-18",
+          "title": "Breakingviews - COMMENTARY: How US allies can win from a Trump mid-term defeat - Reuters",
+          "summary": "申し訳ありませんが、提供いただいたテキストには具体的な記事内容が含まれておらず、タイトルと出典情報のみとなっているため、「自動車メーカーの対中提携への政治的批判」に関する要約を作成することができません。記事本文をご提供いただければ、要約させていただきます。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHdVZ1BWV2ZzTE9vX29qZV9pZXJ4SXhpbDJFOTkyaFE2TVE4dFBJenFIQW1YWHZOU1F0YVVjbHFkbG1id1RzTVBWR1JuVEZWQThON2R6b05uM2NsSnJVWTgwZ1ZmaTlyUkk1dWtfal8tSE5FUUZ1VC1maENLOVBkS1NqXzdEdlc2V2U4b2R3Sk9ROHVOOHIxbF9jQXBFRGpsbVRJYnY0UQ?oc=5",
+          "added_at": "2026-10-30 20:14:14"
+        },
         {
           "uid": "5365faf5df9e",
           "date": "2026-09-23",
@@ -8021,26 +8041,6 @@
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/homenews/6119054-cotton-presses-hegseth-to-review-supply-chains-after-f-35-parts-ended-up-in-china/",
-          "added_at": "2026-09-30 13:20:49"
-        },
-        {
-          "uid": "29ff49520ae9",
-          "date": "2026-09-29",
-          "title": "What Congress can do about AI safety — with China — now",
-          "summary": "米国議会議員サム・リッカード氏は、地政学的緊張が続く中でも、超党派的な「フロンティア法」などの立法を可決し、中国との専門家対話を促進することでAI安全保障上の懸念に対処すべきだと主張している。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/congress-blog/technology/6116752-congressional-action-ai-regulations/",
-          "added_at": "2026-09-30 13:20:49"
-        },
-        {
-          "uid": "238e74057133",
-          "date": "2026-09-29",
-          "title": "Beijing blackout: Why we may never know what happened between Trump and Xi",
-          "summary": "トランプ大統領と習近平主席の最近の首脳会談の詳細は不透明であり、中国にとって有利な結果となった可能性が高いが、具体的な合意内容が明らかにされていないため、自動車メーカーの対中提携に関する政治的議論の背景として、米中交渉の透明性の欠如が懸念されている。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/white-house/6116144-trump-xi-summit-taiwan/",
           "added_at": "2026-09-30 13:20:49"
         }
       ]
