@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-10-31 14:38 JST",
   "total": 50,
-  "toyota_summary": "A major automaker defended its American manufacturing expansion today as a long-term strategic commitment despite mounting pressure to cut costs. The company pushed back against criticism that such investments are misaligned with industry-wide calls for flexibility on emissions regulations in Europe, where rising electric vehicle sales are already outpacing earlier forecasts and undermining automakers' arguments that tighter rules are economically unfeasible.\n\nThe tension reveals a fundamental contradiction: European manufacturers are simultaneously reporting strong EV sales—which would support their ability to meet strict emissions targets—while lobbying regulators for relief from those same targets. This weakens their negotiating position with policymakers and invites scrutiny of whether capital allocation decisions reflect genuine hardship or strategic hedging.\n\nWatch for whether regulators cite recent EV sales data when ruling on emissions compliance timelines in the coming months.",
+  "toyota_summary": "フォルクスワーゲンは、関税リスクへの備えとして、アウディによる米国SUV工場建設案（投資額約40億ユーロ）を後押ししている。同社は今年だけで関税により約28億ユーロのコスト負担を強いられており、今回の動きは、自動車各社が貿易障壁への対応として地域生産体制の転換を加速させていることを示すものである。一方でこれは、ドイツ国内における投資と経済的信認をめぐる政治論争に拍車をかけることにもなっている。",
   "emails": [
     {
       "ts": "20261031_0503",
@@ -10,6 +10,41 @@
       "pdf": "data/pdfs/20261031_0503_US_Election_Update.pdf",
       "date_label": "OCT 31  05:03",
       "read_min": 2,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "US Election Update",
+      "html": "data/pdfs/20261031_0503_US_Election_Update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261031_0412",
+      "sender_norm": "POLITICO",
+      "subject": "Mark Carney puts deadline on EU ‘associate membership’ push",
+      "subject_en": "Mark Carney puts deadline on EU ‘associate membership’ push",
+      "html": "data/pdfs/20261031_0412_Mark_Carney_puts_deadline_on_EU_‘associate_members.html",
+      "pdf": "data/pdfs/20261031_0412_Mark_Carney_puts_deadline_on_EU_‘associate_members.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 31  04:12",
+      "read_min": 4,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261031_0226",
+      "sender_norm": "POLITICO",
+      "subject": "Brussels would be flexible on euro and Schengen if UK tried to rejoin",
+      "subject_en": "Brussels would be flexible on euro and Schengen if UK tried to rejoin",
+      "html": "data/pdfs/20261031_0226_Brussels_would_be_flexible_on_euro_and_Schengen_if.html",
+      "pdf": "data/pdfs/20261031_0226_Brussels_would_be_flexible_on_euro_and_Schengen_if.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 31  02:26",
+      "read_min": 4,
       "toyota": false,
       "excerpt": ""
     },
@@ -21,7 +56,12 @@
       "date_label": "OCT 31  00:44",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Resilience replaces labels in sustainable finance",
+      "html": "data/pdfs/20261031_0044_Resilience_replaces_labels_in_sustainable_finance.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261031_0042",
@@ -31,7 +71,12 @@
       "date_label": "OCT 31  00:42",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Late polling surge boosts Democratic odds in Senate",
+      "html": "data/pdfs/20261031_0042_Late_polling_surge_boosts_Democratic_odds_in_Senat.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261030_2151",
@@ -40,6 +85,41 @@
       "pdf": "data/pdfs/20261030_2151_Le_Pen_victory_would_risk_EU_support_for_Ukraine.pdf",
       "date_label": "OCT 30  21:51",
       "read_min": 9,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Le Pen victory would risk EU support for Ukraine",
+      "html": "data/pdfs/20261030_2151_Le_Pen_victory_would_risk_EU_support_for_Ukraine.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261030_1903",
+      "sender_norm": "POLITICO",
+      "subject": "EU starts hybrid car investigation to implement China import deal",
+      "subject_en": "EU starts hybrid car investigation to implement China import deal",
+      "html": "data/pdfs/20261030_1903_EU_starts_hybrid_car_investigation_to_implement_Ch.html",
+      "pdf": "data/pdfs/20261030_1903_EU_starts_hybrid_car_investigation_to_implement_Ch.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 30  19:03",
+      "read_min": 2,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261030_1835",
+      "sender_norm": "POLITICO",
+      "subject": "Europe’s coffin-makers warn Chinese imports could be death knell for industry",
+      "subject_en": "Europe’s coffin-makers warn Chinese imports could be death knell for industry",
+      "html": "data/pdfs/20261030_1835_Europe’s_coffin-makers_warn_Chinese_imports_could_.html",
+      "pdf": "data/pdfs/20261030_1835_Europe’s_coffin-makers_warn_Chinese_imports_could_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 30  18:35",
+      "read_min": 1,
       "toyota": false,
       "excerpt": ""
     },
@@ -51,6 +131,26 @@
       "date_label": "OCT 30  18:11",
       "read_min": 2,
       "toyota": false,
+      "excerpt": "",
+      "subject_en": "Japan Conference Call: 中東危機の最新情勢",
+      "html": "data/pdfs/20261030_1811_Japan_Conference_Call__中東危機の最新情勢.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261030_1737",
+      "sender_norm": "POLITICO",
+      "subject": "Who’s afraid of whom in Brussels?",
+      "subject_en": "Who’s afraid of whom in Brussels?",
+      "html": "data/pdfs/20261030_1737_Who’s_afraid_of_whom_in_Brussels_.html",
+      "pdf": "data/pdfs/20261030_1737_Who’s_afraid_of_whom_in_Brussels_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 30  17:37",
+      "read_min": 1,
+      "toyota": false,
       "excerpt": ""
     },
     {
@@ -61,7 +161,12 @@
       "date_label": "OCT 30  15:03",
       "read_min": 11,
       "toyota": true,
-      "excerpt": "フォルクスワーゲンはアウディの米国投資が長期的な戦略の一部であり、米国での地域的な足がか"
+      "excerpt": "フォルクスワーゲンはアウディの米国投資が長期的な戦略の一部であり、米国での地域的な足がか",
+      "subject_en": "VW defends Audi’s American investment",
+      "html": "data/pdfs/20261030_1503_VW_defends_Audi’s_American_investment.html",
+      "summary_en": "Volkswagen defended Audi's potential €4 billion U.S. SUV plant investment as part of its long-term strategy to broaden its regional footprint and reduce exposure to trade barriers, after CFO Arno Antlitz confirmed tariffs will cost VW roughly €2.8 billion this year. The announcement, made at a Trump campaign rally by Audi CEO Gernot Döllner, drew sharp criticism from German politicians, with the far-right AfD citing it as evidence of Germany's declining business climate under Chancellor Friedrich Merz.",
+      "summary_ja": "フォルクスワーゲンは、アウディによる米国での40億ユーロ規模のSUV工場投資計画について、地域展開を広げ貿易障壁への依存を減らす長期戦略の一環だと擁護した。CFOのアルノ・アントリッツ氏は、関税により今年だけで約28億ユーロのコストが発生すると明らかにした。この投資計画はトランプ氏の選挙集会でアウディのゲルノート・デルナーCEOによって発表され、ドイツの政治家から批判を招き、極右政党AfDはメルツ首相下でのドイツのビジネス環境悪化の証拠だと主張している。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261030_1441",
@@ -71,17 +176,27 @@
       "date_label": "OCT 30  14:41",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Canadian love-in bears online-trade fruit",
+      "html": "data/pdfs/20261030_1441_Canadian_love-in_bears_online-trade_fruit.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261030_1022",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/10/29付",
       "pdf": "data/pdfs/20261030_1022_「ジェトロ・ビジネス短信」2026_10_29付.pdf",
       "date_label": "OCT 30  10:22",
       "read_min": 1,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "JETRO Business Brief dated 2026/10/29",
+      "html": "data/pdfs/20261030_1022_「ジェトロ・ビジネス短信」2026_10_29付.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261030_1022_「ジェトロ・ビジネス短信」2026_10_29付_en.pdf"
     },
     {
       "ts": "20261030_1019",
@@ -90,8 +205,13 @@
       "pdf": "data/pdfs/20261030_1019_Daily_Research_Summary_(in_Japanese)__2026年10月30日.pdf",
       "date_label": "OCT 30  10:19",
       "read_min": 2,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Daily Research Summary (in Japanese): 2026年10月30日",
+      "html": "data/pdfs/20261030_1019_Daily_Research_Summary_(in_Japanese)__2026年10月30日.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261030_1001",
@@ -412,7 +532,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "Notification of New JETRO Regional and Analysis Reports (October 29, 2026 Issue)",
+      "subject_en": "New Jetro Regional and Analysis Report Notification (October 29, 2026 Issue)",
       "html": "data/pdfs/20261029_1539_ジェトロ地域・分析レポートの新着のご案内（2026年10月29日号）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -429,8 +549,8 @@
       "excerpt": "ギリシャがトルコとリビアの海上国境協定をめぐり、国連安全保障理事会に提訴する予定であり、",
       "subject_en": "East Med problems go global",
       "html": "data/pdfs/20261029_1506_East_Med_problems_go_global.html",
-      "summary_en": "",
-      "summary_ja": "",
+      "summary_en": "German automakers are facing mounting pressure in China as local competition intensifies and sales continue to slide, squeezing profits at some of the industry's biggest players. The deteriorating Chinese market has become a persistent drag on bottom lines, compounding broader headwinds facing Europe's auto sector. Executives are watching closely as the world's largest car market grows tougher to navigate.",
+      "summary_ja": "ドイツの自動車メーカーは中国市場での競争激化と販売減少により、業績への圧力が強まっている。中国市場の低迷が主要企業の収益を圧迫し続けており、欧州自動車業界全体の逆風をさらに強める要因となっている。世界最大の自動車市場での事業環境が厳しさを増す中、各社の経営陣は動向を注視している。",
       "summary_pdf": ""
     },
     {
@@ -472,7 +592,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" October 28, 2026",
+      "subject_en": "\"JETRO Business Brief\" dated 2026/10/28",
       "html": "data/pdfs/20261029_1006_「ジェトロ・ビジネス短信」2026_10_28付.html",
       "summary_en": "",
       "summary_ja": "",
@@ -622,81 +742,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20261028_2117",
-      "sender_norm": "Eurasia Group",
-      "subject": "Israeli post-election update with Ambassador Daniel Shapiro - EG",
-      "pdf": "data/pdfs/20261028_2117_Israeli_post-election_update_with_Ambassador_Danie.pdf",
-      "date_label": "OCT 28  21:17",
-      "read_min": 4,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Israeli post-election update with Ambassador Daniel Shapiro - EG Conference Call, REMINDER",
-      "html": "data/pdfs/20261028_2117_Israeli_post-election_update_with_Ambassador_Danie.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261028_2006",
-      "sender_norm": "POLITICO",
-      "subject": "Impatient with Brussels, European capitals forge ahead with social",
-      "pdf": "data/pdfs/20261028_2006_Impatient_with_Brussels,_European_capitals_forge_a.pdf",
-      "date_label": "OCT 28  20:06",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Impatient with Brussels, European capitals forge ahead with social media bans ",
-      "html": "data/pdfs/20261028_2006_Impatient_with_Brussels,_European_capitals_forge_a.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261028_1939",
-      "sender_norm": "POLITICO",
-      "subject": "At least 30 people die in major Spanish train crash",
-      "pdf": "data/pdfs/20261028_1939_At_least_30_people_die_in_major_Spanish_train_cras.pdf",
-      "date_label": "OCT 28  19:39",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "At least 30 people die in major Spanish train crash",
-      "html": "data/pdfs/20261028_1939_At_least_30_people_die_in_major_Spanish_train_cras.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261028_1836",
-      "sender_norm": "POLITICO",
-      "subject": "UK budget 2026: What to watch for as Healey vows ‘breathing",
-      "pdf": "data/pdfs/20261028_1836_UK_budget_2026__What_to_watch_for_as_Healey_vows_‘.pdf",
-      "date_label": "OCT 28  18:36",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "UK budget 2026: What to watch for as Healey vows ‘breathing space’ for Brits",
-      "html": "data/pdfs/20261028_1836_UK_budget_2026__What_to_watch_for_as_Healey_vows_‘.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261028_1735",
-      "sender_norm": "POLITICO",
-      "subject": "EU prosecutors still have questions for von der Leyen over",
-      "pdf": "data/pdfs/20261028_1735_EU_prosecutors_still_have_questions_for_von_der_Le.pdf",
-      "date_label": "OCT 28  17:35",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EU prosecutors still have questions for von der Leyen over Pfizergate",
-      "html": "data/pdfs/20261028_1735_EU_prosecutors_still_have_questions_for_von_der_Le.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "Volkswagen is backing Audi's potential €4 billion U.S. SUV plant as a hedge against tariffs, which are already costing VW about €2.8 billion this year. The move signals automakers are accelerating regional manufacturing shifts to reduce trade-barrier exposure, even as it fuels political controversy in Germany over domestic investment and economic confidence."
 }
