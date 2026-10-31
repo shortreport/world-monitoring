@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31 04:02:40",
+  "generated_at": "2026-10-31 14:38:44",
   "themes": [
     {
       "id": "iaa",
@@ -8,17 +8,17 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-31 04:02:03",
+      "last_checked": "2026-10-31 14:37:34",
       "items": [
         {
-          "uid": "1aa33b41db86",
-          "date": "2026-08-20",
-          "title": "European Parliament Targets December Vote on Proposed Industrial Accelerator Act - HKTDC Research",
-          "summary": "欧州議会は欧州産業加速法案（IAA）の採決を12月に予定しており、欧州の産業競争力強化と規制緩和を目指す改革を進めている。本法案は企業の設立手続き簡素化やグリーン産業への投資促進など、欧州産業の迅速な発展を支援することを主な目的としている。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Pek9rQlBVRVRUc01QNkhfeXlHWE10SmNIUm80MTlFdEJWUy1YZVF6NXhLM1BfMVRiNjFRaUZEdFI0X2d1Nm1jSW9jY0JZcGRvZUxIdlJISTIycXJYUWJlelJB?oc=5",
-          "added_at": "2026-10-31 04:02:01"
+          "uid": "25ebc2792239",
+          "date": "2026-10-30",
+          "title": "Buying innovation vs buying protection: What we know about public procurement of innovation - CEPR",
+          "summary": "欧州産業加速法案（IAA）の文脈では、公的調達がイノベーション促進と産業保護のバランスをとる手段として機能する可能性があり、特に欧州がクリーンテック産業などの戦略的セクターで競争力を強化するために公的調達を活用することの重要性が示唆されています。IAAは、公的機関による革新的な製品・サービスの購入を通じて、域内の産業基盤を育成し、同時にグリーン転換を加速させるメカニズムとして機能することが期待されています。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkVJem9kZ3hxaUgtNmp2T29rRTgxZG1lVDlGSEhYX1R6cXBxSldzTDFjVVpCSWhjNV9nN2w5TGE0NDRjc1duYmtOYTJqeHdZZ0tuUFF4dFZzYm9WMnhMWjBHV3dzVE1qRzg1M0J0dnM1d2Zad0lxam12OFo5c0MyZGRfeF9TMGNib25WZTFJM0QzRnBjQXdhaHd5ZzdBTWJtM05GOHIzcjFUdE0?oc=5",
+          "added_at": "2026-10-31 14:37:31"
         },
         {
           "uid": "b30b0dab784f",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-31 04:02:12",
+      "last_checked": "2026-10-31 14:37:54",
       "items": [
         {
           "uid": "0f6c006cc13d",
@@ -4030,27 +4030,17 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-31 04:02:30",
+      "last_checked": "2026-10-31 14:38:23",
       "items": [
         {
           "uid": "f511bca32f22",
           "date": "2026-10-02",
           "title": "Rare Earth Magnets: China’s November 10 Deadline and US Gap Money Can’t Close - Tech Times",
-          "summary": "中国は11月10日の期限を設定してレアアース磁石の輸出管理を厳格化しており、米国が投じる資金だけではこの供給ギャップを埋めることができない状況にある。",
+          "summary": "中国が11月10日の期限を設定してレアアース磁石の輸出管理を強化する中、米国の資金投下だけでは技術・供給面での中国との格差を埋めることができない状況にある。",
           "source": "中国商務省（MOFCOM）",
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWJxY3Mxb09LTG8zdFFUc3lPUFE0ZDFJTXpnd0M0MXZqRUdndEpNRThYUjFCN25PQXktWVlSeHpuVmE3TWpmTU52WHprQjNaLWJSZENqRWtPWkFRWDcyeFdwWkpjT19KMzAyREhOWFNuM2xrdnNBcnNXVmRHYVpwSTRGaWc0eDlOWW5GdHo1dGtyc29vX1I5a09YY0JydVQzcXlXa0M2MnlNYXhSNEdxRTQyZXZmX2pCNUYydFBSSElaOTQ?oc=5",
-          "added_at": "2026-10-31 04:02:28"
-        },
-        {
-          "uid": "5ba8bfe0fe92",
-          "date": "2026-09-19",
-          "title": "Ex-China Rare Earth Supply Chain Progress Week Sept 2026 - Rare Earth Exchanges",
-          "summary": "申し訳ございませんが、提供いただいたテキストはタイトルのみで、具体的な記事内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、「中国レアアース輸出管理」の文脈での要約を作成いたします。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04QXc2a1NjVmY5dnNjT2hVYjFURzdSN3hoZUZJSVhOak9XanU1a04yN2JxTXJvYXJDSzNTUUNta20wei1ZejkzYTQxMXN6aWlYVmVTQUM4Vm00ZjZNMkJRdnFlX0VLWkR4WjZya29vWVlGSmI5ZjBNZktjRU0?oc=5",
-          "added_at": "2026-10-31 04:02:28"
+          "added_at": "2026-10-31 14:38:21"
         },
         {
           "uid": "0f1beec9afc2",
@@ -6031,6 +6021,16 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUll1ck44MktLUzdlNG1UVHhmWkRSbEMwU3RRM2dyUzBYYWRfYk5fS0hUVF9oVDYzUk9lbVRmQTZaOW42U3BFM1dxYkNZYUVKempUSGdHV1pxOGNJWFlJOUo0OTAwS01BbGdVZTd0MFRmaERwOXd1dWZXNVBtOGV4aVp0b2N3c2xoLTlYVkFCbEQxangyVzUydlh0LU96OGc?oc=5",
           "added_at": "2026-09-25 13:31:02"
+        },
+        {
+          "uid": "0148be885b50",
+          "date": "2026-09-18",
+          "title": "Market Chatter: MP Materials' Shareholder Shenghe Resources in Talks to Be Acquired by China Rare Earth - Yahoo Finance",
+          "summary": "MP Materials の株主である Shenghe Resources が中国のレアアース企業による買収交渉を進めており、中国のレアアース産業の統合と支配力の強化が進んでいることを示唆している。",
+          "source": "中国レアアース企業",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0dHaFExZl9nUy1jam51ZU0zcUZwU21iQmtXNWhkZ2NPUVA0RjFfVl9hRF95ampveFFtd2szR0hvUFpXaHBVT3IwaVI5VjYxUzd3VDhXTHV2Z3l6MnRwY1hXdXFBS0NYaVFiSGdZVHM4eHdaSkczaDdWU2J5ajJBbURSYTgzUGVQQXJnbEFrNklGQjNyUFdsUTdzaEUzdw?oc=5",
+          "added_at": "2026-09-25 13:31:02"
         }
       ]
     },
@@ -6041,27 +6041,47 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-31 04:02:40",
+      "last_checked": "2026-10-31 14:38:44",
       "items": [
+        {
+          "uid": "ed575b8eed63",
+          "date": "2026-09-08",
+          "title": "Trump administration blasts Ford’s business deals with Chinese firms - WTAQ",
+          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判した。",
+          "source": "下院中国特別委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFVmWkl1VnZHVGluc2JXU3RyMUJoQVNmTURBY19ydEljQVJrVU9XUmkxY2tuWEYtaDRkSEpjb1J5RmZZVWE4SW5mZ2UtUWdXLTVFVU5saDNpZHR4Vk5ZQWN0RGl2R3FYN3RFYTM2Rkl3WkRrRU5Qd0VOb2xXcG9vSkVIQmJMdU5TUlRtYm9qdjR6UXFCY0NfQTd5UQ?oc=5",
+          "added_at": "2026-10-31 14:38:37"
+        },
         {
           "uid": "78ddb8b6368b",
           "date": "2026-09-17",
           "title": "Detroit auto leaders push back on Chinese carmakers as Trump signals openness to U.S. production - Car Dealership Guy News",
-          "summary": "デトロイトの自動車メーカーは中国の自動車メーカーに対抗する姿勢を示しており、トランプ氏は米国内での生産を容認する可能性を示唆している。デトロイトの自動車業界指導者たちは、米国での中国メーカーの事業展開に対する政治的圧力の中で、国内生産維持の重要性を主張している。",
+          "summary": "デトロイトの自動車大手経営者らは、トランプ前大統領が中国自動車メーカーの米国生産への対応を示唆する中、中国勢に対抗する姿勢を強めており、米国内生産の維持・拡大を政治的に推し進めている。",
           "source": "トランプ政権高官",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZHRhTVQxZ0E5Mmxfc2JuU2hyRHVRTzVqbGZpbkhPOHJPWDNFRF9pUTNYRkw5UXliNjc3ODItd3dyclV4cEZTTjNRMklFcmRfeUVHUW9EZVVSOEQyek1ETnlpN0J0NldvTk14OTg2aWZjdFpGNTNGREJSRVJPbUJrSm1VRVZTUk90MS0yWHZrdjZsbXFIV3E3Q1RLMHBreS1GUktyZHFqVzM0TkNsaV9MLURBTzhIaDE3SXg3T3VMeDRBeDNwRmkw?oc=5",
-          "added_at": "2026-10-31 04:02:37"
+          "added_at": "2026-10-31 14:38:37"
         },
         {
-          "uid": "4f6149a5a391",
-          "date": "2026-10-29",
-          "title": "Volkswagen posts deepest loss since Dieselgate on Porsche writedown, China woes - Reuters",
-          "summary": "フォルクスワーゲンが中国での経営悪化とポルシェ関連の減損損失により、ディーゼルゲート以来最大の赤字を計上した。これは中国市場への過度な依存と提携戦略の課題が、自動車メーカーの経営リスクとなっていることを示している。",
-          "source": "Reuters",
+          "uid": "3634a8e7ba6a",
+          "date": "2026-10-31",
+          "title": "Ukraine gets approval for Patriot missile sale",
+          "summary": "申し訳ございませんが、提供いただいた記事は「ウクライナへのパトリオット・ミサイル売却承認」に関する内容で、「自動車メーカーの対中提携への政治的批判」とは無関係です。要約の依頼文脈と記事内容が一致していないため、要約することができません。正しい記事をご提供ください。",
+          "source": "The Hill",
           "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPME5ta3ZpdnRTQXdPNzgwZ0pkYVEtX1N1OGR2SzRpV2o4V2RDMWJLY1YxQ3VXZ2M3b2JTWTAxUHRmNlhPa3FVQ1A3TUVzSFhLVWJqMXVFX0k3Z050Y2dMdEVJbTF0eVowNG4yUlZUd3VKYXg2MkR6aS1fOHdDbVprLWFnOU5tRXNzVGdNQVN6R0QteXB4SXdIMVozVTFoelF3aExzMXRpczJkZTExSHAtbHpFaVlNWW5NTnlZUHJn?oc=5",
-          "added_at": "2026-10-31 04:02:37"
+          "url": "https://thehill.com/newsletters/defense-national-security/6185817-us-approves-ukraine-patriot-missiles/",
+          "added_at": "2026-10-31 14:38:37"
+        },
+        {
+          "uid": "305c077f0c87",
+          "date": "2026-10-31",
+          "title": "Trump says Iran war will end ‘soon’",
+          "summary": "申し訳ありませんが、提供いただいた記事は「イラン戦争の終結」に関する政治的声明であり、「自動車メーカーの対中提携への政治的批判」という文脈とは無関係です。そのため、要求された文脈に沿った要約はできません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/newsletters/defense-national-security/6185808-trump-iran-war-ending-soon/",
+          "added_at": "2026-10-31 14:38:37"
         },
         {
           "uid": "5b7584006e44",
@@ -8021,26 +8041,6 @@
           "source": "Reuters",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUNJQ25mYi11NFg0WjVHdEZaSjVqMHhQS0NIT2tfQjc5UF9EZUpGWUNWZW40VGlmZjlhRFVZTkRicnh3UTlERy1vcU9majF6em4wYlRVN1V5S0RaTnpmR0VDdDV5VzBqNHY5dWNuWEJtdkF3VWNfQlVLbDc4S19Zb1Y1MzYxN2kwNGhVRF9uVUF0RTZPaVoyX1NvRmRkeFVG?oc=5",
-          "added_at": "2026-09-30 13:20:49"
-        },
-        {
-          "uid": "403a5ed1bd80",
-          "date": "2026-09-24",
-          "title": "BlackBerry lifts annual revenue forecast on strength in automotive software business - Reuters",
-          "summary": "BlackBerryが自動車ソフトウェア事業の好調を受けて年間売上予想を引き上げた一方で、自動車業界における対中提携が政治的な議論の対象となっていることを背景に、テクノロジー企業の国家安全保障上の重要性が増していることが示唆されている。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTYtSzdtandreWhMSE9ZXzJoWXRWM1Zia2hTVHRERnduQnB4aXZCX3BGclo0dmZmc3NwNEhQdWx5V0RQRzZwT0tzN3QwRkw0blB4UUM3cjhNdW9KblhlMUVHOHNkZGNHWENyNmFpcm04cTFQYWdGTTMzQ0ZHVlE2bi1rTVI1ZFk1ZFJhcHVHcWw3cXlKd3B4LUJfS2lpckY0ZmtwYjhSak44MlUxMGFTSW5VWXpCLTlVdnAtSC0xVnc?oc=5",
-          "added_at": "2026-09-30 13:20:49"
-        },
-        {
-          "uid": "6d04469cb5c7",
-          "date": "2026-09-30",
-          "title": "What products are part of US-China $60 billion tariff cuts deal",
-          "summary": "この記事は米中間の関税削減合意の具体的な対象品目を列挙するもので、自動車メーカーの対中提携への政治的批判との直接的な関連性はありません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/business/6119380-us-china-tariff-cuts/",
           "added_at": "2026-09-30 13:20:49"
         }
       ]
