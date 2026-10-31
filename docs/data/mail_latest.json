@@ -1,230 +1,112 @@
 {
-  "generated_at": "2026-10-30 10:04 JST",
-  "sender_count": 5,
-  "total_mails": 24,
+  "generated_at": "2026-10-31 14:38 JST",
+  "sender_count": 3,
+  "total_mails": 9,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 9,
+      "count": 6,
       "bullets": [
-        "イスラエルの選挙は膠着状態に終わり、数カ月以内に新たな選挙実施の見通し",
-        "フランスの大統領有力候補マリーヌ・ルペンの勝利が現実化した場合、2028年からウクライナへのEU支援が途絶する可能性",
-        "米国の技術統制は標的型制裁に限定され、民間向け「キルスイッチ」シナリオの実現は現実的ではない見通し",
-        "米国はイラン核合意で核関連要求の後退を余儀なくされ、限定的合意に向かう展開",
-        "中国共産党中央委員会総会人事で軍事改革推進の橋渡し役が昇進"
-      ],
-      "subjects": [
-        [
-          "2026-10-29",
-          "Israeli elections likely to end in deadlock",
-          "data/pdfs/20261029_2134_Israeli_elections_likely_to_end_in_deadlock.pdf"
-        ],
-        [
-          "2026-10-30",
-          "Kill switch fears overblown despite Starlink",
-          "data/pdfs/20261030_0044_Kill_switch_fears_overblown_despite_Starlink.pdf"
-        ],
-        [
-          "2026-10-30",
-          "US retreat on nuclear demands necessary for limited deal",
-          "data/pdfs/20261030_0048_US_retreat_on_nuclear_demands_necessary_for_limite.pdf"
-        ],
-        [
-          "2026-10-30",
-          "Ukraine: EU support at risk from 2028",
-          "data/pdfs/20261030_0123_Ukraine__EU_support_at_risk_from_2028.pdf"
-        ],
-        [
-          "2026-10-30",
-          "Plenum appointments provide bridge to a rebuilt military",
-          "data/pdfs/20261030_0159_Plenum_appointments_provide_bridge_to_a_rebuilt_mi.pdf"
-        ],
-        [
-          "2026-10-30",
-          "India's trade deals with Canada, EU on track",
-          "data/pdfs/20261030_0313_India's_trade_deals_with_Canada,_EU_on_track.pdf"
-        ],
-        [
-          "2026-10-30",
-          "US investment restrictions will steer Chinese biotech deals toward",
-          "data/pdfs/20261030_0637_US_investment_restrictions_will_steer_Chinese_biot.pdf"
-        ],
-        [
-          "2026-10-30",
-          "Energy and Environment Outlook",
-          "data/pdfs/20261030_0721_Energy_and_Environment_Outlook.pdf"
-        ],
-        [
-          "2026-10-30",
-          "APAC & Japan Conference Call",
-          "data/pdfs/20261030_1001_APAC_&_Japan_Conference_Call__「米国中間選挙の影響」(同時通訳あり）_.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261029_2134_Israeli_elections_likely_to_end_in_deadlock.pdf",
-        "data/pdfs/20261030_0044_Kill_switch_fears_overblown_despite_Starlink.pdf",
-        "data/pdfs/20261030_0048_US_retreat_on_nuclear_demands_necessary_for_limite.pdf",
-        "data/pdfs/20261030_0123_Ukraine__EU_support_at_risk_from_2028.pdf",
-        "data/pdfs/20261030_0159_Plenum_appointments_provide_bridge_to_a_rebuilt_mi.pdf",
-        "data/pdfs/20261030_0313_India's_trade_deals_with_Canada,_EU_on_track.pdf",
-        "data/pdfs/20261030_0637_US_investment_restrictions_will_steer_Chinese_biot.pdf",
-        "data/pdfs/20261030_0721_Energy_and_Environment_Outlook.pdf",
-        "data/pdfs/20261030_1001_APAC_&_Japan_Conference_Call__「米国中間選挙の影響」(同時通訳あり）_.pdf"
-      ]
-    },
-    {
-      "sender": "Eurasia",
-      "short": "EURAS",
-      "color": "YEL",
-      "count": 1,
-      "bullets": [
-        "Starlink の通信制限事件により、民間技術の「キルスイッチ」シナリオに対する懸念が増幅される可能性",
-        "域外制裁がヨーロッパ、カナダ、インド、ブラジルなどの地域におけるキルスイッチ懸念を駆動",
-        "民間技術の「キルスイッチ」シナリオ自体は依然として現実的でない状況"
+        "米国は11月中旬にイランに対する空爆作戦を開始する可能性が高く（確率65%）、イランはホルムズ海峡の海底ケーブル標的を含む強硬な報復の可能性",
+        "対イラン軍事行動のエスカレーションが基本シナリオに変更され、原油価格は1バレル110～125ドル範囲への上昇を予想",
+        "ル・ペン氏の勝利はEUのウクライナ支援の広範な縮小をもたらすリスク",
+        "米国での民主党の上院選挙での勝利確率が上昇",
+        "限定的なUS-イラン合意の可能性は低く、米国のエスカレーション継続の道を開く"
       ],
       "subjects": [
         [
           "2026-10-30",
-          "Daily Research Summary - Oct 29th, 2026",
-          "data/pdfs/20261030_0834_Daily_Research_Summary_-_Oct_29th,_2026.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261030_0834_Daily_Research_Summary_-_Oct_29th,_2026.pdf"
-      ]
-    },
-    {
-      "sender": "Michael",
-      "short": "MICHA",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "クライアントや学生からロシアのハイブリッド戦争能力とその脅威についての質問が頻繁に寄せられている状況",
-        "ユーラシア・グループが各地域・セクターの今後の政治的およびマクロ経済的動向について見解を定期的に発信する一連のレターの最新号",
-        "ロシアのハイブリッド戦争がヨーロッパの政府に与える脅威への対応が企業にとって重要な課題"
-      ],
-      "subjects": [
+          "Daily Research Summary (in Japanese): 2026年10月30日",
+          "data/pdfs/20261030_1019_Daily_Research_Summary_(in_Japanese)__2026年10月30日.pdf"
+        ],
         [
-          "2026-10-29",
-          "Practice Letter: Russia’s hybrid war threat",
-          "data/pdfs/20261029_2327_Practice_Letter__Russia’s_hybrid_war_threat.pdf"
+          "2026-10-30",
+          "Japan Conference Call: 中東危機の最新情勢",
+          "data/pdfs/20261030_1811_Japan_Conference_Call__中東危機の最新情勢.pdf"
+        ],
+        [
+          "2026-10-30",
+          "Le Pen victory would risk EU support for Ukraine",
+          "data/pdfs/20261030_2151_Le_Pen_victory_would_risk_EU_support_for_Ukraine.pdf"
+        ],
+        [
+          "2026-10-31",
+          "Late polling surge boosts Democratic odds in Senate",
+          "data/pdfs/20261031_0042_Late_polling_surge_boosts_Democratic_odds_in_Senat.pdf"
+        ],
+        [
+          "2026-10-31",
+          "Resilience replaces labels in sustainable finance",
+          "data/pdfs/20261031_0044_Resilience_replaces_labels_in_sustainable_finance.pdf"
+        ],
+        [
+          "2026-10-31",
+          "US Election Update",
+          "data/pdfs/20261031_0503_US_Election_Update.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261029_2327_Practice_Letter__Russia’s_hybrid_war_threat.pdf"
+        "data/pdfs/20261030_1019_Daily_Research_Summary_(in_Japanese)__2026年10月30日.pdf",
+        "data/pdfs/20261030_1811_Japan_Conference_Call__中東危機の最新情勢.pdf",
+        "data/pdfs/20261030_2151_Le_Pen_victory_would_risk_EU_support_for_Ukraine.pdf",
+        "data/pdfs/20261031_0042_Late_polling_surge_boosts_Democratic_odds_in_Senat.pdf",
+        "data/pdfs/20261031_0044_Resilience_replaces_labels_in_sustainable_finance.pdf",
+        "data/pdfs/20261031_0503_US_Election_Update.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "ORG",
-      "count": 12,
+      "color": "YEL",
+      "count": 2,
       "bullets": [
-        "EUとカナダが歴史的なサミットをモントリオールで開催し、トランプ政権対策を含む重要な協定締結を目指している状況",
-        "ギリシャがトルコ・リビア間の海上国境協定について国連安全保障理事会に提訴する予定で、EU指導部が国際法違反と支持している問題",
-        "カナダ首相マーク・カーニーは気候変動対策の推進者とみなされているが、実際には環境政策での後退を指摘されている状況",
-        "ウクライナの平和交渉が進行中だが、米国とイランの対立激化がゼレンスキー大統領によって交渉妨害の懸念要因と認識されている状況",
-        "ECB（欧州中央銀行）のラガルド総裁が2月に退任予定で、マクロン仏大統領に後任人事での発言権が生じる見通し"
+        "カナダはオンライン取引で実を結ぶ協力を展開中",
+        "フォルクスワーゲンがアウディの米国投資を長期戦略の一環と防衛。トランプ関税で28億ユーロの損失見込み",
+        "アウディが米国にSUV工場建設へ40億ユーロ投資を計画",
+        "ドイツ極右政党がアウディの米国投資をドイツの魅力低下の証拠として指摘",
+        "欧州自動車メーカーが売上急落と利益低下を報告。電動車販売のみ堅調も業界全体は厳しい局面"
       ],
       "subjects": [
         [
-          "2026-10-29",
-          "Brussels bets big on Canada",
-          "data/pdfs/20261029_1446_Brussels_bets_big_on_Canada.pdf"
-        ],
-        [
-          "2026-10-29",
-          "East Med problems go global",
-          "data/pdfs/20261029_1506_East_Med_problems_go_global.pdf"
-        ],
-        [
-          "2026-10-29",
-          "Mark Carney isn’t the climate hero Europeans think",
-          "data/pdfs/20261029_1735_Mark_Carney_isn’t_the_climate_hero_Europeans_think.pdf"
-        ],
-        [
-          "2026-10-29",
-          "Ukraine peace talks: 5 things to know about the chances of a deal",
-          "data/pdfs/20261029_1835_Ukraine_peace_talks__5_things_to_know_about_the_ch.pdf"
-        ],
-        [
-          "2026-10-29",
-          "Quebec premier boycotts Mark Carney’s EU summit",
-          "data/pdfs/20261029_1900_Quebec_premier_boycotts_Mark_Carney’s_EU_summit.pdf"
-        ],
-        [
-          "2026-10-29",
-          "Christine Lagarde to step down as ECB president in February",
-          "data/pdfs/20261029_1923_Christine_Lagarde_to_step_down_as_ECB_president_in.pdf"
-        ],
-        [
-          "2026-10-29",
-          "EU and Canada eye now-or-never window to Trump-proof their",
-          "data/pdfs/20261029_2205_EU_and_Canada_eye_now-or-never_window_to_Trump-pro.pdf"
-        ],
-        [
-          "2026-10-29",
-          "Jet fuel prices will bankrupt airlines this winter, but not Wizz Air,",
-          "data/pdfs/20261029_2309_Jet_fuel_prices_will_bankrupt_airlines_this_winter.pdf"
-        ],
-        [
-          "2026-10-29",
-          "Lagarde’s bandages due to a ‘little skin cancer,’ not ‘kick-boxing in",
-          "data/pdfs/20261029_2320_Lagarde’s_bandages_due_to_a_‘little_skin_cancer,’_.pdf"
+          "2026-10-30",
+          "Canadian love-in bears online-trade fruit",
+          "data/pdfs/20261030_1441_Canadian_love-in_bears_online-trade_fruit.pdf"
         ],
         [
           "2026-10-30",
-          "Pro Daily Headlines",
-          "data/pdfs/20261030_0131_Pro_Daily_Headlines.pdf"
-        ],
-        [
-          "2026-10-30",
-          "Rising electric car sales complicate auto industry plea for emissions",
-          "data/pdfs/20261030_0325_Rising_electric_car_sales_complicate_auto_industry.pdf"
-        ],
-        [
-          "2026-10-30",
-          "Everything that went wrong with Spain’s high-speed railways",
-          "data/pdfs/20261030_0622_Everything_that_went_wrong_with_Spain’s_high-speed.pdf"
+          "VW defends Audi’s American investment",
+          "data/pdfs/20261030_1503_VW_defends_Audi’s_American_investment.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261029_1446_Brussels_bets_big_on_Canada.pdf",
-        "data/pdfs/20261029_1506_East_Med_problems_go_global.pdf",
-        "data/pdfs/20261029_1735_Mark_Carney_isn’t_the_climate_hero_Europeans_think.pdf",
-        "data/pdfs/20261029_1835_Ukraine_peace_talks__5_things_to_know_about_the_ch.pdf",
-        "data/pdfs/20261029_1900_Quebec_premier_boycotts_Mark_Carney’s_EU_summit.pdf",
-        "data/pdfs/20261029_1923_Christine_Lagarde_to_step_down_as_ECB_president_in.pdf",
-        "data/pdfs/20261029_2205_EU_and_Canada_eye_now-or-never_window_to_Trump-pro.pdf",
-        "data/pdfs/20261029_2309_Jet_fuel_prices_will_bankrupt_airlines_this_winter.pdf",
-        "data/pdfs/20261029_2320_Lagarde’s_bandages_due_to_a_‘little_skin_cancer,’_.pdf",
-        "data/pdfs/20261030_0131_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20261030_0325_Rising_electric_car_sales_complicate_auto_industry.pdf",
-        "data/pdfs/20261030_0622_Everything_that_went_wrong_with_Spain’s_high-speed.pdf"
+        "data/pdfs/20261030_1441_Canadian_love-in_bears_online-trade_fruit.pdf",
+        "data/pdfs/20261030_1503_VW_defends_Audi’s_American_investment.pdf"
       ]
     },
     {
-      "sender": "ジェトロ",
-      "short": "ジェトロ",
-      "color": "GRN",
+      "sender": "ビジネス短信",
+      "short": "ビジネス短",
+      "color": "RED",
       "count": 1,
       "bullets": [
-        "アジア大洋州地域での所得向上、都市化、デジタル化により消費者のニーズと購買行動が多様化",
-        "ASEAN主要国、インド、バングラデシュの消費者が価値を見いだす点、消費特性、購買決定要因を分析",
-        "各国・各分野の日系企業事例を通じた消費者動向の横断的な読み解き",
-        "日本企業の市場機会と事業展開ヒントの提示"
+        "中国が高齢者サービスの質向上と供給拡大に向けた価格形成メカニズム整備に係る指導意見を発表",
+        "中国初のAI制作劇場映画「三星堆：未来往事」を公開",
+        "中国が内陸水路における新エネルギー船舶普及のための行動プランを発表",
+        "成都と重慶の両都市圏が第15次5カ年規画を発表",
+        "韓国の第3四半期GDP成長率が前期比1.0％で、輸出と設備投資が牽引",
+        "モンゴルの外貨準備高が好調な輸出を背景に過去最高を更新"
       ],
       "subjects": [
         [
-          "2026-10-29",
-          "ジェトロ地域・分析レポートの新着のご案内（2026年10月29日号）",
-          "data/pdfs/20261029_1539_ジェトロ地域・分析レポートの新着のご案内（2026年10月29日号）.pdf"
+          "2026-10-30",
+          "「ジェトロ・ビジネス短信」2026/10/29付",
+          "data/pdfs/20261030_1022_「ジェトロ・ビジネス短信」2026_10_29付.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261029_1539_ジェトロ地域・分析レポートの新着のご案内（2026年10月29日号）.pdf"
+        "data/pdfs/20261030_1022_「ジェトロ・ビジネス短信」2026_10_29付.pdf"
       ]
     }
   ]
