@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31 14:38:44",
+  "generated_at": "2026-10-31 19:46:45",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-10-31 14:37:34",
+      "last_checked": "2026-10-31 19:46:13",
       "items": [
+        {
+          "uid": "1aa33b41db86",
+          "date": "2026-08-20",
+          "title": "European Parliament Targets December Vote on Proposed Industrial Accelerator Act - HKTDC Research",
+          "summary": "欧州議会は提案された産業加速法案（IAA）について12月の投票を目指しており、この法案はEUの産業競争力強化と規制簡素化を通じて経済成長を加速することを目的としている。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Pek9rQlBVRVRUc01QNkhfeXlHWE10SmNIUm80MTlFdEJWUy1YZVF6NXhLM1BfMVRiNjFRaUZEdFI0X2d1Nm1jSW9jY0JZcGRvZUxIdlJISTIycXJYUWJlelJB?oc=5",
+          "added_at": "2026-10-31 19:46:12"
+        },
         {
           "uid": "25ebc2792239",
           "date": "2026-10-30",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEFYR2ZfSDNEc2tQNk5hNWpPN0lfMzllYlJPUjdSYXBJX2tSdk93R0ZBUkNaSDlqMHNnSjRWZTlWWk1DbVBQc0h2djZZLThvSmxEZnBueWpHLUxpRkJYLWZyR29UMGxlU1U4STgyTUhSX0k4ZEd1M0NXN3dLOXlxLW16SzYzbTdNMENJ?oc=5",
           "added_at": "2026-08-28 01:13:22"
-        },
-        {
-          "uid": "e45d8f0716ff",
-          "date": "2026-08-25",
-          "title": "Europe’s clean industry debate pits France against Germany - politico.eu",
-          "summary": "欧州産業加速法案（IAA）をめぐり、フランスとドイツが対立しており、クリーンエネルギーと産業競争力の政策方針について意見が分かれています。この対立は、欧州全体のグリーン産業戦略の方向性に大きな影響を与えています。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2xEeE9ldmszejZDLU5CSXJtb2ctWTltYWJ5ZGJEWG9Ua2ZoazRpTHBZSjZSUDNTSG5INVFNNW1WdHJKVk54R2ZFcWJNT3I3R19leGN5LXYxTnpyM1YzaUhidTBzNnJZSWxrVzZuVW9sckEzR2JlemtPem1Sa2trazN6TEFIUXhVOTBqajVvcWJmVUpuSW9TRHM4RkhfdEZWX09WeUNwanQ?oc=5",
-          "added_at": "2026-08-26 23:48:56"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-10-31 14:37:54",
+      "last_checked": "2026-10-31 19:46:21",
       "items": [
         {
           "uid": "0f6c006cc13d",
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-10-31 14:38:23",
+      "last_checked": "2026-10-31 19:46:39",
       "items": [
+        {
+          "uid": "13c30f7e5580",
+          "date": "2026-09-16",
+          "title": "Von der Leyen hardens EU trade stance on China as deficit runs at €1bn a day - EU Today",
+          "summary": "EUのフォンデアライエン委員長は、中国との貿易赤字が1日1億ユーロに達する中、中国のレアアース輸出管理を含む不公正な貿易慣行に対抗するため、EUの貿易姿勢を強化している。この動きは、中国の戦略的資源の輸出制限に対する欧州の対抗措置として位置付けられている。",
+          "source": "欧米要人発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RSVUxVHNuUUM4NERQZFAzcTdUZVY3OWdnSGFUQjFPRzhPT2xFYU83X1FLUUlCUmpXS2ZEdTQzTzd1RzVDcFFQTXA2UEhQNnRna3dpbHpzdjlRNFJoZEh1WlBHbXNyeWl6?oc=5",
+          "added_at": "2026-10-31 19:46:35"
+        },
+        {
+          "uid": "c22e84210ab0",
+          "date": "2026-10-21",
+          "title": "Japan runs low on yttrium amid Chinese supply squeeze - Mining.com.au",
+          "summary": "中国がレアアース輸出を制限する中、日本はイットリウム（yttrium）の供給不足に直面しており、中国の輸出管理政策による資源調達の脆弱性が顕在化しています。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUU15VHBEdFBDZU95dllKWEdueWNyYjlTVWViOEVvVS1teWFOUDI2aHBmcFhOdzZXX0UyLXp0YWpVSGcyMVc5UDF1VzJGMHoyYllKcXJpMmtKMFlZYXpsX2dfZWZHVXlrbVJ4RDVEMTNDNjRnbHpjNWdQbXF3S1lQZkx3?oc=5",
+          "added_at": "2026-10-31 19:46:35"
+        },
+        {
+          "uid": "f5693cfa36d2",
+          "date": "2026-08-09",
+          "title": "Breaking China's Rare Earth Grip: The 5-Year Path to Victory Runs Through Commercial Production - BigGo Finance",
+          "summary": "中国が支配するレアアース市場から脱却するには、代替供給源の商業化が5年以内に実現されることが重要であり、これにより中国の輸出管理による影響力を制限できる可能性がある。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45Ui1aM3dTVXdGLTNyOW90RkxvejhoMjFOYW9BWDNuallSSGQzV01SU0s1ZjBZbFhXWG84SVlXZlNlcDYtdUE0WXlqakxHUlJVRjVlWHJ5QU85VUpxNTVodlpleWRXUDdqdkY5SVA5RFh2cEc4UFE?oc=5",
+          "added_at": "2026-10-31 19:46:35"
+        },
         {
           "uid": "f511bca32f22",
           "date": "2026-10-02",
@@ -6001,36 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd0stNnA1OUJ5RmZBc2hXc2s0ODdPdTgyQmhmMmlWdl9WdDNOcjhsbU9ldDRnLXBQQWVsRTlMdnoyb3VfczBKc3EyT1F3SlVzSWZjd2NZRFRaaFdNazJDamx0TVdDS0trRTRxbTQwaFExS1k1eWdRS19BMkZta3hDMnBWWjh4QUtkT25WZGNtUVZ0RlpVMHM0OVdaZmdTTk9ZaXVEOTlFM0tKWGV5MmE0UXM1LVhORlZod2tYM1BJMF83UlI3bmpqV0hLTlllaFVrUXFHaHJVSDMxaFNfS3FXaWxpemV2el9wUURxMjBn?oc=5",
           "added_at": "2026-09-28 11:33:38"
-        },
-        {
-          "uid": "2c5471e1600f",
-          "date": "2026-08-05",
-          "title": "Lockheed Martin seeks domestic fighter metal supply amid China export controls - AeroTime",
-          "summary": "# 要約\n\nロッキード・マーティンは中国によるレアアースなどの戦略的金属の輸出規制に対応するため、戦闘機製造に必要な金属の国内調達体制の構築を進めている。これはアメリカがサプライチェーン上の中国依存リスクを低減しようとしている取り組みを示している。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUFM2RHlrUFpja2R4VmtiSmI5czM3QndLem5TdlF2TnJnbjRkYWpDaXdHdzB2UTZyNW83WTFwMEFCZEF1YUJYZFVVdUNyemVSMHBJcUNGaGZScEE0dS10UGVUX3VFc3ZzUVVjbU42Vm5kb0VIOXJ1bVNpaFhJY252RWlQaUs4QlVuSzJxSXM2WWzSAZYBQVVfeXFMTnQxdjNyeHFCV096U09OODlWUnAtUVotRHZjakhWVDhBbkRXLVFhblA0azlGZ3lRRmxIaXp2aGpsbWMxMTVldWRzamNOa1cyYlgxLTJtaDNUTThZeWhBSTJBQWdEeTl2UkNydzNfYVRReGEwZnFORThGM0ZKSTctUVdQckxCNnBqd1ZCWmpWRUx3ZEJYMGJR?oc=5",
-          "added_at": "2026-09-28 11:33:38"
-        },
-        {
-          "uid": "c74076f9373b",
-          "date": "2026-09-22",
-          "title": "Controlling rare earth elements: A difficult issue in the Donald Trump - Xi Jinping meeting. - Vietnam.vn",
-          "summary": "中国はレアアースの戦略的価値を認識し、米国との交渉における重要なカードとして活用しており、トランプ前大統領との会談ではレアアース輸出管理が両国間の難しい交渉課題として浮上していた。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUll1ck44MktLUzdlNG1UVHhmWkRSbEMwU3RRM2dyUzBYYWRfYk5fS0hUVF9oVDYzUk9lbVRmQTZaOW42U3BFM1dxYkNZYUVKempUSGdHV1pxOGNJWFlJOUo0OTAwS01BbGdVZTd0MFRmaERwOXd1dWZXNVBtOGV4aVp0b2N3c2xoLTlYVkFCbEQxangyVzUydlh0LU96OGc?oc=5",
-          "added_at": "2026-09-25 13:31:02"
-        },
-        {
-          "uid": "0148be885b50",
-          "date": "2026-09-18",
-          "title": "Market Chatter: MP Materials' Shareholder Shenghe Resources in Talks to Be Acquired by China Rare Earth - Yahoo Finance",
-          "summary": "MP Materials の株主である Shenghe Resources が中国のレアアース企業による買収交渉を進めており、中国のレアアース産業の統合と支配力の強化が進んでいることを示唆している。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0dHaFExZl9nUy1jam51ZU0zcUZwU21iQmtXNWhkZ2NPUVA0RjFfVl9hRF95ampveFFtd2szR0hvUFpXaHBVT3IwaVI5VjYxUzd3VDhXTHV2Z3l6MnRwY1hXdXFBS0NYaVFiSGdZVHM4eHdaSkczaDdWU2J5ajJBbURSYTgzUGVQQXJnbEFrNklGQjNyUFdsUTdzaEUzdw?oc=5",
-          "added_at": "2026-09-25 13:31:02"
         }
       ]
     },
@@ -6041,7 +6041,7 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-10-31 14:38:44",
+      "last_checked": "2026-10-31 19:46:45",
       "items": [
         {
           "uid": "ed575b8eed63",
