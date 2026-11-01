@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01 20:51:12",
+  "generated_at": "2026-11-02 03:47:58",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-01 20:45:03",
+      "last_checked": "2026-11-02 03:47:25",
       "items": [
         {
           "uid": "c97ab75b7422",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-01 20:47:05",
+      "last_checked": "2026-11-02 03:47:35",
       "items": [
+        {
+          "uid": "84e31ea843d4",
+          "date": "2026-08-28",
+          "title": "Slotkin bill would ban Chinese cars and parts from US market - WILX",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国製の自動車および自動車部品の米国市場への流入を禁止することで、供給チェーンの安全保障を強化し、中国による潜在的なサイバー脅威から米国の輸送インフラを保護することを目的としています。",
+          "source": "議員発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdWVjM25GOWhRcDMzbW0zSHNTamo3YTAyUXN4QjdydjZVcTVvbEFseTl1M0VqOVN5UHNGbk1MN09LLXNGdE5PZFdGb0c0RGJsWUk1c0F1VzdHR3VKSHpCNlhtX201dFJ0djFiQmlTajNjdkt1eWVrNWJ5cUZKT0dCWlhDaEhCTHg3VWEzS9IBoAFBVV95cUxQRWE4b204cWgyVmRhbE1uY296NU1xWWhSdDJWa2E1dUZUYmlMU1FSOUdjV3pOSGlyVlFaSG5VM2ZNVThFNHNtWkFMRi15dFd2dFhRelVXUXZJa19KaFZoYW9Gcl9CWEJ1cnl1Rlp0RHVxTDdHTk5PbEJLc2YyQnB1YzJNUXExcG9SVnM5QUJNYTlfRldlSlpxdHNUai0yVC00?oc=5",
+          "added_at": "2026-11-02 03:47:33"
+        },
         {
           "uid": "211f1b7f720c",
           "date": "2026-09-04",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSnBObkNET2p1cUNDX1RXcmdFM2o0aUlIVEliOVRVNVNjRVZzTDRUeWVybWV6cV9mdXo2eGs5aFNHdzF2cl9Jc2Eta1J4QzdhUEQ5TXBiamJoVGRvbExzdGRDd3VYNHZTdnJhbUpkYkFEVTdjTWpGcTVBeUFSbWhKcmlwLTkwSUFtUzR5WEFVOUxVWmxUVEFTaXZwa0xnenhzVTVIYWQ5Q0FIcDBpc1l4M1FvZ1NNOUZjMnc?oc=5",
           "added_at": "2026-08-30 19:21:30"
-        },
-        {
-          "uid": "51d1869a6013",
-          "date": "2026-07-22",
-          "title": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S. - CNBC",
-          "summary": "米国の上院委員会が中国関連の自動車規制法案を承認し、この法案はメルセデス・ベンツを含む外国自動車メーカーが米国市場から排除される可能性がある内容を含んでいます。本法案（S.4429）は、中国との関連性が強い自動車企業の米国での事業を制限することを目的としています。",
-          "source": "上院議員",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONzRJWUthVml3MmwtMlFBWjk2WTlKc29CaER2eE9MSkRET3daLWpGLXJDQkNoOE91bHdYUV9Scmpmakptd3lXaEFJY2t6eGRRSjFyb2VFREc2d3AwNmJYZUo2MWs2ZVFXbEhHa3daR3dXTW9RWk5RUUFONW1TLWxQamhFdzI?oc=5",
-          "added_at": "2026-08-29 20:31:03"
         }
       ]
     },
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-01 20:49:54",
+      "last_checked": "2026-11-02 03:47:50",
       "items": [
+        {
+          "uid": "72fb09dd155c",
+          "date": "2026-09-02",
+          "title": "Brazil Passes Critical Minerals Bill Tightening Deal Scrutiny - Bloomberg",
+          "summary": "ブラジルが重要鉱物に関する法案を可決し、取引審査を厳格化することで、中国による重要鉱物の支配に対抗する動きが加速している。この措置は、中国のレアアース輸出管理に対抗する先進国の戦略的な鉱物資源確保の取り組みの一環である。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3dPd0FkMUpyWl9HS2Vfbm50aWtrZXN6eGEwNm43dWwwUVlQajU2c1lGTGhkRnkwNERVUlNHNFN6UE40aUlQMk9abGNhTXVQZTBBYmlweVF3Q1dIWTcxaHRXemcwRDlyLXpzbThYajRLUnktdmJkTFg2SGdjUGZDU1JwS2h2Nk1uYWFLTFpJbGxPRDZTWk9yRGZpQURUdEZ0N19lb0pOZGxLdUc4blgtN3dR?oc=5",
+          "added_at": "2026-11-02 03:47:47"
+        },
+        {
+          "uid": "e1df9ab2e1a2",
+          "date": "2026-10-31",
+          "title": "Rare Earth Supply Chain Resilience Outlook 2026 - Rare Earth Exchanges",
+          "summary": "中国が世界のレアアース供給の約70%を占める中、2026年にかけてサプライチェーンの脆弱性が増す見通しが示されており、日本を含む各国がレアアース供給源の多角化と備蓄強化により中国への依存低減を急ぐ必要がある。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2JpSlhuLVRQMC1jcHg0UUZERnpicHRrdkhwSUwzY1hYSUEzZHlrVHFQZ2RzcGFMNEROQnJiaTVLXy0wUk1MbWZ1MG5vbTcwdmpOSngwU0JhdHozSHZnWGo0Z003Q1QzenFsNnZ2UllQSEUxWUpqaFB2UjBCVURlSWx6UUktdw?oc=5",
+          "added_at": "2026-11-02 03:47:47"
+        },
         {
           "uid": "0148be885b50",
           "date": "2026-09-18",
@@ -6011,26 +6031,6 @@
           "source_type": "media",
           "url": "https://thehill.com/policy/defense/6114367-trump-proposed-selling-weapons-china/",
           "added_at": "2026-09-28 20:32:05"
-        },
-        {
-          "uid": "ed50344a87b9",
-          "date": "2026-08-05",
-          "title": "Can President Trump End U.S. Reliance On Chinese Rare Earth Minerals? - American Energy Alliance",
-          "summary": "中国がレアアース輸出を戦略的に管理・制限する中、トランプ大統領は米国内のレアアース採掘・加工産業を強化することで、中国への依存を減らそうとしている。これは米国のサプライチェーン安全保障を高める重要な課題として位置づけられている。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSG5IZGRGZGJZZ3YtNDl2STdhQkc1WmVwUFY0NFNkY281MU9SMm40TXdReTdaemhHNHNUbmx1b3JvekZRQnpBUFRxVnRqalpTYmVMNlctZFhuR3NLTUd1d1d2YmVXdkpHMmd0ejdfNjlxc3NBMnFBbjllV0dJUW95ZzNadzdOR0d3MXZfSmZielFaaVhlOTUzY3p1VlJYRlZDMXJJZG0zMXpjSnRIOEVTdUhIUXJuUQ?oc=5",
-          "added_at": "2026-09-28 11:33:38"
-        },
-        {
-          "uid": "e4ef2d9fb574",
-          "date": "2026-09-25",
-          "title": "North America is building rare earth plants faster than it is building rare earth engineers - Mining.com",
-          "summary": "北米はレアアース処理施設の建設速度に比べて、それを運用するための技術者育成が追いついておらず、中国のレアアース輸出管理強化に対抗するための産業基盤整備に人材面での課題を抱えている。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTVhqMTRKWmoxbURrVklkMVR2U2U1bkJ2c0Zva05PaEU1UkFxZ2o5MXNNZzZPNjFZNU9TN0hUQ1huSHo4TFc4MFhUNVpBSmR5Z09Tc1JrUC1pd0laM0ZKNU1ta0pMZ0p4LWpKcmUyMDRHUC01Y25LNzlfS3NBcE1HSjd1NGFteG85MENYZnctYzl5cHZGS1dmVHNET0hubklUZG9PTFhlZVEwdlhKelpsSWVJSUwzdw?oc=5",
-          "added_at": "2026-09-28 11:33:38"
         }
       ]
     },
@@ -6041,8 +6041,28 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-01 20:51:12",
+      "last_checked": "2026-11-02 03:47:58",
       "items": [
+        {
+          "uid": "7a68a799b9ac",
+          "date": "2026-09-22",
+          "title": "Understanding Trump's Deal With Denmark—and What It Means for Greenland's Sovereignty - Time Magazine",
+          "summary": "この記事はトランプ前大統領のグリーンランド買収提案に関するもので、自動車メーカーの対中提携への政治的批判という文脈には該当しません。申し訳ございませんが、提供された記事内容がご指定の文脈と無関係なため、要約を作成できません。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdkt0MndlRXFyUGFIdWFnY2plVWtLZmZZWGE3cFZ5aFJDdzNNU3VJT2hpWUJBeE5XOXRDNXBENWg0MEFMMnBoSy02WjlNVVVfakNfV2VFZDIwczJHNmxJSVJpcmNkUmpvVzQtWEtxVG5Vb2Z6UVdtMG1HckNuaF8tTlhQdDNycGRMZU1MLXRHSk5Yb1QzQmJZNEw0NmhhQWw1UXNhUl9oOFhxZkY3UGY0eU1YSVJtbnVB?oc=5",
+          "added_at": "2026-11-02 03:47:55"
+        },
+        {
+          "uid": "68dcf51ef8eb",
+          "date": "2026-11-01",
+          "title": "Vance road tests 2028 campaign as Trump’s midterm sideshow",
+          "summary": "この記事は自動車メーカーの対中提携について言及していないため、要求された文脈での要約はできません。記事の内容はVP Vanceの2028年大統領選に向けたキャンペーン活動に関するものです。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6185794-vance-hones-2028-campaign-message-midterms/",
+          "added_at": "2026-11-02 03:47:55"
+        },
         {
           "uid": "5eb27564ccc8",
           "date": "2026-09-08",
@@ -8021,26 +8041,6 @@
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FSkZpcjlFMEw1NmNFbHJsOU55cTlHWXJZbXJxWTFCdTFGWTE3TWVIUmU5Z1hKa0c2M1ZIZFVaZXQtM2lTMzQ2bVhpbGZud1J1bGhlUjF3bDExZGdoUlFZXzZ1QWZNS1NiZ2xqSU1NX0xSYUhjU3c?oc=5",
-          "added_at": "2026-09-30 13:20:49"
-        },
-        {
-          "uid": "0d2b96a97227",
-          "date": "2026-09-03",
-          "title": "Automakers urge Congress to quickly pass law banning Chinese cars - The Mighty 790 KFGO",
-          "summary": "米国の自動車メーカーは、中国製車の市場流入を防ぐため、議会に対して中国車禁止法の迅速な成立を促しており、これは中国との提携拡大に対する産業界からの警戒感を示している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSENQdkJ1UzFYSzU4c3FkVHk3X2pIV1gyb2ExSHFOQTJ1bmlzMExNNDBJLXNMTWx3NHg2cUs3RWpVQ2dYYWluand5eWd0Ni0xZ3lobFlhUTZ1U1EtVHB1VjJibEEwUjBuTGJXVU5Pa25LSHlnMENreTlxQUp3RkNMOTNfcTZ3SXdVeFFRbDdxaGgxbFRPQmE0S3Fn?oc=5",
-          "added_at": "2026-09-30 13:20:49"
-        },
-        {
-          "uid": "d065f9c571ea",
-          "date": "2026-09-25",
-          "title": "Tata dispute sends India Inc scrambling to shore up shareholder rights - Reuters",
-          "summary": "インド大手財閥タタ・グループの内紛がインド企業全体の株主権強化の動きを加速させ、ガバナンス改革の必要性を浮き彫りにしている。本事案はインド企業の経営体制における透明性と株主保護の課題を露呈させ、企業統治の改善圧力が高まっている。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUJuanJnZG52NkJSMkVyRFZWQXJqX2JsSlZpMENIdFdlVEdYZlZrNGVzcVJvcWNKR0ZDcnExM3BvdjRQSHdEcVNDTDFxc0hPQ1JRWHdnY2dkZXdZOTFCVEFQVnYzX0hQaGtMQ01CXzJNT2ZxcVhwb042bjZhRWJkdy05bjdZZGZiWGo4RWxScGJsMDRnS3E0ZWNjaUFzQ0Jlek9LV01nQkU5T0h3T0otRFZscFNoZw?oc=5",
           "added_at": "2026-09-30 13:20:49"
         }
       ]
