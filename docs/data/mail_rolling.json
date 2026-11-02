@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-10-31 14:38 JST",
+  "updated_at": "2026-11-02 13:13 JST",
   "total": 50,
-  "toyota_summary": "フォルクスワーゲンは、関税リスクへの備えとして、アウディによる米国SUV工場建設案（投資額約40億ユーロ）を後押ししている。同社は今年だけで関税により約28億ユーロのコスト負担を強いられており、今回の動きは、自動車各社が貿易障壁への対応として地域生産体制の転換を加速させていることを示すものである。一方でこれは、ドイツ国内における投資と経済的信認をめぐる政治論争に拍車をかけることにもなっている。",
+  "toyota_summary": "A major German automaker defended its continued American factory investment today, framing it as a long-term regional strategy rather than a short-term bet. The comments come as European manufacturers report stronger-than-expected electric vehicle sales, which complicates their push for relaxed emissions regulations—they can now argue they're meeting climate targets without regulatory relief, potentially weakening their negotiating position with Brussels.\n\nFor the industry, this creates a squeeze. Automakers need continued investment flexibility in high-cost markets like the U.S., but rising EV sales numbers undercut the urgency of their plea for regulatory or financial help in Europe. A company that appears to be succeeding with electrification has less leverage to demand concessions.\n\nWatch whether European manufacturers begin downplaying their EV sales figures in public statements to preserve their regulatory negotiating power.",
   "emails": [
+    {
+      "ts": "20261102_1023",
+      "sender_norm": "ビジネス短信",
+      "subject": "「ジェトロ・ビジネス短信」2026/10/30付",
+      "pdf": "data/pdfs/20261102_1023_「ジェトロ・ビジネス短信」2026_10_30付.pdf",
+      "date_label": "NOV 2  10:23",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261102_1002",
+      "sender_norm": "Eurasia Group",
+      "subject": "APAC & Japan Conference Call: Implications of the US midterms -",
+      "pdf": "data/pdfs/20261102_1002_APAC_&_Japan_Conference_Call__Implications_of_the_.pdf",
+      "date_label": "NOV 2  10:02",
+      "read_min": 2,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261102_1001",
+      "sender_norm": "Eurasia Group",
+      "subject": "APAC & Japan Conference Call",
+      "pdf": "data/pdfs/20261102_1001_APAC_&_Japan_Conference_Call__「米国中間選挙の影響」(同時通訳あり）_.pdf",
+      "date_label": "NOV 2  10:01",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
     {
       "ts": "20261031_0503",
       "sender_norm": "Eurasia Group",
@@ -45,6 +75,16 @@
       "summary_pdf": "",
       "date_label": "OCT 31  02:26",
       "read_min": 4,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261031_0131",
+      "sender_norm": "POLITICO",
+      "subject": "Pro Daily Headlines",
+      "pdf": "data/pdfs/20261031_0131_Pro_Daily_Headlines.pdf",
+      "date_label": "OCT 31  01:31",
+      "read_min": 1,
       "toyota": false,
       "excerpt": ""
     },
@@ -682,67 +722,6 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20261028_2359",
-      "sender_norm": "POLITICO",
-      "subject": "EU set to scrap ‘associate member’ status offer for Canada",
-      "pdf": "data/pdfs/20261028_2359_EU_set_to_scrap_‘associate_member’_status_offer_fo.pdf",
-      "date_label": "OCT 28  23:59",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EU set to scrap ‘associate member’ status offer for Canada",
-      "html": "data/pdfs/20261028_2359_EU_set_to_scrap_‘associate_member’_status_offer_fo.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261028_2321",
-      "sender_norm": "Eurasia Group",
-      "subject": "ECB stands ready to act on contagion, cautious on France",
-      "pdf": "data/pdfs/20261028_2321_ECB_stands_ready_to_act_on_contagion,_cautious_on_.pdf",
-      "date_label": "OCT 28  23:21",
-      "read_min": 6,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "ECB stands ready to act on contagion, cautious on France",
-      "html": "data/pdfs/20261028_2321_ECB_stands_ready_to_act_on_contagion,_cautious_on_.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261028_2159",
-      "sender_norm": "Eurasia Group",
-      "subject": "Iran will likely retaliate aggressively to US strikes",
-      "pdf": "data/pdfs/20261028_2159_Iran_will_likely_retaliate_aggressively_to_US_stri.pdf",
-      "date_label": "OCT 28  21:59",
-      "read_min": 9,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Iran will likely retaliate aggressively to US strikes",
-      "html": "data/pdfs/20261028_2159_Iran_will_likely_retaliate_aggressively_to_US_stri.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261028_2157",
-      "sender_norm": "POLITICO",
-      "subject": "EPP divided on expansion of aviation ETS, Parliament rapporteur",
-      "pdf": "data/pdfs/20261028_2157_EPP_divided_on_expansion_of_aviation_ETS,_Parliame.pdf",
-      "date_label": "OCT 28  21:57",
-      "read_min": 3,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EPP divided on expansion of aviation ETS, Parliament rapporteur says",
-      "html": "data/pdfs/20261028_2157_EPP_divided_on_expansion_of_aviation_ETS,_Parliame.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ],
-  "toyota_summary_en": "Volkswagen is backing Audi's potential €4 billion U.S. SUV plant as a hedge against tariffs, which are already costing VW about €2.8 billion this year. The move signals automakers are accelerating regional manufacturing shifts to reduce trade-barrier exposure, even as it fuels political controversy in Germany over domestic investment and economic confidence."
+  ]
 }
