@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02 03:47:58",
+  "generated_at": "2026-11-02 13:13:56",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-02 03:47:25",
+      "last_checked": "2026-11-02 13:12:49",
       "items": [
         {
           "uid": "c97ab75b7422",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-02 03:47:35",
+      "last_checked": "2026-11-02 13:13:09",
       "items": [
         {
           "uid": "84e31ea843d4",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-02 03:47:50",
+      "last_checked": "2026-11-02 13:13:42",
       "items": [
+        {
+          "uid": "ed50344a87b9",
+          "date": "2026-08-05",
+          "title": "Can President Trump End U.S. Reliance On Chinese Rare Earth Minerals? - American Energy Alliance",
+          "summary": "中国がレアアースの輸出管理を強化する中、トランプ大統領がアメリカの中国産レアアース依存を終わらせることができるか検討する記事で、米国内でのレアアース採掘・加工産業の強化とサプライチェーンの多様化が課題とされている。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSG5IZGRGZGJZZ3YtNDl2STdhQkc1WmVwUFY0NFNkY281MU9SMm40TXdReTdaemhHNHNUbmx1b3JvekZRQnpBUFRxVnRqalpTYmVMNlctZFhuR3NLTUd1d1d2YmVXdkpHMmd0ejdfNjlxc3NBMnFBbjllV0dJUW95ZzNadzdOR0d3MXZfSmZielFaaVhlOTUzY3p1VlJYRlZDMXJJZG0zMXpjSnRIOEVTdUhIUXJuUQ?oc=5",
+          "added_at": "2026-11-02 13:13:33"
+        },
+        {
+          "uid": "ca2f6f7f1fe6",
+          "date": "2026-09-15",
+          "title": "China Exit Controls Rare Earth Industrial Policy Explained - Rare Earth Exchanges",
+          "summary": "中国はレアアースの戦略的価値を認識し、輸出管理を通じた産業政策を展開することで、国際市場での支配力を強化し、地政学的影響力を拡大しようとしている。これにより、レアアース資源に依存する日本を含む先進国は、サプライチェーンの脆弱性に直面している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOU90cGQyQjVNMDlNMXVVdXZnNlMxejhST2JOUWEyaG5NMnRqUTJ0cWtVNjMyWUJfbVpQX2RwdDBvRFZwNlV1Q2wzc3pyRkY4cjBmLS1IZGl3ajROZ2pKbVMxVk9sSlFHT2k5blBkbEV6OEptTm93aUZYY1F3bnE1SUFFX2xyNmNRUF9fZkJ3?oc=5",
+          "added_at": "2026-11-02 13:13:33"
+        },
         {
           "uid": "72fb09dd155c",
           "date": "2026-09-02",
@@ -6011,26 +6031,6 @@
           "source_type": "media",
           "url": "https://thehill.com/opinion/white-house/6116144-trump-xi-summit-taiwan/",
           "added_at": "2026-09-30 13:20:21"
-        },
-        {
-          "uid": "b132bd13832f",
-          "date": "2026-09-18",
-          "title": "Key issues for this week's Trump-Xi summit in Washington - The Straits Times",
-          "summary": "米国と中国の貿易戦争においてレアアース製品は主要な争点であり、トランプ大統領は中国のレアアース輸出管理に対抗する措置を検討している。米中首脳会談では、知的財産権侵害や技術移転強要とともに、レアアース輸出規制が重要な交渉テーマとなる見込みである。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlJjbTcwTmRLcWgyTUZmLUR1R0ZLaURCMEtGRU5TUkEtd1dDNm14ZlhNNThQb1NRcWtOaUs2TjF6dTBBakNXYWEtQ1lNay12b19VR2ZCSDV2R1lacGlwRGZYUjYyc1h0NGppT2RCMHZPTHgtcEx3ZUgxemhueXVaM2haajhqYjJlSXdZN1c5MEtlQQ?oc=5",
-          "added_at": "2026-09-28 20:32:05"
-        },
-        {
-          "uid": "1130b7d684db",
-          "date": "2026-09-28",
-          "title": "Trump floated US weapons sales to Xi, ambassador says",
-          "summary": "この記事は「中国レアアース輸出管理」の文脈とは直接的な関連性がなく、むしろトランプ大統領による対中武器売却提案に関する内容です。したがって、指定されたテーマに対する要約対象として適切ではありません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/defense/6114367-trump-proposed-selling-weapons-china/",
-          "added_at": "2026-09-28 20:32:05"
         }
       ]
     },
@@ -6041,8 +6041,28 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-02 03:47:58",
+      "last_checked": "2026-11-02 13:13:56",
       "items": [
+        {
+          "uid": "83df8ffa7d33",
+          "date": "2026-09-29",
+          "title": "Ford's CEO urges caution on Chinese automakers, says Europe is 'too late' - Reuters",
+          "summary": "フォードのCEOは、欧州の自動車メーカーが中国企業との提携に遅れをとったと指摘しつつ、中国自動車メーカーとの提携には慎重になるよう促している。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc3F0eTJVWkdkRGxQRFIyRkMzeFFfZEN6cFZrbVFNcHhTSkxIdVc4VjVGdi1KLTlmMWpNeDNTZTBuQVQwZkRuY2dRSDNFOEx1LUxBRHlVZE9NNXVMbWU0Y3hBX3huXzJoQkJJbHlOVy1IQ1VYd08tdEZMMFJQRlk1VmgyVjRXSmgwS0l4dUpnQk1QT1FUaGRBdEtuSS1EazlwUFVESGo0d1JWald0V3Rhb211RGhSQ3JJNEM4Ty1DNHloT2tZaG42N2VRdHc?oc=5",
+          "added_at": "2026-11-02 13:13:52"
+        },
+        {
+          "uid": "93b30fbcfa7d",
+          "date": "2026-11-01",
+          "title": "Ford tries to improve China ties - Reuters",
+          "summary": "フォード・モーターが中国との関係改善を試みているが、米国の対中政策の厳格化により、自動車メーカーの中国提携が政治的スクルティニーの対象となっている状況を示唆している。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42Q19hR19zQXFvSVdmLTNLMkFhMm1maHNlbUNUMjMtU0poSmkweDRZY0xGU2xPWHo3WGRFbnY0SUx1LXJUWWlKOGlaYVJ3Y1l5eUpBdUV0TTJZQXBR?oc=5",
+          "added_at": "2026-11-02 13:13:52"
+        },
         {
           "uid": "7a68a799b9ac",
           "date": "2026-09-22",
@@ -8022,26 +8042,6 @@
           "source_type": "official",
           "url": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger",
           "added_at": "2026-09-30 20:00:17"
-        },
-        {
-          "uid": "dc1209527d03",
-          "date": "2026-09-29",
-          "title": "Ford CEO Jim Farley defends automaker's ties to Chinese companies - Detroit Free Press",
-          "summary": "フォード最高経営責任者(CEO)ジム・ファーレーは、中国企業とのパートナーシップについて、自動車業界の競争力維持と技術革新に不可欠であると主張し、政治的批判に対して防戦している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORDNXSnFFUlJUY3E5Wm9pSFFjbURmWXBZRDNwXy1PQmxNYUE2TlNNMDlRUnhwMGdrSXlNYUpYSFotRURneXZyYXA3Ym5DQkd0d2cyTTMwQS1sbkFlMUg0NXNBcmstalpLbTVkQ25feU13VnFEc2lHWm5yd0x1cnFNaV95dmRkZ1FRZnBtNHhheWFKZUU3dXcxc0RveDVSUFlsclJvMm1XQ25fZ09RRC1sNHdKMldQV3VuQUxLbG9iX0ppVWFpSlFhNkJrcG0?oc=5",
-          "added_at": "2026-09-30 13:20:49"
-        },
-        {
-          "uid": "bc663f7e7b91",
-          "date": "2026-09-29",
-          "title": "Ford CEO Warns U.S. Risks Repeating Europe's Mistakes on Chinese Auto Imports - finance.biggo.com",
-          "summary": "フォードのCEOは、米国がヨーロッパと同様に中国自動車メーカーの台頭に対応できず産業競争力を失う危機があると警告し、政治的対応の重要性を強調している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FSkZpcjlFMEw1NmNFbHJsOU55cTlHWXJZbXJxWTFCdTFGWTE3TWVIUmU5Z1hKa0c2M1ZIZFVaZXQtM2lTMzQ2bVhpbGZud1J1bGhlUjF3bDExZGdoUlFZXzZ1QWZNS1NiZ2xqSU1NX0xSYUhjU3c?oc=5",
-          "added_at": "2026-09-30 13:20:49"
         }
       ]
     }
