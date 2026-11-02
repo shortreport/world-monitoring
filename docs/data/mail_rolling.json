@@ -1,17 +1,22 @@
 {
-  "updated_at": "2026-11-02 13:13 JST",
+  "updated_at": "2026-11-02 13:14 JST",
   "total": 50,
-  "toyota_summary": "A major German automaker defended its continued American factory investment today, framing it as a long-term regional strategy rather than a short-term bet. The comments come as European manufacturers report stronger-than-expected electric vehicle sales, which complicates their push for relaxed emissions regulations—they can now argue they're meeting climate targets without regulatory relief, potentially weakening their negotiating position with Brussels.\n\nFor the industry, this creates a squeeze. Automakers need continued investment flexibility in high-cost markets like the U.S., but rising EV sales numbers undercut the urgency of their plea for regulatory or financial help in Europe. A company that appears to be succeeding with electrification has less leverage to demand concessions.\n\nWatch whether European manufacturers begin downplaying their EV sales figures in public statements to preserve their regulatory negotiating power.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20261102_1023",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/10/30付",
       "pdf": "data/pdfs/20261102_1023_「ジェトロ・ビジネス短信」2026_10_30付.pdf",
       "date_label": "NOV 2  10:23",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" dated 2026/10/30",
+      "html": "data/pdfs/20261102_1023_「ジェトロ・ビジネス短信」2026_10_30付.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261102_1023_「ジェトロ・ビジネス短信」2026_10_30付_en.pdf"
     },
     {
       "ts": "20261102_1002",
@@ -21,7 +26,12 @@
       "date_label": "NOV 2  10:02",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: Implications of the US midterms - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261102_1002_APAC_&_Japan_Conference_Call__Implications_of_the_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261102_1001",
@@ -30,6 +40,26 @@
       "pdf": "data/pdfs/20261102_1001_APAC_&_Japan_Conference_Call__「米国中間選挙の影響」(同時通訳あり）_.pdf",
       "date_label": "NOV 2  10:01",
       "read_min": 1,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call :「米国中間選挙の影響」(同時通訳あり） - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261102_1001_APAC_&_Japan_Conference_Call__「米国中間選挙の影響」(同時通訳あり）_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261031_1623",
+      "sender_norm": "POLITICO",
+      "subject": "Canada’s Carney heralds ‘tight’ EU relationship",
+      "subject_en": "Canada’s Carney heralds ‘tight’ EU relationship",
+      "html": "data/pdfs/20261031_1623_Canada’s_Carney_heralds_‘tight’_EU_relationship.html",
+      "pdf": "data/pdfs/20261031_1623_Canada’s_Carney_heralds_‘tight’_EU_relationship.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "OCT 31  16:23",
+      "read_min": 9,
       "toyota": false,
       "excerpt": ""
     },
@@ -232,7 +262,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "JETRO Business Brief dated 2026/10/29",
+      "subject_en": "\"JETRO Business Brief\" dated 2026/10/29",
       "html": "data/pdfs/20261030_1022_「ジェトロ・ビジネス短信」2026_10_29付.html",
       "summary_en": "",
       "summary_ja": "",
@@ -572,7 +602,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "New Jetro Regional and Analysis Report Notification (October 29, 2026 Issue)",
+      "subject_en": "Notification of New JETRO Regional and Analysis Reports (October 29, 2026 Issue)",
       "html": "data/pdfs/20261029_1539_ジェトロ地域・分析レポートの新着のご案内（2026年10月29日号）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -707,21 +737,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": ""
-    },
-    {
-      "ts": "20261029_0024",
-      "sender_norm": "Eurasia Group",
-      "subject": "Times/Siena poll points to a good night for Democrats",
-      "pdf": "data/pdfs/20261029_0024_Times_Siena_poll_points_to_a_good_night_for_Democr.pdf",
-      "date_label": "OCT 29  00:24",
-      "read_min": 6,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Times/Siena poll points to a good night for Democrats",
-      "html": "data/pdfs/20261029_0024_Times_Siena_poll_points_to_a_good_night_for_Democr.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
