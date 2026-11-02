@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>US Midterms | World News</title>
   <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js">/* KEY DEVELOPMENTS
-   - Trump's low approval ratings and unpopular Iran war are driving Republican losses, with party insiders privately expressing fears of losing House control and multiple GOP-held Senate seats.
-   - Forecasters have shifted multiple Senate races toward Democrats, including Kansas (Marshall) and Alaska (Sullivan), with Democrats now positioned to potentially flip the Senate for the first time.
-   - Elon Musk has invested $366 million in the midterms (primarily supporting Republicans), while Sabato's Crystal Ball has moved the House forecast to favor Democrats for the first time this cycle.
-   - Trump's threat of election interference and FEMA disaster aid delays have become campaign liabilities, with concerns about voting restrictions and federal law enforcement at polling places dominating late-cycle coverage.
-   - Comparisons to 2006 (Bush's unpopular second midterm) are widespread, with Democrats successfully campaigning in traditionally Republican districts amid economic anxiety and voter frustration.
+   - Democrats project strong House gains with 63 races moving toward Democrats versus only 1 toward Republicans in final ratings changes.
+   - Latino voter turnout surge expected as Hispanic voters who sat out 2024 return to polls, potentially boosting Democratic performance.
+   - Senate control remains highly competitive with Democrats needing net +4 seats to gain majority, with 7 toss-up races according to Cook Political Report.
+   - Multiple traditionally Republican strongholds like Kansas, Iowa, and South Carolina are now competitive or toss-up races, showing Trump's drag on GOP performance.
+   - Trump campaign struggles evident through rally cancellations in Kansas and Iowa just 4 days before election, signaling GOP vulnerability in typically safe states.
 */
 </script>
   <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
@@ -135,9 +135,9 @@
 
 <header class="site-header">
   <div class="logo" onclick="location.href='index.html'">World<em>News</em></div>
-  <div class="header-date">Friday</div>
+  <div class="header-date">Monday</div>
   <div class="header-spacer"></div>
-  <div class="update-time">Updated: 2026-10-16 JST</div>
+  <div class="update-time">Updated: 2026-11-02 JST</div>
   <div class="lang-toggle">
     <a href="../jp/midterm.html">JP</a>
     <a href="midterm.html" class="active">EN</a>
@@ -241,7 +241,7 @@
 </div>
 
 <footer class="site-footer">
-  Data: Cook Political Report / 270toWin &nbsp;|&nbsp; Updated: 2026-10-16
+  Data: Cook Political Report / 270toWin &nbsp;|&nbsp; Updated: 2026-11-02
 </footer>
 
 <script>
@@ -342,11 +342,11 @@ const stateData = {
 // Key races for 2026 sidebar
 const keyRaces = {
   senate: [
-    { state: "AK", incumbent: "Dan Sullivan (R)", party: "R", rating: "lean-d", label: "Sullivan vs. Peltola" },
-    { state: "GA", incumbent: "Jon Ossoff (D)", party: "D", rating: "lean-d", label: "Ossoff vs. Collins" },
-    { state: "KS", incumbent: "Roger Marshall (R)", party: "R", rating: "toss", label: "Marshall vs. Hamilton" },
-    { state: "NH", incumbent: "Chuck Morse (R)", party: "R", rating: "lean-d", label: "Morse vs. Pappas" },
-    { state: "ME", incumbent: "Susan Collins (R)", party: "R", rating: "lean-d", label: "Collins Reelection" },
+    { state: "SC", incumbent: "Darline Graham (R)", party: "R", rating: "toss", label: "Graham vs. Andrews" },
+    { state: "GA", incumbent: "Jon Ossoff (D)", party: "D", rating: "toss", label: "Ossoff vs. Collins" },
+    { state: "KS", incumbent: "Roger Marshall (R)", party: "R", rating: "toss", label: "Marshall race" },
+    { state: "NE", incumbent: "Republican (R)", party: "R", rating: "lean-r", label: "Nebraska Senate" },
+    { state: "IA", incumbent: "Republican (R)", party: "R", rating: "lean-r", label: "Iowa Senate" },
   ],
   house: [
     { state:'NY-3', incumbent:'(Open)', party:'D', rating:'toss', label:'Toss-up' },
@@ -378,8 +378,8 @@ const seatCounts = {
 
 // 2026 predictions (rough)
 const predictions = {
-  senate:   { r:48, d:50, toss:2, total:100 },
-  house:    { r:210, d:220, toss:5, total:435 },
+  senate:   { r:49, d:49, toss:2, total:100 },
+  house:    { r:200, d:220, toss:15, total:435 },
   governor: { r:22, d:14, toss:0, total:50 },
 };
 
@@ -4284,7 +4284,7 @@ function drawRaces() {
 }
 
 /* =====================================================
-   UPCOMING SCHEDULE (next 8 weeks from 2026-10-16 → 2026-12-11)
+   UPCOMING SCHEDULE (next 8 weeks from 2026-11-02 → 2026-12-28)
    ===================================================== */
 const upcomingSchedules = {
   senate: [
