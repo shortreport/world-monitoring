@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-16T09:51:05.785305+09:00",
-  "article_count": 50,
+  "generated_at": "2026-11-02T10:56:06.894070+09:00",
+  "article_count": 51,
   "projections": {
     "senate": {
-      "r": 48,
-      "d": 50,
+      "r": 49,
+      "d": 49,
       "tossup": 2
     },
     "house": {
-      "r": 210,
+      "r": 200,
       "d": 220,
-      "tossup": 5
+      "tossup": 15
     },
     "governor": {
       "r": 22,
@@ -19,89 +19,81 @@
     }
   },
   "key_developments": [
-    "Trump's low approval ratings and unpopular Iran war are driving Republican losses, with party insiders privately expressing fears of losing House control and multiple GOP-held Senate seats.",
-    "Forecasters have shifted multiple Senate races toward Democrats, including Kansas (Marshall) and Alaska (Sullivan), with Democrats now positioned to potentially flip the Senate for the first time.",
-    "Elon Musk has invested $366 million in the midterms (primarily supporting Republicans), while Sabato's Crystal Ball has moved the House forecast to favor Democrats for the first time this cycle.",
-    "Trump's threat of election interference and FEMA disaster aid delays have become campaign liabilities, with concerns about voting restrictions and federal law enforcement at polling places dominating late-cycle coverage.",
-    "Comparisons to 2006 (Bush's unpopular second midterm) are widespread, with Democrats successfully campaigning in traditionally Republican districts amid economic anxiety and voter frustration."
+    "Democrats project strong House gains with 63 races moving toward Democrats versus only 1 toward Republicans in final ratings changes.",
+    "Latino voter turnout surge expected as Hispanic voters who sat out 2024 return to polls, potentially boosting Democratic performance.",
+    "Senate control remains highly competitive with Democrats needing net +4 seats to gain majority, with 7 toss-up races according to Cook Political Report.",
+    "Multiple traditionally Republican strongholds like Kansas, Iowa, and South Carolina are now competitive or toss-up races, showing Trump's drag on GOP performance.",
+    "Trump campaign struggles evident through rally cancellations in Kansas and Iowa just 4 days before election, signaling GOP vulnerability in typically safe states."
   ],
   "key_races": {
     "senate": [
       {
-        "state": "AK",
-        "incumbent": "Dan Sullivan (R)",
+        "state": "SC",
+        "incumbent": "Darline Graham (R)",
         "party": "R",
-        "rating": "lean-d",
-        "label": "Sullivan vs. Peltola",
-        "note": "Democrat Mary Peltola widening lead; Trump invested time here indicating GOP concern; Democrats see opportunity to flip GOP seat."
+        "rating": "tossup",
+        "label": "Graham vs. Andrews",
+        "note": "Shifted from Lean R to Toss-up; NYT/Siena poll shows 48-48 tie."
       },
       {
         "state": "GA",
         "incumbent": "Jon Ossoff (D)",
         "party": "D",
-        "rating": "lean-d",
+        "rating": "tossup",
         "label": "Ossoff vs. Collins",
-        "note": "Democratic incumbent defended seat with fundraising advantage over Republican challenger Mike Collins despite unfavorable polling context."
+        "note": "Democrats defending seat; Collins trailing in polls despite Republican lean of state."
       },
       {
         "state": "KS",
         "incumbent": "Roger Marshall (R)",
         "party": "R",
         "rating": "tossup",
-        "label": "Marshall vs. Hamilton",
-        "note": "Sabato's Crystal Ball shifted from Leans Republican to Toss-Up, signaling unexpected Democratic competitiveness in traditionally safe red state."
+        "label": "Marshall race",
+        "note": "Moved to Toss-up from Lean R; heavy GOP spending suggests vulnerability."
       },
       {
-        "state": "NH",
-        "incumbent": "Chuck Morse (R)",
+        "state": "NE",
+        "incumbent": "Republican (R)",
         "party": "R",
-        "rating": "lean-d",
-        "label": "Morse vs. Pappas",
-        "note": "Democrat Chris Pappas running in competitive race flagged as under-the-radar contest with potential for upset."
+        "rating": "lean-r",
+        "label": "Nebraska Senate",
+        "note": "Moved from Likely R to Lean R in final Fox News update."
       },
       {
-        "state": "ME",
-        "incumbent": "Susan Collins (R)",
+        "state": "IA",
+        "incumbent": "Republican (R)",
         "party": "R",
-        "rating": "lean-d",
-        "label": "Collins Reelection",
-        "note": "FBI corruption investigation involvement and Trump administration interference concerns have created unprecedented vulnerability for two-decade incumbent."
+        "rating": "lean-r",
+        "label": "Iowa Senate",
+        "note": "Traditionally Republican state now closely contested; Trump cancelled rally."
       }
     ],
     "house": [
       {
-        "state": "TX-10",
-        "incumbent": "Chris Gober (R)",
-        "party": "R",
-        "rating": "lean-r",
-        "label": "Gober (Newly Gerrymandered)",
-        "note": "Former America PAC lawyer in district created through GOP redistricting; flagged as WIRED race to watch due to DOGE/Musk involvement."
-      },
-      {
-        "state": "WI-01",
-        "incumbent": "Unknown (R)",
+        "state": "MI-7",
+        "incumbent": "Tom Barrett (R)",
         "party": "R",
         "rating": "tossup",
-        "label": "Wisconsin 1st District",
-        "note": "Under-the-radar competitive race with potential for Democratic pickup in Trump country."
+        "label": "Barrett vs. Lawrence",
+        "note": "Closely watched House race in Michigan's 7th District."
       },
       {
-        "state": "IA-03",
-        "incumbent": "Unknown",
+        "state": "AL-02",
+        "incumbent": "Republican (R)",
         "party": "R",
-        "rating": "tossup",
-        "label": "Turek (Dem candidate)",
-        "note": "Josh Turek, Paralympic gold medalist, running in Iowa Senate race with grassroots energy despite Republican-leaning state."
+        "rating": "lean-d",
+        "label": "Alabama 2nd District",
+        "note": "Unexpected Democratic battleground in Houston district; Supreme Court voting rights gutting mobilizing Black voters."
       }
     ],
     "governor": [
       {
-        "state": "PA",
-        "incumbent": "Josh Shapiro (D)",
-        "party": "D",
-        "rating": "likely-d",
-        "label": "Shapiro Reelection",
-        "note": "Former President Obama endorsed Shapiro's reelection, boosting his political prospects as potential 2028 presidential candidate."
+        "state": "TX",
+        "incumbent": "Republican (R)",
+        "party": "R",
+        "rating": "lean-r",
+        "label": "Texas Governor",
+        "note": "Gina Hinojosa (D) challenging in deeply red state; corruption issues prominent in campaign."
       }
     ]
   },
