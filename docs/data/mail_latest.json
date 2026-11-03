@@ -1,111 +1,190 @@
 {
-  "generated_at": "2026-11-02 13:13 JST",
-  "sender_count": 3,
-  "total_mails": 9,
+  "generated_at": "2026-11-03 16:04 JST",
+  "sender_count": 4,
+  "total_mails": 20,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 2,
+      "count": 9,
       "bullets": [
-        "ユーラシアグループがAPAC & Japan向けカンファレンス・コールを開催予定",
-        "米国中間選挙の影響をテーマとした討論会の実施",
-        "米国担当アナリスト ケンダル・ウォーカーと米国担当シニアアナリスト ノア・ダポンテ＝スミスが登壇",
-        "2026年11月6日 JST 10:00am / SGT 9:00am / AEDT 12:00pmでの開催（同時通訳あり）",
-        "事前の質問提出とRSVPが受け付け中"
+        "ASEAN諸国がデータセンター投資に対する規制を強化する方針",
+        "イスラエルの選挙は膠着状態となり数カ月以内に再選挙が予想される状況",
+        "フランス大統領選でルペンが勝利した場合、EUのウクライナ支援が危機に瀕する可能性",
+        "米国中間選挙でデモクラット党の上院逆転成功の確率が60%から65%に上昇",
+        "米国選挙における民主党への投票動向が選挙直前に加速する傾向"
       ],
       "subjects": [
         [
           "2026-11-02",
-          "APAC & Japan Conference Call",
-          "data/pdfs/20261102_1001_APAC_&_Japan_Conference_Call__「米国中間選挙の影響」(同時通訳あり）_.pdf"
+          "ASEAN set to tighten new data center rules",
+          "data/pdfs/20261102_1623_ASEAN_set_to_tighten_new_data_center_rules.pdf"
         ],
         [
           "2026-11-02",
-          "APAC & Japan Conference Call: Implications of the US midterms -",
-          "data/pdfs/20261102_1002_APAC_&_Japan_Conference_Call__Implications_of_the_.pdf"
+          "EG Research Summary in Japanese",
+          "data/pdfs/20261102_1655_EG_Research_Summary_in_Japanese.pdf"
+        ],
+        [
+          "2026-11-02",
+          "Late polling surge raises Democrats’ odds of flipping the Senate",
+          "data/pdfs/20261102_2229_Late_polling_surge_raises_Democrats’_odds_of_flipp.pdf"
+        ],
+        [
+          "2026-11-03",
+          "US Election Update - EG Conference Call, REMINDER",
+          "data/pdfs/20261103_0002_US_Election_Update_-_EG_Conference_Call,_REMINDER.pdf"
+        ],
+        [
+          "2026-11-03",
+          "The race is breaking late toward Democrats",
+          "data/pdfs/20261103_0100_The_race_is_breaking_late_toward_Democrats.pdf"
+        ],
+        [
+          "2026-11-03",
+          "Crude stays elevated on war risk and low supply",
+          "data/pdfs/20261103_0131_Crude_stays_elevated_on_war_risk_and_low_supply.pdf"
+        ],
+        [
+          "2026-11-03",
+          "Burning forests will undermine corporate net-zero targets by 2027",
+          "data/pdfs/20261103_0325_Burning_forests_will_undermine_corporate_net-zero_.pdf"
+        ],
+        [
+          "2026-11-03",
+          "US-Iran talks and the outlook for escalation",
+          "data/pdfs/20261103_0554_US-Iran_talks_and_the_outlook_for_escalation.pdf"
+        ],
+        [
+          "2026-11-03",
+          "APAC & Japan Conference Call",
+          "data/pdfs/20261103_1001_APAC_&_Japan_Conference_Call__「米国中間選挙の影響」(同時通訳あり）_.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261102_1001_APAC_&_Japan_Conference_Call__「米国中間選挙の影響」(同時通訳あり）_.pdf",
-        "data/pdfs/20261102_1002_APAC_&_Japan_Conference_Call__Implications_of_the_.pdf"
+        "data/pdfs/20261102_1623_ASEAN_set_to_tighten_new_data_center_rules.pdf",
+        "data/pdfs/20261102_1655_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20261102_2229_Late_polling_surge_raises_Democrats’_odds_of_flipp.pdf",
+        "data/pdfs/20261103_0002_US_Election_Update_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20261103_0100_The_race_is_breaking_late_toward_Democrats.pdf",
+        "data/pdfs/20261103_0131_Crude_stays_elevated_on_war_risk_and_low_supply.pdf",
+        "data/pdfs/20261103_0325_Burning_forests_will_undermine_corporate_net-zero_.pdf",
+        "data/pdfs/20261103_0554_US-Iran_talks_and_the_outlook_for_escalation.pdf",
+        "data/pdfs/20261103_1001_APAC_&_Japan_Conference_Call__「米国中間選挙の影響」(同時通訳あり）_.pdf"
+      ]
+    },
+    {
+      "sender": "Eurasia",
+      "short": "EURAS",
+      "color": "YEL",
+      "count": 1,
+      "bullets": [
+        "中東の石油流通がイラン攻撃による混乱で影響を受け、原油価格が1バレル100ドルを超える水準で推移",
+        "在庫枯渇とエスカレーション再発のリスクにより、油価が高止まり",
+        "Eurasia Groupの最新研究情報を日次で配信する定期サービスの運用"
+      ],
+      "subjects": [
+        [
+          "2026-11-03",
+          "Daily Research Summary - Nov 2nd, 2026",
+          "data/pdfs/20261103_0835_Daily_Research_Summary_-_Nov_2nd,_2026.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261103_0835_Daily_Research_Summary_-_Nov_2nd,_2026.pdf"
+      ]
+    },
+    {
+      "sender": "Ian",
+      "short": "IAN",
+      "color": "RED",
+      "count": 1,
+      "bullets": [
+        "ブラジル、イスラエル、米国中間選挙など複数地域での選挙実施",
+        "ラテンアメリカでの右派政治勢力の台頭後、ブラジルでのルーラ勝利が地域の左派回帰を示しているか検証が必要",
+        "セルビアのヴチッチ敗北とハンガリーのオルバン失脱がロシアへの打撃と欧州連合への信頼投票を示す判断には慎重な評価が必要"
+      ],
+      "subjects": [
+        [
+          "2026-11-02",
+          "eg update",
+          "data/pdfs/20261102_2153_eg_update.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261102_2153_eg_update.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "YEL",
-      "count": 6,
+      "color": "ORG",
+      "count": 9,
       "bullets": [
-        "欧州委員会が中国との輸入枠取り決めを実施するためハイブリッド車の調査を開始、12月1日からの制限導入に向け産業界との協議期間を設定",
-        "欧州棺製造業者が中国からの安価な輸入品とダンピング慣行への反ダンピング訴訟準備、業界存続の危機を警告",
-        "英国のEU再加盟時、ブリュッセルはユーロ導入とシェンゲン協定加盟を柔軟に扱う可能性、英国民の懸念に対応",
-        "スペイン高速鉄道網の致命的事故多発、安全性・保守・投資選択に対する疑問が浮上",
-        "欧州内でEU加盟国間の競争や政治的懸念が深刻化、ブリュッセルにおける権力構図や政策方針に対する警戒感が高まり"
+        "カナダのカーニー首相がEUとの関係強化を表明し、EU・カナダサミット後の協議内容を公表",
+        "EU指導部がダブリンでのAI会議に向けて準備を進め、倫理委員会設置やQatargate後の改革を継続",
+        "EU交渉担当者が軍事移動ルールで進展を遂行し、12月期限に向けて政治的に敏感な問題の解決を推進",
+        "ベルギーのデ・ウェーヴァー首相が予算協議の失敗により辞任の意向を示し、連立政権が危機的状況",
+        "ケネディJr.の食品改革運動がブリュッセルに波及し、超加工食品規制が肥満対策の新たな焦点"
       ],
       "subjects": [
         [
-          "2026-10-30",
-          "Who’s afraid of whom in Brussels?",
-          "data/pdfs/20261030_1737_Who’s_afraid_of_whom_in_Brussels_.pdf"
-        ],
-        [
-          "2026-10-30",
-          "Europe’s coffin-makers warn Chinese imports could be death knell",
-          "data/pdfs/20261030_1835_Europe’s_coffin-makers_warn_Chinese_imports_could_.pdf"
-        ],
-        [
-          "2026-10-30",
-          "EU starts hybrid car investigation to implement China import deal",
-          "data/pdfs/20261030_1903_EU_starts_hybrid_car_investigation_to_implement_Ch.pdf"
-        ],
-        [
           "2026-10-31",
-          "Pro Daily Headlines",
-          "data/pdfs/20261031_0131_Pro_Daily_Headlines.pdf"
+          "Canada’s Carney heralds ‘tight’ EU relationship",
+          "data/pdfs/20261031_1623_Canada’s_Carney_heralds_‘tight’_EU_relationship.pdf"
         ],
-        [
-          "2026-10-31",
-          "Brussels would be flexible on euro and Schengen if UK tried to",
-          "data/pdfs/20261031_0226_Brussels_would_be_flexible_on_euro_and_Schengen_if.pdf"
-        ],
-        [
-          "2026-10-31",
-          "Mark Carney puts deadline on EU ‘associate membership’ push",
-          "data/pdfs/20261031_0412_Mark_Carney_puts_deadline_on_EU_‘associate_members.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261030_1737_Who’s_afraid_of_whom_in_Brussels_.pdf",
-        "data/pdfs/20261030_1835_Europe’s_coffin-makers_warn_Chinese_imports_could_.pdf",
-        "data/pdfs/20261030_1903_EU_starts_hybrid_car_investigation_to_implement_Ch.pdf",
-        "data/pdfs/20261031_0131_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20261031_0226_Brussels_would_be_flexible_on_euro_and_Schengen_if.pdf",
-        "data/pdfs/20261031_0412_Mark_Carney_puts_deadline_on_EU_‘associate_members.pdf"
-      ]
-    },
-    {
-      "sender": "ビジネス短信",
-      "short": "ビジネス短",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "中国電子材料メーカーの平安電工が13億元を調達し、タイに工場建設予定",
-        "中国標準化研究院が標準必須特許に関する2026年の発展報告書を発表",
-        "台湾総統がGX移行支援を強調、半導体産業の電力消費量が2035年に倍増見通し",
-        "韓国政府が軽油の輸出制限を条件付きで緩和",
-        "マレーシアで「KL20」総括イベント開催、知的財産を活用したテックスタートアップ支援策など紹介"
-      ],
-      "subjects": [
         [
           "2026-11-02",
-          "「ジェトロ・ビジネス短信」2026/10/30付",
-          "data/pdfs/20261102_1023_「ジェトロ・ビジネス短信」2026_10_30付.pdf"
+          "Inside Costa’s EU budget push",
+          "data/pdfs/20261102_1440_Inside_Costa’s_EU_budget_push.pdf"
+        ],
+        [
+          "2026-11-02",
+          "Military mobility talks make progress",
+          "data/pdfs/20261102_1502_Military_mobility_talks_make_progress.pdf"
+        ],
+        [
+          "2026-11-02",
+          "De Wever poised to offer his resignation as Belgian budget talks",
+          "data/pdfs/20261102_1805_De_Wever_poised_to_offer_his_resignation_as_Belgia.pdf"
+        ],
+        [
+          "2026-11-02",
+          "Robert F. Kennedy Jr.’s food fight is coming to Brussels",
+          "data/pdfs/20261102_2008_Robert_F._Kennedy_Jr.’s_food_fight_is_coming_to_Br.pdf"
+        ],
+        [
+          "2026-11-02",
+          "Document: Council’s latest ETS compromise avoids the most",
+          "data/pdfs/20261102_2350_Document__Council’s_latest_ETS_compromise_avoids_t.pdf"
+        ],
+        [
+          "2026-11-03",
+          "Pro Daily Headlines",
+          "data/pdfs/20261103_0131_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-11-03",
+          "The risks to Europe of an ‘angry duck’ Trump",
+          "data/pdfs/20261103_1443_The_risks_to_Europe_of_an_‘angry_duck’_Trump.pdf"
+        ],
+        [
+          "2026-11-03",
+          "Air cargo weathers high jet fuel prices",
+          "data/pdfs/20261103_1503_Air_cargo_weathers_high_jet_fuel_prices.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261102_1023_「ジェトロ・ビジネス短信」2026_10_30付.pdf"
+        "data/pdfs/20261031_1623_Canada’s_Carney_heralds_‘tight’_EU_relationship.pdf",
+        "data/pdfs/20261102_1440_Inside_Costa’s_EU_budget_push.pdf",
+        "data/pdfs/20261102_1502_Military_mobility_talks_make_progress.pdf",
+        "data/pdfs/20261102_1805_De_Wever_poised_to_offer_his_resignation_as_Belgia.pdf",
+        "data/pdfs/20261102_2008_Robert_F._Kennedy_Jr.’s_food_fight_is_coming_to_Br.pdf",
+        "data/pdfs/20261102_2350_Document__Council’s_latest_ETS_compromise_avoids_t.pdf",
+        "data/pdfs/20261103_0131_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20261103_1443_The_risks_to_Europe_of_an_‘angry_duck’_Trump.pdf",
+        "data/pdfs/20261103_1503_Air_cargo_weathers_high_jet_fuel_prices.pdf"
       ]
     }
   ]
