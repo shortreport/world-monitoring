@@ -1,190 +1,129 @@
 {
-  "generated_at": "2026-11-03 16:04 JST",
-  "sender_count": 4,
-  "total_mails": 20,
+  "generated_at": "2026-11-04 10:04 JST",
+  "sender_count": 2,
+  "total_mails": 15,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 9,
+      "count": 4,
       "bullets": [
-        "ASEAN諸国がデータセンター投資に対する規制を強化する方針",
-        "イスラエルの選挙は膠着状態となり数カ月以内に再選挙が予想される状況",
-        "フランス大統領選でルペンが勝利した場合、EUのウクライナ支援が危機に瀕する可能性",
-        "米国中間選挙でデモクラット党の上院逆転成功の確率が60%から65%に上昇",
-        "米国選挙における民主党への投票動向が選挙直前に加速する傾向"
-      ],
-      "subjects": [
-        [
-          "2026-11-02",
-          "ASEAN set to tighten new data center rules",
-          "data/pdfs/20261102_1623_ASEAN_set_to_tighten_new_data_center_rules.pdf"
-        ],
-        [
-          "2026-11-02",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20261102_1655_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-11-02",
-          "Late polling surge raises Democrats’ odds of flipping the Senate",
-          "data/pdfs/20261102_2229_Late_polling_surge_raises_Democrats’_odds_of_flipp.pdf"
-        ],
-        [
-          "2026-11-03",
-          "US Election Update - EG Conference Call, REMINDER",
-          "data/pdfs/20261103_0002_US_Election_Update_-_EG_Conference_Call,_REMINDER.pdf"
-        ],
-        [
-          "2026-11-03",
-          "The race is breaking late toward Democrats",
-          "data/pdfs/20261103_0100_The_race_is_breaking_late_toward_Democrats.pdf"
-        ],
-        [
-          "2026-11-03",
-          "Crude stays elevated on war risk and low supply",
-          "data/pdfs/20261103_0131_Crude_stays_elevated_on_war_risk_and_low_supply.pdf"
-        ],
-        [
-          "2026-11-03",
-          "Burning forests will undermine corporate net-zero targets by 2027",
-          "data/pdfs/20261103_0325_Burning_forests_will_undermine_corporate_net-zero_.pdf"
-        ],
-        [
-          "2026-11-03",
-          "US-Iran talks and the outlook for escalation",
-          "data/pdfs/20261103_0554_US-Iran_talks_and_the_outlook_for_escalation.pdf"
-        ],
-        [
-          "2026-11-03",
-          "APAC & Japan Conference Call",
-          "data/pdfs/20261103_1001_APAC_&_Japan_Conference_Call__「米国中間選挙の影響」(同時通訳あり）_.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261102_1623_ASEAN_set_to_tighten_new_data_center_rules.pdf",
-        "data/pdfs/20261102_1655_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20261102_2229_Late_polling_surge_raises_Democrats’_odds_of_flipp.pdf",
-        "data/pdfs/20261103_0002_US_Election_Update_-_EG_Conference_Call,_REMINDER.pdf",
-        "data/pdfs/20261103_0100_The_race_is_breaking_late_toward_Democrats.pdf",
-        "data/pdfs/20261103_0131_Crude_stays_elevated_on_war_risk_and_low_supply.pdf",
-        "data/pdfs/20261103_0325_Burning_forests_will_undermine_corporate_net-zero_.pdf",
-        "data/pdfs/20261103_0554_US-Iran_talks_and_the_outlook_for_escalation.pdf",
-        "data/pdfs/20261103_1001_APAC_&_Japan_Conference_Call__「米国中間選挙の影響」(同時通訳あり）_.pdf"
-      ]
-    },
-    {
-      "sender": "Eurasia",
-      "short": "EURAS",
-      "color": "YEL",
-      "count": 1,
-      "bullets": [
-        "中東の石油流通がイラン攻撃による混乱で影響を受け、原油価格が1バレル100ドルを超える水準で推移",
-        "在庫枯渇とエスカレーション再発のリスクにより、油価が高止まり",
-        "Eurasia Groupの最新研究情報を日次で配信する定期サービスの運用"
+        "タイが2027年1月から輸入電気自動車の物品税を35%に引き上げ、中国製EV輸入の抑制を開始",
+        "米国の中間選挙で民主党が上院で最低52議席の多数派確保",
+        "ポーランドのトゥスク首相が憲法裁判所の再編成に動く中、大統領との対立深化により立法議程の制約",
+        "英国のバーナム首相がEU圏への再加盟の可能性を含む将来の関係について11月の英EU首脳会談で議論開始"
       ],
       "subjects": [
         [
           "2026-11-03",
-          "Daily Research Summary - Nov 2nd, 2026",
-          "data/pdfs/20261103_0835_Daily_Research_Summary_-_Nov_2nd,_2026.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261103_0835_Daily_Research_Summary_-_Nov_2nd,_2026.pdf"
-      ]
-    },
-    {
-      "sender": "Ian",
-      "short": "IAN",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "ブラジル、イスラエル、米国中間選挙など複数地域での選挙実施",
-        "ラテンアメリカでの右派政治勢力の台頭後、ブラジルでのルーラ勝利が地域の左派回帰を示しているか検証が必要",
-        "セルビアのヴチッチ敗北とハンガリーのオルバン失脱がロシアへの打撃と欧州連合への信頼投票を示す判断には慎重な評価が必要"
-      ],
-      "subjects": [
+          "Thailand's EV duties target Chinese imports",
+          "data/pdfs/20261103_2229_Thailand's_EV_duties_target_Chinese_imports.pdf"
+        ],
         [
-          "2026-11-02",
-          "eg update",
-          "data/pdfs/20261102_2153_eg_update.pdf"
+          "2026-11-03",
+          "Democrats set for at least 52 Senate seats",
+          "data/pdfs/20261103_2234_Democrats_set_for_at_least_52_Senate_seats.pdf"
+        ],
+        [
+          "2026-11-03",
+          "Poland: Increased polarization will constrain Tusk’s agenda",
+          "data/pdfs/20261103_2324_Poland__Increased_polarization_will_constrain_Tusk.pdf"
+        ],
+        [
+          "2026-11-03",
+          "UK: Path to EU re-entry faces formidable obstacles",
+          "data/pdfs/20261103_2332_UK__Path_to_EU_re-entry_faces_formidable_obstacles.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261102_2153_eg_update.pdf"
+        "data/pdfs/20261103_2229_Thailand's_EV_duties_target_Chinese_imports.pdf",
+        "data/pdfs/20261103_2234_Democrats_set_for_at_least_52_Senate_seats.pdf",
+        "data/pdfs/20261103_2324_Poland__Increased_polarization_will_constrain_Tusk.pdf",
+        "data/pdfs/20261103_2332_UK__Path_to_EU_re-entry_faces_formidable_obstacles.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "ORG",
-      "count": 9,
+      "color": "YEL",
+      "count": 11,
       "bullets": [
-        "カナダのカーニー首相がEUとの関係強化を表明し、EU・カナダサミット後の協議内容を公表",
-        "EU指導部がダブリンでのAI会議に向けて準備を進め、倫理委員会設置やQatargate後の改革を継続",
-        "EU交渉担当者が軍事移動ルールで進展を遂行し、12月期限に向けて政治的に敏感な問題の解決を推進",
-        "ベルギーのデ・ウェーヴァー首相が予算協議の失敗により辞任の意向を示し、連立政権が危機的状況",
-        "ケネディJr.の食品改革運動がブリュッセルに波及し、超加工食品規制が肥満対策の新たな焦点"
+        "米国での民主党の中間選挙勝利にもかかわらず、議会は大統領の外交政策を制約する手段が限定的であり、トランプ政権の対外政策推進に対抗できない状況。",
+        "ポーランドでは2027年選挙を前に、トゥスク首相政権による憲法裁判所改革が司法の独立性を巡る政治的対立を加熱させている状況。",
+        "中東紛争に伴う燃料価格上昇により、航空各社が運賃を二桁台のパーセンテージで引き上げることになる見通し。",
+        "欧州議会が企業車両のEV化に関する強制目標を柔軟な目標に変更する方向で合意し、プラグインハイブリッド車への規制緩和が進展。",
+        "欧州のAI産業競争力強化とEU特許制度の再構築が課題として浮上し、戦略的な制度改革の必要性が高まっている状況。"
       ],
       "subjects": [
         [
-          "2026-10-31",
-          "Canada’s Carney heralds ‘tight’ EU relationship",
-          "data/pdfs/20261031_1623_Canada’s_Carney_heralds_‘tight’_EU_relationship.pdf"
-        ],
-        [
-          "2026-11-02",
-          "Inside Costa’s EU budget push",
-          "data/pdfs/20261102_1440_Inside_Costa’s_EU_budget_push.pdf"
-        ],
-        [
-          "2026-11-02",
-          "Military mobility talks make progress",
-          "data/pdfs/20261102_1502_Military_mobility_talks_make_progress.pdf"
-        ],
-        [
-          "2026-11-02",
-          "De Wever poised to offer his resignation as Belgian budget talks",
-          "data/pdfs/20261102_1805_De_Wever_poised_to_offer_his_resignation_as_Belgia.pdf"
-        ],
-        [
-          "2026-11-02",
-          "Robert F. Kennedy Jr.’s food fight is coming to Brussels",
-          "data/pdfs/20261102_2008_Robert_F._Kennedy_Jr.’s_food_fight_is_coming_to_Br.pdf"
-        ],
-        [
-          "2026-11-02",
-          "Document: Council’s latest ETS compromise avoids the most",
-          "data/pdfs/20261102_2350_Document__Council’s_latest_ETS_compromise_avoids_t.pdf"
+          "2026-11-03",
+          "Why Europe shouldn’t celebrate a Democratic midterm victory",
+          "data/pdfs/20261103_1736_Why_Europe_shouldn’t_celebrate_a_Democratic_midter.pdf"
         ],
         [
           "2026-11-03",
-          "Pro Daily Headlines",
-          "data/pdfs/20261103_0131_Pro_Daily_Headlines.pdf"
+          "Streeting: Burnham is better than Blair at talking to the public",
+          "data/pdfs/20261103_1906_Streeting__Burnham_is_better_than_Blair_at_talking.pdf"
         ],
         [
           "2026-11-03",
-          "The risks to Europe of an ‘angry duck’ Trump",
-          "data/pdfs/20261103_1443_The_risks_to_Europe_of_an_‘angry_duck’_Trump.pdf"
+          "Crisis over top court shapes Poland’s battle lines before 2027",
+          "data/pdfs/20261103_2005_Crisis_over_top_court_shapes_Poland’s_battle_lines.pdf"
         ],
         [
           "2026-11-03",
-          "Air cargo weathers high jet fuel prices",
-          "data/pdfs/20261103_1503_Air_cargo_weathers_high_jet_fuel_prices.pdf"
+          "Lufthansa CEO warns jet fuel costs will spike airfares",
+          "data/pdfs/20261103_2013_Lufthansa_CEO_warns_jet_fuel_costs_will_spike_airf.pdf"
+        ],
+        [
+          "2026-11-03",
+          "Parliament groups reject binding corporate fleet targets",
+          "data/pdfs/20261103_2045_Parliament_groups_reject_binding_corporate_fleet_t.pdf"
+        ],
+        [
+          "2026-11-03",
+          "Mistral CEO: Europe faces ‘complete trap’ without frontier AI",
+          "data/pdfs/20261103_2205_Mistral_CEO__Europe_faces_‘complete_trap’_without_.pdf"
+        ],
+        [
+          "2026-11-03",
+          "Pressure builds for EU to revive spiked patents rulebook",
+          "data/pdfs/20261103_2314_Pressure_builds_for_EU_to_revive_spiked_patents_ru.pdf"
+        ],
+        [
+          "2026-11-03",
+          "Modern warfare spurs demand for new medical techniques",
+          "data/pdfs/20261103_2335_Modern_warfare_spurs_demand_for_new_medical_techni.pdf"
+        ],
+        [
+          "2026-11-03",
+          "EU targets signing of Indonesia trade deal on Nov 21",
+          "data/pdfs/20261103_2349_EU_targets_signing_of_Indonesia_trade_deal_on_Nov_.pdf"
+        ],
+        [
+          "2026-11-04",
+          "Document: Commission to propose industrial AI plan in 2027 work",
+          "data/pdfs/20261104_0004_Document__Commission_to_propose_industrial_AI_plan.pdf"
+        ],
+        [
+          "2026-11-04",
+          "Document: Commission to propose industrial AI plan in 2027 work",
+          "data/pdfs/20261104_0015_Document__Commission_to_propose_industrial_AI_plan.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261031_1623_Canada’s_Carney_heralds_‘tight’_EU_relationship.pdf",
-        "data/pdfs/20261102_1440_Inside_Costa’s_EU_budget_push.pdf",
-        "data/pdfs/20261102_1502_Military_mobility_talks_make_progress.pdf",
-        "data/pdfs/20261102_1805_De_Wever_poised_to_offer_his_resignation_as_Belgia.pdf",
-        "data/pdfs/20261102_2008_Robert_F._Kennedy_Jr.’s_food_fight_is_coming_to_Br.pdf",
-        "data/pdfs/20261102_2350_Document__Council’s_latest_ETS_compromise_avoids_t.pdf",
-        "data/pdfs/20261103_0131_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20261103_1443_The_risks_to_Europe_of_an_‘angry_duck’_Trump.pdf",
-        "data/pdfs/20261103_1503_Air_cargo_weathers_high_jet_fuel_prices.pdf"
+        "data/pdfs/20261103_1736_Why_Europe_shouldn’t_celebrate_a_Democratic_midter.pdf",
+        "data/pdfs/20261103_1906_Streeting__Burnham_is_better_than_Blair_at_talking.pdf",
+        "data/pdfs/20261103_2005_Crisis_over_top_court_shapes_Poland’s_battle_lines.pdf",
+        "data/pdfs/20261103_2013_Lufthansa_CEO_warns_jet_fuel_costs_will_spike_airf.pdf",
+        "data/pdfs/20261103_2045_Parliament_groups_reject_binding_corporate_fleet_t.pdf",
+        "data/pdfs/20261103_2205_Mistral_CEO__Europe_faces_‘complete_trap’_without_.pdf",
+        "data/pdfs/20261103_2314_Pressure_builds_for_EU_to_revive_spiked_patents_ru.pdf",
+        "data/pdfs/20261103_2335_Modern_warfare_spurs_demand_for_new_medical_techni.pdf",
+        "data/pdfs/20261103_2349_EU_targets_signing_of_Indonesia_trade_deal_on_Nov_.pdf",
+        "data/pdfs/20261104_0004_Document__Commission_to_propose_industrial_AI_plan.pdf",
+        "data/pdfs/20261104_0015_Document__Commission_to_propose_industrial_AI_plan.pdf"
       ]
     }
   ]
