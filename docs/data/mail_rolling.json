@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-11-04 10:04 JST",
   "total": 50,
-  "toyota_summary": "Thailand's cabinet approved a tripling of import duties on electric vehicles to 35 percent starting January 2027, up from 10 to 15 percent today. The move directly targets Chinese EV makers flooding Southeast Asian markets at low prices. For Western automakers, it opens a window: higher tariffs on Chinese competitors make local assembly or partnerships with Thai producers more economically attractive than importing finished vehicles.\n\nEurope's parliament rejected binding EV fleet targets for corporate buyers, shifting them from mandatory to voluntary. This weakens what Brussels intended as a demand-side lever to force automakers into faster electrification. The auto industry gains breathing room on compliance, but loses clarity on how quickly European fleet emissions will actually fall—making long-term investment planning harder, not easier.\n\nWatch whether other Southeast Asian countries follow Thailand's tariff move in the next two quarters.",
+  "toyota_summary": "タイは2027年1月から、輸入バッテリーEVおよびレンジエクステンダーEVに対する物品税を35%に引き上げる。中国製EVの輸入急増への直接的な対応策である。インドネシアとマレーシアも追随する可能性があるが、ASEAN最大の自動車生産拠点であるタイにとって、最も大きな利害が絡む。\n\n欧州議会の各会派は、EUの企業車両電動化目標を拘束力のある義務ではなく「努力目標」とする方向で動いており、欧州委員会が掲げるEV販売義務化計画は危機に瀕している。議員らはまた、PHEVの実効係数（ユーティリティ・ファクター）算定方式を2029～2030年まで凍結する案も検討しており、これは自動車メーカー各社が強く働きかけてきた成果である。",
   "emails": [
     {
       "ts": "20261104_0015",
@@ -11,7 +11,12 @@
       "date_label": "NOV 4  00:15",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Document: Commission to propose industrial AI plan in 2027 work program",
+      "html": "data/pdfs/20261104_0015_Document__Commission_to_propose_industrial_AI_plan.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261104_0004",
@@ -21,7 +26,12 @@
       "date_label": "NOV 4  00:04",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Document: Commission to propose industrial AI plan in 2027 work program",
+      "html": "data/pdfs/20261104_0004_Document__Commission_to_propose_industrial_AI_plan.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_2349",
@@ -31,7 +41,12 @@
       "date_label": "NOV 3  23:49",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU targets signing of Indonesia trade deal on Nov 21",
+      "html": "data/pdfs/20261103_2349_EU_targets_signing_of_Indonesia_trade_deal_on_Nov_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_2335",
@@ -41,7 +56,12 @@
       "date_label": "NOV 3  23:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Modern warfare spurs demand for new medical techniques",
+      "html": "data/pdfs/20261103_2335_Modern_warfare_spurs_demand_for_new_medical_techni.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_2332",
@@ -51,7 +71,12 @@
       "date_label": "NOV 3  23:32",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "UK: Path to EU re-entry faces formidable obstacles",
+      "html": "data/pdfs/20261103_2332_UK__Path_to_EU_re-entry_faces_formidable_obstacles.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_2324",
@@ -61,7 +86,12 @@
       "date_label": "NOV 3  23:24",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Poland: Increased polarization will constrain Tusk’s agenda",
+      "html": "data/pdfs/20261103_2324_Poland__Increased_polarization_will_constrain_Tusk.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_2314",
@@ -71,7 +101,12 @@
       "date_label": "NOV 3  23:14",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Pressure builds for EU to revive spiked patents rulebook",
+      "html": "data/pdfs/20261103_2314_Pressure_builds_for_EU_to_revive_spiked_patents_ru.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_2234",
@@ -81,7 +116,12 @@
       "date_label": "NOV 3  22:34",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Democrats set for at least 52 Senate seats",
+      "html": "data/pdfs/20261103_2234_Democrats_set_for_at_least_52_Senate_seats.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_2229",
@@ -91,7 +131,12 @@
       "date_label": "NOV 3  22:29",
       "read_min": 4,
       "toyota": true,
-      "excerpt": "タイ内閣は2027年1月から輸入電気自動車の物品税を10～15%から35%に引き上げることを承認"
+      "excerpt": "タイ内閣は2027年1月から輸入電気自動車の物品税を10～15%から35%に引き上げることを承認",
+      "subject_en": "Thailand's EV duties target Chinese imports",
+      "html": "data/pdfs/20261103_2229_Thailand's_EV_duties_target_Chinese_imports.html",
+      "summary_en": "Thailand's cabinet approved raising excise duties on imported fully assembled battery EVs and range-extended EVs to 35% from January 2027, up from 10% and 15% currently. Though applied universally, the move clearly targets surging Chinese EV imports, which have fueled growing political concern over damage to Thailand's domestic auto industry. Indonesia and Malaysia, which have already let EV import incentives lapse, could follow with similar measures, though Thailand—ASEAN's largest auto production hub—has the most at stake.",
+      "summary_ja": "タイ内閣は、完成車として輸入されるバッテリーEVおよびレンジエクステンダーEVに対する物品税を、現行の10%・15%から2027年1月より35%に引き上げる案を承認した。全輸入国に適用される措置だが、実質的には急増する中国製EV輸入が標的であり、タイの国内自動車産業への打撃に対する政治的懸念の高まりを反映している。EV輸入優遇措置をすでに終了させているインドネシアやマレーシアも同様の対応を検討する可能性があるが、ASEAN最大の自動車生産拠点であるタイが最も大きな影響を受けるとみられる。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_2205",
@@ -101,7 +146,12 @@
       "date_label": "NOV 3  22:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Mistral CEO: Europe faces ‘complete trap’ without frontier AI",
+      "html": "data/pdfs/20261103_2205_Mistral_CEO__Europe_faces_‘complete_trap’_without_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_2045",
@@ -111,7 +161,12 @@
       "date_label": "NOV 3  20:45",
       "read_min": 4,
       "toyota": true,
-      "excerpt": "欧州議会の主要会派が、企業車両のEV化に関する欧州委員会の強制的目標を「目標的」なものに"
+      "excerpt": "欧州議会の主要会派が、企業車両のEV化に関する欧州委員会の強制的目標を「目標的」なものに",
+      "subject_en": "Parliament groups reject binding corporate fleet targets",
+      "html": "data/pdfs/20261103_2045_Parliament_groups_reject_binding_corporate_fleet_t.html",
+      "summary_en": "Leading European Parliament groups have agreed to make the EU's proposed binding corporate fleet electrification targets merely 'aspirational,' mirroring resistance already seen in the Council. This leaves the Commission's push for mandatory EV quotas in corporate fleets in serious jeopardy. Separately, lawmakers are also considering freezing the plug-in hybrid utility factor calculation until 2029-2030, a move automakers have heavily lobbied for as it would let them keep selling PHEVs while meeting emissions targets.",
+      "summary_ja": "欧州議会の主要会派は、欧州委員会が提案した企業車両の電動化に関する拘束力のある目標を「努力目標」に格下げすることで合意した。これはEU理事会でもすでに反対の動きがあり、委員会の義務的目標案は実現が危ぶまれている。また、議会はプラグインハイブリッド車の排出量算定に使う「ユーティリティファクター」の凍結も検討しており、これは自動車業界が強く働きかけてきたもので、実現すればPHEVの販売継続と排出目標達成の両立が可能になる。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_2013",
@@ -121,7 +176,12 @@
       "date_label": "NOV 3  20:13",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Lufthansa CEO warns jet fuel costs will spike airfares",
+      "html": "data/pdfs/20261103_2013_Lufthansa_CEO_warns_jet_fuel_costs_will_spike_airf.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_2005",
@@ -131,7 +191,12 @@
       "date_label": "NOV 3  20:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Crisis over top court shapes Poland’s battle lines before 2027 election",
+      "html": "data/pdfs/20261103_2005_Crisis_over_top_court_shapes_Poland’s_battle_lines.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_1906",
@@ -141,7 +206,12 @@
       "date_label": "NOV 3  19:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Streeting: Burnham is better than Blair at talking to the public",
+      "html": "data/pdfs/20261103_1906_Streeting__Burnham_is_better_than_Blair_at_talking.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_1736",
@@ -151,7 +221,12 @@
       "date_label": "NOV 3  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Why Europe shouldn’t celebrate a Democratic midterm victory",
+      "html": "data/pdfs/20261103_1736_Why_Europe_shouldn’t_celebrate_a_Democratic_midter.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261103_1503",
@@ -432,7 +507,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" dated 2026/10/30",
+      "subject_en": "JETRO Business Brief October 30, 2026",
       "html": "data/pdfs/20261102_1023_「ジェトロ・ビジネス短信」2026_10_30付.html",
       "summary_en": "",
       "summary_ja": "",
@@ -673,5 +748,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "Thailand will raise excise duties on imported battery EVs and range-extended EVs to 35% from January 2027, a direct response to surging Chinese EV imports. Indonesia and Malaysia may follow, but Thailand, ASEAN's largest auto production hub, has the most at stake.\n\nEuropean Parliament groups are moving to make EU corporate fleet electrification targets \"aspirational\" rather than binding, putting the Commission's mandatory EV quota plan in jeopardy. Lawmakers are also weighing a freeze on the PHEV utility factor calculation until 2029-2030, a win automakers have lobbied hard for."
 }
