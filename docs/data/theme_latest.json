@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 05:27:26",
+  "generated_at": "2026-11-04 10:04:43",
   "themes": [
     {
       "id": "iaa",
@@ -8,27 +8,17 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-04 05:26:49",
+      "last_checked": "2026-11-04 10:03:31",
       "items": [
         {
           "uid": "9fdff9f5cd90",
           "date": "2026-11-03",
           "title": "Why EU’s ‘Made in Europe’ could hurt Toyota more than Chinese rivals - Automotive News",
-          "summary": "# 要約\n\nEUの産業加速法案は「欧州製造」を重視することで、欧州内に大規模な生産基盤を持つトヨタなどの既存の自動車メーカーより、中国系ライバルに有利に働く可能性がある。この政策は、欧州での投資拡大を求める傾向があり、既に確立された製造体制を持つ企業の競争優位性を減少させる恐れがある。",
+          "summary": "EU の「メイド・イン・ヨーロッパ」政策は、欧州での現地生産義務や地域統合に関する要件により、既に欧州に深い製造基盤を持つトヨタなどの既存プレイヤーに対して、新規参入の中国メーカーよりも規制コスト負担が大きくなる可能性がある。この産業加速法案は、意図に反して既存の日系メーカーの競争力を相対的に弱め、中国企業の欧州市場進出を有利にする側面を持つ。",
           "source": "Google News",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uU2JCOXV4NW5oaldiUi0tTFRSa1Mwbm4yN09USXREMWVqQTVoMkZBR2ZtZ2FDN1FMV3dIeVBHSEY5blU5NDEyanZlVGM1RVVmMXZZZlFGcjhzZWVZRDRnLWJtejlmRjVYUlVUSTNjVHNNclg5M2gw?oc=5",
-          "added_at": "2026-11-04 05:26:45"
-        },
-        {
-          "uid": "2714dfbbc673",
-          "date": "2026-10-29",
-          "title": "Brussels or Beijing? The EU’s ‘Made in Europe’ plans will force the UK to choose - Chatham House",
-          "summary": "EUの「欧州産業加速法案」は域内製造強化と戦略的自立を目指していますが、英国に対してはEU規制への適合か中国への接近かの選択を迫るものとなっており、ポスト・ブレグジット時代の英国の産業戦略に重大な影響を与えることになります。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRlNHZHJRajlHS0xDNjVPc3NkUGJHSm9Xa3poRzlJYXRZcThEaXI4YkhLc1VuQWhBRTc3SXVuWDdGQTdFR0xZX0Nvdm41NW9SMlZIYnRnUnlRcWNLOVRQNFhzd21UYnFLQzFITmZnZWVYZVFWTldqM3dfMlJLWWRzQVlMb195ZHdWUEZETHBkOW1EeVhhZ1Z1Nl9wSmFqSlJR?oc=5",
-          "added_at": "2026-11-04 05:26:45"
+          "added_at": "2026-11-04 10:03:28"
         },
         {
           "uid": "d46c3dedea67",
@@ -2009,6 +1999,16 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQndHT1c2WHdiTkk5cFZBSFBIZEI2WDFiWHJrZmtmdExVZFdhVFlYT1FpbmFiUkJmTFM4ejY1UGRhN2pYakFXYnhoNGUyck1WeGZuNVptalZtYjJVcTRFLWpsSWxEbjVyNkpoRjNRdmNNWkl0bVpuRGJVbUhEZWtKRnp1bEdxdFdQcEVReGVGeGV6aUpWU2tnejJGNE5ZTF9OOWhJTEJCVTJpbUpORTRoNXRKclFtaURKZ0d6S0QzQkZ2ampHNjRKOXAybEFfSE1DTmVfVmNZQjFTeUdIRVJ5Z0hfM0lHaG1NWlRv?oc=5",
           "added_at": "2026-09-03 14:02:24"
+        },
+        {
+          "uid": "639b0fb5fa60",
+          "date": "2026-07-01",
+          "title": "Industrial Accelerator Act - Irish Presidency wants to secure political agreement in EU Council as early as 24 September - Agence Europe",
+          "summary": "アイルランド議長国は、欧州産業加速法案（IAA）について2024年9月24日までにEU理事会での政治的合意を確保することを目指している。これは、EU産業競争力強化のための重要な法案の迅速な承認を実現させようとする取り組みである。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMG51ZTZLS1gxODFDT1ZPeWtEeGRzTkdubmVQei1YanZVbjVJYnZqSUFVNnZmSlZZTE9kVFlRNDlKcUlPVHlFaEhXOVNXa05sMUZOS0pNSmpvbDdKX1YyaVU5eUJTa0sxYjhBanIydTdYaUJHbllGUDloeWUzYk1kOWwzaHlWOHBMa214ZmREMGJkZ0J4VEVmWDBGcGE2RXY3WVVaZFpVMFdkNldYRnpWbS1GQi1NNkFlcWQ4dnZOMnNTdlBUbHFkVUVMcURJczFfOFI5YVR2S3ZHQWRkVjNTMnB4WnVBMlZDM2RwdVVUNm42RnJZWUp1aHVhbWJWdw?oc=5",
+          "added_at": "2026-09-02 02:41:45"
         }
       ]
     },
@@ -2019,17 +2019,27 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-04 05:26:59",
+      "last_checked": "2026-11-04 10:03:54",
       "items": [
         {
           "uid": "f37493cb18e7",
           "date": "2026-08-25",
           "title": "One of Ohio’s U.S. senators pushes Chinese car ban - Cincinnati Business Courier - The Business Journals",
-          "summary": "オハイオ州の米国上院議員が中国製自動車の禁止を推し進めており、これはS.4429法案による米国接続車両安全保障法の枠組みの中で、中国製車両に対する規制強化の動きを反映している。",
+          "summary": "申し訳ございませんが、提供いただいたテキストにはタイトルのみで具体的な記事内容が含まれていないため、要約することができません。記事の本文内容をご提供いただければ、「米国接続車両安全保障法（S.4429）」に関する文脈で日本語に要約いたします。",
           "source": "上院商業委員会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamxRbnNuR1lqdHBVYnN6ZVFGS3dUTTdCSlUxdFNNMFhxbnZ0bm5ycS0ydWhzbWtjcmowMzBoMmtyZ0VBc1czeVl6Q2tlQnZUZVRCeGlCZWM1MG4zZE85bzcwbFZLZ2lydnVyLXhXcHVGSTFveTdVM201NlQ2OUo1bjYxcHpTNGk4Z2k1eEtRbkcyZF9QNFlaNTRBR2dnRjZJV3ZmZDA4enU?oc=5",
-          "added_at": "2026-11-04 05:26:58"
+          "added_at": "2026-11-04 10:03:49"
+        },
+        {
+          "uid": "48d6a7c548e2",
+          "date": "2026-11-04",
+          "title": "Nation demands total ban on Chinese vehicles - Adelaide Now",
+          "summary": "申し訳ありませんが、提供いただいた記事内容が「タイトルのみ」で本文が含まれていないため、要約できません。Adelaide Nowの記事の本文をお知らせいただければ、S.4429（米国接続車両安全保障法）の文脈での日本語要約をお作りします。",
+          "source": "メディア分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOVBZendoa2pfaFFVNmdFUFdKczJCZjFDNmdHNmdPRnkzRlE0ZW5sVF9RQkdYOWJkdWhmTE1HN3VjMzdzTEs5MDl2OHptTWI2SmxMVTBBQlhWS2dLemVTUWdFZFM1YlRMRm10UDRBOVZjZzhuRXB0NnBROXRJd1dGMEFBeENSZFlOR1RGUGJ4NTZiZGNXVFZJYzl3a0NLa0pUdXlyRDU2dGlDV1NGV1ZsdjlGMk0xR3VTbS1EeHpGeV9GZ3dja0VKeTVUOFQwVzFNdlZ6ZDVPblBPWEhoNlBuR3FqU0pTMjVPOVVqUUxCYk5uSlFpOTgya0xYN0gyVjVrYkplRw?oc=5",
+          "added_at": "2026-11-04 10:03:49"
         },
         {
           "uid": "07c35a4ccf9a",
@@ -4010,16 +4020,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVU93Mk5KaDc5U3RPaF83T2tRSmdmZFl5TUFnTEN5SWI3UlFoODNLVk54eHIzRmZJSkZObHNUTTNwNi0wSE5aTmlzM0lnblBzb1lzZDNORm9ldjRjblhJNXctNW5vODNLNVZ1b3BlNC0tR2VIQVNTcTNUc21tVXE2bUp5TVU1b09jRUlpUzYyYUdGd3NMaHVVajM4WEs5LThvRDhwWTc1NGtSQkU?oc=5",
           "added_at": "2026-09-02 02:41:55"
-        },
-        {
-          "uid": "071e69b5c454",
-          "date": "2026-08-31",
-          "title": "Denza N8L BEV Launches in September With Frunk PHEV Buyers Will Never Get - Tech Times",
-          "summary": "記事の内容が不完全で具体的な情報が提供されていないため、正確な要約ができません。\n\nただし、タイトルから判断すると、デンザN8L電動車（BEV）が9月に発売され、プラグインハイブリッド（PHEV）購入者が入手できないフロントトランク機能を搭載することが述べられています。\n\nS.4429（米国接続車両安全保障法）との関連性を含めた適切な要約を作成するには、記事の本文内容が必要です。",
-          "source": "中国自動車・IT企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVXJMaUROaGpvSG5EZnduMDBlV2MtbGI3RGFWc0xwN1FfVVJQWXQ1ekZoempUT2NwWHNrZTBiUXBmYlNxTzhxd0MxelVHd0QwRDM0YlVQYldwd0lXV1JGamY0bUJkbXBpV3I2VHZLR2hsdGVmS1U4MV9iQ3pPQzNzSkdQTi1kZXlrZmk0VU1ELTlqUlUxR2xWQ2hPSnhRQWlxUVc4X2NGYndUNnk5TXVtTlBNTEFlTVhIT0pJUA?oc=5",
-          "added_at": "2026-09-02 02:41:55"
         }
       ]
     },
@@ -4030,18 +4030,8 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-04 05:27:17",
+      "last_checked": "2026-11-04 10:04:23",
       "items": [
-        {
-          "uid": "cf630c1228e5",
-          "date": "2026-09-03",
-          "title": "Brazil’s Senate passes rare earth minerals regulation, paving the way for boosted exploration - AP News",
-          "summary": "ブラジルの上院がレアアース鉱物規制法を可決し、採掘探査の促進への道を開いたもので、これは中国がレアアース輸出管理で優位性を保つ中での供給源多角化の動きである。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQUI1T240MWgwNUR1YVdvbU04emRFdmhBX0pZeWZzV2dWVUxtaklBT2hfbVdKbm5oUDZXZmpFTi0zTW9hZUFZSWIxWWVQUzV5c1ZSV0VkWDdoeEl2WHp6TDRZQVF5MVVHMzV5V25aREhzZVdpYTExZUlBQU9RNVdrMG9VdWJReEdxZ3hodjV1YlRzTjg4aDh0N2twOFY?oc=5",
-          "added_at": "2026-11-04 05:27:15"
-        },
         {
           "uid": "70cb33b83f43",
           "date": "2026-10-22",
@@ -6031,6 +6021,16 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfS3hzV0xmQ1NwUFJWeGRDTFhvSVg5bWpVbFFmQmI0ZlU1UlNmc0RKZTJHSHBQNWFDZ1VmV0lEZlBIWmVkdXZmdElfUW5kUkRlRmhES1RIMnNzLUtnTnlLTWFhSm1jSFZfVF9wbUpTRDBmbjlVWFpkSg?oc=5",
           "added_at": "2026-09-30 13:20:21"
+        },
+        {
+          "uid": "6d04469cb5c7",
+          "date": "2026-09-30",
+          "title": "What products are part of US-China $60 billion tariff cuts deal",
+          "summary": "この記事は米中間の関税削減協議に関するもので、中国レアアース輸出管理の直接的な言及はありません。記事は$60億相当の商品関税削減を扱っていますが、クリスマス装飾品や花火、玩具などの一般消費財が対象で、レアアースを含む戦略的材料については記載されていません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/business/6119380-us-china-tariff-cuts/",
+          "added_at": "2026-09-30 13:20:21"
         }
       ]
     },
@@ -6041,37 +6041,37 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-04 05:27:26",
+      "last_checked": "2026-11-04 10:04:43",
       "items": [
         {
           "uid": "7fa278a21090",
           "date": "2026-11-02",
           "title": "Major automakers urge US Congress to pass permanent ban on Chinese vehicles - Reuters",
-          "summary": "米国の主要自動車メーカーは、中国車の米国市場への参入を永続的に禁止する法案の成立をアメリカ議会に促しており、これは中国との提携や中国製電動車への警戒感が自動車業界内で強まっていることを示している。",
+          "summary": "米国の主要自動車メーカーは、中国製電動車の米国市場への流入を防ぐため、米議会に対して中国車の永続的な禁止措置の成立を求めており、これは対中経済競争の激化と自動車産業における地政学的リスクへの懸念を反映している。",
           "source": "Reuters",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTVhdFlwU2VQcjVwVnVwdGZHQkpGcEtJbWVjcW1uOC1aQ2ZuZ3hmblRmWkRRMU1RdWZrM1ZoN3k5eDZfem1UVTZRMVQtbkRTV1hnR1RZNUN4VndSMzJEV0FRUGprVWtmbnVhZFc5WDdrX3EyWWw4WDNyTEk3UmgtUy1uWGtvejg2MWI3RDhJVVFrZFBOUDRxLXFFS1I4WHhHOFc3LU5BbWVuR1pPY09OMTlubFI4dHduM2RaMExUUQ?oc=5",
-          "added_at": "2026-11-04 05:27:22"
+          "added_at": "2026-11-04 10:04:37"
         },
         {
-          "uid": "8ff77a8f0747",
-          "date": "2026-10-26",
-          "title": "Trump administration's firing of prosecutor Maurene Comey was unlawful, judge rules - Reuters",
-          "summary": "本記事はトランプ政権によるモーリーン・コーミー検事の解雇に関する司法判断についてのもので、自動車メーカーの対中提携への政治的批判という文脈とは直接的な関連がありません。",
+          "uid": "fddfe70f3513",
+          "date": "2026-10-30",
+          "title": "New York state police to take over sexual assault complaints at Cornell University - Reuters",
+          "summary": "この記事はコーネル大学の性的暴力事件の捜査権がニューヨーク州警察に移管されるというもので、自動車メーカーの対中提携への政治的批判とは無関係です。",
           "source": "Reuters",
           "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWZ2TUkxWGJOaXdWYTVwUkFCMFJTZlUwTW1GYUZ3LTBxNEtLcE91UGVaWkNJZ0JMTHRUYmRVc2ZObGZ0M1V5YVNWYkZ5UlJBSS16eHpLSTFyRjAxQmc1VFQ1UmhFT2RlNVo3UjFLd0dGRmZSZHFxTXlhTFVwbF9KUU13QmRuaktSZEFnbFgzUXltNGlVQWdXNlJlUDFmdHgtQmRneG5TcmNyUGhYS0pZOHRIalhCMmFMNUF3Z1pJazNnNFRNOWttYmVQOA?oc=5",
-          "added_at": "2026-11-04 05:27:22"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTW8tdWFwaG1ER0s4WTQtT1dITVZtVnk4Z1JId3c1Vm41dVQ5bXFhcmwtNDVVXzJsUklNcm1MdmVXenE3MW9lRXZIN2g4ME9GTzNaQVlsaWxhLUNkc0RRcmRSZFRWSlRJc0FSYkFhSjNVME55SGhSQXpHZ1lmdy1Qc1dNQ0ZVNVY3dGNXSmxWWW5uNzJQTTZ6bkVaVWNNVFEtb1ZnanVWSFhXSlBvb1JlUTh5aUphOEdlcFE?oc=5",
+          "added_at": "2026-11-04 10:04:37"
         },
         {
-          "uid": "20504b02248a",
+          "uid": "413b9866a296",
           "date": "2026-11-03",
-          "title": "Arkansas live results: 2026 House elections",
-          "summary": "この記事はアーカンソー州の2026年下院選挙結果に関するもので、自動車メーカーの対中提携への政治的批判とは無関係です。",
+          "title": "North Carolina, Massachusetts, New York report technical issues at polls",
+          "summary": "この記事は選挙投票所の技術的問題についての内容であり、自動車メーカーの対中提携への政治的批判に関する文脈とは関連がありません。そのため、要求されたテーマでの要約はできません。",
           "source": "The Hill",
           "source_type": "media",
-          "url": "https://thehill.com/homenews/house/6176004-arkansas-live-results-2026-house-elections/",
-          "added_at": "2026-11-04 05:27:22"
+          "url": "https://thehill.com/homenews/campaign/6193947-election-day-poll-technical-issues/",
+          "added_at": "2026-11-04 10:04:37"
         },
         {
           "uid": "63f979562f0a",
