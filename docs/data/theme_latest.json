@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 10:04:43",
+  "generated_at": "2026-11-05 05:48:29",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-04 10:03:31",
+      "last_checked": "2026-11-05 05:42:24",
       "items": [
+        {
+          "uid": "950d23a75bd4",
+          "date": "2026-10-20",
+          "title": "Korean concern over proposed 'Made in EU' act's impact on nuclear power projects - World Nuclear News",
+          "summary": "欧州産業加速法案（IAA）における「EU産製造」要件がEU域外の企業を排除する可能性があり、韓国は同法案がEU内での原子力プロジェクトへの参入機会を制限されることへの懸念を表明している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdG5RazY5cDdnamRUaFdldkhDbmVGUXJud2E5bGg1bmdnZkJ6ZW0ySDVCdTM4dDFMVWdTT29UdUl0UGlwdnBvTG1fMS1zQTUwUlhIcWJ6TEJQdV9FWk5nNktBTldsY0xoVEh2MkhtOE9fRjhoWkZmc1llT1hsbVZWWTdXZzlndVQ2TktxYklER2hrSnJmRkxrSDl2UUk4ZTJoaGxOVm9GN0NQVFFhejlsM3lCeXh3UmhvN093?oc=5",
+          "added_at": "2026-11-04 21:50:03"
+        },
         {
           "uid": "9fdff9f5cd90",
           "date": "2026-11-03",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQndHT1c2WHdiTkk5cFZBSFBIZEI2WDFiWHJrZmtmdExVZFdhVFlYT1FpbmFiUkJmTFM4ejY1UGRhN2pYakFXYnhoNGUyck1WeGZuNVptalZtYjJVcTRFLWpsSWxEbjVyNkpoRjNRdmNNWkl0bVpuRGJVbUhEZWtKRnp1bEdxdFdQcEVReGVGeGV6aUpWU2tnejJGNE5ZTF9OOWhJTEJCVTJpbUpORTRoNXRKclFtaURKZ0d6S0QzQkZ2ampHNjRKOXAybEFfSE1DTmVfVmNZQjFTeUdIRVJ5Z0hfM0lHaG1NWlRv?oc=5",
           "added_at": "2026-09-03 14:02:24"
-        },
-        {
-          "uid": "639b0fb5fa60",
-          "date": "2026-07-01",
-          "title": "Industrial Accelerator Act - Irish Presidency wants to secure political agreement in EU Council as early as 24 September - Agence Europe",
-          "summary": "アイルランド議長国は、欧州産業加速法案（IAA）について2024年9月24日までにEU理事会での政治的合意を確保することを目指している。これは、EU産業競争力強化のための重要な法案の迅速な承認を実現させようとする取り組みである。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMG51ZTZLS1gxODFDT1ZPeWtEeGRzTkdubmVQei1YanZVbjVJYnZqSUFVNnZmSlZZTE9kVFlRNDlKcUlPVHlFaEhXOVNXa05sMUZOS0pNSmpvbDdKX1YyaVU5eUJTa0sxYjhBanIydTdYaUJHbllGUDloeWUzYk1kOWwzaHlWOHBMa214ZmREMGJkZ0J4VEVmWDBGcGE2RXY3WVVaZFpVMFdkNldYRnpWbS1GQi1NNkFlcWQ4dnZOMnNTdlBUbHFkVUVMcURJczFfOFI5YVR2S3ZHQWRkVjNTMnB4WnVBMlZDM2RwdVVUNm42RnJZWUp1aHVhbWJWdw?oc=5",
-          "added_at": "2026-09-02 02:41:45"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-04 10:03:54",
+      "last_checked": "2026-11-05 05:44:22",
       "items": [
+        {
+          "uid": "fbf14056be67",
+          "date": "2026-11-04",
+          "title": "US auto lobby pushes for permanent ban on Chinese vehicles - Awaz The Voice",
+          "summary": "米国自動車業界ロビーが中国製車両の恒久的な禁止を推し進めており、これはS.4429などの立法を通じて、国家安全保障上の懸念を理由に中国メーカーの米国市場参入を制限することを目指しています。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFVUOUpQQmlpNjBIRzVGazRiSm9sTDZSdFBlbWxVaGZ3TXRUOXRlXzhNM3lmQTRVYlljSmRvM2hhVlVWYkpZYm5yM096RVgyR2Zqem9taTAwUHkybHczOXh5SUc3dTJkdEM4dVlrdFp2SVJ2VE5nRFhNcGlJcUQ4MWtONUNnSmZ2VEtYdEktd0RVVHpScWFTYTJyQjktcnM0ejdFcHZyWUR3WFVKOWVVdg?oc=5",
+          "added_at": "2026-11-04 21:50:12"
+        },
         {
           "uid": "f37493cb18e7",
           "date": "2026-08-25",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU0xPdU5uTWdfbVpScFJ6WVlIaXpSci1hcFVnYVRSUHZ3NjdTcXFpSXBFUWJQbDlhTHNfVWh4aWZDQVBJNVhBWUJaMmdNaXVMUDdPdURtQzZmNXZkcEg3VWxyN0ZrTklWZUZueGYtdFVwSHNtanF1Y1FPQVgyb1hXYXBMUGxqZEk4OHJQbDhuaWpmY2YyX0lWWnlRNDFfUDg?oc=5",
           "added_at": "2026-09-02 02:41:55"
-        },
-        {
-          "uid": "a9c5bedf3899",
-          "date": "2026-07-21",
-          "title": "U.S. auto industry races to purge Chinese connected-car hardware amid federal push - American Journal of Transportation",
-          "summary": "米国の自動車産業が、S.4429法案に対応して中国製のコネクテッドカー用ハードウェアを排除する動きを加速させており、この法案は国家安全保障上の懸念から中国製部品の使用制限を求めている。同業界はサプライチェーンの再構築を急いでいるが、これは生産コストの増加と納期の延長につながる課題に直面している。",
-          "source": "中国政府",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVU93Mk5KaDc5U3RPaF83T2tRSmdmZFl5TUFnTEN5SWI3UlFoODNLVk54eHIzRmZJSkZObHNUTTNwNi0wSE5aTmlzM0lnblBzb1lzZDNORm9ldjRjblhJNXctNW5vODNLNVZ1b3BlNC0tR2VIQVNTcTNUc21tVXE2bUp5TVU1b09jRUlpUzYyYUdGd3NMaHVVajM4WEs5LThvRDhwWTc1NGtSQkU?oc=5",
-          "added_at": "2026-09-02 02:41:55"
         }
       ]
     },
@@ -4030,8 +4030,18 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-04 10:04:23",
+      "last_checked": "2026-11-05 05:47:01",
       "items": [
+        {
+          "uid": "a38b768dab59",
+          "date": "2026-11-03",
+          "title": "Post-Election Deadlines Set the Critical Minerals Calendar - Environmental Leader",
+          "summary": "記事の内容が完全に表示されていないため、正確な要約ができません。記事の本文内容をご提供いただければ、「中国レアアース輸出管理」の文脈で日本語1〜2文に要約いたします。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPenR4MHA2SmZSX1g2cDlzLThzOWlwTHlJTXU2MTRZV2E2ZlEyQ01jb01ScG96OVhncU9aMGN5OWxqekhqY2ZpbDJzRHFhaFlsSm1wQXRRZ044Y0hHNUV3RzZtMVg3SGp4TUJra3pvT2NyU21Tcnlya0FncXc1R1lFNTdXZGQyNzAwLUJ0aHJpcEpNUTRUSFY5eEZHanNNeE9sLUFDM1RHdVU0cG05S28zWGl3aw?oc=5",
+          "added_at": "2026-11-04 21:50:27"
+        },
         {
           "uid": "70cb33b83f43",
           "date": "2026-10-22",
@@ -6021,16 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfS3hzV0xmQ1NwUFJWeGRDTFhvSVg5bWpVbFFmQmI0ZlU1UlNmc0RKZTJHSHBQNWFDZ1VmV0lEZlBIWmVkdXZmdElfUW5kUkRlRmhES1RIMnNzLUtnTnlLTWFhSm1jSFZfVF9wbUpTRDBmbjlVWFpkSg?oc=5",
           "added_at": "2026-09-30 13:20:21"
-        },
-        {
-          "uid": "6d04469cb5c7",
-          "date": "2026-09-30",
-          "title": "What products are part of US-China $60 billion tariff cuts deal",
-          "summary": "この記事は米中間の関税削減協議に関するもので、中国レアアース輸出管理の直接的な言及はありません。記事は$60億相当の商品関税削減を扱っていますが、クリスマス装飾品や花火、玩具などの一般消費財が対象で、レアアースを含む戦略的材料については記載されていません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/business/6119380-us-china-tariff-cuts/",
-          "added_at": "2026-09-30 13:20:21"
         }
       ]
     },
@@ -6041,8 +6041,118 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-04 10:04:43",
+      "last_checked": "2026-11-05 05:48:29",
       "items": [
+        {
+          "uid": "53b98912cf36",
+          "date": "2026-11-04",
+          "title": "UK prime minister says midterm results a call to ‘unite’ on battling cost of living",
+          "summary": "この記事は自動車メーカーの対中提携に関する政治的批判とは無関係です。英国首相が米国中間選挙後に生活費問題への対応で国際的な協力を呼びかけた内容であり、要約対象に該当しません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6197950-uk-andy-burnham-iran-war-cost-of-living-global-prices-democrats-midterm-sweep/",
+          "added_at": "2026-11-05 05:48:28"
+        },
+        {
+          "uid": "1aebf0ecd6b7",
+          "date": "2026-11-04",
+          "title": "US auto industry group urges Congress to impose permanent ban on Chinese vehicles - TradingView",
+          "summary": "米国自動車業界団体が、中国製車両の永久的な禁止をめぐって議会に圧力をかけており、これは中国との自動車提携に対する政治的な対抗姿勢を示すものである。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUHd3c1g2X3I4MzFrQ19GQ2Jic1lGT0pPSEJ5V0Z2cWV4MXpSSWwtSXFqLXBVUHZwRjdNaDJFUjhidHRhTmZJS1FLRmdQcUtKTVIwd1VFemRXdHVTOXZBSlRxNVlLV3pKNFZKczJVTk1iOWpQU0kzaWN4dW5OdEhVbzZPTG5ZaEU5ZXBUeFRieTJURUVScE5iRHpwVmJicnEyYjhaSVFLbnBiMUVzelVLSldHU25TbHd5ZzNNQmJlNEZfdHpIT2NsWEVwcjloX2d0bHprRQ?oc=5",
+          "added_at": "2026-11-04 21:50:36"
+        },
+        {
+          "uid": "0d05f46cafaa",
+          "date": "2026-09-09",
+          "title": "Trump administration slams Ford, alleges ties to China - WBAL-TV",
+          "summary": "トランプ政権がフォード・モーターを中国との結びつきで批判し、自動車メーカーの対中提携が米国の政治的に敏感な問題として浮上していることが示唆されている。米国政府は自動車産業における中国との関係を国家安全保障や産業政策の観点から強く反発している。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHU0YndZZVN3angyRnhnaHd6VlJDTWpLbXdTTmV0VC1KTDVOdXFTMzgtM1QzbHYxOHNRSXRhVlo4YndpTnFoOEpPaXBJdlpfRG5uUmtJWHJUaXFKUDhJbjF5WDl0TTNIVG8wQnR1QUdnSUgwZzh2UTZ6WWIyNDNkcUItbw?oc=5",
+          "added_at": "2026-11-04 21:50:36"
+        },
+        {
+          "uid": "94f93791393f",
+          "date": "2026-10-13",
+          "title": "Stellantis and Leapmotor: how much Chinese technology will make its way into European cars? - electrive.com",
+          "summary": "ステランティスが中国のリープモーター社との提携を通じて中国のEV技術をヨーロッパ車に導入することが、西側先進国の産業主権と技術依存に関する政治的懸念を引き起こしている。自動車メーカーによる対中提携は、中国技術への依存深化とそれに伴う経済・安全保障上のリスクについての政策立案者からの批判の対象となっている。",
+          "source": "米系自動車メーカー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGRDQ3FVWm5wekE5Ty1mY3V0MGs1LXdwVkRINno3MnVnWTNiMlltdDV4ODRTM2tPbmUtaFk1bDBKVmtqeDdWVDE4TXJzWXo3dzZyZ1g1dVU3RlNPYUNsS1JybVlvTUhoVWZiVUczU0lCUkRJWjZQaGhGZzU0MkdXRVhZSDRkN1R4T2ZlcTFSWmE1dFUzNC05OU56Z1IyR1p4R0ZydzRVZUR1ZU5YV2Z5TGxkR1RRQlBfTGM2b1pLTkxuVXhmcVE?oc=5",
+          "added_at": "2026-11-04 21:50:36"
+        },
+        {
+          "uid": "b845c11b849b",
+          "date": "2026-11-03",
+          "title": "OpenAI employees warned about operational security lapses for years, sources say - Reuters",
+          "summary": "申し訳ありませんが、提供いただいた記事の内容がOpenAIのセキュリティ問題に関するもので、「自動車メーカーの対中提携への政治的批判」との関連性が見当たりません。記事内容が異なるため、要約することができません。\n\n正しい記事をご提供いただければ、ご希望の文脈で要約させていただきます。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5",
+          "added_at": "2026-11-04 21:50:36"
+        },
+        {
+          "uid": "5a45fcbbbe69",
+          "date": "2026-11-03",
+          "title": "India's auto stocks rise as strong October sales signal resilient festive demand - Reuters",
+          "summary": "インド自動車業界のOctober売上が堅調で祭り期間の需要が底堅いことが示唆され、インドの自動車株が上昇した。この動きは、中国との競争関係にある各自動車メーカーの戦略動向とは無関係である。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSk1WX2FrREhQbTBpSzZBem9GeGlqdmlTOFlZYV9pemNvMGdOYl9qWlFwXzE3cUhkOC1FZkRjY0k1MzYwcG9JSnM5VFg4WmZEVGxYWVNpczFoN3dubG1sOWQtaVkzYVdibzAyN1BZR1dXVDZwTk40WTlxcmFrSkZmbXcweTA2b3ZvNVUtLVlzZFhrREswSW9wWWN5azRLQWhhMVdSYzV5ZzVwZmp6T1NtemplWjA0SmJWM1VjQlltY2ctUQ?oc=5",
+          "added_at": "2026-11-04 21:50:36"
+        },
+        {
+          "uid": "8e19d4d3b79e",
+          "date": "2026-11-03",
+          "title": "Ferrari lifts forecasts after outperformance, Luce EV demand strong - Reuters",
+          "summary": "フェラーリが業績好調と電動車需要の堅調を背景に業績見通しを上方修正したが、この記事は自動車メーカーの対中提携に関する政治的批判とは直接的な関連がなく、要約の対象外です。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmdaRHVlXzNfbXRPWi1vUlJKZzQ0UlZsSlhiajY4ZkZMX3NvcjhxSVZrd1RybVRTd1doeW11RE1tZGUzM3JyVndPM2ZfVHQ0d3dBcE1GVkZzV3dVMmMyR0xRTnBSVmhmVWpYZ1RPcEticGUtZndRRzRoVjVsLTlkYnlKVXBRaDBJNGMxUW1ya0dfTzlMSzE5NThqSFBFcGVVVWdodGhndlJSd28tV0E?oc=5",
+          "added_at": "2026-11-04 21:50:36"
+        },
+        {
+          "uid": "0c045003000a",
+          "date": "2026-11-03",
+          "title": "For many Russians, higher utility bills are latest inflation shock - Reuters",
+          "summary": "この記事はロシア国内のインフレーション問題に関するもので、自動車メーカーの対中提携への政治的批判とは無関係です。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0xNREk4Ym4yMm1wdlZjc2JwRUpUaTA5Y2t2ZXF3RGdMMFVFa3d3ZDhtcWxBbXQ1QVpuS1drSWdaVXdHZW1CTnk4RXQ2VV9mdXNYLTdIRHMyUjJkOGtZR3JRSkw4S0R3NW1fX3RSQU5ySVZDNTFTeWJkQmd3TlkwRkx2MTd0UzloWFhDZjVWU21TUlpQMmI5Z0xjei1qWWpoRWdzd0JR?oc=5",
+          "added_at": "2026-11-04 21:50:36"
+        },
+        {
+          "uid": "e5ad6ab7fc3c",
+          "date": "2026-10-30",
+          "title": "Ambani-owned Reliance's profit jumps 41% on refining, Jio strength - Reuters",
+          "summary": "この記事は自動車メーカーの対中提携に関するものではなく、インド企業Relianceの石油精製事業とJioの好調による利益増加について報じているため、指定された文脈での要約は適切ではありません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3F1YnFaLTBTLUs5bS1sUk1jVE9lYlFqS2ZQZDJibUpxbC1fSW5udUpITDFnUVhsWU5BekF4UUtjNm0za1VkeTZFSGstZGd1bnZ3cXZIdTZmeG5Ob0l3WFdWZm1zYy14Zy1PdkdSM29MZ29Qa0d6MUNBXzh3ME5fRG1ZNldhbGJxcjNfZDc5bzhOUFJQV2dHLW00X0pNUkw5UUlwZ3BhNjJ3THdYZllWbTB6SlM?oc=5",
+          "added_at": "2026-11-04 21:50:36"
+        },
+        {
+          "uid": "616c245c57de",
+          "date": "2026-10-29",
+          "title": "Renault Q3 revenue beats forecast as EV demand lifts shares - Reuters",
+          "summary": "ルノーの第3四半期売上が電動車需要の伸びにより予想を上回ったことが、自動車メーカーが電動車シフトを通じて中国市場への依存を深める傾向を示しており、こうした戦略的提携が地政学的リスクや政治的批判の対象となる可能性を示唆している。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXFwZ2VwSDBZVUQ0S0ljTzZkUnV5VERleGhMNHk2Y0ZkY2NzYTFnWS1SVjY3ajg4Q3lUOWNWZE5zRTBnT012MnV5X25OYzZiSE5tdUxBcVZ0WlFHWU9nT1FQWGg0N0UxelN0elFmcWxWRThVYm5PNy13ajQ3SDhCQWNiVkxnNnhLRXR6ZVB4blRuekpTR3BCS043bXY4R2Yw?oc=5",
+          "added_at": "2026-11-04 21:50:36"
+        },
+        {
+          "uid": "c1b879918a51",
+          "date": "2026-10-29",
+          "title": "NEWSLETTER: Dispatch from Motor City: fears swirl over tariffs and China - Reuters",
+          "summary": "米自動車業界は中国との関係強化と高関税導入の可能性に対する懸念が高まっており、自動車メーカーの対中提携戦略が政治的・経済的圧力にさらされている状況が報じられています。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOTVRVkhYTVhTNTBLbHlOWVRDUS1YUXRwcWRUUmdweEVlX242TmxIamJHekk4cjNTZWpxNzJwWVlDRUh4Mmp2eUZfV3ozTGhZaDJBaWRJSlVLNlNhb3dETGNZVUtPbEktZVdDVGRfc1NKRWtvU3JoVXFVVldjUkdLUmVXb25lRmFxVmlVN0p1cEVGTExEOEJtQWZZa216TlFZX1RnTTEwNmtETXlGVjBybDJUNy1GMTA?oc=5",
+          "added_at": "2026-11-04 21:50:36"
+        },
         {
           "uid": "7fa278a21090",
           "date": "2026-11-02",
@@ -7932,116 +8042,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHNOOTVFNGVJQlJheWhTMmd2cTNDZ3RIcjZPa1lkMnpCdHpsUDAyMmNzUTk3alJOTVRfa3RFZWVZVlYtaGdaczQ1NHZ4aXhyNHVyTlVITGV0MGRwTHdTOUtNV2NZaUZhNTRiZ1Jaal9ZekdWeW9BZ3g3TmQ5ek5sQ3RLWGJzdm9mZjZtaFJvVWYyM0prcUszLXVhMHBqeU93TlVyREdjUVQ?oc=5",
           "added_at": "2026-10-03 19:16:45"
-        },
-        {
-          "uid": "663386ba11a9",
-          "date": "2026-07-30",
-          "title": "EXCLUSIVE: Ford CEO tells employees Chinese automakers could enter US market in next decade - Reuters",
-          "summary": "フォード最高経営責任者が従業員に対し、中国自動車メーカーが今後10年以内に米国市場に参入する可能性があることを警告しており、これは中国との提携や競争をめぐる米国内の政治的懸念を反映している。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUlVCU095SmhKbUZSYnJnU1NKLVFoRGFBMmlZdnJodHNna3hVTXFGTVhXZ2NnVTFqMS13cS1qeEU0eDBoUGlfc2UtbDZmcHMtOUVvMmVOQ2liWGFmV0ZXMm5faW1jd0VsZUQ0LUpjeHJDZ0V2WWRHQnRGN3BlV29GeGpWcDhYazlWQWxsNVBSakdRT1poWGd4dTJvalVVZHByNGk4b0FzMW9oSFF2c3I5d0ZvZXNER2FsOExZb055emFvMkZJaHJfWXM1YXFSOHpvaXVIZ0NfUERLUm8?oc=5",
-          "added_at": "2026-10-03 19:16:45"
-        },
-        {
-          "uid": "9865b305d737",
-          "date": "2026-10-02",
-          "title": "Alito: ‘I thought about’ retiring at end of last term",
-          "summary": "この記事は自動車メーカーの対中提携に関する内容ではなく、米国最高裁判事サミュエル・アリート氏の退職に関する記事であるため、要求された文脈での要約はできません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/regulation/court-battles/6127267-alito-considered-supreme-court-retirement/",
-          "added_at": "2026-10-03 19:16:45"
-        },
-        {
-          "uid": "a56303871cf4",
-          "date": "2026-10-02",
-          "title": "Marines exceed 2026 recruiting goals",
-          "summary": "この記事は米海兵隊の2026年度募兵目標達成に関するもので、「自動車メーカーの対中提携への政治的批判」という文脈とは無関係です。そのため、要求された文脈での要約は不可能です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/newsletters/defense-national-security/6127172-marines-exceed-2026-recruiting-goals/",
-          "added_at": "2026-10-03 19:16:45"
-        },
-        {
-          "uid": "0e098d96ffac",
-          "date": "2026-10-02",
-          "title": "Hundreds from India's Gen Z-led 'cockroach' party protest, seek election chief's resignation - Reuters",
-          "summary": "インドの若い世代が主導する新興政党が数百人規模で抗議デモを行い、選挙委員長の辞任を要求した。この記事は自動車メーカーの対中提携への政治的批判とは関連がない。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPekRpbGVJR0F5ZURMVElTWW96TTg2c05la2hpang1Tkd6VEtXMTRFSVl4ZHd3eExmM1dmSEFzN2hXWVJ0bFhrVHZDZUd0MzZIdkg4NGt3YmJnRVBObm9LZTlMa1lrMU4zSXlZRk1BWW9GQmEydGM5ai1JSkZqa2hvWXB5SzI4TWUtYUQ4QlR6ZmNudlR6VlhjTVBxeHJpT1lRNEJpOU1yMmVkZE1rWlkydlB5a0c0QXJWb1dZ?oc=5",
-          "added_at": "2026-10-03 04:03:23"
-        },
-        {
-          "uid": "2b0bc1a10d5b",
-          "date": "2026-09-28",
-          "title": "Momenta and Stellantis' China JV with Dongfeng to co-develop intelligent driving technology - Reuters",
-          "summary": "ステランティスが中国の自動運転技術開発企業モメンタおよび東風自動車とのジョイントベンチャーを通じて、中国での自動運転技術の共同開発を進めることが、欧米自動車メーカーの対中技術提携に対する政治的批判が高まるなか、西側の競争力喪失への懸念を招いている。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzByVUtHMHlIWGhiUzl5Vzd0YXhiWnZ6R25pMzVUTjlLSW1SaDFnRy1fSnAwd1BlUWwzb0dBa3ljWnZLRWlKNmdIYXpXUTM3QUg3MjByLVZSd042VkZZT2F1LXVaM2xaZzN1X01WWWE1LS1wVG9hNlY4TjE1MmtKb1YzR1NoTTBhRHNwSzMzYW9LSDhTMlFjQ3g2NWtNYWdfSmFpX3c5bHlBSkxPUnFnbDBpb1ppS2ZQNHM3NQ?oc=5",
-          "added_at": "2026-10-03 04:03:23"
-        },
-        {
-          "uid": "a693d6b0d33a",
-          "date": "2026-10-02",
-          "title": "If America wants to prosper, we must lead",
-          "summary": "米国の上院議員リック・スコットとハドソン研究所の研究員レベッカ・ハインリクスは、中国とロシアが主導する権威主義的同盟に対抗するため、米国は世界的リーダーシップを維持する必要があると主張している。この議論は、自動車メーカーなどの米国企業が中国との提携を強化することが、米国の地政学的優位性と国家安全保障を損なう恐れがあるという懸念の文脈で位置づけられる。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/national-security/6124896-trump-un-global-leadership/",
-          "added_at": "2026-10-03 04:03:23"
-        },
-        {
-          "uid": "ed691e31c928",
-          "date": "2026-09-08",
-          "title": "Trump administration expresses 'profound concern' over Ford's ties to China - CNBC",
-          "summary": "トランプ政権がフォード・モーターの中国との関係に「深刻な懸念」を表明し、自動車メーカーの対中提携が米国政権から政治的に批判されていることが示された。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NA?oc=5",
-          "added_at": "2026-10-02 19:57:17"
-        },
-        {
-          "uid": "667766c79d5b",
-          "date": "2026-09-26",
-          "title": "Trump rejects Iranian peace proposal, WSJ reports - Reuters",
-          "summary": "トランプ大統領がイランの平和提案を拒否したというWSJの報道は、自動車メーカーの対中提携への政治的批判とは直接的な関連がないため、要求された文脈での要約は不適切です。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSktoVFV5TmFoZFFlNGJOdHNQbl9ZNWVfOFVvRTN2UXpLMlBhSnZ6ZVZLdFNlRU5CR3RjaHYxWDJRclcyb1lrVzh1WG83MWtmcjRyVnpRdTZIcTdtY01WRlFaVXZ5aWFBSXgzdk9LdzZNdmlQWHJlUmJuci1TSFI1bWRtYXJwYWdEYjBVMHJlVnpYbndpR1lQbllKNkphM0t1SmhXaXNYQmVncDFVOHFJ?oc=5",
-          "added_at": "2026-10-02 19:57:17"
-        },
-        {
-          "uid": "af90a6a65b7e",
-          "date": "2026-10-01",
-          "title": "Pentagon increases pay for troops in hostile fire for first time in more than 20 years",
-          "summary": "この記事は自動車メーカーの対中提携とは無関係で、米国防総省が20年以上ぶりに戦闘地域の兵士給与を引き上げたという防衛政策に関するものであるため、要求された文脈での要約はできません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/newsletters/defense-national-security/6124762-pentagon-increases-pay-for-troops-in-hostile-fire-for-first-time-in-over-20-years/",
-          "added_at": "2026-10-02 19:57:17"
-        },
-        {
-          "uid": "e64341108277",
-          "date": "2026-10-01",
-          "title": "FBI arrests Energy Department employee accused of attempting to support Houthis",
-          "summary": "申し訳ありませんが、提供いただいた記事の内容は「FBI職員による親フーシ派支援の容疑」に関するもので、「自動車メーカーの対中提携への政治的批判」という文脈とは無関係です。そのため、ご指定の文脈での要約はできません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/state-watch/6124659-doe-employee-arrested-alleged-houthi-support/",
-          "added_at": "2026-10-02 19:57:17"
-        },
-        {
-          "uid": "01d994ba67a1",
-          "date": "2026-10-01",
-          "title": "UK-Iranian dual national arrested in US airbase RAF Fairford incident, police say",
-          "summary": "この記事は「自動車メーカーの対中提携への政治的批判」とは無関係です。英国とイランの二重国籍者がイギリスの米軍基地に対するテロ準備容疑で逮捕された事件についての記事であるため、要約することは適切ではありません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/international/6124534-man-arrested-uk-raf-fairford/",
-          "added_at": "2026-10-02 19:57:17"
         }
       ]
     }
