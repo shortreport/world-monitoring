@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-04 10:04 JST",
+  "updated_at": "2026-11-05 13:44 JST",
   "total": 50,
-  "toyota_summary": "タイは2027年1月から、輸入バッテリーEVおよびレンジエクステンダーEVに対する物品税を35%に引き上げる。中国製EVの輸入急増への直接的な対応策である。インドネシアとマレーシアも追随する可能性があるが、ASEAN最大の自動車生産拠点であるタイにとって、最も大きな利害が絡む。\n\n欧州議会の各会派は、EUの企業車両電動化目標を拘束力のある義務ではなく「努力目標」とする方向で動いており、欧州委員会が掲げるEV販売義務化計画は危機に瀕している。議員らはまた、PHEVの実効係数（ユーティリティ・ファクター）算定方式を2029～2030年まで凍結する案も検討しており、これは自動車メーカー各社が強く働きかけてきた成果である。",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20261104_0015",
@@ -507,7 +507,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "JETRO Business Brief October 30, 2026",
+      "subject_en": "JETRO Business Brief dated 2026/10/30",
       "html": "data/pdfs/20261102_1023_「ジェトロ・ビジネス短信」2026_10_30付.html",
       "summary_en": "",
       "summary_ja": "",
@@ -749,5 +749,5 @@
       "summary_pdf": ""
     }
   ],
-  "toyota_summary_en": "Thailand will raise excise duties on imported battery EVs and range-extended EVs to 35% from January 2027, a direct response to surging Chinese EV imports. Indonesia and Malaysia may follow, but Thailand, ASEAN's largest auto production hub, has the most at stake.\n\nEuropean Parliament groups are moving to make EU corporate fleet electrification targets \"aspirational\" rather than binding, putting the Commission's mandatory EV quota plan in jeopardy. Lawmakers are also weighing a freeze on the PHEV utility factor calculation until 2029-2030, a win automakers have lobbied hard for."
+  "toyota_summary_en": ""
 }
