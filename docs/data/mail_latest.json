@@ -1,129 +1,568 @@
 {
-  "generated_at": "2026-11-04 10:04 JST",
-  "sender_count": 2,
-  "total_mails": 15,
+  "generated_at": "2026-11-06 14:28 JST",
+  "sender_count": 7,
+  "total_mails": 74,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 4,
+      "count": 35,
       "bullets": [
-        "タイが2027年1月から輸入電気自動車の物品税を35%に引き上げ、中国製EV輸入の抑制を開始",
-        "米国の中間選挙で民主党が上院で最低52議席の多数派確保",
-        "ポーランドのトゥスク首相が憲法裁判所の再編成に動く中、大統領との対立深化により立法議程の制約",
-        "英国のバーナム首相がEU圏への再加盟の可能性を含む将来の関係について11月の英EU首脳会談で議論開始"
+        "2026年米中間選挙で民主党による上下両院の奪還が有力で、特に上院奪還確率を65%に引き上げ",
+        "フロリダ、ジョージア州の早期開票結果が民主党の強い成績を示唆し、ブルーウェーブの可能性が上昇",
+        "サウジ・フーシ派戦争はイエメンで2027年中盤まで経費のかかる膠着状態へ移行する見通し",
+        "イランの攻撃による中東石油輸送混乱と在庫減少で原油価格は1バレル100ドル超で推移",
+        "米国銅在庫の最高水準は米国の価格と関税を抑制する可能性が高く、ブラジルのルラ政権は2026年中の財政運営方針修正を検討"
       ],
       "subjects": [
         [
-          "2026-11-03",
-          "Thailand's EV duties target Chinese imports",
-          "data/pdfs/20261103_2229_Thailand's_EV_duties_target_Chinese_imports.pdf"
+          "2026-11-04",
+          "Blue wave is most likely election outcome",
+          "data/pdfs/20261104_0154_Blue_wave_is_most_likely_election_outcome.pdf"
         ],
         [
-          "2026-11-03",
-          "Democrats set for at least 52 Senate seats",
-          "data/pdfs/20261103_2234_Democrats_set_for_at_least_52_Senate_seats.pdf"
+          "2026-11-04",
+          "Saudi Arabia: War headed for costly stalemate",
+          "data/pdfs/20261104_0757_Saudi_Arabia__War_headed_for_costly_stalemate.pdf"
         ],
         [
-          "2026-11-03",
-          "Poland: Increased polarization will constrain Tusk’s agenda",
-          "data/pdfs/20261103_2324_Poland__Increased_polarization_will_constrain_Tusk.pdf"
+          "2026-11-04",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20261104_0801_EG_Research_Summary_in_Japanese.pdf"
         ],
         [
-          "2026-11-03",
-          "UK: Path to EU re-entry faces formidable obstacles",
-          "data/pdfs/20261103_2332_UK__Path_to_EU_re-entry_faces_formidable_obstacles.pdf"
+          "2026-11-04",
+          "Early results boost Democrats in Senate",
+          "data/pdfs/20261104_0946_Early_results_boost_Democrats_in_Senate.pdf"
+        ],
+        [
+          "2026-11-04",
+          "APAC & Japan Conference Call: Implications of the US midterms -",
+          "data/pdfs/20261104_1002_APAC_&_Japan_Conference_Call__Implications_of_the_.pdf"
+        ],
+        [
+          "2026-11-04",
+          "Democrats will win the Senate",
+          "data/pdfs/20261104_1219_Democrats_will_win_the_Senate.pdf"
+        ],
+        [
+          "2026-11-04",
+          "eg update in Japanese",
+          "data/pdfs/20261104_1628_eg_update_in_Japanese.pdf"
+        ],
+        [
+          "2026-11-04",
+          "APAC & Japan Conference Call:",
+          "data/pdfs/20261104_1634_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.pdf"
+        ],
+        [
+          "2026-11-04",
+          "Indonesia wiretapping case watchpoint for political stability",
+          "data/pdfs/20261104_2125_Indonesia_wiretapping_case_watchpoint_for_politica.pdf"
+        ],
+        [
+          "2026-11-04",
+          "US Election Update - EG Conference Call, REMINDER",
+          "data/pdfs/20261104_2202_US_Election_Update_-_EG_Conference_Call,_REMINDER.pdf"
+        ],
+        [
+          "2026-11-04",
+          "Blue wave makes Trump a lame duck",
+          "data/pdfs/20261104_2223_Blue_wave_makes_Trump_a_lame_duck.pdf"
+        ],
+        [
+          "2026-11-04",
+          "Democrats win congressional control",
+          "data/pdfs/20261104_2233_Democrats_win_congressional_control.pdf"
+        ],
+        [
+          "2026-11-05",
+          "US-Iran talks and the outlook for escalation - EG Conference Call,",
+          "data/pdfs/20261105_0002_US-Iran_talks_and_the_outlook_for_escalation_-_EG_.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Frequently asked questions about the midterms",
+          "data/pdfs/20261105_0231_Frequently_asked_questions_about_the_midterms.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Escalation still likely despite midterms rout",
+          "data/pdfs/20261105_0553_Escalation_still_likely_despite_midterms_rout.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Conference Call Notes: US Election Update",
+          "data/pdfs/20261105_0607_Conference_Call_Notes__US_Election_Update.pdf"
+        ],
+        [
+          "2026-11-05",
+          "APAC & Japan Conference Call: Implications of the US midterms -",
+          "data/pdfs/20261105_1002_APAC_&_Japan_Conference_Call__Implications_of_the_.pdf"
+        ],
+        [
+          "2026-11-05",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20261105_1131_EG_Research_Summary_in_Japanese.pdf"
+        ],
+        [
+          "2026-11-05",
+          "APAC & Japan Conference Call: 「インドネシア最新アップデート」",
+          "data/pdfs/20261105_1157_APAC_&_Japan_Conference_Call__「インドネシア最新アップデート」.pdf"
+        ],
+        [
+          "2026-11-05",
+          "APAC & Japan Conference Call: Indonesia update",
+          "data/pdfs/20261105_1204_APAC_&_Japan_Conference_Call__Indonesia_update.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Flash Call: Indonesia update「インドネシア最新アップデート」 - EG",
+          "data/pdfs/20261105_1501_Flash_Call__Indonesia_update「インドネシア最新アップデート」_-_EG_.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Flash Call: Indonesia update - EG Conference Call, REMINDER",
+          "data/pdfs/20261105_1502_Flash_Call__Indonesia_update_-_EG_Conference_Call,.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Spain: Right-wing parties on course for a majority",
+          "data/pdfs/20261105_1524_Spain__Right-wing_parties_on_course_for_a_majority.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Ukraine: 2027 EU deal likely but 2028 crunch looms",
+          "data/pdfs/20261105_1633_Ukraine__2027_EU_deal_likely_but_2028_crunch_looms.pdf"
+        ],
+        [
+          "2026-11-05",
+          "US escalation against Iran still likely",
+          "data/pdfs/20261105_2222_US_escalation_against_Iran_still_likely.pdf"
+        ],
+        [
+          "2026-11-05",
+          "US-Iran talks and the outlook for escalation - EG Conference Call,",
+          "data/pdfs/20261105_2332_US-Iran_talks_and_the_outlook_for_escalation_-_EG_.pdf"
+        ],
+        [
+          "2026-11-06",
+          "Conference Call Notes: Indonesia update",
+          "data/pdfs/20261106_0007_Conference_Call_Notes__Indonesia_update.pdf"
+        ],
+        [
+          "2026-11-06",
+          "Democratic investigations likely to target defense, tech, and",
+          "data/pdfs/20261106_0146_Democratic_investigations_likely_to_target_defense.pdf"
+        ],
+        [
+          "2026-11-06",
+          "Ukraine: Ceasefire odds increase in second quarter",
+          "data/pdfs/20261106_0147_Ukraine__Ceasefire_odds_increase_in_second_quarter.pdf"
+        ],
+        [
+          "2026-11-06",
+          "Escalation against Iran still likely",
+          "data/pdfs/20261106_0209_Escalation_against_Iran_still_likely.pdf"
+        ],
+        [
+          "2026-11-06",
+          "Germany: Little room for Merz to deliver by 2029",
+          "data/pdfs/20261106_0313_Germany__Little_room_for_Merz_to_deliver_by_2029.pdf"
+        ],
+        [
+          "2026-11-06",
+          "Hungary: 2027 fiscal targets likely out of reach",
+          "data/pdfs/20261106_0430_Hungary__2027_fiscal_targets_likely_out_of_reach.pdf"
+        ],
+        [
+          "2026-11-06",
+          "Congress flip unlikely to unlock arms sales",
+          "data/pdfs/20261106_0456_Congress_flip_unlikely_to_unlock_arms_sales.pdf"
+        ],
+        [
+          "2026-11-06",
+          "Conference Call Notes: US-Iran talks and escalation outlook",
+          "data/pdfs/20261106_0634_Conference_Call_Notes__US-Iran_talks_and_escalatio.pdf"
+        ],
+        [
+          "2026-11-06",
+          "APAC & Japan Conference Call:",
+          "data/pdfs/20261106_1001_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261103_2229_Thailand's_EV_duties_target_Chinese_imports.pdf",
-        "data/pdfs/20261103_2234_Democrats_set_for_at_least_52_Senate_seats.pdf",
-        "data/pdfs/20261103_2324_Poland__Increased_polarization_will_constrain_Tusk.pdf",
-        "data/pdfs/20261103_2332_UK__Path_to_EU_re-entry_faces_formidable_obstacles.pdf"
+        "data/pdfs/20261104_0154_Blue_wave_is_most_likely_election_outcome.pdf",
+        "data/pdfs/20261104_0757_Saudi_Arabia__War_headed_for_costly_stalemate.pdf",
+        "data/pdfs/20261104_0801_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20261104_0946_Early_results_boost_Democrats_in_Senate.pdf",
+        "data/pdfs/20261104_1002_APAC_&_Japan_Conference_Call__Implications_of_the_.pdf",
+        "data/pdfs/20261104_1219_Democrats_will_win_the_Senate.pdf",
+        "data/pdfs/20261104_1628_eg_update_in_Japanese.pdf",
+        "data/pdfs/20261104_1634_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.pdf",
+        "data/pdfs/20261104_2125_Indonesia_wiretapping_case_watchpoint_for_politica.pdf",
+        "data/pdfs/20261104_2202_US_Election_Update_-_EG_Conference_Call,_REMINDER.pdf",
+        "data/pdfs/20261104_2223_Blue_wave_makes_Trump_a_lame_duck.pdf",
+        "data/pdfs/20261104_2233_Democrats_win_congressional_control.pdf",
+        "data/pdfs/20261105_0002_US-Iran_talks_and_the_outlook_for_escalation_-_EG_.pdf",
+        "data/pdfs/20261105_0231_Frequently_asked_questions_about_the_midterms.pdf",
+        "data/pdfs/20261105_0553_Escalation_still_likely_despite_midterms_rout.pdf",
+        "data/pdfs/20261105_0607_Conference_Call_Notes__US_Election_Update.pdf",
+        "data/pdfs/20261105_1002_APAC_&_Japan_Conference_Call__Implications_of_the_.pdf",
+        "data/pdfs/20261105_1131_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20261105_1157_APAC_&_Japan_Conference_Call__「インドネシア最新アップデート」.pdf",
+        "data/pdfs/20261105_1204_APAC_&_Japan_Conference_Call__Indonesia_update.pdf",
+        "data/pdfs/20261105_1501_Flash_Call__Indonesia_update「インドネシア最新アップデート」_-_EG_.pdf",
+        "data/pdfs/20261105_1502_Flash_Call__Indonesia_update_-_EG_Conference_Call,.pdf",
+        "data/pdfs/20261105_1524_Spain__Right-wing_parties_on_course_for_a_majority.pdf",
+        "data/pdfs/20261105_1633_Ukraine__2027_EU_deal_likely_but_2028_crunch_looms.pdf",
+        "data/pdfs/20261105_2222_US_escalation_against_Iran_still_likely.pdf",
+        "data/pdfs/20261105_2332_US-Iran_talks_and_the_outlook_for_escalation_-_EG_.pdf",
+        "data/pdfs/20261106_0007_Conference_Call_Notes__Indonesia_update.pdf",
+        "data/pdfs/20261106_0146_Democratic_investigations_likely_to_target_defense.pdf",
+        "data/pdfs/20261106_0147_Ukraine__Ceasefire_odds_increase_in_second_quarter.pdf",
+        "data/pdfs/20261106_0209_Escalation_against_Iran_still_likely.pdf",
+        "data/pdfs/20261106_0313_Germany__Little_room_for_Merz_to_deliver_by_2029.pdf",
+        "data/pdfs/20261106_0430_Hungary__2027_fiscal_targets_likely_out_of_reach.pdf",
+        "data/pdfs/20261106_0456_Congress_flip_unlikely_to_unlock_arms_sales.pdf",
+        "data/pdfs/20261106_0634_Conference_Call_Notes__US-Iran_talks_and_escalatio.pdf",
+        "data/pdfs/20261106_1001_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.pdf"
+      ]
+    },
+    {
+      "sender": "Eurasia",
+      "short": "EURAS",
+      "color": "YEL",
+      "count": 3,
+      "bullets": [
+        "iOS/Androidで利用可能な新しいEurasia Groupアプリをリリース。地政学的インテリジェンス分析をいつどこからでもアクセス可能",
+        "アプリ機能として音声ブリーフィング、新規分析時のアラート、オフライン読み取り、カンファレンスコール録画再生を提供",
+        "データセンター関連の選挙戦での敗北は中程度の影響で、厳格なモラトリアムは見込みにくい",
+        "トランプ政権下の防衛、テクノロジー、金融企業が議会調査の対象となる可能性が高く、対象企業は早期のリスク対策と関与戦略の策定が必要"
+      ],
+      "subjects": [
+        [
+          "2026-11-04",
+          "Introducing the new Eurasia Group app",
+          "data/pdfs/20261104_2243_Introducing_the_new_Eurasia_Group_app.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Daily Research Summary - Nov 4th, 2026",
+          "data/pdfs/20261105_0834_Daily_Research_Summary_-_Nov_4th,_2026.pdf"
+        ],
+        [
+          "2026-11-06",
+          "Daily Research Summary - Nov 5th, 2026",
+          "data/pdfs/20261106_0835_Daily_Research_Summary_-_Nov_5th,_2026.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261104_2243_Introducing_the_new_Eurasia_Group_app.pdf",
+        "data/pdfs/20261105_0834_Daily_Research_Summary_-_Nov_4th,_2026.pdf",
+        "data/pdfs/20261106_0835_Daily_Research_Summary_-_Nov_5th,_2026.pdf"
+      ]
+    },
+    {
+      "sender": "Heather",
+      "short": "HEATH",
+      "color": "RED",
+      "count": 1,
+      "bullets": [
+        "11月3日の中間選挙で、データセンターは主要な争点として浮上",
+        "テキサス州、オハイオ州、ジョージア州の知事選で、データセンター建設を制限する公約を掲げた候補者が当選",
+        "投票用紙に登場したデータセンター関連の措置では、有権者の大多数がより厳しい規制または再編成措置の拒否を支持",
+        "選挙結果によるデータセンター建設への影響は中程度に留まる見通し",
+        "完全なモラトリアム導入の可能性は低い"
+      ],
+      "subjects": [
+        [
+          "2026-11-05",
+          "United States and Geo-technology: Electoral losses for data",
+          "data/pdfs/20261105_0219_United_States_and_Geo-technology__Electoral_losses.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261105_0219_United_States_and_Geo-technology__Electoral_losses.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "YEL",
-      "count": 11,
+      "color": "ORG",
+      "count": 29,
       "bullets": [
-        "米国での民主党の中間選挙勝利にもかかわらず、議会は大統領の外交政策を制約する手段が限定的であり、トランプ政権の対外政策推進に対抗できない状況。",
-        "ポーランドでは2027年選挙を前に、トゥスク首相政権による憲法裁判所改革が司法の独立性を巡る政治的対立を加熱させている状況。",
-        "中東紛争に伴う燃料価格上昇により、航空各社が運賃を二桁台のパーセンテージで引き上げることになる見通し。",
-        "欧州議会が企業車両のEV化に関する強制目標を柔軟な目標に変更する方向で合意し、プラグインハイブリッド車への規制緩和が進展。",
-        "欧州のAI産業競争力強化とEU特許制度の再構築が課題として浮上し、戦略的な制度改革の必要性が高まっている状況。"
+        "欧州委員会は2027年の作業計画で産業AI計画の提案と輸送、住宅、エネルギー、金融分野の規制簡素化パッケージを実施予定",
+        "2027年の立法計画を縮小し、競争力強化、規制緩和、経済安全保障を優先し、地政学的リスクと経済不確実性への対応が焦点",
+        "エネルギー分野ではエネルギー課税指令改革案を放棄し、クリーンヒート機構やレアメタル買い占め機構など新規措置に転換",
+        "スペイン運輸大臣がスペイン列車事故後に議会での追及を受けて辞任",
+        "特許ルール改革や航空業界の燃料コスト上昇への対応など、産業横断的な政策課題が浮上"
       ],
       "subjects": [
         [
-          "2026-11-03",
-          "Why Europe shouldn’t celebrate a Democratic midterm victory",
-          "data/pdfs/20261103_1736_Why_Europe_shouldn’t_celebrate_a_Democratic_midter.pdf"
+          "2026-11-04",
+          "Document: Commission confirms more simplification packages,",
+          "data/pdfs/20261104_0049_Document__Commission_confirms_more_simplification_.pdf"
         ],
         [
-          "2026-11-03",
-          "Streeting: Burnham is better than Blair at talking to the public",
-          "data/pdfs/20261103_1906_Streeting__Burnham_is_better_than_Blair_at_talking.pdf"
+          "2026-11-04",
+          "Pro Daily Headlines",
+          "data/pdfs/20261104_0131_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-11-03",
-          "Crisis over top court shapes Poland’s battle lines before 2027",
-          "data/pdfs/20261103_2005_Crisis_over_top_court_shapes_Poland’s_battle_lines.pdf"
-        ],
-        [
-          "2026-11-03",
-          "Lufthansa CEO warns jet fuel costs will spike airfares",
-          "data/pdfs/20261103_2013_Lufthansa_CEO_warns_jet_fuel_costs_will_spike_airf.pdf"
-        ],
-        [
-          "2026-11-03",
-          "Parliament groups reject binding corporate fleet targets",
-          "data/pdfs/20261103_2045_Parliament_groups_reject_binding_corporate_fleet_t.pdf"
-        ],
-        [
-          "2026-11-03",
-          "Mistral CEO: Europe faces ‘complete trap’ without frontier AI",
-          "data/pdfs/20261103_2205_Mistral_CEO__Europe_faces_‘complete_trap’_without_.pdf"
-        ],
-        [
-          "2026-11-03",
-          "Pressure builds for EU to revive spiked patents rulebook",
-          "data/pdfs/20261103_2314_Pressure_builds_for_EU_to_revive_spiked_patents_ru.pdf"
-        ],
-        [
-          "2026-11-03",
-          "Modern warfare spurs demand for new medical techniques",
-          "data/pdfs/20261103_2335_Modern_warfare_spurs_demand_for_new_medical_techni.pdf"
-        ],
-        [
-          "2026-11-03",
-          "EU targets signing of Indonesia trade deal on Nov 21",
-          "data/pdfs/20261103_2349_EU_targets_signing_of_Indonesia_trade_deal_on_Nov_.pdf"
+          "2026-11-04",
+          "Brussels sets slimline legislative agenda for 2027",
+          "data/pdfs/20261104_0319_Brussels_sets_slimline_legislative_agenda_for_2027.pdf"
         ],
         [
           "2026-11-04",
           "Document: Commission to propose industrial AI plan in 2027 work",
-          "data/pdfs/20261104_0004_Document__Commission_to_propose_industrial_AI_plan.pdf"
+          "data/pdfs/20261104_0355_Document__Commission_to_propose_industrial_AI_plan.pdf"
         ],
         [
           "2026-11-04",
-          "Document: Commission to propose industrial AI plan in 2027 work",
-          "data/pdfs/20261104_0015_Document__Commission_to_propose_industrial_AI_plan.pdf"
+          "Spain’s transport minister resigns after deadly train crash",
+          "data/pdfs/20261104_0624_Spain’s_transport_minister_resigns_after_deadly_tr.pdf"
+        ],
+        [
+          "2026-11-04",
+          "5 things Europe needs to monitor as Democrats blitz Trump in US",
+          "data/pdfs/20261104_1427_5_things_Europe_needs_to_monitor_as_Democrats_blit.pdf"
+        ],
+        [
+          "2026-11-04",
+          "Parliament groupings nix Commission car fleet plans",
+          "data/pdfs/20261104_1504_Parliament_groupings_nix_Commission_car_fleet_plan.pdf"
+        ],
+        [
+          "2026-11-04",
+          "Trump’s midterm wipeout",
+          "data/pdfs/20261104_1506_Trump’s_midterm_wipeout.pdf"
+        ],
+        [
+          "2026-11-04",
+          "Spanish economy minister takes over transport ministry after",
+          "data/pdfs/20261104_1912_Spanish_economy_minister_takes_over_transport_mini.pdf"
+        ],
+        [
+          "2026-11-04",
+          "The blue tsunami sparks joy, hope and mockery in Europe",
+          "data/pdfs/20261104_1948_The_blue_tsunami_sparks_joy,_hope_and_mockery_in_E.pdf"
+        ],
+        [
+          "2026-11-04",
+          "EU tells Ukraine to speed up reforms, sets out more cautious path",
+          "data/pdfs/20261104_2006_EU_tells_Ukraine_to_speed_up_reforms,_sets_out_mor.pdf"
+        ],
+        [
+          "2026-11-04",
+          "Commission turns to artificial intelligence to write better laws",
+          "data/pdfs/20261104_2105_Commission_turns_to_artificial_intelligence_to_wri.pdf"
+        ],
+        [
+          "2026-11-04",
+          "America’s foreign allies hope for a post-midterms check on Trump",
+          "data/pdfs/20261104_2120_America’s_foreign_allies_hope_for_a_post-midterms_.pdf"
+        ],
+        [
+          "2026-11-04",
+          "European Commission publishes its final 2027 Work Program",
+          "data/pdfs/20261104_2129_European_Commission_publishes_its_final_2027_Work_.pdf"
+        ],
+        [
+          "2026-11-04",
+          "EU tourism plan targets smoother rail, air and local transport links",
+          "data/pdfs/20261104_2132_EU_tourism_plan_targets_smoother_rail,_air_and_loc.pdf"
+        ],
+        [
+          "2026-11-04",
+          "Supermarket Chain Thaw Massacre: Russia suspected in Europe’s",
+          "data/pdfs/20261104_2206_Supermarket_Chain_Thaw_Massacre__Russia_suspected_.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Pro Daily Headlines",
+          "data/pdfs/20261105_0131_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Spanish rail infrastructure chief steps down after deadly crash",
+          "data/pdfs/20261105_0443_Spanish_rail_infrastructure_chief_steps_down_after.pdf"
+        ],
+        [
+          "2026-11-05",
+          "EU tourism strategy seeks to share the gains — and ease the",
+          "data/pdfs/20261105_0546_EU_tourism_strategy_seeks_to_share_the_gains_—_and.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Why Berlin and Brussels keep butting heads",
+          "data/pdfs/20261105_1433_Why_Berlin_and_Brussels_keep_butting_heads.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Canada spat exposes widening rift between Merz and von der",
+          "data/pdfs/20261105_1735_Canada_spat_exposes_widening_rift_between_Merz_and.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Le Pen keeps Farage hanging over his Paris rendezvous",
+          "data/pdfs/20261105_1836_Le_Pen_keeps_Farage_hanging_over_his_Paris_rendezv.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Irish Council presidency proposes stricter emissions target for",
+          "data/pdfs/20261105_1903_Irish_Council_presidency_proposes_stricter_emissio.pdf"
+        ],
+        [
+          "2026-11-05",
+          "EU top court overturns two Ryanair victories in state aid cases",
+          "data/pdfs/20261105_1917_EU_top_court_overturns_two_Ryanair_victories_in_st.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Commission turns to artificial intelligence to write better laws",
+          "data/pdfs/20261105_2008_Commission_turns_to_artificial_intelligence_to_wri.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Bomb threats target at least 12 more European flights",
+          "data/pdfs/20261105_2022_Bomb_threats_target_at_least_12_more_European_flig.pdf"
+        ],
+        [
+          "2026-11-05",
+          "Damaged Chernobyl nuclear site needs urgent funding, warns",
+          "data/pdfs/20261105_2205_Damaged_Chernobyl_nuclear_site_needs_urgent_fundin.pdf"
+        ],
+        [
+          "2026-11-06",
+          "Pro Daily Headlines",
+          "data/pdfs/20261106_0131_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-11-06",
+          "EU staffing crunch hinders response to Chinese trade pressure",
+          "data/pdfs/20261106_1401_EU_staffing_crunch_hinders_response_to_Chinese_tra.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261103_1736_Why_Europe_shouldn’t_celebrate_a_Democratic_midter.pdf",
-        "data/pdfs/20261103_1906_Streeting__Burnham_is_better_than_Blair_at_talking.pdf",
-        "data/pdfs/20261103_2005_Crisis_over_top_court_shapes_Poland’s_battle_lines.pdf",
-        "data/pdfs/20261103_2013_Lufthansa_CEO_warns_jet_fuel_costs_will_spike_airf.pdf",
-        "data/pdfs/20261103_2045_Parliament_groups_reject_binding_corporate_fleet_t.pdf",
-        "data/pdfs/20261103_2205_Mistral_CEO__Europe_faces_‘complete_trap’_without_.pdf",
-        "data/pdfs/20261103_2314_Pressure_builds_for_EU_to_revive_spiked_patents_ru.pdf",
-        "data/pdfs/20261103_2335_Modern_warfare_spurs_demand_for_new_medical_techni.pdf",
-        "data/pdfs/20261103_2349_EU_targets_signing_of_Indonesia_trade_deal_on_Nov_.pdf",
-        "data/pdfs/20261104_0004_Document__Commission_to_propose_industrial_AI_plan.pdf",
-        "data/pdfs/20261104_0015_Document__Commission_to_propose_industrial_AI_plan.pdf"
+        "data/pdfs/20261104_0049_Document__Commission_confirms_more_simplification_.pdf",
+        "data/pdfs/20261104_0131_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20261104_0319_Brussels_sets_slimline_legislative_agenda_for_2027.pdf",
+        "data/pdfs/20261104_0355_Document__Commission_to_propose_industrial_AI_plan.pdf",
+        "data/pdfs/20261104_0624_Spain’s_transport_minister_resigns_after_deadly_tr.pdf",
+        "data/pdfs/20261104_1427_5_things_Europe_needs_to_monitor_as_Democrats_blit.pdf",
+        "data/pdfs/20261104_1504_Parliament_groupings_nix_Commission_car_fleet_plan.pdf",
+        "data/pdfs/20261104_1506_Trump’s_midterm_wipeout.pdf",
+        "data/pdfs/20261104_1912_Spanish_economy_minister_takes_over_transport_mini.pdf",
+        "data/pdfs/20261104_1948_The_blue_tsunami_sparks_joy,_hope_and_mockery_in_E.pdf",
+        "data/pdfs/20261104_2006_EU_tells_Ukraine_to_speed_up_reforms,_sets_out_mor.pdf",
+        "data/pdfs/20261104_2105_Commission_turns_to_artificial_intelligence_to_wri.pdf",
+        "data/pdfs/20261104_2120_America’s_foreign_allies_hope_for_a_post-midterms_.pdf",
+        "data/pdfs/20261104_2129_European_Commission_publishes_its_final_2027_Work_.pdf",
+        "data/pdfs/20261104_2132_EU_tourism_plan_targets_smoother_rail,_air_and_loc.pdf",
+        "data/pdfs/20261104_2206_Supermarket_Chain_Thaw_Massacre__Russia_suspected_.pdf",
+        "data/pdfs/20261105_0131_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20261105_0443_Spanish_rail_infrastructure_chief_steps_down_after.pdf",
+        "data/pdfs/20261105_0546_EU_tourism_strategy_seeks_to_share_the_gains_—_and.pdf",
+        "data/pdfs/20261105_1433_Why_Berlin_and_Brussels_keep_butting_heads.pdf",
+        "data/pdfs/20261105_1735_Canada_spat_exposes_widening_rift_between_Merz_and.pdf",
+        "data/pdfs/20261105_1836_Le_Pen_keeps_Farage_hanging_over_his_Paris_rendezv.pdf",
+        "data/pdfs/20261105_1903_Irish_Council_presidency_proposes_stricter_emissio.pdf",
+        "data/pdfs/20261105_1917_EU_top_court_overturns_two_Ryanair_victories_in_st.pdf",
+        "data/pdfs/20261105_2008_Commission_turns_to_artificial_intelligence_to_wri.pdf",
+        "data/pdfs/20261105_2022_Bomb_threats_target_at_least_12_more_European_flig.pdf",
+        "data/pdfs/20261105_2205_Damaged_Chernobyl_nuclear_site_needs_urgent_fundin.pdf",
+        "data/pdfs/20261106_0131_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20261106_1401_EU_staffing_crunch_hinders_response_to_Chinese_tra.pdf"
+      ]
+    },
+    {
+      "sender": "ジェトロ",
+      "short": "ジェトロ",
+      "color": "GRN",
+      "count": 2,
+      "bullets": [
+        "イスラエル・米国とイランの衝突および第2次トランプ政権の動向に関する中東情勢情報を提供",
+        "海外展開における知的財産権の基礎知識と実務上の注意点を学べるWEB講座を12月8日より開講",
+        "国際取引におけるリスク対応とトラブル対応をテーマとした貿易実務講座を配信中",
+        "EU「包装・包装廃棄物規則」など世界の持続可能な包装規制と企業対応事例を特集",
+        "世界主要国・地域の政治・経済動向に関するジェトロ独自の地域・分析レポートを配信"
+      ],
+      "subjects": [
+        [
+          "2026-11-05",
+          "ジェトロ・メンバーズニュース第478号",
+          "data/pdfs/20261105_1448_ジェトロ・メンバーズニュース第478号.pdf"
+        ],
+        [
+          "2026-11-05",
+          "ジェトロ地域・分析レポートの新着のご案内（2026年11月5日号）",
+          "data/pdfs/20261105_1450_ジェトロ地域・分析レポートの新着のご案内（2026年11月5日号）.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261105_1448_ジェトロ・メンバーズニュース第478号.pdf",
+        "data/pdfs/20261105_1450_ジェトロ地域・分析レポートの新着のご案内（2026年11月5日号）.pdf"
+      ]
+    },
+    {
+      "sender": "ジェトロ調査企画課・デジタルメディア班",
+      "short": "ジェトロ調",
+      "color": "PRP",
+      "count": 1,
+      "bullets": [
+        "ジェトロのウェブサイトが不正アクセスを受け、暫定的な運営体制での対応中",
+        "インドへの進出に関心のある企業向けに、主要5都市（ニューデリー、ムンバイ、ベンガルール、チェンナイ、アーメダバード）の最新事情を紹介するウェビナーを開催",
+        "進出日系企業拠点数が前年比24.2％増の6,464拠点となるなど、インドへの投資が拡大中",
+        "現地所長が各都市の特徴、注目産業、州政府のインセンティブや工業団地事情など現地の「今」を報告",
+        "2026年11月25日14時～16時開催、参加費無料、申込締切は11月24日12時"
+      ],
+      "subjects": [
+        [
+          "2026-11-05",
+          "ジェトロ【ウェビナー】（参加費無料）現地所長が語る！主要5都市から",
+          "data/pdfs/20261105_1406_ジェトロ【ウェビナー】（参加費無料）現地所長が語る！主要5都市から見るインドの「今」_―ニューデリー.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261105_1406_ジェトロ【ウェビナー】（参加費無料）現地所長が語る！主要5都市から見るインドの「今」_―ニューデリー.pdf"
+      ]
+    },
+    {
+      "sender": "ビジネス短信",
+      "short": "ビジネス短",
+      "color": "CYAN",
+      "count": 3,
+      "bullets": [
+        "中国が対外投資管理弁法の施行やグリーン水素などのエネルギープロジェクト、循環経済発展計画を通じた経済・産業政策を推進、科学技術とAI産業の発展に注力",
+        "韓国のサムスン電子やLGエレクトロニクスが第3四半期で堅調な業績を実現、アジア主要企業の好調な経営成績",
+        "ジェトロがアジア・オセアニア地域での展示会出展やパビリオン設置を通じて日本ビジネスの市場開拓を推進",
+        "米国の経済成長が堅調な一方、米中間選挙で民主党が多数派奪還、メキシコとインドが特恵貿易協定交渉開始など国際経済・政治情勢が変動",
+        "中国の自動運転技術やAI産業が国際展開を進める一方、米国との技術規制を巡る対立も深化"
+      ],
+      "subjects": [
+        [
+          "2026-11-04",
+          "「ジェトロ・ビジネス短信」2026/11/02付",
+          "data/pdfs/20261104_1015_「ジェトロ・ビジネス短信」2026_11_02付.pdf"
+        ],
+        [
+          "2026-11-05",
+          "「ジェトロ・ビジネス短信」2026/11/04付",
+          "data/pdfs/20261105_1011_「ジェトロ・ビジネス短信」2026_11_04付.pdf"
+        ],
+        [
+          "2026-11-06",
+          "「ジェトロ・ビジネス短信」2026/11/05付",
+          "data/pdfs/20261106_1006_「ジェトロ・ビジネス短信」2026_11_05付.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261104_1015_「ジェトロ・ビジネス短信」2026_11_02付.pdf",
+        "data/pdfs/20261105_1011_「ジェトロ・ビジネス短信」2026_11_04付.pdf",
+        "data/pdfs/20261106_1006_「ジェトロ・ビジネス短信」2026_11_05付.pdf"
       ]
     }
   ]
