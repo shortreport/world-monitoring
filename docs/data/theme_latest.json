@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 13:46:03",
+  "generated_at": "2026-11-06 05:58:02",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,48 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-05 13:44:49",
+      "last_checked": "2026-11-06 05:57:29",
       "items": [
+        {
+          "uid": "769394e7f70f",
+          "date": "2026-11-05",
+          "title": "What to know about the EU Parliament committee vote to ease 2035 emissions rules - Automotive News",
+          "summary": "EU議会委員会が2035年の排出規制の緩和に投票し、欧州産業加速法案（IAA）の一環として自動車産業の競争力強化を目指す動きが進んでいます。この投票は、CO2排出基準を緩和することで、欧州自動車メーカーが電動化への転換期における負担を軽減することを狙っています。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMFNhXzZnYl9tb3F4M29MdTJVUjJYR1RQelFDWi1TeHpCVDJOWkQ0OHBUTGFGS080M3BCeWxxbGxZOW1nUU81S1lzVXdUOVE3Z29tRTFBaTF6Q0ZGMHUwaWQyeEJBMUxhZWs3c05yVGV5d3c1bFRXbjRMUllra05kSE5WRElZZzJvZ1I3VHBlRDN0UFE?oc=5",
+          "added_at": "2026-11-06 05:57:26"
+        },
+        {
+          "uid": "6d5cc76eeba2",
+          "date": "2026-11-05",
+          "title": "Is CEE Facing a Detroit Moment? What the Next MFF Might Bring - Visegrad Insight",
+          "summary": "申し訳ございませんが、ご提供いただいたテキストには記事の本文が含まれておらず、タイトルのみとなっているため、「欧州産業加速法案（IAA）」に関する文脈での正確な要約ができません。記事の本文をご提供いただければ、日本語1〜2文での要約が可能です。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TV21tUmZ3ZGprVHZtYlpLSWk2WWkweUNfOS1uRUpHeDR1VTNLRE8tUHRxc3d4ZmpCUjBZa1U4SUx4UkVrN0xNNXhtRkRudVMyOGFjVFpWU3BZdU81WDI3NTY5clBWWkdMWnc?oc=5",
+          "added_at": "2026-11-06 05:57:26"
+        },
+        {
+          "uid": "e4e411c176f3",
+          "date": "2026-11-05",
+          "title": "Japan raises ‘serious concern’ over EU’s Industrial Accelerator Act - Anadolu Ajansı",
+          "summary": "日本は、欧州産業加速法案（IAA）が過度な保護主義的措置を含み、WTO規則違反の可能性があるとして深刻な懸念を表明している。この法案は、クリーンテック産業における欧州企業への優遇措置と外国企業への制限を通じて、市場競争を歪める恐れがあり、日本の産業に悪影響を及ぼす可能性がある。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ000b3dXOHdueUQyQjJHWWlFRmVCamQ5Ukk0NmRGOU1QU21VZ0RoNWJHWW9MaWRUaGZselJVUHRoVUtBcHlPR0dGeE5mUHkxR3lSRE9Sby1HdGFVWEdQQ3pUWFJ1c2hnUWYwbjdmSzBESGtlRERkVmZWQWtybXBqS29WUk9NWTJQb2pJVERObm5SV3VhdXdaYko4QmNCeXltOXFlSUNxSVQ4S1ozV3Q4RQ?oc=5",
+          "added_at": "2026-11-05 21:58:27"
+        },
+        {
+          "uid": "66bd71b73e1d",
+          "date": "2026-11-05",
+          "title": "EU 2035 Car Ban: Parliament Backs Weaker Emissions Rules - EU Today",
+          "summary": "欧州議会が2035年の新車販売禁止ルールを緩和し、合成燃料を使用する車両の例外を認める案を支持しました。これは産業加速法案（IAA）の枠組みの中で、欧州の自動車産業の競争力維持と脱炭素化のバランスを取るための修正です。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91R25wUmZTal9EbUEwWEpnYmpQbVU5R3U2YUFmWHJGQnBNY0R6bC1TaTYwYWtRTDk3cWxzWHV0enlTVmh6ZVdiSmxUTndkcmhNaWVPR2RlOEV6bHd1bE9XVlZqSk1oMzg1TmJTVDNpalRZOGdUNUROdG13?oc=5",
+          "added_at": "2026-11-05 21:58:27"
+        },
         {
           "uid": "a2c7970bceea",
           "date": "2026-11-04",
@@ -1969,46 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUkydjBrdy16OF9DUlM0aEJuaHhmNUIwVUVCNXlGYVJzdE5aeWNER2g4cTIzQmVvbWtnNms4bkxzTVZiQkU2TFdZRkduRV9wdE90U1JXQnl0R2JjN1NSNE50dU1ERWZ6ZGlzdjBWd1pkZERqUmtRSG5qTGFqenAxbHFYWmp5aVpJR0RaTERsNHZrVWIzakxhMThkM2Q0SXNaZGlMRTVmaw?oc=5",
           "added_at": "2026-09-04 09:46:55"
-        },
-        {
-          "uid": "70a860caf59a",
-          "date": "2026-08-28",
-          "title": "EU permitting rules remain in von der Leyen’s crosshairs - ENDS Europe",
-          "summary": "フォン・デア・ライエン委員長は、産業競争力強化を目的とした欧州産業加速法案（IAA）の一環として、EU許可手続き規則の簡素化と迅速化を継続的な優先課題として掲げている。この規則改革により、再生可能エネルギーや産業施設の許可取得期間を短縮し、欧州産業の競争力向上を図っている。",
-          "source": "欧州委員会要人",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTG1MMWc3TXlNNEFqT1p6N2pPVGc4UkVack9wS25YeVJ1bXhWZ1pDNGFoOG1XOHM0Qi1CVzU3YzMwREl3UzZ6ekM3NUt5TmVxbktqWFllbTVXYnprTnRsUkkxcjl5UzZDVndZaDJBNXFpcGxOYXVTTDZOT29XdHZwXzUxeGZxSGJkZi1zQU5CUzZiaUxFUmZpT3AtUQ?oc=5",
-          "added_at": "2026-09-04 09:46:55"
-        },
-        {
-          "uid": "9900e0466b59",
-          "date": "2026-08-24",
-          "title": "REACH lead gunshot restriction: the ammunition industry’s assessment - euractiv.com",
-          "summary": "欧州産業加速法案（IAA）の文脈では、EUのREACH規制による弾薬中の鉛制限が欧州の弾薬産業に大きな影響を与えており、業界は規制への適応と競争力維持のための課題に直面しています。この規制は産業の転換を促す一方で、EUの産業競争力強化という法案の目標と、環境・健康保護のバランスを取る必要性を示しています。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQkRiRFViTEllYUFKZkRXc29nazZoTk1oUGZkaUJqdENXVVI0b0lFM2VSOXBMaVZqdU5uaUxNcWdhR0JvbURBdlZVdFJCYTNsakF6MVZkUWRIckd4b2t6SmgwUkx6cjl1LVpSTHZkZE5RTXBzVmJNckk5WlZYTDR2b1dGSVptU3pMMnBoOG93UFNuUTJIR2owQUUtZlF2bjhicmc?oc=5",
-          "added_at": "2026-09-04 09:46:55"
-        },
-        {
-          "uid": "05045dce58df",
-          "date": "2026-07-03",
-          "title": "‘Made in Europe’ and new tariffs on China: Will they be enough to save EU car industry? - fleeteurope.com",
-          "summary": "欧州産業加速法案（IAA）は「メイド・イン・ヨーロッパ」戦略と中国への新関税を組み合わせることで、中国製EVの急速な浸透に対抗し、欧州自動車産業の競争力維持を目指しているが、これらの対策だけで産業存続が十分か疑問が残されている。",
-          "source": "EU産業政策",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNWXhLR0F1SlZoNXBZdmlBUHFiZ2dHeHFHLUVlVFBFdDZsRUdKNWpnOFFyUWNOQWZyNllScll1ZFBDcHJLc0NrRkg2QzduX0tnSUQ3SXBXRTNiRjczTDBLUzRGNE94ZXlJUlFEM0ZvcFZ4bXBsbl9KTlF6MUhXQWF0b002OGFHM0JoX0FfWmVKQmFoc29XLUZzakE3SnptUDFEOHRyYzNGeENQVXpoTUtXT2RubE5GN1FHTzhEWDVFZ0RfM0kzX3l2STRpTmdnWjJjT1JkUmJiM3V4ODRYR005QUg2b3dLaDB4NHBiSHVjbllDVjNYekRYdGpVRm9vTHRyT0JyLUppQzE2OGswOUFfMEdUc0xNTVYxMkxLOUUybUxWTjZYbFFzTDZueWw4b2VhRlNyZnBIMFdRNktNNXZ5aDdPVjd3akU?oc=5",
-          "added_at": "2026-09-04 09:46:55"
-        },
-        {
-          "uid": "13bd67573555",
-          "date": "2026-09-02",
-          "title": "China threat bolsters support for EU industrial policy - politico.eu",
-          "summary": "欧州産業加速法案（IAA）は、中国の経済的脅威に対抗するため、EUが産業競争力を強化し、戦略的産業への投資を加速させるための政策であり、中国との競争激化がこの産業政策への支持を高めている。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU1BJckVNQXdNVTRwMTV0aUpqTF9PV2dLaHpENlA4Sm9vYnJxVnhickVDODFqdUJXTVlEc2xRdEJxalMzc2xuWVZ6aTM5ZlhTY0VhMV9pclV2Z1cwSDQ5R2hIWERwcEo4MF84cFVKSnhKeGprZVZyTkRvTWVzRl9pdjE2amNGNjB6X1R4Skcwc3Y?oc=5",
-          "added_at": "2026-09-03 18:31:28"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-05 13:45:00",
+      "last_checked": "2026-11-06 05:57:39",
       "items": [
         {
           "uid": "f37493cb18e7",
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-05 13:45:34",
+      "last_checked": "2026-11-06 05:57:55",
       "items": [
         {
           "uid": "c7bed42d6925",
@@ -6041,8 +6041,68 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-05 13:46:03",
+      "last_checked": "2026-11-06 05:58:02",
       "items": [
+        {
+          "uid": "6da9b247b36d",
+          "date": "2026-10-30",
+          "title": "China's Xi hails new chapter with Germany, urges friendly policy towards Beijing - Reuters",
+          "summary": "中国の習近平国家主席がドイツとの新たな関係構築を歓迎し、北京に対する友好的な政策を促しており、これはドイツの自動車メーカーなどの企業が中国との提携を進める中で、地政学的な対立の緩和を目指す中国側の外交戦略を反映している。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXVrYU5aZnNQc2p4R2ZDOEVtdmtqb3lQWTIyQVFVb1MtSldsZWJFT2FwcUV6eXpaTmlvdERVZ2Y5WlRISnBwbDNtZE9LSTVMOEloWlVla0RjTGxCam0yZ0ZEV091dDEyRHFZQmp4bjdEVnhmUUlkTHRkUWhWZ3J1YV9PMUsyaGNNQTBTQmVmcGV1UUFGRGpaaEJ0SEExMXljQkU1ZE9QUEVSVFNiOVdJ?oc=5",
+          "added_at": "2026-11-06 05:58:01"
+        },
+        {
+          "uid": "19c0e660826d",
+          "date": "2026-11-03",
+          "title": "Automaker Group Urges Congress to Put a Permanent Ban Chinese Vehicles in the U.S. Before End of 2026 - Road & Track",
+          "summary": "米国の自動車業界団体が、中国製電動車の米国市場参入を防ぐため、2026年末までに永続的な禁止措置を議会に求めている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMlNPR2xuN0NvakRtVE1YMVR3MW9ROS1fTTI1Wm5MUDk3RVNLRzNDVDBzOTBGVjZmZEhQYnR4YkdNNEdGN2RKMWtaMDlLd0o1RHROU2ZxcERkeHNYanpTR3Y0NzhaUVZaNjVPMzdTaWR1b2J1R0UtY0FLdnE4eUp2a2hoVGFRTUY5WnF6OF85YzVuZ2pWb3MtTnVLYUZRdE9GSWc?oc=5",
+          "added_at": "2026-11-05 21:59:03"
+        },
+        {
+          "uid": "62d10e5aa7dd",
+          "date": "2026-11-02",
+          "title": "Auto lobby urges Congress to pass permanent ban on Chinese vehicles - The Detroit News",
+          "summary": "自動車ロビーは中国車の恒久的な禁止措置を議会に求めており、これは中国との提携に対する産業界内での慎重な姿勢と米国の競争力保護の意図を反映している。米国自動車メーカーは中国企業との提携リスクを懸念し、政治的支援を通じて市場保護を目指している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbnhJX0VsbWh6UWUwTWxwa1VTTkpKRVVpR0JOVmlOa2ZvaVNXYWtiTjdONW1HdHlWUXpFSHBtRXp5aVFPN1RqMXoxWTRUVVpGTEYxcVluWFdWTmpWeVc0a3A1UmhVemNwSHRPRC1peFp6Q1B1WUQtQlFKQmdDa0ZLSEc5MmtRWDhXQ2xaLWhYXzNiS3lmdW5zTTlPejN3WVN1Rm80dldOekJtUERDVGtwQlp2YlZ3M3I4bV93SWVFMzVrV1JoQU9nX202YzdUZGVmRnFjNkVMdERPS01KMEE?oc=5",
+          "added_at": "2026-11-05 21:59:03"
+        },
+        {
+          "uid": "12698ba49518",
+          "date": "2026-09-08",
+          "title": "Reports, calls for action show concerns about Chinese vehicle surveillance growing louder - Automotive News",
+          "summary": "中国の自動車メーカーによる車両監視機能に対する懸念が国際的に高まっており、政府や業界から規制強化を求める声が強まっている。米国など西側諸国では、中国企業との提携や中国車の導入が国家安全保障上のリスクとして認識されるようになっている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONndrSFNTWDJDYTEtV2dmcjBMNW12WFk1LUpKVTdGVU9oUnNfUVBEVHhTNHh3RDY5UGRkQWhJVE9UNVdqSTlwRnY4SGM2RDkwanFDWGhEdmw0UVdiRVQ0ZEtMVnZCYTZFRHRoWk9MM2VsTEpYQW5pa3ZJaEgteWY1NlVBUFZ5VHVRVGt0OQ?oc=5",
+          "added_at": "2026-11-05 21:59:03"
+        },
+        {
+          "uid": "94f93791393f",
+          "date": "2026-10-13",
+          "title": "Stellantis and Leapmotor: how much Chinese technology will make its way into European cars? - electrive.com",
+          "summary": "ステランティスが中国のリープモーター（Leapmotor）と提携して電動車を欧州で生産・販売する計画に対して、欧州の政治家からは中国技術の流入による産業競争力喪失への懸念が生じており、自動車メーカーの対中提携が政治的な批判の対象となっている。",
+          "source": "米系自動車メーカー",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGRDQ3FVWm5wekE5Ty1mY3V0MGs1LXdwVkRINno3MnVnWTNiMlltdDV4ODRTM2tPbmUtaFk1bDBKVmtqeDdWVDE4TXJzWXo3dzZyZ1g1dVU3RlNPYUNsS1JybVlvTUhoVWZiVUczU0lCUkRJWjZQaGhGZzU0MkdXRVhZSDRkN1R4T2ZlcTFSWmE1dFUzNC05OU56Z1IyR1p4R0ZydzRVZUR1ZU5YV2Z5TGxkR1RRQlBfTGM2b1pLTkxuVXhmcVE?oc=5",
+          "added_at": "2026-11-05 21:59:03"
+        },
+        {
+          "uid": "06cfa65caee9",
+          "date": "2026-11-05",
+          "title": "Healthcare powers Democrats’ midterm rout: 4 takeaways",
+          "summary": "申し訳ございませんが、提供いただいた記事は米国の医療政策と民主党・共和党の政治対立に関する内容であり、「自動車メーカーの対中提携への政治的批判」とは全く無関係です。そのため、要求された文脈での要約は不可能です。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/healthcare/6199119-democrats-win-congress-healthcare-takeaways/",
+          "added_at": "2026-11-05 21:59:03"
+        },
         {
           "uid": "1aebf0ecd6b7",
           "date": "2026-11-04",
@@ -7982,66 +8042,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tbkZOaWVnZkFpVk5YZkMzSExYNzVMQTB3d0NqQ0Flc1ZxN1RoMGZHQk5CU0ZXVDNLWU1Cc2xHN2ZJS093bjVUNXN5ZkxRa2Rab05aU2FObFRvamRuOTNrTEZocS1fQ2syTXEtN2tmMnlnNGUwZERqeXlpYw?oc=5",
           "added_at": "2026-10-04 20:00:57"
-        },
-        {
-          "uid": "4f646f2e2b56",
-          "date": "2026-09-11",
-          "title": "Trump Administration Blasts Ford For Its Business Dealings With China - Carscoops",
-          "summary": "トランプ政権がフォードの中国とのビジネス取引を批判しており、自動車メーカーの対中提携が米国政府から政治的な圧力にさらされていることが示された。これは米国の政治的・経済的な対中強硬姿勢の一環として、中国との協業を展開する自動車メーカーが標的になっていることを反映している。",
-          "source": "トランプ政権高官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSE9ydFRXUXc5UjB1a0ZtWEFlVkJOZW1zNndnSW9UOGJPc2FhN05nb1F5Zk5mMjE0YUZZaGxPQmFpZ0NqazByVWZmeG1Qb1dRTUtEVEdyTDNZQ1VMNjFVemg0ejUzRm9tckNTRmp6WUIyYnBlZ2RjQmVpbVlTWFF4VWNSdHhjRDMwNEFkc3hleVo5c0x5U3BHbHM2YXlYRGVNcWhNcUw0VQ?oc=5",
-          "added_at": "2026-10-04 20:00:57"
-        },
-        {
-          "uid": "ed2e39c758c1",
-          "date": "2026-10-04",
-          "title": "Trump funnels millions from massive war chest into key House, Senate races: Here’s where",
-          "summary": "申し訳ありませんが、提供いただいた記事の内容は「自動車メーカーの対中提携への政治的批判」とは無関係です。この記事はトランプ元大統領の政治資金が米国の議会選挙に投じられていることについて述べており、自動車産業やビジネス提携に関するものではありません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/campaign/6126950-trump-funnels-millions-from-massive-war-chest-into-key-house-senate-races-heres-where/",
-          "added_at": "2026-10-04 20:00:57"
-        },
-        {
-          "uid": "016f62b99ae3",
-          "date": "2026-10-04",
-          "title": "Trump backs data centers in Ohio amid tight Senate race",
-          "summary": "この記事は自動車メーカーの対中提携への政治的批判とは関連がなく、トランプ大統領がオハイオ州でのデータセンター建設を支持する発言をしたという内容であるため、要約の対象外です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/",
-          "added_at": "2026-10-04 20:00:57"
-        },
-        {
-          "uid": "8bd2cbab8193",
-          "date": "2026-10-03",
-          "title": "Man arrested for alleged terror threat on US airbase RAF Fairford released on bail",
-          "summary": "この記事は自動車メーカーの対中提携への政治的批判に関連していません。記事の内容はイギリスの軍事基地に対するテロ脅迫事件についてであり、自動車産業とは無関係です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/international/6127537-raf-fairford-terror-investigation-suspect-released/",
-          "added_at": "2026-10-04 02:51:12"
-        },
-        {
-          "uid": "4aee69d44bcc",
-          "date": "2026-09-18",
-          "title": "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting - The Mighty 790 KFGO",
-          "summary": "申し訳ありませんが、提供いただいたテキストにはタイトルのみで、記事の具体的な内容が含まれていません。要約を作成するには、記事本文の詳細な内容が必要です。記事の本文をご提供いただければ、要約させていただきます。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHNOOTVFNGVJQlJheWhTMmd2cTNDZ3RIcjZPa1lkMnpCdHpsUDAyMmNzUTk3alJOTVRfa3RFZWVZVlYtaGdaczQ1NHZ4aXhyNHVyTlVITGV0MGRwTHdTOUtNV2NZaUZhNTRiZ1Jaal9ZekdWeW9BZ3g3TmQ5ek5sQ3RLWGJzdm9mZjZtaFJvVWYyM0prcUszLXVhMHBqeU93TlVyREdjUVQ?oc=5",
-          "added_at": "2026-10-03 19:16:45"
-        },
-        {
-          "uid": "663386ba11a9",
-          "date": "2026-07-30",
-          "title": "EXCLUSIVE: Ford CEO tells employees Chinese automakers could enter US market in next decade - Reuters",
-          "summary": "フォード最高経営責任者が従業員に対し、中国自動車メーカーが今後10年以内に米国市場に参入する可能性があることを警告しており、これは中国との提携や競争をめぐる米国内の政治的懸念を反映している。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUlVCU095SmhKbUZSYnJnU1NKLVFoRGFBMmlZdnJodHNna3hVTXFGTVhXZ2NnVTFqMS13cS1qeEU0eDBoUGlfc2UtbDZmcHMtOUVvMmVOQ2liWGFmV0ZXMm5faW1jd0VsZUQ0LUpjeHJDZ0V2WWRHQnRGN3BlV29GeGpWcDhYazlWQWxsNVBSakdRT1poWGd4dTJvalVVZHByNGk4b0FzMW9oSFF2c3I5d0ZvZXNER2FsOExZb055emFvMkZJaHJfWXM1YXFSOHpvaXVIZ0NfUERLUm8?oc=5",
-          "added_at": "2026-10-03 19:16:45"
         }
       ]
     }
