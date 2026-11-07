@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07 05:18:24",
+  "generated_at": "2026-11-07 20:35:04",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,38 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-07 05:17:54",
+      "last_checked": "2026-11-07 20:34:35",
       "items": [
+        {
+          "uid": "782f4a9152b2",
+          "date": "2026-11-06",
+          "title": "European Parliament committee approves low-carbon steel credits for carmakers, EUROFER welcomes decision - SteelOrbis",
+          "summary": "欧州議会委員会が欧州産業加速法案（IAA）の枠組みで、自動車メーカーに対して低炭素鋼の使用をクレジット化する制度を承認し、欧州鉄鋼連盟（EUROFER）がこの決定を歓迎しました。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTE1ZZnBGRm41Tkx1TnV4WF8yeUJoYldMcW9UUnh2cEgyZ0RETUhkTy1YTm04ejhsdU1hemQ4eVkyd2VTMlFHTnRaekM5MS1ybEhXVzVkUnZWZjVBU1BBNzhzd2FhS1U5LUQyN0R0akJfaUVVSHh4NHpUNUNfbmxDOV82SldwZkQtWDNEU0tQdFZnSm5XdXRqUjZkTGphZnpvRTg4cnM4TFJCQ0ZYb2R6NThQUXJQQzVyU1NmdUsydjJtcFFBV29Uc1ZrMTVaSXhhbTM2cUdfRHBCWm15aFlSYmJxaGpyR3R1bEZUVVNhQllROVJSMWM4WQ?oc=5",
+          "added_at": "2026-11-07 20:34:31"
+        },
+        {
+          "uid": "c7f6b0e558f5",
+          "date": "2026-11-06",
+          "title": "ENVI Committee Objects to Shipyard Additions on EU Recycling List - News and Statistics - IndexBox",
+          "summary": "欧州議会環境委員会（ENVI）が、EU船舶リサイクル規制リストへの造船所追加に反対する立場を示したもので、循環経済推進と環境基準の厳格化を求める欧州産業加速法案の方針と関連する動きと考えられます。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ1BaN2t5VTg1c05fY29GV1JIS2NmZW1WaWlVM3AyR3FUM2V0RjNpQ2ZDRUI1R2RpT3U0ckU4UDk5MnA0RzdLZjBtMHBucVU2SHFkSUJvS2lRNUNxLTJCSXdiY0xMNy1vS1hCcmI2QW9ZdzFtV2diNWhCY3ZZNlF5WlFwUzBxQVpJb29Fa0tTcHRPUGRQZXJrSEdQbkdnTWdmY1VrUjNoRGt1SjhRWDBGbGZrT3lva0g1N3F2dF9wX1JwUEkxbGc?oc=5",
+          "added_at": "2026-11-07 20:34:31"
+        },
+        {
+          "uid": "1ccbab3b9901",
+          "date": "2026-11-04",
+          "title": "The Environment Committee scales back the CO₂ reduction target for cars - Eunews",
+          "summary": "欧州議会環境委員会は、自動車のCO₂削減目標を当初の計画から引き下げることを決定し、産業競争力と環境目標のバランスを取ろうとしています。この決定はIAA（欧州産業加速法案）の枠組みの中で、欧州の自動車産業の競争力強化を図りながらも気候目標を維持する調整を反映しています。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaXUtMmNkTzI5RjFJanRCRHZwYjktVGZsTjF2T0I3bW1ldnVMQ0tPUlNZS3JLc085bUk4WUJLWWJfbjlDbk5FblhINXgwWGJOOTVFTXRZM3NRNm4xT0RMUklzVlRuN25FWkZpbmtacjYxeGJYTjVEUUZvMVl6OWU1NUVzQm5aelJqSk9iMTJ1cTR0emI5M21CX2lzRTRkamhxUkNFcFJSRVpoV0xSWHVwczhCZzBKelU4Qnd1YUdRdE8tUkZ5UUk0UWR6eDlWeEZlaWMtWXdjYTRkUQ?oc=5",
+          "added_at": "2026-11-07 20:34:31"
+        },
         {
           "uid": "df88c1f9b36c",
           "date": "2026-11-05",
@@ -1979,36 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOenc3U01OOVVxOU9XakxOR2poVW9PYjhxTW5vSDV5dVFTSGFYS3VwOWtFWENaYmktR3JEQktuTEtpRG1kN2tJOFN3alotN1pxNmVXeXJyU29iUThlVGZkb3FCZ3k4N0ozLVJfd2pzTl9FdUxtVDZoRVBCaVdNUnJwZllxcEdxOE1IZl9TZWs5QTl6SC1idV90Q0VuLTRNeWx3d1F0U0pwcDRuOW1aOTAyYXI1NjI?oc=5",
           "added_at": "2026-09-08 14:56:02"
-        },
-        {
-          "uid": "a2d6f2a420f1",
-          "date": "2026-08-14",
-          "title": "Made in EU rules cover concrete and cars, not software - The Next Web",
-          "summary": "EU産業加速法案はコンクリートや自動車などの製造業を対象としているが、ソフトウェア産業は対象外となっている。これはEUのデジタル産業競争力強化における課題を示唆している。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOWRVTnh5dUl1M1ZueFN5LVc4dkJjM0Z0QW8tV01hS2Z0dndtZzUxd2F2R2RfSHVHUXZoZ0J6aTEzZGZITlNndjlLM0FjMWJuTDBjRmFlV2VxX3hnd3RaTXZUYVYwWm9TU2F0QXdYZEo0R3ozMkh1Tk82b0VTc1RXcU1YcW9abnlMclE0WUNtTQ?oc=5",
-          "added_at": "2026-09-07 01:46:10"
-        },
-        {
-          "uid": "6828dcd65d4c",
-          "date": "2026-07-01",
-          "title": "EU - USA - multimedia.europarl.europa.eu",
-          "summary": "申し訳ございませんが、提供していただいた内容では具体的なテキストが「EU - USA multimedia.europarl.europa.eu」というタイトルのみとなっており、記事本文が含まれていないため、要約することができません。\n\n記事の具体的な内容をご提供いただければ、欧州産業加速法案（IAA）に関する文脈での要約をさせていただきます。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wOUVNRHpmM0Z4ZHEzeUNtdFJoV3hpOXMwZFpwSlNEUU5RWXd5SkxrekxwMmtxa3d6emN1NlJQVTFaVFExbjBnX2d3U2poWEVTRnMweFJlVTFYRGFqOWVUeDlTSC1QRGhySHY4?oc=5",
-          "added_at": "2026-09-04 18:23:18"
-        },
-        {
-          "uid": "ab2255876611",
-          "date": "2026-07-10",
-          "title": "European Parliament rejects soybean oil land-use proposal - World Grain",
-          "summary": "欧州議会は、欧州産業加速法案（IAA）に含まれていた土地利用変化に基づくバイオ燃料規制案を否決し、大豆油などの農産物由来燃料の規制枠組みの強化を見送った。この決定は、EU産業の競争力維持と農業セクターの利益のバランスをめぐる議論を反映している。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYUxSNjdjS3J5R3RKTVpNZUFrdC1ESVR1TVJLYjlfWVMySWFaYlFPQVRRME1EZVFrZW1nREdUR0lVa0tTV0czOFRWbm5EZ0NFSWMyQ1lEN3ZER0dudzJSNHI4RGRibTQxbFE2ZGlCa1hMejFNODV6M2JRamQzTFBVbXNFTnExN1dvVlpz?oc=5",
-          "added_at": "2026-09-04 18:23:18"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-07 05:18:03",
+      "last_checked": "2026-11-07 20:34:43",
       "items": [
+        {
+          "uid": "b714ac017aef",
+          "date": "2026-11-07",
+          "title": "Bipartisan Plan To Keep Chinese Cars Off US Roads For Good Stalls As Congress Nearly Runs Out Of Time - The Daily Caller",
+          "summary": "米国接続車両安全保障法（S.4429）は、中国車を米国市場から排除することを目的とした超党派的な法案ですが、議会の会期終了が近づく中で可決が停滞しています。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVhHLXlQdzN2b2dRMVAteXRDTHBBN29mNjRSZVNNekhtTU5aR3ZHdVZucnhmOFVFN1FVSkdjcExtZUdSazZ3RDkxa3VZUEx5UkFZc19aZnZWX1dFZEdOU0dMN3poRjdTY1ZxYmNfNGVqb1NLeUk3T0NVNkpHemVranItR3JWVU80U2tzQTNIdmVpQUg1OGZhaE5CQV9JN1YwMGkzdUt6ZlpfZUhmRHF3VEdlb1o2TW9VdGRGRFpn?oc=5",
+          "added_at": "2026-11-07 20:34:42"
+        },
         {
           "uid": "f37493cb18e7",
           "date": "2026-08-25",
@@ -4010,16 +4020,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU0xPdU5uTWdfbVpScFJ6WVlIaXpSci1hcFVnYVRSUHZ3NjdTcXFpSXBFUWJQbDlhTHNfVWh4aWZDQVBJNVhBWUJaMmdNaXVMUDdPdURtQzZmNXZkcEg3VWxyN0ZrTklWZUZueGYtdFVwSHNtanF1Y1FPQVgyb1hXYXBMUGxqZEk4OHJQbDhuaWpmY2YyX0lWWnlRNDFfUDg?oc=5",
           "added_at": "2026-09-02 02:41:55"
-        },
-        {
-          "uid": "a9c5bedf3899",
-          "date": "2026-07-21",
-          "title": "U.S. auto industry races to purge Chinese connected-car hardware amid federal push - American Journal of Transportation",
-          "summary": "米国の自動車産業が、S.4429法案に対応して中国製のコネクテッドカー用ハードウェアを排除する動きを加速させており、この法案は国家安全保障上の懸念から中国製部品の使用制限を求めている。同業界はサプライチェーンの再構築を急いでいるが、これは生産コストの増加と納期の延長につながる課題に直面している。",
-          "source": "中国政府",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVU93Mk5KaDc5U3RPaF83T2tRSmdmZFl5TUFnTEN5SWI3UlFoODNLVk54eHIzRmZJSkZObHNUTTNwNi0wSE5aTmlzM0lnblBzb1lzZDNORm9ldjRjblhJNXctNW5vODNLNVZ1b3BlNC0tR2VIQVNTcTNUc21tVXE2bUp5TVU1b09jRUlpUzYyYUdGd3NMaHVVajM4WEs5LThvRDhwWTc1NGtSQkU?oc=5",
-          "added_at": "2026-09-02 02:41:55"
         }
       ]
     },
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-07 05:18:18",
+      "last_checked": "2026-11-07 20:34:54",
       "items": [
         {
           "uid": "a48f18b6b8a5",
@@ -6041,8 +6041,38 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-07 05:18:24",
+      "last_checked": "2026-11-07 20:35:04",
       "items": [
+        {
+          "uid": "3a91c2bccfd7",
+          "date": "2026-11-06",
+          "title": "Greece advances Cyprus power link, grants permits for surveys and cable works - Reuters",
+          "summary": "I appreciate your request, but the article content provided appears to be only a title without substantive body text, and its subject matter concerns a Greece-Cyprus power infrastructure project, which has no connection to the topic of \"political criticism of automotive manufacturers' China partnerships\" that you've specified as the context.\n\n記事の本文がタイトルのみであり、内容が電力インフラに関するもので、自動車メーカーの対中提携という指定の文脈とは無関係であるため、要約できません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM3FsVzFEZDlPbDRKUDdKZngzb3ZnTV9PR25aamxSdW80cHYxWlZfd3BLWDFWUDBTdDY4WjBoVmFZV0ZleEI0bDhiTFZCMEtyaGdERGZydUk0WmVaUU1mZ08weDd4UXc4MlFEbi1ZcFVVNWxpYnVZRTl3NUtUbEV2NXBWcFI4QjRJUWowUlJTZ0o3UWF3V19YV19sUl81bDlKVUxnUk1QQlQ4QjB3Y2R3?oc=5",
+          "added_at": "2026-11-07 20:34:59"
+        },
+        {
+          "uid": "ea4ac82fa63c",
+          "date": "2026-09-22",
+          "title": "China supports investment by its automakers in Europe, commerce minister says - Reuters",
+          "summary": "中国商務相は、中国の自動車メーカーによるヨーロッパへの投資を中国政府が支持していることを表明し、これは欧米における中国の自動車産業の影響力拡大の動きを示している。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT0hnZ2xNOE9GNzIyWG0talpiRFRMemZJZmtNVVBCMEY5eEtDbUdvWlJ0UFNha014aF9fd1pwQnVEMDJXSE53eUktekstUTItU3h1Wm8tNWZOOTdnOERTTVZUcjVYSmNNSXB2TjZwaTc3ajJxSkhLcGVEdjEyNXFCdXMtQmJCdHkzOEJfNk52RmlKV2NWOUFJSllkUFRXemlRVUFhbWJfTkJpZzBBT1JzUlY5YmIwdDZXUl9lQzBpR1YyQVE4V2J3?oc=5",
+          "added_at": "2026-11-07 20:34:59"
+        },
+        {
+          "uid": "65782fcbfc03",
+          "date": "2026-11-07",
+          "title": "DC officials ask incoming Democratic governors to pull Guard troops",
+          "summary": "申し訳ございませんが、提供いただいた記事は「DC officials ask incoming Democratic governors to pull Guard troops」というタイトルで、ワシントンDCの関係者が民主党系の州知事に対してナショナルガード部隊の撤退を要請する内容のようですが、自動車メーカーの対中提携に関する記述が見当たりません。\n\n要約対象の記事内容と「自動車メーカーの対中提携への政治的批判」という指定の文脈が一致していないため、正確な要約ができません。別の記事をご確認いただくか、文脈の再確認をお願いいたします。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/newsletters/defense-national-security/6205686-dc-officials-ask-incoming-democratic-governors-to-pull-guard-troops/",
+          "added_at": "2026-11-07 20:34:59"
+        },
         {
           "uid": "a0808ac45cb8",
           "date": "2026-11-02",
@@ -8012,36 +8042,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTVNGMnNGZVI2RG1rMVlsaUhacllsSFBtN0hvNnEyREViTjBaRjE4TUVrNnUyQkliWGRWSXlMdWQzSnNVSE1pR0cyQ1JqN0FtNW1pTzNoa2JpblJndkpzeVNYQUFURXNWanlzdi1seTRpTWoxUERxZHhOdW40a29uNDJpYXVmaFhfd2x5OTNWOWxQejc4bWR4cGhmcWhmNzN0REtZLTN3b3Y0VlZ2bVMtaTdoTVlLNTVseFFiQ3NSZ3lGWEpNTURtSUNRRlg1ckhTdGp5NFV0RjRVQQ?oc=5",
           "added_at": "2026-10-06 09:47:58"
-        },
-        {
-          "uid": "eb33bea24de6",
-          "date": "2026-09-08",
-          "title": "NEWSLETTER: VW goes for broke - Reuters",
-          "summary": "フォルクスワーゲンが中国市場での経営を強化するため、現地パートナーとの合弁会社の支配権を放棄する計画が報じられており、西側民主主義国で自動車メーカーの対中提携姿勢に対する政治的批判が高まっている状況を反映している。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjQ5Z0ktM3RfYjMwTXZzQVp5WUc0NE1iMEZKTHhRRGpMMHlwOEpaRVNISmt6eE5BNE1VcHpaRkxuN0h4VjFnTm9HUGlST3FiRUpXZ1BFb3VKX3Z1UU1pNmV4WHNqeWdsTjhfNUFzX3dBTFFrVFpGVjEzVXhYUllzNjBSQmxRZw?oc=5",
-          "added_at": "2026-10-06 09:47:58"
-        },
-        {
-          "uid": "dd9cdbb426a2",
-          "date": "2026-10-05",
-          "title": "Reflection AI releases first open model to rival China",
-          "summary": "申し訳ございませんが、この記事は「自動車メーカーの対中提携への政治的批判」というテーマとは無関係です。記事の内容はAIモデル開発企業による技術リリースに関するものであり、自動車産業や中国との提携に言及していません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/technology/6130496-reflection-ai-releases-beam-model/",
-          "added_at": "2026-10-06 09:47:58"
-        },
-        {
-          "uid": "f21c1e00e9eb",
-          "date": "2026-09-03",
-          "title": "Automakers urge Congress to quickly pass law banning Chinese cars - WTVB",
-          "summary": "米国の自動車メーカーが、中国製自動車の市場参入を禁止する法律の迅速な成立をアメリカ議会に促しており、これは中国資本の自動車企業に対する保護主義的な政治的対応を示している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdV9GTGh3Y3UzTHkyTEZnWWtIMEVFcnpxbldlZHlCSTRSSEVGbkN1eUZ4VmRDTTRrYndPNWVGel95MDJLZVRGTjhseEszVk9SU3ZQMUZUbTRiaVRjV0kwejdJMENzdWg2RFlQelowaWRmN011U19WcXZ0VnRHV3g2OUpoRmY3dm9ITlJWekhSQVZ4YUp2cVRZSGI4Z0Q?oc=5",
-          "added_at": "2026-10-05 10:52:04"
         }
       ]
     }
