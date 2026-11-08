@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08 20:46:49",
+  "generated_at": "2026-11-09 03:42:49",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-08 20:46:25",
+      "last_checked": "2026-11-09 03:42:07",
       "items": [
         {
           "uid": "782f4a9152b2",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-08 20:46:31",
+      "last_checked": "2026-11-09 03:42:14",
       "items": [
         {
           "uid": "b714ac017aef",
@@ -4030,8 +4030,88 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-08 20:46:42",
+      "last_checked": "2026-11-09 03:42:38",
       "items": [
+        {
+          "uid": "c496344b8b61",
+          "date": "2026-11-08",
+          "title": "'On par with what the DoD pursued during the Cold War': Pentagon’s war stockpile plan hits a minerals wall - Fortune",
+          "summary": "米国防総省が冷戦時代と同等の規模で戦略物資備蓄を計画していますが、レアアースなどの重要鉱物の確保が困難な状況に直面しており、中国が供給支配を続けていることが主な障害となっています。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYk16QXpYdk5FdnpoNXhwQVdfX3NKY3UtTXlkVFFMT2pQNUV1NHliVzhDbGRrTFdwUmV3ZW5SZ2hWZUpVQWlwRmJGV2VuYkVOckIyUHBzY19OeF92MHNYMTE1cTFJcVppLXdGSkRNT3plUXlxZjdjRnVxVElLc0Vad2loR3NnZUhmeEJ2WmctbnBqb2FMUmJ3ZWl1R29aUQ?oc=5",
+          "added_at": "2026-11-09 03:42:26"
+        },
+        {
+          "uid": "7b337901bf4a",
+          "date": "2026-11-06",
+          "title": "US urges China to meet rare earths, agriculture commitments ahead of Trump-Xi meetings - Reuters",
+          "summary": "米国はトランプ前大統領と習近平主席の会談を控え、中国に対してレアアース供給と農産物購入に関する約束の履行を促している。これは米国がサプライチェーンの安定化と経済的な相互合意の遵守を重視していることを示している。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1NQbGhDdzBnZUVPRWxZMzdCdlUxcTdxTlhaVXYwclNRTm92UXdGanlUVmpxQUczWFItME5kaWp3NWFKVDZUWW5GVlowUnFrYktvOEdvYTNlclhVRUQxbWlia18zQW1RRzhJMlhoRjE3b2xIdlllYXZCSm5BUTR1SFdudTNfS0ZRWUtjenNLS0NwOUMyN0gtb3JkX0NQaE1EdjluMkI3aFhscEplOWVXM0FIZTI4N3IxV3pLWGhsNUZLUQ?oc=5",
+          "added_at": "2026-11-09 03:42:26"
+        },
+        {
+          "uid": "58ffc9cf6a2f",
+          "date": "2026-11-07",
+          "title": "US asks China to uphold Busan trade deal commitments ahead of Trump-Xi meeting - DW.com",
+          "summary": "米国は、トランプ前大統領と習近平国家主席の会談を控え、中国に対して釜山の貿易協定での約束を守るよう求めており、これはレアアース等の輸出管理を含む貿易分野での懸念事項に関連している。米国は中国がレアアース等の戦略的資源の輸出制限措置を緩和することを期待している。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkp5eXozMF9JcUhTajVhRzVsZTVQdnBCTjdZOFRscFB2TFVRLV9mZEhKTzlTN2hUSEJTWnFsOWZlMUYxN080S1ZjUTJyVlU3WUhDZVMyNTV4OTFIR1FHRU5FTWtiSVh1S213WFVGU3MzaktxWGxjak9lYVB0Vnc1a0NvSGR4M3RqekhyRVln0gGOAUFVX3lxTE9qanZtWWwydWFYQVVwRU1oT3B6V3dtNTJacloycFd6WUwzRC1FcUxERmtkZmpqMDktaXhjVkt1U3duMWc0WXZpQTZaaUFLelJOdkdBR0RVX0lqbjZTNk9DbVp1TVRpLTMzTzY3ZzRDVUV2eFFWVzMzdXVEUzY3NjM5Q0JIbW5SaUEtVVhNZkE?oc=5",
+          "added_at": "2026-11-09 03:42:26"
+        },
+        {
+          "uid": "ec0752ca23bf",
+          "date": "2026-11-08",
+          "title": "Where does Trump's critical minerals strategy go from here? - The National",
+          "summary": "# 要約\n\nトランプ前大統領の重要鉱物戦略では、中国のレアアース支配に対抗するため米国内採掘・加工能力の強化が重視されていますが、環境規制緩和と産業育成のバランス維持が今後の課題とされています。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnJtcS1XWDhLd0FDRTJoZld1cUpkOFJHMXBfekU3djkteVQtVW1Db05wOTkzQXM1MkFkMjdfRjMtZWxWUWtoTXJZUV96MGJEOWw1YUsyQXFnYXR4b3dTUkEzcXZRNTFGTGtNdWJzbm41X2hiT0FqTVFvZW1vRVFrMklsWURBSEpUVEljbXQzWl9qSWF3dEdDdzVCX2NJUUhwRzFteXB6eGxfaHhVM0E?oc=5",
+          "added_at": "2026-11-09 03:42:26"
+        },
+        {
+          "uid": "9a46fe7b92e5",
+          "date": "2026-11-07",
+          "title": "Bessent, Greer Raise Concerns on China Trade Deal Actions - Bloomberg.com",
+          "summary": "米国財務長官ベッセントと上院議員グリアが、中国との貿易交渉における措置について懸念を表明しており、これは中国の戦略的産業支配を緩和するためのレアアース等の輸出管理政策の実効性に対する議論を反映している。米国政府内では、中国との取引条件設定時にレアアース等の重要鉱物供給の制限に対抗する政策の必要性が強調されている。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThIM0tOMDlPV2h4TURPZHZyVlJjUGRLWlZOV21nb3gwS3RON3RQdk1PZUFNOTVpZ2k0VG4tQ0xyWWd1R0JrZzV2MVhwS3B6dzY0eGtkbWxXajRreGpIRlZWUXVkc2haWVVsaXNZaUwzYWdmaU8tS21KS1ZaRlVZT3dNanpJamNZRURtOVRibHFpMERibTF0OGNwQnFkWENSVXJScXpJclFuamc?oc=5",
+          "added_at": "2026-11-09 03:42:26"
+        },
+        {
+          "uid": "87c1246f9958",
+          "date": "2026-11-05",
+          "title": "US extends suspension of export restrictions on Chinese firms - Nikkei Asia",
+          "summary": "米国は中国企業への輸出制限措置の停止を延長し、当面の間、対中国企業制裁を緩和する方針を続ける一方で、中国のレアアース輸出管理に対する対抗手段として機能している。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDRsdElnRGFmbW5YVDI0UlZydWQtaHZhRUlFWFdpTDZrRWxUbzJDWWVrYVlKb2NmTmJOeUhxSXNtc3FxaWRjZGhDZUxoQlJWZWZwekNUUUFiNjVBMXVQZ09jU1lJR3BWREhRbF92b1pTZHNPVmNSSjU0VnFsZWtLamRadUtEVVhnSnlFZWp4WWEwZGt1THFBMjNHWlZkbnFSSTRtTEMzQjJYNGJvUE5iYnZoTmlzN1NmOXhsR3ppd3VIdllfbzFTOWRpd2s2TmpNY3c?oc=5",
+          "added_at": "2026-11-09 03:42:26"
+        },
+        {
+          "uid": "015bda09079c",
+          "date": "2026-11-07",
+          "title": "US-China agree to continue trade talks as Washington presses Beijing to fulfil Busan deal commitments - The Times of India",
+          "summary": "米国と中国は貿易協議を継続することで合意し、米国はインド太平洋経済枠組み（IPEF）のプサン会合における中国のコミットメント履行を求めている。この対話は、中国のレアアース輸出管理を含む両国間の貿易紛争解決に向けた継続的な交渉の一部である。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQcy11czc5MkJzRWZDaVQzOHVqVEEtZ2JLbkJqTmt0QUVVck1icHNnTVQ5S2pUdXE4ZGNPUkVqTlR2WVRERUZnN1FnMjc0eThFS3JrQk1HZW1QcnlCV1F1UDB3RTZRdkpFUFEzaHJ0WGd5RDVoUHZGeVZzenZhbWZvTUltVU9kYVVXanV0Ti1NeXcwMlQxNUo3cERkSnFmU1lmQlpfOU4tUzUtZEdRNk1TQk9idk5sVzhXeHE1Rk55SEg1eEpSSnFRVG13cXlKdmRVc1BjZUJOUUtOZ3RHNE5NUHFyQ1Z4d2lfRHpGc0VqOGI4bDN0Y0lhR0QxNVJybGNsRE96NEo3LWhRZWpaUDNBdjg0a0JKZThzeVhqMGRnSHTSAaYCQVVfeXFMTXh6S09hTGdxbkRXTVIzVnJYdUVGV2ZhYnAyeUozM1Q2eDZ6Q1BobzJqakdfM0wzdVg0a3ppX2ZsWmpLTmNnVGpCT1JySFllSVFsWWJBQzBWR3lodmtEaU5vUVA3aXBrVTlEc1I1OHBJTjQwdWxSNC1hZlRnaWowOTFyTWRTMGh3VUctOFFlUlZsenVWV0FtV3pWU3lqejlHX1FJdnl6UHA2OVd0RlNfRkxveHpkRUN2aXZXUXlWb1NtcndEbjlLQXlrOVVzMmxtYTBNOENKMmJ1b2p1cUpjUnRfZmltSVZtRWpVaVFKdVVEQ2xkam5zRTF3OGREc1pVc3hXOUFGa05CM1FuZ1lNWnYyTFRNWTAzUnZvLVRzZFdQVTZYVW9R?oc=5",
+          "added_at": "2026-11-09 03:42:26"
+        },
+        {
+          "uid": "eebdcfaed660",
+          "date": "2026-11-08",
+          "title": "China reveals how it intends to beat NASA back to the moon",
+          "summary": "中国は月面での探査活動を加速させ、NASA との宇宙競争に対抗する姿勢を示しており、この競争過程でレアアース等の戦略的資源の確保と輸出管理がさらに重要になると予想される。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/technology/6204829-space-race-nasa-vs-china/",
+          "added_at": "2026-11-09 03:42:26"
+        },
         {
           "uid": "06353b5ca44d",
           "date": "2026-11-07",
@@ -5951,86 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSHlNSGZ2QjMzT0pyZmU4OWlwUXd0bWpKLUpXdV9ZSjR4YzNjTk9JSko5S2xuMEZUNzhobDhnVTVSRVZWUXpGbmlWWGdwZjJNc3lLU2J2bVpJaEJaNkxKNjVKazEtNlZRSmlJdGRtQXdzOW1TQm1fZkhSSFZWQ3FVVjk0b3dZUVE2ZjBDNjhaZ1hPM1prYTJpY1ptSUVZb01Mdmt5V3J6UEE4aWItM2ZhWXhfczNoVVIyYU4wUVJ0WC1mVzNiNTljWWw1ZGpUVkpRYTE2Vg?oc=5",
           "added_at": "2026-10-02 19:57:06"
-        },
-        {
-          "uid": "4013f71fd4d7",
-          "date": "2026-08-06",
-          "title": "Exporting American AI to Create Jobs, Grow Our Economy, and Beat China – AFPI - americafirstpolicy.com",
-          "summary": "中国のレアアース輸出管理との文脈では、本記事はAI技術の輸出を通じて米国が経済競争力を強化し、中国への対抗手段とすることの重要性を強調しており、戦略的技術産業の国際競争における米国の優位性確保が、中国による資源・技術の戦略的統制に対する対抗策として位置づけられている。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbDZUZUdUemxIVy1NZmZ4c09ZRWtxVGR4Qk1NTmVYWFlVRS1wcjlrejBxX1FIZHdIN2lWaUt3MFFWd2dpbnYzdVZSXzE0aWVxY0pnVjZyaXptYVh6NVZYTW9BdGhLOVZvcndrUW01MnBiOXJrVVJaVms5NHJWc0Y5cmp0cXBrVlZqa0pXemViX1lnMWs5bGtfUU1JeEZULUI0aktlZHFINTlaMFk?oc=5",
-          "added_at": "2026-10-02 19:57:06"
-        },
-        {
-          "uid": "4766732ea2cf",
-          "date": "2026-10-01",
-          "title": "LS Eco Energy plans first defense rare-earth plant outside China - 매일경제",
-          "summary": "LS Eco Energyが中国外初となる防衛用レアアース製造施設の建設を計画しており、これは中国によるレアアース輸出管理強化への対抗措置として、サプライチェーンの多角化を進める動きを示している。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHaHROQnVIZlRSa0pHTUtSVHRzUUQ1LWpMWUZ3YmZPOElxeC1TdThrRWhVTVVpLVNWVEM1TnF5bUxwS2N1WnJqOWRHUXhNcExJOWFiWTZvUQ?oc=5",
-          "added_at": "2026-10-02 19:57:06"
-        },
-        {
-          "uid": "418dafc09c43",
-          "date": "2026-10-01",
-          "title": "Khanna asks AI firms for information on efforts by China to access code",
-          "summary": "中国によるAIモデルの知的財産窃取懸念の背景において、米国の民主党下院議員がAI企業に対し、中国がモデルウェイトを盗む努力に関する情報提供を要求している。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/technology/6124282-ro-khanna-ai-theft-investigation-china/",
-          "added_at": "2026-10-02 19:57:06"
-        },
-        {
-          "uid": "01cad41a2195",
-          "date": "2026-07-09",
-          "title": "Policy Backgrounder: Critical Minerals: Impact of Export Regulations - The Conference Board",
-          "summary": "中国は経済的影響力を強化するため、レアアース・レアメタルなどの戦略的資源の輸出規制を積極的に活用しており、これが世界のサプライチェーンと産業競争力に重大な影響を与えている。各国はこうした規制に対抗するため、国内採掘・精錬能力の強化やサプライチェーンの多様化を進める必要がある。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjk0cXdtWTk5Z0J4VDFuUHczTkhyUk1OSlhVSGVObi1jRGhkSzk0cVdHMGw1VmFNWFNsRkJuZGtyQk9ESzg4aTYxOWk4ME4wNGJiRElvbXo3Q0p1eXBRXzRVeFJwcFVaX3JQeXFTUHIzVkVyNzBwcERkODUwRHJOWXRDWE04UHNnUkllTnZxcUtuZFIxa2xXVFJVajFVeTF0S1FDNXBCVVBkcTJYb1E?oc=5",
-          "added_at": "2026-10-02 04:20:25"
-        },
-        {
-          "uid": "82f0ca1f7e51",
-          "date": "2026-08-08",
-          "title": "US unveils critical minerals deals in latest push to counter China - South China Morning Post",
-          "summary": "米国が中国のレアアース支配に対抗するため、オーストラリア、カナダ、インドなどとの重要鉱物サプライチェーンの構築に向けた協力協定を発表し、中国の輸出管理への依存を減らそうとしている。",
-          "source": "米閣僚発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkJOOFpjSEI1bHNpMFRVX28tdUEzd013dEZBZGRzUnIyODNiYU9BRmd2V2hOQjFQeDM4MnpZZVdFUUEweGJnRDhkWVRVRlJXdnpNWXFsMTAzb3AzZHZJV1RON3I2ZHBpRmxMNFItZElQOE1KQnkzYnRMc3ZoMGhkMjBMMW1pRUxaNkVlMlhYTnVVNUdxQURyTjZzWHNfUFNBX1lGZkJYaTE?oc=5",
-          "added_at": "2026-10-02 04:20:25"
-        },
-        {
-          "uid": "243e96af73f5",
-          "date": "2026-07-05",
-          "title": "China dominates the rare earth elements industry, but this American company hopes to challenge China's grip - CBS News",
-          "summary": "中国は世界のレアアース産業を支配しているが、米国企業がこの支配に対抗することを目指している。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdkhpZllZUHRkTTRQS3kxR0VWMXJUY204QlJfaUpTbWVXOEJiY21icm8xbENLOFRuaEEzZjEzNTlSc0ZHOVdEam5NV0NtUDBFaHd0V1cwYkR6WURjZUZCbVd5aTJkdU9VbG1WOU9XUEJNeVhWQ3hETTZ4akZBQS1rellTVl9XY2NiS1lDTkNNUHl0M2FkdnpHekJ5Q3JtSklDcmRMVlhLRlRpS0pybTgyeDJEZkJndw?oc=5",
-          "added_at": "2026-10-01 20:27:06"
-        },
-        {
-          "uid": "839f47865a30",
-          "date": "2026-10-01",
-          "title": "LS Eco Energy plans first defense rare-earth plant outside China - 매일경제",
-          "summary": "LS Eco Energyが中国外初となる防衛用レアアース製造工場の建設を計画しており、これは中国のレアアース輸出管理に対抗する重要な動きとなる。この取り組みは、先進国が中国への依存を低減し、レアアース供給チェーンの多角化を進める動きの一環である。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MSF8tdldfdVRNNXd2OG1tNFl2OVFfVHdUQ0hfZG14UnZiVVQ4bmVOb2kwVjF4bXp3WnZWaGFJSnFQcExRX1R3NkFBVzhkWkxMU0ZqYQ?oc=5",
-          "added_at": "2026-10-01 20:27:06"
-        },
-        {
-          "uid": "6b295913e942",
-          "date": "2026-09-30",
-          "title": "LS Eco Energy to Build Samarium Metal Plant in Vietnam for Defense Applications, Establishing First Non-China Supply Chain - finance.biggo.com",
-          "summary": "LS Eco Energyがベトナムにサマリウム金属工場を建設し、防衛用途向けの中国以外の供給チェーンを初めて確立する計画である。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CdWtoa0pndFQxUFJjOXBoUWVZblU1LURYUkh2am1NTmlRblBjUVpaU1hiU2hlYmNyZ0Z1d3JFOU1ESWJ0S1pMU0p2Wng0QTJDT2NnYVZpVkVFNXRWbTI3RzVMUEFmdEthbVZHanQteTdELWdxb2c?oc=5",
-          "added_at": "2026-10-01 03:54:31"
         }
       ]
     },
@@ -6041,8 +6041,38 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-08 20:46:49",
+      "last_checked": "2026-11-09 03:42:49",
       "items": [
+        {
+          "uid": "7f092851de78",
+          "date": "2026-11-08",
+          "title": "AI nearly had US troops attack a Chinese ship. Nobody could check its work.",
+          "summary": "AI システムの独立した検証メカニズムの欠如が国家安全保障上の重大なリスクをもたらすため、航空業界のフライトレコーダーに相当する透明性と説明責任の仕組みが必要とされている。自動車メーカーが中国との提携を進める際にも、AI 意思決定プロセスの検証可能性が政治的な懸念材料となる可能性を示唆している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/technology/6205531-preventing-future-ai-incidents/",
+          "added_at": "2026-11-09 03:42:44"
+        },
+        {
+          "uid": "d8fba0acc8f6",
+          "date": "2026-11-08",
+          "title": "Hakeem Jeffries says he’s a ‘hard yes’ to impeach Hegseth",
+          "summary": "申し訳ございませんが、提供いただいた記事は「自動車メーカーの対中提携への政治的批判」とは無関係な内容です。記事はハキーム・ジェフリーズ下院少数派指導者によるペット・ヘグセス国防長官の弾劾に関するものであり、自動車産業や中国提携に関する要素を含んでいません。適切な要約のため、自動車メーカーの対中提携に関する記事をご提供いただけますでしょうか。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/house/6206617-jeffries-supports-hegseth-impeachment/",
+          "added_at": "2026-11-09 03:42:44"
+        },
+        {
+          "uid": "eebdcfaed660",
+          "date": "2026-11-08",
+          "title": "China reveals how it intends to beat NASA back to the moon",
+          "summary": "中国が月面基地建設を目指す独立した宇宙開発戦略を発表していることは、NASAとの宇宙開発競争が先鋭化しており、こうした地政学的競争の中で日本の自動車メーカーが中国との提携を進めることに対して、政治的な懸念が高まる背景となっている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/technology/6204829-space-race-nasa-vs-china/",
+          "added_at": "2026-11-09 03:42:44"
+        },
         {
           "uid": "1849d698434f",
           "date": "2026-09-09",
@@ -8012,36 +8042,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlBwY0xWY25vMW5KUmhIc3BjbVp0bUhyTnpXOGRuOXhKWVFVSlZrMWRXc2VsWHFRLWJ3UU14VmFrLWJTenNJa2NiNm52SWpTc2cyM0RrcG14el9TOVdFNkFDYkZKcGNPeWtqM19OYlZOTjFUaS1TYXJFZElMM0JHREo1SjhabVROTllGQzBnLXRuQml0cnZlWGRVOUFmX3IwN3lLNGpYSC11aEJmMFVqRWF3YUtDSHQ4amJueXhn?oc=5",
           "added_at": "2026-10-06 20:52:08"
-        },
-        {
-          "uid": "0ac0de892d97",
-          "date": "2026-10-06",
-          "title": "Poll: Democrats hold major advantage on health care costs",
-          "summary": "申し訳ございませんが、提供いただいた記事は「自動車メーカーの対中提携への政治的批判」とは全く関連のない、米国の医療費問題に関する世論調査についてのものです。文脈が一致していないため、要約することができません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/healthcare/6130630-voters-trust-democrats-health-costs/",
-          "added_at": "2026-10-06 20:52:08"
-        },
-        {
-          "uid": "c59808b8d4af",
-          "date": "2026-09-30",
-          "title": "Boeing wins US Navy's next-generation fighter contract, Pentagon says - Reuters",
-          "summary": "この記事は米国防総省がボーイングに次世代戦闘機契約を授与したという内容で、「自動車メーカーの対中提携への政治的批判」との関連がありません。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2k2eTY0aU9HQUFScTVSR2RtMWI3WGhtSjN5V1VmYWJHM3NEMjU3YlZydVF2SExPUjNsZlJqS0cwdVMtY2Nra2NISzZBQWZzU01sUXdpQ3dHcmFTN2lPREhVb0xkUGUzUXRFMTlWR3ZhWmNGaEpXQ3czclBXSDF2ZTQybVZ4Rjc3U3NuTmthQ1Z5UG9kZ1Faa0ZsNWp4RW9KRktFWDVSdjdGek00Y01XX3BIZEU3QzdtTkk2Q08wcFNtaExYMkRGZU9fdw?oc=5",
-          "added_at": "2026-10-06 09:47:58"
-        },
-        {
-          "uid": "74c79ad521b4",
-          "date": "2026-09-28",
-          "title": "US says GM tech costs to drop by $20 billion through 2031 due to new emissions rules - Reuters",
-          "summary": "米国の新しい排出ガス規制により、GMの技術開発コストが2031年までに200億ドル削減される見通しが示されており、これは自動車メーカーの技術戦略に大きな影響を与える可能性があります。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTVNGMnNGZVI2RG1rMVlsaUhacllsSFBtN0hvNnEyREViTjBaRjE4TUVrNnUyQkliWGRWSXlMdWQzSnNVSE1pR0cyQ1JqN0FtNW1pTzNoa2JpblJndkpzeVNYQUFURXNWanlzdi1seTRpTWoxUERxZHhOdW40a29uNDJpYXVmaFhfd2x5OTNWOWxQejc4bWR4cGhmcWhmNzN0REtZLTN3b3Y0VlZ2bVMtaTdoTVlLNTVseFFiQ3NSZ3lGWEpNTURtSUNRRlg1ckhTdGp5NFV0RjRVQQ?oc=5",
-          "added_at": "2026-10-06 09:47:58"
         }
       ]
     }
