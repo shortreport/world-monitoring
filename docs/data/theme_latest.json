@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10 08:19:13",
+  "generated_at": "2026-11-10 22:19:13",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,28 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-10 08:18:32",
+      "last_checked": "2026-11-10 22:18:42",
       "items": [
+        {
+          "uid": "31abc618af4f",
+          "date": "2026-11-10",
+          "title": "EU procurement rules could affect UK materials suppliers - Agg-Net",
+          "summary": "EUの調達規則が英国の材料サプライヤーに影響を与える可能性があり、欧州産業加速法案（IAA）はEU域内での調達優遇措置を強化することで、英国企業の競争力を制限する恐れがある。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzk1UXlfamZ2dkZGeUdYdm12b2xjMWdmb1ZtV1o2YnVRYXFQMkpXd29VVFpoNEtDYUdQT1MwOWJyNXVsSkx2bGZvS2FZdERuOW9SVzgybkVnRFdmMm1KTjMtSERScDdwQ2dSTHJlMzlLUkNySXI5LWJlSGR4RHl3Z1pfRlU4YmNmUnp1UGRn?oc=5",
+          "added_at": "2026-11-10 22:18:39"
+        },
+        {
+          "uid": "5c84b9dc4a10",
+          "date": "2026-11-09",
+          "title": "Ireland merges talks on car CO2 standards and Industrial Accelerator Act - ENDS Europe",
+          "summary": "アイルランドは、自動車のCO2排出基準に関する交渉と産業加速法案（IAA）に関する交渉を統合し、両分野の政策調整を進めています。これは欧州の産業競争力強化とカーボンニュートラル達成を同時に推進するための戦略的な取り組みです。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMk1WdDd4M3JRZ0NjOHlBTThjMzVfNE54VzFudTFRbU5QVThZbmI5OEJRcURiZ3RPQTBiTHJrcVlHdVRJRDk2UTYwWTdmS19QSldrWUZIdDBuNkxQWUJkVThZLUozWjRkWVI0ZUU0MzlyN0F0NTBjSnlWSm5DdkpiY0IwajE4Wkp0Zm5ZYmxZa1kzWmNnbkxlbF9MUGt2VjJPeXNOQUdwQTdQSkZ5?oc=5",
+          "added_at": "2026-11-10 22:18:39"
+        },
         {
           "uid": "3525a362ff0e",
           "date": "2026-11-09",
@@ -1989,26 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaTJXc3R4LWd2Qnlaamd1Umoxdm1NZDBFY3RXM0NFaFJ3akRKWjh3ajRNWUJMMHBxSU5qOUJvVHBkd0VIR2hfamdaaVp2WXFfWjdpeldxSDJ2RTY0cmpGSVZqanIyTS1WcnBuc0JkY2JXRl9mNWJpbnpPVmhCaFhnRGE4bGFrU2xodTZ3M2hkNTdVNXlvSTJHTF96ZG1NZG93akxRUVZxRjBFVWFFdFZ0MnhtaXhpSWYyd25xOThhX3ZfcV9jVkpFNU1pcFFNdTlUS2c?oc=5",
           "added_at": "2026-09-09 02:49:17"
-        },
-        {
-          "uid": "76abba7ff923",
-          "date": "2026-09-08",
-          "title": "European Parliament negotiators want tougher made-in-EU policy - euractiv.com",
-          "summary": "欧州議会の交渉担当者は、産業加速法案（IAA）に関連して、EU域内産の製品優遇政策をより厳格化することを求めており、これはEU産業の競争力強化と戦略的自立性の確保を目指すものです。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSko0ajhtYUFXRS1ybTJxYW4zRGRuMzgxZHp6QVh0OE15aFdldmhpYllsdWU4aFkydXozdkRINUZsZGlnYWhwcS1uYmVlN3RYZGdFVWlPMVdOS3FmYWlRNXZCZUY3UW9PTVpGbXRnaHRUOUFyM2Frc1dvX2huNmt0WE5fRVRGUXZ6MFhwb3Fqanh3RVVhQV9yTg?oc=5",
-          "added_at": "2026-09-09 02:49:17"
-        },
-        {
-          "uid": "7a66c2349db2",
-          "date": "2026-09-08",
-          "title": "EU MEPs Push for Tighter Foreign Investment Screening to Counter China's Market Dominance - News and Statistics - IndexBox",
-          "summary": "EUの議員らは、中国の市場支配に対抗するため外国投資のスクリーニングを強化し、産業加速法案（IAA）の枠組みの中で欧州産業の競争力を保護しようと主張している。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN1hoeWR6U2pna2pTckxkVXVRUEhvZUdVNjhJZTJkbjIzWC0xZE9BNGZTRkI5dDNxVjkzeWs2N25YclFLQ0NHMExxQzI3bTZuS29SNk1kMkhMWmFjejNtTWhTdW5FVHVFZ0drVjJ4cmo5MWxvZDl6cC1tN2ZxWDU2YWg5OU9fMVpxOENQNzFqaHVISFY3Rll5bnNQeWlBUDZGTncyRTJYd1dxZw?oc=5",
-          "added_at": "2026-09-09 02:49:17"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-10 08:18:42",
+      "last_checked": "2026-11-10 22:18:51",
       "items": [
         {
           "uid": "b714ac017aef",
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-10 08:19:00",
+      "last_checked": "2026-11-10 22:19:01",
       "items": [
         {
           "uid": "3ed19a013829",
@@ -6041,8 +6041,58 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-10 08:19:13",
+      "last_checked": "2026-11-10 22:19:13",
       "items": [
+        {
+          "uid": "e91ff855bb5d",
+          "date": "2026-09-03",
+          "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S. - CNBC",
+          "summary": "米国の自動車メーカーが議会に対し、中国製コネクテッドカーの永続的な米国市場での禁止を求めており、これは安全保障上の懸念から中国車排除を目指す業界の政治的圧力が高まっていることを示している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ILXF1MXFOQjRTdnUzcHdzbVh4ZHJHVHduYnBzd2ZmMGNtNVVDX29TOUJWMU8zZmUwYlB3SmU3X2phSGFrSjNBci1lRFJ6dWFNUy1qUi1EM2laSHd3czVaU1VfUzZyZXRiQTdmMVJ3QQ?oc=5",
+          "added_at": "2026-11-10 22:19:06"
+        },
+        {
+          "uid": "ed691e31c928",
+          "date": "2026-09-08",
+          "title": "Trump administration expresses 'profound concern' over Ford's ties to China - CNBC",
+          "summary": "トランプ政権がフォード・モーターの対中関係に「深刻な懸念」を表明し、自動車メーカーの中国との提携が米国政治レベルで厳しく批判されていることが示された。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NA?oc=5",
+          "added_at": "2026-11-10 22:19:06"
+        },
+        {
+          "uid": "0fb20cbdb9ef",
+          "date": "2026-09-09",
+          "title": "Ford’s China Ties Spark a Very Public Fight With the Trump Administration - Gizmodo",
+          "summary": "フォード・モーターが中国との事業提携を巡ってトランプ政権と公開的に対立しており、自動車メーカーの対中関係が政治的な争点となっている状況を示唆しています。これは米国内における経済安全保障と企業戦略のバランスをめぐる政治的緊張を反映しています。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREZfOVJYenQ5amJMRkdoaURHNG0xcE8wWFMzYl9YYTNqeEo4U1lveWNTX2xGX0FMSXRINHU5dU1wa3JoMTdxZmdlQWxHNnA1b3J2QjVCUDlvNVpqcWN6M05jSWU1Sy04UXBwTzVuS05HT1R5a3g4VTB3ejZDRHEzVHdqamZKUHJ0dmdLSTRkNFpoeEVWY1lQRU5zR2cyTnQyemJVOGVB?oc=5",
+          "added_at": "2026-11-10 22:19:06"
+        },
+        {
+          "uid": "a64122840bdf",
+          "date": "2026-11-10",
+          "title": "China's trade surplus soars past $1 trillion as AI boom powers exports - Reuters",
+          "summary": "中国がAI関連製品の輸出拡大により貿易黒字が1兆ドルを超えたことは、自動車メーカーの中国市場での競争激化と経済的依存の深刻化を意味し、これが欧米諸国の対中提携批判の根拠となっている。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkdyZ0hqUllXMmZjUVB1QnBoMXFCYWdEUldHN3hPWVo3MFNNbWlGX2dmWWVtdVVnTU5icUpXRGl3a09jSWpEN0x3VXJQQnNOZkxCbVhnREhXdWFoa25HbXIzUlZqVXVaVXd3T19HcmdxWGxHbjl5WC0zeDB5S3Q0SUxTNUREYm9lTE5IU0JJdXBSd1h5Q21uNHFfNGtqSi1tMkFmY1FDTWxEUmJ1enE3TUZSTWhYWVdjVHhoM2t0SmU4dVU?oc=5",
+          "added_at": "2026-11-10 22:19:06"
+        },
+        {
+          "uid": "6ff60020544d",
+          "date": "2026-11-10",
+          "title": "EXCLUSIVE: Anthropic’s nearly $70 billion IPO plan briefly circulated to banks, then retracted - Reuters",
+          "summary": "この記事は自動車メーカーの対中提携に関するものではなく、AI企業Anthropicの約700億ドルのIPO計画が銀行に流通した後に取り下げられたというニュースであるため、要求された文脈での要約はできません。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5",
+          "added_at": "2026-11-10 22:19:06"
+        },
         {
           "uid": "d350e1a657c1",
           "date": "2026-11-03",
@@ -7992,56 +8042,6 @@
           "source_type": "media",
           "url": "https://thehill.com/opinion/international/6140042-china-student-exchange-risks/",
           "added_at": "2026-10-13 15:24:16"
-        },
-        {
-          "uid": "6cf2eaa83814",
-          "date": "2026-09-03",
-          "title": "Alliance for Automotive Innovation urges Congress to ban Chinese vehicles before year-end adjournment - Automotive News",
-          "summary": "米国の自動車業界団体が中国車の販売禁止をバイデン政権下の議会に促進するよう求めており、これは中国との提携や技術移転に対する米国内の政治的警戒感の高まりを示している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnNoOXl4NFVMZGZBbmUzSTJOYUJBWTBrN2FRTEhQSEoyVFpnSjdhY1g4X2JRaXp0NVZ3djF6M1RMenVZSmdZaVE0ZUpKQ29SdHo5UGZURVVxM2NzSnJJTTVnQ1ZtbkJJaWZLOFRvQkFXODNiZUhHa2xCcktPY3BsWlFlN3VMZExJaEFKVUhZNHlVVTZBSVNuRGNSd296bmQ3VTB0Vy1R?oc=5",
-          "added_at": "2026-10-09 04:43:38"
-        },
-        {
-          "uid": "cacbf9d7d4f6",
-          "date": "2026-09-09",
-          "title": "Republican lawmakers criticize Ford business ties to China - KELO-AM",
-          "summary": "共和党議員がフォード・モーターの中国ビジネス提携を政治的に批判している状況を報じた記事であり、米国の自動車メーカーと中国との経済関係が国内政治の争点化していることを示している。",
-          "source": "フォード",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTNGeHRHQjgwLVVUY0pnRmRibmhreHZvb1NERDNDNTFMQW5FQWQzTUFJREJNR2FBblloWFg3SnQ1WnRGNFcxR2NrM0JZTUN2Z2ltcDk1blFjVXlKenRHelJNOHlyT2hjQUlnTElDcWV5ZE5GV1R3NzhCV0RPTFRCdTZiSkhoSHkzd1c5a3JvYVA?oc=5",
-          "added_at": "2026-10-09 04:43:38"
-        },
-        {
-          "uid": "82ba05e90ab5",
-          "date": "2026-09-25",
-          "title": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges - Reuters",
-          "summary": "この記事はOpenAIのユーザーデータ漏洩に関するもので、「自動車メーカーの対中提携への政治的批判」というご質問の文脈には該当しません。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5",
-          "added_at": "2026-10-09 04:43:38"
-        },
-        {
-          "uid": "326f7501765d",
-          "date": "2026-10-08",
-          "title": "Judge extends temporary block on Trump’s media ban",
-          "summary": "この記事は自動車メーカーの対中提携への政治的批判とは無関係で、トランプ大統領によるメディア報道規制に関する司法判断についての内容であるため、要約できません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/regulation/court-battles/6136734-judge-timothy-kelly-briefly-extends-trump-media-ban-block/",
-          "added_at": "2026-10-09 04:43:38"
-        },
-        {
-          "uid": "b17e96c37396",
-          "date": "2026-09-09",
-          "title": "Donald Trump administration flags Ford Motor’s China ties as security risk - ET Auto",
-          "summary": "トランプ政権がフォード・モーターの中国との関係を国家安全保障上のリスクとして問題視しており、自動車メーカーの対中提携が米国政府から政治的批判の対象となっていることが示されている。",
-          "source": "下院中国特別委員会委員長",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSDNhb21GS2pXSmxncXBwcWpYX2czVlBqT3h2VkdWUHc0MVprVlUyN3lzMkFDUXZOTEVydEFrcHE5RHp6WE9uZk5vNlJzODZRanM3WGxXajFUMUw4bXUzakRsY0ZnaXpfWk1UNEM3YkJtNTh4SnNNR0VrYXY3WnoxaWNjUC0wanhyNzJESUUwZmZWYXpndTBrTFcxcWFFNEN6ZGFnOTlKbTZ3V2ZFRHNVR0oxeVpPVE9RUUdRa0JDb2dpc3JvWDFjTUpWM3RjTlJqakl3ejBB0gHbAUFVX3lxTE44Z1FNS21YMkRPZHBjTVo0b25jVEdRbE1Qam5PaGc5eDhxSWxwYkJUWXZlOGFQdjRVSXNYQUxWU0x0em5XZmlQNy02MEViUlFsZ2d1TmQtY1NhbVVQbm9BWWxjYW5ZSmpxZzhZUTcyTW5tM2lwSFF0el92VmRQY1pwbzg2bnhVaGlGU05EWVp2TDEzeEl0ZGZVWnhVdUNQZ1Bobk5ULVZyU0NPb3MyWEhTSEc2Q0NkTU9Sb3lrUFdMS04xbWIzblJEUFhBTGNBdXhhcXlxRXNHekc3Yw?oc=5",
-          "added_at": "2026-10-08 20:51:32"
         }
       ]
     }
