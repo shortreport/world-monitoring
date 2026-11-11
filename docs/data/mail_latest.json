@@ -1,94 +1,338 @@
 {
-  "generated_at": "2026-11-08 11:10 JST",
-  "sender_count": 2,
-  "total_mails": 9,
+  "generated_at": "2026-11-11 13:48 JST",
+  "sender_count": 6,
+  "total_mails": 39,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 1,
+      "count": 24,
       "bullets": [
-        "民主党が米議会の支配権を獲得し、トランプ大統領は自身のレガシー確保に重点を置く可能性が高く、イランに対するエスカレーションが11月中旬に起きる可能性",
-        "バーナム英首相がEU復帰を巡る議論を再燃させるなか、再加盟には大きな政治的障害が存在",
-        "ポーランドでナブロツキ大統領の介入がポーランドの分断を深め、トゥスク首相の政策目標達成を妨害",
-        "イエメンでの戦争がコストの大きい膠着状態で2027年半ばまで続く可能性",
-        "データセンター推進派の米中間選挙での敗北が建設拡大に与える影響は限定的"
+        "2027年第2四半期にロシア・ウクライナ間の実質的な交渉が開始される見込みで、停戦の確率が冬期の10%から35%へ上昇",
+        "中東紛争に関連した原油供給不足は解消されたものの、紛争関連のリスクと海上運送プレミアムにより油価は高止まり、中東部蒸留油供給は2027年まで逼迫が継続",
+        "米国のイラン攻撃の確率は60%で、イランは核問題に関する交渉意思を示しているが米国の要求充足なしでの譲歩はなく、米国攻撃時の積極的な報復が予想",
+        "民主党による防衛・技術・金融関連企業への調査が見込まれ、台湾への追加武器売却は低い見通し",
+        "バーレーン債務危機の解決には湾岸諸国による救済が必要不可欠で、UAEによる支援がアブダビとの一層の結びつきを強化"
       ],
       "subjects": [
         [
           "2026-11-06",
-          "Daily Research Summary (in Japanese): 2026年11月6日",
-          "data/pdfs/20261106_1701_Daily_Research_Summary_(in_Japanese)__2026年11月6日.pdf"
+          "Russia-Ukraine ceasefire odds rise to 35% in 2027",
+          "data/pdfs/20261106_2218_Russia-Ukraine_ceasefire_odds_rise_to_35%_in_2027.pdf"
+        ],
+        [
+          "2026-11-07",
+          "Oil prices to remain high despite crude recovery",
+          "data/pdfs/20261107_0056_Oil_prices_to_remain_high_despite_crude_recovery.pdf"
+        ],
+        [
+          "2026-11-07",
+          "Democrats will investigate defense, tech, finance",
+          "data/pdfs/20261107_0206_Democrats_will_investigate_defense,_tech,_finance.pdf"
+        ],
+        [
+          "2026-11-07",
+          "Aggressive retaliation likely if US attacks",
+          "data/pdfs/20261107_0343_Aggressive_retaliation_likely_if_US_attacks.pdf"
+        ],
+        [
+          "2026-11-07",
+          "Bahrain: Bailout will cement pivot to UAE",
+          "data/pdfs/20261107_0528_Bahrain__Bailout_will_cement_pivot_to_UAE.pdf"
+        ],
+        [
+          "2026-11-07",
+          "Israel: Opposition-led government now likely",
+          "data/pdfs/20261107_0702_Israel__Opposition-led_government_now_likely.pdf"
+        ],
+        [
+          "2026-11-09",
+          "APAC & Japan Conference Call:",
+          "data/pdfs/20261109_1001_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.pdf"
+        ],
+        [
+          "2026-11-09",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20261109_1201_EG_Research_Summary_in_Japanese.pdf"
+        ],
+        [
+          "2026-11-09",
+          "Continued conflicts to keep oil prices elevated with diesel supply",
+          "data/pdfs/20261109_2222_Continued_conflicts_to_keep_oil_prices_elevated_wi.pdf"
+        ],
+        [
+          "2026-11-10",
+          "Crude stays above $90 without US-Iran progress",
+          "data/pdfs/20261110_0219_Crude_stays_above_$90_without_US-Iran_progress.pdf"
+        ],
+        [
+          "2026-11-10",
+          "Miller appointment shows Trump is governing from the foxhole",
+          "data/pdfs/20261110_0244_Miller_appointment_shows_Trump_is_governing_from_t.pdf"
+        ],
+        [
+          "2026-11-10",
+          "Red-state victories will create a more diverse Democratic Party",
+          "data/pdfs/20261110_0452_Red-state_victories_will_create_a_more_diverse_Dem.pdf"
+        ],
+        [
+          "2026-11-10",
+          "Donroe Doctrine will survive midterm losses",
+          "data/pdfs/20261110_0834_Donroe_Doctrine_will_survive_midterm_losses.pdf"
+        ],
+        [
+          "2026-11-10",
+          "Nvidia scandal increases odds of stronger export controls",
+          "data/pdfs/20261110_0929_Nvidia_scandal_increases_odds_of_stronger_export_c.pdf"
+        ],
+        [
+          "2026-11-10",
+          "APAC & Japan Conference Call:",
+          "data/pdfs/20261110_1516_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.pdf"
+        ],
+        [
+          "2026-11-10",
+          "APAC & Japan Conference Call: US-Iran talks and the outlook for",
+          "data/pdfs/20261110_1521_APAC_&_Japan_Conference_Call__US-Iran_talks_and_th.pdf"
+        ],
+        [
+          "2026-11-10",
+          "【特別配信】2027年第2四半期にウクライナ・ロシア停戦の可能性上昇",
+          "data/pdfs/20261110_1710_【特別配信】2027年第2四半期にウクライナ・ロシア停戦の可能性上昇.pdf"
+        ],
+        [
+          "2026-11-10",
+          "Indonesian vice president’s exit will widen Prabowo-Jokowi rift",
+          "data/pdfs/20261110_2115_Indonesian_vice_president’s_exit_will_widen_Prabow.pdf"
+        ],
+        [
+          "2026-11-10",
+          "US-Iran escalation is no longer basecase",
+          "data/pdfs/20261110_2227_US-Iran_escalation_is_no_longer_basecase.pdf"
+        ],
+        [
+          "2026-11-11",
+          "EU likely to avoid gas rationing this winter",
+          "data/pdfs/20261111_0156_EU_likely_to_avoid_gas_rationing_this_winter.pdf"
+        ],
+        [
+          "2026-11-11",
+          "Hegseth impeachment to pass House then stall",
+          "data/pdfs/20261111_0159_Hegseth_impeachment_to_pass_House_then_stall.pdf"
+        ],
+        [
+          "2026-11-11",
+          "Turkey's F-35 window closes with Trump",
+          "data/pdfs/20261111_0256_Turkey's_F-35_window_closes_with_Trump.pdf"
+        ],
+        [
+          "2026-11-11",
+          "Data center buildout will weather midterm backlash",
+          "data/pdfs/20261111_0529_Data_center_buildout_will_weather_midterm_backlash.pdf"
+        ],
+        [
+          "2026-11-11",
+          "EG Research Summary in Japanese",
+          "data/pdfs/20261111_1316_EG_Research_Summary_in_Japanese.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261106_1701_Daily_Research_Summary_(in_Japanese)__2026年11月6日.pdf"
+        "data/pdfs/20261106_2218_Russia-Ukraine_ceasefire_odds_rise_to_35%_in_2027.pdf",
+        "data/pdfs/20261107_0056_Oil_prices_to_remain_high_despite_crude_recovery.pdf",
+        "data/pdfs/20261107_0206_Democrats_will_investigate_defense,_tech,_finance.pdf",
+        "data/pdfs/20261107_0343_Aggressive_retaliation_likely_if_US_attacks.pdf",
+        "data/pdfs/20261107_0528_Bahrain__Bailout_will_cement_pivot_to_UAE.pdf",
+        "data/pdfs/20261107_0702_Israel__Opposition-led_government_now_likely.pdf",
+        "data/pdfs/20261109_1001_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.pdf",
+        "data/pdfs/20261109_1201_EG_Research_Summary_in_Japanese.pdf",
+        "data/pdfs/20261109_2222_Continued_conflicts_to_keep_oil_prices_elevated_wi.pdf",
+        "data/pdfs/20261110_0219_Crude_stays_above_$90_without_US-Iran_progress.pdf",
+        "data/pdfs/20261110_0244_Miller_appointment_shows_Trump_is_governing_from_t.pdf",
+        "data/pdfs/20261110_0452_Red-state_victories_will_create_a_more_diverse_Dem.pdf",
+        "data/pdfs/20261110_0834_Donroe_Doctrine_will_survive_midterm_losses.pdf",
+        "data/pdfs/20261110_0929_Nvidia_scandal_increases_odds_of_stronger_export_c.pdf",
+        "data/pdfs/20261110_1516_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.pdf",
+        "data/pdfs/20261110_1521_APAC_&_Japan_Conference_Call__US-Iran_talks_and_th.pdf",
+        "data/pdfs/20261110_1710_【特別配信】2027年第2四半期にウクライナ・ロシア停戦の可能性上昇.pdf",
+        "data/pdfs/20261110_2115_Indonesian_vice_president’s_exit_will_widen_Prabow.pdf",
+        "data/pdfs/20261110_2227_US-Iran_escalation_is_no_longer_basecase.pdf",
+        "data/pdfs/20261111_0156_EU_likely_to_avoid_gas_rationing_this_winter.pdf",
+        "data/pdfs/20261111_0159_Hegseth_impeachment_to_pass_House_then_stall.pdf",
+        "data/pdfs/20261111_0256_Turkey's_F-35_window_closes_with_Trump.pdf",
+        "data/pdfs/20261111_0529_Data_center_buildout_will_weather_midterm_backlash.pdf",
+        "data/pdfs/20261111_1316_EG_Research_Summary_in_Japanese.pdf"
+      ]
+    },
+    {
+      "sender": "Eurasia",
+      "short": "EURAS",
+      "color": "YEL",
+      "count": 2,
+      "bullets": [
+        "石油価格は米国とイランの交渉進展がない限り、90ドル以下への下落の可能性は低い状況",
+        "データセンター建設に対する政治的反発を受け、各州が建設禁止ではなく条件付きで対応する方針に転換",
+        "エヌビディアのスキャンダルにより同社のチップ規制ロビー活動が弱体化し、より強い輸出統制法案が可決される可能性が上昇"
+      ],
+      "subjects": [
+        [
+          "2026-11-10",
+          "Daily Research Summary - Nov 9th, 2026",
+          "data/pdfs/20261110_0835_Daily_Research_Summary_-_Nov_9th,_2026.pdf"
+        ],
+        [
+          "2026-11-11",
+          "Daily Research Summary - Nov 10th, 2026",
+          "data/pdfs/20261111_0834_Daily_Research_Summary_-_Nov_10th,_2026.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261110_0835_Daily_Research_Summary_-_Nov_9th,_2026.pdf",
+        "data/pdfs/20261111_0834_Daily_Research_Summary_-_Nov_10th,_2026.pdf"
+      ]
+    },
+    {
+      "sender": "Gregory",
+      "short": "GREGO",
+      "color": "RED",
+      "count": 1,
+      "bullets": [
+        "米国のイラン紛争激化の可能性が低下し、年末までのエスカレーション確率が60%から30%に低下",
+        "米国がブロケード及び制裁の現状維持に注力する確率が30%から60%に上昇",
+        "米国とイランによる海峡再開に関する限定的合意の可能性は10%のまま据え置き",
+        "トランプ大統領の中間選挙後の政治的制約増加に基づき、エスカレーション局面は閉鎖"
+      ],
+      "subjects": [
+        [
+          "2026-11-10",
+          "Iran: Political window for US escalation has closed",
+          "data/pdfs/20261110_0619_Iran__Political_window_for_US_escalation_has_close.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261110_0619_Iran__Political_window_for_US_escalation_has_close.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "YEL",
+      "color": "ORG",
       "count": 8,
       "bullets": [
-        "EUがウクライナ平和交渉の代表者選出と米国との関係リセットを検討中",
-        "北極海航路の実用性に課題があり、欧州内の爆弾脅迫事件やドイツの自動車産業規制撤廃要求が発生",
-        "スペインの極右政党Voxがブエノスアイレスからワシントンまで国際的な極右ネットワークを構築し、ブリュッセルで影響力拡大",
-        "エストニア首相がプーチン政権への交渉ではなく対ロシア制裁強化をEUに要求",
-        "ポーランドとイタリアがEUの炭素価格制度改革案を弱体化させようとする動き"
+        "アブダビでのウクライナ交渉にEU官僚は参加せず、周辺での影響力行使を試みるにとどまる状況",
+        "スペイン11月29日総選挙で右派勢力の勝利が予想され、カタルーニャ独立運動の再燃のリスク",
+        "Nvidiaをめぐる中国スパイ疑惑が浮上しても、欧州は代替となる国産チップメーカーがなく依存継続を余儀なくされる状況",
+        "EU自動車パッケージ協議で2035年排出削減目標と代替燃料投資メカニズムについて加盟国間の意見対立が続く膠着状態",
+        "ドイツの電動車補助金が需要増で予算枯渇が加速し、2027年末までの終了を余儀なくされる可能性"
       ],
       "subjects": [
         [
-          "2026-11-06",
-          "EU eyes a Washington reset",
-          "data/pdfs/20261106_1439_EU_eyes_a_Washington_reset.pdf"
+          "2026-11-10",
+          "Who’s who for Europe at the Ukraine talks in Abu Dhabi",
+          "data/pdfs/20261110_1736_Who’s_who_for_Europe_at_the_Ukraine_talks_in_Abu_D.pdf"
         ],
         [
-          "2026-11-06",
-          "The EU’s Arctic shipping mirage",
-          "data/pdfs/20261106_1502_The_EU’s_Arctic_shipping_mirage.pdf"
+          "2026-11-10",
+          "Return of Spanish right risks reigniting Catalan separatist flame",
+          "data/pdfs/20261110_1849_Return_of_Spanish_right_risks_reigniting_Catalan_s.pdf"
         ],
         [
-          "2026-11-06",
-          "From Madrid to MAGA: How Spain’s Vox forged a right-wing",
-          "data/pdfs/20261106_1736_From_Madrid_to_MAGA__How_Spain’s_Vox_forged_a_righ.pdf"
+          "2026-11-10",
+          "Europe needs Nvidia. It’ll take more than a spy scandal to change",
+          "data/pdfs/20261110_2005_Europe_needs_Nvidia._It’ll_take_more_than_a_spy_sc.pdf"
         ],
         [
-          "2026-11-06",
-          "Don’t try to ‘please the dictator,’ Estonian leader urges Europe",
-          "data/pdfs/20261106_1905_Don’t_try_to_‘please_the_dictator,’_Estonian_leade.pdf"
+          "2026-11-10",
+          "Auto package goes before EU ambassadors to break impasse",
+          "data/pdfs/20261110_2231_Auto_package_goes_before_EU_ambassadors_to_break_i.pdf"
         ],
         [
-          "2026-11-06",
-          "Document: Poland, Italy lead resistance to ETS review",
-          "data/pdfs/20261106_1939_Document__Poland,_Italy_lead_resistance_to_ETS_rev.pdf"
+          "2026-11-11",
+          "Surge in EV demand blows past German government’s subsidy",
+          "data/pdfs/20261111_0125_Surge_in_EV_demand_blows_past_German_government’s_.pdf"
         ],
         [
-          "2026-11-06",
-          "EU budget battle paralyzes Brussels on AI chips, the Arctic and",
-          "data/pdfs/20261106_2005_EU_budget_battle_paralyzes_Brussels_on_AI_chips,_t.pdf"
+          "2026-11-11",
+          "Pro Daily Headlines",
+          "data/pdfs/20261111_0131_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-11-06",
-          "Ursula von der Leyen to visit Black Sea amid wave of deadly drone",
-          "data/pdfs/20261106_2005_Ursula_von_der_Leyen_to_visit_Black_Sea_amid_wave_.pdf"
+          "2026-11-11",
+          "Document: Brussels wants power to enforce consumer rules on",
+          "data/pdfs/20261111_0337_Document__Brussels_wants_power_to_enforce_consumer.pdf"
         ],
         [
-          "2026-11-06",
-          "Mélenchon squares up to Brussels in election manifesto",
-          "data/pdfs/20261106_2150_Mélenchon_squares_up_to_Brussels_in_election_manif.pdf"
+          "2026-11-11",
+          "Turkey-Greece maritime spat threatens to spill into EU summit",
+          "data/pdfs/20261111_1201_Turkey-Greece_maritime_spat_threatens_to_spill_int.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261106_1439_EU_eyes_a_Washington_reset.pdf",
-        "data/pdfs/20261106_1502_The_EU’s_Arctic_shipping_mirage.pdf",
-        "data/pdfs/20261106_1736_From_Madrid_to_MAGA__How_Spain’s_Vox_forged_a_righ.pdf",
-        "data/pdfs/20261106_1905_Don’t_try_to_‘please_the_dictator,’_Estonian_leade.pdf",
-        "data/pdfs/20261106_1939_Document__Poland,_Italy_lead_resistance_to_ETS_rev.pdf",
-        "data/pdfs/20261106_2005_EU_budget_battle_paralyzes_Brussels_on_AI_chips,_t.pdf",
-        "data/pdfs/20261106_2005_Ursula_von_der_Leyen_to_visit_Black_Sea_amid_wave_.pdf",
-        "data/pdfs/20261106_2150_Mélenchon_squares_up_to_Brussels_in_election_manif.pdf"
+        "data/pdfs/20261110_1736_Who’s_who_for_Europe_at_the_Ukraine_talks_in_Abu_D.pdf",
+        "data/pdfs/20261110_1849_Return_of_Spanish_right_risks_reigniting_Catalan_s.pdf",
+        "data/pdfs/20261110_2005_Europe_needs_Nvidia._It’ll_take_more_than_a_spy_sc.pdf",
+        "data/pdfs/20261110_2231_Auto_package_goes_before_EU_ambassadors_to_break_i.pdf",
+        "data/pdfs/20261111_0125_Surge_in_EV_demand_blows_past_German_government’s_.pdf",
+        "data/pdfs/20261111_0131_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20261111_0337_Document__Brussels_wants_power_to_enforce_consumer.pdf",
+        "data/pdfs/20261111_1201_Turkey-Greece_maritime_spat_threatens_to_spill_int.pdf"
+      ]
+    },
+    {
+      "sender": "ジェトロ",
+      "short": "ジェトロ",
+      "color": "GRN",
+      "count": 1,
+      "bullets": [
+        "ジェトロが12月2日にニューヨーク、北京、バンコク、ニューデリーの事務所長による「2027年世界経済の展望」セミナーを開催",
+        "セミナー終了後、海外事務所長やジェトロ職員との交流・情報交換会を実施予定",
+        "ジェトロメンバーズは1口につき先着2名まで無料、3名以上は1人4,000円（税込）",
+        "申込締切は11月25日17:00で、会員割引コードの入力が必要"
+      ],
+      "subjects": [
+        [
+          "2026-11-10",
+          "【ジェトロ・メンバーズ 重要なお知らせ】12月2日開催有料セミナー・",
+          "data/pdfs/20261110_1321_【ジェトロ・メンバーズ_重要なお知らせ】12月2日開催有料セミナー・交流会のご案内および「会員割引コ.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261110_1321_【ジェトロ・メンバーズ_重要なお知らせ】12月2日開催有料セミナー・交流会のご案内および「会員割引コ.pdf"
+      ]
+    },
+    {
+      "sender": "ビジネス短信",
+      "short": "ビジネス短",
+      "color": "PRP",
+      "count": 3,
+      "bullets": [
+        "中国製造業が海外展開を加速し、タイ、ガイアナ、UAEなどアジア・中東地域での事業拡大進展",
+        "中国造船業が世界新規受注の8割超を占めるなど、高度な製造技術による競争力強化と生産能力増強",
+        "シリア復興事業への中国企業参入、L4自動運転トラックの量産開始、BYDの国連グローバル・コンパクト加盟など、中国企業による先端技術・新事業領域への積極進出",
+        "CATL・ドイツINTILION協力による欧州での蓄電システム導入、トヨタ・米シカゴ大学の量子技術共同研究、ホンダの米国への30億ドル投資など、日中企業による次世代技術・グリーンエネルギー分野での国際連携強化",
+        "インドネシアの経済好調と課題並存、インドの医療技術開発の国際評価獲得、アジア全域でのインフラ整備・経済改革推進による地域全体の成長加速"
+      ],
+      "subjects": [
+        [
+          "2026-11-09",
+          "「ジェトロ・ビジネス短信」2026/11/06付",
+          "data/pdfs/20261109_1015_「ジェトロ・ビジネス短信」2026_11_06付.pdf"
+        ],
+        [
+          "2026-11-10",
+          "「ジェトロ・ビジネス短信」2026/11/09付",
+          "data/pdfs/20261110_1015_「ジェトロ・ビジネス短信」2026_11_09付.pdf"
+        ],
+        [
+          "2026-11-11",
+          "「ジェトロ・ビジネス短信」2026/11/10付",
+          "data/pdfs/20261111_1140_「ジェトロ・ビジネス短信」2026_11_10付.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261109_1015_「ジェトロ・ビジネス短信」2026_11_06付.pdf",
+        "data/pdfs/20261110_1015_「ジェトロ・ビジネス短信」2026_11_09付.pdf",
+        "data/pdfs/20261111_1140_「ジェトロ・ビジネス短信」2026_11_10付.pdf"
       ]
     }
   ]
