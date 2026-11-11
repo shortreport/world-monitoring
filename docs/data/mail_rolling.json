@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-11 13:48 JST",
+  "updated_at": "2026-11-11 13:50 JST",
   "total": 50,
-  "toyota_summary": "China's battery maker CATL and German energy storage firm Intilion are partnering to deploy 3 gigawatt-hours of battery storage systems across Europe, signaling aggressive Chinese expansion into the continent's power infrastructure. Meanwhile, Germany's EV subsidy program is burning through its budget two years ahead of schedule, exhausted by surging electric vehicle demand. Both developments point to a widening gap: Chinese companies are building out the supply chain Europe needs to support mass EV adoption, while European governments are running short of cash to actually buy the vehicles.\n\nFor automakers, this creates a squeeze. Battery costs are falling as Chinese competitors scale up production capacity, which should help margins. But European subsidies—which have been critical to EV affordability and sales volume—are disappearing faster than anyone planned. Dealers and manufacturers betting on subsidy-driven demand face a harsh reset. Separately, EU ambassadors are still deadlocked over an auto package of regulations, leaving the industry in limbo on rules that could reshape competition within months.\n\nWatch whether the EU can agree on the auto package before Ireland's presidency ends in December, and whether any country extends subsidies to prevent a demand cliff.",
+  "toyota_summary": "ドイツのEV補助金、想定を上回るペースで消化——予想以上の需要により、財源は2027年までに枯渇する見通しとなった。購入者は登録ベースの給付リスクに直面しており、自動車各社は資金面の不透明感にもかかわらず、ドイツにおけるEV需要の堅調な拡大が続くと見込んでおくべきである。\n\n2035年排出目標をめぐるEU内の協議は膠着状態が続いている。完全撤廃案とオフセットを伴う90%削減案との間で合意形成に至っておらず、この結論次第で業界全体のコンプライアンス戦略および投資計画の方向性が左右されることになる。\n\n鉄道安全に関する動向については、参考情報として記す。",
   "emails": [
     {
       "ts": "20261111_1316",
@@ -11,7 +11,12 @@
       "date_label": "NOV 11  13:16",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261111_1316_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_1201",
@@ -20,18 +25,28 @@
       "pdf": "data/pdfs/20261111_1201_Turkey-Greece_maritime_spat_threatens_to_spill_int.pdf",
       "date_label": "NOV 11  12:01",
       "read_min": 4,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Turkey-Greece maritime spat threatens to spill into EU summit",
+      "html": "data/pdfs/20261111_1201_Turkey-Greece_maritime_spat_threatens_to_spill_int.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_1140",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/11/10付",
       "pdf": "data/pdfs/20261111_1140_「ジェトロ・ビジネス短信」2026_11_10付.pdf",
       "date_label": "NOV 11  11:40",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中国のCATLがドイツのINTILIONと協力し、欧州で3GWh規模の蓄電システム導入を目指してい"
+      "excerpt": "中国のCATLがドイツのINTILIONと協力し、欧州で3GWh規模の蓄電システム導入を目指してい",
+      "subject_en": "JETRO Business Brief November 10, 2026",
+      "html": "data/pdfs/20261111_1140_「ジェトロ・ビジネス短信」2026_11_10付.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261111_1140_「ジェトロ・ビジネス短信」2026_11_10付_en.pdf"
     },
     {
       "ts": "20261111_0834",
@@ -41,7 +56,12 @@
       "date_label": "NOV 11  08:34",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Nov 10th, 2026",
+      "html": "data/pdfs/20261111_0834_Daily_Research_Summary_-_Nov_10th,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_0529",
@@ -51,7 +71,12 @@
       "date_label": "NOV 11  05:29",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Data center buildout will weather midterm backlash",
+      "html": "data/pdfs/20261111_0529_Data_center_buildout_will_weather_midterm_backlash.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_0337",
@@ -61,7 +86,12 @@
       "date_label": "NOV 11  03:37",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Document: Brussels wants power to enforce consumer rules on major EU-wide cases",
+      "html": "data/pdfs/20261111_0337_Document__Brussels_wants_power_to_enforce_consumer.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_0256",
@@ -71,7 +101,12 @@
       "date_label": "NOV 11  02:56",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Turkey's F-35 window closes with Trump",
+      "html": "data/pdfs/20261111_0256_Turkey's_F-35_window_closes_with_Trump.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_0159",
@@ -81,7 +116,12 @@
       "date_label": "NOV 11  01:59",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Hegseth impeachment to pass House then stall",
+      "html": "data/pdfs/20261111_0159_Hegseth_impeachment_to_pass_House_then_stall.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_0156",
@@ -91,7 +131,12 @@
       "date_label": "NOV 11  01:56",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU likely to avoid gas rationing this winter",
+      "html": "data/pdfs/20261111_0156_EU_likely_to_avoid_gas_rationing_this_winter.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_0131",
@@ -111,7 +156,12 @@
       "date_label": "NOV 11  01:25",
       "read_min": 3,
       "toyota": true,
-      "excerpt": "ドイツの電動車補助金制度の予算が予想より早く枯渇し、2029年までの予定が2027年末までに終"
+      "excerpt": "ドイツの電動車補助金制度の予算が予想より早く枯渇し、2029年までの予定が2027年末までに終",
+      "subject_en": "Surge in EV demand blows past German government’s subsidy forecasts",
+      "html": "data/pdfs/20261111_0125_Surge_in_EV_demand_blows_past_German_government’s_.html",
+      "summary_en": "Germany's EV subsidy program is burning through its €2.7 billion budget far faster than planned, with officials now expecting it to be exhausted by the end of 2027 instead of 2029. Demand for electric vehicles has outpaced forecasts, pushing projected 2027 payouts to €1.7 billion versus an original estimate of €803 million, though the government insists it won't shrink the program's overall size. Buyers face added risk since subsidies are only granted upon vehicle registration, not at order time, exposing them to funding uncertainty amid long delivery waits.",
+      "summary_ja": "ドイツの電気自動車(EV)補助金制度は、27億ユーロの予算が想定よりはるかに早く枯渇しつつあり、政府は2029年までとしていた期限を2027年末までに前倒しで使い切ると見込んでいる。EV需要が予想を上回ったことで、2027年の支払額は当初見積もりの8億300万ユーロから17億ユーロに拡大する見通しだが、政府は制度全体の規模を縮小しない方針を示している。補助金は車両登録時にのみ支給され、注文時には確保されないため、納車待ちの長い購入者には資金枯渇のリスクが残る。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261110_2231",
@@ -121,7 +171,12 @@
       "date_label": "NOV 10  22:31",
       "read_min": 3,
       "toyota": true,
-      "excerpt": "アイルランド議長国がEU加盟国の次席大使に自動車パッケージについての政治的指針を求めてお"
+      "excerpt": "アイルランド議長国がEU加盟国の次席大使に自動車パッケージについての政治的指針を求めてお",
+      "subject_en": "Auto package goes before EU ambassadors to break impasse",
+      "html": "data/pdfs/20261110_2231_Auto_package_goes_before_EU_ambassadors_to_break_i.html",
+      "summary_en": "EU talks on the Automotive Package have stalled at the working-party level, prompting Ireland's Council presidency to seek political guidance from member states' deputy ambassadors on key sticking points. Disagreement persists over the 2035 emissions target—some nations want to keep the 100% cut while others back a 90% reduction offset by investments in low-carbon steel, aluminum, and alternative fuels, an approach close to the European Commission's original proposal. The impasse comes despite a Franco-German compromise that helped shape a draft European Parliament position favoring an 87.5% target with various offsets.",
+      "summary_ja": "EUの自動車パッケージを巡る交渉が作業部会レベルで行き詰まったため、議長国アイルランドは加盟国の次席大使らに政治的な方向性を求めている。2035年の排出削減目標について、現行の100%削減維持を望む国がある一方、低炭素鋼材やアルミニウム、代替燃料への投資で相殺する90%削減案を支持する国もあり、意見が割れている。独仏間の妥協案が欧州議会の87.5%削減案策定を後押ししたものの、加盟国間の合意にはなお至っていない。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261110_2227",
@@ -131,7 +186,12 @@
       "date_label": "NOV 10  22:27",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US-Iran escalation is no longer basecase",
+      "html": "data/pdfs/20261110_2227_US-Iran_escalation_is_no_longer_basecase.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261110_2115",
@@ -141,7 +201,12 @@
       "date_label": "NOV 10  21:15",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Indonesian vice president’s exit will widen Prabowo-Jokowi rift",
+      "html": "data/pdfs/20261110_2115_Indonesian_vice_president’s_exit_will_widen_Prabow.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261110_2005",
@@ -151,7 +216,12 @@
       "date_label": "NOV 10  20:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe needs Nvidia. It’ll take more than a spy scandal to change that.",
+      "html": "data/pdfs/20261110_2005_Europe_needs_Nvidia._It’ll_take_more_than_a_spy_sc.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261110_1849",
@@ -161,7 +231,12 @@
       "date_label": "NOV 10  18:49",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Return of Spanish right risks reigniting Catalan separatist flame",
+      "html": "data/pdfs/20261110_1849_Return_of_Spanish_right_risks_reigniting_Catalan_s.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261110_1736",
@@ -171,7 +246,12 @@
       "date_label": "NOV 10  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Who’s who for Europe at the Ukraine talks in Abu Dhabi",
+      "html": "data/pdfs/20261110_1736_Who’s_who_for_Europe_at_the_Ukraine_talks_in_Abu_D.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261110_1710",
@@ -181,7 +261,12 @@
       "date_label": "NOV 10  17:10",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "【特別配信】2027年第2四半期にウクライナ・ロシア停戦の可能性上昇",
+      "html": "data/pdfs/20261110_1710_【特別配信】2027年第2四半期にウクライナ・ロシア停戦の可能性上昇.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261110_1521",
@@ -191,7 +276,12 @@
       "date_label": "NOV 10  15:21",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: US-Iran talks and the outlook for escalation",
+      "html": "data/pdfs/20261110_1521_APAC_&_Japan_Conference_Call__US-Iran_talks_and_th.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261110_1516",
@@ -200,6 +290,41 @@
       "pdf": "data/pdfs/20261110_1516_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.pdf",
       "date_label": "NOV 10  15:16",
       "read_min": 3,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: 「米国・イラン協議と今後のエスカレーションの見通し」 (同時通訳なし）",
+      "html": "data/pdfs/20261110_1516_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261110_1502",
+      "sender_norm": "POLITICO",
+      "subject": "Rail safety authorities meet in Spanish accident aftermath",
+      "subject_en": "Rail safety authorities meet in Spanish accident aftermath",
+      "html": "data/pdfs/20261110_1502_Rail_safety_authorities_meet_in_Spanish_accident_a.html",
+      "pdf": "data/pdfs/20261110_1502_Rail_safety_authorities_meet_in_Spanish_accident_a.html",
+      "summary_en": "EU rail safety officials convened in Brussels for the Railway Interoperability and Safety Committee, with Spain's deadly Urda crash, which killed 69 people, expected to dominate informal discussions. The accident has renewed scrutiny of signaling gaps across Europe's rail network, as investigators probe why a train continued moving after losing automatic signaling control before colliding with a stationary train. Madrid has formally requested EU assistance with the investigation, intensifying pressure to accelerate deployment of the bloc's ERTMS safety system.",
+      "summary_ja": "EUの鉄道安全当局者がブリュッセルで鉄道相互運用性・安全委員会を開催し、69人が死亡したスペインのウルダ列車事故が非公式協議の焦点となる見通し。この事故により、自動信号制御を失った列車が走行を続け停車中の列車と衝突した経緯が調査されており、欧州鉄道網の信号システムの欠陥に改めて注目が集まっている。マドリード当局はEUに調査協力を正式要請しており、ERTMS安全システムの導入加速を求める圧力が強まっている。",
+      "summary_pdf": "",
+      "date_label": "NOV 10  15:02",
+      "read_min": 9,
+      "toyota": true,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261110_1445",
+      "sender_norm": "POLITICO",
+      "subject": "Austria’s budget olive branch  ",
+      "subject_en": "Austria’s budget olive branch  ",
+      "html": "data/pdfs/20261110_1445_Austria’s_budget_olive_branch.html",
+      "pdf": "data/pdfs/20261110_1445_Austria’s_budget_olive_branch.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "NOV 10  14:45",
+      "read_min": 15,
       "toyota": false,
       "excerpt": ""
     },
@@ -211,16 +336,41 @@
       "date_label": "NOV 10  13:21",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "[JETRO Members - Important Notice] Guidance on Paid Seminar and Networking Event to be Held on December 2nd and Information about \"Member Discount Code\"",
+      "html": "data/pdfs/20261110_1321_【ジェトロ・メンバーズ_重要なお知らせ】12月2日開催有料セミナー・交流会のご案内および「会員割引コ.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261110_1321_【ジェトロ・メンバーズ_重要なお知らせ】12月2日開催有料セミナー・交流会のご案内および「会員割引コ_en.pdf"
     },
     {
       "ts": "20261110_1015",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/11/09付",
       "pdf": "data/pdfs/20261110_1015_「ジェトロ・ビジネス短信」2026_11_09付.pdf",
       "date_label": "NOV 10  10:15",
       "read_min": 1,
-      "toyota": true,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" dated 2026/11/09",
+      "html": "data/pdfs/20261110_1015_「ジェトロ・ビジネス短信」2026_11_09付.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261110_1015_「ジェトロ・ビジネス短信」2026_11_09付_en.pdf"
+    },
+    {
+      "ts": "20261110_1001",
+      "sender_norm": "Eurasia Group",
+      "subject": "APAC & Japan Conference Call: 「米国・イラン協議と今後のエスカレーションの見通し」 (同時通訳なし） - EG Conference Call, REMINDER",
+      "subject_en": "APAC & Japan Conference Call: 「米国・イラン協議と今後のエスカレーションの見通し」 (同時通訳なし） - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261110_1001_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.html",
+      "pdf": "data/pdfs/20261110_1001_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "NOV 10  10:01",
+      "read_min": 3,
+      "toyota": false,
       "excerpt": ""
     },
     {
@@ -231,7 +381,12 @@
       "date_label": "NOV 10  09:29",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Nvidia scandal increases odds of stronger export controls",
+      "html": "data/pdfs/20261110_0929_Nvidia_scandal_increases_odds_of_stronger_export_c.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261110_0835",
@@ -241,7 +396,12 @@
       "date_label": "NOV 10  08:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Nov 9th, 2026",
+      "html": "data/pdfs/20261110_0835_Daily_Research_Summary_-_Nov_9th,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261110_0834",
@@ -251,17 +411,42 @@
       "date_label": "NOV 10  08:34",
       "read_min": 6,
       "toyota": false,
+      "excerpt": "",
+      "subject_en": "Donroe Doctrine will survive midterm losses",
+      "html": "data/pdfs/20261110_0834_Donroe_Doctrine_will_survive_midterm_losses.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261110_0801",
+      "sender_norm": "Eurasia Group",
+      "subject": "Japan Conference Call: 米中間選挙の影響",
+      "subject_en": "Japan Conference Call: 米中間選挙の影響",
+      "html": "data/pdfs/20261110_0801_Japan_Conference_Call__米中間選挙の影響.html",
+      "pdf": "data/pdfs/20261110_0801_Japan_Conference_Call__米中間選挙の影響.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "NOV 10  08:01",
+      "read_min": 1,
+      "toyota": false,
       "excerpt": ""
     },
     {
       "ts": "20261110_0619",
-      "sender_norm": "Gregory",
+      "sender_norm": "Gregory Brew",
       "subject": "Iran: Political window for US escalation has closed",
       "pdf": "data/pdfs/20261110_0619_Iran__Political_window_for_US_escalation_has_close.pdf",
       "date_label": "NOV 10  06:19",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iran: Political window for US escalation has closed",
+      "html": "data/pdfs/20261110_0619_Iran__Political_window_for_US_escalation_has_close.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261110_0452",
@@ -270,6 +455,26 @@
       "pdf": "data/pdfs/20261110_0452_Red-state_victories_will_create_a_more_diverse_Dem.pdf",
       "date_label": "NOV 10  04:52",
       "read_min": 5,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Red-state victories will create a more diverse Democratic Party",
+      "html": "data/pdfs/20261110_0452_Red-state_victories_will_create_a_more_diverse_Dem.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261110_0355",
+      "sender_norm": "POLITICO",
+      "subject": "EU offers cash for Black Sea attack response",
+      "subject_en": "EU offers cash for Black Sea attack response",
+      "html": "data/pdfs/20261110_0355_EU_offers_cash_for_Black_Sea_attack_response.html",
+      "pdf": "data/pdfs/20261110_0355_EU_offers_cash_for_Black_Sea_attack_response.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "NOV 10  03:55",
+      "read_min": 4,
       "toyota": false,
       "excerpt": ""
     },
@@ -281,7 +486,12 @@
       "date_label": "NOV 10  02:44",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Miller appointment shows Trump is governing from the foxhole",
+      "html": "data/pdfs/20261110_0244_Miller_appointment_shows_Trump_is_governing_from_t.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261110_0219",
@@ -290,6 +500,26 @@
       "pdf": "data/pdfs/20261110_0219_Crude_stays_above_$90_without_US-Iran_progress.pdf",
       "date_label": "NOV 10  02:19",
       "read_min": 3,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Crude stays above $90 without US-Iran progress",
+      "html": "data/pdfs/20261110_0219_Crude_stays_above_$90_without_US-Iran_progress.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261110_0144",
+      "sender_norm": "POLITICO",
+      "subject": "France blames Iran for cyberattacks targeting supermarket fridges",
+      "subject_en": "France blames Iran for cyberattacks targeting supermarket fridges",
+      "html": "data/pdfs/20261110_0144_France_blames_Iran_for_cyberattacks_targeting_supe.html",
+      "pdf": "data/pdfs/20261110_0144_France_blames_Iran_for_cyberattacks_targeting_supe.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "NOV 10  01:44",
+      "read_min": 1,
       "toyota": false,
       "excerpt": ""
     },
@@ -301,6 +531,131 @@
       "date_label": "NOV 9  22:22",
       "read_min": 8,
       "toyota": false,
+      "excerpt": "",
+      "subject_en": "Continued conflicts to keep oil prices elevated with diesel supply remaining tight",
+      "html": "data/pdfs/20261109_2222_Continued_conflicts_to_keep_oil_prices_elevated_wi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261109_2153",
+      "sender_norm": "Ian Bremmer",
+      "subject": "eg update",
+      "subject_en": "eg update",
+      "html": "data/pdfs/20261109_2153_eg_update.html",
+      "pdf": "data/pdfs/20261109_2153_eg_update.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "NOV 9  21:53",
+      "read_min": 15,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261109_2138",
+      "sender_norm": "POLITICO",
+      "subject": "EU countries wary of Commission’s corporate fleet data collection push",
+      "subject_en": "EU countries wary of Commission’s corporate fleet data collection push",
+      "html": "data/pdfs/20261109_2138_EU_countries_wary_of_Commission’s_corporate_fleet_.html",
+      "pdf": "data/pdfs/20261109_2138_EU_countries_wary_of_Commission’s_corporate_fleet_.html",
+      "summary_en": "EU member states are pushing back on the European Commission's proposed corporate fleet electrification regulation, citing a lack of access to vehicle and company data needed to track progress toward mandatory targets. Ireland's Council presidency has suggested creating a forum for member states to share best practices on data collection, as diplomats debate the issue this week. With a blocking minority already opposing binding targets in Council and Parliament favoring aspirational goals instead, the regulation's mandatory provisions face significant headwinds.",
+      "summary_ja": "EU加盟国は、欧州委員会が提案する法人車両の電動化規制に対し、義務目標の達成状況を把握するために必要な車両・企業データへのアクセスが不十分だとして難色を示している。アイルランドの理事会議長国は、データ収集に関するベストプラクティスを共有する場の設置を提案しており、今週の作業部会で各国の経験やコストについて議論される見通しだ。理事会ではすでに義務目標に反対する阻止少数派が存在し、欧州議会も拘束力のある目標ではなく努力目標を志向しており、規制の義務的な部分は実現が厳しい状況にある。",
+      "summary_pdf": "",
+      "date_label": "NOV 9  21:38",
+      "read_min": 2,
+      "toyota": true,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261109_2106",
+      "sender_norm": "POLITICO",
+      "subject": "Painting bleak picture of France, Olympic icon Teddy Riner announces presidential run",
+      "subject_en": "Painting bleak picture of France, Olympic icon Teddy Riner announces presidential run",
+      "html": "data/pdfs/20261109_2106_Painting_bleak_picture_of_France,_Olympic_icon_Ted.html",
+      "pdf": "data/pdfs/20261109_2106_Painting_bleak_picture_of_France,_Olympic_icon_Ted.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "NOV 9  21:06",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261109_2007",
+      "sender_norm": "POLITICO",
+      "subject": "Disposable: The ordinary people doing Russia’s dirty work",
+      "subject_en": "Disposable: The ordinary people doing Russia’s dirty work",
+      "html": "data/pdfs/20261109_2007_Disposable__The_ordinary_people_doing_Russia’s_dir.html",
+      "pdf": "data/pdfs/20261109_2007_Disposable__The_ordinary_people_doing_Russia’s_dir.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "NOV 9  20:07",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261109_1838",
+      "sender_norm": "POLITICO",
+      "subject": "Putin may not want peace, warns Norwegian leader who spoke to him ",
+      "subject_en": "Putin may not want peace, warns Norwegian leader who spoke to him ",
+      "html": "data/pdfs/20261109_1838_Putin_may_not_want_peace,_warns_Norwegian_leader_w.html",
+      "pdf": "data/pdfs/20261109_1838_Putin_may_not_want_peace,_warns_Norwegian_leader_w.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "NOV 9  18:38",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261109_1736",
+      "sender_norm": "POLITICO",
+      "subject": "The Kremlin call: How talking to Putin exposed Europe’s deepest rift over Ukraine",
+      "subject_en": "The Kremlin call: How talking to Putin exposed Europe’s deepest rift over Ukraine",
+      "html": "data/pdfs/20261109_1736_The_Kremlin_call__How_talking_to_Putin_exposed_Eur.html",
+      "pdf": "data/pdfs/20261109_1736_The_Kremlin_call__How_talking_to_Putin_exposed_Eur.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "NOV 9  17:36",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261109_1503",
+      "sender_norm": "POLITICO",
+      "subject": "Future of shipping decarbonization",
+      "subject_en": "Future of shipping decarbonization",
+      "html": "data/pdfs/20261109_1503_Future_of_shipping_decarbonization.html",
+      "pdf": "data/pdfs/20261109_1503_Future_of_shipping_decarbonization.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "NOV 9  15:03",
+      "read_min": 9,
+      "toyota": true,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261109_1444",
+      "sender_norm": "POLITICO",
+      "subject": "Le Pen’s plan to shrink EU diplomacy",
+      "subject_en": "Le Pen’s plan to shrink EU diplomacy",
+      "html": "data/pdfs/20261109_1444_Le_Pen’s_plan_to_shrink_EU_diplomacy.html",
+      "pdf": "data/pdfs/20261109_1444_Le_Pen’s_plan_to_shrink_EU_diplomacy.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "NOV 9  14:44",
+      "read_min": 15,
+      "toyota": false,
       "excerpt": ""
     },
     {
@@ -311,17 +666,27 @@
       "date_label": "NOV 9  12:01",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261109_1201_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261109_1015",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/11/06付",
       "pdf": "data/pdfs/20261109_1015_「ジェトロ・ビジネス短信」2026_11_06付.pdf",
       "date_label": "NOV 9  10:15",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "中国の製造業各社が海外展開を加速しており、精鍛科技がタイでロボット部品の量産化に追加投資"
+      "excerpt": "中国の製造業各社が海外展開を加速しており、精鍛科技がタイでロボット部品の量産化に追加投資",
+      "subject_en": "\"JETRO Business Brief\" November 6, 2026",
+      "html": "data/pdfs/20261109_1015_「ジェトロ・ビジネス短信」2026_11_06付.html",
+      "summary_en": "Thailand's auto sector showed diverging trends in September, with production down 6.1% year-on-year while domestic sales rose 14.3%; two-wheeler output also fell 4.8% even as local sales climbed 12.6%. Meanwhile, Indonesia's industry ministry is weighing expanded tax incentives for hybrids, plug-in hybrids and range-extender EVs, though officials remain divided on broadening eligibility.",
+      "summary_ja": "タイでは9月の自動車生産が前年同月比6.1％減少した一方、国内販売は14.3％増加し、二輪車も生産減・販売増という対照的な動きとなった。一方インドネシアでは工業省がHV・PHEV・REEVへの優遇策拡大を検討しているが、対象拡大の是非を巡っては賛否が分かれている。",
+      "summary_pdf": "data/pdfs/20261109_1015_「ジェトロ・ビジネス短信」2026_11_06付_en.pdf"
     },
     {
       "ts": "20261109_1001",
@@ -331,7 +696,12 @@
       "date_label": "NOV 9  10:01",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: 「米国・イラン協議と今後のエスカレーションの見通し」 (同時通訳なし） - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261109_1001_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261107_0702",
@@ -362,201 +732,7 @@
       "read_min": 4,
       "toyota": false,
       "excerpt": ""
-    },
-    {
-      "ts": "20261107_0206",
-      "sender_norm": "Eurasia Group",
-      "subject": "Democrats will investigate defense, tech, finance",
-      "pdf": "data/pdfs/20261107_0206_Democrats_will_investigate_defense,_tech,_finance.pdf",
-      "date_label": "NOV 7  02:06",
-      "read_min": 6,
-      "toyota": false,
-      "excerpt": ""
-    },
-    {
-      "ts": "20261107_0056",
-      "sender_norm": "Eurasia Group",
-      "subject": "Oil prices to remain high despite crude recovery",
-      "pdf": "data/pdfs/20261107_0056_Oil_prices_to_remain_high_despite_crude_recovery.pdf",
-      "date_label": "NOV 7  00:56",
-      "read_min": 5,
-      "toyota": true,
-      "excerpt": ""
-    },
-    {
-      "ts": "20261106_2218",
-      "sender_norm": "Eurasia Group",
-      "subject": "Russia-Ukraine ceasefire odds rise to 35% in 2027",
-      "pdf": "data/pdfs/20261106_2218_Russia-Ukraine_ceasefire_odds_rise_to_35%_in_2027.pdf",
-      "date_label": "NOV 6  22:18",
-      "read_min": 11,
-      "toyota": false,
-      "excerpt": ""
-    },
-    {
-      "ts": "20261106_2150",
-      "sender_norm": "POLITICO",
-      "subject": "Mélenchon squares up to Brussels in election manifesto",
-      "pdf": "data/pdfs/20261106_2150_Mélenchon_squares_up_to_Brussels_in_election_manif.pdf",
-      "date_label": "NOV 6  21:50",
-      "read_min": 3,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Mélenchon squares up to Brussels in election manifesto",
-      "html": "data/pdfs/20261106_2150_Mélenchon_squares_up_to_Brussels_in_election_manif.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261106_2005",
-      "sender_norm": "POLITICO",
-      "subject": "EU budget battle paralyzes Brussels on AI chips, the Arctic and",
-      "pdf": "data/pdfs/20261106_2005_EU_budget_battle_paralyzes_Brussels_on_AI_chips,_t.pdf",
-      "date_label": "NOV 6  20:05",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EU budget battle paralyzes Brussels on AI chips, the Arctic and agriculture",
-      "html": "data/pdfs/20261106_2005_EU_budget_battle_paralyzes_Brussels_on_AI_chips,_t.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261106_1939",
-      "sender_norm": "POLITICO",
-      "subject": "Document: Poland, Italy lead resistance to ETS review",
-      "pdf": "data/pdfs/20261106_1939_Document__Poland,_Italy_lead_resistance_to_ETS_rev.pdf",
-      "date_label": "NOV 6  19:39",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Document: Poland, Italy lead resistance to ETS review",
-      "html": "data/pdfs/20261106_1939_Document__Poland,_Italy_lead_resistance_to_ETS_rev.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261106_1905",
-      "sender_norm": "POLITICO",
-      "subject": "Don’t try to ‘please the dictator,’ Estonian leader urges Europe",
-      "pdf": "data/pdfs/20261106_1905_Don’t_try_to_‘please_the_dictator,’_Estonian_leade.pdf",
-      "date_label": "NOV 6  19:05",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Don’t try to ‘please the dictator,’ Estonian leader urges Europe about Putin",
-      "html": "data/pdfs/20261106_1905_Don’t_try_to_‘please_the_dictator,’_Estonian_leade.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261106_1736",
-      "sender_norm": "POLITICO",
-      "subject": "From Madrid to MAGA: How Spain’s Vox forged a right-wing",
-      "pdf": "data/pdfs/20261106_1736_From_Madrid_to_MAGA__How_Spain’s_Vox_forged_a_righ.pdf",
-      "date_label": "NOV 6  17:36",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "From Madrid to MAGA: How Spain’s Vox forged a right-wing network with global reach",
-      "html": "data/pdfs/20261106_1736_From_Madrid_to_MAGA__How_Spain’s_Vox_forged_a_righ.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261106_1701",
-      "sender_norm": "Eurasia Group",
-      "subject": "Daily Research Summary (in Japanese): 2026年11月6日",
-      "pdf": "data/pdfs/20261106_1701_Daily_Research_Summary_(in_Japanese)__2026年11月6日.pdf",
-      "date_label": "NOV 6  17:01",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Daily Research Summary (in Japanese): 2026年11月6日",
-      "html": "data/pdfs/20261106_1701_Daily_Research_Summary_(in_Japanese)__2026年11月6日.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261106_1502",
-      "sender_norm": "POLITICO",
-      "subject": "The EU’s Arctic shipping mirage",
-      "pdf": "data/pdfs/20261106_1502_The_EU’s_Arctic_shipping_mirage.pdf",
-      "date_label": "NOV 6  15:02",
-      "read_min": 11,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "The EU’s Arctic shipping mirage",
-      "html": "data/pdfs/20261106_1502_The_EU’s_Arctic_shipping_mirage.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261106_1439",
-      "sender_norm": "POLITICO",
-      "subject": "EU eyes a Washington reset",
-      "pdf": "data/pdfs/20261106_1439_EU_eyes_a_Washington_reset.pdf",
-      "date_label": "NOV 6  14:39",
-      "read_min": 15,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EU eyes a Washington reset",
-      "html": "data/pdfs/20261106_1439_EU_eyes_a_Washington_reset.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261106_1401",
-      "sender_norm": "POLITICO",
-      "subject": "EU staffing crunch hinders response to Chinese trade pressure",
-      "pdf": "data/pdfs/20261106_1401_EU_staffing_crunch_hinders_response_to_Chinese_tra.pdf",
-      "date_label": "NOV 6  14:01",
-      "read_min": 6,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EU staffing crunch hinders response to Chinese trade pressure",
-      "html": "data/pdfs/20261106_1401_EU_staffing_crunch_hinders_response_to_Chinese_tra.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261106_1006",
-      "sender_norm": "Jetro",
-      "subject": "「ジェトロ・ビジネス短信」2026/11/05付",
-      "pdf": "data/pdfs/20261106_1006_「ジェトロ・ビジネス短信」2026_11_05付.pdf",
-      "date_label": "NOV 6  10:06",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" dated 2026/11/05",
-      "html": "data/pdfs/20261106_1006_「ジェトロ・ビジネス短信」2026_11_05付.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": "data/pdfs/20261106_1006_「ジェトロ・ビジネス短信」2026_11_05付_en.pdf"
-    },
-    {
-      "ts": "20261106_1001",
-      "sender_norm": "Eurasia Group",
-      "subject": "APAC & Japan Conference Call:",
-      "pdf": "data/pdfs/20261106_1001_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.pdf",
-      "date_label": "NOV 6  10:01",
-      "read_min": 3,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "APAC & Japan Conference Call: 「米国・イラン協議と今後のエスカレーションの見通し」 (同時通訳なし） - EG Conference Call, REMINDER",
-      "html": "data/pdfs/20261106_1001_APAC_&_Japan_Conference_Call__「米国・イラン協議と今後のエスカレーショ.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "German EV subsidies are being consumed faster than planned, with funds now projected to run out by 2027 due to stronger-than-expected demand. Buyers face registration-based payout risk, and automakers should expect continued strong EV uptake in Germany despite funding uncertainty.\n\nEU talks on the 2035 emissions target remain deadlocked, with no consensus between full phase-out and a 90% cut with offsets. The outcome will shape compliance strategy and investment planning across the industry.\n\nRail safety developments are provided for reference."
 }
