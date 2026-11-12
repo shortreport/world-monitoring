@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12 22:36:00",
+  "generated_at": "2026-11-13 06:21:53",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-12 22:35:16",
+      "last_checked": "2026-11-13 06:21:02",
       "items": [
+        {
+          "uid": "1f032968aa45",
+          "date": "2026-11-12",
+          "title": "China’s tech transfer crackdown sets up clash with EU rules - fDi Intelligence",
+          "summary": "中国が技術移転規制を強化する中、EU産業競争力維持の名目で制定された産業加速法案（IAA）は、技術流出防止と産業保護の観点から中国の規制との対立を招く可能性がある。IAAが外国投資審査や産業政策の強化を進めることで、中国側の報復措置につながる恐れがある。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR00zeFIwS0RmVzREYldZMHlIMXVRTFc4NEFRSmkwSTVYd0E1akVoT2JtbVdEcTlrajE0WkVSSTI2MnhPR3F4RXNlQ0ZkR0ZlRm41a3BEWFJvSXpZa01QNDJ5cWY3ZGdXZ0RhZ3BTWjhneVdPeHV2Vmp2R3lIZGUwcm1n?oc=5",
+          "added_at": "2026-11-13 06:21:00"
+        },
         {
           "uid": "026d7011e1e3",
           "date": "2026-09-07",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXlBOE1QOU1MMlhrWFFKdllPeEthU000Z29xd3gwb2QweXNjZVpKM01kSWJiWXlwMjNGTG1waFNzd29UNUV2MURtaGlGUHgwaWo4U2M4UENhNGlYVHBORzE5alY5bnlaRWRmd1o2Q0ZXajVHUjR5LWJKeUFiMkFPYWk3R0lZS2YtR29XZmFfczVVdVdtS1o0MUFzUTZxZUJG?oc=5",
           "added_at": "2026-09-10 16:36:15"
-        },
-        {
-          "uid": "a1d971500559",
-          "date": "2026-09-10",
-          "title": "Korea, EU seek stronger supply chain ties as industry rules evolve - The Korea Times",
-          "summary": "韓国と欧州連合は、欧州産業加速法案により産業規制が進化する中で、サプライチェーンの連携を強化する必要性に直面している。この協力を通じて、韓国企業は欧州市場へのアクセスを維持しつつ、IAAの厳格な基準に適応することが可能となる。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0xBWmdwbUVNdTh1VF9zcndaRWNMdWFOQU1NT2pFM2FXbzFSVXFxUkdNcm1IU19iaFZpbEFfcG5Kc0xOeWY4M0d3emxPZWRuLV9LUC1qVXo4MFN4QlRPTGZZVG9pTXM4bS1oYXJpRmttdGM0cWVrOVY3dEFsZUswOXZUN0psUVlBSlBkTDBlemdhQWtiZzhxSkphVFpoT2xwNVhuN1FMRFFyX2dNVmxfRkdqamNQUlYxUGfSAb8BQVVfeXFMTWItdmZqZFo2QjE5cHJGUnd4TkZJSXRxem9xNWpuZU03NWFSNm1la3FhdXJmSzZ5em81TF9TdTRZNmlwZ21jRzF1QUpkd3g5MS1yOERmYzhLMG05NXVNaU9yOF9MVGlHX3ZraTVoUDhiaFFlcGR1ODFTZF9iMFRSNWRJR05DRWdadVRXeGlTeGZ6SHhnN1dNYU1BS2JITnYtNmFka1JGdnV4Y0ROTjZ1Si1iV1JxbTZrelEzU2dXU1k?oc=5",
-          "added_at": "2026-09-10 16:36:15"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-12 22:35:24",
+      "last_checked": "2026-11-13 06:21:12",
       "items": [
         {
           "uid": "06353b5ca44d",
@@ -4030,8 +4030,38 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-12 22:35:38",
+      "last_checked": "2026-11-13 06:21:32",
       "items": [
+        {
+          "uid": "bd4c4b6650e3",
+          "date": "2026-11-12",
+          "title": "Nvidia’s Huang steps down, but Congress still wants answers",
+          "summary": "本記事はNvidiaのCEO辞任に関するものであり、中国レアアース輸出管理とは直接的な関連がありません。記事は主にスパイ疑惑と国家安全保障上の懸念について述べており、レアアース輸出管理政策については言及されていません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/senate/6217057-congress-jensen-huang-nvidia-national-security/",
+          "added_at": "2026-11-13 06:21:27"
+        },
+        {
+          "uid": "694088b8f24f",
+          "date": "2026-11-12",
+          "title": "Live updates: Huang exits Nvidia; Democrat locks down Kansas governor’s mansion",
+          "summary": "申し訳ございませんが、提供いただいた記事の内容（Nvidia CEOの辞任とカンザス州知事選挙）は「中国レアアース輸出管理」に関連する内容を含んでいないため、この文脈での要約はできません。\n\n中国レアアース輸出管理に関する記事の要約をご希望でしたら、該当する記事をお提供ください。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6214786-live-updates-trump-midterms-alaska-congress/",
+          "added_at": "2026-11-13 06:21:27"
+        },
+        {
+          "uid": "2ea5a153c7b5",
+          "date": "2026-11-12",
+          "title": "The Jensen Huang affair exposes corporate America’s China problem",
+          "summary": "中国はインテリジェンス機関、ビジネス関係、産業政策を駆使して数十年にわたりアメリカの技術と商業機密を獲得してきており、これはレアアースを含む戦略的資源の輸出管理強化につながる必要性を示唆している。米国企業のサプライチェーン管理の脆弱性が露呈し、先端技術へのアクセス制限を含むより厳格な対中規制の導入が急務となっている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6213893-nvidia-ceo-jensen-huang-affair/",
+          "added_at": "2026-11-13 06:21:27"
+        },
         {
           "uid": "b5ff4b0ca119",
           "date": "2026-10-05",
@@ -6001,36 +6031,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmZzZWxMYmx5WGZmdEFHVm9oenVXVHFDNG8yanVHLXRWRTltUGRiV2lIMk1RbGdsUXdwaU5rUi1MdWdSb192elMzX0xmTERYV0xqOENlVVRONGhtSHRoRXJzTGVIRUZqakFaWk5CcndEWEhLMzVLeTY5UEVHb1JZNlhsNnpfZUdlVkd5ZW10WThUTEVPUkMtT2d3dXlodkVzb3ktVTNicG1uYkI4czYxaFdrekxHMEFWUmZUM2JtOXFKVG1CYTJMWjNrRQ?oc=5",
           "added_at": "2026-10-08 14:18:15"
-        },
-        {
-          "uid": "0cbedd876e4a",
-          "date": "2026-10-03",
-          "title": "Yttrium Supply Chain Shortage and China Export Controls - Rare Earth Exchanges",
-          "summary": "中国がレアアースの輸出管理を強化する中、イットリウムの供給チェーンが逼迫しており、特に電子機器や防衛産業での需要に対して供給不足が深刻化している。中国の輸出制限政策がイットリウムなどの重要レアアースの国際的な調達を困難にしている。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbDFzX08zdDRHVVV1amFBZWExc253aU1ZQUdDWWp0aEl0ZWhjTG8tNHdNTldrWk5DVjhYYkJ0eU5FaURkSVhObURoNmFGUzF2d0ZQanJCRDhoWlZETVp6U2R1MDFGSGdMcEY0WUxabEN2Y1RTUHhEU25GSklWV05rYnZ2bUg4dw?oc=5",
-          "added_at": "2026-10-08 04:48:18"
-        },
-        {
-          "uid": "98e74252c965",
-          "date": "2026-07-09",
-          "title": "Competing for inputs: how the European Union can improve critical raw materials supply security - Bruegel",
-          "summary": "EUは中国のレアアース輸出管理による供給リスクに対抗するため、戦略的備蓄の構築、採掘・精錬産業の国内強化、サプライチェーン多角化を通じた供給安定化が必要とされている。",
-          "source": "欧州委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMGdPWVNpNDBQVHNlSi05WDlwUzJ3aUpBeVhKRlhPZnRydzZoTzZweTVmQ2JrZmFYazNlelVQaHdPX2ZjRjhqQ0FLRDlvNWNDOExBU3U5SjBQVXdkdjFodERxb0pUZmI3dHRfSGRqemZDQnFWMGtDaEVsNDVRMVpENl9VWDhJSGtqVjRvS2JJSG9RZDN0TEV1OXJZcDhiMFRsbUxLS2tPMUJOTDVYT0owZW5sZ1hqcHI4Sks1RUc0ekw?oc=5",
-          "added_at": "2026-10-08 04:48:18"
-        },
-        {
-          "uid": "21d993e97621",
-          "date": "2026-10-05",
-          "title": "Lynas targets Meteoric rare earth giant - Metal Tech News",
-          "summary": "# 中国レアアース輸出管理に関する要約\n\n申し訳ございませんが、提供いただいたテキストは記事のタイトルのみであり、本文の具体的な内容が含まれていないため、要約することができません。記事の本文をご提供いただければ、中国レアアース輸出管理の文脈で要約させていただきます。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXRPLTdxbG04Q09fZHhHSWI4d0hZOWdHbW5sd0lacWxSbm9Fbkw1dWUxUUZNdFBwa1Y4bnBnT25HOV84Y0VIZnlSN2tYX0RjLWlyTHplVmt5UzFSVmc2QzB4VDA5YjlNYjBOaE9TQ3FyR1ZvU2FvTU05UFI0aUx6SWNLSnRUaVNRVC1yNm01S1dnY2VDTXRfTnc0MWs5STd4SHhiS0FpeUoxN1dq?oc=5",
-          "added_at": "2026-10-07 20:36:57"
         }
       ]
     },
@@ -6041,8 +6041,118 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-12 22:36:00",
+      "last_checked": "2026-11-13 06:21:53",
       "items": [
+        {
+          "uid": "1bb92ba3487f",
+          "date": "2026-09-08",
+          "title": "Trump Administration Blasts Ford's Business Deals With Chinese Firms - U.S. News & World Report",
+          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判しており、自動車メーカーが中国との協業を深める中で、米国政府から政治的圧力が強まっていることを示している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2J2bmhhTi1SckwwUGh3UXA2c3NweXZSa1FnZFpLaUtFelh0cnVyNVJIVjJ1ZW9nNGtqMkQ1dnYtYmFlVzBKVlB4emlpYzkwQkJrN2QzVlhZZ2djNVRZV1VpWExSUVdDR3lOLVQ0U1lfdnUtMTJtSXFmeXc1bFItanZsQVNyYWlpQVh5R0N3Mk9rRG02TUo0RGdfMi1ZRVo1UjYxb25vbl9SSHVVZ3h1Vk5BckNCeE5SU09WRkhaaWY?oc=5",
+          "added_at": "2026-11-13 06:21:39"
+        },
+        {
+          "uid": "1adec55e2cbc",
+          "date": "2026-09-09",
+          "title": "Trump administration blasts Ford's business deals with Chinese firms - Reuters",
+          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判しており、自動車メーカーの対中ビジネス展開が米国の政治的圧力の対象となっていることが示されている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUxxT0xDWVRud1VVVzV3eXRFTDR2eXRmalJ4Uk1qTmNkWmRBYnl6LVBTTUdDMVFJWllPTVlPQm90Y3JMUE5lZF9MMHI1dG4xQ3dpWmhDblFQbUVRek1HYndoSlV6dXgwUEtFYXllb2xvUDZSTTRkLV9nU043bXlQQmozSlotNTExRGxmbUhHZUtMcDVjeTFlaU9hLTdKMktvc0FNSGZFUU9SMFJLRnBQV0dvOXo4T3A4OHlWSENPdU8yWUVkNTFYUWJtWVY?oc=5",
+          "added_at": "2026-11-13 06:21:39"
+        },
+        {
+          "uid": "6a7ee02651b1",
+          "date": "2026-09-08",
+          "title": "Trump admin takes aim at Ford and Farley for Chinese ties - Detroit Free Press",
+          "summary": "トランプ政権はフォード・モーターとその最高経営責任者ファーレイに対し、中国との事業提携を標的とした批判を展開している。これは米国の自動車メーカーが中国市場への依存を強める中での政治的な攻撃である。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnREWEhuUVVTY1Y1ZDdQWE9IaXZSYmlIb2RKcTFyOUxOY05WaEpKZzFoX20zamlfd0FHV3RzQ1RWWGN2MHp1WC1qOVdXVjlsaThzZl8wOF9Zbk1PYXRrTUI4cVhGMG53LXJSajRwdk81bk14Wjl2WTE5WDdXRDdZaEZkY2UtOE5Nc21jY3VtV1R0M0pFTktQRlF3SURUOER1VjdsVlRvakFCWWJ4QzFYSmtFcEJiV3Z4bGZ3akU1QnE5LXJtOVE?oc=5",
+          "added_at": "2026-11-13 06:21:39"
+        },
+        {
+          "uid": "dca555f2bd79",
+          "date": "2026-09-21",
+          "title": "The four issues our experts are watching ahead of this week’s Trump-Xi summit - Atlantic Council",
+          "summary": "申し訳ありませんが、提供いただいたタイトルのみで、記事の具体的な内容が示されていないため、要約することができません。記事本文をご提供いただければ、自動車メーカーの対中提携への政治的批判に関連する部分を要約いたします。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFctOTVXNjZOQlVtRVI1Uk1vcllaQmxicTllVEtGNTQ1MnEtMTR3UnRBS1FRZGJ3OFp5MU9URzRxRGthamUxaGFlWERhTFMwRnhzdzg5VDNNS3UwVE80OUVZblU3X3RyTlFGM0p6WWdvdFRTQURzdko3OEdOMDAyRURhcmZxeEdxOWZWaHpGVEx5VVlWUDR1d183RzM4VU1DdnNzcVNqcmFWcmJGY3pXRVc5ejJveUh1ZUpEZkl0MkZVMWJOV3N2Qw?oc=5",
+          "added_at": "2026-11-13 06:21:39"
+        },
+        {
+          "uid": "abd5c2d89bf8",
+          "date": "2026-11-10",
+          "title": "Trump administration moves to cut food stamps for 6.3 million people - Reuters",
+          "summary": "この記事は自動車メーカーの対中提携に関する内容ではなく、トランプ政権が630万人の食糧補助を削減する政策について報じたものであり、提供された文脈と無関係です。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkdsb19Yam5qLTdpaWR0QnpicVk0M1k2RURwUDZadmlSX3cxRFlfY05vX254WmpXSUZTVU9CMmxHRER2Y0ZwRTlIcnJmcld6bWZYUHE5eTltV25lVFFxM3NTNmh3aVBCbTBZbFBqMFBQbFY1MFA5Y294bDhqSWxEYXJCTF9QanA3VWM0NWcwT05WeVBuZEh4TExJczhzRElHT1JUT3ZuMXU?oc=5",
+          "added_at": "2026-11-13 06:21:39"
+        },
+        {
+          "uid": "4703809e0586",
+          "date": "2026-11-04",
+          "title": "How the Democratic sweep could change US energy policy - Reuters",
+          "summary": "民主党の掃討的勝利により、米国のエネルギー政策は再生可能エネルギーやクリーンテック産業への投資拡大にシフトし、これに伴い自動車メーカーの対中EV提携や中国製バッテリー部品の調達に対する政治的圧力が強まる可能性が高い。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVlEaW9lb05hT0RtOW5tUnZ1Yk5RUXV0aU5sTFlodXZ6T3dnVWdkUHpqdm45VU5mYlZIT1dFcmdCRmo1UmwxUHljMnMzX2w2S3lkMXdHQy1ZZFhCTlkyTTYzejluSF9GdXFoSEdnN0E3NjlSd0xWWEo1NEhzR1VNLWN1U21OamxGS2V6Nk5uTjZjWXAyVHNTVUhCdTJhRGRzR29Tcg?oc=5",
+          "added_at": "2026-11-13 06:21:39"
+        },
+        {
+          "uid": "bd4c4b6650e3",
+          "date": "2026-11-12",
+          "title": "Nvidia’s Huang steps down, but Congress still wants answers",
+          "summary": "この記事は自動車メーカーの対中提携への政治的批判とは無関係で、むしろNvidiaのCEOが中国への情報漏洩疑惑で辞任したことに対する米国議会の追及について述べています。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/senate/6217057-congress-jensen-huang-nvidia-national-security/",
+          "added_at": "2026-11-13 06:21:39"
+        },
+        {
+          "uid": "694088b8f24f",
+          "date": "2026-11-12",
+          "title": "Live updates: Huang exits Nvidia; Democrat locks down Kansas governor’s mansion",
+          "summary": "申し訳ありませんが、この記事の内容は「自動車メーカーの対中提携への政治的批判」とは関連がありません。記事はNvidia CEO の辞任とカンザス州知事選挙について述べており、自動車業界や中国との提携問題を扱っていないため、要約することができません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6214786-live-updates-trump-midterms-alaska-congress/",
+          "added_at": "2026-11-13 06:21:39"
+        },
+        {
+          "uid": "cca66d4f6e19",
+          "date": "2026-11-12",
+          "title": "Dear new member: Welcome to Congress. Now you can deliver on affordability",
+          "summary": "米国の下院指導者らは新たに当選した議員に対し、エネルギーコストや住宅不足などの経済的課題を優先すべきと助言しており、自動車メーカーの対中提携に関する政治的批判とは直接的な関連がない内容です。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/congress-blog/6214735-advice-new-members-congress/",
+          "added_at": "2026-11-13 06:21:39"
+        },
+        {
+          "uid": "9f453f01cb12",
+          "date": "2026-11-12",
+          "title": "House Republican says Huang has agreed to appear before lawmakers",
+          "summary": "この記事は自動車メーカーの対中提携に関する内容ではなく、中国によるスパイ疑惑を受けてテック企業経営者がアメリカ議会での秘密会合に応じることを報じているため、要求された文脈での要約はできません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/",
+          "added_at": "2026-11-13 06:21:39"
+        },
+        {
+          "uid": "2ea5a153c7b5",
+          "date": "2026-11-12",
+          "title": "The Jensen Huang affair exposes corporate America’s China problem",
+          "summary": "米国の自動車メーカーが中国との提携を進める背景には、中国が情報機関やビジネス関係、産業政策を駆使して米国の技術や商業秘密を長年にわたり獲得してきた実績があり、こうした歴史が米国内で企業と政府間の対立を生じさせている。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/national-security/6213893-nvidia-ceo-jensen-huang-affair/",
+          "added_at": "2026-11-13 06:21:39"
+        },
         {
           "uid": "330d93c40aec",
           "date": "2026-11-11",
@@ -7932,116 +8042,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRF9GSURJWU5hT1NHQWdpOEVqSkxtcmpReVZBTHFGamY1TWx0T3psaTRHVjljOU1KVjZOZFdnN1BoQUhJY2ZvMnRXaHVrN1p4Z1hKYklpZ3g2ODFvV0tOQ0pLN3lLSzNtenVpMlVFbnFYMFE5cGk3NF9qclFZZFlkQWhpbVE0ckctRmtSa2VtRVBsRzNTdXR1NEgzNFAxMnRMUmRqU0JZMVpaZ085UWxZ?oc=5",
           "added_at": "2026-10-14 18:59:12"
-        },
-        {
-          "uid": "6f2452df4065",
-          "date": "2026-10-05",
-          "title": "The real reporter behind 'The Social Reckoning' on what Aaron Sorkin’s film gets right — and what it changes - Reuters",
-          "summary": "申し訳ありませんが、提供いただいたテキストはタイトルのみで本文の具体的な内容が含まれていないため、「自動車メーカーの対中提携への政治的批判」に関する要約を作成することができません。\n\n記事の本文をご提供いただければ、要約いたします。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU1RDMkZIR3VWdHZ1ZjVPako2T3pvTHNqRkJBekxVWkhfUWYzY2VGckVFWk9rU3d6NEFGb25DSUttYmtDZ0R4NXRLWVRYV3FZaEt4T1Y0bjJDck5wZ1k1NkZYU3lzekhsbXYtaXlUMkdOazQ5WVduQ3hGZ1lhNV90WlpzSjVsaThIREFUWHRfMlNIbnpYaV90ZWtqa3NpY2diRW5ERTdjNW9oOW5pNUZiaW0xQWd3SmZMamZvY1VB?oc=5",
-          "added_at": "2026-10-14 18:59:12"
-        },
-        {
-          "uid": "62e85082f120",
-          "date": "2026-09-09",
-          "title": "Ford caught in escalating Washington clash over China deals - Reuters",
-          "summary": "フォード・モーターが中国との事業提携をめぐってワシントンの政治的対立に巻き込まれており、米国政府内で自動車メーカーの対中提携に対する批判が激化している。",
-          "source": "下院中国特別委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3JDbmVKX1hKWXk4ZHFIOTVldkZPTWUyaktXZ2ZlUUdTdTR4NXAzN3hxTjktN092bXl3aDFlVGVtV2RyWVVLWDJUblA0d0cxajlSOUJ6QmQwZHM3cXlmYmdZUDVUSmFuRGtzMHZ1b1lOSlNWQWZFb3BlbklQVllUUlJBazhNdWdXb1U3N1F4czVkSkJPNnp6M01meXRhbDZYRkVjN2x6aXJlLVV5dXBQUGh6SFk1UWxRUDF4UHlINA?oc=5",
-          "added_at": "2026-10-14 14:16:23"
-        },
-        {
-          "uid": "6e51669c5180",
-          "date": "2026-07-23",
-          "title": "Ford, Geely to form JV that one Mich. rep says is 'incomprehensible' - The Detroit News",
-          "summary": "フォード・モーターとジーリーの合弁会社設立に対して、ミシガン州の下院議員が「理解不可能だ」と批判しており、米国の自動車メーカーの中国企業との提携に対する政治的な反発が高まっていることを示している。",
-          "source": "下院中国特別委員会委員長",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdUxwaHdPVUNtNU5hRE5ydlBvYmxrRmE0Z2pLaHo4SlJxR2V4YmFuWkpqM1VJcGhVXzFzNWFyN21EU2Y3SEdXdno3M2JfMUw2ZXNmODN4alRpV3J2MHFHM1N5cXg0cGxpSTJJOEtzNzZYYzFQVG1iRmhsZ3VsMG1PWldmQWhMaXUwM1MtRU9TTERBaVBMeFFUcER4TUM5NnpKQnVCVEVaWnhtX1V5clU3WUxRV3k4T3JiR1FscE1wUkdMMTVYLTRoTlNKTUFVaFhBMUFFbUpZQk9TcnQ1Z3p5aHRNZ1dER21VRFE?oc=5",
-          "added_at": "2026-10-14 14:16:23"
-        },
-        {
-          "uid": "6884a693371b",
-          "date": "2026-07-23",
-          "title": "Ford partners with Chinese automaker to make new cars in Europe - Detroit Free Press",
-          "summary": "フォード・モーターが中国自動車メーカーと提携してヨーロッパで新車を製造するというニュースであり、欧米自動車メーカーによる中国との事業拡大が、産業空洞化や技術流出への懸念から政治的な批判を招く可能性を示唆している。",
-          "source": "下院中国特別委員会委員長",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVVlZ2l0SjIxRGM4MG10VElzdXY0LVlvNm5acnQ3NVVBVjJpVUwzcVVFY2d6WVcycXc5Sm9NYXRKb2NpX01MeDVha2FzTUJVZFE3V1dkaGk5dHcxSUN0SkswYTlqN1lUcEk4ZFREY3BwZndpejhfaFhtVzhjeEl3OTZaNjdVZzNYU05wZWpQUjdxemFROS1zX3ppLU1CX2hIdzhpb0VQblIybU1MODYtcFE2NzdnZw?oc=5",
-          "added_at": "2026-10-14 14:16:23"
-        },
-        {
-          "uid": "be7b26a70927",
-          "date": "2026-08-26",
-          "title": "Ford Makes Surprising Move by Partnering With Chinese Automaker Geely - MotorBiscuit",
-          "summary": "フォード・モーターがヒョンデ傘下の中国自動車メーカー吉利との提携を発表したことに対し、米国内から自動車メーカーの対中提携に対する政治的批判が生じている状況を指している。",
-          "source": "下院中国特別委員会委員長",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0NMb29aRkRCZ0RkdlpDeU9JTWhPUWdCdEtIRndfckVqdzdNeDZuNjQzUEg3X0k5U0M5N1hOMFJjaEhFZDRNUXp4VDBnd1YybG96QlhOczVUemRvam83VnNmb0ZIVFZoOFpFSzZOX2MzMVd6T0ZmWEZzeVZVQ0FRdlNHOHFKdUN2d1hYQ0VSUW44dw?oc=5",
-          "added_at": "2026-10-14 14:16:23"
-        },
-        {
-          "uid": "36b74d2c6287",
-          "date": "2026-09-09",
-          "title": "Trump administration challenges Ford’s partnerships with Chinese companies - CBT News",
-          "summary": "トランプ政権がフォード・モーターの中国企業との提携に対して異議を唱えており、自動車メーカーの対中ビジネス戦略が米国の政治的圧力の対象となっていることを示している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OS1dfc2RzN3Rkcm1CN29WV1llQm1mZkx6bmdORVQxQkQ2Z3hzUUh2MVVwRnJ4VHZ0ekdaMWctSDVjNnc1ZUhVUndlZk9sUC1RWXFnclZuYXp6UXZtR0xDSTlQX1hvdk9FeEpza1RCWlRMdVZmV2FpOHJCSndfWlE?oc=5",
-          "added_at": "2026-10-14 14:16:23"
-        },
-        {
-          "uid": "448aea1b88c6",
-          "date": "2026-09-09",
-          "title": "The Trump administration slams Ford for its ties to China - Houston Style Magazine",
-          "summary": "トランプ政権がフォード・モーターの中国との関係を批判している事案であり、自動車メーカーの対中提携が政治的な争点となっていることを示している。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQlZzaThFbnJSdV9CRTVVSzkzV1VoamV4LUppR253MkhQT2N0MjRUQ0Jldng4NjZOdV9FYk1zbGtFTjJ2ODB1YnFyUlFOSEotVWNiNHdNaTVFeDZjZkctNVNBUjhXU0NydEt5ajh4di1ieWFfRkl2WVNiODlsZWZaNmFqcHB5NlZnMFQ2bDZKYkRuY09oMkJBN3Y2MHJqVVVBVE9Z?oc=5",
-          "added_at": "2026-10-14 14:16:23"
-        },
-        {
-          "uid": "31b4e9a332ee",
-          "date": "2026-09-14",
-          "title": "Trump, Ford Clash Over China’s Role in Auto Industry - WJR-AM",
-          "summary": "フォード・モーターが中国との提携を進めようとしていることに対し、トランプ前大統領が政治的に批判を強めており、米国の自動車産業における中国の役割をめぐって対立が深まっている。",
-          "source": "トランプ政権高官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUGR3akRBUmVCSVFZLXk1NmQ3SkZ2MzJzT25rVlVHRTRxTEQtaU1SYnVLWUQxb211ZHp6QkJXcGhBblMwdlFRcWR4UE15d29FbVo3aHF1bFhDZEluZGVPcGZoOWxsd3BFM0NiWmFnS2R6UnZSMHNUeV82SV93YTZsYnc2UnhEYUFyUFE?oc=5",
-          "added_at": "2026-10-14 14:16:23"
-        },
-        {
-          "uid": "6b1b41908fe5",
-          "date": "2026-10-13",
-          "title": "Cleveland to be home of next submarine repair center",
-          "summary": "この記事は自動車メーカーの対中提携には関連していません。代わりに、トランプ大統領がクリーブランド（オハイオ州）に新しい潜水艦修理センターを建設することを発表した防衛・国家安全保障関連のニュースです。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/newsletters/defense-national-security/6146728-cleveland-to-be-home-of-next-submarine-repair-center/",
-          "added_at": "2026-10-14 14:16:23"
-        },
-        {
-          "uid": "ec8e2b68f892",
-          "date": "2026-10-13",
-          "title": "Treasury fines Bank of America $1.2B for violating money laundering, sanctions law",
-          "summary": "この記事は自動車メーカーの対中提携とは無関係です。米財務省がバンク・オブ・アメリカに対し、マネーロンダリング防止法および制裁法違反で12億ドルの罰金を科したものであり、自動車メーカーの政治的批判に関する文脈での要約はできません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/business/6146632-bank-america-treasury-fine/",
-          "added_at": "2026-10-14 14:16:23"
-        },
-        {
-          "uid": "7db3746ad0b0",
-          "date": "2026-09-09",
-          "title": "Motoring: Trump administration blasts Ford's business deals with Chinese firms - GDNOnline",
-          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判していることが報じられており、米国の自動車メーカーと中国企業の協業が政治的問題化していることを示している。",
-          "source": "下院中国特別委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BTHJKcVVUQUt6NlRHT3Uwci1zc1JES1lER0tLZFlTWFVBNERpUDJEQUtPOTh3NDQ4Ym1kblBwQU9sTEFJRWh2YWk1clFNaTNleEdB?oc=5",
-          "added_at": "2026-10-14 05:08:33"
         }
       ]
     }
