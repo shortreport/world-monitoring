@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-12 11:09 JST",
+  "updated_at": "2026-11-12 11:10 JST",
   "total": 50,
-  "toyota_summary": "China's CATL has partnered with German storage company Intilion to deploy 3 gigawatt-hours of battery storage systems across Europe by 2026, signaling Beijing's move to dominate the entire EV supply chain—not just cell production but the grid infrastructure that supports it. Separately, Germany's EV subsidies are running out two years ahead of schedule due to demand surge, with the budget expected to deplete by late 2027 instead of 2029. Together, these developments mean European carmakers face a pincer: Chinese competitors controlling both the batteries in cars and the charging backbone, while government support for EV buyers evaporates faster than expected, potentially collapsing demand just as the industry completes its shift to electric.\n\nThe EU is pushing member states to break a deadlocked auto policy package through Ireland's rotating presidency, suggesting Brussels recognizes the window to set competitive rules is closing. Watch whether the EU's automotive regulations emerge before Chinese supply chains calcify into place.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20261112_1015",
@@ -11,17 +11,27 @@
       "date_label": "NOV 12  10:15",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261112_1015_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261112_1011",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/11/11付",
       "pdf": "data/pdfs/20261112_1011_「ジェトロ・ビジネス短信」2026_11_11付.pdf",
       "date_label": "NOV 12  10:11",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Brief\" dated 2026/11/11",
+      "html": "data/pdfs/20261112_1011_「ジェトロ・ビジネス短信」2026_11_11付.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261112_1011_「ジェトロ・ビジネス短信」2026_11_11付_en.pdf"
     },
     {
       "ts": "20261112_0834",
@@ -31,7 +41,12 @@
       "date_label": "NOV 12  08:34",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Nov 11th, 2026",
+      "html": "data/pdfs/20261112_0834_Daily_Research_Summary_-_Nov_11th,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261112_0614",
@@ -41,7 +56,12 @@
       "date_label": "NOV 12  06:14",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Managed US-China stability will hold",
+      "html": "data/pdfs/20261112_0614_Managed_US-China_stability_will_hold.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261112_0557",
@@ -51,7 +71,12 @@
       "date_label": "NOV 12  05:57",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "AI’s cyber risk arrives as a thousand cuts",
+      "html": "data/pdfs/20261112_0557_AI’s_cyber_risk_arrives_as_a_thousand_cuts.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261112_0330",
@@ -61,7 +86,12 @@
       "date_label": "NOV 12  03:30",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Egypt: Ethiopia claims deepen Cairo's role in Sudan",
+      "html": "data/pdfs/20261112_0330_Egypt__Ethiopia_claims_deepen_Cairo's_role_in_Suda.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261112_0218",
@@ -71,7 +101,12 @@
       "date_label": "NOV 12  02:18",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Russia-Ukraine talks likely to continue",
+      "html": "data/pdfs/20261112_0218_Russia-Ukraine_talks_likely_to_continue.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261112_0205",
@@ -81,7 +116,12 @@
       "date_label": "NOV 12  02:05",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Congress likely to punt funding into the new year",
+      "html": "data/pdfs/20261112_0205_Congress_likely_to_punt_funding_into_the_new_year.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261112_0131",
@@ -100,8 +140,13 @@
       "pdf": "data/pdfs/20261112_0006_US__Corporate_deals_to_remain_a_feature_of_Trump_t.pdf",
       "date_label": "NOV 12  00:06",
       "read_min": 6,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "US: Corporate deals to remain a feature of Trump tariffs",
+      "html": "data/pdfs/20261112_0006_US__Corporate_deals_to_remain_a_feature_of_Trump_t.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_2223",
@@ -111,7 +156,12 @@
       "date_label": "NOV 11  22:23",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Markets are overreading the backlash against data centers",
+      "html": "data/pdfs/20261111_2223_Markets_are_overreading_the_backlash_against_data_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_2124",
@@ -121,7 +171,12 @@
       "date_label": "NOV 11  21:24",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US to seek Putin’s ‘blessing’ for Europe to join Ukraine talks",
+      "html": "data/pdfs/20261111_2124_US_to_seek_Putin’s_‘blessing’_for_Europe_to_join_U.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_1953",
@@ -131,7 +186,12 @@
       "date_label": "NOV 11  19:53",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU unveils major overhaul of consumer rules",
+      "html": "data/pdfs/20261111_1953_EU_unveils_major_overhaul_of_consumer_rules.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_1838",
@@ -141,7 +201,12 @@
       "date_label": "NOV 11  18:38",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "NATO seeks to prioritize fighting Russia and shrink forces for missions abroad",
+      "html": "data/pdfs/20261111_1838_NATO_seeks_to_prioritize_fighting_Russia_and_shrin.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_1806",
@@ -151,7 +216,12 @@
       "date_label": "NOV 11  18:06",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update in Japanese",
+      "html": "data/pdfs/20261111_1806_eg_update_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_1735",
@@ -161,7 +231,12 @@
       "date_label": "NOV 11  17:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Mining giant’s push to dig under pristine Finnish wetlands tests EU’s green resolve",
+      "html": "data/pdfs/20261111_1735_Mining_giant’s_push_to_dig_under_pristine_Finnish_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_1504",
@@ -170,8 +245,13 @@
       "pdf": "data/pdfs/20261111_1504_EU_to_help_drones_get_off_the_ground.pdf",
       "date_label": "NOV 11  15:04",
       "read_min": 9,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "EU to help drones get off the ground",
+      "html": "data/pdfs/20261111_1504_EU_to_help_drones_get_off_the_ground.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_1442",
@@ -180,8 +260,13 @@
       "pdf": "data/pdfs/20261111_1442_Sidestepping_Parliament.pdf",
       "date_label": "NOV 11  14:42",
       "read_min": 15,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Sidestepping Parliament",
+      "html": "data/pdfs/20261111_1442_Sidestepping_Parliament.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261111_1316",
@@ -517,7 +602,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "[JETRO Members - Important Notice] Guidance on Paid Seminar and Networking Event to be Held on December 2nd and Information about \"Member Discount Code\"",
+      "subject_en": "[JETRO Members - Important Notice] Notice of Paid Seminar and Networking Event on December 2nd and Information on \"Member Discount Code\"",
       "html": "data/pdfs/20261110_1321_【ジェトロ・メンバーズ_重要なお知らせ】12月2日開催有料セミナー・交流会のご案内および「会員割引コ.html",
       "summary_en": "",
       "summary_ja": "",
@@ -658,5 +743,6 @@
       "toyota": false,
       "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
