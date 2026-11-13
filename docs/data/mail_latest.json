@@ -1,181 +1,51 @@
 {
-  "generated_at": "2026-11-12 11:09 JST",
-  "sender_count": 4,
-  "total_mails": 18,
+  "generated_at": "2026-11-13 13:38 JST",
+  "sender_count": 2,
+  "total_mails": 2,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 9,
+      "count": 1,
       "bullets": [
-        "民主党主導の米国では、データセンター開発の全面禁止ではなく条件付き制限の見通し",
-        "トランプ政権が関税を世界企業・政府への交渉手段として活用する中、企業による免除交渉が貿易政策の構造的特徴に",
-        "米国議会は新年度への予算繰越の見通しで、短期継続歳出法による政府資金の維持が最有力",
-        "EU内ガス備蓄目標は未達も、冬季配給制限は回避の見通し",
-        "米国仲介によるロシア・ウクライナ協議は捕虜交換で合意し、年内再開の可能性"
+        "青年主導のコックローチ・ジャナタ党が大規模野党集会への支持を表明しながら直接参加を回避し、中立姿勢を維持",
+        "インド野党とコックローチ党が分裂状態にある中で、議会が野党指導力の統合を進行",
+        "インド海軍のコルベット艦契約による艦隊増強の継続",
+        "食糧インフレがフレックス燃料義務化の新規導入を延期の見通し",
+        "スリランカの予算編成で所得税削減とインフラ支出の拡大"
       ],
       "subjects": [
         [
-          "2026-11-11",
-          "eg update in Japanese",
-          "data/pdfs/20261111_1806_eg_update_in_Japanese.pdf"
-        ],
-        [
-          "2026-11-11",
-          "Markets are overreading the backlash against data centers",
-          "data/pdfs/20261111_2223_Markets_are_overreading_the_backlash_against_data_.pdf"
-        ],
-        [
           "2026-11-12",
-          "US: Corporate deals to remain a feature of Trump tariffs",
-          "data/pdfs/20261112_0006_US__Corporate_deals_to_remain_a_feature_of_Trump_t.pdf"
-        ],
-        [
-          "2026-11-12",
-          "Congress likely to punt funding into the new year",
-          "data/pdfs/20261112_0205_Congress_likely_to_punt_funding_into_the_new_year.pdf"
-        ],
-        [
-          "2026-11-12",
-          "Russia-Ukraine talks likely to continue",
-          "data/pdfs/20261112_0218_Russia-Ukraine_talks_likely_to_continue.pdf"
-        ],
-        [
-          "2026-11-12",
-          "Egypt: Ethiopia claims deepen Cairo's role in Sudan",
-          "data/pdfs/20261112_0330_Egypt__Ethiopia_claims_deepen_Cairo's_role_in_Suda.pdf"
-        ],
-        [
-          "2026-11-12",
-          "AI’s cyber risk arrives as a thousand cuts",
-          "data/pdfs/20261112_0557_AI’s_cyber_risk_arrives_as_a_thousand_cuts.pdf"
-        ],
-        [
-          "2026-11-12",
-          "Managed US-China stability will hold",
-          "data/pdfs/20261112_0614_Managed_US-China_stability_will_hold.pdf"
-        ],
-        [
-          "2026-11-12",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20261112_1015_EG_Research_Summary_in_Japanese.pdf"
+          "Cockroaches keep distance from opposition",
+          "data/pdfs/20261112_1316_Cockroaches_keep_distance_from_opposition.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261111_1806_eg_update_in_Japanese.pdf",
-        "data/pdfs/20261111_2223_Markets_are_overreading_the_backlash_against_data_.pdf",
-        "data/pdfs/20261112_0006_US__Corporate_deals_to_remain_a_feature_of_Trump_t.pdf",
-        "data/pdfs/20261112_0205_Congress_likely_to_punt_funding_into_the_new_year.pdf",
-        "data/pdfs/20261112_0218_Russia-Ukraine_talks_likely_to_continue.pdf",
-        "data/pdfs/20261112_0330_Egypt__Ethiopia_claims_deepen_Cairo's_role_in_Suda.pdf",
-        "data/pdfs/20261112_0557_AI’s_cyber_risk_arrives_as_a_thousand_cuts.pdf",
-        "data/pdfs/20261112_0614_Managed_US-China_stability_will_hold.pdf",
-        "data/pdfs/20261112_1015_EG_Research_Summary_in_Japanese.pdf"
+        "data/pdfs/20261112_1316_Cockroaches_keep_distance_from_opposition.pdf"
       ]
     },
     {
-      "sender": "Eurasia",
-      "short": "EURAS",
+      "sender": "ジェトロ",
+      "short": "ジェトロ",
       "color": "YEL",
       "count": 1,
       "bullets": [
-        "中間選挙後も米中関係の安定が維持され、民主党議会の強硬姿勢もトランプ大統領の拒否権と関係安定志向により抑制される見通し",
-        "北京はトランプ政権の弱体化を機に米中関係を一変させる意図を持たない状況",
-        "AI駆動型の単一的なサイバー災害の可能性は低いものの、複数の小規模な攻撃による累積的なサイバーリスク増加"
+        "インドは高い経済成長と人口規模が魅力だが、中堅・中小企業が商習慣や法務労務、人材確保で課題に直面している状況",
+        "AI需要拡大に伴う半導体・データセンター投資の加速一方で、電力・水・人材供給の制約が新たなビジネス機会を創出",
+        "各国による経済安全保障重視でサプライチェーン強靭化と国内回帰推進に伴い、輸出管理と投資管理の厳格化が日本企業の新たなリスク",
+        "韓国企業が米中対立を背景に中国投資を削減し、米国やベトナム、インドネシア、インドへの投資をシフト"
       ],
       "subjects": [
         [
           "2026-11-12",
-          "Daily Research Summary - Nov 11th, 2026",
-          "data/pdfs/20261112_0834_Daily_Research_Summary_-_Nov_11th,_2026.pdf"
+          "ジェトロ地域・分析レポートの新着のご案内（2026年11月12日号）",
+          "data/pdfs/20261112_1418_ジェトロ地域・分析レポートの新着のご案内（2026年11月12日号）.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261112_0834_Daily_Research_Summary_-_Nov_11th,_2026.pdf"
-      ]
-    },
-    {
-      "sender": "POLITICO",
-      "short": "POLIT",
-      "color": "RED",
-      "count": 7,
-      "bullets": [
-        "デジタル公正法の制定により、ソーシャルメディア上の危険な投資勧誘への規制が強化される見通し",
-        "欧州委員会がドローン産業の大規模運用を促進するための規制枠組みロードマップを発表",
-        "フィンランドの湿地帯での鉱業プロジェクトがEUの環境政策とアジア関連の地政学的利益のバランスを試す課題",
-        "NATOが対ロシア防衛を優先し、域外危機管理作戦への兵力提供要件の廃止を検討",
-        "EUが消費者保護法を20年以上ぶりに大幅改正し、詐欺的デザイン・インフルエンサー・ビデオゲームの規制を強化"
-      ],
-      "subjects": [
-        [
-          "2026-11-11",
-          "Sidestepping Parliament",
-          "data/pdfs/20261111_1442_Sidestepping_Parliament.pdf"
-        ],
-        [
-          "2026-11-11",
-          "EU to help drones get off the ground",
-          "data/pdfs/20261111_1504_EU_to_help_drones_get_off_the_ground.pdf"
-        ],
-        [
-          "2026-11-11",
-          "Mining giant’s push to dig under pristine Finnish wetlands tests",
-          "data/pdfs/20261111_1735_Mining_giant’s_push_to_dig_under_pristine_Finnish_.pdf"
-        ],
-        [
-          "2026-11-11",
-          "NATO seeks to prioritize fighting Russia and shrink forces for",
-          "data/pdfs/20261111_1838_NATO_seeks_to_prioritize_fighting_Russia_and_shrin.pdf"
-        ],
-        [
-          "2026-11-11",
-          "EU unveils major overhaul of consumer rules",
-          "data/pdfs/20261111_1953_EU_unveils_major_overhaul_of_consumer_rules.pdf"
-        ],
-        [
-          "2026-11-11",
-          "US to seek Putin’s ‘blessing’ for Europe to join Ukraine talks",
-          "data/pdfs/20261111_2124_US_to_seek_Putin’s_‘blessing’_for_Europe_to_join_U.pdf"
-        ],
-        [
-          "2026-11-12",
-          "Pro Daily Headlines",
-          "data/pdfs/20261112_0131_Pro_Daily_Headlines.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261111_1442_Sidestepping_Parliament.pdf",
-        "data/pdfs/20261111_1504_EU_to_help_drones_get_off_the_ground.pdf",
-        "data/pdfs/20261111_1735_Mining_giant’s_push_to_dig_under_pristine_Finnish_.pdf",
-        "data/pdfs/20261111_1838_NATO_seeks_to_prioritize_fighting_Russia_and_shrin.pdf",
-        "data/pdfs/20261111_1953_EU_unveils_major_overhaul_of_consumer_rules.pdf",
-        "data/pdfs/20261111_2124_US_to_seek_Putin’s_‘blessing’_for_Europe_to_join_U.pdf",
-        "data/pdfs/20261112_0131_Pro_Daily_Headlines.pdf"
-      ]
-    },
-    {
-      "sender": "ビジネス短信",
-      "short": "ビジネス短",
-      "color": "ORG",
-      "count": 1,
-      "bullets": [
-        "小鵬汽車、ナイジェリアやオマーンなど4カ国への進出",
-        "広汽集団、1～9月の増収も赤字幅拡大",
-        "タイ政府、輸入BEVの物品税率を35％に引き上げ",
-        "ベトナムの1～9月新規外国投資認可額は292億ドル",
-        "ホーチミン市が12件の投資プロジェクトを発表",
-        "ベトナムの1～9月は輸出入とも増加、9月単月は貿易黒字"
-      ],
-      "subjects": [
-        [
-          "2026-11-12",
-          "「ジェトロ・ビジネス短信」2026/11/11付",
-          "data/pdfs/20261112_1011_「ジェトロ・ビジネス短信」2026_11_11付.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261112_1011_「ジェトロ・ビジネス短信」2026_11_11付.pdf"
+        "data/pdfs/20261112_1418_ジェトロ地域・分析レポートの新着のご案内（2026年11月12日号）.pdf"
       ]
     }
   ]

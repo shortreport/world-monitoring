@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-11-12 11:10 JST",
+  "updated_at": "2026-11-13 13:38 JST",
   "total": 50,
-  "toyota_summary": "",
+  "toyota_summary": "India is drawing serious manufacturer interest as a growth market—the country has 1.4 billion people and strong economic expansion—but mid-size and smaller suppliers still struggle with local business practices and distribution networks, according to a Japanese trade agency report. This matters because automakers chasing volume growth need reliable local supply chains, and getting those wrong in India means delays and cost overruns that competitors won't face.\n\nGermany's EV subsidy budget is burning through faster than the government expected, with funds now projected to run out by the end of 2027 instead of 2029. That's a real signal: demand for electric vehicles is outpacing policy support in Europe's largest car market, which either forces governments to find more money or lets demand crash once subsidies end. Meanwhile, Chinese battery makers are already moving aggressively into Europe—CATL just partnered with a German firm to deploy 3 gigawatt-hours of storage systems there—betting subsidies will hold or that they won't need them.\n\nWatch whether the EU can break its deadlock on auto regulations before year-end, since member states are now asking for political guidance on the auto package through back channels.",
   "emails": [
+    {
+      "ts": "20261112_1418",
+      "sender_norm": "Jetro",
+      "subject": "ジェトロ地域・分析レポートの新着のご案内（2026年11月12日号）",
+      "pdf": "data/pdfs/20261112_1418_ジェトロ地域・分析レポートの新着のご案内（2026年11月12日号）.pdf",
+      "date_label": "NOV 12  14:18",
+      "read_min": 1,
+      "toyota": true,
+      "excerpt": "インドは14億人超の人口と高い経済成長率を背景に有望な進出先だが、中堅・中小企業は商習慣"
+    },
+    {
+      "ts": "20261112_1316",
+      "sender_norm": "Eurasia Group",
+      "subject": "Cockroaches keep distance from opposition",
+      "pdf": "data/pdfs/20261112_1316_Cockroaches_keep_distance_from_opposition.pdf",
+      "date_label": "NOV 12  13:16",
+      "read_min": 6,
+      "toyota": false,
+      "excerpt": ""
+    },
     {
       "ts": "20261112_1015",
       "sender_norm": "Eurasia Group",
@@ -712,37 +732,6 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20261110_0452",
-      "sender_norm": "Eurasia Group",
-      "subject": "Red-state victories will create a more diverse Democratic Party",
-      "pdf": "data/pdfs/20261110_0452_Red-state_victories_will_create_a_more_diverse_Dem.pdf",
-      "date_label": "NOV 10  04:52",
-      "read_min": 5,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Red-state victories will create a more diverse Democratic Party",
-      "html": "data/pdfs/20261110_0452_Red-state_victories_will_create_a_more_diverse_Dem.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261110_0355",
-      "sender_norm": "POLITICO",
-      "subject": "EU offers cash for Black Sea attack response",
-      "subject_en": "EU offers cash for Black Sea attack response",
-      "html": "data/pdfs/20261110_0355_EU_offers_cash_for_Black_Sea_attack_response.html",
-      "pdf": "data/pdfs/20261110_0355_EU_offers_cash_for_Black_Sea_attack_response.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": "",
-      "date_label": "NOV 10  03:55",
-      "read_min": 4,
-      "toyota": false,
-      "excerpt": ""
     }
-  ],
-  "toyota_summary_en": ""
+  ]
 }
