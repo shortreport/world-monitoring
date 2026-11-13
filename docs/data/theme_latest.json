@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13 13:40:01",
+  "generated_at": "2026-11-13 21:54:58",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-13 13:38:14",
+      "last_checked": "2026-11-13 21:54:28",
       "items": [
+        {
+          "uid": "18724ffc4a18",
+          "date": "2026-11-13",
+          "title": "EU legislators agree on more free carbon allowances for energy-intensive industries - INSIGHT EU MONITORING",
+          "summary": "EU議員らは、エネルギー集約産業の国際競争力維持を目的として、炭素国境調整メカニズム（CBAM）の導入に伴う移行期間中、対象産業への無償炭素枠の段階的削減をより緩和する内容で合意した。これにより、欧州産業加速法案（IAA）の推進と産業空洞化防止を両立させる方針が示された。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZGF0MG9xTnNReWRkUlV0bFA3d2EtS0Q1NFJxUVppQVlNM2ZEUFVldWV2eDBQMFlxR1NjYk5RX0xtLTJja3FOTjhvZmlMWmxINnpDX0JPVkt4aFdfMXd5R1dDbVN5MTZScmZPQ183b09XN2NrMHN5MXd0RHRrMHIwOXpkWUtWdTc3aG9NWGdnWV9CWG9SbHFtNFZ0aThkcHEwNlFPM2RPamttenoyZWVvVy0zVWQ4cFgwZXFFWVhTSjllNnVicmRWOVhyaDVmS3J5czVUcjg5M0RmNU1xZGVKamtVQ0w?oc=5",
+          "added_at": "2026-11-13 21:54:25"
+        },
         {
           "uid": "1f032968aa45",
           "date": "2026-11-12",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXlBOE1QOU1MMlhrWFFKdllPeEthU000Z29xd3gwb2QweXNjZVpKM01kSWJiWXlwMjNGTG1waFNzd29UNUV2MURtaGlGUHgwaWo4U2M4UENhNGlYVHBORzE5alY5bnlaRWRmd1o2Q0ZXajVHUjR5LWJKeUFiMkFPYWk3R0lZS2YtR29XZmFfczVVdVdtS1o0MUFzUTZxZUJG?oc=5",
           "added_at": "2026-09-10 16:36:15"
-        },
-        {
-          "uid": "a1d971500559",
-          "date": "2026-09-10",
-          "title": "Korea, EU seek stronger supply chain ties as industry rules evolve - The Korea Times",
-          "summary": "韓国と欧州連合は、欧州産業加速法案により産業規制が進化する中で、サプライチェーンの連携を強化する必要性に直面している。この協力を通じて、韓国企業は欧州市場へのアクセスを維持しつつ、IAAの厳格な基準に適応することが可能となる。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0xBWmdwbUVNdTh1VF9zcndaRWNMdWFOQU1NT2pFM2FXbzFSVXFxUkdNcm1IU19iaFZpbEFfcG5Kc0xOeWY4M0d3emxPZWRuLV9LUC1qVXo4MFN4QlRPTGZZVG9pTXM4bS1oYXJpRmttdGM0cWVrOVY3dEFsZUswOXZUN0psUVlBSlBkTDBlemdhQWtiZzhxSkphVFpoT2xwNVhuN1FMRFFyX2dNVmxfRkdqamNQUlYxUGfSAb8BQVVfeXFMTWItdmZqZFo2QjE5cHJGUnd4TkZJSXRxem9xNWpuZU03NWFSNm1la3FhdXJmSzZ5em81TF9TdTRZNmlwZ21jRzF1QUpkd3g5MS1yOERmYzhLMG05NXVNaU9yOF9MVGlHX3ZraTVoUDhiaFFlcGR1ODFTZF9iMFRSNWRJR05DRWdadVRXeGlTeGZ6SHhnN1dNYU1BS2JITnYtNmFka1JGdnV4Y0ROTjZ1Si1iV1JxbTZrelEzU2dXU1k?oc=5",
-          "added_at": "2026-09-10 16:36:15"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-13 13:38:33",
+      "last_checked": "2026-11-13 21:54:35",
       "items": [
         {
           "uid": "06353b5ca44d",
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-13 13:39:19",
+      "last_checked": "2026-11-13 21:54:47",
       "items": [
         {
           "uid": "4f46a9edc22b",
@@ -6041,8 +6041,48 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-13 13:40:01",
+      "last_checked": "2026-11-13 21:54:58",
       "items": [
+        {
+          "uid": "1bb92ba3487f",
+          "date": "2026-09-08",
+          "title": "Trump Administration Blasts Ford's Business Deals With Chinese Firms - U.S. News & World Report",
+          "summary": "トランプ政権がフォードと中国企業の提携事業を批判した。この事例は、米国政府が自動車メーカーの対中ビジネスに対して政治的圧力をかけていることを示している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2J2bmhhTi1SckwwUGh3UXA2c3NweXZSa1FnZFpLaUtFelh0cnVyNVJIVjJ1ZW9nNGtqMkQ1dnYtYmFlVzBKVlB4emlpYzkwQkJrN2QzVlhZZ2djNVRZV1VpWExSUVdDR3lOLVQ0U1lfdnUtMTJtSXFmeXc1bFItanZsQVNyYWlpQVh5R0N3Mk9rRG02TUo0RGdfMi1ZRVo1UjYxb25vbl9SSHVVZ3h1Vk5BckNCeE5SU09WRkhaaWY?oc=5",
+          "added_at": "2026-11-13 21:54:53"
+        },
+        {
+          "uid": "2793be2d4ad2",
+          "date": "2026-09-08",
+          "title": "Trump administration expresses 'profound concern' over Ford's ties to China - CNBC",
+          "summary": "トランプ政権がフォード・モーターの対中関係に対して「深刻な懸念」を表明し、自動車メーカーの中国との提携が米国の産業セキュリティや雇用に与える影響について政治的な批判を強めている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NNIBdEFVX3lxTE1BYzFIa1p4MnpkQV9KR3c0SUNlbDkyRExQRjlRd2M0bS0zREJ3SEgxcnhvLXd6bEdYaFozbVQ0LXRhZjdIWHQ3ZUtSS0N0SGdmcHFQTkc2Y2d3S0puRkRCdGpwalphQ1RJVjJHRElHdGl3SGI4?oc=5",
+          "added_at": "2026-11-13 21:54:53"
+        },
+        {
+          "uid": "1adec55e2cbc",
+          "date": "2026-09-09",
+          "title": "Trump administration blasts Ford's business deals with Chinese firms - Reuters",
+          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を厳しく批判しており、米国の自動車メーカーが中国との協力関係を深めることに対する政治的な反発が強まっている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUxxT0xDWVRud1VVVzV3eXRFTDR2eXRmalJ4Uk1qTmNkWmRBYnl6LVBTTUdDMVFJWllPTVlPQm90Y3JMUE5lZF9MMHI1dG4xQ3dpWmhDblFQbUVRek1HYndoSlV6dXgwUEtFYXllb2xvUDZSTTRkLV9nU043bXlQQmozSlotNTExRGxmbUhHZUtMcDVjeTFlaU9hLTdKMktvc0FNSGZFUU9SMFJLRnBQV0dvOXo4T3A4OHlWSENPdU8yWUVkNTFYUWJtWVY?oc=5",
+          "added_at": "2026-11-13 21:54:53"
+        },
+        {
+          "uid": "6a7ee02651b1",
+          "date": "2026-09-08",
+          "title": "Trump admin takes aim at Ford and Farley for Chinese ties - Detroit Free Press",
+          "summary": "トランプ政権がフォード・モーターとティム・ファーレーCEOに対し、中国との関係を理由に非難を加えている。自動車メーカーの対中提携が米国の政治的圧力の対象となっている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnREWEhuUVVTY1Y1ZDdQWE9IaXZSYmlIb2RKcTFyOUxOY05WaEpKZzFoX20zamlfd0FHV3RzQ1RWWGN2MHp1WC1qOVdXVjlsaThzZl8wOF9Zbk1PYXRrTUI4cVhGMG53LXJSajRwdk81bk14Wjl2WTE5WDdXRDdZaEZkY2UtOE5Nc21jY3VtV1R0M0pFTktQRlF3SURUOER1VjdsVlRvakFCWWJ4QzFYSmtFcEJiV3Z4bGZ3akU1QnE5LXJtOVE?oc=5",
+          "added_at": "2026-11-13 21:54:53"
+        },
         {
           "uid": "330d93c40aec",
           "date": "2026-11-11",
@@ -8001,46 +8041,6 @@
           "source": "下院中国特別委員会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3JDbmVKX1hKWXk4ZHFIOTVldkZPTWUyaktXZ2ZlUUdTdTR4NXAzN3hxTjktN092bXl3aDFlVGVtV2RyWVVLWDJUblA0d0cxajlSOUJ6QmQwZHM3cXlmYmdZUDVUSmFuRGtzMHZ1b1lOSlNWQWZFb3BlbklQVllUUlJBazhNdWdXb1U3N1F4czVkSkJPNnp6M01meXRhbDZYRkVjN2x6aXJlLVV5dXBQUGh6SFk1UWxRUDF4UHlINA?oc=5",
-          "added_at": "2026-10-14 14:16:23"
-        },
-        {
-          "uid": "6e51669c5180",
-          "date": "2026-07-23",
-          "title": "Ford, Geely to form JV that one Mich. rep says is 'incomprehensible' - The Detroit News",
-          "summary": "フォード・モーターとジーリーの合弁会社設立に対して、ミシガン州の下院議員が「理解不可能だ」と批判しており、米国の自動車メーカーの中国企業との提携に対する政治的な反発が高まっていることを示している。",
-          "source": "下院中国特別委員会委員長",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdUxwaHdPVUNtNU5hRE5ydlBvYmxrRmE0Z2pLaHo4SlJxR2V4YmFuWkpqM1VJcGhVXzFzNWFyN21EU2Y3SEdXdno3M2JfMUw2ZXNmODN4alRpV3J2MHFHM1N5cXg0cGxpSTJJOEtzNzZYYzFQVG1iRmhsZ3VsMG1PWldmQWhMaXUwM1MtRU9TTERBaVBMeFFUcER4TUM5NnpKQnVCVEVaWnhtX1V5clU3WUxRV3k4T3JiR1FscE1wUkdMMTVYLTRoTlNKTUFVaFhBMUFFbUpZQk9TcnQ1Z3p5aHRNZ1dER21VRFE?oc=5",
-          "added_at": "2026-10-14 14:16:23"
-        },
-        {
-          "uid": "6884a693371b",
-          "date": "2026-07-23",
-          "title": "Ford partners with Chinese automaker to make new cars in Europe - Detroit Free Press",
-          "summary": "フォード・モーターが中国自動車メーカーと提携してヨーロッパで新車を製造するというニュースであり、欧米自動車メーカーによる中国との事業拡大が、産業空洞化や技術流出への懸念から政治的な批判を招く可能性を示唆している。",
-          "source": "下院中国特別委員会委員長",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVVlZ2l0SjIxRGM4MG10VElzdXY0LVlvNm5acnQ3NVVBVjJpVUwzcVVFY2d6WVcycXc5Sm9NYXRKb2NpX01MeDVha2FzTUJVZFE3V1dkaGk5dHcxSUN0SkswYTlqN1lUcEk4ZFREY3BwZndpejhfaFhtVzhjeEl3OTZaNjdVZzNYU05wZWpQUjdxemFROS1zX3ppLU1CX2hIdzhpb0VQblIybU1MODYtcFE2NzdnZw?oc=5",
-          "added_at": "2026-10-14 14:16:23"
-        },
-        {
-          "uid": "be7b26a70927",
-          "date": "2026-08-26",
-          "title": "Ford Makes Surprising Move by Partnering With Chinese Automaker Geely - MotorBiscuit",
-          "summary": "フォード・モーターがヒョンデ傘下の中国自動車メーカー吉利との提携を発表したことに対し、米国内から自動車メーカーの対中提携に対する政治的批判が生じている状況を指している。",
-          "source": "下院中国特別委員会委員長",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0NMb29aRkRCZ0RkdlpDeU9JTWhPUWdCdEtIRndfckVqdzdNeDZuNjQzUEg3X0k5U0M5N1hOMFJjaEhFZDRNUXp4VDBnd1YybG96QlhOczVUemRvam83VnNmb0ZIVFZoOFpFSzZOX2MzMVd6T0ZmWEZzeVZVQ0FRdlNHOHFKdUN2d1hYQ0VSUW44dw?oc=5",
-          "added_at": "2026-10-14 14:16:23"
-        },
-        {
-          "uid": "36b74d2c6287",
-          "date": "2026-09-09",
-          "title": "Trump administration challenges Ford’s partnerships with Chinese companies - CBT News",
-          "summary": "トランプ政権がフォード・モーターの中国企業との提携に対して異議を唱えており、自動車メーカーの対中ビジネス戦略が米国の政治的圧力の対象となっていることを示している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OS1dfc2RzN3Rkcm1CN29WV1llQm1mZkx6bmdORVQxQkQ2Z3hzUUh2MVVwRnJ4VHZ0ekdaMWctSDVjNnc1ZUhVUndlZk9sUC1RWXFnclZuYXp6UXZtR0xDSTlQX1hvdk9FeEpza1RCWlRMdVZmV2FpOHJCSndfWlE?oc=5",
           "added_at": "2026-10-14 14:16:23"
         }
       ]
