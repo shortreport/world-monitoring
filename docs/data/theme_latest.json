@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14 14:56:26",
+  "generated_at": "2026-11-14 20:58:48",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-14 14:55:18",
+      "last_checked": "2026-11-14 20:58:15",
       "items": [
+        {
+          "uid": "0a346ba60bf6",
+          "date": "2026-11-13",
+          "title": "Council and Parliament agree on free ETS CO2 allowance increase to shield industry from foreign competition - Eunews",
+          "summary": "欧州連合の理事会と欧州議会は、産業競争力強化のため、EU排出量取引制度（ETS）における無償CO2排出枠を増加させることに合意し、外国との競争から産業を保護する措置を講じた。これは欧州産業加速法案（IAA）の一環として、域内産業の国際競争力維持を目的とした政策である。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbDZYZ1BnUzN5aTJpWWx4QXo4bXFBNFh5MDJGNVk4b0FfQlF3SUtkLVZlbWdlYXA0R3JzOHE0ZUExYU1hbzVfbk5aZlhobjBvTnpYQkFjYldXaUVKX1BEVDRNSXpyel8xZThnNUN4NjVIOVhoRzktMGpjNTk4cXZnTDFrZHlUaTNCZjBvNzJFUllsOTc5VjB0bDF2eXNfQzh4NzFOeVZGaVFpRjZ3bDNURFNrREQxOHF6M1VydUViajR3Z3FDNkwxdFJXQnV2N1d4VWN0U0xLMFpjRXJu?oc=5",
+          "added_at": "2026-11-14 20:58:13"
+        },
         {
           "uid": "598fc732227e",
           "date": "2026-11-13",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWFmT1dKenB0ZXVoMlJvTVRMNEVMcGxyaDlON3Qza1NKRF9FZzNZZXk4SE1NOUpmTURyQWhjSGdhRjYyd0ZQWVRYSUt5RE5zdFJEc2lhSjE0dG4xSzFxR2VyUTVzV0NEX1BsNzVmOGVCSy1WTGg1MHhWSHA5aWQ0VXE2VkNTelh6Mi1wQkpRSGhNUFFfS1lVUV95cUNLTmh1bWxEYVZpdw?oc=5",
           "added_at": "2026-09-11 02:33:32"
-        },
-        {
-          "uid": "8a36c21ad5e1",
-          "date": "2026-09-10",
-          "title": "Industry gets more time to adjust, but carbon market keeps its teeth - EU Perspectives",
-          "summary": "欧州産業加速法案（IAA）は産業界に調整期間の延長を認める一方で、炭素市場の規制措置は維持され、EUの脱炭素化目標の達成と産業競争力のバランスを取ることを目指しています。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlRxd1F3aWQ2VFZDSmRVX0o3YmZON0czaXMtelpNekEzTDVEYXRtMGlXeEp5Smk1ekxlcnFHNC1Xdlc0T3hoc09IZmdsX1phdkhXbzA0aFRoLUNTUVJUTmhLeFBCRXI3N21DZVliR2R6SFFzS2xHRGZJTFhVOF9DcXNYQTNVQmFBX2FwQmhlY2FmVW03b0w0Y1pDdXJDM2pORkd0Rw?oc=5",
-          "added_at": "2026-09-11 02:33:32"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-14 14:55:37",
+      "last_checked": "2026-11-14 20:58:24",
       "items": [
         {
           "uid": "ecd866b6b212",
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-14 14:56:01",
+      "last_checked": "2026-11-14 20:58:37",
       "items": [
         {
           "uid": "bbcf11f7e181",
@@ -6041,8 +6041,48 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-14 14:56:26",
+      "last_checked": "2026-11-14 20:58:48",
       "items": [
+        {
+          "uid": "62e85082f120",
+          "date": "2026-09-09",
+          "title": "Ford caught in escalating Washington clash over China deals - Reuters",
+          "summary": "フォード・モーターが中国との事業提携をめぐってワシントンの政治的対立に巻き込まれており、米国政府内で自動車メーカーの対中戦略に対する批判が高まっている。",
+          "source": "下院中国特別委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3JDbmVKX1hKWXk4ZHFIOTVldkZPTWUyaktXZ2ZlUUdTdTR4NXAzN3hxTjktN092bXl3aDFlVGVtV2RyWVVLWDJUblA0d0cxajlSOUJ6QmQwZHM3cXlmYmdZUDVUSmFuRGtzMHZ1b1lOSlNWQWZFb3BlbklQVllUUlJBazhNdWdXb1U3N1F4czVkSkJPNnp6M01meXRhbDZYRkVjN2x6aXJlLVV5dXBQUGh6SFk1UWxRUDF4UHlINA?oc=5",
+          "added_at": "2026-11-14 20:58:44"
+        },
+        {
+          "uid": "be7b26a70927",
+          "date": "2026-08-26",
+          "title": "Ford Makes Surprising Move by Partnering With Chinese Automaker Geely - MotorBiscuit",
+          "summary": "フォード・モーターが中国の自動車メーカー吉利汽車との提携を発表し、米国自動車メーカーによる中国との業務提携に対する政治的な批判が生じている状況を示している。このような提携は、米国の産業競争力やサプライチェーンの懸念を背景に、政治家からの反発につながる傾向にある。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0NMb29aRkRCZ0RkdlpDeU9JTWhPUWdCdEtIRndfckVqdzdNeDZuNjQzUEg3X0k5U0M5N1hOMFJjaEhFZDRNUXp4VDBnd1YybG96QlhOczVUemRvam83VnNmb0ZIVFZoOFpFSzZOX2MzMVd6T0ZmWEZzeVZVQ0FRdlNHOHFKdUN2d1hYQ0VSUW44dw?oc=5",
+          "added_at": "2026-11-14 20:58:44"
+        },
+        {
+          "uid": "36b74d2c6287",
+          "date": "2026-09-09",
+          "title": "Trump administration challenges Ford’s partnerships with Chinese companies - CBT News",
+          "summary": "トランプ政権がフォード・モーターの中国企業との提携に対して異議を唱えており、自動車メーカーの対中協力が米国の政治的圧力の対象となっている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OS1dfc2RzN3Rkcm1CN29WV1llQm1mZkx6bmdORVQxQkQ2Z3hzUUh2MVVwRnJ4VHZ0ekdaMWctSDVjNnc1ZUhVUndlZk9sUC1RWXFnclZuYXp6UXZtR0xDSTlQX1hvdk9FeEpza1RCWlRMdVZmV2FpOHJCSndfWlE?oc=5",
+          "added_at": "2026-11-14 20:58:44"
+        },
+        {
+          "uid": "f2b5340acc1e",
+          "date": "2026-09-15",
+          "title": "Trump says China can build cars in US despite Congress policy push - https://internationalfinance.com/",
+          "summary": "トランプ前大統領が中国メーカーの米国での自動車生産を認める発言をした一方で、議会は中国資本の自動車製造に対する規制強化を推し進めており、米国内で対中自動車産業政策をめぐる政治的対立が生じている。",
+          "source": "フォード",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRF9GSURJWU5hT1NHQWdpOEVqSkxtcmpReVZBTHFGamY1TWx0T3psaTRHVjljOU1KVjZOZFdnN1BoQUhJY2ZvMnRXaHVrN1p4Z1hKYklpZ3g2ODFvV0tOQ0pLN3lLSzNtenVpMlVFbnFYMFE5cGk3NF9qclFZZFlkQWhpbVE0ckctRmtSa2VtRVBsRzNTdXR1NEgzNFAxMnRMUmRqU0JZMVpaZ085UWxZ?oc=5",
+          "added_at": "2026-11-14 20:58:44"
+        },
         {
           "uid": "1bb92ba3487f",
           "date": "2026-09-08",
@@ -8002,46 +8042,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRFNsNlFqeHItQ2xFeVlGNlF1SFNVQzFVV0xsSm1keDk1RDRQNnVUN1MwTTdod053RGg0VzFGU2tIakJBY2RaYmNWT2RGanNkZzdsQ1BGcjJ0TTRQMDdGajEyUU51ZERueUhfdzdBYzdSZlJ1VTNoUzNWeEVFZXNNVEVBZHdndFdUak1zQzVJZDRweFhiSjhQMg?oc=5",
           "added_at": "2026-10-15 18:25:30"
-        },
-        {
-          "uid": "4a75b7ddd874",
-          "date": "2026-10-14",
-          "title": "As inflation rises, more than 40 percent say they struggle to pay for basic necessities: Pew",
-          "summary": "この記事は自動車メーカーの対中提携への政治的批判とは関連がなく、米国のインフレーションに伴う生活費の負担増について報じたものであるため、要求された文脈での要約はできません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/business/6149011-americans-struggle-basic-costs/",
-          "added_at": "2026-10-15 18:25:30"
-        },
-        {
-          "uid": "8a09b68800fa",
-          "date": "2026-09-09",
-          "title": "Donald Trump administration flags Ford Motor’s China ties as security risk - ET Auto",
-          "summary": "トランプ政権がフォード・モーターの中国との提携を国家安全保障上のリスクとして問題視していることが報じられた。自動車メーカーの対中ビジネスが米国政府の政治的批判の対象となっている。",
-          "source": "業界分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSDNhb21GS2pXSmxncXBwcWpYX2czVlBqT3h2VkdWUHc0MVprVlUyN3lzMkFDUXZOTEVydEFrcHE5RHp6WE9uZk5vNlJzODZRanM3WGxXajFUMUw4bXUzakRsY0ZnaXpfWk1UNEM3YkJtNTh4SnNNR0VrYXY3WnoxaWNjUC0wanhyNzJESUUwZmZWYXpndTBrTFcxcWFFNEN6ZGFnOTlKbTZ3V2ZFRHNVR0oxeVpPVE9RUUdRa0JDb2dpc3JvWDFjTUpWM3RjTlJqakl3ejBB?oc=5",
-          "added_at": "2026-10-15 03:24:03"
-        },
-        {
-          "uid": "c6266c54a5c3",
-          "date": "2026-10-11",
-          "title": "Trump calls for replacing Ukraine's Zelenskiy in tussle over diesel deal with Russia - Reuters",
-          "summary": "トランプ前大統領がウクライナのゼレンスキー大統領の交代を呼びかけた背景には、ロシアとのディーゼル取引をめぐる対立があり、これは自動車メーカーのエネルギー調達戦略における地政学的リスクが政治化していることを示唆している。この事例は、自動車産業のサプライチェーンが政治的対立の影響を受けることで、企業の対中・対ロシア提携戦略にも直接的な圧力となる可能性を示している。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXFuRXk1Sm4ydlg5Tng2TklTSDlLUlhUXy12UldndXpmdWN1cnNYSmhZaFRwRTlSM0pUZWVtZjdicXdNbVlSMUxNYk5YYVhncjczY2FuLThrRlk4MTFPUU8ySVM5bHRlaGdfX19VTHQxQU9ZTXQwazF2MXhKYlUzVTFUMEZ2cjdQSTZGVEN5QWRPMlhPQnZTNElXeTY5QzZJb2NMcENHTUhSUXVVMU1kYjdoN2ZJZGdoTllBMkRvenZ4aU0?oc=5",
-          "added_at": "2026-10-15 03:24:03"
-        },
-        {
-          "uid": "1513ba6eb27a",
-          "date": "2026-10-14",
-          "title": "Stephen A. Smith says Trump’s financial pledges aren’t winning over Americans at NewsNation town hall",
-          "summary": "この記事はトランプ前大統領の経済メッセージに関する政治論評であり、自動車メーカーの対中提携への政治的批判という文脈とは直接的な関連がありません。要約の対象外です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6147662-trump-economic-messaging-critique/",
-          "added_at": "2026-10-15 03:24:03"
         }
       ]
     }
