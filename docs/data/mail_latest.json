@@ -1,51 +1,276 @@
 {
-  "generated_at": "2026-11-13 13:38 JST",
-  "sender_count": 2,
-  "total_mails": 2,
+  "generated_at": "2026-11-14 14:55 JST",
+  "sender_count": 4,
+  "total_mails": 34,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 1,
+      "count": 10,
       "bullets": [
-        "青年主導のコックローチ・ジャナタ党が大規模野党集会への支持を表明しながら直接参加を回避し、中立姿勢を維持",
-        "インド野党とコックローチ党が分裂状態にある中で、議会が野党指導力の統合を進行",
-        "インド海軍のコルベット艦契約による艦隊増強の継続",
-        "食糧インフレがフレックス燃料義務化の新規導入を延期の見通し",
-        "スリランカの予算編成で所得税削減とインフラ支出の拡大"
+        "トランプ大統領の任期中、民主党議会による厳しい対中法案の推進にもかかわらず、米中の安定的な関係が維持される見通し",
+        "Nvidia創業者兼CEOファン・へシの辞任により、輸出規制法案に対する産業界の有力ロビイストが失われ、スキャンダルの影響がワシントンで波及",
+        "Nvidiaスキャンダルがワシントンの対中強硬派を勢い づけ、国防授権法に含まれる輸出規制法案の可決が脅威に",
+        "APEC首脳会談は実質的な成果が限定的となり、米中間の進展も限定的な見通し"
       ],
       "subjects": [
         [
           "2026-11-12",
-          "Cockroaches keep distance from opposition",
-          "data/pdfs/20261112_1316_Cockroaches_keep_distance_from_opposition.pdf"
+          "Managed US-China stability will hold despite Democrats pushing",
+          "data/pdfs/20261112_2219_Managed_US-China_stability_will_hold_despite_Democ.pdf"
+        ],
+        [
+          "2026-11-13",
+          "Nvidia scandal will reverberate in Washington even after Huang’s",
+          "data/pdfs/20261113_0150_Nvidia_scandal_will_reverberate_in_Washington_even.pdf"
+        ],
+        [
+          "2026-11-13",
+          "Nvidia scandal will threaten US-China truce in 2027",
+          "data/pdfs/20261113_2050_Nvidia_scandal_will_threaten_US-China_truce_in_202.pdf"
+        ],
+        [
+          "2026-11-13",
+          "Xi, Trump, and Putin will overshadow a low-stakes APEC",
+          "data/pdfs/20261113_2056_Xi,_Trump,_and_Putin_will_overshadow_a_low-stakes_.pdf"
+        ],
+        [
+          "2026-11-13",
+          "Energy and Environment Outlook",
+          "data/pdfs/20261113_2152_Energy_and_Environment_Outlook.pdf"
+        ],
+        [
+          "2026-11-14",
+          "Nvidia scandal endangers US-China truce",
+          "data/pdfs/20261114_0043_Nvidia_scandal_endangers_US-China_truce.pdf"
+        ],
+        [
+          "2026-11-14",
+          "Gulf: War shifts financial clout to UAE, Qatar",
+          "data/pdfs/20261114_0058_Gulf__War_shifts_financial_clout_to_UAE,_Qatar.pdf"
+        ],
+        [
+          "2026-11-14",
+          "Hormuz flows will likely prove sustainable",
+          "data/pdfs/20261114_0135_Hormuz_flows_will_likely_prove_sustainable.pdf"
+        ],
+        [
+          "2026-11-14",
+          "Democratic Senate leadership race the newest front in Iran war",
+          "data/pdfs/20261114_0139_Democratic_Senate_leadership_race_the_newest_front.pdf"
+        ],
+        [
+          "2026-11-14",
+          "Lula will regulate tech mostly by decree",
+          "data/pdfs/20261114_0600_Lula_will_regulate_tech_mostly_by_decree.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261112_1316_Cockroaches_keep_distance_from_opposition.pdf"
+        "data/pdfs/20261112_2219_Managed_US-China_stability_will_hold_despite_Democ.pdf",
+        "data/pdfs/20261113_0150_Nvidia_scandal_will_reverberate_in_Washington_even.pdf",
+        "data/pdfs/20261113_2050_Nvidia_scandal_will_threaten_US-China_truce_in_202.pdf",
+        "data/pdfs/20261113_2056_Xi,_Trump,_and_Putin_will_overshadow_a_low-stakes_.pdf",
+        "data/pdfs/20261113_2152_Energy_and_Environment_Outlook.pdf",
+        "data/pdfs/20261114_0043_Nvidia_scandal_endangers_US-China_truce.pdf",
+        "data/pdfs/20261114_0058_Gulf__War_shifts_financial_clout_to_UAE,_Qatar.pdf",
+        "data/pdfs/20261114_0135_Hormuz_flows_will_likely_prove_sustainable.pdf",
+        "data/pdfs/20261114_0139_Democratic_Senate_leadership_race_the_newest_front.pdf",
+        "data/pdfs/20261114_0600_Lula_will_regulate_tech_mostly_by_decree.pdf"
       ]
     },
     {
-      "sender": "ジェトロ",
-      "short": "ジェトロ",
+      "sender": "Eurasia",
+      "short": "EURAS",
       "color": "YEL",
-      "count": 1,
+      "count": 2,
       "bullets": [
-        "インドは高い経済成長と人口規模が魅力だが、中堅・中小企業が商習慣や法務労務、人材確保で課題に直面している状況",
-        "AI需要拡大に伴う半導体・データセンター投資の加速一方で、電力・水・人材供給の制約が新たなビジネス機会を創出",
-        "各国による経済安全保障重視でサプライチェーン強靭化と国内回帰推進に伴い、輸出管理と投資管理の厳格化が日本企業の新たなリスク",
-        "韓国企業が米中対立を背景に中国投資を削減し、米国やベトナム、インドネシア、インドへの投資をシフト"
+        "通信障害の影響を受けた企業向けに、オンラインポータルと新アプリ(iOS/Android)でのEurasia Groupコンテンツへのアクセス方法を案内",
+        "新アプリがアナリストへの接続と地政学的動向の情報収集に最速かつ最も信頼できる手段として紹介",
+        "ブラジルのルーラ大統領がデジタル主権を政策の柱に掲げつつ、地政学的環境に応じて米国と中国のサプライヤー間でバランスを取る技術規制方針を発表",
+        "Eurasia Groupの日次リサーチサマリーをカスタマイズ可能なメール形式で提供開始"
+      ],
+      "subjects": [
+        [
+          "2026-11-14",
+          "Communications Down? Never Miss Eurasia Group Content with",
+          "data/pdfs/20261114_0150_Communications_Down__Never_Miss_Eurasia_Group_Cont.pdf"
+        ],
+        [
+          "2026-11-14",
+          "Daily Research Summary - Nov 13th, 2026",
+          "data/pdfs/20261114_0834_Daily_Research_Summary_-_Nov_13th,_2026.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261114_0150_Communications_Down__Never_Miss_Eurasia_Group_Cont.pdf",
+        "data/pdfs/20261114_0834_Daily_Research_Summary_-_Nov_13th,_2026.pdf"
+      ]
+    },
+    {
+      "sender": "POLITICO",
+      "short": "POLIT",
+      "color": "RED",
+      "count": 21,
+      "bullets": [
+        "ウクライナ和平交渉においてEU代表としてコスタとカラスが務めるべき人選を提案",
+        "ウクライナ戦争長期化に伴いモスクワが死傷者数の隠蔽と遺体埋葬地の追跡防止に注力",
+        "2027年NATO首脳会談に対する同盟国の懸念を受けアルバニアが2028年開催もしくはオンライン開催の柔軟な対応を提案",
+        "EUの最高裁がポーランドによるEU気候法7件の無効化請求を却下し2035年ゼロエミッション車目標などを維持",
+        "英国の元ブレグジット交渉官がEUとの関係再構築に向けた労働党の譲歩不可条件の撤廃を提議"
       ],
       "subjects": [
         [
           "2026-11-12",
-          "ジェトロ地域・分析レポートの新着のご案内（2026年11月12日号）",
-          "data/pdfs/20261112_1418_ジェトロ地域・分析レポートの新着のご案内（2026年11月12日号）.pdf"
+          "Estonia wants Costa and Kallas to speak for Europe in Ukraine",
+          "data/pdfs/20261112_1733_Estonia_wants_Costa_and_Kallas_to_speak_for_Europe.pdf"
+        ],
+        [
+          "2026-11-12",
+          "The Kremlin can hide the death toll. It can’t hide the graves.",
+          "data/pdfs/20261112_1835_The_Kremlin_can_hide_the_death_toll._It_can’t_hide.pdf"
+        ],
+        [
+          "2026-11-12",
+          "Albania pitches flexible NATO summit as allies sour on 2027",
+          "data/pdfs/20261112_2006_Albania_pitches_flexible_NATO_summit_as_allies_sou.pdf"
+        ],
+        [
+          "2026-11-12",
+          "EU court rejects Poland’s bid to overturn 7 major climate laws",
+          "data/pdfs/20261112_2026_EU_court_rejects_Poland’s_bid_to_overturn_7_major_.pdf"
+        ],
+        [
+          "2026-11-12",
+          "Former Brexit negotiator now open to scrapping Labour’s EU red",
+          "data/pdfs/20261112_2206_Former_Brexit_negotiator_now_open_to_scrapping_Lab.pdf"
+        ],
+        [
+          "2026-11-12",
+          "EU closes antitrust probe into Dutch rail operator",
+          "data/pdfs/20261112_2305_EU_closes_antitrust_probe_into_Dutch_rail_operator.pdf"
+        ],
+        [
+          "2026-11-13",
+          "Pro Daily Headlines",
+          "data/pdfs/20261113_0131_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-11-13",
+          "Potential EU-UK tariff reprieve for automakers",
+          "data/pdfs/20261113_1917_Potential_EU-UK_tariff_reprieve_for_automakers.pdf"
+        ],
+        [
+          "2026-11-13",
+          "Europe struggles to find its voice",
+          "data/pdfs/20261113_1937_Europe_struggles_to_find_its_voice.pdf"
+        ],
+        [
+          "2026-11-13",
+          "5 things to watch at the Dublin EU leaders’ summit",
+          "data/pdfs/20261113_1949_5_things_to_watch_at_the_Dublin_EU_leaders’_summit.pdf"
+        ],
+        [
+          "2026-11-13",
+          "Burnham to discuss ‘problem’ Chinese imports in final days of",
+          "data/pdfs/20261113_2011_Burnham_to_discuss_‘problem’_Chinese_imports_in_fi.pdf"
+        ],
+        [
+          "2026-11-13",
+          "EU leaders start Friday’s summit still at odds over who should lead",
+          "data/pdfs/20261113_2012_EU_leaders_start_Friday’s_summit_still_at_odds_ove.pdf"
+        ],
+        [
+          "2026-11-13",
+          "Leaders chat AI as Microsoft outage disrupts Europe — live",
+          "data/pdfs/20261113_2012_Leaders_chat_AI_as_Microsoft_outage_disrupts_Europ.pdf"
+        ],
+        [
+          "2026-11-13",
+          "Jensen Huang’s fall further exposes EU leaders on AI",
+          "data/pdfs/20261113_2207_Jensen_Huang’s_fall_further_exposes_EU_leaders_on_.pdf"
+        ],
+        [
+          "2026-11-13",
+          "Mercedes halts German investments",
+          "data/pdfs/20261113_2216_Mercedes_halts_German_investments.pdf"
+        ],
+        [
+          "2026-11-13",
+          "Document: Irish compromise on animal transport fails",
+          "data/pdfs/20261113_2258_Document__Irish_compromise_on_animal_transport_fai.pdf"
+        ],
+        [
+          "2026-11-14",
+          "UK and Chinese trade chiefs talk EV imports ahead of Brexit",
+          "data/pdfs/20261114_0020_UK_and_Chinese_trade_chiefs_talk_EV_imports_ahead_.pdf"
+        ],
+        [
+          "2026-11-14",
+          "Corrected: Document: Irish compromise on animal transport fails",
+          "data/pdfs/20261114_0053_Corrected__Document__Irish_compromise_on_animal_tr.pdf"
+        ],
+        [
+          "2026-11-14",
+          "Pro Daily Headlines",
+          "data/pdfs/20261114_0131_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-11-14",
+          "EU agrees on 5 countries to lead Ukraine talks — live updates",
+          "data/pdfs/20261114_0233_EU_agrees_on_5_countries_to_lead_Ukraine_talks_—_l.pdf"
+        ],
+        [
+          "2026-11-14",
+          "Cut off from Europe, Russia will have to rewire its Arctic gas trade",
+          "data/pdfs/20261114_0256_Cut_off_from_Europe,_Russia_will_have_to_rewire_it.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261112_1418_ジェトロ地域・分析レポートの新着のご案内（2026年11月12日号）.pdf"
+        "data/pdfs/20261112_1733_Estonia_wants_Costa_and_Kallas_to_speak_for_Europe.pdf",
+        "data/pdfs/20261112_1835_The_Kremlin_can_hide_the_death_toll._It_can’t_hide.pdf",
+        "data/pdfs/20261112_2006_Albania_pitches_flexible_NATO_summit_as_allies_sou.pdf",
+        "data/pdfs/20261112_2026_EU_court_rejects_Poland’s_bid_to_overturn_7_major_.pdf",
+        "data/pdfs/20261112_2206_Former_Brexit_negotiator_now_open_to_scrapping_Lab.pdf",
+        "data/pdfs/20261112_2305_EU_closes_antitrust_probe_into_Dutch_rail_operator.pdf",
+        "data/pdfs/20261113_0131_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20261113_1917_Potential_EU-UK_tariff_reprieve_for_automakers.pdf",
+        "data/pdfs/20261113_1937_Europe_struggles_to_find_its_voice.pdf",
+        "data/pdfs/20261113_1949_5_things_to_watch_at_the_Dublin_EU_leaders’_summit.pdf",
+        "data/pdfs/20261113_2011_Burnham_to_discuss_‘problem’_Chinese_imports_in_fi.pdf",
+        "data/pdfs/20261113_2012_EU_leaders_start_Friday’s_summit_still_at_odds_ove.pdf",
+        "data/pdfs/20261113_2012_Leaders_chat_AI_as_Microsoft_outage_disrupts_Europ.pdf",
+        "data/pdfs/20261113_2207_Jensen_Huang’s_fall_further_exposes_EU_leaders_on_.pdf",
+        "data/pdfs/20261113_2216_Mercedes_halts_German_investments.pdf",
+        "data/pdfs/20261113_2258_Document__Irish_compromise_on_animal_transport_fai.pdf",
+        "data/pdfs/20261114_0020_UK_and_Chinese_trade_chiefs_talk_EV_imports_ahead_.pdf",
+        "data/pdfs/20261114_0053_Corrected__Document__Irish_compromise_on_animal_tr.pdf",
+        "data/pdfs/20261114_0131_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20261114_0233_EU_agrees_on_5_countries_to_lead_Ukraine_talks_—_l.pdf",
+        "data/pdfs/20261114_0256_Cut_off_from_Europe,_Russia_will_have_to_rewire_it.pdf"
+      ]
+    },
+    {
+      "sender": "ビジネス短信",
+      "short": "ビジネス短",
+      "color": "ORG",
+      "count": 1,
+      "bullets": [
+        "中国がAPECビジネストラベルカード所持者の滞在期間を60日から90日に延長",
+        "中国商務部が両用品目の輸出管理に関する調査・執行弁法案を発表し意見募集を開始",
+        "中国が初の製品別政府調達国産品基準案を発表、固定式多関節産業用ロボットや逆浸透式水処理設備など5種類を対象化",
+        "浙江省がAI活用小規模企業の育成に10項目の支援策を実施",
+        "営口市で電池循環経済産業園プロジェクトの調印式を開催、BYDが技術支援"
+      ],
+      "subjects": [
+        [
+          "2026-11-13",
+          "「ジェトロ・ビジネス短信」2026/11/12付",
+          "data/pdfs/20261113_2133_「ジェトロ・ビジネス短信」2026_11_12付.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261113_2133_「ジェトロ・ビジネス短信」2026_11_12付.pdf"
       ]
     }
   ]
