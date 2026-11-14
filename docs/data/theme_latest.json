@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14 20:58:48",
+  "generated_at": "2026-11-15 03:58:56",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,28 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-14 20:58:15",
+      "last_checked": "2026-11-15 03:58:26",
       "items": [
+        {
+          "uid": "5d66d843e4a4",
+          "date": "2026-11-13",
+          "title": "Japanese steelmakers urge EU to revise Industrial Accelerator Act requirements - GMK Center",
+          "summary": "日本の鉄鋼メーカーは、欧州産業加速法案（IAA）の要件が過度に厳格であるとして、EUに対して見直しを求めています。彼らは、現在の規制が国際競争力を損なう可能性があると懸念しています。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFg2b2UxNTNSOWlxaGp2SlNwbnBPR1BnVVItTHRmVjJlT0c2YTRBb0hHcHZsUmRFaEJTQ0prWjhIbVYtajUwMXpJd2x0U2h2Zlo2eHBYeGpfOGZUejNUVUlrZlltUV9OVnltMEYtR1dtdFZnczRFcG5fYUZLTXA0dC1IMEJWQ2FISjV4d2ZRdE5aWE43Q2cxMEt2VW41SjVxMDRLR3g2TVotd9IBrwFBVV95cUxNcVhfVnNIQk4xS0E4Vi05bU9ramJiOUNhTkw4T3FMYUZzc2p2UmtSRDNwQlVSby05SGdlMXI4Y0hHZEZsdEMyMmZFTVplSlN0WFpDcUhVdTVBcjhTVzgyd2toMXc4VVdFaV9oanl3RnptbDM4YS1UTF9abkgydGVpTHJkMnlZLWs3X1l5OXZyN2NWZDNpMmFmcXFMRHZ2Q3VoX0FsOGp4TkhNRm5IZ2xn?oc=5",
+          "added_at": "2026-11-15 03:58:23"
+        },
+        {
+          "uid": "6e40528e8325",
+          "date": "2026-11-14",
+          "title": "ITRE Backs EUR 200bn Horizon Europe Successor - CASRAI",
+          "summary": "欧州議会産業・研究・エネルギー委員会（ITRE）は、欧州産業加速法案（IAA）の一部として、ホライズン・ヨーロッパの後継プログラムに200億ユーロの予算配分を支持する決定を行った。本予算は欧州の産業競争力強化と研究開発促進を目的とした投資である。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS1JUN2todDIwOFoyUTh3WlB2eHk5MVVWQk1WYmZCMUFjZXdLTW9waFdUa3pVS2h2NVNmUW82dUV4alFHWmZndTA0aU44YXpTZ1JEc3FBU3RxSmRwMkZqdzFqblZpSS1sdVZkTnhySlhlZXdCeFp0SFRmYm16cXVmTGh5bTFyd0l6a1FHbmx0TzhvZGdOaWc?oc=5",
+          "added_at": "2026-11-15 03:58:23"
+        },
         {
           "uid": "0a346ba60bf6",
           "date": "2026-11-13",
@@ -1989,26 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDRpX25fZngwTThSaXhLeWRCQW9td1lmQ1M5ZE9QVkFXdDEzZVM3STNBQ1BXUE5rNzZja3RSUzFvWGJQZk9aeGxQbkFreDNFSk9jRl9ub1pPUm05ZVVtenlkMDZUN3VfUzRBTXh0TFRFUjFVemJVcEN3c3labEprUVQ2ZE9KM0ZPX0ozSTF4cnQ3eFRVcm5abmU4aldfenZ0cEFSNTNqQUI3ams?oc=5",
           "added_at": "2026-09-12 02:37:53"
-        },
-        {
-          "uid": "c090882717d8",
-          "date": "2026-09-09",
-          "title": "Market stability reserve for ETS - European Parliament’s ‘Environment’ Committee rejects Commission proposal on cancellation of allowances - Agence Europe",
-          "summary": "欧州議会の環境委員会は、欧州委員会がETS（排出量取引制度）の市場安定化予備制度に関連して提案した排出枠のキャンセル案を否決した。これは、IAAの脱炭素化目標達成に向けた排出削減メカニズムの運用方針に関わる重要な判断である。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZzVJRmdTSUpQRnJad05XRGowY1N2LVlFbTRxa2k0UFNlVkJDWnlIUTBUY3dkSWVhc05iN3VZaU1EdHc0b0ZfTGQwTDJ4WUFGMGlodXFSQVdWcGZweko2Zks2R3BuVUF2YzZDc1g5ZDRMQ2lZamZ2QVd6Wk5EV3V0R0hDLUdPMkpiQjZwMzRpOFpFV2N5YUNERFBnS2h1RUJjT2tVOEZuaTNVbXhnRTYtdWthOWl1ZkRGbzRTWHU5b3BzY1BzZFpuMjRqQ2JFR2YxQlZnSmRPbkZxRGVMRTFWRUZNbTBSSkJvdjlCNDdBRkdLT2NVNC1yZllqZU82WGZVSFY0YVp6NE1iWTNFRXdPdVFn?oc=5",
-          "added_at": "2026-09-12 02:37:53"
-        },
-        {
-          "uid": "8d83b2176cb4",
-          "date": "2026-09-10",
-          "title": "EU policymakers push to increase ‘Made in Europe’ requirement for solar under IAA - pv-tech.org",
-          "summary": "EUの政策立案者は、産業加速法案（IAA）の下で太陽光発電機器の「欧州製」要件を引き上げることを推進しており、これは欧州の太陽光産業の競争力強化と域内産業の育成を目指すものです。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWFmT1dKenB0ZXVoMlJvTVRMNEVMcGxyaDlON3Qza1NKRF9FZzNZZXk4SE1NOUpmTURyQWhjSGdhRjYyd0ZQWVRYSUt5RE5zdFJEc2lhSjE0dG4xSzFxR2VyUTVzV0NEX1BsNzVmOGVCSy1WTGg1MHhWSHA5aWQ0VXE2VkNTelh6Mi1wQkpRSGhNUFFfS1lVUV95cUNLTmh1bWxEYVZpdw?oc=5",
-          "added_at": "2026-09-11 02:33:32"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-14 20:58:24",
+      "last_checked": "2026-11-15 03:58:34",
       "items": [
         {
           "uid": "ecd866b6b212",
@@ -4030,7 +4030,7 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-14 20:58:37",
+      "last_checked": "2026-11-15 03:58:46",
       "items": [
         {
           "uid": "bbcf11f7e181",
@@ -6041,8 +6041,38 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-14 20:58:48",
+      "last_checked": "2026-11-15 03:58:56",
       "items": [
+        {
+          "uid": "b3a4ca0056ff",
+          "date": "2026-09-03",
+          "title": "Auto companies call for ban on Chinese-made cars - The Hill",
+          "summary": "米国の自動車メーカーが中国製自動車の禁止を求めており、これは自動車業界における対中提携や中国車の市場進出に対する政治的・経済的圧力が高まっていることを示している。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYlczY2hXZkpMLTl0UlpOZGZMUnZGNkU2czRDdWNJbmZCazJnWHVORGIwNVNibUtvMFhENndnS3I2VG5vbTlYQ2t6R0NJTHh3RXhWY3Z5Z3ZmRlBVa2tIUXhXc1VZeDZLaHpJWW9vSXdVNllUQmY3MzNiNm1iTlFpbkFKSmM5cEh1c0x6bXNmOWk0bW9TTzBFeVBFSTJ1Z9IBowFBVV95cUxQZF96MFBnaU5aQTgxMWZSRVEtUTA2QldOYUVSVTkxWFBYTlhJS3BlY3VkZEEyOVNGX0VnZHJkRTZ0c1hzRGlsY2FuMnhwSW4waWNWcEpRaXFKb0wyV2dSUDg3SkZndVFBWkVyZXVFVDVlZUdfTG81X1pUYU1wdTNtTHFPRklqbThaWFg2UVE0d1B0V0RYMUE1REZTNjhKTDdwb2VN?oc=5",
+          "added_at": "2026-11-15 03:58:52"
+        },
+        {
+          "uid": "54c599a291dd",
+          "date": "2026-09-09",
+          "title": "Trump administration slams Ford, alleges ties to China - Gulf Coast News and Weather",
+          "summary": "トランプ政権がフォード自動車の対中関係を批判したとの報道であり、自動車メーカーの中国との提携が政治的な非難の対象となっていることを示している。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZEtSNU5XbGkxY2Q5WWQ2N2RDVEZoUmV4Y0NPRUZRQWwxczFLaXVXeUUtMFBCQURGaEllVV9PblJTSHUwRWg0SWhmdDdVTUZCMmFZWFotOEJJRXI5TGFjYUJYSFFCNzF1T1cwYm5vQUkwMlB3MW1rRktSelJKMEJ4YjNnYmFTNVFYeHRDM19IcEg?oc=5",
+          "added_at": "2026-11-15 03:58:52"
+        },
+        {
+          "uid": "fb727ff1d6e2",
+          "date": "2026-09-25",
+          "title": "GOP senators dismayed by Trump embrace of Xi after China helped Iran target US troops - The Hill",
+          "summary": "トランプ前大統領が中国の習近平国家主席を擁護したことに対し、共和党上院議員らが懸念を表明しており、これはイラン経由の米軍攻撃への中国の関与を背景にした政治的批判として機能している。米国の地政学的利益と対中政策の緊張関係が、自動車メーカーを含む産業界の中国との提携戦略にも影響を及ぼす可能性を示唆している。",
+          "source": "フォード",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVRVVElFQzRZZy0tcmV1MHlrajRiSXczZEJvR3FESFpKeWZxRnVkMkplUEFZTkpEWHRxbTNGcF85UTBvTjNRekN2RW1wUFE3ektQYmQ1NHZKemp3VEl1Nnh1YlFxcUtRYjMzUzBoQzg0cy01TjJxcUNGY0Y2RVlNdUQ0YXJ1LS1Rd2Y2c3JsbjZ5M3BkNFNNYWdLWEoyeVAxWWfSAacBQVVfeXFMTm16Q1lrSUFlbVJYRktfWGdZd1Q0Zk9JekF5Q0xkWm43d2RuU0JnZkZuQkEtNW9nYWhmYzhrUUNDYnpDQWEyRUk3MXpqTmh1MW93WWptUDZXa1JhT2dWMnRwY24yZXBWT2ZUeW5qaDcwLTdTb29QelgxaWhVNlZJZWN5YkQ2N2pVRVJwQ1NocXhRN2Y2M1NMbmxLWVUxeHJzbE9QM1VONVE?oc=5",
+          "added_at": "2026-11-15 03:58:52"
+        },
         {
           "uid": "62e85082f120",
           "date": "2026-09-09",
@@ -8012,36 +8042,6 @@
           "source_type": "media",
           "url": "https://thehill.com/homenews/administration/6151996-zacharia-california-bar-exam-results/",
           "added_at": "2026-10-16 14:31:35"
-        },
-        {
-          "uid": "5d08c5fe30cd",
-          "date": "2026-09-03",
-          "title": "Major automakers are urging Congress to permanently ban Chinese connected vehicles - Quartz",
-          "summary": "米国の大手自動車メーカーが議会に対し、中国製コネクテッドカーの恒久的な禁止を求めるよう働きかけており、これは安全保障上の懸念から中国資本の車両に対する規制圧力が強まっていることを示している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mVy1zTmtfLU01cUlJenVvd0FEaDZMMHRWWXRhZ3JyQk10aTFyWVA4TjRlczZMdTliNDVIcVQ1b1FDbzAxWGljbG8waWZGeG1FME1kckh1NTd0VG1NTU92T3hXR0NabkNKRlFrN3g4a1I2T0hhYVg3VlhQNEM?oc=5",
-          "added_at": "2026-10-15 18:25:30"
-        },
-        {
-          "uid": "ecfaa42fb00d",
-          "date": "2026-09-10",
-          "title": "Sean Duffy Says Cut Ties With China, Ford Pushes Back - Motor1.com",
-          "summary": "米国の政治家ショーン・ダッフィ氏が中国との関係を断つよう主張する中、フォード・モーターは中国とのビジネス関係の継続を主張して反発している。自動車メーカーと政府の間で、対中経営戦略をめぐる政治的対立が生じている。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82anZuTmxuWEFUOGpZQWRaUnF0RzZqWDhpZ3RtWVNlc2g2dDVjTnNkaUVLRUdkeHVqV25CdkdTNnJPb09zSjhXNm1md25aTmw2NE5UTEk2ekZYZ1ppMHAxUTNSRzJXVnowUW5MZlBtZmpDRGs0?oc=5",
-          "added_at": "2026-10-15 18:25:30"
-        },
-        {
-          "uid": "9aa1e124341f",
-          "date": "2026-09-14",
-          "title": "Trump says he would accept Chinese car plants in the US - Automotive World",
-          "summary": "トランプ元大統領は米国内への中国自動車工場の設立を容認すると述べており、これは自動車メーカーの対中提携に対する従来の保護主義的批判とは異なる立場を示している。この発言は、米国の自動車産業政策と中国との経済関係に関する政治的姿勢の変化を示唆している。",
-          "source": "トランプ政権高官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRFNsNlFqeHItQ2xFeVlGNlF1SFNVQzFVV0xsSm1keDk1RDRQNnVUN1MwTTdod053RGg0VzFGU2tIakJBY2RaYmNWT2RGanNkZzdsQ1BGcjJ0TTRQMDdGajEyUU51ZERueUhfdzdBYzdSZlJ1VTNoUzNWeEVFZXNNVEVBZHdndFdUak1zQzVJZDRweFhiSjhQMg?oc=5",
-          "added_at": "2026-10-15 18:25:30"
         }
       ]
     }
