@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14 05:48:30",
+  "generated_at": "2026-11-14 14:56:26",
   "themes": [
     {
       "id": "iaa",
@@ -8,47 +8,57 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-14 05:47:56",
+      "last_checked": "2026-11-14 14:55:18",
       "items": [
         {
           "uid": "598fc732227e",
           "date": "2026-11-13",
           "title": "Japanese steel industry urges changes to EU Industrial Accelerator Act - SteelOrbis",
-          "summary": "日本の鉄鋼業界が、EU産業加速法案（IAA）における規制強化の緩和を求めており、現行の厳格な基準が日本企業の欧州市場でのビジネス展開に障害となることへの懸念が表明されている。",
+          "summary": "日本の鉄鋼業界がEUの産業加速法案に対し、競争力維持のための変更を求めており、規制の厳しさが日本企業の競争力に悪影響を及ぼす懸念があることが示唆されている。",
           "source": "Google News",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdE13YThVUkdRRkNRenFmaHVTYWxtRlFQb1R6dVJLaVUzLU1yU2ZyZHRRTUtqSGdDanE4OWJsd0NVcllwSEdmbm1sVm5Gb2s3emVxWmcyN2hMNURJd19zVFdNUmFKRHUzaFZoZVdkRU9rSC1SZEdYWlUyN245S2Flelp4QnpVOW4xUGxQVWg3anhXUFo1X1FSS25jZ3ZBM0xMQW91V2ZVc2pOVUxIWnVLSDFiZkIxdko4RURweWN3UkM2OVlVNFoycWVDQUI?oc=5",
-          "added_at": "2026-11-14 05:47:52"
+          "added_at": "2026-11-14 14:54:57"
         },
         {
           "uid": "5fdbb79ea184",
           "date": "2026-11-13",
           "title": "Japan Steel Industry Asks EU to Amend Industrial Accelerator Act - News and Statistics - IndexBox",
-          "summary": "日本の鉄鋼業界は、欧州産業加速法案（IAA）が自国企業に過度な規制負担をもたらすとして、同法案の修正をEUに要請している。この要請は、EUの産業競争力強化と脱炭素化を目指す同法案が、日本を含む第三国企業にとって過度に制限的になる可能性があることを背景としている。",
+          "summary": "日本の鉄鋼業界は、欧州産業加速法案（IAA）が過度な規制負担をもたらすとして、同法案の修正をEUに求めている。具体的には、産業競争力を損なわないよう、規制要件の緩和や実装期間の延長などの調整が要望されている。",
           "source": "Google News",
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVk5MT3F2QWhyNk50Nmg5S0gyT1dxbFZETk1BVlRzVDFXazRJRFZEQkxjc1FDT21Xc2VUWmZMeE9XNFE4TEZjdExhbjhxQ2txMmE4R0ttRlpHcUlwWTFxTlIzYi1uMnA5Z3R3bzk4MFBWZHVoN3VhZ2FUbGNhcVZRNExtMThBSzNYUlpPdGRDNzNyRUR2Tklwc0lOTmlIMWYwdVJSc0FQQUhWTl92Q1VWcXkxYWNkelg2YWNBTG9QMGVWWm5FRDh6LXR0WkFTZlRLTWc?oc=5",
-          "added_at": "2026-11-14 05:47:52"
+          "added_at": "2026-11-14 14:54:57"
         },
         {
-          "uid": "2b0e80c3b054",
+          "uid": "cd85ab061280",
           "date": "2026-11-13",
+          "title": "South Korea seeks EU exemptions for steel, nuclear equipment - upi",
+          "summary": "韓国は、欧州産業加速法案（IAA）による調達制限の対象外となるよう、鉄鋼と原子力機器に関する例外措置をEUに要請している。この動きは、IAAの域内産業優遇政策がもたらす市場アクセス制限から韓国の主要輸出産業を保護する試みである。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQemZMc19kR1YzNVFYMVpFVGs5N2NWV1NULUNaeVlBRmt5aElhX1VXdzUxTUZPblF1azBFWGxQenZDME1JajFnQy1hZ2NUV0pXX2N2RnF2bW1GN3N5WW9NVURWR0dyZzIyYW02YlJabWU3c0xlTi04ZHcxYjBBYlNMN1dyb19RSVpzM2dFUnFTZGJ3QdIBlwFBVV95cUxOU0J2OU5GUkIxaVBJbFpMLV9WTF90X05USGczVC14Uy1kc2l3M1F6RWYwSFB3NDFnMVZrVmJROVhMa0xFalhfZmpWSTZUTEQ4NkFSRFlZUXM5d0tzS0ZjeC1SWWx0b1VYb0FWaC1NSTJrT0kwMW1DLTNUcjRzZjhQS213QXhldjVKaUt0QzZTb2JKLVVlSkpZ?oc=5",
+          "added_at": "2026-11-14 14:54:57"
+        },
+        {
+          "uid": "421420975a3a",
+          "date": "2026-11-14",
           "title": "EU Commission says ETS agreement will provide industry with €10bn in support - INSIGHT EU MONITORING",
-          "summary": "EU委員会は、EU排出権取引制度（ETS）の改革合意により、産業界に100億ユーロの支援を提供すると発表し、これは産業競争力強化と脱炭素化を同時に進める欧州産業加速法案の重要な財政的支柱となっています。",
+          "summary": "欧州連合（EU）委員会は、排出量取引制度（ETS）に関する合意により、産業界に100億ユーロの支援を提供すると述べており、これは産業加速法案（IAA）の文脈における欧州産業の競争力強化と脱炭素化を同時に進める施策の一環である。",
           "source": "欧州議会",
           "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMkJEV2tJZlVNZUJNbEFZaWtwYVAtTkVONzRtLWVBemVlZUNLMW9HV2FnMUk1R3B3TmZmcXlzMUEwN3YyUzBhNVNnYmxLMW90Nkt6QXpBSU9OcjhkNmg0NXRmOTZHSTlkUE41SEZjU1FKYV84bS1ZanRMOU5fSHh0YndjQXdEWEdKQ1cxU2N1bFQ2T1ZhSS05dWtaUE1FMDlFMlVZWmxBdWJqcTVVd3ZUbGJkS2NVREZWYnpXSG9rVmtkb1lrdzQzNVJyRC10YnlmcERrcnVDMzRLVzdT?oc=5",
-          "added_at": "2026-11-14 05:47:52"
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSFY1MnY5SkYyZ21pQWRyZGx5TTU2Rnh3SFZXY29YemhtY0ZiX1hSUzdIUl9LeVdGS2ZDZU41ZENJY3RNMzF2N1RxcE84YXF1b3FwMUV2NFlhVjJVbzRqdGptYjkwWjVReDkxcUpZMlBjdnpkZ04yMlhUODh4T2RBU2ZsSWZhQWRYcURLcks4bFZfRzhsWGZHbGlUbDk0NlNWa0VVdzVZZFBSQ1FNckFjNmRBWkh4N2o5MTdWeWNnc0QwNkdsZmd1UHM4aDNaY0puUUh4Q1JwTGdFem8?oc=5",
+          "added_at": "2026-11-14 14:54:57"
         },
         {
           "uid": "18724ffc4a18",
           "date": "2026-11-13",
           "title": "EU legislators agree on more free carbon allowances for energy-intensive industries - INSIGHT EU MONITORING",
-          "summary": "EU議員らは、エネルギー集約産業の国際競争力維持を目的として、炭素国境調整メカニズム（CBAM）の導入に伴う移行期間中、対象産業への無償炭素枠の段階的削減をより緩和する内容で合意した。これにより、欧州産業加速法案（IAA）の推進と産業空洞化防止を両立させる方針が示された。",
+          "summary": "EU議員らがエネルギー多消費産業に対する無償炭素枠の追加配分に合意し、欧州産業加速法案（IAA）の競争力強化と産業空洞化防止の目標達成に向けた支援措置が確定した。これにより、EUのグリーン転換と産業競争力維持のバランスが図られることになる。",
           "source": "欧州議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZGF0MG9xTnNReWRkUlV0bFA3d2EtS0Q1NFJxUVppQVlNM2ZEUFVldWV2eDBQMFlxR1NjYk5RX0xtLTJja3FOTjhvZmlMWmxINnpDX0JPVkt4aFdfMXd5R1dDbVN5MTZScmZPQ183b09XN2NrMHN5MXd0RHRrMHIwOXpkWUtWdTc3aG9NWGdnWV9CWG9SbHFtNFZ0aThkcHEwNlFPM2RPamttenoyZWVvVy0zVWQ4cFgwZXFFWVhTSjllNnVicmRWOVhyaDVmS3J5czVUcjg5M0RmNU1xZGVKamtVQ0w?oc=5",
-          "added_at": "2026-11-13 21:54:25"
+          "added_at": "2026-11-14 14:54:57"
         },
         {
           "uid": "1f032968aa45",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlRxd1F3aWQ2VFZDSmRVX0o3YmZON0czaXMtelpNekEzTDVEYXRtMGlXeEp5Smk1ekxlcnFHNC1Xdlc0T3hoc09IZmdsX1phdkhXbzA0aFRoLUNTUVJUTmhLeFBCRXI3N21DZVliR2R6SFFzS2xHRGZJTFhVOF9DcXNYQTNVQmFBX2FwQmhlY2FmVW03b0w0Y1pDdXJDM2pORkd0Rw?oc=5",
           "added_at": "2026-09-11 02:33:32"
-        },
-        {
-          "uid": "a7fe1e7b2321",
-          "date": "2026-09-10",
-          "title": "European Parliament committee wants to continue cancelling emissions allowances, raise threshold to 650 million - oEnergetice.cz",
-          "summary": "欧州議会の委員会は、EU排出権取引制度（ETS）における排出枠の消却を継続し、その閾値を6億5000万に引き上げることを求めており、これは欧州産業加速法案（IAA）の産業競争力強化と脱炭素化の両立を目指す施策の一環である。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeDhCM2VUc21HZFhlNF94bzd1aE1nUTZSVHlHMUZrTGg0UFYzdXluT0U0X2pienNBbW5vd0lvdXVwQy1NclVhWldzZGRVa0RwN1ZidFhYUnExc2loYUpfN0FLVVVpTjc1Qk9pQVBtTFp3Z0pZNTVDeDVZTExnaEFGMmYxWTRaMWF5akFGQnFLMnVVRWJzTmZZNHc4Y1NXOEJXLXhzc1BXSGFqeERXOEtLbk5mekZjLU9ieEQ5bDltYkFnYWJnYjhkMy1TVUo1bXpuNW9BeXFoVUlDWW1JQWhNbEVWTE8?oc=5",
-          "added_at": "2026-09-11 02:33:32"
         }
       ]
     },
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-14 05:48:03",
+      "last_checked": "2026-11-14 14:55:37",
       "items": [
+        {
+          "uid": "ecd866b6b212",
+          "date": "2026-11-07",
+          "title": "Bipartisan Plan To Keep Chinese Cars Off US Roads For Good Stalls As Congress Nearly Runs Out Of Time - The Daily Caller",
+          "summary": "米国議会の与野党が支持する中国車を米国市場から排除する法案（S.4429）は、議会の会期終了が迫る中で進展が停滞している状況にあります。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSDVxNjZhM1VxYU5lYWQ0bGlPSzB4RjVKMzN2dy1rVGh0b3hIZm1wMTdoLTFlQjhvT0lNSEEtX1JpY0ZJeTluTUZZaFBaRUszclN6Sm9oUFBKdkNiYTc2Vk95bWZadE1mcHpJUVRRX3lWdVVvZDFpM3pidjRJVERBdTd4SEpGNkNnclR6Q1Vqak9lTDdOVmduVWRCd1pXRURLcDAtUWNaZFlVVTFOT3NKY2Fwd2tMT2tWSUdfTE9XTQ?oc=5",
+          "added_at": "2026-11-14 14:55:35"
+        },
         {
           "uid": "06353b5ca44d",
           "date": "2026-11-07",
@@ -4010,16 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsRFF2WXpzS05SOWpKVWhSVERSdGNmU2ZkSWdGaEQ0VkpiTlBSVzZvS251eG1XME9JVy1aUU1xVW5yZXY1NlBoYTVhaXRzMnJyQnU0TFMzVEtUak85WDJZeVlYMmZtTWMyd3FNU3Awc0s?oc=5",
           "added_at": "2026-09-03 14:02:48"
-        },
-        {
-          "uid": "b001eeaa0c75",
-          "date": "2026-08-03",
-          "title": "Vehicle Security Systems Market Size, Share | Industry [2034] - Fortune Business Insights",
-          "summary": "本記事は車両セキュリティシステム市場の2034年までの規模・シェア・業界動向を分析したもので、米国接続車両安全保障法（S.4429）で求められるサイバーセキュリティ要件に対応する市場機会と関連企業の動向を示唆しています。",
-          "source": "半導体・Tier1サプライヤー",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSmZzQ2pUbkt2aE9KcWFKa2dsVzUycGJnTUQyOVlIWmlYWVNiT0psYXFMTmNCNkllaHVuaWctbkY5SXZlNUQ2aExndG5QT1lOWjdyT0hEc0d0NWphOUdycjFUaHhLZW0wNnFkUnp3VmpJMnNNeVNwcjdiX3NFZG9YWHloaw?oc=5",
-          "added_at": "2026-09-03 14:02:48"
         }
       ]
     },
@@ -4030,17 +4030,37 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-14 05:48:18",
+      "last_checked": "2026-11-14 14:56:01",
       "items": [
         {
-          "uid": "c612b7470c2e",
+          "uid": "bbcf11f7e181",
           "date": "2026-11-13",
-          "title": "Lutnick agrees to testify before Congress amid bipartisan concerns",
-          "summary": "米国商務長官ルトニックがNvidia問題と半導体輸出規制の執行に関する超党派的な懸念を受けて議会での証言に合意し、上院銀行委員会に自発的に出席することが明らかになった。",
+          "title": "The EU’s shaky start to balancing trade with China - GIS Reports",
+          "summary": "EUは中国との貿易バランスの改善を図っていますが、中国のレアアース輸出管理や報復的な措置に直面し、効果的な対抗策を確保する上で課題を抱えています。EUは中国のレアアース供給への依存を減らし、サプライチェーン多様化やEU域内の生産能力強化を進める必要があります。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN0tONWZ1NjZ3dHZ5eEIxck1VTHNvTmN0Y3htZ2xXNnI3d0V5dkZYRTFWV2RjNDJGS1V6eVlxY2FUWDMxdjhZcUR4RXp3Vm5GSloyMEFlZ2Q2bGNDclIyZmthV0FYdS1KeUdaT2pMTUgyWWNEMXc?oc=5",
+          "added_at": "2026-11-14 14:55:55"
+        },
+        {
+          "uid": "343781781565",
+          "date": "2026-11-12",
+          "title": "“China’s Export Control Reprieve Buys Time,” but EU Supply Chain Independence Faces a Dilemma as Costs, Regulation and Pricing Hinder Efforts to Reduce Reliance on China - https://economy.ac/",
+          "summary": "中国のレアアース輸出管理の一時的な緩和により時間は得られたものの、EUがサプライチェーン独立化を達成するには、高いコスト、規制、価格設定の課題が障害となっているという状況が指摘されている。",
+          "source": "欧州委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92Z05iUHFGbjRhZ0FUam43RGxyeXdLRWdJR0xBTlhVRHdtaUlGQ21rakItS0pLWmFvN0JHa3lkcnE1YTJlZV9VUzlxY0txVVg1N01xUWNnNA?oc=5",
+          "added_at": "2026-11-14 14:55:55"
+        },
+        {
+          "uid": "0ede7eefd910",
+          "date": "2026-11-14",
+          "title": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
+          "summary": "記事の内容はトランプ大統領、プーチン大統領、習近平主席の3首脳会談に関するものであり、中国レアアース輸出管理には直接的な関連がありません。",
           "source": "The Hill",
           "source_type": "media",
-          "url": "https://thehill.com/policy/technology/6218235-howard-lutnick-testimony-congress-nvidia-scandal-chip-exports/",
-          "added_at": "2026-11-14 05:48:17"
+          "url": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/",
+          "added_at": "2026-11-14 14:55:55"
         },
         {
           "uid": "4f46a9edc22b",
@@ -6011,26 +6031,6 @@
           "source_type": "media",
           "url": "https://thehill.com/opinion/international/6140042-china-student-exchange-risks/",
           "added_at": "2026-10-13 15:23:26"
-        },
-        {
-          "uid": "02f50563e0bf",
-          "date": "2026-08-24",
-          "title": "China tightens rare earth exports — and the squeeze lands on magnets, not paperwork - Astute Group",
-          "summary": "中国はレアアース輸出の管理を強化しており、輸出規制の影響は主に書類手続きではなく、実際の磁石などの製品供給に直結している。この措置により、レアアースに依存する産業は磁石の入手難と価格上昇に直面することになる。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTXJ5OGlYRGNIZjNFX1dZUzFPSFIzeVZONEdQNE1WQlR0VEZqb2ppS1kycGEzUlJvYmo0NGRzd3hBZk1HaFZ1TC1XdFM4M3lXdEhJNnRuSnlCbFNPQVNPd0xYMThOdjBqTTJSc2hFazctQW1ER0xfY0hiMnN0TzdKQk1zQXg4QURCUEREZ3NDVVU2NWVIcWpFdW5RZzFrQi02RHBBTXNSS1dPXzlKbHFSdl9FQm1DOU90Wi1BU3JfZw?oc=5",
-          "added_at": "2026-10-09 04:43:27"
-        },
-        {
-          "uid": "46011a75d2fd",
-          "date": "2026-08-13",
-          "title": "Rules-based critical mineral export oversight enhanced - China Daily",
-          "summary": "中国が重要鉱物の輸出管理を強化し、国際ルールに基づいた監視体制を整備したことが報じられている。これは中国が戦略的に重要な資源の流出管理を厳格化し、国家利益を保護する姿勢を示すものである。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vcHFDY1c1d1BiVmp6X3RVSEwwT29YWjZNc1YtUWdDS1NSNl84UXVoZGVWUnZ2TDByOEdKLU41cThYVjFhazNBWTE3X3hldDQ3V0VKYUVWemU2N3k4NGg5N29QcWFZNDQtVzVzVEdKaXA1QzZpYkI4SkxXYVY1UQ?oc=5",
-          "added_at": "2026-10-09 04:43:27"
         }
       ]
     },
@@ -6041,87 +6041,87 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-14 05:48:30",
+      "last_checked": "2026-11-14 14:56:26",
       "items": [
-        {
-          "uid": "be7b26a70927",
-          "date": "2026-08-26",
-          "title": "Ford Makes Surprising Move by Partnering With Chinese Automaker Geely - MotorBiscuit",
-          "summary": "フォードが中国自動車メーカーの吉利汽車と提携する動きを見せたことは、米国内で自動車メーカーの対中提携に対する政治的な批判が高まる中での注目すべき事例として機能している。中国との経済的関係を深めるこうした提携は、米国産業保護主義や地政学的緊張の観点から政治的議論の対象となっている。",
-          "source": "下院中国特別委員会委員長",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN0NMb29aRkRCZ0RkdlpDeU9JTWhPUWdCdEtIRndfckVqdzdNeDZuNjQzUEg3X0k5U0M5N1hOMFJjaEhFZDRNUXp4VDBnd1YybG96QlhOczVUemRvam83VnNmb0ZIVFZoOFpFSzZOX2MzMVd6T0ZmWEZzeVZVQ0FRdlNHOHFKdUN2d1hYQ0VSUW44dw?oc=5",
-          "added_at": "2026-11-14 05:48:23"
-        },
-        {
-          "uid": "36b74d2c6287",
-          "date": "2026-09-09",
-          "title": "Trump administration challenges Ford’s partnerships with Chinese companies - CBT News",
-          "summary": "トランプ政権がフォードの中国企業との提携を問題視しており、自動車メーカーの対中提携が政治的な批判の対象となっていることが示唆されている。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OS1dfc2RzN3Rkcm1CN29WV1llQm1mZkx6bmdORVQxQkQ2Z3hzUUh2MVVwRnJ4VHZ0ekdaMWctSDVjNnc1ZUhVUndlZk9sUC1RWXFnclZuYXp6UXZtR0xDSTlQX1hvdk9FeEpza1RCWlRMdVZmV2FpOHJCSndfWlE?oc=5",
-          "added_at": "2026-11-14 05:48:23"
-        },
-        {
-          "uid": "f43e6a4c2ebf",
-          "date": "2026-10-15",
-          "title": "For Chinese automakers, the road to survival runs through Europe - Reuters",
-          "summary": "中国の自動車メーカーが欧州市場への進出を加速させている中で、欧米各国が技術流出やサプライチェーンの脆弱性を懸念して、対中提携や投資規制を強化する動きが広がっている。中国メーカーは欧州を成長の突破口としながらも、政治的緊張の中で国際的な提携戦略の見直しを迫られている。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdVlfNHVJQVdKWVBFUWpOSXlCLUpWQmQybmxlNmtkV2Vya19DTGg2THI5ZnJjckxKdkJWdm01M01MdkpBWWFVWkk0Q3pnLVpWb2RHUVVmaGNaZndkTi0tanJSYlJtUjFiYjlheFpoNG54V0FEMHR2Z1BGVUhDUnZZTms4N3dXY0t4UV9mXy1aTmFnbllMRWl3WUtsTzJqNFVPLUFqbkFiLXF0WFVrdWJfcTRYMzJJa2I0Rmc?oc=5",
-          "added_at": "2026-11-14 05:48:23"
-        },
-        {
-          "uid": "683733b00442",
-          "date": "2026-11-13",
-          "title": "Bessent: Treasury pushed to blacklist Megaspeed, but ‘Commerce has the pen’",
-          "summary": "# 要約\n\nトランプ政権の財務長官ベッセントが、商務長官ルットニックに対して、国家安全保障上の懸念からNvidia顧客のメガスピードを米国の貿易ブラックリストに登録することに失敗した責任を転嫁しており、商務省が最終的な決定権を持つことが示唆されている。この事例は、自動車メーカーを含む重要産業での対中提携に関する米国政府内の政治的な判断の対立を反映している。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6218454-bessent-lutnick-megaspeed-dispute/",
-          "added_at": "2026-11-14 05:48:23"
-        },
         {
           "uid": "1bb92ba3487f",
           "date": "2026-09-08",
           "title": "Trump Administration Blasts Ford's Business Deals With Chinese Firms - U.S. News & World Report",
-          "summary": "トランプ政権がフォードと中国企業の提携事業を批判した。この事例は、米国政府が自動車メーカーの対中ビジネスに対して政治的圧力をかけていることを示している。",
+          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判した。米国の自動車メーカーによる対中提携が政治的な争点化している。",
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2J2bmhhTi1SckwwUGh3UXA2c3NweXZSa1FnZFpLaUtFelh0cnVyNVJIVjJ1ZW9nNGtqMkQ1dnYtYmFlVzBKVlB4emlpYzkwQkJrN2QzVlhZZ2djNVRZV1VpWExSUVdDR3lOLVQ0U1lfdnUtMTJtSXFmeXc1bFItanZsQVNyYWlpQVh5R0N3Mk9rRG02TUo0RGdfMi1ZRVo1UjYxb25vbl9SSHVVZ3h1Vk5BckNCeE5SU09WRkhaaWY?oc=5",
-          "added_at": "2026-11-13 21:54:53"
+          "added_at": "2026-11-14 14:56:10"
         },
         {
           "uid": "2793be2d4ad2",
           "date": "2026-09-08",
           "title": "Trump administration expresses 'profound concern' over Ford's ties to China - CNBC",
-          "summary": "トランプ政権がフォード・モーターの対中関係に対して「深刻な懸念」を表明し、自動車メーカーの中国との提携が米国の産業セキュリティや雇用に与える影響について政治的な批判を強めている。",
+          "summary": "トランプ政権がフォード・モーターの中国との関係に対して「深刻な懸念」を表明し、自動車メーカーの対中提携が米国の政治的批判の対象となっていることを示している。",
           "source": "運輸長官",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NNIBdEFVX3lxTE1BYzFIa1p4MnpkQV9KR3c0SUNlbDkyRExQRjlRd2M0bS0zREJ3SEgxcnhvLXd6bEdYaFozbVQ0LXRhZjdIWHQ3ZUtSS0N0SGdmcHFQTkc2Y2d3S0puRkRCdGpwalphQ1RJVjJHRElHdGl3SGI4?oc=5",
-          "added_at": "2026-11-13 21:54:53"
-        },
-        {
-          "uid": "1adec55e2cbc",
-          "date": "2026-09-09",
-          "title": "Trump administration blasts Ford's business deals with Chinese firms - Reuters",
-          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を厳しく批判しており、米国の自動車メーカーが中国との協力関係を深めることに対する政治的な反発が強まっている。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUxxT0xDWVRud1VVVzV3eXRFTDR2eXRmalJ4Uk1qTmNkWmRBYnl6LVBTTUdDMVFJWllPTVlPQm90Y3JMUE5lZF9MMHI1dG4xQ3dpWmhDblFQbUVRek1HYndoSlV6dXgwUEtFYXllb2xvUDZSTTRkLV9nU043bXlQQmozSlotNTExRGxmbUhHZUtMcDVjeTFlaU9hLTdKMktvc0FNSGZFUU9SMFJLRnBQV0dvOXo4T3A4OHlWSENPdU8yWUVkNTFYUWJtWVY?oc=5",
-          "added_at": "2026-11-13 21:54:53"
+          "added_at": "2026-11-14 14:56:10"
         },
         {
           "uid": "6a7ee02651b1",
           "date": "2026-09-08",
           "title": "Trump admin takes aim at Ford and Farley for Chinese ties - Detroit Free Press",
-          "summary": "トランプ政権がフォード・モーターとティム・ファーレーCEOに対し、中国との関係を理由に非難を加えている。自動車メーカーの対中提携が米国の政治的圧力の対象となっている。",
+          "summary": "トランプ政権がフォード・モーターとCEOのファーレー氏に対し、中国とのつながりを理由に批判を展開している。具体的には、フォードが中国での事業拡大や提携に関わっていることが政治的問題として標的にされている。",
           "source": "運輸長官",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnREWEhuUVVTY1Y1ZDdQWE9IaXZSYmlIb2RKcTFyOUxOY05WaEpKZzFoX20zamlfd0FHV3RzQ1RWWGN2MHp1WC1qOVdXVjlsaThzZl8wOF9Zbk1PYXRrTUI4cVhGMG53LXJSajRwdk81bk14Wjl2WTE5WDdXRDdZaEZkY2UtOE5Nc21jY3VtV1R0M0pFTktQRlF3SURUOER1VjdsVlRvakFCWWJ4QzFYSmtFcEJiV3Z4bGZ3akU1QnE5LXJtOVE?oc=5",
-          "added_at": "2026-11-13 21:54:53"
+          "added_at": "2026-11-14 14:56:10"
+        },
+        {
+          "uid": "1adec55e2cbc",
+          "date": "2026-09-09",
+          "title": "Trump administration blasts Ford's business deals with Chinese firms - Reuters",
+          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判しており、自動車メーカーの対中ビジネスが米政権の政治的スタンスと対立していることが示されている。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUxxT0xDWVRud1VVVzV3eXRFTDR2eXRmalJ4Uk1qTmNkWmRBYnl6LVBTTUdDMVFJWllPTVlPQm90Y3JMUE5lZF9MMHI1dG4xQ3dpWmhDblFQbUVRek1HYndoSlV6dXgwUEtFYXllb2xvUDZSTTRkLV9nU043bXlQQmozSlotNTExRGxmbUhHZUtMcDVjeTFlaU9hLTdKMktvc0FNSGZFUU9SMFJLRnBQV0dvOXo4T3A4OHlWSENPdU8yWUVkNTFYUWJtWVY?oc=5",
+          "added_at": "2026-11-14 14:56:10"
+        },
+        {
+          "uid": "d3656ae8308a",
+          "date": "2026-10-29",
+          "title": "Nvidia Chief Seen as Target of Chinese Spy Plot - The New York Times",
+          "summary": "Nvidiaの最高経営責任者が中国のスパイ活動の標的とされているというニュースは、中国との技術提携が国家安全保障上のリスクとなる可能性があることを示唆しており、自動車メーカーを含む企業の対中提携に対して政治的な警戒と規制強化を求める議論につながっている。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5",
+          "added_at": "2026-11-14 14:56:10"
+        },
+        {
+          "uid": "f43e6a4c2ebf",
+          "date": "2026-10-15",
+          "title": "For Chinese automakers, the road to survival runs through Europe - Reuters",
+          "summary": "中国自動車メーカーが国内市場の飽和と過剰生産に直面する中、欧州への進出を急ぐとともに、現地での生産拠点確立や提携を模索しているが、これに対して欧米の政治家から中国資本への警戒感や規制強化の圧力が高まっている。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdVlfNHVJQVdKWVBFUWpOSXlCLUpWQmQybmxlNmtkV2Vya19DTGg2THI5ZnJjckxKdkJWdm01M01MdkpBWWFVWkk0Q3pnLVpWb2RHUVVmaGNaZndkTi0tanJSYlJtUjFiYjlheFpoNG54V0FEMHR2Z1BGVUhDUnZZTms4N3dXY0t4UV9mXy1aTmFnbllMRWl3WUtsTzJqNFVPLUFqbkFiLXF0WFVrdWJfcTRYMzJJa2I0Rmc?oc=5",
+          "added_at": "2026-11-14 14:56:10"
+        },
+        {
+          "uid": "0ede7eefd910",
+          "date": "2026-11-14",
+          "title": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
+          "summary": "トランプ大統領がプーチン露大統領、習近平中国主席と初の三国首脳会談を計画していることは、米国の対中強硬姿勢が強まる中で、自動車メーカーの中国提携に対する政治的批判の背景となる地政学的緊張を示唆している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/",
+          "added_at": "2026-11-14 14:56:10"
+        },
+        {
+          "uid": "8009256198b4",
+          "date": "2026-11-14",
+          "title": "Hegseth directs Pentagon CFO to transform military pay systems",
+          "summary": "この記事は防衛省の給与システム改革に関する内容であり、自動車メーカーの対中提携への政治的批判とは関連していません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/newsletters/defense-national-security/6220214-hegseth-directs-pentagon-cfo-to-transform-military-pay-systems/",
+          "added_at": "2026-11-14 14:56:10"
         },
         {
           "uid": "330d93c40aec",
