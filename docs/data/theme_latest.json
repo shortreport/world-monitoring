@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15 21:34:00",
+  "generated_at": "2026-11-16 04:38:20",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,28 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-15 21:33:27",
+      "last_checked": "2026-11-16 04:37:47",
       "items": [
+        {
+          "uid": "bb97b5656d9d",
+          "date": "2026-11-13",
+          "title": "Circular Economy - https://environment.ec.europa.eu/index_en",
+          "summary": "申し訳ございませんが、提供いただいたURLのみで、実際の記事内容が確認できません。具体的な記事の本文をご提供いただければ、欧州産業加速法案（IAA）の文脈で日本語1～2文に要約いたします。",
+          "source": "欧州産業政策",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZeUQ0WmpYVmFpTEl6dlJFMDZLTkdHOFVXZnJhX1A0U3E5bHRzemZsWWliblZYdUc0RmlzWXhVWnBxZnNDVTlJQXRfb2lQZkwyVEJrZXVTelBsNHRCMlgzLTFGaFJYbkUzUzdwek1B?oc=5",
+          "added_at": "2026-11-16 04:37:44"
+        },
+        {
+          "uid": "57c99c873c13",
+          "date": "2026-11-13",
+          "title": "The EU needs its trusted industrial partners to share the cost of derisking - CEPS",
+          "summary": "EUは産業のリスク低減費用を共有するため、信頼できる産業パートナーとの協力が必要であり、欧州産業加速法案（IAA）の実施において、パートナー国との負担分担メカニズムの構築が重要である。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnhHNE5oZFpRVTVGdkNmMk40Y1h4T1pGamp2WlZHZ3dxdk41LTFpanF2b052SVREOWoyc3hwcFhvYjBwY2U5Q1dndHJROVhrcVRqLVZNbGtXa0tjUUpaNVhnbnA1VTBuWXVBSXFmQVdPTURLZlh5ZlNYWUZfTUhYYjB2MnB4enhlZGt2c3RtTWFRNVVvek1adVRpZ0g?oc=5",
+          "added_at": "2026-11-16 04:37:44"
+        },
         {
           "uid": "468a12f2f821",
           "date": "2026-11-12",
@@ -1989,26 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEczbnZuTnpBSXVYYVdFSHZfaERSVUExS3ZUZW1SdVpiWkhnbHhiakpyN29fZnlqcWZMTkh4SUhKNTNFNHpVTG81SkxHWmhQVFpCNFdYT1UwUU9ueFlQQmxaX1VvaXZCbmhsYWtUSU8zTFplakZacVBDSWlFNkJoYUl2TVpJQ2VPSlFsMDdHWWg5cHlacXhGaWs5SV95Z3pVSTl0MlJvczlnM1JF?oc=5",
           "added_at": "2026-09-15 18:49:36"
-        },
-        {
-          "uid": "fc266b74d288",
-          "date": "2026-09-14",
-          "title": "EU Parliament Growing More Hawkish on China, Senior MEP Says - hungarianconservative.com",
-          "summary": "EUの上級議員がEU議会が中国に対してより強硬姿勢を強めていると述べており、これは産業の競争力強化を目指す欧州産業加速法案（IAA）において、中国との経済競争に対抗する戦略的重要性が高まっていることを示唆している。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONkM1czJUc0tRWlhSSTY2RHJzVm8yMXBmY3c4NFBkUEp6WkR4SlpDdWdzRUxta1l0TmdHN1RQMzVOMGFfV20zMWhfRmZtY2IxdGtIT3Axb042SkprcWxCblNFaGNtMFg4V1F6ZmZhMzUyaV9fZmdnZndMWGZQZ19oMnlSWldKbmlGRnhmTVBJRFB2Q3BSbmlz?oc=5",
-          "added_at": "2026-09-15 13:55:45"
-        },
-        {
-          "uid": "5d58fee7d7c1",
-          "date": "2026-09-10",
-          "title": "Korea, EU seek stronger supply chain ties as industry rules evolve - The Korea Times",
-          "summary": "韓国とEUは、EUの産業規制が進化する中で、サプライチェーンの結びつきを強化することを目指しており、これは欧州産業加速法案による新たな産業基準への対応を含んでいる。両地域は相互の産業競争力強化と規制適応を通じた経済協力の拡大に向けて協議を進めている。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYi12ZmpkWjZCMTlwckZSd3hORklJdHF6b3E1am5lTTc1YVI2bWVrcWF1cmZLNnl6bzVMX1N1NFk2aXBnbWNHMXVBSmR3eDkxLXI4RGZjOEswbTk1dU1pT3I4X0xUaUdfdmtpNWhQOGJoUWVwZHU4MVNkX2IwVFI1ZElHTkNFZ1p1VFd4aVN4ZnpIeGc3V01hTUFLYkhOdi02YWRrUkZ2dXhjRE5ONnVKLWJXUnFtNmt6UTNTZ1dTWdIBvwFBVV95cUxNYi12ZmpkWjZCMTlwckZSd3hORklJdHF6b3E1am5lTTc1YVI2bWVrcWF1cmZLNnl6bzVMX1N1NFk2aXBnbWNHMXVBSmR3eDkxLXI4RGZjOEswbTk1dU1pT3I4X0xUaUdfdmtpNWhQOGJoUWVwZHU4MVNkX2IwVFI1ZElHTkNFZ1p1VFd4aVN4ZnpIeGc3V01hTUFLYkhOdi02YWRrUkZ2dXhjRE5ONnVKLWJXUnFtNmt6UTNTZ1dTWQ?oc=5",
-          "added_at": "2026-09-13 01:50:02"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-15 21:33:34",
+      "last_checked": "2026-11-16 04:37:55",
       "items": [
         {
           "uid": "ecd866b6b212",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-15 21:33:48",
+      "last_checked": "2026-11-16 04:38:11",
       "items": [
+        {
+          "uid": "c79787144072",
+          "date": "2026-11-15",
+          "title": "Crawford says it’s ‘premature’ to place blame on Lutnick for Nvidia chip sales",
+          "summary": "この記事は中国レアアース輸出管理とは直接関係のない内容です。米国の商務長官に対する責任追及についての政治的論争であり、レアアース輸出規制に関する具体的な内容は含まれていません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6221486-crawford-defends-lutnick-nvidia-chips/",
+          "added_at": "2026-11-16 04:38:08"
+        },
+        {
+          "uid": "7b2a2085a6ba",
+          "date": "2026-11-15",
+          "title": "Bessent, Congress zero in on Lutnick’s role in Nvidia-Megaspeed scandal",
+          "summary": "この記事は中国レアアース輸出管理とは直接関連がなく、むしろ米国のAIチップの中国向け輸出規制に関するものです。記事の内容は、ファーストリッチ商務長官がエヌビディアのAIチップ中国販売に対して緩い姿勢を取ったことで、ベッセント財務長官を含む議会から批判を受けているというものです。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/",
+          "added_at": "2026-11-16 04:38:08"
+        },
         {
           "uid": "5071b27e40f7",
           "date": "2026-10-29",
@@ -6011,26 +6031,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPczhiQ3BjR0szWFRyeEUxX0thNGctc1ZTZlVZR25BZG9YdlR6XzV0d3dPS0VOM1otWmJIdV9QaUhHRUszYlhwZnVlY0dUUGQ1T0dDd3dCajY3YnFiZGZSV2UyNEdJRHpDdkZ0UHhINHo1SEo0RzlBNFVUeU9YLVBLc1d4S09LWFlUTkItbDJVNlJhaXVKNFp3OWtydlpPdw?oc=5",
           "added_at": "2026-10-13 15:23:26"
-        },
-        {
-          "uid": "a3a309699342",
-          "date": "2026-10-09",
-          "title": "China Rare Earth Price Index NdPr Terbium October 2026 - Rare Earth Exchanges",
-          "summary": "2026年10月の中国レアアース価格指数によると、ネオジム・プラセオジム（NdPr）およびテルビウムの価格が変動しており、中国のレアアース輸出管理政策が国際市場の価格形成に大きな影響を与えていることが示唆されている。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWk5UnJRa1RYN3NiMzlESlM3cUgta3ozd2hNOTBEQk1rSUw1M1dXNGN3SUp0bjlCWEl4UTlqbVgwVlN6YkhFMEhQaWhxNHV3aWV1TzZCZTZnc0FDNWtGQzVCVEZTblFuOGpNWkdpcnlXMzZqUGltWVN0MFE5MHI0bmNTSmU?oc=5",
-          "added_at": "2026-10-13 15:23:26"
-        },
-        {
-          "uid": "982e6ce80055",
-          "date": "2026-07-29",
-          "title": "Rheinmetall downplays impact of China's rare earth export curbs - S&P Global",
-          "summary": "ドイツの防衛企業ラインメタルは、中国のレアアース輸出制限による経営への影響は限定的であると述べており、代替供給源やリサイクル技術の活用により対応可能との見方を示している。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU0tVcUVYUXBCUmNrTHZHMkRBZ0xaV1Rab2phcnd2XzY1QkVaV2xfQWdDQVZDaWEzXzFPeE1ObFA2dHo5WkFHWENNZ0hlRTJBZENOOU1RMUhiMFVFUl9zbzlRMG4tdDZYa3lMb2lMOV9xQU9kdE9IM2dwNGFnUXdWRU8yX1g1ZVNsekZNTTB6VWFROWR0c0p3WXkzUTExSWtlTURxdWNxWno3QlFldHNMQldDZkExbWZMc1g0UThUY3R2Rmd6ZDlRcThTcjB3UVR2WjE0?oc=5",
-          "added_at": "2026-10-13 15:23:26"
         }
       ]
     },
@@ -6041,8 +6041,28 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-15 21:34:00",
+      "last_checked": "2026-11-16 04:38:20",
       "items": [
+        {
+          "uid": "c79787144072",
+          "date": "2026-11-15",
+          "title": "Crawford says it’s ‘premature’ to place blame on Lutnick for Nvidia chip sales",
+          "summary": "申し訳ございませんが、提供いただいた記事の内容は、Nvidiaチップの中国への違法流出防止に関する米国政府内の議論であり、自動車メーカーの対中提携とは直接的な関係がないため、ご指摘の文脈での要約はできません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6221486-crawford-defends-lutnick-nvidia-chips/",
+          "added_at": "2026-11-16 04:38:17"
+        },
+        {
+          "uid": "7b2a2085a6ba",
+          "date": "2026-11-15",
+          "title": "Bessent, Congress zero in on Lutnick’s role in Nvidia-Megaspeed scandal",
+          "summary": "この記事は自動車メーカーの対中提携についてではなく、ルトニック商務長官がNvidiaの対中AI チップ輸出規制に対して甘い対応をとったことで政治的批判を受けている状況を報じています。自動車メーカーに関する内容が含まれていないため、要約できません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6219334-commerce-secretary-scrutiny-megaspeed-nvidia-scandal/",
+          "added_at": "2026-11-16 04:38:17"
+        },
         {
           "uid": "be3e5380f40c",
           "date": "2026-11-11",
@@ -8021,26 +8041,6 @@
           "source": "下院中国特別委員会委員長",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRE93T2RvRl9MSllqcThZVk9vVkU0aUVxMmppR291SzhmWjB0dGl2cTRITTNyT1lFYmgydG0wVFUxUXhjZTBZSVJSb1dXSUpHMkxsdGZaOGpaNVIzc2VJaXlBcDR6cTgtNDB3azg4R0U5Uk9BcUJIMi1uLUNMZWpXMDdjaEJFLW5aWUQxZmtPNFhiMktN?oc=5",
-          "added_at": "2026-10-16 14:31:35"
-        },
-        {
-          "uid": "ef656ad90b2b",
-          "date": "2026-09-04",
-          "title": "Group of American automakers request a permanent ban on Chinese-made cars - The National News Desk",
-          "summary": "米国の自動車メーカー各社が中国製自動車の恒久的な禁止を要請しており、これは中国との提携や中国製品の市場進出に対する政治的な保護主義的立場を反映している。この動きは、米国の自動車産業が中国との競争激化に直面する中で、政府による規制的介入を求める業界の政治的圧力を示している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcGVzQXRTS1hzY1NVeTZaZlAyMWMyaHl6bXlxWk9TMVQzd2QycmxvY3cyTE05VWt4c3I3bWFma20tN01UQS1OVUNmQjIzUm44cnhmRkRzQnk4aHF2aFRkMG9wWENDUXVRRTlQWk54YlRtM3dMcW93cmh2S2lDSTd4OUMzUDVGaFk0MEV6bXlMR0ZVb252LW04WHlYUDUxajROOFgwSFRaa2VTSWhYMFJNSVY4VFBDZlRBdnFPdGYydWVqQkxrcWpWTVJaR19WOFNRS0czcHJMMnplbjN1c3dvbE9jZw?oc=5",
-          "added_at": "2026-10-16 14:31:35"
-        },
-        {
-          "uid": "f9455e48c30e",
-          "date": "2026-09-09",
-          "title": "Ford blasted by Trump admin for Chinese partnerships - Automotive World",
-          "summary": "フォード・モーターがトランプ政権から中国とのパートナーシップについて非難されており、米国自動車メーカーの対中提携が政治的に問題視されていることを示している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1FmSFFMTnNveFVKVnNndEVzdE56c09GU1hMcklkVjZYRkhEVmhvZkNjSUIxTTlWT2RsSkZBYUc0VlQ5U2p0NDNFRnBQZENNSHNiemdkMF9uVG1yUF8zUDRialN0czBmOG1DX1dsZ1hWMExESDQteVNuaWVFdEkxSDFRVWNLV2VMRjVWMWx0V2dVUFJGLUJwelJn?oc=5",
           "added_at": "2026-10-16 14:31:35"
         }
       ]
