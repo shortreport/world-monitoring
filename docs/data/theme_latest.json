@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15 03:58:56",
+  "generated_at": "2026-11-15 21:34:00",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-15 03:58:26",
+      "last_checked": "2026-11-15 21:33:27",
       "items": [
+        {
+          "uid": "468a12f2f821",
+          "date": "2026-11-12",
+          "title": "Emissions trading system: Council and Parliament agree to boost free carbon allowances for energy-intensive industries - Council, European Union",
+          "summary": "欧州理事会と欧州議会は、エネルギー集約産業の国際競争力維持を目的として、排出取引制度（ETS）における無償炭素配当を増加させることで合意した。この措置は、欧州産業加速法案（IAA）の一部として、カーボンリーケージ対策と産業空洞化防止を図るものである。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMmRHZFZLSUxBTGpOSERGQk80R1V1LVZVVmRYTTJYVjExM1A4Z2ZxYnJHVzRKOUpKa29lZUFEQTAyU1BPLTdhbjBkejEwQldwa041VHh6a2hFUzlxa3AzSWxndUpzclBadW8wZFk3WW9tRTZ1VnNRemFwclZnN1dsbzZfQ3lyZk5UUHhTZ2cycXAxMjdrSVF5cTFYTDBZbW1HMnFDbXAxM2FZUjV0azVXLVc1b2xGWExmZlJxdHRzNVhIWnllVGg5dzRRQnRiOGYwSnpHTXlOeXN5Q0NNOElaZThLUVRKTVZ6dVAxSXE4WmpHWjVyUVMtNWJic3lpd2VnVWVxd1hFS01xeWpYUEdhbkNYRQ?oc=5",
+          "added_at": "2026-11-15 21:33:25"
+        },
         {
           "uid": "5d66d843e4a4",
           "date": "2026-11-13",
@@ -1999,16 +2009,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYi12ZmpkWjZCMTlwckZSd3hORklJdHF6b3E1am5lTTc1YVI2bWVrcWF1cmZLNnl6bzVMX1N1NFk2aXBnbWNHMXVBSmR3eDkxLXI4RGZjOEswbTk1dU1pT3I4X0xUaUdfdmtpNWhQOGJoUWVwZHU4MVNkX2IwVFI1ZElHTkNFZ1p1VFd4aVN4ZnpIeGc3V01hTUFLYkhOdi02YWRrUkZ2dXhjRE5ONnVKLWJXUnFtNmt6UTNTZ1dTWdIBvwFBVV95cUxNYi12ZmpkWjZCMTlwckZSd3hORklJdHF6b3E1am5lTTc1YVI2bWVrcWF1cmZLNnl6bzVMX1N1NFk2aXBnbWNHMXVBSmR3eDkxLXI4RGZjOEswbTk1dU1pT3I4X0xUaUdfdmtpNWhQOGJoUWVwZHU4MVNkX2IwVFI1ZElHTkNFZ1p1VFd4aVN4ZnpIeGc3V01hTUFLYkhOdi02YWRrUkZ2dXhjRE5ONnVKLWJXUnFtNmt6UTNTZ1dTWQ?oc=5",
           "added_at": "2026-09-13 01:50:02"
-        },
-        {
-          "uid": "0d74b52134b2",
-          "date": "2026-09-10",
-          "title": "EU unveils ‘buy European’ public procurement rules to counter China - The Guardian",
-          "summary": "# 要約\n\nEUは中国への対抗策として、公共調達で欧州製品を優先する「欧州製品購買」ルールを導入し、産業競争力強化と域内産業保護を目指す欧州産業加速法案の重要な施策として位置づけている。これにより、EUは戦略的に重要な産業分野での自給率向上と経済自主性の確保を推進している。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDRpX25fZngwTThSaXhLeWRCQW9td1lmQ1M5ZE9QVkFXdDEzZVM3STNBQ1BXUE5rNzZja3RSUzFvWGJQZk9aeGxQbkFreDNFSk9jRl9ub1pPUm05ZVVtenlkMDZUN3VfUzRBTXh0TFRFUjFVemJVcEN3c3labEprUVQ2ZE9KM0ZPX0ozSTF4cnQ3eFRVcm5abmU4aldfenZ0cEFSNTNqQUI3ams?oc=5",
-          "added_at": "2026-09-12 02:37:53"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-15 03:58:34",
+      "last_checked": "2026-11-15 21:33:34",
       "items": [
         {
           "uid": "ecd866b6b212",
@@ -4030,8 +4030,28 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-15 03:58:46",
+      "last_checked": "2026-11-15 21:33:48",
       "items": [
+        {
+          "uid": "5071b27e40f7",
+          "date": "2026-10-29",
+          "title": "Ending China’s 60-Year Grip on Critical Minerals - Center for European Policy Analysis (CEPA)",
+          "summary": "中国は60年間にわたりレアアース・重要鉱物市場を支配してきたが、欧米諸国はサプライチェーン多様化や国内採掘・精製の強化により、この支配体制からの脱却を進めている。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iYmdsOGhYb1pXeGlCempFNmEzd2w3bjdIbnFNLWplVnZ0UFVmemZDVG9lVkdZdk8teHZ0eWZlcXk4NG1vRjNaWnFLV2FENGhkRU5ka0NTdFR4X0MzY2xsMHdEeE9YQ1hwbG9nb2owYnV1a2R1V21jNk5YVzFGdw?oc=5",
+          "added_at": "2026-11-15 21:33:45"
+        },
+        {
+          "uid": "39913cbb1f55",
+          "date": "2026-11-15",
+          "title": "China stonewalls on cases of detained Americans, despite personal appeal from Trump",
+          "summary": "この記事は「中国レアアース輸出管理」に関する文脈での要約を求めていますが、提供されたテキストはアメリカ人拘束者に関する外交問題を扱っており、レアアース輸出管理とは直接の関連がありません。レアアース輸出管理に関連する記事内容が提供されていないため、要約することができません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6219762-trump-plans-apc-summit-demands/",
+          "added_at": "2026-11-15 21:33:45"
+        },
         {
           "uid": "bbcf11f7e181",
           "date": "2026-11-13",
@@ -6011,26 +6031,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU0tVcUVYUXBCUmNrTHZHMkRBZ0xaV1Rab2phcnd2XzY1QkVaV2xfQWdDQVZDaWEzXzFPeE1ObFA2dHo5WkFHWENNZ0hlRTJBZENOOU1RMUhiMFVFUl9zbzlRMG4tdDZYa3lMb2lMOV9xQU9kdE9IM2dwNGFnUXdWRU8yX1g1ZVNsekZNTTB6VWFROWR0c0p3WXkzUTExSWtlTURxdWNxWno3QlFldHNMQldDZkExbWZMc1g0UThUY3R2Rmd6ZDlRcThTcjB3UVR2WjE0?oc=5",
           "added_at": "2026-10-13 15:23:26"
-        },
-        {
-          "uid": "4b387b7ccbdf",
-          "date": "2026-07-20",
-          "title": "Collateral damage of US–China competition: South Korea’s defence industry - The International Institute for Strategic Studies",
-          "summary": "米中競争の副次的影響として、韓国の防衛産業が中国のレアアース輸出管理制限に直面し、防衛装備品の生産に支障が生じている。韓国企業は米国の対中制裁と中国の報復的な輸出管理の狭間で、サプライチェーン確保に深刻な課題を抱えている。",
-          "source": "メディア分析",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX2l4YUJUM2pka3AtSXczc0tKMENIUWlQNVhQazNpYVNMNS1GdFFVTWpDWldtMkk2cloteGpVb3ZoTHZNbzd2OWlXcnR4cDlyU3V6Z3gzTHd5TFI1MnlYOTI2cEJXc1RuQlo1ZG1ELTZVaDA2VElUN21YSEt2cGFTQVFSUEVtNWtPSnVlZGZuUUs2MzNvRm1Fa1ZqN29VbHZmS3RlcEcyVFlPWHR5WnVxYU50OUl6SlZ6dGdfYUVkVkFJdU9Pb1pIVngtX0Zydw?oc=5",
-          "added_at": "2026-10-13 15:23:26"
-        },
-        {
-          "uid": "d33a309fdf39",
-          "date": "2026-10-12",
-          "title": "Terrible idea: The hidden danger behind China’s student exchange push",
-          "summary": "中国の学生交換プログラム拡大により、米国の学生が中国に派遣されることで、レアアース等の戦略的資源に関する技術や情報が流出するリスクが高まり、米国の国家安全保障と軍事産業基盤が脅かされる危険がある。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/international/6140042-china-student-exchange-risks/",
-          "added_at": "2026-10-13 15:23:26"
         }
       ]
     },
@@ -6041,8 +6041,48 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-15 03:58:56",
+      "last_checked": "2026-11-15 21:34:00",
       "items": [
+        {
+          "uid": "be3e5380f40c",
+          "date": "2026-11-11",
+          "title": "US auto workers union urges Congress to keep its eye on Chinese automakers - WTVB",
+          "summary": "米国自動車労働組合が議会に対し中国系自動車メーカーの動向に警戒するよう促しており、中国との自動車産業における提携や進出に対する懸念が高まっている。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMTJmQXBIMDFDbEJDMUpHZzY4OW53YXFLSGE2STJOV0ZiTUU1WXN1MW1lbkx2UmNsN1M0UWkxYjJGdUF0anhiNWFjR2ZiUDlOYTRnNmRKeVJpaEloSnExTWRyOEJ5RF83T1VmV1NBeHV3Yld2WXROOUREeHpfb1dmV3Bpb1NHclBpa254ZUJYSWVxWG1abGNOb3JZdDE5RTB5ZDNFSjFjb00?oc=5",
+          "added_at": "2026-11-15 21:33:55"
+        },
+        {
+          "uid": "ecfaa42fb00d",
+          "date": "2026-11-14",
+          "title": "Sean Duffy Says Cut Ties With China, Ford Pushes Back - Motor1.com",
+          "summary": "トランプ政権のショーン・ダッフィ運輸長官は自動車メーカーに対中関係の縮小を求めているのに対し、フォードは中国市場での事業継続の必要性を理由に反発している。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82anZuTmxuWEFUOGpZQWRaUnF0RzZqWDhpZ3RtWVNlc2g2dDVjTnNkaUVLRUdkeHVqV25CdkdTNnJPb09zSjhXNm1md25aTmw2NE5UTEk2ekZYZ1ppMHAxUTNSRzJXVnowUW5MZlBtZmpDRGs0?oc=5",
+          "added_at": "2026-11-15 21:33:55"
+        },
+        {
+          "uid": "3606e5ded546",
+          "date": "2026-11-10",
+          "title": "Carney Says the U.S. Poses a Bigger Security Risk Than China as Canada Deepens Ties With Beijing - Culture Alberta",
+          "summary": "カナダの有力政治家カーニーが、中国との関係強化に対する安全保障面での懸念に対し、米国の方がカナダにとってより大きなセキュリティリスクであると主張し、自動車メーカーを含む産業界での対中提携を正当化している。この発言は、対中提携への政治的批判に対する防戦的な立場を示すものである。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMjJSZV94NkFuNDg5dFJGSjZXNnMyNGxhLXhHcHhxQndFYUEzVjNBN2tQMWR3Z1VrOWs4a1FOdUVCS25LQ1RJSWI5UEVGdThheW9TeEtobnJUZW5SVDQ5WWFLVFVqanFoMGJvUkItOXRwb0NfTmhXbFVSVk83S0paVzhibUpfTlNCOTJIV1l2RkhJbjhVQUpJRUVSbVgzMFhYTFFZUkhqLW04N3laZWVtdzRySXFjRGZ2THRCa3BhYnBpd210RkR1eENydGdjcFk?oc=5",
+          "added_at": "2026-11-15 21:33:55"
+        },
+        {
+          "uid": "39913cbb1f55",
+          "date": "2026-11-15",
+          "title": "China stonewalls on cases of detained Americans, despite personal appeal from Trump",
+          "summary": "この記事は自動車メーカーの対中提携への政治的批判に直接関連していません。むしろ米中関係における人権問題（不当に拘束されたアメリカ人の扱い）に関する内容であり、要約の文脈として適切ではありません。\n\n別の記事を提供いただければ、自動車メーカーの対中提携への政治的批判に関する要約をお作りします。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6219762-trump-plans-apc-summit-demands/",
+          "added_at": "2026-11-15 21:33:55"
+        },
         {
           "uid": "b3a4ca0056ff",
           "date": "2026-09-03",
@@ -8001,46 +8041,6 @@
           "source": "米議会",
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1FmSFFMTnNveFVKVnNndEVzdE56c09GU1hMcklkVjZYRkhEVmhvZkNjSUIxTTlWT2RsSkZBYUc0VlQ5U2p0NDNFRnBQZENNSHNiemdkMF9uVG1yUF8zUDRialN0czBmOG1DX1dsZ1hWMExESDQteVNuaWVFdEkxSDFRVWNLV2VMRjVWMWx0V2dVUFJGLUJwelJn?oc=5",
-          "added_at": "2026-10-16 14:31:35"
-        },
-        {
-          "uid": "af66e6ca9bd7",
-          "date": "2026-10-13",
-          "title": "Rising AI demand boosts case for new US trunk power lines - Reuters",
-          "summary": "AI需要の急増に対応するため米国で主幹送電線の新設が必要とされており、これはEV産業に必要な電力インフラ整備の重要性を示唆しているが、米国と中国の対立が深まる中、自動車メーカーの対中提携が電力供給体制の二重化を招く可能性が指摘されている。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFU3V0Ixd2NjV0ZtUDVBZ0JsTzZNVWQybS04LU84bkZvaGo3Vm9YYkxYN3NGbjNGZEdsVnUwa0QwYUUxLVhzUzFTZEdLOExmRXF1S19MT0xZXzJvQVNvWEsyekc1cFBrT0tKS0pmRmJBSzNOWGtWSGEwTG9WR1ViZG1wR0laajQzZ2syaWs4dkNVckNZWEZxUEhFNFd4cEJCc0x5RzhaTnJFeFhNNW56SV9n?oc=5",
-          "added_at": "2026-10-16 14:31:35"
-        },
-        {
-          "uid": "79c3fcbb2e66",
-          "date": "2026-07-22",
-          "title": "US Senate panel approves bill cracking down on the sale of Chinese vehicles - Reuters",
-          "summary": "米国上院委員会が中国製車両の販売を制限する法案を承認したもので、自動車メーカーが中国との提携を深めることへの政治的な警戒感が米国側で強まっていることを示している。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTVdWeEdfM0dpZEp1Q2NPT2tyZGFleThraHRDRHRRZzdhcDlHYnUwT0JGSF9CY2tEdUpTSkFSSXBWZWVHemxwVDQwSGJlNzJFLVFJWU40V3lYbk1QdndQUE43bWtJclZDSE5MaXAyaFBKWDRrdDNSUXh1QWhFQkdNWVRlTElBWXpBZlR3SnlIUlZFS1AwQmxBMDZ1aVExdmJ1Q2Vqa3ByUGZYRTB3UXk3dldrakFkNnl5?oc=5",
-          "added_at": "2026-10-16 14:31:35"
-        },
-        {
-          "uid": "dc8088c500e4",
-          "date": "2026-10-15",
-          "title": "Pentagon’s school system director stepping down",
-          "summary": "申し訳ございませんが、提供いただいた記事は「ペンタゴン（米国防総省）の学校システムディレクターの辞任」に関するもので、自動車メーカーの対中提携についての内容ではありません。そのため、ご指定の文脈での要約は不可能です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/newsletters/defense-national-security/6152767-pentagon-school-director-paul-craft-resigns/",
-          "added_at": "2026-10-16 14:31:35"
-        },
-        {
-          "uid": "e178854818db",
-          "date": "2026-10-15",
-          "title": "Zacharia says results of bar exam were ‘inconsequential’",
-          "summary": "申し訳ありませんが、提供いただいた記事は「自動車メーカーの対中提携への政治的批判」とは無関係の内容です。記事はホワイトハウス報道官の司法試験不合格に関するもので、要約対象がご質問の文脈と一致していません。\n\n異なる記事をご確認いただくか、別の質問をお願いいたします。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6151996-zacharia-california-bar-exam-results/",
           "added_at": "2026-10-16 14:31:35"
         }
       ]
