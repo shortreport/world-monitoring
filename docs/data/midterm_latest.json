@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-02T10:56:06.894070+09:00",
-  "article_count": 51,
+  "generated_at": "2026-11-16T11:26:15.768288+09:00",
+  "article_count": 53,
   "projections": {
     "senate": {
       "r": 49,
-      "d": 49,
-      "tossup": 2
+      "d": 51,
+      "tossup": 0
     },
     "house": {
-      "r": 200,
-      "d": 220,
-      "tossup": 15
+      "r": 210,
+      "d": 225,
+      "tossup": 0
     },
     "governor": {
       "r": 22,
@@ -19,105 +19,103 @@
     }
   },
   "key_developments": [
-    "Democrats project strong House gains with 63 races moving toward Democrats versus only 1 toward Republicans in final ratings changes.",
-    "Latino voter turnout surge expected as Hispanic voters who sat out 2024 return to polls, potentially boosting Democratic performance.",
-    "Senate control remains highly competitive with Democrats needing net +4 seats to gain majority, with 7 toss-up races according to Cook Political Report.",
-    "Multiple traditionally Republican strongholds like Kansas, Iowa, and South Carolina are now competitive or toss-up races, showing Trump's drag on GOP performance.",
-    "Trump campaign struggles evident through rally cancellations in Kansas and Iowa just 4 days before election, signaling GOP vulnerability in typically safe states."
+    "Democrats achieved a 'blue tsunami' victory on November 3, 2026, winning control of both chambers of Congress with strong House majority and Senate gains, marking the strongest Democratic showing in decades.",
+    "President Trump's approval rating hit historic lows, with articles citing grim mood among GOP strategists and suggesting Trump's unpopularity directly contributed to the Republican collapse across multiple districts and states.",
+    "Scott Colom won Mississippi's Senate race, becoming the state's first Black US Senator since Reconstruction in a 'seismic shift' for the Deep South.",
+    "Democrats flipped traditionally safe Republican seats including Ohio's 10th District where longtime GOP Rep. Mike Turner was ousted by Democrat Kristina Knickerbocker after winning by 18 points in 2024.",
+    "Democrats achieved unexpected victories in Texas and other Southern states, with youth turnout and Latino voter turnout surge playing critical roles in the wave, though Republicans pledged to reclaim Texas by 2028."
   ],
   "key_races": {
     "senate": [
       {
-        "state": "SC",
-        "incumbent": "Darline Graham (R)",
-        "party": "R",
-        "rating": "tossup",
-        "label": "Graham vs. Andrews",
-        "note": "Shifted from Lean R to Toss-up; NYT/Siena poll shows 48-48 tie."
-      },
-      {
-        "state": "GA",
-        "incumbent": "Jon Ossoff (D)",
+        "state": "MS",
+        "incumbent": "Cindy Hyde-Smith (R)",
         "party": "D",
-        "rating": "tossup",
-        "label": "Ossoff vs. Collins",
-        "note": "Democrats defending seat; Collins trailing in polls despite Republican lean of state."
+        "rating": "safe-d",
+        "label": "MS-SEN: Colom (D) def. Hyde-Smith (R)",
+        "note": "Scott Colom defeated incumbent Republican Senator Cindy Hyde-Smith after prolonged counting, making him Mississippi's first Black senator since 1874."
       },
       {
-        "state": "KS",
-        "incumbent": "Roger Marshall (R)",
+        "state": "OH",
+        "incumbent": "J.D. Vance (R)",
+        "party": "D",
+        "rating": "lean-d",
+        "label": "OH: Democratic gains in state elections",
+        "note": "Multiple Democratic victories in Ohio, including defeat of longtime GOP Rep. Mike Turner in the 10th District by Democrat Kristina Knickerbocker."
+      },
+      {
+        "state": "TX",
+        "incumbent": "Ted Cruz (R)",
         "party": "R",
-        "rating": "tossup",
-        "label": "Marshall race",
-        "note": "Moved to Toss-up from Lean R; heavy GOP spending suggests vulnerability."
+        "rating": "likely-r",
+        "label": "TX: Looming 2028 battleground",
+        "note": "Democrats swept Texas statewide offices in 2026, prompting Sen. Ted Cruz to pledge Texas will 'be red again' and establishing Texas as the 'big kahuna' in 2028 presidential race."
       },
       {
-        "state": "NE",
-        "incumbent": "Republican (R)",
+        "state": "SC",
+        "incumbent": "Tim Scott (R)",
+        "party": "R",
+        "rating": "likely-r",
+        "label": "SC: Trump-backed candidate underperformed",
+        "note": "Trump's chosen GOP Senate candidate underperformed in South Carolina, a state Republicans have dominated since 1998."
+      },
+      {
+        "state": "NC",
+        "incumbent": "Thom Tillis (R)",
         "party": "R",
         "rating": "lean-r",
-        "label": "Nebraska Senate",
-        "note": "Moved from Likely R to Lean R in final Fox News update."
-      },
-      {
-        "state": "IA",
-        "incumbent": "Republican (R)",
-        "party": "R",
-        "rating": "lean-r",
-        "label": "Iowa Senate",
-        "note": "Traditionally Republican state now closely contested; Trump cancelled rally."
+        "label": "NC: Trump-backed candidate underperformed",
+        "note": "Trump's chosen GOP Senate candidates fared poorly in North Carolina during the midterm elections."
       }
     ],
     "house": [
       {
-        "state": "MI-7",
-        "incumbent": "Tom Barrett (R)",
-        "party": "R",
-        "rating": "tossup",
-        "label": "Barrett vs. Lawrence",
-        "note": "Closely watched House race in Michigan's 7th District."
+        "state": "OH-10",
+        "incumbent": "Mike Turner (R)",
+        "party": "D",
+        "rating": "safe-d",
+        "label": "OH-10: Knickerbocker (D) def. Turner (R)",
+        "note": "Democrat Kristina Knickerbocker defeated Rep. Mike Turner, who had represented the district since 2003 and won reelection in 2024 by over 18 points."
       },
       {
-        "state": "AL-02",
-        "incumbent": "Republican (R)",
-        "party": "R",
+        "state": "CO-03",
+        "incumbent": "Lauren Boebert (R)",
+        "party": "D",
+        "rating": "safe-d",
+        "label": "CO-03: Boebert ousted after scandals",
+        "note": "Rep. Lauren Boebert was spectacularly ousted from Congress after years of scandals tanked her re-election bid."
+      },
+      {
+        "state": "AZ-05",
+        "incumbent": "Andy Biggs (R)",
+        "party": "D",
         "rating": "lean-d",
-        "label": "Alabama 2nd District",
-        "note": "Unexpected Democratic battleground in Houston district; Supreme Court voting rights gutting mobilizing Black voters."
+        "label": "AZ: Democratic gains in state races",
+        "note": "Democratic gubernatorial candidate Gov. Katie Hobbs won a second term, running against Rep. Andy Biggs and positioning Arizona as Democratic-leaning."
       }
     ],
     "governor": [
       {
+        "state": "AZ",
+        "incumbent": "Katie Hobbs (D)",
+        "party": "D",
+        "rating": "safe-d",
+        "label": "AZ-GOV: Hobbs (D) re-elected",
+        "note": "Gov. Katie Hobbs won a second term, offering a stark contrast to her Republican opponent on democratic values."
+      },
+      {
         "state": "TX",
-        "incumbent": "Republican (R)",
+        "incumbent": "Greg Abbott (R)",
         "party": "R",
-        "rating": "lean-r",
-        "label": "Texas Governor",
-        "note": "Gina Hinojosa (D) challenging in deeply red state; corruption issues prominent in campaign."
+        "rating": "likely-r",
+        "label": "TX-GOV: Abbott holds office",
+        "note": "Democrats swept Texas statewide offices including a gain in the gubernatorial race, establishing the state as a 2028 battleground."
       }
     ]
   },
   "upcoming_schedule": {
-    "senate": [
-      {
-        "date": "Nov 03",
-        "state": "All States (ALL)",
-        "event": "2026 Midterm General Election"
-      }
-    ],
-    "house": [
-      {
-        "date": "Nov 03",
-        "state": "All States (ALL)",
-        "event": "2026 Midterm General Election"
-      }
-    ],
-    "governor": [
-      {
-        "date": "Nov 03",
-        "state": "All States (ALL)",
-        "event": "2026 Midterm General Election"
-      }
-    ]
+    "senate": [],
+    "house": [],
+    "governor": []
   }
 }
