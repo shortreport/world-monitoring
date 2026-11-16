@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16 22:25:50",
+  "generated_at": "2026-11-17 08:15:59",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-16 22:25:19",
+      "last_checked": "2026-11-17 08:15:16",
       "items": [
         {
           "uid": "6e40528e8325",
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-16 22:25:25",
+      "last_checked": "2026-11-17 08:15:24",
       "items": [
         {
           "uid": "ecd866b6b212",
@@ -4030,8 +4030,58 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-16 22:25:40",
+      "last_checked": "2026-11-17 08:15:43",
       "items": [
+        {
+          "uid": "00b9ba806e6e",
+          "date": "2026-10-08",
+          "title": "US critical minerals stockpile risks driving up prices, defence groups warn - Financial Times",
+          "summary": "米国の防衛関連団体が、重要鉱物の備蓄不足がレアアース等の価格上昇を招くと警告しており、中国がレアアース輸出管理を通じて供給をコントロールする中で、米国の戦略的脆弱性が浮き彫りになっている。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVNEZWh1dkFVQ3JnanVScHpkWTZnTnBuenYycDFjdGxwbF82ZklBM05uTDU1LXM3dWZWdzBMTE5lR0lIcTljOHZIQ0ROWXZFSUozb0NLbVFwRWxvUF9xa1NFQVRzUkNaUEV4WkpCWjBQY2VySS1NZUVmeXZOOUE0Q1lYNmU?oc=5",
+          "added_at": "2026-11-17 08:15:36"
+        },
+        {
+          "uid": "d0cbb748e02e",
+          "date": "2026-11-16",
+          "title": "Live updates: Trump en route to Asia; Nvidia scandal, national ground stop fallout loom large",
+          "summary": "この記事は「中国レアアース輸出管理」との直接的な関連性がないため、要約対象として適切ではありません。\n\n記事の内容はトランプ大統領のアジア出張とNvidia関連のスキャンダルについてであり、中国のレアアース輸出管理政策には触れられていません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/",
+          "added_at": "2026-11-17 08:15:36"
+        },
+        {
+          "uid": "927371f32642",
+          "date": "2026-11-16",
+          "title": "What to know about Howard Lutnick and Scott Bessent feud",
+          "summary": "この記事は中国レアアース輸出管理に関する内容ではなく、米国政府内でのAIチップ輸出規制をめぐるLutnick商務長官とBessent財務長官の対立についての記事です。ご指示に応じた要約の作成ができません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6223104-lutnick-bessent-ai-chip-clash/",
+          "added_at": "2026-11-17 08:15:36"
+        },
+        {
+          "uid": "1f393a9c4152",
+          "date": "2026-11-16",
+          "title": "Trump administration seeks to restrict China’s remote chip access after Nvidia scandal",
+          "summary": "トランプ政権は、エヌビディアのスキャンダルを受けて、中国が高度なAIチップの計算能力にリモートアクセスする海外データセンターに対する新たな制限を導入し、米国の輸出規制を強化している。商務省産業安全局（BIS）は、中国への先端技術へのリモートアクセスを遮断することを目的とした新規則を発表した。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6222897-bis-limits-remote-computing-exports/",
+          "added_at": "2026-11-17 08:15:36"
+        },
+        {
+          "uid": "424c349d0c49",
+          "date": "2026-11-16",
+          "title": "Top Democrat accuses Commerce Department of failing to stop China from acquiring advanced chips",
+          "summary": "中国への先端AI半導体の流出制限に失敗していることについて、民主党上院議員がマース商務長官を批判し、より厳格な輸出規制の実施を要求している。これは中国のレアアース等の戦略的資源に対する米国の対抗措置として、先端技術の輸出管理強化という相互的な規制競争の文脈を反映している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/senate/6222507-cantwell-accuses-lutnick-ai-risk/",
+          "added_at": "2026-11-17 08:15:36"
+        },
         {
           "uid": "a3a309699342",
           "date": "2026-10-09",
@@ -5981,56 +6031,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHI1dzJIMlRlRGJpRWl3ZEZsYm5WZEZYa1BWWVJOU0czSlYtaHVITGNYQWJSMXNacU1WQzMwc3ktN3JrS1dwMFhyMkJBY2pVYnNieXlaUkhLbFJXRktRbk1xR2lIcjZEc21MZFRhQno4YmktZEtKUWRTMU1pNzZZZ2xEbU9KSGFsWGl2ZFRFUWotbnNYS3pEbk13SlpodVFjRS1qaXJmRW5pRVI4Q3pLbGJ6bUljUGhnQlMzSXpkaklEOUpXSV80?oc=5",
           "added_at": "2026-10-13 21:31:38"
-        },
-        {
-          "uid": "40ed417c1063",
-          "date": "2026-07-30",
-          "title": "China Rare Earth Export Controls 2026: Tech Risk - https://tech-insider.org/",
-          "summary": "中国は2026年にレアアース輸出管理をさらに強化し、加工技術の輸出制限を拡大することで、先端技術産業における供給リスクを深刻化させる見通しです。これにより、電子機器・防衛・エネルギー産業など複数分野でサプライチェーン構築の課題が加速する可能性があります。",
-          "source": "中国商務省（MOFCOM）",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBQVRWMUM5MnhKanFjQy10aXFZOGVlZ2ZfWHNaTjQ0bDZqaVVOclRaWHczeFVjbHEtRVpzTDJKcHRrTlN6TkVneXBQTE9lTXlLMGQ3Z3lPUmw0WEJKZkNKNzBNU1FVRTlQM19UUGRmNWJzQU9TM0VaQWhFdDc?oc=5",
-          "added_at": "2026-10-13 15:23:26"
-        },
-        {
-          "uid": "cd900009af8c",
-          "date": "2026-09-24",
-          "title": "Rare Earths at the Trump-Xi Summit: Relief Without a Resolution - The Diplomat – Asia-Pacific Current Affairs Magazine",
-          "summary": "トランプ前大統領と習近平主席の首脳会談ではレアアースが議題として取り上げられたが、中国の輸出管理問題に対する根本的な解決策には至らず、一時的な緊張緩和に留まった。中国がレアアースの戦略的な輸出統制を維持する姿勢は変わらないまま、米国との対立は継続している。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY0NscWE4MER6aGRIemhHQ1JJVWMtWkxPOWg3Q0JkWk51WEcyZ0J5Nl9uRXE0WVZmTmNna3lZQTFoN3N5OTE3cHVXb0tlUmZyelIxN1hUUzNQTXFQWWNCdDgtMjh5c0ozVG9SQWR4Yzg3RjhMOEZfSFhRaVVHRVU4ZE5lTzZZc2NoemtsTVRMeF9aYVBSYzFRdUNfYw?oc=5",
-          "added_at": "2026-10-13 15:23:26"
-        },
-        {
-          "uid": "56007c501783",
-          "date": "2026-10-10",
-          "title": "China Northern Rare Earth Holiday Production Explained - Rare Earth Exchanges",
-          "summary": "中国北方稀土集団が休場期間中の生産対応について説明しており、これは中国のレアアース輸出管理政策の一部として、生産計画と供給コントロールがどのように実施されているかを示している。",
-          "source": "中国レアアース企業",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT3Z6LUNHUEVTMUJxQndWY3lneDhZX3hwY3ljelV5SHZxOFJ5clFscDJ2bzlqclhCRkhUcXQ4b1hpZjA1d0Nja01MVUNRVGVSelZFVmFzdENhdlhneHpobTBMVE03NDcyN0tXWlFBUTFDUlRkTWZ0X2tBd0ZEMmhIazdzUzd3LVVr?oc=5",
-          "added_at": "2026-10-13 15:23:26"
-        },
-        {
-          "uid": "88db0696175d",
-          "date": "2026-09-23",
-          "title": "How the US gave up its edge to China in processing vital rare earth minerals – and what that’s costing - The Conversation",
-          "summary": "米国は1980年代にレアアース処理の優位性を放棄し、中国が現在世界のレアアース精製の約90%を支配している状況により、米国は中国のサプライチェーン依存による戦略的脆弱性に直面している。この依存により、中国がレアアース輸出を制限した場合、米国の防衛・技術産業が深刻な影響を受けるリスクがある。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPckJDa2Z3aUpVb2Y1a0ZEbThuODI3dFBNX00xa2ROZUl2WE1fQWJNRk1UWWFrdXEtQXJsaWlCaWtiRHJ5V3E4RHVmdjZTX194OURCdU5BaHlDdjh4U2FRZ0pLc2tQS1hZQVdINk50SUFfTFltQ2lSNFBYeHBhclIzdEo1NXh2RVppTlozbDZ4WFZCT19BLW44UmkwZnE5Y0ZEeTVpVnBCd3ZjYUtWMzNxc1pKNnotMXJONGNQRFdZRXQ3RG1Cc1d6TFR5Z1RMRk0?oc=5",
-          "added_at": "2026-10-13 15:23:26"
-        },
-        {
-          "uid": "4979d266254f",
-          "date": "2026-10-08",
-          "title": "US critical minerals stockpile could drive prices higher, industry warns - Mining.com.au",
-          "summary": "米国が重要鉱物の備蓄を増やす計画は、市場供給を制限してレアアースなどの価格上昇につながる可能性があり、業界は懸念を示している。これは中国がレアアース輸出を管理・制限している状況下で、米国が国内備蓄を強化することで、グローバルな重要鉱物市場にさらなる供給逼迫圧力をもたらす可能性を示唆している。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHVXbV9nV05YMjVxbExNNzhVQlIydzJvZ1VlREFVd0JQbTRqZUlVOERCY1VBbFF5eDFjS0FXOU5HUnBvekFhc2tQYzJ5SUpIWmdVZUQyMnF1T0hWODRyb2F4MDE4by1UZkpoTURzcGl3UWk1WlBVYUpMSmJTVUxSbTlkdm9mZnJNNnRINGcxbm9TSEpoM2RWYl9n?oc=5",
-          "added_at": "2026-10-13 15:23:26"
         }
       ]
     },
@@ -6041,8 +6041,78 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-16 22:25:50",
+      "last_checked": "2026-11-17 08:15:59",
       "items": [
+        {
+          "uid": "63b5cc018b1e",
+          "date": "2026-11-16",
+          "title": "Nvidia’s board not considering return of Huang as CEO",
+          "summary": "I appreciate your request, but I cannot complete this task as instructed. The article content provided discusses Nvidia's CEO situation and is unrelated to \"自動車メーカーの対中提携への政治的批判\" (political criticism of automakers' partnerships with China). \n\nThe article topic does not match the requested context, making a summary under that framework inappropriate or impossible.",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6223454-nvidia-board-rejects-huang-return/",
+          "added_at": "2026-11-17 08:15:49"
+        },
+        {
+          "uid": "d0cbb748e02e",
+          "date": "2026-11-16",
+          "title": "Live updates: Trump en route to Asia; Nvidia scandal, national ground stop fallout loom large",
+          "summary": "この記事は「自動車メーカーの対中提携への政治的批判」とは関連がなく、トランプ大統領のアジア出張とNvidia問題についての内容であるため、要求された文脈での要約はできません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/",
+          "added_at": "2026-11-17 08:15:49"
+        },
+        {
+          "uid": "12f695a6ba81",
+          "date": "2026-11-16",
+          "title": "Canada could turn to Chinese automakers without US deal: Carney",
+          "summary": "カナダのカーニー首相は、米国との通商交渉が決裂した場合、経営難にある自動車産業を支援するために中国の自動車メーカーとの提携を検討する可能性があると述べた。この発言は、米国との交渉の重要性を強調しつつも、交渉決裂時の代替案として中国との連携を視野に入れている政治的立場を示している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/international/6223278-carney-threatens-china-auto-deal/",
+          "added_at": "2026-11-17 08:15:49"
+        },
+        {
+          "uid": "927371f32642",
+          "date": "2026-11-16",
+          "title": "What to know about Howard Lutnick and Scott Bessent feud",
+          "summary": "この記事は自動車メーカーの対中提携に関する内容ではなく、トランプ政権内でのAIチップ輸出規制をめぐるルトニック商務長官とベッセント財務長官の対立についての記事です。申し訳ありませんが、指定された文脈での要約は適切ではありません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/administration/6223104-lutnick-bessent-ai-chip-clash/",
+          "added_at": "2026-11-17 08:15:49"
+        },
+        {
+          "uid": "51f8aae9cefa",
+          "date": "2026-11-16",
+          "title": "73 senators moved permitting reform forward. Now finish it.",
+          "summary": "米国上院が超党派的な許可手続き改革法案を可決に向けて進展させたが、この法案は産業規制の合理化を目指すもので、自動車メーカーの対中提携に関する政治的批判の文脈では直接的な関連性を持たない記事である。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/opinion/energy-environment/6221943-congress-must-pass-permitting/",
+          "added_at": "2026-11-17 08:15:49"
+        },
+        {
+          "uid": "1f393a9c4152",
+          "date": "2026-11-16",
+          "title": "Trump administration seeks to restrict China’s remote chip access after Nvidia scandal",
+          "summary": "トランプ政権は、エヌビディアのスキャンダルをきっかけに、中国が高度なAIチップの計算能力へのリモートアクセスを得られる海外データセンターへの新たな規制を導入し、米国の輸出制限強化を進めている。この動きは、先端技術の中国への流出防止という国家安全保障上の懸念から、米国企業の対中提携やサービス提供に対する政治的圧力が強まっていることを示唆している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6222897-bis-limits-remote-computing-exports/",
+          "added_at": "2026-11-17 08:15:49"
+        },
+        {
+          "uid": "424c349d0c49",
+          "date": "2026-11-16",
+          "title": "Top Democrat accuses Commerce Department of failing to stop China from acquiring advanced chips",
+          "summary": "民主党上院議員は、中国への先端AI チップ流出を制限しないコマース長官の対応が、連邦当局者の繰り返しの警告にもかかわらず米国の国家安全保障を危険にさらしていると批判している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/senate/6222507-cantwell-accuses-lutnick-ai-risk/",
+          "added_at": "2026-11-17 08:15:49"
+        },
         {
           "uid": "b3a4ca0056ff",
           "date": "2026-09-03",
@@ -7972,76 +8042,6 @@
           "source_type": "media",
           "url": "https://thehill.com/opinion/finance/6157253-rural-ohio-worker-housing-crisis/",
           "added_at": "2026-10-20 04:43:17"
-        },
-        {
-          "uid": "cc6fd380ab8b",
-          "date": "2026-10-19",
-          "title": "The pill in your medicine cabinet is a national security issue",
-          "summary": "米国の医薬品供給の対外依存は国家安全保障上の脅威であり、国内製造能力の再構築が必要である旨が主張されている。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/healthcare/6156327-trump-secures-domestic-drug-production/",
-          "added_at": "2026-10-20 04:43:17"
-        },
-        {
-          "uid": "cc68193f3ab9",
-          "date": "2026-10-18",
-          "title": "'Deeply Alarmed': Trump Administration Slams Ford's Deal With Chinese Battery Company - InsideEVs",
-          "summary": "フォード・モーターが中国電池メーカーとの提携を発表したことに対し、トランプ政権が「深刻な懸念」を表明し、米国自動車メーカーの対中提携が政治的批判の対象になっていることを示している。この批判は、国家安全保障や産業競争力の観点から、米国がサプライチェーンの中国依存を懸念していることを反映している。",
-          "source": "運輸長官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DVTc3VThFMGJEbVhlVDNQWHZkWDBDdkZhMkdRMEtkYjVIZHM4cWQ3bjVqN1NLQ09kUGF5ZDlXaEVqSXI5clZONl9Ob25EYkp1b0htRHdiMDQ2RzN3WUw4TTRWSFJBZGx1UHY3RHhhWlVFMnowSzRYTXZITQ?oc=5",
-          "added_at": "2026-10-19 19:35:13"
-        },
-        {
-          "uid": "d8451543584d",
-          "date": "2026-09-10",
-          "title": "Ford Faces Trump Administration Clash Over China Partnerships - Forth.News",
-          "summary": "フォード・モーターがトランプ政権から中国とのパートナーシップに対する批判を受けており、自動車メーカーの対中提携が政治的な対立の焦点となっている。",
-          "source": "下院中国特別委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KWDNGOVJCcENCa2R6elpQellHaEMwVElWZjRkNVFPQ3did2xOU252Ulozd2l4LUV2MnU1QXhXSXRKYndKVUpwZU1KNldRLTRMUmRXdzZnMTdWX3J0UF9SUExn?oc=5",
-          "added_at": "2026-10-19 15:42:49"
-        },
-        {
-          "uid": "32a6a1eb0392",
-          "date": "2026-09-09",
-          "title": "Trump transport chief blasts Ford’s business deals with Chinese firms - South China Morning Post",
-          "summary": "トランプ前政権の運輸長官がフォード・モーターの中国企業との事業提携を批判しており、米国の自動車メーカーが中国との関係を深めることに対する政治的な反発が強まっている。",
-          "source": "トランプ政権高官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObmdPR3JWYzNrcTJ5VFlLSTE4SG9STW1ITEJuUXZwMzBQWDBiMTcwX1RBdUVwdm5jX2RtWjJDU2g4cThWYklnLUVjcGtlazJkUkVGSkRyUERMRW5jRm5QZW5abnMxRzMzRmlQNVIyWlNmUG9RalBhaldtb3htbkE1S2hPLThFd2M0MnplNUVPb0ZMbTBWOGUxVExKMGtSMHBSampDTUtUY3JrSzBoc2dWTTRSdmI5bnFyeDc1V2lWUVBzeF9wVG9vOTR5Rjk?oc=5",
-          "added_at": "2026-10-19 15:42:49"
-        },
-        {
-          "uid": "e6f691e551c5",
-          "date": "2026-09-09",
-          "title": "Ford caught in escalating Washington clash over China deals - WTAQ",
-          "summary": "フォード・モーターが中国との提携をめぐってワシントンの政治的対立に巻き込まれており、米国内で自動車メーカーの対中戦略に対する批判が高まっている。",
-          "source": "下院中国特別委員会委員長",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY1JCcDZzREdHZXp3bXBWQzA1VHJqOG9lV2pZTVRKTnI1M1psVi1peUFjbVJxUGlrNE5VU1h0cFE3VWVRNGozYVY3ajNDVkV1YTUtcC0zT040UmVPc3czbWo0WXVNeUx5b05JcXVvTUNPbzZWbUV6c05LblM2dy0yWVkwaWhnZlpaZUxSYmFxXzVPZw?oc=5",
-          "added_at": "2026-10-16 18:34:22"
-        },
-        {
-          "uid": "f400447c1ab8",
-          "date": "2026-09-17",
-          "title": "Washington Tells Ford (F) its Chinese Partnerships are a National Security Problem - Yahoo Finance",
-          "summary": "米国政府がフォード・モーターの中国とのパートナーシップを国家安全保障上の問題として批判しており、自動車メーカーの対中提携が政治的圧力の対象になっていることを示している。",
-          "source": "トランプ政権高官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLXNQYl9vVG1WaHhJUEViRWZvbXVzS2tGQ0k2NmloUmdYVTQ5OFRlUTBlOG9RemREUG1CajRQWlExVnlPeUZYQ0dPWF9oaktMNlA2WGJSN0hra1c3VWZ5MFk3TDFzNUk3Y1dta1EwRzN3YlVUeUgwX0RLdUpWcHRESFdvT2ZnMWVVZG9KODhxX0JaZDJWTHp5UHVwWWg?oc=5",
-          "added_at": "2026-10-16 18:34:22"
-        },
-        {
-          "uid": "d7964cac9e6e",
-          "date": "2026-10-08",
-          "title": "Why EV sales are lukewarm in America, but hot in Europe - Reuters",
-          "summary": "米国ではEV販売が低迷する一方、欧州ではEV需要が堅調な背景には、各地域の政策支援、充電インフラ整備、消費者の購買意欲の違いがあり、これらの要因は自動車メーカーの対中提携戦略にも影響を与えている。特に欧州ではEVシフトが急速であるため、メーカーが中国企業との提携を強化する動きが増加し、政治的な批判の対象となっている。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajRUTl9xbW4wSDZYc1hpcEZZczJfa3ZXWXN2UF94THlDNVNvWlYwUTBqOTI5YUp6V2hhWUZHaHU0NXJFMkNkMXkxS1F4WjY3Z1gyU3FZQUctUnVQeDUyMy1BTG02WThsMlQ0eXVHazFZOEpLUW52cmVfTlZSSkdsTVJFLV84M3Q0VTN6VWExXzQ5bU1FWVkwUUlkSTQxMGhmSDVkN2tHWGVUZlFBM2ZZ?oc=5",
-          "added_at": "2026-10-16 18:34:22"
         }
       ]
     }
