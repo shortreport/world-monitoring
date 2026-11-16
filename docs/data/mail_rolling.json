@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-11-16 09:37 JST",
   "total": 50,
-  "toyota_summary": "Britain's trade chief met with China this week to discuss tariffs on EV imports and Chinese investment in UK factories, signaling London may diverge from the EU's harder line on Chinese battery makers and vehicles. The EU, meanwhile, is preparing relief measures for automakers that cannot meet new origin rules taking effect in 2027, essentially buying the industry time to restructure supply chains. These moves suggest a widening gap between European trade policies just as the sector faces one of its biggest supply-chain upheavals in decades.\n\nThe stakes are simple: tariff policy now determines where EVs and their components will be manufactured and sold. A softer British approach could pull production and investment away from continental Europe, while the EU's 2027 grace period buys factories time to source materials outside China. Neither outcome is settled. Watch whether Britain actually exempts Chinese EV makers from tariffs, and by how much.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20261115_0010",
@@ -11,7 +11,12 @@
       "date_label": "NOV 15  00:10",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Lebanon: IMF will resist deal pending banking reform",
+      "html": "data/pdfs/20261115_0010_Lebanon__IMF_will_resist_deal_pending_banking_refo.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261114_1733",
@@ -21,7 +26,12 @@
       "date_label": "NOV 14  17:33",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trade diversification tops ASEAN Summit agenda",
+      "html": "data/pdfs/20261114_1733_Trade_diversification_tops_ASEAN_Summit_agenda.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261114_0834",
@@ -547,7 +557,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "インドは14億人超の人口と高い経済成長率を背景に有望な進出先だが、中堅・中小企業は商習慣",
-      "subject_en": "Notification of New JETRO Regional and Analysis Reports (November 12, 2026 Issue)",
+      "subject_en": "Notice of New JETRO Regional Analysis Reports (November 12, 2026 Issue)",
       "html": "data/pdfs/20261112_1418_ジェトロ地域・分析レポートの新着のご案内（2026年11月12日号）.html",
       "summary_en": "",
       "summary_ja": "",
@@ -592,7 +602,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "JETRO Business Brief dated 2026/11/11",
+      "subject_en": "\"JETRO Business Brief\" dated 2026/11/11",
       "html": "data/pdfs/20261112_1011_「ジェトロ・ビジネス短信」2026_11_11付.html",
       "summary_en": "",
       "summary_ja": "",
@@ -728,5 +738,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
