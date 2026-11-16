@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-11-14 14:56 JST",
+  "updated_at": "2026-11-16 09:37 JST",
   "total": 50,
-  "toyota_summary": "英中間のEV関税協議と、EU・英国間で取り沙汰される関税猶予措置——両者が焦点を当てるリスクは同根である。すなわち、原産地規則が自動車貿易における数十億ポンド規模の取引を脅かしているという問題だ。英国がEU並みの対中EV関税に歩調を合わせれば、中国の報復を招く恐れがある一方、ジャガー・ランドローバーにとって25億～35億ポンド規模に上るEU市場へのアクセスを失わずに済む。\n\nこれとは別に、EUは2026年仕様のバッテリーを現行規則の下で適合と認める案を検討中である。これが実現すれば、自動車各社は2026年に課される15億ユーロ規模の関税を免れる可能性があるが、2027年分の扱いについては依然として決着を見ていない。",
+  "toyota_summary": "Britain's trade chief met with China this week to discuss tariffs on EV imports and Chinese investment in UK factories, signaling London may diverge from the EU's harder line on Chinese battery makers and vehicles. The EU, meanwhile, is preparing relief measures for automakers that cannot meet new origin rules taking effect in 2027, essentially buying the industry time to restructure supply chains. These moves suggest a widening gap between European trade policies just as the sector faces one of its biggest supply-chain upheavals in decades.\n\nThe stakes are simple: tariff policy now determines where EVs and their components will be manufactured and sold. A softer British approach could pull production and investment away from continental Europe, while the EU's 2027 grace period buys factories time to source materials outside China. Neither outcome is settled. Watch whether Britain actually exempts Chinese EV makers from tariffs, and by how much.",
   "emails": [
+    {
+      "ts": "20261115_0010",
+      "sender_norm": "Eurasia Group",
+      "subject": "Lebanon: IMF will resist deal pending banking reform",
+      "pdf": "data/pdfs/20261115_0010_Lebanon__IMF_will_resist_deal_pending_banking_refo.pdf",
+      "date_label": "NOV 15  00:10",
+      "read_min": 4,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261114_1733",
+      "sender_norm": "Eurasia Group",
+      "subject": "Trade diversification tops ASEAN Summit agenda",
+      "pdf": "data/pdfs/20261114_1733_Trade_diversification_tops_ASEAN_Summit_agenda.pdf",
+      "date_label": "NOV 14  17:33",
+      "read_min": 6,
+      "toyota": false,
+      "excerpt": ""
+    },
     {
       "ts": "20261114_0834",
       "sender_norm": "Eurasia Group",
@@ -707,37 +727,6 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20261111_2124",
-      "sender_norm": "POLITICO",
-      "subject": "US to seek Putin’s ‘blessing’ for Europe to join Ukraine talks",
-      "pdf": "data/pdfs/20261111_2124_US_to_seek_Putin’s_‘blessing’_for_Europe_to_join_U.pdf",
-      "date_label": "NOV 11  21:24",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "US to seek Putin’s ‘blessing’ for Europe to join Ukraine talks",
-      "html": "data/pdfs/20261111_2124_US_to_seek_Putin’s_‘blessing’_for_Europe_to_join_U.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261111_1953",
-      "sender_norm": "POLITICO",
-      "subject": "EU unveils major overhaul of consumer rules",
-      "pdf": "data/pdfs/20261111_1953_EU_unveils_major_overhaul_of_consumer_rules.pdf",
-      "date_label": "NOV 11  19:53",
-      "read_min": 2,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EU unveils major overhaul of consumer rules",
-      "html": "data/pdfs/20261111_1953_EU_unveils_major_overhaul_of_consumer_rules.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ],
-  "toyota_summary_en": "UK-China EV tariff talks and a possible EU-UK tariff reprieve both center on the same risk: rules-of-origin rules threatening billions in auto trade. If the UK aligns with EU-style tariffs on Chinese EVs, it risks Chinese retaliation but avoids losing Jaguar Land Rover's £2.5-3.5bn EU market access.\n\nSeparately, the EU is considering letting 2026-spec batteries qualify under current rules, which could spare automakers from €1.5bn in 2026 tariffs, though 2027 treatment is still unresolved."
+  ]
 }
