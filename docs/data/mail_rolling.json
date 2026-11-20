@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-20 11:48 JST",
+  "updated_at": "2026-11-20 11:49 JST",
   "total": 50,
-  "toyota_summary": "China is moving deeper into European energy markets. Two major battery makers—CATL and Ampace—have partnered with British utility Octopus Energy to sell home storage systems across Europe. This signals a shift in how Chinese suppliers are positioning themselves: no longer just chasing automaker contracts, but building direct relationships with power companies and consumers. For carmakers, this matters because battery costs and supply chains are tightening in Europe, and Chinese firms are now securing long-term revenue streams outside the traditional auto supply chain.\n\nMorocco is threatening to pivot toward China if the EU excludes it from new industrial protection rules. The country fears being locked out of the EU's automotive benefits while competing against subsidized European and American vehicles. This creates a split in the Atlantic—the UK is also resisting EU pressure to raise tariffs on Chinese EVs—and raises the risk that North Africa becomes a backdoor for Chinese suppliers to reach European markets.\n\nWatch whether Morocco actually signs production deals with Chinese automakers in the next 90 days.",
+  "toyota_summary": "ホンダは米国におけるハイブリッド需要の高まりに対応すべく、アラバマ工場に4億6000万ドルを追加投資する。EV普及が減速するなかにあっても、ハイブリッド成長への自信を示す動きである。\n\nモロッコはEUに対し、「産業アクセラレーター法」における「メイド・イン・ヨーロッパ」認定の対象から除外されれば、中国側へ軸足を移す可能性があると警告している。ルノーとステランティスの現地工場は生産量の85%を欧州向けに輸出しており、除外されれば重要なサプライチェーン上のパートナーを北京へ押しやるリスクがある。\n\n参考情報として、韓国部品メーカーによるインド投資、およびメルセデス・ベンツの対中関係をめぐる米国の監視強化についても触れておく。",
   "emails": [
     {
       "ts": "20261120_1117",
@@ -10,8 +10,13 @@
       "pdf": "data/pdfs/20261120_1117_ジェトロ・メンバーズニュース第479号.pdf",
       "date_label": "NOV 20  11:17",
       "read_min": 2,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "JETRO Members News No. 479",
+      "html": "data/pdfs/20261120_1117_ジェトロ・メンバーズニュース第479号.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261120_1117_ジェトロ・メンバーズニュース第479号_en.pdf"
     },
     {
       "ts": "20261120_1102",
@@ -21,17 +26,27 @@
       "date_label": "NOV 20  11:02",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "On the Ground in China: Political and Economic Outlook - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261120_1102_On_the_Ground_in_China__Political_and_Economic_Out.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261120_1012",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/11/19付",
       "pdf": "data/pdfs/20261120_1012_「ジェトロ・ビジネス短信」2026_11_19付.pdf",
       "date_label": "NOV 20  10:12",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "CATLとAmpaceが英オクトパスエナジーと提携し、欧州の家庭用蓄電システム市場に進出する。"
+      "excerpt": "CATLとAmpaceが英オクトパスエナジーと提携し、欧州の家庭用蓄電システム市場に進出する。",
+      "subject_en": "\"JETRO Business Brief\" dated 2026/11/19",
+      "html": "data/pdfs/20261120_1012_「ジェトロ・ビジネス短信」2026_11_19付.html",
+      "summary_en": "Honda will invest an additional $460 million in its Alabama plant to meet growing demand for hybrid vehicles in the U.S. market. Separately, South Korean auto parts makers are stepping up investments in southern India, underscoring deepening Korea-India automotive supply chain ties. Meanwhile, a U.S. House committee has opened an inquiry into Mercedes-Benz's business ties with China, adding scrutiny to global automakers' China exposure.",
+      "summary_ja": "ホンダは米国でのハイブリッド車需要拡大に対応するため、アラバマ工場に4億6000万ドルを追加投資する。一方、韓国系自動車関連メーカーは南インドで投資を相次いで発表しており、韓印の自動車サプライチェーン連携が深まっている。また、米下院の対中特別委員会はメルセデス・ベンツの対中関係について調査を開始し、自動車メーカーの対中依存に対する監視が強まっている。",
+      "summary_pdf": "data/pdfs/20261120_1012_「ジェトロ・ビジネス短信」2026_11_19付_en.pdf"
     },
     {
       "ts": "20261120_1002",
@@ -41,7 +56,12 @@
       "date_label": "NOV 20  10:02",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC& Japan Conference Call: 「半導体規制の新局面、リモートアクセス規則とNvidiaを巡る余波がアジアに突きつける課題」 - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261120_1002_APAC&_Japan_Conference_Call__「半導体規制の新局面、リモートアクセス規則.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261120_1001",
@@ -51,7 +71,12 @@
       "date_label": "NOV 20  10:01",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: On the Ground in China: Political and Economic Outlook「中国現地訪問レポート：政治・経済見通し」（同時通訳あり） - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261120_1001_APAC_&_Japan_Conference_Call__On_the_Ground_in_Chi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261120_0835",
@@ -61,7 +86,12 @@
       "date_label": "NOV 20  08:35",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Nov 19th, 2026",
+      "html": "data/pdfs/20261120_0835_Daily_Research_Summary_-_Nov_19th,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261120_0522",
@@ -71,7 +101,12 @@
       "date_label": "NOV 20  05:22",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "China will lean on personal diplomacy to manage foreign relations",
+      "html": "data/pdfs/20261120_0522_China_will_lean_on_personal_diplomacy_to_manage_fo.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261120_0205",
@@ -81,7 +116,12 @@
       "date_label": "NOV 20  02:05",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Reconciliation 3.0 looks mostly dead",
+      "html": "data/pdfs/20261120_0205_Reconciliation_3.0_looks_mostly_dead.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261120_0148",
@@ -91,7 +131,12 @@
       "date_label": "NOV 20  01:48",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump presses European leaders about Ukraine aid in call after Putin summit",
+      "html": "data/pdfs/20261120_0148_Trump_presses_European_leaders_about_Ukraine_aid_i.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261120_0131",
@@ -111,7 +156,12 @@
       "date_label": "NOV 20  00:10",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Europe argued over who would talk to Russia. Agreeing what to say is even tougher.",
+      "html": "data/pdfs/20261120_0010_Europe_argued_over_who_would_talk_to_Russia._Agree.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261119_2325",
@@ -121,7 +171,12 @@
       "date_label": "NOV 19  23:25",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Commission takes Greece to court over outdated air traffic technology",
+      "html": "data/pdfs/20261119_2325_Commission_takes_Greece_to_court_over_outdated_air.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261119_2311",
@@ -131,7 +186,12 @@
       "date_label": "NOV 19  23:11",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Commission takes Greece to court over outdated air traffic technology",
+      "html": "data/pdfs/20261119_2311_Commission_takes_Greece_to_court_over_outdated_air.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261119_2223",
@@ -141,7 +201,12 @@
       "date_label": "NOV 19  22:23",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Funding will be a constant battle in Congress",
+      "html": "data/pdfs/20261119_2223_Funding_will_be_a_constant_battle_in_Congress.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261119_2205",
@@ -151,7 +216,12 @@
       "date_label": "NOV 19  22:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How Burnham tapped the brakes on his big Brexit reset",
+      "html": "data/pdfs/20261119_2205_How_Burnham_tapped_the_brakes_on_his_big_Brexit_re.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261119_2006",
@@ -161,7 +231,12 @@
       "date_label": "NOV 19  20:06",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "5 key places that signal where Spain’s election is heading ",
+      "html": "data/pdfs/20261119_2006_5_key_places_that_signal_where_Spain’s_election_is.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261119_1853",
@@ -171,7 +246,12 @@
       "date_label": "NOV 19  18:53",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Germany presses to make Ukraine aid Le Pen-proof",
+      "html": "data/pdfs/20261119_1853_Germany_presses_to_make_Ukraine_aid_Le_Pen-proof.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261119_1736",
@@ -181,7 +261,12 @@
       "date_label": "NOV 19  17:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Inside Ukraine’s Coalition of the Wobbling",
+      "html": "data/pdfs/20261119_1736_Inside_Ukraine’s_Coalition_of_the_Wobbling.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261119_1501",
@@ -191,7 +276,12 @@
       "date_label": "NOV 19  15:01",
       "read_min": 10,
       "toyota": true,
-      "excerpt": "モロッコは産業加速化法（IAA）から除外されるおそれがあり、中国との提携を検討する「プラン"
+      "excerpt": "モロッコは産業加速化法（IAA）から除外されるおそれがあり、中国との提携を検討する「プラン",
+      "subject_en": "Morocco threatens to cozy up to China over IAA exclusion",
+      "html": "data/pdfs/20261119_1501_Morocco_threatens_to_cozy_up_to_China_over_IAA_exc.html",
+      "summary_en": "Morocco is pressing the EU to include it as a trusted partner under the Industrial Accelerator Act, warning that exclusion could push it toward deeper ties with China. The country's auto sector, led by Renault and Stellantis plants exporting mostly to Europe, is central to this leverage, while Chinese EV and battery investments already top €10 billion there. Brussels fears granting Morocco 'Made in Europe' status could let Chinese automakers indirectly access EU subsidies and markets.",
+      "summary_ja": "モロッコはEUに対し、産業加速化法（IAA)の「信頼できるパートナー」として自国を含めるよう求めており、除外されれば中国との関係を一層深める可能性があると警告している。同国の自動車産業はルノーやステランティスの工場が欧州向け輸出の大半を占め、交渉材料となっている一方、中国のEVや電池関連投資は既に100億ユーロを超えている。ブリュッセルは、モロッコに「欧州製」認定を与えれば、中国メーカーがEUの補助金や市場に間接的にアクセスする恐れがあると懸念している。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261119_1500",
@@ -201,7 +291,12 @@
       "date_label": "NOV 19  15:00",
       "read_min": 5,
       "toyota": true,
-      "excerpt": "モロッコは、EUの産業加速化法による自動車産業保護策から除外されることを懸念し、中国との"
+      "excerpt": "モロッコは、EUの産業加速化法による自動車産業保護策から除外されることを懸念し、中国との",
+      "subject_en": "Morocco threatens China pivot over fears EU will shut out its carmakers",
+      "html": "data/pdfs/20261119_1500_Morocco_threatens_China_pivot_over_fears_EU_will_s.html",
+      "summary_en": "Morocco is warning the EU that if it is excluded from the bloc's proposed Industrial Accelerator Act—which sets 'Made in Europe' rules to counter Chinese competition in sectors like EVs—it may deepen ties with China instead. As Africa's top car producer, with 85% of its 2025 output exported to Europe, Morocco argues it deserves treatment similar to the UK, but EU diplomats are resisting, leaving Rabat as apparent 'collateral damage' in Europe's protectionist push.",
+      "summary_ja": "モロッコは、中国との競争からEV等を守るEUの「産業加速化法」で自国が「欧州製」の対象から除外されれば、中国との関係強化に動く可能性があると警告している。アフリカ最大の自動車生産国であるモロッコは2025年生産台数の85%を欧州に輸出しており、英国同様の扱いを求めているが、EU側の外交官は拒否姿勢を示しており、モロッコは保護主義強化の「巻き添え被害」となりかねない状況だ。",
+      "summary_pdf": ""
     },
     {
       "ts": "20261119_1448",
@@ -210,8 +305,13 @@
       "pdf": "data/pdfs/20261119_1448_Cyberattack_hits_the_Commission.pdf",
       "date_label": "NOV 19  14:48",
       "read_min": 15,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Cyberattack hits the Commission",
+      "html": "data/pdfs/20261119_1448_Cyberattack_hits_the_Commission.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261119_1354",
@@ -221,7 +321,12 @@
       "date_label": "NOV 19  13:54",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Research Summary in Japanese",
+      "html": "data/pdfs/20261119_1354_EG_Research_Summary_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261119_1136",
@@ -231,7 +336,12 @@
       "date_label": "NOV 19  11:36",
       "read_min": 1,
       "toyota": true,
-      "excerpt": "USMCA共同見直しが2026年7月1日に初めて実施され、北米の貿易ルール変更が日本企業のサプ"
+      "excerpt": "USMCA共同見直しが2026年7月1日に初めて実施され、北米の貿易ルール変更が日本企業のサプ",
+      "subject_en": "Notice of New JETRO Regional and Analysis Reports (November 19, 2026 Issue)",
+      "html": "data/pdfs/20261119_1136_ジェトロ地域・分析レポートの新着のご案内（2026年11月19日号）.html",
+      "summary_en": "JETRO's latest regional reports spotlight the first joint review of USMCA, launched in July 2026, which could reshape North American trade rules and force Japanese automakers and suppliers to reassess manufacturing footprints and supply chains amid prolonged negotiation uncertainty. The bulletin also covers SME expansion into India, hiring of highly skilled foreign talent in Japan, and social commerce marketing trends in Cambodia.",
+      "summary_ja": "ジェトロの最新レポートは、2026年7月に始まったUSMCA初の共同見直しを特集し、協議の長期化が北米の貿易ルールや日本の自動車メーカー・サプライヤーの生産体制・サプライチェーン戦略に影響を及ぼす可能性を分析している。あわせて、インドへの中堅・中小企業進出事例、高度外国人材の活用、カンボジアのソーシャルコマース動向も紹介している。",
+      "summary_pdf": "data/pdfs/20261119_1136_ジェトロ地域・分析レポートの新着のご案内（2026年11月19日号）_en.pdf"
     },
     {
       "ts": "20261119_1008",
@@ -242,7 +352,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "JETRO Business Brief dated 2026/11/18",
+      "subject_en": "JETRO Business Brief November 18, 2026",
       "html": "data/pdfs/20261119_1008_「ジェトロ・ビジネス短信」2026_11_18付.html",
       "summary_en": "",
       "summary_ja": "",
@@ -592,7 +702,7 @@
       "ts": "20261118_1008",
       "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/11/17付",
-      "subject_en": "\"JETRO Business Brief\" dated 2026/11/17",
+      "subject_en": "JETRO Business Brief November 17, 2026",
       "html": "data/pdfs/20261118_1008_「ジェトロ・ビジネス短信」2026_11_17付.html",
       "pdf": "data/pdfs/20261118_1008_「ジェトロ・ビジネス短信」2026_11_17付.html",
       "summary_en": "The United Auto Workers and allied labor groups have urged the U.S. Congress to maintain firm policies addressing China-related risks in the auto sector, citing concerns over supply chain dependence and unfair trade practices. The request comes as Washington and Beijing hold their first formal U.S.-China trade committee meeting, with export controls remaining a key point of friction. The move underscores growing political pressure on U.S. automakers and policymakers to reduce reliance on Chinese components and technology.",
@@ -633,5 +743,6 @@
       "toyota": false,
       "excerpt": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "Honda is investing $460 million more in its Alabama plant to meet rising U.S. hybrid demand, signaling confidence in hybrid growth even as EV adoption slows.\n\nMorocco is warning the EU it could pivot toward China if excluded from the Industrial Accelerator Act's \"Made in Europe\" status. With Renault and Stellantis plants exporting 85% of output to Europe, exclusion risks pushing a key supply-chain partner toward Beijing.\n\nKorean parts investment in India and U.S. scrutiny of Mercedes-Benz's China ties are provided for reference."
 }
