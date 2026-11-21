@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21 06:43:58",
+  "generated_at": "2026-11-21 22:17:43",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,58 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-21 06:43:08",
+      "last_checked": "2026-11-21 22:17:08",
       "items": [
+        {
+          "uid": "f32d9a484a79",
+          "date": "2026-11-19",
+          "title": "EU lawmakers put Industrial Accelerator Act vote back to Dec. 14 - MLex",
+          "summary": "EU議会は欧州産業加速法案（IAA）の採決を12月14日に延期しました。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcTVoM2JCak0xQVJ3RVlvWmg4MTBMUl9Ka1NmZlgtZUgyZmhzTGhkVWp0UDVHZnJHcmVfeW5zeC1MYXJUdmR6UHpNSmoycWdlUUJPUTZlUkVmUUwzR0pDQk5nWWQ3aV9RZEhZY2ZGLU1OY3hNblJpVW9RZmZySVZKMzdFeFBZSW4yVTYwNTJWVmFFanpLdzJGa1AxV3pWbjU3cnRfMDRfTXV0VWhmLWwzaWlR0gFaQVVfeXFMTUpaMTZXR0ZHLWpaeGhEUHhnS3lBTVh0ODBBTzYxaThJMXZaMzY5aUhGd2t2RlNLM1N2MGViVVlMOW0ycEZMd2czLUpsdlNPTVVRZXlGamdJN093?oc=5",
+          "added_at": "2026-11-21 22:17:01"
+        },
+        {
+          "uid": "842ea03006aa",
+          "date": "2026-11-19",
+          "title": "MEPs gut EU Commission plan for regulating space industries - EUobserver",
+          "summary": "欧州議会議員（MEPs）が、欧州委員会による宇宙産業規制計画を大幅に削減・修正したもので、産業加速法案（IAA）の枠組み内で、欧州の宇宙産業競争力強化と規制のバランスに関する議論が反映されている。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXg4YnlROS1mVlc0ZGlHNEw1bkx3aENEcDE2VmVRMGpZYVNSczl3QkR4QzlJbmFKUEhzbmF6WUUyWFRDRzFYd1M5WjdyZWR4LUt2elo1N2VOWDRPazJ5emdsVUdDMElMS3dLdXBXRjlMRmdXRkd6Q0xZcG1WZE5Gb2Jnd3EwUDhrV2FBYTNNNnhzb21T?oc=5",
+          "added_at": "2026-11-21 22:17:01"
+        },
+        {
+          "uid": "abb26edd8112",
+          "date": "2026-11-20",
+          "title": "Cepi and industry groups urge EU Parliament to revise post-2030 ETS - Papnews",
+          "summary": "製紙業界団体Cepiおよび産業グループが、2030年以降の排出権取引制度（ETS）の見直しをEU議会に求めており、これはIAA下での産業競争力強化と脱炭素化の両立という課題を反映している。欧州産業の国際競争力維持には、炭素リークを防ぎつつ過度な規制負担を軽減する制度設計が必要とされている。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVi1telQ2TDJMRS12bUk5THBMcGJIZ1JwcHRFQUJIckZSN2Q3dmNxOVdwS1RwWGdpYXN4RngtRTdPUDJiM2ZQWC1XOWFKZmdrc0lUb1BDanRIVFlNeXBnX1VyYWR5cU14YzM0REktUEJMbEVFNXJPRUozTDN1MW44OVl3?oc=5",
+          "added_at": "2026-11-21 22:17:01"
+        },
+        {
+          "uid": "99e7ec29256a",
+          "date": "2026-11-21",
+          "title": "EU Proposes 50% European Value Threshold for Heat Pump Subsidies - https://news.brgbuildingsolutions.com/",
+          "summary": "EU は欧州産業加速法案（IAA）に基づき、ヒートポンプの補助金受給要件として 50% 以上の欧州製造値を求める提案を行っており、これは域内産業の競争力強化を目的としている。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMDdqckZzbmF1WnE1MUVFWU0xV1hYeDljNklnZXZINW9OR2Y4YXVzTHFwaEVabHFYSWkzT01hT19LaXRSa0hnQ3RrbjdWTW5YLVg1NFhwTE1iZ05RQVBDZUU3NDg0RG93UTViRFV0dVpPOWdvb25SdWdXRWY2bGRUb0lhWmE5NEh5WWJYV2dKQ3ZsZUhPNGgtbzNIaDNMN29SbG5NeTRGSzdoQQ?oc=5",
+          "added_at": "2026-11-21 22:17:01"
+        },
+        {
+          "uid": "9f4ca40f6f14",
+          "date": "2026-09-16",
+          "title": "ETS: Council agrees targeted measure to protect energy-intensive sectors from carbon leakage - Council, European Union",
+          "summary": "欧州連合理事会は、炭素漏出から エネルギー集約産業を保護するための標的的措置に合意し、これはETS（排出権取引制度）の改革を通じて欧州産業の競争力を強化する「欧州産業加速法案」の重要な要素となります。この措置により、欧州の製造業が厳しい炭素規制下でも国際競争力を維持することが目指されています。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWGZyOGpHcEhGelc1V3hBUnh1U01tMTRsY1E1d0FueVM2cG0yRzlzMG5VMUp5SmVuSG9TRWJuWUlvaGtVMFNwWUdLS2owUTg2UnR0bnYybHdIS2RfeE5zTWtEajRxRVNLcnExVFBlcy1jNVNMVy1zUzJvRGlTamZVTUlOckpuV2J3b19ybDVVOExuLVBYeWh4WUNwM18xTGkyeWZWQjdOZ0dLMUhRdENoVTdMaHhlWGZ6MlBRTm1UTnRjS3RhbVAyb1dhN1hRcFdZaHpGQmhoQlZfamRRaEdoNmo0bl9LZ25VQmloSjhmb2M?oc=5",
+          "added_at": "2026-11-21 22:17:01"
+        },
         {
           "uid": "79fd3185059f",
           "date": "2026-11-19",
@@ -1959,56 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbENqek1PYjQxVUhnZFlOLVVBWEM5SXlPODlSYnpXSHl2QTh1UV9Sd05PVnJuTFZ1UVFaS012Z19Kd29tMnQ1czNzZ24xeGdwMTJmOVl5cjBGd0dPTlFSSHVUMlZMQlNFRVpjVko1RGl5RGdqVXpDeHdlYUNPZ2N2OFZzb0NLQ19QaFFGRnJSUUNVeTl2VlJpN2x1bGRZVHdDRXdV?oc=5",
           "added_at": "2026-09-25 13:29:45"
-        },
-        {
-          "uid": "e63d6c71fd57",
-          "date": "2026-09-21",
-          "title": "European center right splits over ‘Made in Europe’ - politico.eu",
-          "summary": "申し訳ございませんが、提供いただいたタイトルのみで記事の具体的な内容が不明なため、正確な要約ができません。記事の本文内容をご提供いただければ、IAA（欧州産業加速法案）の文脈での要約をお作りします。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUFDZ1E5eGJ4NTItWkJGNklLMXdkeVZVWnNVNmV2X3l6d0p2MG54bkdJeF8wSUs2RGIzU2V2cGZ4OGM2ZHdlQVhTZXlmYmhjY3pyN25ERm5udXRnUU1YeC00ZTJDRWF0TGo3cU5mWURxS2VuZ0J0UTdoSThkR09Tdy1ibEc1Z1pR?oc=5",
-          "added_at": "2026-09-25 13:29:45"
-        },
-        {
-          "uid": "cbeb6863a697",
-          "date": "2026-09-24",
-          "title": "Briefing: How the EU is simplifying permitting - ENDS Europe",
-          "summary": "欧州連合（EU）は産業加速法案（IAA）の一環として、再生可能エネルギーやクリーンテック産業の許可申請手続きを簡素化し、プロジェクト承認の期間短縮を実現しようとしている。これにより、EU域内での産業投資を加速させ、グリーン産業競争力の強化を図っている。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFlNbjVuZktlNmdoRDlJRkRFeDFsblJhX1JFMUFxXzdhYkczSEg3NWdvYXhYNlJpTUZqUjIzLVJ1bE1ZS3Yxai1ILXJxTmNoSFQzU1RqMzJFejU0LUJGT3hUZVRSelJnbkR0bzQxV1dsLS1pYlZhMEdtcnBteGt3ZkZsYw?oc=5",
-          "added_at": "2026-09-25 13:29:45"
-        },
-        {
-          "uid": "e59fbe1f86ab",
-          "date": "2026-09-24",
-          "title": "(TEST) Vote now: EUSEW Awards 2026 finalists are here - European Commission",
-          "summary": "申し訳ありませんが、提供いただいた記事の内容が「(TEST)」というテキストのみで具体的な本文が含まれていないため、「欧州産業加速法案（IAA）」に関する文脈での要約ができません。記事の詳細な内容をご提供いただければ、要約させていただきます。",
-          "source": "欧州議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsSWduanVZMWVXd3ZnQVJiY0pMN3c0SWFHZVVqNTl1dEd0ZDFtVHdHSlJjQUpRcEs5aF85cUxZYi00VDV5UnFWZkNvUGJiSlRNbldVV3Y1S0NEMUd2Z3g5c2lfdXJyZjBndjBaXzhB?oc=5",
-          "added_at": "2026-09-25 13:29:45"
-        },
-        {
-          "uid": "21831767e2bc",
-          "date": "2026-09-22",
-          "title": "What is in Brussels' 'Made in EU' law and why is Britain worried? - Reuters",
-          "summary": "欧州産業加速法案（IAA）は、欧州域内での製造・投資を優遇し、電動自動車やバッテリーなど重要産業の競争力強化を目指す規制で、英国はこれにより域外企業として不利な扱いを受ける可能性に懸念を示している。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWVfY3Z3TXNuazN1Zm9JbGZPZGVwYm5tMmpfR0NycUc5Y2VWN1ZnaEhHaGplTzBhQ3p6T25IVnQyNXcyaHVHbjh3UnhhVkJIbWZBMWptMjZ0cXdtOURlaVZPTEdrUXR2N1RPY1l4eDE4cDJPbEVWSGFEdFNCNVVUNWRvTVg4Uk1ydWVFdFFSS1Z6bjFjeU1DWk1uY2Q?oc=5",
-          "added_at": "2026-09-24 03:18:27"
-        },
-        {
-          "uid": "cfc4181f65a0",
-          "date": "2026-09-23",
-          "title": "UK Fears Proposed \"Made In EU\" Law Could Damage British Car Industry - AutoSpies.com",
-          "summary": "英国は、EUが提案する「メイド・イン・EU」法（欧州産業加速法案）により、ブリテン島の自動車産業が原産地要件の厳格化や現地調達率の引き上げによって競争力を失い、産業に悪影響を被る可能性を懸念している。この法案はEU域内の産業保護を強化する一方で、英国などEU域外の自動車メーカーやサプライヤーの市場アクセスを制限するリスクがある。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwampYS1Z5cUpfZHdMY3RZQ002SE1WWWtEb3FraDFUT0FZeFE5cFE0a0lQeXlZcldhM3VGQ2tfVk9mMG9wdXpBdmhCMFJQcDczWmVVbXZwUjRNRHNPNDM2R3Y5MTNnUEs4T0VJTTRR?oc=5",
-          "added_at": "2026-09-24 03:18:27"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-21 06:43:20",
+      "last_checked": "2026-11-21 22:17:16",
       "items": [
         {
           "uid": "faca21c86767",
@@ -4030,8 +4030,68 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-21 06:43:40",
+      "last_checked": "2026-11-21 22:17:35",
       "items": [
+        {
+          "uid": "755dfcab45d9",
+          "date": "2026-11-19",
+          "title": "Governments race to fund ex-China gallium and germanium as export controls bite - Benchmark Mineral Intelligence",
+          "summary": "中国がガリウムとゲルマニウムの輸出管理を強化したことを受け、各国政府が中国以外での生産確保に資金投下し、サプライチェーン多元化を急速に進めている。これはレアアース含む重要鉱物の中国依存からの脱却を目指す動きである。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkZWbHdyRWIwM0tsVzBXYlNvYWlyMG9icHUtMWlfM1Y2aWR6TVBocWFhZE5ERktERnFXNkVEWU43X1hOUkhuTU92LVhKRmJNTklJQ0FwWTFaY3ZXczBOeGJucTltcFVTMUctclFNSmRza0tVOG93LV9QU0NMRG1nZlprVXIzYkZDZDlpeV96NmoyUm9zSElBbF9rRlhxcVFDVnMzcEtVWDdfV2xJOGxpNkVrT05Uc08tSzVrRVlZUnJadw?oc=5",
+          "added_at": "2026-11-21 22:17:27"
+        },
+        {
+          "uid": "1150f50bc8d1",
+          "date": "2026-11-04",
+          "title": "Experts react: Democrats just swept the US midterms. Here’s what it means for the world. - Atlantic Council",
+          "summary": "この記事は米国中間選挙の民主党勝利についての専門家の見解を扱っており、中国レアアース輸出管理に直接関連する具体的な内容は記載されていません。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeE15WFg4U1VydFliejA2dzJLR1pkT0tlNE1hWHpORHVUelN1ZXRoeUNwNTNUSTNwa0JabXhEYjZpcUQ4YU5RaUk2d3JtMWZNa0tobHpPNGxBdWI0eHlDLXFTM0dKaC1mSUVINEdEU1lRam1DOHhZQlFGWWJYenVhTGhDcnJqdkdRQmNRV1VWUnAxMjVRQlY4YU5Lay1jSk5JUkx1bVdHM3A3U0J0MVNKLWFuZENtaHhvbTRlVDY3RE9nV01Ndi1v?oc=5",
+          "added_at": "2026-11-21 22:17:27"
+        },
+        {
+          "uid": "6c0008f29266",
+          "date": "2026-11-17",
+          "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Devdiscourse",
+          "summary": "中国のレアアース輸出管理に関する直接の具体的情報は記事に示されていないため、タイトルのみから述べると、米国民主党議員がトランプ大統領と習近平主席の会談前に中国の通商上の地位を終わらせる法案を提出し、これは中国への経済的圧力を強化する動きの一環と考えられます。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWWhweFdrOXlqMFRqbGdma0xCUE9acjlJOW5xZW1CRERWaDVueTlZd2lrVjBRRUJKeklUZXZjT2QwbFBLSU1nX1lNNFRwSDF1bFhrWmJlLU9MS2psSEVmMFhhQVE3UkxBdjczMzl4ZnRYWHZfLVFKRGNXZFFaR2FkU2lPUGllY0JzblFYeW5iN1NidGJpQml0dC05OVZwS082V3hqWmVodVFHb2Y2X19aUkhsc3pBeXNBOEs3TmJuVEVuMHJfT2lfS3JYWERROUJhSGszUkg2TmRZYTdpWG0tMnZ3ZF9qLWVR0gHoAUFVX3lxTE5ZaHB4V2s5eWowVGpsZ2ZrTEJQT1pyOUk5bnFlbUJERFZoNW55OVl3aWtWMFFFQkp6SVRldmNPZDBsUEtJTWdfWU00VHBIMXVsWGtaYmUtT0xLamxIRWYwWGFBUTdSTEF2NzMzOXhmdFhYdl8tUUpEY1dkUVpHYWRTaU9QaWVjQnNuUVh5bmI3U2J0YmlCaXR0LTk5VnBLTzZXeGpaZWh1UUdvZjZfX1pSSGxzekF5c0E4SzdOYm5URW4wcl9PaV9LclhYRFE5QmFIazNSSDZOZFlhN2lYbS0ydndkX2otZVE?oc=5",
+          "added_at": "2026-11-21 22:17:27"
+        },
+        {
+          "uid": "8d859402e7df",
+          "date": "2026-09-28",
+          "title": "North America is building rare earth plants faster than it is building rare earth engineers - The Northern Miner",
+          "summary": "北米はレアアース処理施設の建設速度は速いものの、それに対応する技術者の育成が追いつかないため、中国のレアアース輸出管理に対抗するための産業基盤の確立に課題を抱えている。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSHlNSGZ2QjMzT0pyZmU4OWlwUXd0bWpKLUpXdV9ZSjR4YzNjTk9JSko5S2xuMEZUNzhobDhnVTVSRVZWUXpGbmlWWGdwZjJNc3lLU2J2bVpJaEJaNkxKNjVKazEtNlZRSmlJdGRtQXdzOW1TQm1fZkhSSFZWQ3FVVjk0b3dZUVE2ZjBDNjhaZ1hPM1prYTJpY1ptSUVZb01Mdmt5V3J6UEE4aWItM2ZhWXhfczNoVVIyYU4wUVJ0WC1mVzNiNTljWWw1ZGpUVkpRYTE2Vg?oc=5",
+          "added_at": "2026-11-21 22:17:27"
+        },
+        {
+          "uid": "be4e1187efd5",
+          "date": "2026-11-21",
+          "title": "Howard Lutnick asked battery startup Pure Lithium to accept US takeover, documents and source say - Mining.com",
+          "summary": "申し訳ありませんが、提供いただいたテキストはタイトルのみで具体的な記事内容がないため、「中国レアアース輸出管理」に関する文脈での要約ができません。記事の本文内容をご提供ください。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdE1QOXZCYlBKMmQ5cmM5VFdoSEdINUdvN2ZPUHdxZmNqSDdPZWtmZ2M4Yjd2OU5yZVVqRUtzOXh6WFhLMVNlVG54ZnFFdzZZQ3hkUjI1S2JMdlBTbTFRRjVjLXFYMTdKZ0Q4Q3NzWVlMY3NROWYwYWRIMkV4ZnRSaHg4MF9QbVJIVVB0a0M1T1J4aVRKRDRxLVBTZXlFSjM5ZXZINEJrTEFFMk9RZWl6Wl9RVUF6ZkFvZ0hDMkFEanNUZw?oc=5",
+          "added_at": "2026-11-21 22:17:27"
+        },
+        {
+          "uid": "98cf2b5c084d",
+          "date": "2026-11-21",
+          "title": "China Rare Earth Industrial Expansion vs Western Buildout 2026 - Rare Earth Exchanges",
+          "summary": "中国はレアアース産業の拡大を進める一方、2026年までに西側諸国がレアアース供給の自給能力構築を加速させており、中国の市場支配に対する競争が激化している。中国の輸出管理強化と西側の代替供給源確保の動きが対立する構図となっている。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVJsZkdvZnQ2OWF4clhSNlA2Mlc3UHIyZThGam5nNFU0c0FmQlAtZzNLU2xGZGY4RndIaVBVM1I5QTFDTTcxYkwzam1Wam9uSEdJTk5adXRmVHNudmdJNlNEdWFBUVRZb0RMY2ExTlZKc0dOdVJCM0g1X0FFWmF1TGczOHBLYjc5OW93N3VR?oc=5",
+          "added_at": "2026-11-21 22:17:27"
+        },
         {
           "uid": "1cdf77d3b2c9",
           "date": "2026-11-19",
@@ -5971,66 +6031,6 @@
           "source_type": "china",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8waEhSVE1idUlnUXU1UlByeV94T1JvY1lGNGRhMG9JUy1wVmltNnM4UEZVbmJzYWFfc0J4VVhmRzV6Q1JKRlJDeE9IT2xoRGdpcHFGNHlVNVpodjdyNTlBLU5STGUyUjhRNnEw?oc=5",
           "added_at": "2026-10-20 04:43:06"
-        },
-        {
-          "uid": "d1c1780da0a6",
-          "date": "2026-08-19",
-          "title": "Chinese Rare Earth Supplies to Japan Dry Up, Putting EV and Chip Equipment Industries on Alert Despite 15-Year Decoupling Drive - https://economy.ac/",
-          "summary": "中国がレアアースの日本向け輸出を削減していることで、電気自動車と半導体製造装置産業が供給不安に直面しており、日本が過去15年間取り組んできた中国依存からの脱却戦略が十分な成果を上げていないことが明らかになった。",
-          "source": "同盟国対応",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54N3ltMUpSMV90U0JsaXdnMTNIaXA3a1hGM3pDcm9zMGNVbDloZ25EekNHcUlQeTlTQmE1c0JlYmtQRDUtYWpXZ1hQOW54cGlHSy1TeS1CZw?oc=5",
-          "added_at": "2026-10-20 04:43:06"
-        },
-        {
-          "uid": "300a03109431",
-          "date": "2026-08-21",
-          "title": "Why the World’s Hedging Responses to China’s Rare Earth Dominance Have Failed - The Diplomat – Asia-Pacific Current Affairs Magazine",
-          "summary": "# 中国レアアース輸出管理に関する要約\n\n世界各国が中国のレアアース支配に対抗するために講じてきたヘッジング戦略（代替供給源の開発や備蓄など）は、中国の圧倒的な生産能力と市場支配力により十分な効果を発揮できず、依然として各国は中国への依存から脱却できていない。中国は戦略的にレアアース輸出を制限することで、地政学的な影響力を強化し続けている。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1FVSV9JNm1oU2tNVEdULVpvRmR0VHlxWmZJYkNhZU9jdkcxNGhzMldGZGhyRHVXSkxneGw0bVZoSFVqZmR0TXFROEpXaS15b0s5UFUyV3RjaWhWZGhUTXhseTNHVWtNZF9XdC0ybGdYMTFzeXp1N1JRci11OWUxUUlFOGRHZjNHQWg5WEVrTUpybTlxRHhMUzlzbHY3NmpZSFNQWFlDS0NJOHIz?oc=5",
-          "added_at": "2026-10-19 19:35:04"
-        },
-        {
-          "uid": "4092d067c8a5",
-          "date": "2026-09-02",
-          "title": "Brazil’s Congress approves bill establishing national policy on critical minerals - Mining.com",
-          "summary": "ブラジル議会が希少鉱物に関する国家政策を確立する法案を承認したもので、中国による レアアース輸出管理への対抗措置として、レアアース供給源の多元化を進める動きと位置付けられます。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZW1wMzFOZVZISGw0TmdSNmRMVlVLVTBtNkJzeUhneUlEUF9hTUpNNmZmQnNqQlE2cmZiSWNKNWk1Nlh2aHBfcGdyM3dnb2FSQkVNb3VmVnBoSXZGM2ZDaS00SURablUyNFY4cjR6THUyZ3k3eUxvWnNMal80Z05VWDlXNjhwWDRXQU1qYWw3ekNLeC1HYmFVN1Y3UzJuZzhqYjI5ZV9fS3ZoSzJ0?oc=5",
-          "added_at": "2026-10-19 15:42:31"
-        },
-        {
-          "uid": "44f4b1a940fc",
-          "date": "2026-08-20",
-          "title": "Dems sharpen attack on post-midterm target: Trump’s mineral deals - Politico",
-          "summary": "中国のレアアース輸出管理の背景にある米国の鉱物戦略として、トランプ前大統領の鉱物取引政策が民主党から批判されており、これは米国がレアアースなどの重要鉱物の中国への依存を減らすための施策が政治的対立の焦点となっていることを示唆している。",
-          "source": "米閣僚発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFBhbmc4SGJ2SUhORXNRSnRScUpMSGdsMmxNSkZ2R3gtcFZBUGtkQjRQdkxoWWwyNTFmZ3dtNUxSR2lpdlEtakk5OHZSLS1aZmdaRXBzeGI1cVNod2dSV2FkWTg4blZyLVBHdC1JNklPUTZvVmU1SnYtc1VSTjFTaEI2V0Z6WEs3OEIzbTktVQ?oc=5",
-          "added_at": "2026-10-19 15:42:31"
-        },
-        {
-          "uid": "68860299e6e4",
-          "date": "2026-10-16",
-          "title": "China adds 40 technologies in AI, biomedicine and PV for export controls in draft revised catalog - Global Times",
-          "summary": "中国は人工知能、バイオメディシン、太陽光発電分野の40の技術を輸出管理規制対象に追加する改正カタログ案を公表し、戦略的に重要な技術の輸出統制を強化している。この措置は、レアアース等の重要資源に続く、中国の技術覇権確保と経済的影響力を拡大するための包括的な輸出管理戦略の一環である。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WTjZEOW1PZXVKN0RORWdyYVppQmd0alMwUjZJMUFoeEJabFRTckpLRzM4aFB0TTdOSmhpTGNwQnhTcjZTekFOeW1vbGVJZjNNaS1PU0VzbHR2QVJycGRRYmVn?oc=5",
-          "added_at": "2026-10-16 18:34:11"
-        },
-        {
-          "uid": "8e90d6391d5d",
-          "date": "2026-10-14",
-          "title": "EXCLUSIVE: EU seeks closer Vietnam ties on critical minerals in China hedge, documents show - Reuters",
-          "summary": "EU(欧州連合)は、中国のレアアース支配に対する代替供給源として、ベトナムとの重要鉱物に関する関係強化を模索している。",
-          "source": "欧州委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1NFMUNzVk1sZ0RKYUJDSjZPdFh3eTRzMUhrSDVCR1NJM0dOWWlKWWJvUzhPem9YRHhNdWFDeFhKTmVFYXc4WXEtQ3E4OWxUZnlvanVRelloT3N6TUl0U2VheVBrYWVxOEZqLVI1WlRjbmlWQktJODJlLWN4dmZmcE12Q3dMeU1JYnZud0tvT0gtOG1YTTBWN3A1VGpjNGhIZFJXeUw4V3VwdzByLTBfUWRVQVVETzJGMEhSU2NB?oc=5",
-          "added_at": "2026-10-16 18:34:11"
         }
       ]
     },
@@ -6041,8 +6041,18 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-21 06:43:58",
+      "last_checked": "2026-11-21 22:17:43",
       "items": [
+        {
+          "uid": "93ffad0bb073",
+          "date": "2026-09-09",
+          "title": "White House whiplash: Stunned Ford execs learn of harsh Sean Duffy letter through media - Shifting Gears with Phoebe Wall Howard",
+          "summary": "フォード自動車の経営陣が、対中提携に関するトランプ政権のショーン・ダッフィ商務長官からの厳しい書簡を、メディア報道を通じて初めて知らされるという事態が発生した。これは自動車メーカーと米政府間のコミュニケーション不足と、中国との事業提携に対する政治的圧力の高まりを示している。",
+          "source": "運輸長官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yVWtQTWdDWGo2dEtVaGZ4ZmZsMDJyek1DdHM5eGdGSDZMZ2tNMncySW9CNWZVRDJqaE9icU5fRVB6YXhwVmpyYVhvZ2h4Wlh6Z1REd0pjNkNTMVNxY3Vla09EQ1BfdU03YnZYMHZZNWptb214Yk9tTHVtbS1CZw?oc=5",
+          "added_at": "2026-11-21 22:17:41"
+        },
         {
           "uid": "30eea947f78d",
           "date": "2026-11-20",
@@ -8031,16 +8041,6 @@
           "source": "The Hill",
           "source_type": "media",
           "url": "https://thehill.com/opinion/finance/6171472-exim-bank-expires-december/",
-          "added_at": "2026-10-27 10:38:43"
-        },
-        {
-          "uid": "938da82613c3",
-          "date": "2026-10-26",
-          "title": "Anti-Zionism isn’t always antisemitism, but don’t ignore the red flags",
-          "summary": "提供いただいた記事の内容は、自動車メーカーの対中提携への政治的批判とは無関係であり、反シオニズムと反ユダヤ主義に関する大学キャンパスの問題を扱っています。そのため、ご要望の文脈に沿った要約は作成できません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/civil-rights/6169358-haverford-professor-antisemitism-arrest/",
           "added_at": "2026-10-27 10:38:43"
         }
       ]
