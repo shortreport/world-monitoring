@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21 22:17:43",
+  "generated_at": "2026-11-22 05:25:10",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,18 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-21 22:17:08",
+      "last_checked": "2026-11-22 05:24:33",
       "items": [
+        {
+          "uid": "21831767e2bc",
+          "date": "2026-09-25",
+          "title": "What is in Brussels' 'Made in EU' law and why is Britain worried? - Reuters",
+          "summary": "欧州産業加速法案（IAA）は、欧州内での製造業競争力強化とグリーン技術産業の育成を目的とした規制枠組みですが、英国は域内の調達要件や規制基準の厳格化により、英国企業の市場アクセスが制限されることを懸念しています。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWVfY3Z3TXNuazN1Zm9JbGZPZGVwYm5tMmpfR0NycUc5Y2VWN1ZnaEhHaGplTzBhQ3p6T25IVnQyNXcyaHVHbjh3UnhhVkJIbWZBMWptMjZ0cXdtOURlaVZPTEdrUXR2N1RPY1l4eDE4cDJPbEVWSGFEdFNCNVVUNWRvTVg4Uk1ydWVFdFFSS1Z6bjFjeU1DWk1uY2Q?oc=5",
+          "added_at": "2026-11-22 05:24:31"
+        },
         {
           "uid": "f32d9a484a79",
           "date": "2026-11-19",
@@ -1999,16 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkRnU3A1V3ZydGFCZGVEd0dYSXg3bTMydllFLW53ZlRLVElaeXNkYzkxZEhicDZ2dVV3Ujl3azc3X3hfZVd5U25TR1BQRGRFdjNYME1TQ0FpVWF4UGl3Z1pZd29XVGJfb25pcWdEM183Z3UxNUlzV2g3dWlZb0Q4MlJnZ0ZydFFSU01HYnMycnp2Vkd2N093MXRSODNPUUloeGR5ZnRWSnhsQQ?oc=5",
           "added_at": "2026-09-25 13:29:45"
-        },
-        {
-          "uid": "3874b58b2caa",
-          "date": "2026-09-24",
-          "title": "Spain Proposes Three-Tier Rule for 'Made in EU' Industrial Act - Global Banking & Finance Review",
-          "summary": "スペインは欧州産業加速法案（IAA）に関連して、EU製品の定義を3段階のルールで提案しており、これにより欧州産業の競争力強化と域内製造業の保護を目指している。この提案は、EU内での付加価値基準を段階的に設定することで、産業加速と地域産業振興のバランスを図ろうとするものである。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbENqek1PYjQxVUhnZFlOLVVBWEM5SXlPODlSYnpXSHl2QTh1UV9Sd05PVnJuTFZ1UVFaS012Z19Kd29tMnQ1czNzZ24xeGdwMTJmOVl5cjBGd0dPTlFSSHVUMlZMQlNFRVpjVko1RGl5RGdqVXpDeHdlYUNPZ2N2OFZzb0NLQ19QaFFGRnJSUUNVeTl2VlJpN2x1bGRZVHdDRXdV?oc=5",
-          "added_at": "2026-09-25 13:29:45"
         }
       ]
     },
@@ -2019,8 +2019,28 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-21 22:17:16",
+      "last_checked": "2026-11-22 05:24:43",
       "items": [
+        {
+          "uid": "c1e1d5266972",
+          "date": "2026-11-04",
+          "title": "US auto industry group urges Congress to impose permanent ban on Chinese vehicles - ANI News",
+          "summary": "米国自動車業界団体が議会に対し、中国車の恒久的な禁止措置をS.4429法に盛り込むよう要求している、という報道です。",
+          "source": "トランプ政権",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeVFMUzlkUzUzdWtXa2p1Q1BrM1FkNUdxNjR2X3dvMlVnUllDdVJ1MEp5ZFFaOGRzZndGTktxb2dGcGhyWUlrUnlhX0RiS2p0THpwSWhpejdtMDRzX0dGSWFjUlV4enNCS3BPR29UbF9mZ2lKZWVqWVFibEtlNzJYNWVsLXo1UUlBNkpKcDFMLXN5OE5TQVktVF9Dem0wRjZOSkpHOTBrMHlKQ29NTDJCN0twVldCREtMR3NaY2xkeTZZdjcwYUlvVWpHWmM?oc=5",
+          "added_at": "2026-11-22 05:24:40"
+        },
+        {
+          "uid": "380b1c5c5f3c",
+          "date": "2026-11-21",
+          "title": "Ford Motor seeks approval as US tightens ban on China-linked vehicle software - ET Auto",
+          "summary": "フォード・モーターが米国の中国関連車両ソフトウェア禁止令の厳格化に対応して認可を求めており、これはS.4429法案で規制対象となる外国由来の自動運転・接続技術に関わるものと考えられます。同法案は中国やロシアなどの対象国由来のソフトウェアやハードウェアを搭載する車両の認可を制限する内容です。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM3UtQUhqY3JpbUNQNmVwTVA1TGdCYnRPMGpXUDFzWGN1d09IOVk1bU1DVm9vOHVnbHNjRFhEdWNWNGVQczdWZXI1T2Q4eTUtbml0enhTSHprSXJjaE16bk5hYXRxWkVaY1J1ZHpJM3ZmM3g1US1ERExWQ1VodmJ1Q3NRMV9jYkk4Wm5TSHIyOWxuakJaV3NkekZ4NGZTLW11OWFMSF9jeTFaZGtHM1hsN1JadGdiUW1RcG5Sd0IwYU8yZm81N3pKN01NTG5hSE9hR2pSbkRVbm9UZE1oQXFDNGtBT3VkM2IteExZUDhaZEvSAesBQVVfeXFMT1Ztb2stTmVZQU1UeW1TRlBpOGEwZlJLV0VzLXctVVJQLUwzTjBoZ3AzQ0F4Q2x6UEcwalVlbUJsX1hmcFNFc2ZndmhhZHo2NTVoQWtieC1BdjkwWllkNnJLOVo2STJDdW0tLV9zVUdaVEJwWU5mNG1oT3MzbFRBMVBfQmJ4NXlROEhmZHBjM0otTFdOZWZWQjQ3SGRVdDRfLVdFREZ2cnNFSkIzdzVoMUpBZ1F1c1NncU5RVXVCMm9Qc2l6b2JVUDV6N2FvT0ZsRWV5MDRvMVA3Z05kQVFEaXFOTVd4czJfV1J5OA?oc=5",
+          "added_at": "2026-11-22 05:24:40"
+        },
         {
           "uid": "faca21c86767",
           "date": "2026-09-04",
@@ -4000,26 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSHJIRzRMRGZkNjFjcE1fdUctcXdQQ3hob3lOQzhnOFVzeHBIVDdYOGl6TGRwTWFzTGJJUGF3WEpwVDhhS0J5a1owZVl2R2lJczlEVkw1N0hmY2tnbFpJU1hEZWhrRUtMOUhCc0JFbTdmTjM4X0g5OUppS0t4QjhnUEZVdmFQdlUzQWpRcHRxYTRBRFdDaXNMZTVlSjFFREN5eTNZ?oc=5",
           "added_at": "2026-09-04 09:47:21"
-        },
-        {
-          "uid": "ad019e9e4941",
-          "date": "2026-07-23",
-          "title": "Javier Palomarez, USHBC President & CEO, Commends Senate Commerce Committee Advancing Connected Vehicle Security Act - einpresswire.com",
-          "summary": "米国ヒスパニック商工会議所（USHBC）のJavier Palomarez会長兼CEOが、上院商務委員会による接続車両安全保障法（S.4429）の進展を称賛している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOanpsTnN3SDhWV21zRTJzOXI1SUxJT1dWM0VtQzQ1cHkyNnpVS1o4UUpKRlVzODJtNlJ4NjNCTDlLaWxZVG8ydV9Qa3ZZY2Y4UmtxM1Q5aldEdE80MGVSZXZoNXhsQXdJWGdPU0g4VnJYVkhFSkdHOHNfYnJDTldDTHZzc3YyeGd4N1dMVU1Zamw0WkdZcWMzY2dYV3g5N0V2Qk5UVFBXV0IzNDJfZ2JVSlV2enpIaDFXam1wSjVSYkhUd3FuSXNudWN2ZlhJYkpwSWdqakVoekJrN2tYZFo5VGwwUGxTSDlIeUQ4N1REdXM?oc=5",
-          "added_at": "2026-09-03 18:31:42"
-        },
-        {
-          "uid": "c0eef27cb303",
-          "date": "2026-07-23",
-          "title": "Ban on connected tech, auto investors advances in US Senate - Beaumont Enterprise",
-          "summary": "申し訳ございませんが、記事の具体的な内容が提供されていないため、要約することができません。タイトルのみでは詳細な要点を把握できないので、記事の本文を教えていただければ、S.4429に関連する要約を作成いたします。",
-          "source": "上院商業委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVk93cThNdVVwU2xOVThXUHpYellFWnBTX2cxOUtrUU9GUkx5MnhHbmFIVXpQbFNWSUhFWkd5TEFrX01SOU40LWYwZ2xKZFozWkxHOXlGVXVnOUd5SHpWMko3Z0Y2N21ZbUdieDlxdEg4T052UDh4VTBMblR4XzMzbjZHdExnZE5lbzNtaEp4ZFJoSkY5OWVV?oc=5",
-          "added_at": "2026-09-03 18:31:42"
         }
       ]
     },
@@ -4030,8 +4030,48 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-21 22:17:35",
+      "last_checked": "2026-11-22 05:25:00",
       "items": [
+        {
+          "uid": "2447e07068de",
+          "date": "2026-11-21",
+          "title": "COMMENTARY: The West challenges China's critical minerals dominance with unglamorous tungsten - Reuters",
+          "summary": "西側諸国は、中国がレアアース等の重要鉱物輸出管理を通じて確立した支配力に対抗するため、タングステンなどの地味だが戦略的に重要な鉱物の確保と供給源の多角化に注力している。中国の輸出規制に依存しない産業基盤の構築が、西側の重要鉱物戦略の中核となっている。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMlRQcTdOLUU4SUtDTFBsaC1ncUJyTUNoRFRkNFNiWng5UFotbmFwTmxONjktMF9uT2RqM1JTZUswWXA0Q0pBZ29PcGVIMnFyckZkaGpGUUdQaHdjc0Etb2NoUUh3dXRtMlhMcG1WbXVwcXA4NkpTQmI2Wnc0emdXaXNXdTBrU3BVSDJGZ1FWRWpObmhFalpQcFlLMC1nLXE4SHd5T3RkU3FLc3dEX1BReVc1N0cxaHJCMHF5a3c5NEhuSWg2WHFYbGNsZ3VVSU52NkktaHZqanZRenJfUEE?oc=5",
+          "added_at": "2026-11-22 05:24:54"
+        },
+        {
+          "uid": "a613f67cb5bd",
+          "date": "2026-11-21",
+          "title": "Howard Lutnick, China and the Chip Export Challenge - National Review",
+          "summary": "申し訳ございませんが、記事の具体的な内容が提供されていないため、要約することができません。タイトルのみでは「中国レアアース輸出管理」に関する具体的な要点を把握できませんので、記事本文をご提供いただければ、日本語1〜2文での要約が可能です。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUNtR0gxdktkNlZTUFFqOFNOZW01dkFiQkczdjk2QUlVU21oLVktY293NVdwWmxOcjN4OFRqUHAyWTRxNWNMMG5kR0c3SkhoeFotN1ZuMEVMZVU3dW5kRXJkZF9URE1tTjRJWTZpXzR6eWpReENndGoyX21Oajl0QkZRaEdVSXlvaUNBQUU5VTlpQjNGTmxn?oc=5",
+          "added_at": "2026-11-22 05:24:54"
+        },
+        {
+          "uid": "9660ee9ed33a",
+          "date": "2026-09-02",
+          "title": "Watch CNBC's full interview with Commerce Secretary Howard Lutnick - CNBC",
+          "summary": "申し訳ありませんが、記事の具体的な内容が「タイトル」と「Watch CNBC's full interview with Commerce Secretary Howard Lutnick」の繰り返しのみで、実際のインタビュー内容が提供されていないため、中国レアアース輸出管理に関する要約を作成することができません。記事の本文内容をご提供ください。",
+          "source": "米閣僚発言",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRS1iNm1FcjF0T0RRNGpTNlU3YmNSZHdWMC0xWWpPUFhDREVzbEhfYW9uU0g1Q3ZYUnRCQ3QwTEg3el80RFIyNVQ0aUlKbjhXQUp1dkFBZERIc0dOeHR4bXVrbFU1T1NVdGJOTi1nbWZPakxXS2dtLVFIVTc0eEZTQUZYbHVoMUtLUjJEX0Zvc0szUnFUNGpYbmRzS2dJZzdhV2diWkVDeHdXQXpr?oc=5",
+          "added_at": "2026-11-22 05:24:54"
+        },
+        {
+          "uid": "634b573d38e7",
+          "date": "2026-11-21",
+          "title": "Cotton claims Lutnick ignored his ‘many letters’ warning of chip sales to China",
+          "summary": "本記事はレアアースではなく、米国の対中AI半導体輸出管理に関するもので、コットン上院議員がルトニック商務長官が中国へのチップ密輸に対する警告書を無視していたと指摘しており、米国の対中技術流出防止体制における政策対応の不十分さを浮き彫りにしています。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6235143-senator-warned-commerce-lutnick-nvidia-chips/",
+          "added_at": "2026-11-22 05:24:54"
+        },
         {
           "uid": "755dfcab45d9",
           "date": "2026-11-19",
@@ -5991,46 +6031,6 @@
           "source_type": "official",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGJDTEN3Z09DeWNoSlBtNGNOWnBCNDNHbHJjbVpBeHNRX3FpVjA2SnRuNFVvMXVYeGU3eVdqT0s3RjFkeHV5bmY0ZjQ5TUVweWFRNk1xTTNJbjBkTzNNTllPdVpHVzZZUDAwSjZ2WmN1b1E3M2wtTUVHQVM5c20tNk5teFY?oc=5",
           "added_at": "2026-10-20 18:51:26"
-        },
-        {
-          "uid": "eb095b6a0ed3",
-          "date": "2026-10-19",
-          "title": "Pentagon to tighten requirements for origin of rare-earth magnets — OilPrice - UA.NEWS",
-          "summary": "米国防総省がレアアース磁石の原産地要件を厳格化することで、中国のレアアース支配に対抗し、防衛産業のサプライチェーン多様化を推進している。この措置により、米国内やその同盟国からの調達比率を高め、中国への依存低減を図ろうとしている。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1ZoaUFBSFdhTHZYdW1iZElnUm1KalEtOWcxM2NFTUc2VGlEOHJ2aV82Ukc2TVpEUC01STdvYXhZbGhSTXJ4UllrSkJkTUpoaVh2VGJVYnlwMUliYmZMbUpIemY2ZlZxVXlBYzhPWERyTURhcDJFaUduTTZtVjZLV09nc2I3Z2w5STEzSGZOZHN5ekJ2X3B2WHBObmNoalNtYnNxMkstbmZJQQ?oc=5",
-          "added_at": "2026-10-20 18:51:26"
-        },
-        {
-          "uid": "a3c30f5ef50f",
-          "date": "2026-10-19",
-          "title": "EU Parliament Moves to Strengthen Critical Raw Materials Rules Amid Growing Dependence on China - EU Today",
-          "summary": "EU議会は中国への依存増加に対抗するため、レアアースを含む重要鉱物資源の規則を強化する動きを進めており、中国の輸出管理に対する防衛策として戦略的備蓄やサプライチェーン多様化を推進している。",
-          "source": "EU戦略的原材料法",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1ZDRQeUM3RzRrYVAyTkl6bGs1aU1OT2pleml0Z3VFYUdqOHh2YzhfSzl2TVJfTEVteVdLV2VmVzF2T2Jaa2xjX1MzRkZ3anZldlFiaDVIeFdUbnROU09kbzB5cFExUHN2ZkZFXzB0dXI?oc=5",
-          "added_at": "2026-10-20 18:51:26"
-        },
-        {
-          "uid": "2356761cc64f",
-          "date": "2026-10-19",
-          "title": "U.S.-China minerals rivalry opens doors for Korean suppliers to Lockheed Martin, Chinese battery makers - Korea JoongAng Daily",
-          "summary": "米中のレアアース・鉱物をめぐる競争激化により、韓国サプライヤーがロッキード・マーティンと中国電池メーカーの両者に対する供給機会を獲得している。中国のレアアース輸出管理強化が、代替サプライヤーとしての韓国企業の地位を高めている。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNkdrWEZDNXJkbFp5RTdYa2p4YmZLTHp0QmVNQXNDQ3FtSjBxdGZLTjJsdjlfNWNKNGY2eUFFRUFPbjBSaDk5bnVHQ2lMUzRTMU05Nk5feGx3aW1vcDByZXlodzBLc0RKaUJQQkd2OEFJZXlhWGVkeDJlTWxsaHVRTEViOXBvT2tLd2pmSFQ3T2xzVDZseHpKTzdPVVpoc29KZ2E3ZElrRUpSRm9qamZGa0FQR0VlZnNCQ3FyaF8weFpURUUtVEF4cGFZM1prNy1fWlROQmlUQWh1QjNueElYNC1DYWhUWEU?oc=5",
-          "added_at": "2026-10-20 18:51:26"
-        },
-        {
-          "uid": "9ce253188a34",
-          "date": "2026-10-19",
-          "title": "Why China’s Rare-Earth Leverage Does Not Wear Out | List of Articles | International Information Network Analysis | SPF - 笹川平和財団",
-          "summary": "中国は世界のレアアース供給の約85%を占める圧倒的な市場支配力により、供給制限や輸出管理を通じて国際政治における継続的な影響力を保持している。日本を含む先進国はこのレアアース依存から脱却するため、供給源の多様化やリサイクル技術の開発といった長期的な対抗策の構築が急務となっている。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8waEhSVE1idUlnUXU1UlByeV94T1JvY1lGNGRhMG9JUy1wVmltNnM4UEZVbmJzYWFfc0J4VVhmRzV6Q1JKRlJDeE9IT2xoRGdpcHFGNHlVNVpodjdyNTlBLU5STGUyUjhRNnEw?oc=5",
-          "added_at": "2026-10-20 04:43:06"
         }
       ]
     },
@@ -6041,8 +6041,48 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-21 22:17:43",
+      "last_checked": "2026-11-22 05:25:10",
       "items": [
+        {
+          "uid": "2e0d16f4e289",
+          "date": "2026-09-10",
+          "title": "Ford blasted by Trump administration over deals with Chinese companies including CATL, Geely, BYD - report - Paul Tan's Automotive News",
+          "summary": "トランプ政権がフォードに対し、CATL・吉利・BYDなど中国企業との提携を批判している。これは自動車メーカーが中国との関係強化を進める中で、米国政権が地政学的リスクや産業競争力の観点から異議を唱えている状況を示している。",
+          "source": "下院中国特別委員会委員長",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdXZLWmlLUFVDM2RrdFozN3NQTnFQcTZqb19CM0JOME1ybDVzcHo1STY3c3dCTjJobmVCUEZ3R1NqR0NmUGVzS2hSaGhfUGlIbkJNQXJDWnU3cWMtLTRoeEtVRmM4Z0NoRFBDT3phVV9oUy1jeHRvY2VUSkthZjQyWkhNWFU2SU9lUkFic3VQUkVuTUtMSUlDblV2ZWd3RVhlcmZPdnlhZEpRbGo5NVpuQmo0cEs1c0JLQzZ0SV9GR20wdjZueDhnV011bGNiUjQ?oc=5",
+          "added_at": "2026-11-22 05:25:05"
+        },
+        {
+          "uid": "69212b99cbb4",
+          "date": "2026-09-08",
+          "title": "The Trump administration slams Ford for its ties to China - CNN",
+          "summary": "トランプ政権がフォード・モーターの中国との関係を批判している。自動車メーカーの対中提携が米国政権から政治的攻撃の対象となっている。",
+          "source": "フォード",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTERLemdyM1dPQmx3RXlpOFFuS3VLNFdXRnJ0dFZJdG1CNURCc0FVN21FT1pTbnZydnp1SHdZVlBRcWlVYnJmalBMM1VqR0lBZ0VzUGpaUzRsTG5DYUxJdVl2OEJrc1NhMFgwcWZyMVJWdDJnMjlGQmY1ZXRDVU5OT0JR?oc=5",
+          "added_at": "2026-11-22 05:25:05"
+        },
+        {
+          "uid": "41a0a20485c4",
+          "date": "2026-09-10",
+          "title": "Donald Trump administration flags Ford Motor’s China ties as security risk - ET Auto",
+          "summary": "トランプ政権がフォード・モーターの中国との提携を国家安全保障上のリスクとして指摘し、自動車メーカーの対中ビジネスが政治的な批判の対象となっている。",
+          "source": "業界分析",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORnl2QnpMdHhwQThvOFlfTmpNUng4MWpyWVJYWWV1QXR5UDJFTG8yalpLeXROSm9UOHVmS0tfREM0VDVhQ2lLbFhKeEVSWTJJQmFFZVFUWU0xWVBZTENKNnppRC1kOWlWRThCbXN4RDNNVW04QTBwOUtCTnlsV1doZTVUX2ZleTBaT25mdFdMdDJHb0duMGJ0NlVNdEJabFpKaElzVk9DdUdfSGZRY2M0ZndyMXFTanJpMFBlQXpZbDZhYkNxNHJfbkQyVDJMUEdkdkw4bXJWRXBjb0lPdVgw0gHaAUFVX3lxTE5nQjZVeEVGUFVXaXlXdTNKdEZvVWxiTHVMaTFqLUlwWlpXbWdxZTdpakFxYURYdVNvUzFndzdjdVpXeXE4MFNNS0VlTngxTFluc3l0YU40eFg3OG5RdUo3TWlUWTVXbDdmMzNnOGxJclRsNlZXMlpzR19tVlV2U29ZZk5NcnlHUTFwM09jVUR0UnhoWE5KMUhBdVpWNDRZcVFOSzV5SzByUUlXSTRNMW9HdnEtS3lPTHBtSDdkcm1BRDRzYl9jRVNwTDI0dEFZWHFuQzRWVFAyamNB?oc=5",
+          "added_at": "2026-11-22 05:25:05"
+        },
+        {
+          "uid": "634b573d38e7",
+          "date": "2026-11-21",
+          "title": "Cotton claims Lutnick ignored his ‘many letters’ warning of chip sales to China",
+          "summary": "米国上院議員トム・コットン氏は、商務長官ハワード・ルトニック氏が米国のAIチップの中国への密輸に関する自身の複数の警告書簡を無視したと主張している。これは、エヌビディア前CEOのジェンセン・ファン氏と中国系スパイ疑惑者との不倫疑惑報道に先立つ懸念である。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6235143-senator-warned-commerce-lutnick-nvidia-chips/",
+          "added_at": "2026-11-22 05:25:05"
+        },
         {
           "uid": "93ffad0bb073",
           "date": "2026-09-09",
@@ -8002,46 +8042,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXU4UEVFNmN1Z1hTZW5oWUhXVXRSWDMyM2JVa1FPUEN2OGFqWEdydi1zbElVb3ZsNGo3Z0RZLUU0bG94emsxTzl3RTV3bG1zUEVmckd1aTZ2MmVjY3V3dWdtR1lWSWxlT2NwR3ROTFFnNlFianNZMS1GdHUxR3BCYTJSQlBnUk9KcEVJNXlOSF9iWjZrR0RvU1lkOWNVa3RjWUREZ1lMTkFsMUFkVmJuN3JEWFRwcE1zbHNqX3BEZU9GQkF1elE?oc=5",
           "added_at": "2026-10-27 19:16:30"
-        },
-        {
-          "uid": "ad5e7e56279c",
-          "date": "2026-09-03",
-          "title": "Top Automakers Urge Congress to Permanently Ban Chinese Cars - Bloomberg.com",
-          "summary": "米国の自動車大手メーカーが議会に対し中国車の永久的な禁止を求めており、これは自動車業界における対中政策をめぐる政治的な緊張と、中国企業との提携に対する米国側の警戒感を反映している。米国自動車メーカーは、中国車の市場参入に対する規制強化によって、国内産業保護と対中戦略の優先度が高まっていることを示唆している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONXJmdzB4RV9HRTBxWEV2NUExaklZRGRpVzVxajVZZmpMUkdGYXBIeF9rZTNLSGttU0t1RWVfbGR6MEF2S05BSUtwdHdzbXZwM2JnaWRvX1V1Q0o1QWxKbzFQOElSbGhvMUl2NTFHTWdqSjg1bzh5VzFTYTZKM3Y4NGc4eWoyb0ROU29fVm5jUkoxTmw4ZlRJUWFHMG9QNHM1cDd1Sm15aFloSFkxdThiUV9MM1g?oc=5",
-          "added_at": "2026-10-27 10:38:43"
-        },
-        {
-          "uid": "168133fa5f04",
-          "date": "2026-10-26",
-          "title": "On borrowed time? Massie vows move to impeach Hegseth if not already out after midterms",
-          "summary": "この記事は自動車メーカーの対中提携への政治的批判とは関連がなく、むしろ米国防長官Pete Hegsethの弾劾に関する政治的な動向について述べています。そのため、指定された文脈での要約は不可能です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/newsletters/defense-national-security/6173641-massie-vows-impeach-hegseth/",
-          "added_at": "2026-10-27 10:38:43"
-        },
-        {
-          "uid": "6f08dfef6cd7",
-          "date": "2026-10-26",
-          "title": "California has become unaffordable — but Congress can do something about it",
-          "summary": "カリフォルニア州の議員が州の大気資源委員会による環境規制は隠れた気候税であり消費者負担を増加させると批判しており、このような経済的負担を理由とした政治的反発は、対中提携を含む自動車・産業政策においても同様の保護主義的主張の根拠となる傾向を示している。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/congress-blog/6171529-vessel-at-berth-rule-cost-relief/",
-          "added_at": "2026-10-27 10:38:43"
-        },
-        {
-          "uid": "5be51fe6ef76",
-          "date": "2026-10-26",
-          "title": "Unleash the Export-Import Bank to outcompete China",
-          "summary": "米国の上院議員クレイマーは、中国が世界のエネルギー市場を支配するのを防ぎ、米国の雇用45,000人以上を守るため、Export-Import Bankを12月31日までに再認可・現代化するよう議会に呼びかけている。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/opinion/finance/6171472-exim-bank-expires-december/",
-          "added_at": "2026-10-27 10:38:43"
         }
       ]
     }
