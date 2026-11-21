@@ -1,65 +1,71 @@
 {
-  "generated_at": "2026-11-20 11:48 JST",
-  "sender_count": 5,
+  "generated_at": "2026-11-21 22:37 JST",
+  "sender_count": 3,
   "total_mails": 23,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 7,
+      "count": 8,
       "bullets": [
-        "エヌビディアのスキャンダルにより、米国の中国向け半導体規制が加速し、2027年の米中休戦が脅かされる可能性",
-        "議会での予算配分が常に争点となり、政府機関閉鎖のリスクが高まり、財政赤字と物価上昇がドル金利に上昇圧力",
-        "民主党が中間選挙で圧勝したが、米国・カナダ貿易協定の交渉は2027年まで長引く見通し",
-        "中国がトランプ政権との個人的外交を重視し、APEC首脳会談でワシントンとの関係管理に動く",
-        "台湾の低姿勢なAPEC参加により、両岸の安定性が示唆される"
+        "ロシアはウクライナ戦争継続のため経済的苦痛を受容し、少なくともあと1年間は戦争資金調達が可能と判断",
+        "APEC首脳会議ではトランプ・習近平両大統領がハイレベル関与を強調したが、米中貿易休戦の延長には至らず",
+        "中国はトランプ政権との関係管理に個人的外交を活用し、来年初期までの新規報復措置発動を見送る見通し",
+        "ブラジルではルラ大統領のレガシー追求が4期目の不確定要因となり、2027年のスタグフレーション回避が困難な状況",
+        "米国ではトランプ大統領とヴァンス副大統領の方針の乖離が拡大"
       ],
       "subjects": [
         [
-          "2026-11-19",
-          "EG Research Summary in Japanese",
-          "data/pdfs/20261119_1354_EG_Research_Summary_in_Japanese.pdf"
-        ],
-        [
-          "2026-11-19",
-          "Funding will be a constant battle in Congress",
-          "data/pdfs/20261119_2223_Funding_will_be_a_constant_battle_in_Congress.pdf"
+          "2026-11-20",
+          "Russia: Putin will bear economic pain for war aims",
+          "data/pdfs/20261120_1634_Russia__Putin_will_bear_economic_pain_for_war_aims.pdf"
         ],
         [
           "2026-11-20",
-          "Reconciliation 3.0 looks mostly dead",
-          "data/pdfs/20261120_0205_Reconciliation_3.0_looks_mostly_dead.pdf"
+          "EG Research Summary in Japanese（11月20日訂正版）",
+          "data/pdfs/20261120_2206_EG_Research_Summary_in_Japanese（11月20日訂正版）.pdf"
         ],
         [
           "2026-11-20",
-          "China will lean on personal diplomacy to manage foreign relations",
-          "data/pdfs/20261120_0522_China_will_lean_on_personal_diplomacy_to_manage_fo.pdf"
+          "APEC Leaders Summit Outcomes - EG Conference Call, REMINDER",
+          "data/pdfs/20261120_2232_APEC_Leaders_Summit_Outcomes_-_EG_Conference_Call,.pdf"
         ],
         [
           "2026-11-20",
-          "APAC & Japan Conference Call: On the Ground in China: Political",
-          "data/pdfs/20261120_1001_APAC_&_Japan_Conference_Call__On_the_Ground_in_Chi.pdf"
+          "China will lean on personal diplomacy to manage ties with Trump",
+          "data/pdfs/20261120_2242_China_will_lean_on_personal_diplomacy_to_manage_ti.pdf"
         ],
         [
-          "2026-11-20",
-          "APAC& Japan Conference Call: 「半導体規制の新局面、リモートアク",
-          "data/pdfs/20261120_1002_APAC&_Japan_Conference_Call__「半導体規制の新局面、リモートアクセス規則.pdf"
+          "2026-11-21",
+          "US Daily: The Trump-Vance split is widening",
+          "data/pdfs/20261121_0203_US_Daily__The_Trump-Vance_split_is_widening.pdf"
         ],
         [
-          "2026-11-20",
-          "On the Ground in China: Political and Economic Outlook - EG",
-          "data/pdfs/20261120_1102_On_the_Ground_in_China__Political_and_Economic_Out.pdf"
+          "2026-11-21",
+          "Turkey: US-Turkey reset running out of time to deliver",
+          "data/pdfs/20261121_0213_Turkey__US-Turkey_reset_running_out_of_time_to_del.pdf"
+        ],
+        [
+          "2026-11-21",
+          "Remote-access rule threatens Chinese AI",
+          "data/pdfs/20261121_0349_Remote-access_rule_threatens_Chinese_AI.pdf"
+        ],
+        [
+          "2026-11-21",
+          "APEC Leaders' Summit outcomes",
+          "data/pdfs/20261121_0406_APEC_Leaders'_Summit_outcomes.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261119_1354_EG_Research_Summary_in_Japanese.pdf",
-        "data/pdfs/20261119_2223_Funding_will_be_a_constant_battle_in_Congress.pdf",
-        "data/pdfs/20261120_0205_Reconciliation_3.0_looks_mostly_dead.pdf",
-        "data/pdfs/20261120_0522_China_will_lean_on_personal_diplomacy_to_manage_fo.pdf",
-        "data/pdfs/20261120_1001_APAC_&_Japan_Conference_Call__On_the_Ground_in_Chi.pdf",
-        "data/pdfs/20261120_1002_APAC&_Japan_Conference_Call__「半導体規制の新局面、リモートアクセス規則.pdf",
-        "data/pdfs/20261120_1102_On_the_Ground_in_China__Political_and_Economic_Out.pdf"
+        "data/pdfs/20261120_1634_Russia__Putin_will_bear_economic_pain_for_war_aims.pdf",
+        "data/pdfs/20261120_2206_EG_Research_Summary_in_Japanese（11月20日訂正版）.pdf",
+        "data/pdfs/20261120_2232_APEC_Leaders_Summit_Outcomes_-_EG_Conference_Call,.pdf",
+        "data/pdfs/20261120_2242_China_will_lean_on_personal_diplomacy_to_manage_ti.pdf",
+        "data/pdfs/20261121_0203_US_Daily__The_Trump-Vance_split_is_widening.pdf",
+        "data/pdfs/20261121_0213_Turkey__US-Turkey_reset_running_out_of_time_to_del.pdf",
+        "data/pdfs/20261121_0349_Remote-access_rule_threatens_Chinese_AI.pdf",
+        "data/pdfs/20261121_0406_APEC_Leaders'_Summit_outcomes.pdf"
       ]
     },
     {
@@ -68,162 +74,120 @@
       "color": "YEL",
       "count": 1,
       "bullets": [
-        "APEC首脳会議の開催結果について専門家による討論会を開催",
-        "米国、中国、地政学技術、エネルギー・資源、中国・北東アジア分野の専門家が登壇",
-        "シェンゼンで11月18～19日に開催された首脳会議の成果を分析",
-        "11月20日午前9時30分（東部時間）の開催予定"
+        "APEC首脳会議の成果について分析",
+        "米国商務省の新規則により中国のAI研究機関の半数以上が訓練用チップへのアクセス遮断",
+        "遠隔アクセス制御が中国のAI進展に対する構造的脅威となる可能性"
       ],
       "subjects": [
         [
-          "2026-11-20",
-          "Daily Research Summary - Nov 19th, 2026",
-          "data/pdfs/20261120_0835_Daily_Research_Summary_-_Nov_19th,_2026.pdf"
+          "2026-11-21",
+          "Daily Research Summary - Nov 20th, 2026",
+          "data/pdfs/20261121_0834_Daily_Research_Summary_-_Nov_20th,_2026.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261120_0835_Daily_Research_Summary_-_Nov_19th,_2026.pdf"
+        "data/pdfs/20261121_0834_Daily_Research_Summary_-_Nov_20th,_2026.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
       "color": "RED",
-      "count": 12,
+      "count": 14,
       "bullets": [
-        "モロッコがEUの産業加速化法から除外されることに対抗し、中国との関係構築を検討する意向を示唆。EUの「メイド・イン・ヨーロッパ」定義策定でモロッコが組み込まれない見通しで、同国の自動車産業における投資魅力が大幅に低下",
-        "ドイツがウクライナへの援助を単一国家による拒否権から守るため、EU予算枠組み内での固定化を主張",
-        "マクロンとメルツが国内で弱体化し、バーナムが国外で未検証という状況下で、ウクライナおよび欧州がプーチン、トランプ、習近平に対抗できるかが課題",
-        "スペインが「メイド・イン・ヨーロッパ」定義の厳格な限定を主張する立場から、モロッコのEU保護制度組み込みに政治的困難をもたらしている",
-        "ブレグジット後の英国とEU関係の再構築をめぐり、バーナムが戦略転換の速度を緩和"
+        "EU-UK首脳会談で自動車産業が主要課題となっており、イギリスの「Made in Europe」認定は中国製EV関税への対応にかかっている状況",
+        "EU側はイギリスがEU関税回避手段として悪用されることを懸念しており、イギリスでの中国製EV販売比率が高いことが交渉の障壁",
+        "ロンドンとブリュッセル間の交渉は授業料問題で膠着状態に陥っており、EU各国が強気の姿勢を示す展開",
+        "トランプ政権の中間選挙敗北を受けて、EUがビッグテック企業への税制強化を通じた予算確保を検討",
+        "ウクライナ情勢がフランス大統領選の主要課題となっており、メランション候補とルペン候補の当選によるフランスの立場転換の可能性が懸念"
       ],
       "subjects": [
         [
-          "2026-11-19",
-          "Cyberattack hits the Commission",
-          "data/pdfs/20261119_1448_Cyberattack_hits_the_Commission.pdf"
-        ],
-        [
-          "2026-11-19",
-          "Morocco threatens China pivot over fears EU will shut out its",
-          "data/pdfs/20261119_1500_Morocco_threatens_China_pivot_over_fears_EU_will_s.pdf"
-        ],
-        [
-          "2026-11-19",
-          "Morocco threatens to cozy up to China over IAA exclusion",
-          "data/pdfs/20261119_1501_Morocco_threatens_to_cozy_up_to_China_over_IAA_exc.pdf"
-        ],
-        [
-          "2026-11-19",
-          "Inside Ukraine’s Coalition of the Wobbling",
-          "data/pdfs/20261119_1736_Inside_Ukraine’s_Coalition_of_the_Wobbling.pdf"
-        ],
-        [
-          "2026-11-19",
-          "Germany presses to make Ukraine aid Le Pen-proof",
-          "data/pdfs/20261119_1853_Germany_presses_to_make_Ukraine_aid_Le_Pen-proof.pdf"
-        ],
-        [
-          "2026-11-19",
-          "5 key places that signal where Spain’s election is heading",
-          "data/pdfs/20261119_2006_5_key_places_that_signal_where_Spain’s_election_is.pdf"
-        ],
-        [
-          "2026-11-19",
-          "How Burnham tapped the brakes on his big Brexit reset",
-          "data/pdfs/20261119_2205_How_Burnham_tapped_the_brakes_on_his_big_Brexit_re.pdf"
-        ],
-        [
-          "2026-11-19",
-          "Commission takes Greece to court over outdated air traffic",
-          "data/pdfs/20261119_2311_Commission_takes_Greece_to_court_over_outdated_air.pdf"
-        ],
-        [
-          "2026-11-19",
-          "Commission takes Greece to court over outdated air traffic",
-          "data/pdfs/20261119_2325_Commission_takes_Greece_to_court_over_outdated_air.pdf"
+          "2026-11-20",
+          "Brussels’ ex comes to town",
+          "data/pdfs/20261120_1449_Brussels’_ex_comes_to_town.pdf"
         ],
         [
           "2026-11-20",
-          "Europe argued over who would talk to Russia. Agreeing what to",
-          "data/pdfs/20261120_0010_Europe_argued_over_who_would_talk_to_Russia._Agree.pdf"
+          "Car drama at the EU-UK summit",
+          "data/pdfs/20261120_1504_Car_drama_at_the_EU-UK_summit.pdf"
         ],
         [
           "2026-11-20",
+          "How to watch the UK-EU summit like a pro",
+          "data/pdfs/20261120_1737_How_to_watch_the_UK-EU_summit_like_a_pro.pdf"
+        ],
+        [
+          "2026-11-20",
+          "EU-UK summit — live updates",
+          "data/pdfs/20261120_1807_EU-UK_summit_—_live_updates.pdf"
+        ],
+        [
+          "2026-11-20",
+          "EU-UK summit: Talks hit impasse over tuition fees",
+          "data/pdfs/20261120_1922_EU-UK_summit__Talks_hit_impasse_over_tuition_fees.pdf"
+        ],
+        [
+          "2026-11-20",
+          "Costa eyes tax on Big Tech to boost EU budget after Trump’s poor",
+          "data/pdfs/20261120_2109_Costa_eyes_tax_on_Big_Tech_to_boost_EU_budget_afte.pdf"
+        ],
+        [
+          "2026-11-20",
+          "Ukraine has a French election problem",
+          "data/pdfs/20261120_2205_Ukraine_has_a_French_election_problem.pdf"
+        ],
+        [
+          "2026-11-20",
+          "EU and UK publish joint summit statement",
+          "data/pdfs/20261120_2230_EU_and_UK_publish_joint_summit_statement.pdf"
+        ],
+        [
+          "2026-11-20",
+          "‘Cleaning our clock’: EVs are booming everywhere — except the",
+          "data/pdfs/20261120_2327_‘Cleaning_our_clock’__EVs_are_booming_everywhere_—.pdf"
+        ],
+        [
+          "2026-11-21",
           "Pro Daily Headlines",
-          "data/pdfs/20261120_0131_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20261121_0131_Pro_Daily_Headlines.pdf"
         ],
         [
-          "2026-11-20",
-          "Trump presses European leaders about Ukraine aid in call after",
-          "data/pdfs/20261120_0148_Trump_presses_European_leaders_about_Ukraine_aid_i.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261119_1448_Cyberattack_hits_the_Commission.pdf",
-        "data/pdfs/20261119_1500_Morocco_threatens_China_pivot_over_fears_EU_will_s.pdf",
-        "data/pdfs/20261119_1501_Morocco_threatens_to_cozy_up_to_China_over_IAA_exc.pdf",
-        "data/pdfs/20261119_1736_Inside_Ukraine’s_Coalition_of_the_Wobbling.pdf",
-        "data/pdfs/20261119_1853_Germany_presses_to_make_Ukraine_aid_Le_Pen-proof.pdf",
-        "data/pdfs/20261119_2006_5_key_places_that_signal_where_Spain’s_election_is.pdf",
-        "data/pdfs/20261119_2205_How_Burnham_tapped_the_brakes_on_his_big_Brexit_re.pdf",
-        "data/pdfs/20261119_2311_Commission_takes_Greece_to_court_over_outdated_air.pdf",
-        "data/pdfs/20261119_2325_Commission_takes_Greece_to_court_over_outdated_air.pdf",
-        "data/pdfs/20261120_0010_Europe_argued_over_who_would_talk_to_Russia._Agree.pdf",
-        "data/pdfs/20261120_0131_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20261120_0148_Trump_presses_European_leaders_about_Ukraine_aid_i.pdf"
-      ]
-    },
-    {
-      "sender": "ジェトロ",
-      "short": "ジェトロ",
-      "color": "ORG",
-      "count": 2,
-      "bullets": [
-        "USMCA共同見直しが2026年7月1日に実施され、北米の貿易ルール変更が日本企業のサプライチェーンと事業戦略に大きな影響を及ぼす可能性",
-        "インドは14億人超の人口と高い経済成長率で日本企業の有望な進出先だが、商習慣の違いや法務・人材確保などの課題が存在",
-        "日本で働く外国人が2023年に200万人を突破し、高度な知識や技能を持つ外国人材がイノベーション創出や海外展開を通じて企業にポジティブな効果",
-        "カンボジアではソーシャルコマースが主流で、商品認知度に応じて最適な広告手法が異なることが明らかに",
-        "中央アジア諸国ではビジネスと人権に関する国際基準への適合が進み、企業にはサプライチェーン全体を通じた人権尊重が必須",
-        "12月2日にジェトロ本部で2027年世界経済の展望セミナーを開催予定。米国、中国、ASEAN、インドの各事務所長が登壇"
-      ],
-      "subjects": [
-        [
-          "2026-11-19",
-          "ジェトロ地域・分析レポートの新着のご案内（2026年11月19日号）",
-          "data/pdfs/20261119_1136_ジェトロ地域・分析レポートの新着のご案内（2026年11月19日号）.pdf"
+          "2026-11-21",
+          "Andy Burnham discovers nothing in Brussels is ever easy",
+          "data/pdfs/20261121_0207_Andy_Burnham_discovers_nothing_in_Brussels_is_ever.pdf"
         ],
         [
-          "2026-11-20",
-          "ジェトロ・メンバーズニュース第479号",
-          "data/pdfs/20261120_1117_ジェトロ・メンバーズニュース第479号.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261119_1136_ジェトロ地域・分析レポートの新着のご案内（2026年11月19日号）.pdf",
-        "data/pdfs/20261120_1117_ジェトロ・メンバーズニュース第479号.pdf"
-      ]
-    },
-    {
-      "sender": "ビジネス短信",
-      "short": "ビジネス短",
-      "color": "GRN",
-      "count": 1,
-      "bullets": [
-        "CATL とAmpaceが英オクストパスエナジーと提携し、欧州の家庭用蓄電システム市場への進出",
-        "中国ASEAN自由貿易協定3.0アップグレード議定書が12月1日に発効し、両地域の経済統合促進",
-        "シンガポールが外国中銀向け金保管サービスを開始し、アジアの金取引拠点としての地位強化",
-        "ホンダが米アラバマ工場に4.6億ドルを追加投資し、ハイブリッド車需要の拡大に対応",
-        "カナダとASEAN・フィリピンのFTA交渉妥結、2027年の署名を予定"
-      ],
-      "subjects": [
+          "2026-11-21",
+          "The biggest winners and losers of the EU-UK summit deals",
+          "data/pdfs/20261121_0237_The_biggest_winners_and_losers_of_the_EU-UK_summit.pdf"
+        ],
         [
-          "2026-11-20",
-          "「ジェトロ・ビジネス短信」2026/11/19付",
-          "data/pdfs/20261120_1012_「ジェトロ・ビジネス短信」2026_11_19付.pdf"
+          "2026-11-21",
+          "Costa cuts proposed EU budget by €44B",
+          "data/pdfs/20261121_1945_Costa_cuts_proposed_EU_budget_by_€44B.pdf"
+        ],
+        [
+          "2026-11-21",
+          "Costa cuts proposed EU budget by €44B",
+          "data/pdfs/20261121_1950_Costa_cuts_proposed_EU_budget_by_€44B.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261120_1012_「ジェトロ・ビジネス短信」2026_11_19付.pdf"
+        "data/pdfs/20261120_1449_Brussels’_ex_comes_to_town.pdf",
+        "data/pdfs/20261120_1504_Car_drama_at_the_EU-UK_summit.pdf",
+        "data/pdfs/20261120_1737_How_to_watch_the_UK-EU_summit_like_a_pro.pdf",
+        "data/pdfs/20261120_1807_EU-UK_summit_—_live_updates.pdf",
+        "data/pdfs/20261120_1922_EU-UK_summit__Talks_hit_impasse_over_tuition_fees.pdf",
+        "data/pdfs/20261120_2109_Costa_eyes_tax_on_Big_Tech_to_boost_EU_budget_afte.pdf",
+        "data/pdfs/20261120_2205_Ukraine_has_a_French_election_problem.pdf",
+        "data/pdfs/20261120_2230_EU_and_UK_publish_joint_summit_statement.pdf",
+        "data/pdfs/20261120_2327_‘Cleaning_our_clock’__EVs_are_booming_everywhere_—.pdf",
+        "data/pdfs/20261121_0131_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20261121_0207_Andy_Burnham_discovers_nothing_in_Brussels_is_ever.pdf",
+        "data/pdfs/20261121_0237_The_biggest_winners_and_losers_of_the_EU-UK_summit.pdf",
+        "data/pdfs/20261121_1945_Costa_cuts_proposed_EU_budget_by_€44B.pdf",
+        "data/pdfs/20261121_1950_Costa_cuts_proposed_EU_budget_by_€44B.pdf"
       ]
     }
   ]
