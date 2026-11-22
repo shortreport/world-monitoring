@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-21 22:38 JST",
+  "updated_at": "2026-11-22 19:29 JST",
   "total": 50,
-  "toyota_summary": "世界の自動車販売に占めるEV比率は今や3分の1に達しているが、米国は連邦税額控除を失ったことでわずか6%にとどまっている。ドイツ、ベトナム、オーストラリアが先行する中、このギャップは米自動車メーカーを置き去りにしかねないリスクをはらむ。さらに電池と製造における中国の優位性が、競争圧力に拍車をかけている。",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20261121_1950",
@@ -324,8 +324,8 @@
       "excerpt": "EU-UK首脳会談でイギリスが「Made in Europe」の地位獲得を目指しており、自動車産業がアジ",
       "subject_en": "Car drama at the EU-UK summit",
       "html": "data/pdfs/20261120_1504_Car_drama_at_the_EU-UK_summit.html",
-      "summary_en": "",
-      "summary_ja": "",
+      "summary_en": "At today's EU-UK summit in Brussels, UK and EU leaders will discuss whether Britain can secure 'Made in Europe' status under the EU's Industrial Accelerator Act, a critical issue since roughly 60% of UK auto exports go to the EU. Brussels is wary that granting this status could let Chinese automakers use the UK to bypass EU tariffs, especially as Chinese brands already account for one in three EVs sold in Britain.",
+      "summary_ja": "本日ブリュッセルで開催されるEU・英国サミットでは、英国がEUの産業加速化法(IAA)の下で「Made in Europe」の地位を獲得できるかが焦点となる。英国の自動車輸出の約6割がEU向けであるため、この問題は業界にとって極めて重要だ。EU側は、この地位付与が中国メーカーによる英国を経由した関税回避につながることを懸念しており、既に英国で販売されるEVの3台に1台が中国製となっている。",
       "summary_pdf": ""
     },
     {
@@ -412,7 +412,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "CATLとAmpaceが英オクトパスエナジーと提携し、欧州の家庭用蓄電システム市場に進出する。",
-      "subject_en": "\"JETRO Business Bulletin\" dated 2026/11/19",
+      "subject_en": "\"JETRO Business Brief\" dated 2026/11/19",
       "html": "data/pdfs/20261120_1012_「ジェトロ・ビジネス短信」2026_11_19付.html",
       "summary_en": "Honda will invest an additional $460 million in its Alabama plant to meet growing demand for hybrid vehicles in the U.S. market. Separately, South Korean auto parts makers are stepping up investments in southern India, underscoring deepening Korea-India automotive supply chain ties. Meanwhile, a U.S. House committee has opened an inquiry into Mercedes-Benz's business ties with China, adding scrutiny to global automakers' China exposure.",
       "summary_ja": "ホンダは米国でのハイブリッド車需要拡大に対応するため、アラバマ工場に4億6000万ドルを追加投資する。一方、韓国系自動車関連メーカーは南インドで投資を相次いで発表しており、韓印の自動車サプライチェーン連携が深まっている。また、米下院の対中特別委員会はメルセデス・ベンツの対中関係について調査を開始し、自動車メーカーの対中依存に対する監視が強まっている。",
@@ -707,7 +707,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "USMCA共同見直しが2026年7月1日に初めて実施され、北米の貿易ルール変更が日本企業のサプ",
-      "subject_en": "JETRO Regional and Analysis Report New Arrival Notice (November 19, 2026 Issue)",
+      "subject_en": "Notice of New JETRO Regional and Analysis Reports (November 19, 2026 Issue)",
       "html": "data/pdfs/20261119_1136_ジェトロ地域・分析レポートの新着のご案内（2026年11月19日号）.html",
       "summary_en": "JETRO's latest regional reports spotlight the first joint review of USMCA, launched in July 2026, which could reshape North American trade rules and force Japanese automakers and suppliers to reassess manufacturing footprints and supply chains amid prolonged negotiation uncertainty. The bulletin also covers SME expansion into India, hiring of highly skilled foreign talent in Japan, and social commerce marketing trends in Cambodia.",
       "summary_ja": "ジェトロの最新レポートは、2026年7月に始まったUSMCA初の共同見直しを特集し、協議の長期化が北米の貿易ルールや日本の自動車メーカー・サプライヤーの生産体制・サプライチェーン戦略に影響を及ぼす可能性を分析している。あわせて、インドへの中堅・中小企業進出事例、高度外国人材の活用、カンボジアのソーシャルコマース動向も紹介している。",
@@ -744,5 +744,5 @@
       "summary_pdf": ""
     }
   ],
-  "toyota_summary_en": "EV sales now make up a third of global car sales, but the US trails at just 6% after losing federal tax credits. This gap risks leaving American automakers behind as Germany, Vietnam and Australia pull ahead, with China's battery and manufacturing dominance adding competitive pressure."
+  "toyota_summary_en": ""
 }
