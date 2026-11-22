@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22 22:08:24",
+  "generated_at": "2026-11-23 05:37:31",
   "themes": [
     {
       "id": "iaa",
@@ -8,7 +8,7 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-22 22:07:54",
+      "last_checked": "2026-11-23 05:36:58",
       "items": [
         {
           "uid": "7d2fffbaf045",
@@ -2019,8 +2019,18 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-22 22:08:02",
+      "last_checked": "2026-11-23 05:37:07",
       "items": [
+        {
+          "uid": "d366c94db8be",
+          "date": "2026-11-22",
+          "title": "Why China is investigating US green tariffs ahead of Trump's visit - ET Auto",
+          "summary": "中国は米国のグリーンタリフが不公正な貿易慣行ではないか調査しており、これはトランプ訪問前の米国との経済的緊張を反映し、S.4429などの米国の安全保障関連の通商政策に対する対抗措置と考えられます。",
+          "source": "中国商務省",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOXzFRX3JQaEo0MU1pQ09BRU5ReV9NQnRwTGMxT0FjN2ZwdHItWmJPT25WRDFaUWxjVlcxQ2hhaXRCeDl2MENpZkhfU3hzSmtrOWdKYWd6ZVBWSzgwTi1sSGFzUzZ5NVpCa3VPbXBROGVtZ0ZqcEliM0tiMXlVSGZCbDRhVEtaYWlpWXd6R0ZacFVIUHZUYjFOX3FMaW5YSFdRQVlYWHl5a0RwTzNhTnVwYUtEeUtlU3BDOEwxSWtlM25OZk1FR29rc2stMVZaeVVzZUY1dNIBzwFBVV95cUxOaEwxcG1RaW9EcDVCcTZvOEcwV3N3LS1vWUd1Rmd4N281YU1rUTB6Vnoxbmh0Zkh2V0prc2R4TG00ZUg2ckZQbnVhVjJDLXlocTJzZTBPUmh2NVcyS2Z2T1JKZ1RsYlB1M2lKWTNocHZZNGNqTnNFQjFEMy12ZS1kLWVsX2toODI4d2FhaXFncUxyWXdaUGlBY2RxaklldWpVOGc0Z0thay1xazhpYnE5R3B1WjhJaTdyQkI5bExvWnd1ZHJCQXhJYUJpYWVWX28?oc=5",
+          "added_at": "2026-11-23 05:37:05"
+        },
         {
           "uid": "380b1c5c5f3c",
           "date": "2026-11-21",
@@ -4010,16 +4020,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSHJIRzRMRGZkNjFjcE1fdUctcXdQQ3hob3lOQzhnOFVzeHBIVDdYOGl6TGRwTWFzTGJJUGF3WEpwVDhhS0J5a1owZVl2R2lJczlEVkw1N0hmY2tnbFpJU1hEZWhrRUtMOUhCc0JFbTdmTjM4X0g5OUppS0t4QjhnUEZVdmFQdlUzQWpRcHRxYTRBRFdDaXNMZTVlSjFFREN5eTNZ?oc=5",
           "added_at": "2026-09-04 09:47:21"
-        },
-        {
-          "uid": "ad019e9e4941",
-          "date": "2026-07-23",
-          "title": "Javier Palomarez, USHBC President & CEO, Commends Senate Commerce Committee Advancing Connected Vehicle Security Act - einpresswire.com",
-          "summary": "米国ヒスパニック商工会議所（USHBC）のJavier Palomarez会長兼CEOが、上院商務委員会による接続車両安全保障法（S.4429）の進展を称賛している。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOanpsTnN3SDhWV21zRTJzOXI1SUxJT1dWM0VtQzQ1cHkyNnpVS1o4UUpKRlVzODJtNlJ4NjNCTDlLaWxZVG8ydV9Qa3ZZY2Y4UmtxM1Q5aldEdE80MGVSZXZoNXhsQXdJWGdPU0g4VnJYVkhFSkdHOHNfYnJDTldDTHZzc3YyeGd4N1dMVU1Zamw0WkdZcWMzY2dYV3g5N0V2Qk5UVFBXV0IzNDJfZ2JVSlV2enpIaDFXam1wSjVSYkhUd3FuSXNudWN2ZlhJYkpwSWdqakVoekJrN2tYZFo5VGwwUGxTSDlIeUQ4N1REdXM?oc=5",
-          "added_at": "2026-09-03 18:31:42"
         }
       ]
     },
@@ -4030,8 +4030,58 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-22 22:08:16",
+      "last_checked": "2026-11-23 05:37:24",
       "items": [
+        {
+          "uid": "a13607d3f885",
+          "date": "2026-11-09",
+          "title": "China Rare Earth Price Index October 2026 Decline - Rare Earth Exchanges",
+          "summary": "2026年10月に中国レアアース価格指数が前月比で低下したことが報告されており、中国のレアアース市場における価格変動が継続していることを示している。これは中国がレアアース輸出管理政策を通じて市場をコントロールしようとする動きの中での価格動向を反映している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRGw0SkhIQmZiRFIwZ0haUlZCR0owYjQ4NGRvTEJ2UEpWWlBVaUNEUjdrTkt2aDNUYW9nSkNibnhuWmJEd3VzZEh3bWItWTc5aHg5azlENGswUVZ5XzVSTkRjNTlCcHF1OUxoTWpuY0ptcE9abDVPSHh3OXhuZDdLeFR2emQ?oc=5",
+          "added_at": "2026-11-23 05:37:18"
+        },
+        {
+          "uid": "a6c5afc4ee8c",
+          "date": "2026-10-30",
+          "title": "China Rare Earth Index Masks 16x Dysprosium Gap Ahead of November Deadline - Tech Times",
+          "summary": "中国のレアアース指数は、11月の期限を控えて、ジスプロシウムの需給ギャップが16倍に達していることを隠蔽しており、これは中国による輸出管理強化に伴う供給逼迫を反映している。この深刻な品不足は、レアアース依存産業に対する中国の支配力を示唆している。",
+          "source": "業界団体",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOelIwQW0xTEp5Skl6b2JWRUJwNEtoZ213WkpXVTdyYkRDQjRxT0JMRmdtTVhqeGp4VWpwZkc1cS1JTEwzOHhuT3hOQjc3OHhJLUN1VVI5c2tja1JJdEVGdy02aTBtckUxbF9QTjd6SW5JOGU0OXVKWTR6QUxmZ3plbnl1aU9nWlNUMUROcFdpdDdQY3V2V0ZPSkkzQ2NzdEdBNHZqeEtGREZUeVV4VTZXTDhXRTBkUTdkcWVqdTVtX3ZoUVVS?oc=5",
+          "added_at": "2026-11-23 05:37:18"
+        },
+        {
+          "uid": "686b306ede29",
+          "date": "2026-10-07",
+          "title": "DW News. . India and Europe are moving closer. Trade is one driver, but strategy matters more. As US reliability is questioned and China’s rise reshapes geopolitics, can they build a lasting partnership? #DWGeopolitics #India #EU - Facebook",
+          "summary": "インドとEUは米国の信頼性低下と中国の台頭に対抗するため、貿易よりも戦略的パートナーシップを重視して関係を深化させており、これは中国のレアアース輸出管理に対する依存からの脱却を目指す地政学的動きの一環と位置付けられる。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQVcyMkZBVW1ob1JHYVBjUDhLcGpqOV9xckRzRmJvMVBmdXRyWElPb3RhTHhYMGN4MG5iSVdGZkotd0dFcFNJcGE2R1JhQkdIUHFmUEZ1RWUxM19ORng3SXltenJUSDZ0T2l5M0o5Wm5zdFpwdFZBOWJtaVlYdDJKNHhpeWRhbTFmMFZJRU5xemdHZ2d4dWlwc1g4Sl9qd3NpTTAzSC1NbGdvWVFxM0t2OE1VMlNSSDhsNWp0a1hiXzlPMC1KcWhpTnRoTEEtQ0RmX0IwdnVHQ0ZzNjZhc0FxZmVn?oc=5",
+          "added_at": "2026-11-23 05:37:18"
+        },
+        {
+          "uid": "b69553eeb1f5",
+          "date": "2026-10-13",
+          "title": "China's October Industrial Doctrine Formalizes Rare Earth Leverage: EU Secured Managed Access - Tech Times",
+          "summary": "中国は10月産業政策によりレアアース供給を戦略的に管理し、EUに対しては管理下での供給アクセスを確保させることで、レアアース輸出を外交・産業政策の重要な道具として制度化した。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNmZjbkVvM3JXVldNOXYxLXRKbldES1RpQzlTRE9tX3dzQzc3ZllPZEVfM1dWNzc3bjFiWmxGZ1NZTGZ3SHh5RjFoUDhuSGdTTC1wcl9kMVhNSnliaFBLOXNUbnEwdXQ5N2ZWdW5vNEp4ZFhJZThFS2lxZ0dXM2MzS3JhUGY3bWp5bUpiNnpTZUV3cFhtazZ3T3V2bTFudUZMYjY0N3JsRm9pcWtZVXhNeUlJbDM5cVBGb29wMDEtclp0RTNrOXRyUU1welRlT09qRXNWVEVwQUU4Tnd3MXlz?oc=5",
+          "added_at": "2026-11-23 05:37:18"
+        },
+        {
+          "uid": "58263b142415",
+          "date": "2026-09-30",
+          "title": "Hydroxide standoff and broad decline: Q3 2026 Cobalt Price Review - Benchmark Mineral Intelligence",
+          "summary": "申し訳ございませんが、提供いただいた記事の内容がタイトルのみで本文が含まれていないため、「中国レアアース輸出管理」に関する文脈での要約ができません。記事の本文内容をご提供いただければ、要約させていただきます。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnFCQUVheEl2R2FlR1gybVo3aXVIaG4tekpjR3FLZHlWRUJ0cHFheVc0QzE5bEVGQW9MdVdKV0VJaHhIWnN3YzJpY2ZuWHNFMWdvUjh5U3JjQ3NQeml2XzFpbHVlZEM5bXRmRElpSnp3d1JuSTU4bFNUR3QzOWNLRnNjYXNzTFd1QlNOblotRldoSVlQVDFzTU1xSWV1cGpLbU1yNUdreU9La21wWVE?oc=5",
+          "added_at": "2026-11-23 05:37:18"
+        },
         {
           "uid": "9ce253188a34",
           "date": "2026-10-19",
@@ -5981,56 +6031,6 @@
           "source_type": "industry",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNlJjaHdmOEt4Q3c0WEVMSGJUR09rMkhEVDh2U0JDcUJkQUFsSEF4WUwtYkd3dmNXVEhoM2JQa25KSGtqT2s2N2VkeVBubkhBLUlPV3B0N1EwREZnZlZFNjRzR2ZmcXE4SzNMN0Q3cENaSDV1aDRaU0ljNTRrZV9fZlBpbnFETDJYb1BuZjFneFFiQ3ZROGhhR3RYeGRhc096VmNFcTRWU3YxdHkwcUxjYi1NN2Rmd2FE?oc=5",
           "added_at": "2026-10-21 18:53:47"
-        },
-        {
-          "uid": "fd38261fa9c6",
-          "date": "2026-09-26",
-          "title": "Asian Angle | Southeast Asia faces a false binary in US-China mineral trade - South China Morning Post",
-          "summary": "東南アジアは米国と中国の鉱物資源を巡る対立で、どちらか一方に依存する選択を迫られているが、実際には両国とのバランスの取れた関係構築が可能である。中国のレアアース輸出管理強化に対抗するため、東南アジアは独立した鉱物サプライチェーン構築や多角化戦略を推進すべきである。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWG5hQ0RDdnJSN1dZYVZBTUhzV2lxdWVYRG9ieFVfU2xQZEc0YWxOTUpPT3ZvMlNNbkF4TXg3ZmJSSXRSejZlZ28ycE50WnN5SE9OUVRqendpZkxtSkZ3elA5dDBuQjRCZkpweThodkkwWTZaRTNRRmV0S3Rtay1CTGs4a3EyVkd4dG1saHI2enpnMG9iYjQxLURzQ3ZhcnBDNjRXQnA3eTdCYW9wTlpab9IBsAFBVV95cUxQZWhFTDRsY1d4ZHVPMTBZR2p6V0hPbEVWVTZTbzF5WnBrWUlCYlRyaFlIOXBQRW1ial9CNEl0XzFEU2ltQzRMbVdZVnF6cUxMOVVMRFdSVGtEWlhFY19GZHlLb01VbDlRYnRJbTU4cnNkcTBSckZSXzlaWXI1WWJpREJEcnpJRXBFd2ZiMXVENEZseXRwYzQwQ1JQWU9XLVI3MW1aZ2Q4Q2dUYnRLQmkyNg?oc=5",
-          "added_at": "2026-10-21 18:53:47"
-        },
-        {
-          "uid": "f18ea4a23ffd",
-          "date": "2026-08-13",
-          "title": "The new mercantilism of resource nationalism - GIS Reports",
-          "summary": "中国はレアアースなどの戦略的資源を国家的統制下に置き、輸出規制を強化することで、グローバルな資源供給チェーンにおける優位性を確保し、新しい形の重商主義的戦略を展開している。",
-          "source": "欧米メディア",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11WHE3YUxSRHpiVU9pTVV1aWZzQ1dpbzNIUGJMZWJzM2h5c0hGbHhtOTZtNmoyY0JoblBGNHNJVjY4aHJydWVRQkZlUHpfMHNwMEdsSlhycXNveEZ5Z1RKYk5aY1lVcDZfUjNZUEppRG14NndCT19mdVlPSG1UZw?oc=5",
-          "added_at": "2026-10-21 18:53:47"
-        },
-        {
-          "uid": "ca711b002d0a",
-          "date": "2026-07-30",
-          "title": "The Trump Administration’s Many Tools for Seizing Critical Minerals Abroad - Public Citizen",
-          "summary": "# 要約\n\nトランプ政権は、戦略的に重要なレアアース等を確保するため、海外の鉱物資源に対して経済制裁やFDIUS法の活用など複数の政策手段を有しており、こうした措置は中国によるレアアース輸出管理への対抗手段として機能する可能性がある。",
-          "source": "トランプ政権",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzF5Q0otTE1NUlI2TFhUWEpnUVF6VFpKVmlDTW96YnotM0pBTDRIQjRvS0pfWjNvdDU2TlFSZ3hRd0ZCWnQ2cjZRNWp2R09FeE12M0ZUTFBveG9aYTFjSlh4SnpBbTdvaXlTVzEzdWlzaUxJV0pxUFpacmMtODdpV1N0Nmw3Znoyc1UtWGU4ZG5WeVNWNHVEb24zdGV4a0hZakNoOGltZjNQQQ?oc=5",
-          "added_at": "2026-10-21 10:45:40"
-        },
-        {
-          "uid": "d05c55612fcc",
-          "date": "2026-09-17",
-          "title": "Key issues for this week's Trump-Xi summit in Washington - Reuters",
-          "summary": "トランプ大統領と習近平国家主席のワシントン首脳会談では、中国によるレアアース輸出管理と米国の防衛産業への影響が重要な議題として取り上げられる見通しである。米国はレアアース供給の中国依存からの脱却を求め、対話を通じた解決策の模索が期待されている。",
-          "source": "米議会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHdmMERXdzJrTFFzNkJOSXZhblo3Tkp1YXctZHBVQU9jdHR0TTZhUmFiYjVMRmsxaGhhbHFEMUdMd2daWVJzcnU0NUZGQTd0bGk0WjBIa0xWRkdGaHRWa2doWU11dGlTRW44ZFRhdmhFYm1ad3NDVV9ndTZQd1VoWXdUcXB1N0JZZ1FGWkJ0b2plUHJTVGk3dnowWQ?oc=5",
-          "added_at": "2026-10-21 10:45:40"
-        },
-        {
-          "uid": "86fa03656489",
-          "date": "2026-07-27",
-          "title": "Buying Time, Not Immunity: Japan's Rare Earth Dilemma - orfonline.org",
-          "summary": "中国がレアアースの輸出管理を強化する中、日本は東南アジアやオーストラリアからの調達多様化やレアアース備蓄の増加により短期的な対応は可能だが、中国への根本的な依存構造からの脱却には技術開発や長期的な供給網再構築が不可欠である。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWk5aW1TaE50WU94VnloTW00NmZGU0Q0NlpNQ1NTZDVrb3NMQlZSQ3RueUxjQm8zdVFxN193UFNYNUdzZ1ZFWklJTW12VEhVclNRcWVmcUdyQU1mb01NcUhiSzFlMlBuNFR5UzlqNTNwd0lvZU9ucG5jakV5dHdqYmZhU0tNUnVXc0tkejBtWndoOTla?oc=5",
-          "added_at": "2026-10-21 10:45:40"
         }
       ]
     },
@@ -6041,8 +6041,18 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-22 22:08:24",
+      "last_checked": "2026-11-23 05:37:31",
       "items": [
+        {
+          "uid": "ecbfa8ca7827",
+          "date": "2026-11-22",
+          "title": "Trump hates wind power. A bill he supports may help it get built",
+          "summary": "トランプ大統領は風力エネルギーに反対しているが、彼が署名する可能性のある超党派法案（BAAJA）により、風力発電プロジェクトが実際には推進される可能性がある。この矛盾は、政治的姿勢と実際の政策実行のギャップを示唆している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/energy-environment/6234642-trump-wind-power-permitting-reform/",
+          "added_at": "2026-11-23 05:37:29"
+        },
         {
           "uid": "ad5e7e56279c",
           "date": "2026-09-03",
@@ -8031,16 +8041,6 @@
           "source": "トランプ政権高官",
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObmdPR3JWYzNrcTJ5VFlLSTE4SG9STW1ITEJuUXZwMzBQWDBiMTcwX1RBdUVwdm5jX2RtWjJDU2g4cThWYklnLUVjcGtlazJkUkVGSkRyUERMRW5jRm5QZW5abnMxRzMzRmlQNVIyWlNmUG9RalBhaldtb3htbkE1S2hPLThFd2M0MnplNUVPb0ZMbTBWOGUxVExKMGtSMHBSampDTUtUY3JrSzBoc2dWTTRSdmI5bnFyeDc1V2lWUVBzeF9wVG9vOTR5RjnSAcwBQVVfeXFMUEhQTk1zbEg1UVJybFNUZE1sUV9nYTBkOXA1cVpPVXVfaHY3X3VNbVo3dThvbFo3ZFAtUmxmc21SRFRYT3JLcjNqS25COTMxLVR3allKbzlNTnpjZ0lyUTJ1akZIUlFCNWNNWHh1a0dBVDlCaU5wdXVpd3JyWVFGQi1SWEVWSjZIQWcwUXd4TW5wVFdKQjY5ejZvQ2NYWHVMVFFDc25IQk9JVkZ5bHd5ZEl1dU8zZEtEYktZTnM3NDAwcC1LOXpCQTExVTZs?oc=5",
-          "added_at": "2026-10-28 11:35:42"
-        },
-        {
-          "uid": "1451a615a66d",
-          "date": "2026-10-01",
-          "title": "Putin sees boost to ties from APEC meet with China's Xi, Russian agencies say - Reuters",
-          "summary": "ロシアのプーチン大統領と中国の習近平国家主席がAPEC会議で会談し、両国の関係強化が期待されていることが報じられている。この記事は自動車メーカーの対中提携への政治的批判とは直接の関連がなく、ロシア・中国間の外交関係に関する内容である。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQelpMTkt4RllNT2dkVUhkdTFyV3dNT3l3cDlDR2VmZmVydTV2Y05IeGdkWU50SlpaQmhjYWFGUFlQckFLZXBKNXhoQnk1cTRNdnpFakJJaTFkNE1ta3RpSnpqeVdGeHhBbUtocXNCVGo1WnF4Ui1RM3l6Qy1TMExUWm9meVF6cjZIRHozOEJuMzhPbzduZk1VZ251ZmxEYUdMTl8xdjdJcThCWkRzVTVKaUkxdVNiZw?oc=5",
           "added_at": "2026-10-28 11:35:42"
         }
       ]
