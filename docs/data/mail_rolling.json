@@ -1,8 +1,68 @@
 {
-  "updated_at": "2026-11-22 19:29 JST",
+  "updated_at": "2026-11-23 17:00 JST",
   "total": 50,
-  "toyota_summary": "",
+  "toyota_summary": "The Trump administration eliminated EV purchase subsidies today, reversing the incentive structure that drove U.S. electric vehicle adoption over the past four years. This creates a widening gap: EV sales are accelerating in Europe and Asia while the American market, the world's largest automotive economy, has lost its primary lever for pushing consumers toward electric cars. Manufacturers who built production capacity around U.S. EV demand now face a structurally smaller addressable market than they planned for.\n\nBritain is pushing the EU at this week's summit to grant \"Made in Europe\" status to British-built vehicles, a move that would reshape automotive supply chains and tariff exposure across the continent. The request signals growing friction between the UK and EU over trade rules as manufacturers navigate two separate regulatory regimes. Watch whether the EU agrees to any loosening of origin requirements that could set a precedent for other borderline markets.",
   "emails": [
+    {
+      "ts": "20261123_1634",
+      "sender_norm": "Eurasia Group",
+      "subject": "Daily Research Summary (in Japanese): 2026年11月23日",
+      "pdf": "data/pdfs/20261123_1634_Daily_Research_Summary_(in_Japanese)__2026年11月23日.pdf",
+      "date_label": "NOV 23  16:34",
+      "read_min": 2,
+      "toyota": true,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261123_1503",
+      "sender_norm": "POLITICO",
+      "subject": "IMO talks restart, but a deal looks distant",
+      "pdf": "data/pdfs/20261123_1503_IMO_talks_restart,_but_a_deal_looks_distant.pdf",
+      "date_label": "NOV 23  15:03",
+      "read_min": 11,
+      "toyota": true,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261123_1445",
+      "sender_norm": "POLITICO",
+      "subject": "France gets an EU budget win — and wants more",
+      "pdf": "data/pdfs/20261123_1445_France_gets_an_EU_budget_win_—_and_wants_more.pdf",
+      "date_label": "NOV 23  14:45",
+      "read_min": 15,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261123_1400",
+      "sender_norm": "POLITICO",
+      "subject": "Shipping powers head into talks divided over emissions plan",
+      "pdf": "data/pdfs/20261123_1400_Shipping_powers_head_into_talks_divided_over_emiss.pdf",
+      "date_label": "NOV 23  14:00",
+      "read_min": 6,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261123_1102",
+      "sender_norm": "Eurasia Group",
+      "subject": "On the Ground in China: Political and Economic Outlook - EG",
+      "pdf": "data/pdfs/20261123_1102_On_the_Ground_in_China__Political_and_Economic_Out.pdf",
+      "date_label": "NOV 23  11:02",
+      "read_min": 3,
+      "toyota": false,
+      "excerpt": ""
+    },
+    {
+      "ts": "20261123_0946",
+      "sender_norm": "POLITICO",
+      "subject": "Lucy Powell promotes UK education in China despite risks",
+      "pdf": "data/pdfs/20261123_0946_Lucy_Powell_promotes_UK_education_in_China_despite.pdf",
+      "date_label": "NOV 23  09:46",
+      "read_min": 1,
+      "toyota": false,
+      "excerpt": ""
+    },
     {
       "ts": "20261121_1950",
       "sender_norm": "POLITICO",
@@ -652,97 +712,6 @@
       "summary_en": "Morocco is pressing the EU to include it as a trusted partner under the Industrial Accelerator Act, warning that exclusion could push it toward deeper ties with China. The country's auto sector, led by Renault and Stellantis plants exporting mostly to Europe, is central to this leverage, while Chinese EV and battery investments already top €10 billion there. Brussels fears granting Morocco 'Made in Europe' status could let Chinese automakers indirectly access EU subsidies and markets.",
       "summary_ja": "モロッコはEUに対し、産業加速化法（IAA)の「信頼できるパートナー」として自国を含めるよう求めており、除外されれば中国との関係を一層深める可能性があると警告している。同国の自動車産業はルノーやステランティスの工場が欧州向け輸出の大半を占め、交渉材料となっている一方、中国のEVや電池関連投資は既に100億ユーロを超えている。ブリュッセルは、モロッコに「欧州製」認定を与えれば、中国メーカーがEUの補助金や市場に間接的にアクセスする恐れがあると懸念している。",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20261119_1500",
-      "sender_norm": "POLITICO",
-      "subject": "Morocco threatens China pivot over fears EU will shut out its",
-      "pdf": "data/pdfs/20261119_1500_Morocco_threatens_China_pivot_over_fears_EU_will_s.pdf",
-      "date_label": "NOV 19  15:00",
-      "read_min": 5,
-      "toyota": true,
-      "excerpt": "モロッコは、EUの産業加速化法による自動車産業保護策から除外されることを懸念し、中国との",
-      "subject_en": "Morocco threatens China pivot over fears EU will shut out its carmakers",
-      "html": "data/pdfs/20261119_1500_Morocco_threatens_China_pivot_over_fears_EU_will_s.html",
-      "summary_en": "Morocco is warning the EU that if it is excluded from the bloc's proposed Industrial Accelerator Act—which sets 'Made in Europe' rules to counter Chinese competition in sectors like EVs—it may deepen ties with China instead. As Africa's top car producer, with 85% of its 2025 output exported to Europe, Morocco argues it deserves treatment similar to the UK, but EU diplomats are resisting, leaving Rabat as apparent 'collateral damage' in Europe's protectionist push.",
-      "summary_ja": "モロッコは、中国との競争からEV等を守るEUの「産業加速化法」で自国が「欧州製」の対象から除外されれば、中国との関係強化に動く可能性があると警告している。アフリカ最大の自動車生産国であるモロッコは2025年生産台数の85%を欧州に輸出しており、英国同様の扱いを求めているが、EU側の外交官は拒否姿勢を示しており、モロッコは保護主義強化の「巻き添え被害」となりかねない状況だ。",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261119_1448",
-      "sender_norm": "POLITICO",
-      "subject": "Cyberattack hits the Commission",
-      "pdf": "data/pdfs/20261119_1448_Cyberattack_hits_the_Commission.pdf",
-      "date_label": "NOV 19  14:48",
-      "read_min": 15,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "Cyberattack hits the Commission",
-      "html": "data/pdfs/20261119_1448_Cyberattack_hits_the_Commission.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261119_1354",
-      "sender_norm": "Eurasia Group",
-      "subject": "EG Research Summary in Japanese",
-      "pdf": "data/pdfs/20261119_1354_EG_Research_Summary_in_Japanese.pdf",
-      "date_label": "NOV 19  13:54",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EG Research Summary in Japanese",
-      "html": "data/pdfs/20261119_1354_EG_Research_Summary_in_Japanese.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
-    },
-    {
-      "ts": "20261119_1136",
-      "sender_norm": "Jetro",
-      "subject": "ジェトロ地域・分析レポートの新着のご案内（2026年11月19日号）",
-      "pdf": "data/pdfs/20261119_1136_ジェトロ地域・分析レポートの新着のご案内（2026年11月19日号）.pdf",
-      "date_label": "NOV 19  11:36",
-      "read_min": 1,
-      "toyota": true,
-      "excerpt": "USMCA共同見直しが2026年7月1日に初めて実施され、北米の貿易ルール変更が日本企業のサプ",
-      "subject_en": "Notice of New JETRO Regional and Analysis Reports (November 19, 2026 Issue)",
-      "html": "data/pdfs/20261119_1136_ジェトロ地域・分析レポートの新着のご案内（2026年11月19日号）.html",
-      "summary_en": "JETRO's latest regional reports spotlight the first joint review of USMCA, launched in July 2026, which could reshape North American trade rules and force Japanese automakers and suppliers to reassess manufacturing footprints and supply chains amid prolonged negotiation uncertainty. The bulletin also covers SME expansion into India, hiring of highly skilled foreign talent in Japan, and social commerce marketing trends in Cambodia.",
-      "summary_ja": "ジェトロの最新レポートは、2026年7月に始まったUSMCA初の共同見直しを特集し、協議の長期化が北米の貿易ルールや日本の自動車メーカー・サプライヤーの生産体制・サプライチェーン戦略に影響を及ぼす可能性を分析している。あわせて、インドへの中堅・中小企業進出事例、高度外国人材の活用、カンボジアのソーシャルコマース動向も紹介している。",
-      "summary_pdf": "data/pdfs/20261119_1136_ジェトロ地域・分析レポートの新着のご案内（2026年11月19日号）_en.pdf"
-    },
-    {
-      "ts": "20261119_1008",
-      "sender_norm": "Jetro",
-      "subject": "「ジェトロ・ビジネス短信」2026/11/18付",
-      "pdf": "data/pdfs/20261119_1008_「ジェトロ・ビジネス短信」2026_11_18付.pdf",
-      "date_label": "NOV 19  10:08",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "\"JETRO Business Brief\" dated 2026/11/18",
-      "html": "data/pdfs/20261119_1008_「ジェトロ・ビジネス短信」2026_11_18付.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": "data/pdfs/20261119_1008_「ジェトロ・ビジネス短信」2026_11_18付_en.pdf"
-    },
-    {
-      "ts": "20261119_1002",
-      "sender_norm": "Eurasia Group",
-      "subject": "APAC& Japan Conference Call: 「半導体規制の新局面、リモートアク",
-      "pdf": "data/pdfs/20261119_1002_APAC&_Japan_Conference_Call__「半導体規制の新局面、リモートアクセス規則.pdf",
-      "date_label": "NOV 19  10:02",
-      "read_min": 4,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "APAC& Japan Conference Call: 「半導体規制の新局面、リモートアクセス規則とNvidiaを巡る余波がアジアに突きつける課題」 - EG Conference Call, REMINDER",
-      "html": "data/pdfs/20261119_1002_APAC&_Japan_Conference_Call__「半導体規制の新局面、リモートアクセス規則.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ],
-  "toyota_summary_en": ""
+  ]
 }

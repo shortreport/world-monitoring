@@ -1,193 +1,75 @@
 {
-  "generated_at": "2026-11-21 22:37 JST",
-  "sender_count": 3,
-  "total_mails": 23,
+  "generated_at": "2026-11-23 17:00 JST",
+  "sender_count": 2,
+  "total_mails": 6,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 8,
+      "count": 2,
       "bullets": [
-        "ロシアはウクライナ戦争継続のため経済的苦痛を受容し、少なくともあと1年間は戦争資金調達が可能と判断",
-        "APEC首脳会議ではトランプ・習近平両大統領がハイレベル関与を強調したが、米中貿易休戦の延長には至らず",
-        "中国はトランプ政権との関係管理に個人的外交を活用し、来年初期までの新規報復措置発動を見送る見通し",
-        "ブラジルではルラ大統領のレガシー追求が4期目の不確定要因となり、2027年のスタグフレーション回避が困難な状況",
-        "米国ではトランプ大統領とヴァンス副大統領の方針の乖離が拡大"
+        "中国の政治経済情勢に関する実地調査と分析をテーマにしたカンファレンスコール開催",
+        "米議会の資金調達をめぐる攻防により政府機関閉鎖のリスク顕在化とIT障害による業界信頼低下",
+        "インフレと財政赤字による米国債利回りの上昇圧力継続",
+        "中国政府がトランプ米大統領との関係維持にトップ外交重視、ただし貿易休戦延長の決定はなし",
+        "米国の新規制強化による東南アジアのデータセンターと建設事業への悪影響懸念"
       ],
       "subjects": [
         [
-          "2026-11-20",
-          "Russia: Putin will bear economic pain for war aims",
-          "data/pdfs/20261120_1634_Russia__Putin_will_bear_economic_pain_for_war_aims.pdf"
+          "2026-11-23",
+          "On the Ground in China: Political and Economic Outlook - EG",
+          "data/pdfs/20261123_1102_On_the_Ground_in_China__Political_and_Economic_Out.pdf"
         ],
         [
-          "2026-11-20",
-          "EG Research Summary in Japanese（11月20日訂正版）",
-          "data/pdfs/20261120_2206_EG_Research_Summary_in_Japanese（11月20日訂正版）.pdf"
-        ],
-        [
-          "2026-11-20",
-          "APEC Leaders Summit Outcomes - EG Conference Call, REMINDER",
-          "data/pdfs/20261120_2232_APEC_Leaders_Summit_Outcomes_-_EG_Conference_Call,.pdf"
-        ],
-        [
-          "2026-11-20",
-          "China will lean on personal diplomacy to manage ties with Trump",
-          "data/pdfs/20261120_2242_China_will_lean_on_personal_diplomacy_to_manage_ti.pdf"
-        ],
-        [
-          "2026-11-21",
-          "US Daily: The Trump-Vance split is widening",
-          "data/pdfs/20261121_0203_US_Daily__The_Trump-Vance_split_is_widening.pdf"
-        ],
-        [
-          "2026-11-21",
-          "Turkey: US-Turkey reset running out of time to deliver",
-          "data/pdfs/20261121_0213_Turkey__US-Turkey_reset_running_out_of_time_to_del.pdf"
-        ],
-        [
-          "2026-11-21",
-          "Remote-access rule threatens Chinese AI",
-          "data/pdfs/20261121_0349_Remote-access_rule_threatens_Chinese_AI.pdf"
-        ],
-        [
-          "2026-11-21",
-          "APEC Leaders' Summit outcomes",
-          "data/pdfs/20261121_0406_APEC_Leaders'_Summit_outcomes.pdf"
+          "2026-11-23",
+          "Daily Research Summary (in Japanese): 2026年11月23日",
+          "data/pdfs/20261123_1634_Daily_Research_Summary_(in_Japanese)__2026年11月23日.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261120_1634_Russia__Putin_will_bear_economic_pain_for_war_aims.pdf",
-        "data/pdfs/20261120_2206_EG_Research_Summary_in_Japanese（11月20日訂正版）.pdf",
-        "data/pdfs/20261120_2232_APEC_Leaders_Summit_Outcomes_-_EG_Conference_Call,.pdf",
-        "data/pdfs/20261120_2242_China_will_lean_on_personal_diplomacy_to_manage_ti.pdf",
-        "data/pdfs/20261121_0203_US_Daily__The_Trump-Vance_split_is_widening.pdf",
-        "data/pdfs/20261121_0213_Turkey__US-Turkey_reset_running_out_of_time_to_del.pdf",
-        "data/pdfs/20261121_0349_Remote-access_rule_threatens_Chinese_AI.pdf",
-        "data/pdfs/20261121_0406_APEC_Leaders'_Summit_outcomes.pdf"
-      ]
-    },
-    {
-      "sender": "Eurasia",
-      "short": "EURAS",
-      "color": "YEL",
-      "count": 1,
-      "bullets": [
-        "APEC首脳会議の成果について分析",
-        "米国商務省の新規則により中国のAI研究機関の半数以上が訓練用チップへのアクセス遮断",
-        "遠隔アクセス制御が中国のAI進展に対する構造的脅威となる可能性"
-      ],
-      "subjects": [
-        [
-          "2026-11-21",
-          "Daily Research Summary - Nov 20th, 2026",
-          "data/pdfs/20261121_0834_Daily_Research_Summary_-_Nov_20th,_2026.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261121_0834_Daily_Research_Summary_-_Nov_20th,_2026.pdf"
+        "data/pdfs/20261123_1102_On_the_Ground_in_China__Political_and_Economic_Out.pdf",
+        "data/pdfs/20261123_1634_Daily_Research_Summary_(in_Japanese)__2026年11月23日.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "RED",
-      "count": 14,
+      "color": "YEL",
+      "count": 4,
       "bullets": [
-        "EU-UK首脳会談で自動車産業が主要課題となっており、イギリスの「Made in Europe」認定は中国製EV関税への対応にかかっている状況",
-        "EU側はイギリスがEU関税回避手段として悪用されることを懸念しており、イギリスでの中国製EV販売比率が高いことが交渉の障壁",
-        "ロンドンとブリュッセル間の交渉は授業料問題で膠着状態に陥っており、EU各国が強気の姿勢を示す展開",
-        "トランプ政権の中間選挙敗北を受けて、EUがビッグテック企業への税制強化を通じた予算確保を検討",
-        "ウクライナ情勢がフランス大統領選の主要課題となっており、メランション候補とルペン候補の当選によるフランスの立場転換の可能性が懸念"
+        "英国教育相がリスクを承知で中国での英国教育推進を表明。政府と中国の相互作用の強化方針を反映した動き",
+        "海運からの温室効果ガス排出削減をめぐる国際海事機関（IMO）での交渉が開始。米国が計画を拒否し、主要支持国の欧州も姿勢を軟化させるなど、合意見通しは不透明",
+        "フランスがEU予算で成果を獲得。さらなる要求を視野に動き",
+        "海運業界の主要国が排出削減目標での妥協案に未達。今週のロンドンでの交渉で合意見込みは低い状況"
       ],
       "subjects": [
         [
-          "2026-11-20",
-          "Brussels’ ex comes to town",
-          "data/pdfs/20261120_1449_Brussels’_ex_comes_to_town.pdf"
+          "2026-11-23",
+          "Lucy Powell promotes UK education in China despite risks",
+          "data/pdfs/20261123_0946_Lucy_Powell_promotes_UK_education_in_China_despite.pdf"
         ],
         [
-          "2026-11-20",
-          "Car drama at the EU-UK summit",
-          "data/pdfs/20261120_1504_Car_drama_at_the_EU-UK_summit.pdf"
+          "2026-11-23",
+          "Shipping powers head into talks divided over emissions plan",
+          "data/pdfs/20261123_1400_Shipping_powers_head_into_talks_divided_over_emiss.pdf"
         ],
         [
-          "2026-11-20",
-          "How to watch the UK-EU summit like a pro",
-          "data/pdfs/20261120_1737_How_to_watch_the_UK-EU_summit_like_a_pro.pdf"
+          "2026-11-23",
+          "France gets an EU budget win — and wants more",
+          "data/pdfs/20261123_1445_France_gets_an_EU_budget_win_—_and_wants_more.pdf"
         ],
         [
-          "2026-11-20",
-          "EU-UK summit — live updates",
-          "data/pdfs/20261120_1807_EU-UK_summit_—_live_updates.pdf"
-        ],
-        [
-          "2026-11-20",
-          "EU-UK summit: Talks hit impasse over tuition fees",
-          "data/pdfs/20261120_1922_EU-UK_summit__Talks_hit_impasse_over_tuition_fees.pdf"
-        ],
-        [
-          "2026-11-20",
-          "Costa eyes tax on Big Tech to boost EU budget after Trump’s poor",
-          "data/pdfs/20261120_2109_Costa_eyes_tax_on_Big_Tech_to_boost_EU_budget_afte.pdf"
-        ],
-        [
-          "2026-11-20",
-          "Ukraine has a French election problem",
-          "data/pdfs/20261120_2205_Ukraine_has_a_French_election_problem.pdf"
-        ],
-        [
-          "2026-11-20",
-          "EU and UK publish joint summit statement",
-          "data/pdfs/20261120_2230_EU_and_UK_publish_joint_summit_statement.pdf"
-        ],
-        [
-          "2026-11-20",
-          "‘Cleaning our clock’: EVs are booming everywhere — except the",
-          "data/pdfs/20261120_2327_‘Cleaning_our_clock’__EVs_are_booming_everywhere_—.pdf"
-        ],
-        [
-          "2026-11-21",
-          "Pro Daily Headlines",
-          "data/pdfs/20261121_0131_Pro_Daily_Headlines.pdf"
-        ],
-        [
-          "2026-11-21",
-          "Andy Burnham discovers nothing in Brussels is ever easy",
-          "data/pdfs/20261121_0207_Andy_Burnham_discovers_nothing_in_Brussels_is_ever.pdf"
-        ],
-        [
-          "2026-11-21",
-          "The biggest winners and losers of the EU-UK summit deals",
-          "data/pdfs/20261121_0237_The_biggest_winners_and_losers_of_the_EU-UK_summit.pdf"
-        ],
-        [
-          "2026-11-21",
-          "Costa cuts proposed EU budget by €44B",
-          "data/pdfs/20261121_1945_Costa_cuts_proposed_EU_budget_by_€44B.pdf"
-        ],
-        [
-          "2026-11-21",
-          "Costa cuts proposed EU budget by €44B",
-          "data/pdfs/20261121_1950_Costa_cuts_proposed_EU_budget_by_€44B.pdf"
+          "2026-11-23",
+          "IMO talks restart, but a deal looks distant",
+          "data/pdfs/20261123_1503_IMO_talks_restart,_but_a_deal_looks_distant.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261120_1449_Brussels’_ex_comes_to_town.pdf",
-        "data/pdfs/20261120_1504_Car_drama_at_the_EU-UK_summit.pdf",
-        "data/pdfs/20261120_1737_How_to_watch_the_UK-EU_summit_like_a_pro.pdf",
-        "data/pdfs/20261120_1807_EU-UK_summit_—_live_updates.pdf",
-        "data/pdfs/20261120_1922_EU-UK_summit__Talks_hit_impasse_over_tuition_fees.pdf",
-        "data/pdfs/20261120_2109_Costa_eyes_tax_on_Big_Tech_to_boost_EU_budget_afte.pdf",
-        "data/pdfs/20261120_2205_Ukraine_has_a_French_election_problem.pdf",
-        "data/pdfs/20261120_2230_EU_and_UK_publish_joint_summit_statement.pdf",
-        "data/pdfs/20261120_2327_‘Cleaning_our_clock’__EVs_are_booming_everywhere_—.pdf",
-        "data/pdfs/20261121_0131_Pro_Daily_Headlines.pdf",
-        "data/pdfs/20261121_0207_Andy_Burnham_discovers_nothing_in_Brussels_is_ever.pdf",
-        "data/pdfs/20261121_0237_The_biggest_winners_and_losers_of_the_EU-UK_summit.pdf",
-        "data/pdfs/20261121_1945_Costa_cuts_proposed_EU_budget_by_€44B.pdf",
-        "data/pdfs/20261121_1950_Costa_cuts_proposed_EU_budget_by_€44B.pdf"
+        "data/pdfs/20261123_0946_Lucy_Powell_promotes_UK_education_in_China_despite.pdf",
+        "data/pdfs/20261123_1400_Shipping_powers_head_into_talks_divided_over_emiss.pdf",
+        "data/pdfs/20261123_1445_France_gets_an_EU_budget_win_—_and_wants_more.pdf",
+        "data/pdfs/20261123_1503_IMO_talks_restart,_but_a_deal_looks_distant.pdf"
       ]
     }
   ]
