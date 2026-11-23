@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-11-23 17:00 JST",
   "total": 50,
-  "toyota_summary": "The Trump administration eliminated EV purchase subsidies today, reversing the incentive structure that drove U.S. electric vehicle adoption over the past four years. This creates a widening gap: EV sales are accelerating in Europe and Asia while the American market, the world's largest automotive economy, has lost its primary lever for pushing consumers toward electric cars. Manufacturers who built production capacity around U.S. EV demand now face a structurally smaller addressable market than they planned for.\n\nBritain is pushing the EU at this week's summit to grant \"Made in Europe\" status to British-built vehicles, a move that would reshape automotive supply chains and tariff exposure across the continent. The request signals growing friction between the UK and EU over trade rules as manufacturers navigate two separate regulatory regimes. Watch whether the EU agrees to any loosening of origin requirements that could set a precedent for other borderline markets.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20261123_1634",
@@ -10,8 +10,13 @@
       "pdf": "data/pdfs/20261123_1634_Daily_Research_Summary_(in_Japanese)__2026年11月23日.pdf",
       "date_label": "NOV 23  16:34",
       "read_min": 2,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Daily Research Summary (in Japanese): 2026年11月23日",
+      "html": "data/pdfs/20261123_1634_Daily_Research_Summary_(in_Japanese)__2026年11月23日.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261123_1503",
@@ -20,8 +25,13 @@
       "pdf": "data/pdfs/20261123_1503_IMO_talks_restart,_but_a_deal_looks_distant.pdf",
       "date_label": "NOV 23  15:03",
       "read_min": 11,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "IMO talks restart, but a deal looks distant",
+      "html": "data/pdfs/20261123_1503_IMO_talks_restart,_but_a_deal_looks_distant.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261123_1445",
@@ -31,7 +41,12 @@
       "date_label": "NOV 23  14:45",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "France gets an EU budget win — and wants more",
+      "html": "data/pdfs/20261123_1445_France_gets_an_EU_budget_win_—_and_wants_more.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261123_1400",
@@ -41,7 +56,12 @@
       "date_label": "NOV 23  14:00",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Shipping powers head into talks divided over emissions plan",
+      "html": "data/pdfs/20261123_1400_Shipping_powers_head_into_talks_divided_over_emiss.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261123_1102",
@@ -51,7 +71,12 @@
       "date_label": "NOV 23  11:02",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "On the Ground in China: Political and Economic Outlook - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261123_1102_On_the_Ground_in_China__Political_and_Economic_Out.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261123_0946",
@@ -60,6 +85,26 @@
       "pdf": "data/pdfs/20261123_0946_Lucy_Powell_promotes_UK_education_in_China_despite.pdf",
       "date_label": "NOV 23  09:46",
       "read_min": 1,
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "Lucy Powell promotes UK education in China despite risks",
+      "html": "data/pdfs/20261123_0946_Lucy_Powell_promotes_UK_education_in_China_despite.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261122_1931",
+      "sender_norm": "POLITICO",
+      "subject": "Brussels, Charleroi airports to cancel most flights Monday amid Belgian strike",
+      "subject_en": "Brussels, Charleroi airports to cancel most flights Monday amid Belgian strike",
+      "html": "data/pdfs/20261122_1931_Brussels,_Charleroi_airports_to_cancel_most_flight.html",
+      "pdf": "data/pdfs/20261122_1931_Brussels,_Charleroi_airports_to_cancel_most_flight.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "",
+      "date_label": "NOV 22  19:31",
+      "read_min": 2,
       "toyota": false,
       "excerpt": ""
     },
@@ -472,7 +517,7 @@
       "read_min": 1,
       "toyota": true,
       "excerpt": "CATLとAmpaceが英オクトパスエナジーと提携し、欧州の家庭用蓄電システム市場に進出する。",
-      "subject_en": "\"JETRO Business Brief\" dated 2026/11/19",
+      "subject_en": "JETRO Business Brief November 19, 2026",
       "html": "data/pdfs/20261120_1012_「ジェトロ・ビジネス短信」2026_11_19付.html",
       "summary_en": "Honda will invest an additional $460 million in its Alabama plant to meet growing demand for hybrid vehicles in the U.S. market. Separately, South Korean auto parts makers are stepping up investments in southern India, underscoring deepening Korea-India automotive supply chain ties. Meanwhile, a U.S. House committee has opened an inquiry into Mercedes-Benz's business ties with China, adding scrutiny to global automakers' China exposure.",
       "summary_ja": "ホンダは米国でのハイブリッド車需要拡大に対応するため、アラバマ工場に4億6000万ドルを追加投資する。一方、韓国系自動車関連メーカーは南インドで投資を相次いで発表しており、韓印の自動車サプライチェーン連携が深まっている。また、米下院の対中特別委員会はメルセデス・ベンツの対中関係について調査を開始し、自動車メーカーの対中依存に対する監視が強まっている。",
@@ -697,21 +742,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20261119_1501",
-      "sender_norm": "POLITICO",
-      "subject": "Morocco threatens to cozy up to China over IAA exclusion",
-      "pdf": "data/pdfs/20261119_1501_Morocco_threatens_to_cozy_up_to_China_over_IAA_exc.pdf",
-      "date_label": "NOV 19  15:01",
-      "read_min": 10,
-      "toyota": true,
-      "excerpt": "モロッコは産業加速化法（IAA）から除外されるおそれがあり、中国との提携を検討する「プラン",
-      "subject_en": "Morocco threatens to cozy up to China over IAA exclusion",
-      "html": "data/pdfs/20261119_1501_Morocco_threatens_to_cozy_up_to_China_over_IAA_exc.html",
-      "summary_en": "Morocco is pressing the EU to include it as a trusted partner under the Industrial Accelerator Act, warning that exclusion could push it toward deeper ties with China. The country's auto sector, led by Renault and Stellantis plants exporting mostly to Europe, is central to this leverage, while Chinese EV and battery investments already top €10 billion there. Brussels fears granting Morocco 'Made in Europe' status could let Chinese automakers indirectly access EU subsidies and markets.",
-      "summary_ja": "モロッコはEUに対し、産業加速化法（IAA)の「信頼できるパートナー」として自国を含めるよう求めており、除外されれば中国との関係を一層深める可能性があると警告している。同国の自動車産業はルノーやステランティスの工場が欧州向け輸出の大半を占め、交渉材料となっている一方、中国のEVや電池関連投資は既に100億ユーロを超えている。ブリュッセルは、モロッコに「欧州製」認定を与えれば、中国メーカーがEUの補助金や市場に間接的にアクセスする恐れがあると懸念している。",
-      "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
