@@ -1,0 +1,455 @@
+<!doctype html><html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="x-apple-disable-message-reformatting">
+    <meta name="format-detection" content="telephone=no, address=no, email=no">
+    <!--[if mso]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG />
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+    <![endif]-->
+    <title>eg update</title>
+    <style>
+      body {
+        margin: 0 !important;
+        padding: 0 !important;
+        background-color: #ffffff !important;
+        -webkit-text-size-adjust: 100% !important;
+        -ms-text-size-adjust: 100% !important;
+        width: 100% !important;
+        overflow-x: hidden !important;
+      }
+
+      img {
+        -ms-interpolation-mode: bicubic;
+        max-width: 100% !important;
+        height: auto !important;
+        display: block !important;
+        margin-bottom: 16px !important;
+      }
+
+      table {
+        border-collapse: collapse !important;
+        border-spacing: 0 !important;
+      }
+
+      .container {
+        width: 100% !important;
+        margin: 0 auto !important;
+        background-color: #ffffff !important;
+        border-collapse: collapse !important;
+      }
+
+      .hygraph-content-shell {
+        width: 100% !important;
+        max-width: 100% !important;
+        table-layout: fixed !important;
+      }
+
+      .hygraph-content-shell td {
+        word-wrap: break-word !important;
+        overflow-wrap: break-word !important;
+        word-break: break-word !important;
+      }
+
+      .hygraph-content h1,
+      .hygraph-content h2,
+      .hygraph-content h3,
+      .hygraph-content h4,
+      .hygraph-content h5,
+      .hygraph-content h6 {
+        font-family: Aptos, Calibri, Arial, Helvetica, sans-serif !important;
+        font-size: 16px !important;
+        line-height: 1.5 !important;
+        color: #161c2c !important;
+        font-weight: 700 !important;
+        margin: 16px 0 !important;
+        text-align: left !important;
+      }
+
+      .hygraph-content p {
+        font-family: Aptos, Calibri, Arial, Helvetica, sans-serif !important;
+        font-size: 16px !important;
+        line-height: 1.5 !important;
+        color: #161c2c !important;
+        margin: 0 0 16px 0 !important;
+        font-weight: 400 !important;
+        text-align: left !important;
+      }
+
+      .hygraph-content ul,
+      .hygraph-content ol {
+        font-family: Aptos, Calibri, Arial, Helvetica, sans-serif !important;
+        font-size: 16px !important;
+        line-height: 1.5 !important;
+        color: #161c2c !important;
+        margin: 0 0 16px 0 !important;
+        padding-left: 20px !important;
+        text-align: left !important;
+      }
+
+      .hygraph-content li {
+        margin-bottom: 8px !important;
+        line-height: 1.5 !important;
+        text-align: left !important;
+      }
+
+      .hygraph-content a {
+        color: #182957 !important;
+        text-decoration: underline !important;
+        word-break: break-word !important;
+      }
+
+      .hygraph-content strong,
+      .hygraph-content b {
+        font-family: inherit !important;
+        font-weight: 700 !important;
+      }
+
+      .eg-update-body {
+        font-family: Aptos, Calibri, Arial, Helvetica, sans-serif !important;
+        font-size: 16px !important;
+        line-height: 1.5 !important;
+        color: #161c2c !important;
+        margin: 0 0 16px 0 !important;
+        font-weight: 400 !important;
+      }
+
+      .footer-text {
+        font-family: 'Libre Franklin', Arial, sans-serif !important;
+        font-size: 12px !important;
+        line-height: 1.5 !important;
+        color: #161c2c !important;
+      }
+
+      .footer-links {
+        font-family: 'Libre Franklin', Arial, sans-serif !important;
+        font-size: 9px !important;
+        line-height: 1.5 !important;
+        color: #161c2c !important;
+        text-decoration: underline !important;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .container {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+      }
+
+      [data-ogsc] .eg-update-body {
+        color: #d0d0d8 !important;
+      }
+      [data-ogsc] .hygraph-content h1,
+      [data-ogsc] .hygraph-content h2,
+      [data-ogsc] .hygraph-content h3,
+      [data-ogsc] .hygraph-content h4,
+      [data-ogsc] .hygraph-content h5,
+      [data-ogsc] .hygraph-content h6 {
+        color: #ffffff !important;
+      }
+      [data-ogsc] .hygraph-content p,
+      [data-ogsc] .hygraph-content li {
+        color: #d0d0d8 !important;
+      }
+      [data-ogsc] .footer-text {
+        color: #d0d0d8 !important;
+      }
+      [data-ogsc] .footer-links {
+        color: #d0d0d8 !important;
+      }
+      /* EUR-1651: swap the play button to its dark-mode asset where the client honours
+         prefers-color-scheme (Apple Mail). Class selectors carry !important so they beat
+         the global `img` rule above (its display, and any bottom margin that would push the
+         label off the button's centre).
+         EUR-2025: the dark asset exists only here, as a background on an empty span. A second
+         <img> hidden by inline CSS and a conditional comment showed up as a duplicate button
+         wherever both were stripped (a Gmail reply quoting the email, opened in Outlook
+         desktop); an empty span renders nothing without this stylesheet. */
+      .audio-play-light {
+        margin: 0 !important;
+      }
+      .audio-play-dark {
+        display: none !important;
+      }
+      @media (prefers-color-scheme: dark) {
+        .audio-play-light {
+          display: none !important;
+        }
+        .audio-play-dark {
+          display: block !important;
+          width: 40px !important;
+          height: 40px !important;
+          background-image: url('https://cdn.mcauto-images-production.sendgrid.net/a3691991024ed9a3/632b58f9-b9f5-4128-b47a-d66ac68390e1/112x112.png') !important;
+          background-repeat: no-repeat !important;
+          background-size: 40px 40px !important;
+        }
+      }
+    </style>
+    <!--[if mso]>
+      <style type="text/css">
+        table {
+          mso-table-lspace: 0pt;
+          mso-table-rspace: 0pt;
+        }
+        .hygraph-content,
+        .hygraph-content td {
+          font-family: Aptos, Calibri, Arial, Helvetica, sans-serif !important;
+        }
+        /* Word applies its own default paragraph size to the <p>s of the injected body
+           instead of inheriting 16px from the wrapper; pin it (16px = 12pt in Word units).
+           Never write the body variable's mustache in a comment: Handlebars renders it anywhere,
+           and this one used to copy the whole note into the head of every send. */
+        .eg-update-body,
+        .hygraph-content,
+        .hygraph-content td,
+        .hygraph-content div,
+        .hygraph-content p,
+        .hygraph-content li,
+        .hygraph-content ul,
+        .hygraph-content ol,
+        .hygraph-content h1,
+        .hygraph-content h2,
+        .hygraph-content h3,
+        .hygraph-content h4,
+        .hygraph-content h5,
+        .hygraph-content h6 {
+          font-size: 16px !important;
+          mso-ansi-font-size: 16px;
+          mso-bidi-font-size: 16px;
+        }
+        .hygraph-content,
+        .hygraph-content p,
+        .hygraph-content li,
+        .hygraph-content ul,
+        .hygraph-content ol,
+        .hygraph-content h1,
+        .hygraph-content h2,
+        .hygraph-content h3,
+        .hygraph-content h4,
+        .hygraph-content h5,
+        .hygraph-content h6,
+        .hygraph-content div {
+          text-align: left !important;
+        }
+        .hygraph-content p,
+        .hygraph-content li,
+        .hygraph-content div {
+          mso-line-height-rule: exactly;
+          line-height: 24px !important;
+        }
+        .hygraph-content p {
+          margin: 0 0 16px 0 !important;
+        }
+        .hygraph-content ul,
+        .hygraph-content ol {
+          margin: 0 0 16px 0 !important;
+        }
+        .hygraph-content li {
+          margin: 0 0 8px 0 !important;
+        }
+        .hygraph-content strong,
+        .hygraph-content b {
+          font-family: Aptos, Calibri, Arial, Helvetica, sans-serif !important;
+          font-weight: bold !important;
+        }
+        .hygraph-content a {
+          word-break: normal !important;
+        }
+      </style>
+    <![endif]-->
+  </head>
+
+  <body bgcolor="#ffffff" style="margin: 0; padding: 0; background-color: #ffffff">
+    <!-- Preheader: hidden in the body, used as the inbox preview/snippet text -->
+    <div style="
+        display: none;
+        font-size: 1px;
+        color: #ffffff;
+        line-height: 1px;
+        max-height: 0px;
+        max-width: 0px;
+        opacity: 0;
+        overflow: hidden;
+        mso-hide: all;
+      ">
+      dear hondo-san, notes from the apec summit (and the us/china/russia theatrics). russia-ukraine and the &quot;coalition of the willing&quot; in berlin. and an update on us-india
+    </div>
+    <!-- Spacer: pads out the snippet so following body text isn't pulled into the Gmail/Apple Mail preview -->
+    <div style="
+        display: none;
+        font-size: 1px;
+        color: #ffffff;
+        line-height: 1px;
+        max-height: 0px;
+        max-width: 0px;
+        opacity: 0;
+        overflow: hidden;
+        mso-hide: all;
+      ">
+      ‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;
+    </div>
+    <table role="presentation" class="outer-wrap" width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" style="width: 100%; background-color: #ffffff; border-collapse: collapse">
+      <tr>
+        <td class="outer-cell" align="center" style="padding: 20px 0px">
+          <table role="presentation" class="container" width="100%" cellpadding="0" cellspacing="0" align="center" style="width: 100%; margin: 0 auto; background-color: #ffffff; border-collapse: collapse">
+            <!-- Greeting -->
+            <tr>
+              <td style="padding: 0">
+                <div class="eg-update-body" style="
+                    text-align: left;
+                    margin: 0 0 16px 0;
+                    font-family: Aptos, Calibri, Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    line-height: 24px;
+                    mso-line-height-rule: exactly;
+                    color: #161c2c;
+                  ">
+                  dear hondo-san,
+                </div>
+              </td>
+            </tr>
+
+            <!-- Trajectory Bars -->
+            
+
+            <!-- Body Content -->
+            <tr>
+              <td style="padding: 0 0 24px 0">
+                <table role="presentation" class="hygraph-content-shell" width="100%" cellpadding="0" cellspacing="0" border="0" style="
+                    width: 100%;
+                    max-width: 100%;
+                    table-layout: fixed;
+                    border-collapse: collapse;
+                    mso-table-lspace: 0pt;
+                    mso-table-rspace: 0pt;
+                  ">
+                  <tr>
+                    <td style="
+                        padding: 0;
+                        vertical-align: top;
+                        word-wrap: break-word;
+                        overflow-wrap: break-word;
+                        word-break: break-word;
+                        font-family: Aptos, Calibri, Arial, Helvetica, sans-serif;
+                        font-size: 16px;
+                        line-height: 24px;
+                        mso-line-height-rule: exactly;
+                        color: #161c2c;
+                        text-align: left;
+                      ">
+                      <div class="hygraph-content" style="
+                          text-align: left;
+                          font-family: Aptos, Calibri, Arial, Helvetica, sans-serif;
+                          font-size: 16px;
+                          line-height: 24px;
+                          mso-line-height-rule: exactly;
+                          color: #161c2c;
+                        ">
+                        <p>notes from the apec summit (and the us/china/russia theatrics). russia-ukraine and the &quot;coalition of the willing&quot; in berlin. and an update on us-india relations.</p><p><strong>apec summit</strong></p><p>let's start with the<em> xi-trump-putin </em>trilateral. i was bemused by how many advance headlines i saw heralding the meeting as a new &quot;yalta&quot; (the 1945 wartime summit between fdr, churchill, and stalin); comparisons even more strained than the idea of a new middle power bloc emerging from concerns about getting trapped between the americans and the chinese.</p><p>first, why there isn't a there there. the three leaders are in wildly different positions. presidents xi jinping and vladimir putin are both leaders for life. xi has consolidated more power around himself than any chinese leader since mao. he has ended term limits and made no preparations toward a succession mechanism, either partial (for a piece of his leadership portfolio) or more broadly. putin also ended term limits (albeit more creatively), allowing his loyal (and suitably weak) former prime minister dmitri medvedev to serve as president for a term while putin led the country as prime minister...before putin returned to his more familiar role, &quot;reformed&quot; the laws, and did not count his previously served terms in the process. both xi and putin have installed bureaucratic cadres of lifelong loyalists across their systems (with xi's process more meritocratic and resulting in competence). while president trump completes his term in office in two years, with unyielding internal checks and balances on his power (an independent judiciary, professional military, free media and civil society). trump passed the peak of his global influence nearly a year ago, a trajectory now gaining momentum after his landslide defeat in midterm elections earlier this month.</p><p>in that context, xi is by far the most powerful of the three leaders (even though the united states retains overall more geopolitical influence than china). while putin's geopolitical strength as leader is critically undermined by russia's limited economic and technological capabilities and constrained diplomatic influence and leverage even in its immediate neighborhood. the structural misalignment between the three ensured nothing much could be agreed to, any deliverables would face challenging execution, and the trilateral itself would not prove a durable format.</p><p>which raises the second point: what were the leaders hoping to achieve?</p><p>that's easiest to answer for <em>putin</em>. the meeting was the biggest diplomatic stage afforded the russian president since he invaded ukraine nearly five years ago. putin is the rogue actor of the three and benefits from any largesse offered by his key patron (xi) and the only american leader that perceives power almost entirely in transactional, non-value-oriented ways (trump). from putin's perspective, this is a unique format that affords him global status without direct criticism (as opposed to the g20 summit trump invited him to next month—if he goes, and even if there were another trilateral, the diplomatic downside from attendees would gain equal attention). shenzhen allowed putin to deliver a message to other countries who refuse to engage with him (most of america's allies) that persisting in that effort would prove costly and, in the near term at least, unsuccessful.</p><p>for <em>trump</em>, these are the two global leaders he's most intrigued by and in some ways most envies...because they are so powerful individually. trump is uninterested in the misalignment of their political and economic systems: he waved off questions about russian intelligence support for iran and chinese tech espionage by saying the americans do the same to them (true, and if you're prepared to accept the moral/ethical equivalence of the goals those efforts are in service of, the point is more compelling); so he's intent on coordinating with them as opposed to weaker, more individually constrained allies. in trump's worldview, he, xi, and putin (in that order) are the leaders that should be getting together to make decisions involving their core interests and spheres of influence. and if that can't happen in terms of policy, at least the optics should show everyone else that these are the leaders that matter.</p><p><em>xi</em> had little to gain. after having been asked by trump two months before to coordinate the meeting (in addition to a separate ask with north korea's kim jong un), he finally (two weeks ago) decided to go ahead; ultimately with the intention of the meeting as a &quot;give&quot; to the american president with little attached to it. there was no effort by xi to insert himself in war negotiations (in ukraine or iran) that aren't going anywhere, and he's certainly not interested in deploying leverage over putin on trump's behalf. xi also made no effort to show the rest of the attendees that it should be the focus of the apec summit or reflected a new global alignment.</p><p>the &quot;declaration toward peace&quot; announced by the white house had no mention of the major conflicts involving the three leaders. instead it included: 1) a shared interest in reforming the united nations (and the three countries have had a number of backchannel negotiations on the new un secretary general appointment, separate from france and the united kingdom, the other two veto-wielding members); 2) diminishing the importance of the international criminal court (an annoyance to all three non-signatories, though its status is enhanced by its inclusion); 3) a nominal commitment to increase refined energy production (a nod toward us normalization with russia, but ukrainian military attacks continue to act as a veto); and 4) general opposition to nuclear war. xi made general statements about wanting ongoing conflict to end; putin said the time wasn't right to negotiate given ukraine had just attacked his crimea bridge (the first time he had publicly mentioned it) and instead was going to retaliate. putin also uniquely leaned into the yalta comparison (natch), arguing it was not about carving up the continent but rather a shared recognition of the realities on the ground (which, if true from stalin's perspective at the time, was a horror to millions of europeans on the ground postwar and fell apart quickly after that).</p><p>on the <em>us-china </em>front, the symbolism was stronger: chinese president xi jinping gave a historically warm greeting for president trump's arrival to the country. he reciprocated trump's welcome greeting from their recent summit in the united states; no foreign leader has gotten that treatment from xi since he became party leader. it's an effort not lost on the american president and without china having to offer anything in terms of policy.</p><p>the policy conversations were more limited. there was no agreement on extending the trade truce (that's expected/hoped for at next month's g20) or additional chinese purchases of us agriculture and goods (same); while xi voiced direct concerns about new restrictions coming on semiconductors. president trump promised the relationship would remain constructive and friendly as long as he and xi were in charge, but the jensen/nvidia affair was a shadow on the proceedings—adding to china's fear of a push toward us-china technology decoupling coming from both inside the trump administration and democrats and republicans in congress.</p><p>even before the semiconductor fight, the chinese leadership have been saying they're disappointed in the trajectory of the us-china relationship on ai: that the trump administration only wants to work on risk prevention (setting up an early warning system and a mechanism for communicating known threats), while china wants to add focus on coordinated governance and standard setting.</p><p>now with the nvidia blowback, china expects washington will cut off its supply of us chips, including those it rents abroad, with significant consequences for the chinese economy and technology development. if true, china intends to respond &quot;reciprocally&quot; in terms of both commercial cost and impact to national security. at that point, as seen after last year's effective us trade boycott and resulting chinese escalation, the question will be how durable the american restrictions will prove once china shows it is prepared to hit back.</p><p><strong>russia-ukraine</strong></p><p>meanwhile in berlin, there was a meeting of the &quot;coalition of the willing&quot; (described to me by some european leaders attending as the &quot;kids’ table,&quot; given the pageantry in shenzhen), focused on maintaining support for the ukrainian war effort. president trump dialed into the proceedings as the apec summit was wrapping up, announcing that putin wanted peace and that the europeans should stop spending so much money on ukraine (a pivot from last year, when he said the europeans weren't spending enough), because the war needed to end.</p><p>but that was a distraction from the presentation from special envoy jared kushner, who said that the &quot;new european security architecture&quot; floated by the trump administration over the last two weeks was intended to ensure that there would be no more wars on the continent...and that whatever ultimately was agreed to end the war in ukraine would contribute to that. the new white house plan amounted to 1) mutual recognition (from nato members and russia) that nato is a defensive alliance; 2) arms control on both sides eventually reducing front-line troops, military exercises, and creating confidence-building mechanisms to improve security; 3) a new nato-russia joint council type arrangement to discuss and facilitate those arrangements; and 4) an acceptance of article 5 collective security protections, though not direct nato membership and with no peacetime foreign troops or bases, for ukraine (that would not apply to whatever ukrainian territory russia ended up occupying after a ceasefire).</p><p>this included an explicit understanding by the americans that no agreement could be made which didn't include the europeans as full signatories, hence the importance of the negotiation. president trump's exposition that &quot;putin wants peace&quot; was explained as the russian willingness to accept those terms in principle (presuming russia gained control of the territories it’s annexed, that there are restrictions on ukrainian military capabilities, and that russian language and the russian orthodox church receive equal status under ukrainian law). putin said he did indeed accept european participation, inviting european leaders to moscow for a meeting to discuss the issues. but the kremlin just as quickly downplayed any notion of agreement on the other points, most notably rejecting the nato-like guarantees for ukraine. all the while the russians were launching more missiles at ukrainian critical infrastructure and civilian targets; as well as two missiles and a drone that landed inside poland during a nato military exercise.</p><p>the more interesting piece here is the shift from the americans. there's now a recognition that the europeans are essential and have to be fully incorporated in the diplomatic process (though with legitimate questions about the format and exactly who the united states should be engaging with as the european counterpart; there have been constructive conversations with ursula von der leyen's sherpa, which have moved the needle). and while the trump administration believes the russians could (and should) be induced to engage more through commercial opportunities offered by the white house, ultimately the intention would be for the united states and europe to see if they would indeed follow through...and if not, there would be no political capacity for the trump administration to normalize.</p><p>in short, and it's increasingly true of the iran war as well, it may take one country to start a war but it takes rather more to end one.</p><p><strong>us-india</strong></p><p>i've found it notable that india's disappointment in dating the united states is roughly analogous to the anger there's been from canada's wedlock. less at the bilateral relationship and trade problems than geostrategically—the white house's wooing of pakistan (for personal/family business interests) and efforts to increase alignment with xi, all cutting india out. while the us criticizes india on its ties to russia and then engages with russia too (that’s not a problem per se except it’s a use of power to undermine modi). views of the united states have cratered among the indian population, especially younger indians (also driven in part by views that indians aren't welcome in us higher education or the workforce given visa restrictions), and prime minister narendra modi is particularly sensitive to that given recent domestic challenges from student protests.</p><p>this has principally manifested in the defense sector; where in the first trump administration, narendra modi had taken a long-term decision to shift india away from russia (its traditional closest partner) and toward the united states as the most effective long-term balancer and hedge against china (with whom india competes for geopolitical influence in all the countries in its immediate neighborhood—from pakistan, bangladesh, and sri lanka, to the maldives and bhutan). that's now essentially ended, with india no longer spending political capital on big long-term strategic platforms that would create dependence; and instead pivoting toward germany and france on legacy platforms, poland on drones and new platforms. as well as sticking with russia in importing their technology (especially on missiles, the space program, and the nuclear triad). india's also now trying to take the lead in creating an alternative to the us-owned starlink, to assist with a more independent export strategy. leaving us-india defense cooperation primarily in lower-level and small capital areas like surveillance and electronics.</p><p>that's supported by a longer-standing hedging strategy that's now picking up efforts, as india's size and improved technological progress have made it an attractive partner to countries that had previously paid less attention. that's most notable with 1) <em>japan</em>, with an economic security initiative and development of supply chains independent of china and the united states where tokyo provides money, technology, and helps with business-to-business links. after that, 2) the <em>united arab emirates</em>, increasing its investment in india as an expected major external player in the gulf, with greater foreign direct investment, connectivity, and increasingly tight geopolitical coordination. 3) <em>europe</em> around energy transition: nuclear, solar, battery storage. 4) much more trade overall with and resource investments in <em>latin america</em> (the black sea disruptions meaning more sourcing there); and the east seaboard of<em> africa</em>. and early diplomatic efforts to ramp up engagement with 5) <em>canada</em> and <em>southeast asia</em> (indonesia, malaysia, singapore). granted, not a major geopolitical change globally, but a notable one as we think about more incremental shifts in alliances and trade flows going forward.</p><p>*</p><p>back in new york city, with a bunch of family coming in for thanksgiving. hard not to get excited about a holiday centered around coming together for a long, lovely meal. wishing you and yours well.</p><p>yours truly,</p><p>ian</p>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- Listen now audio component (EUR-1651): play button + label link to the portal. Shown only with
+                 audio, right under Ian's sign-off, which is the end of the body (EUR-2024). -->
+
+            <!-- Footer -->
+            <tr>
+              <td style="padding: 28px 0 49px 0">
+                <div class="footer-text" style="text-align: left">
+                  © 2026 Eurasia Group. All rights reserved. This material was produced by Eurasia Group for
+                  use by the recipient. This is intended as general background research and is not intended to
+                  constitute advice on any particular commercial investment or trade matter or issue and should not be
+                  relied upon for such purposes. It is not to be made available to any person other than the recipient.
+                  No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any
+                  form or by any means, electronic or otherwise, without the prior consent of Eurasia Group.
+                </div>
+              </td>
+            </tr>
+
+            <tr>
+              <td style="padding: 0 0 8px 0">
+                <p style="font-family: 'Libre Franklin', Arial, sans-serif; font-size: 8px; color: #ffffff; margin: 0">
+                  X-HG-DocID cmwt8xxwxk76u07n3i24h6d0n
+                </p>
+              </td>
+            </tr>
+
+            <!-- Footer Links -->
+            <tr>
+              <td align="left" style="padding: 0 0 24px 0; text-align: left">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="left" style="margin: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt">
+                  <tr>
+                    <!-- PDF link (guards the link string, not PDF readiness; same cell style as Opt Out so it aligns) -->
+                    <td style="
+                        font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                        font-size: 9px;
+                        color: #161c2c;
+                      ">
+                      <a href="https://app.eurasiagroup.net/eg-update-pdf/cmwt8xxwxk76u07n3i24h6d0n?t=eyJjaWQiOiI0ZGY3M2IxZi03OWFjLTRhMzEtOTdkNS03MDg4OTk4YTdkOWYiLCJhaWQiOiI3MGQ1OTU3ZC00MGU4LTRhZDAtOWZmMi1hNmI1NjRhYzZhM2IiLCJuaWQiOiJjbXd0OHh4d3hrNzZ1MDduM2kyNGg2ZDBuIiwiZXQiOiJjb250ZW50X2VnX3VwZGF0ZSIsInBhIjoidHJ1ZSIsImVhIjoidHJ1ZSIsImNjYSI6InRydWUifQ.vyET-4ptdK3To16xl1cfszE4dNP-Z8zTtgI3cYQsd3U" target="_blank" class="footer-links" style="
+                          font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                          font-size: 9px;
+                          color: #161c2c;
+                          font-weight: 400;
+                          text-decoration: underline;
+                        ">PDF</a>
+                    </td>
+                    <td style="
+                        font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                        font-size: 9px;
+                        color: #161c2c;
+                        padding: 0 16px;
+                      ">
+                      |
+                    </td>
+                    <td style="
+                        font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                        font-size: 9px;
+                        color: #161c2c;
+                      ">
+                      <a href="https://app.eurasiagroup.net/opt-out/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0ZGY3M2IxZi03OWFjLTRhMzEtOTdkNS03MDg4OTk4YTdkOWYiLCJwdXJwb3NlIjoib3B0X291dCIsImlhdCI6MTc5NTQzNzg2MCwiZXhwIjoxNzk2MDQyNjYwfQ.NEbY9e2N4lljjbL03ARGA0rvXGHSOF2Nh5F_TtcRojo" class="footer-links" style="
+                          font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                          font-size: 9px;
+                          color: #161c2c;
+                          font-weight: 400;
+                          text-decoration: underline;
+                        ">Opt Out</a>
+                    </td>
+                    <td style="
+                        font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                        font-size: 9px;
+                        color: #161c2c;
+                        padding: 0 16px;
+                      ">
+                      |
+                    </td>
+                    <td style="
+                        font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                        font-size: 9px;
+                        color: #161c2c;
+                      ">
+                      <a href="https://app.eurasiagroup.net/account/email?contactId=4df73b1f-79ac-4a31-97d5-7088998a7d9f" class="footer-links" style="
+                          font-family: 'Libre Franklin', Arial, Helvetica, sans-serif;
+                          font-size: 9px;
+                          color: #161c2c;
+                          font-weight: 400;
+                          text-decoration: underline;
+                        ">Customize Email Preferences</a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  <img src="https://u55806042.ct.sendgrid.net/wf/open?upn=u001.DfYNoVqfi7ptKKOm-2FNJHj7DgveNU4nttmjAkezMP3MBYiQhyHb2bjzjEruopvEoRpEzo-2FyIFfmwa-2BF7TommRfafVOJXWJWfu4h0CujrWPZ-2FiArDP4MIwNpn1B2iUf7h6uqYuMWQWciKo9NdvNkliZoemhxaIF1v2bs3dce9Fh0QytoLZTdintGs0hD20-2FvMAutdV9L-2FwblTp-2B1VHdy26ZUf9fnH3lDRi5LAbijpguq3ipKC5riKuJvKKfXv7DIE0d-2BQaYFDK3RTv1k-2BcGrOKbMwEpth20H56YJIq06HEwg4xtg4uc4Rj7BDghnNtWhLRY2ygbpSVxFyhwTPUlU8BSZJGFUxXbPIYuSRMqSo-2FuIwMWxgC0EqGuUg2qkXzK0x54QjAd-2Br1WqklP704S2Dgh-2BZfKyucL366jiGBXr67HMLTk8LMjLpUtBbE-2BheB0c2TMiko5HIBiDxJ5aFtT0F8qeAbhahyZfGjJSt-2F7vgKzsoA9uOr3MxCGOxT0EO-2BiIbhBfx4gooQlQmJ8-2B8QKaCZROLcl7CjfVxQrXkew8Dq57sXPQMtgRYKZx-2Fhb9VFaTW9MvLAE3QELKfumZvEA7ctaRLBf0gMIzFQUnk-2FUoSYcC8MrqD8EK5ZCK0gu4gPYVgFk4l0FIw2942mR-2BLkJqizIPggy8o-2B9zHkqjMXJU7sz-2FY8AmzAGtbYvonKgVo9wBXDOh3AeR4MbRSEatFPwxue5ISZ-2BvOFMnGYvpubpoWz4GDniz2E8nVDCkNR4812fABbII3hCyhKgijd13LFn2x-2Bk8rypC3HsQP3xE2Belalhd89ITROqLW8uy1DK4QKO-2FQYuuuzQXdXXFMcKsZuhko67391LT97NYdCmFjgQ6JSlXKEgmBgHzelEpBPHvAlVmrXUjFJnkyYVkDgGNihMiFkN3sFxCQYi4ZOsiQktMGZ2Zo-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body>
+</html>
