@@ -1,75 +1,184 @@
 {
-  "generated_at": "2026-11-23 17:00 JST",
-  "sender_count": 2,
-  "total_mails": 6,
+  "generated_at": "2026-11-24 10:45 JST",
+  "sender_count": 5,
+  "total_mails": 16,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 2,
+      "count": 7,
       "bullets": [
-        "中国の政治経済情勢に関する実地調査と分析をテーマにしたカンファレンスコール開催",
-        "米議会の資金調達をめぐる攻防により政府機関閉鎖のリスク顕在化とIT障害による業界信頼低下",
-        "インフレと財政赤字による米国債利回りの上昇圧力継続",
-        "中国政府がトランプ米大統領との関係維持にトップ外交重視、ただし貿易休戦延長の決定はなし",
-        "米国の新規制強化による東南アジアのデータセンターと建設事業への悪影響懸念"
+        "米国の先端半導体への遠隔アクセス制限ルールが中国のAI開発に構造的な悪影響を与える見通し",
+        "APEC首脳会議後も米中関係の安定が基本シナリオだが、輸出規制法案の進展により不安定化リスクが上昇",
+        "スペインの11月29日総選挙で中道左派陣営の躍進が見られるものの、右派による多数派形成の可能性が依然高い状況",
+        "中東での流動性低下に伴う供給懸念があるものの、ブレント原油価格は当面バレル80～100ドルの下限での推移予想",
+        "ユーラシア・グループの中国チームが現地訪問に基づいた最新の政治・経済分析を提供予定"
       ],
       "subjects": [
         [
           "2026-11-23",
-          "On the Ground in China: Political and Economic Outlook - EG",
-          "data/pdfs/20261123_1102_On_the_Ground_in_China__Political_and_Economic_Out.pdf"
+          "US remote-access rules pose structural threat to China’s AI",
+          "data/pdfs/20261123_2220_US_remote-access_rules_pose_structural_threat_to_C.pdf"
         ],
         [
-          "2026-11-23",
-          "Daily Research Summary (in Japanese): 2026年11月23日",
-          "data/pdfs/20261123_1634_Daily_Research_Summary_(in_Japanese)__2026年11月23日.pdf"
+          "2026-11-24",
+          "Spain's Election: Can Sánchez Pull Off Another Surprise Comeback?",
+          "data/pdfs/20261124_0003_Spain's_Election__Can_Sánchez_Pull_Off_Another_Sur.pdf"
+        ],
+        [
+          "2026-11-24",
+          "Spain: Right-wing majority still likely",
+          "data/pdfs/20261124_0153_Spain__Right-wing_majority_still_likely.pdf"
+        ],
+        [
+          "2026-11-24",
+          "Prices subdued despite weaker Hormuz flows",
+          "data/pdfs/20261124_0300_Prices_subdued_despite_weaker_Hormuz_flows.pdf"
+        ],
+        [
+          "2026-11-24",
+          "APAC & Japan Conference Call: On the Ground in China: Political",
+          "data/pdfs/20261124_0701_APAC_&_Japan_Conference_Call__On_the_Ground_in_Chi.pdf"
+        ],
+        [
+          "2026-11-24",
+          "On the Ground in China: Political and Economic Outlook - EG",
+          "data/pdfs/20261124_0802_On_the_Ground_in_China__Political_and_Economic_Out.pdf"
+        ],
+        [
+          "2026-11-24",
+          "APAC& Japan Conference Call: 「半導体規制の新局面、リモートアク",
+          "data/pdfs/20261124_1002_APAC&_Japan_Conference_Call__「半導体規制の新局面、リモートアクセス規則.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261123_1102_On_the_Ground_in_China__Political_and_Economic_Out.pdf",
-        "data/pdfs/20261123_1634_Daily_Research_Summary_(in_Japanese)__2026年11月23日.pdf"
+        "data/pdfs/20261123_2220_US_remote-access_rules_pose_structural_threat_to_C.pdf",
+        "data/pdfs/20261124_0003_Spain's_Election__Can_Sánchez_Pull_Off_Another_Sur.pdf",
+        "data/pdfs/20261124_0153_Spain__Right-wing_majority_still_likely.pdf",
+        "data/pdfs/20261124_0300_Prices_subdued_despite_weaker_Hormuz_flows.pdf",
+        "data/pdfs/20261124_0701_APAC_&_Japan_Conference_Call__On_the_Ground_in_Chi.pdf",
+        "data/pdfs/20261124_0802_On_the_Ground_in_China__Political_and_Economic_Out.pdf",
+        "data/pdfs/20261124_1002_APAC&_Japan_Conference_Call__「半導体規制の新局面、リモートアクセス規則.pdf"
+      ]
+    },
+    {
+      "sender": "Eurasia",
+      "short": "EURAS",
+      "color": "YEL",
+      "count": 1,
+      "bullets": [
+        "中東地域での流動性低下にもかかわらず、市場の十分な供給により石油価格の上昇は限定的との見通し",
+        "イラン攻撃の継続に伴い中東からの流れが2週間で減少",
+        "リモートアクセス規則とNvidia問題がアジア地域の半導体・計算領域に及ぼす影響について専門家による会議開催予定"
+      ],
+      "subjects": [
+        [
+          "2026-11-24",
+          "Daily Research Summary - Nov 23rd, 2026",
+          "data/pdfs/20261124_0835_Daily_Research_Summary_-_Nov_23rd,_2026.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261124_0835_Daily_Research_Summary_-_Nov_23rd,_2026.pdf"
+      ]
+    },
+    {
+      "sender": "Ian",
+      "short": "IAN",
+      "color": "RED",
+      "count": 1,
+      "bullets": [
+        "APEC首脳会談におけるXi-Trump-Putin三国会談について分析",
+        "米国・中国・ロシア間の政治的な動向と立場の相違",
+        "ロシア・ウクライナ情勢とベルリンでの「有志連合」について言及",
+        "米国・インド関係の最新情報について言及"
+      ],
+      "subjects": [
+        [
+          "2026-11-23",
+          "eg update",
+          "data/pdfs/20261123_2151_eg_update.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261123_2151_eg_update.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "YEL",
-      "count": 4,
+      "color": "ORG",
+      "count": 6,
       "bullets": [
-        "英国教育相がリスクを承知で中国での英国教育推進を表明。政府と中国の相互作用の強化方針を反映した動き",
-        "海運からの温室効果ガス排出削減をめぐる国際海事機関（IMO）での交渉が開始。米国が計画を拒否し、主要支持国の欧州も姿勢を軟化させるなど、合意見通しは不透明",
-        "フランスがEU予算で成果を獲得。さらなる要求を視野に動き",
-        "海運業界の主要国が排出削減目標での妥協案に未達。今週のロンドンでの交渉で合意見込みは低い状況"
+        "欧州委員会が樹脂とガラス繊維の輸入制限につながる可能性のある調査を開始し、中国からの輸入拡大に対する新たな通商防衛アプローチを強化",
+        "アイルランド議長国が自動車メーカーに排出権の繰り越しを認める新たな柔軟性を提案し、2035年までの排出削減目標90%達成に向けた譲歩案を提示",
+        "ウクライナがロシアの遠隔地への投射能力を損なうため北アフリカを含む戦域外での攻撃を実施し、技術的進展を示す一方で外交上のリスク懸念も浮上",
+        "バスク州の左派分離主義勢力EH Bilduの台頭がマドリードの右派政権との対立局面を招く可能性",
+        "コンゴがEU諸国のルワンダへの強制送還合意が武装勢力への資金流入につながる可能性を警告"
       ],
       "subjects": [
         [
           "2026-11-23",
-          "Lucy Powell promotes UK education in China despite risks",
-          "data/pdfs/20261123_0946_Lucy_Powell_promotes_UK_education_in_China_despite.pdf"
+          "EU launches probe that could curb resin and glass fiber imports",
+          "data/pdfs/20261123_2006_EU_launches_probe_that_could_curb_resin_and_glass_.pdf"
         ],
         [
           "2026-11-23",
-          "Shipping powers head into talks divided over emissions plan",
-          "data/pdfs/20261123_1400_Shipping_powers_head_into_talks_divided_over_emiss.pdf"
+          "Surging left-wing Basque separatists brace for showdown with",
+          "data/pdfs/20261123_2006_Surging_left-wing_Basque_separatists_brace_for_sho.pdf"
         ],
         [
           "2026-11-23",
-          "France gets an EU budget win — and wants more",
-          "data/pdfs/20261123_1445_France_gets_an_EU_budget_win_—_and_wants_more.pdf"
+          "Congo warns that EU countries’ Rwanda deportation deal could",
+          "data/pdfs/20261123_2206_Congo_warns_that_EU_countries’_Rwanda_deportation_.pdf"
         ],
         [
           "2026-11-23",
-          "IMO talks restart, but a deal looks distant",
-          "data/pdfs/20261123_1503_IMO_talks_restart,_but_a_deal_looks_distant.pdf"
+          "Document: Irish presidency proposes emissions credits banking for",
+          "data/pdfs/20261123_2223_Document__Irish_presidency_proposes_emissions_cred.pdf"
+        ],
+        [
+          "2026-11-24",
+          "Ukraine takes the war against Russia far from its borders",
+          "data/pdfs/20261124_0108_Ukraine_takes_the_war_against_Russia_far_from_its_.pdf"
+        ],
+        [
+          "2026-11-24",
+          "Pro Daily Headlines",
+          "data/pdfs/20261124_0131_Pro_Daily_Headlines.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261123_0946_Lucy_Powell_promotes_UK_education_in_China_despite.pdf",
-        "data/pdfs/20261123_1400_Shipping_powers_head_into_talks_divided_over_emiss.pdf",
-        "data/pdfs/20261123_1445_France_gets_an_EU_budget_win_—_and_wants_more.pdf",
-        "data/pdfs/20261123_1503_IMO_talks_restart,_but_a_deal_looks_distant.pdf"
+        "data/pdfs/20261123_2006_EU_launches_probe_that_could_curb_resin_and_glass_.pdf",
+        "data/pdfs/20261123_2006_Surging_left-wing_Basque_separatists_brace_for_sho.pdf",
+        "data/pdfs/20261123_2206_Congo_warns_that_EU_countries’_Rwanda_deportation_.pdf",
+        "data/pdfs/20261123_2223_Document__Irish_presidency_proposes_emissions_cred.pdf",
+        "data/pdfs/20261124_0108_Ukraine_takes_the_war_against_Russia_far_from_its_.pdf",
+        "data/pdfs/20261124_0131_Pro_Daily_Headlines.pdf"
+      ]
+    },
+    {
+      "sender": "ビジネス短信",
+      "short": "ビジネス短",
+      "color": "GRN",
+      "count": 1,
+      "bullets": [
+        "ジェトロが上海で日本調味料を活用した中華料理メニューの提案・商談会を開催し、日本食材の中国市場での活用促進",
+        "日米など10カ国がサンフランシスコ宣言を発表し、AI時代における供給網連携の具体化に向けて協力",
+        "スペースXが米テキサス州とアリゾナ州で740億ドル超のAIコンピューティング投資を発表し、米国のAI産業強化",
+        "EUのCBAMが2027年1月からノルウェーとアイスランドに拡大され、カーボンニュートラル政策の強化",
+        "英国が人権デューディリジェンスの義務化と強制労働産品の市場排除制度を導入し、サプライチェーンの人権・労働問題対応を厳格化"
+      ],
+      "subjects": [
+        [
+          "2026-11-24",
+          "「ジェトロ・ビジネス短信」2026/11/20付",
+          "data/pdfs/20261124_1009_「ジェトロ・ビジネス短信」2026_11_20付.pdf"
+        ]
+      ],
+      "pdf_files": [
+        "data/pdfs/20261124_1009_「ジェトロ・ビジネス短信」2026_11_20付.pdf"
       ]
     }
   ]
