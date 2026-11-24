@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24 00:46:06",
+  "generated_at": "2026-11-25 00:37:38",
   "themes": [
     {
       "id": "iaa",
@@ -8,8 +8,58 @@
       "description": "欧州委員会・欧州議会の審議動向、EU要人発言、欧州メディア論調を追跡",
       "color": "#003F8A",
       "icon": "🇪🇺",
-      "last_checked": "2026-11-24 00:45:24",
+      "last_checked": "2026-11-25 00:36:36",
       "items": [
+        {
+          "uid": "a6d237796642",
+          "date": "2026-11-24",
+          "title": "EU Act Shuts Japan-Made Cars Out of 27 Countries - shattered.io",
+          "summary": "EUの産業加速法案により、日本製自動車がEU27カ国市場からの実質的な排除に直面する可能性があり、これはEUの産業保護主義的政策が日本の自動車産業に与える深刻な影響を示している。",
+          "source": "Google News",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU2VmVy1DMTlNY2dFSXExWEVGc3puWkxXRzVOZzdMeUdLWkZsUzVmX0k1dDFEVVZLS0stUHExUldMcFJraUFaZjVwVlZ5YzBfV2xmZG1DLUk0bVExVFJmOTl5ZC1JMWI5Vlp2QlV4VklZemJDaXdtcWZTZnJXNGtkemJYTmh5Y2pwNnZXM2xMWQ?oc=5",
+          "added_at": "2026-11-25 00:36:28"
+        },
+        {
+          "uid": "0c6510a6c64d",
+          "date": "2026-11-24",
+          "title": "EU's EV incentives to exclude Japan-made cars even in amended proposal - Nikkei Asia",
+          "summary": "EU の電動車インセンティブは修正案においても日本製車を除外する方針が維持されており、これは欧州産業加速法案（IAA）の下で欧州産業保護を強化する意図を反映している。日本の自動車メーカーは、このような現地化要件を通じた差別的措置により、EU 市場でのインセンティブ対象から除外される見通しである。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUmFPLUstQ2JTVGt1Y1E1R1RtZXo2d1daQmZnck9YVTNKTEU2STVuREIyenNFSVNQM3FYYXJjSXpURlFsWDhzRWI4WjBpVEZqYmkzNWhYSm9tTGl5UFhUcUtKTS1weWFTZFo1d0EzTjBlV2NWWnlTSVJ0NWplcjlJSmVrMzRyUjN1dWs4cG9xc1NDZTZRY2xSWXFubTJOQlp0YTRhbUZUU3RFcUxESW5qd2dNNFlBMEdPbW5JYTVnVUpPQm9Cc212bGdrMzR2UQ?oc=5",
+          "added_at": "2026-11-25 00:36:28"
+        },
+        {
+          "uid": "af4ad6819a84",
+          "date": "2026-11-19",
+          "title": "EU Remains Divided Over Proposed Industrial Accelerator Act - HKTDC Research",
+          "summary": "欧州産業加速法案（IAA）をめぐり、EU加盟国間で規制緩和と競争力強化のバランス、ならびに国家補助金と市場統一性の維持に関する見解が対立しており、法案の最終的な形成にはさらなる調整が必要とされています。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16eVU3YXVoeE1GU3FOcnFMSnFFY1BBR0xCS2Jua2tHME9aVlRzOWZNY0lldXcwNEpxdUJMMGFfMUpIUHg3RzZvaGNtS2I1TFpwUzVKT0tJZ0w4TlFOWC1UTjN3?oc=5",
+          "added_at": "2026-11-25 00:36:28"
+        },
+        {
+          "uid": "f89d044ae490",
+          "date": "2026-11-11",
+          "title": "EU Industrial Accelerator Act still dividing lawmakers ahead of December vote - MLex",
+          "summary": "EU産業加速法案（IAA）は12月の投票を控えて欧州議員の意見が分かれており、規制緩和と環境基準のバランスをめぐって議論が続いている。特に迅速な許認可手続きと持続可能性要件の両立について、異なる立場の議員間で合意形成が難航している。",
+          "source": "欧州公式機関",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFZsS2dzX0Z5UzRVRm5UU2ZpNzlpUEFzZll1ZGF0WnR4YXhxYktzWEhxNkdKcklyTmg2RjA3Q3gzMld0S1pnaXBUT28tcTJuQWpHaVV6WWRHVmZtTzZWQUVEUXc5djJubFFJQlA0b0UtaE9iWGZ5Q0UwcDlrX2dSYmdoTFIydmhkRG5oMU5CM2RCOVYyT1BoTjFjbXJVR3RCMWJpM0JjZXN0RkFFZjdJaWFhdjlPTy1MTEU3cdIBWkFVX3lxTE5LRmdFcnUtTmlFRmxXTXRZMC02YnF3Mmw2VVRkTkV6eGEwRHhlQnluTnFoZzZLOHBpNVBSbXlHaGlscmZVZktUMUtVcHNPcE12c19YTXlEd1dvQQ?oc=5",
+          "added_at": "2026-11-25 00:36:28"
+        },
+        {
+          "uid": "d6df80830e8a",
+          "date": "2026-11-19",
+          "title": "European film industry cheers as MEPs propose funding increase for ringfenced Media programme - Screen Daily",
+          "summary": "欧州議会議員（MEPs）が、欧州産業加速法案（IAA）の枠組みの中で、メディアプログラムへの資金増加を提案したことに対し、欧州映画業界が歓迎の意を示している。この提案は、欧州の映画・メディア産業の競争力強化と投資拡大を目的としている。",
+          "source": "欧州議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQWNVaHJMZ09MTUFFTGdqZjJWemNQcVJ4VlRab2xkbnZJUjlwRzAwSmFaaXl4d3RsWndLeG41R2I5M3NPaWw3dWFvUENUZklmSVhCb3RFWHdIWWU1clNiTFlPbEQ0Mmd4TTl3ZV9IX0JLVFhiOXZpOGhkVndiNGVRODN2TzlwZTVrM29KWDZKZXhYRC1VZWxDQnN3RXlQUjk2bXZuMVFYLWVQOWFSLWF1X1h5U2ZiMDRCTlJOQ1h3YmNnRzVkcG1UaTdmQjFQMTBvcmhORS1aeDgxZw?oc=5",
+          "added_at": "2026-11-25 00:36:28"
+        },
         {
           "uid": "60d123259413",
           "date": "2026-11-23",
@@ -1959,56 +2009,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObW1IWjhVODBnLWVSTUdKZkZYb2tGOUVlOFRtVXJWMjA2Rld4ZUoxN0M5NGdMbHFLS1RzRXI1OU5NNmtlU1NMVHE4SVNfeHgxMVJ6SWljS1hUcnBweVkySkh3UmZ6bXROcVVob1hlWl9UNWdTUnBVZVJsM2lWM1JIZURqaFBldVlZZzFpU093QTNSb0k?oc=5",
           "added_at": "2026-09-30 13:19:20"
-        },
-        {
-          "uid": "5c6bd40c66c1",
-          "date": "2026-09-29",
-          "title": "EU Zone: VDMA Comments on Industrial Accelerator Act - - Insurance Edge",
-          "summary": "ドイツ機械工業連盟（VDMA）は、EUの産業加速法案に対して、規制緩和と投資促進を求める見解を表明しており、欧州の産業競争力強化のための提言を行っている。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnp1Rm83T1ZBOGxZMGlWLXVRM0k0YmdoQWJ4QXV3SXVzVXVKNEJ0ZGh5MEZudDFXY0l2Ujl3SjRScnZSMDNZOElnRURGSFhWQ3F5OGVPeEstdW5tdnhFeUozZVdVa3lwc2RDamtEalc3REJZQ19zU2wxLWd6R0RvYXpMSm5KVlRPSXkxNjM3aV8xU0hu?oc=5",
-          "added_at": "2026-09-30 13:19:20"
-        },
-        {
-          "uid": "d711da697fed",
-          "date": "2026-09-28",
-          "title": "Industrial Accelerator Act: 300+ EU Industry Heads Push for Made in Europe Rules - News and Statistics - IndexBox",
-          "summary": "欧州産業加速法案（IAA）に関する記事の要約：\n\n300以上のEU産業界指導者が、欧州産の製品・サービスを優遇する「メイド・イン・ヨーロッパ」規則の導入を求めて産業加速法案を推進している。この動きは、欧州産業の競争力強化と経済主権確保を目指すものである。",
-          "source": "Google News",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjVOS0VwUjNXamtDNnFmTnYyOWJMSGlzcE50T01QQ2RCMlFuMlZKbXgyVG1BSkVKcG9lMTRkMGRDTlIwMURQU0ExYjZVVXZ1eVVPUHA3NW9wWUxaMkJyUGhiRHRiMzljWWhyeVlRVjk0MVR5MEVXTHdnTzVHbmJDWjhON3FiUzYzb3IxdkxYRkcyeWtWbzVoN3NyMVB1Qk1uM01fQm5mWHZ3d1hLNVlKQXRDaDM?oc=5",
-          "added_at": "2026-09-30 13:19:20"
-        },
-        {
-          "uid": "1410c11e97d6",
-          "date": "2026-09-28",
-          "title": "IAA: Which ‘Made in Europe’ proposals are on the table? - Table.Briefings",
-          "summary": "欧州産業加速法案（IAA）は、欧州の産業競争力強化とグリーン移行を加速させるため、規制緩和、投資支援、サプライチェーン確保などの「欧州製造」推進施策をまとめた政策パッケージである。本案は米国やアジアに対抗して欧州の産業自律性を高め、クリーンテク産業での雇用創出を目指している。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZlk4VXVuQ19iay1yWkhENElPSmZWU21BSXJDTnl6Nk1UT0RYelg3UjJ4Ym95R1RzdnpQZUFwRmpVbjNlSHlSQlV3TDN5TkRoaTdrdjJBQlJfZWJHVVJtTGpiS2wtemVfYzV3MnMyYklYMDd1ejdxWDNRTjFPcm91MjlEOVVyd19Md3FtX1E0eFpyU2pMR3RJRzRsbzg5MTU1?oc=5",
-          "added_at": "2026-09-30 13:19:20"
-        },
-        {
-          "uid": "740101017a51",
-          "date": "2026-09-28",
-          "title": "‘Made in everywhere’: MEPs clash over reach of EU industrial law - EUobserver",
-          "summary": "欧州議会議員（MEPs）は産業加速法案の適用範囲をめぐって対立しており、EU域内での製造要件の厳密さと国際競争力のバランスをめぐる議論が生じています。EU産業法の「世界中で製造」という原則をどこまで適用するかが、規則の実効性と経済的影響の観点から争点となっています。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNGphUjFxZjl1c2VuTzBlZUVqSDllVFh2aTZpWEd4d2t6aXl5TzM0ZkktUGNSdktpZ0hLeWoyckotN1VGZ3gteHNOQmx1ZW9yaXFrUUNEWVNHWkpSeE5Mam9CQXZyQkg3S05VekZ0aXRtNTRsajREZWw0dmZ4Q1kxQzUwVTJLRWstSThGT3VhTURFcGNfUWN3?oc=5",
-          "added_at": "2026-09-30 13:19:20"
-        },
-        {
-          "uid": "d78d4bee908c",
-          "date": "2026-09-08",
-          "title": "What the European Union's Proposed Industrial Accelerator Act Means for Foreign Investors - Jones Day",
-          "summary": "欧州産業加速法案（IAA）は、欧州の産業競争力強化を目的とし、外国投資家に対して規制緩和や許認可の迅速化などの優遇措置を提供する一方で、戦略的産業への投資審査を厳格化することで、欧州産業の自立性と安全保障を確保しようとするものである。",
-          "source": "欧州公式機関",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVFRWdlpKTmM0QmZWZHgySF9aMkVyY0RPXzVZX0l6VThvdlIxTDI1endGNnhwelJvREZxeHlpVUR4b3ZTMlhQSG1mbzI0QnFNOEYySjFnLWtkR0I5OTZxcUFXUkFVczYxLXlhc3c0ODFlNURwX19SbkI2akpLTUVucDVUVzRuVTJRSWhoNGRlQmk0em13Nk5Fd25lOXJJZ2QyYnhqUUYtZU5CWVBhTXMyRFdVUDhFVjdnLTZPb1IyWjJkaHZ0V2JXTGM4YmFTZw?oc=5",
-          "added_at": "2026-09-30 13:19:20"
         }
       ]
     },
@@ -2019,7 +2019,7 @@
       "description": "米議会審議・トランプ政権動向・業界団体意見・中国政府反応・メディア論調を追跡",
       "color": "#B22234",
       "icon": "🚗",
-      "last_checked": "2026-11-24 00:45:33",
+      "last_checked": "2026-11-25 00:36:43",
       "items": [
         {
           "uid": "c1e1d5266972",
@@ -4030,8 +4030,138 @@
       "description": "中国商務省・輸出規制動向、欧米政府・業界の対応、代替調達・備蓄政策を追跡",
       "color": "#1a6b3a",
       "icon": "⛏️",
-      "last_checked": "2026-11-24 00:45:50",
+      "last_checked": "2026-11-25 00:37:13",
       "items": [
+        {
+          "uid": "3eb2be6b0814",
+          "date": "2026-11-24",
+          "title": "China Halts Critical Minerals Ban to Maintain Truce With US - Bloomberg",
+          "summary": "中国は米国との貿易戦争の一時的休戦を維持するため、レアアースを含む重要鉱物の輸出禁止措置を見送った。この決定は、両国間の緊張緩和と交渉継続を優先させたものと考えられる。",
+          "source": "中国輸出規制",
+          "source_type": "china",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVl4NjNqN2gwZ0daMjNHNG1lRHU3bmVyQUszYk1BN0U1OXgyYkxJdjcwVjZZSHNQZUZ2VWZYM2g1UjRXTjBPSnpuUlZESWNuMkZHd0tpQnZuT2ZTVDNRR3RuYjlpbWsxWFYzQmxWa2ZMWnU5WUkyNnA4LWk0dHExVWdHRWhhd3J5MnIzNTJYT2pSZmZkaF9CVUVlQjd2OEhQeDZvX1VEb1Q2UzRhZ2I4?oc=5",
+          "added_at": "2026-11-25 00:36:55"
+        },
+        {
+          "uid": "92fc74139c27",
+          "date": "2026-11-24",
+          "title": "China to Suspend Some Critical-Material Export Curbs to U.S. Until January - WSJ",
+          "summary": "中国は米国へのレアアースを含む重要鉱物の輸出規制を1月まで一時停止すると発表した。これは米中間の貿易交渉における譲歩措置と考えられている。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR0tiam0waURNVF9vU2VYTmx6eGVqWk9NRm9GT2Q2blhiTm1OMTBQQzIxVmJ5WHlEMzNDQzUwSDJnNDBjX1FPQUZBSlVGcGFIeUU3TUZ4c1NhSFE3WnNXYjhBSnVJM2QwUGFuY1NKUzlYOF9BbU1aYlJZWDdrUmR2aWlxaDlFM0JieFFkTEJGQ1NpT0hHU0xOMW9lNjdNZUJCYVUyZW5HekpxYVlNekFpZTJBVElqOTg?oc=5",
+          "added_at": "2026-11-25 00:36:55"
+        },
+        {
+          "uid": "2447e07068de",
+          "date": "2026-11-21",
+          "title": "COMMENTARY: The West challenges China's critical minerals dominance with unglamorous tungsten - Reuters",
+          "summary": "中国が支配する希土類・レアメタル市場に対抗するため、西側諸国がタングステン（ラント）を含む重要鉱物の採掘・精錬能力を強化し、中国への依存度低減を進めている取り組みを報じている。この戦略は、中国による輸出管理や供給制限に対する防衛手段として機能している。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMlRQcTdOLUU4SUtDTFBsaC1ncUJyTUNoRFRkNFNiWng5UFotbmFwTmxONjktMF9uT2RqM1JTZUswWXA0Q0pBZ29PcGVIMnFyckZkaGpGUUdQaHdjc0Etb2NoUUh3dXRtMlhMcG1WbXVwcXA4NkpTQmI2Wnc0emdXaXNXdTBrU3BVSDJGZ1FWRWpObmhFalpQcFlLMC1nLXE4SHd5T3RkU3FLc3dEX1BReVc1N0cxaHJCMHF5a3c5NEhuSWg2WHFYbGNsZ3VVSU52NkktaHZqanZRenJfUEE?oc=5",
+          "added_at": "2026-11-25 00:36:55"
+        },
+        {
+          "uid": "9473d00c0227",
+          "date": "2026-11-24",
+          "title": "China extends pause in controls on critical mineral exports to US - Financial Times",
+          "summary": "# 中国がレアアース輸出管理の一時停止を延長\n\n中国は米国へのレアアースを含む重要鉱物輸出に対する管理措置の一時停止を延長した。これは米中関係の緊張緩和と両国間の経済的な歩み寄りを示す動きである。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXh2WUNSYmVSZkJLcmJoenphclhBTmJiMGZfOHBXQmhkRXE4UklsLXNoS254QU96QWdDTHFBSkZCQUc2M1JRWF96N3p3a29ka2E5SzlpcDFEb0lLM3ZwVF9PTzJLcm9SOXRaQUhFTzZCR2xNQU9pNDNKSjBVVHoySHoxOG0?oc=5",
+          "added_at": "2026-11-25 00:36:55"
+        },
+        {
+          "uid": "492d12036bf8",
+          "date": "2026-11-22",
+          "title": "Rare Earths: As Policy Accelerates Supply Diversification, A Decade Of Growth Could Follow - Seeking Alpha",
+          "summary": "中国による稀土類(レアアース)輸出管理の強化に対応する形で、政策が供給源の多様化を加速させており、今後10年間の需要増加が見込まれている。これにより、中国以外の稀土類採掘・加工企業の成長機会が拡大する可能性がある。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTUtVWJsTU5PWW52aHZtcW82OWpjNHVkUzZ3dXc0U2VVc0I5dmtycmVTaXd2a0VfMlB6Z2tFM1ozQ0JsTkJka0hLaHR5RkdUU3U1OGxMRkdYRXhqRzV4czdVN1owSVhTdTJGY3RqRkF6bVUxODZGWmdxblY4S3FNZTRPUHdOVjh5ekgyOXhMMVptSWh5ZWpnYm5qRFBKOWpLSmkwel9VWUFkLVdDZ21HMUZ1Y3hhMkhHWFJaZjBwSXhjNFpvM2YwbQ?oc=5",
+          "added_at": "2026-11-25 00:36:55"
+        },
+        {
+          "uid": "175e9052174b",
+          "date": "2026-11-24",
+          "title": "China approves 2-month suspension extension for select US export restrictions - South China Morning Post",
+          "summary": "中国が米国に対する一部輸出制限の停止を2カ月間延長することを承認した。この措置は米中間の貿易緊張緩和に向けた動きと考えられるが、レアアースなど戦略的に重要な材料の輸出管理については継続的な制限が維持される見通し。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGJjU0RFbHBrM1lxR0JTVFdxR3Yza3RwUkZFdmp1c1JBc3NpTlFRdUFYTzJ3RXJKMVo1N040VE9FZTNPLXNHVU9uVW9ndnpWOGlUQ2FYOTQzOXpJMy05Z1cxRS1qVmZKcWtxRU9RY05lS3l1R2N4WmY0YlRzWnRRVW9MdlNZaDJKTHBnbzJnU2F0Y3lkTkdadVZxOFU4Wlg5ZC16MEV2aHZFN1hDaDZqRjczeUlYakMwWTlqOGtPMNIBvwFBVV95cUxNZlJJWkx3Qm55NVVONEpMTkEzWE1iLTNaZmR2LUZEdXNSbG1KRDhJZy1jaDJERjlVTXZfNXVaTUZwYVM1MHdpZktSa0J6UE40ZnVualM0VjdHVE03YnhTZmFEeTY0UDUzcmp1cTNqcXlaSnRsX3dxd1JaZFJwbGdhLUxwOG9CVnVFSmVQSzJLWkJVVjVObTBabkF1Ry1DXy1LdGpsbm9jU2pwdFhPZGoybVlsS05xNXczdzBQVDV0SQ?oc=5",
+          "added_at": "2026-11-25 00:36:55"
+        },
+        {
+          "uid": "e76a195e7b20",
+          "date": "2026-11-24",
+          "title": "China Extends Suspension of Critical Mineral Export Curbs On US by 2 Months As Trump-Xi Trade Truce Holds - Benzinga",
+          "summary": "中国は米国とのトランプ・習近平による貿易休戦が継続する中、米国向けのレアアース等の重要鉱物輸出規制の停止措置をさらに2ヶ月延長した。",
+          "source": "米国政府",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVXVWbUlENnlQRWZ4Y1RWUmFkdzUxaWNJcm1ydWZLVkZGbXpOX2REMGVHcXl3aVdPYW0wYjAxU1EyXzk3RFJyeERsRFZEeENlTmN5bmVZNFQ2YlFrampYa3g1T0haY1JDTmVvdkltUUhXX0RYNGVDTm04Vk8tUlFxM3ZCNVM4NzFDZVAyT2tUTEw4M2J3RXBnSmhRTll0NmhBMnN3UDNtd0lkT0lyZW84dmFkWUxqLVI1c3o2RHpGMzV0VWZGVFdWYXB5VFFwMzBlcjdmaWhOeFVYTUlUQjA0Q1R4NHVrRGRWelMwV3U2UVQ?oc=5",
+          "added_at": "2026-11-25 00:36:55"
+        },
+        {
+          "uid": "415e594e7ca3",
+          "date": "2026-11-16",
+          "title": "Saudi Arabia’s Nuclear Energy Program and Proposed U.S.-Saudi Nuclear Cooperation - Every CRS Report",
+          "summary": "サウジアラビアの原子力エネルギープログラムと米国との核協力提案に関する報告書であり、中国レアアース輸出管理との直接的な関連性は明確ではないが、エネルギー政策における戦略的資源確保の観点から、中国が原子力産業に必要なレアアースの供給を管理することで地政学的影響力を行使する可能性が示唆される。",
+          "source": "米議会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DUm1yaGlNQ0wzVFZLZEJHVTZXWWRpVWswem9PTFcxX1lkaGtWME8yQ2Z5ZWdER1J1T3Q3WjBXT080R19lXzRsZVg1TVRyeFlKNkRERXlLRVdNczlBeG40?oc=5",
+          "added_at": "2026-11-25 00:36:55"
+        },
+        {
+          "uid": "368466d511b2",
+          "date": "2026-11-17",
+          "title": "Yttrium Supply Chain China Risk for US Manufacturers - Rare Earth Exchanges",
+          "summary": "中国はイットリウムを含むレアアース元素の主要供給国であり、米国製造業者のサプライチェーンが中国の輸出管理政策に依存・脆弱化するリスクが存在する。中国がレアアース輸出を制限・管理することで、米国を含む各国の製造業が深刻な供給不安に直面する可能性がある。",
+          "source": "欧米レアアース企業",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LSlltZDMyU0NwWUV3c2RCYnNOUl9PeUZKSjk5M0NGNVlyQ3p0bWhpTjZJaGtZT2l4QUk4LVlsMUxjOURhamg0Mi1ScDZlX1cwTzRPMm9zRE93cTlHaFVwdmNfQUl5V3h4VkRsZU90ZG5aZ0dpdFg0?oc=5",
+          "added_at": "2026-11-25 00:36:55"
+        },
+        {
+          "uid": "b2ef7ac7ac50",
+          "date": "2026-11-23",
+          "title": "Can Tungsten Help the West Break China’s Grip on Critical Minerals? - Modern Diplomacy",
+          "summary": "中国がレアアース等の希少鉱物供給で圧倒的優位性を持つ中、タングステンが西側諸国の対抗戦略となり得る可能性が検討されているが、中国はタングステン供給でも世界の約80%を占める支配的地位にあり、西側がこの鉱物依存から脱却することは容易ではない。",
+          "source": "欧米メディア",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnV6YUZtblZrRVZhNGhOM3BtYS1mWk5aWTZoV29oc2FyRGczdXZ0QlNKQ3NUMk14MWJrZ2M4NFBhYjR6MTVyQkx0cnpOZ0dYZ3VGQ3FhbFVuZzJ2NnVZWTJscEZPQndYbmlnU1RyRkljOFR4TVJnQUJBRWNWM1VHYWpaaDlXVVBIdHNkNFZsLVBhOXlna0dOLV8zV2l6MjI0NXMzXzZJdw?oc=5",
+          "added_at": "2026-11-25 00:36:55"
+        },
+        {
+          "uid": "fc80ba6d4664",
+          "date": "2026-11-24",
+          "title": "Cotton: ‘Congress has much to investigate’ after Trump push to reinstate Huang",
+          "summary": "この記事は「中国レアアース輸出管理」との直接的な関連性が薄いため、適切な要約ができません。記事の主題は米国トランプ大統領によるNvidia CEOの再任命推し で、中国レアアースの輸出管理に関する具体的な内容が示されていないからです。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/senate/6239366-tom-cotton-donald-trump-jensen-huang-nvidia/",
+          "added_at": "2026-11-25 00:36:55"
+        },
+        {
+          "uid": "678e0d55dbe6",
+          "date": "2026-11-24",
+          "title": "‘Something profoundly wrong’ about Huang’s return to Nvidia: Gingrich",
+          "summary": "申し訳ありませんが、提供いただいた記事はNvidia CEOのジェンセン・ファンの復帰に関する政治的批判であり、「中国レアアース輸出管理」に関する内容を含んでいないため、適切な要約ができません。別の記事をご提供ください。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6239266-newt-gingrich-criticizes-jensen-huang-return-nvidia/",
+          "added_at": "2026-11-25 00:36:55"
+        },
+        {
+          "uid": "cedf87dd5e17",
+          "date": "2026-11-23",
+          "title": "Commerce Department adds Megaspeed to trade blacklist amid Nvidia scandal",
+          "summary": "米国商務省は、エヌビディアのセキュリティスキャンダルの中心企業であるメガスピードを貿易ブラックリストに追加し、チップ輸出管理の強化が進められている。この措置は、先端半導体に関連した国家安全保障上の懸念に対応するための規制強化の一環である。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6238594-commerce-blacklists-megaspeed-nvidia/",
+          "added_at": "2026-11-25 00:36:55"
+        },
         {
           "uid": "ff35d5b304a4",
           "date": "2026-11-09",
@@ -5901,136 +6031,6 @@
           "source_type": "politician",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRnNiZmJjQWkxYTlUMEV4NmxGcjV6WEhrS24yeWRCSVVsV044cUhNUDN6dEtuVjgxalJkMUJ3RkI0ZlFhVWhYdXpNbmc4MUhEaGttUGEwWnktZ1BnQzJRX2h3ZnljZUpkN21IYWpQS3UtT2UtR3NWYjAxb0VfSFVQSnRJTWtwX2lBbFp3OGx1X2NxUFVKYXFJUllRbEcxOGF1RURKU1pycUpwV0FKNDU1c3ZSY2x5akVyMWNn?oc=5",
           "added_at": "2026-10-23 09:05:41"
-        },
-        {
-          "uid": "a0743847803b",
-          "date": "2026-08-18",
-          "title": "DOE awards $162 million to nine critical mineral extraction projects - Washington Examiner",
-          "summary": "米国エネルギー省が重要鉱物採取プロジェクト9件に1億6200万ドルの助成金を交付し、中国が支配するレアアースなどの重要鉱物の国内調達を強化する取り組みを進めている。これは中国のレアアース輸出管理に対抗し、米国のサプライチェーン自立を目指した政策である。",
-          "source": "米閣僚発言",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnVXQlphckFYLWtsU096UjlUOXdjMDUyLWw0aDBqNGFLT18yX1hmaF9VX0xTRjVldkZyZzk2SVpWdjFOVU5GV2Q3X3Z1UWRTVldzdWhJc3dJZmptbGZNUUI0Qm8xRzNKWTJGRnBpRGpMUzJTeVZPYnN3RHBDa0xVX3p2cHRxcU9uNGRMMjdoQVBjU1hOY2VuOFFWZk9od1BUaFFJeXByZDRsMG9haERfbENrRzVoWC1DMVp1NWdzWQ?oc=5",
-          "added_at": "2026-10-23 09:05:41"
-        },
-        {
-          "uid": "9cd22a2b3be3",
-          "date": "2026-09-04",
-          "title": "China Rare Earth Price Index Hits 262.8-Heavy Rare-Earth Scarcity Fractures Global Pricing - Rare Earth Exchanges",
-          "summary": "中国のレアアース価格指数が262.8に達し、重希土類の供給不足がグローバルな価格形成を破壊している。中国の輸出管理により重希土類の供給が逼迫し、国際市場の価格メカニズムに大きな影響を与えている。",
-          "source": "業界団体",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdVdweVZVcU91Vnc4ZWI0enFOR19yYzJlY0tZMzlzbmw0YjlZdENqcGc3MjRSWEhsb3I4NE5hOWNIb0paNDZBbDRSMTk2UVJVRnlremxJb2FpUllLUHZsN09kc24yTENPMWhKdU8wWUlzSUJDY0lIWEIxaVB0QXhxZ0VNQUU?oc=5",
-          "added_at": "2026-10-23 09:05:41"
-        },
-        {
-          "uid": "5557fe103665",
-          "date": "2026-09-24",
-          "title": "China's rare earths dominance to overshadow Trump's talks with Xi - Reuters",
-          "summary": "中国はレアアースの世界生産の約60～70%を占める支配的地位にあり、トランプ前大統領と習近平国家主席との交渉においてこの優位性が重要な交渉材料となる可能性が指摘されている。米国はレアアース供給の中国への依存を減らすため、採掘・精製産業の国内開発を加速させる必要に迫られている。",
-          "source": "欧米レアアース企業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlBNcDhQbjZ1eUhlS1FRS0poeU53T0ZfZWN3c1d4Z1NFa0ItMm84bUZvQlp2ODc1ZGQ4S0hGbG85cUNmam5vUGctS29hOWE4SWVDUlh0NHIxbDJVVkhFU0xILUhEb256TG9VaFZwWkN0TEVQU0dHQzlteVkyT2VTcExNRlNYVFNFVl9QeDdBRGdRUzdDbm93V1lxSW5wT1lRazJyYlZER3l4dDBn?oc=5",
-          "added_at": "2026-10-23 09:05:41"
-        },
-        {
-          "uid": "cbe204b6f2e0",
-          "date": "2026-10-18",
-          "title": "DFARS 2027 Rare Earth Magnet Compliance Defense Contractors - Rare Earth Exchanges",
-          "summary": "米国防調達規則（DFARS）の2027年規制により、防衛産業請負業者がレアアース磁石の調達に関する厳格なコンプライアンス要件を満たす必要があり、中国への依存を削減する意図が反映されている。これは、中国のレアアース輸出管理に対抗するための米国の防衛産業強化戦略の一環である。",
-          "source": "防衛産業",
-          "source_type": "industry",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMVpJRVF5ZmI4Q25xT2R0ZEpRcEdDbjVmclpnNUNZMXBMd3RwbkJRT2htSk9vMHZLOXVnVEdhNDBsZ0NMVXRReWdMeWlQV2dTTnZEOG11eHNYakRfUW9lZUl0TEt4SVNYSzBreWhvRnZOeUtOTmdPS3NDQ0RyUzdzZHVYMnQ0eUllVjhMVWR3?oc=5",
-          "added_at": "2026-10-23 09:05:41"
-        },
-        {
-          "uid": "6b06cc9caec4",
-          "date": "2026-10-21",
-          "title": "Rare-earth export controls on Japan aim to prevent 'remilitarization' nuclear ambitions: FM - Global Times",
-          "summary": "中国外交部は、日本へのレアアース輸出規制は日本の「再軍事化」と核野心を阻止することが目的であると述べた。中国は戦略的資源であるレアアースの輸出管理を通じて、日本の軍事的脅威に対抗する意向を示している。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XdUNTRW9mb3hwWlJrVWxtRnlDNWU5UUp4aGxKY2ZpZm9fTXdUVWdJNFdMWnZuVVEtTkZENnZSS0pUYzd6UnNsTGF3aTQ0ZHlVVWRQU0RJSzN1UEtVVGtyYjdR?oc=5",
-          "added_at": "2026-10-22 03:29:45"
-        },
-        {
-          "uid": "43a530e8ed1d",
-          "date": "2026-10-19",
-          "title": "America Needs 48,000 Tons of Rare Earth Magnets. It Only Makes 300 - Yahoo Finance",
-          "summary": "米国はレアアース磁石の年間需要量が48,000トンであるのに対し、国内生産は300トンに過ぎず、中国への依存度が極めて高い現状を示している。この供給不足は、米国がレアアース輸出管理を厳格化する中国に対抗するため、国内産業の急速な拡大が急務となっていることを示唆している。",
-          "source": "米国防・エネルギー省",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR0tUdGRHbXpSakFOdVp6N3EyREhqY0NyTkVIRENrVjAyTW9BVXdsMmVuckN6b3ZTeXFXX1BpWHFmNHN1ZUlrYUwtN1dSWVdDci1rYW9TdUpndExBa3VNRVExclNYWl9TWUItTzIzOXhWZnZCTVNmbGRmalBOQVRURXFuZl9sQkJnRlE?oc=5",
-          "added_at": "2026-10-22 03:29:45"
-        },
-        {
-          "uid": "85f2691f5ab4",
-          "date": "2026-10-21",
-          "title": "Critical raw materials, EU steps up: Strategic storage in Veneto and an end to China’s monopoly - Decode39",
-          "summary": "EU（欧州連合）はヴェネト州における戦略的備蓄施設の構築と中国への依存脱却を進めることで、レアアースを含む重要鉱物資源の供給チェーン多様化と戦略的自立を目指している。これはEUが中国による重要資源の輸出管理に対抗するための重要な施策である。",
-          "source": "EU戦略的原材料法",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcC04Vk5ZcjZna21SR3g0NkQtVkpPWjl1bjlTSTFlRHNsX0xzS2F3bnpkUDJZN29VbXhkZklkSldGNlVoSGdYTlJLQ0JHWVcxYnhmUWxRNTJWbEo3M3Y4NENmSUFaamRFZG5jczBWZUVKUThoSl9NWWJlcTl0akpodUZUTUdtdFpVamhNd3M1ZXJ4c09hOXRaZ0swZFRxd3lyRjVRZk9Bb2pzR3VLWGp0RnZhcFQ5dy1DMXdSQw?oc=5",
-          "added_at": "2026-10-22 03:29:45"
-        },
-        {
-          "uid": "b96c9198b501",
-          "date": "2026-07-23",
-          "title": "Mining for Europe's future: Critical raw materials, public attitudes and risks in enlargement partners - European Union Institute for Security Studies |",
-          "summary": "欧州連合の安全保障機関が、拡大予定国におけるレアアース等の重要鉱物採掘とそれに対する公衆の態度およびリスクを分析した報告書である。中国のレアアース輸出管理に対抗する欧州の供給源確保戦略が重要になっている。",
-          "source": "EU戦略的原材料法",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTHhjM28xRWEwTzZZZXdud1RWc0pfZWZnMFVERzFydXJJcWl4Zm1CaXNfZk9vWC1JaWFXUzhXeWFQc3NjR3NRSXI5OWJLLWtMVGl1ZWNHcFk0c2h5WEJSTEFWdjREdlhkRS1YME1yU2Q4SFZlajNBV3N2WWdReF9jdkYxOUh6QXRpYmI4SW5SMl8xelR0ZVFuZVUzRURJMUp6aExIMVA3TXBCTklkMHhYSlZlbldmeEc4?oc=5",
-          "added_at": "2026-10-22 03:29:45"
-        },
-        {
-          "uid": "eabaf2411596",
-          "date": "2026-10-21",
-          "title": "China expresses ‘firm opposition’ to Trump administration sanctions tied to former Google engineer",
-          "summary": "この記事はレアアース輸出管理とは直接関連がなく、むしろ米国による中国企業への知的財産盗用に関連する制裁措置と、それに対する中国の反発を扱っています。レアアース輸出管理に関する内容は含まれていません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/policy/technology/6162781-china-slams-us-ai-sanctions/",
-          "added_at": "2026-10-22 03:29:45"
-        },
-        {
-          "uid": "f3e97dd0d69d",
-          "date": "2026-10-19",
-          "title": "China’s Rare-Earth Export Pause: What Ends on 10 November - Technology Org",
-          "summary": "中国が11月10日に終了するレアアース輸出の一時停止措置により、グローバルサプライチェーンが混乱し、特に電子機器や再生可能エネルギー産業における材料確保が困難になる見通しである。この措置は中国の地政学的影響力を強化する戦略的な動きとして機能している。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ29RZHNpaEdnMHZ2NHhuYmRub1lnLVRPM3BVS0RNUHJEV3ZaUUY0MWppSEQxTlB3T2ZwOUZKVjVwT0h0eGhQS2V6M2Rsek1nZ3B5cjExOTZzTHhwZ0c0YmpMN1RETkN5c25vTldCT2NpNjVNY1M3V3k3UUtkZjNKV1ZlMTlyVzg?oc=5",
-          "added_at": "2026-10-21 18:53:47"
-        },
-        {
-          "uid": "3f4497379f0e",
-          "date": "2026-10-20",
-          "title": "China's rare earth truce runs out on November 10 with no renewal in sight - Startup Fortune",
-          "summary": "中国のレアアース輸出管理に関する一時的な措置が11月10日に失効し、更新の見通しがない状況にある。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbDMtTFBOQVRCTHQ0VktCM1J6bWdESDVlUjJtckFZMGNYOExqQVo4WHpJaUNaemdKWVJXZk9Od3FqMTdRVXB1WG1zVVdmczYtcW9UajRFYVJZQm93eWhrRTYzT1d6cVQ5ODRxUnltT3hnVVRyeWkwanl5RTh1clA2WWpaRjRqeEJMX00tWWN5ZnN3ZHNQanBKMzU5ZlpCNzVyVnc?oc=5",
-          "added_at": "2026-10-21 18:53:47"
-        },
-        {
-          "uid": "cdfbf5045ffe",
-          "date": "2026-09-04",
-          "title": "China rare earth firms halt some US shipments over geopolitical worries, sources say - Reuters",
-          "summary": "中国のレアアース企業が地政学的緊張を理由に米国向けの一部出荷を停止しており、これは中国がレアアース輸出を政治的圧力の手段として活用していることを示唆している。この動きは米国とその同盟国に対する中国の経済的影響力の行使であり、レアアース供給チェーンの地政学化が進んでいることを反映している。",
-          "source": "中国商務省",
-          "source_type": "china",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWDN1dWNKT01aNWd3OWc5WGpVc2FRYk5TTEpfUXdHRkFxeEwyYmxlRGxtQUtXRlVkbHZzbkFOd1VndGxSMWh4anJ3RDc0eFRVNjlEM3ZJZGRKUEsxQ1V5bWtPNUdjNG9ocGhmRXVMcnhNZ1pkSnBmbDRBcjlfdXJGWGJ3ZngzaTVzNFIwem1FQ0tPUUdkc3F6WEdNS3dGSDkxOVFHRVAtR2wzajR5bndEbjNWRlhTU2JhcDAwUzFBbjBVdTZNQmZyZHQ4c3hnWEhpV3hpTm1lNnVWdw?oc=5",
-          "added_at": "2026-10-21 18:53:47"
-        },
-        {
-          "uid": "fad2af7ffe63",
-          "date": "2026-09-08",
-          "title": "Opinion | China Overplayed Its Hand on Critical Minerals - WSJ",
-          "summary": "中国がレアアースなどの重要鉱物の輸出規制を強化したことで、西側諸国はサプライチェーンの多角化やリサイクル技術の開発を加速させており、長期的には中国の優位性が低下する可能性がある。中国の過度な輸出管理戦略は、かえって自らの市場支配力を弱める逆効果をもたらしている。",
-          "source": "米国政府",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOHpKQlJqM0ZWOWdfWGZ6NG1EaDM0LWtyTUk2SzlOVmozeXV4dVE4dENCelNNdFNjZHJyYThWaElVTmF6WVNZWTRYQ0MzTURYV0JlT2Vzd3JNNXRsWlJXYTh1NHNZODZDXzBiSURsVXcxb3lHZ3BQVXF1WXlNUk1LSlpYdFN2M2ZtbVpz?oc=5",
-          "added_at": "2026-10-21 18:53:47"
         }
       ]
     },
@@ -6041,8 +6041,148 @@
       "description": "下院中国特別委員会・運輸長官等の政権高官・議会が、自動車メーカー個社の中国企業との提携・技術供与を名指しで批判する動きを追跡（2026年9月フォード事案を契機に新設）",
       "color": "#8e2de2",
       "icon": "🚨",
-      "last_checked": "2026-11-24 00:46:06",
+      "last_checked": "2026-11-25 00:37:38",
       "items": [
+        {
+          "uid": "436cc983af49",
+          "date": "2026-11-17",
+          "title": "US lawmakers want Mercedes-Benz to disclose details of Chinese ties - Yahoo Finance",
+          "summary": "米国の議員がメルセデス・ベンツに対し、中国との関係について詳細な情報開示を要求しており、自動車メーカーの対中提携に対する米国の政治的懸念が高まっていることを示している。",
+          "source": "下院中国特別委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVTBzQjc2ZXZIaUhsajFnblpleXg0N3J1Y3dPTExldlpIbnBFY3NPSW5fY1ZYYW1IMFdmbWh5TWVRZk9OY3F2RDhjNjJ4dDdyTDM4TlZLeEllVzRDUHIwU1RldHhhTkFvamJZc1k2WmdTUVM0aVNJSHJNMmlwQUctZkRRdlJJWi1vMGppcVd5Rzdoa1pNOVFLV0lZVmw?oc=5",
+          "added_at": "2026-11-25 00:37:18"
+        },
+        {
+          "uid": "2730cd504446",
+          "date": "2026-11-18",
+          "title": "Mercedes-Benz pressed on China ties by U.S. lawmakers - CBT News",
+          "summary": "メルセデス・ベンツが中国との事業提携について米国の議員から批判を受けており、自動車メーカーの対中関係が米国の政治的スクルティニーの対象となっていることを示している。",
+          "source": "下院中国特別委員会",
+          "source_type": "official",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1Yl85VHF4UGtjYkVVaFJSVENNOGFBcTBlV0E0Y3dJcWRoTnIyZ1E5SXV2a1ZoaWlmV296clZZQmVjbG1iZEV0djBJZFJMMnBQamJDcFp4SU01cnJCTlBXcnBOaVpST2VfRFY0cA?oc=5",
+          "added_at": "2026-11-25 00:37:18"
+        },
+        {
+          "uid": "b9c22b18e16c",
+          "date": "2026-11-23",
+          "title": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair - The New York Times",
+          "summary": "米国がNvidia幹部アリス・ファンと中国諜報機関との接触を監視していたという記事であり、これは技術企業と中国との関係に対する米国の警戒姿勢を示すものである。自動車メーカーが中国との提携を進める際にも、同様の政治的スクラッチニーを受ける可能性があることを示唆している。",
+          "source": "トランプ政権高官",
+          "source_type": "politician",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVzVyaXo0aXJLT2VuWXdDRlJIWEw1RDBlTWtxcG9RN2ZydEN0T2U5dnlCRnJXWFVKeVZ2X2JXUmpHUTQ5d0tCNHFGc0VKZHE4TFdVQXFId1k5YkRGU29pdF9VM3FES1ZDbEItTW9rQWRYQTVTakxtMG1uVnZwV1ZTRmc4XzV0MmtVX2NWYUhvWHM?oc=5",
+          "added_at": "2026-11-25 00:37:18"
+        },
+        {
+          "uid": "6be696b50426",
+          "date": "2026-09-09",
+          "title": "Ford caught in escalating Washington clash over China deals - WTVB",
+          "summary": "フォード・モーターが米国の対中事業に関わる自動車メーカーへの政治的批判の矢面に立たされており、ワシントンにおける企業と政府間の対立が激化している状況を報じている。",
+          "source": "フォード",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRE93T2RvRl9MSllqcThZVk9vVkU0aUVxMmppR291SzhmWjB0dGl2cTRITTNyT1lFYmgydG0wVFUxUXhjZTBZSVJSb1dXSUpHMkxsdGZaOGpaNVIzc2VJaXlBcDR6cTgtNDB3azg4R0U5Uk9BcUJIMi1uLUNMZWpXMDdjaEJFLW5aWUQxZmtPNFhiMktN?oc=5",
+          "added_at": "2026-11-25 00:37:18"
+        },
+        {
+          "uid": "5b7584006e44",
+          "date": "2026-09-09",
+          "title": "Trump administration blasts Ford’s business deals with Chinese firms - The Sun Malaysia",
+          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判しており、自動車メーカーの対中ビジネスが米国の政治的に敏感なテーマとなっていることが示されている。",
+          "source": "フォード",
+          "source_type": "industry",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFBJNXFXWTRTUkJzbDJiZ2YwSjdWWjRfUVI0SzRkendSWkxyclBabG5sTEhNZWNHWUVkRDRmaVZqaWlxOWVSQm50RW1DaVJBd3Y1UnNjUE54WnhPWkpVelJyRXlLS29yMHNMN2VTNDZXbDBreEZTZkpmVnB2TnhLVkV2aXM4ejlPWmVscDFJUXpYaGRORzhUZUx5QQ?oc=5",
+          "added_at": "2026-11-25 00:37:18"
+        },
+        {
+          "uid": "549f82fd9fdb",
+          "date": "2026-11-17",
+          "title": "Taiwan, Japan flag incursions by Russian aircraft ahead of Putin's arrival in China - Reuters",
+          "summary": "ロシア軍機が日本と台湾の領空侵犯を繰り返している状況は、プーチン大統領の訪中を控えた露中関係の強化を示しており、地政学的緊張の高まりが自動車メーカーの中国での事業継続や提携判断に対する政治的批判の背景となっている。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGFJMTUwWmFyejl3MmtfWlhQM2Fud3FVQWFpYXFuU1lLUC0zREVYZDZ0SHgtU3drVzhYdkRXdGtKU0dQUFBCa3A4RWpIVjl5bnVDd0tRY2sxUHRZZlVvQzZtTDBtaHdUa3ZYSVREOE1wZEZUNVAtWWFKcVQyTjdvbnRreGpsbjZtQ2JMc25ZcUNTVkZVMTVjb21XbmZySkhIczRzRU8xRDRGMFpTbDVTQ1QzeWtRYlo4UkNoVHZQMHhiWlVCOERxU0t2cXI?oc=5",
+          "added_at": "2026-11-25 00:37:18"
+        },
+        {
+          "uid": "9f39d0c09c87",
+          "date": "2026-09-29",
+          "title": "China automaker FAW to explore broader cooperation with GAC after JV stake deal - Reuters",
+          "summary": "中国自動車メーカーのFAWがGACとの合弁会社の株式取引後、より広範な協力を探索することが報じられており、中国企業間の提携強化が進む一方で、欧米企業との競争激化に伴う政治的懸念が高まる可能性がある。",
+          "source": "Reuters",
+          "source_type": "media",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVFdERHRMNHkxX3N6M1d4VXA0aXlHOW96MXlKUXRtQmgzSmZhRmxLVWUwM25xRHVic0FpTV8xNlBpZG41QkxfRmFUQjZ2SVJYdHc2Y2JDZThrMV9uazlNMjN4eU5rX1h2bV9oSjJFMEZmdzQtT2dHek5WaU92dU40QW0zTmpiMWdua1U1TE5ETEVleHFtUFNfQk90UnZxTzV4TGZaY3pBZks0Zi1oRnNFWlFjdng4MUZBQy1JN3Y5Qm5uT0l3ak5NX2hyOA?oc=5",
+          "added_at": "2026-11-25 00:37:18"
+        },
+        {
+          "uid": "afb800433406",
+          "date": "2026-11-24",
+          "title": "Top Republicans: Huang reinstatement doesn’t ‘erase’ national security threats, questions",
+          "summary": "この記事は、Nvidiaのジェンセン・ファン会長兼CEOが中国スパイ疑惑後に復職したことについて、共和党下院委員長らが国家安全保障上の懸念は解決されていないと指摘している。自動車メーカーを含む米企業の対中提携に対する政治的監視と警戒が継続する必要があることを示唆している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6239420-nvidia-ceos-reinstatement-security-concerns/",
+          "added_at": "2026-11-25 00:37:18"
+        },
+        {
+          "uid": "5284499de08a",
+          "date": "2026-11-24",
+          "title": "Loomer: Reinstating Huang ‘going to blow back on our national security’",
+          "summary": "保守活動家のローマーが、中国との関係が指摘されるエヌビディアのフアンCEOの復帰は国家安全保障上の脅威になると批判している。この発言は、対中技術規制の観点から企業幹部の適性を問う政治的議論を反映している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6239272-laura-loomer-jensen-huang-nvidia-return-national-security-issues/",
+          "added_at": "2026-11-25 00:37:18"
+        },
+        {
+          "uid": "fc80ba6d4664",
+          "date": "2026-11-24",
+          "title": "Cotton: ‘Congress has much to investigate’ after Trump push to reinstate Huang",
+          "summary": "トランプ大統領がエヌビディアのジェンセン・フアンCEO復帰を推し進めたことについて、上院情報委員会委員長のコットン議員は、中国が米国の最先端技術を入手することへの懸念からこの措置を調査する必要があると述べた。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/homenews/senate/6239366-tom-cotton-donald-trump-jensen-huang-nvidia/",
+          "added_at": "2026-11-25 00:37:18"
+        },
+        {
+          "uid": "678e0d55dbe6",
+          "date": "2026-11-24",
+          "title": "‘Something profoundly wrong’ about Huang’s return to Nvidia: Gingrich",
+          "summary": "I appreciate your request, but I notice there's a mismatch between your instructions and the article provided. The article discusses Nvidia CEO Jensen Huang and national security concerns, while you've asked me to summarize it in the context of \"automobile manufacturers' political criticism regarding partnerships with China.\"\n\nThe article content doesn't relate to auto manufacturers' China partnerships. Could you please clarify:\n1. Whether you meant to provide a different article about auto manufacturers?\n2. Or whether you'd like me to summarize this Nvidia article as-is?\n\nIf you'd like me to proceed with summarizing the Nvidia article as provided, I can do so, but it won't address automotive industry partnerships.",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6239266-newt-gingrich-criticizes-jensen-huang-return-nvidia/",
+          "added_at": "2026-11-25 00:37:18"
+        },
+        {
+          "uid": "3e88f694671b",
+          "date": "2026-11-24",
+          "title": "Trump, incoming Iowa governor, punt Army lead detonation back and forth",
+          "summary": "この記事は自動車メーカーの対中提携に関する内容ではなく、アイオワ州での爆発性鉛材料の爆破処理計画についての記事であるため、要約できません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/newsletters/defense-national-security/6238857-trump-sand-iowa-lead-detonation/",
+          "added_at": "2026-11-25 00:37:18"
+        },
+        {
+          "uid": "cedf87dd5e17",
+          "date": "2026-11-23",
+          "title": "Commerce Department adds Megaspeed to trade blacklist amid Nvidia scandal",
+          "summary": "米商務省がNvidia関連の安保スキャンダルの中心企業であるMegaspeedを貿易ブラックリストに追加したもので、半導体輸出規制の強化圧力が高まっていることを示している。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/technology/6238594-commerce-blacklists-megaspeed-nvidia/",
+          "added_at": "2026-11-25 00:37:18"
+        },
+        {
+          "uid": "8c5fc1e35c0c",
+          "date": "2026-11-23",
+          "title": "Key House Democrat will oppose permitting reform bill",
+          "summary": "この記事は自動車メーカーの対中提携とは無関係な内容（エネルギー・インフラ法案に関する下院議員の反対表明）であるため、要求された文脈での要約はできません。",
+          "source": "The Hill",
+          "source_type": "media",
+          "url": "https://thehill.com/policy/energy-environment/6238574-mike-levin-opposes-baaja/",
+          "added_at": "2026-11-25 00:37:18"
+        },
         {
           "uid": "c65cb8647ae8",
           "date": "2026-09-30",
@@ -7902,146 +8042,6 @@
           "source_type": "media",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeE53aWNvTnlrV1BRTXFPTE9DOGdoR3ZtRHNOdUhDcmw1OGpfV281UzRwd21xdVZOT0pNVnU3ajBRc3VIYS1KMWZNbFlHU1MxVy1hcUZPSVUyY2tjdnU5eWFSdGc0VlJfSk4yNVFQSGlLTjJlZHR3amJTSUVyRHREanFsclZIRllmamFEZXB2ZmRaZV9KOTlwUl94Rm5IZFlWNDJ6MmRMbkxKSlJxWmRLRU95WFk4RWZpSVpLbGVNVlAxLWxyd1ZXdw?oc=5",
           "added_at": "2026-11-03 16:05:28"
-        },
-        {
-          "uid": "ec7edd6db633",
-          "date": "2026-10-29",
-          "title": "Blue Owl third-quarter profit beats estimates, AUM hits record $330 billion - Reuters",
-          "summary": "この記事は投資運用会社Blue Owlの財務報告に関するもので、「自動車メーカーの対中提携への政治的批判」という文脈には直接関連していません。\n\n申し訳ありませんが、提供いただいた記事内容は要求された文脈と無関係であるため、要約することができません。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV0xxMWFHQnhvM0RrRGVjMjI1OHl2ZkRDdDlMckh0WG5aWjRJa3ZhWHJfOVdaRTQxNndvU2VyNTBlanNyZGtYY29hUUZib1M3Zk8zeENxZzBqRHlEQUVGa2VJVW9yLTllTDVXNm1CUDc1UnhlWFJiVUJQdTdIc0tDcHRrWnl6X08yVUdsRUY1MlRnLU9xdW13TGFhQmhDTTlaYTB0ZURGeFBWOGg2cUNWWEdn?oc=5",
-          "added_at": "2026-11-03 16:05:28"
-        },
-        {
-          "uid": "ab3ffa7c8e6e",
-          "date": "2026-10-29",
-          "title": "Judge skeptical of Justice Dept lawsuit over alleged noncitizens on voting rolls - Reuters",
-          "summary": "この記事は自動車メーカーの対中提携に関する内容ではなく、米司法省が投票者名簿の不正市民登録について起こした訴訟に対する判事の懐疑的な見方について報じているため、要求された文脈での要約はできません。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXE1Y3lpa2g5MTJjOG81SW14THVFR1REYVdCcFVvTU5razhsTkpnVE84d2F4eTBxYlZ1enBTdzhGMjhocEV2ejRhcWFuZFVvTFhoQUEtOVM3bzd6aHZ5MEwweTBva3NUS083cGJOUnBxNE5NOWthVF93TXBUZEFsZnV4OUt6RUI3MXlzNlpnX2tpV0dUSzM4dVJ5UnZNdmloVmx2eWNvdElqNExkSmNvZzIxYm1fMDYybEdydEctdlFXNXNYU1MwWDNURUxJdw?oc=5",
-          "added_at": "2026-11-03 16:05:28"
-        },
-        {
-          "uid": "667d197cd980",
-          "date": "2026-10-27",
-          "title": "Swatch to NBA: Brands that have faced backlash in China - Reuters",
-          "summary": "チベットやウイグル人権問題に対する声明や台湾への支援を表明したスウォッチやNBAなどのブランドが、中国市場での売上低迷や消費者からの反発に直面した事例である。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0VZakFCR2VmLVR5MDRleHVsY1hwY25iZXRIclpEbTN3WE5JbHBKamJtVFhPbnlYV3dhQVRUMm4yTktKT004cU9kREVRek1WdFNXMGoyMmVCMF9ySm9jaUp4OHAzd2VEOHVtUUJncUpWbDFicktLTmFRVzQ1REJ3cTBCdDQwU21SbldtaExfc2xCUUJuNkV1cFlqZWRYR2FuZGI2S1pkZWEybVNkcjJmZ3hfZkw?oc=5",
-          "added_at": "2026-11-03 16:05:28"
-        },
-        {
-          "uid": "5b599b7b8673",
-          "date": "2026-11-02",
-          "title": "Duckworth condemns Trump’s low Halloween flyover, demands answers",
-          "summary": "この記事は自動車メーカーの対中提携に関する内容ではなく、トランプ大統領のハロウィーン時の低空飛行についての政治的批判に関するものであるため、要約対象外です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/senate/6190569-duckworth-condemns-trump-flyover/",
-          "added_at": "2026-11-03 16:05:28"
-        },
-        {
-          "uid": "30390def5227",
-          "date": "2026-11-02",
-          "title": "‘Maxxing’ is the 2026 word of the year",
-          "summary": "2026年の年間単語は「マクシング」に決定されたが、この記事は自動車メーカーの対中提携に関する政治的批判とは無関係の内容です。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/blogs/in-the-know/6187952-maxxing-2026-word-of-the-year/",
-          "added_at": "2026-11-03 16:05:28"
-        },
-        {
-          "uid": "83df8ffa7d33",
-          "date": "2026-09-29",
-          "title": "Ford's CEO urges caution on Chinese automakers, says Europe is 'too late' - Reuters",
-          "summary": "フォードのCEOは、欧州の自動車メーカーが中国企業との提携に遅れをとったと指摘しつつ、中国自動車メーカーとの提携には慎重になるよう促している。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc3F0eTJVWkdkRGxQRFIyRkMzeFFfZEN6cFZrbVFNcHhTSkxIdVc4VjVGdi1KLTlmMWpNeDNTZTBuQVQwZkRuY2dRSDNFOEx1LUxBRHlVZE9NNXVMbWU0Y3hBX3huXzJoQkJJbHlOVy1IQ1VYd08tdEZMMFJQRlk1VmgyVjRXSmgwS0l4dUpnQk1QT1FUaGRBdEtuSS1EazlwUFVESGo0d1JWald0V3Rhb211RGhSQ3JJNEM4Ty1DNHloT2tZaG42N2VRdHc?oc=5",
-          "added_at": "2026-11-02 13:13:52"
-        },
-        {
-          "uid": "93b30fbcfa7d",
-          "date": "2026-11-01",
-          "title": "Ford tries to improve China ties - Reuters",
-          "summary": "フォード・モーターが中国との関係改善を試みているが、米国の対中政策の厳格化により、自動車メーカーの中国提携が政治的スクルティニーの対象となっている状況を示唆している。",
-          "source": "Reuters",
-          "source_type": "media",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42Q19hR19zQXFvSVdmLTNLMkFhMm1maHNlbUNUMjMtU0poSmkweDRZY0xGU2xPWHo3WGRFbnY0SUx1LXJUWWlKOGlaYVJ3Y1l5eUpBdUV0TTJZQXBR?oc=5",
-          "added_at": "2026-11-02 13:13:52"
-        },
-        {
-          "uid": "7a68a799b9ac",
-          "date": "2026-09-22",
-          "title": "Understanding Trump's Deal With Denmark—and What It Means for Greenland's Sovereignty - Time Magazine",
-          "summary": "この記事はトランプ前大統領のグリーンランド買収提案に関するもので、自動車メーカーの対中提携への政治的批判という文脈には該当しません。申し訳ございませんが、提供された記事内容がご指定の文脈と無関係なため、要約を作成できません。",
-          "source": "トランプ政権高官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdkt0MndlRXFyUGFIdWFnY2plVWtLZmZZWGE3cFZ5aFJDdzNNU3VJT2hpWUJBeE5XOXRDNXBENWg0MEFMMnBoSy02WjlNVVVfakNfV2VFZDIwczJHNmxJSVJpcmNkUmpvVzQtWEtxVG5Vb2Z6UVdtMG1HckNuaF8tTlhQdDNycGRMZU1MLXRHSk5Yb1QzQmJZNEw0NmhhQWw1UXNhUl9oOFhxZkY3UGY0eU1YSVJtbnVB?oc=5",
-          "added_at": "2026-11-02 03:47:55"
-        },
-        {
-          "uid": "68dcf51ef8eb",
-          "date": "2026-11-01",
-          "title": "Vance road tests 2028 campaign as Trump’s midterm sideshow",
-          "summary": "この記事は自動車メーカーの対中提携について言及していないため、要求された文脈での要約はできません。記事の内容はVP Vanceの2028年大統領選に向けたキャンペーン活動に関するものです。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/homenews/administration/6185794-vance-hones-2028-campaign-message-midterms/",
-          "added_at": "2026-11-02 03:47:55"
-        },
-        {
-          "uid": "5eb27564ccc8",
-          "date": "2026-09-08",
-          "title": "Ford Motor Company Reportedly Faces Trump Administration Criticism Over China Ties - Yahoo Finance",
-          "summary": "フォード・モーター・カンパニーがトランプ政権から中国との関係を巡る批判に直面しており、自動車メーカーの対中提携が政治的な懸念事項となっている。",
-          "source": "トランプ政権高官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOempOandWUlBXbnVfZ3l4Z3lUVE9zbHNfX0ZqSDlFSmlIcmw5dW5pS1JyWFBiTUo1cHpRV2dkd3pJZW01clFjWlVOMkZDV05MWXNQcHQyNXBMM0E5cHd4eG5RS29WWHpmS2F6WUZKQmxVeUlRazN4UnBkeE1iTEdPUFNIMFI1c3p4eU43Y2hLX19xNEZMNkprMWUwMjhrRkQ2aXc?oc=5",
-          "added_at": "2026-11-01 03:20:37"
-        },
-        {
-          "uid": "ed575b8eed63",
-          "date": "2026-09-08",
-          "title": "Trump administration blasts Ford’s business deals with Chinese firms - WTAQ",
-          "summary": "トランプ政権がフォード・モーターの中国企業との事業提携を批判した。",
-          "source": "下院中国特別委員会",
-          "source_type": "official",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFVmWkl1VnZHVGluc2JXU3RyMUJoQVNmTURBY19ydEljQVJrVU9XUmkxY2tuWEYtaDRkSEpjb1J5RmZZVWE4SW5mZ2UtUWdXLTVFVU5saDNpZHR4Vk5ZQWN0RGl2R3FYN3RFYTM2Rkl3WkRrRU5Qd0VOb2xXcG9vSkVIQmJMdU5TUlRtYm9qdjR6UXFCY0NfQTd5UQ?oc=5",
-          "added_at": "2026-10-31 14:38:37"
-        },
-        {
-          "uid": "78ddb8b6368b",
-          "date": "2026-09-17",
-          "title": "Detroit auto leaders push back on Chinese carmakers as Trump signals openness to U.S. production - Car Dealership Guy News",
-          "summary": "デトロイトの自動車大手経営者らは、トランプ前大統領が中国自動車メーカーの米国生産への対応を示唆する中、中国勢に対抗する姿勢を強めており、米国内生産の維持・拡大を政治的に推し進めている。",
-          "source": "トランプ政権高官",
-          "source_type": "politician",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZHRhTVQxZ0E5Mmxfc2JuU2hyRHVRTzVqbGZpbkhPOHJPWDNFRF9pUTNYRkw5UXliNjc3ODItd3dyclV4cEZTTjNRMklFcmRfeUVHUW9EZVVSOEQyek1ETnlpN0J0NldvTk14OTg2aWZjdFpGNTNGREJSRVJPbUJrSm1VRVZTUk90MS0yWHZrdjZsbXFIV3E3Q1RLMHBreS1GUktyZHFqVzM0TkNsaV9MLURBTzhIaDE3SXg3T3VMeDRBeDNwRmkw?oc=5",
-          "added_at": "2026-10-31 14:38:37"
-        },
-        {
-          "uid": "3634a8e7ba6a",
-          "date": "2026-10-31",
-          "title": "Ukraine gets approval for Patriot missile sale",
-          "summary": "申し訳ございませんが、提供いただいた記事は「ウクライナへのパトリオット・ミサイル売却承認」に関する内容で、「自動車メーカーの対中提携への政治的批判」とは無関係です。要約の依頼文脈と記事内容が一致していないため、要約することができません。正しい記事をご提供ください。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/newsletters/defense-national-security/6185817-us-approves-ukraine-patriot-missiles/",
-          "added_at": "2026-10-31 14:38:37"
-        },
-        {
-          "uid": "305c077f0c87",
-          "date": "2026-10-31",
-          "title": "Trump says Iran war will end ‘soon’",
-          "summary": "申し訳ありませんが、提供いただいた記事は「イラン戦争の終結」に関する政治的声明であり、「自動車メーカーの対中提携への政治的批判」という文脈とは無関係です。そのため、要求された文脈に沿った要約はできません。",
-          "source": "The Hill",
-          "source_type": "media",
-          "url": "https://thehill.com/newsletters/defense-national-security/6185808-trump-iran-war-ending-soon/",
-          "added_at": "2026-10-31 14:38:37"
         }
       ]
     }
