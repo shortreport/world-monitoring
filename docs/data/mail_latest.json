@@ -1,65 +1,112 @@
 {
-  "generated_at": "2026-11-24 10:45 JST",
-  "sender_count": 5,
-  "total_mails": 16,
+  "generated_at": "2026-11-25 13:48 JST",
+  "sender_count": 4,
+  "total_mails": 30,
   "summaries": [
     {
       "sender": "EG",
       "short": "EG",
       "color": "CYAN",
-      "count": 7,
+      "count": 15,
       "bullets": [
-        "米国の先端半導体への遠隔アクセス制限ルールが中国のAI開発に構造的な悪影響を与える見通し",
-        "APEC首脳会議後も米中関係の安定が基本シナリオだが、輸出規制法案の進展により不安定化リスクが上昇",
-        "スペインの11月29日総選挙で中道左派陣営の躍進が見られるものの、右派による多数派形成の可能性が依然高い状況",
-        "中東での流動性低下に伴う供給懸念があるものの、ブレント原油価格は当面バレル80～100ドルの下限での推移予想",
-        "ユーラシア・グループの中国チームが現地訪問に基づいた最新の政治・経済分析を提供予定"
+        "米国のチップ輸出規制強化により、中国のAIチップアクセス制限と東南アジアのデータセンター産業への影響が生じ、アジア全域でテック業界の勝ち負けが再編成される見通し",
+        "イアン・ブレマーが北京訪問での直接対話に基づき、中国の戦略的見通しとトランプ政権終盤での中国指導部の優先事項を分析する方針",
+        "スペイン総選挙（11月29日）に向けサンチェス首相の政治的復帰の可能性について、最新世論調査と選挙見通しを検討",
+        "地政学的リスク軽減により、ブレント原油は1バレル80～100ドルの下限での推移が見込まれている状況"
       ],
       "subjects": [
         [
-          "2026-11-23",
-          "US remote-access rules pose structural threat to China’s AI",
-          "data/pdfs/20261123_2220_US_remote-access_rules_pose_structural_threat_to_C.pdf"
+          "2026-11-24",
+          "Chips, compute and crackdown: What the remote access rule and",
+          "data/pdfs/20261124_1202_Chips,_compute_and_crackdown__What_the_remote_acce.pdf"
+        ],
+        [
+          "2026-11-24",
+          "APAC & Japan Conference Call: Ian Bremmer on China: Dispatches",
+          "data/pdfs/20261124_1353_APAC_&_Japan_Conference_Call__Ian_Bremmer_on_China.pdf"
+        ],
+        [
+          "2026-11-24",
+          "Ian Bremmer on China: Dispatches from Beijing",
+          "data/pdfs/20261124_1359_Ian_Bremmer_on_China__Dispatches_from_Beijing.pdf"
         ],
         [
           "2026-11-24",
           "Spain's Election: Can Sánchez Pull Off Another Surprise Comeback?",
-          "data/pdfs/20261124_0003_Spain's_Election__Can_Sánchez_Pull_Off_Another_Sur.pdf"
+          "data/pdfs/20261124_1802_Spain's_Election__Can_Sánchez_Pull_Off_Another_Sur.pdf"
         ],
         [
           "2026-11-24",
-          "Spain: Right-wing majority still likely",
-          "data/pdfs/20261124_0153_Spain__Right-wing_majority_still_likely.pdf"
+          "Reduced escalation risks will keep oil prices subdued",
+          "data/pdfs/20261124_2214_Reduced_escalation_risks_will_keep_oil_prices_subd.pdf"
         ],
         [
           "2026-11-24",
-          "Prices subdued despite weaker Hormuz flows",
-          "data/pdfs/20261124_0300_Prices_subdued_despite_weaker_Hormuz_flows.pdf"
+          "Political Risk Monitor - November 2026",
+          "data/pdfs/20261124_2218_Political_Risk_Monitor_-_November_2026.pdf"
         ],
         [
-          "2026-11-24",
-          "APAC & Japan Conference Call: On the Ground in China: Political",
-          "data/pdfs/20261124_0701_APAC_&_Japan_Conference_Call__On_the_Ground_in_Chi.pdf"
+          "2026-11-25",
+          "On the Ground in China: Political and Economic Outlook",
+          "data/pdfs/20261125_0142_On_the_Ground_in_China__Political_and_Economic_Out.pdf"
         ],
         [
-          "2026-11-24",
-          "On the Ground in China: Political and Economic Outlook - EG",
-          "data/pdfs/20261124_0802_On_the_Ground_in_China__Political_and_Economic_Out.pdf"
+          "2026-11-25",
+          "Russia: Moscow’s threats against Estonia aim to protect Baltic",
+          "data/pdfs/20261125_0143_Russia__Moscow’s_threats_against_Estonia_aim_to_pr.pdf"
         ],
         [
-          "2026-11-24",
-          "APAC& Japan Conference Call: 「半導体規制の新局面、リモートアク",
-          "data/pdfs/20261124_1002_APAC&_Japan_Conference_Call__「半導体規制の新局面、リモートアクセス規則.pdf"
+          "2026-11-25",
+          "Iran: Standoff will define Trump’s remaining term",
+          "data/pdfs/20261125_0227_Iran__Standoff_will_define_Trump’s_remaining_term.pdf"
+        ],
+        [
+          "2026-11-25",
+          "Shanghai purge shows Xi's own appointees get no protection",
+          "data/pdfs/20261125_0233_Shanghai_purge_shows_Xi's_own_appointees_get_no_pr.pdf"
+        ],
+        [
+          "2026-11-25",
+          "Local elections likely to boost DPP's 2028 prospects",
+          "data/pdfs/20261125_0508_Local_elections_likely_to_boost_DPP's_2028_prospec.pdf"
+        ],
+        [
+          "2026-11-25",
+          "Disappointing COP31 confirms shift away from multilateral climate",
+          "data/pdfs/20261125_0610_Disappointing_COP31_confirms_shift_away_from_multi.pdf"
+        ],
+        [
+          "2026-11-25",
+          "Iraq: Militia disarmament will remain stalled",
+          "data/pdfs/20261125_0658_Iraq__Militia_disarmament_will_remain_stalled.pdf"
+        ],
+        [
+          "2026-11-25",
+          "Chips, compute and crackdown: What the remote access rule and",
+          "data/pdfs/20261125_0802_Chips,_compute_and_crackdown__What_the_remote_acce.pdf"
+        ],
+        [
+          "2026-11-25",
+          "Daily Research Summary (in Japanese): 2026年11月25日",
+          "data/pdfs/20261125_1146_Daily_Research_Summary_(in_Japanese)__2026年11月25日.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261123_2220_US_remote-access_rules_pose_structural_threat_to_C.pdf",
-        "data/pdfs/20261124_0003_Spain's_Election__Can_Sánchez_Pull_Off_Another_Sur.pdf",
-        "data/pdfs/20261124_0153_Spain__Right-wing_majority_still_likely.pdf",
-        "data/pdfs/20261124_0300_Prices_subdued_despite_weaker_Hormuz_flows.pdf",
-        "data/pdfs/20261124_0701_APAC_&_Japan_Conference_Call__On_the_Ground_in_Chi.pdf",
-        "data/pdfs/20261124_0802_On_the_Ground_in_China__Political_and_Economic_Out.pdf",
-        "data/pdfs/20261124_1002_APAC&_Japan_Conference_Call__「半導体規制の新局面、リモートアクセス規則.pdf"
+        "data/pdfs/20261124_1202_Chips,_compute_and_crackdown__What_the_remote_acce.pdf",
+        "data/pdfs/20261124_1353_APAC_&_Japan_Conference_Call__Ian_Bremmer_on_China.pdf",
+        "data/pdfs/20261124_1359_Ian_Bremmer_on_China__Dispatches_from_Beijing.pdf",
+        "data/pdfs/20261124_1802_Spain's_Election__Can_Sánchez_Pull_Off_Another_Sur.pdf",
+        "data/pdfs/20261124_2214_Reduced_escalation_risks_will_keep_oil_prices_subd.pdf",
+        "data/pdfs/20261124_2218_Political_Risk_Monitor_-_November_2026.pdf",
+        "data/pdfs/20261125_0142_On_the_Ground_in_China__Political_and_Economic_Out.pdf",
+        "data/pdfs/20261125_0143_Russia__Moscow’s_threats_against_Estonia_aim_to_pr.pdf",
+        "data/pdfs/20261125_0227_Iran__Standoff_will_define_Trump’s_remaining_term.pdf",
+        "data/pdfs/20261125_0233_Shanghai_purge_shows_Xi's_own_appointees_get_no_pr.pdf",
+        "data/pdfs/20261125_0508_Local_elections_likely_to_boost_DPP's_2028_prospec.pdf",
+        "data/pdfs/20261125_0610_Disappointing_COP31_confirms_shift_away_from_multi.pdf",
+        "data/pdfs/20261125_0658_Iraq__Militia_disarmament_will_remain_stalled.pdf",
+        "data/pdfs/20261125_0802_Chips,_compute_and_crackdown__What_the_remote_acce.pdf",
+        "data/pdfs/20261125_1146_Daily_Research_Summary_(in_Japanese)__2026年11月25日.pdf"
       ]
     },
     {
@@ -68,117 +115,133 @@
       "color": "YEL",
       "count": 1,
       "bullets": [
-        "中東地域での流動性低下にもかかわらず、市場の十分な供給により石油価格の上昇は限定的との見通し",
-        "イラン攻撃の継続に伴い中東からの流れが2週間で減少",
-        "リモートアクセス規則とNvidia問題がアジア地域の半導体・計算領域に及ぼす影響について専門家による会議開催予定"
+        "米国の新しいチップ輸出規制がもたらす影響についてのカンファレンス開催予定",
+        "中国のAIチップアクセス制限、東南アジアのデータセンター産業への圧力、市場構図の再編について議論",
+        "地政学技術分野の専門家とグローバルマクロの専門家による分析と見通し提示"
       ],
       "subjects": [
         [
-          "2026-11-24",
-          "Daily Research Summary - Nov 23rd, 2026",
-          "data/pdfs/20261124_0835_Daily_Research_Summary_-_Nov_23rd,_2026.pdf"
+          "2026-11-25",
+          "Daily Research Summary - Nov 24th, 2026",
+          "data/pdfs/20261125_0834_Daily_Research_Summary_-_Nov_24th,_2026.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261124_0835_Daily_Research_Summary_-_Nov_23rd,_2026.pdf"
-      ]
-    },
-    {
-      "sender": "Ian",
-      "short": "IAN",
-      "color": "RED",
-      "count": 1,
-      "bullets": [
-        "APEC首脳会談におけるXi-Trump-Putin三国会談について分析",
-        "米国・中国・ロシア間の政治的な動向と立場の相違",
-        "ロシア・ウクライナ情勢とベルリンでの「有志連合」について言及",
-        "米国・インド関係の最新情報について言及"
-      ],
-      "subjects": [
-        [
-          "2026-11-23",
-          "eg update",
-          "data/pdfs/20261123_2151_eg_update.pdf"
-        ]
-      ],
-      "pdf_files": [
-        "data/pdfs/20261123_2151_eg_update.pdf"
+        "data/pdfs/20261125_0834_Daily_Research_Summary_-_Nov_24th,_2026.pdf"
       ]
     },
     {
       "sender": "POLITICO",
       "short": "POLIT",
-      "color": "ORG",
-      "count": 6,
+      "color": "RED",
+      "count": 13,
       "bullets": [
-        "欧州委員会が樹脂とガラス繊維の輸入制限につながる可能性のある調査を開始し、中国からの輸入拡大に対する新たな通商防衛アプローチを強化",
-        "アイルランド議長国が自動車メーカーに排出権の繰り越しを認める新たな柔軟性を提案し、2035年までの排出削減目標90%達成に向けた譲歩案を提示",
-        "ウクライナがロシアの遠隔地への投射能力を損なうため北アフリカを含む戦域外での攻撃を実施し、技術的進展を示す一方で外交上のリスク懸念も浮上",
-        "バスク州の左派分離主義勢力EH Bilduの台頭がマドリードの右派政権との対立局面を招く可能性",
-        "コンゴがEU諸国のルワンダへの強制送還合意が武装勢力への資金流入につながる可能性を警告"
+        "トランプ前大統領のICC問題に関する対応がヨーロッパの統一を試験するような局面に直面",
+        "ETS（排出権取引制度）改正において航空・海運業界の要望を反映した改革案が進行中で、持続可能燃料への支援拡大や収益配分の見直しが検討対象",
+        "スペイン極右政党の政権入りが懸念される中で、90年前の内戦の歴史的傷が政治議論に再浮上",
+        "ウクライナ情勢の平和解決後もロシアによるヨーロッパ中への不安定化工作が継続される可能性を警告",
+        "EUの社会民主主義勢力内でデンマーク首相の強硬な移民政策について形式的討議を実施、及びEU予算案交渉がEU議会内の極右政党の反発により難航の見通し"
       ],
       "subjects": [
         [
-          "2026-11-23",
-          "EU launches probe that could curb resin and glass fiber imports",
-          "data/pdfs/20261123_2006_EU_launches_probe_that_could_curb_resin_and_glass_.pdf"
-        ],
-        [
-          "2026-11-23",
-          "Surging left-wing Basque separatists brace for showdown with",
-          "data/pdfs/20261123_2006_Surging_left-wing_Basque_separatists_brace_for_sho.pdf"
-        ],
-        [
-          "2026-11-23",
-          "Congo warns that EU countries’ Rwanda deportation deal could",
-          "data/pdfs/20261123_2206_Congo_warns_that_EU_countries’_Rwanda_deportation_.pdf"
-        ],
-        [
-          "2026-11-23",
-          "Document: Irish presidency proposes emissions credits banking for",
-          "data/pdfs/20261123_2223_Document__Irish_presidency_proposes_emissions_cred.pdf"
+          "2026-11-24",
+          "Trump tests Europe’s resolve on the ICC",
+          "data/pdfs/20261124_1444_Trump_tests_Europe’s_resolve_on_the_ICC.pdf"
         ],
         [
           "2026-11-24",
-          "Ukraine takes the war against Russia far from its borders",
-          "data/pdfs/20261124_0108_Ukraine_takes_the_war_against_Russia_far_from_its_.pdf"
+          "TRAN caters to industry demands on ETS",
+          "data/pdfs/20261124_1512_TRAN_caters_to_industry_demands_on_ETS.pdf"
         ],
         [
           "2026-11-24",
+          "Back to 1936? Civil war ghosts haunt Spanish election campaign",
+          "data/pdfs/20261124_1735_Back_to_1936__Civil_war_ghosts_haunt_Spanish_elect.pdf"
+        ],
+        [
+          "2026-11-24",
+          "Peace in Ukraine won’t end Russian sabotage in Europe, Poland",
+          "data/pdfs/20261124_1836_Peace_in_Ukraine_won’t_end_Russian_sabotage_in_Eur.pdf"
+        ],
+        [
+          "2026-11-24",
+          "EU’s Socialists to hold formal discussion on Frederiksen’s migration",
+          "data/pdfs/20261124_2008_EU’s_Socialists_to_hold_formal_discussion_on_Frede.pdf"
+        ],
+        [
+          "2026-11-24",
+          "Right-wing revolt threatens to bog down EU budget",
+          "data/pdfs/20261124_2042_Right-wing_revolt_threatens_to_bog_down_EU_budget.pdf"
+        ],
+        [
+          "2026-11-24",
+          "Document: EU countries ease ‘Made in Europe’ rules for carmakers",
+          "data/pdfs/20261124_2116_Document__EU_countries_ease_‘Made_in_Europe’_rules.pdf"
+        ],
+        [
+          "2026-11-24",
+          "How Ukraine’s drone war is reshaping Germany’s army",
+          "data/pdfs/20261124_2205_How_Ukraine’s_drone_war_is_reshaping_Germany’s_arm.pdf"
+        ],
+        [
+          "2026-11-24",
+          "7 things to know about the EU’s hybrid vehicle quotas",
+          "data/pdfs/20261124_2350_7_things_to_know_about_the_EU’s_hybrid_vehicle_quo.pdf"
+        ],
+        [
+          "2026-11-25",
+          "BYD in talks to acquire French manufacturing plant",
+          "data/pdfs/20261125_0012_BYD_in_talks_to_acquire_French_manufacturing_plant.pdf"
+        ],
+        [
+          "2026-11-25",
+          "Snowden on steroids: AI agents in phones trigger surveillance",
+          "data/pdfs/20261125_0036_Snowden_on_steroids__AI_agents_in_phones_trigger_s.pdf"
+        ],
+        [
+          "2026-11-25",
           "Pro Daily Headlines",
-          "data/pdfs/20261124_0131_Pro_Daily_Headlines.pdf"
+          "data/pdfs/20261125_0131_Pro_Daily_Headlines.pdf"
+        ],
+        [
+          "2026-11-25",
+          "British trucker ‘wrongly banned’ under EU border system",
+          "data/pdfs/20261125_0310_British_trucker_‘wrongly_banned’_under_EU_border_s.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261123_2006_EU_launches_probe_that_could_curb_resin_and_glass_.pdf",
-        "data/pdfs/20261123_2006_Surging_left-wing_Basque_separatists_brace_for_sho.pdf",
-        "data/pdfs/20261123_2206_Congo_warns_that_EU_countries’_Rwanda_deportation_.pdf",
-        "data/pdfs/20261123_2223_Document__Irish_presidency_proposes_emissions_cred.pdf",
-        "data/pdfs/20261124_0108_Ukraine_takes_the_war_against_Russia_far_from_its_.pdf",
-        "data/pdfs/20261124_0131_Pro_Daily_Headlines.pdf"
+        "data/pdfs/20261124_1444_Trump_tests_Europe’s_resolve_on_the_ICC.pdf",
+        "data/pdfs/20261124_1512_TRAN_caters_to_industry_demands_on_ETS.pdf",
+        "data/pdfs/20261124_1735_Back_to_1936__Civil_war_ghosts_haunt_Spanish_elect.pdf",
+        "data/pdfs/20261124_1836_Peace_in_Ukraine_won’t_end_Russian_sabotage_in_Eur.pdf",
+        "data/pdfs/20261124_2008_EU’s_Socialists_to_hold_formal_discussion_on_Frede.pdf",
+        "data/pdfs/20261124_2042_Right-wing_revolt_threatens_to_bog_down_EU_budget.pdf",
+        "data/pdfs/20261124_2116_Document__EU_countries_ease_‘Made_in_Europe’_rules.pdf",
+        "data/pdfs/20261124_2205_How_Ukraine’s_drone_war_is_reshaping_Germany’s_arm.pdf",
+        "data/pdfs/20261124_2350_7_things_to_know_about_the_EU’s_hybrid_vehicle_quo.pdf",
+        "data/pdfs/20261125_0012_BYD_in_talks_to_acquire_French_manufacturing_plant.pdf",
+        "data/pdfs/20261125_0036_Snowden_on_steroids__AI_agents_in_phones_trigger_s.pdf",
+        "data/pdfs/20261125_0131_Pro_Daily_Headlines.pdf",
+        "data/pdfs/20261125_0310_British_trucker_‘wrongly_banned’_under_EU_border_s.pdf"
       ]
     },
     {
       "sender": "ビジネス短信",
       "short": "ビジネス短",
-      "color": "GRN",
+      "color": "ORG",
       "count": 1,
       "bullets": [
-        "ジェトロが上海で日本調味料を活用した中華料理メニューの提案・商談会を開催し、日本食材の中国市場での活用促進",
-        "日米など10カ国がサンフランシスコ宣言を発表し、AI時代における供給網連携の具体化に向けて協力",
-        "スペースXが米テキサス州とアリゾナ州で740億ドル超のAIコンピューティング投資を発表し、米国のAI産業強化",
-        "EUのCBAMが2027年1月からノルウェーとアイスランドに拡大され、カーボンニュートラル政策の強化",
-        "英国が人権デューディリジェンスの義務化と強制労働産品の市場排除制度を導入し、サプライチェーンの人権・労働問題対応を厳格化"
+        "要約取得に失敗しました。"
       ],
       "subjects": [
         [
-          "2026-11-24",
-          "「ジェトロ・ビジネス短信」2026/11/20付",
-          "data/pdfs/20261124_1009_「ジェトロ・ビジネス短信」2026_11_20付.pdf"
+          "2026-11-25",
+          "「ジェトロ・ビジネス短信」2026/11/24付",
+          "data/pdfs/20261125_1018_「ジェトロ・ビジネス短信」2026_11_24付.pdf"
         ]
       ],
       "pdf_files": [
-        "data/pdfs/20261124_1009_「ジェトロ・ビジネス短信」2026_11_20付.pdf"
+        "data/pdfs/20261125_1018_「ジェトロ・ビジネス短信」2026_11_24付.pdf"
       ]
     }
   ]
