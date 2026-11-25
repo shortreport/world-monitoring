@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-25 13:48 JST",
+  "updated_at": "2026-11-25 13:54 JST",
   "total": 50,
-  "toyota_summary": "Chinese automaker BYD is in talks to acquire a manufacturing plant in France from Ineos Automotive, according to reporting from Politico. The move signals BYD's intent to establish European production capacity and sidestep tariffs that the EU is preparing to impose. Starting in December, the EU will restrict hybrid vehicle imports—a direct response to Chinese automakers' growing market share—and has also relaxed \"Made in Europe\" sourcing rules to allow production in Switzerland, the UK, Iceland, Liechtenstein, and Norway.\n\nFor the global auto industry, this matters because it reshapes the competitive landscape in one of the world's largest markets. A Chinese manufacturer producing inside the EU would gain tariff-free access while European and Japanese competitors face new import barriers on hybrids. The EU is essentially forcing the industry to choose: build here or pay the tax. The Europeans are betting they can slow Chinese growth, but they may instead accelerate it by inviting direct investment.\n\nWatch whether other Chinese automakers announce European manufacturing deals in the next 60 days.",
+  "toyota_summary": "",
   "emails": [
     {
       "ts": "20261125_1146",
@@ -11,17 +11,27 @@
       "date_label": "NOV 25  11:46",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary (in Japanese): 2026年11月25日",
+      "html": "data/pdfs/20261125_1146_Daily_Research_Summary_(in_Japanese)__2026年11月25日.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_1018",
-      "sender_norm": "ビジネス短信",
+      "sender_norm": "Jetro",
       "subject": "「ジェトロ・ビジネス短信」2026/11/24付",
       "pdf": "data/pdfs/20261125_1018_「ジェトロ・ビジネス短信」2026_11_24付.pdf",
       "date_label": "NOV 25  10:18",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "\"JETRO Business Newsletter\" dated 2026/11/24",
+      "html": "data/pdfs/20261125_1018_「ジェトロ・ビジネス短信」2026_11_24付.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": "data/pdfs/20261125_1018_「ジェトロ・ビジネス短信」2026_11_24付_en.pdf"
     },
     {
       "ts": "20261125_0834",
@@ -31,7 +41,12 @@
       "date_label": "NOV 25  08:34",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Nov 24th, 2026",
+      "html": "data/pdfs/20261125_0834_Daily_Research_Summary_-_Nov_24th,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_0802",
@@ -41,7 +56,12 @@
       "date_label": "NOV 25  08:02",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Chips, compute and crackdown: What the remote access rule and Nvidia fallout mean for Asia - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261125_0802_Chips,_compute_and_crackdown__What_the_remote_acce.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_0658",
@@ -51,7 +71,12 @@
       "date_label": "NOV 25  06:58",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iraq: Militia disarmament will remain stalled",
+      "html": "data/pdfs/20261125_0658_Iraq__Militia_disarmament_will_remain_stalled.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_0610",
@@ -61,7 +86,12 @@
       "date_label": "NOV 25  06:10",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Disappointing COP31 confirms shift away from multilateral climate action",
+      "html": "data/pdfs/20261125_0610_Disappointing_COP31_confirms_shift_away_from_multi.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_0508",
@@ -71,7 +101,12 @@
       "date_label": "NOV 25  05:08",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Local elections likely to boost DPP's 2028 prospects",
+      "html": "data/pdfs/20261125_0508_Local_elections_likely_to_boost_DPP's_2028_prospec.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_0310",
@@ -81,7 +116,12 @@
       "date_label": "NOV 25  03:10",
       "read_min": 7,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "British trucker ‘wrongly banned’ under EU border system",
+      "html": "data/pdfs/20261125_0310_British_trucker_‘wrongly_banned’_under_EU_border_s.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_0233",
@@ -91,7 +131,12 @@
       "date_label": "NOV 25  02:33",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Shanghai purge shows Xi's own appointees get no protection",
+      "html": "data/pdfs/20261125_0233_Shanghai_purge_shows_Xi's_own_appointees_get_no_pr.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_0227",
@@ -101,7 +146,12 @@
       "date_label": "NOV 25  02:27",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iran: Standoff will define Trump’s remaining term",
+      "html": "data/pdfs/20261125_0227_Iran__Standoff_will_define_Trump’s_remaining_term.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_0143",
@@ -111,7 +161,12 @@
       "date_label": "NOV 25  01:43",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Russia: Moscow’s threats against Estonia aim to protect Baltic shipping",
+      "html": "data/pdfs/20261125_0143_Russia__Moscow’s_threats_against_Estonia_aim_to_pr.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_0142",
@@ -121,7 +176,12 @@
       "date_label": "NOV 25  01:42",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "On the Ground in China: Political and Economic Outlook",
+      "html": "data/pdfs/20261125_0142_On_the_Ground_in_China__Political_and_Economic_Out.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_0131",
@@ -141,7 +201,12 @@
       "date_label": "NOV 25  00:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Snowden on steroids: AI agents in phones trigger surveillance fears",
+      "html": "data/pdfs/20261125_0036_Snowden_on_steroids__AI_agents_in_phones_trigger_s.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_0012",
@@ -151,7 +216,12 @@
       "date_label": "NOV 25  00:12",
       "read_min": 2,
       "toyota": true,
-      "excerpt": "中国の自動車大手BYDがフランスのアンバック工場をイニオス・オートモーティブから買収する独"
+      "excerpt": "中国の自動車大手BYDがフランスのアンバック工場をイニオス・オートモーティブから買収する独",
+      "subject_en": "BYD in talks to acquire French manufacturing plant",
+      "html": "data/pdfs/20261125_0012_BYD_in_talks_to_acquire_French_manufacturing_plant.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_2350",
@@ -161,7 +231,12 @@
       "date_label": "NOV 24  23:50",
       "read_min": 4,
       "toyota": true,
-      "excerpt": "EUは中国の自動車産業における優位性に対抗するため、12月からハイブリッド車の輸入を制限す"
+      "excerpt": "EUは中国の自動車産業における優位性に対抗するため、12月からハイブリッド車の輸入を制限す",
+      "subject_en": "7 things to know about the EU’s hybrid vehicle quotas",
+      "html": "data/pdfs/20261124_2350_7_things_to_know_about_the_EU’s_hybrid_vehicle_quo.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_2218",
@@ -171,7 +246,12 @@
       "date_label": "NOV 24  22:18",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Political Risk Monitor - November 2026",
+      "html": "data/pdfs/20261124_2218_Political_Risk_Monitor_-_November_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_2214",
@@ -181,7 +261,12 @@
       "date_label": "NOV 24  22:14",
       "read_min": 6,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Reduced escalation risks will keep oil prices subdued",
+      "html": "data/pdfs/20261124_2214_Reduced_escalation_risks_will_keep_oil_prices_subd.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_2205",
@@ -191,7 +276,12 @@
       "date_label": "NOV 24  22:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "How Ukraine’s drone war is reshaping Germany’s army",
+      "html": "data/pdfs/20261124_2205_How_Ukraine’s_drone_war_is_reshaping_Germany’s_arm.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_2116",
@@ -201,7 +291,12 @@
       "date_label": "NOV 24  21:16",
       "read_min": 4,
       "toyota": true,
-      "excerpt": "EU加盟国は、スイス、イギリス、アイスランド、リヒテンシュタイン、ノルウェーで製造された"
+      "excerpt": "EU加盟国は、スイス、イギリス、アイスランド、リヒテンシュタイン、ノルウェーで製造された",
+      "subject_en": "Document: EU countries ease ‘Made in Europe’ rules for carmakers",
+      "html": "data/pdfs/20261124_2116_Document__EU_countries_ease_‘Made_in_Europe’_rules.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_2042",
@@ -211,7 +306,12 @@
       "date_label": "NOV 24  20:42",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Right-wing revolt threatens to bog down EU budget",
+      "html": "data/pdfs/20261124_2042_Right-wing_revolt_threatens_to_bog_down_EU_budget.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_2008",
@@ -221,7 +321,12 @@
       "date_label": "NOV 24  20:08",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU’s Socialists to hold formal discussion on Frederiksen’s migration stance",
+      "html": "data/pdfs/20261124_2008_EU’s_Socialists_to_hold_formal_discussion_on_Frede.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_1836",
@@ -231,7 +336,12 @@
       "date_label": "NOV 24  18:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Peace in Ukraine won’t end Russian sabotage in Europe, Poland warns",
+      "html": "data/pdfs/20261124_1836_Peace_in_Ukraine_won’t_end_Russian_sabotage_in_Eur.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_1802",
@@ -241,7 +351,12 @@
       "date_label": "NOV 24  18:02",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Spain's Election: Can Sánchez Pull Off Another Surprise Comeback? - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261124_1802_Spain's_Election__Can_Sánchez_Pull_Off_Another_Sur.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_1735",
@@ -251,7 +366,12 @@
       "date_label": "NOV 24  17:35",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Back to 1936? Civil war ghosts haunt Spanish election campaign",
+      "html": "data/pdfs/20261124_1735_Back_to_1936__Civil_war_ghosts_haunt_Spanish_elect.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_1512",
@@ -261,7 +381,12 @@
       "date_label": "NOV 24  15:12",
       "read_min": 12,
       "toyota": true,
-      "excerpt": "TRANはETS改正案について、航空業界と海運業界の要望に沿った意見を採択し、ETS拡大の18ヶ"
+      "excerpt": "TRANはETS改正案について、航空業界と海運業界の要望に沿った意見を採択し、ETS拡大の18ヶ",
+      "subject_en": "TRAN caters to industry demands on ETS ",
+      "html": "data/pdfs/20261124_1512_TRAN_caters_to_industry_demands_on_ETS.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_1444",
@@ -271,7 +396,12 @@
       "date_label": "NOV 24  14:44",
       "read_min": 15,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Trump tests Europe’s resolve on the ICC",
+      "html": "data/pdfs/20261124_1444_Trump_tests_Europe’s_resolve_on_the_ICC.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_1359",
@@ -281,7 +411,12 @@
       "date_label": "NOV 24  13:59",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Ian Bremmer on China: Dispatches from Beijing",
+      "html": "data/pdfs/20261124_1359_Ian_Bremmer_on_China__Dispatches_from_Beijing.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_1353",
@@ -291,7 +426,12 @@
       "date_label": "NOV 24  13:53",
       "read_min": 4,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "APAC & Japan Conference Call: Ian Bremmer on China: Dispatches from Beijing 「イアン・ブレマーが語る中国現地からの報告」（同時通訳あり）",
+      "html": "data/pdfs/20261124_1353_APAC_&_Japan_Conference_Call__Ian_Bremmer_on_China.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_1202",
@@ -301,7 +441,12 @@
       "date_label": "NOV 24  12:02",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Chips, compute and crackdown: What the remote access rule and Nvidia fallout mean for Asia - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261124_1202_Chips,_compute_and_crackdown__What_the_remote_acce.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261124_1009",
@@ -598,5 +743,6 @@
       "summary_ja": "",
       "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": ""
 }
