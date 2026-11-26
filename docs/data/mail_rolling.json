@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26 09:29 JST",
+  "updated_at": "2026-11-26 09:30 JST",
   "total": 50,
-  "toyota_summary": "China's largest EV maker is in talks to buy a manufacturing plant in France from a struggling European automaker, according to Politico. The move would give the Chinese company direct production capacity inside the European Union, bypassing tariffs and import restrictions. The EU has already moved to limit hybrid vehicle imports from China starting in December and relaxed rules around what qualifies as \"Made in Europe\" manufacturing, signaling concern about Chinese competition.\n\nFor global automakers, the deal—if completed—represents a shift in competitive geography. Chinese manufacturers have relied on exports to build market share in Europe; owning a factory changes that calculus and forces legacy automakers to compete on their home turf against a competitor with lower labor costs and established supply chains. The EU's tariff and rules changes suggest policymakers view the threat as urgent enough to alter trade policy mid-year.\n\nWatch whether other Chinese automakers pursue similar acquisition targets in Europe over the next quarter.",
+  "toyota_summary": "中国における電気航空機推進の動きは、参考情報として提供するものである。",
   "emails": [
     {
       "ts": "20261126_0843",
@@ -10,8 +10,13 @@
       "pdf": "data/pdfs/20261126_0843_US_lawmakers_reach_deal_on_bill_banning_Chinese_ve.pdf",
       "date_label": "NOV 26  08:43",
       "read_min": 6,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "US lawmakers reach deal on bill banning Chinese vehicles, upping chances for passage this year",
+      "html": "data/pdfs/20261126_0843_US_lawmakers_reach_deal_on_bill_banning_Chinese_ve.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261126_0834",
@@ -21,7 +26,12 @@
       "date_label": "NOV 26  08:34",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Daily Research Summary - Nov 25th, 2026",
+      "html": "data/pdfs/20261126_0834_Daily_Research_Summary_-_Nov_25th,_2026.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261126_0731",
@@ -31,7 +41,12 @@
       "date_label": "NOV 26  07:31",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Saudi Arabia: 2027 fiscal targets likely out of reach",
+      "html": "data/pdfs/20261126_0731_Saudi_Arabia__2027_fiscal_targets_likely_out_of_re.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261126_0641",
@@ -41,7 +56,12 @@
       "date_label": "NOV 26  06:41",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US overcapacity tariffs to restore trade deal rates",
+      "html": "data/pdfs/20261126_0641_US_overcapacity_tariffs_to_restore_trade_deal_rate.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261126_0540",
@@ -51,7 +71,12 @@
       "date_label": "NOV 26  05:40",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "India: Investment gap poses political risk for Modi",
+      "html": "data/pdfs/20261126_0540_India__Investment_gap_poses_political_risk_for_Mod.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261126_0436",
@@ -61,7 +86,12 @@
       "date_label": "NOV 26  04:36",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "India: Quota tensions fray Modi's coalition",
+      "html": "data/pdfs/20261126_0436_India__Quota_tensions_fray_Modi's_coalition.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261126_0133",
@@ -71,7 +101,12 @@
       "date_label": "NOV 26  01:33",
       "read_min": 8,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Conference call note: A conversation on the Spanish elections with Kiko Llaneras",
+      "html": "data/pdfs/20261126_0133_Conference_call_note__A_conversation_on_the_Spanis.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261126_0131",
@@ -91,7 +126,12 @@
       "date_label": "NOV 26  00:49",
       "read_min": 3,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU rejects Trump’s case for new tariffs",
+      "html": "data/pdfs/20261126_0049_EU_rejects_Trump’s_case_for_new_tariffs.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261126_0033",
@@ -101,7 +141,12 @@
       "date_label": "NOV 26  00:33",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Ukraine’s raid in Libya damaged more than a Russian warship",
+      "html": "data/pdfs/20261126_0033_Ukraine’s_raid_in_Libya_damaged_more_than_a_Russia.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_2354",
@@ -111,7 +156,12 @@
       "date_label": "NOV 25  23:54",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU Parliament’s socialists and liberals halt talks with EPP",
+      "html": "data/pdfs/20261125_2354_EU_Parliament’s_socialists_and_liberals_halt_talks.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_2341",
@@ -121,7 +171,12 @@
       "date_label": "NOV 25  23:41",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iran: Regime to use repression to endure crisis",
+      "html": "data/pdfs/20261125_2341_Iran__Regime_to_use_repression_to_endure_crisis.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_2310",
@@ -131,7 +186,12 @@
       "date_label": "NOV 25  23:10",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EU extends energy crisis state aid plan",
+      "html": "data/pdfs/20261125_2310_EU_extends_energy_crisis_state_aid_plan.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_2254",
@@ -141,7 +201,12 @@
       "date_label": "NOV 25  22:54",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "US threatens double-digit tariffs on EU, China, 12 others",
+      "html": "data/pdfs/20261125_2254_US_threatens_double-digit_tariffs_on_EU,_China,_12.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_2219",
@@ -151,7 +216,12 @@
       "date_label": "NOV 25  22:19",
       "read_min": 12,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Conference call notes: Chips, compute and crackdown",
+      "html": "data/pdfs/20261125_2219_Conference_call_notes__Chips,_compute_and_crackdow.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_2208",
@@ -161,7 +231,12 @@
       "date_label": "NOV 25  22:08",
       "read_min": 11,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Iran conflict set to continue through the remainder of Trump’s term",
+      "html": "data/pdfs/20261125_2208_Iran_conflict_set_to_continue_through_the_remainde.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_2205",
@@ -171,7 +246,12 @@
       "date_label": "NOV 25  22:05",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Meloni grapples with fallout from Ukraine’s Mediterranean strike",
+      "html": "data/pdfs/20261125_2205_Meloni_grapples_with_fallout_from_Ukraine’s_Medite.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_2118",
@@ -181,7 +261,12 @@
       "date_label": "NOV 25  21:18",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Parliament clears 7 EU budget files for negotiations",
+      "html": "data/pdfs/20261125_2118_Parliament_clears_7_EU_budget_files_for_negotiatio.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_2104",
@@ -191,7 +276,12 @@
       "date_label": "NOV 25  21:04",
       "read_min": 5,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Egypt: Energy shock exposure to persist through 2027",
+      "html": "data/pdfs/20261125_2104_Egypt__Energy_shock_exposure_to_persist_through_20.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_2009",
@@ -201,7 +291,12 @@
       "date_label": "NOV 25  20:09",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Germany braces for possible US troop cuts as Pentagon nears decision",
+      "html": "data/pdfs/20261125_2009_Germany_braces_for_possible_US_troop_cuts_as_Penta.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_1857",
@@ -211,7 +306,12 @@
       "date_label": "NOV 25  18:57",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "eg update in Japanese",
+      "html": "data/pdfs/20261125_1857_eg_update_in_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_1836",
@@ -221,7 +321,12 @@
       "date_label": "NOV 25  18:36",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "5 reasons why everyone should care about Jensen Huang’s market-moving return ​",
+      "html": "data/pdfs/20261125_1836_5_reasons_why_everyone_should_care_about_Jensen_Hu.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_1749",
@@ -231,7 +336,12 @@
       "date_label": "NOV 25  17:49",
       "read_min": 1,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Spain’s (likely) next prime minister is the polar opposite of Pedro Sánchez",
+      "html": "data/pdfs/20261125_1749_Spain’s_(likely)_next_prime_minister_is_the_polar_.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_1745",
@@ -241,7 +351,12 @@
       "date_label": "NOV 25  17:45",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Japan Angle - Japanese",
+      "html": "data/pdfs/20261125_1745_EG_Japan_Angle_-_Japanese.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_1733",
@@ -251,7 +366,12 @@
       "date_label": "NOV 25  17:33",
       "read_min": 9,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "EG Japan Angle - English",
+      "html": "data/pdfs/20261125_1733_EG_Japan_Angle_-_English.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_1602",
@@ -261,7 +381,12 @@
       "date_label": "NOV 25  16:02",
       "read_min": 2,
       "toyota": false,
-      "excerpt": ""
+      "excerpt": "",
+      "subject_en": "Spain's Election: Can Sánchez Pull Off Another Surprise Comeback? - EG Conference Call, REMINDER",
+      "html": "data/pdfs/20261125_1602_Spain's_Election__Can_Sánchez_Pull_Off_Another_Sur.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_1503",
@@ -270,8 +395,13 @@
       "pdf": "data/pdfs/20261125_1503_E-plane_developers_sound_alarm_over_China.pdf",
       "date_label": "NOV 25  15:03",
       "read_min": 12,
-      "toyota": true,
-      "excerpt": ""
+      "toyota": false,
+      "excerpt": "",
+      "subject_en": "E-plane developers sound alarm over China",
+      "html": "data/pdfs/20261125_1503_E-plane_developers_sound_alarm_over_China.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
     },
     {
       "ts": "20261125_1450",
@@ -281,6 +411,26 @@
       "date_label": "NOV 25  14:50",
       "read_min": 15,
       "toyota": false,
+      "excerpt": "",
+      "subject_en": "Security threats put Brussels on edge",
+      "html": "data/pdfs/20261125_1450_Security_threats_put_Brussels_on_edge.html",
+      "summary_en": "",
+      "summary_ja": "",
+      "summary_pdf": ""
+    },
+    {
+      "ts": "20261125_1401",
+      "sender_norm": "POLITICO",
+      "subject": "China’s electric aircraft threaten Europe’s aviation ambitions",
+      "subject_en": "China’s electric aircraft threaten Europe’s aviation ambitions",
+      "html": "data/pdfs/20261125_1401_China’s_electric_aircraft_threaten_Europe’s_aviati.html",
+      "pdf": "data/pdfs/20261125_1401_China’s_electric_aircraft_threaten_Europe’s_aviati.html",
+      "summary_en": "China's state-owned COMAC has flown a prototype electric aircraft, the CE-25A, built with battery giant CATL, raising European fears that Beijing could extend its EV battery dominance into aviation. Unlike COMAC's jet-fueled planes, which still depend on Western engines, the new aircraft could be built almost entirely with Chinese technology, threatening Europe's longstanding edge in next-generation aircraft development. Airbus downplayed the threat, saying its focus remains on much larger aircraft.",
+      "summary_ja": "中国国有企業COMACが電池大手CATLと共同開発した電動航空機「CE-25A」の試験飛行を行い、欧州の開発企業の間で中国のバッテリー優位が航空分野にも及ぶとの懸念が広がっている。従来の燃料式航空機が欧米製エンジンに依存してきたのに対し、この新型機は中国製技術だけでほぼ完結しうるため、次世代航空機開発における欧州の優位性が脅かされる可能性がある。エアバスはこの脅威を軽視し、自社はより大型の航空機に注力していると述べた。",
+      "summary_pdf": "",
+      "date_label": "NOV 25  14:01",
+      "read_min": 6,
+      "toyota": true,
       "excerpt": ""
     },
     {
@@ -307,7 +457,7 @@
       "read_min": 1,
       "toyota": false,
       "excerpt": "",
-      "subject_en": "\"JETRO Business Newsletter\" dated 2026/11/24",
+      "subject_en": "JETRO Business Brief November 24, 2026",
       "html": "data/pdfs/20261125_1018_「ジェトロ・ビジネス短信」2026_11_24付.html",
       "summary_en": "",
       "summary_ja": "",
@@ -499,8 +649,8 @@
       "excerpt": "中国の自動車大手BYDがフランスのアンバック工場をイニオス・オートモーティブから買収する独",
       "subject_en": "BYD in talks to acquire French manufacturing plant",
       "html": "data/pdfs/20261125_0012_BYD_in_talks_to_acquire_French_manufacturing_plant.html",
-      "summary_en": "",
-      "summary_ja": "",
+      "summary_en": "BYD is in exclusive talks to buy Ineos Automotive's factory in Hambach, France, marking its first acquisition of an existing European car plant. The move would help BYD meet new EU local-content rules under the Industrial Accelerator Act while expanding its European footprint amid overcapacity and weak demand at home. The deal follows BYD's Hungary plant and contrasts with rivals like Leapmotor, which are partnering with European automakers such as Stellantis instead.",
+      "summary_ja": "BYDは英アイニオス・オートモーティブが所有するフランス・アンバックの工場買収に向けて独占交渉を進めており、実現すれば欧州の既存自動車工場を買収する初の事例となる。これはEUの「産業加速化法」に基づく新たな域内調達要件への対応であり、中国国内の過剰生産能力と需要低迷を背景に欧州展開を強化する狙いがある。BYDはハンガリーでも新工場を建設中で、リープモーターがステランティスと提携する欧州進出戦略とは対照的なアプローチを取っている。",
       "summary_pdf": ""
     },
     {
@@ -574,8 +724,8 @@
       "excerpt": "EU加盟国は、スイス、イギリス、アイスランド、リヒテンシュタイン、ノルウェーで製造された",
       "subject_en": "Document: EU countries ease ‘Made in Europe’ rules for carmakers",
       "html": "data/pdfs/20261124_2116_Document__EU_countries_ease_‘Made_in_Europe’_rules.html",
-      "summary_en": "",
-      "summary_ja": "",
+      "summary_en": "EU member states have broadened proposed 'Made in Europe' eligibility rules for carmakers, allowing vehicles and parts assembled in Switzerland, the UK, and EEA states like Norway to qualify for public procurement support, not just EU-made goods. The move is tied to a separate Automotive Package negotiation that would ease the 2035 combustion engine ban and introduce emissions 'supercredits' favoring small EVs made in Europe. The shift reflects pressure to protect the bloc's auto industry while navigating complex trade and climate policy trade-offs.",
+      "summary_ja": "EU加盟国は「メイド・イン・ヨーロッパ」要件を緩和し、スイスや英国、ノルウェーなどEEA諸国で組み立てられた車両・部品も公共調達支援の対象となる見通しとなった。この措置は、2035年の事実上のガソリン車禁止を緩和し、欧州製の小型EVに有利な排出量「スーパークレジット」を導入する自動車パッケージの交渉とも密接に関連している。欧州の自動車産業を保護しつつ、貿易・気候政策の両立を図る狙いがある。",
       "summary_pdf": ""
     },
     {
@@ -592,21 +742,7 @@
       "summary_en": "",
       "summary_ja": "",
       "summary_pdf": ""
-    },
-    {
-      "ts": "20261124_2008",
-      "sender_norm": "POLITICO",
-      "subject": "EU’s Socialists to hold formal discussion on Frederiksen’s migration",
-      "pdf": "data/pdfs/20261124_2008_EU’s_Socialists_to_hold_formal_discussion_on_Frede.pdf",
-      "date_label": "NOV 24  20:08",
-      "read_min": 1,
-      "toyota": false,
-      "excerpt": "",
-      "subject_en": "EU’s Socialists to hold formal discussion on Frederiksen’s migration stance",
-      "html": "data/pdfs/20261124_2008_EU’s_Socialists_to_hold_formal_discussion_on_Frede.html",
-      "summary_en": "",
-      "summary_ja": "",
-      "summary_pdf": ""
     }
-  ]
+  ],
+  "toyota_summary_en": "China’s electric aircraft push is provided for reference."
 }
